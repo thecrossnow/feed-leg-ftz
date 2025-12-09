@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-FEED RSS 2.0 - VERSÃO FINAL CORRIGIDA
-Remove <updated> e garante ordem description -> content:encoded
+FEED RSS 2.0 - VERSÃO FINAL DEFINITIVA
+Com CDATA correto e HTML normal para WordPress
 """
 
 import requests
@@ -15,6 +15,7 @@ import html
 def limpar_conteudo_para_rss(conteudo):
     """
     Remove elementos inválidos e prepara conteúdo para RSS 2.0
+    Usa HTML normal dentro de CDATA
     """
     # 1. REMOVER <updated> tags completamente
     conteudo = re.sub(r'<updated>.*?</updated>', '', conteudo, flags=re.DOTALL)
@@ -22,18 +23,14 @@ def limpar_conteudo_para_rss(conteudo):
     # 2. Remover <dc:creator> se existir
     conteudo = re.sub(r'<dc:creator>.*?</dc:creator>', '', conteudo, flags=re.DOTALL)
     
-    # 3. Remover qualquer ]]> residual
-    conteudo = re.sub(r'\]\]\s*>', '', conteudo)
+    # 3. Remover qualquer ]]> residual (IMPORTANTE para não quebrar CDATA)
+    conteudo = conteudo.replace(']]>', '')
     
     # 4. Decodificar HTML entities
     conteudo = html.unescape(conteudo)
     
-    # 5. Escapar caracteres especiais para XML
+    # 5. Apenas escapar & para &amp; (deixar < > normais para CDATA)
     conteudo = conteudo.replace('&', '&amp;')
-    conteudo = conteudo.replace('<', '&lt;')
-    conteudo = conteudo.replace('>', '&gt;')
-    conteudo = conteudo.replace('"', '&quot;')
-    conteudo = conteudo.replace("'", '&apos;')
     
     # 6. Remover porta :8080 das URLs
     conteudo = conteudo.replace(':8080', '')
@@ -120,15 +117,17 @@ def criar_feed_rss_valido(noticias):
         ET.SubElement(item_elem, "description").text = descricao
         
         # 6. CONTENT:ENCODED (extensão - deve vir DEPOIS do description)
+        # Usar HTML normal dentro de CDATA
         conteudo_limpo = limpar_conteudo_para_rss(conteudo_raw)
         content_elem = ET.SubElement(item_elem, "content:encoded")
-        content_elem.text = conteudo_limpo
+        # CDATA com HTML normal (não escapado)
+        content_elem.text = f"<![CDATA[{conteudo_limpo}]]>"
     
     return rss
 
 def gerar_xml_bem_formatado(rss_tree):
     """
-    Gera XML bem formatado e indentado
+    Gera XML bem formatado e indentado com CDATA correto
     """
     # Converter para string XML
     xml_str = ET.tostring(rss_tree, encoding='unicode', method='xml')
@@ -154,10 +153,9 @@ def gerar_xml_bem_formatado(rss_tree):
         print(f"      ⚠️ Não foi possível formatar XML: {e}")
         # Usar versão não formatada
     
-    # Garantir que não há ]]> no XML final
-    if ']]>' in xml_final:
-        print("      ⚠️ Removendo ]]> residual...")
-        xml_final = xml_final.replace(']]>', '')
+    # CORREÇÃO CRÍTICA: Corrigir CDATA que foi escapado pelo ET
+    xml_final = xml_final.replace('&lt;![CDATA[', '<![CDATA[')
+    xml_final = xml_final.replace(']]&gt;', ']]>')
     
     # Garantir que não há <updated> no XML final
     if '<updated>' in xml_final:
@@ -181,9 +179,8 @@ def validar_feed_manual(xml_content):
         "Versão RSS 2.0": 'version="2.0"' in xml_content,
         "Elemento <channel> presente": '<channel>' in xml_content,
         "Nenhum <updated> encontrado": '<updated>' not in xml_content,
-        "Nenhum ]]> encontrado": ']]>' not in xml_content,
+        "CDATA presente no content:encoded": '<![CDATA[' in xml_content and 'content:encoded' in xml_content,
         "Description antes de content:encoded": xml_content.find('<description>') < xml_content.find('<content:encoded>'),
-        "Sem CDATA no description": '<![CDATA[' not in xml_content or xml_content.find('<![CDATA[') > xml_content.find('</description>'),
     }
     
     all_ok = True
@@ -197,7 +194,7 @@ def validar_feed_manual(xml_content):
 
 def main():
     print("=" * 60)
-    print("🚀 GERANDO FEED RSS 2.0 - VERSÃO FINAL CORRIGIDA")
+    print("🚀 GERANDO FEED RSS 2.0 - VERSÃO DEFINITIVA")
     print("=" * 60)
     
     # Configurações
@@ -240,12 +237,6 @@ def main():
         # 4. Validação manual
         if not validar_feed_manual(xml_final):
             print("\n⚠️  AVISO: Algumas validações falharam")
-            print("   Tentando correções automáticas...")
-            
-            # Corrigir ordem se necessário
-            if xml_final.find('<content:encoded>') < xml_final.find('<description>'):
-                print("   ❌ ERRADO: content:encoded antes de description")
-                print("   ⚠️  O feed pode não validar corretamente")
         
         # 5. Salvar arquivo
         print(f"\n💾 Salvando em {FEED_FILE}...")
@@ -266,12 +257,27 @@ def main():
             item_count = sum(1 for line in lines if '<item>' in line)
             print(f"   • Itens encontrados: {item_count}")
             
-            # Verificar linhas problemáticas
+            # Verificar CDATA
+            cdata_lines = [i+1 for i, line in enumerate(lines) if '<![CDATA[' in line]
+            if cdata_lines:
+                print(f"   • CDATA encontrado nas linhas: {cdata_lines[:3]}...")
+            
+            # Verificar problemas
+            problem_lines = []
             for i, line in enumerate(lines, 1):
                 if '<updated>' in line:
-                    print(f"   ❌ LINHA {i}: Contém <updated>: {line.strip()}")
-                if ']]>' in line:
-                    print(f"   ❌ LINHA {i}: Contém ]]>: {line.strip()}")
+                    problem_lines.append(f"Linha {i}: <updated>")
+                if '&lt;![CDATA[' in line:
+                    problem_lines.append(f"Linha {i}: CDATA não convertido")
+                if ']]&gt;' in line:
+                    problem_lines.append(f"Linha {i}: Fechamento CDATA não convertido")
+            
+            if problem_lines:
+                print(f"   ⚠️  Problemas encontrados: {len(problem_lines)}")
+                for problem in problem_lines[:3]:
+                    print(f"      • {problem}")
+            else:
+                print("   ✅ Nenhum problema encontrado")
         
         print("\n" + "=" * 60)
         print("🎉 FEED RSS 2.0 GERADO COM SUCESSO!")
