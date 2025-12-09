@@ -1,51 +1,93 @@
 name: Update RSS Feed
+
 on:
   schedule:
-    - cron: '0 */6 * * *'  # A cada 6 horas
-  workflow_dispatch:       # Execução manual
+    - cron: '0 */2 * * *'  # A cada 2 horas (mais frequente para testes)
+  workflow_dispatch:        # Execução manual
   push:
     paths:
-      - 'update_feed.py'   # Executar quando este arquivo mudar
+      - 'update_feed.py'
+      - '.github/workflows/**'
 
 jobs:
   update-feed:
     runs-on: ubuntu-latest
     
+    # PERMISSÕES ESPECÍFICAS
+    permissions:
+      contents: write  # ESSENCIAL: permite push no repositório
+    
     steps:
-      - name: Checkout repository
+      - name: 📥 Checkout do código
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.FEED_UPDATE_TOKEN }}
-          fetch-depth: 0  # Importante para pegar todo o histórico
+          # Usar o token padrão do GitHub
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # IMPORTANTE: persistir credenciais para fazer push depois
+          persist-credentials: true
+          # Trazer todo o histórico
+          fetch-depth: 0
           
-      - name: Set up Python
+      - name: 🐍 Configurar Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
           
-      - name: Install dependencies
+      - name: 📦 Instalar dependências
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml
+          echo "✅ Dependências instaladas"
           
-      - name: Run feed updater
+      - name: 🔄 Executar script de atualização
         run: |
+          echo "🔄 Iniciando atualização do feed..."
           python update_feed.py
           
-      - name: Check if feed.xml changed
+      - name: 📊 Verificar alterações
         id: check-changes
         run: |
-          if git diff --name-only HEAD~1 | grep -q "feed.xml"; then
+          # Verifica se o feed.xml foi modificado
+          if [[ -n "$(git status --porcelain feed.xml)" ]]; then
+            echo "✅ feed.xml foi modificado"
             echo "changed=true" >> $GITHUB_OUTPUT
           else
+            echo "ℹ️ Nenhuma alteração no feed.xml"
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
           
-      - name: Commit and push if changed
+      - name: 💾 Commitar alterações (se houver)
         if: steps.check-changes.outputs.changed == 'true'
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          echo "📝 Preparando commit..."
+          
+          # Configurar git
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Adicionar apenas o feed.xml
           git add feed.xml
-          git commit -m "📰 Atualização automática do feed - $(date +'%d/%m/%Y %H:%M:%S')"
-          git push
+          
+          # Fazer commit
+          COMMIT_DATE=$(date +'%d/%m/%Y %H:%M:%S')
+          git commit -m "📰 Atualização automática do feed - $COMMIT_DATE" || echo "⚠️ Nada para commitar"
+          
+          # Mostrar status
+          git status
+          echo "📤 Fazendo push..."
+          
+      - name: 🚀 Fazer push das alterações
+        if: steps.check-changes.outputs.changed == 'true'
+        run: |
+          # Fazer push das alterações
+          git push origin main
+          echo "✅ Push realizado com sucesso!"
+          
+      - name: ✅ Finalização
+        run: |
+          echo "================================"
+          echo "✅ Workflow concluído!"
+          echo "📅 Hora: $(date)"
+          echo "📁 Arquivo: feed.xml"
+          echo "🔗 URL: https://thecrossnow.github.io/feed-leg-ftz/feed.xml"
+          echo "================================"
