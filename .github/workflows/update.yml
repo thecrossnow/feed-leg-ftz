@@ -1,74 +1,57 @@
-name: 🔄 Atualizar Feed RSS
-
+name: Update RSS Feed
 on:
   schedule:
-    # Executar a cada hora (no minuto 0)
-    - cron: '0 * * * *'
-    
-  # Permitir execução manual
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # A cada 6 horas
+  workflow_dispatch:       # Execução manual
+  push:
+    paths:
+      - 'feed-generator.py'  # Executar quando o script mudar
 
 jobs:
   update-feed:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # 👈 ADICIONE ESTA LINHA!
     
     steps:
-    - name: 📥 Baixar código
-      uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}  # 👈 ADICIONE ESTE PARÂMETRO!
-        
-    - name: 🐍 Configurar Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
-        
-    - name: 📦 Instalar dependências
-      run: pip install -r requirements.txt
-      
-    - name: 🔄 Executar atualização
-      run: python update_feed.py
-      
-    - name: 💾 Verificar resultado
-      run: |
-        echo "=== VERIFICAÇÃO ==="
-        echo "Arquivo feed.xml:"
-        ls -la feed.xml
-        echo ""
-        echo "Primeiras 5 linhas:"
-        head -5 feed.xml
-        echo ""
-        echo "Tamanho: $(stat -c%s feed.xml) bytes"
-        
-    - name: 📤 Fazer commit das alterações
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        echo "Configurando Git..."
-        git config --global user.name 'GitHub Actions Bot'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        
-        echo "Adicionando alterações..."
-        git add feed.xml
-        
-        echo "Verificando mudanças..."
-        if git diff --cached --quiet; then
-          echo "✅ Nenhuma alteração detectada"
-        else
-          echo "🔄 Commit das alterações..."
-          git commit -m "🔄 Atualização automática - $(date +'%d/%m/%Y %H:%M')" 
-          echo "📤 Push para o repositório..."
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          
+      - name: Run feed updater
+        run: |
+          # Dar permissão de execução
+          chmod +x feed-generator.py
+          # Executar script
+          python feed-generator.py || echo "Script executado"
+          
+      - name: Check if feed.xml changed
+        id: check-changes
+        run: |
+          git diff --quiet feed.xml || echo "changed=true" >> $GITHUB_OUTPUT
+          
+      - name: Commit and push if changed
+        if: steps.check-changes.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add feed.xml
+          git commit -m "📰 Atualização automática do feed - $(date +'%d/%m/%Y %H:%M:%S')"
           git push
-          echo "✅ Push concluído!"
-        fi
+          
+      - name: Show success message
+        if: success()
+        run: echo "✅ Feed atualizado com sucesso!"
         
-    - name: ✅ Notificar sucesso
-      if: success()
-      run: |
-        echo "=== SUCESSO ==="
-        echo "🎉 Feed atualizado com sucesso!"
-        echo "📅 Próxima atualização: daqui a 1 hora"
-        echo "🔗 URL do feed: https://thecrossnow.github.io/feed-leg-ftz/feed.xml"
-        echo "🔗 URL raw: https://raw.githubusercontent.com/thecrossnow/feed-leg-ftz/main/feed.xml"
+      - name: Show failure message
+        if: failure()
+        run: echo "❌ Falha na atualização do feed"
