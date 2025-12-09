@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Câmara Municipal de Fortaleza</title>
     <link>https://www.cmfor.ce.gov.br</link>
     <description>Notícias Oficiais da Câmara Municipal de Fortaleza</description>
     <language>pt-br</language>
-    <generator>GitHub Actions</generator>
-    <!-- Feed gerado em: 09/12/2025 19:57:01 -->
-    <!-- Timestamp: 1765310221 -->
-    <lastBuildDate>Tue, 09 Dec 2025 19:57:01 +0000</lastBuildDate>
-    <ttl>5</ttl>
+    <generator>GitHub Actions com Imagens</generator>
+    <lastBuildDate>Tue, 09 Dec 2025 20:06:24 +0000</lastBuildDate>
+    <ttl>30</ttl>
     <atom:link href="https://thecrossnow.github.io/feed-leg-ftz/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Câmara aprova desconto de 50% no IPVA e regras para motocicletas por aplicativo</title>
+      <title>Câmara aprova desconto de 50% no IPVA para motocicletas por aplicativo</title>
       <link>https://www.cmfor.ce.gov.br/2025/12/09/camara-aprova-desconto-de-50-no-ipva-e-regras-para-motocicletas-por-aplicativo/</link>
-      <guid>cmfor-881eea62a50ea7569350cc5d23475211</guid>
-    <enclosure url="https://www.cmfor.ce.gov.br/wp-content/uploads/2024/01/logo-cmfor.png" type="image/jpeg" length="50000" />
+      <guid>cmfor-img-a4bc1edeac50c3a4598d8880040db4ab</guid>
+      <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_7141-scaled.jpg" type="image/jpeg" length="100000" />
+      <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_7141-scaled.jpg" medium="image" type="image/jpeg">
+        <media:title type="plain">Câmara aprova desconto de 50% no IPVA para motocicletas por aplicativo</media:title>
+        <media:description type="plain">Em sessão extraordinária nesta terça-feira, 9, a Câmara de Fortaleza aprovou, em redação final, os projetos de lei que regulamentam o serviço de transporte de passageiros por meio de motocicletas e de</media:description>
+        <media:thumbnail url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_7141-scaled.jpg" />
+      </media:content>
       <pubDate>Tue, 09 Dec 2025 16:04:07 +0000</pubDate>
       <description>Em sessão extraordinária nesta terça-feira, 9, a Câmara de Fortaleza aprovou, em redação final, os projetos de lei que regulamentam o serviço de transporte de passageiros por meio de motocicletas e de entrega de mercadorias intermediados por aplicati...</description>
-      <content:encoded><![CDATA[
+      <content:encoded><![CDATA[<p><img src="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_7141-scaled.jpg" alt="Câmara aprova desconto de 50% no IPVA para motocicletas por aplicativo" style="max-width: 100%; height: auto; margin-bottom: 20px;" /></p>
+
 <p class="has-medium-font-size">Em sessão extraordinária nesta terça-feira, 9, a Câmara de Fortaleza aprovou, em redação final, os projetos de lei que regulamentam o serviço de transporte de passageiros por meio de motocicletas e de entrega de mercadorias intermediados por aplicativos, e a criação de um Programa Municipal de Incentivo que concede 50% de subsídio no IPVA para os profissionais do setor.  As propostas (<a href="https://sapl.fortaleza.ce.leg.br/media/sapl/public/materialegislativa/2025/109711/pl07372025.pdf">PLOs nº 737/2025</a> e <a href="https://sapl.fortaleza.ce.leg.br/media/sapl/public/materialegislativa/2025/109723/pl07392025.pdf">nº 739/2025</a>) apresentadas foram debatidas com representantes dos profissionais, como destacou o líder do Governo, vereador Bruno Mesquita (PSD).  </p>
 
 
@@ -27,7 +31,7 @@
 
 
 
-<p class="has-medium-font-size">&#8220;Quero começar falando sobre um processo histórico de luta e diálogo. Desde terça-feira da semana passada, quando iniciamos as conversas com a categoria, saímos de lá com 90% dos pleitos atendidos, os outros 10% que não foram atendidos são porque infringiam as leis do Contran (Conselho Nacional de Trânsito)&#8221;, destacou Bruno Mesquita. </p>
+<p class="has-medium-font-size">&#8220;Quero começar falando sobre um processo histórico de luta e diálogo. Desde terça-feira da semana passada, quando iniciamos as conversas com a categoria, saímos de lá com&nbsp;90% dos pleitos atendidos, os outros 10% que não foram atendidos são porque infringiam as leis do Contran (Conselho Nacional de Trânsito)&#8221;, destacou Bruno Mesquita. </p>
 
 
 
@@ -35,7 +39,7 @@
 
 
 
-<ul><li><a href="https://sapl.fortaleza.ce.leg.br/media/sapl/public/documentoacessorio/2025/45331/pl07372025.em0015.pdf">Emenda modificativa nº 15 ao PLO nº 737/2025 </a> de autoria do vereador Jânio Henrique (PDT): Ampliação da validade dos veículos conforme as plataformas, passando de 10 a 15 anos.</li><li><a href="https://sapl.fortaleza.ce.leg.br/media/sapl/public/documentoacessorio/2025/45347/pl07372025.em0017.pdf">Emenda modificativa nº 17 ao PLO nº 737/2025</a> de autoria do vereador Marco Paulo (Progressistas): Aumentou de 12 (doze) para 18 (dezoito) meses o prazo para adequação junto ao Município, com cadastro municipal e autorização do veículo para utilização em transporte remunerado privado individual de passageiros e em entrega de mercadorias. </li><li><a href="https://sapl.fortaleza.ce.leg.br/media/sapl/public/documentoacessorio/2025/45320/pl07372025.em0004.pdf">Emenda modificativa nº 004/2025 ao PLO nº 737/2025</a> de autoria do vereador Professor Enilson que tornou flexível a parte visual dos veículos e assegura o serviço de entrega de mercadorias por bicicletas, desde que observadas as regulamentações desta lei e do Código de Trânsito Brasileiro.</li></ul>
+<ul><li><a href="https://sapl.fortaleza.ce.leg.br/media/sapl/public/documentoacessorio/2025/45331/pl07372025.em0015.pdf">Emenda modificativa nº 15 ao PLO nº 737/2025 </a> de autoria do vereador Jânio Henrique&nbsp;(PDT): Ampliação da validade dos veículos conforme as plataformas, passando de 10 a 15 anos.</li><li><a href="https://sapl.fortaleza.ce.leg.br/media/sapl/public/documentoacessorio/2025/45347/pl07372025.em0017.pdf">Emenda modificativa nº 17 ao PLO nº 737/2025</a> de autoria do vereador Marco Paulo&nbsp;(Progressistas): Aumentou de 12 (doze) para 18 (dezoito) meses o prazo para adequação junto ao Município, com cadastro municipal e autorização do veículo para utilização em transporte remunerado privado individual de passageiros e em entrega de mercadorias. </li><li><a href="https://sapl.fortaleza.ce.leg.br/media/sapl/public/documentoacessorio/2025/45320/pl07372025.em0004.pdf">Emenda modificativa nº 004/2025 ao PLO nº 737/2025</a> de autoria do vereador Professor Enilson que tornou&nbsp;flexível a parte visual dos veículos e assegura o serviço de entrega de mercadorias por bicicletas, desde que observadas as regulamentações desta lei e do Código de Trânsito Brasileiro.</li></ul>
 
 
 
@@ -85,11 +89,17 @@
     <item>
       <title>Procuradoria da Mulher realiza “Futebol Delas” em mobilização pelo combate à violência contra a mulher</title>
       <link>https://www.cmfor.ce.gov.br/2025/12/09/procuradoria-da-mulher-realiza-futebol-delas-em-mobilizacao-pelo-combate-a-violencia-contra-a-mulher/</link>
-      <guid>cmfor-d21630387a9b9b41fb32547c0c3f3664</guid>
-    <enclosure url="https://www.cmfor.ce.gov.br/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-09-at-10.16.02-1024x682.jpeg" type="image/jpeg" length="50000" />
+      <guid>cmfor-img-c0cae52cace0af5e9cdb7a693fd642a1</guid>
+      <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-09-at-10.15.44-1.jpeg" type="image/jpeg" length="100000" />
+      <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-09-at-10.15.44-1.jpeg" medium="image" type="image/jpeg">
+        <media:title type="plain">Procuradoria da Mulher realiza “Futebol Delas” em mobilização pelo combate à violência contra a mulh</media:title>
+        <media:description type="plain">A Procuradoria Especial da Mulher da Câmara de Fortaleza realizou, na noite desta segunda-feira, 08, na Areninha do Antônio Bezerra, o “Futebol Delas”, entre os times femininos da Guarda Municipal e d</media:description>
+        <media:thumbnail url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-09-at-10.15.44-1.jpeg" />
+      </media:content>
       <pubDate>Tue, 09 Dec 2025 15:37:52 +0000</pubDate>
       <description>A Procuradoria Especial da Mulher da Câmara de Fortaleza realizou, na noite desta segunda-feira, 08, na Areninha do Antônio Bezerra, o “Futebol Delas”, entre os times femininos da Guarda Municipal e da Polícia Militar. O evento, em parceria com a Pre...</description>
-      <content:encoded><![CDATA[
+      <content:encoded><![CDATA[<p><img src="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-09-at-10.15.44-1.jpeg" alt="Procuradoria da Mulher realiza “Futebol Delas” em mobilização pelo combate à violência contra a mulher" style="max-width: 100%; height: auto; margin-bottom: 20px;" /></p>
+
 <p class="has-medium-font-size"> A Procuradoria Especial da Mulher da Câmara de Fortaleza realizou, na noite desta segunda-feira, 08, na Areninha do Antônio Bezerra, o “Futebol Delas”, entre os times femininos da Guarda Municipal e da Polícia Militar. O evento, em parceria com a Prefeitura de Fortaleza, por meio da Secretaria das Mulheres, integra a campanha “21 Dias de Ativismo pelo Fim da Violência contra a Mulher” e busca conscientizar a sociedade sobre o tema.</p>
 
 
@@ -140,11 +150,17 @@
     <item>
       <title>Presidente Leo Couto faz balanço de gestão e anuncia novas ações para 2026 no programa Fortaleza Agora</title>
       <link>https://www.cmfor.ce.gov.br/2025/12/09/presidente-leo-couto-faz-balanco-de-gestao-e-anuncia-novas-acoes-para-2026-no-programa-fortaleza-agora/</link>
-      <guid>cmfor-4937e3b3f4fc3de0a6fdce7f74a67f0b</guid>
-    <enclosure url="https://www.cmfor.ce.gov.br/wp-content/uploads/2025/09/IMG_2168-1024x683.jpg" type="image/jpeg" length="50000" />
+      <guid>cmfor-img-e210630bd4e3639fa86809095f73686c</guid>
+      <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_9496-scaled.jpg" type="image/jpeg" length="100000" />
+      <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_9496-scaled.jpg" medium="image" type="image/jpeg">
+        <media:title type="plain">Presidente Leo Couto faz balanço de gestão e anuncia novas ações para 2026 no programa Fortaleza Ago</media:title>
+        <media:description type="plain">Na manhã desta terça-feira, 09, o presidente da Câmara de Fortaleza, vereador Leo Couto (PSB), participou do programa Fortaleza Agora para apresentar um balanço das principais realizações da Casa em 2</media:description>
+        <media:thumbnail url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_9496-scaled.jpg" />
+      </media:content>
       <pubDate>Tue, 09 Dec 2025 14:10:26 +0000</pubDate>
       <description>Na manhã desta terça-feira, 09, o presidente da Câmara de Fortaleza, vereador Leo Couto (PSB), participou do programa Fortaleza Agora para apresentar um balanço das principais realizações da Casa em 2025. Durante a entrevista, o presidente destacou o...</description>
-      <content:encoded><![CDATA[
+      <content:encoded><![CDATA[<p><img src="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_9496-scaled.jpg" alt="Presidente Leo Couto faz balanço de gestão e anuncia novas ações para 2026 no programa Fortaleza Agora" style="max-width: 100%; height: auto; margin-bottom: 20px;" /></p>
+
 <p class="has-medium-font-size">Na manhã desta terça-feira, 09, o presidente da Câmara de Fortaleza, vereador Leo Couto (PSB), participou do programa <em>Fortaleza Agora</em> para apresentar um balanço das principais realizações da Casa em 2025. Durante a entrevista, o presidente destacou os avanços alcançados, enfatizou a relevância do trabalho em equipe e anunciou novas ações para 2026.</p>
 
 
@@ -281,11 +297,17 @@
     <item>
       <title>Câmara leva estrutura completa de serviços e lazer a Messejana com o “Nossa Casa é de Todos”</title>
       <link>https://www.cmfor.ce.gov.br/2025/12/09/camara-leva-estrutura-completa-de-servicos-e-lazer-a-messejana-com-o-nossa-casa-e-de-todos/</link>
-      <guid>cmfor-37ac20214e8e3449824d65615d0b5cb7</guid>
-    <enclosure url="https://www.cmfor.ce.gov.br/wp-content/uploads/2025/12/54957394111_8c64ebf853_c.jpg" type="image/jpeg" length="50000" />
+      <guid>cmfor-img-d2402a4166998ba7c221da54b7c384fa</guid>
+      <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/54956497257_bee5edb41a_b.jpg" type="image/jpeg" length="100000" />
+      <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/54956497257_bee5edb41a_b.jpg" medium="image" type="image/jpeg">
+        <media:title type="plain">Câmara leva estrutura completa de serviços e lazer a Messejana com o “Nossa Casa é de Todos”</media:title>
+        <media:description type="plain">Nos dias 12 e 13 de dezembro, os moradores de Messejana contarão com uma estrutura completa voltada à cidadania, acolhimento e proximidade com o Legislativo. A quarta edição do “Nossa Casa é de Todos”</media:description>
+        <media:thumbnail url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/54956497257_bee5edb41a_b.jpg" />
+      </media:content>
       <pubDate>Tue, 09 Dec 2025 12:12:24 +0000</pubDate>
       <description>Nos dias 12 e 13 de dezembro, os moradores de Messejana contarão com uma estrutura completa voltada à cidadania, acolhimento e proximidade com o Legislativo. A quarta edição do “Nossa Casa é de Todos”, iniciativa coordenada pela Câmara de Fortaleza, ...</description>
-      <content:encoded><![CDATA[
+      <content:encoded><![CDATA[<p><img src="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/54956497257_bee5edb41a_b.jpg" alt="Câmara leva estrutura completa de serviços e lazer a Messejana com o “Nossa Casa é de Todos”" style="max-width: 100%; height: auto; margin-bottom: 20px;" /></p>
+
 <p class="has-medium-font-size">Nos dias 12 e 13 de dezembro, os moradores de Messejana contarão com uma estrutura completa voltada à cidadania, acolhimento e proximidade com o Legislativo. A quarta edição do “Nossa Casa é de Todos”, iniciativa coordenada pela Câmara de Fortaleza, ocupará a Areninha do Conjunto São Bernardo com dezenas de serviços gratuitos, atividades educativas, programação cultural e ações voltadas ao empreendedorismo local. O evento reúne órgãos municipais, estaduais e parceiros institucionais.</p>
 
 
@@ -380,11 +402,17 @@
     <item>
       <title>Jorge Pinheiro propõe criação do Plano de Revitalização e Urbanização da Lagoa Seca</title>
       <link>https://www.cmfor.ce.gov.br/2025/12/09/jorge-pinheiro-propoe-a-criacao-do-plano-de-revitalizacao-e-urbanizacao-da-lagoa-seca/</link>
-      <guid>cmfor-7fdf2fa93932744d1db347b4e1b74666</guid>
-    <enclosure url="https://www.cmfor.ce.gov.br/wp-content/uploads/2024/01/logo-cmfor.png" type="image/jpeg" length="50000" />
+      <guid>cmfor-img-caf03c4b5180734c438cad731da66817</guid>
+      <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/05/Vereador-Jorge-Pinheiro-1-1.jpg" type="image/jpeg" length="100000" />
+      <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/05/Vereador-Jorge-Pinheiro-1-1.jpg" medium="image" type="image/jpeg">
+        <media:title type="plain">Jorge Pinheiro propõe criação do Plano de Revitalização e Urbanização da Lagoa Seca</media:title>
+        <media:description type="plain">Em tramitação na Comissão de Constituição e Justiça, a Indicação nº 0968/25, apresentada pelo vereador Jorge Pinheiro (PSDB), sugere a criação do Plano de Revitalização e Urbanização da Lagoa Seca, no</media:description>
+        <media:thumbnail url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/05/Vereador-Jorge-Pinheiro-1-1.jpg" />
+      </media:content>
       <pubDate>Tue, 09 Dec 2025 09:08:00 +0000</pubDate>
       <description>Em tramitação na Comissão de Constituição e Justiça, a Indicação nº 0968/25, apresentada pelo vereador Jorge Pinheiro (PSDB), sugere a criação do Plano de Revitalização e Urbanização da Lagoa Seca, no bairro Edson Queiroz. A iniciativa tem como objet...</description>
-      <content:encoded><![CDATA[
+      <content:encoded><![CDATA[<p><img src="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/05/Vereador-Jorge-Pinheiro-1-1.jpg" alt="Jorge Pinheiro propõe criação do Plano de Revitalização e Urbanização da Lagoa Seca" style="max-width: 100%; height: auto; margin-bottom: 20px;" /></p>
+
 <p class="has-medium-font-size">Em tramitação na Comissão de Constituição e Justiça, a <a href="https://sapl.fortaleza.ce.leg.br/media/sapl/public/materialegislativa/2025/102291/in09682025.pdf">Indicação nº 0968/25</a>, apresentada pelo vereador Jorge Pinheiro (PSDB), sugere a criação do Plano de Revitalização e Urbanização da Lagoa Seca, no bairro Edson Queiroz. A iniciativa tem como objetivo promover melhorias estruturais e ambientais na área, tornando o local um ambiente de convivência mais seguro, acessível e convidativo para a população.</p>
 
 
@@ -407,11 +435,17 @@
     <item>
       <title>Protagonismo feminino no empreendedorismo é celebrado em sessão solene na CMFor</title>
       <link>https://www.cmfor.ce.gov.br/2025/12/08/protagonismo-feminino-no-empreendedorismo-e-celebrado-em-sessao-solene-na-cmfor/</link>
-      <guid>cmfor-15557eb7d87d2fe82e31230d1099d087</guid>
-    <enclosure url="https://www.cmfor.ce.gov.br/wp-content/uploads/2025/12/54971494037_8951dbf951_k-1024x683.jpg" type="image/jpeg" length="50000" />
+      <guid>cmfor-img-0dd82f1fe5148b69e21dd582bdcebe43</guid>
+      <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/54972633904_7230bc0c93_k.jpg" type="image/jpeg" length="100000" />
+      <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/54972633904_7230bc0c93_k.jpg" medium="image" type="image/jpeg">
+        <media:title type="plain">Protagonismo feminino no empreendedorismo é celebrado em sessão solene na CMFor</media:title>
+        <media:description type="plain">A Câmara de Fortaleza promoveu, na noite desta segunda-feira (8), no Auditório Ademar Arruda, uma sessão solene para ressaltar o protagonismo feminino no empreendedorismo da cidade. Atendendo ao reque</media:description>
+        <media:thumbnail url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/54972633904_7230bc0c93_k.jpg" />
+      </media:content>
       <pubDate>Mon, 08 Dec 2025 20:20:08 +0000</pubDate>
       <description>A Câmara de Fortaleza promoveu, na noite desta segunda-feira (8), no Auditório Ademar Arruda, uma sessão solene para ressaltar o protagonismo feminino no empreendedorismo da cidade. Atendendo ao requerimento n.º 4606/2025, a cerimônia é uma iniciativ...</description>
-      <content:encoded><![CDATA[
+      <content:encoded><![CDATA[<p><img src="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/54972633904_7230bc0c93_k.jpg" alt="Protagonismo feminino no empreendedorismo é celebrado em sessão solene na CMFor" style="max-width: 100%; height: auto; margin-bottom: 20px;" /></p>
+
 <p class="has-medium-font-size">A Câmara de Fortaleza promoveu, na noite desta segunda-feira (8), no Auditório Ademar Arruda, uma sessão solene para ressaltar o protagonismo feminino no empreendedorismo da cidade. Atendendo ao requerimento n.º <a href="https://sapl.fortaleza.ce.leg.br/media/sapl/public/materialegislativa/2025/103460/re46062025.ap.pdf">4606/2025</a>, a cerimônia é uma iniciativa do vereador Pedro Matos (Avante) e foi conduzida pelo vereador Wander Alencar (Agir).&nbsp;</p>
 
 
@@ -474,11 +508,17 @@
     <item>
       <title>CMFor destaca força, cultura e resistência das favelas de Fortaleza em sessão solene</title>
       <link>https://www.cmfor.ce.gov.br/2025/12/08/cmfor-destaca-forca-cultura-e-resistencia-das-favelas-de-fortaleza-em-sessao-solene/</link>
-      <guid>cmfor-05de5577ec4524c54d80a9030bc7e3d7</guid>
-    <enclosure url="https://www.cmfor.ce.gov.br/wp-content/uploads/2025/12/IMG_6638-1024x683.jpg" type="image/jpeg" length="50000" />
+      <guid>cmfor-img-1b15340aa386fc4d99cb3ea9f30b42e1</guid>
+      <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_6801-scaled.jpg" type="image/jpeg" length="100000" />
+      <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_6801-scaled.jpg" medium="image" type="image/jpeg">
+        <media:title type="plain">CMFor destaca força, cultura e resistência das favelas de Fortaleza em sessão solene</media:title>
+        <media:description type="plain">Para celebrar o povo favelado e a potência das redes de apoio construídas por grupos, coletivos e entidades atuantes nas favelas de Fortaleza, a Câmara de Fortaleza realizou uma sessão solene em alusã</media:description>
+        <media:thumbnail url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_6801-scaled.jpg" />
+      </media:content>
       <pubDate>Mon, 08 Dec 2025 20:12:48 +0000</pubDate>
       <description>Para celebrar o povo favelado e a potência das redes de apoio construídas por grupos, coletivos e entidades atuantes nas favelas de Fortaleza, a Câmara de Fortaleza realizou uma sessão solene em alusão ao Dia da Favela, comemorado anualmente em 4 de ...</description>
-      <content:encoded><![CDATA[
+      <content:encoded><![CDATA[<p><img src="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_6801-scaled.jpg" alt="CMFor destaca força, cultura e resistência das favelas de Fortaleza em sessão solene" style="max-width: 100%; height: auto; margin-bottom: 20px;" /></p>
+
 <p class="has-medium-font-size">Para celebrar o povo favelado e a potência das redes de apoio construídas por grupos, coletivos e entidades atuantes nas favelas de Fortaleza, a Câmara de Fortaleza realizou uma sessão solene em alusão ao Dia da Favela, comemorado anualmente em 4 de novembro. A homenagem é do vereador Gabriel Aguiar (Psol), por meio do requerimento n.º <a href="https://sapl.fortaleza.ce.leg.br/media/sapl/public/materialegislativa/2025/97404/re00392025.ap.pdf">39/2025</a>, e foi realizada na noite desta segunda-feira (8), no Plenário Fausto Arruda.</p>
 
 
@@ -558,11 +598,17 @@
     <item>
       <title>Câmara entrega Medalha Dom Hélder Câmara à Congregação das Pias Irmãs da Redenção</title>
       <link>https://www.cmfor.ce.gov.br/2025/12/08/camara-entrega-da-medalha-dom-helder-camara-a-congregacao-das-pias-irmas-da-redencao/</link>
-      <guid>cmfor-0d2314777553954475cb6134114e6a0c</guid>
-    <enclosure url="https://www.cmfor.ce.gov.br/wp-content/uploads/2024/01/logo-cmfor.png" type="image/jpeg" length="50000" />
+      <guid>cmfor-img-e1299a06fedbd2c4b00230fa522c0559</guid>
+      <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_6371-scaled.jpg" type="image/jpeg" length="100000" />
+      <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_6371-scaled.jpg" medium="image" type="image/jpeg">
+        <media:title type="plain">Câmara entrega Medalha Dom Hélder Câmara à Congregação das Pias Irmãs da Redenção</media:title>
+        <media:description type="plain">A Câmara de Fortaleza realizou nesta segunda-feira (8), no plenário Fausto Arruda, uma sessão solene de entrega da Medalha Dom Hélder Câmara à Congregação das Pias Irmãs da Redenção. O requerimento é </media:description>
+        <media:thumbnail url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_6371-scaled.jpg" />
+      </media:content>
       <pubDate>Mon, 08 Dec 2025 17:15:46 +0000</pubDate>
       <description>A Câmara de Fortaleza realizou nesta segunda-feira (8), no plenário Fausto Arruda, uma sessão solene de entrega da Medalha Dom Hélder Câmara à Congregação das Pias Irmãs da Redenção. O requerimento é de autoria da vereadora Adriana Gerônimo (PSOL), p...</description>
-      <content:encoded><![CDATA[
+      <content:encoded><![CDATA[<p><img src="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_6371-scaled.jpg" alt="Câmara entrega Medalha Dom Hélder Câmara à Congregação das Pias Irmãs da Redenção" style="max-width: 100%; height: auto; margin-bottom: 20px;" /></p>
+
 <p class="has-medium-font-size">A Câmara de Fortaleza realizou nesta segunda-feira (8), no plenário Fausto Arruda, uma sessão solene de entrega da Medalha Dom Hélder Câmara à Congregação das Pias Irmãs da Redenção. O requerimento é de autoria da vereadora Adriana Gerônimo (PSOL), por meio do <a href="https://sapl.fortaleza.ce.leg.br/media/sapl/public/materialegislativa/2025/105619/re62122025.ap.pdf">requerimento nº6212/2025</a>. </p>
 
 
@@ -613,11 +659,17 @@
     <item>
       <title>Cidadania mais perto: Messejana recebe quarta edição do “Nossa Casa é de Todos”</title>
       <link>https://www.cmfor.ce.gov.br/2025/12/08/cidadania-mais-perto-messejana-recebe-quarta-edicao-do-nossa-casa-e-de-todos/</link>
-      <guid>cmfor-caf6882cbe231fc8fbe69af759b998fc</guid>
-    <enclosure url="https://www.cmfor.ce.gov.br/wp-content/uploads/2025/12/essão-plenária-Nossa-casa-é-de-todos-Conjunto-Ceará-111-1024x683.jpg" type="image/jpeg" length="50000" />
+      <guid>cmfor-img-5dba26f9d4c84f8cc3a746fd45ee9ce8</guid>
+      <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_7282.jpg" type="image/jpeg" length="100000" />
+      <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_7282.jpg" medium="image" type="image/jpeg">
+        <media:title type="plain">Cidadania mais perto: Messejana recebe quarta edição do “Nossa Casa é de Todos”</media:title>
+        <media:description type="plain">A comunidade de Messejana, na Regional 6, será palco do evento ‘Nossa Casa é de Todos’, nos dias 11, 12 e 13 de dezembro. Com o objetivo de fortalecer a conexão entre o Poder Legislativo e a população</media:description>
+        <media:thumbnail url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_7282.jpg" />
+      </media:content>
       <pubDate>Mon, 08 Dec 2025 12:59:45 +0000</pubDate>
       <description>A comunidade de Messejana, na Regional 6, será palco do evento ‘Nossa Casa é de Todos’, nos dias 11, 12 e 13 de dezembro. Com o objetivo de fortalecer a conexão entre o Poder Legislativo e a população, a iniciativa contará com uma sessão plenária iti...</description>
-      <content:encoded><![CDATA[
+      <content:encoded><![CDATA[<p><img src="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/IMG_7282.jpg" alt="Cidadania mais perto: Messejana recebe quarta edição do “Nossa Casa é de Todos”" style="max-width: 100%; height: auto; margin-bottom: 20px;" /></p>
+
 <p class="has-medium-font-size">A comunidade de Messejana, na Regional 6, será palco do evento ‘Nossa Casa é de Todos’, nos dias 11, 12 e 13 de dezembro. Com o objetivo de fortalecer a conexão entre o Poder Legislativo e a população, a iniciativa contará com uma sessão plenária itinerante, oferta de serviços essenciais e uma programação cultural diversificada.</p>
 
 
@@ -676,11 +728,17 @@
     <item>
       <title>Sessão Solene na Câmara de Fortaleza celebra os 50 anos da Uece</title>
       <link>https://www.cmfor.ce.gov.br/2025/12/08/sessao-solene-na-camara-de-fortaleza-celebra-os-50-anos-da-uece/</link>
-      <guid>cmfor-4fa671296cb0ec7ccc8f6adafca68f25</guid>
-    <enclosure url="https://www.cmfor.ce.gov.br/wp-content/uploads/2025/12/Sessão-solene-em-comemoração-aos-50-anos-de-fundação-da-Universidade-Estadual-d-7-1024x683.jpg" type="image/jpeg" length="50000" />
+      <guid>cmfor-img-589b323bf6a933c7c44d087bd30df985</guid>
+      <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/Sessão-solene-em-comemoração-aos-50-anos-de-fundação-da-Universidade-Estadual-d-26.jpg" type="image/jpeg" length="100000" />
+      <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/Sessão-solene-em-comemoração-aos-50-anos-de-fundação-da-Universidade-Estadual-d-26.jpg" medium="image" type="image/jpeg">
+        <media:title type="plain">Sessão Solene na Câmara de Fortaleza celebra os 50 anos da Uece</media:title>
+        <media:description type="plain">A Câmara de Fortaleza celebrou, na manhã desta segunda-feira (8), no Plenário Fausto Arruda, sessão solene em comemoração aos 50 anos de existência da Uece (Universidade Estadual do Ceará). A iniciati</media:description>
+        <media:thumbnail url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/Sessão-solene-em-comemoração-aos-50-anos-de-fundação-da-Universidade-Estadual-d-26.jpg" />
+      </media:content>
       <pubDate>Mon, 08 Dec 2025 11:50:00 +0000</pubDate>
       <description>A Câmara de Fortaleza celebrou, na manhã desta segunda-feira (8), no Plenário Fausto Arruda, sessão solene em comemoração aos 50 anos de existência da Uece (Universidade Estadual do Ceará). A iniciativa da homenagem é do vereador Aglaylson (PT). A me...</description>
-      <content:encoded><![CDATA[
+      <content:encoded><![CDATA[<p><img src="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/Sessão-solene-em-comemoração-aos-50-anos-de-fundação-da-Universidade-Estadual-d-26.jpg" alt="Sessão Solene na Câmara de Fortaleza celebra os 50 anos da Uece" style="max-width: 100%; height: auto; margin-bottom: 20px;" /></p>
+
 <p>A Câmara de Fortaleza celebrou, na manhã desta segunda-feira (8), no Plenário Fausto Arruda, sessão solene em comemoração aos 50 anos de existência da Uece (Universidade Estadual do Ceará). A iniciativa da homenagem é do vereador Aglaylson (PT).</p>
 
 
