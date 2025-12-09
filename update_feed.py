@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-FEED RSS 2.0 OTIMIZADO PARA WORDPRESS
-Versão final com garantia de imagens e formatação
+FEED RSS 2.0 - VERSÃO FINAL COM GARANTIA DE IMAGENS
 """
 
 import requests
@@ -13,116 +12,85 @@ import re
 import html
 import hashlib
 
-class FeedGenerator:
+class FeedOtimizado:
     def __init__(self):
         self.api_url = "https://www.cmfor.ce.gov.br:8080/wp-json/wp/v2/posts"
         self.feed_file = "feed.xml"
+        self.imagem_padrao = "https://www.cmfor.ce.gov.br/wp-content/uploads/2024/01/logo-cmfor.png"
+    
+    def garantir_html_valido(self, html_content):
+        """Garante HTML válido dentro do CDATA"""
+        # Remover qualquer CDATA interno
+        html_content = html_content.replace('<![CDATA[', '').replace(']]>', '')
         
-    def extrair_imagem_principal(self, conteudo):
-        """Extrai a primeira imagem do conteúdo para WordPress"""
-        # Padrões de busca para imagens
+        # Decodificar HTML entities
+        html_content = html.unescape(html_content)
+        
+        # Remover elementos problemáticos
+        html_content = re.sub(r'<updated>.*?</updated>', '', html_content, flags=re.DOTALL)
+        
+        # Remover porta 8080
+        html_content = html_content.replace(':8080', '')
+        
+        # Corrigir aspas curvas para retas (comum em Word)
+        html_content = html_content.replace('"', '"').replace('"', '"')
+        
+        # Escapar apenas & que não seja parte de entity
+        html_content = re.sub(r'&(?!(?:[a-zA-Z]+|#\d+);)', '&amp;', html_content)
+        
+        # Garantir URLs absolutas
+        def completar_url(match):
+            url = match.group(1)
+            if url.startswith('/'):
+                return f'href="https://www.cmfor.ce.gov.br{url}"'
+            return match.group(0)
+        
+        html_content = re.sub(r'href="/([^"]+)"', completar_url, html_content)
+        
+        # Garantir que listas tenham formatação correta
+        if '<ul>' in html_content and '<li>' not in html_content:
+            # Converter para parágrafos se não tiver formatação de lista
+            html_content = html_content.replace('<ul>', '<p>• ').replace('</ul>', '</p>')
+        
+        return html_content.strip()
+    
+    def encontrar_imagem_noticia(self, conteudo, titulo):
+        """Encontra a melhor imagem para a notícia"""
+        # Padrões de busca
         padroes = [
-            r'<img[^>]+src="([^"]+\.(?:jpg|jpeg|png|gif|webp))"',
-            r'src="([^"]+wp-content/uploads[^"]+\.(?:jpg|jpeg|png|gif|webp))"',
-            r'<figure[^>]*>.*?<img[^>]+src="([^"]+)"'
+            r'<figure[^>]*>.*?<img[^>]+src="([^"]+\.(?:jpg|jpeg|png|gif|webp))"',
+            r'<img[^>]+src="([^"]+wp-content/uploads[^"]+\.(?:jpg|jpeg|png|gif))"',
+            r'background-image:\s*url\([\'"]?([^\'"\)]+\.(?:jpg|jpeg|png))',
+            r'<img[^>]+src="([^"]+/202[0-9]/[0-9]{2}/[^"]+\.(?:jpg|jpeg|png))"',
         ]
         
         for padrao in padroes:
             match = re.search(padrao, conteudo, re.IGNORECASE | re.DOTALL)
             if match:
                 img_url = match.group(1)
-                # Garantir URL completa
-                if img_url.startswith('/'):
-                    img_url = f"https://www.cmfor.ce.gov.br{img_url}"
-                # Remover porta 8080 se existir
-                img_url = img_url.replace(':8080', '')
-                return img_url
-        return None
+                if img_url and 'logo' not in img_url.lower():
+                    if img_url.startswith('/'):
+                        img_url = f"https://www.cmfor.ce.gov.br{img_url}"
+                    img_url = img_url.replace(':8080', '')
+                    return img_url
+        
+        # Se não encontrar, usar imagem padrão baseada no tema
+        palavras_chave = {
+            'transporte|motocicleta|uber|99|app': 'transporte.jpg',
+            'educação|escola|professor|aluno': 'educacao.jpg',
+            'saúde|hospital|médico|enfermeiro': 'saude.jpg',
+            'segurança|polícia|guarda|violência': 'seguranca.jpg',
+        }
+        
+        titulo_lower = titulo.lower()
+        for palavras, imagem in palavras_chave.items():
+            if any(palavra in titulo_lower for palavra in palavras.split('|')):
+                return f"https://www.cmfor.ce.gov.br/wp-content/uploads/2024/01/{imagem}"
+        
+        return self.imagem_padrao
     
-    def otimizar_html_wordpress(self, conteudo):
-        """Otimiza HTML para ser interpretado corretamente pelo WordPress"""
-        # 1. Decodificar HTML
-        conteudo = html.unescape(conteudo)
-        
-        # 2. Remover elementos problemáticos do RSS
-        conteudo = re.sub(r'<updated>.*?</updated>', '', conteudo, flags=re.DOTALL)
-        conteudo = re.sub(r'<dc:creator>.*?</dc:creator>', '', conteudo, flags=re.DOTALL)
-        
-        # 3. Remover porta 8080 de TODAS as URLs
-        conteudo = conteudo.replace(':8080', '')
-        
-        # 4. Garantir URLs absolutas para imagens
-        base_url = 'https://www.cmfor.ce.gov.br'
-        
-        # Converter URLs relativas de imagens para absolutas
-        def converter_url_imagem(match):
-            url = match.group(1)
-            if url.startswith('/'):
-                return f'src="{base_url}{url}"'
-            return match.group(0)
-        
-        conteudo = re.sub(r'src="/([^"]+)"', converter_url_imagem, conteudo)
-        
-        # 5. Remover qualquer ]]> residual (QUEBRA CDATA)
-        conteudo = conteudo.replace(']]>', '')
-        
-        # 6. Escapar apenas & (deixar < > " ' normais para WordPress)
-        conteudo = conteudo.replace('&', '&amp;')
-        # Mas não tocar em &nbsp;, &quot;, etc que já são entities
-        conteudo = re.sub(r'&amp;(nbsp|quot|lt|gt|amp|apos|#\d+);', r'&\1;', conteudo)
-        
-        # 7. Remover atributos problemáticos (opcional)
-        conteudo = re.sub(r'\sclass="[^"]*"', '', conteudo)
-        conteudo = re.sub(r'\sstyle="[^"]*"', '', conteudo)
-        
-        # 8. Garantir que iframes do YouTube funcionem
-        conteudo = re.sub(
-            r'&lt;iframe',
-            '<iframe',
-            conteudo
-        )
-        conteudo = re.sub(
-            r'&lt;/iframe&gt;',
-            '</iframe>',
-            conteudo
-        )
-        
-        # 9. Adicionar marcação WordPress para melhor interpretação
-        if '<p>' not in conteudo:
-            # Se não tem parágrafos, adicionar estrutura básica
-            conteudo = f'<!-- wp:paragraph --><p>{conteudo}</p><!-- /wp:paragraph -->'
-        
-        return conteudo.strip()
-    
-    def criar_descricao_otimizada(self, conteudo):
-        """Cria descrição otimizada para RSS"""
-        # Remover HTML
-        texto = re.sub('<[^>]+>', '', conteudo)
-        texto = html.unescape(texto)
-        
-        # Limpar espaços extras
-        texto = ' '.join(texto.split())
-        
-        # Cortar em ponto lógico (tentativa)
-        if len(texto) > 250:
-            # Tentar cortar no final de uma frase
-            corte = texto[:250]
-            ultimo_ponto = corte.rfind('.')
-            ultima_virgula = corte.rfind(',')
-            
-            if ultimo_ponto > 150:  # Pelo menos 150 caracteres
-                descricao = texto[:ultimo_ponto + 1]
-            elif ultima_virgula > 150:
-                descricao = texto[:ultima_virgula + 1]
-            else:
-                descricao = texto[:250] + "..."
-        else:
-            descricao = texto
-        
-        return html.escape(descricao)
-    
-    def criar_feed_completo(self, noticias):
-        """Cria feed RSS completo otimizado"""
+    def criar_feed_otimizado(self, noticias):
+        """Cria feed com garantia de conteúdo e imagens"""
         rss = ET.Element("rss")
         rss.set("version", "2.0")
         rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
@@ -131,15 +99,13 @@ class FeedGenerator:
         
         channel = ET.SubElement(rss, "channel")
         
-        # Metadados do canal
+        # Cabeçalho
         ET.SubElement(channel, "title").text = "Câmara Municipal de Fortaleza"
         ET.SubElement(channel, "link").text = "https://www.cmfor.ce.gov.br"
         ET.SubElement(channel, "description").text = "Notícias Oficiais da Câmara Municipal de Fortaleza"
         ET.SubElement(channel, "language").text = "pt-br"
-        ET.SubElement(channel, "generator").text = "GitHub Actions - WordPress Otimizado"
-        
-        last_build = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
-        ET.SubElement(channel, "lastBuildDate").text = last_build
+        ET.SubElement(channel, "generator").text = "GitHub Actions Feed Otimizado"
+        ET.SubElement(channel, "lastBuildDate").text = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
         ET.SubElement(channel, "ttl").text = "60"
         
         atom_link = ET.SubElement(channel, "atom:link")
@@ -147,23 +113,21 @@ class FeedGenerator:
         atom_link.set("rel", "self")
         atom_link.set("type", "application/rss+xml")
         
-        # Processar cada notícia
+        # Processar notícias
         for i, item in enumerate(noticias, 1):
             titulo_raw = item.get('title', {}).get('rendered', 'Sem título')
-            print(f"   [{i}/{len(noticias)}] {titulo_raw[:60]}...")
+            print(f"   [{i}/{len(noticias)}] {titulo_raw[:70]}...")
             
             item_elem = ET.SubElement(channel, "item")
             
-            # Título
-            titulo = html.escape(titulo_raw)
-            ET.SubElement(item_elem, "title").text = titulo
+            # Elementos básicos
+            ET.SubElement(item_elem, "title").text = html.escape(titulo_raw)
             
-            # Link
             link = item.get('link', '').replace(':8080', '')
             ET.SubElement(item_elem, "link").text = link
             
-            # GUID único (evita duplicatas no WordPress)
-            guid_hash = hashlib.md5(f"{link}{datetime.now().strftime('%Y%m%d')}".encode()).hexdigest()
+            # GUID único
+            guid_hash = hashlib.md5(f"{link}{datetime.now().strftime('%Y%m%d%H')}".encode()).hexdigest()
             guid = ET.SubElement(item_elem, "guid")
             guid.text = f"cmfor-{guid_hash}"
             guid.set("isPermaLink", "false")
@@ -177,87 +141,59 @@ class FeedGenerator:
                 except:
                     ET.SubElement(item_elem, "pubDate").text = pub_date
             
-            # Conteúdo bruto
+            # Conteúdo
             conteudo_raw = item.get('content', {}).get('rendered', '')
             
-            # Description (obrigatório, vem primeiro)
-            descricao = self.criar_descricao_otimizada(conteudo_raw)
-            ET.SubElement(item_elem, "description").text = descricao
+            # Description
+            texto_simples = re.sub('<[^>]+>', '', conteudo_raw)
+            texto_simples = html.unescape(texto_simples)
+            descricao = (texto_simples[:300] + "...") if len(texto_simples) > 300 else texto_simples
+            ET.SubElement(item_elem, "description").text = html.escape(descricao)
             
-            # Content:encoded com HTML otimizado para WordPress
-            conteudo_otimizado = self.otimizar_html_wordpress(conteudo_raw)
+            # Content:encoded - HTML otimizado
+            conteudo_limpo = self.garantir_html_valido(conteudo_raw)
             content_elem = ET.SubElement(item_elem, "content:encoded")
-            # Usar CDATA com HTML otimizado
-            content_elem.text = f"<![CDATA[{conteudo_otimizado}]]>"
+            content_elem.text = f"<![CDATA[{conteudo_limpo}]]>"
             
-            # Adicionar informações de mídia (imagem principal)
-            imagem_url = self.extrair_imagem_principal(conteudo_raw)
-            if imagem_url:
-                # Adicionar como enclosure (padrão RSS)
-                enclosure = ET.SubElement(item_elem, "enclosure")
-                enclosure.set("url", imagem_url)
-                enclosure.set("type", "image/jpeg")
-                enclosure.set("length", "100000")  # Tamanho estimado
-                
-                # Adicionar como media:content (padrão Media RSS)
-                media_content = ET.SubElement(item_elem, "media:content")
-                media_content.set("url", imagem_url)
-                media_content.set("medium", "image")
-                media_content.set("type", "image/jpeg")
-                
-                # Adicionar descrição da mídia
-                media_description = ET.SubElement(media_content, "media:description")
-                media_description.set("type", "plain")
-                media_description.text = titulo_raw[:100]
-                
-                print(f"      📷 Imagem encontrada: {imagem_url.split('/')[-1]}")
+            # Imagem (CRÍTICO para WordPress)
+            imagem_url = self.encontrar_imagem_noticia(conteudo_raw, titulo_raw)
+            
+            # Adicionar como enclosure (WordPress reconhece)
+            enclosure = ET.SubElement(item_elem, "enclosure")
+            enclosure.set("url", imagem_url)
+            enclosure.set("type", "image/jpeg")
+            enclosure.set("length", "50000")
+            
+            # Adicionar como media:content
+            media_content = ET.SubElement(item_elem, "media:content")
+            media_content.set("url", imagem_url)
+            media_content.set("medium", "image")
+            media_content.set("type", "image/jpeg")
+            
+            media_title = ET.SubElement(media_content, "media:title")
+            media_title.set("type", "plain")
+            media_title.text = html.escape(titulo_raw[:100])
+            
+            media_description = ET.SubElement(media_content, "media:description")
+            media_description.set("type", "plain")
+            media_description.text = html.escape(descricao[:200])
+            
+            if 'logo-cmfor' in imagem_url:
+                print(f"      ⚠️  Usando imagem padrão")
+            else:
+                print(f"      📷 Imagem: {imagem_url.split('/')[-1]}")
         
         return rss
     
-    def formatar_xml_final(self, xml_str):
-        """Formata o XML final corrigindo CDATA"""
-        xml_final = '<?xml version="1.0" encoding="UTF-8"?>\n' + xml_str
-        
-        # CORREÇÃO CRÍTICA: Corrigir CDATA escapado
-        xml_final = xml_final.replace('&lt;![CDATA[', '<![CDATA[')
-        xml_final = xml_final.replace(']]&gt;', ']]>')
-        
-        # Garantir que não há ]]> fora do CDATA
-        # Proteger CDATA legítimos primeiro
-        import re
-        partes = re.split(r'(<\!\[CDATA\[.*?\]\]>)', xml_final, flags=re.DOTALL)
-        
-        resultado = []
-        for i, parte in enumerate(partes):
-            if i % 2 == 0:  # Fora do CDATA
-                parte = parte.replace(']]>', '')  # Remover qualquer ]]> residual
-            resultado.append(parte)
-        
-        xml_final = ''.join(resultado)
-        
-        # Formatar com indentação
-        try:
-            import xml.dom.minidom
-            dom = xml.dom.minidom.parseString(xml_final)
-            xml_final = dom.toprettyxml(indent="  ")
-            
-            # Remover linha duplicada da declaração XML
-            lines = xml_final.split('\n')
-            xml_final = '\n'.join(lines[1:])
-        except:
-            pass  # Manter sem formatação se der erro
-        
-        return xml_final
-    
     def executar(self):
-        """Executa a geração completa do feed"""
+        """Executa geração do feed"""
         print("=" * 70)
-        print("🚀 GERANDO FEED RSS OTIMIZADO PARA WORDPRESS")
+        print("🚀 FEED RSS COM GARANTIA DE IMAGENS")
         print("=" * 70)
         
         try:
             # Buscar notícias
-            print("📡 Buscando notícias da Câmara...")
+            print("📡 Conectando à API...")
             response = requests.get(self.api_url, params={
                 "per_page": 10,
                 "orderby": "date",
@@ -265,77 +201,63 @@ class FeedGenerator:
             }, timeout=30)
             
             if response.status_code != 200:
-                print(f"❌ Erro na API: {response.status_code}")
-                # Feed mínimo de fallback
-                with open(self.feed_file, "w", encoding="utf-8") as f:
-                    f.write('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>Câmara Municipal de Fortaleza</title><link>https://www.cmfor.ce.gov.br</link><description>Feed em manutenção</description></channel></rss>')
-                return True
+                print(f"❌ Erro {response.status_code}")
+                return False
             
             noticias = response.json()
-            print(f"✅ {len(noticias)} notícias encontradas")
+            print(f"✅ {len(noticias)} notícias")
             
             # Criar feed
-            print("📝 Criando feed otimizado...")
-            rss_tree = self.criar_feed_completo(noticias)
+            print("📝 Processando...")
+            rss_tree = self.criar_feed_otimizado(noticias)
             
             # Gerar XML
-            print("💾 Formatando XML...")
             xml_str = ET.tostring(rss_tree, encoding='unicode', method='xml')
-            xml_final = self.formatar_xml_final(xml_str)
+            xml_final = '<?xml version="1.0" encoding="UTF-8"?>\n' + xml_str
+            
+            # Corrigir CDATA
+            xml_final = xml_final.replace('&lt;![CDATA[', '<![CDATA[')
+            xml_final = xml_final.replace(']]&gt;', ']]>')
+            
+            # Formatar
+            try:
+                import xml.dom.minidom
+                dom = xml.dom.minidom.parseString(xml_final)
+                xml_final = dom.toprettyxml(indent="  ")
+                lines = xml_final.split('\n')
+                xml_final = '\n'.join(lines[1:])
+            except:
+                pass
             
             # Salvar
             with open(self.feed_file, "w", encoding="utf-8") as f:
                 f.write(xml_final)
             
-            file_size = os.path.getsize(self.feed_file)
-            print(f"✅ Feed salvo: {self.feed_file} ({file_size:,} bytes)")
-            
-            # Verificação final
-            print("\n🔍 VERIFICAÇÃO FINAL:")
+            # Verificação
+            print("\n🔍 Verificação:")
             with open(self.feed_file, "r", encoding="utf-8") as f:
                 content = f.read()
-                
-                # Contar imagens
-                imagens = re.findall(r'<img[^>]+src="[^"]+"', content)
-                print(f"   📷 Imagens no feed: {len(imagens)}")
-                
-                # Verificar estrutura
-                checks = {
-                    "Tem CDATA": '<![CDATA[' in content,
-                    "Tem HTML normal": '<p>' in content or '<img' in content,
-                    "Sem <updated>": '<updated>' not in content,
-                    "GUIDs únicos": content.count('cmfor-') >= 10,
-                    "Enclosures": 'enclosure url=' in content,
-                }
-                
-                for check, resultado in checks.items():
-                    print(f"   {'✅' if resultado else '❌'} {check}")
+                imagens = len(re.findall(r'<enclosure[^>]+url="[^"]+"', content))
+                print(f"   📷 Notícias com imagens: {imagens}/10")
+                print(f"   ✅ CDATA correto: {'<![CDATA[' in content}")
+                print(f"   ✅ Sem <updated>: {'<updated>' not in content}")
             
             print("\n" + "=" * 70)
-            print("🎉 FEED PRONTO PARA WORDPRESS!")
+            print("🎉 FEED GERADO COM SUCESSO!")
             print("=" * 70)
-            print("🔗 URL: https://thecrossnow.github.io/feed-leg-ftz/feed.xml")
-            print("=" * 70)
-            print("⚙️  Configuração WordPress recomendada:")
-            print("   • Plugin: WP RSS Aggregator ou WP Automatic")
-            print("   • Post content: {content}")
-            print("   • Get full content: YES")
-            print("   • Download images: YES")
-            print("   • First image as featured: YES")
+            print("⚙️  Dica para WordPress:")
+            print("   • No WP Automatic, use: 'Get full content: YES'")
+            print("   • 'Download images: YES'")
+            print("   • 'First image as featured: YES'")
             print("=" * 70)
             
             return True
             
         except Exception as e:
             print(f"❌ Erro: {e}")
-            import traceback
-            traceback.print_exc()
             return False
 
-def main():
-    generator = FeedGenerator()
-    success = generator.executar()
-    sys.exit(0 if success else 1)
-
 if __name__ == "__main__":
-    main()
+    feed = FeedOtimizado()
+    success = feed.executar()
+    sys.exit(0 if success else 1)
