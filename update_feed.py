@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-FEED RSS 2.0 COM IMAGEM DESTACADA
-Extrai a primeira imagem do conteúdo para usar como destacada
+FEED RSS 2.0 - VERSÃO COM GUID ÚNICO
+Força WP Automatic a ver como notícias novas
 """
 
 import requests
@@ -11,12 +11,14 @@ import os
 import sys
 import re
 import html
+import hashlib
+import time
 
-def criar_feed_com_imagem_destacada():
-    """Cria feed RSS com extração de imagem destacada"""
+def criar_feed_com_guid_unico():
+    """Cria feed RSS com GUID único para forçar novas importações"""
     
     print("=" * 70)
-    print("🚀 GERANDO FEED RSS COM IMAGEM DESTACADA")
+    print("🚀 GERANDO FEED COM GUID ÚNICO")
     print("=" * 70)
     
     API_URL = "https://www.cmfor.ce.gov.br:8080/wp-json/wp/v2/posts"
@@ -51,9 +53,14 @@ def criar_feed_com_imagem_destacada():
         xml_lines.append('    <language>pt-br</language>')
         xml_lines.append('    <generator>GitHub Actions</generator>')
         
+        # ADICIONAR TIMESTAMP para forçar cache novo
+        timestamp = int(time.time())
+        xml_lines.append(f'    <!-- Feed gerado em: {datetime.now().strftime("%d/%m/%Y %H:%M:%S")} -->')
+        xml_lines.append(f'    <!-- Timestamp: {timestamp} -->')
+        
         last_build = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
         xml_lines.append(f'    <lastBuildDate>{last_build}</lastBuildDate>')
-        xml_lines.append('    <ttl>60</ttl>')
+        xml_lines.append('    <ttl>5</ttl>')  # TTL curto para atualizações frequentes
         xml_lines.append('    <atom:link href="https://thecrossnow.github.io/feed-leg-ftz/feed.xml" rel="self" type="application/rss+xml" />')
         
         # Processar cada notícia
@@ -77,19 +84,21 @@ def criar_feed_com_imagem_destacada():
             conteudo_raw = item.get('content', {}).get('rendered', '')
             
             # ====================================================
-            # EXTRAIR IMAGEM DESTACADA (PRIMEIRA IMAGEM DO CONTEÚDO)
+            # GUID ÚNICO - IMPEDE WP AUTOMATIC DE IGNORAR
             # ====================================================
-            imagem_destacada = None
-            imagem_destacada_url = None
+            # Criar GUID único baseado em título + data + timestamp
+            guid_base = f"{titulo_raw}{pub_date}{timestamp}"
+            guid_hash = hashlib.md5(guid_base.encode()).hexdigest()
+            guid_unico = f"cmfor-{guid_hash}"
             
-            # Função para extrair a primeira imagem
+            print(f"      🔑 GUID único: {guid_unico[:20]}...")
+            
+            # Extrair primeira imagem
+            imagem_destacada_url = None
             def extrair_primeira_imagem(html_content):
-                """Extrai a URL da primeira imagem do HTML"""
-                # Padrões para buscar imagens
                 padroes = [
                     r'<img[^>]+src="([^"]+\.(?:jpg|jpeg|png|gif|webp))"[^>]*>',
                     r'<figure[^>]*>.*?<img[^>]+src="([^"]+)"',
-                    r'src="([^"]+wp-content/uploads[^"]+\.(?:jpg|jpeg|png|gif))"',
                 ]
                 
                 for padrao in padroes:
@@ -97,31 +106,24 @@ def criar_feed_com_imagem_destacada():
                     if match:
                         img_url = match.group(1)
                         if img_url:
-                            # Corrigir aspas curvas
                             img_url = img_url.replace('"', '"').replace('"', '"')
-                            # Garantir URL completa
                             if img_url.startswith('/'):
                                 img_url = f"https://www.cmfor.ce.gov.br{img_url}"
-                            # Remover porta 8080
-                            img_url = img_url.replace(':8080', '')
-                            # Corrigir × para x
-                            img_url = img_url.replace('×', 'x')
+                            img_url = img_url.replace(':8080', '').replace('×', 'x')
                             return img_url
                 return None
             
-            # Extrair imagem
             imagem_destacada_url = extrair_primeira_imagem(conteudo_raw)
             
             if imagem_destacada_url:
-                print(f"      📸 Imagem destacada encontrada!")
-                imagem_destacada = f'    <enclosure url="{imagem_destacada_url}" type="image/jpeg" length="50000" />'
+                print(f"      📸 Imagem encontrada")
+                imagem_tag = f'    <enclosure url="{imagem_destacada_url}" type="image/jpeg" length="50000" />'
             else:
-                print(f"      ⚠️  Nenhuma imagem encontrada no conteúdo")
-                # Usar imagem padrão da Câmara
+                print(f"      ⚠️  Usando imagem padrão")
                 imagem_destacada_url = "https://www.cmfor.ce.gov.br/wp-content/uploads/2024/01/logo-cmfor.png"
-                imagem_destacada = f'    <enclosure url="{imagem_destacada_url}" type="image/jpeg" length="50000" />'
+                imagem_tag = f'    <enclosure url="{imagem_destacada_url}" type="image/jpeg" length="50000" />'
             
-            # Criar descrição simples
+            # Criar descrição
             texto = re.sub('<[^>]+>', '', conteudo_raw)
             texto = html.unescape(texto)
             texto = ' '.join(texto.split())
@@ -130,31 +132,25 @@ def criar_feed_com_imagem_destacada():
             
             # Preparar conteúdo para CDATA
             conteudo_limpo = conteudo_raw
-            
-            # 1. Remover <updated> tags
             conteudo_limpo = re.sub(r'<updated>.*?</updated>', '', conteudo_limpo, flags=re.DOTALL)
-            
-            # 2. Remover porta 8080
             conteudo_limpo = conteudo_limpo.replace(':8080', '')
-            
-            # 3. Corrigir aspas curvas
             conteudo_limpo = conteudo_limpo.replace('"', '"').replace('"', '"')
             
-            # 4. ESCAPAR ]]> dividindo o CDATA
             if ']]>' in conteudo_limpo:
                 conteudo_limpo = conteudo_limpo.replace(']]>', ']]]]><![CDATA[>')
             
-            # 5. Escapar & que não seja parte de entity
             conteudo_limpo = re.sub(r'&(?!(?:[a-zA-Z]+|#\d+);)', '&amp;', conteudo_limpo)
             
             # Adicionar item ao XML
             xml_lines.append('    <item>')
             xml_lines.append(f'      <title>{html.escape(titulo_raw)}</title>')
             xml_lines.append(f'      <link>{link}</link>')
-            xml_lines.append(f'      <guid>{link}</guid>')
             
-            # ADICIONAR ENCLOSURE (IMAGEM DESTACADA)
-            xml_lines.append(imagem_destacada)
+            # GUID ÚNICO (não o link)
+            xml_lines.append(f'      <guid>{guid_unico}</guid>')
+            
+            # Enclosure para imagem destacada
+            xml_lines.append(imagem_tag)
             
             if pub_date_str:
                 xml_lines.append(f'      <pubDate>{pub_date_str}</pubDate>')
@@ -168,9 +164,8 @@ def criar_feed_com_imagem_destacada():
         
         xml_final = '\n'.join(xml_lines)
         
-        # Verificação final
+        # Limpar ]]> residual
         if ']]>' in xml_final and '<![CDATA[' not in xml_final:
-            print("⚠️  Corrigindo ]]> residual...")
             xml_final = xml_final.replace(']]>', '')
         
         # Salvar
@@ -180,34 +175,22 @@ def criar_feed_com_imagem_destacada():
         file_size = os.path.getsize(FEED_FILE)
         print(f"✅ Feed salvo: {FEED_FILE} ({file_size:,} bytes)")
         
-        # Validação básica
+        # Verificação
         print("\n🔍 Verificação:")
         with open(FEED_FILE, "r", encoding="utf-8") as f:
             content = f.read()
-            
-            # Contar imagens destacadas
-            enclosures = content.count('<enclosure')
-            imagens_conteudo = len(re.findall(r'<img[^>]+src="[^"]+"', content))
-            
-            print(f"   📸 Imagens destacadas (enclosure): {enclosures}/10")
-            print(f"   🖼️  Imagens no conteúdo: {imagens_conteudo}")
-            
-            # Verificar namespaces
-            if 'xmlns:content=' in content:
-                print("   ✅ Namespace content declarado")
-            else:
-                print("   ❌ Namespace content NÃO declarado")
+            guids_unicos = len(re.findall(r'<guid>cmfor-[a-f0-9]{32}</guid>', content))
+            print(f"   🔑 GUIDs únicos: {guids_unicos}/10")
+            print(f"   📸 Enclosures: {content.count('<enclosure')}/10")
         
         print("\n" + "=" * 70)
-        print("🎉 FEED COM IMAGEM DESTACADA GERADO!")
+        print("🎉 FEED COM GUID ÚNICO GERADO!")
         print("=" * 70)
-        print("⚙️  Configuração WordPress IMPORTANTE:")
-        print("   No WP Automatic, configure:")
-        print("   1. 'First image as featured: YES'")
-        print("   2. 'Download images: YES'")
-        print("   3. 'Get full content: YES'")
-        print("=" * 70)
-        print("📋 O WordPress usará a primeira imagem como destacada!")
+        print("🔄 AGORA VAI FUNCIONAR!")
+        print("O WP Automatic verá como notícias NOVAS porque:")
+        print("1. GUIDs são diferentes a cada execução")
+        print("2. TTL curto (5 minutos)")
+        print("3. Timestamp no feed")
         print("=" * 70)
         
         return True
@@ -219,5 +202,5 @@ def criar_feed_com_imagem_destacada():
         return False
 
 if __name__ == "__main__":
-    success = criar_feed_com_imagem_destacada()
+    success = criar_feed_com_guid_unico()
     sys.exit(0 if success else 1)
