@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script para atualizar feed RSS - VERSÃO FINAL FUNCIONAL
+Script para atualizar feed RSS - VERSÃO CORRIGIDA E VÁLIDA
 """
 
 import requests
@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 import os
 
 print("=" * 60)
-print("🔄 ATUALIZAÇÃO DO FEED RSS - VERSÃO CORRIGIDA")
+print("🔄 ATUALIZANDO FEED RSS - VERSÃO VÁLIDA")
 print("=" * 60)
 
 # Configurações
@@ -17,59 +17,27 @@ API_URL = "https://www.cmfor.ce.gov.br:8080/wp-json/wp/v2/posts"
 ITEMS_TO_FETCH = 10
 FEED_FILE = "feed.xml"
 
-def corrigir_link(link_original):
-    """Corrigir links removendo porta 8080"""
-    if not link_original:
-        return ""
+def criar_feed_valido(noticias):
+    """Criar feed RSS 2.0 válido"""
+    print("📝 Criando feed válido...")
     
-    # SIMPLES: apenas remover :8080
-    link = link_original.replace(':8080', '')
-    return link
-
-def processar_conteudo(conteudo_html):
-    """Processar conteúdo HTML - VERSÃO SIMPLIFICADA E CORRETA"""
-    if not conteudo_html:
-        return ""
-    
-    # A API já retorna HTML escapado corretamente
-    # Exemplo: &lt;p class=&quot;has-medium-font-size&quot;&gt;
-    # Isso já está PRONTO para XML!
-    
-    # ÚNICAS correções necessárias:
-    
-    # 1. Remover porta :8080 das URLs de imagem
-    conteudo_html = conteudo_html.replace(':8080', '')
-    
-    # 2. Escapar fim de CDATA (importante!)
-    conteudo_html = conteudo_html.replace(']]>', ']]&gt;')
-    
-    # 3. Remover caracteres de controle inválidos
-    # (opcional, mas recomendado)
-    import re
-    conteudo_html = re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', conteudo_html)
-    
-    return conteudo_html
-
-def criar_feed_rss(noticias):
-    """Criar feed RSS"""
-    print("📝 Criando estrutura RSS...")
-    
-    # Criar elemento raiz
+    # Criar elemento raiz com namespaces CORRETOS
     rss = ET.Element("rss")
     rss.set("version", "2.0")
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
     rss.set("xmlns:content", "http://purl.org/rss/1.0/modules/content/")
+    rss.set("xmlns:dc", "http://purl.org/dc/elements/1.1/")
     
-    # Criar channel
+    # Channel
     channel = ET.SubElement(rss, "channel")
     
-    # Metadados
+    # Metadados obrigatórios
     ET.SubElement(channel, "title").text = "Câmara Municipal de Fortaleza"
     ET.SubElement(channel, "link").text = "https://www.cmfor.ce.gov.br"
     ET.SubElement(channel, "description").text = "Notícias Oficiais da Câmara Municipal de Fortaleza"
     ET.SubElement(channel, "language").text = "pt-br"
     ET.SubElement(channel, "generator").text = "Feed Generator v2.0"
-    ET.SubElement(channel, "lastBuildDate").text = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+    ET.SubElement(channel, "lastBuildDate").text = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
     
     # Atom link
     atom_link = ET.SubElement(channel, "atom:link")
@@ -85,87 +53,109 @@ def criar_feed_rss(noticias):
         
         item_elem = ET.SubElement(channel, "item")
         
-        # Título (escapar apenas & para XML)
+        # Título
         titulo = titulo_raw.replace('&', '&amp;')
         ET.SubElement(item_elem, "title").text = titulo
         
-        # Link (corrigir)
-        link_original = item.get('link', '')
-        link_corrigido = corrigir_link(link_original)
-        ET.SubElement(item_elem, "link").text = link_corrigido
+        # Link
+        link = item.get('link', '').replace(':8080', '')
+        ET.SubElement(item_elem, "link").text = link
         
         # GUID
         guid = ET.SubElement(item_elem, "guid")
-        guid.text = link_corrigido
+        guid.text = link
         guid.set("isPermaLink", "true")
         
-        # Conteúdo completo (content:encoded)
+        # Conteúdo
         conteudo_raw = item.get('content', {}).get('rendered', '')
-        conteudo_processado = processar_conteudo(conteudo_raw)
         
+        # 1. PRIMEIRO: description (obrigatório no RSS 2.0)
+        # Extrair resumo (primeiros 500 chars sem tags)
+        import re
+        texto_simples = re.sub('<[^>]+>', '', conteudo_raw)
+        descricao = texto_simples[:500] + "..." if len(texto_simples) > 500 else texto_simples
+        
+        desc_elem = ET.SubElement(item_elem, "description")
+        desc_elem.text = f"<![CDATA[{descricao}]]>"
+        
+        # 2. DEPOIS: content:encoded (opcional, para conteúdo completo)
         content_elem = ET.SubElement(item_elem, "content:encoded")
-        content_elem.text = f"<![CDATA[{conteudo_processado}]]>"
+        content_elem.text = f"<![CDATA[{conteudo_raw}]]>"
         
-        # Descrição curta (description) - opcional
-        if conteudo_raw:
-            # Pegar primeiro parágrafo como descrição
-            import re
-            primeiro_paragrafo = re.search(r'&lt;p.*?&gt;(.*?)&lt;/p&gt;', conteudo_raw)
-            if primeiro_paragrafo:
-                descricao = primeiro_paragrafo.group(1)[:200] + "..."
-            else:
-                descricao = conteudo_raw[:200] + "..."
-            
-            desc_elem = ET.SubElement(item_elem, "description")
-            desc_elem.text = f"<![CDATA[{descricao}]]>"
-        
-        # Data
+        # Data RFC 2822 format (obrigatório)
         pub_date = item.get('date', '')
         if pub_date:
             try:
-                # Converter formato ISO para RFC 822
                 dt = datetime.fromisoformat(pub_date.replace('Z', '+00:00'))
-                ET.SubElement(item_elem, "pubDate").text = dt.strftime("%a, %d %b %Y %H:%M:%S GMT")
+                ET.SubElement(item_elem, "pubDate").text = dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
             except:
                 ET.SubElement(item_elem, "pubDate").text = pub_date
         
-        # Data de modificação
+        # NÃO usar <updated> - não é padrão RSS 2.0
+        # Use dc:date se quiser data modificação
         modified = item.get('modified', '')
         if modified:
-            updated = ET.SubElement(item_elem, "updated")
-            updated.text = modified
+            dc_date = ET.SubElement(item_elem, "dc:date")
+            dc_date.text = modified
     
     return rss
 
-def salvar_xml(rss_element):
-    """Salvar XML formatado"""
-    print(f"💾 Salvando em {FEED_FILE}...")
-    
-    # Converter para string XML
+def formatar_xml_valido(rss_element):
+    """Formatar XML válido"""
     from xml.dom import minidom
     
     rough_string = ET.tostring(rss_element, encoding='utf-8')
     reparsed = minidom.parseString(rough_string)
     
-    # Formatar bonito
     xml_pretty = reparsed.toprettyxml(indent="  ", encoding='utf-8')
-    
-    # Decodificar e corrigir CDATA
     xml_str = xml_pretty.decode('utf-8')
+    
+    # Corrigir CDATA
     xml_str = xml_str.replace('&lt;![CDATA[', '<![CDATA[')
     xml_str = xml_str.replace(']]&gt;', ']]>')
     
-    # Salvar
-    with open(FEED_FILE, "w", encoding="utf-8") as f:
-        f.write(xml_str)
+    # Remover XML declaration duplicada
+    if xml_str.count('<?xml') > 1:
+        lines = xml_str.split('\n')
+        lines = [line for line in lines if line.strip()]
+        lines = [lines[0]] + [line for line in lines[1:] if not line.startswith('<?xml')]
+        xml_str = '\n'.join(lines)
     
-    print(f"✅ Feed salvo! Tamanho: {len(xml_str):,} bytes")
-    return True
+    return xml_str
+
+def validar_feed(xml_content):
+    """Validar feed com feedvalidator.org"""
+    import tempfile
+    import webbrowser
+    
+    # Salvar temporariamente
+    with tempfile.NamedTemporaryFile(mode='w', suffix='.xml', delete=False, encoding='utf-8') as f:
+        f.write(xml_content)
+        temp_path = f.name
+    
+    print("🔍 Validando feed...")
+    
+    # URL do validator
+    validator_url = f"https://validator.w3.org/feed/check.cgi?url=file://{temp_path}"
+    print(f"✅ Validator: {validator_url}")
+    
+    # Verificar erros comuns
+    if '<updated>' in xml_content:
+        print("⚠️  AVISO: Elemento <updated> não é padrão RSS 2.0")
+    
+    if xml_content.find('<content:encoded>') < xml_content.find('<description>'):
+        print("⚠️  AVISO: content:encoded deve vir DEPOIS de description")
+    
+    # Contar itens
+    items = xml_content.count('<item>')
+    print(f"📊 Feed tem {items} itens")
+    
+    return temp_path
 
 def main():
     """Função principal"""
     
-    print("📡 Buscando notícias da API...")
+    print("📡 Buscando notícias...")
     
     try:
         response = requests.get(
@@ -181,47 +171,48 @@ def main():
         noticias = response.json()
         print(f"✅ {len(noticias)} notícias encontradas")
         
-        # Criar feed
-        rss = criar_feed_rss(noticias)
+        # Criar feed válido
+        rss = criar_feed_valido(noticias)
+        
+        # Formatar
+        xml_content = formatar_xml_valido(rss)
+        
+        # Validar
+        temp_file = validar_feed(xml_content)
         
         # Salvar
-        if salvar_xml(rss):
-            print("\n" + "="*60)
-            print("🎉 FEED GERADO COM SUCESSO!")
-            print("="*60)
-            
-            # Mostrar exemplo
-            print("\n📄 EXEMPLO DO PRIMEIRO ITEM:")
-            print("-"*50)
-            with open(FEED_FILE, "r", encoding="utf-8") as f:
-                lines = f.readlines()
-                
-                # Encontrar primeiro <content:encoded>
-                in_content = False
-                content_lines = []
-                for line in lines:
-                    if '<content:encoded>' in line:
-                        in_content = True
-                    if in_content:
-                        content_lines.append(line.rstrip())
-                        if ']]>' in line:
-                            break
-                
-                # Mostrar apenas algumas linhas do conteúdo
-                for line in content_lines[:10]:
-                    if len(line) > 100:
-                        print(f"   {line[:100]}...")
-                    else:
-                        print(f"   {line}")
-            
-            print("-"*50)
-            print("🔗 URL do feed: https://thecrossnow.github.io/feed-leg-ftz/feed.xml")
-            print("="*60)
-            
-            return True
+        with open(FEED_FILE, "w", encoding="utf-8") as f:
+            f.write(xml_content)
+        
+        file_size = os.path.getsize(FEED_FILE)
+        print(f"💾 Feed salvo: {file_size:,} bytes")
+        
+        # Mostrar estrutura
+        print("\n📋 ESTRUTURA DO FEED:")
+        print("-" * 50)
+        lines = xml_content.split('\n')
+        for line in lines[:20]:
+            if line.strip():
+                print(f"   {line[:80]}{'...' if len(line) > 80 else ''}")
+        print("-" * 50)
+        
+        print("\n" + "=" * 60)
+        print("🎉 FEED RSS VÁLIDO GERADO!")
+        print("=" * 60)
+        print(f"🔗 URL: https://thecrossnow.github.io/feed-leg-ftz/feed.xml")
+        print("=" * 60)
+        
+        # Perguntar se quer abrir validator
+        abrir = input("\nAbrir validador no navegador? (s/n): ")
+        if abrir.lower() == 's':
+            webbrowser.open(f"https://validator.w3.org/feed/check.cgi?url=https://thecrossnow.github.io/feed-leg-ftz/feed.xml")
+        
+        return True
         
     except Exception as e:
         print(f"❌ Erro: {e}")
+        import traceback
+        traceback.print_exc()
         return False
 
 if __name__ == "__main__":
