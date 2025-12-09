@@ -15,7 +15,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.FEED_UPDATE_TOKEN }}
+          fetch-depth: 0  # Importante para pegar todo o histórico
           
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -25,23 +26,26 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests beautifulsoup4 lxml
           
       - name: Run feed updater
         run: |
-          # Executar o script correto
           python update_feed.py
           
       - name: Check if feed.xml changed
         id: check-changes
         run: |
-          git status --porcelain feed.xml | grep -q . && echo "changed=true" >> $GITHUB_OUTPUT || echo "changed=false" >> $GITHUB_OUTPUT
+          if git diff --name-only HEAD~1 | grep -q "feed.xml"; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
           
       - name: Commit and push if changed
         if: steps.check-changes.outputs.changed == 'true'
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add feed.xml
           git commit -m "📰 Atualização automática do feed - $(date +'%d/%m/%Y %H:%M:%S')"
           git push
