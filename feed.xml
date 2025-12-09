@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Câmara Municipal de Fortaleza</title>
+<link>https://www.cmfor.ce.gov.br</link>
+<description>Notícias Oficiais - Teste Inicial</description>
+<item>
+<title>Primeira Notícia de Teste</title>
+<link>https://www.cmfor.ce.gov.br</link>
+<description>Este é um feed de teste. Em breve terá notícias reais!</description>
+</item>
+</channel>
+</rss>
