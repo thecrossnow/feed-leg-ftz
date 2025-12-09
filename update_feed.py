@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-FEED RSS 2.0 - VERSÃO CORRIGIDA
+FEED RSS 2.0 COM IMAGEM DESTACADA
+Extrai a primeira imagem do conteúdo para usar como destacada
 """
 
 import requests
@@ -11,11 +12,11 @@ import sys
 import re
 import html
 
-def criar_feed_corrigido():
-    """Cria feed RSS com namespace correto"""
+def criar_feed_com_imagem_destacada():
+    """Cria feed RSS com extração de imagem destacada"""
     
     print("=" * 70)
-    print("🚀 GERANDO FEED RSS CORRIGIDO")
+    print("🚀 GERANDO FEED RSS COM IMAGEM DESTACADA")
     print("=" * 70)
     
     API_URL = "https://www.cmfor.ce.gov.br:8080/wp-json/wp/v2/posts"
@@ -42,7 +43,6 @@ def criar_feed_corrigido():
         
         xml_lines = []
         xml_lines.append('<?xml version="1.0" encoding="UTF-8"?>')
-        # DECLARAR namespace content CORRETAMENTE
         xml_lines.append('<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">')
         xml_lines.append('  <channel>')
         xml_lines.append('    <title>Câmara Municipal de Fortaleza</title>')
@@ -73,8 +73,53 @@ def criar_feed_corrigido():
                 except:
                     pub_date_str = pub_date
             
-            # Descrição
+            # Conteúdo
             conteudo_raw = item.get('content', {}).get('rendered', '')
+            
+            # ====================================================
+            # EXTRAIR IMAGEM DESTACADA (PRIMEIRA IMAGEM DO CONTEÚDO)
+            # ====================================================
+            imagem_destacada = None
+            imagem_destacada_url = None
+            
+            # Função para extrair a primeira imagem
+            def extrair_primeira_imagem(html_content):
+                """Extrai a URL da primeira imagem do HTML"""
+                # Padrões para buscar imagens
+                padroes = [
+                    r'<img[^>]+src="([^"]+\.(?:jpg|jpeg|png|gif|webp))"[^>]*>',
+                    r'<figure[^>]*>.*?<img[^>]+src="([^"]+)"',
+                    r'src="([^"]+wp-content/uploads[^"]+\.(?:jpg|jpeg|png|gif))"',
+                ]
+                
+                for padrao in padroes:
+                    match = re.search(padrao, html_content, re.IGNORECASE | re.DOTALL)
+                    if match:
+                        img_url = match.group(1)
+                        if img_url:
+                            # Corrigir aspas curvas
+                            img_url = img_url.replace('"', '"').replace('"', '"')
+                            # Garantir URL completa
+                            if img_url.startswith('/'):
+                                img_url = f"https://www.cmfor.ce.gov.br{img_url}"
+                            # Remover porta 8080
+                            img_url = img_url.replace(':8080', '')
+                            # Corrigir × para x
+                            img_url = img_url.replace('×', 'x')
+                            return img_url
+                return None
+            
+            # Extrair imagem
+            imagem_destacada_url = extrair_primeira_imagem(conteudo_raw)
+            
+            if imagem_destacada_url:
+                print(f"      📸 Imagem destacada encontrada!")
+                imagem_destacada = f'    <enclosure url="{imagem_destacada_url}" type="image/jpeg" length="50000" />'
+            else:
+                print(f"      ⚠️  Nenhuma imagem encontrada no conteúdo")
+                # Usar imagem padrão da Câmara
+                imagem_destacada_url = "https://www.cmfor.ce.gov.br/wp-content/uploads/2024/01/logo-cmfor.png"
+                imagem_destacada = f'    <enclosure url="{imagem_destacada_url}" type="image/jpeg" length="50000" />'
             
             # Criar descrição simples
             texto = re.sub('<[^>]+>', '', conteudo_raw)
@@ -95,7 +140,7 @@ def criar_feed_corrigido():
             # 3. Corrigir aspas curvas
             conteudo_limpo = conteudo_limpo.replace('"', '"').replace('"', '"')
             
-            # 4. ESCAPAR ]]> dividindo o CDATA (IMPORTANTE!)
+            # 4. ESCAPAR ]]> dividindo o CDATA
             if ']]>' in conteudo_limpo:
                 conteudo_limpo = conteudo_limpo.replace(']]>', ']]]]><![CDATA[>')
             
@@ -107,8 +152,13 @@ def criar_feed_corrigido():
             xml_lines.append(f'      <title>{html.escape(titulo_raw)}</title>')
             xml_lines.append(f'      <link>{link}</link>')
             xml_lines.append(f'      <guid>{link}</guid>')
+            
+            # ADICIONAR ENCLOSURE (IMAGEM DESTACADA)
+            xml_lines.append(imagem_destacada)
+            
             if pub_date_str:
                 xml_lines.append(f'      <pubDate>{pub_date_str}</pubDate>')
+            
             xml_lines.append(f'      <description>{descricao}</description>')
             xml_lines.append(f'      <content:encoded><![CDATA[{conteudo_limpo}]]></content:encoded>')
             xml_lines.append('    </item>')
@@ -135,30 +185,29 @@ def criar_feed_corrigido():
         with open(FEED_FILE, "r", encoding="utf-8") as f:
             content = f.read()
             
+            # Contar imagens destacadas
+            enclosures = content.count('<enclosure')
+            imagens_conteudo = len(re.findall(r'<img[^>]+src="[^"]+"', content))
+            
+            print(f"   📸 Imagens destacadas (enclosure): {enclosures}/10")
+            print(f"   🖼️  Imagens no conteúdo: {imagens_conteudo}")
+            
             # Verificar namespaces
             if 'xmlns:content=' in content:
                 print("   ✅ Namespace content declarado")
             else:
                 print("   ❌ Namespace content NÃO declarado")
-            
-            if 'xmlns:atom=' in content:
-                print("   ✅ Namespace atom declarado")
-            else:
-                print("   ❌ Namespace atom NÃO declarado")
-            
-            # Verificar CDATA
-            cdata_open = content.count('<![CDATA[')
-            cdata_close = content.count(']]>')
-            
-            print(f"   ✅ CDATA abertos: {cdata_open}")
-            print(f"   ✅ CDATA fechados: {cdata_close}")
-            print(f"   ✅ Balanceado: {cdata_open == cdata_close}")
         
         print("\n" + "=" * 70)
-        print("🎉 FEED GERADO!")
+        print("🎉 FEED COM IMAGEM DESTACADA GERADO!")
         print("=" * 70)
-        print("📋 Para validar:")
-        print("   https://validator.w3.org/feed/check.cgi?url=https://thecrossnow.github.io/feed-leg-ftz/feed.xml")
+        print("⚙️  Configuração WordPress IMPORTANTE:")
+        print("   No WP Automatic, configure:")
+        print("   1. 'First image as featured: YES'")
+        print("   2. 'Download images: YES'")
+        print("   3. 'Get full content: YES'")
+        print("=" * 70)
+        print("📋 O WordPress usará a primeira imagem como destacada!")
         print("=" * 70)
         
         return True
@@ -170,5 +219,5 @@ def criar_feed_corrigido():
         return False
 
 if __name__ == "__main__":
-    success = criar_feed_corrigido()
+    success = criar_feed_com_imagem_destacada()
     sys.exit(0 if success else 1)
