@@ -11,11 +11,15 @@ on:
 jobs:
   update-feed:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 👈 ADICIONE ESTA LINHA!
     
     steps:
     - name: 📥 Baixar código
       uses: actions/checkout@v3
-      
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}  # 👈 ADICIONE ESTE PARÂMETRO!
+        
     - name: 🐍 Configurar Python
       uses: actions/setup-python@v4
       with:
@@ -29,21 +33,42 @@ jobs:
       
     - name: 💾 Verificar resultado
       run: |
-        echo "Verificando feed.xml..."
+        echo "=== VERIFICAÇÃO ==="
+        echo "Arquivo feed.xml:"
         ls -la feed.xml
-        echo "Primeiras 3 linhas:"
-        head -3 feed.xml
+        echo ""
+        echo "Primeiras 5 linhas:"
+        head -5 feed.xml
+        echo ""
+        echo "Tamanho: $(stat -c%s feed.xml) bytes"
         
     - name: 📤 Fazer commit das alterações
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --global user.name 'GitHub Actions'
-        git config --global user.email 'actions@github.com'
+        echo "Configurando Git..."
+        git config --global user.name 'GitHub Actions Bot'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        
+        echo "Adicionando alterações..."
         git add feed.xml
-        git diff --cached --quiet || (git commit -m "🔄 Atualização automática - $(date +'%d/%m/%Y %H:%M')" && git push)
+        
+        echo "Verificando mudanças..."
+        if git diff --cached --quiet; then
+          echo "✅ Nenhuma alteração detectada"
+        else
+          echo "🔄 Commit das alterações..."
+          git commit -m "🔄 Atualização automática - $(date +'%d/%m/%Y %H:%M')" 
+          echo "📤 Push para o repositório..."
+          git push
+          echo "✅ Push concluído!"
+        fi
         
     - name: ✅ Notificar sucesso
       if: success()
       run: |
+        echo "=== SUCESSO ==="
         echo "🎉 Feed atualizado com sucesso!"
         echo "📅 Próxima atualização: daqui a 1 hora"
-        echo "🔗 URL: https://thecrossnow.github.io/feed-leg-ftz/feed.xml"
+        echo "🔗 URL do feed: https://thecrossnow.github.io/feed-leg-ftz/feed.xml"
+        echo "🔗 URL raw: https://raw.githubusercontent.com/thecrossnow/feed-leg-ftz/main/feed.xml"
