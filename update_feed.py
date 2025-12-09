@@ -90,3 +90,14 @@ except Exception as e:
     exit(1)
 
 print("🎉 Atualização concluída com sucesso!")
+
+# No final do arquivo update_feed.py, adicione:
+if __name__ == "__main__":
+    try:
+        # Seu código atual...
+        print("🎉 Atualização concluída com sucesso!")
+        print(f"📊 Notícias processadas: {len(noticias)}")
+        exit(0)  # Código de saída 0 = sucesso
+    except Exception as e:
+        print(f"❌ ERRO CRÍTICO: {e}")
+        exit(1)  # Código de saída 1 = erro
