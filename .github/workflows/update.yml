@@ -2,7 +2,7 @@ name: Update RSS Feed
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # A cada 2 horas (mais frequente para testes)
+    - cron: '0 */1 * * *'  # A cada 2 horas (mais frequente para testes)
   workflow_dispatch:        # Execução manual
   push:
     paths:
