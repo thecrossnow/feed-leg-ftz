@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script para atualizar feed RSS - VERSÃO FINAL CORRIGIDA
+Script para atualizar feed RSS - VERSÃO SIMPLIFICADA E FUNCIONAL
 """
 
 import requests
@@ -11,38 +11,41 @@ import sys
 import html
 import re
 
-def limpar_conteudo(conteudo):
+def limpar_conteudo_para_rss(conteudo):
     """
-    Limpa o conteúdo mantendo HTML válido e escapa ]]>
+    Limpa o conteúdo para RSS sem usar CDATA problemático
     """
-    # Decodificar entidades HTML
+    # Decodificar HTML entities
     conteudo = html.unescape(conteudo)
     
-    # Remover tags problemáticas
+    # Remover elementos problemáticos
     conteudo = re.sub(r'<updated>.*?</updated>', '', conteudo)
+    conteudo = re.sub(r'<dc:creator>.*?</dc:creator>', '', conteudo)
     
-    # Escapar sequências ]]> dentro do conteúdo
-    conteudo = conteudo.replace(']]>', ']]]]><![CDATA[>')
+    # Escapar caracteres XML especiais
+    conteudo = conteudo.replace('&', '&amp;')
+    conteudo = conteudo.replace('<', '&lt;')
+    conteudo = conteudo.replace('>', '&gt;')
+    conteudo = conteudo.replace('"', '&quot;')
+    conteudo = conteudo.replace("'", '&apos;')
     
-    # Remover atributos problemáticos
-    conteudo = re.sub(r'\sstyle="[^"]*"', '', conteudo)
-    conteudo = re.sub(r'\sclass="[^"]*"', '', conteudo)
+    # IMPORTANTE: Remover qualquer ]]> que possa existir
+    conteudo = conteudo.replace(']]>', '')
     
-    # Corrigir imagens
+    # Remover porta :8080 das URLs
     conteudo = re.sub(r':8080', '', conteudo)
     
     return conteudo.strip()
 
-def criar_feed_rss_valido(noticias):
+def criar_feed_rss_simples(noticias):
     """
-    Cria feed RSS 2.0 válido
+    Cria feed RSS 2.0 válido sem problemas de CDATA
     """
     # Elemento raiz
     rss = ET.Element("rss")
     rss.set("version", "2.0")
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
     rss.set("xmlns:content", "http://purl.org/rss/1.0/modules/content/")
-    rss.set("xmlns:dc", "http://purl.org/dc/elements/1.1/")
     
     # Channel
     channel = ET.SubElement(rss, "channel")
@@ -93,77 +96,52 @@ def criar_feed_rss_valido(noticias):
         if pub_date:
             try:
                 dt = datetime.fromisoformat(pub_date.replace('Z', '+00:00'))
-                pub_date_str = dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
-                ET.SubElement(item_elem, "pubDate").text = pub_date_str
-                # dc:date
-                dc_date = ET.SubElement(item_elem, "dc:date")
-                dc_date.text = dt.isoformat()
-            except Exception as e:
-                print(f"      ⚠️ Erro na data: {e}")
+                ET.SubElement(item_elem, "pubDate").text = dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+            except:
                 ET.SubElement(item_elem, "pubDate").text = pub_date
         
         # Conteúdo bruto
         conteudo_raw = item.get('content', {}).get('rendered', '')
         
-        # Limpar conteúdo (ESCAPA ]]>)
-        conteudo_limpo = limpar_conteudo(conteudo_raw)
-        
-        # Criar description (texto simples, sem tags HTML)
+        # Criar description (texto simples)
         texto_simples = re.sub('<[^>]+>', '', conteudo_raw)
         texto_simples = html.unescape(texto_simples)
         descricao = (texto_simples[:250] + "...") if len(texto_simples) > 250 else texto_simples
         descricao = html.escape(descricao)
         
-        # Description (SEM CDATA!)
-        desc_elem = ET.SubElement(item_elem, "description")
-        desc_elem.text = descricao
+        # Description (texto simples, sem HTML)
+        ET.SubElement(item_elem, "description").text = descricao
         
-        # Content:encoded (COM CDATA, conteúdo escapado)
+        # Content:encoded (HTML escapado, SEM CDATA)
+        conteudo_limpo = limpar_conteudo_para_rss(conteudo_raw)
         content_elem = ET.SubElement(item_elem, "content:encoded")
-        # O conteúdo já está com ]]> escapado
-        content_elem.text = f"<![CDATA[{conteudo_limpo}]]>"
-        
-        # Autor
-        try:
-            author = item.get('_embedded', {}).get('author', [{}])[0].get('name', '')
-            if author:
-                ET.SubElement(item_elem, "author").text = author
-                dc_creator = ET.SubElement(item_elem, "dc:creator")
-                dc_creator.text = author
-        except:
-            pass
+        content_elem.text = conteudo_limpo  # Já está escapado, não precisa de CDATA
     
     return rss
 
-def gerar_xml_final(rss_tree):
+def gerar_xml_com_indentacao(rss_tree):
     """
-    Gera XML final garantindo que ]]> esteja escapado
+    Gera XML bem formatado
     """
-    # Converter para string XML
+    # Converter para string
     xml_str = ET.tostring(rss_tree, encoding='unicode', method='xml')
     
     # Adicionar declaração XML
     xml_final = '<?xml version="1.0" encoding="UTF-8"?>\n' + xml_str
     
-    # Processar manualmente o CDATA
-    lines = []
-    in_cdata = False
-    for line in xml_final.split('\n'):
-        if '<content:encoded>' in line and 'CDATA' not in line:
-            lines.append(line.replace('<content:encoded>', '<content:encoded><![CDATA['))
-        elif '</content:encoded>' in line and ']]>' not in line:
-            lines.append(line.replace('</content:encoded>', ']]></content:encoded>'))
-        else:
-            lines.append(line)
+    # Formatar com indentação
+    import xml.dom.minidom
     
-    xml_final = '\n'.join(lines)
-    
-    # Garantir que ]]> esteja escapado se ainda existir
-    xml_final = xml_final.replace(']]>', ']]]]><![CDATA[>')
-    
-    # Corrigir &lt;![CDATA[ para <![CDATA[
-    xml_final = xml_final.replace('&lt;![CDATA[', '<![CDATA[')
-    xml_final = xml_final.replace(']]&gt;', ']]>')
+    try:
+        dom = xml.dom.minidom.parseString(xml_final)
+        xml_final = dom.toprettyxml(indent="  ")
+        
+        # Remover linha em branco extra após declaração XML
+        lines = xml_final.split('\n')
+        xml_final = '\n'.join(lines[1:])  # Pular primeira linha duplicada
+    except:
+        # Fallback simples
+        pass
     
     # Remover linhas vazias
     lines = [line for line in xml_final.split('\n') if line.strip()]
@@ -185,16 +163,14 @@ def main():
         params = {
             "per_page": 10,
             "orderby": "date",
-            "order": "desc",
-            "_embed": "true"
+            "order": "desc"
         }
         
         response = requests.get(API_URL, params=params, timeout=30)
         
         if response.status_code != 200:
             print(f"❌ Erro na API: {response.status_code}")
-            print(f"   Resposta: {response.text[:200]}")
-            # Feed mínimo
+            # Criar feed mínimo
             with open(FEED_FILE, "w", encoding="utf-8") as f:
                 f.write('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel><title>Câmara Municipal de Fortaleza</title><link>https://www.cmfor.ce.gov.br</link><description>Feed temporariamente indisponível</description></channel></rss>')
             return True
@@ -204,58 +180,62 @@ def main():
         
         # 2. Criar feed
         print("📝 Criando feed RSS...")
-        rss = criar_feed_rss_valido(noticias)
+        rss = criar_feed_rss_simples(noticias)
         
         # 3. Gerar XML
         print("💾 Gerando XML...")
-        xml_final = gerar_xml_final(rss)
+        xml_final = gerar_xml_com_indentacao(rss)
         
-        # 4. Salvar
+        # 4. Verificar se não há ]]> no XML
+        if ']]>' in xml_final:
+            print("⚠️  Aviso: Encontrado ]]> no XML, removendo...")
+            xml_final = xml_final.replace(']]>', '')
+        
+        # 5. Salvar
         with open(FEED_FILE, "w", encoding="utf-8") as f:
             f.write(xml_final)
         
         file_size = os.path.getsize(FEED_FILE)
         print(f"✅ Feed salvo: {FEED_FILE} ({file_size:,} bytes)")
         
-        # 5. Verificação rápida
-        print("\n🔍 Verificando CDATA...")
+        # 6. Verificação
+        print("\n🔍 Verificando estrutura...")
         with open(FEED_FILE, "r", encoding="utf-8") as f:
             content = f.read()
             
-            if ']]]]><![CDATA[>' in content:
-                print("   ✅ ]]> escapado corretamente")
-            else:
-                print("   ℹ️ Nenhum ]]> encontrado para escapar")
+            checks = {
+                "Declaração XML": '<?xml' in content,
+                "RSS 2.0": 'version="2.0"' in content,
+                "Channel": "<channel>" in content,
+                "Itens": content.count("<item>") == len(noticias),
+                "Sem ]]>": ']]>' not in content,
+                "Sem CDATA": '<![CDATA[' not in content,
+                "Com content:encoded": '<content:encoded>' in content,
+            }
             
-            if '<description><![CDATA[' in content:
-                print("   ❌ ERRO: CDATA no description")
-            else:
-                print("   ✅ Description sem CDATA")
-            
-            if '<content:encoded><![CDATA[' in content:
-                print("   ✅ Content com CDATA")
-            else:
-                print("   ❌ ERRO: Content sem CDATA")
+            for check, result in checks.items():
+                status = "✅" if result else "❌"
+                print(f"   {status} {check}")
         
-        print("\n📄 Primeiras linhas do feed:")
+        print("\n📄 Primeiras linhas:")
         print("-" * 60)
         with open(FEED_FILE, "r", encoding="utf-8") as f:
-            for i, line in enumerate(f.readlines()[:20], 1):
+            lines = f.readlines()[:15]
+            for i, line in enumerate(lines, 1):
                 if line.strip():
-                    print(f"{i:2}: {line.rstrip()[:80]}")
+                    clean_line = line.rstrip()
+                    print(f"{i:2}: {clean_line[:80]}")
         print("-" * 60)
         
         print("\n" + "=" * 60)
-        print("🎉 FEED GERADO!")
+        print("🎉 FEED GERADO COM SUCESSO!")
         print("=" * 60)
         print(f"📊 Estatísticas:")
         print(f"   • Notícias: {len(noticias)}")
         print(f"   • Tamanho: {file_size:,} bytes")
         print(f"   • Data: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}")
         print("=" * 60)
-        print(f"🔗 Valide em:")
-        print(f"   https://validator.w3.org/feed/")
-        print(f"   URL: https://thecrossnow.github.io/feed-leg-ftz/feed.xml")
+        print("✅ Este feed NÃO usa CDATA, evitando problemas de validação")
         print("=" * 60)
         
         return True
