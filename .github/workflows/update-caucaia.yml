@@ -1,203 +1,136 @@
-name: 🗞️ Update Caucaia News Feed
+name: 🔄 Atualizar Feed Caucaia
 
 on:
-  # A cada 1 hora das 8h às 22h (horário de Brasília)
+  # A cada hora das 8h às 22h BRT
   schedule:
-    - cron: '0 11,12,13,14,15,16,17,18,19,20,21,22,23,0,1 * * *'  # 8h-22h BRT
+    - cron: '0 11,12,13,14,15,16,17,18,19,20,21,22,23,0,1 * * *'
   
-  # Execução manual
+  # Permite execução manual
   workflow_dispatch:
-    inputs:
-      force_update:
-        description: 'Forçar atualização mesmo sem mudanças?'
-        required: false
-        default: 'false'
-        type: choice
-        options:
-        - 'true'
-        - 'false'
-
-  # Executa quando o script é alterado
-  push:
-    paths:
-      - 'upnewscaucaia.py'
-      - '.github/workflows/update-caucaia.yml'
 
 permissions:
   contents: write
 
 jobs:
-  update-feed:
+  atualizar-feed:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     
     steps:
-    - name: 📥 Checkout código
+    # 1. Baixar código
+    - name: 📥 Baixar repositório
       uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
     
-    - name: 🐍 Configurar Python
+    # 2. Configurar Python
+    - name: 🐍 Configurar Python 3.10
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
     
+    # 3. Instalar bibliotecas
     - name: 📦 Instalar dependências
       run: |
+        python -m pip install --upgrade pip
         pip install beautifulsoup4 requests
     
-    - name: 🔍 Verificar ambiente
+    # 4. Executar script
+    - name: 🚀 Executar scraper
       run: |
-        echo "📅 Data/hora UTC: $(date -u '+%Y-%m-%d %H:%M:%S')"
-        echo "📅 Data/hora BRT: $(TZ="America/Fortaleza" date '+%Y-%m-%d %H:%M:%S')"
-        echo "📁 Diretório: $(pwd)"
-        echo "📄 Arquivos:"
+        echo "⏰ Iniciando em: $(date)"
+        echo "📁 Diretório atual: $(pwd)"
+        echo "📄 Listando arquivos:"
         ls -la
         
-        # Verificar se o script existe
-        if [ -f "upnewscaucaia.py" ]; then
-          echo "✅ Script upnewscaucaia.py encontrado"
-          echo "📏 Tamanho: $(wc -l < upnewscaucaia.py) linhas"
+        echo "🔧 Executando scraper..."
+        python upnewscaucaia.py
+        
+        echo "✅ Scraper finalizado"
+        echo "📊 Verificando resultado..."
+        
+        if [ -f "feed_caucaia_limpo.xml" ]; then
+          echo "🎉 Arquivo gerado: feed_caucaia_limpo.xml"
+          echo "📏 Tamanho: $(wc -c < feed_caucaia_limpo.xml) bytes"
+          echo "📰 Notícias: $(grep -c '<item>' feed_caucaia_limpo.xml)"
         else
-          echo "❌ ERRO: upnewscaucaia.py não encontrado!"
+          echo "❌ Arquivo não foi gerado!"
+          echo "📁 Listando XMLs:"
+          ls -la *.xml 2>/dev/null || echo "Nenhum XML encontrado"
           exit 1
         fi
     
-    - name: 🚀 Executar scraper
-      id: scraper
-      run: |
-        echo "▶️  Iniciando scraper..."
-        
-        # Criar timestamp para log
-        TIMESTAMP=$(date '+%Y%m%d_%H%M%S')
-        echo "TIMESTAMP=$TIMESTAMP" >> $GITHUB_ENV
-        
-        # Executar script Python
-        if python upnewscaucaia.py; then
-          echo "✅ Scraper executado com sucesso"
-          
-          # Encontrar o arquivo de feed gerado
-          for feed in feed_caucaia.xml feed_caucaia_limpo.xml feed_caucaia_final.xml feed_caucaia_completo.xml; do
-            if [ -f "$feed" ]; then
-              echo "📄 Feed encontrado: $feed"
-              FILESIZE=$(wc -c < "$feed")
-              ITEMS=$(grep -c "<item>" "$feed" || echo "0")
-              
-              echo "FEED_FILE=$feed" >> $GITHUB_ENV
-              echo "FILESIZE=$FILESIZE" >> $GITHUB_ENV
-              echo "ITEMS_COUNT=$ITEMS" >> $GITHUB_ENV
-              
-              echo "📊 Estatísticas:"
-              echo "   - Tamanho: $((FILESIZE/1024)) KB"
-              echo "   - Itens: $ITEMS"
-              echo "   - Linhas: $(wc -l < "$feed")"
-              break
-            fi
-          done
-          
-          # Se não encontrou nenhum feed
-          if [ -z "${FEED_FILE:-}" ]; then
-            echo "⚠️  Nenhum feed XML foi gerado"
-            echo "📁 Listando arquivos *.xml:"
-            ls -la *.xml 2>/dev/null || echo "Nenhum arquivo XML encontrado"
-          fi
-          
-        else
-          echo "❌ ERRO: Falha na execução do scraper"
-          exit 1
-        fi
-    
-    - name: 🔄 Verificar mudanças
+    # 5. Verificar se houve mudanças
+    - name: 🔍 Verificar mudanças
       id: check-changes
-      if: success() && env.FEED_FILE != ''
       run: |
-        echo "🔍 Verificando se o feed foi alterado..."
+        echo "🔍 Verificando se o feed mudou..."
         
-        # Mostrar status atual
-        echo "📋 Status git:"
-        git status --short
+        # Verificar status
+        git status
         
-        # Verificar se há mudanças no feed
-        if git diff --quiet HEAD -- "$FEED_FILE"; then
-          echo "📭 Nenhuma alteração no feed"
-          echo "CHANGED=false" >> $GITHUB_ENV
+        # Verificar diferenças
+        if git diff --quiet HEAD -- feed_caucaia_limpo.xml; then
+          echo "📭 Nenhuma mudança detectada"
+          echo "changed=false" >> $GITHUB_ENV
         else
-          echo "📬 Feed alterado!"
-          echo "CHANGED=true" >> $GITHUB_ENV
+          echo "📬 Mudanças detectadas!"
+          echo "changed=true" >> $GITHUB_ENV
           
-          # Mostrar diferenças
-          echo "📝 Diferenças encontradas:"
-          git diff --stat HEAD -- "$FEED_FILE"
+          # Mostrar diff
+          echo "📝 Diferenças:"
+          git diff --stat HEAD -- feed_caucaia_limpo.xml
         fi
     
-    - name: 💾 Commit das atualizações
-      if: success() && env.CHANGED == 'true'
+    # 6. Fazer commit apenas se houver mudanças
+    - name: 💾 Salvar atualizações
+      if: env.changed == 'true'
       run: |
-        echo "💾 Salvando alterações..."
+        echo "💾 Configurando git..."
         
-        # Configurar git
-        git config --local user.name "GitHub Actions Bot"
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions"
+        git config --local user.email "actions@github.com"
         
-        # Adicionar apenas o feed
-        git add "$FEED_FILE"
+        echo "📤 Adicionando arquivo..."
+        git add feed_caucaia_limpo.xml
         
-        # Criar mensagem de commit
-        COMMIT_TIME_BRT=$(TZ="America/Fortaleza" date '+%d/%m/%Y %H:%M')
-        COMMIT_MSG="📰 Atualização feed Caucaia - $COMMIT_TIME_BRT"
+        echo "📝 Criando commit..."
+        HORA_BRT=$(TZ="America/Fortaleza" date '+%d/%m/%Y %H:%M')
+        git commit -m "🤖 Atualização automática feed Caucaia - $HORA_BRT"
         
-        if [ -n "${ITEMS_COUNT:-}" ]; then
-          COMMIT_MSG="$COMMIT_MSG ($ITEMS_COUNT notícias)"
-        fi
-        
-        # Fazer commit
-        git commit -m "$COMMIT_MSG"
-        
-        # Fazer push
         echo "🚀 Enviando para GitHub..."
         git push
         
         echo "✅ Feed atualizado com sucesso!"
-        echo "🔗 URL: https://raw.githubusercontent.com/${{ github.repository }}/main/$FEED_FILE"
     
-    - name: ✅ Nada para atualizar
-      if: success() && env.CHANGED == 'false'
+    # 7. Se não houver mudanças
+    - name: ⏸️  Sem atualizações
+      if: env.changed == 'false'
       run: |
         echo "✅ Feed já está atualizado"
         echo "⏰ Próxima execução em 1 hora"
-        echo "📊 Feed atual: $FEED_FILE ($ITEMS_COUNT notícias)"
+        echo "🔗 URL atual: https://raw.githubusercontent.com/${{ github.repository }}/main/feed_caucaia_limpo.xml"
     
-    - name: 📋 Resumo final
-      if: always()
+    # 8. Resumo final
+    - name: 📋 Resumo
       run: |
         echo "========================================"
-        echo "📋 RESUMO DA EXECUÇÃO"
+        echo "          📋 RESUMO DA EXECUÇÃO"
         echo "========================================"
+        echo "🕐 Hora: $(TZ="America/Fortaleza" date '+%H:%M:%S') BRT"
+        echo "📁 Repositório: ${{ github.repository }}"
         
-        if [ "${{ job.status }}" = "success" ]; then
-          echo "✅ STATUS: SUCESSO"
-          
-          if [ -n "${FEED_FILE:-}" ]; then
-            echo "📄 Feed: $FEED_FILE"
-            
-            if [ -n "${ITEMS_COUNT:-}" ]; then
-              echo "📰 Notícias: $ITEMS_COUNT"
-            fi
-            
-            if [ "${CHANGED:-}" = "true" ]; then
-              echo "🔄 Atualizado: SIM"
-            else
-              echo "🔄 Atualizado: NÃO (já estava atualizado)"
-            fi
-          fi
-          
-          echo "🔗 URL do feed:"
-          echo "   https://raw.githubusercontent.com/${{ github.repository }}/main/$FEED_FILE"
-          
-        else
-          echo "❌ STATUS: FALHA"
-          echo "⚠️  Verifique os logs acima"
+        if [ -f "feed_caucaia_limpo.xml" ]; then
+          ITEMS=$(grep -c '<item>' feed_caucaia_limpo.xml || echo "0")
+          SIZE=$(wc -c < feed_caucaia_limpo.xml)
+          echo "📄 Feed: feed_caucaia_limpo.xml"
+          echo "📰 Notícias: $ITEMS"
+          echo "📏 Tamanho: $((SIZE/1024)) KB"
+          echo "🔗 URL: https://raw.githubusercontent.com/${{ github.repository }}/main/feed_caucaia_limpo.xml"
         fi
         
-        echo "⏰ Hora BRT: $(TZ="America/Fortaleza" date '+%H:%M:%S')"
+        if [ "${{ env.changed }}" = "true" ]; then
+          echo "🔄 Status: ATUALIZADO"
+        else
+          echo "⚡ Status: JÁ ATUALIZADO"
+        fi
+        
+        echo "⏳ Próxima: Em 1 hora"
         echo "========================================"
