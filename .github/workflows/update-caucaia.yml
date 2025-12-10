@@ -1,43 +1,110 @@
-name: ⚡ Atualização NUCLEAR Feed Caucaia
+name: 🗞️ Atualizar Feed Caucaia
 
-on: [workflow_dispatch]
+on:
+  schedule:
+    - cron: '0 11-23,0-1 * * *'  # 8h-22h BRT
+  workflow_dispatch:
+
+# ✅ PERMISSÕES CORRETAS
+permissions:
+  contents: write  # ESSENCIAL para poder fazer push
 
 jobs:
-  update:
+  update-feed:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v4
+    # 1. Baixar repositório COM TOKEN
+    - name: 📥 Checkout com token
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}  # ✅ TOKEN NECESSÁRIO
+        fetch-depth: 0
     
-    - uses: actions/setup-python@v4
+    # 2. Configurar Python
+    - name: 🐍 Configurar Python
+      uses: actions/setup-python@v4
       with:
         python-version: '3.10'
     
-    - run: pip install beautifulsoup4 requests
-    
-    - name: 🚀 Executar e COMMITAR
+    # 3. Instalar dependências
+    - name: 📦 Instalar bibliotecas
       run: |
-        # 1. Executar scraper
+        pip install beautifulsoup4 requests
+    
+    # 4. Executar scraper
+    - name: 🚀 Executar scraper
+      id: scraper
+      run: |
+        echo "▶️ Executando scraper..."
         python upnewscaucaia.py
         
-        # 2. Verificar se gerou o arquivo
-        if [ ! -f "feed_caucaia_limpo.xml" ]; then
-          echo "❌ Arquivo não foi gerado!"
+        echo "📊 Verificando resultado..."
+        if [ -f "feed_caucaia_limpo.xml" ]; then
+          ITEMS=$(grep -c '<item>' feed_caucaia_limpo.xml || echo "0")
+          SIZE=$(wc -c < feed_caucaia_limpo.xml)
+          echo "✅ feed_caucaia_limpo.xml gerado"
+          echo "📰 Itens: $ITEMS"
+          echo "📏 Tamanho: $((SIZE/1024)) KB"
+          
+          echo "ITEMS_COUNT=$ITEMS" >> $GITHUB_ENV
+        else
+          echo "❌ ERRO: feed_caucaia_limpo.xml não foi gerado!"
+          ls -la
           exit 1
         fi
+    
+    # 5. Configurar git CORRETAMENTE
+    - name: ⚙️ Configurar git
+      run: |
+        echo "⚙️ Configurando git..."
         
-        # 3. Configurar git
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
+        # Configurar usuário do GitHub Actions
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
         
-        # 4. FORÇAR commit
+        # Configurar remote com token
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+    
+    # 6. Fazer commit e push
+    - name: 💾 Commit e push
+      run: |
+        echo "💾 Preparando commit..."
+        
+        # Adicionar timestamp ÚNICO para forçar mudança
+        TIMESTAMP=$(date '+%Y%m%d_%H%M%S')
+        echo "<!-- GitHub Actions Update: $TIMESTAMP -->" | cat - feed_caucaia_limpo.xml > temp.xml
+        mv temp.xml feed_caucaia_limpo.xml
+        
+        # Adicionar ao git
         git add feed_caucaia_limpo.xml
         
-        # Criar mensagem com timestamp ÚNICO
-        MSG="UPDATE: $(date '+%s')"
-        git commit -m "🔄 $MSG" || echo "⚠️ Commit vazio, continuando..."
+        # Verificar status
+        echo "📋 Status git:"
+        git status
         
-        # 5. FORÇAR push
-        git push || git push --force
+        # Criar mensagem
+        HORA_BRT=$(TZ="America/Fortaleza" date '+%d/%m %H:%M')
+        COMMIT_MSG="🤖 Atualização feed Caucaia - $HORA_BRT (${{ env.ITEMS_COUNT }} notícias)"
         
-        echo "✅ FEED ATUALIZADO NO REPOSITÓRIO!"
+        # Fazer commit
+        git commit -m "$COMMIT_MSG" || echo "⚠️ Nenhuma mudança detectada, criando commit vazio..." && git commit --allow-empty -m "$COMMIT_MSG"
+        
+        # Fazer push
+        echo "🚀 Fazendo push..."
+        git push origin main
+        
+        echo "✅ Push realizado com sucesso!"
+    
+    # 7. Resumo
+    - name: 📋 Resumo
+      run: |
+        echo "========================================"
+        echo "          🎉 ATUALIZAÇÃO CONCLUÍDA"
+        echo "========================================"
+        echo "✅ Feed atualizado no repositório"
+        echo "📰 Notícias: ${{ env.ITEMS_COUNT }}"
+        echo "🕐 Hora BRT: $(TZ="America/Fortaleza" date '+%H:%M:%S')"
+        echo "🔗 URL do feed:"
+        echo "https://raw.githubusercontent.com/${{ github.repository }}/main/feed_caucaia_limpo.xml"
+        echo "========================================"
