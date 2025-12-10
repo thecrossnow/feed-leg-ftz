@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# upnewsfortaleza.py - VERSÃO COM CONTEÚDO COMPLETO E FORMATAÇÃO ORIGINAL
+# upnewsfortaleza.py - VERSÃO FINAL COM CONTEÚDO LIMPO E SEM DUPLICAÇÕES
 
 import requests
 from bs4 import BeautifulSoup
@@ -12,12 +12,12 @@ import re
 import os
 import sys
 
-def criar_feed_fortaleza_completo():
+def criar_feed_fortaleza_limpo():
     """
-    Extrai conteúdo COMPLETO com formatação original
+    Extrai conteúdo LIMPO sem duplicações
     """
     
-    print("🚀 upnewsfortaleza.py - CONTEÚDO COMPLETO COM FORMATAÇÃO")
+    print("🚀 upnewsfortaleza.py - CONTEÚDO LIMPO SEM DUPLICAÇÕES")
     print("=" * 60)
     
     # ================= CONFIGURAÇÃO =================
@@ -27,10 +27,7 @@ def criar_feed_fortaleza_completo():
     
     # Data UTC → Brasília
     utc_agora = datetime.now(timezone.utc)
-    if utc_agora.hour >= 21:
-        HOJE_REF = (utc_agora + timedelta(hours=3)).date()
-    else:
-        HOJE_REF = (utc_agora + timedelta(hours=3)).date()
+    HOJE_REF = (utc_agora + timedelta(hours=3)).date()
     
     print(f"📅 Data de referência: {HOJE_REF.strftime('%d/%m/%Y')}")
     print("-" * 60)
@@ -62,8 +59,114 @@ def criar_feed_fortaleza_completo():
             pass
         return None
     
+    def limpar_conteudo(conteudo_html):
+        """Remove duplicações e elementos indesejados do conteúdo"""
+        if not conteudo_html:
+            return ""
+        
+        # Converter para texto para análise
+        soup = BeautifulSoup(conteudo_html, 'html.parser')
+        texto_completo = soup.get_text()
+        
+        # Dividir em parágrafos
+        paragrafos = texto_completo.split('\n')
+        paragrafos_limpos = []
+        
+        # Remover elementos indesejados
+        termos_remover = [
+            'IMPRIMIR', 'Compartilhe:', 'Enviar por Email', 'Compartilhar',
+            'Fonte da matéria', 'Prefeitura de Fortaleza inicia fase de testes',
+            'Propósito é incentivar', 'PUBLICIDADE', 'ANÚNCIO', 'LEIA TAMBÉM'
+        ]
+        
+        # Padrões de duplicação (procurar blocos repetidos)
+        bloco_minimo = 50  # Mínimo de caracteres para considerar um bloco
+        blocos_vistos = set()
+        
+        for para in paragrafos:
+            para = para.strip()
+            if not para or len(para) < 20:
+                continue
+            
+            # Verificar se contém termos a remover
+            if any(termo in para for termo in termos_remover):
+                continue
+            
+            # Verificar se é duplicado (ignorando pequenas variações)
+            para_normalizado = re.sub(r'\s+', ' ', para.lower())
+            if len(para_normalizado) >= bloco_minimo:
+                # Verificar se este parágrafo é similar a um já visto
+                duplicado = False
+                for bloco_visto in blocos_vistos:
+                    # Verificar similaridade (80% de similaridade)
+                    if (para_normalizado in bloco_visto or 
+                        bloco_visto in para_normalizado or
+                        len(set(para_normalizado.split()) & set(bloco_visto.split())) / 
+                        max(len(para_normalizado.split()), len(bloco_visto.split())) > 0.8):
+                        duplicado = True
+                        break
+                
+                if not duplicado:
+                    blocos_vistos.add(para_normalizado)
+                    paragrafos_limpos.append(para)
+            else:
+                # Parágrafos curtos (títulos, etc)
+                if para not in ["Mobilidade", "Serviço", "Desafio Mobilidade Cidadã"]:
+                    paragrafos_limpos.append(para)
+        
+        # Se houver poucos parágrafos, usar estratégia alternativa
+        if len(paragrafos_limpos) < 3:
+            # Tentar extrair conteúdo de forma diferente
+            return extrair_conteudo_direto(soup)
+        
+        # Juntar parágrafos em HTML
+        conteudo_limpo = ""
+        for para in paragrafos_limpos:
+            if len(para) > 30:  # Parágrafos significativos
+                conteudo_limpo += f'<p>{html.escape(para)}</p>\n'
+        
+        return conteudo_limpo
+    
+    def extrair_conteudo_direto(soup):
+        """Extrai conteúdo diretamente dos elementos estruturais"""
+        conteudo = ""
+        
+        # Estratégia 1: Buscar todos os parágrafos significativos
+        for p in soup.find_all('p'):
+            texto = p.get_text(strip=True)
+            if texto and len(texto) > 50:
+                # Verificar se não é elemento de interface
+                if not any(termo in texto for termo in ['IMPRIMIR', 'Compartilhe', 'PUBLICIDADE']):
+                    # Verificar se o parágrafo não está dentro de elementos indesejados
+                    parent_classes = []
+                    parent = p.parent
+                    for _ in range(3):  # Verificar até 3 níveis acima
+                        if parent and parent.get('class'):
+                            parent_classes.extend(parent['class'])
+                        parent = parent.parent if parent else None
+                    
+                    classes_str = ' '.join(parent_classes).lower()
+                    if not any(termo in classes_str for termo in ['social', 'share', 'banner', 'ad']):
+                        conteudo += f'<p>{html.escape(texto)}</p>\n'
+        
+        # Estratégia 2: Se ainda pouco conteúdo, buscar por divs com texto
+        if len(conteudo) < 500:
+            for div in soup.find_all('div'):
+                texto = div.get_text(strip=True)
+                if texto and len(texto) > 200:
+                    # Contar parágrafos dentro da div
+                    ps = div.find_all('p')
+                    if len(ps) >= 3:  # Div com estrutura de conteúdo
+                        for p in ps:
+                            texto_p = p.get_text(strip=True)
+                            if texto_p and len(texto_p) > 30:
+                                conteudo += f'<p>{html.escape(texto_p)}</p>\n'
+                        break
+        
+        return conteudo
+    
     try:
-        # ================= 1. COLETAR LISTAGEM =================
+        # ================= 1. COLETAR NOTÍCIAS =================
         print("🔍 Coletando notícias...")
         
         lista_noticias = []
@@ -168,8 +271,8 @@ def criar_feed_fortaleza_completo():
             print("📭 Nenhuma notícia hoje")
             return True
         
-        # ================= 2. EXTRAIR CONTEÚDO COMPLETO =================
-        print(f"\n📥 Extraindo conteúdo completo...")
+        # ================= 2. EXTRAIR CONTEÚDO LIMPO =================
+        print(f"\n📥 Extraindo conteúdo limpo...")
         
         noticias_completas = []
         
@@ -185,148 +288,101 @@ def criar_feed_fortaleza_completo():
                 
                 soup = BeautifulSoup(response.content, 'html.parser')
                 
-                # ================= CONTEÚDO COM FORMATAÇÃO ORIGINAL =================
-                # Estratégias para encontrar o conteúdo principal
-                conteudo_div = None
+                # ================= EXTRAIR CONTEÚDO PRINCIPAL =================
+                # Remover elementos indesejados ANTES de extrair
+                for tag in soup.find_all(['script', 'style', 'iframe', 'nav', 
+                                         'aside', 'header', 'footer', 'form']):
+                    tag.decompose()
                 
-                # Tentar diferentes seletores comuns
+                # Encontrar conteúdo principal
+                conteudo_principal = None
+                
+                # Tentar seletores específicos do site
                 seletores = [
                     ('div', {'class': 'item-page'}),
                     ('div', {'itemprop': 'articleBody'}),
                     ('article', {}),
                     ('div', {'class': 'blog-item-small-content'}),
-                    ('div', {'id': 'content'}),
-                    ('div', {'id': 'conteudo'}),
-                    ('div', {'class': 'content'}),
-                    ('div', {'class': 'conteudo'})
                 ]
                 
                 for tag_name, attrs in seletores:
-                    conteudo_div = soup.find(tag_name, attrs)
-                    if conteudo_div:
-                        print(f"    ✅ Encontrado: {tag_name} {attrs}")
+                    conteudo_principal = soup.find(tag_name, attrs)
+                    if conteudo_principal:
                         break
                 
-                if not conteudo_div:
-                    # Fallback: procurar div com muito texto
+                if not conteudo_principal:
+                    # Fallback: div com mais texto
                     divs = soup.find_all('div')
                     for div in divs:
                         texto = div.get_text(strip=True)
-                        if len(texto) > 500 and 'script' not in str(div).lower():
-                            conteudo_div = div
-                            print(f"    ✅ Fallback: div com {len(texto)} caracteres")
+                        if len(texto) > 500:
+                            conteudo_principal = div
                             break
                 
-                if not conteudo_div:
-                    noticia['conteudo'] = f'<p>{noticia["titulo"]}</p>'
-                    noticias_completas.append(noticia)
+                if not conteudo_principal:
                     continue
                 
-                # ================= LIMPAR E MANTER FORMATAÇÃO =================
-                # 1. Remover elementos completamente indesejados
-                elementos_remover = ['script', 'style', 'iframe', 'nav', 'aside', 
-                                    'header', 'footer', 'form', 'button']
+                # Remover elementos de compartilhamento e interface
+                elementos_remover = [
+                    'social', 'share', 'comentario', 'comment', 'banner',
+                    'ad', 'publicidade', 'newsletter', 'related', 'sidebar',
+                    'imprimir', 'print', 'email'
+                ]
                 
-                for tag in conteudo_div.find_all(elementos_remover):
-                    tag.decompose()
-                
-                # 2. Remover elementos de compartilhamento, comentários, etc
-                for tag in conteudo_div.find_all(True):
+                for tag in conteudo_principal.find_all(True):
+                    # Verificar por classes
                     classes = tag.get('class', [])
                     id_tag = tag.get('id', '')
                     texto_classe = ' '.join(classes).lower()
                     
-                    # Remover elementos comuns de redes sociais, banners, etc
-                    palavras_remover = ['social', 'share', 'comentario', 'comment',
-                                       'banner', 'advertisement', 'ad', 'publicidade',
-                                       'newsletter', 'related', 'recomendado', 'sidebar']
-                    
-                    if any(palavra in texto_classe for palavra in palavras_remover) or \
-                       any(palavra in id_tag.lower() for palavra in palavras_remover):
+                    if any(termo in texto_classe for termo in elementos_remover) or \
+                       any(termo in id_tag.lower() for termo in elementos_remover):
                         tag.decompose()
                 
-                # 3. CORREÇÃO DE URLS para imagens e links
-                # 3.1 Imagens: corrigir URLs relativas e adicionar atributos
-                for img in conteudo_div.find_all('img'):
-                    src = img.get('src')
-                    if src:
-                        # Corrigir URL se for relativa
-                        if not src.startswith(('http://', 'https://', 'data:')):
-                            if src.startswith('/'):
-                                img['src'] = urljoin(URL_BASE, src)
-                            else:
-                                img['src'] = urljoin(noticia['link'], src)
-                        
-                        # Adicionar atributos para responsividade
-                        img['style'] = 'max-width: 100%; height: auto;'
-                        
-                        # Garantir alt text
-                        if not img.get('alt'):
-                            img['alt'] = noticia['titulo'][:100]
+                # Converter para HTML
+                conteudo_html = str(conteudo_principal)
                 
-                # 3.2 Links: corrigir URLs relativas
-                for a in conteudo_div.find_all('a'):
-                    href = a.get('href')
-                    if href and not href.startswith(('http://', 'https://', '#')):
-                        if href.startswith('/'):
-                            a['href'] = urljoin(URL_BASE, href)
-                        else:
-                            a['href'] = urljoin(noticia['link'], href)
+                # ================= LIMPAR CONTEÚDO =================
+                conteudo_limpo = limpar_conteudo(conteudo_html)
                 
-                # 4. LIMPAR ATRIBUTOS, MAS MANTER TAGS ESTRUTURAIS
-                # Tags que queremos manter com atributos mínimos
-                tags_estruturais = {
-                    'a': ['href'],
-                    'img': ['src', 'alt', 'style'],
-                    'table': [],
-                    'tr': [],
-                    'td': ['colspan', 'rowspan'],
-                    'th': [],
-                    'iframe': ['src', 'width', 'height']
-                }
-                
-                for tag in conteudo_div.find_all(True):
-                    tag_name = tag.name
+                # Se ainda estiver vazio, usar fallback
+                if not conteudo_limpo or len(conteudo_limpo) < 200:
+                    # Extrair parágrafos manualmente
+                    paragrafos = []
+                    for p in soup.find_all('p'):
+                        texto = p.get_text(strip=True)
+                        if texto and len(texto) > 50:
+                            # Verificar se não é menu/interface
+                            parent = p.parent
+                            parent_html = str(parent).lower() if parent else ""
+                            if not any(termo in parent_html for termo in ['menu', 'nav', 'header', 'footer']):
+                                paragrafos.append(texto)
                     
-                    if tag_name in tags_estruturais:
-                        # Manter apenas atributos permitidos
-                        attrs_permitidos = tags_estruturais[tag_name]
-                        novos_atributos = {}
-                        
-                        for attr in attrs_permitidos:
-                            if tag.get(attr):
-                                novos_atributos[attr] = tag[attr]
-                        
-                        tag.attrs = novos_atributos
-                    else:
-                        # Para outras tags, remover todos atributos exceto alguns básicos
-                        if tag_name in ['div', 'span', 'p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
-                                       'ul', 'ol', 'li', 'strong', 'em', 'b', 'i', 'u', 'br',
-                                       'blockquote', 'pre', 'code']:
-                            # Manter apenas estilo se existir
-                            if tag.get('style'):
-                                tag.attrs = {'style': tag['style']}
-                            else:
-                                tag.attrs = {}
-                        else:
-                            # Para tags não reconhecidas, manter conteúdo mas remover tag
-                            tag.unwrap()
+                    # Remover duplicações
+                    paragrafos_unicos = []
+                    for p in paragrafos:
+                        if p not in paragrafos_unicos:
+                            paragrafos_unicos.append(p)
+                    
+                    conteudo_limpo = ""
+                    for p in paragrafos_unicos[:10]:  # Limitar a 10 parágrafos
+                        conteudo_limpo += f'<p>{html.escape(p)}</p>\n'
                 
-                # 5. ADICIONAR IMAGEM DESTACADA NO INÍCIO (se existir)
+                # ================= MONTAR CONTEÚDO FINAL =================
                 conteudo_final = ""
                 
+                # Imagem destacada
                 if noticia['imagem_destaque']:
-                    img_html = f'''
+                    conteudo_final += f'''
                     <div style="margin-bottom: 25px; text-align: center;">
                         <img src="{noticia['imagem_destaque']}" 
                              alt="{html.escape(noticia['titulo'][:100])}"
                              style="max-width: 100%; height: auto; border-radius: 8px;">
                     </div>
                     '''
-                    conteudo_final += img_html
                 
-                # 6. ADICIONAR TÍTULO E DATA
-                cabecalho = f'''
+                # Cabeçalho
+                conteudo_final += f'''
                 <div style="margin-bottom: 20px; padding-bottom: 15px; border-bottom: 1px solid #eee;">
                     <h1 style="margin: 0 0 10px 0; color: #333; font-size: 24px;">
                         {html.escape(noticia['titulo'])}
@@ -336,13 +392,12 @@ def criar_feed_fortaleza_completo():
                     </div>
                 </div>
                 '''
-                conteudo_final += cabecalho
                 
-                # 7. ADICIONAR CONTEÚDO EXTRAÍDO
-                conteudo_final += str(conteudo_div)
+                # Conteúdo principal
+                conteudo_final += conteudo_limpo
                 
-                # 8. ADICIONAR RODAPÉ COM FONTE
-                rodape = f'''
+                # Rodapé
+                conteudo_final += f'''
                 <div style="margin-top: 30px; padding: 15px; background: #f5f5f5; 
                      border-left: 3px solid #0073aa; font-size: 14px;">
                     <p style="margin: 0;">
@@ -352,27 +407,20 @@ def criar_feed_fortaleza_completo():
                     </p>
                 </div>
                 '''
-                conteudo_final += rodape
-                
-                # 9. LIMPAR FORMATAÇÃO EXCESSIVA
-                conteudo_final = re.sub(r'\n\s*\n\s*\n+', '\n\n', conteudo_final)
-                conteudo_final = re.sub(r'<p>\s*</p>', '', conteudo_final)
-                conteudo_final = re.sub(r'<div>\s*</div>', '', conteudo_final)
                 
                 noticia['conteudo'] = conteudo_final
                 noticia['tamanho'] = len(conteudo_final)
                 noticias_completas.append(noticia)
                 
-                print(f"    ✅ Conteúdo: {len(conteudo_final):,} caracteres")
+                print(f"    ✅ Conteúdo limpo: {len(conteudo_final):,} caracteres")
                 
             except Exception as e:
                 print(f"    ❌ Erro: {str(e)[:50]}")
                 continue
         
         # ================= 3. GERAR XML =================
-        print(f"\n📄 Gerando XML com formatação original...")
+        print(f"\n📄 Gerando XML com conteúdo limpo...")
         
-        # Ordenar por hora
         noticias_completas.sort(key=lambda x: x['hora'], reverse=True)
         
         xml_parts = []
@@ -382,7 +430,7 @@ def criar_feed_fortaleza_completo():
         xml_parts.append('<channel>')
         xml_parts.append(f'<title>Notícias Fortaleza - {HOJE_REF.strftime("%d/%m/%Y")}</title>')
         xml_parts.append(f'<link>{URL_BASE}</link>')
-        xml_parts.append(f'<description>Notícias completas com formatação original - {len(noticias_completas)} notícias</description>')
+        xml_parts.append(f'<description>Notícias limpas sem duplicações - {len(noticias_completas)} notícias</description>')
         xml_parts.append('<language>pt-br</language>')
         xml_parts.append(f'<lastBuildDate>{utc_agora.strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>')
         xml_parts.append('<ttl>60</ttl>')
@@ -390,7 +438,6 @@ def criar_feed_fortaleza_completo():
         for noticia in noticias_completas:
             guid = hashlib.md5(noticia['link'].encode()).hexdigest()[:12]
             
-            # Data RSS
             try:
                 hora_partes = noticia['hora'].split(':')
                 hora = int(hora_partes[0]) if hora_partes else 12
@@ -408,7 +455,6 @@ def criar_feed_fortaleza_completo():
             xml_parts.append(f'<pubDate>{pub_date}</pubDate>')
             xml_parts.append(f'<description>{html.escape(noticia["titulo"][:150])} - {noticia["data_texto"]}</description>')
             
-            # AQUI: conteúdo completo com formatação original
             xml_parts.append(f'<content:encoded><![CDATA[ {noticia["conteudo"]} ]]></content:encoded>')
             
             if noticia.get('imagem_destaque'):
@@ -428,24 +474,33 @@ def criar_feed_fortaleza_completo():
         
         # ================= 5. RELATÓRIO =================
         print("-" * 60)
-        print(f"✅ FEED GERADO!")
+        print(f"✅ FEED LIMPO GERADO!")
         print(f"📊 Notícias: {len(noticias_completas)}")
         print(f"📏 Tamanho total: {sum(n.get('tamanho', 0) for n in noticias_completas):,} caracteres")
         print(f"📁 Arquivo: {FEED_FILE}")
         
         if noticias_completas:
-            print(f"\n📋 EXEMPLO DE CONTEÚDO:")
+            # Mostrar exemplo do conteúdo limpo
             primeira = noticias_completas[0]
-            # Mostrar preview do conteúdo HTML
-            preview = primeira['conteudo'][:500].replace('\n', ' ')
-            print(f"  {preview}...")
+            conteudo_texto = BeautifulSoup(primeira['conteudo'], 'html.parser').get_text()
+            
+            print(f"\n📋 EXEMPLO DE CONTEÚDO LIMPO:")
+            linhas = conteudo_texto.split('\n')
+            for linha in linhas[:8]:  # Primeiras 8 linhas
+                linha_limpa = linha.strip()
+                if linha_limpa and len(linha_limpa) > 20:
+                    print(f"  • {linha_limpa[:80]}...")
         
         return True
         
     except Exception as e:
         print(f"❌ ERRO: {e}")
+        import traceback
+        traceback.print_exc()
         return False
 
 if __name__ == "__main__":
-    sucesso = criar_feed_fortaleza_completo()
+    sucesso = criar_feed_fortaleza_limpo()
+    print("=" * 60)
+    print(f"🏁 Status: {'✅ SUCESSO' if sucesso else '❌ FALHA'}")
     sys.exit(0 if sucesso else 1)
