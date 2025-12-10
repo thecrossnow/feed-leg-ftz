@@ -70,10 +70,30 @@ def criar_feed_caucaia_limpo():
                 conteudo_html = ""
                 
                 if div_conteudo:
-                    for tag in div_conteudo.find_all(['script', 'style']):
-                        tag.decompose()
-                    conteudo_html = str(div_conteudo)
+                    # EXTRAIR APENAS O TEXTO DOS PARÁGRAFOS, SEM ESTILOS OU CLASSES
+                    paragrafos_texto = []
+                    
+                    for p in div_conteudo.find_all('p'):
+                        # Extrair apenas o texto, sem tags
+                        texto = p.get_text(strip=True)
+                        if texto and len(texto) > 10:
+                            # Criar parágrafo HTML limpo
+                            paragrafos_texto.append(f'<p>{texto}</p>')
+                    
+                    # Se encontrou parágrafos
+                    if paragrafos_texto:
+                        conteudo_html = ''.join(paragrafos_texto)
+                    else:
+                        # Fallback: texto completo da div
+                        texto_completo = div_conteudo.get_text(strip=True)
+                        if texto_completo:
+                            # Dividir em parágrafos por quebras de linha
+                            linhas = [linha.strip() for linha in texto_completo.split('\n') if linha.strip()]
+                            for linha in linhas:
+                                if len(linha) > 20:
+                                    conteudo_html += f'<p>{linha}</p>'
                 else:
+                    # Fallback original: parágrafos da página
                     todos_p = soup_noticia.find_all('p')
                     paragrafos = []
                     for p in todos_p:
