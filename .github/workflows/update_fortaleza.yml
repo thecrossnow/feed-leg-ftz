@@ -1,0 +1,55 @@
+name: 📰 Atualizar Feed Fortaleza Simples
+
+on:
+  schedule:
+    - cron: '0 12,15,18,21 * * *'  # 9h, 12h, 15h, 18h BR
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # ESSENCIAL para fazer push
+      
+    steps:
+      - name: 📥 Checkout com permissões de escrita
+        uses: actions/checkout@v4
+        
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: 📦 Instalar dependências
+        run: pip install requests beautifulsoup4
+        
+      - name: 🚀 Executar script
+        run: |
+          echo "🔄 Executando upnewsfortaleza.py..."
+          python upnewsfortaleza.py
+          
+          # Verificar se o arquivo foi criado
+          if [[ -f "feed_fortaleza_hoje.xml" ]]; then
+            echo "✅ Arquivo gerado com sucesso!"
+            ls -lh feed_fortaleza_hoje.xml
+          else
+            echo "❌ ERRO: Arquivo não foi gerado!"
+            exit 1
+          fi
+          
+      - name: 💾 Commitar alterações
+        run: |
+          # Configurar git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Verificar se há alterações
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add feed_fortaleza_hoje.xml
+            git commit -m "🤖 Update: $(date +'%Y-%m-%d %H:%M')"
+            git push
+            echo "✅ Alterações commitadas e pushed!"
+          else
+            echo "ℹ️ Nenhuma alteração para commitar"
+          fi
