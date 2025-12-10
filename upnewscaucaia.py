@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-SCRAPER CAUCAIA - VERSÃO FINAL OTIMIZADA
-Funcionando 100% - apenas ajustes finais
+SCRAPER CAUCAIA - CÓDIGO COMPLETO FUNCIONAL
+Conteúdo limpo para WordPress
 """
 
 import requests
@@ -13,23 +13,149 @@ import time
 from urllib.parse import urljoin
 import re
 
-def criar_feed_caucaia_final():
-    """Versão final otimizada"""
+def extrair_conteudo_limpo_wordpress(soup_noticia, url_base):
+    """Extrai APENAS o conteúdo essencial para WordPress"""
     
-    print("🎯 SCRAPER CAUCAIA - VERSÃO FINAL")
+    resultado = {
+        'imagem_principal': None,
+        'titulo': None,
+        'conteudo_limpo': []
+    }
+    
+    # 1. IMAGEM PRINCIPAL
+    img_principal = soup_noticia.find('img', class_='imginfo')
+    if not img_principal:
+        for img_class in ['img-responsive', 'ImagemIndexNoticia']:
+            img_principal = soup_noticia.find('img', class_=img_class)
+            if img_principal:
+                break
+    
+    if img_principal and img_principal.get('src'):
+        src = img_principal['src']
+        if not src.startswith(('http://', 'https://')):
+            src = urljoin(url_base, src)
+        resultado['imagem_principal'] = src
+    
+    # 2. TÍTULO
+    titulo_h1 = soup_noticia.find('h1', class_='DataInforma')
+    if titulo_h1:
+        resultado['titulo'] = titulo_h1.get_text(strip=True)
+    else:
+        for tag in soup_noticia.find_all(['h1', 'strong']):
+            texto = tag.get_text(strip=True)
+            if len(texto) > 30:
+                resultado['titulo'] = texto
+                break
+    
+    # 3. CORPO DA NOTÍCIA (DIV p-info)
+    div_conteudo = soup_noticia.find('div', class_='p-info')
+    
+    if div_conteudo:
+        for elemento in div_conteudo.find_all(['p', 'h2', 'h3', 'strong', 'em']):
+            texto = elemento.get_text(strip=True)
+            if not texto or len(texto) < 20:
+                continue
+            
+            # Ignorar elementos de interface
+            html_elemento = str(elemento)
+            if any(indesejado in html_elemento.lower() for indesejado in [
+                'social', 'fb-', 'coment', 'share', 'whatsapp', 'facebook', 'twitter'
+            ]):
+                continue
+            
+            if elemento.name == 'p':
+                # Limpar classes e estilos
+                html_limpo = re.sub(r'class="[^"]*"', '', str(elemento))
+                html_limpo = re.sub(r'style="[^"]*"', '', html_limpo)
+                html_limpo = re.sub(r'id="[^"]*"', '', html_limpo)
+                
+                # Manter apenas tags seguras
+                html_limpo = re.sub(r'<(?!/?p\b|/?strong\b|/?b\b|/?em\b|/?i\b|/?a\b|/?br\s*/?)[^>]*>', '', html_limpo)
+                
+                if html_limpo.strip():
+                    resultado['conteudo_limpo'].append(html_limpo)
+            
+            elif elemento.name.startswith('h'):
+                resultado['conteudo_limpo'].append(f'<{elemento.name}>{html.escape(texto)}</{elemento.name}>')
+            
+            elif elemento.name in ['strong', 'b']:
+                resultado['conteudo_limpo'].append(f'<p><strong>{html.escape(texto)}</strong></p>')
+            
+            elif elemento.name in ['em', 'i']:
+                resultado['conteudo_limpo'].append(f'<p><em>{html.escape(texto)}</em></p>')
+    
+    # Se não encontrou conteúdo, extrair parágrafos
+    if not resultado['conteudo_limpo']:
+        todos_p = soup_noticia.find_all('p')
+        for p in todos_p:
+            texto = p.get_text(strip=True)
+            if len(texto) > 50 and len(texto) < 1000:
+                # Filtrar lixo
+                if any(lixo in texto.lower() for lixo in ['compartilhe', 'curtir', 'comente', 'whatsapp']):
+                    continue
+                resultado['conteudo_limpo'].append(f'<p>{html.escape(texto)}</p>')
+    
+    return resultado
+
+def criar_conteudo_wordpress_formatado(dados_noticia, link_original):
+    """Cria conteúdo formatado para WordPress"""
+    
+    partes = []
+    
+    # 1. IMAGEM PRINCIPAL
+    if dados_noticia.get('imagem_principal'):
+        img_url = dados_noticia['imagem_principal']
+        titulo_escape = html.escape(dados_noticia.get('titulo', 'Notícia Caucaia'))
+        
+        imagem_html = f'''
+        <div class="wp-block-image">
+            <figure class="aligncenter size-large">
+                <img src="{img_url}" 
+                     alt="{titulo_escape}" 
+                     class="wp-image-{hashlib.md5(img_url.encode()).hexdigest()[:8]}"
+                     style="max-width: 100%; height: auto;"
+                     loading="lazy" />
+                <figcaption>Foto: Prefeitura de Caucaia</figcaption>
+            </figure>
+        </div>
+        '''
+        partes.append(imagem_html.strip())
+    
+    # 2. TÍTULO
+    if dados_noticia.get('titulo'):
+        partes.append(f'<h1>{html.escape(dados_noticia["titulo"])}</h1>')
+    
+    # 3. CORPO DA NOTÍCIA
+    if dados_noticia.get('conteudo_limpo'):
+        for elemento in dados_noticia['conteudo_limpo'][:20]:  # Limitar a 20 elementos
+            partes.append(elemento)
+    
+    # 4. FONTE
+    fonte_html = f'''
+    <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; border-left: 4px solid #0073aa;">
+        <strong>📰 Fonte oficial:</strong> 
+        <a href="{link_original}" target="_blank">Prefeitura Municipal de Caucaia</a>
+    </div>
+    '''
+    partes.append(fonte_html.strip())
+    
+    return '\n'.join(partes)
+
+def criar_feed_caucaia_completo():
+    """Função principal - cria feed completo"""
+    
+    print("🎯 SCRAPER CAUCAIA - CONTEÚDO LIMPO")
     print("="*70)
     
     URL_BASE = "https://www.caucaia.ce.gov.br"
     URL_LISTA = f"{URL_BASE}/informa.php"
-    FEED_FILE = "feed_caucaia_final.xml"
+    FEED_FILE = "feed_caucaia_limpo.xml"
     
-    HEADERS = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-    }
+    HEADERS = {'User-Agent': 'Mozilla/5.0'}
     
     try:
-        # 1. COLETAR NOTÍCIAS DA PÁGINA PRINCIPAL
-        print("📋 Coletando notícias...")
+        # === FASE 1: COLETAR NOTÍCIAS ===
+        print("📋 Coletando notícias da página principal...")
         response = requests.get(URL_LISTA, headers=HEADERS, timeout=30)
         soup = BeautifulSoup(response.content, 'html.parser')
         
@@ -41,16 +167,14 @@ def criar_feed_caucaia_final():
             href = link['href']
             
             if href not in links_processados:
-                # Extrair título do texto do link
                 titulo = link.get_text(strip=True)
                 
-                # Pular links "Continue lendo..."
                 if titulo and len(titulo) > 20 and 'Continue' not in titulo:
                     link_url = urljoin(URL_BASE, href)
                     links_processados.add(href)
                     
                     lista_noticias.append({
-                        'titulo': titulo[:300],  # Limitar tamanho
+                        'titulo': titulo[:300],
                         'link': link_url,
                         'conteudo': None,
                         'imagem': None,
@@ -58,20 +182,20 @@ def criar_feed_caucaia_final():
                         'categoria': None
                     })
         
-        # Limitar para teste (remova esta linha para todas)
-        lista_noticias = lista_noticias[:12]
+        # Limitar para teste
+        lista_noticias = lista_noticias[:10]
         print(f"✅ {len(lista_noticias)} notícias coletadas\n")
         
-        # 2. EXTRAIR CONTEÚDO DETALHADO
+        # === FASE 2: EXTRAIR CONTEÚDO LIMPO ===
         print("="*70)
-        print("🔍 Extraindo conteúdo detalhado...")
+        print("🔍 Extraindo conteúdo limpo...")
         print("="*70)
         
         for i, noticia in enumerate(lista_noticias, 1):
             print(f"\n📖 [{i}/{len(lista_noticias)}] {noticia['titulo'][:60]}...")
             
             try:
-                time.sleep(1)  # Respeitar servidor
+                time.sleep(1)
                 resp = requests.get(noticia['link'], headers=HEADERS, timeout=30)
                 
                 if resp.status_code != 200:
@@ -80,162 +204,69 @@ def criar_feed_caucaia_final():
                 
                 soup_noticia = BeautifulSoup(resp.content, 'html.parser')
                 
-                # A. MELHORAR TÍTULO (se houver h1/h2 na página)
-                titulo_tags = soup_noticia.find_all(['h1', 'h2', 'h3'])
-                for tag in titulo_tags:
-                    texto = tag.get_text(strip=True)
-                    if len(texto) > 30:
-                        noticia['titulo'] = texto[:250]
-                        break
+                # Extrair conteúdo limpo
+                dados_limpos = extrair_conteudo_limpo_wordpress(soup_noticia, URL_BASE)
                 
-                # B. EXTRAIR DATA
-                # Procurar data em vários lugares
+                # Atualizar título
+                if dados_limpos.get('titulo'):
+                    noticia['titulo'] = dados_limpos['titulo']
+                
+                # Extrair data
                 texto_pagina = soup_noticia.get_text()
+                data_match = re.search(r'(\d{2}/\d{2}/\d{4})', texto_pagina[:2000])
+                if data_match:
+                    noticia['data'] = data_match.group(1)
                 
-                # Padrões de data
-                padroes_data = [
-                    r'(\d{2}/\d{2}/\d{4})',  # DD/MM/YYYY
-                    r'(\d{2} de [a-zç]+ de \d{4})',  # DD de MMMM de YYYY
-                    r'Publicado em[:\s]*([^\n<]+)',  # Publicado em: ...
-                    r'Data[:\s]*([^\n<]+)',  # Data: ...
-                ]
+                # Extrair categoria
+                tag_match = re.search(r'#(\w+)', texto_pagina[:1000])
+                if tag_match:
+                    noticia['categoria'] = f"#{tag_match.group(1)}"
                 
-                for padrao in padroes_data:
-                    match = re.search(padrao, texto_pagina[:3000], re.IGNORECASE)
-                    if match:
-                        noticia['data'] = match.group(1).strip()
-                        break
+                # Criar conteúdo WordPress
+                noticia['conteudo'] = criar_conteudo_wordpress_formatado(dados_limpos, noticia['link'])
+                noticia['imagem'] = dados_limpos.get('imagem_principal')
                 
-                if noticia['data']:
-                    print(f"   📅 Data: {noticia['data']}")
-                
-                # C. EXTRAIR CONTEÚDO PRINCIPAL
-                # Estratégias para encontrar conteúdo
-                conteudo_div = None
-                
-                # 1. Por ID
-                for id_name in ['conteudo', 'texto', 'noticia', 'post', 'article']:
-                    conteudo_div = soup_noticia.find('div', id=id_name)
-                    if conteudo_div:
-                        break
-                
-                # 2. Por classe
-                if not conteudo_div:
-                    for classe in ['conteudo', 'texto', 'noticia', 'post', 'article', 'entry-content']:
-                        conteudo_div = soup_noticia.find('div', class_=classe)
-                        if conteudo_div:
-                            break
-                
-                # 3. Fallback: div com mais texto
-                if not conteudo_div:
-                    divs = soup_noticia.find_all('div')
-                    if divs:
-                        # Encontrar div com mais texto
-                        conteudo_div = max(
-                            [div for div in divs if len(div.get_text(strip=True)) > 200],
-                            key=lambda x: len(x.get_text(strip=True)),
-                            default=None
-                        )
-                
-                if conteudo_div:
-                    # Limpar elementos indesejados
-                    for tag in conteudo_div.find_all(['script', 'style', 'iframe', 'form', 'nav', 'footer', 'header', 'aside']):
-                        tag.decompose()
-                    
-                    # Manter estrutura HTML
-                    html_conteudo = str(conteudo_div)
-                    
-                    # Se ainda for muito curto, adicionar mais parágrafos
-                    if len(html_conteudo) < 1000:
-                        all_p = soup_noticia.find_all('p')
-                        if all_p:
-                            html_conteudo = ''.join(str(p) for p in all_p[:15])
-                    
-                    noticia['conteudo'] = html_conteudo
-                    print(f"   📝 Conteúdo: {len(html_conteudo):,} caracteres")
-                else:
-                    # Fallback: texto completo
-                    texto = soup_noticia.get_text()
-                    linhas = [linha.strip() for linha in texto.split('\n') if len(linha.strip()) > 50]
-                    noticia['conteudo'] = ''.join(f'<p>{html.escape(linha)}</p>' for linha in linhas[:20])
-                    print(f"   📝 Conteúdo (fallback): {len(noticia['conteudo']):,} caracteres")
-                
-                # D. TENTAR ENCONTRAR IMAGEM REAL
-                # Primeiro, verificar se há imagem no conteúdo
-                if conteudo_div:
-                    img = conteudo_div.find('img', src=True)
-                    if img:
-                        src = img['src']
-                        if not src.startswith(('http://', 'https://')):
-                            src = urljoin(URL_BASE, src)
-                        
-                        # Validar que não é placeholder
-                        if 'p_noticia.png' not in src and 'selo' not in src.lower():
-                            noticia['imagem'] = src
-                            print(f"   🖼️  Imagem real encontrada")
-                
-                # Se não encontrou, usar placeholder
-                if not noticia['imagem']:
-                    noticia['imagem'] = urljoin(URL_BASE, '/imagens/p_noticia.png')
-                    print(f"   🖼️  Usando imagem padrão")
-                
-                # E. EXTRAIR CATEGORIA (se houver)
-                # Procurar por tags/categorias
-                for elem in soup_noticia.find_all(['span', 'div'], class_=lambda x: x and any(
-                    word in str(x).lower() for word in ['tag', 'categoria', 'category', 'setor']
-                )):
-                    texto = elem.get_text(strip=True)
-                    if texto and len(texto) < 30:
-                        noticia['categoria'] = texto
-                        break
-                
-                if noticia['categoria']:
-                    print(f"   🏷️  Categoria: {noticia['categoria']}")
+                print(f"   ✅ Conteúdo limpo extraído")
+                if noticia['imagem']:
+                    print(f"   🖼️  Imagem: {noticia['imagem'][:60]}...")
                 
             except Exception as e:
                 print(f"   ❌ Erro: {str(e)[:80]}")
-                noticia['conteudo'] = f"<p>Erro ao carregar notícia. <a href='{noticia['link']}'>Acesse aqui</a></p>"
+                noticia['conteudo'] = f"<p>Conteúdo disponível em: <a href='{noticia['link']}'>{noticia['link']}</a></p>"
         
-        # 3. GERAR FEED XML
+        # === FASE 3: GERAR FEED XML ===
         print(f"\n{'='*70}")
-        print("📝 Gerando feed XML final...")
+        print("📝 Gerando feed XML...")
         print(f"{'='*70}")
         
         xml_lines = []
         xml_lines.append('<?xml version="1.0" encoding="UTF-8"?>')
         xml_lines.append('<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">')
         xml_lines.append('<channel>')
-        xml_lines.append(f'  <title>Notícias Oficiais - Prefeitura de Caucaia</title>')
+        xml_lines.append(f'  <title>Notícias da Prefeitura de Caucaia</title>')
         xml_lines.append(f'  <link>{URL_BASE}</link>')
-        xml_lines.append(f'  <description>Notícias completas da Prefeitura Municipal de Caucaia/CE</description>')
+        xml_lines.append(f'  <description>Conteúdo limpo para WordPress</description>')
         xml_lines.append(f'  <language>pt-br</language>')
-        xml_lines.append(f'  <generator>Scraper Caucaia v4.0</generator>')
+        xml_lines.append(f'  <generator>Scraper Caucaia Conteúdo Limpo</generator>')
         xml_lines.append(f'  <lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>')
         xml_lines.append(f'  <ttl>180</ttl>')
         
-        # Adicionar cada notícia
         for i, noticia in enumerate(lista_noticias, 1):
             print(f"   📄 [{i}] {noticia['titulo'][:50]}...")
             
-            # GUID único
-            guid = hashlib.md5(f"{noticia['link']}{noticia['titulo']}".encode()).hexdigest()[:12]
+            # GUID
+            guid = hashlib.md5(noticia['link'].encode()).hexdigest()[:12]
             
-            # Data para RSS
+            # Data
             if noticia['data'] and '/' in noticia['data']:
                 try:
                     partes = noticia['data'].split('/')
-                    if len(partes) == 3:
-                        dia, mes, ano = map(int, partes)
-                        # Criar datetime (assumindo meio-dia)
-                        data_obj = datetime(ano, mes, dia, 12, 0, 0, tzinfo=timezone.utc)
-                    else:
-                        raise ValueError
+                    dia, mes, ano = map(int, partes)
+                    data_obj = datetime(ano, mes, dia, 12, 0, 0, tzinfo=timezone.utc)
                 except:
-                    # Fallback: datas distribuídas
-                    data_obj = datetime.now(timezone.utc) - timedelta(days=i*2)
+                    data_obj = datetime.now(timezone.utc) - timedelta(days=i)
             else:
-                # Datas distribuídas
-                data_obj = datetime.now(timezone.utc) - timedelta(days=i*2)
+                data_obj = datetime.now(timezone.utc) - timedelta(days=i)
             
             data_rss = data_obj.strftime("%a, %d %b %Y %H:%M:%S +0000")
             
@@ -245,55 +276,25 @@ def criar_feed_caucaia_final():
             xml_lines.append(f'    <guid isPermaLink="false">caucaia-{guid}</guid>')
             xml_lines.append(f'    <pubDate>{data_rss}</pubDate>')
             
-            # Categoria
             if noticia['categoria']:
                 xml_lines.append(f'    <category>{html.escape(noticia["categoria"])}</category>')
             
-            # Descrição (resumo)
+            # Descrição
             descricao = noticia['titulo']
             if noticia['data']:
                 descricao += f" | {noticia['data']}"
             xml_lines.append(f'    <description>{html.escape(descricao[:250])}</description>')
             
-            # CONTEÚDO COMPLETO com imagem otimizada
-            conteudo_final = noticia['conteudo']
-            
-            # Adicionar imagem no início (formato WordPress amigável)
-            if noticia['imagem']:
-                imagem_html = f'''
-                <div class="wp-block-image">
-                    <figure class="aligncenter size-full">
-                        <img src="{noticia['imagem']}" 
-                             alt="{html.escape(noticia['titulo'])}" 
-                             class="wp-image-{guid}"
-                             style="max-width: 100%; height: auto;"
-                             loading="lazy" />
-                        <figcaption>Foto: Prefeitura de Caucaia</figcaption>
-                    </figure>
-                </div>
-                '''
-                conteudo_final = imagem_html + conteudo_final
-            
-            # Adicionar fonte
-            conteudo_final += f'''
-            <div style="margin-top: 20px; padding: 10px; background: #f5f5f5; border-left: 4px solid #0066cc;">
-                <strong>📰 Fonte oficial:</strong> 
-                <a href="{noticia['link']}" target="_blank" rel="noopener">
-                    Prefeitura Municipal de Caucaia - {noticia['data'] or "Notícia oficial"}
-                </a>
-            </div>
-            '''
-            
+            # CONTEÚDO LIMPO
+            conteudo_final = noticia['conteudo'] or "<p>Notícia da Prefeitura de Caucaia.</p>"
             xml_lines.append(f'    <content:encoded><![CDATA[ {conteudo_final} ]]></content:encoded>')
             
-            # Imagem como enclosure (para WordPress)
+            # Imagem
             if noticia['imagem']:
                 xml_lines.append(f'    <enclosure url="{noticia["imagem"]}" type="image/jpeg" length="80000" />')
-                # Media content com metadados
                 xml_lines.append(f'    <media:content url="{noticia["imagem"]}" type="image/jpeg" medium="image">')
                 xml_lines.append(f'      <media:title>{html.escape(noticia["titulo"][:100])}</media:title>')
                 xml_lines.append(f'      <media:description>{html.escape(noticia["titulo"][:200])}</media:description>')
-                xml_lines.append(f'      <media:credit>Prefeitura de Caucaia</media:credit>')
                 xml_lines.append(f'    </media:content>')
             
             xml_lines.append('  </item>')
@@ -301,37 +302,30 @@ def criar_feed_caucaia_final():
         xml_lines.append('</channel>')
         xml_lines.append('</rss>')
         
-        # Salvar arquivo
+        # Salvar
         with open(FEED_FILE, 'w', encoding='utf-8') as f:
             f.write('\n'.join(xml_lines))
         
-        # ESTATÍSTICAS
+        # Resultado
         print(f"\n✅ FEED GERADO: {FEED_FILE}")
-        print(f"📊 RESUMO FINAL:")
-        print(f"   • Notícias processadas: {len(lista_noticias)}")
-        
-        # Verificar conteúdo real
-        conteudo_valido = sum(1 for n in lista_noticias if n['conteudo'] and len(n['conteudo']) > 1000)
-        print(f"   • Com conteúdo válido (>1K chars): {conteudo_valido}")
+        print(f"📊 RESUMO:")
+        print(f"   • Notícias: {len(lista_noticias)}")
+        print(f"   • Com imagens: {sum(1 for n in lista_noticias if n['imagem'])}")
         
         # Mostrar exemplo
         if lista_noticias:
             primeira = lista_noticias[0]
-            print(f"\n📋 EXEMPLO DO PRIMEIRO ITEM:")
+            print(f"\n📋 EXEMPLO DO CONTEÚDO:")
             print(f"   Título: {primeira['titulo'][:80]}...")
-            print(f"   Link: {primeira['link']}")
-            print(f"   Conteúdo: {len(primeira['conteudo']):,} caracteres")
-            print(f"   Imagem: {primeira['imagem']}")
+            
+            # Extrair texto limpo do conteúdo
+            soup_conteudo = BeautifulSoup(primeira['conteudo'], 'html.parser')
+            texto_limpo = soup_conteudo.get_text()
+            print(f"   Texto limpo: {texto_limpo[:200]}...")
         
         print(f"\n{'='*70}")
-        print("🚀 PRÓXIMOS PASSOS:")
-        print("1. Hospedar feed_caucaia_final.xml no GitHub Pages")
-        print("2. Configurar no WP RSS Aggregator:")
-        print("   - Feed URL: https://seusite.github.io/feed_caucaia_final.xml")
-        print("   - Content: {content:encoded}")
-        print("   - Import Images: ✅ ON")
-        print("   - Featured Image: ✅ ON")
-        print("3. Agendar atualizações a cada 4 horas")
+        print("🎉 PRONTO PARA WORDPRESS!")
+        print("O conteúdo dentro de <content:encoded> está limpo e formatado.")
         print(f"{'='*70}")
         
         return True
@@ -343,4 +337,4 @@ def criar_feed_caucaia_final():
         return False
 
 if __name__ == "__main__":
-    criar_feed_caucaia_final()
+    criar_feed_caucaia_completo()
