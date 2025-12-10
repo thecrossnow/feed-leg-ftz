@@ -12,6 +12,13 @@ import hashlib
 import time
 from urllib.parse import urljoin
 import re
+import sys
+import os
+
+# ✅ ADICIONAR LOGS PARA DEBUG NO GITHUB ACTIONS
+print(f"📁 Diretório atual no GitHub: {os.getcwd()}")
+print(f"🐍 Python version: {sys.version}")
+print(f"👤 Usuário: {os.getenv('USER')}")
 
 def extrair_conteudo_limpo_wordpress(soup_noticia, url_base):
     """Extrai APENAS o conteúdo essencial para WordPress"""
@@ -312,6 +319,13 @@ def criar_feed_caucaia_completo():
         print(f"   • Notícias: {len(lista_noticias)}")
         print(f"   • Com imagens: {sum(1 for n in lista_noticias if n['imagem'])}")
         
+        # Verificar se o arquivo foi realmente criado
+        if os.path.exists(FEED_FILE):
+            file_size = os.path.getsize(FEED_FILE)
+            print(f"   • Tamanho do arquivo: {file_size:,} bytes")
+        else:
+            print(f"   ⚠️  ATENÇÃO: Arquivo {FEED_FILE} não foi criado!")
+        
         # Mostrar exemplo
         if lista_noticias:
             primeira = lista_noticias[0]
@@ -336,5 +350,23 @@ def criar_feed_caucaia_completo():
         traceback.print_exc()
         return False
 
+# ✅ CORREÇÃO CRÍTICA: A função precisa ser chamada!
 if __name__ == "__main__":
-    criar_feed_caucaia_completo()
+    print("🚀 INICIANDO SCRAPER CAUCAIA NO GITHUB ACTIONS")
+    print(f"📁 Diretório de trabalho: {os.getcwd()}")
+    
+    sucesso = criar_feed_caucaia_completo()
+    
+    if sucesso:
+        print("\n✅ SCRAPING CONCLUÍDO COM SUCESSO!")
+        
+        # Verificar arquivos gerados
+        print("📁 Arquivos gerados:")
+        import glob
+        for xml_file in glob.glob("*.xml"):
+            size = os.path.getsize(xml_file)
+            print(f"   📄 {xml_file} ({size:,} bytes)")
+    else:
+        print("\n❌ SCRAPING FALHOU!")
+    
+    exit(0 if sucesso else 1)
