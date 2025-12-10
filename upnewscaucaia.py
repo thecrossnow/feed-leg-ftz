@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-SCRAPER CAUCAIA - WORDPRESS COM IMAGENS DESTACADAS
-Mantém estrutura original, otimiza para WordPress
+SCRAPER CAUCAIA - CORRIGIDO PARA XML VÁLIDO
 """
 
 import requests
@@ -14,118 +13,15 @@ from urllib.parse import urljoin
 import re
 import os
 
-def extrair_imagem_destacada(soup_noticia, url_base):
-    """Extrai a imagem principal para ser destacada no WordPress"""
+def criar_feed_caucaia_corrigido():
+    """Cria feed XML válido sem erros de codificação"""
     
-    # Prioridade 1: Imagem da notícia (classe 'imginfo' ou similar)
-    img_principal = soup_noticia.find('img', class_='imginfo')
-    if not img_principal:
-        img_principal = soup_noticia.find('img', class_='img-responsive')
-    if not img_principal:
-        img_principal = soup_noticia.find('img', class_='ImagemIndexNoticia')
-    
-    # Prioridade 2: Primeira imagem no conteúdo
-    if not img_principal:
-        div_conteudo = soup_noticia.find('div', class_='p-info')
-        if div_conteudo:
-            img_principal = div_conteudo.find('img', src=True)
-    
-    # Prioridade 3: Qualquer imagem que não seja logo/placeholder
-    if not img_principal:
-        for img in soup_noticia.find_all('img', src=True):
-            src = img['src'].lower()
-            if any(termo in src for termo in ['noticia', 'foto', 'imagem', '.jpg', '.jpeg', '.png']):
-                if not any(termo in src for termo in ['logo', 'selo', 'banner', 'placeholder']):
-                    img_principal = img
-                    break
-    
-    if img_principal and img_principal.get('src'):
-        src = img_principal['src']
-        if not src.startswith(('http://', 'https://')):
-            src = urljoin(url_base, src)
-        
-        # Verificar se é imagem padrão do site
-        if 'p_noticia.png' in src:
-            return None  # Não usar placeholder como destacada
-        return src
-    
-    return None
-
-def extrair_conteudo_completo(soup_noticia, url_base):
-    """Extrai conteúdo completo com imagens embutidas"""
-    
-    resultado = {
-        'titulo': '',
-        'imagem_destacada': None,
-        'conteudo_html': '',
-        'imagens_embutidas': []
-    }
-    
-    # 1. TÍTULO
-    titulo_tag = soup_noticia.find('h1', class_='DataInforma')
-    if titulo_tag:
-        resultado['titulo'] = titulo_tag.get_text(strip=True)
-    else:
-        for tag in soup_noticia.find_all(['h1', 'h2', 'strong']):
-            texto = tag.get_text(strip=True)
-            if len(texto) > 30 and len(texto) < 200:
-                resultado['titulo'] = texto
-                break
-    
-    # 2. IMAGEM DESTACADA
-    resultado['imagem_destacada'] = extrair_imagem_destacada(soup_noticia, url_base)
-    
-    # 3. CONTEÚDO PRINCIPAL
-    div_conteudo = soup_noticia.find('div', class_='p-info')
-    
-    if div_conteudo:
-        # Fazer cópia para não modificar o original
-        conteudo_copy = BeautifulSoup(str(div_conteudo), 'html.parser')
-        
-        # Remover elementos indesejados
-        for tag in conteudo_copy.find_all(['script', 'style', 'iframe', 'form']):
-            tag.decompose()
-        
-        # Processar imagens no conteúdo
-        for img in conteudo_copy.find_all('img', src=True):
-            src = img['src']
-            if not src.startswith(('http://', 'https://')):
-                src = urljoin(url_base, src)
-            
-            # Adicionar à lista de imagens embutidas
-            if src not in resultado['imagens_embutidas']:
-                resultado['imagens_embutidas'].append(src)
-            
-            # Otimizar atributos da imagem
-            img['style'] = 'max-width: 100%; height: auto;'
-            img['loading'] = 'lazy'
-            if not img.get('alt'):
-                img['alt'] = resultado['titulo'][:100]
-        
-        resultado['conteudo_html'] = str(conteudo_copy)
-    else:
-        # Fallback: parágrafos principais
-        todos_p = soup_noticia.find_all('p')
-        conteudo_parts = []
-        for p in todos_p:
-            texto = p.get_text(strip=True)
-            if len(texto) > 50 and not any(lixo in texto.lower() for lixo in ['compartilhe', 'curtir']):
-                conteudo_parts.append(f'<p>{html.escape(texto)}</p>')
-        
-        if conteudo_parts:
-            resultado['conteudo_html'] = ''.join(conteudo_parts[:10])
-    
-    return resultado
-
-def criar_feed_caucaia_wordpress():
-    """Cria feed otimizado para WordPress com imagens destacadas"""
-    
-    print("🎯 SCRAPER CAUCAIA - WORDPRESS COM IMAGENS")
+    print("🎯 SCRAPER CAUCAIA - XML VÁLIDO")
     print("="*70)
     
     URL_BASE = "https://www.caucaia.ce.gov.br"
     URL_LISTA = f"{URL_BASE}/informa.php"
-    FEED_FILE = "feed_caucaia_wp_completo.xml"
+    FEED_FILE = "feed_caucaia_correto.xml"
     
     HEADERS = {'User-Agent': 'Mozilla/5.0'}
     
@@ -153,13 +49,12 @@ def criar_feed_caucaia_wordpress():
                         'titulo_original': titulo[:300]
                     })
         
-        # Limitar
-        lista_noticias = lista_noticias[:15]
+        lista_noticias = lista_noticias[:10]
         print(f"✅ {len(lista_noticias)} notícias coletadas\n")
         
-        # 2. EXTRAIR CONTEÚDO COMPLETO
+        # 2. EXTRAIR CONTEÚDO
         print("="*70)
-        print("🔍 Extraindo conteúdo completo...")
+        print("🔍 Extraindo conteúdo...")
         print("="*70)
         
         noticias_completas = []
@@ -177,69 +72,98 @@ def criar_feed_caucaia_wordpress():
                 
                 soup_noticia = BeautifulSoup(resp.content, 'html.parser')
                 
-                # Extrair dados completos
-                dados = extrair_conteudo_completo(soup_noticia, URL_BASE)
+                # TÍTULO
+                titulo_tag = soup_noticia.find('h1', class_='DataInforma')
+                titulo_final = titulo_tag.get_text(strip=True) if titulo_tag else noticia['titulo_original']
                 
-                # Usar título extraído ou o original
-                titulo_final = dados['titulo'] if dados['titulo'] else noticia['titulo_original']
+                # IMAGEM
+                img_tag = soup_noticia.find('img', class_='imginfo') or \
+                         soup_noticia.find('img', class_='img-responsive') or \
+                         soup_noticia.find('img', class_='ImagemIndexNoticia')
                 
-                # Extrair data
+                imagem_url = None
+                if img_tag and img_tag.get('src'):
+                    src = img_tag['src']
+                    if not src.startswith(('http://', 'https://')):
+                        src = urljoin(URL_BASE, src)
+                    if 'p_noticia.png' not in src:
+                        imagem_url = src
+                
+                # CONTEÚDO
+                div_conteudo = soup_noticia.find('div', class_='p-info')
+                conteudo_html = ""
+                
+                if div_conteudo:
+                    # Remover scripts e estilos
+                    for tag in div_conteudo.find_all(['script', 'style', 'iframe']):
+                        tag.decompose()
+                    
+                    # Processar imagens no conteúdo
+                    for img in div_conteudo.find_all('img', src=True):
+                        src = img['src']
+                        if not src.startswith(('http://', 'https://')):
+                            src = urljoin(URL_BASE, src)
+                        img['src'] = src
+                        img['style'] = 'max-width: 100%; height: auto;'
+                    
+                    conteudo_html = str(div_conteudo)
+                else:
+                    # Fallback
+                    todos_p = soup_noticia.find_all('p')
+                    paragrafos = []
+                    for p in todos_p:
+                        texto = p.get_text(strip=True)
+                        if len(texto) > 50 and not any(lixo in texto.lower() for lixo in ['compartilhe', 'curtir']):
+                            paragrafos.append(f'<p>{html.escape(texto)}</p>')
+                    
+                    if paragrafos:
+                        conteudo_html = ''.join(paragrafos[:8])
+                
+                # DATA
                 texto_pagina = soup_noticia.get_text()
                 data_match = re.search(r'(\d{2}/\d{2}/\d{4})', texto_pagina[:2000])
                 data_str = data_match.group(1) if data_match else None
                 
-                # Extrair categoria
-                categoria = None
-                for elem in soup_noticia.find_all(['span', 'div'], class_=lambda x: x and any(
-                    word in str(x).lower() for word in ['tag', 'categoria', 'category', 'setor']
-                )):
-                    texto = elem.get_text(strip=True)
-                    if texto and len(texto) < 30:
-                        categoria = texto
-                        break
-                
                 noticias_completas.append({
                     'titulo': titulo_final,
                     'link': noticia['link'],
-                    'imagem_destacada': dados['imagem_destacada'],
-                    'conteudo': dados['conteudo_html'],
-                    'imagens_embutidas': dados['imagens_embutidas'],
-                    'data': data_str,
-                    'categoria': categoria
+                    'imagem': imagem_url,
+                    'conteudo': conteudo_html,
+                    'data': data_str
                 })
                 
-                print(f"   ✅ Título: {titulo_final[:50]}...")
-                if dados['imagem_destacada']:
-                    print(f"   🖼️  Imagem destacada encontrada")
-                print(f"   📝 Conteúdo: {len(dados['conteudo_html']):,} caracteres")
+                print(f"   ✅ {titulo_final[:50]}...")
+                if imagem_url:
+                    print(f"   🖼️  Imagem: {imagem_url[:60]}...")
                 
             except Exception as e:
                 print(f"   ❌ Erro: {str(e)[:80]}")
                 continue
         
-        # 3. GERAR FEED PARA WORDPRESS
+        # 3. GERAR XML CORRETO
         print(f"\n{'='*70}")
-        print("📝 Gerando feed WordPress completo...")
+        print("📝 Gerando XML válido...")
         print(f"{'='*70}")
         
-        xml_lines = []
-        xml_lines.append('<?xml version="1.0" encoding="UTF-8"?>')
-        xml_lines.append('<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:wp="http://wordpress.org/export/1.2/">')
-        xml_lines.append('<channel>')
-        xml_lines.append(f'  <title>Notícias de Caucaia - Completo</title>')
-        xml_lines.append(f'  <link>{URL_BASE}</link>')
-        xml_lines.append(f'  <description>Notícias com imagens destacadas e conteúdo completo</description>')
-        xml_lines.append(f'  <language>pt-br</language>')
-        xml_lines.append(f'  <wp:wxr_version>1.2</wp:wxr_version>')
-        xml_lines.append(f'  <generator>Caucaia WP Importer</generator>')
-        xml_lines.append(f'  <lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>')
-        xml_lines.append(f'  <ttl>180</ttl>')
+        # ✅ CRÍTICO: Criar lista e depois escrever TUDO DE UMA VEZ
+        xml_parts = []
+        
+        # ✅ XML declaration PRIMEIRO, sem espaços antes
+        xml_parts.append('<?xml version="1.0" encoding="UTF-8"?>')
+        xml_parts.append('<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">')
+        xml_parts.append('<channel>')
+        xml_parts.append(f'<title>Notícias de Caucaia</title>')
+        xml_parts.append(f'<link>{URL_BASE}</link>')
+        xml_parts.append('<description>Notícias oficiais da Prefeitura de Caucaia</description>')
+        xml_parts.append('<language>pt-br</language>')
+        xml_parts.append(f'<lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>')
+        xml_parts.append('<ttl>180</ttl>')
         
         for i, noticia in enumerate(noticias_completas, 1):
             print(f"   📄 [{i}] {noticia['titulo'][:50]}...")
             
-            # GUID único
-            guid = hashlib.md5(noticia['link'].encode()).hexdigest()[:12]
+            # GUID
+            guid = hashlib.md5(noticia['link'].encode()).hexdigest()[:10]
             
             # Data
             if noticia['data'] and '/' in noticia['data']:
@@ -254,126 +178,110 @@ def criar_feed_caucaia_wordpress():
             
             data_rss = data_obj.strftime("%a, %d %b %Y %H:%M:%S +0000")
             
-            xml_lines.append('  <item>')
-            xml_lines.append(f'    <title>{html.escape(noticia["titulo"])}</title>')
-            xml_lines.append(f'    <link>{noticia["link"]}</link>')
-            xml_lines.append(f'    <guid isPermaLink="false">caucaia-{guid}</guid>')
-            xml_lines.append(f'    <pubDate>{data_rss}</pubDate>')
+            xml_parts.append('<item>')
+            xml_parts.append(f'<title>{html.escape(noticia["titulo"])}</title>')
+            xml_parts.append(f'<link>{noticia["link"]}</link>')
+            xml_parts.append(f'<guid isPermaLink="false">caucaia-{guid}</guid>')
+            xml_parts.append(f'<pubDate>{data_rss}</pubDate>')
             
-            if noticia['categoria']:
-                xml_lines.append(f'    <category><![CDATA[{noticia["categoria"]}]]></category>')
-            
-            # Description (resumo)
-            descricao_resumo = noticia['titulo']
+            # Description (texto simples)
+            desc_texto = noticia['titulo']
             if noticia['data']:
-                descricao_resumo += f" | {noticia['data']}"
-            xml_lines.append(f'    <description><![CDATA[{html.escape(descricao_resumo)}]]></description>')
+                desc_texto += f" - {noticia['data']}"
+            xml_parts.append(f'<description>{html.escape(desc_texto[:250])}</description>')
             
-            # ✅ CONTEÚDO COMPLETO PARA WORDPRESS
+            # ✅ CONTEÚDO COMPLETO (para WordPress)
             conteudo_final = noticia['conteudo']
             
-            # Adicionar fonte no final
-            fonte_html = f'''
-            <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; border-left: 4px solid #0073aa;">
-                <strong>📰 Fonte oficial:</strong> 
-                <a href="{noticia['link']}" target="_blank">Prefeitura Municipal de Caucaia</a>
-                {f" | {noticia['data']}" if noticia['data'] else ""}
-            </div>
-            '''
+            # Adicionar fonte
+            fonte_html = f'<p><strong>Fonte:</strong> <a href="{noticia["link"]}">Prefeitura de Caucaia</a></p>'
             conteudo_final += fonte_html
             
-            xml_lines.append(f'    <content:encoded><![CDATA[ {conteudo_final} ]]></content:encoded>')
+            xml_parts.append(f'<content:encoded><![CDATA[ {conteudo_final} ]]></content:encoded>')
             
-            # ✅ IMAGEM DESTACADA (para WordPress)
-            if noticia['imagem_destacada']:
-                # Método 1: enclosure (para alguns importadores)
-                xml_lines.append(f'    <enclosure url="{noticia["imagem_destacada"]}" type="image/jpeg" length="0" />')
-                
-                # Método 2: media:content (padrão RSS)
-                xml_lines.append(f'    <media:content url="{noticia["imagem_destacada"]}" type="image/jpeg" medium="image">')
-                xml_lines.append(f'      <media:title>{html.escape(noticia["titulo"][:100])}</media:title>')
-                xml_lines.append(f'      <media:description>Imagem destacada: {html.escape(noticia["titulo"][:150])}</media:description>')
-                xml_lines.append(f'      <media:credit>Prefeitura de Caucaia</media:credit>')
-                xml_lines.append(f'    </media:content>')
-                
-                # Método 3: Meta WordPress (para WXR import)
-                xml_lines.append(f'    <wp:postmeta>')
-                xml_lines.append(f'      <wp:meta_key>_thumbnail_id</wp:meta_key>')
-                xml_lines.append(f'      <wp:meta_value><![CDATA[external_{guid}]]></wp:meta_value>')
-                xml_lines.append(f'    </wp:postmeta>')
-                
-                # Imagem como attachment (formato WXR)
-                xml_lines.append(f'    <wp:attachment_url>{noticia["imagem_destacada"]}</wp:attachment_url>')
+            # IMAGEM (se houver)
+            if noticia['imagem']:
+                xml_parts.append(f'<enclosure url="{noticia["imagem"]}" length="0" type="image/jpeg" />')
             
-            # Imagens embutidas no conteúdo
-            for img_url in noticia['imagens_embutidas'][:5]:  # Limitar a 5 imagens
-                xml_lines.append(f'    <media:content url="{img_url}" type="image/jpeg" medium="image" />')
-            
-            xml_lines.append('  </item>')
+            xml_parts.append('</item>')
         
-        xml_lines.append('</channel>')
-        xml_lines.append('</rss>')
+        xml_parts.append('</channel>')
+        xml_parts.append('</rss>')
         
-        # Salvar arquivo
+        # ✅ ESCREVER TUDO DE UMA VEZ (evita BOM/encoding issues)
         with open(FEED_FILE, 'w', encoding='utf-8') as f:
-            f.write('\n'.join(xml_lines))
+            # NÃO escreva nada antes do XML declaration
+            f.write('\n'.join(xml_parts))
         
-        # 4. RELATÓRIO
-        print(f"\n✅ FEED GERADO: {FEED_FILE}")
-        print(f"📊 RESUMO:")
-        print(f"   • Notícias processadas: {len(noticias_completas)}")
-        print(f"   • Com imagem destacada: {sum(1 for n in noticias_completas if n['imagem_destacada'])}")
-        print(f"   • Com imagens no conteúdo: {sum(1 for n in noticias_completas if n['imagens_embutidas'])}")
+        # 4. VERIFICAR SE O XML É VÁLIDO
+        print(f"\n✅ XML GERADO: {FEED_FILE}")
         
-        if noticias_completas:
-            primeira = noticias_completas[0]
-            print(f"\n📋 EXEMPLO:")
-            print(f"   Título: {primeira['titulo'][:80]}")
-            print(f"   Imagem destacada: {primeira['imagem_destacada']}")
-            print(f"   Imagens no conteúdo: {len(primeira['imagens_embutidas'])}")
+        # Ler e verificar
+        with open(FEED_FILE, 'r', encoding='utf-8') as f:
+            conteudo = f.read()
+            
+            # Verificar problemas comuns
+            if conteudo.startswith('\ufeff'):
+                print("⚠️  ATENÇÃO: Arquivo tem BOM (Byte Order Mark)")
+                # Corrigir removendo BOM
+                with open(FEED_FILE, 'w', encoding='utf-8-sig') as f2:
+                    f2.write(conteudo.lstrip('\ufeff'))
+                print("✅ BOM removido")
+            
+            if not conteudo.startswith('<?xml'):
+                print("⚠️  ATENÇÃO: XML não começa com declaration")
+                # Encontrar onde começa o XML
+                xml_start = conteudo.find('<?xml')
+                if xml_start > 0:
+                    print(f"   XML começa na posição {xml_start}")
+                    # Cortar tudo antes
+                    with open(FEED_FILE, 'w', encoding='utf-8') as f2:
+                        f2.write(conteudo[xml_start:])
+                    print("✅ XML corrigido")
+            
+            # Estatísticas
+            file_size = os.path.getsize(FEED_FILE)
+            print(f"📊 Tamanho do arquivo: {file_size:,} bytes")
+            print(f"📊 Notícias no feed: {len(noticias_completas)}")
+        
+        # 5. CRIAR VERSÃO SIMPLES TAMBÉM (sem content:encoded)
+        FEED_SIMPLE = "feed_caucaia_simples.xml"
+        xml_simple = []
+        xml_simple.append('<?xml version="1.0" encoding="UTF-8"?>')
+        xml_simple.append('<rss version="2.0">')
+        xml_simple.append('<channel>')
+        xml_simple.append(f'<title>Notícias Caucaia Simples</title>')
+        xml_simple.append(f'<link>{URL_BASE}</link>')
+        xml_simple.append('<description>Versão simples para testes</description>')
+        xml_simple.append('<language>pt-br</language>')
+        xml_simple.append(f'<lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>')
+        
+        for noticia in noticias_completas[:5]:  # Apenas 5 para teste
+            guid = hashlib.md5(noticia['link'].encode()).hexdigest()[:8]
+            
+            xml_simple.append('<item>')
+            xml_simple.append(f'<title>{html.escape(noticia["titulo"])}</title>')
+            xml_simple.append(f'<link>{noticia["link"]}</link>')
+            xml_simple.append(f'<guid>caucaia-{guid}</guid>')
+            xml_simple.append('<description>Notícia da Prefeitura de Caucaia</description>')
+            xml_simple.append('</item>')
+        
+        xml_simple.append('</channel>')
+        xml_simple.append('</rss>')
+        
+        with open(FEED_SIMPLE, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(xml_simple))
+        
+        print(f"\n📁 Arquivos criados:")
+        print(f"   1. {FEED_FILE} (completo para WordPress)")
+        print(f"   2. {FEED_SIMPLE} (simples para teste)")
         
         print(f"\n{'='*70}")
-        print("🚀 COMO IMPORTAR NO WORDPRESS:")
-        print("1. Instale o plugin 'WP RSS Aggregator'")
-        print("2. Adicione o feed: https://seusite.github.io/feed_caucaia_wp_completo.xml")
-        print("3. Configure:")
-        print("   - Content Source: content:encoded")
-        print("   - Featured Images: ON")
-        print("   - Import Images: ON")
-        print("4. O plugin irá:")
-        print("   • Criar posts com conteúdo completo")
-        print("   • Baixar imagem destacada automaticamente")
-        print("   • Inserir imagens no conteúdo")
+        print("🔧 TESTE SEU XML:")
+        print(f"1. Abra no navegador: https://thecrossnow.github.io/feed-leg-ftz/{FEED_FILE}")
+        print(f"2. Valide em: https://validator.w3.org/feed/")
+        print(f"3. Para WordPress, use: {FEED_FILE}")
         print(f"{'='*70}")
-        
-        # Criar também um arquivo de configuração simples
-        config_content = f"""# CONFIGURAÇÃO WORDPRESS RSS AGGREGATOR
-Feed URL: https://thecrossnow.github.io/feed-leg-ftz/feed_caucaia_wp_completo.xml
-
-Configurações recomendadas:
-1. General:
-   - Feed Name: Notícias Caucaia
-   - Limit: 10 items
-   - Update interval: 2 hours
-
-2. Content:
-   - Use content:encoded
-   - Import images: ✅ Yes
-   - Set first image as featured: ✅ Yes
-
-3. Featured Image:
-   - Import as featured image: ✅ Yes
-   - Use enclosure/media:content
-
-4. Taxonomies:
-   - Import categories: ✅ Yes
-
-Última geração: {datetime.now().strftime('%d/%m/%Y %H:%M')}
-Total de itens: {len(noticias_completas)}
-"""
-        
-        with open('wp_config.txt', 'w', encoding='utf-8') as f:
-            f.write(config_content)
         
         return True
         
@@ -384,4 +292,9 @@ Total de itens: {len(noticias_completas)}
         return False
 
 if __name__ == "__main__":
-    criar_feed_caucaia_wordpress()
+    # Limpar qualquer espaço em branco no início
+    import sys
+    if sys.version_info >= (3, 0):
+        sys.stdout.reconfigure(encoding='utf-8')
+    
+    criar_feed_caucaia_corrigido()
