@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# upnewsfortaleza.py - VERSÃO FINAL COM CONTEÚDO LIMPO E SEM DUPLICAÇÕES
+# upnewsfortaleza.py - Versão final otimizada
 
 import requests
 from bs4 import BeautifulSoup
@@ -7,459 +7,388 @@ from datetime import datetime, timezone, timedelta, date
 import html
 import hashlib
 import time
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, parse_qs
 import re
 import os
-import sys
+import locale
 
-def criar_feed_fortaleza_limpo():
+# Configurar locale para português
+try:
+    locale.setlocale(locale.LC_TIME, 'pt_BR.UTF-8')
+except:
+    try:
+        locale.setlocale(locale.LC_TIME, 'Portuguese_Brazil.1252')
+    except:
+        pass
+
+def criar_feed_fortaleza_hoje():
     """
-    Extrai conteúdo LIMPO sem duplicações
+    Extrai TODAS as notícias publicadas HOJE (dia da execução)
+    da Prefeitura de Fortaleza, varrendo TODAS as páginas paginadas
     """
-    
-    print("🚀 upnewsfortaleza.py - CONTEÚDO LIMPO SEM DUPLICAÇÕES")
-    print("=" * 60)
-    
-    # ================= CONFIGURAÇÃO =================
     URL_BASE = "https://www.fortaleza.ce.gov.br"
     URL_LISTA = f"{URL_BASE}/noticias"
-    FEED_FILE = "feed_fortaleza_hoje.xml"
+    FEED_FILE = f"feed_fortaleza_{date.today().strftime('%Y%m%d')}.xml"
     
-    # Data UTC → Brasília
-    utc_agora = datetime.now(timezone.utc)
-    HOJE_REF = (utc_agora + timedelta(hours=3)).date()
+    # Data atual para filtragem
+    HOJE = date.today()
+    HOJE_DIA = HOJE.day
+    HOJE_MES = HOJE.month
+    HOJE_ANO = HOJE.year
     
-    print(f"📅 Data de referência: {HOJE_REF.strftime('%d/%m/%Y')}")
-    print("-" * 60)
+    print(f"🔍 Buscando notícias publicadas HOJE: {HOJE_DIA:02d}/{HOJE_MES:02d}/{HOJE_ANO}")
+    print("📖 Varrendo todas as páginas paginadas...")
+    print("-" * 50)
     
     HEADERS = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
         'Accept-Language': 'pt-BR,pt;q=0.9'
     }
     
-    MESES_PT = {
-        'janeiro': 1, 'fevereiro': 2, 'março': 3, 'abril': 4,
-        'maio': 5, 'junho': 6, 'julho': 7, 'agosto': 8,
-        'setembro': 9, 'outubro': 10, 'novembro': 11, 'dezembro': 12
-    }
-    
-    def extrair_data(texto):
-        """Extrai data do texto em português"""
-        try:
-            texto = texto.lower()
-            for mes_pt, mes_num in MESES_PT.items():
-                if mes_pt in texto:
-                    dia_match = re.search(r'(\d{1,2})', texto)
-                    ano_match = re.search(r'(\d{4})', texto)
-                    if dia_match:
-                        dia = int(dia_match.group(1))
-                        ano = int(ano_match.group(1)) if ano_match else HOJE_REF.year
-                        return date(ano, mes_num, dia)
-        except:
-            pass
-        return None
-    
-    def limpar_conteudo(conteudo_html):
-        """Remove duplicações e elementos indesejados do conteúdo"""
-        if not conteudo_html:
-            return ""
-        
-        # Converter para texto para análise
-        soup = BeautifulSoup(conteudo_html, 'html.parser')
-        texto_completo = soup.get_text()
-        
-        # Dividir em parágrafos
-        paragrafos = texto_completo.split('\n')
-        paragrafos_limpos = []
-        
-        # Remover elementos indesejados
-        termos_remover = [
-            'IMPRIMIR', 'Compartilhe:', 'Enviar por Email', 'Compartilhar',
-            'Fonte da matéria', 'Prefeitura de Fortaleza inicia fase de testes',
-            'Propósito é incentivar', 'PUBLICIDADE', 'ANÚNCIO', 'LEIA TAMBÉM'
-        ]
-        
-        # Padrões de duplicação (procurar blocos repetidos)
-        bloco_minimo = 50  # Mínimo de caracteres para considerar um bloco
-        blocos_vistos = set()
-        
-        for para in paragrafos:
-            para = para.strip()
-            if not para or len(para) < 20:
-                continue
-            
-            # Verificar se contém termos a remover
-            if any(termo in para for termo in termos_remover):
-                continue
-            
-            # Verificar se é duplicado (ignorando pequenas variações)
-            para_normalizado = re.sub(r'\s+', ' ', para.lower())
-            if len(para_normalizado) >= bloco_minimo:
-                # Verificar se este parágrafo é similar a um já visto
-                duplicado = False
-                for bloco_visto in blocos_vistos:
-                    # Verificar similaridade (80% de similaridade)
-                    if (para_normalizado in bloco_visto or 
-                        bloco_visto in para_normalizado or
-                        len(set(para_normalizado.split()) & set(bloco_visto.split())) / 
-                        max(len(para_normalizado.split()), len(bloco_visto.split())) > 0.8):
-                        duplicado = True
-                        break
-                
-                if not duplicado:
-                    blocos_vistos.add(para_normalizado)
-                    paragrafos_limpos.append(para)
-            else:
-                # Parágrafos curtos (títulos, etc)
-                if para not in ["Mobilidade", "Serviço", "Desafio Mobilidade Cidadã"]:
-                    paragrafos_limpos.append(para)
-        
-        # Se houver poucos parágrafos, usar estratégia alternativa
-        if len(paragrafos_limpos) < 3:
-            # Tentar extrair conteúdo de forma diferente
-            return extrair_conteudo_direto(soup)
-        
-        # Juntar parágrafos em HTML
-        conteudo_limpo = ""
-        for para in paragrafos_limpos:
-            if len(para) > 30:  # Parágrafos significativos
-                conteudo_limpo += f'<p>{html.escape(para)}</p>\n'
-        
-        return conteudo_limpo
-    
-    def extrair_conteudo_direto(soup):
-        """Extrai conteúdo diretamente dos elementos estruturais"""
-        conteudo = ""
-        
-        # Estratégia 1: Buscar todos os parágrafos significativos
-        for p in soup.find_all('p'):
-            texto = p.get_text(strip=True)
-            if texto and len(texto) > 50:
-                # Verificar se não é elemento de interface
-                if not any(termo in texto for termo in ['IMPRIMIR', 'Compartilhe', 'PUBLICIDADE']):
-                    # Verificar se o parágrafo não está dentro de elementos indesejados
-                    parent_classes = []
-                    parent = p.parent
-                    for _ in range(3):  # Verificar até 3 níveis acima
-                        if parent and parent.get('class'):
-                            parent_classes.extend(parent['class'])
-                        parent = parent.parent if parent else None
-                    
-                    classes_str = ' '.join(parent_classes).lower()
-                    if not any(termo in classes_str for termo in ['social', 'share', 'banner', 'ad']):
-                        conteudo += f'<p>{html.escape(texto)}</p>\n'
-        
-        # Estratégia 2: Se ainda pouco conteúdo, buscar por divs com texto
-        if len(conteudo) < 500:
-            for div in soup.find_all('div'):
-                texto = div.get_text(strip=True)
-                if texto and len(texto) > 200:
-                    # Contar parágrafos dentro da div
-                    ps = div.find_all('p')
-                    if len(ps) >= 3:  # Div com estrutura de conteúdo
-                        for p in ps:
-                            texto_p = p.get_text(strip=True)
-                            if texto_p and len(texto_p) > 30:
-                                conteudo += f'<p>{html.escape(texto_p)}</p>\n'
-                        break
-        
-        return conteudo
-    
     try:
-        # ================= 1. COLETAR NOTÍCIAS =================
-        print("🔍 Coletando notícias...")
+        # Mapeamento de meses em português para números
+        MESES_PT = {
+            'janeiro': 1, 'fevereiro': 2, 'março': 3, 'abril': 4,
+            'maio': 5, 'junho': 6, 'julho': 7, 'agosto': 8,
+            'setembro': 9, 'outubro': 10, 'novembro': 11, 'dezembro': 12
+        }
         
         lista_noticias = []
-        pagina = 1
-        url = URL_LISTA
+        links_processados = set()
         
-        while url and pagina <= 5:
-            print(f"📄 Página {pagina}")
+        # FUNÇÃO PARA PROCESSAR UMA PÁGINA ESPECÍFICA
+        def processar_pagina(url_pagina, pagina_num):
+            print(f"📄 Página {pagina_num}: {url_pagina}")
             
             try:
-                response = requests.get(url, headers=HEADERS, timeout=15)
+                response = requests.get(url_pagina, headers=HEADERS, timeout=30)
+                response.raise_for_status()
                 soup = BeautifulSoup(response.content, 'html.parser')
                 
-                containers = soup.find_all('div', class_='blog-post-item')
+                noticias_containers = soup.find_all('div', class_='blog-post-item')
+                print(f"   Encontrados {len(noticias_containers)} containers nesta página")
                 
-                for container in containers:
+                noticias_hoje_pagina = 0
+                encontrou_noticia_antiga = False
+                
+                for container in noticias_containers:
                     try:
-                        # Data
+                        # Extrair data da notícia
                         data_div = container.find('div', class_='blog-time')
                         if not data_div:
                             continue
-                            
+                        
                         span_data = data_div.find('span', class_='font-lato')
                         if not span_data:
                             continue
+                        
+                        data_str = span_data.get_text(strip=True)
+                        if not data_str:
+                            continue
+                        
+                        # Converter data
+                        data_noticia = None
+                        try:
+                            partes = data_str.split()
+                            if len(partes) >= 4:
+                                dia_noticia = int(partes[1])
+                                mes_pt = partes[2].lower()
+                                ano_noticia = int(partes[3])
+                                
+                                if mes_pt in MESES_PT:
+                                    mes_noticia = MESES_PT[mes_pt]
+                                    data_noticia = date(ano_noticia, mes_noticia, dia_noticia)
+                        except (ValueError, IndexError):
+                            continue
+                        
+                        if not data_noticia:
+                            continue
+                        
+                        # VERIFICAR SE É NOTÍCIA DE HOJE
+                        if data_noticia == HOJE:
+                            # Notícia de HOJE - processar
+                            link_tag = container.find('a', class_='btn-reveal')
+                            if not link_tag or not link_tag.get('href'):
+                                continue
                             
-                        data_texto = span_data.get_text(strip=True)
-                        data_noticia = extrair_data(data_texto)
-                        
-                        if not data_noticia or data_noticia != HOJE_REF:
-                            continue
-                        
-                        # Link
-                        link_tag = container.find('a', class_='btn-reveal')
-                        if not link_tag or not link_tag.get('href'):
-                            continue
+                            href = link_tag['href']
+                            link_url = urljoin(URL_BASE, href)
                             
-                        link_url = urljoin(URL_BASE, link_tag['href'])
+                            if link_url in links_processados:
+                                continue
+                            
+                            # Extrair título
+                            intro_div = container.find('div', class_='intro')
+                            titulo = ""
+                            if intro_div:
+                                h2_tag = intro_div.find('h2')
+                                if h2_tag:
+                                    titulo = h2_tag.get_text(strip=True)
+                            
+                            if not titulo or len(titulo) < 10:
+                                continue
+                            
+                            # Extrair descrição
+                            descricao = ""
+                            if intro_div:
+                                for texto in intro_div.stripped_strings:
+                                    if texto and texto != titulo and len(texto) > 30:
+                                        descricao = texto[:300]
+                                        break
+                            
+                            # Extrair imagem
+                            imagem_url = None
+                            img_tag = container.find('figure', class_='blog-item-small-image')
+                            if img_tag:
+                                img = img_tag.find('img')
+                                if img and img.get('src'):
+                                    src = img['src']
+                                    if src and not src.startswith(('http://', 'https://', 'data:')):
+                                        if src.startswith('/'):
+                                            imagem_url = urljoin(URL_BASE, src)
+                                        else:
+                                            imagem_url = urljoin(f"{URL_BASE}/", src)
+                                    else:
+                                        imagem_url = src
+                            
+                            links_processados.add(link_url)
+                            
+                            lista_noticias.append({
+                                'titulo': titulo[:250],
+                                'link': link_url,
+                                'descricao': descricao,
+                                'data_str': data_str,
+                                'data_obj': data_noticia,
+                                'imagem': imagem_url,
+                                'hora': partes[4] if len(partes) > 4 else "00:00",
+                                'pagina': pagina_num
+                            })
+                            
+                            noticias_hoje_pagina += 1
+                            print(f"    ✅ [{partes[4] if len(partes) > 4 else '??:??'}] {titulo[:60]}...")
+                            
+                        elif data_noticia < HOJE:
+                            # Notícia de dia ANTERIOR
+                            encontrou_noticia_antiga = True
+                            diferenca = (HOJE - data_noticia).days
+                            if diferenca <= 2:
+                                print(f"    ⏰ Notícia anterior: {data_noticia.strftime('%d/%m/%Y')} ({diferenca} dia(s) atrás)")
                         
-                        # Título
-                        titulo = ""
-                        intro_div = container.find('div', class_='intro')
-                        if intro_div:
-                            h2_tag = intro_div.find('h2')
-                            if h2_tag:
-                                titulo = h2_tag.get_text(strip=True)
-                        
-                        if not titulo:
-                            continue
-                        
-                        # Hora
-                        hora = "00:00"
-                        hora_match = re.search(r'(\d{1,2}:\d{2})', data_texto)
-                        if hora_match:
-                            hora = hora_match.group(1)
-                        
-                        # Imagem destacada
-                        imagem_destaque = None
-                        img_tag = container.find('figure', class_='blog-item-small-image')
-                        if img_tag:
-                            img = img_tag.find('img')
-                            if img and img.get('src'):
-                                src = img['src']
-                                if not src.startswith(('http://', 'https://')):
-                                    imagem_destaque = urljoin(URL_BASE, src)
-                                else:
-                                    imagem_destaque = src
-                        
-                        lista_noticias.append({
-                            'titulo': titulo,
-                            'link': link_url,
-                            'data_texto': data_texto,
-                            'imagem_destaque': imagem_destaque,
-                            'hora': hora
-                        })
-                        
-                        print(f"    ✅ [{hora}] {titulo[:60]}...")
-                    
-                    except:
+                    except Exception:
                         continue
                 
-                # Próxima página
+                print(f"   📊 Notícias de HOJE nesta página: {noticias_hoje_pagina}")
+                
+                # ENCONTRAR PRÓXIMA PÁGINA
+                proxima_url = None
                 paginador = soup.find('div', class_='news-pagination')
-                proxima = None
-                
                 if paginador:
-                    link_proximo = paginador.find('a', string=lambda t: t and 'próximo' in str(t).lower())
+                    # CORREÇÃO: usar 'string' em vez de 'text'
+                    link_proximo = paginador.find('a', string=lambda t: t and any(
+                        palavra in str(t).lower() for palavra in ['próximo', 'next', '>']
+                    ))
+                    
+                    if not link_proximo:
+                        link_proximo = paginador.find('li', class_='pagination-next')
+                        if link_proximo:
+                            link_proximo = link_proximo.find('a')
+                    
                     if link_proximo and link_proximo.get('href'):
-                        proxima = urljoin(URL_BASE, link_proximo['href'])
+                        href_proximo = link_proximo['href']
+                        proxima_url = urljoin(URL_BASE, href_proximo)
+                        
+                        if proxima_url == url_pagina:
+                            proxima_url = None
                 
-                if not proxima:
-                    break
+                # Decidir se continua
+                continuar_varredura = True
+                if encontrou_noticia_antiga and noticias_hoje_pagina == 0:
+                    continuar_varredura = False
+                    print(f"   ⏹️  Apenas notícias antigas nesta página. Parando varredura.")
                 
-                pagina += 1
-                url = proxima
-                time.sleep(1)
+                return noticias_hoje_pagina, proxima_url, continuar_varredura
                 
-            except:
-                break
+            except Exception as e:
+                print(f"   ❌ Erro ao processar página {pagina_num}: {e}")
+                return 0, None, False
         
-        if not lista_noticias:
-            print("📭 Nenhuma notícia hoje")
+        # PROCESSAR TODAS AS PÁGINAS
+        pagina_atual = 1
+        url_atual = URL_LISTA
+        total_noticias_hoje = 0
+        max_paginas = 10  # Limite seguro
+        
+        while url_atual and pagina_atual <= max_paginas:
+            noticias_pagina, proxima_url, continuar = processar_pagina(url_atual, pagina_atual)
+            total_noticias_hoje += noticias_pagina
+            
+            if not continuar or not proxima_url:
+                break
+            
+            pagina_atual += 1
+            url_atual = proxima_url
+            time.sleep(1)  # Respeitar o servidor
+        
+        print("-" * 50)
+        print(f"📈 VARREURA COMPLETA: {pagina_atual} página(s) processada(s)")
+        
+        # VERIFICAR RESULTADOS
+        if total_noticias_hoje == 0:
+            print(f"\nℹ️  Nenhuma notícia publicada HOJE ({HOJE.strftime('%d/%m/%Y')}) encontrada.")
+            
+            xml_vazio = f'''<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Notícias da Prefeitura de Fortaleza - {HOJE.strftime("%d/%m/%Y")}</title>
+<link>{URL_BASE}</link>
+<description>Nenhuma notícia nova publicada hoje</description>
+<lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>
+<ttl>60</ttl>
+</channel>
+</rss>'''
+            
+            with open(FEED_FILE, 'w', encoding='utf-8') as f:
+                f.write(xml_vazio)
+            
+            print(f"📁 Arquivo XML vazio gerado: {FEED_FILE}")
             return True
         
-        # ================= 2. EXTRAIR CONTEÚDO LIMPO =================
-        print(f"\n📥 Extraindo conteúdo limpo...")
+        print(f"\n🎯 TOTAL DE NOTÍCIAS DE HOJE ENCONTRADAS: {total_noticias_hoje}")
+        
+        # Ordenar por hora (mais recente primeiro)
+        lista_noticias.sort(key=lambda x: x['hora'], reverse=True)
+        
+        # Extrair conteúdo completo
+        print(f"\n📥 Extraindo conteúdo completo das {len(lista_noticias)} notícias...")
         
         noticias_completas = []
         
         for i, noticia in enumerate(lista_noticias, 1):
-            print(f"🔗 ({i}/{len(lista_noticias)}) {noticia['link'][:70]}...")
-            
             try:
-                time.sleep(2)
+                time.sleep(1.5)
+                print(f"🔗 ({i}/{len(lista_noticias)}) [{noticia['hora']}] {noticia['link'][:80]}...")
                 
-                response = requests.get(noticia['link'], headers=HEADERS, timeout=20)
-                if response.status_code != 200:
+                resp = requests.get(noticia['link'], headers=HEADERS, timeout=30)
+                
+                if resp.status_code != 200:
                     continue
                 
-                soup = BeautifulSoup(response.content, 'html.parser')
+                soup_noticia = BeautifulSoup(resp.content, 'html.parser')
                 
-                # ================= EXTRAIR CONTEÚDO PRINCIPAL =================
-                # Remover elementos indesejados ANTES de extrair
-                for tag in soup.find_all(['script', 'style', 'iframe', 'nav', 
-                                         'aside', 'header', 'footer', 'form']):
-                    tag.decompose()
+                # Título
+                titulo_tag = soup_noticia.find('h1', class_='bold') or \
+                           soup_noticia.find('h1') or \
+                           soup_noticia.find('h2')
                 
-                # Encontrar conteúdo principal
-                conteudo_principal = None
+                if titulo_tag and titulo_tag.get_text(strip=True):
+                    noticia['titulo'] = titulo_tag.get_text(strip=True)[:250]
                 
-                # Tentar seletores específicos do site
-                seletores = [
-                    ('div', {'class': 'item-page'}),
-                    ('div', {'itemprop': 'articleBody'}),
-                    ('article', {}),
-                    ('div', {'class': 'blog-item-small-content'}),
-                ]
-                
-                for tag_name, attrs in seletores:
-                    conteudo_principal = soup.find(tag_name, attrs)
-                    if conteudo_principal:
-                        break
-                
-                if not conteudo_principal:
-                    # Fallback: div com mais texto
-                    divs = soup.find_all('div')
-                    for div in divs:
-                        texto = div.get_text(strip=True)
-                        if len(texto) > 500:
-                            conteudo_principal = div
-                            break
-                
-                if not conteudo_principal:
-                    continue
-                
-                # Remover elementos de compartilhamento e interface
-                elementos_remover = [
-                    'social', 'share', 'comentario', 'comment', 'banner',
-                    'ad', 'publicidade', 'newsletter', 'related', 'sidebar',
-                    'imprimir', 'print', 'email'
-                ]
-                
-                for tag in conteudo_principal.find_all(True):
-                    # Verificar por classes
-                    classes = tag.get('class', [])
-                    id_tag = tag.get('id', '')
-                    texto_classe = ' '.join(classes).lower()
+                # Imagem
+                if not noticia['imagem']:
+                    img_figure = soup_noticia.find('figure', class_='blog-item-small-image')
+                    if img_figure:
+                        img = img_figure.find('img')
+                    else:
+                        img = soup_noticia.find('img', class_='img-responsive') or \
+                              soup_noticia.find('img', class_='img-fluid')
                     
-                    if any(termo in texto_classe for termo in elementos_remover) or \
-                       any(termo in id_tag.lower() for termo in elementos_remover):
-                        tag.decompose()
+                    if img and img.get('src'):
+                        src = img['src']
+                        if src and not src.startswith(('http://', 'https://', 'data:')):
+                            noticia['imagem'] = urljoin(URL_BASE, src)
+                        else:
+                            noticia['imagem'] = src
                 
-                # Converter para HTML
-                conteudo_html = str(conteudo_principal)
+                # Conteúdo
+                conteudo_html = ""
+                div_conteudo = soup_noticia.find('div', class_='item-page') or \
+                             soup_noticia.find('div', {'itemprop': 'articleBody'}) or \
+                             soup_noticia.find('article') or \
+                             soup_noticia.find('div', class_='blog-item-small-content')
                 
-                # ================= LIMPAR CONTEÚDO =================
-                conteudo_limpo = limpar_conteudo(conteudo_html)
-                
-                # Se ainda estiver vazio, usar fallback
-                if not conteudo_limpo or len(conteudo_limpo) < 200:
-                    # Extrair parágrafos manualmente
-                    paragrafos = []
-                    for p in soup.find_all('p'):
-                        texto = p.get_text(strip=True)
-                        if texto and len(texto) > 50:
-                            # Verificar se não é menu/interface
-                            parent = p.parent
-                            parent_html = str(parent).lower() if parent else ""
-                            if not any(termo in parent_html for termo in ['menu', 'nav', 'header', 'footer']):
-                                paragrafos.append(texto)
+                if div_conteudo:
+                    for elemento in div_conteudo.find_all(['script', 'style', 'iframe', 'nav', 'aside']):
+                        elemento.decompose()
                     
-                    # Remover duplicações
-                    paragrafos_unicos = []
-                    for p in paragrafos:
-                        if p not in paragrafos_unicos:
-                            paragrafos_unicos.append(p)
+                    for tag in div_conteudo.find_all(True):
+                        if tag.name not in ['p', 'br', 'strong', 'em', 'b', 'i', 'a', 'img', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'h4']:
+                            tag.unwrap()
                     
-                    conteudo_limpo = ""
-                    for p in paragrafos_unicos[:10]:  # Limitar a 10 parágrafos
-                        conteudo_limpo += f'<p>{html.escape(p)}</p>\n'
+                    conteudo_html = str(div_conteudo)
                 
-                # ================= MONTAR CONTEÚDO FINAL =================
-                conteudo_final = ""
+                if not conteudo_html or len(conteudo_html) < 200:
+                    conteudo_html = f'<p>{noticia["descricao"] or noticia["titulo"]}</p>'
                 
-                # Imagem destacada
-                if noticia['imagem_destaque']:
-                    conteudo_final += f'''
-                    <div style="margin-bottom: 25px; text-align: center;">
-                        <img src="{noticia['imagem_destaque']}" 
-                             alt="{html.escape(noticia['titulo'][:100])}"
-                             style="max-width: 100%; height: auto; border-radius: 8px;">
-                    </div>
-                    '''
+                # Adicionar imagem
+                if noticia['imagem']:
+                    img_html = f'<div class="imagem-destaque"><img src="{noticia["imagem"]}" alt="{html.escape(noticia["titulo"][:100])}" style="max-width:100%; height:auto; margin-bottom:20px;"></div>'
+                    conteudo_html = img_html + conteudo_html
                 
-                # Cabeçalho
-                conteudo_final += f'''
-                <div style="margin-bottom: 20px; padding-bottom: 15px; border-bottom: 1px solid #eee;">
-                    <h1 style="margin: 0 0 10px 0; color: #333; font-size: 24px;">
-                        {html.escape(noticia['titulo'])}
-                    </h1>
-                    <div style="color: #666; font-size: 14px;">
-                        <strong>Publicado em:</strong> {noticia['data_texto']}
-                    </div>
+                # Adicionar fonte
+                fonte_html = f'''
+                <div style="margin-top:20px; padding:10px; background:#f5f5f5; border-left:3px solid #0073aa; font-size:13px; color:#666;">
+                    <p style="margin:0;"><strong>Publicado em:</strong> {noticia['data_str']}<br>
+                    <strong>Fonte:</strong> Prefeitura de Fortaleza - <a href="{noticia['link']}" target="_blank">Ver notícia original</a></p>
                 </div>
                 '''
+                conteudo_html += fonte_html
                 
-                # Conteúdo principal
-                conteudo_final += conteudo_limpo
+                noticias_completas.append({
+                    'titulo': noticia['titulo'],
+                    'link': noticia['link'],
+                    'imagem': noticia['imagem'],
+                    'conteudo': conteudo_html,
+                    'data_str': noticia['data_str'],
+                    'hora': noticia['hora']
+                })
                 
-                # Rodapé
-                conteudo_final += f'''
-                <div style="margin-top: 30px; padding: 15px; background: #f5f5f5; 
-                     border-left: 3px solid #0073aa; font-size: 14px;">
-                    <p style="margin: 0;">
-                        <strong>Fonte:</strong> Prefeitura de Fortaleza<br>
-                        <strong>Link original:</strong> 
-                        <a href="{noticia['link']}" target="_blank">{noticia['link']}</a>
-                    </p>
-                </div>
-                '''
+                print(f"    ✅ Conteúdo extraído ({len(conteudo_html):,} chars)")
                 
-                noticia['conteudo'] = conteudo_final
-                noticia['tamanho'] = len(conteudo_final)
-                noticias_completas.append(noticia)
-                
-                print(f"    ✅ Conteúdo limpo: {len(conteudo_final):,} caracteres")
-                
-            except Exception as e:
-                print(f"    ❌ Erro: {str(e)[:50]}")
+            except Exception:
                 continue
         
-        # ================= 3. GERAR XML =================
-        print(f"\n📄 Gerando XML com conteúdo limpo...")
-        
-        noticias_completas.sort(key=lambda x: x['hora'], reverse=True)
-        
+        # Gerar XML RSS
         xml_parts = []
         
         xml_parts.append('<?xml version="1.0" encoding="UTF-8"?>')
         xml_parts.append('<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">')
         xml_parts.append('<channel>')
-        xml_parts.append(f'<title>Notícias Fortaleza - {HOJE_REF.strftime("%d/%m/%Y")}</title>')
+        xml_parts.append(f'<title>Notícias da Prefeitura de Fortaleza - {HOJE.strftime("%d/%m/%Y")}</title>')
         xml_parts.append(f'<link>{URL_BASE}</link>')
-        xml_parts.append(f'<description>Notícias limpas sem duplicações - {len(noticias_completas)} notícias</description>')
+        xml_parts.append(f'<description>Todas as notícias publicadas HOJE ({HOJE.strftime("%d/%m/%Y")}) pela Prefeitura de Fortaleza - {len(noticias_completas)} notícias encontradas</description>')
         xml_parts.append('<language>pt-br</language>')
-        xml_parts.append(f'<lastBuildDate>{utc_agora.strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>')
+        xml_parts.append(f'<lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>')
         xml_parts.append('<ttl>60</ttl>')
         
         for noticia in noticias_completas:
             guid = hashlib.md5(noticia['link'].encode()).hexdigest()[:12]
             
+            # Data para RSS
             try:
                 hora_partes = noticia['hora'].split(':')
-                hora = int(hora_partes[0]) if hora_partes else 12
-                minuto = int(hora_partes[1]) if len(hora_partes) > 1 else 0
-                data_rss = datetime(HOJE_REF.year, HOJE_REF.month, HOJE_REF.day, 
-                                  hora, minuto, 0, tzinfo=timezone.utc)
-                pub_date = data_rss.strftime("%a, %d %b %Y %H:%M:%S +0000")
+                if len(hora_partes) >= 2:
+                    hora = int(hora_partes[0])
+                    minuto = int(hora_partes[1])
+                else:
+                    hora, minuto = 12, 0
+                
+                data_rss_obj = datetime(HOJE_ANO, HOJE_MES, HOJE_DIA, hora, minuto, 0, tzinfo=timezone.utc)
+                data_rss = data_rss_obj.strftime("%a, %d %b %Y %H:%M:%S +0000")
             except:
-                pub_date = utc_agora.strftime("%a, %d %b %Y %H:%M:%S +0000")
+                data_rss = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
             
             xml_parts.append('<item>')
             xml_parts.append(f'<title>{html.escape(noticia["titulo"])}</title>')
             xml_parts.append(f'<link>{noticia["link"]}</link>')
-            xml_parts.append(f'<guid isPermaLink="false">ftz-{guid}</guid>')
-            xml_parts.append(f'<pubDate>{pub_date}</pubDate>')
-            xml_parts.append(f'<description>{html.escape(noticia["titulo"][:150])} - {noticia["data_texto"]}</description>')
+            xml_parts.append(f'<guid isPermaLink="false">fortaleza-{HOJE.strftime("%Y%m%d")}-{guid}</guid>')
+            xml_parts.append(f'<pubDate>{data_rss}</pubDate>')
+            xml_parts.append(f'<description>{html.escape(noticia["titulo"][:150])} (Publicado: {noticia["hora"]})</description>')
             
             xml_parts.append(f'<content:encoded><![CDATA[ {noticia["conteudo"]} ]]></content:encoded>')
             
-            if noticia.get('imagem_destaque'):
-                xml_parts.append(f'<enclosure url="{noticia["imagem_destaque"]}" type="image/jpeg" />')
-                xml_parts.append(f'<media:content url="{noticia["imagem_destaque"]}" type="image/jpeg" medium="image">')
+            if noticia['imagem']:
+                xml_parts.append(f'<enclosure url="{noticia["imagem"]}" type="image/jpeg" length="80000" />')
+                xml_parts.append(f'<media:content url="{noticia["imagem"]}" type="image/jpeg" medium="image">')
                 xml_parts.append(f'<media:title>{html.escape(noticia["titulo"][:100])}</media:title>')
                 xml_parts.append('</media:content>')
             
@@ -468,39 +397,28 @@ def criar_feed_fortaleza_limpo():
         xml_parts.append('</channel>')
         xml_parts.append('</rss>')
         
-        # ================= 4. SALVAR =================
+        # Salvar arquivo
         with open(FEED_FILE, 'w', encoding='utf-8') as f:
             f.write('\n'.join(xml_parts))
         
-        # ================= 5. RELATÓRIO =================
-        print("-" * 60)
-        print(f"✅ FEED LIMPO GERADO!")
-        print(f"📊 Notícias: {len(noticias_completas)}")
-        print(f"📏 Tamanho total: {sum(n.get('tamanho', 0) for n in noticias_completas):,} caracteres")
-        print(f"📁 Arquivo: {FEED_FILE}")
+        print("-" * 50)
+        print(f"✅ FEED DIÁRIO GERADO: {FEED_FILE}")
+        print(f"📅 Data: {HOJE.strftime('%d/%m/%Y')}")
+        print(f"📊 Notícias encontradas: {len(noticias_completas)}")
+        print(f"📖 Páginas varridas: {pagina_atual}")
+        print(f"📁 Tamanho do arquivo: {os.path.getsize(FEED_FILE):,} bytes")
         
+        # Resumo das notícias
         if noticias_completas:
-            # Mostrar exemplo do conteúdo limpo
-            primeira = noticias_completas[0]
-            conteudo_texto = BeautifulSoup(primeira['conteudo'], 'html.parser').get_text()
-            
-            print(f"\n📋 EXEMPLO DE CONTEÚDO LIMPO:")
-            linhas = conteudo_texto.split('\n')
-            for linha in linhas[:8]:  # Primeiras 8 linhas
-                linha_limpa = linha.strip()
-                if linha_limpa and len(linha_limpa) > 20:
-                    print(f"  • {linha_limpa[:80]}...")
+            print(f"\n📋 RESUMO DAS NOTÍCIAS:")
+            for i, n in enumerate(noticias_completas, 1):
+                print(f"  {i}. [{n['hora']}] {n['titulo'][:70]}...")
         
         return True
         
     except Exception as e:
-        print(f"❌ ERRO: {e}")
-        import traceback
-        traceback.print_exc()
+        print(f"❌ ERRO GERAL: {e}")
         return False
 
 if __name__ == "__main__":
-    sucesso = criar_feed_fortaleza_limpo()
-    print("=" * 60)
-    print(f"🏁 Status: {'✅ SUCESSO' if sucesso else '❌ FALHA'}")
-    sys.exit(0 if sucesso else 1)
+    criar_feed_fortaleza_hoje()
