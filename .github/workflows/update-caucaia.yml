@@ -2,7 +2,7 @@ name: Atualizar Feed Caucaia
 
 on:
   schedule:
-    - cron: '0 8-20,0-1 * * *'
+    - cron: '0 */1 * * *'  # A cada 1 horas (mais frequente para testes)
   workflow_dispatch:
 
 permissions:
