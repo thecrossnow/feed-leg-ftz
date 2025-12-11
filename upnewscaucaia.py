@@ -9,6 +9,11 @@ import time
 from urllib.parse import urljoin
 import re
 import os
+import difflib
+
+def similar(a, b):
+    """Retorna similaridade entre duas strings."""
+    return difflib.SequenceMatcher(None, a, b).ratio()
 
 def criar_feed_caucaia_limpo():
     
@@ -66,32 +71,33 @@ def criar_feed_caucaia_limpo():
                         src = urljoin(URL_BASE, src)
                     imagem_url = src
                 
+                # ---------- EXTRAÇÃO DO CONTEÚDO COM ANTI-DUPLICAÇÃO AVANÇADA ----------
                 div_conteudo = soup_noticia.find('div', class_='p-info')
                 conteudo_html = ""
-                
+
                 if div_conteudo:
-                    # EXTRAIR PARÁGRAFOS SEM DUPLICAÇÃO
-                    paragrafos_set = set()
                     paragrafos_texto = []
                     
                     for p in div_conteudo.find_all('p'):
-                        texto = p.get_text(strip=True)
-                        if texto and len(texto) > 10:
-                            if texto not in paragrafos_set:
-                                paragrafos_set.add(texto)
-                                paragrafos_texto.append(f'<p>{texto}</p>')
+                        texto = p.get_text(" ", strip=True)
+                        if not texto or len(texto) < 10:
+                            continue
+
+                        # Verifica se é MUITO parecido com algum anterior
+                        duplicado = False
+                        for existente in paragrafos_texto:
+                            if similar(texto, existente) >= 0.85:
+                                duplicado = True
+                                break
+                        
+                        if not duplicado:
+                            paragrafos_texto.append(texto)
                     
-                    if paragrafos_texto:
-                        conteudo_html = ''.join(paragrafos_texto)
-                    else:
-                        # Fallback: apenas se não houver <p>
-                        texto_completo = div_conteudo.get_text("\n", strip=True)
-                        linhas = [linha.strip() for linha in texto_completo.split('\n') if linha.strip()]
-                        for linha in linhas:
-                            if len(linha) > 20 and linha not in paragrafos_set:
-                                conteudo_html += f'<p>{linha}</p>'
+                    # Gerar HTML com espaçamento entre parágrafos
+                    conteudo_html = "\n\n".join([f"<p>{t}</p>" for t in paragrafos_texto])
+                
                 else:
-                    # Fallback original: parágrafos da página
+                    # Fallback original
                     todos_p = soup_noticia.find_all('p')
                     paragrafos = []
                     for p in todos_p:
@@ -100,8 +106,9 @@ def criar_feed_caucaia_limpo():
                             paragrafos.append(f'<p>{html.escape(texto)}</p>')
                     
                     if paragrafos:
-                        conteudo_html = ''.join(paragrafos[:10])
+                        conteudo_html = "\n\n".join(paragrafos[:10])
                 
+                # ---------- DATA ----------
                 texto_pagina = soup_noticia.get_text()
                 data_match = re.search(r'(\d{2}/\d{2}/\d{4})', texto_pagina[:2000])
                 data_str = data_match.group(1) if data_match else None
@@ -117,6 +124,7 @@ def criar_feed_caucaia_limpo():
             except Exception:
                 continue
         
+        # ---------- GERAR XML ----------
         xml_parts = []
         
         xml_parts.append('<?xml version="1.0" encoding="UTF-8"?>')
@@ -135,8 +143,7 @@ def criar_feed_caucaia_limpo():
             
             if noticia['data'] and '/' in noticia['data']:
                 try:
-                    partes = noticia['data'].split('/')
-                    dia, mes, ano = map(int, partes)
+                    dia, mes, ano = map(int, noticia['data'].split('/'))
                     data_obj = datetime(ano, mes, dia, 12, 0, 0, tzinfo=timezone.utc)
                 except:
                     data_obj = datetime.now(timezone.utc) - timedelta(hours=i*2)
@@ -153,8 +160,15 @@ def criar_feed_caucaia_limpo():
             xml_parts.append(f'<description>{html.escape(noticia["titulo"][:200])}</description>')
             
             conteudo_final = noticia['conteudo']
-            fonte_html = f'<div style="margin-top:30px;padding:15px;background:#f8f9fa;border-left:4px solid #0073aa"><strong>Fonte:</strong> <a href="{noticia["link"]}">Prefeitura de Caucaia</a></div>'
-            conteudo_final += fonte_html
+            
+            fonte_html = (
+                '<div style="margin-top:30px;padding:15px;'
+                'background:#f8f9fa;border-left:4px solid #0073aa">'
+                f'<strong>Fonte:</strong> <a href="{noticia["link"]}">'
+                'Prefeitura de Caucaia</a></div>'
+            )
+            
+            conteudo_final += "\n\n" + fonte_html
             
             xml_parts.append(f'<content:encoded><![CDATA[ {conteudo_final} ]]></content:encoded>')
             
@@ -172,14 +186,6 @@ def criar_feed_caucaia_limpo():
         
         with open(FEED_FILE, 'w', encoding='utf-8') as f:
             f.write('\n'.join(xml_parts))
-        
-        if os.path.exists(FEED_FILE):
-            with open(FEED_FILE, 'r', encoding='utf-8') as f:
-                conteudo = f.read()
-                if conteudo.startswith('<?xml'):
-                    print("✅ XML gerado corretamente")
-                else:
-                    print("⚠️  Verifique o início do arquivo")
         
         return True
         
