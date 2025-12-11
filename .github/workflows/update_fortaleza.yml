@@ -2,7 +2,7 @@ name: 📰 Atualizar Feed Fortaleza Simples
 
 on:
   schedule:
-    - cron: '0 12,15,18,21 * * *'  # 9h, 12h, 15h, 18h BR
+    - cron: '0 */1 * * *'  # A cada 1 horas (mais frequente para testes)
   workflow_dispatch:
 
 jobs:
