@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write      # Permitir push
+      contents: write
       actions: read
       checks: read
 
@@ -45,11 +45,8 @@ jobs:
       - name: 🚀 Executar script com captura de erro
         run: |
           echo "🔄 Rodando upnewsfortaleza.py..."
-          
-          set -e  # SE der qualquer erro, o job para
-          
+          set -e
           python upnewsfortaleza.py
-
           echo "✅ Script executado!"
       # -----------------------------------------------------------
 
@@ -77,7 +74,7 @@ jobs:
           fi
       # -----------------------------------------------------------
 
-      - name: 💾 Commit e Push (se houver mudanças)
+      - name: 💾 Commit e Pull + Push (sem travar)
         if: steps.gitcheck.outputs.changed == 'true'
         run: |
           echo "📝 Preparando commit..."
@@ -88,8 +85,10 @@ jobs:
           git add feed_fortaleza_hoje.xml
 
           COMMIT_MSG="🤖 Update automático: $(TZ='America/Fortaleza' date '+%Y-%m-%d %H:%M:%S')"
-
           git commit -m "$COMMIT_MSG"
+
+          echo "🔄 Sincronizando com repositório remoto (git pull --rebase)..."
+          git pull --rebase || true
 
           echo "📤 Fazendo push..."
           git push
