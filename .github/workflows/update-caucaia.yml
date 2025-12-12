@@ -2,7 +2,7 @@ name: Atualizar Feed Caucaia
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # A cada 1 horas (mais frequente para testes)
+    - cron: '0 */1 * * *'  # A cada 1 horas
   workflow_dispatch:
 
 permissions:
@@ -13,21 +13,24 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Baixar repositório
+    # -----------------------------------------------------------
+    - name: 📥 Checkout (com histórico completo)
       uses: actions/checkout@v4
       with:
+        fetch-depth: 0
         token: ${{ secrets.GITHUB_TOKEN }}
+    # -----------------------------------------------------------
 
-    - name: Configurar Python
+    - name: 🐍 Configurar Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
 
-    - name: Instalar dependências
+    - name: 📦 Instalar dependências
       run: |
         pip install beautifulsoup4 requests lxml
 
-    - name: Executar scraper
+    - name: 🚀 Executar scraper
       id: scraper
       run: |
         python upnewscaucaia.py
@@ -36,29 +39,54 @@ jobs:
           ITEMS=$(grep -c '<item>' feed_caucaia_limpo.xml || echo "0")
           echo "ITEMS_COUNT=$ITEMS" >> $GITHUB_ENV
         else
-          echo "Arquivo não gerado"
+          echo "❌ ERRO: feed_caucaia_limpo.xml não foi gerado"
           exit 1
         fi
 
-    - name: Configurar git
+    # -----------------------------------------------------------
+    - name: 🔧 Configurar git
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@users.noreply.github.com"
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+    # -----------------------------------------------------------
 
-    - name: Commit e push
+    - name: 🔍 Verificar mudanças
+      id: gitcheck
+      run: |
+        if [[ -z "$(git status --porcelain)" ]]; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "ℹ️ Nenhuma mudança detectada."
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "🟡 Alterações detectadas. Preparando commit..."
+        fi
+
+    # -----------------------------------------------------------
+    - name: 💾 Commit + Pull/Rebase + Push (Seguro)
+      if: steps.gitcheck.outputs.changed == 'true'
       run: |
         git add feed_caucaia_limpo.xml
-        
+
         HORA_BRT=$(TZ="America/Fortaleza" date '+%d/%m %H:%M')
         COMMIT_MSG="Atualização feed Caucaia - $HORA_BRT (${{ env.ITEMS_COUNT }} notícias)"
-        
-        git commit -m "$COMMIT_MSG" || echo "Nenhuma mudança"
-        
+
+        git commit -m "$COMMIT_MSG"
+
+        echo "🔄 Sincronizando com repositório remoto..."
+        git pull --rebase || true
+
+        echo "📤 Enviando alterações..."
         git push origin main
 
-    - name: Resumo
+        echo "✅ Push concluído com sucesso!"
+    # -----------------------------------------------------------
+
+    - name: 📄 Resumo
       run: |
+        echo "-------------------------------------"
         echo "Atualização concluída"
-        echo "Notícias: ${{ env.ITEMS_COUNT }}"
-        echo "URL: https://raw.githubusercontent.com/${{ github.repository }}/main/feed_caucaia_limpo.xml"
+        echo "Notícias encontradas: ${{ env.ITEMS_COUNT }}"
+        echo "Arquivo atualizado:"
+        echo "https://raw.githubusercontent.com/${{ github.repository }}/main/feed_caucaia_limpo.xml"
+        echo "-------------------------------------"
