@@ -7,7 +7,7 @@ import ssl
 # Bypass SSL verify for simple scripts if certificates are an issue on some envs
 ssl._create_default_https_context = ssl._create_unverified_context
 
-API_URL = "https://www.ceara.gov.br/wp-json/wp/v2/posts?per_page=10&_embed"
+API_URL = "https://www.ceara.gov.br/wp-json/wp/v2/posts?per_page=30&_embed"
 
 def clean_content(html_content):
     if not html_content:
@@ -57,20 +57,30 @@ def generate_rss():
             if post_date != today:
                 continue
 
-            # Category Filtering
+            # Category Filtering (slugs and names)
+            excluded_slugs = ["seguranca-publica", "aviso-de-pauta", "sspds", "policia-civil", "policia-militar", "corpo-de-bombeiros", "pefoce"]
+            excluded_names = ["Segurança Pública", "Aviso de Pauta", "SSPDS", "Polícia", "Bombeiros", "Pefoce"]
+            
             is_security = False
             if "_embedded" in post and "wp:term" in post["_embedded"]:
                 # terms[0] usually contains categories
                 categories = post["_embedded"]["wp:term"][0]
                 for cat in categories:
-                    if "Segurança Pública" in cat["name"] or "seguranca-publica" in cat["slug"]:
-                        is_security = True
-                        break
-                    if "Aviso de Pauta" in cat["name"] or "aviso-de-pauta" in cat["slug"]:
+                    if any(slug in cat["slug"] for slug in excluded_slugs) or any(name in cat["name"] for name in excluded_names):
                         is_security = True
                         break
             
             if is_security:
+                continue
+
+            # Content & Title Keyword Filtering
+            # Stopwords that indicate security news
+            security_keywords = ["prisão", "preso", "delegacia", "homicídio", "homicidio", "assassinato", "tráfico", "trafico", "drogas", "aprem", "armas", "polícia", "policia", "criminoso", "crime", "suspeito", "captura", "foragido"]
+            
+            title_lower = html.unescape(post['title']['rendered']).lower()
+            content_lower = clean_content(post['content']['rendered']).lower()
+            
+            if any(keyword in title_lower for keyword in security_keywords) or any(keyword in content_lower for keyword in security_keywords):
                 continue
 
             pubDate = pub_date_str
