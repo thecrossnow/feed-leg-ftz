@@ -1,9 +1,9 @@
 name: Update News Ceará Feed
 
 on:
-  schedule:
-    - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch: # Allows manual run
+   schedule:
+    - cron: '0 */1 * * *'  # A cada 1 horas
+  workflow_dispatch:
 
 permissions:
   contents: write
