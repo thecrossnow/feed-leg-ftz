@@ -18,17 +18,27 @@ def clean_content(html_content):
     text = re.sub(r'<br\s*/?>', '\n', text)
     
     # Remove specific subtitles with classes "subtitulo" or similar which container the unwanted date/hashtags
-    # This targets the specific block the user shared: <h3 class="subtitulo ..."> ... </h3>
-    text = re.sub(r'<h3[^>]*class=["\'].*?subtitulo.*?["\'][^>]*>.*?</h3>', '', text, flags=re.IGNORECASE | re.DOTALL)
+    # Using more flexible pattern to catch attributes in any order or spacing
+    text = re.sub(r'<h3[^>]*?class=["\'].*?subtitulo.*?["\'][^>]*?>.*?</h3>', '', text, flags=re.IGNORECASE | re.DOTALL)
 
     # Also removing generic h1-h6 tags
     text = re.sub(r'<h[1-6][^>]*>.*?</h[1-6]>', '', text, flags=re.IGNORECASE | re.DOTALL)
     
-    # Remove spans with class "hashtag"
-    text = re.sub(r'<span[^>]*class=["\'].*?hashtag.*?["\'][^>]*>.*?</span>', '', text, flags=re.IGNORECASE | re.DOTALL)
+    # Remove spans with class "hashtag" - flexible matching
+    text = re.sub(r'<span[^>]*?class=["\'].*?hashtag.*?["\'][^>]*?>.*?</span>', '', text, flags=re.IGNORECASE | re.DOTALL)
+    
+    # Also explicitly remove the container div/p if they might be wrapping it
+    text = re.sub(r'<p[^>]*?class=["\'].*?data.*?["\'][^>]*?>.*?</p>', '', text, flags=re.IGNORECASE | re.DOTALL)
+
+    # Remove formatted date lines that might be outside tags (15 de dezembro de 2025 – 15:19)
+    # This specific regex targets the format user showed: 15 de dezembro de 2025 \u2013 15:19
+    text = re.sub(r'\d{1,2}\s+de\s+[a-zç]+\s+de\s+\d{4}\s*.\s*\d{2}:\d{2}', '', text, flags=re.IGNORECASE)
 
     # Remove lines containing hashtag links (anchors pointing to /tag/)
     text = re.sub(r'<a[^>]+href=["\'].*?/tag/.*?["\'][^>]*>.*?</a>', '', text, flags=re.IGNORECASE | re.DOTALL)
+    
+    # Final sweep for any remaining hashtags text
+    text = re.sub(r'#\s*<a.*?>.*?</a>', '', text, flags=re.IGNORECASE | re.DOTALL)
     
     # Remove all other HTML tags
     text = re.sub(r'<[^>]+>', '', text)
