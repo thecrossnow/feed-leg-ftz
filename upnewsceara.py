@@ -17,6 +17,9 @@ def clean_content(html_content):
     text = re.sub(r'</p>', '\n\n', html_content)
     text = re.sub(r'<br\s*/?>', '\n', text)
     
+    # Remove subtitles (h1, h2, h3, h4, etc.)
+    text = re.sub(r'<h[1-6][^>]*>.*?</h[1-6]>', '', text, flags=re.IGNORECASE | re.DOTALL)
+    
     # Remove all other HTML tags
     text = re.sub(r'<[^>]+>', '', text)
     
@@ -82,21 +85,29 @@ def generate_rss():
             
             # 2. Remove authorship lines - padrão mais amplo
             # Remove linhas com Ascom, Ascom Casa Civil, ou combinações com texto/foto
-            clean_description = re.sub(r'(?m)^.*?(Ascom|Texto|Fotos).*?$', '', clean_description)
+            # Also catch "Texto: Name", "Foto: Name", and alone standing names often seen at start/end
+            clean_description = re.sub(r'(?m)^.*?(Ascom|Texto|Fotos|Foto:|Texto:).*?$', '', clean_description)
             
             # 3. Remove hashtags - remove completamente linhas que começam com #
             clean_description = re.sub(r'(?m)^\s*#.*?$', '', clean_description)
-            # Remove hashtags no meio do texto também
-            clean_description = re.sub(r'\s*#\w+', '', clean_description)
+            
+            # Remove hashtags anywhere in text
+            clean_description = re.sub(r'#\w+', '', clean_description)
             
             # 4. Remove tags HTML que podem ter escapado
             clean_description = re.sub(r'&[a-z]+;', '', clean_description)
             
             # 5. Remove linhas que contêm apenas hífens, traços ou são vazias
             clean_description = re.sub(r'(?m)^[\s\-–_]*$', '', clean_description)
+            clean_description = re.sub(r'(?m)^.*?[\-\–\—]\s*Texto.*?$', '', clean_description)
             
             # 6. Remove autoria específica que aparece na imagem
             clean_description = re.sub(r'(?m)^.*?(Eliazio Jerhy|Carlos Ghaja|Thiago Gaspar).*?$', '', clean_description)
+
+            # 7. Remove empty or very short lines (often artifacts)
+            # Remove lines with less than 3 chars
+            lines = [line for line in clean_description.split('\n') if len(line.strip()) > 2]
+            clean_description = '\n\n'.join(lines)
             
             # Clean up extra newlines
             clean_description = re.sub(r'\n{3,}', '\n\n', clean_description)
