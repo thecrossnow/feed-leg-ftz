@@ -63,6 +63,9 @@ def generate_rss():
                     if "Segurança Pública" in cat["name"] or "seguranca-publica" in cat["slug"]:
                         is_security = True
                         break
+                    if "Aviso de Pauta" in cat["name"] or "aviso-de-pauta" in cat["slug"]:
+                        is_security = True
+                        break
             
             if is_security:
                 continue
