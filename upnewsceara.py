@@ -79,34 +79,32 @@ def generate_rss():
             
             clean_description = clean_content(post['content']['rendered'])
             
-            # 1. Remove date/time lines - padrão mais flexível
-            # Aceita: "15 de dezembro de2025-13:49" ou "15 de dezembro de 2025-13:49"
-            clean_description = re.sub(r'(?m)^\s*\d{1,2}\s+de\s+\w+\s+de\s?\d{4}.*?$', '', clean_description)
+            # 1. Remove date/time lines - Broadest pattern
+            # Matches lines starting with digits, containing "de", and digits 202x, optionally time
+            clean_description = re.sub(r'(?m)^.*?\d{1,2}.*?de.*?\d{4}.*?$', '', clean_description)
+            clean_description = re.sub(r'(?m)^.*?[\d]{1,2}:[\d]{2}.*?$', '', clean_description) # Remove lines comprised of just time like 14:00
             
-            # 2. Remove authorship lines - padrão mais amplo
-            # Remove linhas com Ascom, Ascom Casa Civil, ou combinações com texto/foto
-            # Also catch "Texto: Name", "Foto: Name", and alone standing names often seen at start/end
-            clean_description = re.sub(r'(?m)^.*?(Ascom|Texto|Fotos|Foto:|Texto:).*?$', '', clean_description)
+            # 2. Remove authorship lines - Broadest pattern
+            clean_description = re.sub(r'(?m)^.*?(Ascom|Texto|Fotos|Foto:|Texto:|Fonte:).*?$', '', clean_description)
             
-            # 3. Remove hashtags - remove completamente linhas que começam com #
-            clean_description = re.sub(r'(?m)^\s*#.*?$', '', clean_description)
+            # 3. Remove hashtags - remove completely lines that have #
+            clean_description = re.sub(r'(?m)^.*?#.*?$', '', clean_description)
             
-            # Remove hashtags anywhere in text
-            clean_description = re.sub(r'#\w+', '', clean_description)
+            # Remove inline hashtags anywhere
+            clean_description = re.sub(r'#\S+', '', clean_description)
             
-            # 4. Remove tags HTML que podem ter escapado
+            # 4. Remove tags HTML
             clean_description = re.sub(r'&[a-z]+;', '', clean_description)
             
-            # 5. Remove linhas que contêm apenas hífens, traços ou são vazias
+            # 5. Remove lines that are just separators or emptyish
             clean_description = re.sub(r'(?m)^[\s\-–_]*$', '', clean_description)
             clean_description = re.sub(r'(?m)^.*?[\-\–\—]\s*Texto.*?$', '', clean_description)
             
-            # 6. Remove autoria específica que aparece na imagem
+            # 6. Specific names
             clean_description = re.sub(r'(?m)^.*?(Eliazio Jerhy|Carlos Ghaja|Thiago Gaspar).*?$', '', clean_description)
 
-            # 7. Remove empty or very short lines (often artifacts)
-            # Remove lines with less than 3 chars
-            lines = [line for line in clean_description.split('\n') if len(line.strip()) > 2]
+            # 7. Remove empty or very short lines
+            lines = [line.strip() for line in clean_description.split('\n') if len(line.strip()) > 5] # Increased limit to 5 to catch "CEE." etc
             clean_description = '\n\n'.join(lines)
             
             # Clean up extra newlines
