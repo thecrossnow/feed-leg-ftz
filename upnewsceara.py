@@ -54,11 +54,37 @@ def generate_rss():
             if post_date != today:
                 continue
 
+            # Category Filtering
+            is_security = False
+            if "_embedded" in post and "wp:term" in post["_embedded"]:
+                # terms[0] usually contains categories
+                categories = post["_embedded"]["wp:term"][0]
+                for cat in categories:
+                    if "Segurança Pública" in cat["name"] or "seguranca-publica" in cat["slug"]:
+                        is_security = True
+                        break
+            
+            if is_security:
+                continue
+
             pubDate = pub_date_str
             title = html.unescape(post['title']['rendered'])
             link = post['link']
             
             clean_description = clean_content(post['content']['rendered'])
+            
+            # 1. Remove date at the start (e.g., "Fortaleza, 14 de dezembro de 2025 - ")
+            # Matches patterns like "City, DD de Month de YYYY - " or similar introductions
+            # We will use a broad regex to catch dates and " - " separator
+            clean_description = re.sub(r'^.*?\d{1,2} de \w+ de \d{4}\s*[-–—]\s*', '', clean_description)
+            
+            # 2. Remove hashtags at the start or throughout (User asked for "no inicio" but usually they are at the end, will check start too)
+            # Remove lines starting with #
+            clean_description = re.sub(r'(?m)^#.*?$', '', clean_description)
+            # Remove inline hashtags #word
+            clean_description = re.sub(r'#\w+', '', clean_description)
+            
+            clean_description = clean_description.strip()
             
             # Escape XML special chars in content
             clean_description = clean_description.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;").replace("'", "&apos;")
