@@ -73,17 +73,21 @@ def generate_rss():
             
             clean_description = clean_content(post['content']['rendered'])
             
-            # 1. Remove date at the start (e.g., "Fortaleza, 14 de dezembro de 2025 - ")
-            # Matches patterns like "City, DD de Month de YYYY - " or similar introductions
-            # We will use a broad regex to catch dates and " - " separator
-            clean_description = re.sub(r'^.*?\d{1,2} de \w+ de \d{4}\s*[-–—]\s*', '', clean_description)
+            # 1. Remove date/time lines (e.g., "15 de dezembro de 2025 – 13:19")
+            # Matches lines having "d de Month de YYYY" pattern, optionally with time
+            clean_description = re.sub(r'(?m)^\s*\d{1,2}\s+de\s+\w+\s+de\s+\d{4}.*?$', '', clean_description)
             
-            # 2. Remove hashtags at the start or throughout (User asked for "no inicio" but usually they are at the end, will check start too)
-            # Remove lines starting with #
+            # 2. Remove authorship lines (e.g., "Ascom Secretaria das Mulheres – Texto")
+            # Matches lines containing "Ascom" or ending with " - Texto"
+            clean_description = re.sub(r'(?m)^.*?Ascom.*?$', '', clean_description)
+            clean_description = re.sub(r'(?m)^.*?– Texto.*?$', '', clean_description)
+
+            # 3. Remove hashtags
             clean_description = re.sub(r'(?m)^#.*?$', '', clean_description)
-            # Remove inline hashtags #word
             clean_description = re.sub(r'#\w+', '', clean_description)
             
+            # Clean up extra newlines created by removals
+            clean_description = re.sub(r'\n{3,}', '\n\n', clean_description)
             clean_description = clean_description.strip()
             
             # Escape XML special chars in content
