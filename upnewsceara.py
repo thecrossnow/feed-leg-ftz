@@ -17,8 +17,18 @@ def clean_content(html_content):
     text = re.sub(r'</p>', '\n\n', html_content)
     text = re.sub(r'<br\s*/?>', '\n', text)
     
-    # Remove subtitles (h1, h2, h3, h4, etc.)
+    # Remove specific subtitles with classes "subtitulo" or similar which container the unwanted date/hashtags
+    # This targets the specific block the user shared: <h3 class="subtitulo ..."> ... </h3>
+    text = re.sub(r'<h3[^>]*class=["\'].*?subtitulo.*?["\'][^>]*>.*?</h3>', '', text, flags=re.IGNORECASE | re.DOTALL)
+
+    # Also removing generic h1-h6 tags
     text = re.sub(r'<h[1-6][^>]*>.*?</h[1-6]>', '', text, flags=re.IGNORECASE | re.DOTALL)
+    
+    # Remove spans with class "hashtag"
+    text = re.sub(r'<span[^>]*class=["\'].*?hashtag.*?["\'][^>]*>.*?</span>', '', text, flags=re.IGNORECASE | re.DOTALL)
+
+    # Remove lines containing hashtag links (anchors pointing to /tag/)
+    text = re.sub(r'<a[^>]+href=["\'].*?/tag/.*?["\'][^>]*>.*?</a>', '', text, flags=re.IGNORECASE | re.DOTALL)
     
     # Remove all other HTML tags
     text = re.sub(r'<[^>]+>', '', text)
@@ -90,17 +100,18 @@ def generate_rss():
             clean_description = clean_content(post['content']['rendered'])
             
             # 1. Remove date/time lines - Broadest pattern
-            # Matches lines starting with digits, containing "de", and digits 202x, optionally time
-            clean_description = re.sub(r'(?m)^.*?\d{1,2}.*?de.*?\d{4}.*?$', '', clean_description)
-            clean_description = re.sub(r'(?m)^.*?[\d]{1,2}:[\d]{2}.*?$', '', clean_description) # Remove lines comprised of just time like 14:00
+            # Matches lines having "digit + de + word + de + digit", regardless of what else is on the line
+            clean_description = re.sub(r'(?m)^.*?\d{1,2}\s+de\s+[A-Za-zç]+\s+de\s+\d{4}.*?$', '', clean_description)
+            clean_description = re.sub(r'(?m)^.*?[\d]{1,2}:[\d]{2}.*?$', '', clean_description) 
             
             # 2. Remove authorship lines - Broadest pattern
             clean_description = re.sub(r'(?m)^.*?(Ascom|Texto|Fotos|Foto:|Texto:|Fonte:).*?$', '', clean_description)
             
-            # 3. Remove hashtags - remove completely lines that have #
-            clean_description = re.sub(r'(?m)^.*?#.*?$', '', clean_description)
+            # 3. Remove hashtags - Aggressive
+            # Remove ANY line that contains a hash char #
+            clean_description = re.sub(r'(?m)^.*?#.*$', '', clean_description)
             
-            # Remove inline hashtags anywhere
+            # Just to be sure, remove any remaining #hashtag strings that might be inline
             clean_description = re.sub(r'#\S+', '', clean_description)
             
             # 4. Remove tags HTML
