@@ -132,13 +132,16 @@ def generate_rss():
                 if "source_url" in media:
                     image_url = media["source_url"]
 
+            if not image_url:
+                continue
+
             rss += f"""
   <item>
     <title>{title}</title>
     <link>{link}</link>
     <pubDate>{pubDate}</pubDate>
     <description><![CDATA[{clean_description}]]></description>
-    {f'<enclosure url="{image_url}" type="image/jpeg" />' if image_url else ''}
+    <enclosure url="{image_url}" type="image/jpeg" />
   </item>"""
 
         rss += """
