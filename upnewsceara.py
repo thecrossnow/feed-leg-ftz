@@ -73,20 +73,29 @@ def generate_rss():
             
             clean_description = clean_content(post['content']['rendered'])
             
-            # 1. Remove date/time lines (e.g., "15 de dezembro de 2025 – 13:19")
-            # Matches lines having "d de Month de YYYY" pattern, optionally with time
-            clean_description = re.sub(r'(?m)^\s*\d{1,2}\s+de\s+\w+\s+de\s+\d{4}.*?$', '', clean_description)
+            # 1. Remove date/time lines - padrão mais flexível
+            # Aceita: "15 de dezembro de2025-13:49" ou "15 de dezembro de 2025-13:49"
+            clean_description = re.sub(r'(?m)^\s*\d{1,2}\s+de\s+\w+\s+de\s?\d{4}.*?$', '', clean_description)
             
-            # 2. Remove authorship lines (e.g., "Ascom Secretaria das Mulheres – Texto")
-            # Matches lines containing "Ascom" or ending with " - Texto"
-            clean_description = re.sub(r'(?m)^.*?Ascom.*?$', '', clean_description)
-            clean_description = re.sub(r'(?m)^.*?– Texto.*?$', '', clean_description)
-
-            # 3. Remove hashtags
-            clean_description = re.sub(r'(?m)^#.*?$', '', clean_description)
-            clean_description = re.sub(r'#\w+', '', clean_description)
+            # 2. Remove authorship lines - padrão mais amplo
+            # Remove linhas com Ascom, Ascom Casa Civil, ou combinações com texto/foto
+            clean_description = re.sub(r'(?m)^.*?(Ascom|Texto|Fotos).*?$', '', clean_description)
             
-            # Clean up extra newlines created by removals
+            # 3. Remove hashtags - remove completamente linhas que começam com #
+            clean_description = re.sub(r'(?m)^\s*#.*?$', '', clean_description)
+            # Remove hashtags no meio do texto também
+            clean_description = re.sub(r'\s*#\w+', '', clean_description)
+            
+            # 4. Remove tags HTML que podem ter escapado
+            clean_description = re.sub(r'&[a-z]+;', '', clean_description)
+            
+            # 5. Remove linhas que contêm apenas hífens, traços ou são vazias
+            clean_description = re.sub(r'(?m)^[\s\-–_]*$', '', clean_description)
+            
+            # 6. Remove autoria específica que aparece na imagem
+            clean_description = re.sub(r'(?m)^.*?(Eliazio Jerhy|Carlos Ghaja|Thiago Gaspar).*?$', '', clean_description)
+            
+            # Clean up extra newlines
             clean_description = re.sub(r'\n{3,}', '\n\n', clean_description)
             clean_description = clean_description.strip()
             
