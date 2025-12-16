@@ -22,7 +22,7 @@ def clean_content(html_content):
     text = re.sub(r'<p[^>]*?class=["\'].*?data.*?["\'][^>]*?>.*?</p>', '', text, flags=re.IGNORECASE | re.DOTALL)
     # Remove formatted date lines (15 de dezembro de 2025 – 15:19)
     text = re.sub(r'\d{1,2}\s+de\s+[a-zç]+\s+de\s+\d{4}\s*.\s*\d{2}:\d{2}', '', text, flags=re.IGNORECASE)
-    # Remove lines containing hashtag links
+    # Remove lines containing hashtag links (anchors pointing to /tag/)
     text = re.sub(r'<a[^>]+href=["\'].*?/tag/.*?["\'][^>]*>.*?</a>', '', text, flags=re.IGNORECASE | re.DOTALL)
     text = re.sub(r'#\s*<a.*?>.*?</a>', '', text, flags=re.IGNORECASE | re.DOTALL)
     text = re.sub(r'(?m)^.*?#.*$', '', text) # Remove lines with remaining hashtags
@@ -101,10 +101,11 @@ def generate_rss():
                     image_url = media["source_url"]
             if not image_url:
                 continue
+            # Usando GUID ao invés de LINK para impedir o plugin de raspar a fonte original
             rss += f"""
   <item>
     <title>{title}</title>
-    <link>{link}</link>
+    <guid>{link}</guid>
     <pubDate>{pubDate}</pubDate>
     <description><![CDATA[{clean_description}]]></description>
     <content:encoded><![CDATA[{clean_description}]]></content:encoded>
