@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 22/12/2025</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 14:44 UTC</description>
-<lastBuildDate>Mon, 22 Dec 2025 14:44:52 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Mon, 22 Dec 2025 15:42:23 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Prefeitura de Fortaleza anuncia melhorias para a carreira de fiscal do município em 2026</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/prefeitura-de-fortaleza-anuncia-melhorias-para-a-carreira-de-fiscal-do-municipio-em-2026</link>
+<guid isPermaLink="false">fortaleza-20251222-4d985702a412</guid>
+<pubDate>Mon, 22 Dec 2025 08:53:00 +0000</pubDate>
+<description>Prefeitura de Fortaleza anuncia melhorias para a carreira de fiscal do município em 2026 - Segunda, 22 Dezembro 2025 08:53</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/Fiscalizacao/Agefis_Prefeito-anuncia-GEFAE.jpg" alt="Prefeitura de Fortaleza anuncia melhorias para a carreira de fiscal do município em 2026" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>
+<figure><img alt="Prefeito Evandro Leitão posa ao lado do superintendente da Agefis, Guilherme Magalhães, e fiscais da agência" src="/images/images3/midias/Fiscalizacao/Agefis_Prefeito-anuncia-GEFAE.jpg" style="max-width:100%; height:auto;"/><figcaption>Durante reunião, Evandro ressaltou a importância da categoria e o compromisso de continuar trabalhando por melhorias nas condições de trabalho durante o próximo ano</figcaption></figure>
+</p>
+<p>No Dia do Fiscal de Atividades Urbanas e Vigilância Sanitária de Fortaleza, celebrado nesta segunda-feira (22/12), o prefeito Evandro Leitão encaminhou à Secretaria de Planejamento, Orçamento e Gestão (Sepog) uma proposta para a incorporação da Gratificação Especial de Fiscalização de Atividades Específicas (GEFAE) à remuneração dos fiscais municipais.</p>
+<p>A proposta tem como objetivo fortalecer a política de valorização dos servidores da Agência de Fiscalização de Fortaleza (Agefis), que atuam de forma ampla no ordenamento urbano e na proteção da saúde pública da Capital.</p>
+<p>Durante a mensagem direcionada aos fiscais, o prefeito destacou o papel desempenhado pela categoria ao longo de 2025. “Foi um ano extremamente desafiante, e a gestão municipal contou muito com o apoio de todos vocês. Como forma de reconhecimento, estaremos enviando, nas próximas horas, uma mensagem à Sepog para que a GEFAE seja incorporada. Sei que essa era uma demanda antiga e agora estamos realizando”, enfatizou.</p>
+<p>A decisão ocorre em um contexto de fortalecimento da Agefis, que ao longo de 2025 promoveu mudanças estruturais relevantes, com foco em modernização administrativa, uso de tecnologia, qualificação dos servidores e uma abordagem mais técnica, transparente e humanizada.</p>
+<p>Em reunião com representantes da agência, Evandro ressaltou ainda o compromisso para 2026 de continuar trabalhando por melhorias nas condições de trabalho dos fiscais, incluindo investimentos em infraestrutura, processos e capacitação, reafirmando a importância de cuidar de quem cuida da cidade como uma das prioridades da gestão.</p>
+<p>Para o superintendente da Agefis, Guilherme Magalhães, a incorporação da gratificação é uma conquista importante para 2026. “É um reconhecimento ao trabalho técnico e dedicado realizado pelos fiscais. Uma valorização que fortalece a atuação da fiscalização urbana e que se reflete em uma cidade mais organizada, segura e com melhor qualidade de vida para a população”, destacou.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/prefeitura-de-fortaleza-anuncia-melhorias-para-a-carreira-de-fiscal-do-municipio-em-2026" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/Fiscalizacao/Agefis_Prefeito-anuncia-GEFAE.jpg" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/Fiscalizacao/Agefis_Prefeito-anuncia-GEFAE.jpg" type="image/jpeg" medium="image">
+<media:title>Prefeitura de Fortaleza anuncia melhorias para a carreira de fiscal do município em 2026</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
