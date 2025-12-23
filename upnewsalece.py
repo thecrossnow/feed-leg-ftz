@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-# upnewsalce.py - Crawler ALCE (somente notícias do dia)
+# upnewsalece.py - Crawler ALCE (somente notícias do dia, sem logo)
 
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, timezone, timedelta, date
+from datetime import datetime, timezone, date
 import html
 import re
 from urllib.parse import urljoin
@@ -65,7 +65,7 @@ def clean_text(text):
     text = html.unescape(text)
     text = re.sub(r'(?m)^.*?(Foto|Edição|Fonte|Texto):.*$', '', text, flags=re.I)
     text = re.sub(r'(?m)^.*?#.*$', '', text)
-    lines = [l.strip() for l in text.split('\n') if len(l.strip()) > 30]
+    lines = [l.strip() for l in text.split('\n') if len(l.strip()) > 40]
     return "\n\n".join(lines)
 
 # ================= CRAWLER =================
@@ -73,7 +73,6 @@ def clean_text(text):
 def extract_news_alce():
     print(">>> Iniciando crawler ALCE (somente HOJE)")
 
-    # DATA DE HOJE (fuso local implícito)
     hoje = datetime.now().date()
 
     session = requests.Session()
@@ -102,19 +101,14 @@ def extract_news_alce():
 
         url = urljoin(URL_BASE, link["href"])
 
-        # ================= DATA DA LISTAGEM =================
-
-        data_listagem = None
+        # ===== DATA NA LISTAGEM (OBRIGATÓRIA) =====
         span = item.find("span", class_="noticias_data")
-        if span:
-            data_listagem = parse_date_alce(span.get_text())
+        data_listagem = parse_date_alce(span.get_text()) if span else None
 
-        # REGRA ABSOLUTA: LISTAGEM TEM QUE SER HOJE
         if data_listagem != hoje:
             continue
 
-        # ================= IMAGEM DA LISTAGEM =================
-
+        # ===== THUMB DA LISTAGEM =====
         img_thumb = None
         div_img = item.find("div", class_="noticias_item--image")
         if div_img and div_img.find("img"):
@@ -122,23 +116,20 @@ def extract_news_alce():
 
         print(f">>> Analisando: {titulo}")
 
-        # ================= DETALHE =================
-
+        # ===== DETALHE =====
         det = session.get(url, verify=False, timeout=15)
         sd = BeautifulSoup(det.content, "html.parser")
 
-        # DATA NO DETALHE (CONFIRMAÇÃO)
+        # ===== CONFIRMA DATA NO DETALHE =====
         data_obj = None
         date_el = sd.select_one(".itemDateCreated, .date, .data")
         if date_el:
             data_obj = parse_date_alce(date_el.get_text())
 
-        # Se existir data no detalhe e NÃO for hoje → descarta
         if data_obj and data_obj != hoje:
             continue
 
-        # ================= CONTEÚDO =================
-
+        # ===== CONTEÚDO =====
         content = sd.select_one("article, .item-page, [itemprop='articleBody']")
         if not content:
             content = sd.body
@@ -161,15 +152,31 @@ def extract_news_alce():
         if any(k in texto.lower() for k in SECURITY_KEYWORDS):
             continue
 
-        # ================= IMAGEM FINAL =================
-
+        # ===== IMAGEM FINAL (ANTI-LOGO) =====
         img = None
-        og = sd.find("meta", property="og:image")
-        if og:
-            img = og.get("content")
 
+        # 1️⃣ imagem real do conteúdo
+        for im in sd.select("article img, .item-page img, figure img"):
+            src = im.get("src", "").strip()
+            if not src:
+                continue
+            if any(x in src.lower() for x in ["logo", "brasao", "header", "rodape"]):
+                continue
+            img = src
+            break
+
+        # 2️⃣ fallback: thumb da listagem
+        if not img and img_thumb:
+            if not any(x in img_thumb.lower() for x in ["logo", "brasao"]):
+                img = img_thumb
+
+        # 3️⃣ último fallback: og:image (se não for logo)
         if not img:
-            img = img_thumb
+            og = sd.find("meta", property="og:image")
+            if og:
+                og_img = og.get("content", "")
+                if og_img and not any(x in og_img.lower() for x in ["logo", "brasao"]):
+                    img = og_img
 
         if not img:
             continue
