@@ -33,7 +33,7 @@ jobs:
       - name: 🚀 Executar script de extração ALCE
         id: scraper
         run: |
-          python upnewsalce.py
+          python upnewsalece.py
 
           if [ -f "feed_alce_news.xml" ]; then
             ITEMS=$(grep -c '<item>' feed_alce_news.xml || echo "0")
