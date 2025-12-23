@@ -1,233 +1,150 @@
 #!/usr/bin/env python3
-# upnewsalece.py - Crawler ALCE (somente notícias do dia, sem logo)
+# -*- coding: utf-8 -*-
 
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, timezone, date
-import html
-import re
+from datetime import datetime, timedelta, timezone
 from urllib.parse import urljoin
-import urllib3
+import xml.sax.saxutils as saxutils
+import re
 
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-
-# ================= CONFIG =================
-
+# --------------------------------------------------
+# CONFIGURAÇÕES
+# --------------------------------------------------
 URL_BASE = "https://www.al.ce.gov.br"
-URL_NOTICIAS = "https://www.al.ce.gov.br/noticias"
+URL_LISTA = f"{URL_BASE}/noticias"
 FEED_FILE = "feed_alce_news.xml"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    "User-Agent": "Mozilla/5.0 (compatible; ALCEFeedBot/1.0)"
 }
 
-SECURITY_KEYWORDS = [
-    "prisão", "preso", "delegacia", "homicídio", "assassinato",
-    "tráfico", "drogas", "armas", "criminoso", "foragido"
-]
+HOJE = datetime.now(timezone(timedelta(hours=-3))).date()
 
-MESES = {
-    'janeiro': 1, 'fevereiro': 2, 'março': 3, 'abril': 4,
-    'maio': 5, 'junho': 6, 'julho': 7, 'agosto': 8,
-    'setembro': 9, 'outubro': 10, 'novembro': 11, 'dezembro': 12,
-    'jan': 1, 'fev': 2, 'mar': 3, 'abr': 4, 'mai': 5,
-    'jun': 6, 'jul': 7, 'ago': 8, 'set': 9,
-    'out': 10, 'nov': 11, 'dez': 12
-}
+# --------------------------------------------------
+# FUNÇÕES AUXILIARES
+# --------------------------------------------------
+def limpar_texto(texto):
+    texto = re.sub(r'\s+', ' ', texto)
+    lixo = [
+        "Assessoria de Comunicação",
+        "Ascom",
+        "ALCE",
+        "Assembleia Legislativa do Estado do Ceará"
+    ]
+    for l in lixo:
+        texto = texto.replace(l, "")
+    return texto.strip()
 
-# ================= FUNÇÕES =================
+def data_para_rfc822(dt):
+    return dt.strftime("%a, %d %b %Y %H:%M:%S %z")
 
-def parse_date_alce(text):
-    if not text:
-        return None
-    text = text.lower().strip()
+# --------------------------------------------------
+# COLETAR LINKS DO DIA
+# --------------------------------------------------
+print("🔍 Buscando lista de notícias...")
+resp = requests.get(URL_LISTA, headers=HEADERS, timeout=30)
+resp.raise_for_status()
+
+soup = BeautifulSoup(resp.text, "html.parser")
+cards = soup.select("a.card-noticia")
+
+links = []
+
+for c in cards:
+    data_el = c.select_one(".data")
+    if not data_el:
+        continue
 
     try:
-        if '/' in text:
-            d, m, y = text.split('/')
-            return date(int(y), int(m), int(d))
+        data_pub = datetime.strptime(data_el.text.strip(), "%d/%m/%Y").date()
     except:
-        pass
+        continue
 
-    try:
-        for mes, num in MESES.items():
-            if mes in text:
-                dia = int(re.search(r'(\d{1,2})', text).group(1))
-                ano = int(re.search(r'(\d{4})', text).group(1))
-                return date(ano, num, dia)
-    except:
-        return None
+    if data_pub == HOJE:
+        href = c.get("href")
+        if href:
+            links.append(urljoin(URL_BASE, href))
 
-    return None
+print(f"📰 Notícias encontradas hoje: {len(links)}")
 
+# --------------------------------------------------
+# COLETAR CONTEÚDO DAS MATÉRIAS
+# --------------------------------------------------
+noticias = []
 
-def clean_text(text):
-    text = html.unescape(text)
-    text = re.sub(r'(?m)^.*?(Foto|Edição|Fonte|Texto):.*$', '', text, flags=re.I)
-    text = re.sub(r'(?m)^.*?#.*$', '', text)
-    lines = [l.strip() for l in text.split('\n') if len(l.strip()) > 40]
-    return "\n\n".join(lines)
+for link in links:
+    print(f"➡️ Processando: {link}")
+    r = requests.get(link, headers=HEADERS, timeout=30)
+    r.raise_for_status()
 
-# ================= CRAWLER =================
+    s = BeautifulSoup(r.text, "html.parser")
 
-def extract_news_alce():
-    print(">>> Iniciando crawler ALCE (somente HOJE)")
+    titulo_el = s.find("h1")
+    conteudo_el = s.select_one(".conteudo-noticia")
+    img_el = s.select_one(".conteudo-noticia img")
 
-    hoje = datetime.now().date()
+    if not titulo_el or not conteudo_el:
+        continue
 
-    session = requests.Session()
-    session.headers.update(HEADERS)
+    titulo = titulo_el.text.strip()
+    texto = limpar_texto(conteudo_el.get_text(" ", strip=True))
 
-    noticias = []
+    imagem = ""
+    if img_el and img_el.get("src"):
+        imagem = urljoin(URL_BASE, img_el["src"])
 
-    resp = session.get(URL_NOTICIAS, verify=False, timeout=20)
-    soup = BeautifulSoup(resp.content, "html.parser")
+    noticias.append({
+        "title": titulo,
+        "link": link,
+        "text": texto,
+        "image": imagem
+    })
 
-    items = soup.find_all("div", class_="noticias_item")
+# --------------------------------------------------
+# GERAR RSS
+# --------------------------------------------------
+print("🛠 Gerando RSS...")
 
-    for item in items[:20]:
+now = datetime.now(timezone(timedelta(hours=-3)))
+rss_items = ""
 
-        h3 = item.find("h3", class_="noticias_title")
-        if not h3:
-            continue
+for n in noticias:
+    img_html = f'<img src="{n["image"]}" />\n\n' if n["image"] else ""
 
-        titulo = h3.get_text(strip=True)
-        if any(k in titulo.lower() for k in SECURITY_KEYWORDS):
-            continue
+    rss_items += f"""
+    <item>
+        <title>{saxutils.escape(n['title'])}</title>
+        <link>{n['link']}</link>
+        <guid>{n['link']}</guid>
+        <pubDate>{data_para_rfc822(now)}</pubDate>
+        <description><![CDATA[
+        {img_html}
+        {n['text']}
+        ]]></description>
+        <content:encoded><![CDATA[
+        {img_html}
+        {n['text']}
+        ]]></content:encoded>
+        {"<enclosure url=\"" + n["image"] + "\" type=\"image/jpeg\" />" if n["image"] else ""}
+    </item>
+    """
 
-        link = h3.find_parent("a")
-        if not link:
-            continue
-
-        url = urljoin(URL_BASE, link["href"])
-
-        # ===== DATA NA LISTAGEM (OBRIGATÓRIA) =====
-        span = item.find("span", class_="noticias_data")
-        data_listagem = parse_date_alce(span.get_text()) if span else None
-
-        if data_listagem != hoje:
-            continue
-
-        # ===== THUMB DA LISTAGEM =====
-        img_thumb = None
-        div_img = item.find("div", class_="noticias_item--image")
-        if div_img and div_img.find("img"):
-            img_thumb = div_img.find("img").get("src")
-
-        print(f">>> Analisando: {titulo}")
-
-        # ===== DETALHE =====
-        det = session.get(url, verify=False, timeout=15)
-        sd = BeautifulSoup(det.content, "html.parser")
-
-        # ===== CONFIRMA DATA NO DETALHE =====
-        data_obj = None
-        date_el = sd.select_one(".itemDateCreated, .date, .data")
-        if date_el:
-            data_obj = parse_date_alce(date_el.get_text())
-
-        if data_obj and data_obj != hoje:
-            continue
-
-        # ===== CONTEÚDO =====
-        content = sd.select_one("article, .item-page, [itemprop='articleBody']")
-        if not content:
-            content = sd.body
-
-        for t in content.find_all(["script", "style", "nav", "form"]):
-            t.decompose()
-
-        ps = content.find_all("p")
-        texto = "\n\n".join(
-            p.get_text(strip=True)
-            for p in ps
-            if len(p.get_text(strip=True)) > 40
-        )
-
-        if not texto:
-            continue
-
-        texto = clean_text(texto)
-
-        if any(k in texto.lower() for k in SECURITY_KEYWORDS):
-            continue
-
-        # ===== IMAGEM FINAL (ANTI-LOGO) =====
-        img = None
-
-        # 1️⃣ imagem real do conteúdo
-        for im in sd.select("article img, .item-page img, figure img"):
-            src = im.get("src", "").strip()
-            if not src:
-                continue
-            if any(x in src.lower() for x in ["logo", "brasao", "header", "rodape"]):
-                continue
-            img = src
-            break
-
-        # 2️⃣ fallback: thumb da listagem
-        if not img and img_thumb:
-            if not any(x in img_thumb.lower() for x in ["logo", "brasao"]):
-                img = img_thumb
-
-        # 3️⃣ último fallback: og:image (se não for logo)
-        if not img:
-            og = sd.find("meta", property="og:image")
-            if og:
-                og_img = og.get("content", "")
-                if og_img and not any(x in og_img.lower() for x in ["logo", "brasao"]):
-                    img = og_img
-
-        if not img:
-            continue
-
-        if not img.startswith("http"):
-            img = urljoin(URL_BASE, img)
-
-        noticias.append({
-            "title": titulo,
-            "link": url,
-            "text": texto,
-            "image": img,
-            "date": hoje
-        })
-
-        print("   ✔ Adicionada")
-
-    # ================= RSS =================
-
-    print(f">>> Gerando feed com {len(noticias)} notícias")
-
-    rss = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+rss = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<title>Notícias ALCE - Hoje</title>
+<title>Notícias da Assembleia Legislativa do Ceará</title>
 <link>{URL_BASE}</link>
-<description>Notícias da Assembleia Legislativa do Ceará (dia atual)</description>
-<lastBuildDate>{datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')}</lastBuildDate>
+<description>Notícias publicadas em {HOJE.strftime('%d/%m/%Y')}</description>
+<language>pt-br</language>
+<lastBuildDate>{data_para_rfc822(now)}</lastBuildDate>
+{rss_items}
+</channel>
+</rss>
 """
 
-    for n in noticias:
-        rss += f"""
-<item>
-<title><![CDATA[{n['title']}]]></title>
-<link>{n['link']}</link>
-<guid>{n['link']}</guid>
-<description><![CDATA[{n['text']}]]></description>
-<content:encoded><![CDATA[{n['text']}]]></content:encoded>
-<enclosure url="{n['image']}" type="image/jpeg"/>
-<pubDate>{hoje.strftime('%a, %d %b %Y 00:00:00 -0300')}</pubDate>
-</item>
-"""
+with open(FEED_FILE, "w", encoding="utf-8") as f:
+    f.write(rss)
 
-    rss += "</channel></rss>"
-
-    with open(FEED_FILE, "w", encoding="utf-8") as f:
-        f.write(rss)
-
-    print(f">>> Feed salvo: {FEED_FILE}")
-
-# ================= MAIN =================
-
-if __name__ == "__main__":
-    extract_news_alce()
+print(f"✅ Feed gerado com sucesso: {FEED_FILE}")
