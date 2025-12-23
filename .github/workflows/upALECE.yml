@@ -35,8 +35,8 @@ jobs:
         run: |
           python upnewsalece.py
 
-          if [ -f "feed_alce_news.xml" ]; then
-            ITEMS=$(grep -c '<item>' feed_alce_news.xml || echo "0")
+          if [ -f "feed_alece_news.xml" ]; then
+            ITEMS=$(grep -c '<item>' feed_alece_news.xml || echo "0")
             echo "ITEMS_COUNT=$ITEMS" >> $GITHUB_ENV
           else
             echo "❌ ERRO: feed_alce_news.xml não foi gerado"
@@ -66,7 +66,7 @@ jobs:
       - name: 💾 Commit + Pull/Rebase + Push (Seguro)
         if: steps.gitcheck.outputs.changed == 'true'
         run: |
-          git add feed_alce_news.xml
+          git add feed_alece_news.xml
 
           HORA_BRT=$(TZ="America/Fortaleza" date '+%d/%m %H:%M')
           COMMIT_MSG="Atualização feed ALCE - $HORA_BRT (${{ env.ITEMS_COUNT }} notícias)"
@@ -88,5 +88,5 @@ jobs:
           echo "Atualização concluída"
           echo "Notícias encontradas: ${{ env.ITEMS_COUNT }}"
           echo "Arquivo atualizado:"
-          echo "https://raw.githubusercontent.com/${{ github.repository }}/main/feed_alce_news.xml"
+          echo "https://raw.githubusercontent.com/${{ github.repository }}/main/feed_alece_news.xml"
           echo "-------------------------------------"
