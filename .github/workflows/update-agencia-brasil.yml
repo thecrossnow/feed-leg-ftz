@@ -1,0 +1,197 @@
+name: Update Agência Brasil Feed
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'  # A cada 1 hora
+  workflow_dispatch:       # Execução manual
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # -----------------------------------------------------------
+      - name: 📥 Checkout (com histórico completo)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+      # -----------------------------------------------------------
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 📦 Instalar dependências
+        run: |
+          pip install beautifulsoup4 requests lxml
+          echo "✅ Dependências instaladas"
+
+      - name: 🚀 Executar script de extração
+        id: scraper
+        run: |
+          echo "🔍 Executando script upnewsagenciabr.py..."
+          python upnewsagenciabr.py
+          
+          if [ -f "feed_agenciabrasil_wp.xml" ]; then
+            # Contar itens no feed
+            ITEMS=$(grep -c '<item>' feed_agenciabrasil_wp.xml || echo "0")
+            # Contar apenas itens do tipo post (não incluir attachments)
+            POST_ITEMS=$(grep -c '<wp:post_type>post</wp:post_type>' feed_agenciabrasil_wp.xml || echo "0")
+            
+            echo "📊 Total de itens: $ITEMS"
+            echo "📰 Posts (notícias): $POST_ITEMS"
+            echo "ITEMS_TOTAL=$ITEMS" >> $GITHUB_ENV
+            echo "POSTS_COUNT=$POST_ITEMS" >> $GITHUB_ENV
+            
+            # Extrair data da última atualização
+            if [ -f "feed_agenciabrasil_wp.xml" ]; then
+              LAST_BUILD=$(grep -oP '<lastBuildDate>\K[^<]+' feed_agenciabrasil_wp.xml | head -1 || echo "Não disponível")
+              echo "LAST_BUILD_DATE=$LAST_BUILD" >> $GITHUB_ENV
+            fi
+            
+          else
+            echo "❌ ERRO: feed_agenciabrasil_wp.xml não foi gerado"
+            # Verificar se existe o arquivo antigo
+            if [ -f "feed_agenciabrasil.xml" ]; then
+              echo "⚠️  Usando arquivo antigo feed_agenciabrasil.xml"
+              cp feed_agenciabrasil.xml feed_agenciabrasil_wp.xml
+              ITEMS=$(grep -c '<item>' feed_agenciabrasil_wp.xml || echo "0")
+              echo "ITEMS_TOTAL=$ITEMS" >> $GITHUB_ENV
+              echo "POSTS_COUNT=$ITEMS" >> $GITHUB_ENV
+            else
+              exit 1
+            fi
+          fi
+
+      # -----------------------------------------------------------
+      - name: 🔧 Configurar git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+      # -----------------------------------------------------------
+
+      - name: 🔍 Verificar mudanças
+        id: gitcheck
+        run: |
+          # Verificar mudanças em qualquer arquivo XML
+          if git diff --name-only | grep -q '\.xml$'; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "🟡 Alterações detectadas nos feeds XML."
+            
+            # Listar arquivos alterados
+            echo "Arquivos modificados:"
+            git status --porcelain | grep '\.xml$'
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "ℹ️ Nenhuma mudança detectada nos feeds."
+          fi
+
+      # -----------------------------------------------------------
+      - name: 💾 Commit + Pull/Rebase + Push (Seguro)
+        if: steps.gitcheck.outputs.changed == 'true'
+        run: |
+          # Adicionar todos os arquivos XML
+          git add *.xml
+          
+          # Obter hora de Brasília
+          HORA_BRT=$(TZ="America/Sao_Paulo" date '+%d/%m/%Y %H:%M')
+          
+          # Mensagem de commit informativa
+          COMMIT_MSG="📰 Atualização Agência Brasil - $HORA_BRT"
+          COMMIT_MSG+=$'\n'
+          COMMIT_MSG+="📊 ${{ env.POSTS_COUNT }} notícias | Total itens: ${{ env.ITEMS_TOTAL }}"
+          
+          # Adicionar informações extras se disponíveis
+          if [ -n "${{ env.LAST_BUILD_DATE }}" ]; then
+            COMMIT_MSG+=$'\n'
+            COMMIT_MSG+="🕐 Última build: ${{ env.LAST_BUILD_DATE }}"
+          fi
+          
+          # Commit com mensagem detalhada
+          git commit -m "$COMMIT_MSG"
+          
+          echo "🔄 Sincronizando com repositório remoto..."
+          # Tentar pull com rebase, se falhar, fazer merge
+          git fetch origin
+          git rebase origin/main || git pull --strategy-option=theirs || true
+          
+          echo "📤 Enviando alterações..."
+          # Tentar push, se falhar, forçar (após rebase)
+          git push origin main || git push --force-with-lease origin main
+          
+          echo "✅ Push concluído com sucesso!"
+          echo "Mensagem do commit:"
+          echo "$COMMIT_MSG"
+      # -----------------------------------------------------------
+
+      - name: 📄 Criar arquivo de status
+        run: |
+          # Criar arquivo JSON com status da execução
+          cat > feed_status.json << EOF
+          {
+            "repository": "${{ github.repository }}",
+            "workflow": "${{ github.workflow }}",
+            "run_id": "${{ github.run_id }}",
+            "timestamp": "$(date -u +'%Y-%m-%dT%H:%M:%SZ')",
+            "timestamp_brt": "$(TZ='America/Sao_Paulo' date +'%Y-%m-%d %H:%M:%S')",
+            "status": "success",
+            "stats": {
+              "total_items": ${{ env.ITEMS_TOTAL || 0 }},
+              "posts_count": ${{ env.POSTS_COUNT || 0 }},
+              "feed_file": "feed_agenciabrasil_wp.xml",
+              "last_build": "${{ env.LAST_BUILD_DATE || 'N/A' }}"
+            },
+            "urls": {
+              "raw_feed": "https://raw.githubusercontent.com/${{ github.repository }}/main/feed_agenciabrasil_wp.xml",
+              "workflow_run": "https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            }
+          }
+          EOF
+          
+          echo "📝 Status salvo em feed_status.json"
+
+      - name: 📊 Resumo da execução
+        run: |
+          echo "====================================="
+          echo "         AGÊNCIA BRASIL FEED"
+          echo "====================================="
+          echo "📅 Execução: $(TZ='America/Sao_Paulo' date '+%d/%m/%Y %H:%M:%S')"
+          echo "📊 Estatísticas:"
+          echo "   • Notícias (posts): ${{ env.POSTS_COUNT || 0 }}"
+          echo "   • Total de itens: ${{ env.ITEMS_TOTAL || 0 }}"
+          echo "   • Arquivo gerado: feed_agenciabrasil_wp.xml"
+          echo ""
+          echo "🔗 Links importantes:"
+          echo "   • Feed WordPress:"
+          echo "     https://raw.githubusercontent.com/${{ github.repository }}/main/feed_agenciabrasil_wp.xml"
+          echo ""
+          echo "   • Para importar no WordPress:"
+          echo "     1. WordPress Admin → Ferramentas → Importar"
+          echo "     2. Escolha 'WordPress'"
+          echo "     3. Faça upload do arquivo XML acima"
+          echo ""
+          echo "📋 Status da execução: ✅ SUCESSO"
+          echo "====================================="
+
+      - name: 🚨 Notificação em caso de erro
+        if: failure()
+        run: |
+          echo "❌ ERRO na execução do workflow!"
+          echo ""
+          echo "Repositório: ${{ github.repository }}"
+          echo "Workflow: ${{ github.workflow }}"
+          echo "Run ID: ${{ github.run_id }}"
+          echo ""
+          echo "Para depuração:"
+          echo "1. Verifique os logs acima"
+          echo "2. Confira se o script Python funciona localmente"
+          echo "3. Verifique as dependências instaladas"
+          echo ""
+          echo "🔗 URL da execução:"
+          echo "https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
