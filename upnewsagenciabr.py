@@ -21,7 +21,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
-# Categoria padrão para WordPress (pode ser alterada)
+# Configurações WordPress
 WP_CATEGORY = "Notícias"
 WP_AUTHOR = "Agência Brasil"
 
@@ -34,12 +34,20 @@ ONTEM = HOJE - timedelta(days=1)
 
 def limpar_texto(texto):
     """Limpa e formata texto para WordPress"""
+    if not texto:
+        return ""
+    
     texto = html.unescape(texto)
-    # Remove múltiplos espaços e quebras de linha
+    # Remover múltiplos espaços e quebras de linha
     texto = re.sub(r'\s+', ' ', texto)
-    # Remove caracteres especiais problemáticos
+    
+    # Codificar caracteres especiais XML
     texto = texto.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
     texto = texto.replace('"', '&quot;').replace("'", '&apos;')
+    
+    # Manter apenas caracteres imprimíveis
+    texto = ''.join(char for char in texto if char.isprintable() or char in '\n\r\t')
+    
     return texto.strip()
 
 def parse_rss_date(pubdate):
@@ -48,60 +56,53 @@ def parse_rss_date(pubdate):
     Exemplo: Tue, 23 Dec 2025 14:30:00 -0300 -> 2025-12-23 14:30:00
     """
     try:
-        # Formato RSS
+        # Formato RSS padrão
         dt = datetime.strptime(pubdate[:25], "%a, %d %b %Y %H:%M:%S")
-        # Converter para formato WordPress
         return dt.strftime("%Y-%m-%d %H:%M:%S")
-    except:
-        # Se falhar, usar data atual
+    except Exception as e:
+        print(f"   ⚠ Erro ao parsear data '{pubdate}': {e}")
+        # Usar data atual como fallback
         return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 def extrair_conteudo_completo(url, session):
     """Extrai conteúdo formatado para WordPress"""
     try:
-        r = session.get(url, timeout=20)
+        print(f"   🌐 Acessando: {url}")
+        r = session.get(url, timeout=30)
         r.raise_for_status()
     except requests.RequestException as e:
-        print(f"   Erro ao acessar página: {e}")
+        print(f"   ❌ Erro ao acessar página: {e}")
         return None, None, None
     
     soup = BeautifulSoup(r.content, "html.parser")
     
-    # 1. EXTRAIR TÍTULO DA PÁGINA (se disponível)
-    page_title = ""
-    title_tag = soup.find("meta", property="og:title")
-    if title_tag and title_tag.get("content"):
-        page_title = limpar_texto(title_tag["content"])
-    
-    # 2. EXTRAIR IMAGEM DESTAQUE
+    # 1. EXTRAIR IMAGEM DESTAQUE
     featured_image = None
     
     # Primeiro tenta og:image
     og_image = soup.find("meta", property="og:image")
     if og_image and og_image.get("content"):
         featured_image = og_image["content"]
+        print(f"   📷 Imagem do OG: {featured_image[:80]}...")
     
-    # Tenta outras fontes de imagem
+    # Se não encontrar, procura imagem principal no conteúdo
     if not featured_image:
-        # Procura imagem em div de destaque
-        img_div = soup.find("div", class_=re.compile(r"featured|destaque|thumbnail", re.I))
-        if img_div:
-            img_tag = img_div.find("img")
-            if img_tag and img_tag.get("src"):
-                featured_image = urljoin(URL_BASE, img_tag["src"]) if not img_tag["src"].startswith('http') else img_tag["src"]
-    
-    if not featured_image:
-        # Última tentativa: qualquer imagem razoável
-        for img in soup.find_all("img", src=re.compile(r"\.(jpg|jpeg|png|webp)$", re.I)):
+        # Procura por imagens grandes no artigo
+        img_tags = soup.find_all("img", src=re.compile(r'\.(jpg|jpeg|png|webp)$', re.I))
+        for img in img_tags:
             src = img.get("src", "")
-            if src and not any(word in src.lower() for word in ['logo', 'icon', 'avatar', 'thumb']):
-                featured_image = urljoin(URL_BASE, src) if not src.startswith('http') else src
-                break
+            if src:
+                # Verifica se é uma imagem de conteúdo (não logo, ícone, etc.)
+                if (not any(word in src.lower() for word in ['logo', 'icon', 'avatar', 'thumb', 'small']) 
+                    and any(word in src.lower() for word in ['image', 'foto', 'photo', 'img'])):
+                    featured_image = urljoin(url, src) if not src.startswith('http') else src
+                    print(f"   📷 Imagem do conteúdo: {featured_image[:80]}...")
+                    break
     
-    # 3. EXTRAIR CONTEÚDO COMPLETO (formato WordPress)
+    # 2. EXTRAIR CONTEÚDO COMPLETO
     conteudo_wp = ""
     
-    # Encontrar o container principal do conteúdo
+    # Estratégias para encontrar o conteúdo principal
     content_selectors = [
         "article",
         ".conteudo",
@@ -111,7 +112,9 @@ def extrair_conteudo_completo(url, session):
         "div[itemprop='articleBody']",
         ".entry-content",
         ".post-content",
-        ".article-body"
+        ".article-body",
+        ".field-name-body",
+        ".content"
     ]
     
     content_div = None
@@ -121,80 +124,113 @@ def extrair_conteudo_completo(url, session):
         else:
             content_div = soup.find(selector)
         if content_div:
+            print(f"   ✅ Conteúdo encontrado com seletor: {selector}")
             break
     
+    # Fallback: procurar por divs com muito texto
     if not content_div:
-        # Fallback: procurar por divs com muito texto
+        print("   🔍 Procurando conteúdo por fallback...")
         all_divs = soup.find_all("div")
         for div in all_divs:
             text_length = len(div.get_text(strip=True))
-            if text_length > 500:  # Div com conteúdo significativo
+            if text_length > 300:  # Div com conteúdo significativo
                 content_div = div
+                print(f"   ✅ Conteúdo encontrado por fallback ({text_length} chars)")
                 break
     
-    if content_div:
-        # Remover elementos indesejados
-        for element in content_div.find_all(["script", "style", "iframe", "aside", 
-                                            "nav", "header", "footer", "form"]):
-            element.decompose()
-        
-        # Remover anúncios e elementos relacionados
-        for element in content_div.find_all(class_=re.compile(
-            r"ad|banner|publicidade|propaganda|ads|widget|related|share|social|comentario|comment", 
-            re.I)):
-            element.decompose()
-        
-        # Converter para formato WordPress
-        for element in content_div.find_all(recursive=True):
-            # Preservar parágrafos
-            if element.name == 'p':
-                text = element.get_text(strip=True)
-                if len(text) > 10:
-                    conteudo_wp += f"<p>{limpar_texto(text)}</p>\n"
-            
-            # Preservar cabeçalhos
-            elif element.name in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
-                text = element.get_text(strip=True)
-                if text:
-                    conteudo_wp += f"<{element.name}>{limpar_texto(text)}</{element.name}>\n"
-            
-            # Preservar listas
-            elif element.name == 'ul':
-                conteudo_wp += "<ul>\n"
-                for li in element.find_all('li', recursive=False):
-                    li_text = li.get_text(strip=True)
-                    if li_text:
-                        conteudo_wp += f"  <li>{limpar_texto(li_text)}</li>\n"
-                conteudo_wp += "</ul>\n"
-            
-            # Preservar citações
-            elif element.name == 'blockquote':
-                text = element.get_text(strip=True)
-                if text:
-                    conteudo_wp += f"<blockquote>{limpar_texto(text)}</blockquote>\n"
+    if not content_div:
+        print("   ❌ Não foi possível encontrar conteúdo")
+        return None, None, None
     
-    # Se não extraiu conteúdo suficiente, usar todo o texto
-    if len(conteudo_wp) < 200:
-        if content_div:
-            texto_bruto = content_div.get_text(separator='\n', strip=True)
-        else:
-            texto_bruto = soup.get_text(separator='\n', strip=True)
+    # Remover elementos indesejados
+    elementos_remover = ["script", "style", "iframe", "aside", "nav", 
+                        "header", "footer", "form", "button", "input",
+                        "select", "textarea"]
+    
+    for tag_name in elementos_remover:
+        for element in content_div.find_all(tag_name):
+            element.decompose()
+    
+    # Remover classes de anúncios e elementos irrelevantes
+    for element in content_div.find_all(class_=re.compile(
+        r"ad|banner|publicidade|propaganda|ads|widget|related|share|social|comentario|comment|meta|footer|header|navigation", 
+        re.I)):
+        element.decompose()
+    
+    # Processar o conteúdo para formato WordPress
+    for element in content_div.find_all(recursive=False):
+        # Parágrafos
+        if element.name == 'p':
+            text = element.get_text(strip=True)
+            if len(text) > 20:
+                conteudo_wp += f"<p>{limpar_texto(text)}</p>\n"
         
-        # Dividir em parágrafos
+        # Cabeçalhos
+        elif element.name in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
+            text = element.get_text(strip=True)
+            if text and len(text) > 5:
+                conteudo_wp += f"<{element.name}>{limpar_texto(text)}</{element.name}>\n"
+        
+        # Listas
+        elif element.name == 'ul':
+            conteudo_wp += "<ul>\n"
+            for li in element.find_all('li', recursive=False):
+                li_text = li.get_text(strip=True)
+                if li_text:
+                    conteudo_wp += f"  <li>{limpar_texto(li_text)}</li>\n"
+            conteudo_wp += "</ul>\n"
+        
+        elif element.name == 'ol':
+            conteudo_wp += "<ol>\n"
+            for li in element.find_all('li', recursive=False):
+                li_text = li.get_text(strip=True)
+                if li_text:
+                    conteudo_wp += f"  <li>{limpar_texto(li_text)}</li>\n"
+            conteudo_wp += "</ol>\n"
+        
+        # Citações
+        elif element.name == 'blockquote':
+            text = element.get_text(strip=True)
+            if text:
+                conteudo_wp += f"<blockquote>{limpar_texto(text)}</blockquote>\n"
+        
+        # Imagens dentro do conteúdo
+        elif element.name == 'img':
+            src = element.get('src', '')
+            alt = element.get('alt', '')
+            if src:
+                img_url = urljoin(url, src) if not src.startswith('http') else src
+                conteudo_wp += f'<p><img src="{img_url}" alt="{limpar_texto(alt)}" class="aligncenter" /></p>\n'
+    
+    # Se processou pouco conteúdo, usar extração por texto
+    if len(conteudo_wp) < 500:
+        print("   🔍 Extraindo texto bruto...")
+        texto_bruto = content_div.get_text(separator='\n', strip=True)
         paragraphs = [p.strip() for p in texto_bruto.split('\n') if len(p.strip()) > 30]
-        conteudo_wp = "\n".join(f"<p>{limpar_texto(p)}</p>" for p in paragraphs[:20])
+        
+        if paragraphs:
+            conteudo_wp = "\n".join(f"<p>{limpar_texto(p)}</p>" for p in paragraphs[:15])
+        else:
+            # Último recurso: todo o texto
+            texto_bruto = soup.get_text(separator='\n', strip=True)
+            paragraphs = [p.strip() for p in texto_bruto.split('\n') if len(p.strip()) > 50]
+            conteudo_wp = "\n".join(f"<p>{limpar_texto(p)}</p>" for p in paragraphs[:10])
     
-    # Adicionar imagem destacada no início do conteúdo
-    if featured_image:
-        conteudo_wp = f'<p><img src="{featured_image}" alt="{page_title}" class="aligncenter size-full" /></p>\n' + conteudo_wp
+    # Adicionar imagem destacada no início se houver
+    if featured_image and len(conteudo_wp) > 0:
+        # Usar o título do artigo para alt da imagem
+        title_tag = soup.find("meta", property="og:title")
+        alt_text = title_tag.get("content", "") if title_tag else "Imagem da notícia"
+        conteudo_wp = f'<p><img src="{featured_image}" alt="{limpar_texto(alt_text)}" class="aligncenter size-full wp-image-999" /></p>\n{conteudo_wp}'
     
-    # Adicionar link para fonte original no final
-    conteudo_wp += f'\n<p><em>Fonte: <a href="{url}" rel="nofollow">{URL_BASE}</a></em></p>'
+    # Adicionar link para fonte original
+    conteudo_wp += f'\n<p><em>Fonte: <a href="{url}" rel="nofollow">Agência Brasil - EBC</a></em></p>'
     
-    return page_title, conteudo_wp, featured_image
+    print(f"   ✅ Conteúdo extraído: {len(conteudo_wp)} caracteres")
+    return conteudo_wp, featured_image
 
 def gerar_feed_wordpress(noticias):
-    """Gera feed XML no formato WordPress WXR"""
+    """Gera feed XML no formato WordPress WXR simplificado"""
     
     # Criar estrutura XML
     rss = ET.Element("rss", {
@@ -210,24 +246,22 @@ def gerar_feed_wordpress(noticias):
     
     # Informações do canal
     ET.SubElement(channel, "title").text = "Agência Brasil - Últimas Notícias"
-    ET.SubElement(channel, "link").text = URL_BASE
+    ET.SubElement(channel, "link").text = "https://agenciabrasil.ebc.com.br"
     ET.SubElement(channel, "description").text = "Notícias oficiais da Agência Brasil importadas automaticamente"
     ET.SubElement(channel, "pubDate").text = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
     ET.SubElement(channel, "language").text = "pt-BR"
     ET.SubElement(channel, "wp:wxr_version").text = "1.2"
-    ET.SubElement(channel, "wp:base_site_url").text = URL_BASE
-    ET.SubElement(channel, "wp:base_blog_url").text = URL_BASE
+    ET.SubElement(channel, "wp:base_site_url").text = "https://agenciabrasil.ebc.com.br"
+    ET.SubElement(channel, "wp:base_blog_url").text = "https://agenciabrasil.ebc.com.br"
     
-    # Adicionar autor
+    # Autor único e simples
     author = ET.SubElement(channel, "wp:author")
     ET.SubElement(author, "wp:author_id").text = "1"
-    ET.SubElement(author, "wp:author_login").text = WP_AUTHOR.lower().replace(" ", "_")
-    ET.SubElement(author, "wp:author_email").text = "noticias@agenciabrasil.com.br"
+    ET.SubElement(author, "wp:author_login").text = "admin"
+    ET.SubElement(author, "wp:author_email").text = "admin@example.com"
     ET.SubElement(author, "wp:author_display_name").text = WP_AUTHOR
-    ET.SubElement(author, "wp:author_first_name").text = "Agência"
-    ET.SubElement(author, "wp:author_last_name").text = "Brasil"
     
-    # Adicionar categoria
+    # Categoria padrão
     category = ET.SubElement(channel, "wp:category")
     ET.SubElement(category, "wp:term_id").text = "1"
     ET.SubElement(category, "wp:category_nicename").text = WP_CATEGORY.lower().replace(" ", "-")
@@ -235,23 +269,25 @@ def gerar_feed_wordpress(noticias):
     cat_name = ET.SubElement(category, "wp:cat_name")
     cat_name.text = WP_CATEGORY
     
-    # Adicionar cada notícia
+    # Adicionar cada notícia como POST (não incluir attachments como itens separados)
+    post_id = 1000
+    
     for i, noticia in enumerate(noticias, 1):
         item = ET.SubElement(channel, "item")
         
+        # Informações básicas do post
         ET.SubElement(item, "title").text = noticia["title"]
         ET.SubElement(item, "link").text = noticia["link"]
         
-        # Data de publicação
+        # Datas
         pub_date = ET.SubElement(item, "pubDate")
         pub_date.text = datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0000')
         
-        # Creator
         ET.SubElement(item, "dc:creator").text = f"<![CDATA[{WP_AUTHOR}]]>"
         
-        # GUID
+        # GUID deve ser único
         guid = ET.SubElement(item, "guid", isPermaLink="false")
-        guid.text = noticia["link"]
+        guid.text = f"{noticia['link']}#{post_id}"
         
         # Descrição (excerpt)
         description = ET.SubElement(item, "description")
@@ -265,67 +301,50 @@ def gerar_feed_wordpress(noticias):
         excerpt = ET.SubElement(item, "excerpt:encoded")
         excerpt.text = f"<![CDATA[{noticia['excerpt']}]]>"
         
-        # Post ID
-        ET.SubElement(item, "wp:post_id").text = str(1000 + i)
+        # Metadados WordPress
+        ET.SubElement(item, "wp:post_id").text = str(post_id)
         
-        # Data do post
-        ET.SubElement(item, "wp:post_date").text = noticia["post_date"]
-        ET.SubElement(item, "wp:post_date_gmt").text = noticia["post_date_gmt"]
-        ET.SubElement(item, "wp:post_modified").text = noticia["post_date"]
-        ET.SubElement(item, "wp:post_modified_gmt").text = noticia["post_date_gmt"]
+        # Usar a data da notícia, não a data atual
+        post_date_str = noticia.get("post_date", datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+        ET.SubElement(item, "wp:post_date").text = post_date_str
+        ET.SubElement(item, "wp:post_date_gmt").text = post_date_str
+        ET.SubElement(item, "wp:post_modified").text = post_date_str
+        ET.SubElement(item, "wp:post_modified_gmt").text = post_date_str
         
-        # Status e tipo
+        # Status e configurações
         ET.SubElement(item, "wp:comment_status").text = "closed"
         ET.SubElement(item, "wp:ping_status").text = "closed"
         ET.SubElement(item, "wp:status").text = "publish"
         ET.SubElement(item, "wp:post_type").text = "post"
+        ET.SubElement(item, "wp:post_password").text = ""
+        ET.SubElement(item, "wp:is_sticky").text = "0"
+        ET.SubElement(item, "wp:menu_order").text = "0"
         
         # Categoria
         category_elem = ET.SubElement(item, "category", domain="category", nicename=WP_CATEGORY.lower().replace(" ", "-"))
         category_elem.text = f"<![CDATA[{WP_CATEGORY}]]>"
         
-        # Tags (se houver)
-        if "tags" in noticia:
-            for tag in noticia["tags"]:
-                tag_elem = ET.SubElement(item, "category", domain="post_tag", nicename=tag.lower().replace(" ", "-"))
-                tag_elem.text = f"<![CDATA[{tag}]]>"
+        # Tags padrão
+        tags = ["Brasil", "Notícias", "Agência Brasil", "EBC"]
+        for tag in tags:
+            tag_elem = ET.SubElement(item, "category", domain="post_tag", nicename=tag.lower().replace(" ", "-"))
+            tag_elem.text = f"<![CDATA[{tag}]]>"
         
-        # Imagem destacada
-        if noticia["featured_image"]:
-            attachment_item = ET.SubElement(channel, "item")
-            ET.SubElement(attachment_item, "title").text = f"Imagem: {noticia['title']}"
-            ET.SubElement(attachment_item, "link").text = noticia["featured_image"]
+        # Imagem destacada - usar metadados simples
+        if noticia.get("featured_image"):
+            postmeta = ET.SubElement(item, "wp:postmeta")
+            ET.SubElement(postmeta, "wp:meta_key").text = "_thumbnail_ext_url"
+            ET.SubElement(postmeta, "wp:meta_value").text = noticia["featured_image"]
             
-            guid_att = ET.SubElement(attachment_item, "guid", isPermaLink="false")
-            guid_att.text = noticia["featured_image"]
-            
-            ET.SubElement(attachment_item, "pubDate").text = datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0000')
-            ET.SubElement(attachment_item, "description").text = ""
-            
-            content_att = ET.SubElement(attachment_item, "content:encoded")
-            content_att.text = ""
-            
-            ET.SubElement(attachment_item, "excerpt:encoded").text = ""
-            ET.SubElement(attachment_item, "wp:post_id").text = str(2000 + i)
-            ET.SubElement(attachment_item, "wp:post_date").text = noticia["post_date"]
-            ET.SubElement(attachment_item, "wp:post_date_gmt").text = noticia["post_date_gmt"]
-            ET.SubElement(attachment_item, "wp:comment_status").text = "closed"
-            ET.SubElement(attachment_item, "wp:ping_status").text = "closed"
-            ET.SubElement(attachment_item, "wp:status").text = "inherit"
-            ET.SubElement(attachment_item, "wp:post_type").text = "attachment"
-            ET.SubElement(attachment_item, "wp:post_parent").text = str(1000 + i)
-            ET.SubElement(attachment_item, "wp:postmeta").text = ""
-            
-            # Meta da imagem
-            meta = ET.SubElement(attachment_item, "wp:postmeta")
-            ET.SubElement(meta, "wp:meta_key").text = "_wp_attached_file"
-            ET.SubElement(meta, "wp:meta_value").text = noticia["featured_image"].split("/")[-1]
+            # Meta para compatibilidade com alguns plugins
+            postmeta2 = ET.SubElement(item, "wp:postmeta")
+            ET.SubElement(postmeta2, "wp:meta_key").text = "external_thumbnail"
+            ET.SubElement(postmeta2, "wp:meta_value").text = noticia["featured_image"]
+        
+        post_id += 1
     
     # Converter para string XML formatada
     xml_str = ET.tostring(rss, encoding='unicode', method='xml')
-    
-    # Adicionar declaração XML
-    xml_declaration = '<?xml version="1.0" encoding="UTF-8"?>\n'
     
     # Formatar com minidom para melhor legibilidade
     dom = minidom.parseString(xml_str)
@@ -335,6 +354,9 @@ def gerar_feed_wordpress(noticias):
     lines = formatted_xml.split('\n')
     if lines[0].startswith('<?xml'):
         lines = lines[1:]
+    
+    # Adicionar declaração XML com encoding UTF-8
+    xml_declaration = '<?xml version="1.0" encoding="UTF-8"?>\n'
     
     return xml_declaration + '\n'.join(lines)
 
@@ -348,17 +370,21 @@ def extrair_agencia_brasil():
     session.headers.update(HEADERS)
 
     try:
-        r = session.get(RSS_URL, timeout=20)
+        print("🌐 Conectando ao feed RSS...")
+        r = session.get(RSS_URL, timeout=30)
         r.raise_for_status()
+        print("✅ Feed RSS carregado com sucesso")
     except requests.RequestException as e:
         print(f"❌ Erro ao acessar RSS: {e}")
         return
 
     soup = BeautifulSoup(r.content, "xml")
     items = soup.find_all("item")
-    noticias = []
-
+    
     print(f"📋 Encontradas {len(items)} notícias no feed RSS")
+    
+    noticias = []
+    noticias_processadas = 0
     
     for i, item in enumerate(items, 1):
         titulo = item.title.get_text(strip=True) if item.title else "Sem título"
@@ -367,47 +393,48 @@ def extrair_agencia_brasil():
         
         if not link:
             continue
-            
-        # Verificar data
-        data_noticia_str = parse_rss_date(pubdate)
-        data_noticia = datetime.strptime(data_noticia_str[:10], "%Y-%m-%d").date()
         
+        # Verificar data da notícia
+        data_noticia_str = parse_rss_date(pubdate)
+        try:
+            data_noticia = datetime.strptime(data_noticia_str[:10], "%Y-%m-%d").date()
+        except:
+            data_noticia = HOJE
+        
+        # Filtrar por data
         if data_noticia not in (HOJE, ONTEM):
             continue
-
-        print(f"\n[{i}] Processando: {titulo[:70]}...")
-        print(f"   🔗 {link}")
-
-        # Extrair conteúdo completo
-        page_title, conteudo_wp, featured_image = extrair_conteudo_completo(link, session)
-
-        if not conteudo_wp or len(conteudo_wp) < 200:
-            print(f"   ⚠ Conteúdo insuficiente ({len(conteudo_wp) if conteudo_wp else 0} caracteres)")
-            continue
-
-        # Criar excerpt (primeiros 200 caracteres)
-        excerpt = re.sub(r'<[^>]+>', '', conteudo_wp)[:200] + "..."
         
-        # Datas para WordPress
-        now = datetime.now()
-        post_date = now.strftime("%Y-%m-%d %H:%M:%S")
-        post_date_gmt = now.astimezone(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
-
+        print(f"\n[{i}] 📰 Processando: {titulo[:70]}...")
+        print(f"   📅 Data: {data_noticia_str}")
+        print(f"   🔗 URL: {link}")
+        
+        # Extrair conteúdo completo
+        conteudo_wp, featured_image = extrair_conteudo_completo(link, session)
+        
+        if not conteudo_wp or len(conteudo_wp) < 200:
+            print(f"   ⚠ Conteúdo insuficiente ou não encontrado")
+            continue
+        
+        # Criar excerpt (primeiros 150 caracteres limpos)
+        excerpt_text = re.sub(r'<[^>]+>', '', conteudo_wp)
+        excerpt = excerpt_text[:150] + "..." if len(excerpt_text) > 150 else excerpt_text
+        
         noticias.append({
             "title": titulo,
             "link": link,
             "content": conteudo_wp,
             "excerpt": excerpt,
             "featured_image": featured_image,
-            "post_date": post_date,
-            "post_date_gmt": post_date_gmt,
-            "tags": ["Brasil", "Notícias", "Agência Brasil"]
+            "post_date": data_noticia_str
         })
-
-        print(f"   ✅ OK | Imagem: {'✅' if featured_image else '❌'} | Texto: {len(conteudo_wp)} chars")
+        
+        noticias_processadas += 1
+        print(f"   ✅ Adicionada | Imagem: {'✅' if featured_image else '❌'} | Texto: {len(conteudo_wp)} chars")
 
     # Gerar feed WordPress
     if noticias:
+        print(f"\n📊 Gerando feed WordPress com {len(noticias)} notícias...")
         xml_content = gerar_feed_wordpress(noticias)
         
         with open(FEED_FILE, "w", encoding="utf-8") as f:
@@ -419,12 +446,20 @@ def extrair_agencia_brasil():
         print(f"📰 Notícias processadas: {len(noticias)}")
         print(f"📊 Tamanho do arquivo: {len(xml_content) // 1024} KB")
         print("\n🎯 PARA IMPORTAR NO WORDPRESS:")
-        print("1. Acesse o WordPress Admin")
-        print("2. Vá em Ferramentas → Importar")
-        print("3. Escolha 'WordPress'")
-        print("4. Faça upload do arquivo XML")
-        print("5. Atribua os autores conforme necessário")
+        print("1. Acesse WordPress Admin → Ferramentas → Importar")
+        print("2. Instale/Execute o importador 'WordPress'")
+        print("3. Faça upload do arquivo XML")
+        print("4. Atribua os autores conforme necessário")
+        print("5. MARQUE a opção 'Baixar e importar arquivos em anexo'")
         print("=" * 60)
+        
+        # Salvar também um resumo
+        with open("resumo_importacao.txt", "w", encoding="utf-8") as f:
+            f.write(f"Feed Agência Brasil - {datetime.now().strftime('%d/%m/%Y %H:%M')}\n")
+            f.write(f"Total de notícias: {len(noticias)}\n\n")
+            for n in noticias:
+                f.write(f"- {n['title']}\n")
+                f.write(f"  Imagem: {n.get('featured_image', 'Não')}\n\n")
     else:
         print(f"\n⚠ Nenhuma notícia encontrada para as datas filtradas ({HOJE} e {ONTEM})")
 
@@ -438,7 +473,7 @@ if __name__ == "__main__":
     except ImportError:
         print("⚠ ATENÇÃO: lxml não está instalado.")
         print("Execute: pip install lxml")
-        print("O código funcionará, mas pode ser mais lento...")
+        print("Usando parser nativo...")
     
     print("\n" + "=" * 60)
     print("🔧 AGÊNCIA BRASIL RSS PARA WORDPRESS")
