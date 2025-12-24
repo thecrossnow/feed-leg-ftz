@@ -33,19 +33,39 @@ ONTEM = HOJE - timedelta(days=1)
 # ================= FUNÇÕES =================
 
 def limpar_texto(texto):
-    """Limpa e formata texto para WordPress"""
+    """Limpa e formata texto para XML seguro"""
     if not texto:
         return ""
     
     texto = html.unescape(texto)
+    
+    # Remover múltiplos espaços e quebras de linha
+    texto = re.sub(r'\s+', ' ', texto)
+    
+    # Codificar caracteres especiais XML (MAS NÃO para CDATA)
+    # Em CDATA, só precisamos escapar ]]> 
+    texto = texto.replace(']]>', ']]]]><![CDATA[>')
+    
+    return texto.strip()
+
+def limpar_texto_para_elemento(texto):
+    """Limpa texto para uso direto em elementos XML (sem CDATA)"""
+    if not texto:
+        return ""
+    
+    texto = html.unescape(texto)
+    
     # Remover múltiplos espaços e quebras de linha
     texto = re.sub(r'\s+', ' ', texto)
     
     # Codificar caracteres especiais XML
-    texto = texto.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
-    texto = texto.replace('"', '&quot;').replace("'", '&apos;')
+    texto = texto.replace('&', '&amp;')
+    texto = texto.replace('<', '&lt;')
+    texto = texto.replace('>', '&gt;')
+    texto = texto.replace('"', '&quot;')
+    texto = texto.replace("'", '&apos;')
     
-    # Manter apenas caracteres imprimíveis
+    # Remover caracteres de controle
     texto = ''.join(char for char in texto if char.isprintable() or char in '\n\r\t')
     
     return texto.strip()
@@ -100,7 +120,7 @@ def extrair_conteudo_completo(url, session):
                     break
     
     # 2. EXTRAIR CONTEÚDO COMPLETO
-    conteudo_wp = ""
+    conteudo_html = ""
     
     # Estratégias para encontrar o conteúdo principal
     content_selectors = [
@@ -163,36 +183,36 @@ def extrair_conteudo_completo(url, session):
         if element.name == 'p':
             text = element.get_text(strip=True)
             if len(text) > 20:
-                conteudo_wp += f"<p>{limpar_texto(text)}</p>\n"
+                conteudo_html += f"<p>{limpar_texto_para_elemento(text)}</p>\n"
         
         # Cabeçalhos
         elif element.name in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
             text = element.get_text(strip=True)
             if text and len(text) > 5:
-                conteudo_wp += f"<{element.name}>{limpar_texto(text)}</{element.name}>\n"
+                conteudo_html += f"<{element.name}>{limpar_texto_para_elemento(text)}</{element.name}>\n"
         
         # Listas
         elif element.name == 'ul':
-            conteudo_wp += "<ul>\n"
+            conteudo_html += "<ul>\n"
             for li in element.find_all('li', recursive=False):
                 li_text = li.get_text(strip=True)
                 if li_text:
-                    conteudo_wp += f"  <li>{limpar_texto(li_text)}</li>\n"
-            conteudo_wp += "</ul>\n"
+                    conteudo_html += f"  <li>{limpar_texto_para_elemento(li_text)}</li>\n"
+            conteudo_html += "</ul>\n"
         
         elif element.name == 'ol':
-            conteudo_wp += "<ol>\n"
+            conteudo_html += "<ol>\n"
             for li in element.find_all('li', recursive=False):
                 li_text = li.get_text(strip=True)
                 if li_text:
-                    conteudo_wp += f"  <li>{limpar_texto(li_text)}</li>\n"
-            conteudo_wp += "</ol>\n"
+                    conteudo_html += f"  <li>{limpar_texto_para_elemento(li_text)}</li>\n"
+            conteudo_html += "</ol>\n"
         
         # Citações
         elif element.name == 'blockquote':
             text = element.get_text(strip=True)
             if text:
-                conteudo_wp += f"<blockquote>{limpar_texto(text)}</blockquote>\n"
+                conteudo_html += f"<blockquote>{limpar_texto_para_elemento(text)}</blockquote>\n"
         
         # Imagens dentro do conteúdo
         elif element.name == 'img':
@@ -200,34 +220,35 @@ def extrair_conteudo_completo(url, session):
             alt = element.get('alt', '')
             if src:
                 img_url = urljoin(url, src) if not src.startswith('http') else src
-                conteudo_wp += f'<p><img src="{img_url}" alt="{limpar_texto(alt)}" class="aligncenter" /></p>\n'
+                conteudo_html += f'<p><img src="{img_url}" alt="{limpar_texto_para_elemento(alt)}" class="aligncenter" /></p>\n'
     
     # Se processou pouco conteúdo, usar extração por texto
-    if len(conteudo_wp) < 500:
+    if len(conteudo_html) < 500:
         print("   🔍 Extraindo texto bruto...")
         texto_bruto = content_div.get_text(separator='\n', strip=True)
         paragraphs = [p.strip() for p in texto_bruto.split('\n') if len(p.strip()) > 30]
         
         if paragraphs:
-            conteudo_wp = "\n".join(f"<p>{limpar_texto(p)}</p>" for p in paragraphs[:15])
+            conteudo_html = "\n".join(f"<p>{limpar_texto_para_elemento(p)}</p>" for p in paragraphs[:15])
         else:
             # Último recurso: todo o texto
             texto_bruto = soup.get_text(separator='\n', strip=True)
             paragraphs = [p.strip() for p in texto_bruto.split('\n') if len(p.strip()) > 50]
-            conteudo_wp = "\n".join(f"<p>{limpar_texto(p)}</p>" for p in paragraphs[:10])
+            conteudo_html = "\n".join(f"<p>{limpar_texto_para_elemento(p)}</p>" for p in paragraphs[:10])
     
     # Adicionar imagem destacada no início se houver
-    if featured_image and len(conteudo_wp) > 0:
+    if featured_image and len(conteudo_html) > 0:
         # Usar o título do artigo para alt da imagem
         title_tag = soup.find("meta", property="og:title")
         alt_text = title_tag.get("content", "") if title_tag else "Imagem da notícia"
-        conteudo_wp = f'<p><img src="{featured_image}" alt="{limpar_texto(alt_text)}" class="aligncenter size-full wp-image-999" /></p>\n{conteudo_wp}'
+        conteudo_html = f'<p><img src="{featured_image}" alt="{limpar_texto_para_elemento(alt_text)}" class="aligncenter size-full" /></p>\n{conteudo_html}'
     
     # Adicionar link para fonte original
-    conteudo_wp += f'\n<p><em>Fonte: <a href="{url}" rel="nofollow">Agência Brasil - EBC</a></em></p>'
+    fonte_link = f'<p><em>Fonte: <a href="{url}" rel="nofollow">Agência Brasil - EBC</a></em></p>'
+    conteudo_html += fonte_link
     
-    print(f"   ✅ Conteúdo extraído: {len(conteudo_wp)} caracteres")
-    return conteudo_wp, featured_image
+    print(f"   ✅ Conteúdo extraído: {len(conteudo_html)} caracteres")
+    return conteudo_html, featured_image
 
 def gerar_feed_wordpress(noticias):
     """Gera feed XML no formato WordPress WXR simplificado"""
@@ -266,45 +287,48 @@ def gerar_feed_wordpress(noticias):
     ET.SubElement(category, "wp:term_id").text = "1"
     ET.SubElement(category, "wp:category_nicename").text = WP_CATEGORY.lower().replace(" ", "-")
     ET.SubElement(category, "wp:category_parent").text = ""
-    cat_name = ET.SubElement(category, "wp:cat_name")
-    cat_name.text = WP_CATEGORY
+    ET.SubElement(category, "wp:cat_name").text = WP_CATEGORY
     
-    # Adicionar cada notícia como POST (não incluir attachments como itens separados)
+    # Adicionar cada notícia como POST
     post_id = 1000
     
     for i, noticia in enumerate(noticias, 1):
         item = ET.SubElement(channel, "item")
         
-        # Informações básicas do post
-        ET.SubElement(item, "title").text = noticia["title"]
+        # Título (usar limpeza para XML seguro)
+        titulo_limpo = limpar_texto_para_elemento(noticia["title"])
+        ET.SubElement(item, "title").text = titulo_limpo
+        
+        # Link
         ET.SubElement(item, "link").text = noticia["link"]
         
         # Datas
         pub_date = ET.SubElement(item, "pubDate")
         pub_date.text = datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0000')
         
-        ET.SubElement(item, "dc:creator").text = f"<![CDATA[{WP_AUTHOR}]]>"
+        # Creator (sem CDATA desnecessário)
+        ET.SubElement(item, "dc:creator").text = WP_AUTHOR
         
-        # GUID deve ser único
+        # GUID único
         guid = ET.SubElement(item, "guid", isPermaLink="false")
         guid.text = f"{noticia['link']}#{post_id}"
         
-        # Descrição (excerpt)
+        # Descrição (excerpt) - SEM CDATA
         description = ET.SubElement(item, "description")
-        description.text = f"<![CDATA[{noticia['excerpt']}]]>"
+        description.text = noticia["excerpt"]
         
-        # Conteúdo completo
+        # Conteúdo completo - SEM CDATA, já está limpo
         content = ET.SubElement(item, "content:encoded")
-        content.text = f"<![CDATA[{noticia['content']}]]>"
+        content.text = noticia["content"]
         
-        # Excerpt
+        # Excerpt - SEM CDATA
         excerpt = ET.SubElement(item, "excerpt:encoded")
-        excerpt.text = f"<![CDATA[{noticia['excerpt']}]]>"
+        excerpt.text = noticia["excerpt"]
         
         # Metadados WordPress
         ET.SubElement(item, "wp:post_id").text = str(post_id)
         
-        # Usar a data da notícia, não a data atual
+        # Usar a data da notícia
         post_date_str = noticia.get("post_date", datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
         ET.SubElement(item, "wp:post_date").text = post_date_str
         ET.SubElement(item, "wp:post_date_gmt").text = post_date_str
@@ -319,32 +343,39 @@ def gerar_feed_wordpress(noticias):
         ET.SubElement(item, "wp:post_password").text = ""
         ET.SubElement(item, "wp:is_sticky").text = "0"
         ET.SubElement(item, "wp:menu_order").text = "0"
+        ET.SubElement(item, "wp:post_parent").text = "0"
         
-        # Categoria
-        category_elem = ET.SubElement(item, "category", domain="category", nicename=WP_CATEGORY.lower().replace(" ", "-"))
-        category_elem.text = f"<![CDATA[{WP_CATEGORY}]]>"
+        # Categoria - SEM CDATA
+        category_elem = ET.SubElement(item, "category", 
+                                    domain="category", 
+                                    nicename=WP_CATEGORY.lower().replace(" ", "-"))
+        category_elem.text = WP_CATEGORY
         
-        # Tags padrão
+        # Tags padrão - SEM CDATA
         tags = ["Brasil", "Notícias", "Agência Brasil", "EBC"]
         for tag in tags:
-            tag_elem = ET.SubElement(item, "category", domain="post_tag", nicename=tag.lower().replace(" ", "-"))
-            tag_elem.text = f"<![CDATA[{tag}]]>"
+            tag_elem = ET.SubElement(item, "category", 
+                                   domain="post_tag", 
+                                   nicename=tag.lower().replace(" ", "-"))
+            tag_elem.text = tag
         
-        # Imagem destacada - usar metadados simples
+        # Imagem destacada como metadado
         if noticia.get("featured_image"):
             postmeta = ET.SubElement(item, "wp:postmeta")
             ET.SubElement(postmeta, "wp:meta_key").text = "_thumbnail_ext_url"
             ET.SubElement(postmeta, "wp:meta_value").text = noticia["featured_image"]
-            
-            # Meta para compatibilidade com alguns plugins
-            postmeta2 = ET.SubElement(item, "wp:postmeta")
-            ET.SubElement(postmeta2, "wp:meta_key").text = "external_thumbnail"
-            ET.SubElement(postmeta2, "wp:meta_value").text = noticia["featured_image"]
         
         post_id += 1
     
     # Converter para string XML formatada
     xml_str = ET.tostring(rss, encoding='unicode', method='xml')
+    
+    # Substituir possíveis entidades problemáticas
+    xml_str = xml_str.replace('&amp;amp;', '&amp;')
+    xml_str = xml_str.replace('&amp;lt;', '&lt;')
+    xml_str = xml_str.replace('&amp;gt;', '&gt;')
+    xml_str = xml_str.replace('&amp;quot;', '&quot;')
+    xml_str = xml_str.replace('&amp;apos;', '&apos;')
     
     # Formatar com minidom para melhor legibilidade
     dom = minidom.parseString(xml_str)
@@ -420,6 +451,9 @@ def extrair_agencia_brasil():
         excerpt_text = re.sub(r'<[^>]+>', '', conteudo_wp)
         excerpt = excerpt_text[:150] + "..." if len(excerpt_text) > 150 else excerpt_text
         
+        # Limpar excerpt também
+        excerpt = limpar_texto_para_elemento(excerpt)
+        
         noticias.append({
             "title": titulo,
             "link": link,
@@ -445,6 +479,16 @@ def extrair_agencia_brasil():
         print(f"📁 Arquivo: {FEED_FILE}")
         print(f"📰 Notícias processadas: {len(noticias)}")
         print(f"📊 Tamanho do arquivo: {len(xml_content) // 1024} KB")
+        
+        # Verificar se há CDATA no arquivo gerado
+        with open(FEED_FILE, "r", encoding="utf-8") as f:
+            content = f.read()
+            cdata_count = content.count("<![CDATA[")
+            if cdata_count > 0:
+                print(f"⚠️  Aviso: Encontrados {cdata_count} blocos CDATA no arquivo")
+            else:
+                print(f"✅ Nenhum bloco CDATA encontrado - Formato correto")
+        
         print("\n🎯 PARA IMPORTAR NO WORDPRESS:")
         print("1. Acesse WordPress Admin → Ferramentas → Importar")
         print("2. Instale/Execute o importador 'WordPress'")
