@@ -33,41 +33,49 @@ ONTEM = HOJE - timedelta(days=1)
 # ================= FUNÇÕES =================
 
 def limpar_texto(texto):
-    """Limpa e formata texto para XML seguro"""
+    """Limpa texto preservando parágrafos"""
     if not texto:
         return ""
-    
+
     texto = html.unescape(texto)
-    
-    # Remover múltiplos espaços e quebras de linha
-    texto = re.sub(r'\s+', ' ', texto)
-    
-    # Codificar caracteres especiais XML (MAS NÃO para CDATA)
-    # Em CDATA, só precisamos escapar ]]> 
+
+    # Normalizar espaços, SEM remover quebras de linha
+    texto = re.sub(r'[ \t]+', ' ', texto)
+
+    # Preservar parágrafos
+    texto = re.sub(r'\n{3,}', '\n\n', texto)
+
+    # Evitar quebra de CDATA
     texto = texto.replace(']]>', ']]]]><![CDATA[>')
-    
+
     return texto.strip()
 
 def limpar_texto_para_elemento(texto):
-    """Limpa texto para uso direto em elementos XML (sem CDATA)"""
+    """Limpa texto preservando quebras de linha para HTML"""
     if not texto:
         return ""
-    
+
     texto = html.unescape(texto)
-    
-    # Remover múltiplos espaços e quebras de linha
-    texto = re.sub(r'\s+', ' ', texto)
-    
-    # Codificar caracteres especiais XML
+
+    # Normalizar apenas espaços
+    texto = re.sub(r'[ \t]+', ' ', texto)
+
+    # Preservar parágrafos
+    texto = re.sub(r'\n{3,}', '\n\n', texto)
+
+    # Escapar XML
     texto = texto.replace('&', '&amp;')
     texto = texto.replace('<', '&lt;')
     texto = texto.replace('>', '&gt;')
     texto = texto.replace('"', '&quot;')
     texto = texto.replace("'", '&apos;')
-    
+
     # Remover caracteres de controle
-    texto = ''.join(char for char in texto if char.isprintable() or char in '\n\r\t')
-    
+    texto = ''.join(
+        char for char in texto
+        if char.isprintable() or char in '\n\r\t'
+    )
+
     return texto.strip()
 
 def parse_rss_date(pubdate):
