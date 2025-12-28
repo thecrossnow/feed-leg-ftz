@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 28 Dec 2025 13:39:48 +0000</pubDate>
+    <pubDate>Sun, 28 Dec 2025 14:40:14 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,109 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Em temporada de cruzeiros, São Paulo emite alerta para o sarampo</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/em-temporada-de-cruzeiros-sao-paulo-emite-alerta-para-o-sarampo</link>
+      <pubDate>Sun, 28 Dec 2025 14:40:14 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/em-temporada-de-cruzeiros-sao-paulo-emite-alerta-para-o-sarampo#1000</guid>
+      <description>© Marcelo Camargo/Agência Brasil
+A Secretaria Estadual de Saúde de São Paulo emitiu um alerta de aumento de risco para reintrodução de sarampo no paí...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NjLt9CQeDJDHt5eU0JHlprIiOCU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/sarampo_301119img_28683822.jpg?itok=m2Q8tqqK&quot; alt=&quot;Em temporada de cruzeiros, São Paulo emite alerta para o sarampo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
+&lt;p&gt;A Secretaria Estadual de Saúde de São Paulo emitiu um alerta de aumento de risco para reintrodução de sarampo no país durante o verão por causa da temporada de cruzeiros, com pontos de parada no litoral paulista.&lt;/p&gt;
+&lt;p&gt;Ao todo, 38 casos da doença foram notificados no país em 2025, sendo&lt;/p&gt;
+&lt;p&gt;Não há surto de sarampo no país atualmente.&lt;/p&gt;
+&lt;p&gt;Segundo a pasta, o momento é de circulação intensa de turistas, inclusive de outros países, e há surtos ativos da doença em diversas regiões do mundo, &quot;o que exige vigilância contínua e atenção à situação vacinal da população&quot;.&lt;/p&gt;
+&lt;p&gt;As pessoas que vão embarcar a turismo ou a trabalho e aquelas que estarão expostas em aglomerações devem ficar atentas para a vacinação para a tríplice viral (sarampo, caxumba e rubéola), de preferência com ao menos 15 dias de antecedência da potencial exposição.&lt;/p&gt;
+&lt;p&gt;Além da vacinação a Secretaria recomenda medidas auxiliares para evitar exposição:&lt;/p&gt;
+&lt;p&gt;Cobrir nariz e boca quando espirrar ou tossir;&lt;/p&gt;
+&lt;p&gt;Lavar as mãos com frequência com água e sabão, ou então utilizar álcool em gel;&lt;/p&gt;
+&lt;p&gt;Não compartilhar copos, talheres e alimentos;&lt;/p&gt;
+&lt;p&gt;Procurar não levar as mãos à boca ou aos olhos;&lt;/p&gt;
+&lt;p&gt;Evitar aglomerações ou locais pouco arejados;&lt;/p&gt;
+&lt;p&gt;Manter os ambientes frequentados sempre limpos e ventilados;&lt;/p&gt;
+&lt;p&gt;Evitar contato próximo com pessoas doentes.&lt;/p&gt;
+&lt;p&gt;&quot;No retorno, caso surjam sintomas suspeitos até 30 dias após a viagem, como febre, manchas avermelhadas pelo corpo, acompanhadas de tosse ou coriza ou conjuntivite, a orientação é procurar imediatamente um serviço de saúde, informar o histórico de deslocamento e evitar a circulação em locais públicos&quot;, informa a SES em nota.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/em-temporada-de-cruzeiros-sao-paulo-emite-alerta-para-o-sarampo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
+A Secretaria Estadual de Saúde de São Paulo emitiu um alerta de aumento de risco para reintrodução de sarampo no paí...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2025-12-28 10:42:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-28 10:42:00</wp:post_date_gmt>
+      <wp:post_modified>2025-12-28 10:42:00</wp:post_modified>
+      <wp:post_modified_gmt>2025-12-28 10:42:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/NjLt9CQeDJDHt5eU0JHlprIiOCU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/sarampo_301119img_28683822.jpg?itok=m2Q8tqqK</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Morre a atriz Brigitte Bardot, musa do cinema francês</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2025-12/morre-atriz-brigitte-bardot-musa-do-cinema-frances</link>
+      <pubDate>Sun, 28 Dec 2025 14:40:14 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2025-12/morre-atriz-brigitte-bardot-musa-do-cinema-frances#1001</guid>
+      <description>© Reuters/Charles Platiau/Arquivo/Proibida reprodução
+Morreu aos 91 anos a atriz Brigitte Bardot, lenda do cinema francês. A causa da morte não foi d...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iEHQj7XgrQgCF1V1bvv1IuYSfgc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/28/2025-12-28t101829z_25202977_rc2mpia1hgmi_rtrmadp_3_people-brigitte-bardot.jpg?itok=q87A0Jt0&quot; alt=&quot;Morre a atriz Brigitte Bardot, musa do cinema francês&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Reuters/Charles Platiau/Arquivo/Proibida reprodução&lt;/p&gt;
+&lt;p&gt;Morreu aos 91 anos a atriz Brigitte Bardot, lenda do cinema francês. A causa da morte não foi divulgada, mas ela já estava com a saúde debilitada há alguns meses, passando por longas internações.&lt;/p&gt;
+&lt;p&gt;Ela morreu num hospital no sul da França, onde passaria por uma cirurgia.&lt;/p&gt;
+&lt;p&gt;Além de atriz, Brigitte foi cantora e ativista da causa animal.&lt;/p&gt;
+&lt;p&gt;Nascida em Paris, em 1934, em uma família rica, começou sua carreira artística como modelo, aos 15 anos. Estampou a capa da revista Elle e sua beleza chamou atenção imediata de outras áreas, como o cinema.&lt;/p&gt;
+&lt;p&gt;Estreou nas telas em 1952, aos 18 anos, no filme&lt;/p&gt;
+&lt;p&gt;do diretor Jean Boyer, no qual interpretou a personagem Javotte Lemoine, um papel pequeno. No mesmo ano atuou em&lt;/p&gt;
+&lt;p&gt;. Com direção do diretor francês Willy Rozier, sua personagem não tinha grande destaque, mas Brigitte chamou atenção ao aparecer de biquíni, ajudando a tornar comum a peça de roupa.&lt;/p&gt;
+&lt;p&gt;Em 1953, a jovem atriz, ainda não muito famosa, atuou em&lt;/p&gt;
+&lt;p&gt;, seu primeiro trabalho num longa-metragem norte-americano. Com Kirk Douglas e Dany Robin como protagonistas, a produção teve muitas cenas rodadas na França. Embora não tenha tido grande destaque no filme, a atriz chamou atenção no Festival de Cannes daquele ano durante a promoção do longa protagonizado por Douglas. Ela surgiu de biquíni no evento, o que causou frisson na mídia.&lt;/p&gt;
+&lt;p&gt;A atriz seguiu atuando em filmes franceses, italianos e ingleses. Em 1955 atuou em várias produções como&lt;/p&gt;
+&lt;p&gt;. Em 1956, trabalhouem filmes como&lt;/p&gt;
+&lt;p&gt;Nestes longas, Brigitte já vinha chamando atenção e atuando com mais destaque, sendo protagonista em algumas produções. Ainda em 1956, ela estrelou&lt;/p&gt;
+&lt;p&gt;, dirigido por seu então marido, o francês Roger Vadim.&lt;/p&gt;
+&lt;p&gt;No longa, Brigitte interpreta Juliette, uma jovem mulher que vive em Saint-Tropez que se casa com o irmão de um homem que a rejeitou. Ela, que é uma órfã, luta para não voltar para o orfanato e faz isso despertando paixões.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2025-12/morre-atriz-brigitte-bardot-musa-do-cinema-frances&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Reuters/Charles Platiau/Arquivo/Proibida reprodução
+Morreu aos 91 anos a atriz Brigitte Bardot, lenda do cinema francês. A causa da morte não foi d...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2025-12-28 10:17:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-28 10:17:00</wp:post_date_gmt>
+      <wp:post_modified>2025-12-28 10:17:00</wp:post_modified>
+      <wp:post_modified_gmt>2025-12-28 10:17:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/iEHQj7XgrQgCF1V1bvv1IuYSfgc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/28/2025-12-28t101829z_25202977_rc2mpia1hgmi_rtrmadp_3_people-brigitte-bardot.jpg?itok=q87A0Jt0</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Universidades vão engajar favelas em estudo sobre crise climática</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2025-12/universidades-v%C3%A3o-engajar-favelas-em-estudo-sobre-crise-climatica</link>
-      <pubDate>Sun, 28 Dec 2025 13:39:48 +0000</pubDate>
+      <pubDate>Sun, 28 Dec 2025 14:40:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2025-12/universidades-v%C3%A3o-engajar-favelas-em-estudo-sobre-crise-climatica#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2025-12/universidades-v%C3%A3o-engajar-favelas-em-estudo-sobre-crise-climatica#1002</guid>
       <description>© Fernando Frazão/Agência Brasil
 Em parceria com a Universidade de Glasgow, no Reino Unido, três universidades brasileiras vão conduzir uma pesquisa ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YFnO1SuiiWfHwKVpKSMT_VIZUCk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/28/_mg_1430.jpg?itok=c90ymXWU&quot; alt=&quot;Universidades vão engajar favelas em estudo sobre crise climática&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +145,7 @@ Em parceria com a Universidade de Glasgow, no Reino Unido, três universidades b
 &lt;p&gt;“A gente vai ter pesquisadores comunitários, vinculados ao projeto, mas que são dessas comunidades envolvidas e que vão ser financiados por esse agente britânico, com a perspectiva de o projeto ser construído coletivamente”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2025-12/universidades-v%C3%A3o-engajar-favelas-em-estudo-sobre-crise-climatica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Em parceria com a Universidade de Glasgow, no Reino Unido, três universidades brasileiras vão conduzir uma pesquisa ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2025-12-28 09:45:00</wp:post_date>
       <wp:post_date_gmt>2025-12-28 09:45:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-28 09:45:00</wp:post_modified>
@@ -73,9 +171,9 @@ Em parceria com a Universidade de Glasgow, no Reino Unido, três universidades b
     <item>
       <title>Hoje é Dia: acordo ortográfico e São Silvestre são destaques</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2025-09/hoje-e-dia-acordo-ortografico-e-sao-silvestre-sao-destaques</link>
-      <pubDate>Sun, 28 Dec 2025 13:39:48 +0000</pubDate>
+      <pubDate>Sun, 28 Dec 2025 14:40:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2025-09/hoje-e-dia-acordo-ortografico-e-sao-silvestre-sao-destaques#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2025-09/hoje-e-dia-acordo-ortografico-e-sao-silvestre-sao-destaques#1003</guid>
       <description>© Fernando Frazão/Agência Brasil
 A virada de 2025 para 2026 ocorre na próxima quinta-feira e traz consigo diversas datas tradicionais de ano novo. Pa...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/f4gO5FOsSxr8susNnYJQ7BHc3Ls=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/973925-01092015-_dsc4678.jpg?itok=ZZWztHZG&quot; alt=&quot;Hoje é Dia: acordo ortográfico e São Silvestre são destaques&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +194,7 @@ A virada de 2025 para 2026 ocorre na próxima quinta-feira e traz consigo divers
 &lt;p&gt;Primeira exibição comercial do cinematógrafo, que deu origem ao cinema atual, pelos Irmãos Lumière (130 anos)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2025-09/hoje-e-dia-acordo-ortografico-e-sao-silvestre-sao-destaques&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 A virada de 2025 para 2026 ocorre na próxima quinta-feira e traz consigo diversas datas tradicionais de ano novo. Pa...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2025-12-28 07:30:00</wp:post_date>
       <wp:post_date_gmt>2025-12-28 07:30:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-28 07:30:00</wp:post_modified>
@@ -122,9 +220,9 @@ A virada de 2025 para 2026 ocorre na próxima quinta-feira e traz consigo divers
     <item>
       <title>Retrospectiva: esporte olímpico brasileiro fecha ano de 2025 em alta</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2025-12/retrospectiva-2025-esporte-olimpico-brasileiro-fecha-ano-em-alta</link>
-      <pubDate>Sun, 28 Dec 2025 13:39:48 +0000</pubDate>
+      <pubDate>Sun, 28 Dec 2025 14:40:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2025-12/retrospectiva-2025-esporte-olimpico-brasileiro-fecha-ano-em-alta#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2025-12/retrospectiva-2025-esporte-olimpico-brasileiro-fecha-ano-em-alta#1004</guid>
       <description>© REUTERS/Aleksandra Szmigiel/Proibida reprodução
 O primeiro ano após uma edição de Jogos Olímpicos costuma ser de renovações, recomeços e arranjos p...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cUxha-kxhh4u1qH-HFnvvhl7IhM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/20/2025-09-20t121133z_761140539_up1el9k0xv7lu_rtrmadp_3_athletics-world.jpg?itok=VDeH7e2n&quot; alt=&quot;Retrospectiva: esporte olímpico brasileiro fecha ano de 2025 em alta&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -145,7 +243,7 @@ O primeiro ano após uma edição de Jogos Olímpicos costuma ser de renovaçõe
 &lt;p&gt;. Foram mais três títulos em etapas do circuito mundial. Além disso, a parceria com a namorada Bruna Takahashi alcançou o sexto lugar no ranking global.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2025-12/retrospectiva-2025-esporte-olimpico-brasileiro-fecha-ano-em-alta&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Aleksandra Szmigiel/Proibida reprodução
 O primeiro ano após uma edição de Jogos Olímpicos costuma ser de renovações, recomeços e arranjos p...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2025-12-28 07:23:00</wp:post_date>
       <wp:post_date_gmt>2025-12-28 07:23:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-28 07:23:00</wp:post_modified>
@@ -171,9 +269,9 @@ O primeiro ano após uma edição de Jogos Olímpicos costuma ser de renovaçõe
     <item>
       <title>Tocantinense: Araguaína vence Tocantinópolis no primeiro jogo da final</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2025-12/tocantinense-araguaina-vence-tocantinopolis-no-primeiro-jogo-da-final</link>
-      <pubDate>Sun, 28 Dec 2025 13:39:48 +0000</pubDate>
+      <pubDate>Sun, 28 Dec 2025 14:40:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2025-12/tocantinense-araguaina-vence-tocantinopolis-no-primeiro-jogo-da-final#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2025-12/tocantinense-araguaina-vence-tocantinopolis-no-primeiro-jogo-da-final#1005</guid>
       <description>© Fernando Torres/CBF/Direitos Reservados
 O último campeão do futebol profissional brasileiro na temporada começou a ser definido neste sábado (27). ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/XOxwEbQqxpGO05k7mUMDgK40VSs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/treino_chuteira.jpg?itok=6he_QXyE&quot; alt=&quot;Tocantinense: Araguaína vence Tocantinópolis no primeiro jogo da final&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -184,16 +282,10 @@ O último campeão do futebol profissional brasileiro na temporada começou a se
 &lt;p&gt;Desta forma, o Estadual 2025 terminará menos de três semanas antes de a edição de 2026 começar. O próximo Campeonato Tocantinense já inicia em 17 de janeiro. Os participantes serão Araguaína, Gurupi, Tocantinópolis, Capital, União, Bela Vista e os recém-promovidos Palmas e Guaraí.&lt;/p&gt;
 &lt;p&gt;Dezembrite: sensação de cansaço atinge algumas pessoas no final do ano&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: Alerta vermelho! Onda de calor deve permanecer por todo o fim de semana em várias regiões do país&lt;/p&gt;
-&lt;p&gt;Pesquisa calcula tempo de vida saudável de acordo com a alimentação&lt;/p&gt;
-&lt;p&gt;Morre a atriz Brigitte Bardot, musa do cinema francês&lt;/p&gt;
-&lt;p&gt;Universidades vão engajar favelas em estudo sobre crise climática&lt;/p&gt;
-&lt;p&gt;Hoje é Dia: acordo ortográfico e São Silvestre são destaques&lt;/p&gt;
-&lt;p&gt;Retrospectiva: esporte olímpico brasileiro fecha ano de 2025 em alta&lt;/p&gt;
-&lt;p&gt;Tocantinense: Araguaína vence Tocantinópolis no primeiro jogo da final&lt;/p&gt;
-&lt;p&gt;Trama golpista: prisões são mantidas após audiência de custódia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2025-12/tocantinense-araguaina-vence-tocantinopolis-no-primeiro-jogo-da-final&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Pesquisa calcula tempo de vida saudável de acordo com a alimentação&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2025-12/tocantinense-araguaina-vence-tocantinopolis-no-primeiro-jogo-da-final&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Torres/CBF/Direitos Reservados
 O último campeão do futebol profissional brasileiro na temporada começou a ser definido neste sábado (27). ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2025-12-27 21:28:00</wp:post_date>
       <wp:post_date_gmt>2025-12-27 21:28:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-27 21:28:00</wp:post_modified>
@@ -219,9 +311,9 @@ O último campeão do futebol profissional brasileiro na temporada começou a se
     <item>
       <title>Trama golpista: prisões são mantidas após audiência de custódia</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/trama-golpista-prisoes-sao-mantidas-apos-audiencia-de-custodia</link>
-      <pubDate>Sun, 28 Dec 2025 13:39:48 +0000</pubDate>
+      <pubDate>Sun, 28 Dec 2025 14:40:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/trama-golpista-prisoes-sao-mantidas-apos-audiencia-de-custodia#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/trama-golpista-prisoes-sao-mantidas-apos-audiencia-de-custodia#1006</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil/Arquivo
 As prisões domiciliares de oito condenados pela trama golpista
 foram mantidas neste sábado (27) ap...</description>
@@ -244,7 +336,7 @@ foram mantidas neste sábado (27) ap...</description>
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil/Arquivo
 As prisões domiciliares de oito condenados pela trama golpista
 foram mantidas neste sábado (27) ap...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2025-12-27 19:17:00</wp:post_date>
       <wp:post_date_gmt>2025-12-27 19:17:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-27 19:17:00</wp:post_modified>
@@ -270,9 +362,9 @@ foram mantidas neste sábado (27) ap...</excerpt:encoded>
     <item>
       <title>Deputado vai à Justiça para derrubar “gratificação faroeste” no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/deputado-vai-justica-para-derrubar-gratificacao-faroeste-no-rio</link>
-      <pubDate>Sun, 28 Dec 2025 13:39:48 +0000</pubDate>
+      <pubDate>Sun, 28 Dec 2025 14:40:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/deputado-vai-justica-para-derrubar-gratificacao-faroeste-no-rio#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/deputado-vai-justica-para-derrubar-gratificacao-faroeste-no-rio#1007</guid>
       <description>© Fernando Frazão/Agência Brasil
 A validade da chamada “gratificação faroeste” no estado do Rio de Janeiro, que bonifica policiais que “neutralizam c...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MmdcCXnTBx3LAEHyJmbextb25AE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1049428-1_10102016-_dsc7283.jpg?itok=WyfOKTwW&quot; alt=&quot;Deputado vai à Justiça para derrubar “gratificação faroeste” no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -293,7 +385,7 @@ A validade da chamada “gratificação faroeste” no estado do Rio de Janeiro,
 &lt;p&gt;, ou seja, fazer valer a gratificação faroeste.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/deputado-vai-justica-para-derrubar-gratificacao-faroeste-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 A validade da chamada “gratificação faroeste” no estado do Rio de Janeiro, que bonifica policiais que “neutralizam c...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2025-12-27 18:53:00</wp:post_date>
       <wp:post_date_gmt>2025-12-27 18:53:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-27 18:53:00</wp:post_modified>
@@ -319,9 +411,9 @@ A validade da chamada “gratificação faroeste” no estado do Rio de Janeiro,
     <item>
       <title>Toffoli mantém participação de diretor do BC em acareação do Master</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/toffoli-mantem-participacao-de-diretor-do-bc-em-acareacao-do-master</link>
-      <pubDate>Sun, 28 Dec 2025 13:39:48 +0000</pubDate>
+      <pubDate>Sun, 28 Dec 2025 14:40:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/toffoli-mantem-participacao-de-diretor-do-bc-em-acareacao-do-master#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/toffoli-mantem-participacao-de-diretor-do-bc-em-acareacao-do-master#1008</guid>
       <description>DiasToffoli, do Supremo Tribunal Federal (STF), decidiu neste sábado (27) manter a participação do diretor de fiscalização do Banco Central, Ailton d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/KSg9N_uKfOJXjDmXTH1qS2K0bCA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/51384917783_9eb8a0c1eb_o_0.jpg?itok=RL0WmU-A&quot; alt=&quot;Toffoli mantém participação de diretor do BC em acareação do Master&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;DiasToffoli, do Supremo Tribunal Federal (STF), decidiu neste sábado (27) manter a participação do diretor de fiscalização do Banco Central, Ailton de Aquino Santos, na acareação que envolve a investigação sobre fraudes no Banco Master&lt;/p&gt;
@@ -340,7 +432,7 @@ A validade da chamada “gratificação faroeste” no estado do Rio de Janeiro,
 &lt;p&gt;Além de Vorcaro, também são investigados os ex-diretores Luiz Antonio Bull, Alberto Feliz de Oliveira e Angelo Antonio Ribeiro da Silva, além de Augusto Ferreira Lima, ex-sócio do banco.&lt;/p&gt;
 &lt;p&gt;Após a prisão, os advogados de Daniel Vorcaro negaram que o banqueiro tentou fugir do país e sustentou que ele sempre se colocou à disposição para contribuir com a apuração dos fatos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/toffoli-mantem-participacao-de-diretor-do-bc-em-acareacao-do-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>DiasToffoli, do Supremo Tribunal Federal (STF), decidiu neste sábado (27) manter a participação do diretor de fiscalização do Banco Central, Ailton d...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2025-12-27 18:42:00</wp:post_date>
       <wp:post_date_gmt>2025-12-27 18:42:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-27 18:42:00</wp:post_modified>
@@ -366,9 +458,9 @@ A validade da chamada “gratificação faroeste” no estado do Rio de Janeiro,
     <item>
       <title>Padre Omar, reitor do Santuário Cristo Redentor, faz show na Lagoa</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2025-12/padre-omar-reitor-do-santuario-cristo-redentor-faz-show-na-lagoa</link>
-      <pubDate>Sun, 28 Dec 2025 13:39:48 +0000</pubDate>
+      <pubDate>Sun, 28 Dec 2025 14:40:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2025-12/padre-omar-reitor-do-santuario-cristo-redentor-faz-show-na-lagoa#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2025-12/padre-omar-reitor-do-santuario-cristo-redentor-faz-show-na-lagoa#1009</guid>
       <description>reitor do Santuário Cristo Redentor, Padre Omar, realizará um show na noite deste sábado (27) em um dos cartões postais do Rio de Janeiro, a Lagoa Ro...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ff3x84ZPCpECPHmvwW3-LbCl8MY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/27/padreomarinsta.jpg?itok=nS0w4rLA&quot; alt=&quot;Padre Omar, reitor do Santuário Cristo Redentor, faz show na Lagoa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;reitor do Santuário Cristo Redentor, Padre Omar, realizará um show na noite deste sábado (27) em um dos cartões postais do Rio de Janeiro, a Lagoa Rodrigo de Freitas&lt;/p&gt;
@@ -384,10 +476,10 @@ A validade da chamada “gratificação faroeste” no estado do Rio de Janeiro,
 &lt;p&gt;Dezembrite: sensação de cansaço atinge algumas pessoas no final do ano&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: Alerta vermelho! Onda de calor deve permanecer por todo o fim de semana em várias regiões do país&lt;/p&gt;
 &lt;p&gt;Pesquisa calcula tempo de vida saudável de acordo com a alimentação&lt;/p&gt;
-&lt;p&gt;Morre a atriz Brigitte Bardot, musa do cinema francês&lt;/p&gt;
-&lt;p&gt;Universidades vão engajar favelas em estudo sobre crise climática&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2025-12/padre-omar-reitor-do-santuario-cristo-redentor-faz-show-na-lagoa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Entidades financeiras defendem atuação do Banco Central no caso Master&lt;/p&gt;
+&lt;p&gt;Em temporada de cruzeiros, São Paulo emite alerta para o sarampo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2025-12/padre-omar-reitor-do-santuario-cristo-redentor-faz-show-na-lagoa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>reitor do Santuário Cristo Redentor, Padre Omar, realizará um show na noite deste sábado (27) em um dos cartões postais do Rio de Janeiro, a Lagoa Ro...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2025-12-27 18:18:00</wp:post_date>
       <wp:post_date_gmt>2025-12-27 18:18:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-27 18:18:00</wp:post_modified>
@@ -408,96 +500,6 @@ A validade da chamada “gratificação faroeste” no estado do Rio de Janeiro,
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/Ff3x84ZPCpECPHmvwW3-LbCl8MY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/27/padreomarinsta.jpg?itok=nS0w4rLA</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Bolsonaro passa por cirurgia após crise de soluço</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/bolsonaro-passa-por-cirurgia-apos-crise-de-soluco</link>
-      <pubDate>Sun, 28 Dec 2025 13:39:48 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/bolsonaro-passa-por-cirurgia-apos-crise-de-soluco#1008</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-Os médicos particulares de Jair Bolsonaro informaram que o ex-presidente passou por uma nova cirurgia neste sábado (...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PrAZUTqO7Y9PJ4tOu3tJeP7BTVk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-4.jpg?itok=wrARe7uR&quot; alt=&quot;Bolsonaro passa por cirurgia após crise de soluço&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Os médicos particulares de Jair Bolsonaro informaram que o ex-presidente passou por uma nova cirurgia neste sábado (27) após apresentar forte crise de soluço&lt;/p&gt;
-&lt;p&gt;Bolsonaro já está no quarto e se recupera do procedimento.&lt;/p&gt;
-&lt;p&gt;procedimento de bloqueio do lado direito do nervo frênico&lt;/p&gt;
-&lt;p&gt;, responsável pelo controle do diafragma. A cirurgia busca aliviar os sintomas de soluço permanente do ex-presidente.&lt;/p&gt;
-&lt;p&gt;Segundo o médico Mateus Saldanha, o&lt;/p&gt;
-&lt;p&gt;ex-presidente será acompanhado diariamente para verificar se o procedimento foi bem-sucedido&lt;/p&gt;
-&lt;p&gt;&quot;Todo o procedimento durou cerca de uma hora. O procedimento foi muito rápido. Não teve corte. Execução bem rápida&quot;, afirmou.&lt;/p&gt;
-&lt;p&gt;Os médicos de Bolsonaro também afirmaram que&lt;/p&gt;
-&lt;p&gt;Bolsonaro deve passar por um novo procedimento na próxima segunda-feira (29)&lt;/p&gt;
-&lt;p&gt;, quando será tratado o lado esquerdo do nervo frênico.&lt;/p&gt;
-&lt;p&gt;Os profissionais também mantiveram a&lt;/p&gt;
-&lt;p&gt;previsão de alta para o dia 31 de dezembro&lt;/p&gt;
-&lt;p&gt;Na quinta-feira (25), Bolsonaro&lt;/p&gt;
-&lt;p&gt;realizou outra cirurgia, para tratar uma hérnia inguinal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/bolsonaro-passa-por-cirurgia-apos-crise-de-soluco&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-Os médicos particulares de Jair Bolsonaro informaram que o ex-presidente passou por uma nova cirurgia neste sábado (...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2025-12-27 17:59:00</wp:post_date>
-      <wp:post_date_gmt>2025-12-27 17:59:00</wp:post_date_gmt>
-      <wp:post_modified>2025-12-27 17:59:00</wp:post_modified>
-      <wp:post_modified_gmt>2025-12-27 17:59:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/PrAZUTqO7Y9PJ4tOu3tJeP7BTVk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-4.jpg?itok=wrARe7uR</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Atlético-MG anuncia o lateral-esquerdo Renan Lodi</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2025-12/atletico-mg-anuncia-o-lateral-esquerdo-renan-lodi</link>
-      <pubDate>Sun, 28 Dec 2025 13:39:48 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2025-12/atletico-mg-anuncia-o-lateral-esquerdo-renan-lodi#1009</guid>
-      <description>© Divulgação/Atlético-MG/Direitos Reservados
-O Atlético-MG anunciou oficialmente, neste sábado (27), a contratação do lateral-esquerdo Renan Lodi. O ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/L2-z1hzt2bs9b_Pi5lW9RHpel-w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/27/g9mrdcvxuaau97l.jpg?itok=5GF4fQ2B&quot; alt=&quot;Atlético-MG anuncia o lateral-esquerdo Renan Lodi&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Divulgação/Atlético-MG/Direitos Reservados&lt;/p&gt;
-&lt;p&gt;O Atlético-MG anunciou oficialmente, neste sábado (27), a contratação do lateral-esquerdo Renan Lodi. O jogador de 27 anos de idade, que foi revelado pelo Athletico-PR, assinou um contrato de cinco anos com o Galo.&lt;/p&gt;
-&lt;p&gt;Além do Furacão, o jogador tem passagens por Atlético de Madrid (Espanha), Nottingham Forest (Inglaterra), Olympique de Marselha (França) e Al Hilal (Arábia Saudita). O lateral também soma 19 jogos pela seleção brasileira, tendo participado da disputa da Copa América de 2021.&lt;/p&gt;
-&lt;p&gt;“Fala Massa, aqui é o Renan Lodi, já estou aqui em Belo Horizonte, ansioso para encontrar todos vocês e dar o meu melhor. Um abração”, declarou o lateral em postagem nas redes sociais horas após a confirmação do acerto.&lt;/p&gt;
-&lt;p&gt;Dezembrite: sensação de cansaço atinge algumas pessoas no final do ano&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 18h30: Alerta vermelho! Onda de calor deve permanecer por todo o fim de semana em várias regiões do país&lt;/p&gt;
-&lt;p&gt;Pesquisa calcula tempo de vida saudável de acordo com a alimentação&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2025-12/atletico-mg-anuncia-o-lateral-esquerdo-renan-lodi&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Divulgação/Atlético-MG/Direitos Reservados
-O Atlético-MG anunciou oficialmente, neste sábado (27), a contratação do lateral-esquerdo Renan Lodi. O ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2025-12-27 17:33:00</wp:post_date>
-      <wp:post_date_gmt>2025-12-27 17:33:00</wp:post_date_gmt>
-      <wp:post_modified>2025-12-27 17:33:00</wp:post_modified>
-      <wp:post_modified_gmt>2025-12-27 17:33:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/L2-z1hzt2bs9b_Pi5lW9RHpel-w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/27/g9mrdcvxuaau97l.jpg?itok=5GF4fQ2B</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
