@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 29/12/2025</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 10:51 UTC</description>
-<lastBuildDate>Mon, 29 Dec 2025 10:51:05 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Mon, 29 Dec 2025 11:34:34 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Prefeitura promove 253 servidores da Guarda Municipal de Fortaleza</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/prefeitura-promove-253-servidores-da-guarda-municipal-de-fortaleza</link>
+<guid isPermaLink="false">fortaleza-20251229-0cf1cc4b9dce</guid>
+<pubDate>Mon, 29 Dec 2025 08:20:00 +0000</pubDate>
+<description>Prefeitura promove 253 servidores da Guarda Municipal de Fortaleza - Segunda, 29 Dezembro 2025 08:20</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" alt="Prefeitura promove 253 servidores da Guarda Municipal de Fortaleza" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Prefeitura realiza, nesta segunda-feira (29/12), a solenidade de promoção de 253 servidores da Guarda Municipal de Fortaleza (GMF) aos cargos de subinspetor e inspetor. A cerimônia será conduzida pelo prefeito Evandro Leitão, na sede do Centro Integrado de Segurança de Fortaleza (Cisfor), às 16h.</p>
+<p>Ao todo, 59 guardas municipais serão promovidos ao cargo de subinspetor e 194 subinspetores ascenderão ao cargo de inspetor. A iniciativa reforça o compromisso da gestão municipal com a valorização profissional e o fortalecimento da política de segurança cidadã.</p>
+<p>Com as promoções, a Guarda Municipal de Fortaleza passa a contar com 2.803 agentes, distribuídos entre guardas municipais, subinspetores e inspetores.</p>
+<p>A solenidade integra o conjunto de investimentos da Prefeitura voltados ao fortalecimento da GMF, incluindo o Pacto pela Segurança Cidadã, a implantação dos Pelotões das Regionais, a entrega de viaturas, motocicletas, equipamentos tecnológicos, além da integração com as forças estaduais de segurança.</p>
+<p><strong>Serviço</strong><br/>Solenidade de promoção de 253 servidores da Guarda Municipal de Fortaleza<br/>Data: segunda-feira (29/12)<br/>Horário: 16h<br/>Local: Centro Integrado de Segurança de Fortaleza (Cisfor) (Av. Jovita Feitosa, 1264 - Parquelândia)</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/prefeitura-promove-253-servidores-da-guarda-municipal-de-fortaleza" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" medium="image">
+<media:title>Prefeitura promove 253 servidores da Guarda Municipal de Fortaleza</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
