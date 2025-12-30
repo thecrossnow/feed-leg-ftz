@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Tue, 30 Dec 2025 03:54:51 +0000</pubDate>
+    <pubDate>Tue, 30 Dec 2025 05:01:48 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,64 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Rio tem previsão de calor e chuvas isoladas nos próximos dias</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/rio-tem-previsao-de-calor-e-chuvas-isoladas-nos-proximos-dias</link>
+      <pubDate>Tue, 30 Dec 2025 05:01:48 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/rio-tem-previsao-de-calor-e-chuvas-isoladas-nos-proximos-dias#1000</guid>
+      <description>© Fernando Frazão/Agência Brasil
+A segunda-feira na capital fluminensefoi marcadapelo
+aumento da nebulosidade ao longo do dia
+A temperatura máxima re...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/rONtoVHhSWVhnOORCMF21hHk-tE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/26/_d6a4504_01_01.jpg?itok=WBuazZwN&quot; alt=&quot;Rio tem previsão de calor e chuvas isoladas nos próximos dias&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;A segunda-feira na capital fluminensefoi marcadapelo&lt;/p&gt;
+&lt;p&gt;aumento da nebulosidade ao longo do dia&lt;/p&gt;
+&lt;p&gt;A temperatura máxima registrada na cidade foi de 35,6 graus Celsius (ºC), na Vila Militar&lt;/p&gt;
+&lt;p&gt;, de acordo com o Instituto Nacional de Meteorologia (Inmet). A mínima, de 21,1 ºC, foi registrada às 2h,no bairro de Jacarepaguá, na zona sudoeste da cidade. De acordo com a meteorologia, há previsão de pancadas de chuva rápida agora à noite em áreas isoladas da cidade.&lt;/p&gt;
+&lt;p&gt;Para esta terça-feira (30), a previsão do Sistema Alerta Rioé de céu parcialmente nublado a nublado com pancadas de chuva isoladas durante a tarde e à noite. A temperatura máxima deveficarem torno de36 ºC.&lt;/p&gt;
+&lt;p&gt;Na quarta-feira (31), dia da virada do ano, a previsão não tem grande alteração.&lt;/p&gt;
+&lt;p&gt;O céu ficará parcialmente nublado a nublado com pancadas de chuva fracas no final da tarde e noite.&lt;/p&gt;
+&lt;p&gt;O vento soprará na direção sudeste, e a temperatura máxima prevista é de 37 ºC.&lt;/p&gt;
+&lt;p&gt;deve-se a uma massa de ar quente e persistente nas regiões Sudeste e Centro-Oeste do país.O fator principal para a persistência do calor é um sistema de alta pressão nos níveis médios da atmosfera que atua como uma barreira, inibindo a formação e o avanço de frentes frias e áreas de instabilidade para o interior do país.&lt;/p&gt;
+&lt;p&gt;Sarampo: temporada de cruzeiros preocupa autoridades de São Paulo&lt;/p&gt;
+&lt;p&gt;Em Fortaleza, trabalhadoras autônomas apagam livros escolares&lt;/p&gt;
+&lt;p&gt;Rio tem previsão de calor e chuvas isoladas nos próximos dias&lt;/p&gt;
+&lt;p&gt;Helicóptero da Band sofre pane e faz pouso de emergência em Guarulhos&lt;/p&gt;
+&lt;p&gt;Programa conclui formação de 109 mil agentes de saúde em todo país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/rio-tem-previsao-de-calor-e-chuvas-isoladas-nos-proximos-dias&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+A segunda-feira na capital fluminensefoi marcadapelo
+aumento da nebulosidade ao longo do dia
+A temperatura máxima re...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2025-12-29 21:50:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-29 21:50:00</wp:post_date_gmt>
+      <wp:post_modified>2025-12-29 21:50:00</wp:post_modified>
+      <wp:post_modified_gmt>2025-12-29 21:50:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/rONtoVHhSWVhnOORCMF21hHk-tE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/26/_d6a4504_01_01.jpg?itok=WBuazZwN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Helicóptero da Band sofre pane e faz pouso de emergência em Guarulhos</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/helicoptero-da-band-sofre-pane-e-faz-pouso-de-emergencia-em-guarulhos</link>
-      <pubDate>Tue, 30 Dec 2025 03:54:51 +0000</pubDate>
+      <pubDate>Tue, 30 Dec 2025 05:01:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/helicoptero-da-band-sofre-pane-e-faz-pouso-de-emergencia-em-guarulhos#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/helicoptero-da-band-sofre-pane-e-faz-pouso-de-emergencia-em-guarulhos#1001</guid>
       <description>Um helicóptero da Band sofreu uma pane nesta segunda-feira(29)
 próximo da Rodovia Presidente Dutra, e o
 piloto da aeronave precisou fazer um pouso de...</description>
@@ -43,13 +96,11 @@ piloto da aeronave precisou fazer um pouso de...</description>
 &lt;p&gt;Por meio de um comunicado à imprensa,&lt;/p&gt;
 &lt;p&gt;a Band confirmou que a aeronave está com a manutenção e certificações em dia.&lt;/p&gt;
 &lt;p&gt;Sarampo: temporada de cruzeiros preocupa autoridades de São Paulo&lt;/p&gt;
-&lt;p&gt;Em Fortaleza, trabalhadoras autônomas apagam livros escolares&lt;/p&gt;
-&lt;p&gt;Rio tem previsão de calor e chuvas isoladas nos próximos dias&lt;/p&gt;
-&lt;p&gt;Helicóptero da Band sofre pane e faz pouso de emergência em Guarulhos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/helicoptero-da-band-sofre-pane-e-faz-pouso-de-emergencia-em-guarulhos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Em Fortaleza, trabalhadoras autônomas apagam livros escolares&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/helicoptero-da-band-sofre-pane-e-faz-pouso-de-emergencia-em-guarulhos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Um helicóptero da Band sofreu uma pane nesta segunda-feira(29)
 próximo da Rodovia Presidente Dutra, e o
 piloto da aeronave precisou fazer um pouso de...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2025-12-29 20:15:00</wp:post_date>
       <wp:post_date_gmt>2025-12-29 20:15:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-29 20:15:00</wp:post_modified>
@@ -75,9 +126,9 @@ piloto da aeronave precisou fazer um pouso de...</excerpt:encoded>
     <item>
       <title>Programa conclui formação de 109 mil agentes de saúde em todo país</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/programa-conclui-formacao-de-109-mil-agentes-de-saude-em-todo-pais</link>
-      <pubDate>Tue, 30 Dec 2025 03:54:51 +0000</pubDate>
+      <pubDate>Tue, 30 Dec 2025 05:01:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/programa-conclui-formacao-de-109-mil-agentes-de-saude-em-todo-pais#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/programa-conclui-formacao-de-109-mil-agentes-de-saude-em-todo-pais#1002</guid>
       <description>© Fernando Frazão/Agência Brasil
 O Ministério da Saúde anunciou nesta segunda-feira (29) a conclusão da formação de 109 mil Agentes Comunitários de S...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/B6lyp07iOt9HA9CBJb14OBdGSkU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/24/_d6a1662-2.jpg?itok=v_TjtYtO&quot; alt=&quot;Programa conclui formação de 109 mil agentes de saúde em todo país&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -88,16 +139,10 @@ O Ministério da Saúde anunciou nesta segunda-feira (29) a conclusão da forma�
 &lt;p&gt;O Ministério da Saúde detalhou que mais de 12 mil profissionais participaram do processo, como tutores, preceptores e assistentes locais e regionais. O Mais Saúde com Agente teve formato semipresencial e carga horária de mais de 1,2 mil horas com duração de dez meses, segundo a pasta. Nesta segunda turma do programa, os cursos incluíram novas disciplinas relacionadas à equidade e ao combate às desigualdades, focando em aperfeiçoar o acolhimento à população.&lt;/p&gt;
 &lt;p&gt;O Mais Saúde com Agente é uma ação do Ministério da Saúde, realizada pela Secretaria de Gestão do Trabalho e da Educação na Saúde da pasta, em parceria com o Conselho Nacional de Secretarias Municipais de Saúde, a Universidade Federal do Rio Grande do Sul, a Escola Politécnica de Saúde Joaquim Venâncio e as Escolas de Saúde do SUS.&lt;/p&gt;
 &lt;p&gt;Sarampo: temporada de cruzeiros preocupa autoridades de São Paulo&lt;/p&gt;
-&lt;p&gt;Em Fortaleza, trabalhadoras autônomas apagam livros escolares&lt;/p&gt;
-&lt;p&gt;Rio tem previsão de calor e chuvas isoladas nos próximos dias&lt;/p&gt;
-&lt;p&gt;Helicóptero da Band sofre pane e faz pouso de emergência em Guarulhos&lt;/p&gt;
-&lt;p&gt;Programa conclui formação de 109 mil agentes de saúde em todo país&lt;/p&gt;
-&lt;p&gt;Chuvas deixam São Paulo em estado de atenção; 31 mil ficam sem energia&lt;/p&gt;
-&lt;p&gt;Governo de SP anuncia aumento nas passagens de metrô e de trens&lt;/p&gt;
-&lt;p&gt;Bolsonaro segue em observação e pode ter alta na quinta-feira&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/programa-conclui-formacao-de-109-mil-agentes-de-saude-em-todo-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Em Fortaleza, trabalhadoras autônomas apagam livros escolares&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/programa-conclui-formacao-de-109-mil-agentes-de-saude-em-todo-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 O Ministério da Saúde anunciou nesta segunda-feira (29) a conclusão da formação de 109 mil Agentes Comunitários de S...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2025-12-29 19:51:00</wp:post_date>
       <wp:post_date_gmt>2025-12-29 19:51:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-29 19:51:00</wp:post_modified>
@@ -123,9 +168,9 @@ O Ministério da Saúde anunciou nesta segunda-feira (29) a conclusão da forma�
     <item>
       <title>Chuvas deixam São Paulo em estado de atenção; 31 mil ficam sem energia</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/chuvas-deixam-sao-paulo-em-estado-de-atencao-31-mil-ficam-sem-energia</link>
-      <pubDate>Tue, 30 Dec 2025 03:54:51 +0000</pubDate>
+      <pubDate>Tue, 30 Dec 2025 05:01:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/chuvas-deixam-sao-paulo-em-estado-de-atencao-31-mil-ficam-sem-energia#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/chuvas-deixam-sao-paulo-em-estado-de-atencao-31-mil-ficam-sem-energia#1003</guid>
       <description>As fortes chuvas que que caíram no final da tarde de hoje (29) deixaram a capital paulista em estado de atenção para alagamentos. Em razão das chuvas...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cTT8Memie8aQurc3M8HroilDjbo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/09/0g0a8783.jpg?itok=fm5QTijb&quot; alt=&quot;Chuvas deixam São Paulo em estado de atenção; 31 mil ficam sem energia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;As fortes chuvas que que caíram no final da tarde de hoje (29) deixaram a capital paulista em estado de atenção para alagamentos. Em razão das chuvas, um alerta da Defesa Civil foi encaminhado aos celulares de moradores da cidade de São Paulo.&lt;/p&gt;
@@ -144,7 +189,7 @@ O Ministério da Saúde anunciou nesta segunda-feira (29) a conclusão da forma�
 &lt;p&gt;Programa conclui formação de 109 mil agentes de saúde em todo país&lt;/p&gt;
 &lt;p&gt;Chuvas deixam São Paulo em estado de atenção; 31 mil ficam sem energia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/chuvas-deixam-sao-paulo-em-estado-de-atencao-31-mil-ficam-sem-energia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>As fortes chuvas que que caíram no final da tarde de hoje (29) deixaram a capital paulista em estado de atenção para alagamentos. Em razão das chuvas...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2025-12-29 19:17:00</wp:post_date>
       <wp:post_date_gmt>2025-12-29 19:17:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-29 19:17:00</wp:post_modified>
@@ -168,56 +213,9 @@ O Ministério da Saúde anunciou nesta segunda-feira (29) a conclusão da forma�
       </wp:postmeta>
     </item>
     <item>
-      <title>Governo de SP anuncia aumento nas passagens de metrô e de trens</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/governo-de-sp-anuncia-aumento-nas-passagens-de-metro-e-de-trens</link>
-      <pubDate>Tue, 30 Dec 2025 03:54:51 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/governo-de-sp-anuncia-aumento-nas-passagens-de-metro-e-de-trens#1003</guid>
-      <description>O governo de São Paulo anunciou hoje (29) que vai aumentar o valor das passagens do sistema metroferroviário da região metropolitana de São Paulo, fo...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/aBNhKwBA7doOiDUfsfOei0pnHjg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rvrsa_abr_ebc_mobilidade_urbana_6.jpg?itok=bApnFlRW&quot; alt=&quot;Governo de SP anuncia aumento nas passagens de metrô e de trens&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O governo de São Paulo anunciou hoje (29) que vai aumentar o valor das passagens do sistema metroferroviário da região metropolitana de São Paulo, formado por trens e pelo metrô.&lt;/p&gt;
-&lt;p&gt;Com isso, as passagens vãodos atuais R$ 5,20 para R$ 5,40. O novo valor da tarifa terá início a partir do dia 6 de janeiro.&lt;/p&gt;
-&lt;p&gt;Segundo o governo paulista, o reajuste é de 3,85%, “percentual inferior à inflação do período, estimada em 4,46% pelo IPC-Fipe”&lt;/p&gt;
-&lt;p&gt;“O objetivo do ajuste é garantir a eficiência, a segurança e a qualidade do serviço prestado à população, assegurando a continuidade da operação do sistema de transporte público metropolitano. Mesmo com o ajuste abaixo da inflação e para garantir este valor da tarifa, o governo de São Paulo ainda aportará aproximadamente R$ 5,1 bilhões no sistema metroferroviário”, informa o comunicado do governo de São Paulo.&lt;/p&gt;
-&lt;p&gt;Além do reajuste no metrô e nos trens, haverá&lt;/p&gt;
-&lt;p&gt;aumento no preço das passagens dos ônibus&lt;/p&gt;
-&lt;p&gt;que circulam na capital paulista. Neste caso, as tarifas vão passar de R$ 5 para R$ 5,30&lt;/p&gt;
-&lt;p&gt;. Segundo anúncio da prefeitura de São Paulo, o reajuste nos ônibus também começa a valer a partir do dia 6 de janeiro.&lt;/p&gt;
-&lt;p&gt;Sarampo: temporada de cruzeiros preocupa autoridades de São Paulo&lt;/p&gt;
-&lt;p&gt;Em Fortaleza, trabalhadoras autônomas apagam livros escolares&lt;/p&gt;
-&lt;p&gt;Rio tem previsão de calor e chuvas isoladas nos próximos dias&lt;/p&gt;
-&lt;p&gt;Helicóptero da Band sofre pane e faz pouso de emergência em Guarulhos&lt;/p&gt;
-&lt;p&gt;Programa conclui formação de 109 mil agentes de saúde em todo país&lt;/p&gt;
-&lt;p&gt;Chuvas deixam São Paulo em estado de atenção; 31 mil ficam sem energia&lt;/p&gt;
-&lt;p&gt;Governo de SP anuncia aumento nas passagens de metrô e de trens&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/governo-de-sp-anuncia-aumento-nas-passagens-de-metro-e-de-trens&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O governo de São Paulo anunciou hoje (29) que vai aumentar o valor das passagens do sistema metroferroviário da região metropolitana de São Paulo, fo...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
-      <wp:post_date>2025-12-29 18:55:00</wp:post_date>
-      <wp:post_date_gmt>2025-12-29 18:55:00</wp:post_date_gmt>
-      <wp:post_modified>2025-12-29 18:55:00</wp:post_modified>
-      <wp:post_modified_gmt>2025-12-29 18:55:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/aBNhKwBA7doOiDUfsfOei0pnHjg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rvrsa_abr_ebc_mobilidade_urbana_6.jpg?itok=bApnFlRW</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
       <title>Bolsonaro segue em observação e pode ter alta na quinta-feira</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/bolsonaro-segue-em-observacao-e-pode-ter-alta-na-quinta-feira</link>
-      <pubDate>Tue, 30 Dec 2025 03:54:51 +0000</pubDate>
+      <pubDate>Tue, 30 Dec 2025 05:01:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
       <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2025-12/bolsonaro-segue-em-observacao-e-pode-ter-alta-na-quinta-feira#1004</guid>
       <description>© Marcelo Camargo/Agência Brasil
@@ -264,11 +262,58 @@ O ex-presidente Jair Bolsonaro permanecerá em observação, por pelo menos 48 h
       </wp:postmeta>
     </item>
     <item>
+      <title>Governo de SP anuncia aumento nas passagens de metrô e de trens</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/governo-de-sp-anuncia-aumento-nas-passagens-de-metro-e-de-trens</link>
+      <pubDate>Tue, 30 Dec 2025 05:01:48 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/governo-de-sp-anuncia-aumento-nas-passagens-de-metro-e-de-trens#1005</guid>
+      <description>O governo de São Paulo anunciou hoje (29) que vai aumentar o valor das passagens do sistema metroferroviário da região metropolitana de São Paulo, fo...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/aBNhKwBA7doOiDUfsfOei0pnHjg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rvrsa_abr_ebc_mobilidade_urbana_6.jpg?itok=bApnFlRW&quot; alt=&quot;Governo de SP anuncia aumento nas passagens de metrô e de trens&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O governo de São Paulo anunciou hoje (29) que vai aumentar o valor das passagens do sistema metroferroviário da região metropolitana de São Paulo, formado por trens e pelo metrô.&lt;/p&gt;
+&lt;p&gt;Com isso, as passagens vãodos atuais R$ 5,20 para R$ 5,40. O novo valor da tarifa terá início a partir do dia 6 de janeiro.&lt;/p&gt;
+&lt;p&gt;Segundo o governo paulista, o reajuste é de 3,85%, “percentual inferior à inflação do período, estimada em 4,46% pelo IPC-Fipe”&lt;/p&gt;
+&lt;p&gt;“O objetivo do ajuste é garantir a eficiência, a segurança e a qualidade do serviço prestado à população, assegurando a continuidade da operação do sistema de transporte público metropolitano. Mesmo com o ajuste abaixo da inflação e para garantir este valor da tarifa, o governo de São Paulo ainda aportará aproximadamente R$ 5,1 bilhões no sistema metroferroviário”, informa o comunicado do governo de São Paulo.&lt;/p&gt;
+&lt;p&gt;Além do reajuste no metrô e nos trens, haverá&lt;/p&gt;
+&lt;p&gt;aumento no preço das passagens dos ônibus&lt;/p&gt;
+&lt;p&gt;que circulam na capital paulista. Neste caso, as tarifas vão passar de R$ 5 para R$ 5,30&lt;/p&gt;
+&lt;p&gt;. Segundo anúncio da prefeitura de São Paulo, o reajuste nos ônibus também começa a valer a partir do dia 6 de janeiro.&lt;/p&gt;
+&lt;p&gt;Sarampo: temporada de cruzeiros preocupa autoridades de São Paulo&lt;/p&gt;
+&lt;p&gt;Em Fortaleza, trabalhadoras autônomas apagam livros escolares&lt;/p&gt;
+&lt;p&gt;Rio tem previsão de calor e chuvas isoladas nos próximos dias&lt;/p&gt;
+&lt;p&gt;Helicóptero da Band sofre pane e faz pouso de emergência em Guarulhos&lt;/p&gt;
+&lt;p&gt;Programa conclui formação de 109 mil agentes de saúde em todo país&lt;/p&gt;
+&lt;p&gt;Chuvas deixam São Paulo em estado de atenção; 31 mil ficam sem energia&lt;/p&gt;
+&lt;p&gt;Governo de SP anuncia aumento nas passagens de metrô e de trens&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/governo-de-sp-anuncia-aumento-nas-passagens-de-metro-e-de-trens&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O governo de São Paulo anunciou hoje (29) que vai aumentar o valor das passagens do sistema metroferroviário da região metropolitana de São Paulo, fo...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2025-12-29 18:55:00</wp:post_date>
+      <wp:post_date_gmt>2025-12-29 18:55:00</wp:post_date_gmt>
+      <wp:post_modified>2025-12-29 18:55:00</wp:post_modified>
+      <wp:post_modified_gmt>2025-12-29 18:55:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/aBNhKwBA7doOiDUfsfOei0pnHjg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rvrsa_abr_ebc_mobilidade_urbana_6.jpg?itok=bApnFlRW</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Prefeitura de SP anuncia aumento nas passagens de ônibus para R$ 5,30</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/prefeitura-de-sp-anuncia-aumento-nas-passagens-de-onibus-para-r-530</link>
-      <pubDate>Tue, 30 Dec 2025 03:54:51 +0000</pubDate>
+      <pubDate>Tue, 30 Dec 2025 05:01:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/prefeitura-de-sp-anuncia-aumento-nas-passagens-de-onibus-para-r-530#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/prefeitura-de-sp-anuncia-aumento-nas-passagens-de-onibus-para-r-530#1006</guid>
       <description>A partir do dia 6de janeiro, os usuários de transporte público vão pagar mais para andar de ônibus na cidade de São Paulo.
 A prefeitura de São Paulo ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zuHNwqjWwJL0ZMcVym_W1N1SGB8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/23/0g0a3121.jpg?itok=BM5c6cT5&quot; alt=&quot;Prefeitura de SP anuncia aumento nas passagens de ônibus para R$ 5,30&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -289,7 +334,7 @@ A prefeitura de São Paulo ...</description>
 &lt;p&gt;Helicóptero da Band sofre pane e faz pouso de emergência em Guarulhos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/prefeitura-de-sp-anuncia-aumento-nas-passagens-de-onibus-para-r-530&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A partir do dia 6de janeiro, os usuários de transporte público vão pagar mais para andar de ônibus na cidade de São Paulo.
 A prefeitura de São Paulo ...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2025-12-29 18:13:00</wp:post_date>
       <wp:post_date_gmt>2025-12-29 18:13:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-29 18:13:00</wp:post_modified>
@@ -315,9 +360,9 @@ A prefeitura de São Paulo ...</excerpt:encoded>
     <item>
       <title>Ocupação hoteleira para réveillon do Rio tem média superior a 87%</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/ocupacao-hoteleira-para-reveillon-do-rio-tem-media-superior-87</link>
-      <pubDate>Tue, 30 Dec 2025 03:54:51 +0000</pubDate>
+      <pubDate>Tue, 30 Dec 2025 05:01:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/ocupacao-hoteleira-para-reveillon-do-rio-tem-media-superior-87#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/ocupacao-hoteleira-para-reveillon-do-rio-tem-media-superior-87#1007</guid>
       <description>Dados divulgados nesta segunda-feira (29)pelo Sindicato dos Meios de Hospedagem do Município do Rio de Janeiro (HotéisRIO) mostram que ocupação hotel...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QnEtLECMCYag0hDWmHaKMq9ugNw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/01/reveillon_2025.jpg?itok=TsZagKBz&quot; alt=&quot;Ocupação hoteleira para réveillon do Rio tem média superior a 87%&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Dados divulgados nesta segunda-feira (29)pelo Sindicato dos Meios de Hospedagem do Município do Rio de Janeiro (HotéisRIO) mostram que ocupação hoteleira está em alta para o&lt;/p&gt;
@@ -336,7 +381,7 @@ A prefeitura de São Paulo ...</excerpt:encoded>
 &lt;p&gt;Programa conclui formação de 109 mil agentes de saúde em todo país&lt;/p&gt;
 &lt;p&gt;Chuvas deixam São Paulo em estado de atenção; 31 mil ficam sem energia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/ocupacao-hoteleira-para-reveillon-do-rio-tem-media-superior-87&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Dados divulgados nesta segunda-feira (29)pelo Sindicato dos Meios de Hospedagem do Município do Rio de Janeiro (HotéisRIO) mostram que ocupação hotel...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2025-12-29 17:45:00</wp:post_date>
       <wp:post_date_gmt>2025-12-29 17:45:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-29 17:45:00</wp:post_modified>
@@ -362,9 +407,9 @@ A prefeitura de São Paulo ...</excerpt:encoded>
     <item>
       <title>Termina cirurgia de Bolsonaro para bloquear nervo do diafragma</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/termina-cirurgia-de-bolsonaro-para-bloquear-nervo-do-diafragma</link>
-      <pubDate>Tue, 30 Dec 2025 03:54:51 +0000</pubDate>
+      <pubDate>Tue, 30 Dec 2025 05:01:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/termina-cirurgia-de-bolsonaro-para-bloquear-nervo-do-diafragma#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/termina-cirurgia-de-bolsonaro-para-bloquear-nervo-do-diafragma#1008</guid>
       <description>O ex-presidente Jair Bolsonaro passou por nova cirurgia nesta segunda-feira (29), em Brasília, para tentar conter crises de soluços. A intervenção fo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/HwlNakajp5Y6T7ZEy4fhw2H1Fxk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/26/lula5970.jpg?itok=8OiW4zRI&quot; alt=&quot;Termina cirurgia de Bolsonaro para bloquear nervo do diafragma&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O ex-presidente Jair Bolsonaro passou por nova cirurgia nesta segunda-feira (29), em Brasília, para tentar conter crises de soluços. A intervenção foi concluída pouco antes das 15h, informou a esposa do ex-presidente, Michelle Bolsonaro, em postagem nas redes sociais.&lt;/p&gt;
@@ -383,7 +428,7 @@ A prefeitura de São Paulo ...</excerpt:encoded>
 &lt;p&gt;Helicóptero da Band sofre pane e faz pouso de emergência em Guarulhos&lt;/p&gt;
 &lt;p&gt;Programa conclui formação de 109 mil agentes de saúde em todo país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/termina-cirurgia-de-bolsonaro-para-bloquear-nervo-do-diafragma&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ex-presidente Jair Bolsonaro passou por nova cirurgia nesta segunda-feira (29), em Brasília, para tentar conter crises de soluços. A intervenção fo...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2025-12-29 17:25:00</wp:post_date>
       <wp:post_date_gmt>2025-12-29 17:25:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-29 17:25:00</wp:post_modified>
@@ -409,9 +454,9 @@ A prefeitura de São Paulo ...</excerpt:encoded>
     <item>
       <title>Veja dicas para se proteger da onda de calor extremo</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/saiba-como-se-proteger-da-onda-de-calor-extremo</link>
-      <pubDate>Tue, 30 Dec 2025 03:54:51 +0000</pubDate>
+      <pubDate>Tue, 30 Dec 2025 05:01:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/saiba-como-se-proteger-da-onda-de-calor-extremo#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/saiba-como-se-proteger-da-onda-de-calor-extremo#1009</guid>
       <description>© Fernando Frazão/Agência Brasil
 que afeta diversos estados do país neste final de ano, em especial as regiões Sudeste e Centro-Oeste, traz riscos re...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MfY2wxE3XWlnH_2GLbsgXQNRnlA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/26/_d6a4947.jpg?itok=YnXecA_u&quot; alt=&quot;Veja dicas para se proteger da onda de calor extremo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -432,7 +477,7 @@ que afeta diversos estados do país neste final de ano, em especial as regiões 
 &lt;p&gt;evite permanecer em ambientes fechados e sem circulação de ar, onde o calor se acumula e pode ser mais intenso do que ao ar livre.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2025-12/saiba-como-se-proteger-da-onda-de-calor-extremo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 que afeta diversos estados do país neste final de ano, em especial as regiões Sudeste e Centro-Oeste, traz riscos re...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2025-12-29 17:20:00</wp:post_date>
       <wp:post_date_gmt>2025-12-29 17:20:00</wp:post_date_gmt>
       <wp:post_modified>2025-12-29 17:20:00</wp:post_modified>
@@ -453,55 +498,6 @@ que afeta diversos estados do país neste final de ano, em especial as regiões 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/MfY2wxE3XWlnH_2GLbsgXQNRnlA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/26/_d6a4947.jpg?itok=YnXecA_u</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Saiba como registrar veículo ciclomotor; prazo vai até quarta-feira</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/saiba-como-registrar-veiculo-ciclomotor-prazo-vai-ate-quarta-feira</link>
-      <pubDate>Tue, 30 Dec 2025 03:54:51 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/saiba-como-registrar-veiculo-ciclomotor-prazo-vai-ate-quarta-feira#1009</guid>
-      <description>© 27/07/2012/Tânia Rêgo/Agência Brasil
-Os proprietários de ciclomotores de todo o país têm até quarta-feira (31) para registrar seus veículos no Depa...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zqQy7xFFNCoRDPMPzwtHK57g4UQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/27_07_2012_motociclistas_motos1305200324.jpg?itok=uapyHMjq&quot; alt=&quot;Saiba como registrar veículo ciclomotor; prazo vai até quarta-feira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© 27/07/2012/Tânia Rêgo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Os proprietários de ciclomotores de todo o país têm até quarta-feira (31) para registrar seus veículos no Departamento Estadual de Trânsito (Detran) da respectiva unidade da Federação.&lt;/p&gt;
-&lt;p&gt;Após o prazo para regularização, serão exigidos o registro, o emplacamento do veículo, o licenciamento anual e a habilitação do condutor para o veículo circular pelas vias públicas.&lt;/p&gt;
-&lt;p&gt;As regras e o prazo foram definidos pela&lt;/p&gt;
-&lt;p&gt;do Conselho Nacional de Trânsito (Contran), publicada em junho de 2023.&lt;/p&gt;
-&lt;p&gt;De acordo com a Resolução nº 996/2023, os ciclomotores são os veículos de duas ou três rodas com motor de combustão interna de até 50 cilindradas (popularmente chamadas de cinquentinhas) ou com motor elétrico com potência máxima de 4 quilowatts (kW) e com velocidade de fabricação limitada a 50 quilômetros/hora (km/h).&lt;/p&gt;
-&lt;p&gt;Os veículos que ultrapassam esses limites (cuja cilindrada, potência ou velocidade) são classificados como motocicletas, motonetas ou triciclos e já têm as respectivas regras definidas no Código de Trânsito Brasileiro (CTB), exigindo placa e Carteira Nacional de Habilitação (CNH) ou Autorização para Conduzir Ciclomotores (ACC).&lt;/p&gt;
-&lt;p&gt;Para pilotar ciclomotores, é exigida a Autorização para Conduzir Ciclomotores (ACC) ou Carteira Nacional de Habilitação (CNH) na categoria A, documento mais abrangente que autoriza o cidadão habilitado a conduzir veículos motorizados de duas ou três rodas, de quaisquer cilindradas.&lt;/p&gt;
-&lt;p&gt;Já o processo de cadastro no Registro Nacional de Veículos Automotores (Renavam) e licenciamento do ciclomotor pode variar conforme o Detran.&lt;/p&gt;
-&lt;p&gt;Para realizá-lo, geralmente, o protocolo deve ser iniciado online, diretamente no portal do Detran da unidade da Federação. E terminará presencialmente, pois é necessário agendar atendimento no órgão de trânsito estadual para apresentar a seguinte documentação:&lt;/p&gt;
-&lt;p&gt;nota fiscal do veículo ou declaração de procedência, constando a informação sobre a potência do motor;&lt;/p&gt;
-&lt;p&gt;documento de identificação do proprietário com Cadastro de Pessoa Física (CPF) ou Cadastro Nacional de Pessoa Física (CNPJ) e documentos do representante legal;&lt;/p&gt;
-&lt;p&gt;Certificado de Adequação à Legislação de Trânsito (CAT);&lt;/p&gt;
-&lt;p&gt;Código específico de marca/modelo/versão;&lt;/p&gt;
-&lt;p&gt;laudo de vistoria, com número de motor.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2025-12/saiba-como-registrar-veiculo-ciclomotor-prazo-vai-ate-quarta-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© 27/07/2012/Tânia Rêgo/Agência Brasil
-Os proprietários de ciclomotores de todo o país têm até quarta-feira (31) para registrar seus veículos no Depa...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2025-12-29 17:00:00</wp:post_date>
-      <wp:post_date_gmt>2025-12-29 17:00:00</wp:post_date_gmt>
-      <wp:post_modified>2025-12-29 17:00:00</wp:post_modified>
-      <wp:post_modified_gmt>2025-12-29 17:00:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/zqQy7xFFNCoRDPMPzwtHK57g4UQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/27_07_2012_motociclistas_motos1305200324.jpg?itok=uapyHMjq</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
