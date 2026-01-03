@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 03 Jan 2026 11:34:52 +0000</pubDate>
+    <pubDate>Sat, 03 Jan 2026 13:42:12 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,109 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>TV Brasil estreia série sobre riquezas turísticas nacionais</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tv-brasil-estreia-serie-sobre-riquezas-turisticas-nacionais</link>
+      <pubDate>Sat, 03 Jan 2026 13:42:12 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tv-brasil-estreia-serie-sobre-riquezas-turisticas-nacionais#1000</guid>
+      <description>ATV Brasillança a série documental inédita
+neste sábado (3), às 18h30. Com foco na diversidade cultural e no potencial turístico no país, o conteúdo ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UfQ91hlNqZNBRjL8ymin88z_PmE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/02/olhar-brasil-serra-da-capivara-08-credito-divulgacao-tv-brasil.jpg?itok=2TsCiOcp&quot; alt=&quot;TV Brasil estreia série sobre riquezas turísticas nacionais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;ATV Brasillança a série documental inédita&lt;/p&gt;
+&lt;p&gt;neste sábado (3), às 18h30. Com foco na diversidade cultural e no potencial turístico no país, o conteúdo original é a primeira coprodução realizada pelaEmpresa Brasil de Comunicação (EBC)e por emissoras daRede Nacional de Comunicação Pública (RNCP)&lt;/p&gt;
+&lt;p&gt;Com dez programas de 26 minutos, o projeto busca fortalecer a produção audiovisual regional e as características que diferenciam os destinos turísticos nas cinco regiões do território nacional.&lt;/p&gt;
+&lt;p&gt;O seriado foi desenvolvido a partir do edital lançado pelaEBCem 2024 que recebeu 36 inscrições.&lt;/p&gt;
+&lt;p&gt;Cada documentário atende às linhas temáticas da chamada pública relacionadas ao fomento do turismo&lt;/p&gt;
+&lt;p&gt;. Repleta de sotaques variados, as edições do programa destacam uma perspectiva singular sobre paisagens, histórias e modos de vida que revelam e valorizam a biodiversidade e os ecossistemas do país.&lt;/p&gt;
+&lt;p&gt;A primeira temporada da sérieOlhar Brasiltambém poderá ser acompanhada sob demanda. Os dez episódios da nova bora ficam disponíveis no&lt;/p&gt;
+&lt;p&gt;A atração que abre a sequência visita aSerra da Capivara, no Piauí.&lt;/p&gt;
+&lt;p&gt;Os destinos dos programas são a&lt;/p&gt;
+&lt;p&gt;, no litoral do Espírito Santo; as&lt;/p&gt;
+&lt;p&gt;, que ocupa diversos estados; a&lt;/p&gt;
+&lt;p&gt;, em Goiás; a gastronomia catarinense em&lt;/p&gt;
+&lt;p&gt;Com profundidade, respeito e beleza, o seriado reforça a diversidade regional brasileira ao ampliar o alcance das vozes locais.&lt;/p&gt;
+&lt;p&gt;Com narração dos profissionais das emissoras parceiras, o programaOlhar Brasilé contado por quem vive em cada território, o que fortalece a pluralidade do canal público.&lt;/p&gt;
+&lt;p&gt;Os episódios percorrem diferentes lugares para apresentar desde patrimônio arqueológico até experiências de turismo comunitário e gastronômico, com a valorização das rotas de aventura, além do conteúdo histórico e das tradições regionais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tv-brasil-estreia-serie-sobre-riquezas-turisticas-nacionais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>ATV Brasillança a série documental inédita
+neste sábado (3), às 18h30. Com foco na diversidade cultural e no potencial turístico no país, o conteúdo ...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-03 09:29:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-03 09:29:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-03 09:29:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-03 09:29:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/UfQ91hlNqZNBRjL8ymin88z_PmE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/02/olhar-brasil-serra-da-capivara-08-credito-divulgacao-tv-brasil.jpg?itok=2TsCiOcp</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Vice-presidente da Venezuela exige dos EUA prova de vida de Maduro</title>
+      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/vice-presidente-da-venezuela-exige-dos-eua-prova-de-vida-de-maduro</link>
+      <pubDate>Sat, 03 Jan 2026 13:42:12 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/vice-presidente-da-venezuela-exige-dos-eua-prova-de-vida-de-maduro#1001</guid>
+      <description>© Mira Flores/Reuters/Proibida reprodução
+A vice-presidente da Venezuela, Delcy Rodriguez, exigiu na manhã deste sábado (03)provas de vida do preside...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kqrl1l21MkfnckYEj_9BIj021oY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/03/2026-01-03t110404z_1_lynxmpem0205o_rtroptp_4_usa-venezuela.jpg?itok=iCHeovEz&quot; alt=&quot;Vice-presidente da Venezuela exige dos EUA prova de vida de Maduro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Mira Flores/Reuters/Proibida reprodução&lt;/p&gt;
+&lt;p&gt;A vice-presidente da Venezuela, Delcy Rodriguez, exigiu na manhã deste sábado (03)provas de vida do presidente Nicolás Maduro e da primeira-dama Cilia Flores, cujo paradeiro é desconhecido após os ataques dos Estados Unidos.&lt;/p&gt;
+&lt;p&gt;Rodriguezdenunciou o bombardeiomilitar norte-americana na capital e nos estados de Aragua, Miranda e La Guaira, que resultou na morte de civis.&lt;/p&gt;
+&lt;p&gt;Segundo avice-presidente, o presidente Maduro já havia alertado a população sobre um possível ataque dessa natureza, que afetaria civis em diversas partes do país. Em resposta à situação, a defesa nacional foi acionada seguindo as instruções do presidente.&lt;/p&gt;
+&lt;p&gt;&quot;O ministro da Defesa, Vladimir Padrino López, as Forças Armadas Nacionais Bolivarianas (FANB), o povo venezuelano organizado em milícias e agências de segurança cidadã, em perfeita integração policial, militar e cívico-militar, receberam instruções para defender a pátria&quot;, afirmou Rodriguez.&lt;/p&gt;
+&lt;p&gt;Avice-presidente enfatizou que ninguém violará o legado histórico de Simón Bolívar nem o direito da Venezuela à independência, ao seu futuro e a ser uma nação livre, sem tutela externa. &quot;Jamais seremos escravos. Somos filhos e filhas de Bolívar.&quot;&lt;/p&gt;
+&lt;p&gt;Rodriguez lembrou que a Venezuela tem consistentemente caracterizado essas manobras como parte de uma estratégia para desestabilizar a região e minar sua soberania nacional, denunciando o que considera uma tentativa de intervenção armada para impor uma mudança de regime favorável aos interesses imperialistas.&lt;/p&gt;
+&lt;p&gt;A Rede de Intelectuais, Artistas e Movimentos Sociais em Defesa da Humanidade (REDH) e organizações como a Coalizão Resposta condenaram o que chamam de &quot;crime contra a paz&quot; e uma flagrante violação da Carta das Nações Unidas, apelando à solidariedade internacional e à mobilização global contra o que consideram uma guerra colonial pelo petróleo venezuelano.&lt;/p&gt;
+&lt;p&gt;Comitê Editorial e de Programação da EBC abre votação para duas vagas&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 18h30: com aumento do ICMS, gasolina, diesel e gás de cozinha ficam mais caros&lt;/p&gt;
+&lt;p&gt;No ES, chá atravessa gerações como cuidado, tradição e acolhimento&lt;/p&gt;
+&lt;p&gt;Wikipédia chega aos 25 anos entre os 10 sites mais acessados do mundo&lt;/p&gt;
+&lt;p&gt;Cuba condena “ataque criminoso” dos EUA contra a Venezuela&lt;/p&gt;
+&lt;p&gt;Lula condena ataque dos EUA à Venezuela e cobra resposta da ONU&lt;/p&gt;
+&lt;p&gt;Irã repudia o ataque dos Estados Unidos contra a Venezuela&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/vice-presidente-da-venezuela-exige-dos-eua-prova-de-vida-de-maduro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Mira Flores/Reuters/Proibida reprodução
+A vice-presidente da Venezuela, Delcy Rodriguez, exigiu na manhã deste sábado (03)provas de vida do preside...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-01-03 08:28:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-03 08:28:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-03 08:28:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-03 08:28:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/kqrl1l21MkfnckYEj_9BIj021oY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/03/2026-01-03t110404z_1_lynxmpem0205o_rtroptp_4_usa-venezuela.jpg?itok=iCHeovEz</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Trump ataca Venezuela e diz que Maduro foi capturado</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/trump-ataca-venezuela-e-diz-que-maduro-foi-capturado</link>
-      <pubDate>Sat, 03 Jan 2026 11:34:52 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 13:42:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/trump-ataca-venezuela-e-diz-que-maduro-foi-capturado#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/trump-ataca-venezuela-e-diz-que-maduro-foi-capturado#1002</guid>
       <description>© Reuters/Leonardo Fernandez Viloria/Proibida reprodução
 O presidente dos Estados Unidos, Donald Trump, anunciou neste sábado (03) um ataque em larga...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/tl6F_2JvSUPUJhFVfsWORrIo7jY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/03/2026-01-03t103351z_73761679_rc2mtiaeey58_rtrmadp_3_usa-venezuela-explosions.jpg?itok=fQKmNJhB&quot; alt=&quot;Trump ataca Venezuela e diz que Maduro foi capturado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -43,11 +141,11 @@ O presidente dos Estados Unidos, Donald Trump, anunciou neste sábado (03) um at
 &lt;p&gt;Comitê Editorial e de Programação da EBC abre votação para duas vagas&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: com aumento do ICMS, gasolina, diesel e gás de cozinha ficam mais caros&lt;/p&gt;
 &lt;p&gt;No ES, chá atravessa gerações como cuidado, tradição e acolhimento&lt;/p&gt;
-&lt;p&gt;Ministro da Defesa da Venezuela classifica ataque como &quot;vil e covarde&quot;&lt;/p&gt;
-&lt;p&gt;Trump ataca Venezuela e diz que Maduro foi capturado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/trump-ataca-venezuela-e-diz-que-maduro-foi-capturado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Wikipédia chega aos 25 anos entre os 10 sites mais acessados do mundo&lt;/p&gt;
+&lt;p&gt;Cuba condena “ataque criminoso” dos EUA contra a Venezuela&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/trump-ataca-venezuela-e-diz-que-maduro-foi-capturado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Leonardo Fernandez Viloria/Proibida reprodução
 O presidente dos Estados Unidos, Donald Trump, anunciou neste sábado (03) um ataque em larga...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-01-03 07:34:00</wp:post_date>
       <wp:post_date_gmt>2026-01-03 07:34:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-03 07:34:00</wp:post_modified>
@@ -73,25 +171,25 @@ O presidente dos Estados Unidos, Donald Trump, anunciou neste sábado (03) um at
     <item>
       <title>Helicóptero faz pouso forçado no mar em Cabo Frio</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/helicoptero-faz-pouso-forcado-no-mar-em-cabo-frio</link>
-      <pubDate>Sat, 03 Jan 2026 11:34:52 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 13:42:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/helicoptero-faz-pouso-forcado-no-mar-em-cabo-frio#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/helicoptero-faz-pouso-forcado-no-mar-em-cabo-frio#1003</guid>
       <description>Um helicóptero com oito pessoas precisou fazer um pouso de emergência no mar de Cabo Frio nesta sexta-feira (2). Segundo a Marinha do Brasil, foi ati...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/L6p0igLoWxCJiGF34v_s77ADgnw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/02/whatsapp-image-2026-01-02-at-223430.jpeg?itok=Fc3UV7Pj&quot; alt=&quot;Helicóptero faz pouso forçado no mar em Cabo Frio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Um helicóptero com oito pessoas precisou fazer um pouso de emergência no mar de Cabo Frio nesta sexta-feira (2). Segundo a Marinha do Brasil, foi ativada a operação de busca e salvamento,e uma aeronave foi deslocada ao local para fazer o resgate.&lt;/p&gt;
 &lt;p&gt;(seis passageiros e dois tripulantes) envolvidasno acidente com umhelicóptero da OMNI Táxi Aéreo que operava em apoio a plataformas de petróleo. A aeronave pousou no mar a cerca de 40 milhas (cerca de 74 quilômetros) ao sul de Cabo Frio (RJ).&lt;/p&gt;
 &lt;p&gt;&quot;De imediato, foi ativada uma Operação de Busca e Salvamento (SAR), com o emprego de um helicóptero da Marinha. A aeronave resgatou todos os tripulantes, que se encontravam em duas balsas salva-vidas, conduzindo-os, após o resgate, para avaliação médica na Policlínica da Base Aérea Naval de São Pedro da Aldeia, onde foi confirmado que todos passavam bem&quot;, destaca a Marinha em nota.&lt;/p&gt;
-&lt;p&gt;Comitê Editorial e de Programação da EBC abre votação para duas vagas&lt;/p&gt;
+&lt;p&gt;EUA confirmam ataque em solo venezuelano, incluindo cidade de Caracas&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: com aumento do ICMS, gasolina, diesel e gás de cozinha ficam mais caros&lt;/p&gt;
 &lt;p&gt;No ES, chá atravessa gerações como cuidado, tradição e acolhimento&lt;/p&gt;
-&lt;p&gt;Vice-presidente da Venezuela exige dos EUA prova de vida de Maduro&lt;/p&gt;
-&lt;p&gt;Ministro da Defesa da Venezuela classifica ataque como &quot;vil e covarde&quot;&lt;/p&gt;
-&lt;p&gt;Trump ataca Venezuela e diz que Maduro foi capturado&lt;/p&gt;
-&lt;p&gt;Helicóptero faz pouso forçado no mar em Cabo Frio&lt;/p&gt;
-&lt;p&gt;Lei que pune participantes da Moratória da Soja volta a valer em MT&lt;/p&gt;
-&lt;p&gt;Petrobras inicia operaçãonaPlataforma P-78 noCampo de Búzios&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/helicoptero-faz-pouso-forcado-no-mar-em-cabo-frio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Wikipédia chega aos 25 anos entre os 10 sites mais acessados do mundo&lt;/p&gt;
+&lt;p&gt;Cuba condena “ataque criminoso” dos EUA contra a Venezuela&lt;/p&gt;
+&lt;p&gt;Lula condena ataque dos EUA à Venezuela e cobra resposta da ONU&lt;/p&gt;
+&lt;p&gt;Irã repudia o ataque dos Estados Unidos contra a Venezuela&lt;/p&gt;
+&lt;p&gt;TV Brasil estreia série sobre riquezas turísticas nacionais&lt;/p&gt;
+&lt;p&gt;Rússia condena &quot;ato de agressão armada&quot; dos EUA contra Venezuela&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/helicoptero-faz-pouso-forcado-no-mar-em-cabo-frio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Um helicóptero com oito pessoas precisou fazer um pouso de emergência no mar de Cabo Frio nesta sexta-feira (2). Segundo a Marinha do Brasil, foi ati...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-02 21:59:00</wp:post_date>
       <wp:post_date_gmt>2026-01-02 21:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-02 21:59:00</wp:post_modified>
@@ -117,9 +215,9 @@ O presidente dos Estados Unidos, Donald Trump, anunciou neste sábado (03) um at
     <item>
       <title>Lei que pune participantes da Moratória da Soja volta a valer em MT</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/lei-que-pune-participantes-da-moratoria-da-soja-volta-valer-em-mt</link>
-      <pubDate>Sat, 03 Jan 2026 11:34:52 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 13:42:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/lei-que-pune-participantes-da-moratoria-da-soja-volta-valer-em-mt#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/lei-que-pune-participantes-da-moratoria-da-soja-volta-valer-em-mt#1004</guid>
       <description>© REUTERS/Paulo Whitaker/Proibida reprodução
 Maior produtor de soja do país, o
 estado de Mato Grosso pode passar a restringir o acesso a benefícios f...</description>
@@ -142,7 +240,7 @@ estado de Mato Grosso pode passar a restringir o acesso a benefícios f...</desc
       <excerpt:encoded>© REUTERS/Paulo Whitaker/Proibida reprodução
 Maior produtor de soja do país, o
 estado de Mato Grosso pode passar a restringir o acesso a benefícios f...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-02 21:38:00</wp:post_date>
       <wp:post_date_gmt>2026-01-02 21:38:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-02 21:38:00</wp:post_modified>
@@ -168,9 +266,9 @@ estado de Mato Grosso pode passar a restringir o acesso a benefícios f...</exce
     <item>
       <title>Petrobras inicia operaçãonaPlataforma P-78 noCampo de Búzios</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/petrobras-inicia-operacao-na-plataforma-p-78-no-campo-de-buzios</link>
-      <pubDate>Sat, 03 Jan 2026 11:34:52 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 13:42:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/petrobras-inicia-operacao-na-plataforma-p-78-no-campo-de-buzios#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/petrobras-inicia-operacao-na-plataforma-p-78-no-campo-de-buzios#1005</guid>
       <description>A Petrobras informou nesta sexta-feira (2) que iniciou, na última quarta-feira(31), a produção de petróleo do navio-plataforma P-78, no Campo de Búzi...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/JrBbUSrC_O5j_yFXOpc0SDP7Q20=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/02/fpso_p-78_foto1_credito_divulgacao_petrobras.jpeg?itok=-iG6NLZk&quot; alt=&quot;Petrobras inicia operaçãonaPlataforma P-78 noCampo de Búzios&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Petrobras informou nesta sexta-feira (2) que iniciou, na última quarta-feira(31), a produção de petróleo do navio-plataforma P-78, no Campo de Búzios, no pré-sal da Bacia de Santos. Com capacidade de produzir 180 mil barris de óleo e 7,2 milhões de metros cúbicos (m³) de gás diários, o navio-plataforma aumentará a capacidade instalada de produção do campopara aproximadamente 1,15 milhão de barris de petróleo por dia.&lt;/p&gt;
@@ -182,14 +280,14 @@ estado de Mato Grosso pode passar a restringir o acesso a benefícios f...</exce
 &lt;p&gt;Comitê Editorial e de Programação da EBC abre votação para duas vagas&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: com aumento do ICMS, gasolina, diesel e gás de cozinha ficam mais caros&lt;/p&gt;
 &lt;p&gt;No ES, chá atravessa gerações como cuidado, tradição e acolhimento&lt;/p&gt;
-&lt;p&gt;Trump ataca Venezuela e diz que Maduro foi capturado&lt;/p&gt;
-&lt;p&gt;Helicóptero faz pouso forçado no mar em Cabo Frio&lt;/p&gt;
-&lt;p&gt;Lei que pune participantes da Moratória da Soja volta a valer em MT&lt;/p&gt;
-&lt;p&gt;Petrobras inicia operaçãonaPlataforma P-78 noCampo de Búzios&lt;/p&gt;
-&lt;p&gt;STF mantém prisão de Filipe Martins após audiência de custódia&lt;/p&gt;
-&lt;p&gt;SP: três pessoas ficam feridas após árvore cair no Parque Ibirapuera&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/petrobras-inicia-operacao-na-plataforma-p-78-no-campo-de-buzios&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Lula condena ataque dos EUA à Venezuela e cobra resposta da ONU&lt;/p&gt;
+&lt;p&gt;Irã condena o ataque dos Estados Unidos contra a Venezuela&lt;/p&gt;
+&lt;p&gt;TV Brasil estreia série sobre riquezas turísticas nacionais&lt;/p&gt;
+&lt;p&gt;Rússia condena &quot;ato de agressão armada&quot; dos EUA contra Venezuela&lt;/p&gt;
+&lt;p&gt;Vice-presidente da Venezuela exige dos EUA prova de vida de Maduro&lt;/p&gt;
+&lt;p&gt;Ministro da Defesa da Venezuela classifica ataque como &quot;vil e covarde&quot;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/petrobras-inicia-operacao-na-plataforma-p-78-no-campo-de-buzios&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Petrobras informou nesta sexta-feira (2) que iniciou, na última quarta-feira(31), a produção de petróleo do navio-plataforma P-78, no Campo de Búzi...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-02 20:59:00</wp:post_date>
       <wp:post_date_gmt>2026-01-02 20:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-02 20:59:00</wp:post_modified>
@@ -215,9 +313,9 @@ estado de Mato Grosso pode passar a restringir o acesso a benefícios f...</exce
     <item>
       <title>STF mantém prisão de Filipe Martins após audiência de custódia</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/stf-mantem-prisao-de-filipe-martins-apos-audiencia-de-custodia</link>
-      <pubDate>Sat, 03 Jan 2026 11:34:52 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 13:42:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/stf-mantem-prisao-de-filipe-martins-apos-audiencia-de-custodia#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/stf-mantem-prisao-de-filipe-martins-apos-audiencia-de-custodia#1006</guid>
       <description>O Supremo Tribunal Federal (STF) decidiu manter a
 de Filipe Martins, ex-assessor de Assuntos Internacionais do ex-presidente Jair Bolsonaro, depois d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WWoFLxtRNxIR37ERfoK8Bzcj_b8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/27/captura-de-tela-2025-03-31-132421_4.jpeg?itok=EtE1k6De&quot; alt=&quot;STF mantém prisão de Filipe Martins após audiência de custódia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -233,12 +331,12 @@ de Filipe Martins, ex-assessor de Assuntos Internacionais do ex-presidente Jair 
 &lt;p&gt;Comitê Editorial e de Programação da EBC abre votação para duas vagas&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: com aumento do ICMS, gasolina, diesel e gás de cozinha ficam mais caros&lt;/p&gt;
 &lt;p&gt;No ES, chá atravessa gerações como cuidado, tradição e acolhimento&lt;/p&gt;
-&lt;p&gt;Ministro da Defesa da Venezuela classifica ataque como &quot;vil e covarde&quot;&lt;/p&gt;
-&lt;p&gt;Trump ataca Venezuela e diz que Maduro foi capturado&lt;/p&gt;
-&lt;p&gt;Helicóptero faz pouso forçado no mar em Cabo Frio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/stf-mantem-prisao-de-filipe-martins-apos-audiencia-de-custodia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Wikipédia chega aos 25 anos entre os 10 sites mais acessados do mundo&lt;/p&gt;
+&lt;p&gt;Cuba condena “ataque criminoso” dos EUA contra a Venezuela&lt;/p&gt;
+&lt;p&gt;Lula condena ataque dos EUA à Venezuela e cobra resposta da ONU&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/stf-mantem-prisao-de-filipe-martins-apos-audiencia-de-custodia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Supremo Tribunal Federal (STF) decidiu manter a
 de Filipe Martins, ex-assessor de Assuntos Internacionais do ex-presidente Jair Bolsonaro, depois d...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-02 20:54:00</wp:post_date>
       <wp:post_date_gmt>2026-01-02 20:54:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-02 20:54:00</wp:post_modified>
@@ -264,9 +362,9 @@ de Filipe Martins, ex-assessor de Assuntos Internacionais do ex-presidente Jair 
     <item>
       <title>SP: três pessoas ficam feridas após árvore cair no Parque Ibirapuera</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/sp-tr%C3%AAs-pessoas-ficam-feridas-apos-arvore-cair-no-parque-ibirapuera</link>
-      <pubDate>Sat, 03 Jan 2026 11:34:52 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 13:42:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/sp-tr%C3%AAs-pessoas-ficam-feridas-apos-arvore-cair-no-parque-ibirapuera#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/sp-tr%C3%AAs-pessoas-ficam-feridas-apos-arvore-cair-no-parque-ibirapuera#1007</guid>
       <description>Três pessoas ficaram feridas após uma árvore de grande porte cair sobre elas no Parque Ibirapuera, na capital paulista
 . Uma das vítimas, segundo o C...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/4EC-isKawkctQ7pX4WdPRXc-rI4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/29/pint1039.jpg?itok=jOUbAZ6q&quot; alt=&quot;SP: três pessoas ficam feridas após árvore cair no Parque Ibirapuera&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -282,12 +380,10 @@ de Filipe Martins, ex-assessor de Assuntos Internacionais do ex-presidente Jair 
 &lt;p&gt;*Matéria alterada às 20h10para atualização do número de feridos, com base em informações divulgadas pelaconcessionária Urbia.&lt;/p&gt;
 &lt;p&gt;Comitê Editorial e de Programação da EBC abre votação para duas vagas&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: com aumento do ICMS, gasolina, diesel e gás de cozinha ficam mais caros&lt;/p&gt;
-&lt;p&gt;No ES, chá atravessa gerações como cuidado, tradição e acolhimento&lt;/p&gt;
-&lt;p&gt;Ministro da Defesa da Venezuela classifica ataque como &quot;vil e covarde&quot;&lt;/p&gt;
-&lt;p&gt;Trump ataca Venezuela e diz que Maduro foi capturado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/sp-tr%C3%AAs-pessoas-ficam-feridas-apos-arvore-cair-no-parque-ibirapuera&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;No ES, chá atravessa gerações como cuidado, tradição e acolhimento&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/sp-tr%C3%AAs-pessoas-ficam-feridas-apos-arvore-cair-no-parque-ibirapuera&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Três pessoas ficaram feridas após uma árvore de grande porte cair sobre elas no Parque Ibirapuera, na capital paulista
 . Uma das vítimas, segundo o C...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-02 19:35:00</wp:post_date>
       <wp:post_date_gmt>2026-01-02 19:35:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-02 19:35:00</wp:post_modified>
@@ -311,58 +407,11 @@ de Filipe Martins, ex-assessor de Assuntos Internacionais do ex-presidente Jair 
       </wp:postmeta>
     </item>
     <item>
-      <title>Moraes autoriza visitas de filhos e enteada a Bolsonaro</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/moraes-autoriza-visitas-de-filhos-e-enteada-bolsonaro</link>
-      <pubDate>Sat, 03 Jan 2026 11:34:52 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/moraes-autoriza-visitas-de-filhos-e-enteada-bolsonaro#1006</guid>
-      <description>O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, permitiu, de forma permanente, que o ex-presidente Jair Bolsonaro receba visitas n...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GZNPU5K4eYDDOBPjULvoTVXDaKc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/05/_mg_9479.jpg?itok=j1oYzB_-&quot; alt=&quot;Moraes autoriza visitas de filhos e enteada a Bolsonaro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, permitiu, de forma permanente, que o ex-presidente Jair Bolsonaro receba visitas na prisão da Superintendência da Polícia Federal (PF)&lt;/p&gt;
-&lt;p&gt;, em Brasília, dos filhos dele que residem no Brasil: Flávio, Carlos, Jair Renan e Laura. A enteada Letícia Firmo também poderá visita-lo.&lt;/p&gt;
-&lt;p&gt;Jair Bolsonaro cumpre pena de 27 anos e 3 três meses, em regime inicial fechado, por coordenar a trama de tentativa de golpe de Estado, na Superintendênciada PF.&lt;/p&gt;
-&lt;p&gt;“Dessa forma, cumpridas as determinações legais, autorizo a visitação permanente de Carlos Nantes Bolsonaro, Flávio Nantes Bolsonaro, Jair Renan Valle Bolsonaro e [da filha menor idade], filhos do sentenciado e da enteada Leticia Marianna Firmo da Silva, independentemente de nova autorização, dentro dos horários estabelecidos nos termos da Portaria SR/PF/DF nº 1104, de 28 de março de 2024”, diz a decisão.&lt;/p&gt;
-&lt;p&gt;O ministro Moraes ressaltou que permanece válida a autorização de visitação permanente, dada em dezembro, à ex-primeira-dama Michelle Bolsonaro.&lt;/p&gt;
-&lt;p&gt;Fica de fora da decisão o filho Eduardo Bolsonaro, que reside no Estados Unidos desde março de 2025. Em dezembro, Eduardo perdeu o mandato de deputado federal por não comparecer às sessões deliberativas da Câmara Federal.&lt;/p&gt;
-&lt;p&gt;De acordo com o magistrado, as visitas ocorrerão às terças e quintas-feiras, das 9 horas às 11 horas, com duração de 30 minutos, com limitação de dois familiares por dia. Cada familiar deverá visitar o preso separadamente.&lt;/p&gt;
-&lt;p&gt;As autorizações permanentes de visitação dos quatro filhos e da enteada foram concedidas um dia após o ex-presidente receber alta do Hospital DF Star, em Brasília, para a realização de exames e procedimentos cirúrgicos.&lt;/p&gt;
-&lt;p&gt;Nesta quinta-feira (1°), o ministro Alexandre de Moraes negou o pedido da defesa do ex-presidente para mudança para prisão domiciliar.&lt;/p&gt;
-&lt;p&gt;Comitê Editorial e de Programação da EBC abre votação para duas vagas&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 18h30: com aumento do ICMS, gasolina, diesel e gás de cozinha ficam mais caros&lt;/p&gt;
-&lt;p&gt;No ES, chá atravessa gerações como cuidado, tradição e acolhimento&lt;/p&gt;
-&lt;p&gt;Ministro da Defesa da Venezuela classifica ataque como &quot;vil e covarde&quot;&lt;/p&gt;
-&lt;p&gt;Trump ataca Venezuela e diz que Maduro foi capturado&lt;/p&gt;
-&lt;p&gt;Helicóptero faz pouso forçado no mar em Cabo Frio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/moraes-autoriza-visitas-de-filhos-e-enteada-bolsonaro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, permitiu, de forma permanente, que o ex-presidente Jair Bolsonaro receba visitas n...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-01-02 18:19:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-02 18:19:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-02 18:19:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-02 18:19:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/GZNPU5K4eYDDOBPjULvoTVXDaKc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/05/_mg_9479.jpg?itok=j1oYzB_-</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
       <title>Bolívia: protestos desafiam governo após aumento de combustíveis</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/bolivia-protestos-desafiam-governo-apos-aumento-de-combustiveis</link>
-      <pubDate>Sat, 03 Jan 2026 11:34:52 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 13:42:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/bolivia-protestos-desafiam-governo-apos-aumento-de-combustiveis#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/bolivia-protestos-desafiam-governo-apos-aumento-de-combustiveis#1008</guid>
       <description>© REUTERS/Claudia Morales/arquivo/Proibida reprodução
 dois meses após o início do mandato
 , o novo governo da Bolívia já enfrenta a primeira onda de ...</description>
@@ -385,7 +434,7 @@ dois meses após o início do mandato
       <excerpt:encoded>© REUTERS/Claudia Morales/arquivo/Proibida reprodução
 dois meses após o início do mandato
 , o novo governo da Bolívia já enfrenta a primeira onda de ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-02 18:19:00</wp:post_date>
       <wp:post_date_gmt>2026-01-02 18:19:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-02 18:19:00</wp:post_modified>
@@ -409,80 +458,34 @@ dois meses após o início do mandato
       </wp:postmeta>
     </item>
     <item>
-      <title>Rio tem novo alerta de ressaca neste fim de semana</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/rio-tem-novo-alerta-de-ressaca-neste-fim-de-semana</link>
-      <pubDate>Sat, 03 Jan 2026 11:34:52 +0000</pubDate>
+      <title>Moraes autoriza visitas de filhos e enteada a Bolsonaro</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/moraes-autoriza-visitas-de-filhos-e-enteada-bolsonaro</link>
+      <pubDate>Sat, 03 Jan 2026 13:42:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/rio-tem-novo-alerta-de-ressaca-neste-fim-de-semana#1008</guid>
-      <description>Uma nova ressaca está para chegar às praias do Rio. Nessa, a partir das 15h deste sábado (3), com previsão de término às 6h de segunda-feira (5), as ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5NwSaTkgCb9NSZMRw3BHLuHY-hs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/trbr5750.jpg?itok=EFx5rIiI&quot; alt=&quot;Rio tem novo alerta de ressaca neste fim de semana&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Uma nova ressaca está para chegar às praias do Rio. Nessa, a partir das 15h deste sábado (3), com previsão de término às 6h de segunda-feira (5), as ondas podem variar entre 2,5 m e 3 m. O alerta feito pelo Centro de Operações e Resiliência da Prefeitura do Rio (COR-Rio) é com base no Aviso de Ressaca para a Orla da Cidade emitido pela Marinha do Brasil.&lt;/p&gt;
-&lt;p&gt;Essa será a segunda em poucos dias. Na outra, que começou às 12h da quarta-feira (31) e terminou às 6h de ontem (1°) , as ondas atingiram 2,5 metros de altura e tiveram grande impacto. O Corpo de Bombeiros realizou 1.167 salvamentos entre 7h da quarta-feira (31) e 19h de ontem (1º) em praias do Rio.&lt;/p&gt;
-&lt;p&gt;O porta-voz do Corpo de Bombeiros, tenente-coronel Fábio Contreiras, disse que não há necessidade de montar um esquema especial para este período mesmo com o número grande de visitantes e de moradoresfrequentando as praias. Conforme explicou, desde 19 de dezembro de 2025, a corporação está operando com mais agentes na Operação Verão.&lt;/p&gt;
-&lt;p&gt;“São mais 5400 serviços de guarda-vidas neste verão como um todo. A gente já está com a praia reforçada”, afirmou à&lt;/p&gt;
-&lt;p&gt;O fato de ter nova ressaca, segundo o tenente-coronel, é motivo também de alerta em outros pontos fora das praias como o muro dos pescadores, no Leme; Pedra do Arpoador; e Mirante do Leblon, que são isolados com fitas zebradas.&lt;/p&gt;
-&lt;p&gt;“Quando tem aviso de ressaca os nossos guarda-vidas fazem trabalho de isolamento e sinalização justamente para as pessoas não se aproximarem desses locais onde há risco de queda”, contou.&lt;/p&gt;
-&lt;p&gt;O COR-Rio reforçou as orientações para que a população tenha mais segurança. Não são recomendados o banho de mar e a prática de esportes aquáticos em áreas com condições de ressaca. Durante o período do aviso, as pessoas têm que evitar a permanência em mirantes na orla ou em locais próximos ao mar, assim como os pescadores não devem navegar enquanto a ressaca estiver ativa. O uso de bicicletas nas ciclovias também não é recomendável, principalmente porque as ondas podem ultrapassar os calçadões.&lt;/p&gt;
-&lt;p&gt;A orientação do COR-Rio para casos de acidentes no mar é não tentar resgatar as vítimas por conta própria. O certo é acionar imediatamente o Corpo de Bombeiros pelo telefone 193 ou os guarda-vidas do local&lt;/p&gt;
-&lt;p&gt;O Sistema Alerta Rio indicou que neste sábado (3) o clima será influenciado por áreas de instabilidade em conjunto com a passagem de uma frente fria no oceano.&lt;/p&gt;
-&lt;p&gt;“Haverá predomínio de céu nublado e previsão de chuva fraca isolada na madrugada e pancadas de chuva isoladas a partir da tarde, podendo vir com raios”, informou, completando que os ventos estarão fracos a moderados.&lt;/p&gt;
-&lt;p&gt;No domingo (4), a previsão é de predomínio de céu nublado com pancadas de chuva a qualquer momento do dia. Os ventos estarão moderados e as temperaturas em declínio. Já a segunda (5) e a terça-feira (6), serão dias com nebulosidade variada, predomínio de céu nublado e previsão de chuva fraca a qualquer momento, sendo ocasionalmente moderada na segunda. Os ventos estarão moderados.&lt;/p&gt;
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/moraes-autoriza-visitas-de-filhos-e-enteada-bolsonaro#1009</guid>
+      <description>O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, permitiu, de forma permanente, que o ex-presidente Jair Bolsonaro receba visitas n...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GZNPU5K4eYDDOBPjULvoTVXDaKc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/05/_mg_9479.jpg?itok=j1oYzB_-&quot; alt=&quot;Moraes autoriza visitas de filhos e enteada a Bolsonaro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, permitiu, de forma permanente, que o ex-presidente Jair Bolsonaro receba visitas na prisão da Superintendência da Polícia Federal (PF)&lt;/p&gt;
+&lt;p&gt;, em Brasília, dos filhos dele que residem no Brasil: Flávio, Carlos, Jair Renan e Laura. A enteada Letícia Firmo também poderá visita-lo.&lt;/p&gt;
+&lt;p&gt;Jair Bolsonaro cumpre pena de 27 anos e 3 três meses, em regime inicial fechado, por coordenar a trama de tentativa de golpe de Estado, na Superintendênciada PF.&lt;/p&gt;
+&lt;p&gt;“Dessa forma, cumpridas as determinações legais, autorizo a visitação permanente de Carlos Nantes Bolsonaro, Flávio Nantes Bolsonaro, Jair Renan Valle Bolsonaro e [da filha menor idade], filhos do sentenciado e da enteada Leticia Marianna Firmo da Silva, independentemente de nova autorização, dentro dos horários estabelecidos nos termos da Portaria SR/PF/DF nº 1104, de 28 de março de 2024”, diz a decisão.&lt;/p&gt;
+&lt;p&gt;O ministro Moraes ressaltou que permanece válida a autorização de visitação permanente, dada em dezembro, à ex-primeira-dama Michelle Bolsonaro.&lt;/p&gt;
+&lt;p&gt;Fica de fora da decisão o filho Eduardo Bolsonaro, que reside no Estados Unidos desde março de 2025. Em dezembro, Eduardo perdeu o mandato de deputado federal por não comparecer às sessões deliberativas da Câmara Federal.&lt;/p&gt;
+&lt;p&gt;De acordo com o magistrado, as visitas ocorrerão às terças e quintas-feiras, das 9 horas às 11 horas, com duração de 30 minutos, com limitação de dois familiares por dia. Cada familiar deverá visitar o preso separadamente.&lt;/p&gt;
+&lt;p&gt;As autorizações permanentes de visitação dos quatro filhos e da enteada foram concedidas um dia após o ex-presidente receber alta do Hospital DF Star, em Brasília, para a realização de exames e procedimentos cirúrgicos.&lt;/p&gt;
+&lt;p&gt;Nesta quinta-feira (1°), o ministro Alexandre de Moraes negou o pedido da defesa do ex-presidente para mudança para prisão domiciliar.&lt;/p&gt;
 &lt;p&gt;Comitê Editorial e de Programação da EBC abre votação para duas vagas&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: com aumento do ICMS, gasolina, diesel e gás de cozinha ficam mais caros&lt;/p&gt;
-&lt;p&gt;No ES, chá atravessa gerações como cuidado, tradição e acolhimento&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/rio-tem-novo-alerta-de-ressaca-neste-fim-de-semana&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Uma nova ressaca está para chegar às praias do Rio. Nessa, a partir das 15h deste sábado (3), com previsão de término às 6h de segunda-feira (5), as ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-01-02 17:11:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-02 17:11:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-02 17:11:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-02 17:11:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/5NwSaTkgCb9NSZMRw3BHLuHY-hs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/trbr5750.jpg?itok=EFx5rIiI</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Bombeiros fizeram 1.167 salvamentos em dois dias na orla do Rio</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/bombeiros-fizeram-1167-salvamentos-em-dois-dias-na-orla-do-rio</link>
-      <pubDate>Sat, 03 Jan 2026 11:34:52 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/bombeiros-fizeram-1167-salvamentos-em-dois-dias-na-orla-do-rio#1009</guid>
-      <description>O Corpo de Bombeiros do Rio de Janeiro registrou 1.167 salvamentos entre 7h da quarta-feira (31) e 19h de ontem (1º) em praias do Rio. Conforme os da...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/r8CcwFqg918YtUUvW1c3P-ea4Jc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/31/_rbr2840.jpg?itok=x7MT7OxB&quot; alt=&quot;Bombeiros fizeram 1.167 salvamentos em dois dias na orla do Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Corpo de Bombeiros do Rio de Janeiro registrou 1.167 salvamentos entre 7h da quarta-feira (31) e 19h de ontem (1º) em praias do Rio. Conforme os dados da corporação,&lt;/p&gt;
-&lt;p&gt;Ipanema foi a que teve mais casos (399), seguida de Copacabana (396) e Leme (239). Também ocorreram resgates no Arpoador (59), Leblon e Diabo (32), São Conrado (8), Pepino e Vidigal (1)&lt;/p&gt;
-&lt;p&gt;O porta-voz dos bombeiros, tenente-coronel Fábio Contreiras, disse que a ressaca que atingiu o litoral do Rio nesses dias é uma das causas desses números elevados, mas há também a desobediência dos frequentadores às orientações dos guarda-vidas e às cores das bandeiras de alertas para não entrar no mar.&lt;/p&gt;
-&lt;p&gt;Esses fatores resultaram em número bastante superior ao Réveillon passado, quando os bombeiros fizeram 29 salvamentos. “A grande diferença é que agora a gente teve uma condição de mar muito agitado”, disse.&lt;/p&gt;
-&lt;p&gt;Desde o fim da manhã da última quarta-feira (31)queos bombeiros do Rio de Janeiro fazem buscas para encontrar um jovem de 14 anos, morador de Campinas (SP), que foi arrastado pela correnteza na Praia de Copacabana&lt;/p&gt;
-&lt;p&gt;.Mesmo estando na beira da faixa de areia, ele foi atingido pelaforça dasondas, que no dia chegavam até 2,5 metros.&lt;/p&gt;
-&lt;p&gt;Fábio Contreiras disse que os bombeiros instalaram um posto de comando em frente ao Posto 2, onde o jovem foi visto ao ser arrastado, há ainda a presença de diversos militares operando com motos aquáticas fazendo buscas superficiais, o uso de embarcações com botes infláveis de resgates.&lt;/p&gt;
-&lt;p&gt;Por meio de drones, os bombeiros fazem também varreduras na costa, principalmente na zona sul da cidade, e utilizam helicópteros com sobrevoos diários com visão mais ampla da orla do estado do Rio.&lt;/p&gt;
-&lt;p&gt;“Além disso, mergulhadores com trabalho subaquáticos, de busca e pontos de interesse, são guiados por sonar dentro de embarcações que apontam possíveis objetos no fundo do mar, que possam ser compatíveis ao tamanho do corpo de um ser humano”, relatou o porta-voz à&lt;/p&gt;
-&lt;p&gt;Segundo Contreiras, esse é o único caso em que os bombeiros estão desenvolvendo buscas.&lt;/p&gt;
-&lt;p&gt;“Não tem outra ocorrência de busca em relação a afogamentos em praias. O menino de 14 anos é o único que no momento a gente está buscando”, informou.&lt;/p&gt;
-&lt;p&gt;O perigo das pessoas permanecerem na arrebentação quando o mar está agitado, justamente o que ocorreu com o jovem, é de ser levado por uma corrente e não ter condição própria de sair da água.&lt;/p&gt;
-&lt;p&gt;“Esse é um alerta constante que os guarda-vidas fazem nas praias inclusive com o uso de apitos para sinalizar ao banhista que deve sair do mar antes que se afogue”, acrescentou.&lt;/p&gt;
-&lt;p&gt;Comitê Editorial e de Programação da EBC abre votação para duas vagas&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 18h30: com aumento do ICMS, gasolina, diesel e gás de cozinha ficam mais caros&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/bombeiros-fizeram-1167-salvamentos-em-dois-dias-na-orla-do-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Corpo de Bombeiros do Rio de Janeiro registrou 1.167 salvamentos entre 7h da quarta-feira (31) e 19h de ontem (1º) em praias do Rio. Conforme os da...</excerpt:encoded>
+&lt;p&gt;No ES, chá atravessa gerações como cuidado, tradição e acolhimento&lt;/p&gt;
+&lt;p&gt;Lula condena ataque dos EUA à Venezuela e cobra resposta da ONU&lt;/p&gt;
+&lt;p&gt;Irã condena o ataque dos Estados Unidos contra a Venezuela&lt;/p&gt;
+&lt;p&gt;TV Brasil estreia série sobre riquezas turísticas nacionais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/moraes-autoriza-visitas-de-filhos-e-enteada-bolsonaro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, permitiu, de forma permanente, que o ex-presidente Jair Bolsonaro receba visitas n...</excerpt:encoded>
       <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-02 17:07:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-02 17:07:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-02 17:07:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-02 17:07:00</wp:post_modified_gmt>
+      <wp:post_date>2026-01-02 18:19:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-02 18:19:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-02 18:19:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-02 18:19:00</wp:post_modified_gmt>
       <wp:comment_status>closed</wp:comment_status>
       <wp:ping_status>closed</wp:ping_status>
       <wp:status>publish</wp:status>
@@ -498,7 +501,7 @@ dois meses após o início do mandato
       <category domain="post_tag" nicename="ebc">EBC</category>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/r8CcwFqg918YtUUvW1c3P-ea4Jc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/31/_rbr2840.jpg?itok=x7MT7OxB</wp:meta_value>
+        <wp:meta_value>https://imagens.ebc.com.br/GZNPU5K4eYDDOBPjULvoTVXDaKc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/05/_mg_9479.jpg?itok=j1oYzB_-</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
