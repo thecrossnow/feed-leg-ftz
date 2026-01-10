@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 10 Jan 2026 13:25:01 +0000</pubDate>
+    <pubDate>Sat, 10 Jan 2026 14:13:10 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,52 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Escolas mirins se apresentarão nos ensaios na Marques de Sapucaí</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/escolas-mirins-se-apresentarao-nos-ensaios-na-marques-de-sapucai</link>
+      <pubDate>Sat, 10 Jan 2026 14:13:10 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/escolas-mirins-se-apresentarao-nos-ensaios-na-marques-de-sapucai#1000</guid>
+      <description>As escolas de samba mirins terão mais dias para desfilar no Rio Carnaval 2026. Em sorteio, na sede da Liga Independente das Escolas de Samba do Rio d...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1foFVFsi1MLEUZe_7-P-crsSEAg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/10/52027892005_da0725da82_k.jpg?itok=4jnslPX-&quot; alt=&quot;Escolas mirins se apresentarão nos ensaios na Marques de Sapucaí&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As escolas de samba mirins terão mais dias para desfilar no Rio Carnaval 2026. Em sorteio, na sede da Liga Independente das Escolas de Samba do Rio de Janeiro (Liesa), os dirigentes das agremiações conheceram os detalhes do novo formato, que contará com a divisão de mais dias para a criançada se apresentar.&lt;/p&gt;
+&lt;p&gt;Agora, além da sexta-feira, 20 de fevereiro, véspera do Sábado das Campeãs, haverá desfiles na abertura dos ensaios técnicos dos dias 31 de janeiro, 1º e 8 de fevereiro.&lt;/p&gt;
+&lt;p&gt;“As escolas mirins são a base do nosso carnaval. É aqui que nascem futuros ritmistas, passistas, intérpretes, casais de mestre-sala e porta-bandeira e tantos outros componentes”, avaliou a diretora cultural da Liesa, Evelyn Bastos.&lt;/p&gt;
+&lt;p&gt;Confira a ordem dos desfiles das escolas de samba mirins:&lt;/p&gt;
+&lt;p&gt;2- Ainda Existem Crianças na Vila Kennedy&lt;/p&gt;
+&lt;p&gt;2- Nova Geração da Estácio de Sá&lt;/p&gt;
+&lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
+&lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
+&lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/escolas-mirins-se-apresentarao-nos-ensaios-na-marques-de-sapucai&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>As escolas de samba mirins terão mais dias para desfilar no Rio Carnaval 2026. Em sorteio, na sede da Liga Independente das Escolas de Samba do Rio d...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-10 09:47:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-10 09:47:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-10 09:47:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-10 09:47:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/1foFVFsi1MLEUZe_7-P-crsSEAg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/10/52027892005_da0725da82_k.jpg?itok=4jnslPX-</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Anvisa quer reduzir fila de análises e priorizar inovações nacionais</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/anvisa-quer-reduzir-fila-de-analises-e-priorizar-inovacoes-nacionais</link>
-      <pubDate>Sat, 10 Jan 2026 13:25:01 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 14:13:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/anvisa-quer-reduzir-fila-de-analises-e-priorizar-inovacoes-nacionais#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/anvisa-quer-reduzir-fila-de-analises-e-priorizar-inovacoes-nacionais#1001</guid>
       <description>© Valter Campanato/Agência Brasil
 Em agosto de 2025, o Senado aprovou três nomes para a diretoria colegiada da Agência Nacional de Vigilância Sanitár...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uSsu4ssYTPNly-Fz2ZLKt9EDsgA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/09/0d7a5777.jpg?itok=qWA3pdRw&quot; alt=&quot;Anvisa quer reduzir fila de análises e priorizar inovações nacionais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +88,7 @@ Em agosto de 2025, o Senado aprovou três nomes para a diretoria colegiada da Ag
 &lt;p&gt;Já tivemos reunião para tratar desses temas e a ideia é que a gente acompanhe e dê o apoio necessário para que a equipe técnica faça a melhor análise possível. É um comitê que puxa, para a alta gestão da Anvisa, o trabalho de acompanhar os casos. E que vai dar o apoio necessário, o subsídio necessário para que a área técnica faça o melhor trabalho possível de avaliação.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/anvisa-quer-reduzir-fila-de-analises-e-priorizar-inovacoes-nacionais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 Em agosto de 2025, o Senado aprovou três nomes para a diretoria colegiada da Agência Nacional de Vigilância Sanitár...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-01-10 09:02:00</wp:post_date>
       <wp:post_date_gmt>2026-01-10 09:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-10 09:02:00</wp:post_modified>
@@ -73,9 +114,9 @@ Em agosto de 2025, o Senado aprovou três nomes para a diretoria colegiada da Ag
     <item>
       <title>O Agente Secreto faz cinema brasileiro chegar forte ao Globo de Ouro</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/o-agente-secreto-faz-cinema-brasileiro-chegar-forte-ao-globo-de-ouro</link>
-      <pubDate>Sat, 10 Jan 2026 13:25:01 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 14:13:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/o-agente-secreto-faz-cinema-brasileiro-chegar-forte-ao-globo-de-ouro#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/o-agente-secreto-faz-cinema-brasileiro-chegar-forte-ao-globo-de-ouro#1002</guid>
       <description>O Brasil volta a experimentar um clima de final de campeonato às vésperas da cerimônia do Globo de Ouro, marcada para o próximo domingo (11), em Los ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3C-vsetcuV1IPKDzOQcj3LqqPMM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/06/foto_filme_o_agente_secreto_credito_victor_juca.jpg?itok=CQIHnb4y&quot; alt=&quot;O Agente Secreto faz cinema brasileiro chegar forte ao Globo de Ouro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Brasil volta a experimentar um clima de final de campeonato às vésperas da cerimônia do Globo de Ouro, marcada para o próximo domingo (11), em Los Angeles. A 83ª edição da premiação reforça um movimento iniciado no ano passado, quando&lt;/p&gt;
@@ -94,7 +135,7 @@ Em agosto de 2025, o Senado aprovou três nomes para a diretoria colegiada da Ag
 &lt;p&gt;Além do peso artístico, o perfil do Globo de Ouro contribui para ampliar as chances brasileiras. Diferentemente de premiações formadas majoritariamente por críticos norte-americanos, o evento reúne 334 votantes de 85 países, o que favorece produções internacionais com forte circulação global e campanhas estruturadas. Nesse contexto, a presença constante do diretor Kleber Mendonça Filhoe da equipe do filme em debates, exibições especiais e encontros com eleitores tem sido estratégica.&lt;/p&gt;
 &lt;p&gt;A concorrência, no entanto, é acirrada. Em melhor filme em língua não inglesa,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/o-agente-secreto-faz-cinema-brasileiro-chegar-forte-ao-globo-de-ouro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Brasil volta a experimentar um clima de final de campeonato às vésperas da cerimônia do Globo de Ouro, marcada para o próximo domingo (11), em Los ...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-01-10 08:34:00</wp:post_date>
       <wp:post_date_gmt>2026-01-10 08:34:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-10 08:34:00</wp:post_modified>
@@ -120,9 +161,9 @@ Em agosto de 2025, o Senado aprovou três nomes para a diretoria colegiada da Ag
     <item>
       <title>Confira calendário de pagamentos do INSS para 2026</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/confira-calendario-de-pagamentos-do-inss-para-2026</link>
-      <pubDate>Sat, 10 Jan 2026 13:25:01 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 14:13:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/confira-calendario-de-pagamentos-do-inss-para-2026#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/confira-calendario-de-pagamentos-do-inss-para-2026#1003</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 cerca de 35milhões de beneficiários do Instituto Nacional do Seguro Social (INSS) já podem conferir a data de pagam...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kUWjhGSC38d6YjdB2BcYNJY4fsM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20231102_131516.jpg?itok=u2CpK60b&quot; alt=&quot;Confira calendário de pagamentos do INSS para 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -143,7 +184,7 @@ cerca de 35milhões de beneficiários do Instituto Nacional do Seguro Social (IN
 &lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/confira-calendario-de-pagamentos-do-inss-para-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 cerca de 35milhões de beneficiários do Instituto Nacional do Seguro Social (INSS) já podem conferir a data de pagam...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-10 08:00:00</wp:post_date>
       <wp:post_date_gmt>2026-01-10 08:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-10 08:00:00</wp:post_modified>
@@ -169,9 +210,9 @@ cerca de 35milhões de beneficiários do Instituto Nacional do Seguro Social (IN
     <item>
       <title>Mega-Sena sorteia prêmio de R$ 13,5 milhões neste sábado</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-sorteia-premio-de-r-135-milhoes-neste-sabado</link>
-      <pubDate>Sat, 10 Jan 2026 13:25:01 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 14:13:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-sorteia-premio-de-r-135-milhoes-neste-sabado#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-sorteia-premio-de-r-135-milhoes-neste-sabado#1004</guid>
       <description>© Marcello Casal JrAgência Brasil
 As seis dezenas do concurso 2.958 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MfZHMDabCaFkb7-AEj5r_dejyjM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena_mcajr_abr_2904223680.jpg?itok=5iwnRMLK&quot; alt=&quot;Mega-Sena sorteia prêmio de R$ 13,5 milhões neste sábado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -185,14 +226,10 @@ As seis dezenas do concurso 2.958 da Mega-Sena serão sorteadas, a partir das 21
 &lt;p&gt;O jogo simples, com seis números marcados, custa R$ 6.&lt;/p&gt;
 &lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
 &lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
-&lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;
-&lt;p&gt;Escolas mirins se apresentarão nos ensaios na Marques de Sapucaí&lt;/p&gt;
-&lt;p&gt;Anvisa quer reduzir fila de análises e priorizar inovações nacionais&lt;/p&gt;
-&lt;p&gt;O Agente Secreto faz cinema brasileiro chegar forte ao Globo de Ouro&lt;/p&gt;
-&lt;p&gt;Confira calendário de pagamentos do INSS para 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-sorteia-premio-de-r-135-milhoes-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-sorteia-premio-de-r-135-milhoes-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 As seis dezenas do concurso 2.958 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço d...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-10 07:45:00</wp:post_date>
       <wp:post_date_gmt>2026-01-10 07:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-10 07:45:00</wp:post_modified>
@@ -218,9 +255,9 @@ As seis dezenas do concurso 2.958 da Mega-Sena serão sorteadas, a partir das 21
     <item>
       <title>Rio de Janeiro pode chegar a 39ºC no domingo</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/rio-de-janeiro-pode-chegar-39oc-no-domingo</link>
-      <pubDate>Sat, 10 Jan 2026 13:25:01 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 14:13:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/rio-de-janeiro-pode-chegar-39oc-no-domingo#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/rio-de-janeiro-pode-chegar-39oc-no-domingo#1005</guid>
       <description>© Fernando Frazão/Agência Brasil
 Aprevisão é de que as temperaturas cheguem aos 39ºC na cidade do Rio de Janeiro no domingo (11)
 , conforme alertam a...</description>
@@ -235,15 +272,15 @@ Aprevisão é de que as temperaturas cheguem aos 39ºC na cidade do Rio de Janei
 &lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
 &lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
 &lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;
+&lt;p&gt;Venezuela anuncia retorno de navio petroleiro em operação com EUA&lt;/p&gt;
+&lt;p&gt;Maioria planeja reaproveitar material escolar na volta às aulas&lt;/p&gt;
 &lt;p&gt;Trump diz que EUA precisam controlar Groenlândia&lt;/p&gt;
 &lt;p&gt;Escolas mirins se apresentarão nos ensaios na Marques de Sapucaí&lt;/p&gt;
-&lt;p&gt;Anvisa quer reduzir fila de análises e priorizar inovações nacionais&lt;/p&gt;
-&lt;p&gt;O Agente Secreto faz cinema brasileiro chegar forte ao Globo de Ouro&lt;/p&gt;
-&lt;p&gt;Confira calendário de pagamentos do INSS para 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/rio-de-janeiro-pode-chegar-39oc-no-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Anvisa quer reduzir fila de análises e priorizar inovações nacionais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/rio-de-janeiro-pode-chegar-39oc-no-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Aprevisão é de que as temperaturas cheguem aos 39ºC na cidade do Rio de Janeiro no domingo (11)
 , conforme alertam a...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-09 22:03:00</wp:post_date>
       <wp:post_date_gmt>2026-01-09 22:03:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-09 22:03:00</wp:post_modified>
@@ -269,9 +306,9 @@ Aprevisão é de que as temperaturas cheguem aos 39ºC na cidade do Rio de Janei
     <item>
       <title>MPRJ pede inclusão de ex-CEO da Hurb na lista da Interpol</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/mprj-pede-inclusao-de-ex-ceo-da-hurb-na-lista-da-interpol</link>
-      <pubDate>Sat, 10 Jan 2026 13:25:01 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 14:13:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/mprj-pede-inclusao-de-ex-ceo-da-hurb-na-lista-da-interpol#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/mprj-pede-inclusao-de-ex-ceo-da-hurb-na-lista-da-interpol#1006</guid>
       <description>O Ministério Público do Rio de Janeiro (MPRJ) pediu, nesta sexta-feira (9), a inclusão do nome deJoão Ricardo Mendes, ex-CEO da agência de viagens Hu...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;MPRJ pede inclusão de ex-CEO da Hurb na lista da Interpol&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Ministério Público do Rio de Janeiro (MPRJ) pediu, nesta sexta-feira (9), a inclusão do nome deJoão Ricardo Mendes, ex-CEO da agência de viagens Hurb, na lista vermelha de procurados da Interpol, além do bloqueio de seu passaporte.&lt;/p&gt;
@@ -283,14 +320,14 @@ Aprevisão é de que as temperaturas cheguem aos 39ºC na cidade do Rio de Janei
 &lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
 &lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
 &lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;
+&lt;p&gt;Venezuela anuncia retorno de navio petroleiro em operação com EUA&lt;/p&gt;
+&lt;p&gt;Maioria planeja reaproveitar material escolar na volta às aulas&lt;/p&gt;
 &lt;p&gt;Trump diz que EUA precisam controlar Groenlândia&lt;/p&gt;
 &lt;p&gt;Escolas mirins se apresentarão nos ensaios na Marques de Sapucaí&lt;/p&gt;
 &lt;p&gt;Anvisa quer reduzir fila de análises e priorizar inovações nacionais&lt;/p&gt;
-&lt;p&gt;O Agente Secreto faz cinema brasileiro chegar forte ao Globo de Ouro&lt;/p&gt;
-&lt;p&gt;Confira calendário de pagamentos do INSS para 2026&lt;/p&gt;
-&lt;p&gt;Mega-Sena sorteia prêmio de R$ 13,5 milhões neste sábado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/mprj-pede-inclusao-de-ex-ceo-da-hurb-na-lista-da-interpol&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;O Agente Secreto faz cinema brasileiro chegar forte ao Globo de Ouro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/mprj-pede-inclusao-de-ex-ceo-da-hurb-na-lista-da-interpol&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Ministério Público do Rio de Janeiro (MPRJ) pediu, nesta sexta-feira (9), a inclusão do nome deJoão Ricardo Mendes, ex-CEO da agência de viagens Hu...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-09 21:29:00</wp:post_date>
       <wp:post_date_gmt>2026-01-09 21:29:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-09 21:29:00</wp:post_modified>
@@ -316,9 +353,9 @@ Aprevisão é de que as temperaturas cheguem aos 39ºC na cidade do Rio de Janei
     <item>
       <title>Resultado do Enem será divulgado no dia 16 de janeiro</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/resultado-do-enem-sera-divulgado-no-dia-16-de-janeiro</link>
-      <pubDate>Sat, 10 Jan 2026 13:25:01 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 14:13:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/resultado-do-enem-sera-divulgado-no-dia-16-de-janeiro#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/resultado-do-enem-sera-divulgado-no-dia-16-de-janeiro#1007</guid>
       <description>Os resultados do Exame Nacional do Ensino Médio (Enem)serão divulgados no dia 16 de janeiro
 , conforme anunciou o ministroda Educação, Camilo Santana...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PsAbxwiBQouwkW02HG9xA4gJfpc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/09/54913100355_886af15cd9_k.jpg?itok=y1CrZT4V&quot; alt=&quot;Resultado do Enem será divulgado no dia 16 de janeiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -332,14 +369,14 @@ Aprevisão é de que as temperaturas cheguem aos 39ºC na cidade do Rio de Janei
 &lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
 &lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
 &lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;
+&lt;p&gt;Venezuela anuncia retorno de navio petroleiro em operação com EUA&lt;/p&gt;
+&lt;p&gt;Maioria planeja reaproveitar material escolar na volta às aulas&lt;/p&gt;
 &lt;p&gt;Trump diz que EUA precisam controlar Groenlândia&lt;/p&gt;
 &lt;p&gt;Escolas mirins se apresentarão nos ensaios na Marques de Sapucaí&lt;/p&gt;
-&lt;p&gt;Anvisa quer reduzir fila de análises e priorizar inovações nacionais&lt;/p&gt;
-&lt;p&gt;O Agente Secreto faz cinema brasileiro chegar forte ao Globo de Ouro&lt;/p&gt;
-&lt;p&gt;Confira calendário de pagamentos do INSS para 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/resultado-do-enem-sera-divulgado-no-dia-16-de-janeiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Anvisa quer reduzir fila de análises e priorizar inovações nacionais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/resultado-do-enem-sera-divulgado-no-dia-16-de-janeiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os resultados do Exame Nacional do Ensino Médio (Enem)serão divulgados no dia 16 de janeiro
 , conforme anunciou o ministroda Educação, Camilo Santana...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-09 20:33:00</wp:post_date>
       <wp:post_date_gmt>2026-01-09 20:33:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-09 20:33:00</wp:post_modified>
@@ -365,9 +402,9 @@ Aprevisão é de que as temperaturas cheguem aos 39ºC na cidade do Rio de Janei
     <item>
       <title>Delcy agradece a Lula e ao povo brasileiro por apoio e solidariedade</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/delcy-agradece-lula-e-ao-povo-brasileiro-por-apoio-e-solidariedade</link>
-      <pubDate>Sat, 10 Jan 2026 13:25:01 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 14:13:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/delcy-agradece-lula-e-ao-povo-brasileiro-por-apoio-e-solidariedade#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/delcy-agradece-lula-e-ao-povo-brasileiro-por-apoio-e-solidariedade#1008</guid>
       <description>© Reuters/Leonardo Fernandez Viloria/Proibida reprodução
 A presidente interina da Venezuela, Delcy Rodríguez, postou, nesta sexta-feira (9), mensagem...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FNFVV-8O1RbLb2pIeJhVIWzTALE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/05/2026-01-05t200211z_393467262_rc27viacv1oz_rtrmadp_3_usa-venezuela-caracas-assembly.jpg?itok=88j2x3Nt&quot; alt=&quot;Delcy agradece a Lula e ao povo brasileiro por apoio e solidariedade&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -388,7 +425,7 @@ A presidente interina da Venezuela, Delcy Rodríguez, postou, nesta sexta-feira 
 &lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/delcy-agradece-lula-e-ao-povo-brasileiro-por-apoio-e-solidariedade&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Leonardo Fernandez Viloria/Proibida reprodução
 A presidente interina da Venezuela, Delcy Rodríguez, postou, nesta sexta-feira (9), mensagem...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-09 20:26:00</wp:post_date>
       <wp:post_date_gmt>2026-01-09 20:26:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-09 20:26:00</wp:post_modified>
@@ -414,9 +451,9 @@ A presidente interina da Venezuela, Delcy Rodríguez, postou, nesta sexta-feira 
     <item>
       <title>Peças sacras furtadas há 20 anos são devolvidas à Arquidiocese do Rio</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/pecas-sacras-furtadas-ha-20-anos-sao-devolvidas-arquidiocese-do-rio</link>
-      <pubDate>Sat, 10 Jan 2026 13:25:01 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 14:13:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/pecas-sacras-furtadas-ha-20-anos-sao-devolvidas-arquidiocese-do-rio#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/pecas-sacras-furtadas-ha-20-anos-sao-devolvidas-arquidiocese-do-rio#1009</guid>
       <description>A Polícia Federal (PF), em conjunto com o Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), restituiu cinco peças sacras e diversos ben...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PVSsm2kIfmsCwCmeq9kihUIxZWs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/09/whatsapp_image_2026-01-09_at_17.59.47.jpeg?itok=7q-tdgNF&quot; alt=&quot;Peças sacras furtadas há 20 anos são devolvidas à Arquidiocese do Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Polícia Federal (PF), em conjunto com o Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), restituiu cinco peças sacras e diversos bens arqueológicos à Arquidiocese do Rio de Janeiro.&lt;/p&gt;
@@ -429,13 +466,13 @@ A presidente interina da Venezuela, Delcy Rodríguez, postou, nesta sexta-feira 
 &lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
 &lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
 &lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;
+&lt;p&gt;Cinco criminosos do Comando Vermelho foram presos esta semana no Rio&lt;/p&gt;
+&lt;p&gt;Venezuela anuncia retorno de navio petroleiro em operação com EUA&lt;/p&gt;
+&lt;p&gt;Maioria planeja reaproveitar material escolar na volta às aulas&lt;/p&gt;
 &lt;p&gt;Trump diz que EUA precisam controlar Groenlândia&lt;/p&gt;
-&lt;p&gt;Escolas mirins se apresentarão nos ensaios na Marques de Sapucaí&lt;/p&gt;
-&lt;p&gt;Anvisa quer reduzir fila de análises e priorizar inovações nacionais&lt;/p&gt;
-&lt;p&gt;O Agente Secreto faz cinema brasileiro chegar forte ao Globo de Ouro&lt;/p&gt;
-&lt;p&gt;Confira calendário de pagamentos do INSS para 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/pecas-sacras-furtadas-ha-20-anos-sao-devolvidas-arquidiocese-do-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Escolas mirins se apresentarão nos ensaios na Marques de Sapucaí&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/pecas-sacras-furtadas-ha-20-anos-sao-devolvidas-arquidiocese-do-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Polícia Federal (PF), em conjunto com o Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), restituiu cinco peças sacras e diversos ben...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-09 20:15:00</wp:post_date>
       <wp:post_date_gmt>2026-01-09 20:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-09 20:15:00</wp:post_modified>
@@ -456,55 +493,6 @@ A presidente interina da Venezuela, Delcy Rodríguez, postou, nesta sexta-feira 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/PVSsm2kIfmsCwCmeq9kihUIxZWs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/09/whatsapp_image_2026-01-09_at_17.59.47.jpeg?itok=7q-tdgNF</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Dólar cai para R$ 5,36 com desaceleração do emprego nos EUA</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/dolar-cai-para-r-536-com-desaceleracao-do-emprego-nos-eua</link>
-      <pubDate>Sat, 10 Jan 2026 13:25:01 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/dolar-cai-para-r-536-com-desaceleracao-do-emprego-nos-eua#1009</guid>
-      <description>© Valter Campanato/Agência Brasil
-Num dia de alívio no mercado financeiro, o dólar caiu após duas altas consecutivas e voltou a fechar no menor valor...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mrDjTR2zqhBRdsHsB9DYyyoKlEs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221206.jpg?itok=Lfnkvs7j&quot; alt=&quot;Dólar cai para R$ 5,36 com desaceleração do emprego nos EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Num dia de alívio no mercado financeiro, o dólar caiu após duas altas consecutivas e voltou a fechar no menor valor desde o início de dezembro. Apesar de perder força no fim do dia, a bolsa subiu e recuperou os 163 mil pontos.&lt;/p&gt;
-&lt;p&gt;O dólar comercial encerrou esta sexta-feira (9) vendido a R$ 5,365, com recuo de R$ 0,024 (-0,44%)&lt;/p&gt;
-&lt;p&gt;. A cotação iniciou o dia estável, mas caiu após a divulgação de dados do mercado de trabalho nos Estados Unidos. Na mínima do dia, por volta das 14h, chegou a R$ 5,35.&lt;/p&gt;
-&lt;p&gt;A moeda estadunidense está no menor nível desde 4 de dezembro, quando tinha sido vendida a R$ 5,31. A divisa cai 2,24% em janeiro, após subir 2,89% no mês passado. Em 2025, o dólar caiu 11,18%.&lt;/p&gt;
-&lt;p&gt;No mercado de ações, o dia foi marcado pela recuperação.&lt;/p&gt;
-&lt;p&gt;Após cair 1,03% na quinta-feira (8), o Ibovespa fechou esta sexta aos 163.370 pontos, com alta de 0,27%.&lt;/p&gt;
-&lt;p&gt;O indicador chegou a subir 0,81% às 14h03, mas perdeu força durante a tarde.&lt;/p&gt;
-&lt;p&gt;A bolsa brasileira subiu 1,76% na semana e acumula alta de 1,39% em 2026.&lt;/p&gt;
-&lt;p&gt;Tanto fatores internos como externos influenciaram o mercado. A divulgação de que a economia estadunidense criou 50 mil empregos em dezembro foi bem recebida pelos investidores. A abertura de vagas ficou abaixo do previsto, o que abre margem para um corte de juros pelo Federal Reserve (Fed, Banco Central dos Estados Unidos) no início de 2026.&lt;/p&gt;
-&lt;p&gt;Juros menores em economias avançadas atraem capitais para países emergentes, como o Brasil. Nesta sexta, o real também se beneficiou da alta de 2% do petróleo no mercado internacional.&lt;/p&gt;
-&lt;p&gt;os dados da inflação oficial em 2025 ajudaram a segurar o dólar.&lt;/p&gt;
-&lt;p&gt;Apesar de o Índice Nacional de Preços ao Consumidor Amplo (IPCA)&lt;/p&gt;
-&lt;p&gt;ter fechado o ano passado em 4,26%&lt;/p&gt;
-&lt;p&gt;, os preços do setor de serviços continuam pressionados, o que abre margem para o Banco Central brasileiro começar a cortar os juros apenas na reunião de março.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/dolar-cai-para-r-536-com-desaceleracao-do-emprego-nos-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-Num dia de alívio no mercado financeiro, o dólar caiu após duas altas consecutivas e voltou a fechar no menor valor...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-09 20:01:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-09 20:01:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-09 20:01:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-09 20:01:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/mrDjTR2zqhBRdsHsB9DYyyoKlEs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221206.jpg?itok=Lfnkvs7j</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
