@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 10 Jan 2026 15:13:46 +0000</pubDate>
+    <pubDate>Sat, 10 Jan 2026 16:16:51 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,107 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Defesa Civil de SP alerta para ocorrência de chuva forte no estado</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/defesa-civil-de-sp-alerta-para-ocorrencia-de-chuva-forte-no-estado</link>
+      <pubDate>Sat, 10 Jan 2026 16:16:51 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/defesa-civil-de-sp-alerta-para-ocorrencia-de-chuva-forte-no-estado#1000</guid>
+      <description>© Arquivo/Marcelo Camargo/Agência Brasil
+A Defesa Civil de São Paulo divulgou alerta para a chegada de uma frente fria na Região Sul do estado, que d...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/lKfhIjLurAayVABfmfKp_f0B_CA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/chuva_em_sao_paulo.jpg?itok=4-yyK3RQ&quot; alt=&quot;Defesa Civil de SP alerta para ocorrência de chuva forte no estado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Arquivo/Marcelo Camargo/Agência Brasil&lt;/p&gt;
+&lt;p&gt;A Defesa Civil de São Paulo divulgou alerta para a chegada de uma frente fria na Região Sul do estado, que deverá causar chuvas fortes e isoladas neste sábado (10) e domingo (11). Também são esperadas rajadas de ventos e ocorrência de granizo.&lt;/p&gt;
+&lt;p&gt;O Instituto Nacional de Meteorologia (Inmet) publicou aviso de Perigo Potencial para o estado, iniciando às 10h40 deste sábado, com vigência até as 11h de amanhã&lt;/p&gt;
+&lt;p&gt;.São esperados chuva de 20 a 30 milímetros por hora e até 50 mm/dia, ventos intensos, de 40 a 60 km/h, e queda de granizo.&lt;/p&gt;
+&lt;p&gt;Segundo o Inmet, em caso de rajadas de vento, a orientação é não se abrigar debaixo de árvores e não estacionar veículos próximos a torres de transmissão e placas de propaganda&lt;/p&gt;
+&lt;p&gt;. É recomendado também evitar usar aparelhos eletrônicos ligados à tomada.&lt;/p&gt;
+&lt;p&gt;Caso necessário, a Defesa Civil pode ser acionada pelo telefone 199 e o Corpo de Bombeiros, 193.&lt;/p&gt;
+&lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
+&lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
+&lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;
+&lt;p&gt;Inmet emite alerta de tempestade e vento na Região Sul&lt;/p&gt;
+&lt;p&gt;Defesa Civil de SP alerta para ocorrência de chuva forte no estado&lt;/p&gt;
+&lt;p&gt;EUA têm mais de mil manifestações contra a morte de Renee Good&lt;/p&gt;
+&lt;p&gt;Secretário executivo é nomeado ministro interino da Justiça&lt;/p&gt;
+&lt;p&gt;Cinco criminosos do Comando Vermelho foram presos esta semana no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/defesa-civil-de-sp-alerta-para-ocorrencia-de-chuva-forte-no-estado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Arquivo/Marcelo Camargo/Agência Brasil
+A Defesa Civil de São Paulo divulgou alerta para a chegada de uma frente fria na Região Sul do estado, que d...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-10 11:46:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-10 11:46:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-10 11:46:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-10 11:46:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/lKfhIjLurAayVABfmfKp_f0B_CA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/chuva_em_sao_paulo.jpg?itok=4-yyK3RQ</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Secretário executivo é nomeado ministro interino da Justiça</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/secretario-executivo-e-nomeado-ministro-interino-da-justica</link>
+      <pubDate>Sat, 10 Jan 2026 16:16:51 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/secretario-executivo-e-nomeado-ministro-interino-da-justica#1001</guid>
+      <description>O presidente Luiz Inácio Lula da Silva nomeou o secretário executivo do Ministério da Justiça e Segurança Pública, Manoel Carlos de Almeida Neto, par...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/w0zF2B5uzGimoCXuTVWpDSDFO8Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/04/125a4442.jpg?itok=C0iN-6KJ&quot; alt=&quot;Secretário executivo é nomeado ministro interino da Justiça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O presidente Luiz Inácio Lula da Silva nomeou o secretário executivo do Ministério da Justiça e Segurança Pública, Manoel Carlos de Almeida Neto, para chefiar a pasta interinamente. A indicação foi publicada nessasexta-feira (9) no&lt;/p&gt;
+&lt;p&gt;Ele substitui temporariamente o ex-ministro Ricardo Lewandowski, que entregou, na quinta-feira (8), uma carta com&lt;/p&gt;
+&lt;p&gt;ao presidente Luiz Inácio Lula da Silva.&lt;/p&gt;
+&lt;p&gt;Lewandowski assumiu a pasta em fevereiro de 2024 e alegou que questões pessoais e familiares o levaram a tomar a decisão.&lt;/p&gt;
+&lt;p&gt;&quot;Tenho a convicção de que exerci as atribuições do cargo com zelo e dignidade, exigindo de mim e de meus colaboradores o melhor desempenho possível em prol de nossos administrados, consideradas as limitações políticas, conjunturais e orçamentárias das circunstâncias pelas quais passamos&quot;, escreveu Lewandowski na carta.&lt;/p&gt;
+&lt;p&gt;O ministro interino Manoel Carlos de Almeida Neto já foi secretário-geral do Tribunal Superior Eleitoral (TSE) e, em 2014, teve o nome aprovado pelo plenário do Supremo Tribunal Federal (STF) para ocupar o cargo de secretário-geral da Corte.&lt;/p&gt;
+&lt;p&gt;Almeida Neto exerceu por oito anos o cargo de diretor jurídico da Companhia Siderúrgica Nacional (CSN). No âmbito acadêmico, foi professor e cursou pós-doutorado e doutorado em direito pela Universidade de São Paulo (USP).&lt;/p&gt;
+&lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
+&lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
+&lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;
+&lt;p&gt;Inmet emite alerta de tempestade e vento na Região Sul&lt;/p&gt;
+&lt;p&gt;Defesa Civil de SP alerta para ocorrência de chuva forte no estado&lt;/p&gt;
+&lt;p&gt;EUA têm mais de mil manifestações contra a morte de Renee Good&lt;/p&gt;
+&lt;p&gt;Secretário executivo é nomeado ministro interino da Justiça&lt;/p&gt;
+&lt;p&gt;Cinco criminosos do Comando Vermelho foram presos esta semana no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/secretario-executivo-e-nomeado-ministro-interino-da-justica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O presidente Luiz Inácio Lula da Silva nomeou o secretário executivo do Ministério da Justiça e Segurança Pública, Manoel Carlos de Almeida Neto, par...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-01-10 11:34:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-10 11:34:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-10 11:34:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-10 11:34:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/w0zF2B5uzGimoCXuTVWpDSDFO8Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/04/125a4442.jpg?itok=C0iN-6KJ</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Cinco criminosos do Comando Vermelho foram presos esta semana no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/cinco-criminosos-do-comando-vermelho-foram-presos-esta-semana-no-rio</link>
-      <pubDate>Sat, 10 Jan 2026 15:13:46 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 16:16:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/cinco-criminosos-do-comando-vermelho-foram-presos-esta-semana-no-rio#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/cinco-criminosos-do-comando-vermelho-foram-presos-esta-semana-no-rio#1002</guid>
       <description>As forças de segurança do Rio prenderam, nesta semana, cinco lideranças do tráfico de drogas do Comando Vermelho, que vieram para o Rio se esconder e...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/IK1DuaB7vfnYFYRSbKZLThKDvNM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/frpb-eiwcaapzfc-aaa-2.jpg?itok=vKD6FcKJ&quot; alt=&quot;Cinco criminosos do Comando Vermelho foram presos esta semana no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;As forças de segurança do Rio prenderam, nesta semana, cinco lideranças do tráfico de drogas do Comando Vermelho, que vieram para o Rio se esconder e comandar as ações do tráfico de drogas em seus estados de origem.&lt;/p&gt;
@@ -45,7 +141,7 @@
 &lt;p&gt;Também na segunda, policiais civis da 59ª delegacia policial (Duque de Caxias) prenderam o líder do tráfico de drogas de Campo Alegre, em Alagoas.&lt;/p&gt;
 &lt;p&gt;Ele foi capturado em Duque de Caxias, na Baixada Fluminense, após trabalho de inteligência e troca de informações com a Polícia Civil alagoana. Contra ele, foram cumpridos dois mandados de prisão preventiva pelos crimes de tentativa de homicídio qualificado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/cinco-criminosos-do-comando-vermelho-foram-presos-esta-semana-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>As forças de segurança do Rio prenderam, nesta semana, cinco lideranças do tráfico de drogas do Comando Vermelho, que vieram para o Rio se esconder e...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-01-10 11:10:00</wp:post_date>
       <wp:post_date_gmt>2026-01-10 11:10:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-10 11:10:00</wp:post_modified>
@@ -71,9 +167,9 @@
     <item>
       <title>Venezuela anuncia retorno de navio petroleiro em operação com EUA</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/venezuela-anuncia-retorno-de-navio-petroleiro-em-operacao-com-eua</link>
-      <pubDate>Sat, 10 Jan 2026 15:13:46 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 16:16:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/venezuela-anuncia-retorno-de-navio-petroleiro-em-operacao-com-eua#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/venezuela-anuncia-retorno-de-navio-petroleiro-em-operacao-com-eua#1003</guid>
       <description>© Hakon Rimmereid/via REUTERS/proibida reprodução
 O governo da Venezuela anunciou, na noite de sexta (9), que uma operação conjunta com os Estados Un...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/HoyoQmz28fFV3R2-K9_3xYK8Sg8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/07/2026-01-07t124754z_1_lynxmpem060mq_rtroptp_4_eua-venezuela-petroleiro-apreensao.jpg?itok=4ebTrirs&quot; alt=&quot;Venezuela anuncia retorno de navio petroleiro em operação com EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -91,10 +187,10 @@ O governo da Venezuela anunciou, na noite de sexta (9), que uma operação conju
 &lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
 &lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
 &lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;
-&lt;p&gt;Defesa Civil de SP alerta para ocorrência de chuva forte no estado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/venezuela-anuncia-retorno-de-navio-petroleiro-em-operacao-com-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Inmet emite alerta de tempestade e vento na Região Sul&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/venezuela-anuncia-retorno-de-navio-petroleiro-em-operacao-com-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Hakon Rimmereid/via REUTERS/proibida reprodução
 O governo da Venezuela anunciou, na noite de sexta (9), que uma operação conjunta com os Estados Un...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-10 10:46:00</wp:post_date>
       <wp:post_date_gmt>2026-01-10 10:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-10 10:46:00</wp:post_modified>
@@ -120,9 +216,9 @@ O governo da Venezuela anunciou, na noite de sexta (9), que uma operação conju
     <item>
       <title>Maioria planeja reaproveitar material escolar na volta às aulas</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/maioria-planeja-reaproveitar-material-escolar-na-volta-aulas</link>
-      <pubDate>Sat, 10 Jan 2026 15:13:46 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 16:16:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/maioria-planeja-reaproveitar-material-escolar-na-volta-aulas#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/maioria-planeja-reaproveitar-material-escolar-na-volta-aulas#1004</guid>
       <description>Oito em cada dez brasileiros com filhos em idade escolar pretendem reaproveitar os materiais do ano passado. A estimativa é resultado de umapesquisa ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3D-W_t2cIqjBKaCvm7HVJxJiV1M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rvrsa_abr_15011910458rj.jpg?itok=nuTCgCq9&quot; alt=&quot;Maioria planeja reaproveitar material escolar na volta às aulas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Oito em cada dez brasileiros com filhos em idade escolar pretendem reaproveitar os materiais do ano passado. A estimativa é resultado de umapesquisa do Instituto Locomotiva, em parceria com a QuestionPro, levantou dados sobre como as famílias brasileiras estão se organizando para a volta às aulas de 2026.&lt;/p&gt;
@@ -141,7 +237,7 @@ O governo da Venezuela anunciou, na noite de sexta (9), que uma operação conju
 &lt;p&gt;“Eu sempre procuro uma loja que sei ter bom preço e acabo comprando todo o material no mesmo lugar por conveniência. Não procuro muito nem vou em várias lojas”, conta Priscilla, que confirma que os gastos afetam bastante o planejamento financeiro.&lt;/p&gt;
 &lt;p&gt;“Principalmente os livros, que são itens essenciais. O material, podemos ajustar de acordo com o orçamento e necessidade, mas os livros não nos dão essa escolha. Sem dúvida, o material didático é a parte mais cara”, completa.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/maioria-planeja-reaproveitar-material-escolar-na-volta-aulas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Oito em cada dez brasileiros com filhos em idade escolar pretendem reaproveitar os materiais do ano passado. A estimativa é resultado de umapesquisa ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-10 10:37:00</wp:post_date>
       <wp:post_date_gmt>2026-01-10 10:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-10 10:37:00</wp:post_modified>
@@ -167,9 +263,9 @@ O governo da Venezuela anunciou, na noite de sexta (9), que uma operação conju
     <item>
       <title>Escolas mirins se apresentarão nos ensaios na Marques de Sapucaí</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/escolas-mirins-se-apresentarao-nos-ensaios-na-marques-de-sapucai</link>
-      <pubDate>Sat, 10 Jan 2026 15:13:46 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 16:16:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/escolas-mirins-se-apresentarao-nos-ensaios-na-marques-de-sapucai#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/escolas-mirins-se-apresentarao-nos-ensaios-na-marques-de-sapucai#1005</guid>
       <description>As escolas de samba mirins terão mais dias para desfilar no Rio Carnaval 2026. Em sorteio, na sede da Liga Independente das Escolas de Samba do Rio d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1foFVFsi1MLEUZe_7-P-crsSEAg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/10/52027892005_da0725da82_k.jpg?itok=4jnslPX-&quot; alt=&quot;Escolas mirins se apresentarão nos ensaios na Marques de Sapucaí&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;As escolas de samba mirins terão mais dias para desfilar no Rio Carnaval 2026. Em sorteio, na sede da Liga Independente das Escolas de Samba do Rio de Janeiro (Liesa), os dirigentes das agremiações conheceram os detalhes do novo formato, que contará com a divisão de mais dias para a criançada se apresentar.&lt;/p&gt;
@@ -181,14 +277,14 @@ O governo da Venezuela anunciou, na noite de sexta (9), que uma operação conju
 &lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
 &lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
 &lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;
+&lt;p&gt;Inmet emite alerta de tempestade e vento na Região Sul&lt;/p&gt;
 &lt;p&gt;Defesa Civil de SP alerta para ocorrência de chuva forte no estado&lt;/p&gt;
 &lt;p&gt;EUA têm mais de mil manifestações contra a morte de Renee Good&lt;/p&gt;
 &lt;p&gt;Secretário executivo é nomeado ministro interino da Justiça&lt;/p&gt;
 &lt;p&gt;Cinco criminosos do Comando Vermelho foram presos esta semana no Rio&lt;/p&gt;
-&lt;p&gt;Venezuela anuncia retorno de navio petroleiro em operação com EUA&lt;/p&gt;
-&lt;p&gt;Maioria planeja reaproveitar material escolar na volta às aulas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/escolas-mirins-se-apresentarao-nos-ensaios-na-marques-de-sapucai&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Venezuela anuncia retorno de navio petroleiro em operação com EUA&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/escolas-mirins-se-apresentarao-nos-ensaios-na-marques-de-sapucai&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>As escolas de samba mirins terão mais dias para desfilar no Rio Carnaval 2026. Em sorteio, na sede da Liga Independente das Escolas de Samba do Rio d...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-10 09:47:00</wp:post_date>
       <wp:post_date_gmt>2026-01-10 09:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-10 09:47:00</wp:post_modified>
@@ -214,9 +310,9 @@ O governo da Venezuela anunciou, na noite de sexta (9), que uma operação conju
     <item>
       <title>Anvisa quer reduzir fila de análises e priorizar inovações nacionais</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/anvisa-quer-reduzir-fila-de-analises-e-priorizar-inovacoes-nacionais</link>
-      <pubDate>Sat, 10 Jan 2026 15:13:46 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 16:16:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/anvisa-quer-reduzir-fila-de-analises-e-priorizar-inovacoes-nacionais#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/anvisa-quer-reduzir-fila-de-analises-e-priorizar-inovacoes-nacionais#1006</guid>
       <description>© Valter Campanato/Agência Brasil
 Em agosto de 2025, o Senado aprovou três nomes para a diretoria colegiada da Agência Nacional de Vigilância Sanitár...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uSsu4ssYTPNly-Fz2ZLKt9EDsgA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/09/0d7a5777.jpg?itok=qWA3pdRw&quot; alt=&quot;Anvisa quer reduzir fila de análises e priorizar inovações nacionais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -237,7 +333,7 @@ Em agosto de 2025, o Senado aprovou três nomes para a diretoria colegiada da Ag
 &lt;p&gt;Já tivemos reunião para tratar desses temas e a ideia é que a gente acompanhe e dê o apoio necessário para que a equipe técnica faça a melhor análise possível. É um comitê que puxa, para a alta gestão da Anvisa, o trabalho de acompanhar os casos. E que vai dar o apoio necessário, o subsídio necessário para que a área técnica faça o melhor trabalho possível de avaliação.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/anvisa-quer-reduzir-fila-de-analises-e-priorizar-inovacoes-nacionais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 Em agosto de 2025, o Senado aprovou três nomes para a diretoria colegiada da Agência Nacional de Vigilância Sanitár...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-10 09:02:00</wp:post_date>
       <wp:post_date_gmt>2026-01-10 09:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-10 09:02:00</wp:post_modified>
@@ -263,9 +359,9 @@ Em agosto de 2025, o Senado aprovou três nomes para a diretoria colegiada da Ag
     <item>
       <title>O Agente Secreto faz cinema brasileiro chegar forte ao Globo de Ouro</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/o-agente-secreto-faz-cinema-brasileiro-chegar-forte-ao-globo-de-ouro</link>
-      <pubDate>Sat, 10 Jan 2026 15:13:46 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 16:16:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/o-agente-secreto-faz-cinema-brasileiro-chegar-forte-ao-globo-de-ouro#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/o-agente-secreto-faz-cinema-brasileiro-chegar-forte-ao-globo-de-ouro#1007</guid>
       <description>O Brasil volta a experimentar um clima de final de campeonato às vésperas da cerimônia do Globo de Ouro, marcada para o próximo domingo (11), em Los ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3C-vsetcuV1IPKDzOQcj3LqqPMM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/06/foto_filme_o_agente_secreto_credito_victor_juca.jpg?itok=CQIHnb4y&quot; alt=&quot;O Agente Secreto faz cinema brasileiro chegar forte ao Globo de Ouro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Brasil volta a experimentar um clima de final de campeonato às vésperas da cerimônia do Globo de Ouro, marcada para o próximo domingo (11), em Los Angeles. A 83ª edição da premiação reforça um movimento iniciado no ano passado, quando&lt;/p&gt;
@@ -284,7 +380,7 @@ Em agosto de 2025, o Senado aprovou três nomes para a diretoria colegiada da Ag
 &lt;p&gt;Além do peso artístico, o perfil do Globo de Ouro contribui para ampliar as chances brasileiras. Diferentemente de premiações formadas majoritariamente por críticos norte-americanos, o evento reúne 334 votantes de 85 países, o que favorece produções internacionais com forte circulação global e campanhas estruturadas. Nesse contexto, a presença constante do diretor Kleber Mendonça Filhoe da equipe do filme em debates, exibições especiais e encontros com eleitores tem sido estratégica.&lt;/p&gt;
 &lt;p&gt;A concorrência, no entanto, é acirrada. Em melhor filme em língua não inglesa,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/o-agente-secreto-faz-cinema-brasileiro-chegar-forte-ao-globo-de-ouro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Brasil volta a experimentar um clima de final de campeonato às vésperas da cerimônia do Globo de Ouro, marcada para o próximo domingo (11), em Los ...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-10 08:34:00</wp:post_date>
       <wp:post_date_gmt>2026-01-10 08:34:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-10 08:34:00</wp:post_modified>
@@ -310,9 +406,9 @@ Em agosto de 2025, o Senado aprovou três nomes para a diretoria colegiada da Ag
     <item>
       <title>Confira calendário de pagamentos do INSS para 2026</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/confira-calendario-de-pagamentos-do-inss-para-2026</link>
-      <pubDate>Sat, 10 Jan 2026 15:13:46 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 16:16:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/confira-calendario-de-pagamentos-do-inss-para-2026#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/confira-calendario-de-pagamentos-do-inss-para-2026#1008</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 cerca de 35milhões de beneficiários do Instituto Nacional do Seguro Social (INSS) já podem conferir a data de pagam...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kUWjhGSC38d6YjdB2BcYNJY4fsM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20231102_131516.jpg?itok=u2CpK60b&quot; alt=&quot;Confira calendário de pagamentos do INSS para 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -333,7 +429,7 @@ cerca de 35milhões de beneficiários do Instituto Nacional do Seguro Social (IN
 &lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/confira-calendario-de-pagamentos-do-inss-para-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 cerca de 35milhões de beneficiários do Instituto Nacional do Seguro Social (INSS) já podem conferir a data de pagam...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-10 08:00:00</wp:post_date>
       <wp:post_date_gmt>2026-01-10 08:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-10 08:00:00</wp:post_modified>
@@ -359,9 +455,9 @@ cerca de 35milhões de beneficiários do Instituto Nacional do Seguro Social (IN
     <item>
       <title>Mega-Sena sorteia prêmio de R$ 13,5 milhões neste sábado</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-sorteia-premio-de-r-135-milhoes-neste-sabado</link>
-      <pubDate>Sat, 10 Jan 2026 15:13:46 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 16:16:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-sorteia-premio-de-r-135-milhoes-neste-sabado#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-sorteia-premio-de-r-135-milhoes-neste-sabado#1009</guid>
       <description>© Marcello Casal JrAgência Brasil
 As seis dezenas do concurso 2.958 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MfZHMDabCaFkb7-AEj5r_dejyjM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena_mcajr_abr_2904223680.jpg?itok=5iwnRMLK&quot; alt=&quot;Mega-Sena sorteia prêmio de R$ 13,5 milhões neste sábado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -375,14 +471,10 @@ As seis dezenas do concurso 2.958 da Mega-Sena serão sorteadas, a partir das 21
 &lt;p&gt;O jogo simples, com seis números marcados, custa R$ 6.&lt;/p&gt;
 &lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
 &lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
-&lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;
-&lt;p&gt;Defesa Civil de SP alerta para ocorrência de chuva forte no estado&lt;/p&gt;
-&lt;p&gt;EUA têm mais de mil manifestações contra a morte de Renee Good&lt;/p&gt;
-&lt;p&gt;Secretário executivo é nomeado ministro interino da Justiça&lt;/p&gt;
-&lt;p&gt;Cinco criminosos do Comando Vermelho foram presos esta semana no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-sorteia-premio-de-r-135-milhoes-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-sorteia-premio-de-r-135-milhoes-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 As seis dezenas do concurso 2.958 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço d...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-10 07:45:00</wp:post_date>
       <wp:post_date_gmt>2026-01-10 07:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-10 07:45:00</wp:post_modified>
@@ -403,104 +495,6 @@ As seis dezenas do concurso 2.958 da Mega-Sena serão sorteadas, a partir das 21
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/MfZHMDabCaFkb7-AEj5r_dejyjM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena_mcajr_abr_2904223680.jpg?itok=5iwnRMLK</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Rio de Janeiro pode chegar a 39ºC no domingo</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/rio-de-janeiro-pode-chegar-39oc-no-domingo</link>
-      <pubDate>Sat, 10 Jan 2026 15:13:46 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/rio-de-janeiro-pode-chegar-39oc-no-domingo#1008</guid>
-      <description>© Fernando Frazão/Agência Brasil
-Aprevisão é de que as temperaturas cheguem aos 39ºC na cidade do Rio de Janeiro no domingo (11)
-, conforme alertam a...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_i15j7PANiECyWqg8VoFUDFqw_E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/26/_d6a4895_01.jpg?itok=Mq8WKdwF&quot; alt=&quot;Rio de Janeiro pode chegar a 39ºC no domingo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Aprevisão é de que as temperaturas cheguem aos 39ºC na cidade do Rio de Janeiro no domingo (11)&lt;/p&gt;
-&lt;p&gt;, conforme alertam as autoridades estaduais.&lt;/p&gt;
-&lt;p&gt;A cidade atingiu nesta sexta-feira (9)o segundo nível do Protocolo de Calor (CALOR 2) às 9h45. O Calor 2 é o segundo de cinco níveis de calor, e caracteriza-se por temperaturaacima de 36°C por um ou dois dias consecutivos e por quatro horas ou mais.&lt;/p&gt;
-&lt;p&gt;Com a previsão de altas temperaturas,sete municípios entraram em nível de alerta severo: Belford Roxo,Japeri,Marica,Piraí,Queimados,São Gonçalo,Seropédica,Nova Iguaçu,Guapimirime Itaguaí.&lt;/p&gt;
-&lt;p&gt;A previsão é que a capital entre na lista a partir de segunda-feira(12).&lt;/p&gt;
-&lt;p&gt;“É preciso manter uma boa hidratação ao longo do dia, usar roupas claras e leves e evitar a exposição direta ao sol nos horários mais quentes, entre 10h e 16h. Quando for inevitável sair nesse período, é importante utilizar proteção solar, como bonés, chapéus e óculos escuros”, alertaa secretária de Estado de Saúde, Claudia Mello.&lt;/p&gt;
-&lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
-&lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
-&lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;
-&lt;p&gt;Defesa Civil de SP alerta para ocorrência de chuva forte no estado&lt;/p&gt;
-&lt;p&gt;EUA têm mais de mil manifestações contra a morte de Renee Good&lt;/p&gt;
-&lt;p&gt;Secretário executivo é nomeado ministro interino da Justiça&lt;/p&gt;
-&lt;p&gt;Cinco criminosos do Comando Vermelho foram presos esta semana no Rio&lt;/p&gt;
-&lt;p&gt;Venezuela anuncia retorno de navio petroleiro em operação com EUA&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/rio-de-janeiro-pode-chegar-39oc-no-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fernando Frazão/Agência Brasil
-Aprevisão é de que as temperaturas cheguem aos 39ºC na cidade do Rio de Janeiro no domingo (11)
-, conforme alertam a...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-01-09 22:03:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-09 22:03:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-09 22:03:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-09 22:03:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/_i15j7PANiECyWqg8VoFUDFqw_E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/26/_d6a4895_01.jpg?itok=Mq8WKdwF</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>MPRJ pede inclusão de ex-CEO da Hurb na lista da Interpol</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/mprj-pede-inclusao-de-ex-ceo-da-hurb-na-lista-da-interpol</link>
-      <pubDate>Sat, 10 Jan 2026 15:13:46 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/mprj-pede-inclusao-de-ex-ceo-da-hurb-na-lista-da-interpol#1009</guid>
-      <description>O Ministério Público do Rio de Janeiro (MPRJ) pediu, nesta sexta-feira (9), a inclusão do nome deJoão Ricardo Mendes, ex-CEO da agência de viagens Hu...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;MPRJ pede inclusão de ex-CEO da Hurb na lista da Interpol&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Ministério Público do Rio de Janeiro (MPRJ) pediu, nesta sexta-feira (9), a inclusão do nome deJoão Ricardo Mendes, ex-CEO da agência de viagens Hurb, na lista vermelha de procurados da Interpol, além do bloqueio de seu passaporte.&lt;/p&gt;
-&lt;p&gt;Ele é consideradoforagido desde quarta-feira (7). João Ricardo Mendes chegou a ser preso na última segunda-feira (5)no Aeroporto Regional de Jericoacoara, no Ceará, portando documento falso e com a tornozeleira eletrônica descarregada. No entanto, ele foi solto após passar pela audiência de custódia.&lt;/p&gt;
-&lt;p&gt;A Justiça do Rio decretou nesta quarta-feira (7) a&lt;/p&gt;
-&lt;p&gt;prisão preventiva de João Ricardo Rangel Mendes&lt;/p&gt;
-&lt;p&gt;. Na decisão, o juiz André Felipe Veras de Oliveira, da 32ªVara Criminal, decretou a prisão em razão &quot;deevidente risco à ordem pública e à aplicação da lei penal&quot;.&lt;/p&gt;
-&lt;p&gt;O empresário foi denunciado em maio de 2025 pelos crimes de furto qualificado e adulteração de identificação de veículo, e estava respondendo ao processo em liberdade até ser preso no Ceará.A defesaalegaque o réu não descumpriu as medidas cautelares.&lt;/p&gt;
-&lt;p&gt;Mosaico é destaque do 41º Salão do Artesanato Paraibano em João Pessoa&lt;/p&gt;
-&lt;p&gt;Bia Zaneratto é apresentada e pede que torcida compareça aos jogos de futebol feminino&lt;/p&gt;
-&lt;p&gt;Acordo Mercosul-União Europeia ganhou força em meio ao tarifaço&lt;/p&gt;
-&lt;p&gt;Defesa Civil de SP alerta para ocorrência de chuva forte no estado&lt;/p&gt;
-&lt;p&gt;EUA têm mais de mil manifestações contra a morte de Renee Good&lt;/p&gt;
-&lt;p&gt;Secretário executivo é nomeado ministro interino da Justiça&lt;/p&gt;
-&lt;p&gt;Cinco criminosos do Comando Vermelho foram presos esta semana no Rio&lt;/p&gt;
-&lt;p&gt;Venezuela anuncia retorno de navio petroleiro em operação com EUA&lt;/p&gt;
-&lt;p&gt;Maioria planeja reaproveitar material escolar na volta às aulas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/mprj-pede-inclusao-de-ex-ceo-da-hurb-na-lista-da-interpol&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Ministério Público do Rio de Janeiro (MPRJ) pediu, nesta sexta-feira (9), a inclusão do nome deJoão Ricardo Mendes, ex-CEO da agência de viagens Hu...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-09 21:29:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-09 21:29:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-09 21:29:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-09 21:29:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
