@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 13/01/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 14:29 UTC</description>
-<lastBuildDate>Tue, 13 Jan 2026 14:29:05 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Tue, 13 Jan 2026 15:29:36 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Aviso de pauta: Prefeitura realiza coletiva de apresentação do plano operacional do Ciclo Carnavalesco 2026</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/aviso-de-pauta-prefeitura-realiza-coletiva-de-apresentacao-do-plano-operacional-do-ciclo-carnavalesco-2026</link>
+<guid isPermaLink="false">fortaleza-20260113-46cf62133651</guid>
+<pubDate>Tue, 13 Jan 2026 10:58:00 +0000</pubDate>
+<description>Aviso de pauta: Prefeitura realiza coletiva de apresentação do plano operacional do Ciclo Carnavalesco 2026 - Terça, 13 Janeiro 2026 10:58</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/CULTURA.png" alt="Aviso de pauta: Prefeitura realiza coletiva de apresentação do plano operacional do Ciclo Carnavales" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Prefeitura de Fortaleza realizará nesta quarta-feira (14/01), às 8h30, no auditório do Paço Municipal, a coletiva de imprensa para a apresentação do Plano Operacional do Ciclo Carnavalesco 2026. </p>
+<p>Na ocasião, as autoridades responsáveis detalharão as estratégias de segurança, trânsito, saúde e fiscalização, que garantirão o funcionamento pleno do evento nas 12 Regionais da capital cearense.</p>
+<p><strong>Serviço<br/></strong>Coletiva de apresentação do Plano Operacional - Carnaval 2026<br/>Data: quarta-feira (14/01)<br/>Horário: 8h30<br/>Local: Auditório do Paço Municipal (Rua São José, 01 - Centro)</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/aviso-de-pauta-prefeitura-realiza-coletiva-de-apresentacao-do-plano-operacional-do-ciclo-carnavalesco-2026" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/CULTURA.png" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/CULTURA.png" type="image/jpeg" medium="image">
+<media:title>Aviso de pauta: Prefeitura realiza coletiva de apresentação do plano operacional do Ciclo Carnavales</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
