@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 14 Jan 2026 22:15:39 +0000</pubDate>
+    <pubDate>Wed, 14 Jan 2026 23:13:25 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,106 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>SP: passageiros de ônibus da capital podem pagar bilhete via Bluetooth</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/sp-passageiros-de-onibus-da-capital-podem-pagar-bilhete-bluetooth</link>
+      <pubDate>Wed, 14 Jan 2026 23:13:25 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/sp-passageiros-de-onibus-da-capital-podem-pagar-bilhete-bluetooth#1000</guid>
+      <description>Os passageiros de ônibus da capital paulista passaram a contar com mais uma forma de pagamento da tarifa nos coletivos.
+Para utilizar a nova modalida...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WqPYKatMRGA_oQcP8VNDySUcrWs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/06/pint1652.jpg?itok=z9tPzyr_&quot; alt=&quot;SP: passageiros de ônibus da capital podem pagar bilhete via Bluetooth&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Os passageiros de ônibus da capital paulista passaram a contar com mais uma forma de pagamento da tarifa nos coletivos.&lt;/p&gt;
+&lt;p&gt;Para utilizar a nova modalidade, o usuário deve baixar o aplicativo Cittamobi e manter o bluetooth do smartphone ativado. A validação da passagem ocorre por aproximação do celular, com o aplicativo aberto, diretamente no equipamento validador, instalado em 2,2 mil ônibus que operam em 296 linhas.&lt;/p&gt;
+&lt;p&gt;Os ônibusque aceitama nova modalidade estão identificados com um adesivo na parte externa da porta de embarque.&lt;/p&gt;
+&lt;p&gt;Pelo aplicativo, será possível a compra de passagens avulsas ou pacotes de viagens (diário, semanal e mensal) com pagamento via Pix. No entanto, essa forma de pagamento não dá direito à integração entre ônibus e veículos de transporte sobre trilhos.&lt;/p&gt;
+&lt;p&gt;“A implementação da tecnologia nas linhas de ônibus propõe ainda reduzir o tempo de embarque, evitar a necessidade de manuseio de dinheiro em espécie e proporcionar maior conveniência tanto para os passageiros quanto para os operadores do transporte”, destacou a prefeitura, em nota.A lista completa das linhas que contam com o novo sistema pode ser encontrada no&lt;/p&gt;
+&lt;p&gt;Especialista destaca importância da vacinação para proteção de doenças&lt;/p&gt;
+&lt;p&gt;Corinthians apresenta novos reforços visando a temporada de 2026 no futebol feminino&lt;/p&gt;
+&lt;p&gt;Vanderlei Cordeiro de Lima conversa com a equipe do Stadium&lt;/p&gt;
+&lt;p&gt;SP: passageiros de ônibus da capital podem pagar bilhete via Bluetooth&lt;/p&gt;
+&lt;p&gt;Transpetro registra aumento de furtos em dutos, após 6 anos de queda&lt;/p&gt;
+&lt;p&gt;Mirassol cria departamento feminino e terá ex-Corinthians como gestora&lt;/p&gt;
+&lt;p&gt;Vestibular da USP vai cobrar obras indígenas e quadrinhos&lt;/p&gt;
+&lt;p&gt;Suspensão da emissão de vistos dos EUA não afeta turistas&lt;/p&gt;
+&lt;p&gt;Saúde pública no RJ registra aumento nos atendimentos ligados ao calor&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/sp-passageiros-de-onibus-da-capital-podem-pagar-bilhete-bluetooth&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Os passageiros de ônibus da capital paulista passaram a contar com mais uma forma de pagamento da tarifa nos coletivos.
+Para utilizar a nova modalida...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-14 18:40:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-14 18:40:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-14 18:40:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-14 18:40:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/WqPYKatMRGA_oQcP8VNDySUcrWs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/06/pint1652.jpg?itok=z9tPzyr_</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Transpetro registra aumento de furtos em dutos, após 6 anos de queda</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/transpetro-registra-aumento-de-furtos-em-dutos-apos-6-anos-de-queda</link>
+      <pubDate>Wed, 14 Jan 2026 23:13:25 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/transpetro-registra-aumento-de-furtos-em-dutos-apos-6-anos-de-queda#1001</guid>
+      <description>A Transpetro registrou no ano passado 31 ocorrências de furtos e tentativas de furto em dutos operados pela companhia, contra 25 casos ocorridos em 2...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/S4qlmEHcqtOfDYQvNTU1k5CptqU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/14/1165-11_0058.jpg?itok=nheo4_1M&quot; alt=&quot;Transpetro registra aumento de furtos em dutos, após 6 anos de queda&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Transpetro registrou no ano passado 31 ocorrências de furtos e tentativas de furto em dutos operados pela companhia, contra 25 casos ocorridos em 2024. O resultado interrompeu uma trajetória de queda contínua de cerca de 90% desde 2018, quando houve 261 registros. A maior concentração ocorreu no estado de São Paulo, com 70% dos casos no ano passado.&lt;/p&gt;
+&lt;p&gt;A Transpetro opera uma malha de cerca de 8,5 mil quilômetros de dutos em todas as regiões do país e investe anualmente R$ 100 milhões em prevenção e alerta para os riscos à vida das pessoas e ao meio ambiente.&lt;/p&gt;
+&lt;p&gt;O presidente da estatal de logística multimodal de petróleo, derivados e biocombustíveis, Sérgio Bacci, alerta que o aumento da atividade criminosa é preocupante em razão dos riscos que oferece à segurança das pessoas, pelo potencial de causar consequências ambientais irreparáveis e pelo impacto que pode provocar no abastecimento de combustíveis em infraestruturas essenciais para a sociedade, como hospitais, aeroportos e portos.&lt;/p&gt;
+&lt;p&gt;“Somos vítimas de um crime grave, que coloca vidas em risco e afeta infraestruturas essenciais. Mesmo com investimentos contínuos em prevenção, da ordem de R$ 100 milhões por ano, as derivações clandestinas aumentaram pela primeira vez em seis anos. Por isso, consideramos indispensável uma resposta integrada, envolvendo os órgãos de segurança pública, além do endurecimento da legislação para desestimular essa prática criminosa”, defendeu.&lt;/p&gt;
+&lt;p&gt;O estado de São Paulo elevou o número de ataques criminosos a dutos operados pela Transpetro de 17 ocorrências, em 2024, para 22, em 2025.&lt;/p&gt;
+&lt;p&gt;Com esse crescimento, o estado concentrou mais de 70% dos casos registrados no país no ano passado, mantendo-se como a principal área de incidência das derivações clandestinas.&lt;/p&gt;
+&lt;p&gt;Na avaliação de Sergio Bacci, a evolução dos números sinaliza tendência de crescimento no estado, que já havia registrado 16 ocorrências em 2023, evidenciando avanço da atuação criminosa em uma região estratégica para a logística de combustíveis no Brasil.&lt;/p&gt;
+&lt;p&gt;Para Bacci o aumento das derivações clandestinas em São Paulo não pode ser interpretado como evento episódico, mas como um risco estrutural e sistêmico.&lt;/p&gt;
+&lt;p&gt;“O estado concentra a maior malha dutoviária do país, com extensa capilaridade e proximidade a centros urbanos, um mercado consumidor robusto e contínuo, o que assegura rápida absorção do produto subtraído, e infraestrutura logística e viária densa, facilitando o escoamento clandestino e a pulverização da mercadoria ilícita, pois o estado abriga em seu território uma extensa malha de dutos”.&lt;/p&gt;
+&lt;p&gt;Outro estado que apresentou aumento foi Minas Gerais, passando de uma ocorrência em 2024 para seis em 2025, sinalizando possível expansão geográfica das ações criminosas. Goiás registrou uma ocorrência no período. Os dois estados são atravessados pelo Oleoduto São Paulo–Brasília (Osbra), um dos mais estratégicos do sistema dutoviário nacional para o escoamento de derivados de petróleo.&lt;/p&gt;
+&lt;p&gt;O Rio de Janeiro apresentou redução significativa. Em 2020, foram registradas 13 derivações clandestinas no estado, número que caiu para uma ocorrência em 2025.&lt;/p&gt;
+&lt;p&gt;O presidente da Transpetro entende que esse resultado evidencia a eficácia das ações integradas com as autoridades de segurança pública para coibir o furto de combustíveis em dutos e das ações preventivas adotadas pela Transpetro.&lt;/p&gt;
+&lt;p&gt;Para este ano a Transpetro pretende seguir investindo na estratégia integrada baseada em três pilares:&lt;/p&gt;
+&lt;p&gt;aplicação de tecnologia e inteligência para monitoramento e detecção de tentativas de furto;&lt;/p&gt;
+&lt;p&gt;atuação conjunta com órgãos de segurança pública; e&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/transpetro-registra-aumento-de-furtos-em-dutos-apos-6-anos-de-queda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Transpetro registrou no ano passado 31 ocorrências de furtos e tentativas de furto em dutos operados pela companhia, contra 25 casos ocorridos em 2...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-01-14 18:38:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-14 18:38:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-14 18:38:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-14 18:38:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/S4qlmEHcqtOfDYQvNTU1k5CptqU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/14/1165-11_0058.jpg?itok=nheo4_1M</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Mirassol cria departamento feminino e terá ex-Corinthians como gestora</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/mirassol-cria-departamento-feminino-e-tera-ex-corinthians-como-gestora</link>
-      <pubDate>Wed, 14 Jan 2026 22:15:39 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 23:13:25 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/mirassol-cria-departamento-feminino-e-tera-ex-corinthians-como-gestora#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/mirassol-cria-departamento-feminino-e-tera-ex-corinthians-como-gestora#1002</guid>
       <description>© JP Pinheiro/Agencia Mirassol/Direitos Reservados
 Sensação do futebol brasileiro masculino em 2025, o Mirassol terá uma equipe de mulheres pela prim...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/lPviu3bUpaWwZfTWlwnl6v1LlIw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/rafaela_esteves_coord_fut_feminino_mirassol.jpeg?itok=d50dT2QM&quot; alt=&quot;Mirassol cria departamento feminino e terá ex-Corinthians como gestora&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -38,16 +133,16 @@ Sensação do futebol brasileiro masculino em 2025, o Mirassol terá uma equipe 
 &lt;p&gt;A profissional estava no Corinthians e ja passou pela Ferroviária. Ela chega para liderar a estruturação do novo departamento do clube.&lt;/p&gt;
 &lt;p&gt;Antes mesmo do anúncio de Rafaela, porém, o Leão Caipira já tinha iniciado a estruturação da modalidade. Em dezembro, o clube comprou um novo centro de treinamento na cidade, a 450 quilômetros de São Paulo. O espaço passa por reforma para receber a equipe feminina e as categorias de base masculinas, do sub-11 ao sub-17. O investimento é de R$ 5 milhões.&lt;/p&gt;
 &lt;p&gt;A meta do Mirassol é a disputa do Campeonato Paulista Feminino deste ano, por meio doqual pode se classificar à Série A3 (terceira divisão) do Brasileirão de 2027. A Série A1 (primeira divisão), vale lembrar, terátransmissão ao vivo da&lt;/p&gt;
-&lt;p&gt;Produção industrial fica estável em novembro de 2025, diz IBGE&lt;/p&gt;
-&lt;p&gt;Jovens buscam novos conhecimentos para aumentar empregabilidade&lt;/p&gt;
-&lt;p&gt;Cinema nacional: equipe de O Agente Secreto celebra conquistas&lt;/p&gt;
+&lt;p&gt;Especialista destaca importância da vacinação para proteção de doenças&lt;/p&gt;
+&lt;p&gt;Corinthians apresenta novos reforços visando a temporada de 2026 no futebol feminino&lt;/p&gt;
+&lt;p&gt;Vanderlei Cordeiro de Lima conversa com a equipe do Stadium&lt;/p&gt;
 &lt;p&gt;SP: passageiros de ônibus da capital podem pagar bilhete via Bluetooth&lt;/p&gt;
 &lt;p&gt;Transpetro registra aumento de furtos em dutos, após 6 anos de queda&lt;/p&gt;
 &lt;p&gt;Mirassol cria departamento feminino e terá ex-Corinthians como gestora&lt;/p&gt;
 &lt;p&gt;Vestibular da USP vai cobrar obras indígenas e quadrinhos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/mirassol-cria-departamento-feminino-e-tera-ex-corinthians-como-gestora&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© JP Pinheiro/Agencia Mirassol/Direitos Reservados
 Sensação do futebol brasileiro masculino em 2025, o Mirassol terá uma equipe de mulheres pela prim...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-01-14 18:25:00</wp:post_date>
       <wp:post_date_gmt>2026-01-14 18:25:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-14 18:25:00</wp:post_modified>
@@ -73,9 +168,9 @@ Sensação do futebol brasileiro masculino em 2025, o Mirassol terá uma equipe 
     <item>
       <title>Vestibular da USP vai cobrar obras indígenas e quadrinhos</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/vestibular-da-usp-vai-cobrar-obras-indigenas-e-quadrinhos</link>
-      <pubDate>Wed, 14 Jan 2026 22:15:39 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 23:13:25 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/vestibular-da-usp-vai-cobrar-obras-indigenas-e-quadrinhos#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/vestibular-da-usp-vai-cobrar-obras-indigenas-e-quadrinhos#1003</guid>
       <description>A Universidade de São Paulo (USP) divulgou as obras de literatura para leitura obrigatória que será cobrada dos vestibulandos nos exames de 2030 a203...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ICVTa81Gte0M6mv3igsr_XgxFt4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_5757_0.jpg?itok=YVjDfsZN&quot; alt=&quot;Vestibular da USP vai cobrar obras indígenas e quadrinhos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Universidade de São Paulo (USP) divulgou as obras de literatura para leitura obrigatória que será cobrada dos vestibulandos nos exames de 2030 a2033. A lista traz mudanças em relação aos autores do ciclo 2026-2029 e amplia gêneros literários e a origem dos autores.&lt;/p&gt;
@@ -94,7 +189,7 @@ Sensação do futebol brasileiro masculino em 2025, o Mirassol terá uma equipe 
 &lt;p&gt;Originárias: uma Antologia Feminina de Literatura Indígena&lt;/p&gt;
 &lt;p&gt;, Trudruá Dorrico e Maurício Negro (contos)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/vestibular-da-usp-vai-cobrar-obras-indigenas-e-quadrinhos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Universidade de São Paulo (USP) divulgou as obras de literatura para leitura obrigatória que será cobrada dos vestibulandos nos exames de 2030 a203...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-14 18:22:00</wp:post_date>
       <wp:post_date_gmt>2026-01-14 18:22:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-14 18:22:00</wp:post_modified>
@@ -120,9 +215,9 @@ Sensação do futebol brasileiro masculino em 2025, o Mirassol terá uma equipe 
     <item>
       <title>Suspensão da emissão de vistos dos EUA não afeta turistas</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/suspensao-da-emissao-de-vistos-dos-eua-nao-afeta-turistas</link>
-      <pubDate>Wed, 14 Jan 2026 22:15:39 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 23:13:25 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/suspensao-da-emissao-de-vistos-dos-eua-nao-afeta-turistas#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/suspensao-da-emissao-de-vistos-dos-eua-nao-afeta-turistas#1004</guid>
       <description>© Reuters/Annabelle Gordon/Proibida reprodução
 Departamento de Estado dos Estados Unidos confirmou a suspensão, por tempo indeterminado,da emissão de...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/HlDpt-wObbaWIlU68C2Z1yn--0c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/12/2026-01-12t184457z_1_lynxmpem0b114_rtroptp_4_usa-trump-migration-visas.jpg?itok=Cj-3fkpU&quot; alt=&quot;Suspensão da emissão de vistos dos EUA não afeta turistas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -143,7 +238,7 @@ Departamento de Estado dos Estados Unidos confirmou a suspensão, por tempo inde
 &lt;p&gt;informou ter revogadomais de 100.000 vistos desde que o presidente Donald Trump assumiu o cargo no ano passado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/suspensao-da-emissao-de-vistos-dos-eua-nao-afeta-turistas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Annabelle Gordon/Proibida reprodução
 Departamento de Estado dos Estados Unidos confirmou a suspensão, por tempo indeterminado,da emissão de...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-14 18:02:00</wp:post_date>
       <wp:post_date_gmt>2026-01-14 18:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-14 18:02:00</wp:post_modified>
@@ -169,9 +264,9 @@ Departamento de Estado dos Estados Unidos confirmou a suspensão, por tempo inde
     <item>
       <title>Saúde pública no RJ registra aumento nos atendimentos ligados ao calor</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/saude-publica-no-rj-registra-aumento-nos-atendimentos-ligados-ao-calor</link>
-      <pubDate>Wed, 14 Jan 2026 22:15:39 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 23:13:25 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/saude-publica-no-rj-registra-aumento-nos-atendimentos-ligados-ao-calor#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/saude-publica-no-rj-registra-aumento-nos-atendimentos-ligados-ao-calor#1005</guid>
       <description>© Fernando Frazão/Agência Brasil
 As altas temperaturas registradas no estado do Rio de Janeiro nas primeiras duas semanas de 2026 já levaram milhares...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3K-4PF3kRYgycB5UNd0yoErJ-4s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/26/_d6a5043_01.jpg?itok=MDJBO7Wc&quot; alt=&quot;Saúde pública no RJ registra aumento nos atendimentos ligados ao calor&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -189,10 +284,10 @@ As altas temperaturas registradas no estado do Rio de Janeiro nas primeiras duas
 &lt;p&gt;Diante do calor, é recomendado ainda evitaro consumo elevado de cafeína e álcool,utilizarroupas leves e claras, eadotaro uso de bonés, chapéus,óculos e filtro solar.&lt;/p&gt;
 &lt;p&gt;&quot;É importante ter atenção aos grupos de maior risco e priorizar pessoas mais vulneráveis ao calor, que são idosos, crianças, gestantes, cardiopatas, diabéticos, pessoas em situação de rua, trabalhadores expostos ao sol&quot;, diz a secretaria estadual.&lt;/p&gt;
 &lt;p&gt;deve-se procurar atendimento imediato quando houver alteração do nível de consciência, convulsão, temperatura elevada, hipotensão persistente, sinais de desidratação grave, falta de ar, dor torácica e ausência ou produção extremamente baixa de urina.&lt;/p&gt;
-&lt;p&gt;Produção industrial fica estável em novembro de 2025, diz IBGE&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/saude-publica-no-rj-registra-aumento-nos-atendimentos-ligados-ao-calor&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Especialista destaca importância da vacinação para proteção de doenças&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/saude-publica-no-rj-registra-aumento-nos-atendimentos-ligados-ao-calor&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 As altas temperaturas registradas no estado do Rio de Janeiro nas primeiras duas semanas de 2026 já levaram milhares...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-14 17:37:00</wp:post_date>
       <wp:post_date_gmt>2026-01-14 17:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-14 17:37:00</wp:post_modified>
@@ -218,11 +313,13 @@ As altas temperaturas registradas no estado do Rio de Janeiro nas primeiras duas
     <item>
       <title>Buscas por crianças desaparecidas no Maranhão entram no 11º dia</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/buscas-por-criancas-desaparecidas-no-maranhao-entram-no-11o-dia</link>
-      <pubDate>Wed, 14 Jan 2026 22:15:39 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 23:13:25 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/buscas-por-criancas-desaparecidas-no-maranhao-entram-no-11o-dia#1004</guid>
-      <description>As buscas por duas crianças desaparecidas na zona rural de Bacabal, no interior do Maranhão, a cerca de 250 km de São Luís, entraram nesta quarta-fei...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Buscas por crianças desaparecidas no Maranhão entram no 11º dia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/buscas-por-criancas-desaparecidas-no-maranhao-entram-no-11o-dia#1006</guid>
+      <description>© Prefeitura de Bacabal/Divulgação
+As buscas por duas crianças desaparecidas na zona rural de Bacabal, no interior do Maranhão, a cerca de 250 km de ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/J2LL94xretWvK46vl2jZ0NBRpNQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/nbyp44j75fapnnxnfmufh3cfni.jpg?itok=zpAca9ab&quot; alt=&quot;Buscas por crianças desaparecidas no Maranhão entram no 11º dia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Prefeitura de Bacabal/Divulgação&lt;/p&gt;
 &lt;p&gt;As buscas por duas crianças desaparecidas na zona rural de Bacabal, no interior do Maranhão, a cerca de 250 km de São Luís, entraram nesta quarta-feira (14) no 11º dia. Ágatha Isabelly, de 6 anos, e Allan Michael, de 4 anos, desapareceram no dia 4 de janeiro após saírem para brincar no Quilombo de São Sebastião dos Pretos.&lt;/p&gt;
 &lt;p&gt;Uma terceira criança desaparecida, Anderson Kauan, de 8 anos, foi encontrada no dia 7 de janeiro, em uma estrada.&lt;/p&gt;
 &lt;p&gt;A área de buscas, de cerca de 54 Km², é marcada por mata de vegetação fechada, terreno irregular, com poucas trilhas, difícil acesso, açudes, o Rio Mearim e lagos.&lt;/p&gt;
@@ -236,10 +333,10 @@ As altas temperaturas registradas no estado do Rio de Janeiro nas primeiras duas
 &lt;p&gt;“A Conaq se une à torcida coletiva, às orações para que as crianças sejam localizadas o mais rápido possível assim como Anderson Kauan - uma das crianças que também estava desaparecida e foi encontrada por produtores rurais na zona rural do município”, diz a nota.&lt;/p&gt;
 &lt;p&gt;“Reafirmamos nosso compromisso com as famílias e com a comunidade quilombola. Seguimos acompanhando o caso e defendemos que todas as medidas necessárias sigam sendo adotadas pelas autoridades até que o caso seja completamente solucionado. O estado deve garantir segurança e proteção às nossas crianças dentro e fora dos territórios quilombolas”, diz a Conaq.&lt;/p&gt;
 &lt;p&gt;A Polícia Civil do Maranhão está investigando o caso.&lt;/p&gt;
-&lt;p&gt;O Instituto de Perícias para Crianças e Adolescentes (IPCA), órgão da Secretaria de Segurança Pública do Maranhão, está em Bacabal desde domingo (11).&lt;/p&gt;
-&lt;p&gt;A equipe multidisciplinar do IPCA já ouviu Anderson Kauan, que estava com Ágatha e Allan no dia do desaparecimento.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/buscas-por-criancas-desaparecidas-no-maranhao-entram-no-11o-dia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>As buscas por duas crianças desaparecidas na zona rural de Bacabal, no interior do Maranhão, a cerca de 250 km de São Luís, entraram nesta quarta-fei...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+&lt;p&gt;O Instituto de Perícias para Crianças e Adolescentes (IPCA), órgão da Secretaria de Segurança Pública do Maranhão, está em Bacabal desde domingo (11).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/buscas-por-criancas-desaparecidas-no-maranhao-entram-no-11o-dia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Prefeitura de Bacabal/Divulgação
+As buscas por duas crianças desaparecidas na zona rural de Bacabal, no interior do Maranhão, a cerca de 250 km de ...</excerpt:encoded>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-14 17:26:00</wp:post_date>
       <wp:post_date_gmt>2026-01-14 17:26:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-14 17:26:00</wp:post_modified>
@@ -259,15 +356,15 @@ As altas temperaturas registradas no estado do Rio de Janeiro nas primeiras duas
       <category domain="post_tag" nicename="ebc">EBC</category>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
+        <wp:meta_value>https://imagens.ebc.com.br/J2LL94xretWvK46vl2jZ0NBRpNQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/nbyp44j75fapnnxnfmufh3cfni.jpg?itok=zpAca9ab</wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
       <title>PR: policiais são presos suspeitos de roubo de R$ 15 milhões em joias</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/pr-policiais-sao-presos-suspeitos-de-roubo-de-r-15-milhoes-em-joias</link>
-      <pubDate>Wed, 14 Jan 2026 22:15:39 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 23:13:25 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/pr-policiais-sao-presos-suspeitos-de-roubo-de-r-15-milhoes-em-joias#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/pr-policiais-sao-presos-suspeitos-de-roubo-de-r-15-milhoes-em-joias#1007</guid>
       <description>A Polícia Civil do Paraná (PCPR) fez nesta quarta-feira (14) a Operação Focinheira e prendeu cinco pessoas suspeitas de fazer parte de um grupo que r...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WGfVntiImgFDF5e04rrBE_aI9hM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/ldna.jpg?itok=Eb6Cwpbw&quot; alt=&quot;PR: policiais são presos suspeitos de roubo de R$ 15 milhões em joias&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Polícia Civil do Paraná (PCPR) fez nesta quarta-feira (14) a Operação Focinheira e prendeu cinco pessoas suspeitas de fazer parte de um grupo que roubou R$ 15 milhões em diamantes, na cidade de Londrina. Entre os capturados estão dois policiais militares da ativa.&lt;/p&gt;
@@ -277,16 +374,11 @@ As altas temperaturas registradas no estado do Rio de Janeiro nas primeiras duas
 &lt;p&gt;Segundo a PCPR, os autores do crime utilizaram um carro preto para bloquear a via e anunciar o roubo e depois o deixaram. O delegado da PCPR, Mozart Rocha Gonçalves, explicou em nota que o grupo tinha divisão de tarefas, com executores responsáveis pela abordagem, apoio logístico e liderança que articulava as ações.&lt;/p&gt;
 &lt;p&gt;De acordo com o delegado, foram identificadasoito pessoas envolvidas: quatro executores diretos, um suspeito que atraiu as vitimas e fez negociações, uma sexta pessoa que deu apoio logístico da fuga e orientou a ação e outras duas, donas de um estabelecimento comercial que serviu de base para os executores antes e após o crime.&lt;/p&gt;
 &lt;p&gt;A Polícia Militar do Paraná se manifestou em nota a respeito da prisão de dois de seus integrantes. O texto da corporação diz: &quot;Entre os presos encontram-se dois policiais militares da ativa. Os fatos serão apurados no âmbito administrativo, em estrita observância à legislação vigente, asseguradoso devido processo legal, o contraditório e a ampla defesa. Por fim, a PMPR reforça que não compactua com quaisquer condutas que afrontem os valores, princípios e normas que regem a Corporação, reiterando seu compromisso com a legalidade, a transparência e a responsabilidade na condução de seus procedimentos&quot;.&lt;/p&gt;
-&lt;p&gt;Produção industrial fica estável em novembro de 2025, diz IBGE&lt;/p&gt;
-&lt;p&gt;Jovens buscam novos conhecimentos para aumentar empregabilidade&lt;/p&gt;
-&lt;p&gt;Cinema nacional: equipe de O Agente Secreto celebra conquistas&lt;/p&gt;
-&lt;p&gt;SP: passageiros de ônibus da capital podem pagar bilhete via Bluetooth&lt;/p&gt;
-&lt;p&gt;Transpetro registra aumento de furtos em dutos, após 6 anos de queda&lt;/p&gt;
-&lt;p&gt;Mirassol cria departamento feminino e terá ex-Corinthians como gestora&lt;/p&gt;
-&lt;p&gt;Vestibular da USP vai cobrar obras indígenas e quadrinhos&lt;/p&gt;
-&lt;p&gt;Suspensão da emissão de vistos dos EUA não afeta turistas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/pr-policiais-sao-presos-suspeitos-de-roubo-de-r-15-milhoes-em-joias&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Especialista destaca importância da vacinação para proteção de doenças&lt;/p&gt;
+&lt;p&gt;Corinthians apresenta novos reforços visando a temporada de 2026 no futebol feminino&lt;/p&gt;
+&lt;p&gt;Vanderlei Cordeiro de Lima conversa com a equipe do Stadium&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/pr-policiais-sao-presos-suspeitos-de-roubo-de-r-15-milhoes-em-joias&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Polícia Civil do Paraná (PCPR) fez nesta quarta-feira (14) a Operação Focinheira e prendeu cinco pessoas suspeitas de fazer parte de um grupo que r...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-14 16:43:00</wp:post_date>
       <wp:post_date_gmt>2026-01-14 16:43:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-14 16:43:00</wp:post_modified>
@@ -312,9 +404,9 @@ As altas temperaturas registradas no estado do Rio de Janeiro nas primeiras duas
     <item>
       <title>Copa do Mundo: Fifa anuncia locais de treino e concentração da seleção</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/copa-do-mundo-fifa-anuncia-locais-de-treino-e-concentracao-da-selecao</link>
-      <pubDate>Wed, 14 Jan 2026 22:15:39 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 23:13:25 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/copa-do-mundo-fifa-anuncia-locais-de-treino-e-concentracao-da-selecao#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/copa-do-mundo-fifa-anuncia-locais-de-treino-e-concentracao-da-selecao#1008</guid>
       <description>A Fifa, entidade máxima do futebol mundial, confirmou nesta quarta-feira (14) que a seleção brasileira ficará hospedada e treinará no estado de Nova ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LuwLQbegWoCFFnek9DMphrgsbs0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/ct_columbia_selecao_bras_copa_2026.jpg?itok=ywylPPhN&quot; alt=&quot;Copa do Mundo: Fifa anuncia locais de treino e concentração da seleção&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Fifa, entidade máxima do futebol mundial, confirmou nesta quarta-feira (14) que a seleção brasileira ficará hospedada e treinará no estado de Nova Jersey (Estados Unidos) durante a Copa do Mundo, que começa em 11 de junho. A entidade atendeu ao pedido prévio da CBF que, após visitas à várias cidades norte-americanas, manifestou interesse pelas instalações em Nova Jersey. OBrasil treinará no CT Columbia Park, do clube RB New York, na cidade de Morristown, e ficará hospedado no hotel The Ridge, em Basking Ridge. O hotel ficaráinteiramente reservado para a delegação Amarelinha.&lt;/p&gt;
@@ -324,11 +416,16 @@ As altas temperaturas registradas no estado do Rio de Janeiro nas primeiras duas
 &lt;p&gt;“Analisamos vários aspectos. O objetivo principal era buscar melhor qualidade de gramados, hotéis, facilidades de logísticas, a menor diferença possível de fuso e outros fatores que poderiam influenciar positivamente no desempenho da seleção. Encontramos na região de Nova York/Nova Jersey as melhores condições em todos esses itens e isso pode fazer a diferença numa competição que é extremamente complicada diante da grandeza do evento&quot;, pontuou Cícero Souza, gerente geral de seleções masculinas.&lt;/p&gt;
 &lt;p&gt;A CBF destacou ainda que o CT Columbia tem instalações de última geração, áreas de treinamento, academias de ginástica, vestiários e escritórios administrativos, com acessibilidade. Atualmente, o espaço passa por obras para ampliação das estruturas e modernização de instalações e equipamentos.&lt;/p&gt;
 &lt;p&gt;Antes do Mundial, a seleção fará dois amistosos contra seleções europeias, ambos nos Estados Unidos. O escrete canarinho enfrenta a França em 26 de março, às17h, no Gillette Stadium, no estado de Massachusetts e, cinco dias depois, encara a Croácia, às 21h, Camping World Stadium, na Flórida.&lt;/p&gt;
-&lt;p&gt;Produção industrial fica estável em novembro de 2025, diz IBGE&lt;/p&gt;
-&lt;p&gt;Jovens buscam novos conhecimentos para aumentar empregabilidade&lt;/p&gt;
-&lt;p&gt;Cinema nacional: equipe de O Agente Secreto celebra conquistas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/copa-do-mundo-fifa-anuncia-locais-de-treino-e-concentracao-da-selecao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Especialista destaca importância da vacinação para proteção de doenças&lt;/p&gt;
+&lt;p&gt;Corinthians apresenta novos reforços visando a temporada de 2026 no futebol feminino&lt;/p&gt;
+&lt;p&gt;Vanderlei Cordeiro de Lima conversa com a equipe do Stadium&lt;/p&gt;
+&lt;p&gt;SP: passageiros de ônibus da capital podem pagar bilhete via Bluetooth&lt;/p&gt;
+&lt;p&gt;Transpetro registra aumento de furtos em dutos, após 6 anos de queda&lt;/p&gt;
+&lt;p&gt;Mirassol cria departamento feminino e terá ex-Corinthians como gestora&lt;/p&gt;
+&lt;p&gt;Vestibular da USP vai cobrar obras indígenas e quadrinhos&lt;/p&gt;
+&lt;p&gt;Suspensão da emissão de vistos dos EUA não afeta turistas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/copa-do-mundo-fifa-anuncia-locais-de-treino-e-concentracao-da-selecao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Fifa, entidade máxima do futebol mundial, confirmou nesta quarta-feira (14) que a seleção brasileira ficará hospedada e treinará no estado de Nova ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-14 16:22:00</wp:post_date>
       <wp:post_date_gmt>2026-01-14 16:22:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-14 16:22:00</wp:post_modified>
@@ -352,11 +449,11 @@ As altas temperaturas registradas no estado do Rio de Janeiro nas primeiras duas
       </wp:postmeta>
     </item>
     <item>
-      <title>Benin oferece cidadania à diáspora africana</title>
+      <title>Benin oferece cidadania aos descendentes da diáspora africana</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/benin-oferece-cidadania-diaspora-africana</link>
-      <pubDate>Wed, 14 Jan 2026 22:15:39 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 23:13:25 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/benin-oferece-cidadania-diaspora-africana#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/benin-oferece-cidadania-diaspora-africana#1009</guid>
       <description>© REUTERS/Charles Placide Tossou - Proibido a reprodução
 Isaline Attelly, natural da ilha caribenha da Martinica, morava no Benin há quase um ano ant...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3MPycTT0daeXYWiFOjtrXlon9Ng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/2026-01-14t090137z_560701860_rc20riamx9tr_rtrmadp_3_benin-tourism-diaspora.jpg?itok=eYFJKC_u&quot; alt=&quot;Benin oferece cidadania à diáspora africana&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -374,10 +471,10 @@ Isaline Attelly, natural da ilha caribenha da Martinica, morava no Benin há qua
 &lt;p&gt;tornou-se uma das primeiras beneficiárias da cidadania beninense. Ela se apresentou na semana passada em um show em Ouidah como parte de um festival anual dedicado ao vodu, tocando sucessos como&lt;/p&gt;
 &lt;p&gt;durante um show que durou até as três da manhã.&lt;/p&gt;
 &lt;p&gt;Seu marido, o quarterback de futebol norte-americano Russell Wilson, compareceu e disse que esperava se tornar um cidadão &quot;muito em breve&quot;.&lt;/p&gt;
-&lt;p&gt;Produção industrial fica estável em novembro de 2025, diz IBGE&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/benin-oferece-cidadania-diaspora-africana&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Especialista destaca importância da vacinação para proteção de doenças&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/benin-oferece-cidadania-diaspora-africana&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Charles Placide Tossou - Proibido a reprodução
 Isaline Attelly, natural da ilha caribenha da Martinica, morava no Benin há quase um ano ant...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-14 15:58:00</wp:post_date>
       <wp:post_date_gmt>2026-01-14 15:58:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-14 15:58:00</wp:post_modified>
@@ -398,106 +495,6 @@ Isaline Attelly, natural da ilha caribenha da Martinica, morava no Benin há qua
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/3MPycTT0daeXYWiFOjtrXlon9Ng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/2026-01-14t090137z_560701860_rc20riamx9tr_rtrmadp_3_benin-tourism-diaspora.jpg?itok=eYFJKC_u</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Estudo aponta mais 365 mil pessoas em situação de rua no Brasil</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/estudo-aponta-mais-365-mil-pessoas-em-situacao-de-rua-no-brasil</link>
-      <pubDate>Wed, 14 Jan 2026 22:15:39 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/estudo-aponta-mais-365-mil-pessoas-em-situacao-de-rua-no-brasil#1008</guid>
-      <description>© Tânia Rêgo/Agência Brasil/Arquivo
-O número de pessoas que vivem em situação de rua continua crescendo no país.
-Em dezembro de 2024 havia 327.925 pe...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LGBJC1R8bO22VVJe-iWSX4KKCLs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/trbr4802.jpg?itok=CqokEdHA&quot; alt=&quot;Estudo aponta mais 365 mil pessoas em situação de rua no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Tânia Rêgo/Agência Brasil/Arquivo&lt;/p&gt;
-&lt;p&gt;O número de pessoas que vivem em situação de rua continua crescendo no país.&lt;/p&gt;
-&lt;p&gt;Em dezembro de 2024 havia 327.925 pessoas vivendo nas ruas do Brasil&lt;/p&gt;
-&lt;p&gt;. No final do ano passado esse número chegava a 365.822 pessoas. Os dados são de levantamento do&lt;/p&gt;
-&lt;p&gt;Observatório Brasileiro de Políticas Públicas com a População em Situação de Rua&lt;/p&gt;
-&lt;p&gt;, da Universidade Federal de Minas Gerais (OBPopRua/Polos-UFMG), divulgado nesta quarta-feira (13).&lt;/p&gt;
-&lt;p&gt;O levantamento foi feito com base nos dados do Cadastro Único de Programas Sociais (CadÚnico), que reúne os beneficiários de políticas sociais, como o Bolsa Família, e serve como indicativo das populações em vulnerabilidade para quantificar os repasses do governo federal aos municípios.&lt;/p&gt;
-&lt;p&gt;De 2020 a 2021, quando teve início a pandemia da covid-19, o número de pessoas em situação de rua havia caído, passando de 194.824 para 158.191 pessoas. Mas em 2022, voltou a subir e vem crescendo de forma contínua desde então.&lt;/p&gt;
-&lt;p&gt;A maioria dessa população que vive nas ruas se encontra na Região Sudeste do país, somando 222.311 de pessoas, o que representa 61% do total no país.&lt;/p&gt;
-&lt;p&gt;Em seguida aparece a Região Nordeste, com uma população de 54.801 pessoas em situação de rua.&lt;/p&gt;
-&lt;p&gt;Só no estado de São Paulo estão concentradas 150.958 pessoas em situação de rua, seguida pelos estados do Rio de Janeiro (33.656) e Minas Gerais (33.139). O Amapá é o estado com o menor número de pessoas nessa condição, somando 292.&lt;/p&gt;
-&lt;p&gt;Para os pesquisadores do Observatório Brasileiro de Políticas Públicas com a População em Situação de Rua, quatro situações podem explicar esse aumento:&lt;/p&gt;
-&lt;p&gt;o fortalecimento do Cadastro Único de Programas Sociais (CadÚnico) como principal registro da população em situação de rua e de acesso às políticas públicas sociais do país;&lt;/p&gt;
-&lt;p&gt;a ausência ou insuficiência de políticas públicas estruturantes voltadas para essa população, tais como moradia, trabalho e educação;&lt;/p&gt;
-&lt;p&gt;a precarização das condições de vida principalmente após a pandemia; e&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/estudo-aponta-mais-365-mil-pessoas-em-situacao-de-rua-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Tânia Rêgo/Agência Brasil/Arquivo
-O número de pessoas que vivem em situação de rua continua crescendo no país.
-Em dezembro de 2024 havia 327.925 pe...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-01-14 15:48:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-14 15:48:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-14 15:48:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-14 15:48:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/LGBJC1R8bO22VVJe-iWSX4KKCLs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/trbr4802.jpg?itok=CqokEdHA</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Lula liga para Wagner Moura e Kléber Mendonça e parabeniza por prêmios</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/lula-liga-para-wagner-moura-e-kleber-mendonca-e-parabeniza-por-premios</link>
-      <pubDate>Wed, 14 Jan 2026 22:15:39 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/lula-liga-para-wagner-moura-e-kleber-mendonca-e-parabeniza-por-premios#1009</guid>
-      <description>© Reuters/Mario Anzuoni/Proibbida reprodução
-O presidente Luiz Inácio Lula da Silva telefonou nesta quarta-feira (14) para o ator Wagner Moura e o di...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/U797zo2N7-TvIgyZ3lrnIc26-2k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/12/2026-01-12t052054z_2099624226_hp1em1c0eurv2_rtrmadp_3_awards-golden-globes.jpg?itok=ql5YFDk9&quot; alt=&quot;Lula liga para Wagner Moura e Kléber Mendonça e parabeniza por prêmios&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Reuters/Mario Anzuoni/Proibbida reprodução&lt;/p&gt;
-&lt;p&gt;O presidente Luiz Inácio Lula da Silva telefonou nesta quarta-feira (14) para o ator Wagner Moura e o diretor de cinema Kléber Mendonça Filho,&lt;/p&gt;
-&lt;p&gt;pelo filme Agente Secreto. Na chamada, em que estava acompanhado da primeira-dama Janja da Silva, o presidente disse que fazia um gesto de reconhecimento pela grandeza do cinema brasileiro e classificou a premiação como &quot;um espetáculo extraordinário&quot;.&lt;/p&gt;
-&lt;p&gt;Um vídeo da ligação foi postado nas&lt;/p&gt;
-&lt;p&gt;Na conversa, Lula disse que irá anunciar nos próximos dias a obrigatoriedade das &quot;redes públicas&quot; exibirem filmes nacionais para que o povo &quot;conheça o cinema brasileiro&quot;.&lt;/p&gt;
-&lt;p&gt;&quot;A capacidade que nós temos de se ver na tela, pode ser uma série, um filme, no cinema, é de extrema importância&quot;, reagiu Kléber Mendonça.&lt;/p&gt;
-&lt;p&gt;Ao lembrar do discurso feito após receber o prêmio de melhor ator, além das entrevistas concedidas recentemente, Wagner Moura destacou a importância de governos comprometidos com a democracia para a promoção da cultura.&lt;/p&gt;
-&lt;p&gt;&quot;Nós temos dito como como a cultura e a democracia andam juntas. O Brasil é esse país que tem vocação para a cultura&quot;, pontuou o ator.&lt;/p&gt;
-&lt;p&gt;&quot;Eu dediquei o prêmio aos jovens cineastas do Brasil, que é acho que é um grande momento para fazer filmes, temos instrumentos de apoio&quot;, destacou Kléber Mendonça Filho.&lt;/p&gt;
-&lt;p&gt;Lula prosseguiu a ligação ressaltando que o governo dará continuidade às políticas de financiamento ao setor cultural.&lt;/p&gt;
-&lt;p&gt;&quot;A cultura é efetivamente uma das coisas mais sagradas na construção da personalidade de um país&quot;, enfatizou.&lt;/p&gt;
-&lt;p&gt;Por fim, Lula e Janja desejaram que o filme Agente Secreto possa conquistar o Oscar, o maior prêmio do cinema mundial. O anúncio dos indicados ocorrerá na semana que vem.&lt;/p&gt;
-&lt;p&gt;Produção industrial fica estável em novembro de 2025, diz IBGE&lt;/p&gt;
-&lt;p&gt;Jovens buscam novos conhecimentos para aumentar empregabilidade&lt;/p&gt;
-&lt;p&gt;Cinema nacional: equipe de O Agente Secreto celebra conquistas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/lula-liga-para-wagner-moura-e-kleber-mendonca-e-parabeniza-por-premios&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Reuters/Mario Anzuoni/Proibbida reprodução
-O presidente Luiz Inácio Lula da Silva telefonou nesta quarta-feira (14) para o ator Wagner Moura e o di...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-14 15:44:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-14 15:44:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-14 15:44:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-14 15:44:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/U797zo2N7-TvIgyZ3lrnIc26-2k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/12/2026-01-12t052054z_2099624226_hp1em1c0eurv2_rtrmadp_3_awards-golden-globes.jpg?itok=ql5YFDk9</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
