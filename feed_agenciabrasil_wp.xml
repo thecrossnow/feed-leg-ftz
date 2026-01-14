@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 14 Jan 2026 03:41:45 +0000</pubDate>
+    <pubDate>Wed, 14 Jan 2026 04:41:26 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,62 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Mega-Sena acumula e prêmio vai a R$ 35 milhões</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/mega-sena-acumula-e-premio-vai-r-35-milhoes</link>
+      <pubDate>Wed, 14 Jan 2026 04:41:26 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/mega-sena-acumula-e-premio-vai-r-35-milhoes#1000</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
+Nenhum apostador acertou as seis dezenas do concurso 2.959da Mega-Sena, realizado nesta terça-feira (13).
+p...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uGWKQSevZCX_pTs3UH-Oh-oPDv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182658.jpg?itok=s-3aV28q&quot; alt=&quot;Mega-Sena acumula e prêmio vai a R$ 35 milhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil/ARQUIVO&lt;/p&gt;
+&lt;p&gt;Nenhum apostador acertou as seis dezenas do concurso 2.959da Mega-Sena, realizado nesta terça-feira (13).&lt;/p&gt;
+&lt;p&gt;prêmio acumulou e está estimado em R$ 35milhões&lt;/p&gt;
+&lt;p&gt;para o próximo sorteio, que será realizado no dia 15.&lt;/p&gt;
+&lt;p&gt;números sorteados foram: 18 - 26 - 35 - 41 - 44 - 45&lt;/p&gt;
+&lt;p&gt;27 apostas acertaram cinco dezenas e irão receber R$ 58.801,80cada.&lt;/p&gt;
+&lt;p&gt;1.883 apostas acertaram quatro dezenas e irão receber R$ 1.389,80.&lt;/p&gt;
+&lt;p&gt;A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
+&lt;p&gt;Wellington César Lima e Silva é o novo ministro da Justiça e Segurança&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 18h30: Haddad diz que caso Master pode ser a maior fraude bancária do país&lt;/p&gt;
+&lt;p&gt;Método desenvolvido na Unicamp ensina circo nas escolas de São Paulo&lt;/p&gt;
+&lt;p&gt;Mega-Sena acumula e prêmio vai a R$ 35 milhões&lt;/p&gt;
+&lt;p&gt;A cada R$ 1 investido via Lei Rouanet, R$ 7,59 retornaram, diz estudo&lt;/p&gt;
+&lt;p&gt;Secretaria de Saúde confirma segundo caso de mpox do grupo lp em SP&lt;/p&gt;
+&lt;p&gt;Ministério da Saúde decide não incorporar vacina herpes-zóster ao SUS&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/mega-sena-acumula-e-premio-vai-r-35-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
+Nenhum apostador acertou as seis dezenas do concurso 2.959da Mega-Sena, realizado nesta terça-feira (13).
+p...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-13 21:45:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-13 21:45:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-13 21:45:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-13 21:45:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/uGWKQSevZCX_pTs3UH-Oh-oPDv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182658.jpg?itok=s-3aV28q</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>A cada R$ 1 investido via Lei Rouanet, R$ 7,59 retornaram, diz estudo</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/cada-r-1-investido-pela-rouanet-r-759-retornam-diz-estudo</link>
-      <pubDate>Wed, 14 Jan 2026 03:41:45 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:41:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/cada-r-1-investido-pela-rouanet-r-759-retornam-diz-estudo#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/cada-r-1-investido-pela-rouanet-r-759-retornam-diz-estudo#1001</guid>
       <description>© Fernando Frazão/Agência Brasil
 A cada R$ 1 investido em projetos executados com recursos da Lei Rouanet, R$ 7,59 retornaram à economia.
 É o que mos...</description>
@@ -49,7 +100,7 @@ A cada R$ 1 investido em projetos executados com recursos da Lei Rouanet, R$ 7,5
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 A cada R$ 1 investido em projetos executados com recursos da Lei Rouanet, R$ 7,59 retornaram à economia.
 É o que mos...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-01-13 21:08:00</wp:post_date>
       <wp:post_date_gmt>2026-01-13 21:08:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-13 21:08:00</wp:post_modified>
@@ -75,9 +126,9 @@ A cada R$ 1 investido em projetos executados com recursos da Lei Rouanet, R$ 7,5
     <item>
       <title>Secretaria de Saúde confirma segundo caso de mpox do grupo lp em SP</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/secretaria-de-saude-confirma-segundo-caso-de-mpox-do-grupo-lp-em-sp</link>
-      <pubDate>Wed, 14 Jan 2026 03:41:45 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:41:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/secretaria-de-saude-confirma-segundo-caso-de-mpox-do-grupo-lp-em-sp#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/secretaria-de-saude-confirma-segundo-caso-de-mpox-do-grupo-lp-em-sp#1002</guid>
       <description>© REUTERS/Dado Ruvic/Proibida reprodução
 A Secretaria de Estado da Saúde de São Paulo confirmou o segundo caso de mpox (chamada antigamente de varíol...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/88048JBaC1x5yvRS9W1amTyADjE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/22/2024-08-20t140130z_1463373049_rc2pj9a34q6t_rtrmadp_3_health-mpox.jpg?itok=RyIgHy6K&quot; alt=&quot;Secretaria de Saúde confirma segundo caso de mpox do grupo lp em SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -98,7 +149,7 @@ A Secretaria de Estado da Saúde de São Paulo confirmou o segundo caso de mpox 
 &lt;p&gt;Secretaria de Saúde confirma segundo caso de mpox do grupo lp em SP&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/secretaria-de-saude-confirma-segundo-caso-de-mpox-do-grupo-lp-em-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Dado Ruvic/Proibida reprodução
 A Secretaria de Estado da Saúde de São Paulo confirmou o segundo caso de mpox (chamada antigamente de varíol...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-01-13 20:26:00</wp:post_date>
       <wp:post_date_gmt>2026-01-13 20:26:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-13 20:26:00</wp:post_modified>
@@ -124,9 +175,9 @@ A Secretaria de Estado da Saúde de São Paulo confirmou o segundo caso de mpox 
     <item>
       <title>Ministério da Saúde decide não incorporar vacina herpes-zóster ao SUS</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/ministerio-da-saude-decide-nao-incorporar-vacina-herpes-zoster-ao-sus</link>
-      <pubDate>Wed, 14 Jan 2026 03:41:45 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:41:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/ministerio-da-saude-decide-nao-incorporar-vacina-herpes-zoster-ao-sus#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/ministerio-da-saude-decide-nao-incorporar-vacina-herpes-zoster-ao-sus#1003</guid>
       <description>O Ministério da Saúde decidiu não incorporar a vacina para a prevenção de herpes-zóster ao Sistema Único de Saúde (SUS)
 publicada no Diário Oficial d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Yml-ZQ1S_k9kbtZ5SCWG_GI1aEI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/14/pint2435_0.jpg?itok=Z53T7Xhp&quot; alt=&quot;Ministério da Saúde decide não incorporar vacina herpes-zóster ao SUS&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -147,7 +198,7 @@ publicada no Diário Oficial d...</description>
 &lt;p&gt;De acordo com dados dos Sistemas de Informações Ambulatoriais do SUS (SIA/SUS) e hospitalares (SIH/SUS), entre 2008 a 2024, foram registrados 85.888 atendimentos ambulatoriais e 30.801 internações de pacientes com herpes-zóster no Brasil.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/ministerio-da-saude-decide-nao-incorporar-vacina-herpes-zoster-ao-sus&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Ministério da Saúde decidiu não incorporar a vacina para a prevenção de herpes-zóster ao Sistema Único de Saúde (SUS)
 publicada no Diário Oficial d...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-13 20:14:00</wp:post_date>
       <wp:post_date_gmt>2026-01-13 20:14:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-13 20:14:00</wp:post_modified>
@@ -173,9 +224,9 @@ publicada no Diário Oficial d...</excerpt:encoded>
     <item>
       <title>Campanha busca valorizar cultura negra e combater racismo no carnaval</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/racismo-no-carnaval-sera-tema-de-nova-campanha-do-mir</link>
-      <pubDate>Wed, 14 Jan 2026 03:41:45 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:41:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/racismo-no-carnaval-sera-tema-de-nova-campanha-do-mir#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/racismo-no-carnaval-sera-tema-de-nova-campanha-do-mir#1004</guid>
       <description>O Ministério da Igualdade Racial (MIR) lançou nessa segunda-feira (12), no Rio de Janeiro, uma nova campanha que visa destacar a contribuição da cult...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PpIpdlfE6S6UuUKxg8uJXvQ7CyU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/13/a1e51ada-3fb4-4138-b1ab-96f6ae8e7d9b.jpeg?itok=4PFlHHCG&quot; alt=&quot;Campanha busca valorizar cultura negra e combater racismo no carnaval&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Ministério da Igualdade Racial (MIR) lançou nessa segunda-feira (12), no Rio de Janeiro, uma nova campanha que visa destacar a contribuição da cultura negra para o carnaval e combater a discriminação e violências. Com adesivos e leques, a ideia é lembrar que ofender uma pessoa com base na cor de pele é um ato de injúria racial, assim como advertir que fantasias estereotipadas, como a de “nega maluca” e a de indígena”,não combinam com a folia.&lt;/p&gt;
@@ -194,7 +245,7 @@ publicada no Diário Oficial d...</excerpt:encoded>
 &lt;p&gt;A ministra Anielle Franco disse, em nota, que a festa é um momento de diversão, mas também de respeito.&lt;/p&gt;
 &lt;p&gt;“Lançamos essa campanha para cuidar e respeitar as mãos negras de quem faz acontecer e também se diverte no maior espetáculo da terra”, ressaltou. “O carnaval é cultura, arte, resistência e resiliência”, completou, sobre a campanha deste ano, que ampliou a presença no país.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/racismo-no-carnaval-sera-tema-de-nova-campanha-do-mir&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Ministério da Igualdade Racial (MIR) lançou nessa segunda-feira (12), no Rio de Janeiro, uma nova campanha que visa destacar a contribuição da cult...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-13 20:03:00</wp:post_date>
       <wp:post_date_gmt>2026-01-13 20:03:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-13 20:03:00</wp:post_modified>
@@ -220,9 +271,9 @@ publicada no Diário Oficial d...</excerpt:encoded>
     <item>
       <title>Atlético-MG dá adeus à Copinha, após derrota para Ibrachina por 3 a 1</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/atletico-mg-da-adeus-copinha-apos-derrota-para-ibrachina</link>
-      <pubDate>Wed, 14 Jan 2026 03:41:45 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:41:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/atletico-mg-da-adeus-copinha-apos-derrota-para-ibrachina#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/atletico-mg-da-adeus-copinha-apos-derrota-para-ibrachina#1005</guid>
       <description>A zebra voltou a rondar a segunda fase eliminatória da Copa São Paulo de Futebol Júnior. No fim da tarde desta terça-feira (13), um dia após a elimin...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/40p8sBCSwjzd7J5e95xzTFzLvjA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/13/ibrachina_3_a_1_atletico-mg.jpg?itok=inTyQMRZ&quot; alt=&quot;Atlético-MG dá adeus à Copinha, após derrota para Ibrachina por 3 a 1&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A zebra voltou a rondar a segunda fase eliminatória da Copa São Paulo de Futebol Júnior. No fim da tarde desta terça-feira (13), um dia após a eliminação do Corinthians para o Guarani, foi a vez do Atlético-MG dar adeus à competição. O time mineiro, três vezes campeão da Copinha (1975, 1976 e 1983), foi surpreendido pelo Ibrachina, que avançou à terceira fase mata-mata com vitória por 3 a 1.O adversário na busca por uma vaga nas oitavas será o vencedor do confronto entre Audax-SP x Santo André, a partir das 19h (horário de Brasilia).&lt;/p&gt;
@@ -241,7 +292,7 @@ publicada no Diário Oficial d...</excerpt:encoded>
 &lt;p&gt;Wellington César Lima e Silva é o novo ministro da Justiça e Segurança&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: Haddad diz que caso Master pode ser a maior fraude bancária do país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/atletico-mg-da-adeus-copinha-apos-derrota-para-ibrachina&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A zebra voltou a rondar a segunda fase eliminatória da Copa São Paulo de Futebol Júnior. No fim da tarde desta terça-feira (13), um dia após a elimin...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-13 19:36:00</wp:post_date>
       <wp:post_date_gmt>2026-01-13 19:36:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-13 19:36:00</wp:post_modified>
@@ -267,9 +318,9 @@ publicada no Diário Oficial d...</excerpt:encoded>
     <item>
       <title>Lula cria comitê gestor e lança plataforma da reforma tributária</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/lula-cria-comite-gestor-e-lanca-plataforma-da-reforma-tributaria</link>
-      <pubDate>Wed, 14 Jan 2026 03:41:45 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:41:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/lula-cria-comite-gestor-e-lanca-plataforma-da-reforma-tributaria#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/lula-cria-comite-gestor-e-lanca-plataforma-da-reforma-tributaria#1006</guid>
       <description>© Valter Campanato/Agência Brasil
 O presidente Luiz Inácio Lula da Silva sancionou nesta terça-feira (13), com vetos, o segundo e último projeto de l...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/z0-cx5NIB3jSx0hKasqxdeKsp7o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/13/0d7a6143_0.jpg?itok=r1ojKLb2&quot; alt=&quot;Lula cria comitê gestor e lança plataforma da reforma tributária&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -290,7 +341,7 @@ O presidente Luiz Inácio Lula da Silva sancionou nesta terça-feira (13), com v
 &lt;p&gt;&quot;É uma das primeiras reforma tributárias sobre o consumo que tem pretensão de ter progressividade porque o pobre recebe&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/lula-cria-comite-gestor-e-lanca-plataforma-da-reforma-tributaria&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 O presidente Luiz Inácio Lula da Silva sancionou nesta terça-feira (13), com vetos, o segundo e último projeto de l...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-13 19:15:00</wp:post_date>
       <wp:post_date_gmt>2026-01-13 19:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-13 19:15:00</wp:post_modified>
@@ -316,9 +367,9 @@ O presidente Luiz Inácio Lula da Silva sancionou nesta terça-feira (13), com v
     <item>
       <title>Wellington Lima e Silva é o novo ministro da Justiça</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/wellington-lima-e-silva-e-novo-ministro-da-justica</link>
-      <pubDate>Wed, 14 Jan 2026 03:41:45 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:41:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/wellington-lima-e-silva-e-novo-ministro-da-justica#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/wellington-lima-e-silva-e-novo-ministro-da-justica#1007</guid>
       <description>O advogado Wellington César Lima e Silva é o novo ministro da Justiça e Segurança Pública.
 convidado para assumir o cargo em encontro com o president...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FBOa5V8vUcz1XDK5YgndMw1b_Hg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/13/93cafa00-745c-4abd-87c3-a3724aec8225.jpeg?itok=WbhlZOvu&quot; alt=&quot;Wellington Lima e Silva é o novo ministro da Justiça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -334,12 +385,12 @@ convidado para assumir o cargo em encontro com o president...</description>
 &lt;p&gt;. Magistrado aposentado do Supremo Tribunal Federal (STF), ele havia assumidoa pasta em fevereiro de 2024 e deixouo cargo com quase dois anos de gestão, justificando quequestões pessoais e familiares o levaram a tomar a decisão.&lt;/p&gt;
 &lt;p&gt;Wellington César Lima e Silva é o novo ministro da Justiça e Segurança&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: Haddad diz que caso Master pode ser a maior fraude bancária do país&lt;/p&gt;
-&lt;p&gt;Anvisa aprova novo medicamento para prevenção do HIV&lt;/p&gt;
+&lt;p&gt;Método desenvolvido na Unicamp ensina circo nas escolas de São Paulo&lt;/p&gt;
 &lt;p&gt;Mega-Sena acumula e prêmio vai a R$ 35 milhões&lt;/p&gt;
 &lt;p&gt;A cada R$ 1 investido via Lei Rouanet, R$ 7,59 retornaram, diz estudo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/wellington-lima-e-silva-e-novo-ministro-da-justica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O advogado Wellington César Lima e Silva é o novo ministro da Justiça e Segurança Pública.
 convidado para assumir o cargo em encontro com o president...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-13 19:06:00</wp:post_date>
       <wp:post_date_gmt>2026-01-13 19:06:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-13 19:06:00</wp:post_modified>
@@ -365,9 +416,9 @@ convidado para assumir o cargo em encontro com o president...</excerpt:encoded>
     <item>
       <title>Estado do Rio registra temperaturas acima da média histórica</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/estado-do-rio-registra-temperaturas-acima-da-media-historica</link>
-      <pubDate>Wed, 14 Jan 2026 03:41:45 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:41:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/estado-do-rio-registra-temperaturas-acima-da-media-historica#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/estado-do-rio-registra-temperaturas-acima-da-media-historica#1008</guid>
       <description>O estado do Rio de Janeiro tem registrado temperaturas elevadas com registros acima da média histórica, de acordo com o Instituto Nacional de Meteoro...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ye1728HMOebR6r9A_1hiLF-eP5w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/31/_rbr2806.jpg?itok=Jr__2kB3&quot; alt=&quot;Estado do Rio registra temperaturas acima da média histórica&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O estado do Rio de Janeiro tem registrado temperaturas elevadas com registros acima da média histórica, de acordo com o Instituto Nacional de Meteorologia (Inmet).&lt;/p&gt;
@@ -386,7 +437,7 @@ convidado para assumir o cargo em encontro com o president...</excerpt:encoded>
 &lt;p&gt;Na região Norte, a área composta por Vale do Acre, Sudoeste Amazonense, Sul Amazonense, Vale do Juruá também está com alerta de perigo, mas por conta de chuvas intensas.&lt;/p&gt;
 &lt;p&gt;Nesta quarta-feira (14), o Inmet informou que há expectativa de leve declínio das temperaturas, embora o calor ainda persista no estado do Rio de Janeiro. Na capital, a temperatura máxima deve chegar a 35ºC e a mínima, a 21ºC.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/estado-do-rio-registra-temperaturas-acima-da-media-historica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O estado do Rio de Janeiro tem registrado temperaturas elevadas com registros acima da média histórica, de acordo com o Instituto Nacional de Meteoro...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-13 18:52:00</wp:post_date>
       <wp:post_date_gmt>2026-01-13 18:52:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-13 18:52:00</wp:post_modified>
@@ -412,9 +463,9 @@ convidado para assumir o cargo em encontro com o president...</excerpt:encoded>
     <item>
       <title>Haddad estima déficit primário de 2025 em 0,1% do PIB</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/haddad-estima-deficit-primario-de-2025-em-01-do-pib</link>
-      <pubDate>Wed, 14 Jan 2026 03:41:45 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 04:41:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/haddad-estima-deficit-primario-de-2025-em-01-do-pib#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/haddad-estima-deficit-primario-de-2025-em-01-do-pib#1009</guid>
       <description>© Valter Campanato/Agência Brasil
 Os números preliminares da equipe econômica indicam que o Governo Central encerrou 2025 com déficit primário de cer...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/tFEAMWXdK3_vW0qAyriZEYF_7rE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/13/0d7a6230_0.jpg?itok=lISpHZX0&quot; alt=&quot;Haddad estima déficit primário de 2025 em 0,1% do PIB&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -435,7 +486,7 @@ Os números preliminares da equipe econômica indicam que o Governo Central ence
 &lt;p&gt;Anvisa aprova novo medicamento para prevenção do HIV&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/haddad-estima-deficit-primario-de-2025-em-01-do-pib&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 Os números preliminares da equipe econômica indicam que o Governo Central encerrou 2025 com déficit primário de cer...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-13 18:51:00</wp:post_date>
       <wp:post_date_gmt>2026-01-13 18:51:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-13 18:51:00</wp:post_modified>
@@ -456,55 +507,6 @@ Os números preliminares da equipe econômica indicam que o Governo Central ence
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/tFEAMWXdK3_vW0qAyriZEYF_7rE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/13/0d7a6230_0.jpg?itok=lISpHZX0</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>MEC fará pesquisa sobre impacto da restrição de celular nas escolas</title>
-      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/mec-fara-pesquisa-sobre-impacto-da-restricao-de-celular-nas-escolas</link>
-      <pubDate>Wed, 14 Jan 2026 03:41:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/mec-fara-pesquisa-sobre-impacto-da-restricao-de-celular-nas-escolas#1009</guid>
-      <description>Neste dia 13 de janeiro de 2026, completa-se um ano da vigência da lei federal que restringiu o uso de celulares nas escolas (
-A legislação visa redu...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8iK1IkihfOxhpK04mXYJ7DAGO4E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/29/toms5398.jpg?itok=3poCQWRB&quot; alt=&quot;MEC fará pesquisa sobre impacto da restrição de celular nas escolas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Neste dia 13 de janeiro de 2026, completa-se um ano da vigência da lei federal que restringiu o uso de celulares nas escolas (&lt;/p&gt;
-&lt;p&gt;A legislação visa reduzir distrações no ambiente escolar, priorizar o engajamento em atividades pedagógicas e coibir o uso inadequado de dispositivos eletrônicos por parte dos alunos.&lt;/p&gt;
-&lt;p&gt;O Ministério da Educação (MEC) fará uma pesquisa nacional no primeiro semestre de 2026 para analisar os desdobramentos da lei.&lt;/p&gt;
-&lt;p&gt;O objetivoé compreendercomo a norma vem sendo adotada nos diferentes sistemas de ensino e quais são os seus efeitos no ambiente escolar.&lt;/p&gt;
-&lt;p&gt;Oministro da Educação, Camilo Santana, avalia que a restrição do uso de celulares tem sido benéfica para os alunos.&lt;/p&gt;
-&lt;p&gt;&quot;Obrasileiro passa, em média, nove horas e 13minutos em frente a uma tela. Nós somos o segundo país do mundo que fica o maior tempo na frente de uma tela. isso é um prejuízo muito grande para crianças e adolescentes,causa ansiedade,causa déficit de atenção,causa transtornos, distúrbios mentais&quot;, destaca o ministro.&lt;/p&gt;
-&lt;p&gt;A lei foi instituída em um contexto de crescente preocupação com os efeitos do uso excessivo e desregulado de celulares no ambiente escolar.&lt;/p&gt;
-&lt;p&gt;Dados do Programa Internacional de Avaliação dos Estudantes (Pisa) 2022 mostram que 80% dos estudantes brasileiros disseram se distrair e ter dificuldades de concentração nas aulas de matemática por causa do celular.&lt;/p&gt;
-&lt;p&gt;Aluno do ensino médio, Nicolas Lima, de 15 anos, teve um pouco de resistência à mudança, mas viu as vantagens de uma vida com menos telas.&lt;/p&gt;
-&lt;p&gt;&quot;Percebi que não foi tão ruim assim. Logo no primeiro dia de aula, consegui fazer um amigo, porque eu me aproximei. Também percebi que a minha concentração melhorou muito durante as aulas. Eu não usava o celular durante a aula, mas sempre no final de cada aula em que os professores estavam fazendo a troca eu pegava o celular&quot;, conta o estudante.&lt;/p&gt;
-&lt;p&gt;&quot;Também, quando foi proibido o celular no intervalo, além de ficar conversando com os meus amigos, nós ficávamos jogando vários jogos, jogos de tabuleiro, conversando, um olhando para o outro, interagindo&quot;, completa.&lt;/p&gt;
-&lt;p&gt;Para aempreendedora digital e mãe de Nicolas, Cibele Lima, a adaptação foi desafiadora no início, mas recompensadora.&lt;/p&gt;
-&lt;p&gt;&quot;Estava acostumada a poder conversar com meus filhos no WhatsApp na escola, mas hoje eu vejo que melhorou muito, foi bom pra ele perceber que ele pode fazer amizades, que essa timidez não é uma condição fixa. Mas é algo que pode ser mudado quando a gente tem outro olhar e quando sai das telas. Isso ficou bem claro para mim neste um ano, essa transformação, de novas amizades por meio dessa proibição.&quot;&lt;/p&gt;
-&lt;p&gt;Especialistas relatam que, após a restrição do uso dos aparelhos, os professores perceberam alunos mais atentos, participativos e focados nas atividades&lt;/p&gt;
-&lt;p&gt;. O hábito de apenas “fotografar o quadro” ficou inviável, e os estudantes passaram a escrever, registrar e interagir mais. A mestre em saúde pública e psicóloga Karen Scavacini avalia que o celular pode ser um importante aliado na aprendizagem.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/mec-fara-pesquisa-sobre-impacto-da-restricao-de-celular-nas-escolas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Neste dia 13 de janeiro de 2026, completa-se um ano da vigência da lei federal que restringiu o uso de celulares nas escolas (
-A legislação visa redu...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-13 18:16:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-13 18:16:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-13 18:16:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-13 18:16:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/8iK1IkihfOxhpK04mXYJ7DAGO4E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/29/toms5398.jpg?itok=3poCQWRB</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
