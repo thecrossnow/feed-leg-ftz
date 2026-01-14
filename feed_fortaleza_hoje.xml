@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 14/01/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 12:54 UTC</description>
-<lastBuildDate>Wed, 14 Jan 2026 12:54:39 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Wed, 14 Jan 2026 13:42:34 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Prefeitura renova decreto de intervenção na Santa Casa da Misericórdia de Fortaleza</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/prefeitura-renova-decreto-de-intervencao-na-santa-casa-da-misericordia-de-fortaleza</link>
+<guid isPermaLink="false">fortaleza-20260114-cc68bdb104df</guid>
+<pubDate>Wed, 14 Jan 2026 10:02:00 +0000</pubDate>
+<description>Prefeitura renova decreto de intervenção na Santa Casa da Misericórdia de Fortaleza - Quarta, 14 Janeiro 2026 10:02</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/SA%C3%9ADE.png" alt="Prefeitura renova decreto de intervenção na Santa Casa da Misericórdia de Fortaleza" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Prefeitura de Fortaleza publicou, nesta segunda-feira (12/01), o Decreto nº 16.576, que prorroga até 31 de dezembro de 2026 a intervenção administrativa na Santa Casa da Misericórdia de Fortaleza. A medida tem como objetivo assegurar a regularização administrativa, financeira e operacional da Santa Casa, além de garantir a manutenção dos serviços essenciais de saúde prestados à população.</p>
+<p>De acordo com a publicação, ficam mantidas as nomeações do interventor, o médico José Erialdo da Silva Júnior, e dos membros da Comissão de Intervenção. A prorrogação ocorre em um contexto de avanços significativos na retomada da capacidade assistencial do hospital, resultado direto das ações implementadas ao longo do período de intervenção, iniciado em julho de 2025.</p>
+<p>Entre os principais resultados alcançados, destacam-se a reabertura de 230 leitos, sendo 20 de Unidade de Terapia Intensiva (UTI), além da reativação de nove salas cirúrgicas, ampliando o acesso a procedimentos eletivos e de urgência. Outro avanço importante foi a implantação de um novo Centro de Imagem, que oferta exames como tomografia, radiografia, mamografia e densitometria óssea, entre outros, fortalecendo o diagnóstico e a resolutividade dos atendimentos.</p>
+<p><strong>Balanço de atendimentos</strong></p>
+<p>Os impactos das ações refletem diretamente no volume de atendimentos realizados pela instituição. Até 12 de janeiro de 2026, a Santa Casa contabilizou mais de 27 mil atendimentos gratuitos à população, sendo 19.599 exames, 5.057 consultas, 1.493 internações e 1.721 cirurgias.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/prefeitura-renova-decreto-de-intervencao-na-santa-casa-da-misericordia-de-fortaleza" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/SA%C3%9ADE.png" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/SA%C3%9ADE.png" type="image/jpeg" medium="image">
+<media:title>Prefeitura renova decreto de intervenção na Santa Casa da Misericórdia de Fortaleza</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
