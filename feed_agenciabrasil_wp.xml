@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Thu, 15 Jan 2026 21:15:50 +0000</pubDate>
+    <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,99 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Ocupação hoteleira no Rio para o carnaval já chega a 73,91%</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/ocupacao-hoteleira-no-rio-para-o-carnaval-ja-chega-7391</link>
+      <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/ocupacao-hoteleira-no-rio-para-o-carnaval-ja-chega-7391#1000</guid>
+      <description>A primeira prévia da pesquisa de ocupação hoteleira na capital fluminense para o carnaval projeta que a média de ocupação no período de 14 a 17 de fe...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yr9X9CMZEVE5L9CQfV4whoyUvlM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc2650.jpg?itok=9Y0Zv18X&quot; alt=&quot;Ocupação hoteleira no Rio para o carnaval já chega a 73,91%&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A primeira prévia da pesquisa de ocupação hoteleira na capital fluminense para o carnaval projeta que a média de ocupação no período de 14 a 17 de fevereiro está em 73,91%. Os dados foram divulgados nesta quinta-feira (15) pelo Sindicato dos Meios de Hospedagem do Município do Rio de Janeiro (HotéisRIO).&lt;/p&gt;
+&lt;p&gt;As regiões com as maiores taxas de ocupaçãodurante os festejos de Momo até o momento são Centro (83,74%), Ipanema/Leblon (81,10%), Leme/Copacabana (78,80%), Flamengo/Botafogo (78,30%) e Barra/Recreio/São Conrado (63,90%).&lt;/p&gt;
+&lt;p&gt;O presidente do HotéisRIO, Alfredo Lopes, comentou que o Carnaval é a principal festa do Rio de Janeiro, quando comparado ao Réveillon, pelo maior tempo de estadia dos hóspedes.&lt;/p&gt;
+&lt;p&gt;“Essa maior permanência resulta em hotéis cheios e bons resultados para a cadeia do turismo – bares, restaurantes e shoppings ─com benefícios para a arrecadação da cidade”, manifestou.&lt;/p&gt;
+&lt;p&gt;Alfredo Lopes lembrou que o Carnaval do ano passado atraiu quase 300 mil turistas internacionais para o Brasil, sendo a maior parte de argentinos (41,2%), que escolheram o Rio de Janeiro como destino principal.&lt;/p&gt;
+&lt;p&gt;“Este ano, a gente já prevê um crescimento de turistas internacionais da ordem de 18% e devemos repetir a ocupação hoteleira do ano passado, que ficou em 98,62%”, concluiu o presidente do HotéisRIO.&lt;/p&gt;
+&lt;p&gt;Local de instalação da geladeira pode aumentar eficiência; saiba mais&lt;/p&gt;
+&lt;p&gt;Os Trepidant's: relembre sucesso dos anos 70&lt;/p&gt;
+&lt;p&gt;Acordo Mercosul: Lula vai se reunir com líderes europeus nesta sexta&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/ocupacao-hoteleira-no-rio-para-o-carnaval-ja-chega-7391&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A primeira prévia da pesquisa de ocupação hoteleira na capital fluminense para o carnaval projeta que a média de ocupação no período de 14 a 17 de fe...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-15 18:08:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-15 18:08:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-15 18:08:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-15 18:08:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/yr9X9CMZEVE5L9CQfV4whoyUvlM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc2650.jpg?itok=9Y0Zv18X</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Moraes determina transferência de Bolsonaro para Papudinha</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/moraes-determina-transferencia-de-bolsonaro-para-papudinha</link>
+      <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/moraes-determina-transferencia-de-bolsonaro-para-papudinha#1001</guid>
+      <description>O ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes determinou nesta quinta-feira (15) a imediata transferência doex-presidente Jair Bol...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/XopQOW0hF5ar3qmaCOSUf91Zces=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/16/54988153359_caf836f3d6_o.jpg?itok=9566cBwz&quot; alt=&quot;Moraes determina transferência de Bolsonaro para Papudinha&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes determinou nesta quinta-feira (15) a imediata transferência doex-presidente Jair Bolsonaro da Superintendência da Polícia Federalpara aSala de Estado Maior do 19º Batalhão da Polícia Militar do Distrito Federal (PMDF), no Complexo Penitenciário da Papuda, em Brasília.&lt;/p&gt;
+&lt;p&gt;O ex-presidente já foi transferido para o local,&lt;/p&gt;
+&lt;p&gt;mais conhecido como Papudinha,onde deverá cumprir a pena de 27 anos e três meses de prisão por liderar tentativa de golpe de Estado.&lt;/p&gt;
+&lt;p&gt;Anderson Torres, ex-ministro da Justiça e ex-secretário de segurança do Distrito Federal, eSilvinei Vasques, ex-diretor da Polícia Rodoviária Federal (PRF), estão presos na mesma área, em celas individuais.&lt;/p&gt;
+&lt;p&gt;Na decisão desta quinta, Moraes definiutambém que o ex-presidenteseja submetido imediatamente a uma junta médica oficial, composta por médicos da Polícia Federal, para avaliação do quadro clínico, das necessidades para o cumprimento da pena e da eventual necessidade de transferência para hospital penitenciário.&lt;/p&gt;
+&lt;p&gt;O laudo deverá ser apresentado em até dez dias. A defesa e a Procuradoria-Geral da República poderão indicar assistentes técnicos e apresentar quesitos no prazo de 24 horas.&lt;/p&gt;
+&lt;p&gt;Na mesma decisão, o ministroAlexandre de Moraes autorizou uma série de medidas relacionadas à saúde e às condições de custódia do ex-presidente. Entre elas, está a assistência médica integral, 24 horas por dia, tanto por profissionais do sistema penitenciário quanto por médicos particulares previamente cadastrados, sem necessidade de comunicação prévia ao Judiciário.&lt;/p&gt;
+&lt;p&gt;Também foi autorizado o deslocamento imediato para hospitais em casos de urgência, com posterior comunicação ao STF no prazo de até 24 horas.&lt;/p&gt;
+&lt;p&gt;Bolsonaro poderá realizar sessões de fisioterapia nos dias e horários indicados por seus médicos, mediante cadastramento do profissional e comunicação ao juízo responsável.&lt;/p&gt;
+&lt;p&gt;A defesa foi autorizada ainda a providenciar a entrega diária de alimentação especial, devendo indicar, no prazo de 24 horas, a pessoa responsável. Equipamentos de fisioterapia, como esteira e bicicleta, além da instalação de grades de proteção e barras de apoio nas acomodações, poderão ser instalados a critério da defesa, conforme recomendação médica.&lt;/p&gt;
+&lt;p&gt;Quanto às visitas, ficou autorizada a visitação semanal permanente da esposa, Michelle Bolsonaro, dos filhos Carlos, Flávio, Jair Renan e Laura Bolsonaro, além da enteada Letícia Firmo da Silva, às quartas e quintas-feiras, em horários previamente definidos. As demais visitas deverão seguir as normas do sistema penitenciário do Distrito Federal e dependerão de autorização do STF.&lt;/p&gt;
+&lt;p&gt;Excepcionalmente, após a transferência realizada nesta quinta-feira, foi autorizada uma visita, ainda hoje, dos familiares diretos, com duração total de três horas, a ser dividida entre os visitantes.&lt;/p&gt;
+&lt;p&gt;O pedido de autorização para acesso a uma televisão do tipo Smart TV foi negado. Também foram considerados prejudicados pedidos anteriores relacionados às condições da custódia na Superintendência da Polícia Federal, em razão da transferência.&lt;/p&gt;
+&lt;p&gt;Aos trancos e barrancos, bola segue rolando nos campeonatos estaduais&lt;/p&gt;
+&lt;p&gt;Rayan recebe oferta do Bournemouth e acerto depende da vontade do Vasco&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/moraes-determina-transferencia-de-bolsonaro-para-papudinha&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes determinou nesta quinta-feira (15) a imediata transferência doex-presidente Jair Bol...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-01-15 18:04:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-15 18:04:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-15 18:04:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-15 18:04:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/XopQOW0hF5ar3qmaCOSUf91Zces=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/16/54988153359_caf836f3d6_o.jpg?itok=9566cBwz</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Plataforma Não Me Perturbe teve 1,7 milhão de adesões em 2025</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/plataforma-nao-me-perturbe-teve-17-milhao-de-adesoes-em-2025</link>
-      <pubDate>Thu, 15 Jan 2026 21:15:50 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/plataforma-nao-me-perturbe-teve-17-milhao-de-adesoes-em-2025#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/plataforma-nao-me-perturbe-teve-17-milhao-de-adesoes-em-2025#1002</guid>
       <description>A plataforma Não Me Perturbe, criada pelo setor de telecomunicações, fechou o ano de 2025 com 14,2 milhões de números de telefone cadastrados para nã...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/96J-0JTLy5rVfjaTy2K0B0So_iM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/23/_mg_5305.jpg?itok=N78NiyqC&quot; alt=&quot;Plataforma Não Me Perturbe teve 1,7 milhão de adesões em 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A plataforma Não Me Perturbe, criada pelo setor de telecomunicações, fechou o ano de 2025 com 14,2 milhões de números de telefone cadastrados para não receber chamadas de telemarketing de empresas de telecom e de oferta de crédito consignado.&lt;/p&gt;
@@ -43,9 +131,9 @@
 &lt;p&gt;A plataforma só funciona para ligações das empresas que aderiram à Não Me Perturbe, ou seja, empresas de telecomunicações e de oferta de crédito consignado. A solução não bloqueia, por exemplo, ligações de telemarketing de planos de saúde ou outros serviços.&lt;/p&gt;
 &lt;p&gt;Em decisão tomada em setembro do ano passado, a Agência Nacional de Telecomunicações (Anatel) determinou que todas as empresas prestadoras de serviços de telecomunicações deveriam aderir à plataforma Não Me Perturbe.&lt;/p&gt;
 &lt;p&gt;A medida inclui as operadoras de pequeno porte que não poderão oferecer serviços de telemarketing para quem estiver na lista da plataforma.&lt;/p&gt;
-&lt;p&gt;Dia do Compositor é celebrado em 15 de janeiro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/plataforma-nao-me-perturbe-teve-17-milhao-de-adesoes-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Aos trancos e barrancos, bola segue rolando nos campeonatos estaduais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/plataforma-nao-me-perturbe-teve-17-milhao-de-adesoes-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A plataforma Não Me Perturbe, criada pelo setor de telecomunicações, fechou o ano de 2025 com 14,2 milhões de números de telefone cadastrados para nã...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-01-15 17:31:00</wp:post_date>
       <wp:post_date_gmt>2026-01-15 17:31:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-15 17:31:00</wp:post_modified>
@@ -71,9 +159,9 @@
     <item>
       <title>Morre aos 89 anos a atriz e modelo Vera Valdez</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/morre-aos-89-anos-atriz-e-modelo-vera-valdez</link>
-      <pubDate>Thu, 15 Jan 2026 21:15:50 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/morre-aos-89-anos-atriz-e-modelo-vera-valdez#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/morre-aos-89-anos-atriz-e-modelo-vera-valdez#1003</guid>
       <description>Morreu nesta quinta-feira (15), aos 89 anos, a atriz e modelo Vera Barreto Leite Valdez, considerada a primeira supermodelo brasileira.
 A morte foi c...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QsomFdfb60vTkeECVCOninwvuOs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/15/vera-barreto.jpg?itok=BhNEsix6&quot; alt=&quot;Morre aos 89 anos a atriz e modelo Vera Valdez&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -86,15 +174,15 @@ A morte foi c...</description>
 &lt;p&gt;Vera foi fortemente impactada pela ditadura militar brasileira. Ela e omarido foram presos e Vera foi levada para o Doi-Codi sob a acusação de porte de cocaína. Foi torturada e enviada para um sanatório.&lt;/p&gt;
 &lt;p&gt;Deixou o Brasil e voltou mais tarde, no início dos anos 1980, após a aprovação da Lei da Anistia. Nesse momento, passou a trabalhar com o Teatro Oficina, de José Celso Martinez Corrêa.&lt;/p&gt;
 &lt;p&gt;Os últimos trabalhos de Vera como atriz foi no filme&lt;/p&gt;
-&lt;p&gt;Dia do Compositor é celebrado em 15 de janeiro&lt;/p&gt;
-&lt;p&gt;Festival Brinca+ agita o Sesi LAB com programação cultural e educativa&lt;/p&gt;
+&lt;p&gt;Local de instalação da geladeira pode aumentar eficiência; saiba mais&lt;/p&gt;
+&lt;p&gt;Rayan recebe oferta do Bournemouth e acerto depende da vontade do Vasco&lt;/p&gt;
 &lt;p&gt;Acordo Mercosul: Lula vai se reunir com líderes europeus nesta sexta&lt;/p&gt;
-&lt;p&gt;Plataforma Não Me Perturbe teve 1,7 milhão de adesões em 2025&lt;/p&gt;
-&lt;p&gt;Richarlison sofre lesão e vai desfalcar Tottenham por quase 2 meses&lt;/p&gt;
-&lt;p&gt;Morre aos 89 anos a atriz e modelo Vera Valdez&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/morre-aos-89-anos-atriz-e-modelo-vera-valdez&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Peritos criminais manifestam preocupação com decisões de Toffoli&lt;/p&gt;
+&lt;p&gt;Ocupação hoteleira no Rio para o carnaval já chega a 73,91%&lt;/p&gt;
+&lt;p&gt;Moraes determina transferência de Bolsonaro para Papudinha&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/morre-aos-89-anos-atriz-e-modelo-vera-valdez&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Morreu nesta quinta-feira (15), aos 89 anos, a atriz e modelo Vera Barreto Leite Valdez, considerada a primeira supermodelo brasileira.
 A morte foi c...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-15 16:37:00</wp:post_date>
       <wp:post_date_gmt>2026-01-15 16:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-15 16:37:00</wp:post_modified>
@@ -120,9 +208,9 @@ A morte foi c...</excerpt:encoded>
     <item>
       <title>Rio reforça vacinação contra o sarampo e febre amarela</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/rio-reforca-vacinacao-contra-o-sarampo-e-febre-amarela</link>
-      <pubDate>Thu, 15 Jan 2026 21:15:50 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/rio-reforca-vacinacao-contra-o-sarampo-e-febre-amarela#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/rio-reforca-vacinacao-contra-o-sarampo-e-febre-amarela#1004</guid>
       <description>© Tânia Rêgo/Agência Brasil/Arquivo
 A Secretaria Municipal de Saúde do Rio de Janeiro iniciou nesta quinta-feira (15) o reforço da vacinação contra o...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vqWUmw-VaP5rYmamkz1gJJE48ag=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_campanha_estadual_do_dia_d_de_vacinacao_contra_o_sarampo_no_rio20200201_0133.jpg?itok=LFiE8vVR&quot; alt=&quot;Rio reforça vacinação contra o sarampo e febre amarela&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -143,7 +231,7 @@ A Secretaria Municipal de Saúde do Rio de Janeiro iniciou nesta quinta-feira (1
 &lt;p&gt;A secretaria vai divulgar nas próximas semanas novos postos de vacinação.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/rio-reforca-vacinacao-contra-o-sarampo-e-febre-amarela&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Tânia Rêgo/Agência Brasil/Arquivo
 A Secretaria Municipal de Saúde do Rio de Janeiro iniciou nesta quinta-feira (15) o reforço da vacinação contra o...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-15 16:32:00</wp:post_date>
       <wp:post_date_gmt>2026-01-15 16:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-15 16:32:00</wp:post_modified>
@@ -169,9 +257,9 @@ A Secretaria Municipal de Saúde do Rio de Janeiro iniciou nesta quinta-feira (1
     <item>
       <title>Dino proíbe emendas para entidades ligadas a parentes de parlamentares</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/dino-proibe-emendas-para-entidades-ligadas-parentes-de-parlamentares</link>
-      <pubDate>Thu, 15 Jan 2026 21:15:50 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/dino-proibe-emendas-para-entidades-ligadas-parentes-de-parlamentares#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/dino-proibe-emendas-para-entidades-ligadas-parentes-de-parlamentares#1005</guid>
       <description>O ministro Flávio Dino, do Supremo Tribunal Federal (STF), proibiu nesta quinta-feira (15) a destinação de emendas parlamentares a entidades do terce...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dXGXNmItivatUZl_0v4U9o6VTyI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/14/54853319032_2d77ee48ce_o.jpg?itok=mssJ5dQy&quot; alt=&quot;Dino proíbe emendas para entidades ligadas a parentes de parlamentares&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O ministro Flávio Dino, do Supremo Tribunal Federal (STF), proibiu nesta quinta-feira (15) a destinação de emendas parlamentares a entidades do terceiro setor que tenham na direção parentes do congressista responsável pela indicação da verba pública.&lt;/p&gt;
@@ -185,12 +273,12 @@ A Secretaria Municipal de Saúde do Rio de Janeiro iniciou nesta quinta-feira (1
 &lt;p&gt;Após citar esse aumento, Dino afirmou que “avolumam-se indícios graves de malversação de verbas públicas, com a destinação de recursos para a satisfação de interesses privados”. O ministro lembrou que já havia bloqueado os repasses a ONGs sem sede comprovada.&lt;/p&gt;
 &lt;p&gt;Dino é relator de diferentes ações de descumprimento de preceito fundamental (ADPFs) que tratam da constitucionalidade na liberação de emendas parlamentares. Desde 2022, o Supremo vem impondo uma série de medidas para assegurar a transparência e a rastreabilidade dos recursos públicos.&lt;/p&gt;
 &lt;p&gt;Em paralelo, tramitam em diferentes gabinetes diversos casos sobre suspeitas de desvios em emendas parlamentares.&lt;/p&gt;
-&lt;p&gt;Dia do Compositor é celebrado em 15 de janeiro&lt;/p&gt;
-&lt;p&gt;Festival Brinca+ agita o Sesi LAB com programação cultural e educativa&lt;/p&gt;
+&lt;p&gt;Aos trancos e barrancos, bola segue rolando nos campeonatos estaduais&lt;/p&gt;
+&lt;p&gt;Rayan recebe oferta do Bournemouth e acerto depende da vontade do Vasco&lt;/p&gt;
 &lt;p&gt;Acordo Mercosul: Lula vai se reunir com líderes europeus nesta sexta&lt;/p&gt;
-&lt;p&gt;Moraes determina transferência de Bolsonaro para Papudinha&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/dino-proibe-emendas-para-entidades-ligadas-parentes-de-parlamentares&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Lula cita caso Master e defende PEC da Segurança Pública&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/dino-proibe-emendas-para-entidades-ligadas-parentes-de-parlamentares&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro Flávio Dino, do Supremo Tribunal Federal (STF), proibiu nesta quinta-feira (15) a destinação de emendas parlamentares a entidades do terce...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-15 16:11:00</wp:post_date>
       <wp:post_date_gmt>2026-01-15 16:11:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-15 16:11:00</wp:post_modified>
@@ -216,9 +304,9 @@ A Secretaria Municipal de Saúde do Rio de Janeiro iniciou nesta quinta-feira (1
     <item>
       <title>Botucatu inicia domingo vacinação em massa contra a dengue</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/botucatu-inicia-domingo-vacinacao-em-massa-contra-dengue</link>
-      <pubDate>Thu, 15 Jan 2026 21:15:50 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/botucatu-inicia-domingo-vacinacao-em-massa-contra-dengue#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/botucatu-inicia-domingo-vacinacao-em-massa-contra-dengue#1006</guid>
       <description>© Instituto Butantan/Divulgação
 Neste domingo (18), a Prefeitura de Botucatu, no interior paulista, vai dar início a uma campanha de vacinação em mas...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/AmnU7MZ3qAikHWZcLNccOG4fOv0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/26/interna-dengue-aprovada_1.jpg?itok=58TcIVRY&quot; alt=&quot;Botucatu inicia domingo vacinação em massa contra a dengue&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -239,7 +327,7 @@ Neste domingo (18), a Prefeitura de Botucatu, no interior paulista, vai dar iní
 &lt;p&gt;eficácia de quase 75% contra casos gerais de dengue, de mais de 91% contra casos graves e de 100% contra hospitalizações.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/botucatu-inicia-domingo-vacinacao-em-massa-contra-dengue&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Instituto Butantan/Divulgação
 Neste domingo (18), a Prefeitura de Botucatu, no interior paulista, vai dar início a uma campanha de vacinação em mas...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-15 15:28:00</wp:post_date>
       <wp:post_date_gmt>2026-01-15 15:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-15 15:28:00</wp:post_modified>
@@ -265,9 +353,9 @@ Neste domingo (18), a Prefeitura de Botucatu, no interior paulista, vai dar iní
     <item>
       <title>Enem 2025: Inep divulga notas individuais nesta sexta-feira</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/enem-2025-inep-divulga-notas-individuais-nesta-sexta-feira</link>
-      <pubDate>Thu, 15 Jan 2026 21:15:50 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/enem-2025-inep-divulga-notas-individuais-nesta-sexta-feira#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/enem-2025-inep-divulga-notas-individuais-nesta-sexta-feira#1007</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O Ministério da Educação (MEC) confirmou que
 os resultados do Exame Nacional do Ensino Médio (Enem) de 2025 serão di...</description>
@@ -285,12 +373,12 @@ os resultados do Exame Nacional do Ensino Médio (Enem) de 2025 serão di...</de
 &lt;p&gt;Fies: período de inscriçõesserá divulgado posteriormente.&lt;/p&gt;
 &lt;p&gt;–candidatos que fizeram a prova, mas ainda não concluíram o ensino médio –&lt;/p&gt;
 &lt;p&gt;o boletim individual do Enem 2025 será publicado posteriormente.&lt;/p&gt;
-&lt;p&gt;Dia do Compositor é celebrado em 15 de janeiro&lt;/p&gt;
-&lt;p&gt;Festival Brinca+ agita o Sesi LAB com programação cultural e educativa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/enem-2025-inep-divulga-notas-individuais-nesta-sexta-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Local de instalação da geladeira pode aumentar eficiência; saiba mais&lt;/p&gt;
+&lt;p&gt;Os Trepidant's: relembre sucesso dos anos 70&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/enem-2025-inep-divulga-notas-individuais-nesta-sexta-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O Ministério da Educação (MEC) confirmou que
 os resultados do Exame Nacional do Ensino Médio (Enem) de 2025 serão di...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-15 15:23:00</wp:post_date>
       <wp:post_date_gmt>2026-01-15 15:23:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-15 15:23:00</wp:post_modified>
@@ -316,9 +404,9 @@ os resultados do Exame Nacional do Ensino Médio (Enem) de 2025 serão di...</ex
     <item>
       <title>Saiba quais países tiveram visto de imigração para os EUA suspenso</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/saiba-quais-paises-tiveram-visto-de-imigracao-para-os-eua-suspenso</link>
-      <pubDate>Thu, 15 Jan 2026 21:15:50 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/saiba-quais-paises-tiveram-visto-de-imigracao-para-os-eua-suspenso#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/saiba-quais-paises-tiveram-visto-de-imigracao-para-os-eua-suspenso#1008</guid>
       <description>© Arquivo/ Marcello Casal Jr/Agência Brasil
 Os Estados Unidos suspenderão, a partir do dia 21 de janeiro, a emissão de visto de imigrante para cidadã...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/70dzW7gL0fMlVcgc-RoajUVCaNc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/embaixada-estados-unidos.jpg?itok=JSALsawE&quot; alt=&quot;Saiba quais países tiveram visto de imigração para os EUA suspenso&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -332,14 +420,14 @@ Os Estados Unidos suspenderão, a partir do dia 21 de janeiro, a emissão de vis
 &lt;p&gt;A nota lembra que o presidente Donald Trump “tem deixado claro que imigrantes devem ser financeiramente autossuficientes e não representar um fardo financeiro para os americanos”.&lt;/p&gt;
 &lt;p&gt;Confira as informações do Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
 &lt;p&gt;Veja quais são os países que terão a emissão de visto de imigrantes suspensa:&lt;/p&gt;
-&lt;p&gt;Dia do Compositor é celebrado em 15 de janeiro&lt;/p&gt;
-&lt;p&gt;Festival Brinca+ agita o Sesi LAB com programação cultural e educativa&lt;/p&gt;
+&lt;p&gt;Aos trancos e barrancos, bola segue rolando nos campeonatos estaduais&lt;/p&gt;
+&lt;p&gt;Rayan recebe oferta do Bournemouth e acerto depende da vontade do Vasco&lt;/p&gt;
 &lt;p&gt;Acordo Mercosul: Lula vai se reunir com líderes europeus nesta sexta&lt;/p&gt;
-&lt;p&gt;Plataforma Não Me Perturbe teve 1,7 milhão de adesões em 2025&lt;/p&gt;
-&lt;p&gt;Richarlison sofre lesão e vai desfalcar Tottenham por quase 2 meses&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/saiba-quais-paises-tiveram-visto-de-imigracao-para-os-eua-suspenso&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Lula cita caso Master e defende PEC da Segurança Pública&lt;/p&gt;
+&lt;p&gt;Peritos criminais manifestam preocupação com decisões de Toffoli&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/saiba-quais-paises-tiveram-visto-de-imigracao-para-os-eua-suspenso&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Arquivo/ Marcello Casal Jr/Agência Brasil
 Os Estados Unidos suspenderão, a partir do dia 21 de janeiro, a emissão de visto de imigrante para cidadã...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-15 15:22:00</wp:post_date>
       <wp:post_date_gmt>2026-01-15 15:22:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-15 15:22:00</wp:post_modified>
@@ -365,9 +453,9 @@ Os Estados Unidos suspenderão, a partir do dia 21 de janeiro, a emissão de vis
     <item>
       <title>Lula reúne STF, BC, PF e Receita para debater combate ao crime</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/lula-reune-stf-bc-pf-e-receita-para-debater-combate-ao-crime</link>
-      <pubDate>Thu, 15 Jan 2026 21:15:50 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/lula-reune-stf-bc-pf-e-receita-para-debater-combate-ao-crime#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/lula-reune-stf-bc-pf-e-receita-para-debater-combate-ao-crime#1009</guid>
       <description>© Valter Campanato/Agência Brasil
 presidente Luiz Inácio Lula da Silva coordenou uma reunião na manhã desta quinta-feira (15), no Palácio do Planalto...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6hRvbMH50_MECKbVXuWVW0FUOwU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/13/0d7a6178_0.jpg?itok=hSSoJhCY&quot; alt=&quot;Lula reúne STF, BC, PF e Receita para debater combate ao crime&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -383,12 +471,12 @@ presidente Luiz Inácio Lula da Silva coordenou uma reunião na manhã desta qui
 &lt;p&gt;&quot;Eu acho que há uma constatação de que o tamanho do problema justifica e merece uma conjugação de esforços dessa escala&quot;, afirmou o ministro a jornalistas. Ele estava acompanhado do diretor-geral da PF, Andrei Rodrigues.&lt;/p&gt;
 &lt;p&gt;Ainda nesta quinta, Lima e Silva deve se reunir novamente com o presidente Lula, acompanhado do ex-ministro Ricardo Lewandowski, para uma cerimônia simbólica de posse no cargo.&lt;/p&gt;
 &lt;p&gt;Em seguida, ele falará novamente com a imprensa para apontar as prioridades da sua gestão à frente da pasta.&lt;/p&gt;
-&lt;p&gt;Dia do Compositor é celebrado em 15 de janeiro&lt;/p&gt;
-&lt;p&gt;Festival Brinca+ agita o Sesi LAB com programação cultural e educativa&lt;/p&gt;
+&lt;p&gt;Aos trancos e barrancos, bola segue rolando nos campeonatos estaduais&lt;/p&gt;
+&lt;p&gt;Rayan recebe oferta do Bournemouth e acerto depende da vontade do Vasco&lt;/p&gt;
 &lt;p&gt;Acordo Mercosul: Lula vai se reunir com líderes europeus nesta sexta&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/lula-reune-stf-bc-pf-e-receita-para-debater-combate-ao-crime&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 presidente Luiz Inácio Lula da Silva coordenou uma reunião na manhã desta quinta-feira (15), no Palácio do Planalto...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-15 15:19:00</wp:post_date>
       <wp:post_date_gmt>2026-01-15 15:19:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-15 15:19:00</wp:post_modified>
@@ -409,102 +497,6 @@ presidente Luiz Inácio Lula da Silva coordenou uma reunião na manhã desta qui
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/6hRvbMH50_MECKbVXuWVW0FUOwU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/13/0d7a6178_0.jpg?itok=hSSoJhCY</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>União paga R$ 10,95 bilhões de dívidas de estados</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/uniao-paga-r-1095-bilhoes-de-dividas-de-estados</link>
-      <pubDate>Thu, 15 Jan 2026 21:15:50 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/uniao-paga-r-1095-bilhoes-de-dividas-de-estados#1008</guid>
-      <description>© José Cruz/Agência Brasil/Arquivo
-O Tesouro Nacional pagou, em 2025, R$ 10,95 bilhões em dívidas atrasadas de estados. Do total, a maior parte - R$ ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ArbrUsPPeNR0-6LyC5GvA9j9yYQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220049_1.jpg?itok=ZRCuUtTo&quot; alt=&quot;União paga R$ 10,95 bilhões de dívidas de estados&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© José Cruz/Agência Brasil/Arquivo&lt;/p&gt;
-&lt;p&gt;O Tesouro Nacional pagou, em 2025, R$ 10,95 bilhões em dívidas atrasadas de estados. Do total, a maior parte - R$ 4,69 bilhões - é relativa a atrasos de pagamento do governo do estado do Rio de Janeiro. Em seguida, vieram os pagamentos de débitos de R$ 3,55 bilhões de Minas Gerais e R$ 1,59 bilhão do Rio Grande do Sul.&lt;/p&gt;
-&lt;p&gt;A União também cobriu, no ano passado, dívidas de R$ 888,06 milhões de Goiás e R$ 226,19 milhões de débitos do Rio Grande do Norte.&lt;/p&gt;
-&lt;p&gt;O governo federal honrou, ainda, R$ 130,47 milhões de débitos atrasados de oito municípios. No total, o Tesouro cobriu R$ 11,08 bilhões de dívidas de governos locais em 2025.&lt;/p&gt;
-&lt;p&gt;Os dados estão no Relatório de Garantias Honradas pela União em Operações de Crédito, divulgado nesta quinta-feira (15), em Brasília, pela Secretaria do Tesouro Nacional.&lt;/p&gt;
-&lt;p&gt;As garantias são executadas pelo governo federal quando um estado ou município ficar inadimplente em alguma operação de crédito. Nesse caso, o Tesouro cobre o calote, mas retém repasses da União para o ente devedor até quitar a diferença, cobrando multa e juros.&lt;/p&gt;
-&lt;p&gt;As garantias honradas pelo Tesouro são descontadas dos repasses da União aos entes federados – como receitas dos fundos de participação e Imposto sobre Circulação de Mercadorias e Serviços (ICMS), dentre outros.&lt;/p&gt;
-&lt;p&gt;Sobre as obrigações em atraso incidem juros, mora e outros custos operacionais referentes ao período entre o vencimento da dívida e a efetiva honra dos valores pela União.&lt;/p&gt;
-&lt;p&gt;Até 31 de dezembro último, os estados puderam aderir ao Programa de Pleno Pagamento da Dívida dos Estados (Propag).&lt;/p&gt;
-&lt;p&gt;Ele prevê uma série de condições como venda de ativos à União e um plano de corte de gastos&lt;/p&gt;
-&lt;p&gt;para a liberação de até R$ 20 bilhões em investimentos pelos estados.&lt;/p&gt;
-&lt;p&gt;O Propag prevê descontos nos juros e parcelamento do saldo das dívidas estaduais em até 30 anos. Em troca, os estados que aderirem vão aportar recursos para o Fundo de Equalização Federativa (FEF), que distribuirá dinheiro para todos os estados que aderirem - mesmo os que não tiverem débitos com a União - para investimento em educação, segurança pública, saneamento, habitação, transportes e outras áreas.&lt;/p&gt;
-&lt;p&gt;Até o início de dezembro, sete estados aderiram ao Progag: Minas Gerais, Goiás, Tocantins, Piauí, Ceará, Alagoas e Sergipe.&lt;/p&gt;
-&lt;p&gt;Após o Congresso Nacional derrubar os vetos da Presidência da República ao Propag&lt;/p&gt;
-&lt;p&gt;, no fim de novembro, o Rio de Janeiro e o Rio Grande do Sul entraram no programa.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/uniao-paga-r-1095-bilhoes-de-dividas-de-estados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© José Cruz/Agência Brasil/Arquivo
-O Tesouro Nacional pagou, em 2025, R$ 10,95 bilhões em dívidas atrasadas de estados. Do total, a maior parte - R$ ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-01-15 15:14:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-15 15:14:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-15 15:14:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-15 15:14:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/ArbrUsPPeNR0-6LyC5GvA9j9yYQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220049_1.jpg?itok=ZRCuUtTo</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Anfavea projeta crescimento de 3,7% na produção de veículos para 2026</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/anfavea-projeta-crescimento-de-37-na-producao-de-veiculos-para-2026</link>
-      <pubDate>Thu, 15 Jan 2026 21:15:50 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/anfavea-projeta-crescimento-de-37-na-producao-de-veiculos-para-2026#1009</guid>
-      <description>A produção de veículos no Brasil -que engloba automóveis, comerciais leves, ônibus e caminhões - deve crescer 3,7% em 2026, de acordo com a estimativ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dlSNG22ZhreJtIRPYcHtZHXQSII=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/15/pint4989.jpg?itok=u1WXp-9B&quot; alt=&quot;Anfavea projeta crescimento de 3,7% na produção de veículos para 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A produção de veículos no Brasil -que engloba automóveis, comerciais leves, ônibus e caminhões - deve crescer 3,7% em 2026, de acordo com a estimativa daAssociação Nacional dos Fabricantes de Veículos Automotores (Anfavea).&lt;/p&gt;
-&lt;p&gt;O movimentodeve ser impulsionado principalmente pela produção de veículos leves, como automóveis e comerciais leves, que devem apresentar alta de 3,8% neste ano.&lt;/p&gt;
-&lt;p&gt;Também é esperada alta no licenciamento desses veículos, que devem crescer em torno de 2,7% neste ano, informou a Anfavea.&lt;/p&gt;
-&lt;p&gt;“Continuamos com um ano de dificuldades”, disse nesta quinta-feira (15) o presidente da Anfavea, Igor Calvet, durante coletiva de imprensa, em São Paulo. “Eu tenho dito que nós temos um otimismo contido para o setor automotivo. Isso porque os números vão continuar crescendo, mas os fatores de imprevisibilidade continuam. Nós temos fatores geopolíticos agora muito importantes que podem afetar a cadeia de fornecimento e nós temos um ano que antecede a entrada em vigor da reforma tributária. Teremos um ano em que nós precisamos ficar alertas e essa é razão pela qual nós estamos propondo revisar nossas projeções trimestralmente para ir acompanhando passo a passo os acontecimentos”, pontuou..&lt;/p&gt;
-&lt;p&gt;produção de veículos cresceu 3,5%&lt;/p&gt;
-&lt;p&gt;em relação a 2024, somando 2,6 milhões de unidades fabricadas, mantendo o Brasil na oitava posição no ranking mundial de produção.&lt;/p&gt;
-&lt;p&gt;Já as vendas totalizaram 2,69 milhões de unidades em 2025, o que representou aumento de 2,1% em relação ao ano anterior e que manteve o Brasil na sexta posição no ranking mundial de mercado.&lt;/p&gt;
-&lt;p&gt;Segundo Calvet, esses resultados foram piores que o esperadopara 2025, já que a Anfavea projetava crescimento de 7,8% para produção e de 5% para licenciamento.&lt;/p&gt;
-&lt;p&gt;Ainda assim, destacou ele, 2025 encerrou como um ano positivo para o setor.&lt;/p&gt;
-&lt;p&gt;“Nós tivemos um ano em que o mercado cresceu 2% e a produção cresceu 3%. Foi um ano de muita instabilidade, um ano em que nós tivemos questões geoeconômicas que influenciaram o setor.&quot;, detalhou o presidente da Anfavea.&lt;/p&gt;
-&lt;p&gt;Calvet ressaltou que também foium ano em que de discussões importantes como, por exemplo, sobre o Imposto sobre Operações Financeiras, o IOF. &quot;Então isso tudo impacta muito o setor, sem contar a taxa de juros. Quando fizemos a projeção, lá em 2024, tínhamos uma taxa de juros de 12%. Agora nós estamos com uma taxa de juros de 15%. O mercado automotivo é muito sensível a essas imprevisibilidades e isso tudo fez com que os números fossem menores, mas ainda sim foram números positivos para o setor”, completou..&lt;/p&gt;
-&lt;p&gt;o setor automotivo também teve um ano positivo em exportações, com crescimento de 32,1% e quase 529 mil unidades comercializadas no período.&lt;/p&gt;
-&lt;p&gt;“As exportações surpreenderam em 2025. Só para a Argentina o crescimento foi de 85% em relação a 2024. Nossos embarques ao exterior superaram as importações, que também foram em nível alto. Tivemos quase meio milhão de veículos importados no país no ano de 2025”, disseo presidente da entidade.&lt;/p&gt;
-&lt;p&gt;Para2026, a expectativa decrescimento das exportaçõesgiraem torno de 1,3%.&lt;/p&gt;
-&lt;p&gt;Já as importações cresceram 6,6% no período, puxado principalmente pela entrada de autoveículos fabricados empaíses sem acordo de livre comércio com o Brasil, como a China. O país asiático representou 37,6% dos 498 mil importados que foram emplacados no Brasil no ano passado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/anfavea-projeta-crescimento-de-37-na-producao-de-veiculos-para-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A produção de veículos no Brasil -que engloba automóveis, comerciais leves, ônibus e caminhões - deve crescer 3,7% em 2026, de acordo com a estimativ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-15 15:07:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-15 15:07:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-15 15:07:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-15 15:07:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/dlSNG22ZhreJtIRPYcHtZHXQSII=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/15/pint4989.jpg?itok=u1WXp-9B</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
