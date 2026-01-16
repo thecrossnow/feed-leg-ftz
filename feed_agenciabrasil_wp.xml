@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Fri, 16 Jan 2026 12:30:04 +0000</pubDate>
+    <pubDate>Fri, 16 Jan 2026 13:33:26 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,14 +22,60 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Incêndio atinge subestação de energia em Embu-Guaçu</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/incendio-atinge-subestacao-de-energia-em-embu-guacu</link>
+      <pubDate>Fri, 16 Jan 2026 13:33:26 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/incendio-atinge-subestacao-de-energia-em-embu-guacu#1000</guid>
+      <description>Um incêndio atingiu um transformador numa subestação de energia na madrugada desta sexta-feira (16), em Embu-Guaçu, município da região metropolitana...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/v9bwSxvXBqCp85VgDmXuKRrQOPo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/16/captura_de_tela_2026-01-16_091631_copy.jpg?itok=DGu4Ar3T&quot; alt=&quot;Incêndio atinge subestação de energia em Embu-Guaçu&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Um incêndio atingiu um transformador numa subestação de energia na madrugada desta sexta-feira (16), em Embu-Guaçu, município da região metropolitana de São Paulo.&lt;/p&gt;
+&lt;p&gt;Segundo informações do Corpo de Bombeiros, cerca de 30 mil litros de óleo mineral isolante foram alcançados pelas chamas.&lt;/p&gt;
+&lt;p&gt;Uma investigação ainda vai determinar as causas do incidente, mas a suspeita principal é que um pico de tensão teria rompido uma porcelana isolante, gerando faíscas que deram origem ao incêndio.&lt;/p&gt;
+&lt;p&gt;Houve vazamento e combustão de óleo, o que gerou uma grande coluna de fumaça. Segundo os bombeiros, o incêndio está controlado neste momento, restando apenas poucos focos isolados de chamas.&lt;/p&gt;
+&lt;p&gt;Bolsonaro passa primeira noite na Papudinha, em Brasília&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 7h30: Bolsonaro passa a primeira noite no batalhão conhecido como &quot;Papudinha&quot;&lt;/p&gt;
+&lt;p&gt;Falta um mês para o início do Brasileirão Feminino&lt;/p&gt;
+&lt;p&gt;Trump ganha medalha do Nobel da venezuelana María Corina Machado&lt;/p&gt;
+&lt;p&gt;Incêndio atinge subestação de energia em Embu-Guaçu&lt;/p&gt;
+&lt;p&gt;Delegada é presa em São Paulo suspeita de ligação com PCC&lt;/p&gt;
+&lt;p&gt;Amazônia e Sul têm alerta de perigo para chuvas intensas&lt;/p&gt;
+&lt;p&gt;TV Brasil Internacional transmitefestival Pernambuco Meu País&lt;/p&gt;
+&lt;p&gt;Notas do Enem 2025 já estão disponíveis na internet&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/incendio-atinge-subestacao-de-energia-em-embu-guacu&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Um incêndio atingiu um transformador numa subestação de energia na madrugada desta sexta-feira (16), em Embu-Guaçu, município da região metropolitana...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-16 09:22:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-16 09:22:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-16 09:22:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-16 09:22:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/v9bwSxvXBqCp85VgDmXuKRrQOPo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/16/captura_de_tela_2026-01-16_091631_copy.jpg?itok=DGu4Ar3T</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Delegada é presa em São Paulo suspeita de ligação com PCC</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/delegada-e-presa-em-sao-paulo-suspeita-de-ligacao-com-pcc</link>
-      <pubDate>Fri, 16 Jan 2026 12:30:04 +0000</pubDate>
+      <pubDate>Fri, 16 Jan 2026 13:33:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/delegada-e-presa-em-sao-paulo-suspeita-de-ligacao-com-pcc#1000</guid>
-      <description>O Ministério Público de São Paulo (MPSP) faz, nesta manhã de sexta-feira (16) a Operação Serpens, para investigar o envolvimento de uma delegada de p...</description>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/delegada-e-presa-em-sao-paulo-suspeita-de-ligacao-com-pcc#1001</guid>
+      <description>O Ministério Público de São Paulo (MPSP) faz, nesta manhã de sexta-feira (16) a Operação Serpens, para investigar o envolvimento da delegada de políc...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6s6D6xF_XealHeOkWRZwSzYUYxY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/16/captura_de_tela_2026-01-16_090206_copy.jpg?itok=UFiGsWYf&quot; alt=&quot;Delegada é presa em São Paulo suspeita de ligação com PCC&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Ministério Público de São Paulo (MPSP) faz, nesta manhã de sexta-feira (16) a Operação Serpens, para investigar o envolvimento de uma delegada de polícia suspeita de ter envolvimento com a facção criminosa do Primeiro Comando da Capital&lt;/p&gt;
+&lt;p&gt;O Ministério Público de São Paulo (MPSP) faz, nesta manhã de sexta-feira (16) a Operação Serpens, para investigar o envolvimento da delegada de polícia Layla Lima Ayubsuspeita de ter envolvimento com a facção criminosa do Primeiro Comando da Capital&lt;/p&gt;
+&lt;p&gt;PCC). Empossada no cargo em dezembro passado, ela está presa.&lt;/p&gt;
 &lt;p&gt;Foram cumpridos sete mandados de busca e apreensão em São Paulo e Marabá, e dois mandados de prisão temporária.&lt;/p&gt;
 &lt;p&gt;Segundo informações divulgadas pelo próprio MPSP, a delegada – que não teve o nome revelado – mantinha ligação pessoal e profissional com integrantes do PCC.&lt;/p&gt;
 &lt;p&gt;Ela usava seu cargo de maneira irregular em audiências de custódia de presos da facção criminosa.&lt;/p&gt;
@@ -37,14 +83,14 @@
 &lt;p&gt;Bolsonaro passa primeira noite na Papudinha, em Brasília&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 7h30: Bolsonaro passa a primeira noite no batalhão conhecido como &quot;Papudinha&quot;&lt;/p&gt;
 &lt;p&gt;Falta um mês para o início do Brasileirão Feminino&lt;/p&gt;
+&lt;p&gt;Depois de prêmios, O Agente Secreto está em mais salas de cinema&lt;/p&gt;
+&lt;p&gt;Governo anuncia ferramentas para orientar candidatos do Enem&lt;/p&gt;
+&lt;p&gt;Trump ganha medalha do Nobel da venezuelana María Corina Machado&lt;/p&gt;
 &lt;p&gt;Incêndio atinge subestação de energia em Embu-Guaçu&lt;/p&gt;
 &lt;p&gt;Delegada é presa em São Paulo suspeita de ligação com PCC&lt;/p&gt;
-&lt;p&gt;Amazônia e Sul têm alerta de perigo para chuvas intensas&lt;/p&gt;
-&lt;p&gt;TV Brasil Internacional transmitefestival Pernambuco Meu País&lt;/p&gt;
-&lt;p&gt;Notas do Enem 2025 já estão disponíveis na internet&lt;/p&gt;
-&lt;p&gt;Mega-Sena não tem ganhador; prêmio acumula para R$ 41 milhões&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/delegada-e-presa-em-sao-paulo-suspeita-de-ligacao-com-pcc&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Ministério Público de São Paulo (MPSP) faz, nesta manhã de sexta-feira (16) a Operação Serpens, para investigar o envolvimento de uma delegada de p...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+&lt;p&gt;Amazônia e Sul têm alerta de perigo para chuvas intensas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/delegada-e-presa-em-sao-paulo-suspeita-de-ligacao-com-pcc&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Ministério Público de São Paulo (MPSP) faz, nesta manhã de sexta-feira (16) a Operação Serpens, para investigar o envolvimento da delegada de políc...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-01-16 08:38:00</wp:post_date>
       <wp:post_date_gmt>2026-01-16 08:38:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-16 08:38:00</wp:post_modified>
@@ -70,9 +116,9 @@
     <item>
       <title>Amazônia e Sul têm alerta de perigo para chuvas intensas</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/amazonia-e-sul-tem-alerta-de-perigo-para-chuvas-intensas</link>
-      <pubDate>Fri, 16 Jan 2026 12:30:04 +0000</pubDate>
+      <pubDate>Fri, 16 Jan 2026 13:33:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/amazonia-e-sul-tem-alerta-de-perigo-para-chuvas-intensas#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/amazonia-e-sul-tem-alerta-de-perigo-para-chuvas-intensas#1002</guid>
       <description>Chuvas intensas voltam a gerar alertas em diversas regiões do país para esta sexta-feira (16). O Instituto Nacional de Meteorologia (Inmet) mantém ci...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/i-7v1mYL3Cq-Hwg2PNoxCCBOZgY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/11/chuva_mudanca_tempo_02.jpg?itok=tM1zZu-G&quot; alt=&quot;Amazônia e Sul têm alerta de perigo para chuvas intensas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Chuvas intensas voltam a gerar alertas em diversas regiões do país para esta sexta-feira (16). O Instituto Nacional de Meteorologia (Inmet) mantém cinco alertas para hoje, indicando chuvas de risco moderado e elevado. As regiões críticas estão na Amazônia, nos estados do Amazonas, Mato Grosso, Pará e Rondônia, com alerta válido para esta sexta. O mesmo vale para o Rio Grande do Sul e Santa Catarina.&lt;/p&gt;
@@ -85,13 +131,13 @@
 &lt;p&gt;Bolsonaro passa primeira noite na Papudinha, em Brasília&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 7h30: Bolsonaro passa a primeira noite no batalhão conhecido como &quot;Papudinha&quot;&lt;/p&gt;
 &lt;p&gt;Falta um mês para o início do Brasileirão Feminino&lt;/p&gt;
-&lt;p&gt;Delegada é presa em São Paulo suspeita de ligação com PCC&lt;/p&gt;
-&lt;p&gt;Amazônia e Sul têm alerta de perigo para chuvas intensas&lt;/p&gt;
-&lt;p&gt;TV Brasil Internacional transmitefestival Pernambuco Meu País&lt;/p&gt;
-&lt;p&gt;Notas do Enem 2025 já estão disponíveis na internet&lt;/p&gt;
-&lt;p&gt;Mega-Sena não tem ganhador; prêmio acumula para R$ 41 milhões&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/amazonia-e-sul-tem-alerta-de-perigo-para-chuvas-intensas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Depois de prêmios, O Agente Secreto está em mais salas de cinema&lt;/p&gt;
+&lt;p&gt;Governo anuncia ferramentas para orientar candidatos do Enem&lt;/p&gt;
+&lt;p&gt;Trump ganha medalha do Nobel da venezuelana María Corina Machado&lt;/p&gt;
+&lt;p&gt;Incêndio atinge subestação de energia em Embu-Guaçu&lt;/p&gt;
+&lt;p&gt;Delegada é presa em São Paulo suspeita de ligação com PCC&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/amazonia-e-sul-tem-alerta-de-perigo-para-chuvas-intensas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Chuvas intensas voltam a gerar alertas em diversas regiões do país para esta sexta-feira (16). O Instituto Nacional de Meteorologia (Inmet) mantém ci...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-01-16 08:23:00</wp:post_date>
       <wp:post_date_gmt>2026-01-16 08:23:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-16 08:23:00</wp:post_modified>
@@ -117,9 +163,9 @@
     <item>
       <title>TV Brasil Internacional transmitefestival Pernambuco Meu País</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tv-brasil-internacional-transmite-festival-pernambuco-meu-pais</link>
-      <pubDate>Fri, 16 Jan 2026 12:30:04 +0000</pubDate>
+      <pubDate>Fri, 16 Jan 2026 13:33:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tv-brasil-internacional-transmite-festival-pernambuco-meu-pais#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tv-brasil-internacional-transmite-festival-pernambuco-meu-pais#1003</guid>
       <description>A TV Brasil Internacional apresenta, de sexta-feira (16) a domingo (18), os
 ,que ocorre na cidade de São José da Coroa, litoral sul do estado. As exi...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ng_0JVJzSmjaVrGruxMdnnzqFvs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/large.jpg?itok=mYa-NSHZ&quot; alt=&quot;TV Brasil Internacional transmitefestival Pernambuco Meu País&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -140,7 +186,7 @@
 &lt;p&gt;As atrações da emissora são selecionadas e organizadas em cinco faixas de programação que se alternam ao longo do dia para atender aos diferentes fusos horários no mundo. O canal público também está disponível gratuitamente no&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tv-brasil-internacional-transmite-festival-pernambuco-meu-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A TV Brasil Internacional apresenta, de sexta-feira (16) a domingo (18), os
 ,que ocorre na cidade de São José da Coroa, litoral sul do estado. As exi...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-16 07:02:00</wp:post_date>
       <wp:post_date_gmt>2026-01-16 07:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-16 07:02:00</wp:post_modified>
@@ -166,9 +212,9 @@
     <item>
       <title>Notas do Enem 2025 já estão disponíveis na internet</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/notas-do-enem-2025-ja-estao-disponiveis-na-internet</link>
-      <pubDate>Fri, 16 Jan 2026 12:30:04 +0000</pubDate>
+      <pubDate>Fri, 16 Jan 2026 13:33:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/notas-do-enem-2025-ja-estao-disponiveis-na-internet#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/notas-do-enem-2025-ja-estao-disponiveis-na-internet#1004</guid>
       <description>As notas do Exame Nacional do Ensino Médio (Enem)2025já podem ser consultadas na
 , na internet.Os resultados foram divulgados nesta sexta-feira (16) ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/68i11d8QrbqUHEZwkoIv9dnCFQI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/09/enem_25.jpg?itok=b_y_VlFj&quot; alt=&quot;Notas do Enem 2025 já estão disponíveis na internet&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -184,12 +230,12 @@
 &lt;p&gt;Bolsonaro passa primeira noite na Papudinha, em Brasília&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 7h30: Bolsonaro passa a primeira noite no batalhão conhecido como &quot;Papudinha&quot;&lt;/p&gt;
 &lt;p&gt;Falta um mês para o início do Brasileirão Feminino&lt;/p&gt;
-&lt;p&gt;Delegada é presa em São Paulo suspeita de ligação com PCC&lt;/p&gt;
-&lt;p&gt;Amazônia e Sul têm alerta de perigo para chuvas intensas&lt;/p&gt;
-&lt;p&gt;TV Brasil Internacional transmitefestival Pernambuco Meu País&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/notas-do-enem-2025-ja-estao-disponiveis-na-internet&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Governo anuncia ferramentas para orientar candidatos do Enem&lt;/p&gt;
+&lt;p&gt;Trump ganha medalha do Nobel da venezuelana María Corina Machado&lt;/p&gt;
+&lt;p&gt;Incêndio atinge subestação de energia em Embu-Guaçu&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/notas-do-enem-2025-ja-estao-disponiveis-na-internet&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>As notas do Exame Nacional do Ensino Médio (Enem)2025já podem ser consultadas na
 , na internet.Os resultados foram divulgados nesta sexta-feira (16) ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-16 06:53:00</wp:post_date>
       <wp:post_date_gmt>2026-01-16 06:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-16 06:53:00</wp:post_modified>
@@ -215,9 +261,9 @@
     <item>
       <title>Mega-Sena não tem ganhador; prêmio acumula para R$ 41 milhões</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/mega-sena-nao-tem-ganhador-premio-acumula-para-r-41-milhoes</link>
-      <pubDate>Fri, 16 Jan 2026 12:30:04 +0000</pubDate>
+      <pubDate>Fri, 16 Jan 2026 13:33:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/mega-sena-nao-tem-ganhador-premio-acumula-para-r-41-milhoes#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/mega-sena-nao-tem-ganhador-premio-acumula-para-r-41-milhoes#1005</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 Nenhum apostador acertou as seis dezenas do concurso 2.960 da Mega-Sena
 ,realizado na noite desta quinta-feira (15)...</description>
@@ -230,11 +276,17 @@ Nenhum apostador acertou as seis dezenas do concurso 2.960 da Mega-Sena
 &lt;p&gt;A quina teve 46apostas ganhadoras e cada uma receberá R$ 38.114,61. Outras 3.175 apostas fizeram a quadrae irão ganhar um prêmio de R$ 910,23 cada.&lt;/p&gt;
 &lt;p&gt;Bolsonaro passa primeira noite na Papudinha, em Brasília&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 7h30: Bolsonaro passa a primeira noite no batalhão conhecido como &quot;Papudinha&quot;&lt;/p&gt;
-&lt;p&gt;Falta um mês para o início do Brasileirão Feminino&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/mega-sena-nao-tem-ganhador-premio-acumula-para-r-41-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Falta um mês para o início do Brasileirão Feminino&lt;/p&gt;
+&lt;p&gt;Governo anuncia ferramentas para orientar candidatos do Enem&lt;/p&gt;
+&lt;p&gt;Trump ganha medalha do Nobel da venezuelana María Corina Machado&lt;/p&gt;
+&lt;p&gt;Incêndio atinge subestação de energia em Embu-Guaçu&lt;/p&gt;
+&lt;p&gt;Delegada é presa em São Paulo suspeita de ligação com PCC&lt;/p&gt;
+&lt;p&gt;Amazônia e Sul têm alerta de perigo para chuvas intensas&lt;/p&gt;
+&lt;p&gt;TV Brasil Internacional transmitefestival Pernambuco Meu País&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/mega-sena-nao-tem-ganhador-premio-acumula-para-r-41-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Nenhum apostador acertou as seis dezenas do concurso 2.960 da Mega-Sena
 ,realizado na noite desta quinta-feira (15)...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-15 21:53:00</wp:post_date>
       <wp:post_date_gmt>2026-01-15 21:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-15 21:53:00</wp:post_modified>
@@ -260,9 +312,9 @@ Nenhum apostador acertou as seis dezenas do concurso 2.960 da Mega-Sena
     <item>
       <title>Antes de viagem ao Panamá, Lula conversa com presidente Mulino</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/antes-de-viagem-ao-panama-lula-conversa-com-presidente-mulino</link>
-      <pubDate>Fri, 16 Jan 2026 12:30:04 +0000</pubDate>
+      <pubDate>Fri, 16 Jan 2026 13:33:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/antes-de-viagem-ao-panama-lula-conversa-com-presidente-mulino#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/antes-de-viagem-ao-panama-lula-conversa-com-presidente-mulino#1006</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O presidente Luiz Inácio Lula da Silva recebeu, nesta quinta-feira (15), um telefonema do presidente do Panamá, José...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/IcxY-CQe7jq9cskqxxjus8jeGAk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/07/lula-hospitais-inteligentes-mc_abr_07012026-1.jpg?itok=3WpAd-iv&quot; alt=&quot;Antes de viagem ao Panamá, Lula conversa com presidente Mulino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -273,10 +325,16 @@ O presidente Luiz Inácio Lula da Silva recebeu, nesta quinta-feira (15), um tel
 &lt;p&gt;Ainda segundo o Palácio do Planalto, Lula e Mulino trocaram - por telefone - impressões sobre a situação na Venezuela e reiteraram a necessidade de preservar a paz e a estabilidade na América Latina e no Caribe. Também coincidiram, de acordo com a nota, sobre a necessidade de fortalecimento das Nações Unidas e na defesa do direito internacional e do diálogo.&lt;/p&gt;
 &lt;p&gt;Bolsonaro passa primeira noite na Papudinha, em Brasília&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 7h30: Bolsonaro passa a primeira noite no batalhão conhecido como &quot;Papudinha&quot;&lt;/p&gt;
-&lt;p&gt;Falta um mês para o início do Brasileirão Feminino&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/antes-de-viagem-ao-panama-lula-conversa-com-presidente-mulino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Falta um mês para o início do Brasileirão Feminino&lt;/p&gt;
+&lt;p&gt;Governo anuncia ferramentas para orientar candidatos do Enem&lt;/p&gt;
+&lt;p&gt;Trump ganha medalha do Nobel da venezuelana María Corina Machado&lt;/p&gt;
+&lt;p&gt;Incêndio atinge subestação de energia em Embu-Guaçu&lt;/p&gt;
+&lt;p&gt;Delegada é presa em São Paulo suspeita de ligação com PCC&lt;/p&gt;
+&lt;p&gt;Amazônia e Sul têm alerta de perigo para chuvas intensas&lt;/p&gt;
+&lt;p&gt;TV Brasil Internacional transmitefestival Pernambuco Meu País&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/antes-de-viagem-ao-panama-lula-conversa-com-presidente-mulino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O presidente Luiz Inácio Lula da Silva recebeu, nesta quinta-feira (15), um telefonema do presidente do Panamá, José...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-15 20:45:00</wp:post_date>
       <wp:post_date_gmt>2026-01-15 20:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-15 20:45:00</wp:post_modified>
@@ -300,58 +358,9 @@ O presidente Luiz Inácio Lula da Silva recebeu, nesta quinta-feira (15), um tel
       </wp:postmeta>
     </item>
     <item>
-      <title>Papudinha foi determinada após Bolsonaro pedir prisão domiciliar</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/papudinha-foi-determinada-apos-bolsonaro-pedir-prisao-domiciliar</link>
-      <pubDate>Fri, 16 Jan 2026 12:30:04 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/papudinha-foi-determinada-apos-bolsonaro-pedir-prisao-domiciliar#1006</guid>
-      <description>Uma solicitação da defesa deJairBolsonaro de “
-humanitária” foi o que levou o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes a determ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/f-SqRLL_jZ7S-F8Qv0zcYwX8uj4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/15/cela-bolsonaro.jpg?itok=kZKuGy4j&quot; alt=&quot;Papudinha foi determinada após Bolsonaro pedir prisão domiciliar&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Uma solicitação da defesa deJairBolsonaro de “&lt;/p&gt;
-&lt;p&gt;humanitária” foi o que levou o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes a determinar a transferência do ex-presidente da República para a Complexo Penitenciário da Papuda.&lt;/p&gt;
-&lt;p&gt;condenado a mais de 27 anos de prisão&lt;/p&gt;
-&lt;p&gt;preso naSuperintendência da Polícia Federal&lt;/p&gt;
-&lt;p&gt;foi transferido nesta quinta-feira (15)para a Papudinha&lt;/p&gt;
-&lt;p&gt;, como é conhecida a Sala de Estado Maior do 19º Batalhão da Polícia Militar do Distrito Federal (PMDF), no Complexo Penitenciário da Papuda, em Brasília.&lt;/p&gt;
-&lt;p&gt;O despacho de Moraes que determinou a transferência traz declarações dos filhos de Bolsonaro afirmando que o local onde o ex-presidente estava na PF não tinha condições “mínimas de dignidade”.&lt;/p&gt;
-&lt;p&gt;No despacho, o ministro lembrou que o ex-presidente estava custodiado em condições bem melhores do que outros presos condenados por participação na tentativa de golpe de estadode 2023 e ressaltou que Bolsonaro que irá para um ambiente com melhores qualidades.&lt;/p&gt;
-&lt;p&gt;A cela individual da Polícia Federal onde o ex-presidente cumpria a pena é de 12m², com banheiro privativo, água corrente e aquecida; televisão a cores; ar-condicionado; frigobar; médico da PF de plantão 24 horas por dia; autorização de acesso médico particular 24h; autorização para realização de fisioterapia; banho de sol diário e exclusivo; visitas reservadas sem a presença dos demais presos, entre outros benefícios.&lt;/p&gt;
-&lt;p&gt;O ministro apontou que a nova unidade, na Papuda, tem melhores condições com uma área total de 64,83 m², sendo 54,76 m² cobertos e 10,07 m² externos. A infraestrutura inclui ambientes como banheiro, cozinha, lavanderia, quarto, sala e área externa.&lt;/p&gt;
-&lt;p&gt;Além disso as acomodações incluem cozinha com possibilidade de preparo e armazenamento de alimentos, banheiro com chuveiro com água quente, geladeira, armários, cama de casal e TV.&lt;/p&gt;
-&lt;p&gt;Serão oferecidas 5 refeições diárias (café da manhã, almoço, lanche, jantar e ceia) pela unidade custodiante. Bolsonaro terá ainda à sua disposição espaço para tomar banho de sol, com total privacidade e horário livre.&lt;/p&gt;
-&lt;p&gt;“Ressalte-se, entretanto, que essas condições absolutamente excepcionais e privilegiadas não transformam o cumprimento definitivo da pena de Jair Messias Bolsonaro, condenado pela liderança da organização criminosa na execução dos gravíssimos crimes praticados contra o Estado Democrático de Direito e suas Instituições, em uma estadia hoteleira ou em uma colônia de férias, como erroneamente várias das manifestações anteriormente descritas parecem exigir, ao comparar a Sala de Estado Maior a um ‘cativeiro’, ao apresentar reclamações do ‘tamanho das dependências’, do ‘banho de sol’, do ‘ar-condicionado’, do ‘horário de visitas’, ao se desconfiar da ‘origem da comida’ fornecida pela Polícia Federal, e, ao exigir a troca da ‘televisão por uma SMART TV’, para, inclusive, ‘ter acesso ao YOUTUBE’, enfatizou Moraes.&lt;/p&gt;
-&lt;p&gt;O local na Papuda ainda comporta a instalação de equipamentos de ginástica, tais como esteira e bicicleta. Local para visitas e atendimento de advogados e médicos. Segundo Moraes, o espaço para visitas é amplo, podendo ocorrer tanto na área coberta quanto na externa, “com cadeiras e mesa disponíveis nos dois ambientes”.&lt;/p&gt;
-&lt;p&gt;Na Papuda, Bolsonaro terá direito avisitada esposa Michelle Bolsonaro, dos filhos Carlos Bolsonaro, Flávio Bolsonaro, Jair Renan, Laura Bolsonaro e da enteada Leticia Marianna Firmo da Silva, por três horas, a serem divididas pelos visitantes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/papudinha-foi-determinada-apos-bolsonaro-pedir-prisao-domiciliar&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Uma solicitação da defesa deJairBolsonaro de “
-humanitária” foi o que levou o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes a determ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-01-15 19:53:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-15 19:53:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-15 19:53:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-15 19:53:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/f-SqRLL_jZ7S-F8Qv0zcYwX8uj4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/15/cela-bolsonaro.jpg?itok=kZKuGy4j</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
       <title>Bolsa volta a bater recorde com redução de tensões externas</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/bolsa-volta-bater-recorde-com-reducao-de-tensoes-externas</link>
-      <pubDate>Fri, 16 Jan 2026 12:30:04 +0000</pubDate>
+      <pubDate>Fri, 16 Jan 2026 13:33:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
       <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/bolsa-volta-bater-recorde-com-reducao-de-tensoes-externas#1007</guid>
       <description>© REUTERS/Amanda Perobelli/Proibida reprodução
@@ -371,7 +380,7 @@ Num dia de alívio no mercado financeiro, a bolsa voltou a bater recorde e aprox
 &lt;p&gt;Bolsonaro passa primeira noite na Papudinha, em Brasília&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 7h30: Bolsonaro passa a primeira noite no batalhão conhecido como &quot;Papudinha&quot;&lt;/p&gt;
 &lt;p&gt;Falta um mês para o início do Brasileirão Feminino&lt;/p&gt;
-&lt;p&gt;Delegada é presa em São Paulo suspeita de ligação com PCC&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/bolsa-volta-bater-recorde-com-reducao-de-tensoes-externas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Trump ganha medalha do Nobel da venezuelana María Corina Machado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/bolsa-volta-bater-recorde-com-reducao-de-tensoes-externas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Amanda Perobelli/Proibida reprodução
 Num dia de alívio no mercado financeiro, a bolsa voltou a bater recorde e aproximou-se dos 166 mil pon...</excerpt:encoded>
       <wp:post_id>1007</wp:post_id>
@@ -398,11 +407,60 @@ Num dia de alívio no mercado financeiro, a bolsa voltou a bater recorde e aprox
       </wp:postmeta>
     </item>
     <item>
+      <title>Papudinha foi determinada após Bolsonaro pedir prisão domiciliar</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/papudinha-foi-determinada-apos-bolsonaro-pedir-prisao-domiciliar</link>
+      <pubDate>Fri, 16 Jan 2026 13:33:26 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/papudinha-foi-determinada-apos-bolsonaro-pedir-prisao-domiciliar#1008</guid>
+      <description>Uma solicitação da defesa deJairBolsonaro de “
+humanitária” foi o que levou o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes a determ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/f-SqRLL_jZ7S-F8Qv0zcYwX8uj4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/15/cela-bolsonaro.jpg?itok=kZKuGy4j&quot; alt=&quot;Papudinha foi determinada após Bolsonaro pedir prisão domiciliar&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Uma solicitação da defesa deJairBolsonaro de “&lt;/p&gt;
+&lt;p&gt;humanitária” foi o que levou o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes a determinar a transferência do ex-presidente da República para a Complexo Penitenciário da Papuda.&lt;/p&gt;
+&lt;p&gt;condenado a mais de 27 anos de prisão&lt;/p&gt;
+&lt;p&gt;preso naSuperintendência da Polícia Federal&lt;/p&gt;
+&lt;p&gt;foi transferido nesta quinta-feira (15)para a Papudinha&lt;/p&gt;
+&lt;p&gt;, como é conhecida a Sala de Estado Maior do 19º Batalhão da Polícia Militar do Distrito Federal (PMDF), no Complexo Penitenciário da Papuda, em Brasília.&lt;/p&gt;
+&lt;p&gt;O despacho de Moraes que determinou a transferência traz declarações dos filhos de Bolsonaro afirmando que o local onde o ex-presidente estava na PF não tinha condições “mínimas de dignidade”.&lt;/p&gt;
+&lt;p&gt;No despacho, o ministro lembrou que o ex-presidente estava custodiado em condições bem melhores do que outros presos condenados por participação na tentativa de golpe de estadode 2023 e ressaltou que Bolsonaro que irá para um ambiente com melhores qualidades.&lt;/p&gt;
+&lt;p&gt;A cela individual da Polícia Federal onde o ex-presidente cumpria a pena é de 12m², com banheiro privativo, água corrente e aquecida; televisão a cores; ar-condicionado; frigobar; médico da PF de plantão 24 horas por dia; autorização de acesso médico particular 24h; autorização para realização de fisioterapia; banho de sol diário e exclusivo; visitas reservadas sem a presença dos demais presos, entre outros benefícios.&lt;/p&gt;
+&lt;p&gt;O ministro apontou que a nova unidade, na Papuda, tem melhores condições com uma área total de 64,83 m², sendo 54,76 m² cobertos e 10,07 m² externos. A infraestrutura inclui ambientes como banheiro, cozinha, lavanderia, quarto, sala e área externa.&lt;/p&gt;
+&lt;p&gt;Além disso as acomodações incluem cozinha com possibilidade de preparo e armazenamento de alimentos, banheiro com chuveiro com água quente, geladeira, armários, cama de casal e TV.&lt;/p&gt;
+&lt;p&gt;Serão oferecidas 5 refeições diárias (café da manhã, almoço, lanche, jantar e ceia) pela unidade custodiante. Bolsonaro terá ainda à sua disposição espaço para tomar banho de sol, com total privacidade e horário livre.&lt;/p&gt;
+&lt;p&gt;“Ressalte-se, entretanto, que essas condições absolutamente excepcionais e privilegiadas não transformam o cumprimento definitivo da pena de Jair Messias Bolsonaro, condenado pela liderança da organização criminosa na execução dos gravíssimos crimes praticados contra o Estado Democrático de Direito e suas Instituições, em uma estadia hoteleira ou em uma colônia de férias, como erroneamente várias das manifestações anteriormente descritas parecem exigir, ao comparar a Sala de Estado Maior a um ‘cativeiro’, ao apresentar reclamações do ‘tamanho das dependências’, do ‘banho de sol’, do ‘ar-condicionado’, do ‘horário de visitas’, ao se desconfiar da ‘origem da comida’ fornecida pela Polícia Federal, e, ao exigir a troca da ‘televisão por uma SMART TV’, para, inclusive, ‘ter acesso ao YOUTUBE’, enfatizou Moraes.&lt;/p&gt;
+&lt;p&gt;O local na Papuda ainda comporta a instalação de equipamentos de ginástica, tais como esteira e bicicleta. Local para visitas e atendimento de advogados e médicos. Segundo Moraes, o espaço para visitas é amplo, podendo ocorrer tanto na área coberta quanto na externa, “com cadeiras e mesa disponíveis nos dois ambientes”.&lt;/p&gt;
+&lt;p&gt;Na Papuda, Bolsonaro terá direito avisitada esposa Michelle Bolsonaro, dos filhos Carlos Bolsonaro, Flávio Bolsonaro, Jair Renan, Laura Bolsonaro e da enteada Leticia Marianna Firmo da Silva, por três horas, a serem divididas pelos visitantes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/papudinha-foi-determinada-apos-bolsonaro-pedir-prisao-domiciliar&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Uma solicitação da defesa deJairBolsonaro de “
+humanitária” foi o que levou o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes a determ...</excerpt:encoded>
+      <wp:post_id>1008</wp:post_id>
+      <wp:post_date>2026-01-15 19:53:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-15 19:53:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-15 19:53:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-15 19:53:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/f-SqRLL_jZ7S-F8Qv0zcYwX8uj4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/15/cela-bolsonaro.jpg?itok=kZKuGy4j</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Venda de motocicletas em 2025 é a maior dos últimos 22 anos</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/venda-de-motocicletas-em-2025-e-maior-dos-ultimos-22-anos</link>
-      <pubDate>Fri, 16 Jan 2026 12:30:04 +0000</pubDate>
+      <pubDate>Fri, 16 Jan 2026 13:33:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/venda-de-motocicletas-em-2025-e-maior-dos-ultimos-22-anos#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/venda-de-motocicletas-em-2025-e-maior-dos-ultimos-22-anos#1009</guid>
       <description>A venda de motocicletas no país em 2025 foi a maior registradadesde 2003.
 Foram comercializadas 2.197.851 unidades no ano passado
 alta de 17,1% em re...</description>
@@ -425,7 +483,7 @@ alta de 17,1% em re...</description>
       <excerpt:encoded>A venda de motocicletas no país em 2025 foi a maior registradadesde 2003.
 Foram comercializadas 2.197.851 unidades no ano passado
 alta de 17,1% em re...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-15 19:38:00</wp:post_date>
       <wp:post_date_gmt>2026-01-15 19:38:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-15 19:38:00</wp:post_modified>
@@ -446,55 +504,6 @@ alta de 17,1% em re...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/Gt7NJTB0SKc3cOVtOmJEDgW3B9c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_8166.jpg?itok=tq5gDE99</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Brasil quita R$ 2,2 bilhões com organismos internacionais em 2025</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/brasil-quita-r-22-bilhoes-com-organismos-internacionais-em-2025</link>
-      <pubDate>Fri, 16 Jan 2026 12:30:04 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/brasil-quita-r-22-bilhoes-com-organismos-internacionais-em-2025#1009</guid>
-      <description>© José Cruz/Agência Brasil/Arquivo
-O Brasil destinou cerca de R$ 2,2 bilhões em 2025 para a quitação de contribuições obrigatórias a organismos inter...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Wzy0N04C3R-zfGZ0k4fQd_TxKDg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220046_1.jpg?itok=NbzJGgQz&quot; alt=&quot;Brasil quita R$ 2,2 bilhões com organismos internacionais em 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© José Cruz/Agência Brasil/Arquivo&lt;/p&gt;
-&lt;p&gt;O Brasil destinou cerca de R$ 2,2 bilhões em 2025 para a quitação de contribuições obrigatórias a organismos internacionais, informou nesta quinta-feira (15), em Brasília, o Ministério do Planejamento e Orçamento. O dinheiro também foi usado em integralizações e recomposições de cotas em bancos de desenvolvimento e fundos multilaterais.&lt;/p&gt;
-&lt;p&gt;Segundo o governo, os pagamentos garantiram a adimplência do Brasil em fóruns globais, regionais e setoriais estratégicos.&lt;/p&gt;
-&lt;p&gt;No âmbito da Organização das Nações Unidas (ONU), o país quitou integralmente compromissos com o orçamento regular, missões de paz e mecanismos judiciais vinculados à ONU, passando a integrar um grupo restrito de nações totalmente adimplentes com a organização. Também foram honradas contribuições a agências especializadas em áreas como saúde, educação, trabalho e migração.&lt;/p&gt;
-&lt;p&gt;Segundo o ministério, a estratégia de pagamentos escalonados ao longo do ano, aliada ao monitoramento da taxa de câmbio, permitiu reduzir custos para o Tesouro Nacional e assegurar previsibilidade orçamentária. A regularização das obrigações reforça o compromisso do Brasil com o multilateralismo, a integração regional e a responsabilidade fiscal.&lt;/p&gt;
-&lt;p&gt;Confira a lista de organismos, bancos e fundos internacionais com os quais o Brasil quitou pagamentos em 2025:&lt;/p&gt;
-&lt;p&gt;• Organização das Nações Unidas (ONU) – orçamento regular, missões de paz e Mecanismo Residual Internacional para Tribunais Penais (IRMCT)&lt;/p&gt;
-&lt;p&gt;•  Organização das Nações Unidas para a Alimentação e a Agricultura (FAO)&lt;/p&gt;
-&lt;p&gt;• Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO)&lt;/p&gt;
-&lt;p&gt;• Organização Mundial da Saúde (OMS)&lt;/p&gt;
-&lt;p&gt;• Organização Internacional do Trabalho (OIT)&lt;/p&gt;
-&lt;p&gt;• Organização Internacional para as Migrações (OIM)&lt;/p&gt;
-&lt;p&gt;• Organização Mundial do Turismo (OMT)&lt;/p&gt;
-&lt;p&gt;• União Postal Universal (UPU)&lt;/p&gt;
-&lt;p&gt;• Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/brasil-quita-r-22-bilhoes-com-organismos-internacionais-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© José Cruz/Agência Brasil/Arquivo
-O Brasil destinou cerca de R$ 2,2 bilhões em 2025 para a quitação de contribuições obrigatórias a organismos inter...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-15 19:09:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-15 19:09:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-15 19:09:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-15 19:09:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Wzy0N04C3R-zfGZ0k4fQd_TxKDg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220046_1.jpg?itok=NbzJGgQz</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
