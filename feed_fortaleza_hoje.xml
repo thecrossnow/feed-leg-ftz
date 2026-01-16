@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 16/01/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 13:39 UTC</description>
-<lastBuildDate>Fri, 16 Jan 2026 13:39:42 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Fri, 16 Jan 2026 14:27:28 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Forró de favela ocupa o Centro Cultural Belchior com música, dança e ações formativas nas férias</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/forro-de-favela-ocupa-o-centro-cultural-belchior-com-musica-danca-e-acoes-formativas-nas-ferias</link>
+<guid isPermaLink="false">fortaleza-20260116-2bc36c9456bd</guid>
+<pubDate>Fri, 16 Jan 2026 09:44:00 +0000</pubDate>
+<description>Forró de favela ocupa o Centro Cultural Belchior com música, dança e ações formativas nas férias - Sexta, 16 Janeiro 2026 09:44</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/Cultura/ccbel-site.png" alt="Forró de favela ocupa o Centro Cultural Belchior com música, dança e ações formativas nas férias" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>O Centro Cultural Belchior (CCBel) promove, sexta-feira e sábado (16 e 17/01), uma programação especial que celebra o forró de favela como expressão cultural das periferias de Fortaleza, reunindo música, dança, formação e ações educativas. A agenda conta com apresentação do Passinho do Havaizinho e show da cantora Larissa Emilly. Todas as atividades são gratuitas e de acesso livre.</p>
+<p>Na sexta-feira (16/01), a partir das 18h30, a programação tem início com o Passinho do Havaizinho – aulão e apresentação de Forró de Favela. O projeto vem se consolidando como uma importante iniciativa de valorização cultural e inclusão social, promovendo aulas abertas de passinho de forró que estimulam a expressão corporal, a socialização e o fortalecimento da autoestima.</p>
+<p>Em seguida, às 19h30, o público confere o show de Larissa Emilly, um dos nomes em destaque da cena do forró de favela. Artista independente, Larissa leva ao palco um repertório marcado por identidade, emoção e forte conexão com a plateia, com canções como “De Mal a Pior”, “Amor de Verdade” e “Poesia de Favela”, além de faixas que traduzem sua trajetória artística e o cotidiano das periferias.</p>
+<p>Já no sábado (17/01), às 13h, o CCBel realiza a oficina Arraias Nadando no Céu, com kulumyn-açu, como ativação da exposição Brasileirismo, do artista Olavo Santos. Voltada para pessoas de todas as idades, a atividade entrecruza contação de histórias, saberes ligados à ancestralidade do lazer, colagem analógica com papel-seda e desenho criativo, utilizando pipas como suporte. A proposta é estimular a liberdade criativa e o diálogo com o território da praia em uma experiência educativa e sensível. A oficina tem 10 vagas, com acesso por ordem de chegada, e duração de quatro horas.</p>
+<p><strong>Serviço</strong><br/>Programação completa do Centro Cultural Belchior (CCBel)<br/>Local: Rua dos Pacajús, 123 – Praia de Iracema<br/>Atividades gratuitas</p>
+<p>Especial Forró de Favela<br/>Data: sexta-feira (16/01)<br/>Horário: a partir das 18h30<br/>Passinho do Havaizinho - Aulão e apresentação de forró de favela<br/>Show com Larissa Emilly</p>
+<p>Oficina - Arraias Nadando no Céu, com kulumyn-açu<br/>Data: sábado (17/01)<br/>Horário: 13h<br/>10 vagas (acesso por ordem de chegada)</p>
+<p>Exposição Brasileirismo<br/>Período de visitação: até 24 de janeiro de 2026<br/>Visitação: terça-feira a sábado, das 9h às 21h</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/forro-de-favela-ocupa-o-centro-cultural-belchior-com-musica-danca-e-acoes-formativas-nas-ferias" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/Cultura/ccbel-site.png" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/Cultura/ccbel-site.png" type="image/jpeg" medium="image">
+<media:title>Forró de favela ocupa o Centro Cultural Belchior com música, dança e ações formativas nas férias</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
