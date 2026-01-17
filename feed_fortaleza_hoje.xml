@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 17/01/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 15:23 UTC</description>
-<lastBuildDate>Sat, 17 Jan 2026 15:23:08 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Sat, 17 Jan 2026 16:27:21 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Operação Volta às Aulas 2026 garante segurança no transporte escolar</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/operacao-volta-as-aulas-2026-garante-seguranca-no-transporte-escolar</link>
+<guid isPermaLink="false">fortaleza-20260117-1b9fd422a482</guid>
+<pubDate>Sat, 17 Jan 2026 13:07:00 +0000</pubDate>
+<description>Operação Volta às Aulas 2026 garante segurança no transporte escolar - Sábado, 17 Janeiro 2026 13:07</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/TRANSPORTE.png" alt="Operação Volta às Aulas 2026 garante segurança no transporte escolar" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>Com o início do ano letivo de 2026, a Empresa de Transporte Urbano de Fortaleza (Etufor) inicia a operação Volta às Aulas, por meio da campanha educativa Transporte Escolar Seguro, a partir desta segunda-feira (19/01).</p>
+<p>A ação visa garantir o reforço da segurança no transporte escolar, conscientizando os motoristas autorizados, bem como os condutores auxiliares a respeito da importância da manutenção preventiva, garantindo boas condições de conservação dos veículos, conforto e segurança das crianças para oferecerem um serviço de qualidade, combatendo o transporte irregular realizado por veículos não-credenciados.</p>
+<p>A Etufor realiza blitz educativa e operacional, abordando os motoristas para verificar os documentos de porte obrigatório, a comprovação da atualização cadastral dos condutores e o laudo de vistoria veicular dentro do prazo de validade. Na ocorrência de irregularidades, os veículos podem ser autuados e apreendidos. <br/><br/>A fiscalização verifica o cumprimento das exigências de segurança, como a oferta dos cintos em número correspondente ao de passageiros sentados; fecho interno de segurança nas janelas; luz de freio elevada; além da faixa horizontal amarela, pintada ou em película auto-adesiva não removível, com 40 centímetros de largura, à meia altura, em toda a extensão das laterais e traseira da carroceria, identificada com a palavra ESCOLAR na cor preta. A ação visa orientar os motoristas sobre boas práticas ao oferecer o transporte de crianças e adolescentes.</p>
+<p>Pais e responsáveis devem estar atentos no momento da contratação do transporte escolar, verificando se o condutor e o veículo estão devidamente credenciados junto à Etufor, bem como as condições dos veículos, assegurando deslocamento seguro para crianças e adolescentes durante todo o ano letivo. O cadastro dos condutores de transporte escolar pode ser consultado por meio do número (85) 3125.8705</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/operacao-volta-as-aulas-2026-garante-seguranca-no-transporte-escolar" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/TRANSPORTE.png" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/TRANSPORTE.png" type="image/jpeg" medium="image">
+<media:title>Operação Volta às Aulas 2026 garante segurança no transporte escolar</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
