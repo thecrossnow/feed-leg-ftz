@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 18 Jan 2026 17:12:23 +0000</pubDate>
+    <pubDate>Sun, 18 Jan 2026 18:19:38 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,158 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Entenda as liquidações do Banco Master e da Reag</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/entenda-liquidacoes-do-banco-master-e-da-reag</link>
+      <pubDate>Sun, 18 Jan 2026 18:19:38 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/entenda-liquidacoes-do-banco-master-e-da-reag#1000</guid>
+      <description>As liquidações do Banco Master,
+decretada pelo Banco Central (BC)
+, na quinta-feira (15) revelaram um dos episódios mais graves do sistema financeiro...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LAlYJcZkUIIlzatoLaPYUb6vIdA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/21/retrospectiva74.jpg?itok=XVeKXQav&quot; alt=&quot;Entenda as liquidações do Banco Master e da Reag&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As liquidações do Banco Master,&lt;/p&gt;
+&lt;p&gt;decretada pelo Banco Central (BC)&lt;/p&gt;
+&lt;p&gt;, na quinta-feira (15) revelaram um dos episódios mais graves do sistema financeiro brasileiro.&lt;/p&gt;
+&lt;p&gt;O caso envolve suspeitas de fraudes bilionárias, uso de fundos de investimento para ocultar prejuízos, tentativas de socorro via banco público e tensõesentre o Supremo Tribunal Federal (STF) e o Tribunal de Contas da União (TCU) com o BC e a Polícia Federal (PF).&lt;/p&gt;
+&lt;p&gt;Controlado pelo banqueiro Daniel Vorcaro, o Master cresceu rapidamente ao oferecer Certificados de Depósitos Bancários (CDB) com rentabilidade muito acima da média do mercado. Para sustentar o modelo, segundo investigadores, o banco passou a assumir riscos excessivos e a estruturar operações que inflavam artificialmente seu balanço, enquanto a liquidez real (dinheiro imediatamente disponível para ressarcir os investidores) se deteriorava.&lt;/p&gt;
+&lt;p&gt;As investigações da PF e os relatórios do BC apontam que o colapso do Master não foi apenas financeiro, mas também institucional.&lt;/p&gt;
+&lt;p&gt;A conexão com a gestora Reag Investimentos, a tentativa de venda ao Banco de Brasília (BRB) e a pressãosobre órgãos de controle transformaram o caso em um xadrez complexo, com impacto direto sobre investidores e sobre a credibilidade das instituições.&lt;/p&gt;
+&lt;p&gt;1.Como funcionava o esquema financeiro&lt;/p&gt;
+&lt;p&gt;Entre 2023 e 2024, o Master teria desviado cerca de R$ 11,5 bilhões por meio de triangulações.&lt;/p&gt;
+&lt;p&gt;Banco emprestava recursos a empresas supostamente laranja que aplicavam o dinheiro em fundos da gestora Reag Investimentos.&lt;/p&gt;
+&lt;p&gt;Esses fundos compravam ativos de baixo ou nenhum valor real, como certificados do extinto Banco Estadual de Santa Catarina (Besc), por preços inflados.&lt;/p&gt;
+&lt;p&gt;Banco Central identificou seis fundos da Reag suspeitos, com patrimônio conjunto de R$ 102,4 bilhões.&lt;/p&gt;
+&lt;p&gt;Dinheiro circulava entre fundos ligados aos mesmos intermediários até chegar aos beneficiários finais.&lt;/p&gt;
+&lt;p&gt;Para adiar a inadimplência, o banco concedia empréstimos com carência de até cinco anos.&lt;/p&gt;
+&lt;p&gt;Novos CDBs eram usados para pagar investidores antigos, caracterizando um esquema Ponzi (pirâmide financeira).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/entenda-liquidacoes-do-banco-master-e-da-reag&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>As liquidações do Banco Master,
+decretada pelo Banco Central (BC)
+, na quinta-feira (15) revelaram um dos episódios mais graves do sistema financeiro...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-18 14:30:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-18 14:30:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-18 14:30:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-18 14:30:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/LAlYJcZkUIIlzatoLaPYUb6vIdA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/21/retrospectiva74.jpg?itok=XVeKXQav</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Candidatos a cotas no CNU têm até segunda para recorrer de resultado</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/candidatos-cotas-no-cnu-tem-ate-segunda-para-recorrer-de-resultado</link>
+      <pubDate>Sun, 18 Jan 2026 18:19:38 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/candidatos-cotas-no-cnu-tem-ate-segunda-para-recorrer-de-resultado#1001</guid>
+      <description>© Joel Rodrigues/Agência Brasíli
+Os candidatos da segunda edição do Concurso Público Nacional Unificado (CNU) que não concordam com o
+dos procediment...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/COA1ph_0Gzuu0AVDkt9-ZXztwHQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/07/04/53694743116_af551bc8e0_o.jpg?itok=3z2nkGOF&quot; alt=&quot;Candidatos a cotas no CNU têm até segunda para recorrer de resultado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Joel Rodrigues/Agência Brasíli&lt;/p&gt;
+&lt;p&gt;Os candidatos da segunda edição do Concurso Público Nacional Unificado (CNU) que não concordam com o&lt;/p&gt;
+&lt;p&gt;dos procedimentos de autodeclaração para vagas reservadaspodem recorrer e solicitar a revisão até esta segunda-feira (19).&lt;/p&gt;
+&lt;p&gt;O requerimento de nova análise do resultado por candidatos negros, indígenas, quilombolas e com deficiência deve ser feito&lt;/p&gt;
+&lt;p&gt;na área do candidatono portal da Fundação Getulio Vargas (FGV)&lt;/p&gt;
+&lt;p&gt;, banca organizadora do certame. A autenticação deve ser feita com a contada plataforma Gov.br do candidato. Em seguida, o interessado deve acessar o menu &quot;interposição de recursos&quot;.&lt;/p&gt;
+&lt;p&gt;Estes recursos interpostos serão analisados por comissão recursal, designada pela FGV e composta por integrantes diferentes dos membros da primeira comissão de confirmação complementar à autodeclaração.&lt;/p&gt;
+&lt;p&gt;Ao todo, 35% das vagas do concurso são destinadas a ações afirmativas, sendo 25% para pessoas negras, 5% para pessoas com deficiência, 3% para pessoas indígenas e 2% para pessoas quilombolas.&lt;/p&gt;
+&lt;p&gt;A divulgação do resultado do definitivo do procedimento de confirmação/verificação da autodeclaração para concorrer às vagas reservadas será em 18 de fevereiro.&lt;/p&gt;
+&lt;p&gt;Na quinta-feira (15), oMinistério da Gestão e da Inovação em Serviços Públicos (MGI) e a Escola Nacional da Administração Pública (Enap) divulgaram, os resultados preliminares da avaliação da autodeclaração prestada no momento da inscrição no certame por pessoas negras, pessoas indígenas, quilombolas e com deficiência.&lt;/p&gt;
+&lt;p&gt;do chamadoEnem dos Concursos, uma mesma pessoa candidata pôde concorrer simultaneamente em diferentes modalidades de cotas.&lt;/p&gt;
+&lt;p&gt;Em nota, o Ministério da Gestão e da Inovação em Serviços Públicos (MGI) apontou que&lt;/p&gt;
+&lt;p&gt;15.903 candidatos que foram aprovados na primeira fase (provas objetivas) do concurso público realizaram essa etapa de verificação da autodeclaração&lt;/p&gt;
+&lt;p&gt;O modelo garante que a vaga reservada seja ocupada por quem realmente se enquadra nos critérios legais, com o objetivo de evitar fraudes e para assegurar a análise justa de cada candidatura.&lt;/p&gt;
+&lt;p&gt;Ao todo, foram realizados 14.659 procedimentos de confirmação complementar à autodeclaração para pessoas negras, na mesma cidade escolhida pelo candidato para a realização das provas. Cada candidatura foi analisada por uma comissão composta por cinco integrantes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/candidatos-cotas-no-cnu-tem-ate-segunda-para-recorrer-de-resultado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Joel Rodrigues/Agência Brasíli
+Os candidatos da segunda edição do Concurso Público Nacional Unificado (CNU) que não concordam com o
+dos procediment...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-01-18 14:12:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-18 14:12:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-18 14:12:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-18 14:12:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/COA1ph_0Gzuu0AVDkt9-ZXztwHQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/07/04/53694743116_af551bc8e0_o.jpg?itok=3z2nkGOF</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Lucas Pinheiro é prata em Copa do Mundo de Esqui Alpino, na Suíça</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/lucas-pinheiro-e-prata-em-copa-do-mundo-de-esqui-na-suica</link>
+      <pubDate>Sun, 18 Jan 2026 18:19:38 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/lucas-pinheiro-e-prata-em-copa-do-mundo-de-esqui-na-suica#1002</guid>
+      <description>O esquiador brasileiro Lucas Pinheiro Braathen ficou em segundo lugar no slalom na etapa da Copa do Mundo de Esqui Alpino neste domingo (18), disputa...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iWaoaNpy4bxIG78-TwU763NvNJw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/18/2025_02_14_mundial_de_esqui_alpino_slalom_gigante_finaisrb_06754_1201x757_56bb54e_2316b39627.jpeg?itok=8R9FTklL&quot; alt=&quot;Lucas Pinheiro é prata em Copa do Mundo de Esqui Alpino, na Suíça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O esquiador brasileiro Lucas Pinheiro Braathen ficou em segundo lugar no slalom na etapa da Copa do Mundo de Esqui Alpino neste domingo (18), disputada em Wengen, na Suíça. Com oresultado foi o melhor já obtido por um brasileiro na competição e seu quarto pódio na temporada.&lt;/p&gt;
+&lt;p&gt;O brasileiro fechou aprovacom o tempo de 1min46s46 na somatória das duas descidas. Na primeira, Lucas registrou 53s39;na segunda, Lucas foi ainda melhor: 53s07.&lt;/p&gt;
+&lt;p&gt;No total, o esquiador ficou apenas 0,47 segundoatrás do campeão Atle Lie McGrath, da Noruega, que levou o ouro, com 1min45s99. Outro norueguês, Henrik Kristoffersen, foi bronze, com 1min46s80.&lt;/p&gt;
+&lt;p&gt;Às vésperas dos Jogos Olímpicos de Inverno nas cidades italianas deMilão e Cortina d'Ampezzo, o brasileiro já soma três pódios. Além da medalha de hoje, elefoi ouro na prova de slalom na Finlândia; e prataem Alta Badia, na Itália, no slalom gigante.&lt;/p&gt;
+&lt;p&gt;Lençóis Maranhenses atraem turistas e podem ter acesso limitado&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 18h30: Lula recebe presidente da Comissão Europeia, Ursula Von Der Layen, no Rio de Janeiro, na véspera da assinatura do Acordo Mercosul-União Europeia&lt;/p&gt;
+&lt;p&gt;Amazônidas: exposição mostra a força e a arte das mulheres da Amazônia&lt;/p&gt;
+&lt;p&gt;Lula critica ações dos EUA na Venezuela e defende multilateralismo&lt;/p&gt;
+&lt;p&gt;Entenda as liquidações do Banco Master e da Reag&lt;/p&gt;
+&lt;p&gt;Candidatos a cotas no CNU têm até segunda para recorrer de resultado&lt;/p&gt;
+&lt;p&gt;Lucas Pinheiro é prata em Copa do Mundo de Esqui Alpino, na Suíça&lt;/p&gt;
+&lt;p&gt;Saiba como gastar menos com o uso do ar-condicionado&lt;/p&gt;
+&lt;p&gt;Ativistas denunciam 'blackface' em fantasias de carnaval&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/lucas-pinheiro-e-prata-em-copa-do-mundo-de-esqui-na-suica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O esquiador brasileiro Lucas Pinheiro Braathen ficou em segundo lugar no slalom na etapa da Copa do Mundo de Esqui Alpino neste domingo (18), disputa...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-01-18 13:35:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-18 13:35:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-18 13:35:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-18 13:35:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/iWaoaNpy4bxIG78-TwU763NvNJw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/18/2025_02_14_mundial_de_esqui_alpino_slalom_gigante_finaisrb_06754_1201x757_56bb54e_2316b39627.jpeg?itok=8R9FTklL</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Saiba como gastar menos com o uso do ar-condicionado</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/saiba-como-gastar-menos-com-o-uso-do-ar-condicionado</link>
-      <pubDate>Sun, 18 Jan 2026 17:12:23 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 18:19:38 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/saiba-como-gastar-menos-com-o-uso-do-ar-condicionado#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/saiba-como-gastar-menos-com-o-uso-do-ar-condicionado#1003</guid>
       <description>O ar-condicionado pode representar até 40% do consumo residencial nos meses mais quentes, a depender do modelo, da potência e do tempo de uso, segund...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mZSByZGW4ILN83q1-SCiXMBLp_8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/07/_mg_6635.jpg?itok=iAhorSzR&quot; alt=&quot;Saiba como gastar menos com o uso do ar-condicionado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O ar-condicionado pode representar até 40% do consumo residencial nos meses mais quentes, a depender do modelo, da potência e do tempo de uso, segundo estimativas do setor elétrico.Mas, com algumas escolhas simples, ele pode ser um aliado do consumidor na conta de luz, e não um vilão.&lt;/p&gt;
@@ -45,7 +192,7 @@
 &lt;p&gt;A manutenção deve também estar em dia, salientou Magalhães, tendo em vista que filtros limpos e revisões periódicas evitam perda de eficiência.&lt;/p&gt;
 &lt;p&gt;De acordo com Magalhães, uma temperatura entre 23 e 25 graus no controle remoto é adequada para o ser humano e pode ajudar na economia.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/saiba-como-gastar-menos-com-o-uso-do-ar-condicionado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ar-condicionado pode representar até 40% do consumo residencial nos meses mais quentes, a depender do modelo, da potência e do tempo de uso, segund...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-18 13:00:00</wp:post_date>
       <wp:post_date_gmt>2026-01-18 13:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-18 13:00:00</wp:post_modified>
@@ -71,9 +218,9 @@
     <item>
       <title>Ativistas denunciam 'blackface' em fantasias de carnaval</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/blackface-de-cabelo-campanha-combate-racismo-em-fantasias-de-carnaval</link>
-      <pubDate>Sun, 18 Jan 2026 17:12:23 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 18:19:38 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/blackface-de-cabelo-campanha-combate-racismo-em-fantasias-de-carnaval#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/blackface-de-cabelo-campanha-combate-racismo-em-fantasias-de-carnaval#1004</guid>
       <description>de cabelo&quot; é uma das expressões cunhadas pela páginanainternet Samba Abstrato para questionar o uso de perucas ou penteados afro por pessoas bra...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YCr4W84ZorpOCigLvEhZq9nWwVY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/01/_rbr8166.jpg?itok=iKr-9fqB&quot; alt=&quot;Ativistas denunciam 'blackface' em fantasias de carnaval&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;de cabelo&quot; é uma das expressões cunhadas pela páginanainternet Samba Abstrato para questionar o uso de perucas ou penteados afro por pessoas brancas no carnaval.&lt;/p&gt;
@@ -92,7 +239,7 @@
 &lt;p&gt;Ele pesquisa as origens do racismo e as consequências atuais da prática, incluindo episódios no carnaval.&lt;/p&gt;
 &lt;p&gt;&quot;Existe um aniquilamento que é físico, os dados da letalidade de jovens negros mostram isso, e existe esse apagamento dos negros dos espaços de visibilidade&quot;, afirma.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/blackface-de-cabelo-campanha-combate-racismo-em-fantasias-de-carnaval&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>de cabelo&quot; é uma das expressões cunhadas pela páginanainternet Samba Abstrato para questionar o uso de perucas ou penteados afro por pessoas bra...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-18 12:43:00</wp:post_date>
       <wp:post_date_gmt>2026-01-18 12:43:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-18 12:43:00</wp:post_modified>
@@ -118,9 +265,9 @@
     <item>
       <title>Botucatu inicia vacinação contra dengue com imunizante do Butantan</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan</link>
-      <pubDate>Sun, 18 Jan 2026 17:12:23 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 18:19:38 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan#1005</guid>
       <description>O ministro da Saúde, Alexandre Padilha, deu início neste domingo (18) à campanha de vacinação em massa contra a dengue na cidade paulista deBotucatu,...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/p3bwrT3NJ91YfYmzoPhSWZaQw7Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/18/whatsapp_image_2026-01-18_at_12.30.11_2.jpeg?itok=xp0NmKt4&quot; alt=&quot;Botucatu inicia vacinação contra dengue com imunizante do Butantan&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O ministro da Saúde, Alexandre Padilha, deu início neste domingo (18) à campanha de vacinação em massa contra a dengue na cidade paulista deBotucatu, com o uso da vacina Butantan-DV.&lt;/p&gt;
@@ -139,7 +286,7 @@
 &lt;p&gt;Em maio de 2021, teve início na cidade a vacinação contra a covid-19 com uma dose do imunizante produzido pelos laboratórios AstraZeneca/Oxford/Fiocruz.&lt;/p&gt;
 &lt;p&gt;o esquema vacinal teve impacto positivo nas internações hospitalares&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro da Saúde, Alexandre Padilha, deu início neste domingo (18) à campanha de vacinação em massa contra a dengue na cidade paulista deBotucatu,...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-18 12:36:00</wp:post_date>
       <wp:post_date_gmt>2026-01-18 12:36:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-18 12:36:00</wp:post_modified>
@@ -165,9 +312,9 @@
     <item>
       <title>TV Brasil Internacional estreia série sobre a Cracolândia</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tv-brasil-internacional-estreia-serie-sobre-cracolandia</link>
-      <pubDate>Sun, 18 Jan 2026 17:12:23 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 18:19:38 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tv-brasil-internacional-estreia-serie-sobre-cracolandia#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tv-brasil-internacional-estreia-serie-sobre-cracolandia#1006</guid>
       <description>Neste domingo (18), às 20h, no horário de Brasília, a TV Brasil Internacional, do canal público daEmpresa Brasil de Comunicação (EBC), estreia série ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_lee5HqSiTZf4xMHasZrS9Ra9_w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/24/9.jpg?itok=Xo7MHJ1s&quot; alt=&quot;TV Brasil Internacional estreia série sobre a Cracolândia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Neste domingo (18), às 20h, no horário de Brasília, a TV Brasil Internacional, do canal público daEmpresa Brasil de Comunicação (EBC), estreia série produzida pelo Brasil de Fato,&lt;/p&gt;
@@ -180,13 +327,9 @@
 &lt;p&gt;e appTV Brasil Internacional, disponível para&lt;/p&gt;
 &lt;p&gt;Lençóis Maranhenses atraem turistas e podem ter acesso limitado&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: Lula recebe presidente da Comissão Europeia, Ursula Von Der Layen, no Rio de Janeiro, na véspera da assinatura do Acordo Mercosul-União Europeia&lt;/p&gt;
-&lt;p&gt;Amazônidas: exposição mostra a força e a arte das mulheres da Amazônia&lt;/p&gt;
-&lt;p&gt;Lucas Pinheiro é prata em Copa do Mundo de Esqui Alpino, na Suíça&lt;/p&gt;
-&lt;p&gt;Saiba como gastar menos com o uso do ar-condicionado&lt;/p&gt;
-&lt;p&gt;Ativistas denunciam 'blackface' em fantasias de carnaval&lt;/p&gt;
-&lt;p&gt;Botucatu inicia vacinação contra dengue com imunizante do Butantan&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tv-brasil-internacional-estreia-serie-sobre-cracolandia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Amazônidas: exposição mostra a força e a arte das mulheres da Amazônia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tv-brasil-internacional-estreia-serie-sobre-cracolandia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Neste domingo (18), às 20h, no horário de Brasília, a TV Brasil Internacional, do canal público daEmpresa Brasil de Comunicação (EBC), estreia série ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-18 11:29:00</wp:post_date>
       <wp:post_date_gmt>2026-01-18 11:29:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-18 11:29:00</wp:post_modified>
@@ -212,9 +355,9 @@
     <item>
       <title>Calderano fica com bronze em Doha após derrota para jovem chinês</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/calderano-fica-com-bronze-em-doha-apos-derrota-para-jovem-chines</link>
-      <pubDate>Sun, 18 Jan 2026 17:12:23 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 18:19:38 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/calderano-fica-com-bronze-em-doha-apos-derrota-para-jovem-chines#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/calderano-fica-com-bronze-em-doha-apos-derrota-para-jovem-chines#1007</guid>
       <description>© Abelardo Mendes Jr./CalderanoTM
 O mesa-tenista brasileiro Hugo Calderano fechou neste domingo (18) a participação no WTT Star Contender de Doha, no...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VLCKzVCFJIHdE9Uz6uRPaEW-pIg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/02/hugo_calderano_01.jpg?itok=YGZkHIS_&quot; alt=&quot;Calderano fica com bronze em Doha após derrota para jovem chinês&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -225,15 +368,15 @@ O mesa-tenista brasileiro Hugo Calderano fechou neste domingo (18) a participaç
 &lt;p&gt;Lençóis Maranhenses atraem turistas e podem ter acesso limitado&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: Lula recebe presidente da Comissão Europeia, Ursula Von Der Layen, no Rio de Janeiro, na véspera da assinatura do Acordo Mercosul-União Europeia&lt;/p&gt;
 &lt;p&gt;Amazônidas: exposição mostra a força e a arte das mulheres da Amazônia&lt;/p&gt;
-&lt;p&gt;Lucas Pinheiro é prata em copa do mundo de esqui, na Suíça&lt;/p&gt;
+&lt;p&gt;Lula critica ações dos EUA na Venezuela e defende multilateralismo&lt;/p&gt;
+&lt;p&gt;Entenda as liquidações do Banco Master e da Reag&lt;/p&gt;
+&lt;p&gt;Candidatos a cotas no CNU têm até segunda para recorrer de resultado&lt;/p&gt;
+&lt;p&gt;Lucas Pinheiro é prata em Copa do Mundo de Esqui Alpino, na Suíça&lt;/p&gt;
 &lt;p&gt;Saiba como gastar menos com o uso do ar-condicionado&lt;/p&gt;
-&lt;p&gt;Ativistas denunciam 'blackface' em fantasias de carnaval&lt;/p&gt;
-&lt;p&gt;Botucatu inicia vacinação contra dengue com imunizante do Butantan&lt;/p&gt;
-&lt;p&gt;Europeus ameaçados por EUA dizem que continuarão unidos por soberania&lt;/p&gt;
-&lt;p&gt;TV Brasil Internacional estreia série sobre a Cracolândia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/calderano-fica-com-bronze-em-doha-apos-derrota-para-jovem-chines&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Ativistas denunciam 'blackface' em fantasias de carnaval&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/calderano-fica-com-bronze-em-doha-apos-derrota-para-jovem-chines&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Abelardo Mendes Jr./CalderanoTM
 O mesa-tenista brasileiro Hugo Calderano fechou neste domingo (18) a participação no WTT Star Contender de Doha, no...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-18 10:47:00</wp:post_date>
       <wp:post_date_gmt>2026-01-18 10:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-18 10:47:00</wp:post_modified>
@@ -259,9 +402,9 @@ O mesa-tenista brasileiro Hugo Calderano fechou neste domingo (18) a participaç
     <item>
       <title>Mega-Sena acumula para R$ 50 milhões; sorteio será na terça (20)</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-acumula-para-r-50-milhoes-sorteio-sera-na-terca-20</link>
-      <pubDate>Sun, 18 Jan 2026 17:12:23 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 18:19:38 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-acumula-para-r-50-milhoes-sorteio-sera-na-terca-20#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-acumula-para-r-50-milhoes-sorteio-sera-na-terca-20#1008</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 Sem apostadores que acertassem seis dezenas no concurso 2961, o prêmio daMega-Senaacumulou na noite de sábado (17),...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iMnJ7QbN8LggBB2qCkwm6mQBy40=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_183531.jpg?itok=gE1Ie902&quot; alt=&quot;Mega-Sena acumula para R$ 50 milhões; sorteio será na terça (20)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -272,10 +415,16 @@ Sem apostadores que acertassem seis dezenas no concurso 2961, o prêmio daMega-S
 &lt;p&gt;Novas apostas podem ser feitas até as 19h de terça-feira. Às 20h, ocorrerá o sorteio no Espaço da Sorte, em São Paulo.&lt;/p&gt;
 &lt;p&gt;Lençóis Maranhenses atraem turistas e podem ter acesso limitado&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: Lula recebe presidente da Comissão Europeia, Ursula Von Der Layen, no Rio de Janeiro, na véspera da assinatura do Acordo Mercosul-União Europeia&lt;/p&gt;
-&lt;p&gt;Amazônidas: exposição mostra a força e a arte das mulheres da Amazônia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-acumula-para-r-50-milhoes-sorteio-sera-na-terca-20&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Amazônidas: exposição mostra a força e a arte das mulheres da Amazônia&lt;/p&gt;
+&lt;p&gt;Lula critica ações dos EUA na Venezuela e defende multilateralismo&lt;/p&gt;
+&lt;p&gt;Entenda as liquidações do Banco Master e da Reag&lt;/p&gt;
+&lt;p&gt;Candidatos a cotas no CNU têm até segunda para recorrer de resultado&lt;/p&gt;
+&lt;p&gt;Lucas Pinheiro é prata em Copa do Mundo de Esqui Alpino, na Suíça&lt;/p&gt;
+&lt;p&gt;Saiba como gastar menos com o uso do ar-condicionado&lt;/p&gt;
+&lt;p&gt;Ativistas denunciam 'blackface' em fantasias de carnaval&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-acumula-para-r-50-milhoes-sorteio-sera-na-terca-20&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Sem apostadores que acertassem seis dezenas no concurso 2961, o prêmio daMega-Senaacumulou na noite de sábado (17),...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-18 10:36:00</wp:post_date>
       <wp:post_date_gmt>2026-01-18 10:36:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-18 10:36:00</wp:post_modified>
@@ -301,9 +450,9 @@ Sem apostadores que acertassem seis dezenas no concurso 2961, o prêmio daMega-S
     <item>
       <title>Portugal vai às urnas para eleger presidente neste domingo</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/portugal-vai-urnas-para-eleger-presidente-neste-domingo</link>
-      <pubDate>Sun, 18 Jan 2026 17:12:23 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 18:19:38 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/portugal-vai-urnas-para-eleger-presidente-neste-domingo#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/portugal-vai-urnas-para-eleger-presidente-neste-domingo#1009</guid>
       <description>© Reuters/Pedro Nunes/Proibida reprodução
 Eleitores portugueses vão às urnas neste domingo (18) para escolher o sucessor do presidente Marcelo Rebelo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/k7vgs3_i3mHx68eDH3_wJ2Ujv1E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/18/2026-01-18t100433z_1818582582_rc2l3jade48o_rtrmadp_3_portugal-election-president.jpg?itok=Rl6CEdfw&quot; alt=&quot;Portugal vai às urnas para eleger presidente neste domingo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -318,13 +467,13 @@ Eleitores portugueses vão às urnas neste domingo (18) para escolher o sucessor
 &lt;p&gt;Lençóis Maranhenses atraem turistas e podem ter acesso limitado&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 18h30: Lula recebe presidente da Comissão Europeia, Ursula Von Der Layen, no Rio de Janeiro, na véspera da assinatura do Acordo Mercosul-União Europeia&lt;/p&gt;
 &lt;p&gt;Amazônidas: exposição mostra a força e a arte das mulheres da Amazônia&lt;/p&gt;
-&lt;p&gt;Lucas Pinheiro é prata em Copa do Mundo de Esqui Alpino, na Suíça&lt;/p&gt;
-&lt;p&gt;Saiba como gastar menos com o uso do ar-condicionado&lt;/p&gt;
-&lt;p&gt;Ativistas denunciam 'blackface' em fantasias de carnaval&lt;/p&gt;
-&lt;p&gt;Botucatu inicia vacinação contra dengue com imunizante do Butantan&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/portugal-vai-urnas-para-eleger-presidente-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Lula critica ações dos EUA na Venezuela e defende multilateralismo&lt;/p&gt;
+&lt;p&gt;Entenda as liquidações do Banco Master e da Reag&lt;/p&gt;
+&lt;p&gt;Candidatos a cotas no CNU têm até segunda para recorrer de resultado&lt;/p&gt;
+&lt;p&gt;Lucas Pinheiro é prata em Copa do Mundo de Esqui Alpino, na Suíça&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/portugal-vai-urnas-para-eleger-presidente-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Pedro Nunes/Proibida reprodução
 Eleitores portugueses vão às urnas neste domingo (18) para escolher o sucessor do presidente Marcelo Rebelo...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-18 10:26:00</wp:post_date>
       <wp:post_date_gmt>2026-01-18 10:26:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-18 10:26:00</wp:post_modified>
@@ -345,151 +494,6 @@ Eleitores portugueses vão às urnas neste domingo (18) para escolher o sucessor
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/k7vgs3_i3mHx68eDH3_wJ2Ujv1E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/18/2026-01-18t100433z_1818582582_rc2l3jade48o_rtrmadp_3_portugal-election-president.jpg?itok=Rl6CEdfw</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Pesquisa inédita com genoma protege espécies de peixes da Amazônia</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/pesquisa-inedita-com-genoma-protege-especies-de-peixes-da-amazonia</link>
-      <pubDate>Sun, 18 Jan 2026 17:12:23 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/pesquisa-inedita-com-genoma-protege-especies-de-peixes-da-amazonia#1007</guid>
-      <description>© Adriano Gambarini/OPAN - Divulgação
-O pirarucu (Arapaima gigas) e o filhote (Brachyplatystoma filamentosum) são duas espécies de peixes amazônicos ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/sEsZK7N1zkgfPQfj5GrCszf68vU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/manejo_dos_peixes_pirarucu-adriano_gambarini_opan-7384.jpg?itok=hzA_Oeip&quot; alt=&quot;Pesquisa inédita com genoma protege espécies de peixes da Amazônia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Adriano Gambarini/OPAN - Divulgação&lt;/p&gt;
-&lt;p&gt;O pirarucu (Arapaima gigas) e o filhote (Brachyplatystoma filamentosum) são duas espécies de peixes amazônicos que, além de compartilharem o bioma de origem, possuem outras características em comum: a alta demanda pela gastronomia e a dificuldade de reprodução em ambientes de piscicultura.&lt;/p&gt;
-&lt;p&gt;Foram essas características que os elegeram as primeiras espécies a terem seus conjuntos de DNA decifrados por um estudo inédito conduzido pela Universidade Federal do Pará (UFPA).&lt;/p&gt;
-&lt;p&gt;Segundo o pesquisador Sidney Santos, que liderou a equipe do Laboratório de Genética Humana e Médica do Instituto de Ciências Biológicas, o estudo foi motivado pela necessidade de conter os impactos causados pelo avanço da exploração predatória dessas espécies, em função do aumento da demanda.&lt;/p&gt;
-&lt;p&gt;“A ideia central é, se você de uma forma equilibrada e direcionada conseguir conhecimento suficiente para produzir esses peixes do jeito mais sustentável possível, você pode diminuir a demanda da natureza”, explica.&lt;/p&gt;
-&lt;p&gt;A forma mais completa de buscar esse conhecimento é decifrando o DNA (ácido desoxirribonucleico) fornecido por amostras biológicas de vários indivíduos das espécies.&lt;/p&gt;
-&lt;p&gt;Essa molécula, composta por quatro tipos de nucleotídeos (Adenina (A), Timina (T), Citosina (C) e Guanina (G), guarda informações precisas sobre saúde, traços físicos e ancestralidade, por exemplo.&lt;/p&gt;
-&lt;p&gt;No caso do estudo com o pirarucu e o filhote, os cientistas colheram amostras de mais de 100 peixes, para que os DNAs pudessem ser lido por um sequenciador genético capaz de entender a ordem dos nucleotídeos. Cada ordem diferente traz informações sobre um ser vivo, que juntas formam o genoma daquela espécie. Um tipo de manual completo sobre o grupo.&lt;/p&gt;
-&lt;p&gt;“Isso pode valer para qualquer animal que você imagine, qualquer vegetal. O modelo é sempre o mesmo. Se você, de uma forma sustentada, consegue a informação completa sobre o genoma desses animais, você pode fazer qualquer coisa com eles, inclusive reproduzir”, diz Santos.&lt;/p&gt;
-&lt;p&gt;Segundo o pesquisador, na prática, é possível saber se aquele peixe é filho de uma matriz para produção na piscicultura, ou se ele foi retirado diretamente da natureza e comercializado para outro país.&lt;/p&gt;
-&lt;p&gt;A proteção das espécies vai além de aliviar a retirada do meio ambiente de peixes reproduzidos naturalmente.&lt;/p&gt;
-&lt;p&gt;Por meio do conhecimento do genoma das espécies, é possível também saber a origem precisa daquele animal.&lt;/p&gt;
-&lt;p&gt;Segundo o diretor do Instituto Sócio Ambiental e dos Recursos Hídricos da Universidade Federal Rural da Amazônia, Igor Hamoy, que participou do estudo da UFPA, além de todo o conhecimento fisiológico, o genoma permite a rastreabilidade genética.&lt;/p&gt;
-&lt;p&gt;“Com a história que está dentro do genoma do pirarucu, por exemplo, eu consigo descobrir se um pirarucu que está sendo vendido em Boston foi oriundo da Amazônia”, diz Hamoy.&lt;/p&gt;
-&lt;p&gt;Ele destaca ainda que toda a informação trazida pelo estudo é registrada em um banco genético público, possibilitando o avanço de novas pesquisas sobre a espécie.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/pesquisa-inedita-com-genoma-protege-especies-de-peixes-da-amazonia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Adriano Gambarini/OPAN - Divulgação
-O pirarucu (Arapaima gigas) e o filhote (Brachyplatystoma filamentosum) são duas espécies de peixes amazônicos ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-01-18 10:00:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-18 10:00:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-18 10:00:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-18 10:00:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/sEsZK7N1zkgfPQfj5GrCszf68vU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/manejo_dos_peixes_pirarucu-adriano_gambarini_opan-7384.jpg?itok=hzA_Oeip</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Enredos das escolas de samba contam a história não oficial</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/enredos-das-escolas-de-samba-contam-historia-nao-oficial</link>
-      <pubDate>Sun, 18 Jan 2026 17:12:23 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/enredos-das-escolas-de-samba-contam-historia-nao-oficial#1008</guid>
-      <description>Descreve a etimologia disponível na internet que no DNA linguístico do substantivo “enredo” está no verbo “enredar”. As duas palavras têm ascendência...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3iAQCwrEzx-P2Dmkvxeqpla_WCs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/04/salgueiro04.jpg?itok=nLM4gmbf&quot; alt=&quot;Enredos das escolas de samba contam a história não oficial&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Descreve a etimologia disponível na internet que no DNA linguístico do substantivo “enredo” está no verbo “enredar”. As duas palavras têm ascendência latina, derivam de ‘rete’ (rede). Como os linguistas, pescadores e peixes sabem, o enredo resulta de uma trama de fios que envolvem e capturam.&lt;/p&gt;
-&lt;p&gt;Na arte, a trama tem que prender seus espectadores, como explicam o professor de história Luiz Antonio Simas e o jornalista Fábio Fabato na segunda edição ─ revista e ampliada ─ do livro&lt;/p&gt;
-&lt;p&gt;Pra tudo começar na quinta-feira: o enredo dos enredos&lt;/p&gt;
-&lt;p&gt;Nesta nova versão, o texto acrescenta a revolução dos enredos das escolas de samba do Rio de Janeiro a partir da segunda década deste século.&lt;/p&gt;
-&lt;p&gt;A publicação trata da genuína forma que os sambistas cariocas criaram há quase 100 anos para contar e refazer a história. Novos enredos que, depois de envolver 120 mil pessoas no Sambódromo e milhões pela televisão e nas novas mídias, vão passar nas salas de aula e nos livros didáticos.&lt;/p&gt;
-&lt;p&gt;Confira os principais trechos da entrevista os dois autores&lt;/p&gt;
-&lt;p&gt;Em breve, em 2028, vamos fazer 100 anos de escola de samba. De onde partiu a exigência de haver enredo nos desfiles?&lt;/p&gt;
-&lt;p&gt;Desfiles de escolas de samba, na verdade, vamos ter a partir de 1932. Curiosamente, nós tivemos concursos [das escolas de samba] antes disso. O [jornalista, escritor e pai de santo] José Espinguela [1890-1944] foi quem organizou, mas não eram concursos com desfiles em cortejo. Eram disputas entre escolas de samba que, entretanto, se limitavam às apresentações e a escolha do melhor samba.&lt;/p&gt;
-&lt;p&gt;A partir de 1932, há a ideia do cortejo. Consideramos um marco dos primeiros desfiles. Isso é curioso pelo seguinte: as escolas de samba não inventaram a ideia do enredo. Os enredos faziam parte dos cortejos de grandes sociedades e ranchos carnavalescos – sobretudo, dos ranchos de carnaval. O Ameno Resedá [fundado em 1907], que era considerado um rancho, desfilava com enredos de relevância cultural etc.&lt;/p&gt;
-&lt;p&gt;O que as escolas de samba fizeram foi redimensionar essa perspectiva dos enredos. E, mais do que isso, o que as escolas de samba fizeram de muito diferente em relação aos ranchos, foi, aos poucos, consolidar uma trilha sonora completamente distinta. Os ranchos desfilavam com as chamadas marchas rancho. E as escolas de samba foram construindo, aos poucos, o que a gente vai denominar como samba-enredo.&lt;/p&gt;
-&lt;p&gt;A gente pode dizer que é o primeiro samba em enredo que nós temos é quando a Portela resolve fazer um carnaval com um tema especificamente. Até então, essa coisa de um tema fortíssimo, único, não existia. Em 1939, a Portela faz isso. O Paulo da Portela [1901-1947] cria um desfile que é um simulacro da própria escola de samba,mostrando que é uma escola. Temos um samba e temos um enredo [Teste ao Samba], com uma premissa de enredo.&lt;/p&gt;
-&lt;p&gt;Antes de 1939, os enredos não precisavam ter relação direta com o samba. Então, você podia apresentar um enredo visualmente sobre um tema e cantar samba sobre temas completamente distintos. Em 1939, a Portela propõe essa coesão entre enredo e samba.&lt;/p&gt;
-&lt;p&gt;: Posso dizer que o enredo é o esqueleto e o samba-enredo é o músculo do desfile?&lt;/p&gt;
-&lt;p&gt;Pode. Obviamente, a espinha dorsal de uma escola de samba vai ser sempre o ritmo, a bateria, o samba e tal.&lt;/p&gt;
-&lt;p&gt;Agora, tudo começa no enredo, né? Primeiro lança-se o enredo e aí vem o samba-enredo, depois o desenho rítmico da bateria em cima desse samba-enredo. A origem, o começo de um grande carnaval, está em num grande enredo.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/enredos-das-escolas-de-samba-contam-historia-nao-oficial&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Descreve a etimologia disponível na internet que no DNA linguístico do substantivo “enredo” está no verbo “enredar”. As duas palavras têm ascendência...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-01-18 09:33:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-18 09:33:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-18 09:33:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-18 09:33:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/3iAQCwrEzx-P2Dmkvxeqpla_WCs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/04/salgueiro04.jpg?itok=nLM4gmbf</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Brasil no Mundo traz debate neste domingo sobre Venezuela, Irã e EUA</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/brasil-no-mundo-traz-debate-neste-domingo-sobre-venezuela-ira-e-eua</link>
-      <pubDate>Sun, 18 Jan 2026 17:12:23 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/brasil-no-mundo-traz-debate-neste-domingo-sobre-venezuela-ira-e-eua#1009</guid>
-      <description>ATV Brasilleva ao ar uma edição inédita do programa
-. No estúdio no Rio de Janeiro, os jornalistas Cristina Serra, Jamil Chade e Yan Boechat recebem ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/AFpoiD2rr9HfEJOTEkSc5N2aFck=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/16/large_1.jpg?itok=_Oh26eYV&quot; alt=&quot;Brasil no Mundo traz debate neste domingo sobre Venezuela, Irã e EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;ATV Brasilleva ao ar uma edição inédita do programa&lt;/p&gt;
-&lt;p&gt;. No estúdio no Rio de Janeiro, os jornalistas Cristina Serra, Jamil Chade e Yan Boechat recebem o professor e diretor do Instituto de Relações Internacionais e Defesa da Universidade Federal do Rio de Janeiro (UFRJ), Eduardo Serra.&lt;/p&gt;
-&lt;p&gt;O programa vai tratar dos principais conflitos em andamento no mundo: a ação dos Estados Unidos na Venezuela e a crescente tensão do país com o Irã.&lt;/p&gt;
-&lt;p&gt;O professor Eduardo Serra é formado em Engenharia Industrial pela UFRJ com especialização em Planejamento Econômico pela Warsaw School of Economics (SGPiS), de Varsóvia. Fez mestrado em Engenharia de Produção pela UFRJ e doutorado em Engenharia Oceânica também pela UFRJ. Atualmente é professor associado no Curso de Relações Internacionais do Instituto de Relações Internacionais e Defesa da UFRJ.&lt;/p&gt;
-&lt;p&gt;O programaBrasil no Mundose dedica a destrinchar os grandes acontecimentos globais com a profundidade que cada tema exige. Conduzido pelos jornalistas especialistas Cristina Serra, Jamil Chade e Yan Boechat, apresenta análises consistentes e, a cada edição, recebe um convidado que contribui para ampliar a compreensão do cenário internacional e de seus reflexos na sociedade.&lt;/p&gt;
-&lt;p&gt;sempre aos domingos, às 19h30, o programa tem duração de uma hora.&lt;/p&gt;
-&lt;p&gt;O conteúdo também poderá ser vistono app&lt;/p&gt;
-&lt;p&gt;Lençóis Maranhenses atraem turistas e podem ter acesso limitado&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 18h30: Lula recebe presidente da Comissão Europeia, Ursula Von Der Layen, no Rio de Janeiro, na véspera da assinatura do Acordo Mercosul-União Europeia&lt;/p&gt;
-&lt;p&gt;Amazônidas: exposição mostra a força e a arte das mulheres da Amazônia&lt;/p&gt;
-&lt;p&gt;Lucas Pinheiro é prata em copa do mundo de esqui, na Suíça&lt;/p&gt;
-&lt;p&gt;Saiba como gastar menos com o uso do ar-condicionado&lt;/p&gt;
-&lt;p&gt;Ativistas denunciam 'blackface' em fantasias de carnaval&lt;/p&gt;
-&lt;p&gt;Botucatu inicia vacinação contra dengue com imunizante do Butantan&lt;/p&gt;
-&lt;p&gt;Europeus ameaçados por EUA dizem que continuarão unidos por soberania&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/brasil-no-mundo-traz-debate-neste-domingo-sobre-venezuela-ira-e-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>ATV Brasilleva ao ar uma edição inédita do programa
-. No estúdio no Rio de Janeiro, os jornalistas Cristina Serra, Jamil Chade e Yan Boechat recebem ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-18 09:15:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-18 09:15:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-18 09:15:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-18 09:15:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/AFpoiD2rr9HfEJOTEkSc5N2aFck=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/16/large_1.jpg?itok=_Oh26eYV</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
