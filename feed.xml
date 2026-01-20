@@ -6,13 +6,13 @@
     <description>Notícias Oficiais da Câmara Municipal de Fortaleza</description>
     <language>pt-br</language>
     <generator>GitHub Actions com Imagens</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 10:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 11:19:09 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://thecrossnow.github.io/feed-leg-ftz/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&amp;#8220;Nossa Casa é de Todos&amp;#8221; chega ao Passeio Público no dia 31 de janeiro</title>
       <link>https://www.cmfor.ce.gov.br/2026/01/19/nossa-casa-e-de-todos-chega-ao-passeio-publico-no-dia-31-de-janeiro/</link>
-      <guid>cmfor-img-c5c3b2098bcf5d69b7fb92cd6e4fa1c5</guid>
+      <guid>cmfor-img-ef1c532cf4d292fd6129f61eb6a8e327</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/Nossa-Casa-é-de-Todos-Foto-ZeRosa-Filho-CMFor.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2025/12/Nossa-Casa-é-de-Todos-Foto-ZeRosa-Filho-CMFor.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">&amp;#8220;Nossa Casa é de Todos&amp;#8221; chega ao Passeio Público no dia 31 de janeiro</media:title>
@@ -49,7 +49,7 @@
     <item>
       <title>Espaço Evoluir destaca o impacto transformador da profissão no Dia Mundial do Terapeuta Ocupacional</title>
       <link>https://www.cmfor.ce.gov.br/2026/01/19/no-dia-mundial-do-terapeuta-ocupacional-espaco-evoluir-destaca-o-impacto-transformador-da-profissao/</link>
-      <guid>cmfor-img-76c4ac2e46d8c7744a1621ae41b8e78b</guid>
+      <guid>cmfor-img-53ae73e7050f66d61eb710f38c41bfed</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/Espaço-evoluir-2-1-scaled.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/Espaço-evoluir-2-1-scaled.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Espaço Evoluir destaca o impacto transformador da profissão no Dia Mundial do Terapeuta Ocupacional</media:title>
@@ -130,7 +130,7 @@
     <item>
       <title>Procuradoria da Mulher fortalece acolhimento psicológico e atenção integral à saúde das mulheres</title>
       <link>https://www.cmfor.ce.gov.br/2026/01/19/procuradoria-da-mulher-fortalece-acolhimento-psicologico-e-atencao-integral-a-saude-das-mulheres/</link>
-      <guid>cmfor-img-e53036a226eb08476788880ff3923d55</guid>
+      <guid>cmfor-img-aba15b0c3c3ad105dcb3d8a647553840</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/Procuradoria-da-mulher-Izabelle-Ingrid-8.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/Procuradoria-da-mulher-Izabelle-Ingrid-8.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Procuradoria da Mulher fortalece acolhimento psicológico e atenção integral à saúde das mulheres</media:title>
@@ -179,7 +179,7 @@
     <item>
       <title>Rádio Fortaleza FM 90.7 transmite programa Ponto de Vista direto do Festival Rock Cordel</title>
       <link>https://www.cmfor.ce.gov.br/2026/01/16/radio-fortaleza-fm-90-7-transmite-programa-ponto-de-vista-direto-do-festival-rock-cordel/</link>
-      <guid>cmfor-img-3d3c5bdf08079ce1bb7c048f4a97377e</guid>
+      <guid>cmfor-img-c0f84bfb2fbcd86d00b62e276889e5ca</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/55044924535_254fc64f49_c.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/55044924535_254fc64f49_c.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Rádio Fortaleza FM 90.7 transmite programa Ponto de Vista direto do Festival Rock Cordel</media:title>
@@ -300,7 +300,7 @@
     <item>
       <title>Janeiro Branco: CMFor reforça importância da saúde mental inclusiva para pessoas com deficiência</title>
       <link>https://www.cmfor.ce.gov.br/2026/01/16/janeiro-branco-cmfor-reforca-importancia-da-saude-mental-inclusiva-para-pessoas-com-deficiencia/</link>
-      <guid>cmfor-img-c35365108557a793ec131f5ffb5f1dd5</guid>
+      <guid>cmfor-img-7ea5a5758fd6ddf52799e4e05a844f35</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/concelos-Saúde-mental-da-pessoa-com-deficiência-5.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/concelos-Saúde-mental-da-pessoa-com-deficiência-5.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Janeiro Branco: CMFor reforça importância da saúde mental inclusiva para pessoas com deficiência</media:title>
@@ -365,7 +365,7 @@
     <item>
       <title>Procuradoria da Mulher e Secretaria das Mulheres formalizam parceria para atuação no pré-carnaval e carnaval de Fortaleza</title>
       <link>https://www.cmfor.ce.gov.br/2026/01/15/procuradoria-da-mulher-e-secretaria-das-mulheres-formalizam-parceria-para-atuacao-no-pre-carnaval-e-carnaval-de-fortaleza/</link>
-      <guid>cmfor-img-1847610ce690cb545ad75c05856efbb6</guid>
+      <guid>cmfor-img-88303004f9b90d7de4985ee4aca4f726</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-15-at-17.42.22.jpeg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-15-at-17.42.22.jpeg" medium="image" type="image/jpeg">
         <media:title type="plain">Procuradoria da Mulher e Secretaria das Mulheres formalizam parceria para atuação no pré-carnaval e </media:title>
@@ -414,7 +414,7 @@
     <item>
       <title>Vereador propõe reforço para o SAMU</title>
       <link>https://www.cmfor.ce.gov.br/2026/01/15/vereador-propoe-reforco-para-o-samu/</link>
-      <guid>cmfor-img-a18cf61792a52383bcb6377a5897c2c8</guid>
+      <guid>cmfor-img-7fe112f86a07e78814ebddbbe3c42ca6</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/Vereador-Luis-Sérgio-1.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/Vereador-Luis-Sérgio-1.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Vereador propõe reforço para o SAMU</media:title>
@@ -443,7 +443,7 @@
     <item>
       <title>Cartilha fortalece cuidado da Câmara de Fortaleza com a saúde mental</title>
       <link>https://www.cmfor.ce.gov.br/2026/01/15/cartilha-fortalece-cuidado-da-camara-de-fortaleza-com-a-saude-mental/</link>
-      <guid>cmfor-img-488c6f94ae2bb439e3f0d8cf87f99e4c</guid>
+      <guid>cmfor-img-d4242e8a0f69271dd85f61e2429d0967</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/IMG_4205-scaled.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/IMG_4205-scaled.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Cartilha fortalece cuidado da Câmara de Fortaleza com a saúde mental</media:title>
@@ -508,7 +508,7 @@
     <item>
       <title>Central da Cidadania orienta empreendedores sobre prazo de adesão ao Simples Nacional em janeiro de 2026</title>
       <link>https://www.cmfor.ce.gov.br/2026/01/14/central-da-cidadania-orienta-empreendedores-sobre-prazo-de-adesao-ao-simples-nacional-em-janeiro-de-2026/</link>
-      <guid>cmfor-img-c554662e32fd03dc98d2e2c5e2bf1db4</guid>
+      <guid>cmfor-img-7290b8a4ea403d2c2e9825188f0af019</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/IMG_4186-scaled.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/IMG_4186-scaled.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Central da Cidadania orienta empreendedores sobre prazo de adesão ao Simples Nacional em janeiro de </media:title>
@@ -549,7 +549,7 @@
     <item>
       <title>Como nascem as leis em Fortaleza: da proposição ao Diário Oficial</title>
       <link>https://www.cmfor.ce.gov.br/2026/01/13/como-nascem-as-leis-em-fortaleza-da-proposicao-ao-diario-oficial/</link>
-      <guid>cmfor-img-2e2d0ab0442a61285082ad0f36c0d063</guid>
+      <guid>cmfor-img-6370620cb10f024f07f7f32e133ff68c</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/54992014536_44308f4b9b_c.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/01/54992014536_44308f4b9b_c.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Como nascem as leis em Fortaleza: da proposição ao Diário Oficial</media:title>
