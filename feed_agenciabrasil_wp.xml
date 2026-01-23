@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Fri, 23 Jan 2026 15:19:03 +0000</pubDate>
+    <pubDate>Fri, 23 Jan 2026 16:21:42 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,104 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Anvisa proíbe venda de azeite e suspende doce de leite e sal grosso</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/anvisa-proibe-venda-de-azeite-e-suspende-doce-de-leite-e-sal-grosso</link>
+      <pubDate>Fri, 23 Jan 2026 16:21:42 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/anvisa-proibe-venda-de-azeite-e-suspende-doce-de-leite-e-sal-grosso#1000</guid>
+      <description>© Ministério da Agricultura e Pecuária/Divulgação
+A Agência Nacional de Vigilância Sanitária (Anvisa) proibiu acomercialização, distribuição, fabrica...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DZDPJYj6DIbEiHpNxgGYxjHXjmQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/22/591e00dc-030e-4b5e-b37c-37e46683d54a.jpg?itok=e3Vi7K9-&quot; alt=&quot;Anvisa proíbe venda de azeite e suspende doce de leite e sal grosso&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Ministério da Agricultura e Pecuária/Divulgação&lt;/p&gt;
+&lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) proibiu acomercialização, distribuição, fabricação e consumo do azeite de oliva extravirgem da marca Terra das Oliveiras. De acordo com a Anvisa, o produto foi proibido por terorigem desconhecida, sendo vendido pela loja online Shopee. Além disso, explicou a agência, a empresa JJ-Comercial de Alimentos, que aparece no rótulo do produto como sua importadora, foi extinta. A medida foi publicada no&lt;/p&gt;
+&lt;p&gt;A agência impôs restrições de comercializações dosal grosso da marca Marfim e do doce de leite daSão Benedito.&lt;/p&gt;
+&lt;p&gt;Fabricado pela empresa M Gomes Praxedes, o lote 901124 dosal grosso Marfimfoi suspenso por ter reprovado no teste de teor de iodo, que foi considerado insatisfatório. De acordo com a Anvisa, o lote deve ser recolhido. A determinação foi publicada no&lt;/p&gt;
+&lt;p&gt;Já odoce de leite em pedaços da marca São Benedito, da empresa JF Indústria Comercio de Doces e Laticínios, com data de fabricação de25 de junho de 2025,não poderá ser comercializado, distribuído e nem consumido. De acordo com a Anvisa, o lote desse produto não estava identificado. Além disso, foi reprovado no teste de ácido sórbico, conforme&lt;/p&gt;
+&lt;p&gt;.O ácido sórbico é um conservante que tem o propósito de evitar que microrganismos causem deterioração dos alimentos.&lt;/p&gt;
+&lt;p&gt;procurou as empresas responsáveis pelas marcas Marfim e São Benedito, mas elas ainda não se manifestaram sobre as decisões da Anvisa. Já a empresa responsável pela marca Terra das Oliveiras não foi encontrada.&lt;/p&gt;
+&lt;p&gt;BC: diretor nega ter recomendado compra de carteiras do Master ao BRB&lt;/p&gt;
+&lt;p&gt;Exposição &quot;Uma história da arte brasileira&quot; tem acesso gratuito no CCBB&lt;/p&gt;
+&lt;p&gt;Pesquisadores do Maranhão desenvolvem etiquetas acessíveis&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/anvisa-proibe-venda-de-azeite-e-suspende-doce-de-leite-e-sal-grosso&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Ministério da Agricultura e Pecuária/Divulgação
+A Agência Nacional de Vigilância Sanitária (Anvisa) proibiu acomercialização, distribuição, fabrica...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-23 12:33:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-23 12:33:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-23 12:33:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-23 12:33:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/DZDPJYj6DIbEiHpNxgGYxjHXjmQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/22/591e00dc-030e-4b5e-b37c-37e46683d54a.jpg?itok=e3Vi7K9-</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>CNU 2025: resultado e espelho de discursiva são divulgados hoje</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/cnu-2025-resultado-e-espelho-de-discursiva-sao-divulgados-hoje</link>
+      <pubDate>Fri, 23 Jan 2026 16:21:42 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/cnu-2025-resultado-e-espelho-de-discursiva-sao-divulgados-hoje#1001</guid>
+      <description>© Joel Rodrigues/Agência Brasíli
+O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulga, a partir de 18 horas desta sexta-feira (23)...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/COA1ph_0Gzuu0AVDkt9-ZXztwHQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/07/04/53694743116_af551bc8e0_o.jpg?itok=3z2nkGOF&quot; alt=&quot;CNU 2025: resultado e espelho de discursiva são divulgados hoje&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Joel Rodrigues/Agência Brasíli&lt;/p&gt;
+&lt;p&gt;O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulga, a partir de 18 horas desta sexta-feira (23), a nota preliminar da prova discursiva da segunda edição do Concurso Público Nacional Unificado (CPNU) dos participantes desta segunda fase.&lt;/p&gt;
+&lt;p&gt;ficar disponível o espelho da prova discursiva de cada candidato para os blocos temáticos de 1 a 7 (nível superior), e da redação, para os blocos 8 e 9 (nível intermediário).&lt;/p&gt;
+&lt;p&gt;A consulta individual do resultado preliminar e o detalhamento das notas, com os itens avaliados é feita na área do candidato, na&lt;/p&gt;
+&lt;p&gt;da Fundação Getulio Vargas (FGV), banca examinadora do certame.&lt;/p&gt;
+&lt;p&gt;As notas preliminares também serão publicadas no&lt;/p&gt;
+&lt;p&gt;(DOU) em edição extra, ainda nesta sexta-feira.&lt;/p&gt;
+&lt;p&gt;O espelho da prova do CNU 2025 é a imagem digitalizada em PDF e da prova discursiva entreguepelo candidatono dia da prova.&lt;/p&gt;
+&lt;p&gt;A área do resultado disponibilizada mostra como a banca corrigiu, seguindo os critérios do edital. Nele, a correção aparece separada poritens, como: conteúdo, argumentação, clareza, organização do texto e domínio do tema. Em cadaitem, aparece a nota que o candidato recebeu da banca avaliadora da FGV.&lt;/p&gt;
+&lt;p&gt;Aqueles que não concordarem com a nota preliminar da prova discursiva podem entrar com eventuais pedidos de revisão das notas a partir desta segunda-feira (26).&lt;/p&gt;
+&lt;p&gt;De acordo com o edital do processo seletivo, o prazo de dois dias termina na terça-feira (27).&lt;/p&gt;
+&lt;p&gt;Os eventuais pedidos de revisão das notas da discursiva devem ser interpostos na área do candidato, com&lt;/p&gt;
+&lt;p&gt;O resultado dos pedidos de revisão das notas da prova discursiva e o resultado definitivo da prova discursiva serão divulgados em 18 de fevereiro.&lt;/p&gt;
+&lt;p&gt;O MGI informa que dos mais de 42 mil aprovados na primeira fase e, portanto, habilitados para fazer prova discursiva, cerca de 8,5 mil não compareceram a este segundo dia de provas, realizado em 7 de dezembro. Uma abstenção de aproximadamente 17%.&lt;/p&gt;
+&lt;p&gt;A segunda edição do CNU oferece 3.652 vagas distribuídas em 32órgãos federais. Do total, 3.144 são para cargos de nível superior e outras 508, de nívelintermediário.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/cnu-2025-resultado-e-espelho-de-discursiva-sao-divulgados-hoje&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Joel Rodrigues/Agência Brasíli
+O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) divulga, a partir de 18 horas desta sexta-feira (23)...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-01-23 12:09:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-23 12:09:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-23 12:09:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-23 12:09:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/COA1ph_0Gzuu0AVDkt9-ZXztwHQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/07/04/53694743116_af551bc8e0_o.jpg?itok=3z2nkGOF</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Terminam nesta sexta-feira inscrições para o Sisu 2026</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/terminam-nesta-sexta-feira-inscricoes-para-o-sisu-2026</link>
-      <pubDate>Fri, 23 Jan 2026 15:19:03 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 16:21:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/terminam-nesta-sexta-feira-inscricoes-para-o-sisu-2026#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/terminam-nesta-sexta-feira-inscricoes-para-o-sisu-2026#1002</guid>
       <description>Os interessados em participar do processo seletivo de 2026 do Sistema de Seleção Unificada (Sisu) podemse inscreveraté esta sexta-feira (23).
 Uma das...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ev5iFIaTPEHgJ46yj-Pn92RMhTQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/29/sisu-2025.jpg?itok=jjilBi4z&quot; alt=&quot;Terminam nesta sexta-feira inscrições para o Sisu 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +140,7 @@ Uma das...</description>
 &lt;p&gt;Esse quantitativo corresponde a54,3% de todas as vagasdisponibilizadas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/terminam-nesta-sexta-feira-inscricoes-para-o-sisu-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os interessados em participar do processo seletivo de 2026 do Sistema de Seleção Unificada (Sisu) podemse inscreveraté esta sexta-feira (23).
 Uma das...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-01-23 11:16:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 11:16:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 11:16:00</wp:post_modified>
@@ -73,9 +166,9 @@ Uma das...</excerpt:encoded>
     <item>
       <title>Lula anuncia isenção de visto a cidadãos chineses</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/lula-anuncia-isencao-de-visto-cidadaos-chineses</link>
-      <pubDate>Fri, 23 Jan 2026 15:19:03 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 16:21:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/lula-anuncia-isencao-de-visto-cidadaos-chineses#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/lula-anuncia-isencao-de-visto-cidadaos-chineses#1003</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O presidente Luiz Inácio Lula da Silva anunciou que concederá isenção de algumas categorias de vistos de curta duraç...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/phXct7nJuOyfOj802pSlAroE2rs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/18/coletiva-lula-mc_abr_18122025-13.jpg?itok=cIpd-EOE&quot; alt=&quot;Lula anuncia isenção de visto a cidadãos chineses&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +189,7 @@ O presidente Luiz Inácio Lula da Silva anunciou que concederá isenção de alg
 &lt;p&gt;, em novembro de 2024. A iniciativa eleva a pareceria estratégica entre os dois países.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/lula-anuncia-isencao-de-visto-cidadaos-chineses&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O presidente Luiz Inácio Lula da Silva anunciou que concederá isenção de algumas categorias de vistos de curta duraç...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-23 11:14:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 11:14:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 11:14:00</wp:post_modified>
@@ -122,9 +215,9 @@ O presidente Luiz Inácio Lula da Silva anunciou que concederá isenção de alg
     <item>
       <title>Fuvest divulga lista de aprovados no vestibular 2026</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/fuvest-divulga-lista-de-aprovados-no-vestibular-2026</link>
-      <pubDate>Fri, 23 Jan 2026 15:19:03 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 16:21:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/fuvest-divulga-lista-de-aprovados-no-vestibular-2026#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/fuvest-divulga-lista-de-aprovados-no-vestibular-2026#1004</guid>
       <description>© Rovena Rosa/Agência Brasil/Arquivo
 A Fundação Universitária para o vestibular (Fuvest) divulgou hoje (23) sua lista de aprovados no vestibular de 2...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/JCz8W0tXhzMtGnct_oUkqcLrx7g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_5735.jpg?itok=45G1BLE8&quot; alt=&quot;Fuvest divulga lista de aprovados no vestibular 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -136,16 +229,16 @@ A Fundação Universitária para o vestibular (Fuvest) divulgou hoje (23) sua li
 &lt;p&gt;Aqueles que não foram aprovados, podem manifestar interesse na lista de espera entre os dias 19 e 20 de fevereiro. A Fuvest fará três chamadas para preencher vagas remanescentes.&lt;/p&gt;
 &lt;p&gt;Também está disponível a lista de aprovados em primeira chamado no Enem-USP&lt;/p&gt;
 &lt;p&gt;Nesta modalidade, 1.500 candidatos foram selecionados através de suas notas no Exame Nacional do Ensino Médio.&lt;/p&gt;
-&lt;p&gt;PF investiga aportes de R$ 970 milhões do Rioprevidência&lt;/p&gt;
-&lt;p&gt;Viva Maria lamenta o recrudescimento do número de feminicídios em São Paulo IOS NA CIDADE DO CONCRETO ARMADO&lt;/p&gt;
+&lt;p&gt;BC: diretor nega ter recomendado compra de carteiras do Master ao BRB&lt;/p&gt;
 &lt;p&gt;Pesquisadores do Maranhão desenvolvem etiquetas acessíveis&lt;/p&gt;
+&lt;p&gt;MP define regras sobre mídia e marketing para a Copa do Mundo Feminina&lt;/p&gt;
+&lt;p&gt;Anvisa proíbe venda de azeite e suspende doce de leite e sal grosso&lt;/p&gt;
+&lt;p&gt;CNU 2025: resultado e espelho de discursiva são divulgados hoje&lt;/p&gt;
 &lt;p&gt;Terminam nesta sexta-feira inscrições para o Sisu 2026&lt;/p&gt;
-&lt;p&gt;Lula anuncia isenção de visto a cidadãos chineses&lt;/p&gt;
-&lt;p&gt;Fuvest divulga lista de aprovados no vestibular 2026&lt;/p&gt;
-&lt;p&gt;Ucrânia, Rússia e EUA vão juntos, pela 1ª vez, à mesa de negociações&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/fuvest-divulga-lista-de-aprovados-no-vestibular-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Lula anuncia isenção de visto a cidadãos chineses&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/fuvest-divulga-lista-de-aprovados-no-vestibular-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rovena Rosa/Agência Brasil/Arquivo
 A Fundação Universitária para o vestibular (Fuvest) divulgou hoje (23) sua lista de aprovados no vestibular de 2...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-23 10:59:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 10:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 10:59:00</wp:post_modified>
@@ -171,9 +264,9 @@ A Fundação Universitária para o vestibular (Fuvest) divulgou hoje (23) sua li
     <item>
       <title>Ucrânia, Rússia e EUA vão juntos, pela 1ª vez, à mesa de negociações</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/ucrania-russia-e-eua-vao-juntos-pela-1a-vez-mesa-de-negociacoes</link>
-      <pubDate>Fri, 23 Jan 2026 15:19:03 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 16:21:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/ucrania-russia-e-eua-vao-juntos-pela-1a-vez-mesa-de-negociacoes#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/ucrania-russia-e-eua-vao-juntos-pela-1a-vez-mesa-de-negociacoes#1005</guid>
       <description>© Sputnik/Alexander Kazakov/Pool via REUTERS - Proibido reprodução
 Tendo como foco o controlesobre os territórios no leste ucraniano, a Ucrânia, Rúss...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/tCDB39EtWyt5HAkZFNQMAnwN70Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/23/2026-01-22t210420z_200707354_rc2l6jac7zgq_rtrmadp_3_ukraine-crisis-russia-usa.jpg?itok=vStyAdm-&quot; alt=&quot;Ucrânia, Rússia e EUA vão juntos, pela 1ª vez, à mesa de negociações&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -194,7 +287,7 @@ Tendo como foco o controlesobre os territórios no leste ucraniano, a Ucrânia, 
 &lt;p&gt;O diálogo com o homólogo norte-americano &quot;não foi simples&quot;, admitiu o líder ucraniano, embora tenha descrito o encontro como &quot;positivo&quot;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/ucrania-russia-e-eua-vao-juntos-pela-1a-vez-mesa-de-negociacoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Sputnik/Alexander Kazakov/Pool via REUTERS - Proibido reprodução
 Tendo como foco o controlesobre os territórios no leste ucraniano, a Ucrânia, Rúss...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-23 10:32:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 10:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 10:32:00</wp:post_modified>
@@ -220,9 +313,9 @@ Tendo como foco o controlesobre os territórios no leste ucraniano, a Ucrânia, 
     <item>
       <title>PF faz operação contra a Rioprevidência por aplicações no Banco Master</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/pf-faz-operacao-contra-rioprevidencia-por-aplicacoes-no-banco-master</link>
-      <pubDate>Fri, 23 Jan 2026 15:19:03 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 16:21:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/pf-faz-operacao-contra-rioprevidencia-por-aplicacoes-no-banco-master#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/pf-faz-operacao-contra-rioprevidencia-por-aplicacoes-no-banco-master#1006</guid>
       <description>A Polícia Federal (PF) faz, na manhã desta sexta-feira (23), a Operação Barco de Papel, onde investiga suspeita de operações financeiras irregulares ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ABqp2p8qau8XQxU2rCDVVRKi8XY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/11/2eb8435d-0439-4404-9710-5004056d73a7.jpeg?itok=81UG1vqf&quot; alt=&quot;PF faz operação contra a Rioprevidência por aplicações no Banco Master&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Polícia Federal (PF) faz, na manhã desta sexta-feira (23), a Operação Barco de Papel, onde investiga suspeita de operações financeiras irregulares da Rioprevidência com o Banco Master.&lt;/p&gt;
@@ -233,15 +326,15 @@ Tendo como foco o controlesobre os territórios no leste ucraniano, a Ucrânia, 
 &lt;p&gt;A instituição financeira controlada pelo banqueiro Daniel Vorcaro é investigada por operações fraudulentas que inflavam artificialmente seu balanço&lt;/p&gt;
 &lt;p&gt;. Investigações da Polícia Federal e relatórios do Banco Central (BC) dão conta de que o Master teria desviado cerca de R$ 11,5 bilhões.&lt;/p&gt;
 &lt;p&gt;O Master foi liquidado pelo BC e as investigações estão em andamento.&lt;/p&gt;
-&lt;p&gt;PF investiga aportes de R$ 970 milhões do Rioprevidência&lt;/p&gt;
-&lt;p&gt;Viva Maria lamenta o recrudescimento do número de feminicídios em São Paulo IOS NA CIDADE DO CONCRETO ARMADO&lt;/p&gt;
+&lt;p&gt;BC: diretor nega ter recomendado compra de carteiras do Master ao BRB&lt;/p&gt;
 &lt;p&gt;Pesquisadores do Maranhão desenvolvem etiquetas acessíveis&lt;/p&gt;
+&lt;p&gt;MP define regras sobre mídia e marketing para a Copa do Mundo Feminina&lt;/p&gt;
+&lt;p&gt;Anvisa proíbe venda de azeite e suspende doce de leite e sal grosso&lt;/p&gt;
+&lt;p&gt;CNU 2025: resultado e espelho de discursiva são divulgados hoje&lt;/p&gt;
 &lt;p&gt;Terminam nesta sexta-feira inscrições para o Sisu 2026&lt;/p&gt;
-&lt;p&gt;Lula anuncia isenção de visto a cidadãos chineses&lt;/p&gt;
-&lt;p&gt;Fuvest divulga lista de aprovados no vestibular 2026&lt;/p&gt;
-&lt;p&gt;Ucrânia, Rússia e EUA vão juntos, pela 1ª vez, à mesa de negociações&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/pf-faz-operacao-contra-rioprevidencia-por-aplicacoes-no-banco-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Lula anuncia isenção de visto a cidadãos chineses&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/pf-faz-operacao-contra-rioprevidencia-por-aplicacoes-no-banco-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Polícia Federal (PF) faz, na manhã desta sexta-feira (23), a Operação Barco de Papel, onde investiga suspeita de operações financeiras irregulares ...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-23 08:47:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 08:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 08:47:00</wp:post_modified>
@@ -267,9 +360,9 @@ Tendo como foco o controlesobre os territórios no leste ucraniano, a Ucrânia, 
     <item>
       <title>Abertura da Mostra de Tiradentes celebra Karine Teles e Júlio Bressane</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/abertura-da-mostra-de-tiradentes-celebra-karine-teles-e-julio-bressane</link>
-      <pubDate>Fri, 23 Jan 2026 15:19:03 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 16:21:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/abertura-da-mostra-de-tiradentes-celebra-karine-teles-e-julio-bressane#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/abertura-da-mostra-de-tiradentes-celebra-karine-teles-e-julio-bressane#1007</guid>
       <description>A cidade histórica de Tiradentes, em Minas Gerais, volta a se transformar no epicentro do cinema brasileiro a partir desta sexta-feira (23), com a ab...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/TvL9XFHTD4fzq4Rx94_C9JUc3sc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/22/28a_mostra_tiradentes_-_longa_mostra_praca_-_foto_leo_lara.jpg?itok=1KVw4PS8&quot; alt=&quot;Abertura da Mostra de Tiradentes celebra Karine Teles e Júlio Bressane&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A cidade histórica de Tiradentes, em Minas Gerais, volta a se transformar no epicentro do cinema brasileiro a partir desta sexta-feira (23), com a abertura da 29ª edição da Mostra de Cinema de Tiradentes. O primeiro dia do evento reúne celebração da cultura popular, homenagem a Karine Teles, uma das principais atrizes de sua geração, e a pré-estreia mundial de um novo filme do cineasta Júlio Bressane, em uma cerimônia que inaugura oficialmente o calendário audiovisual do país em 2026.&lt;/p&gt;
@@ -288,7 +381,7 @@ Tendo como foco o controlesobre os territórios no leste ucraniano, a Ucrânia, 
 &lt;p&gt;, o curta se desloca para uma reflexão especulativa sobre a própria construção da imagem cinematográfica, um dos eixos centrais da obra de Bressane. A escolha do filme ganha significado adicional por coincidir com a celebração dos 80 anos do cineasta, que serão completados em fevereiro.&lt;/p&gt;
 &lt;p&gt;Ao longo de nove dias, até 31 de janeiro, a Mostra de Cinema de Tiradentes exibe137 filmes brasileiros em pré-estreia,sendo 43 longas e 93 curtas-metragens, distribuídos em 21 mostras e sessões especiais. Toda a programação é gratuita e inclui debates, rodas de conversa, atividades formativas, encontros de mercado e discussões sobre políticas públicas para o audiovisual.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/abertura-da-mostra-de-tiradentes-celebra-karine-teles-e-julio-bressane&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A cidade histórica de Tiradentes, em Minas Gerais, volta a se transformar no epicentro do cinema brasileiro a partir desta sexta-feira (23), com a ab...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-23 08:30:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 08:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 08:30:00</wp:post_modified>
@@ -314,9 +407,9 @@ Tendo como foco o controlesobre os territórios no leste ucraniano, a Ucrânia, 
     <item>
       <title>Agências do INSS abrem para atendimento extra neste sábado e domingo</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/agencias-do-inss-abrem-para-atendimento-extra-neste-sabado-e-domingo</link>
-      <pubDate>Fri, 23 Jan 2026 15:19:03 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 16:21:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/agencias-do-inss-abrem-para-atendimento-extra-neste-sabado-e-domingo#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/agencias-do-inss-abrem-para-atendimento-extra-neste-sabado-e-domingo#1008</guid>
       <description>© Marcelo Camargo/Agência Brasil
 As agências do Instituto Nacional do Seguro Social (INSS) em todo o país abrirão para atendimento presencial extra n...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xP5aRY7cK_PjGA3ITDAEM1bFqGg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/22/966946-07072015-dsc_5210bbn.jpg?itok=oAKqJlmt&quot; alt=&quot;Agências do INSS abrem para atendimento extra neste sábado e domingo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -329,15 +422,15 @@ As agências do Instituto Nacional do Seguro Social (INSS) em todo o país abrir
 &lt;p&gt;Na próxima quarta-feira (28), quinta-feira (29) e sexta-feira (30) as agências do INSS em todo o país estarão fechadas para atendimento presencial em razão de melhorias programadas nos sistemas previdenciários da Dataprev, empresa responsável pela tecnologia da informação da Previdência Social.&lt;/p&gt;
 &lt;p&gt;Os canais remotos de atendimento Meu INSS (site e aplicativo) e a central telefônica 135 também ficarão indisponíveis a partir das 19h do dia 27 até o dia 31.&lt;/p&gt;
 &lt;p&gt;A medida, segundo o INSS, é necessária para a modernização dos sistemas, para assegurar maior estabilidade, segurança e eficiência dos serviços.&lt;/p&gt;
-&lt;p&gt;PF investiga aportes de R$ 970 milhões do Rioprevidência&lt;/p&gt;
-&lt;p&gt;Viva Maria lamenta o recrudescimento do número de feminicídios em São Paulo IOS NA CIDADE DO CONCRETO ARMADO&lt;/p&gt;
+&lt;p&gt;BC: diretor nega ter recomendado compra de carteiras do Master ao BRB&lt;/p&gt;
+&lt;p&gt;Observatório Nacional identifica raro sistema estelar&lt;/p&gt;
 &lt;p&gt;Pesquisadores do Maranhão desenvolvem etiquetas acessíveis&lt;/p&gt;
-&lt;p&gt;Terminam nesta sexta-feira inscrições para o Sisu 2026&lt;/p&gt;
-&lt;p&gt;Lula anuncia isenção de visto a cidadãos chineses&lt;/p&gt;
-&lt;p&gt;Fuvest divulga lista de aprovados no vestibular 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/agencias-do-inss-abrem-para-atendimento-extra-neste-sabado-e-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;MP define regras sobre mídia e marketing para a Copa do Mundo Feminina&lt;/p&gt;
+&lt;p&gt;Anvisa proíbe venda de azeite e suspende doce de leite e sal grosso&lt;/p&gt;
+&lt;p&gt;CNU 2025: resultado e espelho de discursiva são divulgados hoje&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/agencias-do-inss-abrem-para-atendimento-extra-neste-sabado-e-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 As agências do Instituto Nacional do Seguro Social (INSS) em todo o país abrirão para atendimento presencial extra n...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-23 08:02:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 08:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 08:02:00</wp:post_modified>
@@ -363,9 +456,9 @@ As agências do Instituto Nacional do Seguro Social (INSS) em todo o país abrir
     <item>
       <title>Xi Jinping garante a Lula apoio da China em tempos &quot;turbulentos&quot;</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/xi-jinping-garante-lula-apoio-da-china-em-tempos-turbulentos</link>
-      <pubDate>Fri, 23 Jan 2026 15:19:03 +0000</pubDate>
+      <pubDate>Fri, 23 Jan 2026 16:21:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/xi-jinping-garante-lula-apoio-da-china-em-tempos-turbulentos#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/xi-jinping-garante-lula-apoio-da-china-em-tempos-turbulentos#1009</guid>
       <description>Em conversa por telefone com o presidente Luiz Inácio Lula da Silva, o líderchinês, Xi Jinping, disseque seu paísapoiaa maior economia da América Lat...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zt5Eq1saXkbzJTxF5vUpnn3b03o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/20/54152272137_c66bba24e9_o_0.jpg?itok=xUJ3rafA&quot; alt=&quot;Xi Jinping garante a Lula apoio da China em tempos &quot;turbulentos&quot;&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Em conversa por telefone com o presidente Luiz Inácio Lula da Silva, o líderchinês, Xi Jinping, disseque seu paísapoiaa maior economia da América Latina e o Sul Globale pediu que ambas mantenhamo papel das Nações Unidas.&lt;/p&gt;
@@ -384,7 +477,7 @@ As agências do Instituto Nacional do Seguro Social (INSS) em todo o país abrir
 &lt;p&gt;&quot;A China está disposta a continuar sendo uma boa amiga e parceira dos países da América Latina e do Caribe&quot;, disse Xi a Lula.&lt;/p&gt;
 &lt;p&gt;Segundo o líder chinês, a parceria estratégica firmada em 2024 para alinhar a iniciativa do Cinturão e Rota (BRI na sigla em inglês) da China com os planos do Brasil em agricultura, infraestrutura e transição energética exemplifica a solidariedade e a cooperação entre os países do Sul Global.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/xi-jinping-garante-lula-apoio-da-china-em-tempos-turbulentos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Em conversa por telefone com o presidente Luiz Inácio Lula da Silva, o líderchinês, Xi Jinping, disseque seu paísapoiaa maior economia da América Lat...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-23 07:53:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 07:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 07:53:00</wp:post_modified>
@@ -405,104 +498,6 @@ As agências do Instituto Nacional do Seguro Social (INSS) em todo o país abrir
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/zt5Eq1saXkbzJTxF5vUpnn3b03o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/20/54152272137_c66bba24e9_o_0.jpg?itok=xUJ3rafA</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Blocos LGBTQIA+ do Rio de Janeiro pregam alegria e pluralidade</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/blocos-lgbtqia-do-rio-de-janeiro-pregam-alegria-e-pluralidade</link>
-      <pubDate>Fri, 23 Jan 2026 15:19:03 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/blocos-lgbtqia-do-rio-de-janeiro-pregam-alegria-e-pluralidade#1008</guid>
-      <description>© Saulo Costa/ Bloco Sai Hétero
-A partir de uma brincadeira de carnaval, o Rio de Janeiro ganhou no dia 4 de março de 2018 o bloco
-, nascido como res...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/nmjcjMcTfdpIZiDkfC76cRx5JbI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/21/sai_hetero-2481.jpg?itok=1VDIgMQ6&quot; alt=&quot;Blocos LGBTQIA+ do Rio de Janeiro pregam alegria e pluralidade&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Saulo Costa/ Bloco Sai Hétero&lt;/p&gt;
-&lt;p&gt;A partir de uma brincadeira de carnaval, o Rio de Janeiro ganhou no dia 4 de março de 2018 o bloco&lt;/p&gt;
-&lt;p&gt;, nascido como resposta ao preconceito contra a comunidade LGBTQIA+.&lt;/p&gt;
-&lt;p&gt;“Hoje, ele é um projeto cultural, consolidado no carnaval do Rio e que recebe mensagens de gente de Roma, Paris, da galera de Manaus vindo para o Rio de Janeiro e querendo saber a data do desfile para se programar”, conta o fundador e presidente do bloco, Vitor Ribeiro.&lt;/p&gt;
-&lt;p&gt;fará seu primeiro “esquenta” oficial do carnaval de rua, reunindo artistas e convidados na Marina da Glória, dentro do Parque do Flamengo, com tema sempre voltado para as pessoas LGBTQIA+. “É um evento bloco, com fantasia livre”, disse Ribeiro. Os participantesapostam que o centro do Rio “vai ferver no ritmo do carnaval mais colorido, diverso e animado da cidade”. Informações podem ser encontradas no&lt;/p&gt;
-&lt;p&gt;Mas a celebração maior do carnaval 2026 do&lt;/p&gt;
-&lt;p&gt;ocorrerá no dia 17 de fevereiro, embora ainda sem local definido, que é sempre fora da programação do carnaval de rua da prefeitura&lt;/p&gt;
-&lt;p&gt;“A gente prefere fazer um evento fechado por motivos de segurança porque, no carnaval, as pessoas ficam muito expostas e acontecem muitos acidentes em eventos abertos”, explicou Vitor Ribeiro.&lt;/p&gt;
-&lt;p&gt;é um bloco criado para que as pessoas LGBT+ possam ter seuespaço.&lt;/p&gt;
-&lt;p&gt;Os eventos do bloco são realizados sempre na região central da cidade. No ano passado, por exemplo, ocorreu na Praça Marechal Âncora.&lt;/p&gt;
-&lt;p&gt;O bloco tem um público bem fiel, estimado entre 10 mil e 20 mil pessoas. Os eventos têm camarotes,&lt;/p&gt;
-&lt;p&gt;e diversas atrações e artistas, além da bateria da Escola de Samba Unidos da Tijuca.&lt;/p&gt;
-&lt;p&gt;O Carnabendita, ecossistema cultural que conecta 13 blocos de rua no Rio de Janeiro, terá ações inéditas de diversidade para o desfile do Divinas Tretas em 2026, bloco quesurgiu como uma nova formação do antigo bloco Toco-Xona, o primeiro bloco LGBTQIA+ do Rio de Janeiro, criado em 2007.&lt;/p&gt;
-&lt;p&gt;A mudança de nome, ocorrida em 2022, teve por objetivo abarcar ainda mais a diversidade e se firmar como coletivo no pós-pandemia da covid-19. Misturando pop, rock, axé e ritmos brasileiros, o grupo consolidou-se como um símbolo de pluralidade e qualidade musical no carnaval de rua carioca.&lt;/p&gt;
-&lt;p&gt;O desfile do bloco Divinas Tretas, marcado para o dia 15 de fevereiro, na Praia do Flamengo, inclui uma iniciativa inédita de requalificação e retificação de prenome e gênero para a população trans e não-binária em situação de vulnerabilidade.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/blocos-lgbtqia-do-rio-de-janeiro-pregam-alegria-e-pluralidade&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Saulo Costa/ Bloco Sai Hétero
-A partir de uma brincadeira de carnaval, o Rio de Janeiro ganhou no dia 4 de março de 2018 o bloco
-, nascido como res...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-01-23 07:32:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-23 07:32:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-23 07:32:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-23 07:32:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/nmjcjMcTfdpIZiDkfC76cRx5JbI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/21/sai_hetero-2481.jpg?itok=1VDIgMQ6</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Caixa paga Bolsa Família a beneficiários com NIS de final 5</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-5</link>
-      <pubDate>Fri, 23 Jan 2026 15:19:03 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-5#1009</guid>
-      <description>A Caixa Econômica Federal paga nessa sexta-feira (23) a parcela de janeiro do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1gp3VkQcrnEn3QKld5k9diQoELg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53628083405_9eff29bda1_o.jpg?itok=zLeILNBR&quot; alt=&quot;Caixa paga Bolsa Família a beneficiários com NIS de final 5&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Caixa Econômica Federal paga nessa sexta-feira (23) a parcela de janeiro do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 5.&lt;/p&gt;
-&lt;p&gt;O valor mínimo corresponde a R$ 600, mas com o novo adicional o valor médio do benefício sobe para R$ 697,77.&lt;/p&gt;
-&lt;p&gt;Segundo o Ministério do Desenvolvimento e Assistência Social, neste mês o programa de transferência de renda do Governo Federal alcançará 18,77 milhões de famílias, com gasto de R$ 13,1 bilhões.&lt;/p&gt;
-&lt;p&gt;Além do benefício mínimo, há o pagamento de três adicionais.&lt;/p&gt;
-&lt;p&gt;O Benefício Variável Familiar Nutriz paga seis parcelas de R$ 50 a mães de bebês de até seis meses de idade, para garantir a alimentação da criança. O Bolsa Família também paga um acréscimo de R$ 50 a gestantes e nutrizes (mães que amamentam), um de R$ 50 a cada filho de 7 a 18 anos e outro, de R$ 150, a cada criança de até 6 anos.&lt;/p&gt;
-&lt;p&gt;No modelo tradicional do Bolsa Família, o pagamento ocorre nos últimos dez dias úteis de cada mês. O beneficiário poderá consultar informações sobre as datas de pagamento, o valor do benefício e a composição das parcelas no aplicativo&lt;/p&gt;
-&lt;p&gt;, usado para acompanhar as contas poupança digitais do banco.&lt;/p&gt;
-&lt;p&gt;Os beneficiários de 176 cidades de nove estados receberam o pagamento na última segunda-feira (19), independentemente do NIS. A medida beneficiou os moradores de 120 municípios do Rio Grande do Norte, que sofrem com a seca. Também foram beneficiadas cidades nos seguintes estados: Bahia (29), Sergipe (10), Roraima (6), Paraná (4), Amazonas (3), Piauí (2), Rio Grande do Sul (1) e Santa Catarina (1).&lt;/p&gt;
-&lt;p&gt;Essas localidades foram afetadas por chuvas ou por estiagens ou têm povos indígenas em situação de vulnerabilidade. A lista dos municípios com pagamento antecipado está disponível na página do Ministério do Desenvolvimento e Assistência Social.&lt;/p&gt;
-&lt;p&gt;Desde 2024, os beneficiários do Bolsa Família não têm mais o desconto do Seguro Defeso. A mudança foi estabelecida pela&lt;/p&gt;
-&lt;p&gt;, que resgatou o Programa Bolsa Família (PBF). O Seguro Defeso é pago a pessoas que sobrevivem exclusivamente da pesca artesanal e que não podem exercer a atividade durante o período da piracema (reprodução dos peixes).&lt;/p&gt;
-&lt;p&gt;Cerca de 2,44 milhões de famílias estão na regra de proteção em janeiro. Essa regra permite que famílias cujos membros consigam emprego e melhorem a renda recebam 50% do benefício a que teriam direito por até dois anos, desde que cada integrante receba o equivalente a até meio salário mínimo.&lt;/p&gt;
-&lt;p&gt;No ano passado, o tempo de permanência na regra de proteção&lt;/p&gt;
-&lt;p&gt;foi reduzido de dois para um ano&lt;/p&gt;
-&lt;p&gt;. No entanto, a mudança só abrange as famílias que entraram na fase de transição a partir de junho de 2025. Quem se enquadrou na regra até maio de 2025 continuará a receber metade do benefício por dois anos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-5&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Caixa Econômica Federal paga nessa sexta-feira (23) a parcela de janeiro do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-23 07:02:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-23 07:02:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-23 07:02:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-23 07:02:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/1gp3VkQcrnEn3QKld5k9diQoELg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53628083405_9eff29bda1_o.jpg?itok=zLeILNBR</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
