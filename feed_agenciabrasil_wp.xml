@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 24 Jan 2026 13:26:41 +0000</pubDate>
+    <pubDate>Sat, 24 Jan 2026 14:14:05 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,62 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Documentário sobre cultura vinícola no país tem exibição na TV Brasil</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/documentario-sobre-cultura-vinicola-no-pais-tem-exibicao-na-tv-brasil</link>
+      <pubDate>Sat, 24 Jan 2026 14:14:05 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/documentario-sobre-cultura-vinicola-no-pais-tem-exibicao-na-tv-brasil#1000</guid>
+      <description>© Produtora Brasileira/Divulgação
+O universo dos vinhos brasileiros serve de mote para a produção independente
+, documentário que é apresentado na TV...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/tU8vYlo13XHaDvXgTxO8140urSE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/23/large_2.jpg?itok=V6rLSGSP&quot; alt=&quot;Documentário sobre cultura vinícola no país tem exibição na TV Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Produtora Brasileira/Divulgação&lt;/p&gt;
+&lt;p&gt;O universo dos vinhos brasileiros serve de mote para a produção independente&lt;/p&gt;
+&lt;p&gt;, documentário que é apresentado na TV Brasil neste sábado (24), às 22h15. Além da janela na telinha, o conteúdo pode ser acompanhado sob demanda no app&lt;/p&gt;
+&lt;p&gt;A obra audiovisual proporciona uma viagem fascinante sobre o tema ao explorar o conceito de terroir e a expressão única das uvas cultivadas em solo brasileiro, com detalhes sobre esse processo desenvolvido no território nacional.&lt;/p&gt;
+&lt;p&gt;Com 52 minutos, o filme destaca a evolução da cultura vinícola no país, apresenta a importância da identidade regional e discute a democratização do consumo de vinhos.&lt;/p&gt;
+&lt;p&gt;A narrativa traz o depoimento de profissionais especialistas na área como enólogos e sommelières, além de pessoas que gostam de consumir vinhos, os chamados enófilos.&lt;/p&gt;
+&lt;p&gt;O desafio do média-metragem é combinar a harmonia entre tradição e inovação.&lt;/p&gt;
+&lt;p&gt;A proposta do conteúdo independente é desmistificar a sofisticação associada à bebida e celebrar o prazer simples do ato de degustar vinhos.&lt;/p&gt;
+&lt;p&gt;Durante a obra, os personagens explicam as características dos diferentes biomas brasileiros e as condições apropriadas para o cultivo das uvas. Eles ressaltam o reconhecimento internacional dos críticos sobre as bebidas produzidas no país.&lt;/p&gt;
+&lt;p&gt;O filme reflete sobre os fatores ambientais, geográficos e humanos que atribuem identidade ao vinho do país. Para além do solo, a produção levanta perspectivas como clima, relevo, geologia, tradições e técnicas aplicadas ao cultivo para moldar o sabor final do produto.&lt;/p&gt;
+&lt;p&gt;Classificação indicativa: Livre&lt;/p&gt;
+&lt;p&gt;Realização: Produtora Brasileira de Arte e Cultura&lt;/p&gt;
+&lt;p&gt;Direção e roteiro: Luciano Oreggia&lt;/p&gt;
+&lt;p&gt;Valorização do conteúdo independente&lt;/p&gt;
+&lt;p&gt;neste domingo (18). O conteúdo de natureza documental exibido na telinha também pode ser acompanhado sob demanda no app&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/documentario-sobre-cultura-vinicola-no-pais-tem-exibicao-na-tv-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Produtora Brasileira/Divulgação
+O universo dos vinhos brasileiros serve de mote para a produção independente
+, documentário que é apresentado na TV...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-24 10:30:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-24 10:30:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-24 10:30:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-24 10:30:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/tU8vYlo13XHaDvXgTxO8140urSE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/23/large_2.jpg?itok=V6rLSGSP</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Feira Gastronômica em Pinheiros comemora aniversário de 472 anos de SP</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/feira-gastronomica-em-pinheiros-comemora-aniversario-de-472-anos-de-sp</link>
-      <pubDate>Sat, 24 Jan 2026 13:26:41 +0000</pubDate>
+      <pubDate>Sat, 24 Jan 2026 14:14:05 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/feira-gastronomica-em-pinheiros-comemora-aniversario-de-472-anos-de-sp#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/feira-gastronomica-em-pinheiros-comemora-aniversario-de-472-anos-de-sp#1001</guid>
       <description>Em meio às comemorações do aniversário de 472 anos da cidade de São Paulo, neste final de semana (24 e 25), a feira gastronômica Sabores dos Bairros,...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ueP4qjKtUbqQuUAEE_hztOpJt0Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/23/evento-gastronomia-sp.jpg?itok=NwGyfras&quot; alt=&quot;Feira Gastronômica em Pinheiros comemora aniversário de 472 anos de SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Em meio às comemorações do aniversário de 472 anos da cidade de São Paulo, neste final de semana (24 e 25), a feira gastronômica Sabores dos Bairros, em Pinheiros, oferece diversas opções de pratos e bebidas que representam a diversidade cultural da capital paulista.&lt;/p&gt;
@@ -42,10 +93,10 @@
 &lt;p&gt;Para um dos fundadores do grupo, Alexsandro Domingos de Souza, o Samba do Tatu tem uma energia contagiante. “A gente tem uma forma muito diferente que contagia o público por causa da energia do grupo, convidando pessoas para subir no palco e celebrando aniversários. A gente faz o público bater na palma da mão,” contou Alexsandro.&lt;/p&gt;
 &lt;p&gt;Outras atrações musicais que se apresentam no evento incluem a Forreggae K’NOA, grupo que mistura forró e reggae, uma banda cover do Jota Quest e um DJ que tocará brasilidades.&lt;/p&gt;
 &lt;p&gt;A feira gastronômica Sabores dos Bairros está localizada na Avenida Professor Frederico Hermann Júnior, em frente a Subprefeitura de Pinheiros. O evento será nos dias 24 e 25, das 11h às 21h.&lt;/p&gt;
-&lt;p&gt;Vorcaro cita governador do DF em depoimento; oposição pede impeachment&lt;/p&gt;
+&lt;p&gt;São Paulo realiza Dia D de vacinação contra sarampo e febre amarela&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo na Rádio Nacional: Fluminense e Flamengo se enfrentam pelo Cariocão 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/feira-gastronomica-em-pinheiros-comemora-aniversario-de-472-anos-de-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Em meio às comemorações do aniversário de 472 anos da cidade de São Paulo, neste final de semana (24 e 25), a feira gastronômica Sabores dos Bairros,...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-01-24 09:35:00</wp:post_date>
       <wp:post_date_gmt>2026-01-24 09:35:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-24 09:35:00</wp:post_modified>
@@ -71,9 +122,9 @@
     <item>
       <title>Prêmio de R$ 63 milhões da Mega-Sena será sorteado neste sábado</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/premio-de-r-63-milhoes-da-mega-sena-sera-sorteado-neste-sabado</link>
-      <pubDate>Sat, 24 Jan 2026 13:26:41 +0000</pubDate>
+      <pubDate>Sat, 24 Jan 2026 14:14:05 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/premio-de-r-63-milhoes-da-mega-sena-sera-sorteado-neste-sabado#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/premio-de-r-63-milhoes-da-mega-sena-sera-sorteado-neste-sabado#1002</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 As seis dezenas do concurso 2.964 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZknnHaJ1JX0ZFgm3I3cbvuQ5tQg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182751.jpg?itok=QnjfS3G4&quot; alt=&quot;Prêmio de R$ 63 milhões da Mega-Sena será sorteado neste sábado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -85,12 +136,16 @@ As seis dezenas do concurso 2.964 da Mega-Sena serão sorteadas, a partir das 21
 &lt;p&gt;&gt;&gt;Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
 &lt;p&gt;As apostas podem ser feitas até as 20h30 (horário de Brasília), nas casas lotéricas credenciadas pela Caixa, em todo o país ou pela internet.&lt;/p&gt;
 &lt;p&gt;O jogo simples, com seis números marcados, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;Vorcaro cita governador do DF em depoimento; oposição pede impeachment&lt;/p&gt;
+&lt;p&gt;São Paulo realiza Dia D de vacinação contra sarampo e febre amarela&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo na Rádio Nacional: Fluminense e Flamengo se enfrentam pelo Cariocão 2026&lt;/p&gt;
-&lt;p&gt;Cresce presença de idosos em academias&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/premio-de-r-63-milhoes-da-mega-sena-sera-sorteado-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Cresce presença de idosos em academias&lt;/p&gt;
+&lt;p&gt;Morre Constantino Júnior, fundador da Gol, aos 57 anos&lt;/p&gt;
+&lt;p&gt;Documentário sobre cultura vinícola no país tem exibição na TV Brasil&lt;/p&gt;
+&lt;p&gt;Feira Gastronômica em Pinheiros comemora aniversário de 472 anos de SP&lt;/p&gt;
+&lt;p&gt;Prêmio de R$ 63 milhões da Mega-Sena será sorteado neste sábado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/premio-de-r-63-milhoes-da-mega-sena-sera-sorteado-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 As seis dezenas do concurso 2.964 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço d...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-01-24 09:00:00</wp:post_date>
       <wp:post_date_gmt>2026-01-24 09:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-24 09:00:00</wp:post_modified>
@@ -116,9 +171,9 @@ As seis dezenas do concurso 2.964 da Mega-Sena serão sorteadas, a partir das 21
     <item>
       <title>Aniversário de São Paulo tem extensa programação gratuita</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/aniversario-de-sao-paulo-te-extensa-programacao-gratuita</link>
-      <pubDate>Sat, 24 Jan 2026 13:26:41 +0000</pubDate>
+      <pubDate>Sat, 24 Jan 2026 14:14:05 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/aniversario-de-sao-paulo-te-extensa-programacao-gratuita#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/aniversario-de-sao-paulo-te-extensa-programacao-gratuita#1003</guid>
       <description>Neste domingo (25), a cidade de São Paulo completa 472 anos.
 E para celebrar a data tão especial foi preparada uma extensa programação cultural, que ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uqgxTu1EK-XrSHOcJCVcAyN53fo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/25/bolo_bixiga_07.jpg?itok=VaMYXrdf&quot; alt=&quot;Aniversário de São Paulo tem extensa programação gratuita&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -139,7 +194,7 @@ E para celebrar a data tão especial foi preparada uma extensa programação cul
 &lt;p&gt;A prefeitura vai promover ainda o concerto Mitos Sonoros – FilarMônica, da Orquestra Experimental de Repertório, no Theatro Municipal, a partir das 17h.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/aniversario-de-sao-paulo-te-extensa-programacao-gratuita&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Neste domingo (25), a cidade de São Paulo completa 472 anos.
 E para celebrar a data tão especial foi preparada uma extensa programação cultural, que ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-24 08:20:00</wp:post_date>
       <wp:post_date_gmt>2026-01-24 08:20:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-24 08:20:00</wp:post_modified>
@@ -165,9 +220,9 @@ E para celebrar a data tão especial foi preparada uma extensa programação cul
     <item>
       <title>CNU 2025: resultado da prova discursiva está disponível</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/cnu-2025-resultado-da-prova-discursiva-esta-disponivel</link>
-      <pubDate>Sat, 24 Jan 2026 13:26:41 +0000</pubDate>
+      <pubDate>Sat, 24 Jan 2026 14:14:05 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/cnu-2025-resultado-da-prova-discursiva-esta-disponivel#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/cnu-2025-resultado-da-prova-discursiva-esta-disponivel#1004</guid>
       <description>O resultado preliminar da prova discursiva da segunda edição do Concurso Público Nacional Unificadopode ser consultado.As notas daqueles que particip...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/AFreuTg4jBqwu7KXZgWzKvwrMNU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/05/toms8675.jpg?itok=9PzUC3ZP&quot; alt=&quot;CNU 2025: resultado da prova discursiva está disponível&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O resultado preliminar da prova discursiva da segunda edição do Concurso Público Nacional Unificadopode ser consultado.As notas daqueles que participaram da segunda fase do concursoforam divulgadasem&lt;/p&gt;
@@ -186,7 +241,7 @@ E para celebrar a data tão especial foi preparada uma extensa programação cul
 &lt;p&gt;Ao todo, o chamado Enem dos Concursos registrou761.528inscriçõesconfirmadas, compessoas inscritas de todos os estados brasileiros,de 4.951 municípios. As provas do certame foram aplicadas em dois dias, diferentemente do que ocorreu na primeira edição do concurso unificado, em 2024.&lt;/p&gt;
 &lt;p&gt;De acordo com o cronograma oficial, a previsão de divulgação do resultado, com as listas de classificação (vagas imediatas e lista de espera) é 20 de fevereiro.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-01/cnu-2025-resultado-da-prova-discursiva-esta-disponivel&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O resultado preliminar da prova discursiva da segunda edição do Concurso Público Nacional Unificadopode ser consultado.As notas daqueles que particip...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-24 08:19:00</wp:post_date>
       <wp:post_date_gmt>2026-01-24 08:19:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-24 08:19:00</wp:post_modified>
@@ -212,9 +267,9 @@ E para celebrar a data tão especial foi preparada uma extensa programação cul
     <item>
       <title>&quot;Trump quer criar nova ONU&quot;, diz Lula sobre Conselho de Paz</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/trump-quer-criar-nova-onu-diz-lula-sobre-conselho-de-paz</link>
-      <pubDate>Sat, 24 Jan 2026 13:26:41 +0000</pubDate>
+      <pubDate>Sat, 24 Jan 2026 14:14:05 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/trump-quer-criar-nova-onu-diz-lula-sobre-conselho-de-paz#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/trump-quer-criar-nova-onu-diz-lula-sobre-conselho-de-paz#1005</guid>
       <description>O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira (23) que a política mundial atravessa um momento crítico, “com o multilateralismo send...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/pFbHLa-ESKNYjQpdAgUytLIfrIM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/23/55057701924_70ff941e0c_k.jpg?itok=KV3eIrJP&quot; alt=&quot;&quot;Trump quer criar nova ONU&quot;, diz Lula sobre Conselho de Paz&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira (23) que a política mundial atravessa um momento crítico, “com o multilateralismo sendo jogado fora pelo unilateralismo”. Durante o encerramento do 14º Encontro Nacional do Movimento dos Trabalhadores Rurais Sem Terra (MST), em Salvador,&lt;/p&gt;
@@ -233,7 +288,7 @@ E para celebrar a data tão especial foi preparada uma extensa programação cul
 &lt;p&gt;Lula disse ainda que o Brasil não tem preferência de relação com qualquer país, mas que não vai aceitar “voltar a ser colônia para alguém mandar na gente”.&lt;/p&gt;
 &lt;p&gt;O presidente também criticou a postura de Trump, que, segundo ele, toda vez que aparece na televisão se gaba de ter o exército e as armas mais poderosas do mundo.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/trump-quer-criar-nova-onu-diz-lula-sobre-conselho-de-paz&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira (23) que a política mundial atravessa um momento crítico, “com o multilateralismo send...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-23 20:40:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 20:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 20:40:00</wp:post_modified>
@@ -259,9 +314,9 @@ E para celebrar a data tão especial foi preparada uma extensa programação cul
     <item>
       <title>Carnaval de rua em São Paulo terá mais de 600 blocos</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/prefeitura-de-sp-divulga-programacao-dos-blocos-de-carnaval-de-rua</link>
-      <pubDate>Sat, 24 Jan 2026 13:26:41 +0000</pubDate>
+      <pubDate>Sat, 24 Jan 2026 14:14:05 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/prefeitura-de-sp-divulga-programacao-dos-blocos-de-carnaval-de-rua#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/prefeitura-de-sp-divulga-programacao-dos-blocos-de-carnaval-de-rua#1006</guid>
       <description>A prefeitura da capital paulista disponibilizou nesta sexta-feira (23) a programação dos blocos do carnaval de rua de 2026.
 permite que o folião busq...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jzqHZF8JSVjK25gM0R4WfKh0kOQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/02/0g0a8304.jpg?itok=W5IqtmE2&quot; alt=&quot;Carnaval de rua em São Paulo terá mais de 600 blocos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -271,18 +326,12 @@ permite que o folião busq...</description>
 &lt;p&gt;A programação tem mais de 600 blocos de rua e será atualizada durante o período carnavalesco.&lt;/p&gt;
 &lt;p&gt;“Como é próprio da dinâmica do Carnaval de Rua, podem ocorrer ajustes, alterações de itinerário ou cancelamentos, que são incorporados à plataforma à medida que as informações são validadas, garantindo transparência e dados sempre atualizados ao público”, disse a prefeitura em nota.&lt;/p&gt;
 &lt;p&gt;A administração municipal também implantará totens pela cidadeque permitirão a consulta direta às informações dos blocos por meio de QR Code.&lt;/p&gt;
-&lt;p&gt;Vorcaro cita governador do DF em depoimento; oposição pede impeachment&lt;/p&gt;
+&lt;p&gt;São Paulo realiza Dia D de vacinação contra sarampo e febre amarela&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo na Rádio Nacional: Fluminense e Flamengo se enfrentam pelo Cariocão 2026&lt;/p&gt;
-&lt;p&gt;Cresce presença de idosos em academias&lt;/p&gt;
-&lt;p&gt;Feira Gastronômica em Pinheiros comemora aniversário de 472 anos de SP&lt;/p&gt;
-&lt;p&gt;Prêmio de R$ 63 milhões da Mega-Sena será sorteado neste sábado&lt;/p&gt;
-&lt;p&gt;Aniversário de São Paulo tem extensa programação gratuita&lt;/p&gt;
-&lt;p&gt;CNU 2025: resultado da prova discursiva está disponível&lt;/p&gt;
-&lt;p&gt;&quot;Trump quer criar nova ONU&quot;, diz Lula sobre Conselho de Paz&lt;/p&gt;
-&lt;p&gt;Espanha nega convite para participar de Conselho da Paz&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/prefeitura-de-sp-divulga-programacao-dos-blocos-de-carnaval-de-rua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Cresce presença de idosos em academias&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/prefeitura-de-sp-divulga-programacao-dos-blocos-de-carnaval-de-rua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A prefeitura da capital paulista disponibilizou nesta sexta-feira (23) a programação dos blocos do carnaval de rua de 2026.
 permite que o folião busq...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-23 19:52:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 19:52:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 19:52:00</wp:post_modified>
@@ -308,9 +357,9 @@ permite que o folião busq...</excerpt:encoded>
     <item>
       <title>FGC pagou R$ 26 bi a 67% dos credores do Banco Master</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/fgc-pagou-r-26-bi-67-dos-credores-do-banco-master</link>
-      <pubDate>Sat, 24 Jan 2026 13:26:41 +0000</pubDate>
+      <pubDate>Sat, 24 Jan 2026 14:14:05 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/fgc-pagou-r-26-bi-67-dos-credores-do-banco-master#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/fgc-pagou-r-26-bi-67-dos-credores-do-banco-master#1007</guid>
       <description>© José Cruz/Agência Brasil/Arquivo
 O Fundo Garantidor de Créditos (FGC) já realizou pagamentos de R$ 26 bilhões a 521 mil credores do Banco Master at...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ybvsEizsRx48_5NYTX82taeJvNo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220041_1.jpg?itok=-1jG6u6H&quot; alt=&quot;FGC pagou R$ 26 bi a 67% dos credores do Banco Master&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -328,10 +377,10 @@ O Fundo Garantidor de Créditos (FGC) já realizou pagamentos de R$ 26 bilhões 
 &lt;p&gt;O fundo destacou que, como o Will Bank integra o conglomerado do Banco Master desde agosto de 2024, o limite de cobertura de R$ 250 mil por CPF ou CNPJ não é duplicado. Assim, clientes que já tenham recebido o teto máximo na liquidação de outras instituições do grupo não terão valores adicionais a receber.&lt;/p&gt;
 &lt;p&gt;“O credor que já recebeu o valor limite da garantia de R$ 250 mil não terá novos pagamentos, uma vez que todas as instituições pertencem ao mesmo conglomerado financeiro”, informou o FGC.&lt;/p&gt;
 &lt;p&gt;O Banco Master foi alvo de liquidação extrajudicial em 18 de novembro, no mesmo dia em que seu controlador, Daniel Vorcaro, chegou a ser preso em operação da Polícia Federal que apura suspeitas de fraudes bilionárias. Ele foi posteriormente solto e responde às investigações em liberdade, sob medidas cautelares.&lt;/p&gt;
-&lt;p&gt;Vorcaro cita governador do DF em depoimento; oposição pede impeachment&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/fgc-pagou-r-26-bi-67-dos-credores-do-banco-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;São Paulo realiza Dia D de vacinação contra sarampo e febre amarela&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/fgc-pagou-r-26-bi-67-dos-credores-do-banco-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© José Cruz/Agência Brasil/Arquivo
 O Fundo Garantidor de Créditos (FGC) já realizou pagamentos de R$ 26 bilhões a 521 mil credores do Banco Master at...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-23 19:42:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 19:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 19:42:00</wp:post_modified>
@@ -357,9 +406,9 @@ O Fundo Garantidor de Créditos (FGC) já realizou pagamentos de R$ 26 bilhões 
     <item>
       <title>Bolsa supera 178 mil pontos e tem melhor semana desde abril de 2020</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/bolsa-supera-178-mil-pontos-e-tem-melhor-semana-desde-abril-de-2020</link>
-      <pubDate>Sat, 24 Jan 2026 13:26:41 +0000</pubDate>
+      <pubDate>Sat, 24 Jan 2026 14:14:05 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/bolsa-supera-178-mil-pontos-e-tem-melhor-semana-desde-abril-de-2020#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/bolsa-supera-178-mil-pontos-e-tem-melhor-semana-desde-abril-de-2020#1008</guid>
       <description>© REUTERS/Amanda Perobelli/Proibida reprodução
 Em mais um dia de euforia no mercado financeiro, a bolsa encostou nos 179 mil pontos, voltou a bater r...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2N2T-l_0s5gjnm8D-iQK9pNBgJw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2020-10-01t205311z_1_lynxmpeg9051s_rtroptp_4_bovespa-fecha.jpg?itok=iFGHvvm-&quot; alt=&quot;Bolsa supera 178 mil pontos e tem melhor semana desde abril de 2020&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -375,12 +424,12 @@ Em mais um dia de euforia no mercado financeiro, a bolsa encostou nos 179 mil po
 &lt;p&gt;Mais uma vez, o mercado global assiste a uma fuga de capitais dos Estados Unidos que beneficia países emergentes, como o Brasil. Somente neste mês, até 21 de janeiro, a B3 registrou a entrada líquida (ingressos menos saídas) de R$ 12,35 bilhões. Isso equivale a quase metade dos R$ 25,5 bilhões de saldo positivo registrado em 2025.&lt;/p&gt;
 &lt;p&gt;No caso do dólar, os juros altos no Brasil ajudam a atrair capitais externos, que se aproveitam da forte diferença de taxas diante de economias avançadas.&lt;/p&gt;
 &lt;p&gt;Na próxima semana, o Comitê de Política Monetária (Copom) do Banco Central reúne-se para avaliar o futuro da Taxa Selic, juros básicos da economia, atualmente em 15% ao ano, no maior nível em quase 20 anos.&lt;/p&gt;
-&lt;p&gt;Vorcaro cita governador do DF em depoimento; oposição pede impeachment&lt;/p&gt;
+&lt;p&gt;São Paulo realiza Dia D de vacinação contra sarampo e febre amarela&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo na Rádio Nacional: Fluminense e Flamengo se enfrentam pelo Cariocão 2026&lt;/p&gt;
 &lt;p&gt;Cresce presença de idosos em academias&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/bolsa-supera-178-mil-pontos-e-tem-melhor-semana-desde-abril-de-2020&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Amanda Perobelli/Proibida reprodução
 Em mais um dia de euforia no mercado financeiro, a bolsa encostou nos 179 mil pontos, voltou a bater r...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-23 19:32:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 19:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 19:32:00</wp:post_modified>
@@ -406,9 +455,9 @@ Em mais um dia de euforia no mercado financeiro, a bolsa encostou nos 179 mil po
     <item>
       <title>Oposição no DF pede impeachment de Ibaneis após citação por Vorcaro</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/oposicao-no-df-pede-impeachment-de-ibaneis-apos-citacao-por-vorcaro</link>
-      <pubDate>Sat, 24 Jan 2026 13:26:41 +0000</pubDate>
+      <pubDate>Sat, 24 Jan 2026 14:14:05 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/oposicao-no-df-pede-impeachment-de-ibaneis-apos-citacao-por-vorcaro#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/oposicao-no-df-pede-impeachment-de-ibaneis-apos-citacao-por-vorcaro#1009</guid>
       <description>Partidos de oposição no Distrito Federal protocolaram um pedido de
 contra o governador Ibaneis Rocha, após ele ser citado pelo banqueiro Daniel Vorca...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VVdJsk4bZFFk36NAg3Rtzj_yyVw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/07/0d9a7674_1.jpg?itok=3MCeBtMu&quot; alt=&quot;Oposição no DF pede impeachment de Ibaneis após citação por Vorcaro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -429,7 +478,7 @@ contra o governador Ibaneis Rocha, após ele ser citado pelo banqueiro Daniel Vo
 &lt;p&gt;, o Banco Central (BC) determinou que o BRB faça um provisionamento (reserva para cobrir prejuízos) de pelo menos R$ 2,6 bilhões. Até agora, o BC não confirmou a informação.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/oposicao-no-df-pede-impeachment-de-ibaneis-apos-citacao-por-vorcaro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Partidos de oposição no Distrito Federal protocolaram um pedido de
 contra o governador Ibaneis Rocha, após ele ser citado pelo banqueiro Daniel Vorca...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-23 18:08:00</wp:post_date>
       <wp:post_date_gmt>2026-01-23 18:08:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-23 18:08:00</wp:post_modified>
@@ -450,53 +499,6 @@ contra o governador Ibaneis Rocha, após ele ser citado pelo banqueiro Daniel Vo
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/VVdJsk4bZFFk36NAg3Rtzj_yyVw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/07/0d9a7674_1.jpg?itok=3MCeBtMu</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>MGI chama mais 44 candidatos em lista de espera para curso de formação</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mgi-chama-mais-44-candidatos-em-lista-de-espera-para-curso-de-formacao</link>
-      <pubDate>Sat, 24 Jan 2026 13:26:41 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mgi-chama-mais-44-candidatos-em-lista-de-espera-para-curso-de-formacao#1009</guid>
-      <description>O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) convocou mais 44 candidatos aprovados e classificados em lista de espera da primeira ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0NUi_m2DhUz95aFRIJoEtAmeCds=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/05/toms8664.jpg?itok=4merl2n5&quot; alt=&quot;MGI chama mais 44 candidatos em lista de espera para curso de formação&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) convocou mais 44 candidatos aprovados e classificados em lista de espera da primeira edição do Concurso Público Nacional Unificado (CPNU) para matrícula nos cursos de formação na modalidade presencial de quatro carreiras.&lt;/p&gt;
-&lt;p&gt;com a convocação foi publicado no Diário Oficial da União, desta sexta-feira (23).&lt;/p&gt;
-&lt;p&gt;O Ministério da Gestão explica que a convocação respeita a ordem de classificação no concurso, as preferências indicadas no momento da inscrição e as manifestações de interesse em permanecer na lista de espera.&lt;/p&gt;
-&lt;p&gt;Confira a distribuição das 44 vagas por cargos.&lt;/p&gt;
-&lt;p&gt;· analista de infraestrutura (AIE) – 4 vagas;&lt;/p&gt;
-&lt;p&gt;· analista técnico de políticas sociais (ATPS) – 31 vagas;&lt;/p&gt;
-&lt;p&gt;· especialista em políticas públicas e gestão governamental (EPPGG) – 5 vagas;&lt;/p&gt;
-&lt;p&gt;· analista de comércio exterior (ACE) – 4 vagas.&lt;/p&gt;
-&lt;p&gt;As matrículas devem ser feitas no&lt;/p&gt;
-&lt;p&gt;site da Escola Nacional de Administração Pública&lt;/p&gt;
-&lt;p&gt;(Enap)até às 23 horas e 59 minutos de 28 de janeiro, no horário de Brasília&lt;/p&gt;
-&lt;p&gt;Para realizar a matrícula, a Enap orienta a:&lt;/p&gt;
-&lt;p&gt;Preencher e enviar o formulário corretamente com todos os dados e documentos necessários.&lt;/p&gt;
-&lt;p&gt;O MGI explica que a formação de novos/as integrantes do serviço público está voltada ao desenvolvimento de diversas competências que serão exigidas ao longo da carreira pública.&lt;/p&gt;
-&lt;p&gt;Os cursos de formação são obrigatórios para o preenchimento das vagas e correspondem à terceira e última etapa eliminatória do CNU 2024. Isso significa que a reprovação no curso resulta na eliminação do concurso e a nota obtida no curso será usada na classificação final.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mgi-chama-mais-44-candidatos-em-lista-de-espera-para-curso-de-formacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) convocou mais 44 candidatos aprovados e classificados em lista de espera da primeira ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-23 18:06:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-23 18:06:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-23 18:06:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-23 18:06:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/0NUi_m2DhUz95aFRIJoEtAmeCds=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/05/toms8664.jpg?itok=4merl2n5</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
