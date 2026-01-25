@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 25 Jan 2026 15:14:01 +0000</pubDate>
+    <pubDate>Sun, 25 Jan 2026 16:17:59 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,60 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>IA é a principal preocupação de segurança para os negócios no Brasil</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/ia-e-principal-preocupacao-de-seguranca-para-os-negocios-no-brasil</link>
+      <pubDate>Sun, 25 Jan 2026 16:17:59 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/ia-e-principal-preocupacao-de-seguranca-para-os-negocios-no-brasil#1000</guid>
+      <description>© Reuters/Florence Lo/Proibida reprodução
+de riscos empresariais elaborado pela seguradora corporativa do Grupo Allianz, a Allianz Commercial, mostra...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VWdqOuA1pvmK5S4uVeMgnR5I4u0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2023-07-18t221746z_1_lynxmpej6h0xa_rtroptp_4_tech-ai-autonomous-agents.jpg?itok=qY8rgGB5&quot; alt=&quot;IA é a principal preocupação de segurança para os negócios no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Reuters/Florence Lo/Proibida reprodução&lt;/p&gt;
+&lt;p&gt;de riscos empresariais elaborado pela seguradora corporativa do Grupo Allianz, a Allianz Commercial, mostra que a inteligência artificial é a principal preocupação do setor de negócios no Brasil. Essa é a primeira vez que a IA aparece como o principal risco empresarial apontado pelos executivos brasileiros.&lt;/p&gt;
+&lt;p&gt;Segundo o levantamento, a inteligência artificial segue sendo vista como uma poderosa alavanca estratégica para os negócios, mas também como uma fonte crescente de riscos operacionais, legais e reputacionais, superando a capacidade das empresas de estruturar governança, acompanhar a regulação e preparar adequadamente suas equipes.&lt;/p&gt;
+&lt;p&gt;“Considerando a crescente importância da IA na sociedade e na indústria, não é surpreendente que ela seja o principal fator de variação no Allianz Risk Barometer. Além de trazer enormes oportunidades, seu potencial transformador, aliado à rápida evolução e adoção, está remodelando o cenário de riscos, tornando-se uma preocupação central para empresas”, destacou o CEO da Allianz Commercial, Thomas Lillelund.&lt;/p&gt;
+&lt;p&gt;As principais preocupações apontadas pelos empresários no&lt;/p&gt;
+&lt;p&gt;Inteligência artificial (32% de citações);&lt;/p&gt;
+&lt;p&gt;Mudanças na legislação e regulamentação (28%);&lt;/p&gt;
+&lt;p&gt;Startup cria tecnologia 3D contra o mosquito Aedes aegypti&lt;/p&gt;
+&lt;p&gt;Ouça ao vivo na Rádio Nacional: Fluminense e Flamengo se enfrentam pelo Cariocão 2026&lt;/p&gt;
+&lt;p&gt;Carnaval 2026: RJ tem ensaios técnicos e megabloco&lt;/p&gt;
+&lt;p&gt;Enamed reforça importância de fiscalizar cursos, dizem especialistas&lt;/p&gt;
+&lt;p&gt;IA é a principal preocupação de segurança para os negócios no Brasil&lt;/p&gt;
+&lt;p&gt;Tradicional hotel de luxo é implodido no centro de Brasília&lt;/p&gt;
+&lt;p&gt;Capital paulista tem 2º maior número de mortes no trânsito em 2025&lt;/p&gt;
+&lt;p&gt;Programa Brasil no Mundo debate crise entre Europa e Trump&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/ia-e-principal-preocupacao-de-seguranca-para-os-negocios-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Reuters/Florence Lo/Proibida reprodução
+de riscos empresariais elaborado pela seguradora corporativa do Grupo Allianz, a Allianz Commercial, mostra...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-25 12:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-25 12:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-25 12:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-25 12:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/VWdqOuA1pvmK5S4uVeMgnR5I4u0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2023-07-18t221746z_1_lynxmpej6h0xa_rtroptp_4_tech-ai-autonomous-agents.jpg?itok=qY8rgGB5</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Tradicional hotel de luxo é implodido no centro de Brasília</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/tradicional-hotel-de-luxo-e-implodido-no-centro-de-brasilia</link>
-      <pubDate>Sun, 25 Jan 2026 15:14:01 +0000</pubDate>
+      <pubDate>Sun, 25 Jan 2026 16:17:59 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/tradicional-hotel-de-luxo-e-implodido-no-centro-de-brasilia#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/tradicional-hotel-de-luxo-e-implodido-no-centro-de-brasilia#1001</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 O antigo edifício Torre Palace Hotel, localizado no centro de Brasília, foi implodidoàs 10h01deste domingo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/aZbaRqJCOFH11w3q7NUFS6LkiDM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/25/pzzb7554.jpg?itok=15V73QTO&quot; alt=&quot;Tradicional hotel de luxo é implodido no centro de Brasília&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -43,11 +92,11 @@ O antigo edifício Torre Palace Hotel, localizado no centro de Brasília, foi im
 &lt;p&gt;Startup cria tecnologia 3D contra o mosquito Aedes aegypti&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo na Rádio Nacional: Fluminense e Flamengo se enfrentam pelo Cariocão 2026&lt;/p&gt;
 &lt;p&gt;Carnaval 2026: RJ tem ensaios técnicos e megabloco&lt;/p&gt;
-&lt;p&gt;Tradicional hotel de luxo é implodido no centro de Brasília&lt;/p&gt;
-&lt;p&gt;Capital paulista tem 2º maior número de mortes no trânsito em 2025&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/tradicional-hotel-de-luxo-e-implodido-no-centro-de-brasilia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Enamed reforça importância de fiscalizar cursos, dizem especialistas&lt;/p&gt;
+&lt;p&gt;IA é a principal preocupação de segurança para os negócios no Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/tradicional-hotel-de-luxo-e-implodido-no-centro-de-brasilia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 O antigo edifício Torre Palace Hotel, localizado no centro de Brasília, foi implodidoàs 10h01deste domingo...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-01-25 11:12:00</wp:post_date>
       <wp:post_date_gmt>2026-01-25 11:12:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-25 11:12:00</wp:post_modified>
@@ -73,9 +122,9 @@ O antigo edifício Torre Palace Hotel, localizado no centro de Brasília, foi im
     <item>
       <title>Capital paulista tem 2º maior número de mortes no trânsito em 2025</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/capital-paulista-tem-2o-maior-numero-de-mortes-no-transito-em-2025</link>
-      <pubDate>Sun, 25 Jan 2026 15:14:01 +0000</pubDate>
+      <pubDate>Sun, 25 Jan 2026 16:17:59 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/capital-paulista-tem-2o-maior-numero-de-mortes-no-transito-em-2025#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/capital-paulista-tem-2o-maior-numero-de-mortes-no-transito-em-2025#1002</guid>
       <description>A capital paulista registrou, em 2025, o maior número de mortes no trânsito desde o ano de 2015.
 Foram 1.034 óbitos no ano passado; em 2024, 1.029; e...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DsIwrXeIR4gy_PIXIKSCw7rtQpo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/16/_pin8863.jpg?itok=0riJF60O&quot; alt=&quot;Capital paulista tem 2º maior número de mortes no trânsito em 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +145,7 @@ Foram 1.034 óbitos no ano passado; em 2024, 1.029; e...</description>
 &lt;p&gt;IA é a principal preocupação de segurança para os negócios no Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/capital-paulista-tem-2o-maior-numero-de-mortes-no-transito-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A capital paulista registrou, em 2025, o maior número de mortes no trânsito desde o ano de 2015.
 Foram 1.034 óbitos no ano passado; em 2024, 1.029; e...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-01-25 10:50:00</wp:post_date>
       <wp:post_date_gmt>2026-01-25 10:50:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-25 10:50:00</wp:post_modified>
@@ -122,9 +171,9 @@ Foram 1.034 óbitos no ano passado; em 2024, 1.029; e...</excerpt:encoded>
     <item>
       <title>Programa Brasil no Mundo debate crise entre Europa e Trump</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/programa-brasil-no-mundo-debate-crise-entre-europa-e-trump</link>
-      <pubDate>Sun, 25 Jan 2026 15:14:01 +0000</pubDate>
+      <pubDate>Sun, 25 Jan 2026 16:17:59 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/programa-brasil-no-mundo-debate-crise-entre-europa-e-trump#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/programa-brasil-no-mundo-debate-crise-entre-europa-e-trump#1003</guid>
       <description>Neste domingo (25), aTV Brasilleva ao ar, às 19h30, uma nova edição do programaBrasil no Mundo.
 No estúdio, no Rio de Janeiro, os jornalistas Cristin...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/JgR5swhSgF_UBDEhbqQjrvH8rFg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/23/large.jpg?itok=wIOoACe2&quot; alt=&quot;Programa Brasil no Mundo debate crise entre Europa e Trump&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -137,15 +186,15 @@ No estúdio, no Rio de Janeiro, os jornalistas Cristin...</description>
 &lt;p&gt;Startup cria tecnologia 3D contra o mosquito Aedes aegypti&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo na Rádio Nacional: Fluminense e Flamengo se enfrentam pelo Cariocão 2026&lt;/p&gt;
 &lt;p&gt;Carnaval 2026: RJ tem ensaios técnicos e megabloco&lt;/p&gt;
+&lt;p&gt;IA é a principal preocupação de segurança para os negócios no Brasil&lt;/p&gt;
 &lt;p&gt;Tradicional hotel de luxo é implodido no centro de Brasília&lt;/p&gt;
 &lt;p&gt;Capital paulista tem 2º maior número de mortes no trânsito em 2025&lt;/p&gt;
 &lt;p&gt;Programa Brasil no Mundo debate crise entre Europa e Trump&lt;/p&gt;
 &lt;p&gt;Rádio Nacional transmite Fla-Flu pelo Campeonato Carioca&lt;/p&gt;
-&lt;p&gt;Mega-Sena acumula e prêmio principal vai para R$ 92 milhões&lt;/p&gt;
-&lt;p&gt;Após 7 anos, tragédia de Brumadinho será examinada na Justiça&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/programa-brasil-no-mundo-debate-crise-entre-europa-e-trump&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mega-Sena acumula e prêmio principal vai para R$ 92 milhões&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/programa-brasil-no-mundo-debate-crise-entre-europa-e-trump&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Neste domingo (25), aTV Brasilleva ao ar, às 19h30, uma nova edição do programaBrasil no Mundo.
 No estúdio, no Rio de Janeiro, os jornalistas Cristin...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-25 10:00:00</wp:post_date>
       <wp:post_date_gmt>2026-01-25 10:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-25 10:00:00</wp:post_modified>
@@ -171,9 +220,9 @@ No estúdio, no Rio de Janeiro, os jornalistas Cristin...</excerpt:encoded>
     <item>
       <title>Rádio Nacional transmite Fla-Flu pelo Campeonato Carioca</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/radio-nacional-transmite-fla-flu-pelo-campeonato-carioca</link>
-      <pubDate>Sun, 25 Jan 2026 15:14:01 +0000</pubDate>
+      <pubDate>Sun, 25 Jan 2026 16:17:59 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/radio-nacional-transmite-fla-flu-pelo-campeonato-carioca#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/radio-nacional-transmite-fla-flu-pelo-campeonato-carioca#1004</guid>
       <description>transmite, neste domingo (25), o primeiro Fla-Flu do ano pelo Campeonato Carioca 2026. A jornada esportiva da emissora para Fluminense x Flamengo tem...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/d3PIX8-UeEK4sl09fKmH7FJwKNQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/23/flaflu26.jpg?itok=vEhsf13A&quot; alt=&quot;Rádio Nacional transmite Fla-Flu pelo Campeonato Carioca&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;transmite, neste domingo (25), o primeiro Fla-Flu do ano pelo Campeonato Carioca 2026. A jornada esportiva da emissora para Fluminense x Flamengo tem início às 17h30 e a bola rola às 18h, direto do Maracanã, no Rio de Janeiro.&lt;/p&gt;
@@ -192,7 +241,7 @@ No estúdio, no Rio de Janeiro, os jornalistas Cristin...</excerpt:encoded>
 &lt;p&gt;O vencedor da Taça Rio conquista, além do troféu, vagas na Copa do Brasil de 2027 e na Copa Sul-Sudeste de 2027.&lt;/p&gt;
 &lt;p&gt;Esporte que é paixão do povo brasileiro, o futebol é um dos destaques da programação da&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/radio-nacional-transmite-fla-flu-pelo-campeonato-carioca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>transmite, neste domingo (25), o primeiro Fla-Flu do ano pelo Campeonato Carioca 2026. A jornada esportiva da emissora para Fluminense x Flamengo tem...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-25 09:00:00</wp:post_date>
       <wp:post_date_gmt>2026-01-25 09:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-25 09:00:00</wp:post_modified>
@@ -218,9 +267,9 @@ No estúdio, no Rio de Janeiro, os jornalistas Cristin...</excerpt:encoded>
     <item>
       <title>Mega-Sena acumula e prêmio principal vai para R$ 92 milhões</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-acumula-e-premio-principal-vai-para-r-92-milhoes</link>
-      <pubDate>Sun, 25 Jan 2026 15:14:01 +0000</pubDate>
+      <pubDate>Sun, 25 Jan 2026 16:17:59 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-acumula-e-premio-principal-vai-para-r-92-milhoes#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-acumula-e-premio-principal-vai-para-r-92-milhoes#1005</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 Nenhum apostador acertou as seis dezenas do concurso 2.964 da Mega-Sena, realizado neste sábado (24).
 O prêmio acum...</description>
@@ -237,13 +286,13 @@ O prêmio acum...</description>
 &lt;p&gt;Startup cria tecnologia 3D contra o mosquito Aedes aegypti&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo na Rádio Nacional: Fluminense e Flamengo se enfrentam pelo Cariocão 2026&lt;/p&gt;
 &lt;p&gt;Carnaval 2026: RJ tem ensaios técnicos e megabloco&lt;/p&gt;
+&lt;p&gt;Enamed reforça importância de fiscalizar cursos, dizem especialistas&lt;/p&gt;
 &lt;p&gt;IA é a principal preocupação de segurança para os negócios no Brasil&lt;/p&gt;
-&lt;p&gt;Tradicional hotel de luxo é implodido no centro de Brasília&lt;/p&gt;
-&lt;p&gt;Capital paulista tem 2º maior número de mortes no trânsito em 2025&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-acumula-e-premio-principal-vai-para-r-92-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Tradicional hotel de luxo é implodido no centro de Brasília&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/mega-sena-acumula-e-premio-principal-vai-para-r-92-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Nenhum apostador acertou as seis dezenas do concurso 2.964 da Mega-Sena, realizado neste sábado (24).
 O prêmio acum...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-25 08:18:00</wp:post_date>
       <wp:post_date_gmt>2026-01-25 08:18:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-25 08:18:00</wp:post_modified>
@@ -269,9 +318,9 @@ O prêmio acum...</excerpt:encoded>
     <item>
       <title>Após 7 anos, tragédia de Brumadinho será examinada na Justiça</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/apos-7-anos-tragedia-de-brumadinho-sera-examinada-na-justica</link>
-      <pubDate>Sun, 25 Jan 2026 15:14:01 +0000</pubDate>
+      <pubDate>Sun, 25 Jan 2026 16:17:59 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/apos-7-anos-tragedia-de-brumadinho-sera-examinada-na-justica#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/apos-7-anos-tragedia-de-brumadinho-sera-examinada-na-justica#1006</guid>
       <description>Era uma sexta-feira, Nayara Porto, então com 27 anos, preparava um pudim para o fim de semana, sobremesa preferida do marido Everton Lopes Ferreira, ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/v52t2C0eKQpm4UYotCAzVfCx8t4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/aatrbr7436.jpg?itok=btznlThS&quot; alt=&quot;Após 7 anos, tragédia de Brumadinho será examinada na Justiça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Era uma sexta-feira, Nayara Porto, então com 27 anos, preparava um pudim para o fim de semana, sobremesa preferida do marido Everton Lopes Ferreira, de 32 anos. Após colocar o doce no forno, escutou a vizinha conversando com uma tia sobre a “barragem da Vale” que havia rompido, rememora em referência à barragem de rejeitos da Mina Córrego do Feijão, em Brumadinho, na região metropolitana de Belo Horizonte (MG)&lt;/p&gt;
@@ -290,7 +339,7 @@ O prêmio acum...</excerpt:encoded>
 &lt;p&gt;, Cristina Serra lembra que são três incidentes relacionados a empresas de mineração e que “operam com muita irresponsabilidade, sem levar em conta aspectos essenciais da segurança.” Para ela, as companhias “não investem tanto na segurança da operação, como deveriam, porque querem, claro, sempre aumentar a sua margem de lucro.”&lt;/p&gt;
 &lt;p&gt;A jornalista ainda assinala “outra ponta dessa história” que juntas são responsáveis por esses tipos de desastres: órgãos públicos de fiscalização, “tanto os órgãos estaduais quanto em nível federal”, não exercem de fato seu papel.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/apos-7-anos-tragedia-de-brumadinho-sera-examinada-na-justica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Era uma sexta-feira, Nayara Porto, então com 27 anos, preparava um pudim para o fim de semana, sobremesa preferida do marido Everton Lopes Ferreira, ...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-25 08:00:00</wp:post_date>
       <wp:post_date_gmt>2026-01-25 08:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-25 08:00:00</wp:post_modified>
@@ -316,9 +365,9 @@ O prêmio acum...</excerpt:encoded>
     <item>
       <title>Copa América de Futsal: Brasil empata com Colômbia em estreia difícil</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/copa-america-de-futsal-brasil-empata-com-colombia-em-estreia-dificil</link>
-      <pubDate>Sun, 25 Jan 2026 15:14:01 +0000</pubDate>
+      <pubDate>Sun, 25 Jan 2026 16:17:59 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/copa-america-de-futsal-brasil-empata-com-colombia-em-estreia-dificil#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/copa-america-de-futsal-brasil-empata-com-colombia-em-estreia-dificil#1007</guid>
       <description>A seleção brasileira masculina de futsal teve uma estreia difícil diante da Colômbia na Copa América, disputada em Luque (Paraguai). Após sair atrás ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/X3-7sxeEjkye6v5GeHuBsQeDUlg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/24/bra_col_copa_america_de_futsal.jpg?itok=3D3XWY6A&quot; alt=&quot;Copa América de Futsal: Brasil empata com Colômbia em estreia difícil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A seleção brasileira masculina de futsal teve uma estreia difícil diante da Colômbia na Copa América, disputada em Luque (Paraguai). Após sair atrás no placar, a Amarelinha reagiu: conseguiu empatar e liderou o marcador, mas logo depois cedeu ao empate em 2 a 2. Com o resultado,&lt;/p&gt;
@@ -332,12 +381,12 @@ O prêmio acum...</excerpt:encoded>
 &lt;p&gt;Startup cria tecnologia 3D contra o mosquito Aedes aegypti&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo na Rádio Nacional: Fluminense e Flamengo se enfrentam pelo Cariocão 2026&lt;/p&gt;
 &lt;p&gt;Carnaval 2026: RJ tem ensaios técnicos e megabloco&lt;/p&gt;
+&lt;p&gt;IA é a principal preocupação de segurança para os negócios no Brasil&lt;/p&gt;
 &lt;p&gt;Tradicional hotel de luxo é implodido no centro de Brasília&lt;/p&gt;
 &lt;p&gt;Capital paulista tem 2º maior número de mortes no trânsito em 2025&lt;/p&gt;
-&lt;p&gt;Programa Brasil no Mundo debate crise entre Europa e Trump&lt;/p&gt;
-&lt;p&gt;Rádio Nacional transmite Fla-Flu pelo Campeonato Carioca&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/copa-america-de-futsal-brasil-empata-com-colombia-em-estreia-dificil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Programa Brasil no Mundo debate crise entre Europa e Trump&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/copa-america-de-futsal-brasil-empata-com-colombia-em-estreia-dificil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A seleção brasileira masculina de futsal teve uma estreia difícil diante da Colômbia na Copa América, disputada em Luque (Paraguai). Após sair atrás ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-24 20:28:00</wp:post_date>
       <wp:post_date_gmt>2026-01-24 20:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-24 20:28:00</wp:post_modified>
@@ -363,9 +412,9 @@ O prêmio acum...</excerpt:encoded>
     <item>
       <title>Mostra de Tiradentes exalta bom momento do audiovisual brasileiro</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/mostra-de-tiradentes-exalta-bom-momento-do-audiovisual-brasileiro</link>
-      <pubDate>Sun, 25 Jan 2026 15:14:01 +0000</pubDate>
+      <pubDate>Sun, 25 Jan 2026 16:17:59 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/mostra-de-tiradentes-exalta-bom-momento-do-audiovisual-brasileiro#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/mostra-de-tiradentes-exalta-bom-momento-do-audiovisual-brasileiro#1008</guid>
       <description>A abertura da 29ª edição da Mostra de Cinema de Tiradentes nesta sexta-feira (23) se deu em um clima de celebração do cinema brasileiro em um de seus...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vAVfMDN9icOqgtRx4pqq5cIsAew=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/24/55058553019_64b56cf857_o.jpg?itok=8su2xFXO&quot; alt=&quot;Mostra de Tiradentes exalta bom momento do audiovisual brasileiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A abertura da 29ª edição da Mostra de Cinema de Tiradentes nesta sexta-feira (23) se deu em um clima de celebração do cinema brasileiro em um de seus momentos mais vibrantes.&lt;/p&gt;
@@ -384,7 +433,7 @@ O prêmio acum...</excerpt:encoded>
 &lt;p&gt;Ao mesmo tempo, o documento apontou fragilidades estruturais e a necessidade de uma política sistêmica que articule União, estados e municípios, racionalize processos e potencialize impactos econômicos, culturais e sociais. Entre os desafios elencados estão a regulação dos serviços de streaming, a consolidação de uma política de Estado perene e a garantia de acesso do público brasileiro aos conteúdos nacionais em todas as telas.&lt;/p&gt;
 &lt;p&gt;“Os desafios do audiovisual são desafios da nação brasileira na afirmação de um destino livre, democrático e soberano. Que venha 2026, a nossa marcha continua”, conclui a mensagem do Fórum.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/mostra-de-tiradentes-exalta-bom-momento-do-audiovisual-brasileiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A abertura da 29ª edição da Mostra de Cinema de Tiradentes nesta sexta-feira (23) se deu em um clima de celebração do cinema brasileiro em um de seus...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-24 18:50:00</wp:post_date>
       <wp:post_date_gmt>2026-01-24 18:50:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-24 18:50:00</wp:post_modified>
@@ -410,9 +459,9 @@ O prêmio acum...</excerpt:encoded>
     <item>
       <title>Agentes do ICE matam homem durante protesto em Minneapolis, nos EUA</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/agentes-do-ice-matam-homem-durante-protesto-em-minneapolis-nos-eua</link>
-      <pubDate>Sun, 25 Jan 2026 15:14:01 +0000</pubDate>
+      <pubDate>Sun, 25 Jan 2026 16:17:59 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/agentes-do-ice-matam-homem-durante-protesto-em-minneapolis-nos-eua#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/agentes-do-ice-matam-homem-durante-protesto-em-minneapolis-nos-eua#1009</guid>
       <description>© Reuters/Tim Evans/Proibida reprodução
 Um homem baleado por um agente do Serviço de Imigração e Alfândega dos Estados Unidos (ICE) morreu neste sába...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/N5f5DjruIiMIcRHLzdJNXwpukvg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/24/2026-01-24t181119z_1_lynxmpem0n0e3_rtroptp_4_eua-ice-matam-minneapolis.jpg?itok=pPsMKU_X&quot; alt=&quot;Agentes do ICE matam homem durante protesto em Minneapolis, nos EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -433,7 +482,7 @@ Um homem baleado por um agente do Serviço de Imigração e Alfândega dos Estad
 &lt;p&gt;Um dos casos citados ocorreu na terça-feira (20), em Minneapolis, quando um menino de cinco anos foi detido junto com o pai por agentes de imigração.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/agentes-do-ice-matam-homem-durante-protesto-em-minneapolis-nos-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Tim Evans/Proibida reprodução
 Um homem baleado por um agente do Serviço de Imigração e Alfândega dos Estados Unidos (ICE) morreu neste sába...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-24 15:51:00</wp:post_date>
       <wp:post_date_gmt>2026-01-24 15:51:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-24 15:51:00</wp:post_modified>
@@ -454,55 +503,6 @@ Um homem baleado por um agente do Serviço de Imigração e Alfândega dos Estad
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/N5f5DjruIiMIcRHLzdJNXwpukvg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/24/2026-01-24t181119z_1_lynxmpem0n0e3_rtroptp_4_eua-ice-matam-minneapolis.jpg?itok=pPsMKU_X</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Lei de SC que proíbe cotas raciais é questionada na Justiça</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/lei-de-sc-que-proibe-cotas-raciais-e-questionada-na-justica</link>
-      <pubDate>Sun, 25 Jan 2026 15:14:01 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/lei-de-sc-que-proibe-cotas-raciais-e-questionada-na-justica#1009</guid>
-      <description>© Marcello Casal jr/Agência Brasil
-A nova lei que proíbe cotas raciais em universidades estaduais de Santa Catarina já está sendo questionada na Just...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Lwp_InadQjG8d5cY-Ii4PpGtUJw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dsc_3563.jpg?itok=JHIObj85&quot; alt=&quot;Lei de SC que proíbe cotas raciais é questionada na Justiça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal jr/Agência Brasil&lt;/p&gt;
-&lt;p&gt;A nova lei que proíbe cotas raciais em universidades estaduais de Santa Catarina já está sendo questionada na Justiça.&lt;/p&gt;
-&lt;p&gt;Uma ação popular pedindo a suspensão da norma foi ajuizada pela deputada federal Ana Paula Lima (PT-SC) e pelo presidente do Serviço Brasileiro de Apoio à Micro e Pequena Empresa (Sebrae), Décio Lima.&lt;/p&gt;
-&lt;p&gt;Na ação protocolada na Vara da Fazenda Pública de Florianópolis, na quinta-feira (22), eles argumentam que o estado não tem competência legal para proibir políticas que já foram autorizadas por leis federais e consideradas constitucionais pelo Supremo Tribunal Federal (STF). Ana Paula e Décio Lima pedem a suspensão imediata da lei e, no mérito, a declaração de nulidade, sob o argumento de que a medida é inconstitucional.&lt;/p&gt;
-&lt;p&gt;Eles ainda consideram a medida um retrocesso no combate às desigualdades no acesso ao ensino superior.&lt;/p&gt;
-&lt;p&gt;“Cotas não são privilégios. São instrumentos de justiça social, criados para enfrentar desigualdades históricas e o racismo estrutural que ainda limitam o acesso de milhares de jovens à universidade. Acabar com essas políticas é negar igualdade de oportunidades e comprometer o futuro”, escreveu Ana Paula, em publicação nas redes sociais.&lt;/p&gt;
-&lt;p&gt;Para Décio Lima, a inconstitucionalidade da lei estadual está clara, já que há um normativo federal que estabelece as cotas e precisa ser cumprido em todo o território.&lt;/p&gt;
-&lt;p&gt;“O Brasil precisa interromper esse ciclo histórico de achar que nós temos dois Brasis, um dos brancos e um dos negros”, declarou em vídeo também exibido nas redes sociais.&lt;/p&gt;
-&lt;p&gt;A ação popular também aponta que a lei pode gerar prejuízo financeiro ao próprio estado, ao impor multas a instituições públicas e dificultar o acesso das universidades catarinenses a recursos federais vinculados a programas de inclusão e assistência estudantil.&lt;/p&gt;
-&lt;p&gt;Nesta sexta-feira (23), a juíza Luciana Pelisser Gottardi Trentini deu prazo de 72 horas para que o governo do estado se manifeste sobre o tema.&lt;/p&gt;
-&lt;p&gt;Além de presidente do Sebrae, Décio Lima é um político de Santa Catarina, foi deputado federal pelo estado e prefeito de Blumenau mais de uma vez. É casado com a deputada federal Ana Paula Lima.&lt;/p&gt;
-&lt;p&gt;A Assembleia Legislativa do Estado de Santa Catarina (Alesc) aprovou o&lt;/p&gt;
-&lt;p&gt;projeto de lei em dezembro de 2025&lt;/p&gt;
-&lt;p&gt;, que foi sancionado pelo governador do estado, Jorginho Mello, na forma da&lt;/p&gt;
-&lt;p&gt;De acordo com a lei, universidades públicas estaduais e outras instituições de ensino superior que recebem recursos do governo do estado ficam proibidas de adotarem políticas de reserva de vagas ou qualquer forma de cota ou ação afirmativa, como vagas suplementares e medidas congêneres. A proibição vale para o ingresso de estudantes e de funcionários nos quadros, incluindo professores.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/lei-de-sc-que-proibe-cotas-raciais-e-questionada-na-justica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal jr/Agência Brasil
-A nova lei que proíbe cotas raciais em universidades estaduais de Santa Catarina já está sendo questionada na Just...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-24 15:11:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-24 15:11:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-24 15:11:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-24 15:11:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Lwp_InadQjG8d5cY-Ii4PpGtUJw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dsc_3563.jpg?itok=JHIObj85</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
