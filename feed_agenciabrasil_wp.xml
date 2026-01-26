@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 26 Jan 2026 17:24:34 +0000</pubDate>
+    <pubDate>Mon, 26 Jan 2026 18:25:43 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,160 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Inscrições para concurso da Câmara dos Deputados terminam hoje</title>
+      <link>https://agenciabrasil.ebc.com.br/concursos/noticia/2026-01/inscricoes-para-concurso-da-camara-dos-deputados-terminam-hoje</link>
+      <pubDate>Mon, 26 Jan 2026 18:25:43 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/concursos/noticia/2026-01/inscricoes-para-concurso-da-camara-dos-deputados-terminam-hoje#1000</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+As inscrições para o concurso público da Câmara dos Deputados se encerram às 18h (horário de Brasília) desta segund...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0jWjdCM6qHXTulfU_n58D9I7MtE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/raf00339.jpg?itok=5z00RX4e&quot; alt=&quot;Inscrições para concurso da Câmara dos Deputados terminam hoje&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;As inscrições para o concurso público da Câmara dos Deputados se encerram às 18h (horário de Brasília) desta segunda-feira (26). Interessados devem se inscrever pela&lt;/p&gt;
+&lt;p&gt;São oferecidas 70 vagas imediatas para cargos de nível superior, sendo 35 para analista legislativo, especialidade processo legislativo e gestão; e 35 para técnico legislativo, especialidade assistente legislativo e administrativo.&lt;/p&gt;
+&lt;p&gt;Há ainda 70 vagas em cadastro de reserva.&lt;/p&gt;
+&lt;p&gt;Os candidatos devem ter diploma de curso superior em qualquer área, emitido por instituição reconhecida pelo Ministério da Educação (MEC).&lt;/p&gt;
+&lt;p&gt;A taxa de inscrição é de R$ 100 para o cargo de técnico legislativo e de R$ 130 para o cargo de analista legislativo.&lt;/p&gt;
+&lt;p&gt;O pagamento deve ser feito até a quarta-feira (28) por meio da Guia de Recolhimento da União (GRU Cobrança). O documento inclui QR code para pagamento via Pix.&lt;/p&gt;
+&lt;p&gt;Do total de vagas, 30% são reservadas, sendo 25% para candidatos negros; 3% para candidatos indígenas; e 2% para candidatos quilombolas.&lt;/p&gt;
+&lt;p&gt;Para concorrer às vagas reservadas, a opção deve ser indicada no momento da inscrição, quando o candidato deve se autodeclarar negro (preto ou pardo), indígena ou quilombola.&lt;/p&gt;
+&lt;p&gt;As provas serão aplicadas em todas as capitais do país no dia 8 de março, nos turnos da manhã e da tarde.&lt;/p&gt;
+&lt;p&gt;As provas objetivas terão 90 questões de conhecimentos gerais e 90 questões de conhecimentos específicos.&lt;/p&gt;
+&lt;p&gt;A duração será de 5 horas para a prova objetiva e de 3 horas para a prova discursiva.&lt;/p&gt;
+&lt;p&gt;A remuneração mensal varia de R$ 21.008,19 a R$ 30.853,99, conforme o cargo.&lt;/p&gt;
+&lt;p&gt;A jornada de trabalho é de 40 horas semanais.&lt;/p&gt;
+&lt;p&gt;* Com informações da Agência Câmara&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/concursos/noticia/2026-01/inscricoes-para-concurso-da-camara-dos-deputados-terminam-hoje&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+As inscrições para o concurso público da Câmara dos Deputados se encerram às 18h (horário de Brasília) desta segund...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-26 14:50:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-26 14:50:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-26 14:50:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-26 14:50:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/0jWjdCM6qHXTulfU_n58D9I7MtE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/raf00339.jpg?itok=5z00RX4e</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Rio tem mais de 200 mil famílias contempladas pelo Gás do Povo</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/rio-tem-mais-de-200-mil-familias-contempladas-pelo-gas-do-povo</link>
+      <pubDate>Mon, 26 Jan 2026 18:25:43 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/rio-tem-mais-de-200-mil-familias-contempladas-pelo-gas-do-povo#1001</guid>
+      <description>© Marcello Casal/Agência Brasil
+O governo federal começou, nesta segunda-feira (26), a segunda etapa de implementação do
+medida vai atender 203.994 f...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/-RO0haikWbuizCz_d2cH_JlH8wc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/tmcj_0025.jpg?itok=XTg7piH1&quot; alt=&quot;Rio tem mais de 200 mil famílias contempladas pelo Gás do Povo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello Casal/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O governo federal começou, nesta segunda-feira (26), a segunda etapa de implementação do&lt;/p&gt;
+&lt;p&gt;medida vai atender 203.994 famílias no estado do Rio de Janeiro, por meio do fornecimento gratuito do vale para recarregar o botijão de gás de cozinha.&lt;/p&gt;
+&lt;p&gt;programa do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS), em parceria com o Ministério de Minas e Energia (MME), chega a famílias de 17 capitais brasileiras.&lt;/p&gt;
+&lt;p&gt;As dezessete capitais que não haviam sido contempladas em novembro, na primeira etapa, foram incluídas agora: Aracaju (SE), Boa Vista (RR), Brasília (DF), Campo Grande (MS), Cuiabá (MT), Curitiba (PR), Florianópolis (SC), João Pessoa (PB), Macapá (AP), Maceió (AL), Manaus (AM), Palmas (TO), Porto Velho (RO), Rio Branco (AC), Rio de Janeiro (RJ), São Luís (MA) e Vitória (ES).&lt;/p&gt;
+&lt;p&gt;Em novembro de 2025, foi realizada a primeira concessão do Gás do Povo para quase um milhão de famílias em dez capitais: Belém (PA), Belo Horizonte (MG), Fortaleza (CE), Goiânia (GO), Natal (RN), Porto Alegre (RS), Recife (PE), São Paulo (SP), Salvador (BA) e Teresina (PI).&lt;/p&gt;
+&lt;p&gt;Segundo o governo, com 10 mil pontos de comercialização credenciados em menos de dois meses, uma em cada seis revendas de GLP (gás de cozinha) do país está conectada à iniciativa.&lt;/p&gt;
+&lt;p&gt;Dessa forma, praticamente todas as famílias contam com uma revenda a até 2 quilômetros de sua residência, “numa estratégia que busca eficiência logística e presença territorial, essenciais para combater a pobreza energética.”&lt;/p&gt;
+&lt;p&gt;“O benefício alivia o orçamento familiar dos mais pobres, que podem destinar o dinheiro que gastariam no botijão para comprar alimentos ou suprir outra necessidade básica&quot;, disse, em nota, o ministro do Desenvolvimento e Assistência Social, Família e Combate à Fome, Wellington Dias.&lt;/p&gt;
+&lt;p&gt;A previsão é de que o Gás do Povo esteja em pleno funcionamento em março, quando 15 milhões de famílias (cerca de 50 milhões de pessoas) em todos os 5.571 municípios estarão contemplados. A iniciativa também conta com a participação da Caixa Econômica Federal.&lt;/p&gt;
+&lt;p&gt;“É uma política que leva dignidade, saúde e segurança alimentar a milhões de famílias. Em março, o programa estará em todos os municípios do país, e vai consolidar o maior programa de promoção do cozimento limpo do mundo”, afirmou, em nota, o ministro de Minas e Energia, Alexandre Silveira.&lt;/p&gt;
+&lt;p&gt;Para ser elegível, a família deve ser beneficiária do Bolsa Família com pelo menos duas pessoas, ter renda per capita de até meio salário-mínimo e manter o Cadastro Único atualizado nos últimos 24 meses. Além disso, é essencial que o CPF do responsável familiar esteja regular, e que o cadastro não apresente pendências como averiguação cadastral ou indício de óbito.&lt;/p&gt;
+&lt;p&gt;De acordo com o Palácio do Planalto, o custo da recarga e a complexidade de sua distribuição em áreas mais afastadas impediam que muitas residências tivessem acesso à energia limpa e segura. “&lt;/p&gt;
+&lt;p&gt;Com isso, a realidade para muitos era o uso de alternativas precárias, como lenha, carvão e querosene, que expunham mulheres e crianças, principalmente, a ambientes insalubres, marcados por fumaça tóxica e potencial de desenvolver doenças respiratórias, além do perigo de queimaduras”.&lt;/p&gt;
+&lt;p&gt;“Meu Social - Gás do Povo”, as famílias podem verificar se estão elegíveis, conferir a situação do vale e encontrar revendas credenciadas. Também encontram o telefone e endereço de pontos credenciados, caso a pessoa queira ligar para o estabelecimento e tirar dúvidas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/rio-tem-mais-de-200-mil-familias-contempladas-pelo-gas-do-povo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello Casal/Agência Brasil
+O governo federal começou, nesta segunda-feira (26), a segunda etapa de implementação do
+medida vai atender 203.994 f...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-01-26 14:12:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-26 14:12:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-26 14:12:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-26 14:12:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/-RO0haikWbuizCz_d2cH_JlH8wc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/tmcj_0025.jpg?itok=XTg7piH1</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Casos de câncer de pele saltam de 4 mil para mais de 72 mil em 10 anos</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/casos-de-cancer-de-pele-saltam-de-4-mil-para-mais-de-72-mil-em-10-anos</link>
+      <pubDate>Mon, 26 Jan 2026 18:25:43 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/casos-de-cancer-de-pele-saltam-de-4-mil-para-mais-de-72-mil-em-10-anos#1002</guid>
+      <description>© Agência Brasil/Fernando Frazão
+Dados da Sociedade Brasileira de Dermatologia (SBD) mostram que o número de diagnósticos de câncer de pele no Brasil...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xAsn4ZHQEKraP8IA1JS0zm0VtzI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/938696-exame__tng3307.jpg?itok=RjQt-iU_&quot; alt=&quot;Casos de câncer de pele saltam de 4 mil para mais de 72 mil em 10 anos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Agência Brasil/Fernando Frazão&lt;/p&gt;
+&lt;p&gt;Dados da Sociedade Brasileira de Dermatologia (SBD) mostram que o número de diagnósticos de câncer de pele no Brasil saltou de 4.237 em 2014 para 72.728 em 2024. A incidência da doença, segundo a entidade, apresenta um padrão regional claro, com os estados do Sul e do Sudeste concentrando taxas mais elevadas.&lt;/p&gt;
+&lt;p&gt;A projeção nacional, em 2024, foi de 34,27 casos por 100 mil habitantes, ligeiramente abaixo do pico registrado em 2023 (36,28). Em 2024, Espírito Santo (139,37) e Santa Catarina (95,65) lideraram o ranking, seguidos por Rondônia (85,11), que se destacou fora do eixo regional.&lt;/p&gt;
+&lt;p&gt;Para a SBD, os índices refletem uma combinação de fatores, incluindo maior exposição solar, predominância de pessoas de pele clara e envelhecimento populacional.&lt;/p&gt;
+&lt;p&gt;Nas regiões Norte e Nordeste, as taxas permanecem mais baixas, embora estados como Rondônia (85,11) e Ceará (68,64) tenham apresentado elevação em 2024.&lt;/p&gt;
+&lt;p&gt;“Em unidades historicamente marcadas por baixa notificação, como Roraima, Acre e Amapá, o aumento pode indicar avanço na vigilância epidemiológica, ainda que a subnotificação persista, sobretudo em áreas rurais ou de difícil acesso”, avaliou a entidade.&lt;/p&gt;
+&lt;p&gt;A alta de diagnósticos de câncer de pele no país, segundo a SBD, foi mais expressiva a partir de 2018, quando se passou a exigir o preenchimento do Cartão Nacional de Saúde e da Classificação Internacional de Doenças (CID-10) em exames para análise laboratorial de células e tecidos coletados para biópsia.&lt;/p&gt;
+&lt;p&gt;Dados da entidade mostram que usuários do Sistema Único de Saúde (SUS) têm 2,6 vezes mais dificuldade para agendar uma avaliação com dermatologista quando comparados a usuários da saúde privada.&lt;/p&gt;
+&lt;p&gt;Para a SBD, ampliar o diagnóstico precoce do câncer de pele depende do aumento da oferta de consultas na rede pública, uma vez que identificar a doença em estágios iniciais eleva as chances de cura e reduz a necessidade de tratamentos mais complexos.&lt;/p&gt;
+&lt;p&gt;Os números mostram que, no SUS, o volume de consultas dermatológicas retornou ao nível pré-pandemia, após queda acentuada em 2020, passando de 4,04 milhões para 2,36 milh0ões. Nos anos seguintes, houve recuperação gradual, chegando a 3,97 milhões em 2024, próximo da marca de 2019.&lt;/p&gt;
+&lt;p&gt;Na saúde suplementar, o número de consultas dermatológicas se manteve duas a três vezes acima do SUS, ultrapassando 10 milhões em 2019 e em 2024.&lt;/p&gt;
+&lt;p&gt;Ainda de acordo com a SBD, entre 2019 e 2024o número de consultas com especialistas por mil beneficiários variou de 37,96 (2020) a 51,01 (2019), confirmando maior disponibilidade de profissionais no setor privado, onde os usuários tiveram de duas a quase cinco vezes mais acesso a dermatologista.&lt;/p&gt;
+&lt;p&gt;“Em 2020, essa diferença chegou a 3,4 vezes; em 2024, ainda foi 2,6 vezes maior. Embora nem todas as consultas tenham como objetivo o rastreamento do câncer de pele, o maior volume de atendimentos aumenta a chance de identificar lesões suspeitas precocemente”, destacou a entidade.&lt;/p&gt;
+&lt;p&gt;“Como o exame clínico visual é a principal porta de entrada para o diagnóstico, essa diferença de acesso pode influenciar diretamente a evolução da doença, especialmente nos casos de melanoma”, completou.&lt;/p&gt;
+&lt;p&gt;Para a SBD, a desigualdade de acesso reflete diretamente na complexidade do tratamento, já que, quando o diagnóstico do câncer de pele não é precoce, os pacientes comumente precisam de procedimentos mais invasivos e prolongados.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/casos-de-cancer-de-pele-saltam-de-4-mil-para-mais-de-72-mil-em-10-anos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Agência Brasil/Fernando Frazão
+Dados da Sociedade Brasileira de Dermatologia (SBD) mostram que o número de diagnósticos de câncer de pele no Brasil...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-01-26 14:11:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-26 14:11:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-26 14:11:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-26 14:11:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/xAsn4ZHQEKraP8IA1JS0zm0VtzI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/938696-exame__tng3307.jpg?itok=RjQt-iU_</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Ex-presidentes e republicanos criticam Trump por morte em Minneapolis</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/ex-presidentes-e-republicanos-criticam-trump-por-morte-em-minneapolis</link>
-      <pubDate>Mon, 26 Jan 2026 17:24:34 +0000</pubDate>
+      <pubDate>Mon, 26 Jan 2026 18:25:43 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/ex-presidentes-e-republicanos-criticam-trump-por-morte-em-minneapolis#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/ex-presidentes-e-republicanos-criticam-trump-por-morte-em-minneapolis#1003</guid>
       <description>© Reuters/Tim Evans/Proibida reprodução
 morte do norte-americano Alex Pretti
 , de 37 anos, no sábado (24), em Minneapolis, vem gerando uma crescente ...</description>
@@ -40,16 +189,16 @@ morte do norte-americano Alex Pretti
 &lt;p&gt;Clinton fez uma declaração pública sobre o assunto:&lt;/p&gt;
 &lt;p&gt;“Nas últimas semanas, assistimos a cenas horrorosas em Minneapolis e em outras comunidades que nunca acreditei que pudessem acontecer nos EUA. Pessoas, incluindo crianças, foram tiradas de suas casas, locais de trabalho e das ruas por agentes federais mascarados. Manifestantes pacíficos e cidadãos exercitando seu direito constitucional de observar e documentar o trabalho da lei foram presos, espancados, atacados com gás e, mais gravemente, nos casos de Renee Good e Alex Pretti, atingidos e mortos”, criticou Clinton.&lt;/p&gt;
 &lt;p&gt;O ex-presidente do Partido Democrata escreveu também que tudo o que vem acontecendo no país “é inaceitável e deveria ser evitado”. Para Clinton, a situação fica ainda pior quando o governo atual “mente, nos dizendo para não acreditar no que vimos com nossos próprios olhos”.&lt;/p&gt;
+&lt;p&gt;Confira mais informações sobre o assunto no&lt;/p&gt;
 &lt;p&gt;Ele termina sua declaração fazendo um chamado:“Depende de todos nós, que acreditamos na promessa da democracia Americana, tomarmos posição, falar e mostrar que nossa nação ainda pertence a nós o povo.”&lt;/p&gt;
 &lt;p&gt;O também ex-presidente Barack Obama e sua mulher, Michelle, tornaram pública uma declaração sobre as ações do governo norte-americano em Minneapolis que resultaram na morte de Pretti:&lt;/p&gt;
 &lt;p&gt;“O assassinato de Alex Pretti é uma tragédia gigantesca. Deveria ser também um chamado para o despertar de cada americano, independentemente de partido, sobre como os nossos valores centrais como nação estão sob assalto crescente. Agentes da lei e da imigração têm um trabalho difícil. Mas os americanos esperam que eles realizem suas obrigações de uma maneira responsável e dentro da lei, e que atuem junto (e não contra) as forças policiais locais para garantir a segurança pública”, ressaltou Obama.&lt;/p&gt;
 &lt;p&gt;Obama e Michelle, em seu texto, descrevem alguns dos acontecimentos das últimas semanas e dizem que o governo de Trump desinforma sobre as ações do ICE e escala a situação divulgando mentiras sobre as mortes tanto de&lt;/p&gt;
-&lt;p&gt;“Isso tem que parar. Espero que, depois desta tragédia mais recente, autoridades desta administração reconsiderem sua maneira de agir e comecem a encontrar meios de trabalhar de maneira construtiva com o governador Walz e com o prefeito Frey.”&lt;/p&gt;
-&lt;p&gt;A congressista do Partido Democrata Alexandria Ocasio-Cortez se manifestou em suas redes sociais sobre a morte de Petti.“Você está defendendo o assassinato de americanos comuns por exercitarem seus direitos constitucionais. Primeiro foi a mãe de uma criança de seis anos. Agora, um enfermeiro que ajudava veteranos. Ambos com tiros à queima-roupa. Tudo sem pensar e sem remorso. As pessoas não vão se esquecer disso.”&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/ex-presidentes-e-republicanos-criticam-trump-por-morte-em-minneapolis&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;“Isso tem que parar. Espero que, depois desta tragédia mais recente, autoridades desta administração reconsiderem sua maneira de agir e comecem a encontrar meios de trabalhar de maneira construtiva com o governador Walz e com o prefeito Frey.”&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/ex-presidentes-e-republicanos-criticam-trump-por-morte-em-minneapolis&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Tim Evans/Proibida reprodução
 morte do norte-americano Alex Pretti
 , de 37 anos, no sábado (24), em Minneapolis, vem gerando uma crescente ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-26 13:17:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 13:17:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 13:17:00</wp:post_modified>
@@ -75,9 +224,9 @@ morte do norte-americano Alex Pretti
     <item>
       <title>Dia da Educação Ambiental destaca iniciativas de conscientização</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/dia-da-educacao-ambiental-destaca-iniciativas-de-conscientizacao</link>
-      <pubDate>Mon, 26 Jan 2026 17:24:34 +0000</pubDate>
+      <pubDate>Mon, 26 Jan 2026 18:25:43 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/dia-da-educacao-ambiental-destaca-iniciativas-de-conscientizacao#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/dia-da-educacao-ambiental-destaca-iniciativas-de-conscientizacao#1004</guid>
       <description>© Marcelo Camargo/Agência Brasil
 Aos nove anos de idade, Valéria Miranda adora estar em contato com a natureza. Moradora da cidade de Caucaia, no Cea...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LggYIh-ZkMLwWyNdlv3WFNnMixs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1112827-mcamgo_edit_19031807499.jpg?itok=OOr0JjaQ&quot; alt=&quot;Dia da Educação Ambiental destaca iniciativas de conscientização&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -98,7 +247,7 @@ Aos nove anos de idade, Valéria Miranda adora estar em contato com a natureza. 
 &lt;p&gt;Foi a partir dessa compreensão, que Lorena decidiu cursar Biologia no Instituto Federal do Maranhão, em Barreirinhas, onde vive atualmente. Além de se dedicar às atividades no Laboratório de Biodiversidade Aquática, (BioAqua),também passou a atuar como voluntária em iniciativas como a Guardiões do Futuro, promovida pela Fundação Grupo Boticário, que promoveu, em dezembro de 2025, a restauração de 30 hectares de restinga no Parque Nacional dos Lençóis Maranhenses.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/dia-da-educacao-ambiental-destaca-iniciativas-de-conscientizacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 Aos nove anos de idade, Valéria Miranda adora estar em contato com a natureza. Moradora da cidade de Caucaia, no Cea...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-26 12:53:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 12:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 12:53:00</wp:post_modified>
@@ -124,9 +273,9 @@ Aos nove anos de idade, Valéria Miranda adora estar em contato com a natureza. 
     <item>
       <title>Petrobras reduz preço da gasolina em 5,2% a partir desta terça</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/petrobras-reduz-preco-da-gasolina-em-52-partir-desta-terca</link>
-      <pubDate>Mon, 26 Jan 2026 17:24:34 +0000</pubDate>
+      <pubDate>Mon, 26 Jan 2026 18:25:43 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/petrobras-reduz-preco-da-gasolina-em-52-partir-desta-terca#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/petrobras-reduz-preco-da-gasolina-em-52-partir-desta-terca#1005</guid>
       <description>A Petrobras anunciou nesta segunda-feira (26) que vai reduzir em 5,2% o preço da gasolina A vendida às distribuidoras. O novo preço passa a valer a p...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/nhj_ljCtc1RGwwwxUN2AJBc9pjM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_abr4938.jpg?itok=5SyvjBKh&quot; alt=&quot;Petrobras reduz preço da gasolina em 5,2% a partir desta terça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Petrobras anunciou nesta segunda-feira (26) que vai reduzir em 5,2% o preço da gasolina A vendida às distribuidoras. O novo preço passa a valer a partir desta terça-feira (27).&lt;/p&gt;
@@ -142,10 +291,10 @@ Aos nove anos de idade, Valéria Miranda adora estar em contato com a natureza. 
 &lt;p&gt;A Petrobras informou que o preço do diesel vendido às distribuidoras não sofrerá alteração&lt;/p&gt;
 &lt;p&gt;. Desde dezembro de 2022, a redução acumulada no preço do óleo combustível vendido às distribuidoras é de 36,3%, considerando a inflação do período.&lt;/p&gt;
 &lt;p&gt;Semana terá calor no Sul e MS, além de chuva em outras regiões do país&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: Brasil registrou 80 assassinatos de pessoas transexuais e travestis em 2025&lt;/p&gt;
-&lt;p&gt;Tempestade provoca alagamentos no Distrito Federal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/petrobras-reduz-preco-da-gasolina-em-52-partir-desta-terca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Márcia Tauil, Jaime Ernest Dias e João Ferreira lançam a música &quot;A construção de um sonho&quot;&lt;/p&gt;
+&lt;p&gt;Prédio do primeiro hotel de luxo de Brasília é implodido&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/petrobras-reduz-preco-da-gasolina-em-52-partir-desta-terca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Petrobras anunciou nesta segunda-feira (26) que vai reduzir em 5,2% o preço da gasolina A vendida às distribuidoras. O novo preço passa a valer a p...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-26 12:52:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 12:52:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 12:52:00</wp:post_modified>
@@ -171,9 +320,9 @@ Aos nove anos de idade, Valéria Miranda adora estar em contato com a natureza. 
     <item>
       <title>Contas externas têm saldo negativo de US$ 68,8 bilhões em 2025</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/contas-externas-tem-saldo-negativo-de-us-688-bilhoes-em-2025</link>
-      <pubDate>Mon, 26 Jan 2026 17:24:34 +0000</pubDate>
+      <pubDate>Mon, 26 Jan 2026 18:25:43 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/contas-externas-tem-saldo-negativo-de-us-688-bilhoes-em-2025#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/contas-externas-tem-saldo-negativo-de-us-688-bilhoes-em-2025#1006</guid>
       <description>© Marcello Casal JrAgência Brasil
 As contas externas do país registraram saldo negativo em 2025, chegando a US$ 68,791 bilhões, informou o Banco Cent...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/J1IMSI4e9fFQ0EVQOhjK-WtEYqQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco_central_mcajr_abr_0104222273_0.jpg?itok=g_ZaWJLk&quot; alt=&quot;Contas externas têm saldo negativo de US$ 68,8 bilhões em 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -194,7 +343,7 @@ As contas externas do país registraram saldo negativo em 2025, chegando a US$ 6
 &lt;p&gt;O destaque é para a balança comercial, que teve crescimento de US$ 4,7 bilhões.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/contas-externas-tem-saldo-negativo-de-us-688-bilhoes-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 As contas externas do país registraram saldo negativo em 2025, chegando a US$ 68,791 bilhões, informou o Banco Cent...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-26 12:40:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 12:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 12:40:00</wp:post_modified>
@@ -220,9 +369,9 @@ As contas externas do país registraram saldo negativo em 2025, chegando a US$ 6
     <item>
       <title>INSS: pagamento de benefícios de janeiro começa nesta segunda-feira</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/inss-pagamento-de-beneficios-de-janeiro-comeca-nesta-segunda-feira</link>
-      <pubDate>Mon, 26 Jan 2026 17:24:34 +0000</pubDate>
+      <pubDate>Mon, 26 Jan 2026 18:25:43 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/inss-pagamento-de-beneficios-de-janeiro-comeca-nesta-segunda-feira#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/inss-pagamento-de-beneficios-de-janeiro-comeca-nesta-segunda-feira#1007</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 O Instituto Nacional do Seguro Social (INSS) começa a pagar nesta segunda-feira (26) benefícios e auxílios referent...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kUWjhGSC38d6YjdB2BcYNJY4fsM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20231102_131516.jpg?itok=u2CpK60b&quot; alt=&quot;INSS: pagamento de benefícios de janeiro começa nesta segunda-feira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -236,14 +385,11 @@ O Instituto Nacional do Seguro Social (INSS) começa a pagar nesta segunda-feira
 &lt;p&gt;O número do cartão do benefício pode ser acessado pelo site ou&lt;/p&gt;
 &lt;p&gt;, clicando no serviço “extrato de pagamento”. Também é possível obter a informação pelo telefone 135, que funciona de segunda a sábado, das 7h às 22h.&lt;/p&gt;
 &lt;p&gt;Semana terá calor no Sul e MS, além de chuva em outras regiões do país&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: Brasil registrou 80 assassinatos de pessoas transexuais e travestis em 2025&lt;/p&gt;
-&lt;p&gt;Tempestade provoca alagamentos no Distrito Federal&lt;/p&gt;
-&lt;p&gt;Casos de câncer de pele saltam de 4 mil para mais de 72 mil em 10 anos&lt;/p&gt;
-&lt;p&gt;Ex-presidentes e republicanos criticam Trump por morte em Minneapolis&lt;/p&gt;
-&lt;p&gt;Dia da Educação Ambiental destaca iniciativas de conscientização&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/inss-pagamento-de-beneficios-de-janeiro-comeca-nesta-segunda-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Márcia Tauil, Jaime Ernest Dias e João Ferreira lançam a música &quot;A construção de um sonho&quot;&lt;/p&gt;
+&lt;p&gt;Prédio do primeiro hotel de luxo de Brasília é implodido&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/inss-pagamento-de-beneficios-de-janeiro-comeca-nesta-segunda-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 O Instituto Nacional do Seguro Social (INSS) começa a pagar nesta segunda-feira (26) benefícios e auxílios referent...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-26 12:12:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 12:12:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 12:12:00</wp:post_modified>
@@ -269,9 +415,9 @@ O Instituto Nacional do Seguro Social (INSS) começa a pagar nesta segunda-feira
     <item>
       <title>Torcedor é morto por veículo da PM no estádio do Corinthians</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/torcedor-e-morto-por-veiculo-da-pm-no-estadio-do-corinthians</link>
-      <pubDate>Mon, 26 Jan 2026 17:24:34 +0000</pubDate>
+      <pubDate>Mon, 26 Jan 2026 18:25:43 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/torcedor-e-morto-por-veiculo-da-pm-no-estadio-do-corinthians#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/torcedor-e-morto-por-veiculo-da-pm-no-estadio-do-corinthians#1008</guid>
       <description>Um torcedor morreu após ser atropelado por um veículo da tropa de choque da Polícia Militar, na noite deste domingo (25), em Itaquera, no estacioname...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_eG1aaGgA3TCKuKLuz9bylqHUyw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/arena_corinthians.jpg?itok=AegyNs_j&quot; alt=&quot;Torcedor é morto por veículo da PM no estádio do Corinthians&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Um torcedor morreu após ser atropelado por um veículo da tropa de choque da Polícia Militar, na noite deste domingo (25), em Itaquera, no estacionamento da Neo Química Arena, estádio do Corinthians.&lt;/p&gt;
@@ -279,16 +425,16 @@ O Instituto Nacional do Seguro Social (INSS) começa a pagar nesta segunda-feira
 &lt;p&gt;caso foi registrado no 24º Distrito Policial (Ponte Rasa) como homicídio culposo (quando não há intenção de matar) e segue sob investigação.&lt;/p&gt;
 &lt;p&gt;Em nota, a secretaria de Segurança Pública de São Paulo informou que &quot;lamenta a morte&quot; e que foram solicitados exames aos institutos de Criminalística e Médico Legal. Após a conclusão serão tomadas as devidas providências, segundo o órgão.&lt;/p&gt;
 &lt;p&gt;Semana terá calor no Sul e MS, além de chuva em outras regiões do país&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: Brasil registrou 80 assassinatos de pessoas transexuais e travestis em 2025&lt;/p&gt;
-&lt;p&gt;Carnaval 2026: RJ tem ensaios técnicos e megabloco&lt;/p&gt;
+&lt;p&gt;Márcia Tauil, Jaime Ernest Dias e João Ferreira lançam a música &quot;A construção de um sonho&quot;&lt;/p&gt;
+&lt;p&gt;Prédio do primeiro hotel de luxo de Brasília é implodido&lt;/p&gt;
+&lt;p&gt;Inscrições para concurso da Câmara dos Deputados terminam hoje&lt;/p&gt;
+&lt;p&gt;Rio tem mais de 200 mil famílias contempladas pelo Gás do Povo&lt;/p&gt;
+&lt;p&gt;Casos de câncer de pele saltam de 4 mil para mais de 72 mil em 10 anos&lt;/p&gt;
 &lt;p&gt;Ex-presidentes e republicanos criticam Trump por morte em Minneapolis&lt;/p&gt;
 &lt;p&gt;Dia da Educação Ambiental destaca iniciativas de conscientização&lt;/p&gt;
-&lt;p&gt;Petrobras reduz preço da gasolina em 5,2% a partir desta terça&lt;/p&gt;
-&lt;p&gt;Contas externas têm saldo negativo de US$ 68,8 bilhões em 2025&lt;/p&gt;
-&lt;p&gt;INSS: pagamento de benefícios de janeiro começa nesta segunda-feira&lt;/p&gt;
-&lt;p&gt;Torcedor é morto por veículo da PM no estádio do Corinthians&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/torcedor-e-morto-por-veiculo-da-pm-no-estadio-do-corinthians&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Petrobras reduz preço da gasolina em 5,2% a partir desta terça&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/torcedor-e-morto-por-veiculo-da-pm-no-estadio-do-corinthians&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Um torcedor morreu após ser atropelado por um veículo da tropa de choque da Polícia Militar, na noite deste domingo (25), em Itaquera, no estacioname...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-26 10:59:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 10:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 10:59:00</wp:post_modified>
@@ -314,9 +460,9 @@ O Instituto Nacional do Seguro Social (INSS) começa a pagar nesta segunda-feira
     <item>
       <title>Mercado financeiro reduz para 4% projeção de inflação para 2026</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/mercado-financeiro-reduz-para-4-projecao-de-inflacao-para-2026</link>
-      <pubDate>Mon, 26 Jan 2026 17:24:34 +0000</pubDate>
+      <pubDate>Mon, 26 Jan 2026 18:25:43 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/mercado-financeiro-reduz-para-4-projecao-de-inflacao-para-2026#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/mercado-financeiro-reduz-para-4-projecao-de-inflacao-para-2026#1009</guid>
       <description>© Marcello Casal jr/Agência Brasil
 Pela terceira semana consecutiva, o mercado financeiro reduziu as expectativas que tem para a inflação em 2026.
 De...</description>
@@ -339,7 +485,7 @@ De...</description>
       <excerpt:encoded>© Marcello Casal jr/Agência Brasil
 Pela terceira semana consecutiva, o mercado financeiro reduziu as expectativas que tem para a inflação em 2026.
 De...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-26 10:40:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 10:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 10:40:00</wp:post_modified>
@@ -360,151 +506,6 @@ De...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/IuiHBafzvIOBtXEJd-vQ2WkR460=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/economia_ilustracao-5.jpg?itok=TSiQOBb-</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>No Supremo, PF colhe depoimentos no caso da compra do Master pelo BRB</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/no-supremo-pf-colhe-depoimentos-no-caso-da-compra-do-master-pelo-brb</link>
-      <pubDate>Mon, 26 Jan 2026 17:24:34 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/no-supremo-pf-colhe-depoimentos-no-caso-da-compra-do-master-pelo-brb#1007</guid>
-      <description>© Marcello Casal JrAgência Brasil
-A Polícia Federal (PF) começou a ouvir nesta segunda-feira (26) oito pessoas ligadas ao caso do Banco Master. Os de...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/nw_su3Rb1L8xT3qagq9BkwT1KcY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/stf_1908200967.jpg?itok=LHRViyjv&quot; alt=&quot;No Supremo, PF colhe depoimentos no caso da compra do Master pelo BRB&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
-&lt;p&gt;A Polícia Federal (PF) começou a ouvir nesta segunda-feira (26) oito pessoas ligadas ao caso do Banco Master. Os depoimentos ocorrem no Supremo Tribunal Federal (STF), por determinação do relator, ministro Dias Toffoli.As oitivas são sigilosas.&lt;/p&gt;
-&lt;p&gt;Por volta das 8h começou a falar Dario Oswaldo Garcia Júnior, o diretor de Finanças e Controladora do BRB, banco estatal do Distrito Federal (DF) que se envolveu na negociação de ativos fraudulentos que pertenciam ao Master.&lt;/p&gt;
-&lt;p&gt;Mais três depoimentos estão marcados para esta segunda: André Felipe de Oliveira Seixas Maia (diretor de empresa investigada), Henrique Souza e Silva Peretto (empresário) e Alberto Felix de Oliveira (superintendente executivo de Tesouraria do BancoMaster).&lt;/p&gt;
-&lt;p&gt;Na terça (27), será a vez de Robério Cesar Bonfim Mangueira (superintendente de Operações Financeiras do BRB) e Luiz Antonio Bull (diretor de Compliance do BancoMaster).&lt;/p&gt;
-&lt;p&gt;Eles vão falar presencialmente no Supremo Tribunal Federal. Angelo Antonio Ribeiro da Silva, um dos sócios do Master, e o ex-sócio Augusto Ferreira Lima serão ouvidos por videoconferência.&lt;/p&gt;
-&lt;p&gt;A PF informou que apura suspeitas de crimes como organização criminosa; gestão fraudulenta de instituição financeira; induzimento ou manutenção em erro de investidores; uso de informação privilegiada e manipulação de mercado; e lavagem de dinheiro.&lt;/p&gt;
-&lt;p&gt;Os depoimentos são colhidos em apenas dois dias por ordem de Toffoli, o que frustrou o planejamento inicial da PF de realizar as oitavas ao longo de vários dias&lt;/p&gt;
-&lt;p&gt;. Essa é uma das decisões do ministro que desagradaram osinvestigadores.&lt;/p&gt;
-&lt;p&gt;O relator já havia, antes, determinado o envio do material apreendido sobre o caso diretamente para o Supremo, procedimento não usual, já que o mais comum é que os itens sejam primeiro periciados nas dependências da PF. O ministro depois recuou e enviou o material para análise da Procuradoria-Geral da República (PGR).&lt;/p&gt;
-&lt;p&gt;O ministro tem sido alvo de pressões devido àsua condução do processo. Pesam contra Toffoli uma viagem feita por ele num jatinho particular com um dos advogados da causa, quando já era relator do caso.&lt;/p&gt;
-&lt;p&gt;Outra revelação feita pela imprensa foi a ligação de irmãos e de um primo do ministro com um fundo de investimentos aplicado na construção de um resort no Paraná e que tem ligações com o Master.&lt;/p&gt;
-&lt;p&gt;As investigações apuram as circunstâncias em torno da aquisição pelo BRB de carteiras de crédito do Master sem nenhum lastro, ou seja, papeis que prometiam retornos muito acima do mercado, mas na verdade não tinham garantias de pagamento para os credores.&lt;/p&gt;
-&lt;p&gt;A suspeita é que as irregularidades envolvam até R$ 12 bilhões.&lt;/p&gt;
-&lt;p&gt;A suspeita é que diretores e ex-diretores do BRB estejam envolvidos no esquema para maquiar os ativos podres. O banco estatal chegou a negociar a compra do Master, mas o negócio acabou sendo barrado pelo Banco Central.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/no-supremo-pf-colhe-depoimentos-no-caso-da-compra-do-master-pelo-brb&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal JrAgência Brasil
-A Polícia Federal (PF) começou a ouvir nesta segunda-feira (26) oito pessoas ligadas ao caso do Banco Master. Os de...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-01-26 10:39:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-26 10:39:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-26 10:39:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-26 10:39:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/nw_su3Rb1L8xT3qagq9BkwT1KcY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/stf_1908200967.jpg?itok=LHRViyjv</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>CNU 2: começa prazo para contestar nota preliminar da prova discursiva</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/cnu-2-comeca-prazo-para-contestar-nota-preliminar-da-prova-discursiva</link>
-      <pubDate>Mon, 26 Jan 2026 17:24:34 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/cnu-2-comeca-prazo-para-contestar-nota-preliminar-da-prova-discursiva#1008</guid>
-      <description>Começa nesta segunda-feira (26) o período para interposição de eventuais pedidos de revisão das notas da discursiva da segunda edição do Concurso Púb...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ef-bjmMIYpNsIdBBvdfSzx7IZN0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/18/_rbr4366.jpg?itok=VACJ15Nw&quot; alt=&quot;CNU 2: começa prazo para contestar nota preliminar da prova discursiva&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Começa nesta segunda-feira (26) o período para interposição de eventuais pedidos de revisão das notas da discursiva da segunda edição do Concurso Público Nacional Unificado (CPNU 2). O prazo termina na terça-feira (27).&lt;/p&gt;
-&lt;p&gt;A divulgação da nota preliminar da prova discursiva, acompanhada da disponibilização do espelho de correção, foi feita na última sexta-feira (23).&lt;/p&gt;
-&lt;p&gt;Ainda de acordo com o Ministério da Gestão e da Inovação em Serviços Públicos, a divulgação das listas de classificação de candidatos, tanto para vagas imediatas quanto para cadastro em lista de espera, está prevista para 20 de fevereiro.&lt;/p&gt;
-&lt;p&gt;Coordenado pelo pasta em parceria com a Escola Nacional de Administração Pública (Enap) e executado pela Fundação Getúlio Vargas (FGV), o&lt;/p&gt;
-&lt;p&gt;CPNU conta com 3.652 vagas distribuídas entre 32 órgãos federais.&lt;/p&gt;
-&lt;p&gt;Outras informações sobre o exame podem ser conferidas no&lt;/p&gt;
-&lt;p&gt;Semana terá calor no Sul e MS, além de chuva em outras regiões do país&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: Brasil registrou 80 assassinatos de pessoas transexuais e travestis em 2025&lt;/p&gt;
-&lt;p&gt;Carnaval 2026: RJ tem ensaios técnicos e megabloco&lt;/p&gt;
-&lt;p&gt;Ex-presidentes e republicanos criticam Trump por morte em Minneapolis&lt;/p&gt;
-&lt;p&gt;Dia da Educação Ambiental destaca iniciativas de conscientização&lt;/p&gt;
-&lt;p&gt;Petrobras reduz preço da gasolina em 5,2% a partir desta terça&lt;/p&gt;
-&lt;p&gt;Contas externas têm saldo negativo de US$ 68,8 bilhões em 2025&lt;/p&gt;
-&lt;p&gt;INSS: pagamento de benefícios de janeiro começa nesta segunda-feira&lt;/p&gt;
-&lt;p&gt;Torcedor é morto por veículo da PM no estádio do Corinthians&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/cnu-2-comeca-prazo-para-contestar-nota-preliminar-da-prova-discursiva&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Começa nesta segunda-feira (26) o período para interposição de eventuais pedidos de revisão das notas da discursiva da segunda edição do Concurso Púb...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-01-26 10:19:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-26 10:19:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-26 10:19:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-26 10:19:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/ef-bjmMIYpNsIdBBvdfSzx7IZN0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/18/_rbr4366.jpg?itok=VACJ15Nw</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>“Basta de ordens de Washington”, diz presidente interina da Venezuela</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/basta-de-ordens-de-washington-diz-presidente-interina-da-venezuela</link>
-      <pubDate>Mon, 26 Jan 2026 17:24:34 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/basta-de-ordens-de-washington-diz-presidente-interina-da-venezuela#1009</guid>
-      <description>© REUTERS/Leonardo Fernandez Viloria - Proibido reprodução
-Delcy Rodríguez, presidente interina da Venezuela, disse durante um evento neste domingo (...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/svk-7LrlguBo3I8FC_28mQ_GGf4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/26/2026-01-15t204951z_787000833_rc2r1ja7hdv7_rtrmadp_3_usa-venezuela-rodriguez.jpg?itok=5kpbaKNc&quot; alt=&quot;“Basta de ordens de Washington”, diz presidente interina da Venezuela&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Leonardo Fernandez Viloria - Proibido reprodução&lt;/p&gt;
-&lt;p&gt;Delcy Rodríguez, presidente interina da Venezuela, disse durante um evento neste domingo (25) com petroleiros que não deseja mais receber ordens do governo norte-americano.&lt;/p&gt;
-&lt;p&gt;“Já basta de ordens de Washington sobre políticos na Venezuela. Que seja a política Venezuelana que resolva nossas divergências e nossos conflitos internos. Já basta de potências estrangeiras”. Esta declaração de Rodriguez foi registrada e transmitida também pela Telesur, TV estatal venezuelana&lt;/p&gt;
-&lt;p&gt;A reunião com os trabalhadores aconteceu no estado de Anzoátegui.&lt;/p&gt;
-&lt;p&gt;Delcy afirmou ainda que “já custou muito caro à República ter que encarar as consequências do fascismo e extremismo em nosso país”.&lt;/p&gt;
-&lt;p&gt;Desde que sequestrou o presidente Nicolás Maduro, no dia 3 de janeiro, o governo dos Estados Unidos, através de Donald Trump, vem afirmando que está no controle da Venezuela. Os EUA também passaram a gerenciam o petróleo produzido pelo país sul-americano.&lt;/p&gt;
-&lt;p&gt;Desde que Delcy assumiu a presidência houve uma cooperação com o governo Trump, que decidiu manter no poder a vice-presidente de Maduro. A atual mandatária da Venezuela já foi ameaçada por Trump, que afirmou que “se ela não fizer o que é certo, vai pagar um preço muito alto”.&lt;/p&gt;
-&lt;p&gt;Mas o líder norte-americano também já elogiou a presidente venezuelana e até a convidou para uma visita à Casa Branca.&lt;/p&gt;
-&lt;p&gt;Semana terá calor no Sul e MS, além de chuva em outras regiões do país&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: Brasil registrou 80 assassinatos de pessoas transexuais e travestis em 2025&lt;/p&gt;
-&lt;p&gt;Carnaval 2026: RJ tem ensaios técnicos e megabloco&lt;/p&gt;
-&lt;p&gt;Ex-presidentes e republicanos criticam Trump por morte em Minneapolis&lt;/p&gt;
-&lt;p&gt;Dia da Educação Ambiental destaca iniciativas de conscientização&lt;/p&gt;
-&lt;p&gt;Petrobras reduz preço da gasolina em 5,2% a partir desta terça&lt;/p&gt;
-&lt;p&gt;Contas externas têm saldo negativo de US$ 68,8 bilhões em 2025&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-01/basta-de-ordens-de-washington-diz-presidente-interina-da-venezuela&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Leonardo Fernandez Viloria - Proibido reprodução
-Delcy Rodríguez, presidente interina da Venezuela, disse durante um evento neste domingo (...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-26 10:05:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-26 10:05:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-26 10:05:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-26 10:05:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/svk-7LrlguBo3I8FC_28mQ_GGf4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/26/2026-01-15t204951z_787000833_rc2r1ja7hdv7_rtrmadp_3_usa-venezuela-rodriguez.jpg?itok=5kpbaKNc</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
