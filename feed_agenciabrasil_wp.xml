@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Tue, 27 Jan 2026 11:18:16 +0000</pubDate>
+    <pubDate>Tue, 27 Jan 2026 12:33:32 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,105 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Detran de São Paulo tira teste de baliza para exame da CNH</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/detran-de-sao-paulo-tira-teste-de-baliza-para-exame-da-cnh</link>
+      <pubDate>Tue, 27 Jan 2026 12:33:32 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/detran-de-sao-paulo-tira-teste-de-baliza-para-exame-da-cnh#1000</guid>
+      <description>O Departamento Estadual de Trânsito de São Paulo (Detran) retirou o teste de baliza da prova prática para a Carteira Nacional de Habilitação (CNH). A...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/flgiRYYIZzhoybBgyMsBuyskrus=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_2501.jpg?itok=QvwhOIx-&quot; alt=&quot;Detran de São Paulo tira teste de baliza para exame da CNH&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Departamento Estadual de Trânsito de São Paulo (Detran) retirou o teste de baliza da prova prática para a Carteira Nacional de Habilitação (CNH). Além disso, o exame agora pode também ser feito utilizandoveículo com câmbio automático.&lt;/p&gt;
+&lt;p&gt;Essas resoluções entraram em vigor nessa segunda-feira (26) e, segundo o órgão, têm a finalidade de ser “um modelo de avaliação mais moderno, objetivo e focado na condução segura e responsável”.&lt;/p&gt;
+&lt;p&gt;Se acordo com o Detran-SP, as medidas “têmo objetivo de simplificar etapas, reduzir custos e aprimorar a experiência do cidadão”.&lt;/p&gt;
+&lt;p&gt;Outros testes durante a prova continuamvalendo, como conversões à direita e à esquerda, condução segura euso da seta, entre outros.&lt;/p&gt;
+&lt;p&gt;As novas regras fazem parte das mudanças recentes que vêm sendo feitas para tirar ou renovar a CNH. A maior dessas alterações foi o fim da obrigatoriedade de fazer aulas de direção em autoescola.&lt;/p&gt;
+&lt;p&gt;Pelas novas regras divulgadas no fim de 2025, o curso teórico passou a ser gratuito.&lt;/p&gt;
+&lt;p&gt;O governo fornece ao candidato todo o conteúdo de forma digital, mas também é possível frequentar aulas presenciais em autoescolas.&lt;/p&gt;
+&lt;p&gt;Anteriormente era obrigatório fazer 20 horas de aulas práticas, agora só duas horas são necessárias.&lt;/p&gt;
+&lt;p&gt;O candidato, caso queira, também pode frequentar uma autoescola ou contratar instrutores autônomos.&lt;/p&gt;
+&lt;p&gt;Para tirar a CNH, o candidato ainda tem de passar e ser aprovado em dois exames.&lt;/p&gt;
+&lt;p&gt;Carnaval no Recife terá mais de 3 mil atrações em 50 polos da cidade&lt;/p&gt;
+&lt;p&gt;Na estreia, Trio de Ataque aborda Copa do Mundo e clássicos estaduais&lt;/p&gt;
+&lt;p&gt;Iniciativa da Unicamp conecta aluno e pesquisador por meio de cartas&lt;/p&gt;
+&lt;p&gt;Anvisa suspende venda de sal grosso e pó para decoração&lt;/p&gt;
+&lt;p&gt;Detran de São Paulo tira teste de baliza para exame da CNH&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/detran-de-sao-paulo-tira-teste-de-baliza-para-exame-da-cnh&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Departamento Estadual de Trânsito de São Paulo (Detran) retirou o teste de baliza da prova prática para a Carteira Nacional de Habilitação (CNH). A...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-27 08:42:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-27 08:42:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-27 08:42:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-27 08:42:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/flgiRYYIZzhoybBgyMsBuyskrus=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_2501.jpg?itok=QvwhOIx-</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Macaé diz que carta de princípios dos direitos humanos foi &quot;rifada&quot;</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/macae-diz-que-carta-de-principios-dos-direitos-humanos-foi-rifada</link>
+      <pubDate>Tue, 27 Jan 2026 12:33:32 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/macae-diz-que-carta-de-principios-dos-direitos-humanos-foi-rifada#1001</guid>
+      <description>A ministra dos Direitos Humanos e da Cidadania, Macaé Evaristo, disse, na noite dessa segunda-feira (26), que a Carta de Princípios dos Direitos Huma...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QYwd-M8z3pXVtcG12tTxfNZ_Scg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/01/lula8648.jpg?itok=SQEwGo-8&quot; alt=&quot;Macaé diz que carta de princípios dos direitos humanos foi &quot;rifada&quot;&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A ministra dos Direitos Humanos e da Cidadania, Macaé Evaristo, disse, na noite dessa segunda-feira (26), que a Carta de Princípios dos Direitos Humanos foi “rifada” por grupos que detêm o poder em determinados países.&lt;/p&gt;
+&lt;p&gt;De acordo com a ministra, conceitos como a democracia estão sendo usados para impor a autoridade dos mais fortes sobre os mais fracos.&lt;/p&gt;
+&lt;p&gt;“Nós estamos num momento da história do mundo em que aquele acordo da nossa carta de princípios dos direitos humanos foi, eu vou usar a palavra popular, rifado por grupos que hoje detêm a hegemonia no poder em determinados países”, disse.&lt;/p&gt;
+&lt;p&gt;“Acham que vamos esquecer tudo o que a gente combinou e pactuou até aqui, da necessidade de respeito à soberania, à autodeterminação dos povos, e vão impor a lei do mais forte”, acrescentou.&lt;/p&gt;
+&lt;p&gt;A ministra deu as declarações na Casa do Povo, no Bairro do Bom Retiro, na capital paulista.&lt;/p&gt;
+&lt;p&gt;O centro cultural foi construído pela comunidade judaica após a Segunda Guerra Mundial e inaugurado em 1953 em memória às vítimas do nazismo. O local foi também lugar de resistência contra a ditadura militar.&lt;/p&gt;
+&lt;p&gt;Durante a tarde, Macaé Evaristo visitou instituições da comunidade judaica sediadas no Bom Retiro, como o Memorial do Holocausto e instituição beneficente Ten Yad, e fez uma caminhada pela região, marcada por uma série de violações aos direitos humanos.&lt;/p&gt;
+&lt;p&gt;“Esse território é marcado por tantas violências, despejo das pessoas da Favela do Moinho, despejo do Teatro de Container, despejo de populações vulneráveis, ataque a pessoas em situação de rua”, destacou o diretor da Casa do Povo, Benjamin Seroussi.&lt;/p&gt;
+&lt;p&gt;“É a nossa história judaica que nos traz até o momento presente. Não podemos discutir o antissemitismo sem discutir outras formas de opressões ainda mais agudas, infelizmente, no território onde vivemos”, acrescentou.&lt;/p&gt;
+&lt;p&gt;Carnaval no Recife terá mais de 3 mil atrações em 50 polos da cidade&lt;/p&gt;
+&lt;p&gt;Na estreia, Trio de Ataque aborda Copa do Mundo e clássicos estaduais&lt;/p&gt;
+&lt;p&gt;Iniciativa da Unicamp conecta aluno e pesquisador por meio de cartas&lt;/p&gt;
+&lt;p&gt;Anvisa suspende venda de sal grosso e pó para decoração&lt;/p&gt;
+&lt;p&gt;Detran de São Paulo tira teste de baliza para exame da CNH&lt;/p&gt;
+&lt;p&gt;Austrália: bombeiros ordenam que moradores evacuem centenas de casas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-01/macae-diz-que-carta-de-principios-dos-direitos-humanos-foi-rifada&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A ministra dos Direitos Humanos e da Cidadania, Macaé Evaristo, disse, na noite dessa segunda-feira (26), que a Carta de Princípios dos Direitos Huma...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-01-27 08:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-27 08:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-27 08:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-27 08:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/QYwd-M8z3pXVtcG12tTxfNZ_Scg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/01/lula8648.jpg?itok=SQEwGo-8</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>TV Brasil transmite duelo entre Desportiva Ferroviária e Rio Branco ES</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/tv-brasil-transmite-duelo-entre-desportiva-ferroviaria-e-rio-branco-es</link>
-      <pubDate>Tue, 27 Jan 2026 11:18:16 +0000</pubDate>
+      <pubDate>Tue, 27 Jan 2026 12:33:32 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/tv-brasil-transmite-duelo-entre-desportiva-ferroviaria-e-rio-branco-es#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/tv-brasil-transmite-duelo-entre-desportiva-ferroviaria-e-rio-branco-es#1002</guid>
       <description>ATV Brasilexibe, nesta terça-feira (27), o confronto entre Desportiva Ferroviária e RioBranco-ESpelo Campeonato Capixaba 2026.
 A partida vai ao ar pa...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kFqD3m1jq05Zt_u91Jn-L2UtO6s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/26/large.jpg?itok=lwNTTgqh&quot; alt=&quot;TV Brasil transmite duelo entre Desportiva Ferroviária e Rio Branco ES&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -40,14 +134,14 @@ A partida vai ao ar pa...</description>
 &lt;p&gt;Além do título estadual, a competição garante vagas em torneios nacionais. O campeão assegura participação na Copas doBrasil,além da Série D do Campeonato Brasileiro de 2027. O vice-campeãotambémconquista vaga na Copa do Brasil.&lt;/p&gt;
 &lt;p&gt;),também exibejogos de outrostrêscampeonatos estaduais de futebol. Estão confirmados na programação os confrontos pela disputa dos Campeonatos Baiano, Capixaba,CearenseeParaense.&lt;/p&gt;
 &lt;p&gt;As transmissões na telinha para todo o país serão geradas a partir das emissoras parceiras que integram a RNCP. A cobertura das partidas nos estádios, a narração e os comentários serão feitospelas equipes dos canais dosestados: TVE Bahia,TV Cultura do Pará,TVE Espírito Santo e TV Ceará.&lt;/p&gt;
-&lt;p&gt;Violinista do Pará brilha no Festival Internacional Sesc de Música&lt;/p&gt;
+&lt;p&gt;Carnaval no Recife terá mais de 3 mil atrações em 50 polos da cidade&lt;/p&gt;
 &lt;p&gt;Na estreia, Trio de Ataque aborda Copa do Mundo e clássicos estaduais&lt;/p&gt;
 &lt;p&gt;Iniciativa da Unicamp conecta aluno e pesquisador por meio de cartas&lt;/p&gt;
-&lt;p&gt;Macaé diz que carta de princípios dos direitos humanos foi &quot;rifada&quot;&lt;/p&gt;
-&lt;p&gt;Índia e UE finalizam acordo comercial histórico, diz primeiro-ministro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/tv-brasil-transmite-duelo-entre-desportiva-ferroviaria-e-rio-branco-es&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Anvisa suspende venda de sal grosso e pó para decoração&lt;/p&gt;
+&lt;p&gt;Detran de São Paulo tira teste de baliza para exame da CNH&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-01/tv-brasil-transmite-duelo-entre-desportiva-ferroviaria-e-rio-branco-es&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>ATV Brasilexibe, nesta terça-feira (27), o confronto entre Desportiva Ferroviária e RioBranco-ESpelo Campeonato Capixaba 2026.
 A partida vai ao ar pa...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-01-27 07:28:00</wp:post_date>
       <wp:post_date_gmt>2026-01-27 07:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-27 07:28:00</wp:post_modified>
@@ -73,9 +167,9 @@ A partida vai ao ar pa...</excerpt:encoded>
     <item>
       <title>Caixa paga Bolsa Família a beneficiários com NIS de final 7</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-7</link>
-      <pubDate>Tue, 27 Jan 2026 11:18:16 +0000</pubDate>
+      <pubDate>Tue, 27 Jan 2026 12:33:32 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-7#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-7#1003</guid>
       <description>A Caixa Econômica Federal paga nesta terça-feira (27) a parcela de janeiro do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6hal1CZXmZPSYDWyX8cizBHqJKg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53627831958_d07fd20bf4_o.jpg?itok=Dl_U8dep&quot; alt=&quot;Caixa paga Bolsa Família a beneficiários com NIS de final 7&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Caixa Econômica Federal paga nesta terça-feira (27) a parcela de janeiro do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 7.&lt;/p&gt;
@@ -94,7 +188,7 @@ A partida vai ao ar pa...</excerpt:encoded>
 &lt;p&gt;A mudança foi estabelecida pela Lei 14.601/2023&lt;/p&gt;
 &lt;p&gt;, que resgatou o Programa Bolsa Família (PBF). O Seguro Defeso é pago a pessoas que sobrevivem exclusivamente da pesca artesanal e que não podem exercer a atividade durante o período da piracema (reprodução dos peixes).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-7&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Caixa Econômica Federal paga nesta terça-feira (27) a parcela de janeiro do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-27 07:02:00</wp:post_date>
       <wp:post_date_gmt>2026-01-27 07:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-27 07:02:00</wp:post_modified>
@@ -120,9 +214,9 @@ A partida vai ao ar pa...</excerpt:encoded>
     <item>
       <title>Brumadinho: Corte alemã marca audiências em ação contra TÜV SÜD AG</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/brumadinho-corte-alema-marca-audiencias-em-acao-contra-TUV-SUD-AG</link>
-      <pubDate>Tue, 27 Jan 2026 11:18:16 +0000</pubDate>
+      <pubDate>Tue, 27 Jan 2026 12:33:32 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/brumadinho-corte-alema-marca-audiencias-em-acao-contra-TUV-SUD-AG#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/brumadinho-corte-alema-marca-audiencias-em-acao-contra-TUV-SUD-AG#1004</guid>
       <description>© REUTERS/Washington Alves/Direitos Reservados
 O Tribunal Distrital de Munique, na Alemanha, marcou três audiências do processo movido por 1,4 mil ví...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ii8MgRXMEcM2gfMsCIhcRAVaBG4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2019-01-25t211519z_255758404_rc1b72435800_rtrmadp_3_brazil-vale-sa-disaster.jpg?itok=pHsePQrN&quot; alt=&quot;Brumadinho: Corte alemã marca audiências em ação contra TÜV SÜD AG&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -143,7 +237,7 @@ O Tribunal Distrital de Munique, na Alemanha, marcou três audiências do proces
 &lt;p&gt;Para o MAB houve negligência deliberada por parte da mineradora Vale e da certificadora alemã.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/brumadinho-corte-alema-marca-audiencias-em-acao-contra-TUV-SUD-AG&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Washington Alves/Direitos Reservados
 O Tribunal Distrital de Munique, na Alemanha, marcou três audiências do processo movido por 1,4 mil ví...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-26 20:10:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 20:10:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 20:10:00</wp:post_modified>
@@ -169,9 +263,9 @@ O Tribunal Distrital de Munique, na Alemanha, marcou três audiências do proces
     <item>
       <title>Ministro cobra solução para vazamento de água em minas da Vale</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/ministro-cobra-solucao-para-vazamento-de-agua-em-minas-da-vale</link>
-      <pubDate>Tue, 27 Jan 2026 11:18:16 +0000</pubDate>
+      <pubDate>Tue, 27 Jan 2026 12:33:32 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/ministro-cobra-solucao-para-vazamento-de-agua-em-minas-da-vale#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/ministro-cobra-solucao-para-vazamento-de-agua-em-minas-da-vale#1005</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O ministro de Minas e Energia, Alexandre Silveira, enviou nesta segunda-feira (26) um ofício à Agência Nacional de M...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/F2buRuhp5eu_BZ7-cZC9j2ho8J4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/25/cnpe-mc_abr_25062025-4.jpg?itok=BA_cWQeI&quot; alt=&quot;Ministro cobra solução para vazamento de água em minas da Vale&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -192,7 +286,7 @@ O ministro de Minas e Energia, Alexandre Silveira, enviou nesta segunda-feira (2
 &lt;p&gt;Já a Vale informou, por meio de um comunicado ao mercado, que os extravasamentos de água identificados nas minas de Congonhas e de Ouro Preto “foram contidos”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-01/ministro-cobra-solucao-para-vazamento-de-agua-em-minas-da-vale&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O ministro de Minas e Energia, Alexandre Silveira, enviou nesta segunda-feira (26) um ofício à Agência Nacional de M...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-26 19:52:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 19:52:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 19:52:00</wp:post_modified>
@@ -218,9 +312,9 @@ O ministro de Minas e Energia, Alexandre Silveira, enviou nesta segunda-feira (2
     <item>
       <title>Governo prorroga até março prazo para pedido de ressarcimento do INSS</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/governo-prorroga-ate-marco-prazo-para-pedido-de-ressarcimento-do-inss</link>
-      <pubDate>Tue, 27 Jan 2026 11:18:16 +0000</pubDate>
+      <pubDate>Tue, 27 Jan 2026 12:33:32 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/governo-prorroga-ate-marco-prazo-para-pedido-de-ressarcimento-do-inss#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/governo-prorroga-ate-marco-prazo-para-pedido-de-ressarcimento-do-inss#1006</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 O governo federal decidiu prorrogar até 20 de março o prazo para que aposentados e pensionistas possam sol...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/rwmoofq5E06exzETp3OzavNDFMQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/09/09052025-pzzb8480.jpg?itok=FC_5knLF&quot; alt=&quot;Governo prorroga até março prazo para pedido de ressarcimento do INSS&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -237,11 +331,11 @@ O governo federal decidiu prorrogar até 20 de março o prazo para que aposentad
 &lt;p&gt;Aplicativo ou site Meu INSS, com login no Portal Gov.br;&lt;/p&gt;
 &lt;p&gt;Telefone 135, com atendimento gratuito de segunda a sábado, das 7h às 22h;&lt;/p&gt;
 &lt;p&gt;Agências dos Correios, que oferecem suporte gratuito em mais de 5 mil unidades.&lt;/p&gt;
-&lt;p&gt;Violinista do Pará brilha no Festival Internacional Sesc de Música&lt;/p&gt;
+&lt;p&gt;Carnaval no Recife terá mais de 3 mil atrações em 50 polos da cidade&lt;/p&gt;
 &lt;p&gt;Na estreia, Trio de Ataque aborda Copa do Mundo e clássicos estaduais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/governo-prorroga-ate-marco-prazo-para-pedido-de-ressarcimento-do-inss&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 O governo federal decidiu prorrogar até 20 de março o prazo para que aposentados e pensionistas possam sol...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-26 19:47:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 19:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 19:47:00</wp:post_modified>
@@ -267,9 +361,9 @@ O governo federal decidiu prorrogar até 20 de março o prazo para que aposentad
     <item>
       <title>Maior coleção de arte afro-brasileira já repatriada chega ao Muncab</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/maior-colecao-de-arte-afro-brasileira-ja-repatriada-chega-ao-muncab</link>
-      <pubDate>Tue, 27 Jan 2026 11:18:16 +0000</pubDate>
+      <pubDate>Tue, 27 Jan 2026 12:33:32 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/maior-colecao-de-arte-afro-brasileira-ja-repatriada-chega-ao-muncab#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/maior-colecao-de-arte-afro-brasileira-ja-repatriada-chega-ao-muncab#1007</guid>
       <description>Um conjunto de 666 obras de 135 artistas afro-brasileiros foi reincorporado nesta segunda-feira(26) ao patrimônio nacional. Maior coleção de arte afr...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LSZpyv_UR24msnL7XrJnBnH97p8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/26/whatsapp_image_2026-01-26_at_19.00.58.jpeg?itok=hUFNJmev&quot; alt=&quot;Maior coleção de arte afro-brasileira já repatriada chega ao Muncab&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Um conjunto de 666 obras de 135 artistas afro-brasileiros foi reincorporado nesta segunda-feira(26) ao patrimônio nacional. Maior coleção de arte afro-brasileira já repatriada ao Brasil, as obras chegaram no dia 12 de janeiro aoMuseu Nacional da Cultura Afro-Brasileira (Muncab), em Salvador.&lt;/p&gt;
@@ -280,15 +374,15 @@ O governo federal decidiu prorrogar até 20 de março o prazo para que aposentad
 &lt;p&gt;“Esses bens culturais retornam como objetos artísticos e como testemunhos vivos da memória afro-brasileira, reforçando a dignidade, a identidade e o pertencimento cultural do povo brasileiro”, afirmou Margareth Menezes.&lt;/p&gt;
 &lt;p&gt;Com a incorporação do novo conjunto, o Muncab passa a abrigar uma das maiores coleções de arte afro-brasileira do país. Para a diretora do MUNCAB, Jamile Coelho, a devolução tem traz a perspectiva de ampliar o conhecimento sobre a produção cultural brasileira, seus bens culturais e o direito à memória e reparação histórica.&lt;/p&gt;
 &lt;p&gt;“Trata-se de uma devolução de profundo valor simbólico e histórico. Essa coleção deixou o Brasil legalmente e retorna por decisão consciente das colecionadoras, que reconheceram a importância de seu retorno à origem. Este acervo fortalece a missão do museu de contar a história do Brasil a partir de perspectivas democráticas, inclusivas e plurais”, afirmou.&lt;/p&gt;
-&lt;p&gt;Violinista do Pará brilha no Festival Internacional Sesc de Música&lt;/p&gt;
+&lt;p&gt;Carnaval no Recife terá mais de 3 mil atrações em 50 polos da cidade&lt;/p&gt;
 &lt;p&gt;Na estreia, Trio de Ataque aborda Copa do Mundo e clássicos estaduais&lt;/p&gt;
 &lt;p&gt;Iniciativa da Unicamp conecta aluno e pesquisador por meio de cartas&lt;/p&gt;
-&lt;p&gt;Índia e UE finalizam acordo comercial histórico, diz primeiro-ministro&lt;/p&gt;
-&lt;p&gt;TV Brasil transmite duelo entre Desportiva Ferroviária e Rio Branco ES&lt;/p&gt;
-&lt;p&gt;Governo quer permitir penas de prisão a partir dos 13 anos na Suécia&lt;/p&gt;
-&lt;p&gt;Caixa paga Bolsa Família a beneficiários com NIS de final 7&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/maior-colecao-de-arte-afro-brasileira-ja-repatriada-chega-ao-muncab&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Anvisa suspende venda de sal grosso e pó para decoração&lt;/p&gt;
+&lt;p&gt;Detran de São Paulo tira teste de baliza para exame da CNH&lt;/p&gt;
+&lt;p&gt;Austrália: bombeiros ordenam que moradores evacuem centenas de casas&lt;/p&gt;
+&lt;p&gt;Macaé diz que carta de princípios dos direitos humanos foi &quot;rifada&quot;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/maior-colecao-de-arte-afro-brasileira-ja-repatriada-chega-ao-muncab&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Um conjunto de 666 obras de 135 artistas afro-brasileiros foi reincorporado nesta segunda-feira(26) ao patrimônio nacional. Maior coleção de arte afr...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-26 19:08:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 19:08:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 19:08:00</wp:post_modified>
@@ -314,9 +408,9 @@ O governo federal decidiu prorrogar até 20 de março o prazo para que aposentad
     <item>
       <title>Entidades vão ao STF para barrar lei de SC que proíbe cotas raciais</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/entidades-vao-ao-stf-para-barrar-lei-de-sc-que-proibe-cotas-raciais</link>
-      <pubDate>Tue, 27 Jan 2026 11:18:16 +0000</pubDate>
+      <pubDate>Tue, 27 Jan 2026 12:33:32 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/entidades-vao-ao-stf-para-barrar-lei-de-sc-que-proibe-cotas-raciais#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/entidades-vao-ao-stf-para-barrar-lei-de-sc-que-proibe-cotas-raciais#1008</guid>
       <description>© Fernando Frazão/Agência Brasil
 A Ordem dos Advogados do Brasil (OAB) e outras entidades protocolaram nesta segunda-feira (26) ações de inconstituci...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hRTMT-AfO4qgb6Ut7p2qMnTcX4Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/27/_d6a9738.jpg?itok=VdBycjSQ&quot; alt=&quot;Entidades vão ao STF para barrar lei de SC que proíbe cotas raciais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -332,12 +426,12 @@ A Ordem dos Advogados do Brasil (OAB) e outras entidades protocolaram nesta segu
 &lt;p&gt;As demais entidades acrescentaram que a Corte também definiu que o país tem o dever de combater o racismo estrutural.&lt;/p&gt;
 &lt;p&gt;&quot;O risco está na manutenção de eficácia dessa lei, o que poderá trazer prejuízos irreversíveis às universidades e, principalmente, à população negra e indígena de Santa Catarina e de todo o país&quot;, argumentaram.&lt;/p&gt;
 &lt;p&gt;As ações serão relatadas pelo ministro Gilmar Mendes. Não há prazo para decisão.&lt;/p&gt;
-&lt;p&gt;Violinista do Pará brilha no Festival Internacional Sesc de Música&lt;/p&gt;
+&lt;p&gt;Importante rota de turismo no Nordeste recebe rede de cobertura móvel&lt;/p&gt;
 &lt;p&gt;Na estreia, Trio de Ataque aborda Copa do Mundo e clássicos estaduais&lt;/p&gt;
 &lt;p&gt;Iniciativa da Unicamp conecta aluno e pesquisador por meio de cartas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/entidades-vao-ao-stf-para-barrar-lei-de-sc-que-proibe-cotas-raciais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 A Ordem dos Advogados do Brasil (OAB) e outras entidades protocolaram nesta segunda-feira (26) ações de inconstituci...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-26 19:04:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 19:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 19:04:00</wp:post_modified>
@@ -363,9 +457,9 @@ A Ordem dos Advogados do Brasil (OAB) e outras entidades protocolaram nesta segu
     <item>
       <title>Autoridades da Índia monitoram reaparecimento do vírus Nipah</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/autoridades-da-india-monitoram-reaparecimento-do-virus-nipah</link>
-      <pubDate>Tue, 27 Jan 2026 11:18:16 +0000</pubDate>
+      <pubDate>Tue, 27 Jan 2026 12:33:32 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/autoridades-da-india-monitoram-reaparecimento-do-virus-nipah#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/autoridades-da-india-monitoram-reaparecimento-do-virus-nipah#1009</guid>
       <description>Autoridades sanitárias da Índia monitoram nos últimos dias um surto do vírus Nipah na província de Bengala Ocidental, onde cinco casos foram confirma...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UC7Pj2Oc1PYZwogPjBXUfa3szbA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2023-09-13t121407z_1_lynxmpej8c0jc_rtroptp_4_india-virus-mortes.jpg?itok=rThkvrXy&quot; alt=&quot;Autoridades da Índia monitoram reaparecimento do vírus Nipah&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Autoridades sanitárias da Índia monitoram nos últimos dias um surto do vírus Nipah na província de Bengala Ocidental, onde cinco casos foram confirmados entre profissionais de saúde de um hospital.&lt;/p&gt;
@@ -384,7 +478,7 @@ A Ordem dos Advogados do Brasil (OAB) e outras entidades protocolaram nesta segu
 &lt;p&gt;Entre os sintomas iniciais estão febre, dor de cabeça, dor muscular, vômitos e dor de garganta. O agravamento pode vir acompanhado de tontura, sonolência, alteração do nível de consciência e sinais neurológicos que indicam encefalite aguda. Algumas pessoas também podem apresentar pneumonia e graves problemas respiratórios.&lt;/p&gt;
 &lt;p&gt;“Essas pessoas normalmente desenvolvem um quadro de encefalite, com queda do estado geral, febre, rebaixamento do nível de consciência e assim por diante. E realmente tem uma taxa de letalidade alta. Infelizmente, não existe vacina nem existe tratamento para esse vírus. O tratamento é simplesmente o tratamento sintomático”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/autoridades-da-india-monitoram-reaparecimento-do-virus-nipah&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Autoridades sanitárias da Índia monitoram nos últimos dias um surto do vírus Nipah na província de Bengala Ocidental, onde cinco casos foram confirma...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-26 19:03:00</wp:post_date>
       <wp:post_date_gmt>2026-01-26 19:03:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-26 19:03:00</wp:post_modified>
@@ -405,102 +499,6 @@ A Ordem dos Advogados do Brasil (OAB) e outras entidades protocolaram nesta segu
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/UC7Pj2Oc1PYZwogPjBXUfa3szbA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2023-09-13t121407z_1_lynxmpej8c0jc_rtroptp_4_india-virus-mortes.jpg?itok=rThkvrXy</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>INSS: em 13 dias, fila nacional iniciou análise de 105 mil benefícios</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/inss-em-13-dias-fila-nacional-iniciou-analise-de-105-mil-beneficios</link>
-      <pubDate>Tue, 27 Jan 2026 11:18:16 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/inss-em-13-dias-fila-nacional-iniciou-analise-de-105-mil-beneficios#1008</guid>
-      <description>O Instituto Nacional do Seguro Social (INSS) iniciou a análise de mais de 105 mil benefícios após adotar a nacionalização da fila de pedidos.
-Os núme...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DHJnRUCh5_B6TUIVeDgNwyCNTfA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/inss_rj_1409201583.jpg?itok=RrbGJTrK&quot; alt=&quot;INSS: em 13 dias, fila nacional iniciou análise de 105 mil benefícios&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Instituto Nacional do Seguro Social (INSS) iniciou a análise de mais de 105 mil benefícios após adotar a nacionalização da fila de pedidos.&lt;/p&gt;
-&lt;p&gt;Os números, divulgados hoje (26) se referem ao período de duas semanas de atividade, a partir de 13 de janeiro, quando a nova modalidade de análise foi adotada.&lt;/p&gt;
-&lt;p&gt;filas do Programa de Gerenciamento de Benefícios (PGB) no INSS deixaram de ser regionais&lt;/p&gt;
-&lt;p&gt;e passram a ser filas nacionais.&lt;/p&gt;
-&lt;p&gt;Com isso mais de 2,5 mil servidores passaram a atuar na análise dos pedidos&lt;/p&gt;
-&lt;p&gt;&quot;Desde a criação da fila nacional, o INSS registrou um total de 105.150 tarefas 'puxadas', ou seja, mais de 105 mil benefícios que tiveram sua análise iniciada. Desse total, 48.574 tarefas já foram finalizadas, representando benefícios concluídos em um curto período. A mobilização conta com a participação de 2.375 servidores empenhados nessa força-tarefa&quot;, informou o INSS.&lt;/p&gt;
-&lt;p&gt;Segundo o instituto, a medida acelerou o reconhecimento de direitos e reduziu o tempo de espera dos segurados.&lt;/p&gt;
-&lt;p&gt;&quot;Com a fila única e em nível nacional, servidores de regiões com menor tempo de espera atuam nos processos de locais onde a demanda é maior. A iniciativa amplia a capacidade de atendimento e promove mais equilíbrio na análise dos pedidos e é fundamental para a redução do tempo de espera pelas análises&quot;, reiterou o órgão.&lt;/p&gt;
-&lt;p&gt;Para o presidente do Instituto, Gilberto Waller, a nacionalização permite ao instituto atuar com mais igualdade e com um maior número de servidores nos casos de maior espera.&lt;/p&gt;
-&lt;p&gt;&quot;Nossa prioridade é atacar a fila de verdade, focando em benefícios como o BPC [Benefício de Prestação Continuada] e os por incapacidade, que representam quase 80% da demanda&quot;, disse.&lt;/p&gt;
-&lt;p&gt;Suspensão do atendimento presencial&lt;/p&gt;
-&lt;p&gt;As agências do Instituto Nacional do Seguro Social (INSS) em todo o país&lt;/p&gt;
-&lt;p&gt;estarão fechadas para atendimento presencial&lt;/p&gt;
-&lt;p&gt;de quarta-feira (28) até sexta-feira (30).&lt;/p&gt;
-&lt;p&gt;O objetivo da interrupção érealizar melhorias programadas nos sistemas previdenciários da Dataprev, empresa responsável pela tecnologia da informação da Previdência Social.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/inss-em-13-dias-fila-nacional-iniciou-analise-de-105-mil-beneficios&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Instituto Nacional do Seguro Social (INSS) iniciou a análise de mais de 105 mil benefícios após adotar a nacionalização da fila de pedidos.
-Os núme...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-01-26 18:42:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-26 18:42:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-26 18:42:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-26 18:42:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/DHJnRUCh5_B6TUIVeDgNwyCNTfA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/inss_rj_1409201583.jpg?itok=RrbGJTrK</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>INSS não deixará de pagar aposentadoria a quem não tem nova identidade</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/inss-nao-deixara-de-pagar-aposentadoria-quem-nao-tem-nova-identidade</link>
-      <pubDate>Tue, 27 Jan 2026 11:18:16 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/inss-nao-deixara-de-pagar-aposentadoria-quem-nao-tem-nova-identidade#1009</guid>
-      <description>As redes sociais foram inundadas nesta segunda-feira (26) com notícias falsas de que o Instituto Nacional do Seguro Social (INSS) deixará de pagar ap...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/gqLSufnbApeN2LqPKC74F383U7E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/10/58685ddf-9bca-46e3-9b3f-2e2fd43fa298.jpg?itok=Hl2GzeQk&quot; alt=&quot;INSS não deixará de pagar aposentadoria a quem não tem nova identidade&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;As redes sociais foram inundadas nesta segunda-feira (26) com notícias falsas de que o Instituto Nacional do Seguro Social (INSS) deixará de pagar aposentadoria a quem não tem a nova Carteira de Identidade Nacional (CIN). Na verdade, nada muda para quem já recebe os benefícios atuais.&lt;/p&gt;
-&lt;p&gt;exige a biometria digital para os pedidos de novos benefícios&lt;/p&gt;
-&lt;p&gt;, sem afetar os benefícios atuais. Na fase atual, a biometria é exigida apenas para os pedidos de futuras aposentadorias e pensões, com o INSS podendo usar os dados biométricos tanto da CIN, como da carteira de habilitação e do título de eleitor.&lt;/p&gt;
-&lt;p&gt;A partir de 1º maio, a biometria digital passará a ser obrigatória para os novos pedidos de salário-maternidade, benefício por incapacidade temporária (antigo auxílio-doença) e pensão por morte.&lt;/p&gt;
-&lt;p&gt;Também a partir dessa data, quem pedir qualquer benefício do INSS e não tiver biometria em nenhum desses documentos precisará emitir a CIN para dar andamento ao pedido.&lt;/p&gt;
-&lt;p&gt;No entanto, as biometrias do título de eleitor e da carteira de motorista continuarão aceitas.&lt;/p&gt;
-&lt;p&gt;Somente a partir de 1º de janeiro de 2028, a CIN será o único documento exigido para pedidos e manutenção de benefícios do INSS.&lt;/p&gt;
-&lt;p&gt;O órgão informará tudo aos segurados por meio do aplicativo e do&lt;/p&gt;
-&lt;p&gt;e também nos postos de atendimento.&lt;/p&gt;
-&lt;p&gt;Segundo o governo federal, aposentados, pensionistas e beneficiários de auxílios em manutenção não precisarão tomar nenhuma providência imediata. A implementação para esse público será gradual e não haverá bloqueio automático de pagamentos.&lt;/p&gt;
-&lt;p&gt;Caso o INSS identifique a necessidade de atualização biométrica de algum beneficiário ativo, o cidadão será comunicado individualmente e com antecedência, sem impacto no recebimento dos valores.&lt;/p&gt;
-&lt;p&gt;Durante todo esse período haverá exceções para a exigência de biometria, baseada na capacidade de os estados emitirem a CIN e na dificuldade de acesso a serviços públicos por alguns grupos.&lt;/p&gt;
-&lt;p&gt;A exigência será dispensada, enquanto não houver alternativas oferecidas pelo poder público, para:&lt;/p&gt;
-&lt;p&gt;•  pessoas com mais de 80 anos;&lt;/p&gt;
-&lt;p&gt;• pessoas com dificuldade de deslocamento por motivo de saúde, mediante comprovação;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/inss-nao-deixara-de-pagar-aposentadoria-quem-nao-tem-nova-identidade&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>As redes sociais foram inundadas nesta segunda-feira (26) com notícias falsas de que o Instituto Nacional do Seguro Social (INSS) deixará de pagar ap...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-26 18:13:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-26 18:13:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-26 18:13:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-26 18:13:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/gqLSufnbApeN2LqPKC74F383U7E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/10/58685ddf-9bca-46e3-9b3f-2e2fd43fa298.jpg?itok=Hl2GzeQk</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
