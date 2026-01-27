@@ -3,9 +3,9 @@
 <channel>
 <title>Notícias Fortaleza - 27/01/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>4 notícias publicadas hoje (4 com conteúdo completo)</description>
+<description>5 notícias publicadas hoje (5 com conteúdo completo)</description>
 <language>pt-br</language>
-<lastBuildDate>Tue, 27 Jan 2026 16:34:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Jan 2026 17:30:46 +0000</lastBuildDate>
 <ttl>60</ttl>
 <item>
 <title>Após dobrar número de vagas ofertadas, Prefeitura entrega certificados para primeira turma formada nos cursos em parceria com a Dell</title>
@@ -52,7 +52,7 @@
 <description>Secretaria Regional 4 realiza segunda chamada do sorteio para ocupação dos boxes da Lagoa do Opaia - Terça, 27 Janeiro 2026 12:03</description>
 <content:encoded><![CDATA[ 
             <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
-                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/Regionais/Lagoa%20do%20Opaia.jpg" alt="Secretaria Regional 4 realiza segunda chamada do sorteio para ocupação dos boxes da Lagoa do Opaia" 
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/2026/Janeiro/3/27%2001%202026%20Lagoa%20do%20Opaia.jpg" alt="Secretaria Regional 4 realiza segunda chamada do sorteio para ocupação dos boxes da Lagoa do Opaia" 
                      style="max-width: 100%; height: auto; border-radius: 4px;">
                 <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
                     Imagem: Prefeitura de Fortaleza
@@ -76,9 +76,53 @@
             </p>
         </div>
          ]]></content:encoded>
-<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/Regionais/Lagoa%20do%20Opaia.jpg" type="image/jpeg" />
-<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/Regionais/Lagoa%20do%20Opaia.jpg" type="image/jpeg" medium="image">
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/2026/Janeiro/3/27%2001%202026%20Lagoa%20do%20Opaia.jpg" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/2026/Janeiro/3/27%2001%202026%20Lagoa%20do%20Opaia.jpg" type="image/jpeg" medium="image">
 <media:title>Secretaria Regional 4 realiza segunda chamada do sorteio para ocupação dos boxes da Lagoa do Opaia</media:title>
+</media:content>
+</item>
+<item>
+<title>Fortaleza é escolhida para Coalizão Nacional de Inteligência Artificial</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/fortaleza-e-escolhida-para-coalizao-nacional-de-inteligencia-artificial</link>
+<guid isPermaLink="false">fortaleza-20260127-4ec856ae9049</guid>
+<pubDate>Tue, 27 Jan 2026 11:07:00 +0000</pubDate>
+<description>Fortaleza é escolhida para Coalizão Nacional de Inteligência Artificial - Terça, 27 Janeiro 2026 11:07</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/ControladoriaOuvidoria/TURISMO_CIIAR-BRASIL.jpeg" alt="Fortaleza é escolhida para Coalizão Nacional de Inteligência Artificial" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>Fortaleza foi selecionada entre 10 cidades brasileiras para integrar a Coalizão de Cidades para a Inteligência Artificial no Brasil (CIIAR Brasil), iniciativa que visa melhorar serviços públicos por meio da adoção de inteligência artificial e tecnologias emergentes de forma ética, responsável e orientada à geração de valor público. O resultado foi publicado nesta segunda-feira (26/01), no <strong><a href="https://ciiar.org/governos-locais-do-brasil-avancam-na-adocao-responsavel-de-inteligencia-artificial-sao-selecionadas-as-primeiras-10-cidades-que-integrarao-a-ciiar-brasil/">portal CIIAR</a></strong>. </p>
+<p>A capital cearense integra o grupo de municípios escolhidos pela Rede de Inovação Local (RIL) e pelo BID Lab, braço de inovação do Banco Interamericano de Desenvolvimento (BID), após chamada pública lançada em novembro de 2025 que recebeu 46 candidaturas.  Além de Fortaleza, foram escolhidas Belém (PA), Florianópolis (SC), Guarujá (SP), João Pessoa (PB), Maringá (PR), Porto Alegre (RS), Recife (PE), Rio de Janeiro (RJ) e Teresina (PI).</p>
+<p>A seleção das dez cidades baseou-se em critérios como maturidade institucional em transformação digital, prioridade à inovação pública, existência de equipes técnicas locais e compromisso político com adoção responsável da IA. Fortaleza participou da seleção com dois projetos desenvolvidos pela Prefeitura de Fortaleza, por meio da Secretaria Municipal das Finanças (Sefin), que usam inteligência artificial e aprendizado de máquina para modernizar a gestão de impostos na Capital.</p>
+<p>O primeiro usa modelos digitais para calcular automaticamente valores de mercado de imóveis, utilizando um cadastro atualizado e georreferenciado, além de um Observatório do Mercado Imobiliário que monitora continuamente os preços de vendas e ofertas em Fortaleza. O sistema consegue verificar se o valor declarado no Imposto sobre a Transmissão de Bens Imóveis (ITBI) está correto e atualizar o IPTU de forma mais precisa. A mudança permite liberar as guias de pagamento do com mais agilidade e garante que o imposto cobrado seja justo, mais transparente e mais eficiente.</p>
+<p>Já o segundo projeto analisa o perfil dos contribuintes do IPTU para identificar o risco de inadimplência, permitindo ações de cobrança e comunicação mais direcionadas e eficientes. As iniciativas integram dados de diferentes fontes, seguem regras de governança e já mostram resultados práticos, como ganhos operacionais e maior previsibilidade nos processos tributários.</p>
+<p>Ao longo de 2026, as cidades escolhidas participarão de uma agenda que inclui intercâmbio entre pares, capacitações temáticas, acompanhamento técnico para projetos e articulação com ecossistemas de inovação. O objetivo é identificar desafios prioritários, explorar soluções tecnológicas e implementar pilotos concretos, gerando evidências para escalar iniciativas bem-sucedidas.</p>
+<p><strong>Inovação na gestão pública</strong></p>
+<p>Desde o início da gestão do prefeito Evandro Leitão, Fortaleza tem adotado diversas ações com estratégias que fortalecem a governança e a inovação. Para a secretária-chefe da Controladoria e Ouvidoria Geral do Município (CGM), Silvia Correia, a escolha da Capital para compor o grupo vem impulsionar as atividades que já vêm sendo desenvolvidas. "Desde o início, temos adotado medidas e estratégias que visam fortalecer o controle e a promoção da inovação, com a implementação de modelos de governança que realmente garantam eficiência e eficácia na gestão pública, e que as ações dessas iniciativas possibilitem benefícios diretamente para a população", destacou Silvia.</p>
+<p>Entre as iniciativas adotadas está o modelo de Governança Digital Sistêmica, que propõe uma abordagem hierárquica e holística em níveis de atuação e decisão. No primeiro nível, está o Comitê de Governança de TIC e Inovação, coordenado pela Controladoria e Ouvidoria Geral do Município (CGM) e com participação de Secretaria de Governo (Segov), Fundação de Ciência Tecnologia e Inovação de Fortaleza (Citinova), Procuradoria Geral do Município (PGM), Instituto de Pesquisa e Planejamento de Fortaleza (Ipplan), Secretaria Planejamento, Orçamento e Gestão (Sepog) e Secretaria da Infraestrutura (Sefin). </p>
+<p>Esse nível é responsável por liderança e direcionamento estratégico, elaboração de políticas e diretrizes de governança de TIC, governança de dados, segurança da informação, infraestrutura tecnológica, pessoal de TIC e inovação, além da avaliação sistêmica de TIC e inovação.</p>
+<p><strong>CIIAR Brasil</strong></p>
+<p>A CIIAR Brasil constitui um espaço colaborativo entre governos locais para fortalecer capacidades institucionais na adoção ética e responsável da inteligência artificial e tecnologias emergentes. O foco está na melhoria da gestão pública e na qualificação dos serviços prestados à população. A iniciativa integra uma estratégia regional do GovTech Connect, programa impulsionado pelo BID Lab e executado pela RIL, com participação da Gobe Ventures como parceira técnica especializada. A CIIAR Brasil passa a integrar uma rede regional de cidades da Argentina, Brasil, Chile e Uruguai que promovem inovação pública baseada em colaboração e aprendizado contínuo.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/fortaleza-e-escolhida-para-coalizao-nacional-de-inteligencia-artificial" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/ControladoriaOuvidoria/TURISMO_CIIAR-BRASIL.jpeg" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/ControladoriaOuvidoria/TURISMO_CIIAR-BRASIL.jpeg" type="image/jpeg" medium="image">
+<media:title>Fortaleza é escolhida para Coalizão Nacional de Inteligência Artificial</media:title>
 </media:content>
 </item>
 <item>
