@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 29/01/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 11:34 UTC</description>
-<lastBuildDate>Thu, 29 Jan 2026 11:34:14 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Thu, 29 Jan 2026 13:04:48 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Vacina contra a gripe da campanha de 2025 estará disponível até 31 de janeiro</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/vacina-contra-a-gripe-da-campanha-de-2025-estara-disponivel-ate-31-de-janeiro</link>
+<guid isPermaLink="false">fortaleza-20260129-1e267a227bfa</guid>
+<pubDate>Thu, 29 Jan 2026 08:50:00 +0000</pubDate>
+<description>Vacina contra a gripe da campanha de 2025 estará disponível até 31 de janeiro - Quinta, 29 Janeiro 2026 08:50</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/2026/Janeiro/3/29%2001%202026%20SMS%20DSC01082.jpeg" alt="Vacina contra a gripe da campanha de 2025 estará disponível até 31 de janeiro" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>Até o dia 31 de janeiro, os postos de saúde de Fortaleza estarão aplicando o imunizante contra a gripe (influenza), da campanha de 2025. A partir desta data, a Prefeitura de Fortaleza recolhe as doses remanescentes, atendendo a recomendação do Ministério da Saúde (MS). A iniciativa integra a preparação para Campanha Nacional de Vacinação contra a Influenza 2026.</p>
+<p>O MS não divulgou o calendário da campanha de 2026, por isso, quem ainda não recebeu a dose de 2025 pode comparecer a uma unidade de saúde até o final deste mês, como alerta a secretária de saúde, Riane Azevedo. “A vacinação da gripe é extremamente importante, principalmente, pois iremos atravessar um período de sazonalidade, com riscos de novos casos de síndrome gripal.”</p>
+<p>De acordo com o fluxo estabelecido nacionalmente, após o recolhimento das doses é necessário aguardar o envio do MS de novos lotes de vacinas, para início da nova campanha em 2026. A iniciativa segue o calendário e as diretrizes do Programa Nacional de Imunizações (PNI).</p>
+<p>A transição segue um protocolo nacional de organização das campanhas anuais, garantindo que a população receba as doses atualizadas, conforme as cepas recomendadas pela Organização Mundial da Saúde (OMS) para o novo ciclo de imunização.</p>
+<p><strong>Balanço da vacinação</strong></p>
+<p>No período de 1º de abril a 31 de dezembro de 2025, Fortaleza aplicou 774.895 doses da vacina contra a influenza em toda a população.<br/><br/>Desse total, 386.091 doses foram destinadas ao publico prioritário, que inclui crianças, gestantes, idosos, trabalhadores da saúde e pessoas com comorbidades.</p>
+<p>Já a população geral, com vacinação ampliada a partir de 20 de maio de 2025, recebeu 388.804 doses.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/vacina-contra-a-gripe-da-campanha-de-2025-estara-disponivel-ate-31-de-janeiro" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/2026/Janeiro/3/29%2001%202026%20SMS%20DSC01082.jpeg" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/2026/Janeiro/3/29%2001%202026%20SMS%20DSC01082.jpeg" type="image/jpeg" medium="image">
+<media:title>Vacina contra a gripe da campanha de 2025 estará disponível até 31 de janeiro</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
