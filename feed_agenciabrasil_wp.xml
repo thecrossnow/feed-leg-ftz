@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Fri, 30 Jan 2026 23:19:08 +0000</pubDate>
+    <pubDate>Sat, 31 Jan 2026 01:18:34 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,160 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>BC aperta regras de provedores de TI para instituições financeiras</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/bc-aperta-regras-de-provedores-de-ti-para-instituicoes-financeiras</link>
+      <pubDate>Sat, 31 Jan 2026 01:18:34 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/bc-aperta-regras-de-provedores-de-ti-para-instituicoes-financeiras#1000</guid>
+      <description>© Marcello Casal JrAgência Brasil
+O Banco Central (BC) promoveu ajustes na regulamentação dos Provedores de Serviços de Tecnologia da Informação (PST...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/15adY8ZKr12NpZ2PrRKtRipWPqI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco_central_mcajr_abr_0104222280_0.jpg?itok=cZ5GbjQe&quot; alt=&quot;BC aperta regras de provedores de TI para instituições financeiras&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
+&lt;p&gt;O Banco Central (BC) promoveu ajustes na regulamentação dos Provedores de Serviços de Tecnologia da Informação (PSTI) que atuam no Sistema Financeiro Nacional (SFN) e no Sistema de Pagamentos Brasileiro (SPB). As mudanças alteram uma&lt;/p&gt;
+&lt;p&gt;resolução editada em setembro de 2025&lt;/p&gt;
+&lt;p&gt;, que trata do credenciamento e da atuação dessas empresas.&lt;/p&gt;
+&lt;p&gt;Segundo o BC, a iniciativa tem como objetivo aperfeiçoar dispositivos da norma vigente, tornando os requisitos mais completos, claros e objetivos.&lt;/p&gt;
+&lt;p&gt;As alterações também tornam o processo de credenciamento mais rigoroso, alinhando as exigências aplicáveis aos PSTI às práticas já adotadas em outros segmentos regulados.&lt;/p&gt;
+&lt;p&gt;Principais mudanças da resolução&lt;/p&gt;
+&lt;p&gt;Capital social e patrimônio líquido&lt;/p&gt;
+&lt;p&gt;O Banco Central poderá exigir, a qualquer momento, valores de capital social e patrimônio líquido superiores aos apresentados no credenciamento inicial, reforçando a capacidade financeira dos provedores.&lt;/p&gt;
+&lt;p&gt;Houve ajustes nos critérios de reputação e capacidade técnica dos administradores, alinhados a outros setores regulados, além da inclusão de definições sobre controle acionário e de novos mecanismos de análise de conformidade.&lt;/p&gt;
+&lt;p&gt;A norma reforça as exigências de governança corporativa, controles internos e compliance, com obrigação de elaboração anual de relatórios e adoção de mecanismos de rastreabilidade.&lt;/p&gt;
+&lt;p&gt;Os procedimentos foram simplificados, tornando o processo mais objetivo e ágil em situações de descumprimento das regras.&lt;/p&gt;
+&lt;p&gt;Ampliação das obrigações de comunicação, incluindo alterações societárias e substituição de administradores.&lt;/p&gt;
+&lt;p&gt;Inclusão de novas hipóteses que autorizam o BC a adotar medidas preventivas, como nos casos de ausência prolongada de diretor responsável.&lt;/p&gt;
+&lt;p&gt;O período para implementação das mudanças foi ampliado de quatro para oito meses, permitindo uma transição mais segura e previsível.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/bc-aperta-regras-de-provedores-de-ti-para-instituicoes-financeiras&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello Casal JrAgência Brasil
+O Banco Central (BC) promoveu ajustes na regulamentação dos Provedores de Serviços de Tecnologia da Informação (PST...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-01-30 20:34:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-30 20:34:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-30 20:34:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-30 20:34:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/15adY8ZKr12NpZ2PrRKtRipWPqI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco_central_mcajr_abr_0104222280_0.jpg?itok=cZ5GbjQe</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Ministério da Saúde diz que vírus Nipah não ameaça o Brasil</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/ministerio-da-saude-diz-que-virus-nipah-nao-ameaca-o-brasil</link>
+      <pubDate>Sat, 31 Jan 2026 01:18:34 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/ministerio-da-saude-diz-que-virus-nipah-nao-ameaca-o-brasil#1001</guid>
+      <description>© Ruslanas Baranauskas/Divulgação
+O Ministério da Saúde explicou nesta sexta-feira (30) que o
+, que teve dois casos confirmados na província indiana ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/df7-vjvcXtynhyD8k9QtR41c0Fg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/27/virus-nipah-e1769515319494.jpg?itok=DQZKuYy_&quot; alt=&quot;Ministério da Saúde diz que vírus Nipah não ameaça o Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Ruslanas Baranauskas/Divulgação&lt;/p&gt;
+&lt;p&gt;O Ministério da Saúde explicou nesta sexta-feira (30) que o&lt;/p&gt;
+&lt;p&gt;, que teve dois casos confirmados na província indiana de Bengala Ocidental, na Índia, tem potencial baixo de causar uma nova pandemia e não representa uma ameaça para o Brasil.&lt;/p&gt;
+&lt;p&gt;A avaliação é a mesma divulgada pela Organização Mundial da Saúde em uma&lt;/p&gt;
+&lt;p&gt;entrevista coletiva nesta sexta-feira&lt;/p&gt;
+&lt;p&gt;A autoridade sanitária do governo brasileiro esclareceu que o último dos dois casos confirmados na Índia foi diagnosticado em 13 de janeiro, e que, desde então, foram identificados 198 contatos dos casos confirmados. Todos foram monitorados e os testes tiveram resultados negativos para a doença.&lt;/p&gt;
+&lt;p&gt;&quot;Diante do cenário atual, não há qualquer indicação de risco para a população brasileira. As autoridades de saúde seguem em monitoramento contínuo, em alinhamento com organismos internacionais&quot;, esclareceu o Ministério da Saúde.&lt;/p&gt;
+&lt;p&gt;O ministério afirmou que mantém no Brasil protocolos permanentes de vigilância e resposta a agentes altamente patogênicos, em articulação com instituições de referência como o Instituto Evandro Chagas e a Fundação Oswaldo Cruz (Fiocruz), além da participação da Organização Pan-Americana da Saúde (Opas).&lt;/p&gt;
+&lt;p&gt;O Nipah já foi identificado outras vezes no Sudeste da Ásia. Segundo a Organização Mundial da Saúde, ele foi descoberto em 1999, em um surto entre criadores de porcos na Malásia, e é detectado com regularidade em Bangladesh e na Índia.&lt;/p&gt;
+&lt;p&gt;Consultor da Sociedade Brasileira de Infectologia, o professor de infectologia da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo (USP) Benedito Fonseca explicou, em entrevista à&lt;/p&gt;
+&lt;p&gt;está ligada à presença de uma espécie de morcegos que serve de hospedeiro para o vírus, que por isso é classificado como zoonótico.&lt;/p&gt;
+&lt;p&gt;Esses morcegos, que não vivem no continente americano, se alimentam de frutas e de uma seiva doce que também são consumidas por seres humanos e animais domésticos nesta época do ano, e isso causa a contaminação.&lt;/p&gt;
+&lt;p&gt;Também há relatos de que secreções de pessoas infectadas podem transmiti-lo.&lt;/p&gt;
+&lt;p&gt;“Os vírus [zoonóticos] normalmente têm uma relação muito íntima com o seu reservatório. E esse morcego tem uma distribuição grande na Ásia, mas não tem distribuição nem na Europa nem nas Américas. Acredito que o potencial pandêmico, de uma distribuição no mundo todo, é pequeno”, avaliou Fonseca.&lt;/p&gt;
+&lt;p&gt;“A gente não sabe o que fazer”, diz mãe de brasileiro detido nos EUA&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/ministerio-da-saude-diz-que-virus-nipah-nao-ameaca-o-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Ruslanas Baranauskas/Divulgação
+O Ministério da Saúde explicou nesta sexta-feira (30) que o
+, que teve dois casos confirmados na província indiana ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-01-30 20:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-30 20:00:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-30 20:00:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-30 20:00:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/df7-vjvcXtynhyD8k9QtR41c0Fg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/27/virus-nipah-e1769515319494.jpg?itok=DQZKuYy_</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Dólar sobe para R$ 5,24 após indicação de Trump ao BC dos EUA</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/dolar-sobe-para-r-524-apos-indicacao-de-trump-ao-bc-dos-eua</link>
+      <pubDate>Sat, 31 Jan 2026 01:18:34 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/dolar-sobe-para-r-524-apos-indicacao-de-trump-ao-bc-dos-eua#1002</guid>
+      <description>© REUTERS/Yuriko Nakao/Proibida reprodução
+Em um dia de ajustes no mercado financeiro, o dólar subiu e a bolsa caiu após a indicação do futuro presid...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qKGaRkOSgKY92Sv-dTm3L4d-IYM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2021-10-06t120841z_1_lynxmpeh950lf_rtroptp_4_dolar-abre.jpg?itok=VWlxDSS-&quot; alt=&quot;Dólar sobe para R$ 5,24 após indicação de Trump ao BC dos EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS/Yuriko Nakao/Proibida reprodução&lt;/p&gt;
+&lt;p&gt;Em um dia de ajustes no mercado financeiro, o dólar subiu e a bolsa caiu após a indicação do futuro presidente do Banco Central dos Estados Unidos&lt;/p&gt;
+&lt;p&gt;. Mesmo assim, a moeda estadunidense fechou janeiro com a maior queda em sete meses, e a bolsa de valores teve o melhor mês em pouco mais de cinco anos.&lt;/p&gt;
+&lt;p&gt;O dólar comercial encerrou esta sexta-feira (30) vendido a R$ 5,248, com alta de R$ 0,054 (+1,03%).&lt;/p&gt;
+&lt;p&gt;A cotação abriu próxima da estabilidade, mas passou a subir após o presidente Donald Trump indicar Kevin Warsh para presidir o Federal Reserve (Fed, Banco Central estadunidense).&lt;/p&gt;
+&lt;p&gt;Apesar da alta desta sexta, o dólar caiu 4,4% em janeiro, o melhor desempenho mensal desde junho do ano passado. Apenas nesta semana, a divisa recuou 0,73%.&lt;/p&gt;
+&lt;p&gt;O mercado de ações teve um dia de perdas.&lt;/p&gt;
+&lt;p&gt;O índice Ibovespa, da B3, fechou o dia aos 181.364 pontos, com baixa de 0,97%.&lt;/p&gt;
+&lt;p&gt;O indicador chegou a subir no início da tarde, mas recuou, influenciado tanto por fatores internos como externos.&lt;/p&gt;
+&lt;p&gt;Mesmo com o recuo desta sexta, a bolsa brasileira encerrou janeiro com alta de 12,56%. Esse foi o melhor desempenho em um mês para o Ibovespa desde novembro de 2020, quando o indicador começava a recuperar-se da pandemia de covid-19.&lt;/p&gt;
+&lt;p&gt;Fatores internacionais dominaram as negociações.&lt;/p&gt;
+&lt;p&gt;A indicação de Warsh, ex-diretor do Fed, para presidir a instituição elevou o dólar em todo o planeta, reduzindo a perda de valor da moeda estadunidense nas últimas semanas.&lt;/p&gt;
+&lt;p&gt;Isso porque o futuro comandante do Fed é conhecido do mercado financeiro e, até recentemente, demonstrava posturas conservadoras em política monetária.&lt;/p&gt;
+&lt;p&gt;No caso da bolsa, além do mercado externo, as negociações foram influenciadas pela realização de lucros, quando investidores aproveitam a valorização recente das ações para vender papéis e embolsar os ganhos.&lt;/p&gt;
+&lt;p&gt;“A gente não sabe o que fazer”, diz mãe de brasileiro detido nos EUA&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/dolar-sobe-para-r-524-apos-indicacao-de-trump-ao-bc-dos-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS/Yuriko Nakao/Proibida reprodução
+Em um dia de ajustes no mercado financeiro, o dólar subiu e a bolsa caiu após a indicação do futuro presid...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-01-30 19:43:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-30 19:43:00</wp:post_date_gmt>
+      <wp:post_modified>2026-01-30 19:43:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-01-30 19:43:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/qKGaRkOSgKY92Sv-dTm3L4d-IYM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2021-10-06t120841z_1_lynxmpeh950lf_rtroptp_4_dolar-abre.jpg?itok=VWlxDSS-</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Justiça condena lojista a 5 anos de reclusão por maus-tratos a cães</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/justica-condena-lojista-5-anos-de-reclusao-por-maus-tratos-caes</link>
-      <pubDate>Fri, 30 Jan 2026 23:19:08 +0000</pubDate>
+      <pubDate>Sat, 31 Jan 2026 01:18:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/justica-condena-lojista-5-anos-de-reclusao-por-maus-tratos-caes#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/justica-condena-lojista-5-anos-de-reclusao-por-maus-tratos-caes#1003</guid>
       <description>O Tribunal de Justiça de São Paulo (TJSP) condenou um comerciante a 5 anos, 3 meses e 15 dias de reclusão em regime inicial semiaberto, por maus-trat...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DhrkofjaJ7LDWFzBmRID5L7x6oE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/30/pets_doacao_29.jpg?itok=nDEOvd-i&quot; alt=&quot;Justiça condena lojista a 5 anos de reclusão por maus-tratos a cães&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Tribunal de Justiça de São Paulo (TJSP) condenou um comerciante a 5 anos, 3 meses e 15 dias de reclusão em regime inicial semiaberto, por maus-tratos a cachorros.&lt;/p&gt;
@@ -45,7 +194,7 @@
 &lt;p&gt;estabelece como penalidade a &quot;ato de abuso, maus-tratos, ferir ou mutilar animais silvestres, domésticos ou domesticados, nativos ou exótico&quot; detenção de 3 meses a 1 ano e multa. Quando se trata de cão ou gato, a pena é de reclusão, de 2 a 5 anos, multa e proibição da guarda. Ou seja, a juíza aplicou a sanção máxima a Zeng.&lt;/p&gt;
 &lt;p&gt;A prática de comercialização de animais é um dos principais fatores que contribuem para as pessoas reduzirem animais a objetos e tratá-los como tais, conforme alertam organizações de proteção de animais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/justica-condena-lojista-5-anos-de-reclusao-por-maus-tratos-caes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Tribunal de Justiça de São Paulo (TJSP) condenou um comerciante a 5 anos, 3 meses e 15 dias de reclusão em regime inicial semiaberto, por maus-trat...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-01-30 19:38:00</wp:post_date>
       <wp:post_date_gmt>2026-01-30 19:38:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-30 19:38:00</wp:post_modified>
@@ -71,9 +220,9 @@
     <item>
       <title>Conciliação sobre greve de ônibus em São Luís termina em impasse</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/conciliacao-sobre-greve-de-onibus-em-sao-luis-termina-em-impasse</link>
-      <pubDate>Fri, 30 Jan 2026 23:19:08 +0000</pubDate>
+      <pubDate>Sat, 31 Jan 2026 01:18:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/conciliacao-sobre-greve-de-onibus-em-sao-luis-termina-em-impasse#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/conciliacao-sobre-greve-de-onibus-em-sao-luis-termina-em-impasse#1004</guid>
       <description>Terminou sem acordo nesta sexta-feira (30) a reunião de conciliação para debater a greve de ônibus em São Luís, no Maranhão, com representantes dos t...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iWuSlrux10PlIDrr6WQSDxlaF6w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/30/reuniao_de_conciliacao_para_debater_a_greve_de_onibus_em_sao_luis.jpg?itok=yYlzsm7w&quot; alt=&quot;Conciliação sobre greve de ônibus em São Luís termina em impasse&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Terminou sem acordo nesta sexta-feira (30) a reunião de conciliação para debater a greve de ônibus em São Luís, no Maranhão, com representantes dos trabalhadores do transporte rodoviário coletivo, das empresas de transporte e da Prefeitura de São Luís.&lt;/p&gt;
@@ -89,10 +238,10 @@
 &lt;p&gt;Nas redes sociais, o prefeito de São Luís, Eduardo Braide, anunciou a disponibilização de vouchers para o uso no aplicativo de transporte 99.&lt;/p&gt;
 &lt;p&gt;“Quem já está cadastrado, não precisa mais fazer nada. Vai chegar a seguinte mensagem pra você: a prefeitura liberou vouchers para utilizar nas categorias 99pop e 99 moto. Conseguimos junto ao aplicativo 99 que a alta demanda no período da greve não provoque grandes aumentos nos valores das corridas”, explicou.&lt;/p&gt;
 &lt;p&gt;A medida já havia sido utilizada pela prefeitura em fevereiro de 2025, quando os trabalhadores rodoviários também paralisaram as atividades. Os recursos aplicados saíram de parte dos subsídios pagos aos empresários do transporte público.&lt;/p&gt;
-&lt;p&gt;Com janeiro chuvoso, país continua com bandeira tarifária verde&lt;/p&gt;
+&lt;p&gt;“A gente não sabe o que fazer”, diz mãe de brasileiro detido nos EUA&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo na Rádio Nacional: Flamengo e Corinthians entram em campo pela Supercopa do Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/conciliacao-sobre-greve-de-onibus-em-sao-luis-termina-em-impasse&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Terminou sem acordo nesta sexta-feira (30) a reunião de conciliação para debater a greve de ônibus em São Luís, no Maranhão, com representantes dos t...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-01-30 19:14:00</wp:post_date>
       <wp:post_date_gmt>2026-01-30 19:14:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-30 19:14:00</wp:post_modified>
@@ -118,9 +267,9 @@
     <item>
       <title>Tubarão-cabeça-chata é provável espécie que atacou garoto em Olinda</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/tubarao-cabeca-chata-e-provavel-especie-que-atacou-garoto-em-olinda</link>
-      <pubDate>Fri, 30 Jan 2026 23:19:08 +0000</pubDate>
+      <pubDate>Sat, 31 Jan 2026 01:18:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/tubarao-cabeca-chata-e-provavel-especie-que-atacou-garoto-em-olinda#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/tubarao-cabeca-chata-e-provavel-especie-que-atacou-garoto-em-olinda#1005</guid>
       <description>O corpo do adolescente morto após ataque detubarãoem Olinda, na região metropolitana do Recife, foi enterrado na tarde desta sexta (30)
 . Deivison Ro...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/fih8Bv9RLZAZklebKNVa2ZMZ0qI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/30/tubarao-cabeca-chata.jpg?itok=mLN-Tlko&quot; alt=&quot;Tubarão-cabeça-chata é provável espécie que atacou garoto em Olinda&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -138,10 +287,10 @@
 &lt;p&gt;No começo do mês, o governo de Pernambuco divulgou um edital para retomar o monitoramento de tubarões no litoral do estado, interrompido desde 2015. O edital prevê o acompanhamento dos animais com o uso de microchip.&lt;/p&gt;
 &lt;p&gt;O foco principal das ações será o trecho prioritário de aproximadamente 33 kmde praias, conforme estabelecido pelo Decreto Estadual21.402/1999 e pelo Decreto Municipal nº 79/2021, sem prejuízo da inclusão de outras áreas do litoral pernambucano e zonas de transição costeira. O edital prevê o investimento de até R$ 1.052.000,00, com duração de 24 meses.&lt;/p&gt;
 &lt;p&gt;No momento, a Universidade Federal Rural de Pernambuco (UFRPE) fazum monitoramento, mas apenas no arquipélago de Noronha,com o apoio do Governo de Pernambuco, por meio da administração da ilha, do Instituto Chico Mendes de Conservação da Biodiversidade (ICMbio) e da Econoronha.&lt;/p&gt;
-&lt;p&gt;Com janeiro chuvoso, país continua com bandeira tarifária verde&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/tubarao-cabeca-chata-e-provavel-especie-que-atacou-garoto-em-olinda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;“A gente não sabe o que fazer”, diz mãe de brasileiro detido nos EUA&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/tubarao-cabeca-chata-e-provavel-especie-que-atacou-garoto-em-olinda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O corpo do adolescente morto após ataque detubarãoem Olinda, na região metropolitana do Recife, foi enterrado na tarde desta sexta (30)
 . Deivison Ro...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-01-30 19:10:00</wp:post_date>
       <wp:post_date_gmt>2026-01-30 19:10:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-30 19:10:00</wp:post_modified>
@@ -167,9 +316,9 @@
     <item>
       <title>Tesouro Nacional lança novo título público em março</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/tesouro-nacional-lanca-novo-titulo-publico-em-marco</link>
-      <pubDate>Fri, 30 Jan 2026 23:19:08 +0000</pubDate>
+      <pubDate>Sat, 31 Jan 2026 01:18:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/tesouro-nacional-lanca-novo-titulo-publico-em-marco#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/tesouro-nacional-lanca-novo-titulo-publico-em-marco#1006</guid>
       <description>Um novo título público será lançado em março pelo Tesouro Nacional. Chamado de Tesouro Reserva, o novo título será indexado à taxa básica de juros Se...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yCRopCb50FBkJeD733cALZPOv_k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_ja_7207.jpg?itok=nGLNL9bt&quot; alt=&quot;Tesouro Nacional lança novo título público em março&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Um novo título público será lançado em março pelo Tesouro Nacional. Chamado de Tesouro Reserva, o novo título será indexado à taxa básica de juros Selic e pretende atrair mais investidores ao Tesouro Direto, informou nesta sexta-feira (30) o secretário do Tesouro Nacional, Rogério Ceron.&lt;/p&gt;
@@ -182,13 +331,13 @@
 &lt;p&gt;“Hoje, infelizmente, muitos brasileiros são induzidos a fazer uma aplicação, sem fazer uma escolha consciente. Dar a opção para o cidadão poder fazer a sua escolha é um ato de cidadania”, disse Ceron.&lt;/p&gt;
 &lt;p&gt;O secretário chamou a atenção para o momento em aplicações de ativos.&lt;/p&gt;
 &lt;p&gt;“Estamos vendo o que está acontecendo nesse momento com problemas de aplicações em ativos que são de risco e, muitas vezes, as pessoas nem sabiam disso. É muito importante que as pessoas façam escolhas conscientes e que tomem suas decisões. As que querem segurança com rentabilidade ou as que querem tomar mais riscos, que façam isso de forma consciente”, disse.&lt;/p&gt;
-&lt;p&gt;Com janeiro chuvoso, país continua com bandeira tarifária verde&lt;/p&gt;
-&lt;p&gt;Especialista fala dos impactosde doenças negligenciadas&lt;/p&gt;
-&lt;p&gt;Peabiru: o caminho ancestral de beleza e mistério&lt;/p&gt;
-&lt;p&gt;Dólar sobe para R$ 5,24 após indicação de Trump ao BC dos EUA&lt;/p&gt;
-&lt;p&gt;Justiça condena lojista a 5 anos de reclusão por maus-tratos a cães&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/tesouro-nacional-lanca-novo-titulo-publico-em-marco&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;“A gente não sabe o que fazer”, diz mãe de brasileiro detido nos EUA&lt;/p&gt;
+&lt;p&gt;Ouça ao vivo na Rádio Nacional: Flamengo e Corinthians entram em campo pela Supercopa do Brasil&lt;/p&gt;
+&lt;p&gt;2.500 famílias inteiras foram assassinadas em Gaza durante ataques&lt;/p&gt;
+&lt;p&gt;BC aperta regras de provedores de TI para instituições financeiras&lt;/p&gt;
+&lt;p&gt;Departamento de Justiça de Trump divulga arquivos sobre Epstein&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/tesouro-nacional-lanca-novo-titulo-publico-em-marco&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Um novo título público será lançado em março pelo Tesouro Nacional. Chamado de Tesouro Reserva, o novo título será indexado à taxa básica de juros Se...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-01-30 18:56:00</wp:post_date>
       <wp:post_date_gmt>2026-01-30 18:56:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-30 18:56:00</wp:post_modified>
@@ -214,9 +363,9 @@
     <item>
       <title>Fevereiro seguirá com bandeira tarifária verde na conta de luz</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/fevereiro-seguira-com-bandeira-tarifaria-verde-na-conta-de-luz</link>
-      <pubDate>Fri, 30 Jan 2026 23:19:08 +0000</pubDate>
+      <pubDate>Sat, 31 Jan 2026 01:18:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/fevereiro-seguira-com-bandeira-tarifaria-verde-na-conta-de-luz#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/fevereiro-seguira-com-bandeira-tarifaria-verde-na-conta-de-luz#1007</guid>
       <description>© Marcello Casal JrAgência Brasil
 A Agência Nacional de Energia Elétrica (Aneel) confirmou nesta sexta-feira(30) a manutenção da bandeira tarifária n...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/SPvH-ICtzY97Beg0H_PVSSX9jOU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/conta_de_energia_mcajr_abr2907221113.jpg?itok=TDwB4O5P&quot; alt=&quot;Fevereiro seguirá com bandeira tarifária verde na conta de luz&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -231,13 +380,13 @@ A Agência Nacional de Energia Elétrica (Aneel) confirmou nesta sexta-feira(30)
 &lt;p&gt;Anualmente, ao final do período úmido, em abril, a Aneel define o valor das Bandeiras Tarifárias para o ciclo seguinte.&lt;/p&gt;
 &lt;p&gt;Os valores cobrados são os seguintes: na bandeira amarela, com condições de geração menos favoráveis, a tarifa sofre acréscimo de R$ 1,88 para cada 100 quilowatt-hora (kWh) consumidos; na bandeira vermelha, no Patamar 1, com condições mais custosas de geração, a tarifa sofre acréscimo de R$ 4,46 para 100 quilowatt-hora kWh consumido.&lt;/p&gt;
 &lt;p&gt;Já na bandeira vermelha, no Patamar 2, as condições de geração são ainda mais custosas. Com isso, a tarifa sofre acréscimo de R$ 7,87 para cada 100 quilowatt-hora kWh consumido.&lt;/p&gt;
-&lt;p&gt;Com janeiro chuvoso, país continua com bandeira tarifária verde&lt;/p&gt;
+&lt;p&gt;“A gente não sabe o que fazer”, diz mãe de brasileiro detido nos EUA&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo na Rádio Nacional: Flamengo e Corinthians entram em campo pela Supercopa do Brasil&lt;/p&gt;
-&lt;p&gt;Peabiru: o caminho ancestral de beleza e mistério&lt;/p&gt;
-&lt;p&gt;Ministério da Saúde diz que vírus Nipah não ameaça o Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/fevereiro-seguira-com-bandeira-tarifaria-verde-na-conta-de-luz&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;2.500 famílias inteiras foram assassinadas em Gaza durante ataques&lt;/p&gt;
+&lt;p&gt;BC aperta regras de provedores de TI para instituições financeiras&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/fevereiro-seguira-com-bandeira-tarifaria-verde-na-conta-de-luz&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 A Agência Nacional de Energia Elétrica (Aneel) confirmou nesta sexta-feira(30) a manutenção da bandeira tarifária n...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-01-30 18:38:00</wp:post_date>
       <wp:post_date_gmt>2026-01-30 18:38:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-30 18:38:00</wp:post_modified>
@@ -263,9 +412,9 @@ A Agência Nacional de Energia Elétrica (Aneel) confirmou nesta sexta-feira(30)
     <item>
       <title>Ocupação hoteleira para o carnaval no Rio está em 83,70%</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/ocupacao-hoteleira-para-o-carnaval-no-rio-esta-em-8370</link>
-      <pubDate>Fri, 30 Jan 2026 23:19:08 +0000</pubDate>
+      <pubDate>Sat, 31 Jan 2026 01:18:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/ocupacao-hoteleira-para-o-carnaval-no-rio-esta-em-8370#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/ocupacao-hoteleira-para-o-carnaval-no-rio-esta-em-8370#1008</guid>
       <description>© Fernando Frazão/Agência Brasil
 A segunda prévia da pesquisa para o período do carnaval, divulgada nesta sexta-feira (30) pelo Sindicato dos Meios d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mSTGQ2kVrXYq-InUtj8blanq_FI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_0813.jpg?itok=8b1h_Lo1&quot; alt=&quot;Ocupação hoteleira para o carnaval no Rio está em 83,70%&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -277,12 +426,16 @@ A segunda prévia da pesquisa para o período do carnaval, divulgada nesta sexta
 &lt;p&gt;O sindicato destaca que, nesse caso, houve uma inversão na ordem de preferência dos turistas pelas regiões da cidade. Os bairros do Leme/Copacabana são os mais procurados até o momento, com 87,82%, seguidos de Ipanema/Leblon (85,29%), Barra/Recreio/São Conrado (68,96%), Centro (65,84%) e Glória a Botafogo (64,15%).&lt;/p&gt;
 &lt;p&gt;O presidente do HotéisRIO, Alfredo Lopes, disse que as pesquisas evidenciam que a tendência é de forte presença de turistas no Rio de Janeiro neste carnaval, incluindo estrangeiros, em especial argentinos.&lt;/p&gt;
 &lt;p&gt;“Por toda cidade escutamos diversos idiomas diferentes, com predomínio do sotaque portenho, pois os argentinos são os principais visitantes internacionais, o que deve se prolongar até a folia momesca”, disse Lopes.&lt;/p&gt;
-&lt;p&gt;Com janeiro chuvoso, país continua com bandeira tarifária verde&lt;/p&gt;
+&lt;p&gt;“A gente não sabe o que fazer”, diz mãe de brasileiro detido nos EUA&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo na Rádio Nacional: Flamengo e Corinthians entram em campo pela Supercopa do Brasil&lt;/p&gt;
-&lt;p&gt;Peabiru: o caminho ancestral de beleza e mistério&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/ocupacao-hoteleira-para-o-carnaval-no-rio-esta-em-8370&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;2.500 famílias inteiras foram assassinadas em Gaza durante ataques&lt;/p&gt;
+&lt;p&gt;BC aperta regras de provedores de TI para instituições financeiras&lt;/p&gt;
+&lt;p&gt;Departamento de Justiça de Trump divulga arquivos sobre Epstein&lt;/p&gt;
+&lt;p&gt;Ministério da Saúde diz que vírus Nipah não ameaça o Brasil&lt;/p&gt;
+&lt;p&gt;Dólar sobe para R$ 5,24 após indicação de Trump ao BC dos EUA&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/ocupacao-hoteleira-para-o-carnaval-no-rio-esta-em-8370&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 A segunda prévia da pesquisa para o período do carnaval, divulgada nesta sexta-feira (30) pelo Sindicato dos Meios d...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-01-30 18:37:00</wp:post_date>
       <wp:post_date_gmt>2026-01-30 18:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-30 18:37:00</wp:post_modified>
@@ -308,9 +461,9 @@ A segunda prévia da pesquisa para o período do carnaval, divulgada nesta sexta
     <item>
       <title>Inmet emite alerta laranja para tempestades no país até sábado</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/inmet-emite-alerta-laranja-para-tempestades-no-pais-ate-sabado</link>
-      <pubDate>Fri, 30 Jan 2026 23:19:08 +0000</pubDate>
+      <pubDate>Sat, 31 Jan 2026 01:18:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/inmet-emite-alerta-laranja-para-tempestades-no-pais-ate-sabado#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/inmet-emite-alerta-laranja-para-tempestades-no-pais-ate-sabado#1009</guid>
       <description>© Fernando Frazão/Agência Brasil
 O Instituto Nacional de Meteorologia (Inmet) emitiu nesta sexta-feira (30) um alerta laranja para tempestades e chuv...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/pJsitb3XmdYGnqHmnrMsPGfXWtA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/22/_mg_0182-2.jpg?itok=TGYexe43&quot; alt=&quot;Inmet emite alerta laranja para tempestades no país até sábado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -327,11 +480,11 @@ O Instituto Nacional de Meteorologia (Inmet) emitiu nesta sexta-feira (30) um al
 &lt;p&gt;Segundo o Inmet, a formação de um ciclone no litoral da região Sudestenesta sexta-feira (30)favorece a ocorrência de grandes volumes de chuva para os estados de São Paulo e Rio de Janeiro, além do sul de Minas Gerais.&lt;/p&gt;
 &lt;p&gt;Os totais de chuva previstos superam os 100 mm nas áreas da Serra da Mantiqueira, enquanto no litoral paulista os volumes podem ultrapassar 60 mm.&lt;/p&gt;
 &lt;p&gt;As áreas afetadas abarcam as regiões da capital paulista, Itanhaém (SP), Campinas (SP), Ribeirão Preto (SP), São José do Rio Preto (SP), todo o estado do Rio de Janeiro, e praticamente todo o Espírito Santo e Minas Gerais, excetuando apenas a parte mais ao norte desses estados.&lt;/p&gt;
-&lt;p&gt;Com janeiro chuvoso, país continua com bandeira tarifária verde&lt;/p&gt;
+&lt;p&gt;“A gente não sabe o que fazer”, diz mãe de brasileiro detido nos EUA&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo na Rádio Nacional: Flamengo e Corinthians entram em campo pela Supercopa do Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/inmet-emite-alerta-laranja-para-tempestades-no-pais-ate-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 O Instituto Nacional de Meteorologia (Inmet) emitiu nesta sexta-feira (30) um alerta laranja para tempestades e chuv...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-01-30 18:34:00</wp:post_date>
       <wp:post_date_gmt>2026-01-30 18:34:00</wp:post_date_gmt>
       <wp:post_modified>2026-01-30 18:34:00</wp:post_modified>
@@ -352,147 +505,6 @@ O Instituto Nacional de Meteorologia (Inmet) emitiu nesta sexta-feira (30) um al
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/pJsitb3XmdYGnqHmnrMsPGfXWtA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/22/_mg_0182-2.jpg?itok=TGYexe43</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Beneficiários do Pé-de-Meia podem fazer aplicação no Tesouro Direto</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/beneficiarios-do-pe-de-meia-podem-fazer-aplicacao-no-tesouro-direto</link>
-      <pubDate>Fri, 30 Jan 2026 23:19:08 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/beneficiarios-do-pe-de-meia-podem-fazer-aplicacao-no-tesouro-direto#1007</guid>
-      <description>Os estudantes beneficiários do Pé-de-Meia poderão escolher como investir o recurso que recebem do programa: o valor poderá ser mantido na poupança ou...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/k003Y82sNyTgUH9YOiClS88OQXo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/22/pedemeia_copiar.jpg?itok=LCoibTMB&quot; alt=&quot;Beneficiários do Pé-de-Meia podem fazer aplicação no Tesouro Direto&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Os estudantes beneficiários do Pé-de-Meia poderão escolher como investir o recurso que recebem do programa: o valor poderá ser mantido na poupança ou ser aplicado no Tesouro Selic.&lt;/p&gt;
-&lt;p&gt;A parceria entre a Secretaria do Tesouro Nacional (STN), a Caixa Econômica Federal, o Ministério da Educação e a B3, a bolsa de valores do Brasil, foi oficializada na tarde desta sexta-feira (30).&lt;/p&gt;
-&lt;p&gt;Desde novembro essa parceria já está em funcionamento&lt;/p&gt;
-&lt;p&gt;por meio do aplicativo Caixa Tem e, desde então, 50 mil estudantes brasileiros beneficiários do programa Pé-de-meia já estão investindo em Tesouro Direto.&lt;/p&gt;
-&lt;p&gt;O Pé-de-Meia beneficia cerca de 4 milhões de estudantes por meio de um incentivo financeiro-educacional do governo federal.&lt;/p&gt;
-&lt;p&gt;Antes, o dinheiro recebido por meio do programa só podia ser aplicado na poupança.&lt;/p&gt;
-&lt;p&gt;Agora, com essa parceria, os estudantes vão também poder aplicar esses recursos no Tesouro Selic, que acompanha a taxa básica de juros da economia brasileira, a Selic, fixada pelo Banco Central do Brasil.&lt;/p&gt;
-&lt;p&gt;“Esta é mais uma iniciativa de educação financeira misturada com inclusão”, disse o secretário do Tesouro Nacional, Rogério Ceron.&lt;/p&gt;
-&lt;p&gt;“Dar a opção [de como investir] faz com que o estudante tenha que pensar sobre isso, buscar informação sobre isso. E isso gera um aprendizado. Então, ele vai poder fazer uma escolha consciente de manter o recurso onde está ou poder transferir para o Tesouro Direto. Essa liberdade de escolha é algo muito positivo e acreditamos que isso transforma a capacidade desses jovens de se prepararem para fazerem escolhas conscientes em suas vidas”.&lt;/p&gt;
-&lt;p&gt;Assim como na poupança, os rendimentos do Tesouro Selic vão variar conforme as condições do mercado, mas sem risco de perda do investimento. Segundo o secretário, o Tesouro Selic foi atrelado à Selic para “ser uma porta de entrada segura e não gerar algum tipo de perda” para os estudantes.&lt;/p&gt;
-&lt;p&gt;A opção pelo tipo de investimento e o acompanhamento da rentabilidade da aplicação e da evolução dos rendimentos poderão ser feitos pelo aplicativo Caixa Tem, da Caixa Econômica Federal.&lt;/p&gt;
-&lt;p&gt;“Os estudantes hoje recebem o benefício do programa Pé-de-meia por meio do aplicativo Caixa Tem. Neste aplicativo, tem a opção onde ele pode escolher se deseja manter os recursos do incentivo de conclusão aplicados em poupança ou no Tesouro Direto”, explicou Tiago Cordeiro, diretor de produtos de governo da Caixa.&lt;/p&gt;
-&lt;p&gt;“Na jornada estão explicados para os estudantes as diferenças entre os dois tipos de investimentos para que ele tome a decisão que achar mais conveniente”, acrescentou ele, em entrevista à Agência Brasil.&lt;/p&gt;
-&lt;p&gt;é voltado a estudantes do ensino médio da rede pública de baixa renda, que recebem um incentivo financeiro para concluírem os estudos.&lt;/p&gt;
-&lt;p&gt;O programa funciona como uma poupança para os estudantes de baixa renda do ensino médio, com o objetivo de promover a permanência e a conclusão escolar nessa etapa de ensino.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/beneficiarios-do-pe-de-meia-podem-fazer-aplicacao-no-tesouro-direto&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Os estudantes beneficiários do Pé-de-Meia poderão escolher como investir o recurso que recebem do programa: o valor poderá ser mantido na poupança ou...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-01-30 18:28:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-30 18:28:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-30 18:28:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-30 18:28:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/k003Y82sNyTgUH9YOiClS88OQXo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/22/pedemeia_copiar.jpg?itok=LCoibTMB</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Escolas do Grupo Especial do Rio começam hoje ensaios técnicos</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/escolas-do-grupo-especial-do-rio-comecam-hoje-ensaios-tecnicos</link>
-      <pubDate>Fri, 30 Jan 2026 23:19:08 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/escolas-do-grupo-especial-do-rio-comecam-hoje-ensaios-tecnicos#1008</guid>
-      <description>Os ensaios técnicos das escolas de samba do Grupo Especial que vão se apresentar no carnaval deste ano começam nesta sexta-feira (30), a partir das 2...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/SzcEQxrB9f1LVuXcQ_84M-t1H6o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/53450169109_57d7c518f6_o.jpg?itok=F2CMCURs&quot; alt=&quot;Escolas do Grupo Especial do Rio começam hoje ensaios técnicos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Os ensaios técnicos das escolas de samba do Grupo Especial que vão se apresentar no carnaval deste ano começam nesta sexta-feira (30), a partir das 21h, na Marquês de Sapucaí. De acordo com a Liga Independente das Escolas de Samba do Rio de Janeiro (Liesa), cada escola fará dois ensaios técnicos no Sambódromo, em estrutura idêntica à dos desfiles oficiais, com luz, som e operação de pista em pleno funcionamento. A entrada é gratuita.&lt;/p&gt;
-&lt;p&gt;Como novidade, a Liesa incluiu os desfiles das escolas mirins na programação dos ensaios técnicos do Grupo Especial, em três datas diferentes, reforçando o papel das escolas mirins na formação de novos sambistas e na renovação do carnaval carioca.&lt;/p&gt;
-&lt;p&gt;Os ensaios seguem até 8 de fevereiro, sempre às sextas-feiras, sábados e domingos, reunindo as agremiações em treinos abertos ao público, que já poderá sentir o clima do que será apresentado no Carnaval 2026.&lt;/p&gt;
-&lt;p&gt;Calendário dos ensaios técnicos:&lt;/p&gt;
-&lt;p&gt;Mocidade Independente de Padre Miguel&lt;/p&gt;
-&lt;p&gt;18h – Escolas de Samba Mirins (3 agremiações) – abertura dos ensaios técnicos&lt;/p&gt;
-&lt;p&gt;17h30 – Escolas de Samba Mirins (3 agremiações)&lt;/p&gt;
-&lt;p&gt;Mocidade Independente de Padre Miguel&lt;/p&gt;
-&lt;p&gt;18h – Escolas de Samba Mirins (2 agremiações)&lt;/p&gt;
-&lt;p&gt;O carnaval deste ano terá três dias de desfile do Grupo Especial na Marquês de Sapucaí. A apresentação das escolas será no domingo (15), segunda-feira (16) e terça-feira (17).&lt;/p&gt;
-&lt;p&gt;Ordem de apresentação das escolas nos três dias de desfile:&lt;/p&gt;
-&lt;p&gt;Com janeiro chuvoso, país continua com bandeira tarifária verde&lt;/p&gt;
-&lt;p&gt;Ouça ao vivo na Rádio Nacional: Flamengo e Corinthians entram em campo pela Supercopa do Brasil&lt;/p&gt;
-&lt;p&gt;Peabiru: o caminho ancestral de beleza e mistério&lt;/p&gt;
-&lt;p&gt;Ministério da Saúde diz que vírus Nipah não ameaça o Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/escolas-do-grupo-especial-do-rio-comecam-hoje-ensaios-tecnicos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Os ensaios técnicos das escolas de samba do Grupo Especial que vão se apresentar no carnaval deste ano começam nesta sexta-feira (30), a partir das 2...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-01-30 18:20:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-30 18:20:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-30 18:20:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-30 18:20:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/SzcEQxrB9f1LVuXcQ_84M-t1H6o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/53450169109_57d7c518f6_o.jpg?itok=F2CMCURs</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Estado de São Paulo registra recorde de feminicídios em 2025</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/estado-de-sao-paulo-registra-recorde-de-feminicidios-em-2025</link>
-      <pubDate>Fri, 30 Jan 2026 23:19:08 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/estado-de-sao-paulo-registra-recorde-de-feminicidios-em-2025#1009</guid>
-      <description>O estado de São Paulo registrouem 2025o maior número de feminicídios desde o início da série histórica, em 2018. Em todo o ano, os registros chegaram...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zdWQlnz2RpWzB4QV2ngs17ZP1as=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/05/14/img_4774.jpg?itok=EubEHPNU&quot; alt=&quot;Estado de São Paulo registra recorde de feminicídios em 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O estado de São Paulo registrouem 2025o maior número de feminicídios desde o início da série histórica, em 2018. Em todo o ano, os registros chegaram a 270, o que representa um aumento de 6,7% em relação a 2024, quando houve 253 registros.&lt;/p&gt;
-&lt;p&gt;Os dados estão disponíveis no site da Secretaria da Segurança Pública do estado (SSP).&lt;/p&gt;
-&lt;p&gt;Já o número de homicídios dolosos teve queda em 2025 pelo terceiro ano consecutivo, de acordo com a SSP. Foram 2.438 casos notificados, uma queda de 3,1% em relação a 2024, quando houve 2.517 registros.&lt;/p&gt;
-&lt;p&gt;Os latrocínios seguiram a mesma tendência e alcançaram o menor índice desde 2001, início da série histórica. No estado, o número de casos caiu de 166, em 2024, para 129, em 2025, uma redução de 22,2%.&lt;/p&gt;
-&lt;p&gt;No entanto, na comparação mensal, houve aumento em ambos os crimes. Em dezembro, foram contabilizados 244 casos de homicídios dolosos no estado, seis eventos a mais do que no mesmo mês de 2024.&lt;/p&gt;
-&lt;p&gt;Nove casos de latrocínio foram registrados em dezembro de 2025, o que representaaumento em relação ao mesmo mês do ano anterior, quando foram registrados seis casos.&lt;/p&gt;
-&lt;p&gt;Os casos de estupro tiveram queda, com 14.443 registros em 2025 ante 14.579 em todo o ano anterior. Em dezembro, 1.088 casos foram registrados, enquanto no mesmo mês de 2024 foram 1.096 casos.&lt;/p&gt;
-&lt;p&gt;Os roubos em geral chegaram ao menor patamar da série histórica, de acordo com a SSP.&lt;/p&gt;
-&lt;p&gt;Em 2025, foram 161.310 boletins de ocorrência relacionados a crimes dessa natureza, uma queda de 16,7% na comparação com 2024, quando foram contabilizados 193.658 casos. Em dezembro, foram 11.779 ocorrências de roubos, ante 16.163 no mesmo mês de 2024, o que representa uma redução de 27,1%.&lt;/p&gt;
-&lt;p&gt;Os roubos de veículos seguiram a mesma tendência e, pelo segundo ano consecutivo, apresentaram os menores indicadores da história tanto no acumulado do ano quanto no mês de dezembro. O balanço anual aponta uma queda de 21%, passando de 31.696 para 25.031 casos em 2025. No comparativo mensal, a redução foi de 42,9%, de 3.355 para 1.913 registros.&lt;/p&gt;
-&lt;p&gt;Os roubos de cargas atingiram o menor número da série, com 3.470 casos registrados ao longo de doze meses.&lt;/p&gt;
-&lt;p&gt;O índice representa uma queda de 26,3% em relação aos 4.711 casos contabilizados em 2024. No último mês, foram 270 ocorrências, 175 a menos do que no ano de 2024.&lt;/p&gt;
-&lt;p&gt;Os furtos em geral e os furtos de veículos também tiveram queda em 2025. O primeiro passou de 555.821 para 549.973 boletins. Já os furtos de veículos caíram 7%, passando de 93.996 para 87.334 registros. Em dezembro, os furtos em geral somaram 42.670 casos, uma queda de 6,6%, enquanto os furtos de veículos registraram 6.590 ocorrências, redução de 12% em relação ao mesmo mês de 2024.&lt;/p&gt;
-&lt;p&gt;Com janeiro chuvoso, país continua com bandeira tarifária verde&lt;/p&gt;
-&lt;p&gt;Ouça ao vivo na Rádio Nacional: Flamengo e Corinthians entram em campo pela Supercopa do Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-01/estado-de-sao-paulo-registra-recorde-de-feminicidios-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O estado de São Paulo registrouem 2025o maior número de feminicídios desde o início da série histórica, em 2018. Em todo o ano, os registros chegaram...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-01-30 18:18:00</wp:post_date>
-      <wp:post_date_gmt>2026-01-30 18:18:00</wp:post_date_gmt>
-      <wp:post_modified>2026-01-30 18:18:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-01-30 18:18:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/zdWQlnz2RpWzB4QV2ngs17ZP1as=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/05/14/img_4774.jpg?itok=EubEHPNU</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
