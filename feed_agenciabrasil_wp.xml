@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 04 Feb 2026 15:36:09 +0000</pubDate>
+    <pubDate>Wed, 04 Feb 2026 16:38:09 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,205 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Simulador de aposentadoria do INSS é reativado</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/simulador-de-aposentadoria-do-inss-e-reativado</link>
+      <pubDate>Wed, 04 Feb 2026 16:38:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/simulador-de-aposentadoria-do-inss-e-reativado#1000</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+O Ministério da Previdência Social, o Instituto Nacional do Seguro Social (INSS) e a Dataprev (Empresa de Tecnologi...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/F7quYSWRFplvFU_gmRvt8t7DYsM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20231102_131458.jpg?itok=CdNuysc4&quot; alt=&quot;Simulador de aposentadoria do INSS é reativado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Ministério da Previdência Social, o Instituto Nacional do Seguro Social (INSS) e a Dataprev (Empresa de Tecnologia e Informações da Previdência) reativaram, nesta quarta-feira (4), o&lt;/p&gt;
+&lt;p&gt;, após a suspensão do serviço, desde o fim de semana, para manutenção e atualização tecnológica dos sistemas da Dataprev.&lt;/p&gt;
+&lt;p&gt;O sistema passou por uma migração para uma infraestrutura mais moderna, visando maior estabilidade e segurança, segundo o Ministério da Previdência Social.&lt;/p&gt;
+&lt;p&gt;O serviço gratuito pode ser usado por qualquer pessoa para estimar o tempo que falta para se aposentar.&lt;/p&gt;
+&lt;p&gt;A simulação leva em conta requisitos como idade e tempo de contribuição para a Previdência e considera as informações que estão na base de dados do INSS.&lt;/p&gt;
+&lt;p&gt;Caso o contribuinte queira mudar algum dado para nova simulação, como idade, sexo e tempo de contribuição com vínculos e períodos, basta clicar no desenho de um lápis, ao lado da informação, e clicar no ícone ‘Recalcular’.&lt;/p&gt;
+&lt;p&gt;O INSS alerta que o resultado em tela gerado pela calculadora vale somente para consulta da estimativa de tempo para se aposentar e não garante direito à aposentadoria.&lt;/p&gt;
+&lt;p&gt;Os cidadãos podem encontrar o simulador de aposentadoria, no&lt;/p&gt;
+&lt;p&gt;Para acessar é preciso fazer o login com a&lt;/p&gt;
+&lt;p&gt;, por meio do número do Cadastro de Pessoa Física (CPF) e senha.&lt;/p&gt;
+&lt;p&gt;No menu principal, no alto da página, onde está escrito “Do que você precisa?”, basta procurar por &quot;simular aposentadoria&quot;.&lt;/p&gt;
+&lt;p&gt;O sistema cruzará os dados do extrato de contribuições, e o simulador já está atualizado com as novas regras de transição estabelecidas pela reforma da Previdência, vigentes em 2026.&lt;/p&gt;
+&lt;p&gt;O resultado informará as opções de aposentadoria por idade e por tempo de contribuição, a idade do segurado, além de cálculo estimado da renda mensal inicial.&lt;/p&gt;
+&lt;p&gt;, as mudanças na aposentadoria relativas à idade (de mulheres e homens) e pontos e entraram em vigor em 2026.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/simulador-de-aposentadoria-do-inss-e-reativado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+O Ministério da Previdência Social, o Instituto Nacional do Seguro Social (INSS) e a Dataprev (Empresa de Tecnologi...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-02-04 12:55:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-04 12:55:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-04 12:55:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-04 12:55:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/F7quYSWRFplvFU_gmRvt8t7DYsM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20231102_131458.jpg?itok=CdNuysc4</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Após assassinato, família de Mãe Bernadete é indenizada pelo Estado</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/apos-assassinato-familia-de-mae-bernadete-e-indenizada-pelo-estado</link>
+      <pubDate>Wed, 04 Feb 2026 16:38:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/apos-assassinato-familia-de-mae-bernadete-e-indenizada-pelo-estado#1001</guid>
+      <description>© Arte sobre foto de Walisson Braga/Conaq
+O governo da Bahia concluiu o pagamento da indenização para os familiares de Mãe Bernadete, liderança quilo...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QogMOrMOknisrGBBgaM5Iy0XYXw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mae-bernadette.png?itok=drJC3psJ&quot; alt=&quot;Após assassinato, família de Mãe Bernadete é indenizada pelo Estado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Arte sobre foto de Walisson Braga/Conaq&lt;/p&gt;
+&lt;p&gt;O governo da Bahia concluiu o pagamento da indenização para os familiares de Mãe Bernadete, liderança quilombola assassinada em 2023, em Simões Filho, na região metropolitana de Salvador.&lt;/p&gt;
+&lt;p&gt;A reparação faz parte de um acordo entre o estado da Bahia, a União e a família da vítima, e foi intermediado pela Secretaria de Justiça e Direitos Humanos. Os valores pagos são confidenciais, informou a Procuradoria Geral do Estado nessa terça-feira.&lt;/p&gt;
+&lt;p&gt;De acordo com a procuradora Mariana Oliveira, a solução extrajudicial representa &quot;uma forma concreta de reconhecer a gravidade do ocorrido&quot;.&lt;/p&gt;
+&lt;p&gt;Mãe Bernadete integrava a Coordenação Nacional de Articulação de Quilombos e foi assassinada com 22 tiros, dentro de casa, no Quilombo Pitanga dos Palmares, no dia 17 de agosto de 2023. As investigações apontam que o crime foi motivado por disputas territoriais e pela atuação da líder contra o uso do quilombo por grupos criminosos.&lt;/p&gt;
+&lt;p&gt;A família de Mãe Bernadete já está marcada por outra tragédia: seis anos antes, o filho dela, Binho do Quilombo, também foi assassinado.&lt;/p&gt;
+&lt;p&gt;Para Jurandy Pacífico, outro filho de Mãe Bernadete, o acordo com o estado tem caráter simbólico e também de proteção.Além da indenização, o acordo prevê a realização de um ato público em homenagem à líder quilombola, defensora dos direitos humanos, da liberdade religiosa e da diversidade cultural.&lt;/p&gt;
+&lt;p&gt;Dois acusados pela morte de Mãe Bernadete, Arielson da Conceição Santos, preso preventivamente, e Marílio dos Santos, foragido, vão a júri popular, marcado para começar no próximo dia 24 de fevereiro.&lt;/p&gt;
+&lt;p&gt;Outras quatro pessoas estão presas, também indiciadas pelo mesmo crime.&lt;/p&gt;
+&lt;p&gt;Governo, Congresso e STF lançam Pacto de Enfrentamento ao Feminicídio&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 12h: No Dia Mundial de Combate ao Câncer, INCA apresenta números da doença no Brasil&lt;/p&gt;
+&lt;p&gt;Corredor atravessa 4.260 km da Rodovia Transamazônica em 78 dias&lt;/p&gt;
+&lt;p&gt;COI pode mudar Jogos de Inverno para janeiro em busca de mais neve&lt;/p&gt;
+&lt;p&gt;Quatro regiões do país têm alerta de chuvas intensas até sábado (7)&lt;/p&gt;
+&lt;p&gt;Simulador de aposentadoria do INSS é reativado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/apos-assassinato-familia-de-mae-bernadete-e-indenizada-pelo-estado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Arte sobre foto de Walisson Braga/Conaq
+O governo da Bahia concluiu o pagamento da indenização para os familiares de Mãe Bernadete, liderança quilo...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-02-04 12:36:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-04 12:36:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-04 12:36:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-04 12:36:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/QogMOrMOknisrGBBgaM5Iy0XYXw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mae-bernadette.png?itok=drJC3psJ</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Brasil deve ter 781 mil novos casos de câncer por ano até 2028</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/brasil-deve-ter-781-mil-novos-casos-de-cancer-por-ano-ate-2028</link>
+      <pubDate>Wed, 04 Feb 2026 16:38:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/brasil-deve-ter-781-mil-novos-casos-de-cancer-por-ano-ate-2028#1002</guid>
+      <description>© REUTERS / Amanda Perobelli/Proibida reprodução
+O Brasil deve ter 781 mil novos casos de câncer por ano entre 2026 e 2028. O câncer se aproxima das ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/TwS1Nfemz9kSDajQWk6FMKtpmgA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_radiografia_de_torax_coronaviruscovid-19_hospital_sao_paulo1205200325.jpg?itok=duBe3kqq&quot; alt=&quot;Brasil deve ter 781 mil novos casos de câncer por ano até 2028&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS / Amanda Perobelli/Proibida reprodução&lt;/p&gt;
+&lt;p&gt;O Brasil deve ter 781 mil novos casos de câncer por ano entre 2026 e 2028. O câncer se aproxima das doenças cardiovasculares como principal causa de morte no país.&lt;/p&gt;
+&lt;p&gt;Os dados constam da publicação Estimativa 2026-2028: Incidência de Câncer no Brasil, do Instituto Nacional de Câncer (Inca), divulgada nesta quarta-feira (4), no Rio de Janeiro, no Dia Mundial do Câncer.&lt;/p&gt;
+&lt;p&gt;Segundo o Inca, os números refletem o envelhecimento da população, mas também desigualdades regionais e desafios persistentes no acesso à prevenção, ao diagnóstico precoce e ao tratamento rápido.&lt;/p&gt;
+&lt;p&gt;Entre os homens, os cinco tipos de câncer mais comuns são próstata (30,5%), cólon e reto (10,3%), pulmão (7,3%), estômago (5,4%) e cavidade oral (4,85).&lt;/p&gt;
+&lt;p&gt;Entre as mulheres, predominam o câncer de mama (30%), cólon e reto (10,5%), colo do útero (7,4%), pulmão (6,4%) e tireoide (5,1%).&lt;/p&gt;
+&lt;p&gt;Segundo o Inca, o câncer de colo do útero está entre os mais prevalentes no norte e nordeste do país. O câncer de estômago tem maior incidência entre os homens no norte e nordeste. Tumores associados ao tabagismo (pulmão e cavidade oral) são mais frequentes no sul e sudeste.&lt;/p&gt;
+&lt;p&gt;Para o Inca, as diferenças refletem o acesso desigual à prevenção, rastreamento e tratamento. “O Brasil é um país heterogêneo que tem a ver com urbanização e com a exposição a fatores de risco como a falta de saneamento básico. Mas estamos muito preocupados com o câncer de cólon e de reto porque vem aumentando a incidência. Tem a ver com a exposição precoce a fatores de risco, aumento da obesidade e do sedentarismo. Isso mostra que alguma coisa precisa ser feita”, disse o diretor-geral do Inca, Roberto Gil.&lt;/p&gt;
+&lt;p&gt;O ministro da Saúde, Alexandre Padilha, destacou que o câncer de colo do útero vem diminuindo com a vacinação contra o HPV (Papilomavírus Humano).&lt;/p&gt;
+&lt;p&gt;“O mais importante é a prevenção, é combater os hábitos que levam ao câncer como tabaco, principalmente entre os mais jovens, com os dispositivos eletrônicos, o crescimento da obesidade”, afirmou o ministro.&lt;/p&gt;
+&lt;p&gt;Padilha também cumpriu outra agenda no Rio de Janeiro nesta quarta-feira que foi a adesão da Amil ao programa&lt;/p&gt;
+&lt;p&gt;, o que representará 600 cirurgias em hospitais privados que serão abertas a pacientes que estão esperando nas filas do Sistema Único de Saúde (SUS).&lt;/p&gt;
+&lt;p&gt;Sobe para 16 o número de mortos em acidente com ônibus em Alagoas&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 12h: No Dia Mundial de Combate ao Câncer, INCA apresenta números da doença no Brasil&lt;/p&gt;
+&lt;p&gt;Corredor atravessa 4.260 km da Rodovia Transamazônica em 78 dias&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/brasil-deve-ter-781-mil-novos-casos-de-cancer-por-ano-ate-2028&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS / Amanda Perobelli/Proibida reprodução
+O Brasil deve ter 781 mil novos casos de câncer por ano entre 2026 e 2028. O câncer se aproxima das ...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-02-04 12:27:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-04 12:27:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-04 12:27:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-04 12:27:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/TwS1Nfemz9kSDajQWk6FMKtpmgA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_radiografia_de_torax_coronaviruscovid-19_hospital_sao_paulo1205200325.jpg?itok=duBe3kqq</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Afastado da presidência pelo STF, Bacellar renova licença na Alerj</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/afastado-da-presidencia-pelo-stf-bacellar-renova-licenca-na-alerj</link>
+      <pubDate>Wed, 04 Feb 2026 16:38:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/afastado-da-presidencia-pelo-stf-bacellar-renova-licenca-na-alerj#1003</guid>
+      <description>(União Brasil), afastado da presidência da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), renovou o pedido de licença do mandato. Ele es...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uDr681vzgOE78E8HGi6xdmZYysc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/03/26112025_162803ordemdodia_26_11_2025_thiagolontra-27.jpg?itok=kVqz-ZlO&quot; alt=&quot;Afastado da presidência pelo STF, Bacellar renova licença na Alerj&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;(União Brasil), afastado da presidência da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), renovou o pedido de licença do mandato. Ele está sem exercer o cargo desde 10 de dezembro.&lt;/p&gt;
+&lt;p&gt;durante a Operação Unha e Carne, da Polícia Federal (PF), em 3 de dezembro.&lt;/p&gt;
+&lt;p&gt;O parlamentar teria vazado informações sigilosas sobre investigação contra o ex-deputado estadual Thiego Raimundo dos Santos Silva, conhecido como TH Joias, acusado de intermediar compra e venda de armas para o Comando Vermelho (CV), principal facção criminosa do Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Mensagens interceptadaspelos investigadores&lt;/p&gt;
+&lt;p&gt;fundamentaram a decisão do Supremo Tribunal Federal (STF) para prender e afastar Bacellar da presidência da Alerj.&lt;/p&gt;
+&lt;p&gt;Bacellar ocupava o comando da Casa desde 2023. Nesse período, chegou a ocupar interinamente o cargo de governador na ausência do titular Cláudio Castro.&lt;/p&gt;
+&lt;p&gt;Cinco dias depois da prisão determinada pelo ministro do STF Alexandre de Moraes, o plenário da Alerj decidiu, por 42 votos a 21, pela soltura de Bacellar.&lt;/p&gt;
+&lt;p&gt;A decisão da Alerj está prevista na Constituição. Quando a Justiça decreta a prisão de um deputado federal ou estadual, a medida precisa ser ratificada pela respectiva Casa legislativa. Após a votação,Moraes expediu o&lt;/p&gt;
+&lt;p&gt;de Bacellar e determinou o uso de&lt;/p&gt;
+&lt;p&gt;No dia seguinte a soltura, Bacellar apresentou pedido de licença da Alerj por dez dias, até o início do recesso legislativo no estado, marcado para 19 de dezembro. A justificativa foi para resolver assuntos particulares.&lt;/p&gt;
+&lt;p&gt;O novo pedido de licença foi apresentado na volta do recesso, na última terça-feira (3), válida até 11 de fevereiro. Com o afastamento de Bacellar, a presidência da Alerj é ocupada pelo deputado Guilherme Delaroli (PL).&lt;/p&gt;
+&lt;p&gt;A Operação Zargun prendeu, em setembro, o então deputado estadual TH Joias. TH tinha assumido uma vaga na Alerj como suplente, cargo que perdeu após a prisão com a volta ao cargo do deputado titular.&lt;/p&gt;
+&lt;p&gt;A prisão de Bacellar, em dezembro, aconteceu enquanto ele prestava depoimento na sede da PF. A comunicação interceptada pela PF mostra que, na noite antes de ser preso, TH Joias procurou Bacellar, a quem chamou de &quot;01&quot;. O então presidente da Alerj orientou TH a esconder objetos que poderiam servir de prova. Os dois também se falaram na manhã da operação, antes de TH ser detido.&lt;/p&gt;
+&lt;p&gt;Por decisão do ministro Alexandre de Moares, Bacellar tem que usar tornozeleira eletrônica e obedecer a algumas restrições, como permanecer afastado da presidência da Alerj, recolhimento domiciliar das 19h às 6h de segunda a sexta-feira e nos finais de semana, feriados e dias de folga, proibição de se comunicar com outros investigados, suspensão de porte de arma e entrega de passaporte.&lt;/p&gt;
+&lt;p&gt;O caso de Bacellar foi para o STF por estar no âmbito da Arguição de Descumprimento de Preceito Fundamental (ADPF) 635, conhecida como ADPF das Favelas, que investiga a atuação dos principais grupos criminosos violentos no estado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/afastado-da-presidencia-pelo-stf-bacellar-renova-licenca-na-alerj&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>(União Brasil), afastado da presidência da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), renovou o pedido de licença do mandato. Ele es...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-02-04 12:08:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-04 12:08:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-04 12:08:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-04 12:08:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/uDr681vzgOE78E8HGi6xdmZYysc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/03/26112025_162803ordemdodia_26_11_2025_thiagolontra-27.jpg?itok=kVqz-ZlO</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Saiba os próximos passos do pedido de perda de patente de Bolsonaro</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/saiba-os-proximos-passos-do-pedido-de-perda-de-patente-de-bolsonaro</link>
-      <pubDate>Wed, 04 Feb 2026 15:36:09 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 16:38:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/saiba-os-proximos-passos-do-pedido-de-perda-de-patente-de-bolsonaro#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/saiba-os-proximos-passos-do-pedido-de-perda-de-patente-de-bolsonaro#1004</guid>
       <description>Ministério Público Militar (MPM) apresentou na terça-feira (3)
 ao Superior Tribunal Militar (STM) o pedido para que o ex-presidente Jair Bolsonaro, t...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ScUZ-IvbFNCe-XMnFqge0Ml6rLs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/03/0d4a3313.jpg?itok=r3WQkoti&quot; alt=&quot;Saiba os próximos passos do pedido de perda de patente de Bolsonaro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +241,7 @@ ao Superior Tribunal Militar (STM) o pedido para que o ex-presidente Jair Bolson
 &lt;p&gt;No plenário, tanto a acusação como a defesa terão nova oportunidade de se manifestar, dessa vez de forma oral, diretamente da tribuna da sala de audiências ou por videoconferência.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/saiba-os-proximos-passos-do-pedido-de-perda-de-patente-de-bolsonaro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Ministério Público Militar (MPM) apresentou na terça-feira (3)
 ao Superior Tribunal Militar (STM) o pedido para que o ex-presidente Jair Bolsonaro, t...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-02-04 11:51:00</wp:post_date>
       <wp:post_date_gmt>2026-02-04 11:51:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-04 11:51:00</wp:post_modified>
@@ -73,9 +267,9 @@ ao Superior Tribunal Militar (STM) o pedido para que o ex-presidente Jair Bolson
     <item>
       <title>Consulta ao Abono Salarial estará disponível a partir de amanhã</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/consulta-ao-abono-salarial-estara-disponivel-partir-de-amanha</link>
-      <pubDate>Wed, 04 Feb 2026 15:36:09 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 16:38:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/consulta-ao-abono-salarial-estara-disponivel-partir-de-amanha#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/consulta-ao-abono-salarial-estara-disponivel-partir-de-amanha#1005</guid>
       <description>© Marcello Casal Jr/Agência Brasil/Arquivo
 Trabalhadores poderão consultar, a partir desta quinta-feira (5), se têm direito ao Abono Salarial em 2026...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/oxAuNxzh_XQsvn8Y6I-mk3f2dVQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moeda_dinheiro_mcajr_2904223669.jpg?itok=JU2MIMHf&quot; alt=&quot;Consulta ao Abono Salarial estará disponível a partir de amanhã&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +290,7 @@ Trabalhadores poderão consultar, a partir desta quinta-feira (5), se têm direi
 &lt;p&gt;No Banco do Brasil, da mesma forma, o pagamento será realizado prioritariamente por crédito em conta bancária. Também poderá ser feito por transferência via TED, PIX ou de forma presencial nas agências, para trabalhadores não correntistas e que não possuam chave PIX.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/consulta-ao-abono-salarial-estara-disponivel-partir-de-amanha&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal Jr/Agência Brasil/Arquivo
 Trabalhadores poderão consultar, a partir desta quinta-feira (5), se têm direito ao Abono Salarial em 2026...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-02-04 11:49:00</wp:post_date>
       <wp:post_date_gmt>2026-02-04 11:49:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-04 11:49:00</wp:post_modified>
@@ -122,9 +316,9 @@ Trabalhadores poderão consultar, a partir desta quinta-feira (5), se têm direi
     <item>
       <title>MPF pede bloqueio de R$ 1,2 bi da Vale por vazamento em Congonhas (MG)</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/mpf-pede-bloqueio-de-r-12-bi-da-vale-por-vazamento-em-congonhas-mg</link>
-      <pubDate>Wed, 04 Feb 2026 15:36:09 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 16:38:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/mpf-pede-bloqueio-de-r-12-bi-da-vale-por-vazamento-em-congonhas-mg#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/mpf-pede-bloqueio-de-r-12-bi-da-vale-por-vazamento-em-congonhas-mg#1006</guid>
       <description>O Ministério Público Federal (MPF) pediu à Justiça Federal o bloqueio de R$ 1,2 bilhão da mineradora Vale, em duas ações ligadas a vazamentos de água...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6TUZl03_Tq-X66lR3sNqqTU28bA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/vale_do_rio_doce_20081921056.jpg?itok=AbWOJjF2&quot; alt=&quot;MPF pede bloqueio de R$ 1,2 bi da Vale por vazamento em Congonhas (MG)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Ministério Público Federal (MPF) pediu à Justiça Federal o bloqueio de R$ 1,2 bilhão da mineradora Vale, em duas ações ligadas a vazamentos de água e sedimentos ocorridos em janeiro nas minas de Viga e Fábrica, ambas na cidade mineira de Congonhas.&lt;/p&gt;
@@ -140,10 +334,10 @@ Trabalhadores poderão consultar, a partir desta quinta-feira (5), se têm direi
 &lt;p&gt;O material levado pelo vazamento chegou a atingir uma área de outra mineradora - a CSN - provocando danos materiais. Depois, essa lama chegou ao rio Goiabeiras, que atravessa parte da área urbana da cidade, antes de se encontrar com o rio Maranhão, já na área central de Congonhas.&lt;/p&gt;
 &lt;p&gt;O rio Goiabeiras é afluente do rio Maranhão e este, por sua vez, deságua no Paraopeba, o mesmo que passa por Brumadinho e foi atingido pelo rompimento de uma barragem da Vale em&lt;/p&gt;
 &lt;p&gt;25 de janeiro de 2019, há sete anos&lt;/p&gt;
-&lt;p&gt;SUS oferece vacina contra bronquiolite para bebês prematuros&lt;/p&gt;
+&lt;p&gt;Sobe para 16 o número de mortos em acidente com ônibus em Alagoas&lt;/p&gt;
 &lt;p&gt;Viva Maria abre alas para uma campanha por mais mulheres no poder&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/mpf-pede-bloqueio-de-r-12-bi-da-vale-por-vazamento-em-congonhas-mg&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Ministério Público Federal (MPF) pediu à Justiça Federal o bloqueio de R$ 1,2 bilhão da mineradora Vale, em duas ações ligadas a vazamentos de água...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-02-04 11:18:00</wp:post_date>
       <wp:post_date_gmt>2026-02-04 11:18:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-04 11:18:00</wp:post_modified>
@@ -169,9 +363,9 @@ Trabalhadores poderão consultar, a partir desta quinta-feira (5), se têm direi
     <item>
       <title>Três Poderes lançam pacto para enfrentamento ao feminicídio no Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/tres-poderes-lancam-pacto-para-enfrentamento-ao-feminicidio-no-brasil</link>
-      <pubDate>Wed, 04 Feb 2026 15:36:09 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 16:38:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/tres-poderes-lancam-pacto-para-enfrentamento-ao-feminicidio-no-brasil#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/tres-poderes-lancam-pacto-para-enfrentamento-ao-feminicidio-no-brasil#1007</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O governo federal, o Congresso Nacional e o Poder Judiciário lançam nesta quarta-feira (4) o Pacto Nacional – Brasil...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MNysAmflb1L-B_ne5riz2ZvL2SM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/07/ato-mulheres-vivas-mc_abr_07122025-15.jpg?itok=_UHgHIZw&quot; alt=&quot;Três Poderes lançam pacto para enfrentamento ao feminicídio no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -192,7 +386,7 @@ O governo federal, o Congresso Nacional e o Poder Judiciário lançam nesta quar
 &lt;p&gt;42 casos de feminicídio por dia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/tres-poderes-lancam-pacto-para-enfrentamento-ao-feminicidio-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O governo federal, o Congresso Nacional e o Poder Judiciário lançam nesta quarta-feira (4) o Pacto Nacional – Brasil...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-02-04 09:31:00</wp:post_date>
       <wp:post_date_gmt>2026-02-04 09:31:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-04 09:31:00</wp:post_modified>
@@ -218,9 +412,9 @@ O governo federal, o Congresso Nacional e o Poder Judiciário lançam nesta quar
     <item>
       <title>Lei do licenciamento ambiental entra em vigor com ações no STF</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/lei-do-licenciamento-ambiental-entra-em-vigor-com-acoes-no-stf-0</link>
-      <pubDate>Wed, 04 Feb 2026 15:36:09 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 16:38:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/lei-do-licenciamento-ambiental-entra-em-vigor-com-acoes-no-stf-0#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/lei-do-licenciamento-ambiental-entra-em-vigor-com-acoes-no-stf-0#1008</guid>
       <description>A Lei Geral do Licenciamento Ambiental (15.190/2025) começou a vigorar nesta quarta-feira (4) depois de completar 180 dias
 desde que foi sancionada c...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Tlv89-j9ukpO52N_L1-WH0XJVDQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/30/d0b2dadb-f4b1-4d44-89b1-8d06476eced2.jpeg?itok=WzuJLRdX&quot; alt=&quot;Lei do licenciamento ambiental entra em vigor com ações no STF&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -241,7 +435,7 @@ desde que foi sancionada c...</description>
 &lt;p&gt;“A gente considera um prazo muito pequeno para a realização de qualquer consulta livre prévia e informada. Nem todos os povos têm um protocolo específico para isso, o que já é um primeiro empecilho e dificulta. Sendo que quando não se tem, realmente tem que fazer uma escuta de qualidade daquela comunidade para entender efetivamente quais são os impactos que aquele empreendimento vai ter no território e como isso vai influenciar a cultura dentro daquela comunidade”, enfatiza.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/lei-do-licenciamento-ambiental-entra-em-vigor-com-acoes-no-stf-0&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Lei Geral do Licenciamento Ambiental (15.190/2025) começou a vigorar nesta quarta-feira (4) depois de completar 180 dias
 desde que foi sancionada c...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-02-04 09:24:00</wp:post_date>
       <wp:post_date_gmt>2026-02-04 09:24:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-04 09:24:00</wp:post_modified>
@@ -267,9 +461,9 @@ desde que foi sancionada c...</excerpt:encoded>
     <item>
       <title>Investimentos institucionais em ações foram de R$ 1,7 trilhão em 2025</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/investimentos-institucionais-em-acoes-foram-de-r-17-trilhao-em-2025</link>
-      <pubDate>Wed, 04 Feb 2026 15:36:09 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 16:38:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/investimentos-institucionais-em-acoes-foram-de-r-17-trilhao-em-2025#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/investimentos-institucionais-em-acoes-foram-de-r-17-trilhao-em-2025#1009</guid>
       <description>© REUTERS/Amanda Perobelli/Proibida reprodução
 Os investimentos de instituições na B3 em 2025 foram de R$ 1,7 trilhão no mercado à vista, sendoR$ 997...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2N2T-l_0s5gjnm8D-iQK9pNBgJw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2020-10-01t205311z_1_lynxmpeg9051s_rtroptp_4_bovespa-fecha.jpg?itok=iFGHvvm-&quot; alt=&quot;Investimentos institucionais em ações foram de R$ 1,7 trilhão em 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -281,12 +475,16 @@ Os investimentos de instituições na B3 em 2025 foram de R$ 1,7 trilhão no mer
 &lt;p&gt;. As empresas de energia atraíram R$ 130,4 bilhões, sendo R$ 67,9 bilhões na Petrobras (PETR4), R$ 21,8 bilhões na Prio (PRIO3), R$ 20,7 bilhões na Axia Energia (AXIA3) eR$ 20 bilhões na Equatorial Energia (EQTL3).&lt;/p&gt;
 &lt;p&gt;Entre os bancos o total foi de R$ 114,5 bilhões, com o Itaú Unibanco (ITUB4) atraindo R$ 45 bilhões, o Banco do Brasil (BBAS3) R$ 37,8 bilhões e o Bradesco (BBDC4) R$ 31,7 bilhões&lt;/p&gt;
 &lt;p&gt;. Fechando a lista de dez ações com maior volume de investimentos, o fundo B3 (B3SA3) recebeu aportes de R$ 22 bilhões e a Localiza (RENT3) atraiu R$ 20,8 bilhões.&lt;/p&gt;
-&lt;p&gt;SUS oferece vacina contra bronquiolite para bebês prematuros&lt;/p&gt;
-&lt;p&gt;Viva Maria abre alas para uma campanha por mais mulheres no poder&lt;/p&gt;
-&lt;p&gt;Corredor atravessa 4.260 km da Rodovia Transamazônica em 78 dias&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/investimentos-institucionais-em-acoes-foram-de-r-17-trilhao-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Governo, Congresso e STF lançam Pacto de Enfrentamento ao Feminicídio&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 12h: No Dia Mundial de Combate ao Câncer, INCA apresenta números da doença no Brasil&lt;/p&gt;
+&lt;p&gt;Corredor atravessa 4.260 km da Rodovia Transamazônica em 78 dias&lt;/p&gt;
+&lt;p&gt;COI pode mudar Jogos de Inverno para janeiro em busca de mais neve&lt;/p&gt;
+&lt;p&gt;Quatro regiões do país têm alerta de chuvas intensas até sábado (7)&lt;/p&gt;
+&lt;p&gt;Simulador de aposentadoria do INSS é reativado&lt;/p&gt;
+&lt;p&gt;Após assassinato, família de Mãe Bernadete é indenizada pelo Estado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/investimentos-institucionais-em-acoes-foram-de-r-17-trilhao-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Amanda Perobelli/Proibida reprodução
 Os investimentos de instituições na B3 em 2025 foram de R$ 1,7 trilhão no mercado à vista, sendoR$ 997...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-02-04 09:11:00</wp:post_date>
       <wp:post_date_gmt>2026-02-04 09:11:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-04 09:11:00</wp:post_modified>
@@ -307,202 +505,6 @@ Os investimentos de instituições na B3 em 2025 foram de R$ 1,7 trilhão no mer
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/2N2T-l_0s5gjnm8D-iQK9pNBgJw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2020-10-01t205311z_1_lynxmpeg9051s_rtroptp_4_bovespa-fecha.jpg?itok=iFGHvvm-</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Desordem mundial de Trump: ONG alerta para autoritarismo em 100 países</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/desordem-mundial-de-trump-ong-alerta-para-autoritarismo-em-100-paises</link>
-      <pubDate>Wed, 04 Feb 2026 15:36:09 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/desordem-mundial-de-trump-ong-alerta-para-autoritarismo-em-100-paises#1006</guid>
-      <description>© REUTERS/Antranik Tavitian/Proibida reprodução
-A organização não-governamental Human Rights Watch (HRWE) alerta para o aumento do autoritarismo e o ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ocRjpU4J4uI-cemaSSIt3pWGPFg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/31/2026-01-31t060803z_1365057558_rc2vbjawtxxp_rtrmadp_3_usa-trump-protests.jpg?itok=gFbGMbY6&quot; alt=&quot;Desordem mundial de Trump: ONG alerta para autoritarismo em 100 países&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Antranik Tavitian/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;A organização não-governamental Human Rights Watch (HRWE) alerta para o aumento do autoritarismo e o retrocesso da democracia em mais de 100 países, apontando sobretudo o caso dos EUA, mas também Rússia e China.&lt;/p&gt;
-&lt;p&gt;Em seu relatório anual, divulgado nesta quarta-feira (4), a ONG considera que as salvaguardas e proteções dos direitos humanos em todo o mundo &quot;têm sido devastados pelo presidente dos Estados Unidos&quot;, Donald Trump, e pelo crescente autoritarismo, pedindo às democracias que formem &quot;uma aliança estratégica para preservar a ordem internacional baseada em regras&quot;.&lt;/p&gt;
-&lt;p&gt;&quot;[É preciso] conter a onda autoritária que varre o mundo&quot;, pediu o diretor executivo da HRW, Philippe Bolopion, citado no relatório, no qual acrescentou que esse &quot;é o desafio de uma geração&quot;.&lt;/p&gt;
-&lt;p&gt;&quot;O sistema global de Direitos Humanos está em perigo. Sob grande pressão do presidente dos Estados Unidos, Donald Trump, e persistentemente minada pela China e pela Rússia, a ordem internacional regida por leis está sendo destruída&quot;, diz o documento.&lt;/p&gt;
-&lt;p&gt;&quot;Os recentes abusos dos EUA – desde os ataques à liberdade de expressão até a deportação de pessoas para países terceiros onde podem sofrer tortura – mostram o ataque do governo ao Estado de Direito.&quot;&lt;/p&gt;
-&lt;p&gt;As ações da administração Trump, somadas aos &quot;esforços antigos&quot; da China e da Rússia para enfraquecer a ordem global baseada em regras, &quot;têm enormes repercussões em todo o mundo&quot;, afirmou a organização.&lt;/p&gt;
-&lt;p&gt;Para a HRW, a situação foi impulsionada sobretudo pelos EUA e, em particular, por Donald Trump, que &quot;reduziu a responsabilização do governo, atacou a independência judicial, desrespeitou ordens judiciais, cortou drasticamente a ajuda alimentar e subsídios de saúde, revogou os direitos das mulheres, obstruiu o acesso ao aborto, minou as medidas de reparação por danos raciais, retirou as proteções às pessoas trans e intersexo e corroeu a privacidade&quot;.&lt;/p&gt;
-&lt;p&gt;Além de tudo isso, o atual mandatário tem &quot;usado o poder do governo para intimidar adversários políticos, meios de comunicação social, escritórios de advocacia, universidades, sociedade civil e até mesmo comediantes&quot;.&lt;/p&gt;
-&lt;p&gt;A política externa da administração Trump também é criticada pelo diretor executivo da HRW:&lt;/p&gt;
-&lt;p&gt;&quot;Alegando um risco de apagamento civilizacional na Europa e apoiando-se em estereótipos racistas para retratar populações inteiras como indesejáveis nos EUA, a Administração Trump adotou políticas e retórica que se alinham com a ideologia nacionalista branca.&quot;&lt;/p&gt;
-&lt;p&gt;Concretamente, a ONG se refere às ações do Serviço de Imigração e Alfândega dos EUA (ICE), cujos agentes usam &quot;força excessiva, aterrorizando comunidades, prendendo indevidamente dezenas de cidadãos e, mais recentemente, matando injustificadamente duas pessoas em Minneapolis&quot;.&lt;/p&gt;
-&lt;p&gt;&quot;A mensagem é clara: na nova desordem mundial de Trump, o poder dita o que é certo e atrocidades não são impedimentos para acordos&quot;, considera a HRW.&lt;/p&gt;
-&lt;p&gt;A política externa de Trump &quot;subverteu os fundamentos da ordem internacional baseada em regras que procura promover a democracia e os direitos humanos. Trump vangloriou-se de não precisar do direito internacional como restrição, apenas da sua própria moralidade&quot;, acusou ainda.&lt;/p&gt;
-&lt;p&gt;&quot;O governo [de Trump] cancelou abruptamente quase toda a ajuda externa dos EUA, incluindo o financiamento para ajuda humanitária vital e retirou os EUA de instituições multilaterais essenciais para a proteção global dos direitos humanos, incluindo o Conselho dos Direitos Humanos das Nações Unidas e o Acordo de Paris sobre o Clima&quot;, criticou Philippe Bolopion.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/desordem-mundial-de-trump-ong-alerta-para-autoritarismo-em-100-paises&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Antranik Tavitian/Proibida reprodução
-A organização não-governamental Human Rights Watch (HRWE) alerta para o aumento do autoritarismo e o ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-02-04 09:06:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-04 09:06:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-04 09:06:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-04 09:06:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/ocRjpU4J4uI-cemaSSIt3pWGPFg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/31/2026-01-31t060803z_1365057558_rc2vbjawtxxp_rtrmadp_3_usa-trump-protests.jpg?itok=gFbGMbY6</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Caso Orelha: polícia pede internação de adolescente envolvido no crime</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/caso-orelha-policia-pede-internacao-de-adolescente-envolvido-no-crime</link>
-      <pubDate>Wed, 04 Feb 2026 15:36:09 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/caso-orelha-policia-pede-internacao-de-adolescente-envolvido-no-crime#1007</guid>
-      <description>© REUTERS/Alexandre Meneghini/Proibida reprodução
-A Polícia Civil de Santa Catarina concluiu na noite dessa terça-feira (3) a investigação sobre o
-, ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Fq1DcD3vvNKgNMUkw150Z100LTA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/04/2026-02-01t201838z_1320438574_rc22dja8y3s7_rtrmadp_3_brazil-protest-animal-rights.jpg?itok=Rx8ka-Nn&quot; alt=&quot;Caso Orelha: polícia pede internação de adolescente envolvido no crime&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Alexandre Meneghini/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;A Polícia Civil de Santa Catarina concluiu na noite dessa terça-feira (3) a investigação sobre o&lt;/p&gt;
-&lt;p&gt;, que foi agredido por quatro adolescentes no dia 4 de janeiro na Praia Brava, em Santa Catarina. Ele morreu no dia 5.&lt;/p&gt;
-&lt;p&gt;As autoridades também concluíram os trabalhos a respeito do caso do cachorro Caramelo, atacado por outros quatro adolescentes, mas que conseguiu escapar com vida.&lt;/p&gt;
-&lt;p&gt;Segundo a Polícia Civil de Santa Catarina, um adolescente envolvido na morte de Orelha, cão que era cuidado pela comunidade local, teve pedido de internação. Além disso, três adultos — parentes dos agressores — foram indiciados por coação atestemunha.&lt;/p&gt;
-&lt;p&gt;Após análise do laudo de corpo de delito, a polícia revelou que na madrugada do dia 4 de janeiro, por volta das 5h30, Orelha, de cerca de 10 anos de idade, sofreu uma “pancada contundente na cabeça, que pode ter sido um chute ou algum objeto rígido, como madeira ou garrafa&quot;. O animalfoi levado ainda com vida a um veterinário, mas não resistiu aos ferimentos.&lt;/p&gt;
-&lt;p&gt;As autoridades afirmam ter analisado mais de mil horas de imagens das câmeras de segurança da região. Foram ouvidas 24 testemunhas e houve a análise de muitas provas.&lt;/p&gt;
-&lt;p&gt;O adolescente que teve a internação pedida pela polícia é o mesmo que viajou para a Disney logo após o ataque a Orelha. Ele retornou ao país no dia 29 de janeiro, quando foi abordado pelas autoridades ainda no aeroporto.&lt;/p&gt;
-&lt;p&gt;No caso do Caramelo, quatro adolescentes foram representados, ou seja, houve a instauração de um inquérito policial. Segundo a polícia, os rapazes tentaram afogar o animalno mar. Caramelo conseguiu escapar dos agressores e foi adotado pelo delegado-geral da Polícia Civil de Santa Catarina, Ulisses Gabriel.&lt;/p&gt;
-&lt;p&gt;SUS oferece vacina contra bronquiolite para bebês prematuros&lt;/p&gt;
-&lt;p&gt;Viva Maria abre alas para uma campanha por mais mulheres no poder&lt;/p&gt;
-&lt;p&gt;Corredor atravessa 4.260 km da Rodovia Transamazônica em 78 dias&lt;/p&gt;
-&lt;p&gt;Afastado da presidência pelo STF, Bacellar renova licença na Alerj&lt;/p&gt;
-&lt;p&gt;Saiba os próximos passos do pedido de perda de patente de Bolsonaro&lt;/p&gt;
-&lt;p&gt;Consulta ao Abono Salarial estará disponível a partir de amanhã&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/caso-orelha-policia-pede-internacao-de-adolescente-envolvido-no-crime&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Alexandre Meneghini/Proibida reprodução
-A Polícia Civil de Santa Catarina concluiu na noite dessa terça-feira (3) a investigação sobre o
-, ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-02-04 09:06:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-04 09:06:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-04 09:06:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-04 09:06:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Fq1DcD3vvNKgNMUkw150Z100LTA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/04/2026-02-01t201838z_1320438574_rc22dja8y3s7_rtrmadp_3_brazil-protest-animal-rights.jpg?itok=Rx8ka-Nn</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Projeto reaproveita fantasias da Sapucaí para novos foliões</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/projeto-reaproveita-fantasias-da-sapucai-para-novos-folioes</link>
-      <pubDate>Wed, 04 Feb 2026 15:36:09 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/projeto-reaproveita-fantasias-da-sapucai-para-novos-folioes#1008</guid>
-      <description>© Projeto Sustenta Carnaval/Divulg
-Para reutilizar parte daquantidade de resíduos gerados pelas escolas de samba nos desfiles na Avenida Marquês de S...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uDHduHWI36F5qVbCMhMwFnSn0RA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/03/img_2213_copy.jpg?itok=zVHXsJyk&quot; alt=&quot;Projeto reaproveita fantasias da Sapucaí para novos foliões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Projeto Sustenta Carnaval/Divulg&lt;/p&gt;
-&lt;p&gt;Para reutilizar parte daquantidade de resíduos gerados pelas escolas de samba nos desfiles na Avenida Marquês de Sapucaí, Mariana Pinho, fundou o Projeto Sustenta Carnaval em 2022.&lt;/p&gt;
-&lt;p&gt;O trabalho de reciclagem desse material para mitigar o impacto dos produtos têxteis no meio ambiente recolheu 3 toneladas de resíduos de fantasias dos desfiles já em seu primeiro ano, e continuou crescendo.&lt;/p&gt;
-&lt;p&gt;O projeto se tornou parceiro da Rio Carnaval e da Liga Independente das Escolas de Samba no Rio de Janeiro (Liesa) na gestão de resíduos têxteis da Sapucaí.&lt;/p&gt;
-&lt;p&gt;Em 2023, foram recolhidas 23 toneladas; em 2024, 24 toneladas; e em 2025, 23 toneladas.&lt;/p&gt;
-&lt;p&gt;O Sustenta Carnaval encaminha o material para um galpão no território da Pequena África, no bairro da Gamboa, em frente ao Museu da História e da Cultura Afro-Brasileira.&lt;/p&gt;
-&lt;p&gt;Localizado na Rua Pedro Ernesto67,&lt;/p&gt;
-&lt;p&gt;o espaço tem as portas abertaspara o público garimpar fantasias&lt;/p&gt;
-&lt;p&gt;de quarta a sexta, das 14h às 19h, e sábado, das 10h às 19h.&lt;/p&gt;
-&lt;p&gt;“Temos compradores que são da arte, do mundo do carnaval, que entendem que aquilo tudo ia para o lixo, e ficam emocionados. Temos amantes da moda, do figurino, de cenário, que ficam o dia inteiro”, conta Mariana.&lt;/p&gt;
-&lt;p&gt;“A questão ambiental é como se fosse o fechamento do ciclo do enredo. Reutilizando essas fantasias, fazemos com que a receita gere emprego para as pessoas do território que fazem parte desse movimento do samba”, acrescenta.&lt;/p&gt;
-&lt;p&gt;O figurinista Wagner Louza tem um ateliê no Santo Cristo em que reutiliza as fantasias do Sustenta Carnaval e cria outras peças. Ele trabalha com material reciclado e adiciona poucos materiais novos, porque precisa ressignificar a fantasia.&lt;/p&gt;
-&lt;p&gt;“Há quatro anos, o projeto Sustenta contribui bastante para meu trabalho, porque eles oferecem os insumos. Com esse material, produzo figurinos para carnaval e festa junina. O carnaval não conta somente a história do carnaval mas também a história da nossa cultura”, diz Wagner.&lt;/p&gt;
-&lt;p&gt;Já a figurinista Lohanne Tavares produzbiquinis,&lt;/p&gt;
-&lt;p&gt;(biquini de cintura alta) e adereços de cintura com o resto das fantasias, e tem conseguido alcançaro público jovem.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/projeto-reaproveita-fantasias-da-sapucai-para-novos-folioes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Projeto Sustenta Carnaval/Divulg
-Para reutilizar parte daquantidade de resíduos gerados pelas escolas de samba nos desfiles na Avenida Marquês de S...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-02-04 09:02:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-04 09:02:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-04 09:02:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-04 09:02:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/uDHduHWI36F5qVbCMhMwFnSn0RA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/03/img_2213_copy.jpg?itok=zVHXsJyk</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Portela exalta personagem central de culto afro do Rio Grande do Sul</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/portela-exalta-personagem-central-de-culto-afro-do-rio-grande-do-sul</link>
-      <pubDate>Wed, 04 Feb 2026 15:36:09 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/portela-exalta-personagem-central-de-culto-afro-do-rio-grande-do-sul#1009</guid>
-      <description>Uma das escolas de samba mais tradicionais do Rio de Janeiro, a Portelavai contarna avenida as origens e a tradiçãodo batuque, reconhecida como princ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/JWezzPUvJk_K-rKYy20V-k3JFps=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/21/banner_2.jpg?itok=lvKbzhl2&quot; alt=&quot;Portela exalta personagem central de culto afro do Rio Grande do Sul&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Uma das escolas de samba mais tradicionais do Rio de Janeiro, a Portelavai contarna avenida as origens e a tradiçãodo batuque, reconhecida como principal religião de matriz africana praticada no sul do Brasil. A história será contada no enredo&lt;/p&gt;
-&lt;p&gt;O Mistério do Príncipe do Bará — A oração do negrinho e a ressurreição de sua coroa sob o céu aberto do Rio Grande&lt;/p&gt;
-&lt;p&gt;O batuque (ou nação) forma com o candomblé (na Bahia), a Jurema Sagrada (Alagoas, Paraíba, Pernambuco e Rio Grande do Norte), o tambor de mina (Maranhão), a umbanda (Rio de Janeiro) e o Xangô de Pernambuco o altar das principais religiões afrobrasileiras.&lt;/p&gt;
-&lt;p&gt;&gt;&gt;Enredos das escolas de samba contam a história não oficial&lt;/p&gt;
-&lt;p&gt;&gt;&gt;Conheça os enredos das escolas do Grupo Especial do Rio em 2026&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Acompanhe a cobertura do carnaval na Agência Brasil&lt;/p&gt;
-&lt;p&gt;Conforme o enredo do Grêmio Recreativo Escola de Samba Portela, o Principe do Bará seria o nobre Osuanlele Okizi Erupê, um líder religioso que no Brasil adotou o nome Custódio Joaquim de Almeida. Osuanlele ou Custódio nasceu no Século 19 no golfo da Guiné (litoral ocidental da África) e morreu em Porto Alegre, capital gaúcha,na década de 30 do século passado.&lt;/p&gt;
-&lt;p&gt;As datas exatas de nascimento e morte, e a própria origem nobre do Principe do Bará, são objeto de discussão entre historiadores e antropólogos, como indica&lt;/p&gt;
-&lt;p&gt;estudo publicadopeloArquivo Público do Estado do Rio Grande do Sul&lt;/p&gt;
-&lt;p&gt;A despeito da controvérsia acadêmica, o samba-enredo da Portela quer “resgatar a tradição/ onde a África assenta”. Odesfile da Portela lançará luz sobre dados que apresentam umBrasil que contesta o senso comum: conforme o&lt;/p&gt;
-&lt;p&gt;Censo Populacional do IBGE (2022)&lt;/p&gt;
-&lt;p&gt;, há proporcionalmente mais pessoas praticantes ou devotas de religiões de matriz africana no Rio Grande do Sul (3,2%) do que no Rio de Janeiro (2,6%) ou na Bahia (1%)&lt;/p&gt;
-&lt;p&gt;&quot;Nossa proposta é debater a descentralização da historicidade negra do Brasil, focando na formação do Rio Grande do Sul”, detalha André Rodrigues carnavalesco da Portela em material distribuído pela escola.&lt;/p&gt;
-&lt;p&gt;Atribui-se ao Principe Custódio um papel fundamental de mediação entre a população negra e as elites políticas gaúchas, como uma liderança religiosa protetora e depositária de conhecimentos e liturgias de cultos africanos.&lt;/p&gt;
-&lt;p&gt;“Ele era uma das pessoas que possibilitou a consolidação dessa religião, deixando-a mais visível. Ela estava láem Porto Alegre, mesmo que muitas vezes escondida nos bairros mais afastados. Ele serviu para legitimar de forma transparente uma realidade que existia dentro da cidade e que era mascarada por conta do grande fluxo de migração branca”, assinala a antropóloga Maria Helena Nunes da Silva em dissertação citada na publicação do Arquivo Público do Estado do Rio Grande do Sul.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/portela-exalta-personagem-central-de-culto-afro-do-rio-grande-do-sul&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Uma das escolas de samba mais tradicionais do Rio de Janeiro, a Portelavai contarna avenida as origens e a tradiçãodo batuque, reconhecida como princ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-02-04 08:32:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-04 08:32:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-04 08:32:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-04 08:32:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/JWezzPUvJk_K-rKYy20V-k3JFps=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/21/banner_2.jpg?itok=lvKbzhl2</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
