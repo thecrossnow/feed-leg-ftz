@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Thu, 05 Feb 2026 18:39:12 +0000</pubDate>
+    <pubDate>Thu, 05 Feb 2026 19:33:21 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,301 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Balança comercial tem segundo melhor resultado para janeiro</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/balanca-comercial-tem-segundo-melhor-resultado-para-janeiro</link>
+      <pubDate>Thu, 05 Feb 2026 19:33:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/balanca-comercial-tem-segundo-melhor-resultado-para-janeiro#1000</guid>
+      <description>A balança comercial registrou o segundo maior superávit para meses de janeiro desde o início da série histórica, beneficiada pela queda das importaçõ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/gviikANFZH9TO2bqFLRLmnCC21g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/11/c7ce57c4-3ca3-44b5-a68b-9e4e44e7e8bb.jpeg?itok=bcQCT5AO&quot; alt=&quot;Balança comercial tem segundo melhor resultado para janeiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A balança comercial registrou o segundo maior superávit para meses de janeiro desde o início da série histórica, beneficiada pela queda das importações, divulgou nesta quinta-feira (5) o Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic).&lt;/p&gt;
+&lt;p&gt;No mês passado, as exportações superaram as importações em US$ 4,342 bilhões, alta de 85,8% em relação ao superávit de US$ 2,337 bilhões no mesmo mês de 2025.&lt;/p&gt;
+&lt;p&gt;O resultado da balança comercial para meses de janeiro só perde para 2024. Naquele mês, houve superávit de US$ 6,196 bilhões.&lt;/p&gt;
+&lt;p&gt;O valor das exportações e das importações:&lt;/p&gt;
+&lt;p&gt;Exportações: US$ 25,153 bilhões, queda de 1% em relação a janeiro do ano passado;&lt;/p&gt;
+&lt;p&gt;Importações: US$ 20,810 bilhões, queda de 9,8% na mesma comparação.&lt;/p&gt;
+&lt;p&gt;O valor das exportações é o terceiro melhor para meses de janeiro desde o início da série histórica, em 1989, só perdendo para janeiro de 2024 e de 2025. As importações registraram o segundo melhor janeiro da série, só perdendo para o mesmo mês do ano passado.&lt;/p&gt;
+&lt;p&gt;Na distribuição por setores da economia, as exportações em janeiro variaram da seguinte forma:&lt;/p&gt;
+&lt;p&gt;Agropecuária: 2,1%, com queda de 3,4% no volume e alta de 5,3% no preço médio;&lt;/p&gt;
+&lt;p&gt;Indústria extrativa: -3,4%, com alta de 6,2% no volume e queda de 9,1% no preço médio;&lt;/p&gt;
+&lt;p&gt;Indústria de transformação: -0,5%, com recuo de 0,6% no volume e de 0,1% no preço médio.&lt;/p&gt;
+&lt;p&gt;Os principais produtos responsáveis pela queda das exportações em janeiro foram os seguintes:&lt;/p&gt;
+&lt;p&gt;Agropecuária: café não torrado (-23,7%); algodão bruto (-31,2%); e trigo e centeio não moídos (-33,6%);&lt;/p&gt;
+&lt;p&gt;Indústria extrativa, óleos brutos de petróleo (-7,8%); e minério de ferro (-8,6%);&lt;/p&gt;
+&lt;p&gt;Indústria de transformação: óxido de alumínio, exceto corindo artificial (-54,6%); açúcares e melaços (-27,2%) e tabaco (-50,4%).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/balanca-comercial-tem-segundo-melhor-resultado-para-janeiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A balança comercial registrou o segundo maior superávit para meses de janeiro desde o início da série histórica, beneficiada pela queda das importaçõ...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-02-05 15:49:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-05 15:49:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-05 15:49:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-05 15:49:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/gviikANFZH9TO2bqFLRLmnCC21g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/11/c7ce57c4-3ca3-44b5-a68b-9e4e44e7e8bb.jpeg?itok=bcQCT5AO</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Pacto contra o feminicídio busca colocar leis em prática, diz Lula</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/pacto-contra-o-feminicidio-busca-colocar-leis-em-pratica-diz-lula</link>
+      <pubDate>Thu, 05 Feb 2026 19:33:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/pacto-contra-o-feminicidio-busca-colocar-leis-em-pratica-diz-lula#1001</guid>
+      <description>© Fabio Rodrigues-Pozzebom/Agência Brasil
+O presidente Luiz Inácio Lula da Silva afirmou, nesta quinta-feira (5), que
+o objetivo do Pacto Nacional Br...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GIbQwQUPP1qGRxA5oLuvgvynoZA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/04/img_4412.jpg.jpg?itok=Uy5d989x&quot; alt=&quot;Pacto contra o feminicídio busca colocar leis em prática, diz Lula&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fabio Rodrigues-Pozzebom/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O presidente Luiz Inácio Lula da Silva afirmou, nesta quinta-feira (5), que&lt;/p&gt;
+&lt;p&gt;o objetivo do Pacto Nacional Brasil contra o Feminicídio é garantir que a legislação já existente no país para o combate à violência contra a mulher seja, efetivamente, colocada em prática.&lt;/p&gt;
+&lt;p&gt;O pacto foi assinado na quarta-feirapelos chefes dos Três Poderes&lt;/p&gt;
+&lt;p&gt;“Teve um político muito importante aqui que dizia que, no Brasil, tem lei que pega e lei que não pega. Depois da Lei Maria da Penha, aumentou a violência contra a mulher. Então, ontem, nós tomamos a decisão de envolver os Três Poderes para assumir a responsabilidade”, disse Lula em entrevista ao Portal UOL.&lt;/p&gt;
+&lt;p&gt;O presidente explicou que foi criada uma comissão com representantes de cada Poder, para apresentar propostas de como fazer com que as leis aprovadas sejam mais bem executadas.&lt;/p&gt;
+&lt;p&gt;&quot;Você abre uma delegacia da mulher em qualquer lugar, mas ela não funciona sexta à noite, sábado e domingo. Então, ela precisa funcionar de sexta a sábado e domingo”, disse o presidente.&lt;/p&gt;
+&lt;p&gt;Em 2025, o Brasil atingiu número recorde de 1.518 vítimas de feminicídios&lt;/p&gt;
+&lt;p&gt;. Para Lula, também é preciso criar condições para que as pessoas “tenham mais coragem” de denunciar casos de violência.&lt;/p&gt;
+&lt;p&gt;“O que nós queremos, na verdade, é envolver a sociedade brasileira”, disse, reafirmando que&lt;/p&gt;
+&lt;p&gt;a luta deve ser, sobretudo, dos homens&lt;/p&gt;
+&lt;p&gt;“Eu disse para os dirigentes sindicais: na porta de fábrica, quando vocês forem pedir aumento de salário, entra com esse assunto [nas assembleias trabalhistas]. O padre, quando for falar na Igreja de Nossa Senhora Aparecida, ou um pastor evangélico, no culto, comece com esse assunto, falando com os homens. É uma questão de consciência, não é nem uma questão de lei”, argumentou.&lt;/p&gt;
+&lt;p&gt;Lula acrescentouque o assunto deve ser tratado nas escolas.&lt;/p&gt;
+&lt;p&gt;“Uma criança [um menino], na creche,tem que aprender que a menininha que está do lado dele é igual ele. Ele não pode achar que ele é superior. Então, por isso, que eu disse ontem: da creche à universidade, esse assunto tem que estar no currículo escolar”, disse.&lt;/p&gt;
+&lt;p&gt;O Pacto Nacional Brasil contra o Feminicídio prevê atuação coordenada e permanente entre os Três Poderes, com o objetivo de prevenir a violência contra meninas e mulheres no Brasil.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/pacto-contra-o-feminicidio-busca-colocar-leis-em-pratica-diz-lula&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fabio Rodrigues-Pozzebom/Agência Brasil
+O presidente Luiz Inácio Lula da Silva afirmou, nesta quinta-feira (5), que
+o objetivo do Pacto Nacional Br...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-02-05 15:45:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-05 15:45:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-05 15:45:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-05 15:45:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/GIbQwQUPP1qGRxA5oLuvgvynoZA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/04/img_4412.jpg.jpg?itok=Uy5d989x</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Dino manda suspender pagamento de penduricalhos nos Três Poderes</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/dino-manda-suspender-pagamento-de-penduricalhos-nos-tres-poderes</link>
+      <pubDate>Thu, 05 Feb 2026 19:33:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/dino-manda-suspender-pagamento-de-penduricalhos-nos-tres-poderes#1002</guid>
+      <description>O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta quinta-feira (5) a suspensão do pagamento dos chamados “penduricalhos”, b...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dXGXNmItivatUZl_0v4U9o6VTyI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/14/54853319032_2d77ee48ce_o.jpg?itok=mssJ5dQy&quot; alt=&quot;Dino manda suspender pagamento de penduricalhos nos Três Poderes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta quinta-feira (5) a suspensão do pagamento dos chamados “penduricalhos”, benefícios que são concedidos a servidores públicos e que não cumprem o teto remuneratório constitucional, de R$ 46,3 mil. A suspensão vale para os Três Poderes.&lt;/p&gt;
+&lt;p&gt;Pela decisão, os Três Poderes têm prazo de 60 dias para revisar e suspender pagamento das verbas indenizatórias sem base legal.&lt;/p&gt;
+&lt;p&gt;Na decisão, Flávio Dino afirmou que há um “fenômeno da multiplicação anômala” de verbas indenizatórias incompatíveis com a Constituição. Elecita o pagamento de “auxílio-peru” e “auxílio-panetone” (benefícios extras de fim de ano) como exemplos de ilegalidade.&lt;/p&gt;
+&lt;p&gt;“Destaco que, seguramente, tal amplo rol de 'indenizações', gerando supersalários, não possui precedentes no direito brasileiro, tampouco no direito comparado, nem mesmo nos países mais ricos do planeta”, argumentou.&lt;/p&gt;
+&lt;p&gt;A suspensão deve ser cumprida em todo o país e vale para o Judiciário, Executivo e Legislativo federais e estaduais.&lt;/p&gt;
+&lt;p&gt;Flávio Dino também defendeu que o Congresso aprove uma lei para deixar claro quais as verbas indenizatórias podem ser admissíveis como exceção ao teto constitucional, que é equivalente ao salário dos ministros do Supremo.&lt;/p&gt;
+&lt;p&gt;“Por este caminho, certamente será mais eficaz e rápido o fim do império dos penduricalhos, com efetiva justiça remuneratória, tão necessária para a valorização dos servidores públicos e para a eficiência e dignidade do serviço público”, ressaltou.&lt;/p&gt;
+&lt;p&gt;A suspensão dos penduricalhos foi decidida em um processo no qual Dino negou o pagamento de auxílio-alimentação retroativo a um juiz de Minas Gerais.&lt;/p&gt;
+&lt;p&gt;Lula defende fim da escala 6x1: &quot;tecnologia otimiza a produtividade&quot;&lt;/p&gt;
+&lt;p&gt;Cine Brasília exibe o documentário “Na Minha Terra, Carnaval é Religião”, de Rodrigo Resende Coutinho&lt;/p&gt;
+&lt;p&gt;Unidos da Vilda Isabel em destaque no Sem Censura&lt;/p&gt;
+&lt;p&gt;Ministro do STJ acusado de importunação sexual pede licença médica&lt;/p&gt;
+&lt;p&gt;Rio ganha Núcleo de Proteção e Defesa dos Animais&lt;/p&gt;
+&lt;p&gt;Balança comercial tem segundo melhor resultado para janeiro&lt;/p&gt;
+&lt;p&gt;Pacto contra o feminicídio busca colocar leis em prática, diz Lula&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/dino-manda-suspender-pagamento-de-penduricalhos-nos-tres-poderes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O ministro Flávio Dino, do Supremo Tribunal Federal (STF), determinou nesta quinta-feira (5) a suspensão do pagamento dos chamados “penduricalhos”, b...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-02-05 15:14:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-05 15:14:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-05 15:14:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-05 15:14:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/dXGXNmItivatUZl_0v4U9o6VTyI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/14/54853319032_2d77ee48ce_o.jpg?itok=mssJ5dQy</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Lula volta a defender mandato para ministros do STF</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/lula-volta-defender-mandato-para-ministros-do-stf</link>
+      <pubDate>Thu, 05 Feb 2026 19:33:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/lula-volta-defender-mandato-para-ministros-do-stf#1003</guid>
+      <description>© Marcelo Camargo/Agência Brasil
+O presidente Luiz Inácio Lula da Silva defendeu, nesta quinta-feira (5), que haja mandato para os ministros do Supre...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/phXct7nJuOyfOj802pSlAroE2rs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/18/coletiva-lula-mc_abr_18122025-13.jpg?itok=cIpd-EOE&quot; alt=&quot;Lula volta a defender mandato para ministros do STF&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O presidente Luiz Inácio Lula da Silva defendeu, nesta quinta-feira (5), que haja mandato para os ministros do Supremo Tribunal Federal (STF).&lt;/p&gt;
+&lt;p&gt;Para Lula, entretanto, essa decisão cabe ao Congresso Nacional e não deve ter relação com a tensão entre os Poderes com o julgamento da tentativa de golpe de 8 de janeiro de 2023.&lt;/p&gt;
+&lt;p&gt;o presidente lembrou que a questão do mandato para a Suprema Corte estava no programa de campanha do PT em 2018, quando Fernando Haddad concorreu à Presidência.&lt;/p&gt;
+&lt;p&gt;“Eu acho que tudo precisa mudar e nada está livre de mudança”, disse Lula.&lt;/p&gt;
+&lt;p&gt;“Eu acho que não é justo uma pessoa entrar com 35 anos e ficar até 75 anos, ou seja, não é justo. É muito tempo, então eu acho que pode ter um mandato. Mas isso é um processo a ser discutido com o Congresso Nacional que não tem nada a ver com o que aconteceu no 8 de janeiro ou com o julgamento do 8 de janeiro”, acrescentou o presidente.&lt;/p&gt;
+&lt;p&gt;Para Lula, o referido julgamento foi “a maior lição de que as instituições têm respeitabilidade nesse país”. “Nem a pressão do presidente [dos Estados Unidos, Donald] Trump fez com que a Supremo Corte mudasse de posição. Isso é um valor incomensurável para um país democrático”, afirmou.&lt;/p&gt;
+&lt;p&gt;Ainda na entrevista, ele defendeu critérios para a escolha dos novos ministros, a partir da “solidez de conhecimento jurídico e de cumprimento da Constituição”.&lt;/p&gt;
+&lt;p&gt;A declaração vem em um momento em que membros da Corte são criticados publicamente pela condução das investigações envolvendo as fraudes no Banco Master.&lt;/p&gt;
+&lt;p&gt;Nesta semana, em discurso na abertura do Ano Judiciário de 2026, o presidente do STF, Edson Fachin, colocou como&lt;/p&gt;
+&lt;p&gt;a preservação da integridade do tribunale anunciou a&lt;/p&gt;
+&lt;p&gt;para os magistrados, com a relatoria da ministra Cármen Lúcia.&lt;/p&gt;
+&lt;p&gt;O STF é composto por 11 ministros que são indicados pelo presidente da República e devem passar por sabatina na Comissão de Constituição e Justiça do Senado e ter o nome aprovado em votação no plenário da Casa.&lt;/p&gt;
+&lt;p&gt;Hoje, há uma vaga na cadeira então ocupada pelo ministro Luís Roberto Barroso, que anunciou a aposentadoria antecipada e deixou o tribunal em outubro do ano passado.&lt;/p&gt;
+&lt;p&gt;Para o lugar, o presidente Lula&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/lula-volta-defender-mandato-para-ministros-do-stf&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
+O presidente Luiz Inácio Lula da Silva defendeu, nesta quinta-feira (5), que haja mandato para os ministros do Supre...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-02-05 15:10:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-05 15:10:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-05 15:10:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-05 15:10:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/phXct7nJuOyfOj802pSlAroE2rs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/18/coletiva-lula-mc_abr_18122025-13.jpg?itok=cIpd-EOE</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Principal desafio da Venezuela é fortalecer democracia, diz Lula</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/principal-desafio-da-venezuela-e-fortalecer-sua-democracia-diz-lula</link>
+      <pubDate>Thu, 05 Feb 2026 19:33:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/principal-desafio-da-venezuela-e-fortalecer-sua-democracia-diz-lula#1004</guid>
+      <description>© Marcelo Camargo/Agência Brasil
+O presidente Luiz Inácio Lula da Silva disse, nesta quinta-feira (5), que o principal problema da Venezuela é fortal...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/OAR_F1Pl8iT76qttBEWrNTvkGcM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/estragos-manifestacao_mcamgo_abr_090120231818-26.jpg?itok=aNDvGw7P&quot; alt=&quot;Principal desafio da Venezuela é fortalecer democracia, diz Lula&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O presidente Luiz Inácio Lula da Silva disse, nesta quinta-feira (5), que o principal problema da Venezuela é fortalecer a democracia e oferecer melhores condições de vida para sua população.&lt;/p&gt;
+&lt;p&gt;Para Lula, a ausência do presidente Nicolás Maduro,&lt;/p&gt;
+&lt;p&gt;sequestrado e preso pelo governo dos Estados Unidos&lt;/p&gt;
+&lt;p&gt;, não deve ser principal preocupação no momento.&lt;/p&gt;
+&lt;p&gt;“Essa [volta de Maduro ao país] não é a preocupação principal. A preocupação principal é a seguinte: há possibilidade de a gente fortalecer a democracia na Venezuela e as 8 milhões de pessoas que estão fora de lá, voltarem à Venezuela? Há condições de a democracia ser efetivamente respeitada na Venezuela e a população possa participar ativamente?”, afirmou o presidente em entrevista ao Portal UOL.&lt;/p&gt;
+&lt;p&gt;O presidente brasileiro reforçou que a América do Sul não pode ser palco de um conflito armado, como é visto em outras regiões do planeta.&lt;/p&gt;
+&lt;p&gt;“O que estamos dizendo ao [presidente dos Estados Unidos, Donald]Trump é que a América do Sul é uma zona de paz. A gente não tem bomba atômica, a gente não tem armas nucleares. O que a gente quer é crescer economicamente, fortalecer o processo democrático e melhorar a vida de milhões de latino-americanos. Porque a América Latina não pode continuar a ser uma parte do mundo pobre.”&lt;/p&gt;
+&lt;p&gt;conversa que teve comDonald Trump&lt;/p&gt;
+&lt;p&gt;, em janeiro, quando a Venezuela também foi abordada. O brasileiro defendeu junto ao seu homólogo estadunidense que cabe aos venezuelanos determinarem os rumos de seu país. “Eu disse ao presidente Trump: quem vai resolver os problemas da Venezuela são os venezuelanos. Eles têm que assumir a responsabilidade.&quot;&lt;/p&gt;
+&lt;p&gt;Lula ainda comentou sobre o convite que recebeu de Trump para participar do conselho criado por ele, denominado “Conselho da Paz”, e que teria a tarefa de reconstruir Gaza.&lt;/p&gt;
+&lt;p&gt;O presidente questiona a composição do conselho, formadosem a participação de um representante da Palestina, e com um projeto de tornar a região parecida com um “resort”.&lt;/p&gt;
+&lt;p&gt;“Eu disse ao Trump que se o conselho for para cuidar de Gaza, o Brasil tem todo interesse em participar. Agora, é muito estranho que não tenha um palestino na direção desse conselho. É muito estranho que a proposta apresentada de reconstrução de Gaza seja mais de um resort do que de reconstrução de Gaza. Eu quero saber quem é que vai reconstruir as casas, os hospitais, as padarias que foram detonados”, questionou.&lt;/p&gt;
+&lt;p&gt;“Falei com o chefe da Autoridade Palestina, Mahmoud Abbas, que o Brasil tem todo interesse em participar, mas é preciso que os palestinos estejam na mesa. Senão, não é uma comissão de paz”, completou.&lt;/p&gt;
+&lt;p&gt;INSS: mais de 4,2 mi de aposentados e pensionistas foram ressarcidos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/principal-desafio-da-venezuela-e-fortalecer-sua-democracia-diz-lula&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
+O presidente Luiz Inácio Lula da Silva disse, nesta quinta-feira (5), que o principal problema da Venezuela é fortal...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-02-05 15:09:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-05 15:09:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-05 15:09:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-05 15:09:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/OAR_F1Pl8iT76qttBEWrNTvkGcM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/estragos-manifestacao_mcamgo_abr_090120231818-26.jpg?itok=aNDvGw7P</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Rio espera receber 8 milhões de foliões para o carnaval</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/rio-espera-receber-8-milhoes-de-folioes-para-o-carnaval</link>
+      <pubDate>Thu, 05 Feb 2026 19:33:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/rio-espera-receber-8-milhoes-de-folioes-para-o-carnaval#1005</guid>
+      <description>O Rio de Janeiro espera mais de 8 milhões de foliões para aproveitar o carnaval em toda a cidade, dos quais 6,8 milhões nos blocos e 1,5 milhão de pe...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/EW2KZW2trRjToYFnFTISh40fe-c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/fernando_maia_riotur_1.jpg?itok=BFynePhW&quot; alt=&quot;Rio espera receber 8 milhões de foliões para o carnaval&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Rio de Janeiro espera mais de 8 milhões de foliões para aproveitar o carnaval em toda a cidade, dos quais 6,8 milhões nos blocos e 1,5 milhão de pessoas divididas entre os desfiles da Marquês de Sapucaí, Intendente Magalhães, Terreirão do Samba, Avenida Chile, Cinelândia e bailes populares.&lt;/p&gt;
+&lt;p&gt;Apenas no Sambódromo são esperadas 500 mil pessoas nos desfiles do Grupo Especial, da Série Ouro e das escolas de samba mirins.&lt;/p&gt;
+&lt;p&gt;O presidente da Empresa Municipal de Turismo do Rio (Riotur), Bernardo Fellows, disse que a cidade está preparada para receber os foliões e os órgãos municipais estão integrados para fazer uma operação segura no período carnavalesco.&lt;/p&gt;
+&lt;p&gt;A recomendação é usar transporte público por conta das diversas ruas interditadas para blocos e desfiles na Sapucaí. Haverá reforço na operação dos serviços noturnos que atendem a região do Sambódromo. No carnaval, o Metrô Rio terá funcionamento ininterrupto, a partir das 5h de sexta-feira (13) até as 23h59 de quarta-feira (18).&lt;/p&gt;
+&lt;p&gt;Apenas no Sambódromo haverá seis postos médicos com 140 profissionais para atender a população. Além disso, 22 milprofissionais de saúde vão atuar nesse período com muitas unidades abertas 24 horas.&lt;/p&gt;
+&lt;p&gt;Segundo o secretário municipal de Saúde, Daniel Soranz, o folião deve se programar bem antes de curtir a folia. “Aproveite a festa com responsabilidade. Muitas pessoas esquecem de tomar os remédios de uso contínuo de doenças crônicas”, disse Soranz.&lt;/p&gt;
+&lt;p&gt;Manter a medicação de uso contínuo&lt;/p&gt;
+&lt;p&gt;Moderar a ingestão de bebidas alcoólicas&lt;/p&gt;
+&lt;p&gt;Usar roupas leves e calçados confortáveis&lt;/p&gt;
+&lt;p&gt;Atenção ao uso de produtos cosméticos e capilares que possam causar alergia e cegueira temporária ou permanente&lt;/p&gt;
+&lt;p&gt;Levar documento de identificação e telefone de contato&lt;/p&gt;
+&lt;p&gt;INSS: mais de 4,2 mi de aposentados e pensionistas foram ressarcidos&lt;/p&gt;
+&lt;p&gt;Semana Nacional de Prevenção da Gravidez na Adolescência: um a cada sete bebês nasce de mãe adolescente no país&lt;/p&gt;
+&lt;p&gt;Unidos da Vilda Isabel em destaque no Sem Censura&lt;/p&gt;
+&lt;p&gt;Tempestade atinge o Guarujá, causa alagamentos e deixa 12 desabrigados&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/rio-espera-receber-8-milhoes-de-folioes-para-o-carnaval&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Rio de Janeiro espera mais de 8 milhões de foliões para aproveitar o carnaval em toda a cidade, dos quais 6,8 milhões nos blocos e 1,5 milhão de pe...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-02-05 15:07:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-05 15:07:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-05 15:07:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-05 15:07:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/EW2KZW2trRjToYFnFTISh40fe-c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/fernando_maia_riotur_1.jpg?itok=BFynePhW</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Imigrantes-Anchieta terá sistema free flow a partir de julho</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/imigrantes-anchieta-tera-sistema-free-flow-partir-de-julho</link>
-      <pubDate>Thu, 05 Feb 2026 18:39:12 +0000</pubDate>
+      <pubDate>Thu, 05 Feb 2026 19:33:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/imigrantes-anchieta-tera-sistema-free-flow-partir-de-julho#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/imigrantes-anchieta-tera-sistema-free-flow-partir-de-julho#1006</guid>
       <description>A Ecovias anunciou que começa neste sábado (7) a implementação do sistema de Pedágio Eletrônico, também conhecido como free flow, no sistema Imigrant...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2dVlfHghlFwMCF9jaOtr7l2YIDo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/05/rodovia_dos_imigrantes.jpg?itok=uO2yirOH&quot; alt=&quot;Imigrantes-Anchieta terá sistema free flow a partir de julho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Ecovias anunciou que começa neste sábado (7) a implementação do sistema de Pedágio Eletrônico, também conhecido como free flow, no sistema Imigrantes-Anchieta, que liga São Paulo às cidades do litoral. O novo sistema tem previsão de começar a funcionar em 1º de julho.&lt;/p&gt;
@@ -35,17 +325,17 @@
 &lt;p&gt;O novo sistema também muda a forma como é feito o pagamento. Hoje, o usuário paga R$ 38,70 quando vai para o litoral. Com os dois pórticos, os motoristas pagarão R$ 19,35 na ida e o mesmo valor na volta.&lt;/p&gt;
 &lt;p&gt;Para que a realização da Operação Comboio – para segurança em dias de neblina intensa – siga funcionando, as estruturas físicas das praças de pedágio atuais continuarão nas rodovias.&lt;/p&gt;
 &lt;p&gt;*Estagiário da Agência Brasil sob supervisão de Odair Braz Junior&lt;/p&gt;
-&lt;p&gt;Inmet alerta para chuvas intensas até sexta-feira&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: Estado de São Paulo confirma 12ª morte por intoxicação por metanol; vítima é um homem de 26 anos da cidade de Mauá&lt;/p&gt;
-&lt;p&gt;Vacina contra bronquiolite para prematuros está disponível no SUS&lt;/p&gt;
+&lt;p&gt;Lula defende fim da escala 6x1: &quot;tecnologia otimiza a produtividade&quot;&lt;/p&gt;
+&lt;p&gt;Cine Brasília exibe o documentário “Na Minha Terra, Carnaval é Religião”, de Rodrigo Resende Coutinho&lt;/p&gt;
+&lt;p&gt;Unidos da Vilda Isabel em destaque no Sem Censura&lt;/p&gt;
+&lt;p&gt;Ministro do STJ acusado de importunação sexual pede licença médica&lt;/p&gt;
+&lt;p&gt;Rio ganha Núcleo de Proteção e Defesa dos Animais&lt;/p&gt;
+&lt;p&gt;Balança comercial tem segundo melhor resultado para janeiro&lt;/p&gt;
+&lt;p&gt;Pacto contra o feminicídio busca colocar leis em prática, diz Lula&lt;/p&gt;
 &lt;p&gt;Dino manda suspender pagamento de penduricalhos nos Três Poderes&lt;/p&gt;
-&lt;p&gt;Lula volta a defender mandato para ministros do STF&lt;/p&gt;
-&lt;p&gt;Principal desafio da Venezuela é fortalecer democracia, diz Lula&lt;/p&gt;
-&lt;p&gt;Rio espera receber 8 milhões de foliões para o carnaval&lt;/p&gt;
-&lt;p&gt;Imigrantes-Anchieta terá sistema free flow a partir de julho&lt;/p&gt;
-&lt;p&gt;Iphan destina R$ 20 milhões a obras em igreja que desabou em Salvador&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/imigrantes-anchieta-tera-sistema-free-flow-partir-de-julho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Lula volta a defender mandato para ministros do STF&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/imigrantes-anchieta-tera-sistema-free-flow-partir-de-julho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Ecovias anunciou que começa neste sábado (7) a implementação do sistema de Pedágio Eletrônico, também conhecido como free flow, no sistema Imigrant...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-02-05 15:03:00</wp:post_date>
       <wp:post_date_gmt>2026-02-05 15:03:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-05 15:03:00</wp:post_modified>
@@ -71,9 +361,9 @@
     <item>
       <title>Iphan destina R$ 20 milhões a obras em igreja que desabou em Salvador</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/iphan-libera-r-20-milhoes-para-obra-em-igreja-que-desabou-em-salvador</link>
-      <pubDate>Thu, 05 Feb 2026 18:39:12 +0000</pubDate>
+      <pubDate>Thu, 05 Feb 2026 19:33:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/iphan-libera-r-20-milhoes-para-obra-em-igreja-que-desabou-em-salvador#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/iphan-libera-r-20-milhoes-para-obra-em-igreja-que-desabou-em-salvador#1007</guid>
       <description>© Defesa Civil de Salvador/Divulgação
 OInstituto do Patrimônio Histórico e Artístico Nacional (Iphan) anunciou, esta semana, o investimento de R$ 20 ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/m0GIokZJjRLn-4DKMw2iqz9dNX4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/05/109929307-teto-da-igreja-de-sao-francisco-desaba-em-salvador.-foto-defesa-civil-de-salvador_copiar.jpg?itok=p4ZJdMCx&quot; alt=&quot;Iphan destina R$ 20 milhões a obras em igreja que desabou em Salvador&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -87,14 +377,12 @@ OInstituto do Patrimônio Histórico e Artístico Nacional (Iphan) anunciou, est
 &lt;p&gt;A queda parcial do teto da igreja,ocorrida em 5 de fevereiro do ano passado, por volta das 14h30,causou a morte de uma turista de 26 anos, além de deixarcinco pessoas feridas. Desde o desabamento, o localsegue fechado ao público.&lt;/p&gt;
 &lt;p&gt;Uma missa será celebrada nesta quinta, às 17h, na Igreja da Ordem Terceira de São Francisco – vizinha ao templo onde ocorreu o acidente –, em memória de Giulia Righetto, vítima do desabamento do telhado. Ela nasceu em Ribeirão Preto, interior de São Paulo, e visitava a igreja com o namorado e amigos no momento em que parte do teto desabou. Até hoje, ninguém foi responsabilizado judicialmente pelo ocorrido.&lt;/p&gt;
 &lt;p&gt;A Igreja de São Francisco de Assis, erguida entre os séculos 17e 18, é tombada pelo Iphan e considerada uma das sete maravilhas de origem portuguesa no mundo.&lt;/p&gt;
-&lt;p&gt;Inmet alerta para chuvas intensas até sexta-feira&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: Estado de São Paulo confirma 12ª morte por intoxicação por metanol; vítima é um homem de 26 anos da cidade de Mauá&lt;/p&gt;
-&lt;p&gt;Vacina contra bronquiolite para prematuros está disponível no SUS&lt;/p&gt;
-&lt;p&gt;Rio espera receber 8 milhões de foliões para o carnaval&lt;/p&gt;
-&lt;p&gt;Imigrantes-Anchieta terá sistema free flow a partir de julho&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/iphan-libera-r-20-milhoes-para-obra-em-igreja-que-desabou-em-salvador&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Ceará tem carnaval alternativo com tradicional festival de jazz&lt;/p&gt;
+&lt;p&gt;Semana Nacional de Prevenção da Gravidez na Adolescência: um a cada sete bebês nasce de mãe adolescente no país&lt;/p&gt;
+&lt;p&gt;Unidos da Vilda Isabel em destaque no Sem Censura&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/iphan-libera-r-20-milhoes-para-obra-em-igreja-que-desabou-em-salvador&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Defesa Civil de Salvador/Divulgação
 OInstituto do Patrimônio Histórico e Artístico Nacional (Iphan) anunciou, esta semana, o investimento de R$ 20 ...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-02-05 15:02:00</wp:post_date>
       <wp:post_date_gmt>2026-02-05 15:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-05 15:02:00</wp:post_modified>
@@ -120,9 +408,9 @@ OInstituto do Patrimônio Histórico e Artístico Nacional (Iphan) anunciou, est
     <item>
       <title>Com voo para Lisboa, São Luís terá primeira rota internacional</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/aeroporto-de-sao-luis-tera-primeira-rota-internacional</link>
-      <pubDate>Thu, 05 Feb 2026 18:39:12 +0000</pubDate>
+      <pubDate>Thu, 05 Feb 2026 19:33:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/aeroporto-de-sao-luis-tera-primeira-rota-internacional#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/aeroporto-de-sao-luis-tera-primeira-rota-internacional#1008</guid>
       <description>© Marcello Casal JrAgência Brasil
 A capital do Maranhão, São Luís, terá sua primeira rota de voos internacionais regulares de passageiros no Aeroport...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GWtStQPMLFiwajaD4SJkwaDXYgE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/aeroporto_jk_2603201061.jpg?itok=feWOs5N2&quot; alt=&quot;Com voo para Lisboa, São Luís terá primeira rota internacional&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -134,16 +422,16 @@ A capital do Maranhão, São Luís, terá sua primeira rota de voos internaciona
 &lt;p&gt;E já existe um plano para ampliar o número de voos semanais entre o Brasil e Portugal através da rota maranhense, como destacou o diretor da TAP para as Américas, Carlos Antunes.&lt;/p&gt;
 &lt;p&gt;&quot;A partir de março do ano que vem, 2027, já passamos a ter três voos por semana. Isso reduz enormemente o tempo de viagem entre a Europa e São Luís do Maranhão.&quot;&lt;/p&gt;
 &lt;p&gt;Com este novo roteiro , a TAP também expande suas operações no Brasil, fazendo de São Luís o 15ª destino da companhia no país e da empresa aérea europeia, a que tem a maior presença no Brasil.&lt;/p&gt;
-&lt;p&gt;Inmet alerta para chuvas intensas até sexta-feira&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: Estado de São Paulo confirma 12ª morte por intoxicação por metanol; vítima é um homem de 26 anos da cidade de Mauá&lt;/p&gt;
-&lt;p&gt;Vacina contra bronquiolite para prematuros está disponível no SUS&lt;/p&gt;
-&lt;p&gt;Dino manda suspender pagamento de penduricalhos nos Três Poderes&lt;/p&gt;
-&lt;p&gt;Lula volta a defender mandato para ministros do STF&lt;/p&gt;
-&lt;p&gt;Principal desafio da Venezuela é fortalecer democracia, diz Lula&lt;/p&gt;
-&lt;p&gt;Rio espera receber 8 milhões de foliões para o carnaval&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/aeroporto-de-sao-luis-tera-primeira-rota-internacional&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;INSS: mais de 4,2 mi de aposentados e pensionistas foram ressarcidos&lt;/p&gt;
+&lt;p&gt;Semana Nacional de Prevenção da Gravidez na Adolescência: um a cada sete bebês nasce de mãe adolescente no país&lt;/p&gt;
+&lt;p&gt;Unidos da Vilda Isabel em destaque no Sem Censura&lt;/p&gt;
+&lt;p&gt;Ministro do STJ acusado de importunação sexual pede licença médica&lt;/p&gt;
+&lt;p&gt;Rio ganha Núcleo de Proteção e Defesa dos Animais&lt;/p&gt;
+&lt;p&gt;Balança comercial tem segundo melhor resultado para janeiro&lt;/p&gt;
+&lt;p&gt;Pacto contra o feminicídio busca colocar leis em prática, diz Lula&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/aeroporto-de-sao-luis-tera-primeira-rota-internacional&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 A capital do Maranhão, São Luís, terá sua primeira rota de voos internacionais regulares de passageiros no Aeroport...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-02-05 14:59:00</wp:post_date>
       <wp:post_date_gmt>2026-02-05 14:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-05 14:59:00</wp:post_modified>
@@ -169,9 +457,9 @@ A capital do Maranhão, São Luís, terá sua primeira rota de voos internaciona
     <item>
       <title>Justiça Federal transfere caso Bruno e Dom de Tabatinga para Manaus</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/justica-federal-transfere-caso-bruno-e-dom-de-tabatinga-para-manaus</link>
-      <pubDate>Thu, 05 Feb 2026 18:39:12 +0000</pubDate>
+      <pubDate>Thu, 05 Feb 2026 19:33:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/justica-federal-transfere-caso-bruno-e-dom-de-tabatinga-para-manaus#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/justica-federal-transfere-caso-bruno-e-dom-de-tabatinga-para-manaus#1009</guid>
       <description>O Tribunal Regional Federal da 1ª Região determinou que o julgamento dos assassinatos de Bruno Pereira eDomPhillipsseja transferido de Tabatinga, no ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hfSM39t972H27Ra4SmkgmVznnJY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc2399.jpg?itok=QrK73RA1&quot; alt=&quot;Justiça Federal transfere caso Bruno e Dom de Tabatinga para Manaus&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Tribunal Regional Federal da 1ª Região determinou que o julgamento dos assassinatos de Bruno Pereira eDomPhillipsseja transferido de Tabatinga, no interior do Amazonas, para a capital, Manaus.&lt;/p&gt;
@@ -190,7 +478,7 @@ A capital do Maranhão, São Luís, terá sua primeira rota de voos internaciona
 &lt;p&gt;A ação penal envolve um contexto de conflito entre pescadores e indígenas pela exploração de recursos naturais na região.&lt;/p&gt;
 &lt;p&gt;Com a decisão do tribunal,os processos contra os acusados de executar o crime voltam a tramitar separadamente, o que pode dar mais agilidade ao julgamento de Amarildo da Costa Oliveira e Jefferson da Silva Lima, apontados pelo MPF como executores.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/justica-federal-transfere-caso-bruno-e-dom-de-tabatinga-para-manaus&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Tribunal Regional Federal da 1ª Região determinou que o julgamento dos assassinatos de Bruno Pereira eDomPhillipsseja transferido de Tabatinga, no ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-02-05 14:57:00</wp:post_date>
       <wp:post_date_gmt>2026-02-05 14:57:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-05 14:57:00</wp:post_modified>
@@ -211,296 +499,6 @@ A capital do Maranhão, São Luís, terá sua primeira rota de voos internaciona
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/hfSM39t972H27Ra4SmkgmVznnJY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc2399.jpg?itok=QrK73RA1</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Quebra do sigilo do Banco Master sai da pauta da CPMI do INSS</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/quebra-do-sigilo-do-banco-master-sai-da-pauta-da-cpmi-do-inss</link>
-      <pubDate>Thu, 05 Feb 2026 18:39:12 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/quebra-do-sigilo-do-banco-master-sai-da-pauta-da-cpmi-do-inss#1004</guid>
-      <description>O presidente da Comissão Parlamentar Mista de Inquérito (CPMI) do INSS,
-senador Carlos Vianna (Podemos-MG), retirou de pauta, nesta quinta-feira (5),...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CA_G7dnPi5-_4kE-Wv7WA1im3ls=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0g0a6470.jpg?itok=P_xqMh-g&quot; alt=&quot;Quebra do sigilo do Banco Master sai da pauta da CPMI do INSS&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O presidente da Comissão Parlamentar Mista de Inquérito (CPMI) do INSS,&lt;/p&gt;
-&lt;p&gt;senador Carlos Vianna (Podemos-MG), retirou de pauta, nesta quinta-feira (5), o requerimento que quebrava os sigilos bancário e fiscal do Banco Master, investigado por supostas fraudes no mercado financeiro.&lt;/p&gt;
-&lt;p&gt;No contexto das apurações contra o Banco Master, a CPMI do INSS vem transferindo o foco dos trabalhos para a instituição do banqueiro Daniel Vorcaro, que está em prisão domiciliar e tem depoimento marcado na CPMI para o dia 26 de fevereiro.&lt;/p&gt;
-&lt;p&gt;Como o requerimento apresentado quebrava todo o sigilo do banco, o presidente da CPMI, Carlos Vianna, argumentou que o&lt;/p&gt;
-&lt;p&gt;pedido foge do objeto da Comissão, que deve focar apenas nos empréstimos consignados de aposentados e pensionistas realizados pelo Master.&lt;/p&gt;
-&lt;p&gt;“Não há sentido em nós pedimos a quebra de 100% das operações, uma vez que esses dados não poderão ser utilizados futuramente dentro do relatório”, avaliou Vianna a jornalistas, acrescentando que pediu que o requerimento fosse refeito para ser analisado em outro momento.&lt;/p&gt;
-&lt;p&gt;Durante a sessão, o presidente da CPMI alegou ainda que o Judiciário não permite que a Comissão fuja do tema original que justificou sua criação:&lt;/p&gt;
-&lt;p&gt;“É a leitura que se faz da Advocacia do Senado e a leitura que se tem hoje por parte do Supremo Tribunal Federal (STF).&quot;&lt;/p&gt;
-&lt;p&gt;Os parlamentares têm defendido a investigação de 251 mil contratos de empréstimos consignados de aposentados e pensionistas firmados com o Banco Master. Há indícios de irregularidades nesses contratos, segundo o próprio INSS.&lt;/p&gt;
-&lt;p&gt;Um dos autores do requerimento, o deputado Marcel Van Hatten (Novo-RS), afirmou que o texto que pede a quebra de sigilo poderia ser ajustado antes da votação e defendeu que há uma tentativa de “blindar” a investigação contra o Banco.&lt;/p&gt;
-&lt;p&gt;Por outro lado, o deputado federal Paulo Pimenta (PT-RS) defendeu que o requerimento contra o Banco Master foi apresentado não para ser aprovado, uma vez que não tinha relação com os empréstimos consignados, tema da CPMI, mas sim para criar uma cortina de fumaça.&lt;/p&gt;
-&lt;p&gt;“Nós temos agora que avançar para chegar nos mandantes [do roubo dos aposentados do INSS]. E é exatamente isso que a oposição tenta impedir, criando cortina de fumaça, criando narrativas falaciosas”, comentou a jornalistas.&lt;/p&gt;
-&lt;p&gt;O líder do governo no Congresso, senador Randolfe Rodrigues (PT-PE), destacou na sessão que o&lt;/p&gt;
-&lt;p&gt;acordo de cooperação técnica do Master com o INSS para empréstimos consignados foi firmado no governo anterior, em 17 de setembro de 2020.&lt;/p&gt;
-&lt;p&gt;“Talvez isso explique por que o presidente do Banco Central que não interveio no Banco Master tenha sido o Roberto Campos Neto, e não Gabriel Galípolo. No maior escândalo financeiro da história do país, a intervenção ocorreu devido ao Banco Central e à presidência de Gabriel Galípolo”, disse.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/quebra-do-sigilo-do-banco-master-sai-da-pauta-da-cpmi-do-inss&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O presidente da Comissão Parlamentar Mista de Inquérito (CPMI) do INSS,
-senador Carlos Vianna (Podemos-MG), retirou de pauta, nesta quinta-feira (5),...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-02-05 14:39:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-05 14:39:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-05 14:39:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-05 14:39:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/CA_G7dnPi5-_4kE-Wv7WA1im3ls=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0g0a6470.jpg?itok=P_xqMh-g</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Anvisa e MPF assinam acordo para combater cigarros eletrônicos</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/anvisa-e-mpf-assinam-acordo-para-combater-cigarros-eletronicos</link>
-      <pubDate>Thu, 05 Feb 2026 18:39:12 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/anvisa-e-mpf-assinam-acordo-para-combater-cigarros-eletronicos#1005</guid>
-      <description>A Agência Nacional de Vigilância Sanitária (Anvisa) e o Ministério Público Federal (MPF) assinaram acordo com o objetivo de intensificar ações de fis...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0UF8TovhdWshv7EX0UKoYsBxm9A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_ja_8670.jpg?itok=gYSItQrj&quot; alt=&quot;Anvisa e MPF assinam acordo para combater cigarros eletrônicos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) e o Ministério Público Federal (MPF) assinaram acordo com o objetivo de intensificar ações de fiscalização e fortalecer o enfrentamento ao comércio ilegal de dispositivos eletrônicos para fumar, popularmente conhecidos como cigarros eletrônicos ou&lt;/p&gt;
-&lt;p&gt;Em nota, a Anvisa informou que o acordo visa garantir o cumprimento da&lt;/p&gt;
-&lt;p&gt;Resolução da Diretoria Colegiada&lt;/p&gt;
-&lt;p&gt;(RDC) 855/2024, que proíbe afabricação, a importação, a comercialização, a distribuição, o armazenamento, o transporte e a propaganda de cigarros eletrônicos em território nacional.&lt;/p&gt;
-&lt;p&gt;“A ideia é unir a expertise técnica da Anvisa ao poder de atuação jurídica do MPF”, destacou a agência no comunicado.&lt;/p&gt;
-&lt;p&gt;O acordo terá vigência inicial de cinco anos, com reuniões periódicas entre as equipes responsáveis. Nãohá previsão de transferência de recursos entre as partes.&lt;/p&gt;
-&lt;p&gt;Entre as medidas previstas no acordo está o compartilhamento sistemático de informações técnicas e de dados sobre fiscalizações realizadas em ambientes físicos e virtuais.&lt;/p&gt;
-&lt;p&gt;Caberá à Anvisa fornecer subsídios técnicos e informações sobre as ações do Sistema Nacional de Vigilância Sanitária, enquanto o MPF fará a apuração das infrações identificadas e a articulação com outros órgãos de controle.&lt;/p&gt;
-&lt;p&gt;A parceria prevê ainda o desenvolvimento de ações de comunicação e sensibilização sobre riscos associados ao uso de cigarros eletrônicos como parte de estratégias de proteção à saúde pública.&lt;/p&gt;
-&lt;p&gt;Inmet alerta para chuvas intensas até sexta-feira&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: Estado de São Paulo confirma 12ª morte por intoxicação por metanol; vítima é um homem de 26 anos da cidade de Mauá&lt;/p&gt;
-&lt;p&gt;Vacina contra bronquiolite para prematuros está disponível no SUS&lt;/p&gt;
-&lt;p&gt;Dino manda suspender pagamento de penduricalhos nos Três Poderes&lt;/p&gt;
-&lt;p&gt;Lula volta a defender mandato para ministros do STF&lt;/p&gt;
-&lt;p&gt;Principal desafio da Venezuela é fortalecer democracia, diz Lula&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/anvisa-e-mpf-assinam-acordo-para-combater-cigarros-eletronicos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Agência Nacional de Vigilância Sanitária (Anvisa) e o Ministério Público Federal (MPF) assinaram acordo com o objetivo de intensificar ações de fis...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-02-05 14:07:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-05 14:07:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-05 14:07:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-05 14:07:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/0UF8TovhdWshv7EX0UKoYsBxm9A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_ja_8670.jpg?itok=gYSItQrj</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mais da metade dos negócios em favelas foi aberta a partir da pandemia</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/mais-da-metade-dos-negocios-em-favelas-foi-aberta-partir-da-pandemia</link>
-      <pubDate>Thu, 05 Feb 2026 18:39:12 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/mais-da-metade-dos-negocios-em-favelas-foi-aberta-partir-da-pandemia#1006</guid>
-      <description>Há cerca de quatro anos, a designer Ligia Emanuel da Silva abriu um pequeno negócio em um território potiguara, na cidade de Rio Tinto, litoral norte...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Qu7f730_42tOIQefzosc9L1aAQg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/favela_chapadao_baixa.jpg?itok=6xD2bBbu&quot; alt=&quot;Mais da metade dos negócios em favelas foi aberta a partir da pandemia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Há cerca de quatro anos, a designer Ligia Emanuel da Silva abriu um pequeno negócio em um território potiguara, na cidade de Rio Tinto, litoral norte da Paraíba. Foi durante a pandemia da covid-19 que ela teve a ideia de produzir e vender acessórios e adornos baseados na cultura, estética e ancestralidade africanas.&lt;/p&gt;
-&lt;p&gt;A partir de uma maleta de miçangas da mãe, nasceram as primeiras peças do Entorno Acessórios.&lt;/p&gt;
-&lt;p&gt;“Eu já fazia para mim e passei a fazer para adornar outros corpos”, revelou à&lt;/p&gt;
-&lt;p&gt;“Os adornos se fundamentam em saberes tradicionais, especialmente com o trabalho manual, com as miçangas e com os arames”, descreve.&lt;/p&gt;
-&lt;p&gt;para fazer divulgação de seu negócio, a paraibana trabalha sozinha e, além de motivação econômica, enxerga na atividade empreendedora um fator cultural que resulta em um ato político.&lt;/p&gt;
-&lt;p&gt;“Quando a gente se adorna com os nossos símbolos, nossos elementos estéticos-culturais, a gente articula um discurso sobre quem somos e de onde viemos”, define.&lt;/p&gt;
-&lt;p&gt;Ligia ilustra um dado presente em uma pesquisa sobre empreendimentos que funcionam nas favelas brasileiras: 56% dos negócios começaram a funcionar a partir de fevereiro de 2020, quando a pandemia da covid-19 deu sinais pelo Brasil.&lt;/p&gt;
-&lt;p&gt;O levantamento aponta que 12% dos negócios foram abertos entre fevereiro de 2020 e abril de 2022, período que engloba os momentos mais críticos da crise sanitária.&lt;/p&gt;
-&lt;p&gt;E 44% foram estabelecidos a partir de maio de 2022, quando terminou o estado de emergência em saúde.&lt;/p&gt;
-&lt;p&gt;A pesquisa foi realizada pelo instituto Data Favela, ligado à Central Única das Favelas (Cufa), uma organização sem fins lucrativos. O levantamento foi encomendado pela VR, empresa de serviços financeiros e benefícios em alimentação.&lt;/p&gt;
-&lt;p&gt;Para Cleo Santana, uma das responsáveis do Data Favela, o fato de a maioria dos negócios terem sido iniciados após o surgimento da pandemia tem a ver com a crise econômica vivenciada no momento.&lt;/p&gt;
-&lt;p&gt;“Muitas pessoas perderam seus empregos e precisaram se reinventar e buscar novas formas de manter as necessidades básicas próprias e de sua família”, disse à&lt;/p&gt;
-&lt;p&gt;“Por que não tornar aquela torta que era feita nas festas de família em um produto cuja venda traz renda para dentro de casa?”, exemplifica.&lt;/p&gt;
-&lt;p&gt;“É a capacidade de se reinventar”, completa.&lt;/p&gt;
-&lt;p&gt;O Data Favela entrevistou 1 mil empreendedores de favelas em todo o Brasil, em outubro e novembro de 2025, para traçar um perfil dos donos de negócios das comunidades do país.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/mais-da-metade-dos-negocios-em-favelas-foi-aberta-partir-da-pandemia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Há cerca de quatro anos, a designer Ligia Emanuel da Silva abriu um pequeno negócio em um território potiguara, na cidade de Rio Tinto, litoral norte...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-02-05 12:59:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-05 12:59:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-05 12:59:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-05 12:59:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Qu7f730_42tOIQefzosc9L1aAQg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/favela_chapadao_baixa.jpg?itok=6xD2bBbu</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Brasil atinge recorde de feminicídios em 2025: quatro mortes por dia</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/brasil-atinge-recorde-de-feminicidios-em-2025-quatro-mortes-por-dia</link>
-      <pubDate>Thu, 05 Feb 2026 18:39:12 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/brasil-atinge-recorde-de-feminicidios-em-2025-quatro-mortes-por-dia#1007</guid>
-      <description>O Brasil atingiu número recorde de 1.518 vítimas de feminicídios em 2025,
-ano em que a sanção da Lei do Feminicídio
-Na ocasião, a norma inseriu no Có...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/JHm7dYGkFTs9RwJmz9Sh0x602fU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/07/0g0a8450.jpg?itok=l_vuDK5M&quot; alt=&quot;Brasil atinge recorde de feminicídios em 2025: quatro mortes por dia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Brasil atingiu número recorde de 1.518 vítimas de feminicídios em 2025,&lt;/p&gt;
-&lt;p&gt;ano em que a sanção da Lei do Feminicídio&lt;/p&gt;
-&lt;p&gt;Na ocasião, a norma inseriu no Código Penal o crime de homicídio contra mulheres no contexto de violência doméstica e de discriminação. Os dados são do Ministério da Justiça e Segurança Pública.&lt;/p&gt;
-&lt;p&gt;No ano anterior, em 2024, o país já havia atingido recorde, com 1.458 vítimas.&lt;/p&gt;
-&lt;p&gt;“Se [a alta de casos] está acontecendo, isso é uma omissão do Estado, porque esse é um crime evitável”, afirmou Samira Bueno, diretora-executiva do Fórum Brasileiro de Segurança Pública (FBSP), durante lançamento do&lt;/p&gt;
-&lt;p&gt;relatório anual da Human Rights Watch (HRW)&lt;/p&gt;
-&lt;p&gt;situação dos direitos humanos em mais de 100 países&lt;/p&gt;
-&lt;p&gt;, apontou a violência doméstica e de gênero como uma das violações mais frequentes no Brasil.&lt;/p&gt;
-&lt;p&gt;Segundo a especialista, a omissão atinge todas as esferas de poder.&lt;/p&gt;
-&lt;p&gt;“A gente vive no Brasil hoje o desfinanciamento dessas políticas nos níveis municipais e estaduais, especialmente, que são os atores que estão envolvidos na rede de proteção, que tem à mão a assistência social, a saúde e a polícia para de fato fazer a diferença na vida dessas meninas e mulheres”, disse.&lt;/p&gt;
-&lt;p&gt;Samira Bueno destaca que não é possível fazer política pública para proteger a vida de meninas e mulheres sem recursos humanos e financeiros.&lt;/p&gt;
-&lt;p&gt;“Essa é uma bandeira que muitos políticos gostam de carregar, a defesa da vida das meninas e das mulheres, mas no momento em que tem o poder de caneta, que sentam na cadeira e que tem a capacidade de fazer a diferença, o orçamento não chega”, disse.&lt;/p&gt;
-&lt;p&gt;Ontem, em uma iniciativa conjunta,o governo federal, o Congresso Nacional e o Poder Judiciário&lt;/p&gt;
-&lt;p&gt;lançaram o Pacto Nacional – Brasil contra o Feminicídio&lt;/p&gt;
-&lt;p&gt;O plano prevê atuação coordenada e permanente entre os Três Poderes com o objetivo de prevenir a violência contra meninas e mulheres no Brasil.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/brasil-atinge-recorde-de-feminicidios-em-2025-quatro-mortes-por-dia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Brasil atingiu número recorde de 1.518 vítimas de feminicídios em 2025,
-ano em que a sanção da Lei do Feminicídio
-Na ocasião, a norma inseriu no Có...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-02-05 12:57:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-05 12:57:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-05 12:57:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-05 12:57:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/JHm7dYGkFTs9RwJmz9Sh0x602fU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/07/0g0a8450.jpg?itok=l_vuDK5M</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Conab prevê colheita recorde de café com crescimento de 17,1% em 2026</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/conab-preve-colheita-recorde-de-cafe-com-crescimento-de-171-em-2026</link>
-      <pubDate>Thu, 05 Feb 2026 18:39:12 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/conab-preve-colheita-recorde-de-cafe-com-crescimento-de-171-em-2026#1008</guid>
-      <description>A produção brasileirade sacas beneficiadas de café pode ser recorde e subir 17,1% em 2026, de acordo com projeção divulgada nesta quinta-feira (5) pe...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2245JIIZW7ZdmRF6ETQbexKkcSw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2023-05-18t121320z_1_lynxmpej4h0gy_rtroptp_4_commods-softs-fecha.jpg?itok=2jq20UF9&quot; alt=&quot;Conab prevê colheita recorde de café com crescimento de 17,1% em 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A produção brasileirade sacas beneficiadas de café pode ser recorde e subir 17,1% em 2026, de acordo com projeção divulgada nesta quinta-feira (5) pelaCompanhia Nacional de Abastecimento (Conab).&lt;/p&gt;
-&lt;p&gt;Segundo o 1º Levantamento da Safra de Café em 2026,&lt;/p&gt;
-&lt;p&gt;ovolume produzido deve somar66,2 milhões de sacas beneficiadas, superando ociclo anterior, de 2025.&lt;/p&gt;
-&lt;p&gt;“Se confirmado o resultado, este será um novo recorde na série histórica da Companhia, ultrapassando a safra de 2020, quando foram colhidas 63,1 milhões de sacas”, informou a Conab.&lt;/p&gt;
-&lt;p&gt;O crescimento se deve a fatores como o aumento de 4,1% na área usada para a produção, também em relação ao ano passado.A estimativa é que1,9 milhão de hectares sejam plantados na atual temporada.&lt;/p&gt;
-&lt;p&gt;A Conab projeta ainda elevação de 12,4% na produtividade em relação à safra passada, com uma colheita de 34,2 sacas por hectare.&lt;/p&gt;
-&lt;p&gt;De acordo com a companhia, a melhora da produtividade se deve às condições climáticas mais favoráveise à adoção de tecnologias e boas práticas de manejo nas lavouras.&lt;/p&gt;
-&lt;p&gt;Com relação à produção de café arábica, a colheita estimada é de 44,1 milhões de sacas – aumento de 23,3% na comparação com o ciclo 2025.&lt;/p&gt;
-&lt;p&gt;“Essa elevação é atribuída ao crescimento de área em produção, às condições climáticas mais favoráveis e à bienalidade positiva”, detalhou a companhia.&lt;/p&gt;
-&lt;p&gt;A expectativa é também de aumento na colheita do café tipo conilon. A safra estimada é de 22,1 milhões de sacas, o que representa alta de 6,4% na comparação com a produção obtida em 2025.&lt;/p&gt;
-&lt;p&gt;De acordo com a Conab, se confirmada essa projeção, será estabelecido novo recorde, motivado pelo crescimento da área em produção e das condições climáticas mais favoráveis até o momento.&lt;/p&gt;
-&lt;p&gt;Inmet alerta para chuvas intensas até sexta-feira&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: Estado de São Paulo confirma 12ª morte por intoxicação por metanol; vítima é um homem de 26 anos da cidade de Mauá&lt;/p&gt;
-&lt;p&gt;Vacina contra bronquiolite para prematuros está disponível no SUS&lt;/p&gt;
-&lt;p&gt;Dino manda suspender pagamento de penduricalhos nos Três Poderes&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/conab-preve-colheita-recorde-de-cafe-com-crescimento-de-171-em-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A produção brasileirade sacas beneficiadas de café pode ser recorde e subir 17,1% em 2026, de acordo com projeção divulgada nesta quinta-feira (5) pe...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-02-05 12:25:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-05 12:25:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-05 12:25:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-05 12:25:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/2245JIIZW7ZdmRF6ETQbexKkcSw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2023-05-18t121320z_1_lynxmpej4h0gy_rtroptp_4_commods-softs-fecha.jpg?itok=2jq20UF9</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Saiba como consultar se tem direito ao abono salarial PIS/Pasep 2026</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/saiba-como-consultar-se-tem-direito-ao-abono-salarial-pispasep-2026</link>
-      <pubDate>Thu, 05 Feb 2026 18:39:12 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/saiba-como-consultar-se-tem-direito-ao-abono-salarial-pispasep-2026#1009</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-Já está liberada, a partir desta quinta-feira (5), a consulta ao pagamento do Abono Salarial PIS-Pasep 2026. Para sa...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/bKxbfsS4tWs4d52Aksc9XJCMLX4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/carteira-de-trabalho-digital_mcamgo_abr_240620211818-5.jpg?itok=u3z7ZNO3&quot; alt=&quot;Saiba como consultar se tem direito ao abono salarial PIS/Pasep 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Já está liberada, a partir desta quinta-feira (5), a consulta ao pagamento do Abono Salarial PIS-Pasep 2026. Para saber se tem direito, o trabalhador deve acessar o&lt;/p&gt;
-&lt;p&gt;aplicativo da Carteira de Trabalho Digital&lt;/p&gt;
-&lt;p&gt;O pagamento é referente ao ano-base 2024. Serão contemplados 1,8 milhão de trabalhadores da iniciativa privada com inscrição no Programa de Integração Social (PIS), pagos pela Caixa Econômica Federal, em um total de R$ 2,29 bilhões.&lt;/p&gt;
-&lt;p&gt;Outros 217,2 mil servidores públicos, com inscrição no Programa de Formação do Patrimônio do Servidor Público (Pasep), receberão pelo Banco do Brasil, somando R$ 301,9 milhões.&lt;/p&gt;
-&lt;p&gt;Como consultar a Carteira de Trabalho Digital?&lt;/p&gt;
-&lt;p&gt;- Baixe o aplicativo no celular;&lt;/p&gt;
-&lt;p&gt;- Verifique se está atualizado;&lt;/p&gt;
-&lt;p&gt;- Faça o login com a senha do Gov.br;&lt;/p&gt;
-&lt;p&gt;- No menu, acesse “Benefícios” e “Abono Salarial” .&lt;/p&gt;
-&lt;p&gt;O Ministério do Trabalho disponibiliza ainda um passo a passo para acessar o serviço,&lt;/p&gt;
-&lt;p&gt;Nas plataformas, é possível verificar informações como o valor do benefício, banco responsável pelo pagamento e a data específica do depósito.&lt;/p&gt;
-&lt;p&gt;No total, os pagamentos somam R$ 32,3 bilhões e são distribuídos de acordo com o mês de nascimento do beneficiário.&lt;/p&gt;
-&lt;p&gt;O valor corresponde ao valor atual do salário mínimo dividido por 12 e multiplicado pela quantidade de meses trabalhados no ano-base.&lt;/p&gt;
-&lt;p&gt;Neste ano, o Abono Salarial varia de R$ 136 a R$ 1.621.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/saiba-como-consultar-se-tem-direito-ao-abono-salarial-pispasep-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-Já está liberada, a partir desta quinta-feira (5), a consulta ao pagamento do Abono Salarial PIS-Pasep 2026. Para sa...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-02-05 12:23:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-05 12:23:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-05 12:23:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-05 12:23:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/bKxbfsS4tWs4d52Aksc9XJCMLX4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/carteira-de-trabalho-digital_mcamgo_abr_240620211818-5.jpg?itok=u3z7ZNO3</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
