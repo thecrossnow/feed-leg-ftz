@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 07 Feb 2026 14:19:26 +0000</pubDate>
+    <pubDate>Sat, 07 Feb 2026 15:18:18 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,106 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Capitão da PM é preso por envolvimento com a facção Comando Vermelho</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/capitao-da-pm-e-preso-por-envolvimento-com-faccao-comando-vermelho</link>
+      <pubDate>Sat, 07 Feb 2026 15:18:18 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/capitao-da-pm-e-preso-por-envolvimento-com-faccao-comando-vermelho#1000</guid>
+      <description>O Grupo de Atuação Especial de Combate ao Crime Organizado do Ministério Público (Gaeco) obteve, junto à Auditoria da Justiça Militar do Estado, a de...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/BBvGjLD1ZOoq1ZCG0Dg6tUKkKv8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/f2hz4ijwsae2ts1-topaz.jpeg?itok=Vb-SfJyJ&quot; alt=&quot;Capitão da PM é preso por envolvimento com a facção Comando Vermelho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Grupo de Atuação Especial de Combate ao Crime Organizado do Ministério Público (Gaeco) obteve, junto à Auditoria da Justiça Militar do Estado, a decretação da prisão preventiva do capitão da Polícia Militar Alessander Ribeiro Estrella Rosa, investigado por envolvimento em negociações com integrantes da facção criminosa Comando Vermelho. O oficial foi preso na tarde desta sexta-feira (6), no 20º Batalhão da Polícia Militar, Mesquita, na Baixada Fluminense, pela Corregedoria da corporação.&lt;/p&gt;
+&lt;p&gt;A decisão judicial considerou a existência de indícios apresentados pelo Ministério Público de que, mesmo após ter sido beneficiado anteriormente com habeas corpus e se submetido a medidas cautelares diversas da prisão, o oficial da corporação teria mantido contato e negociado com traficantes de alta periculosidade, o que configuraria risco à ordem pública, à hierarquia e à disciplina militar, além de prejuízo à instrução criminal.&lt;/p&gt;
+&lt;p&gt;Além da prisão preventiva, o MPRJ requereu medidas de busca e apreensão e o afastamento do sigilo de dados telefônicos e telemáticos, com o objetivo de aprofundar a apuração dos fatos e resguardar a produção de provas, o que foi aceito pela Justiça.&lt;/p&gt;
+&lt;p&gt;STF decide punir caixa 2 como crime eleitoral e de improbidade&lt;/p&gt;
+&lt;p&gt;Ouça ao vivo: Vasco e Botafogo se enfrentam pela última rodada da Taça Guanabara&lt;/p&gt;
+&lt;p&gt;Ramagem, mesmo foragido, presta depoimento ao STF por videoconferência&lt;/p&gt;
+&lt;p&gt;Neve intensa persiste ao longo da costa do Mar do Japão&lt;/p&gt;
+&lt;p&gt;Capitão da PM é preso por envolvimento com a facção Comando Vermelho&lt;/p&gt;
+&lt;p&gt;Ibama multa Petrobras em 2,5 milhões por vazamento na Foz do Amazonas&lt;/p&gt;
+&lt;p&gt;ONU apresenta soluções urbanas brasileiras para países do Sul Global&lt;/p&gt;
+&lt;p&gt;Céu na Terra completa 25 anos de folia nas ladeiras de Santa Teresa&lt;/p&gt;
+&lt;p&gt;Bailes da Cinelândia transformam o centro do Rio com shows ao vivo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/capitao-da-pm-e-preso-por-envolvimento-com-faccao-comando-vermelho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Grupo de Atuação Especial de Combate ao Crime Organizado do Ministério Público (Gaeco) obteve, junto à Auditoria da Justiça Militar do Estado, a de...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-02-07 11:37:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-07 11:37:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-07 11:37:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-07 11:37:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/BBvGjLD1ZOoq1ZCG0Dg6tUKkKv8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/f2hz4ijwsae2ts1-topaz.jpeg?itok=Vb-SfJyJ</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Ibama multa Petrobras em 2,5 milhões por vazamento na Foz do Amazonas</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/ibama-multa-petrobras-em-25-milhoes-por-vazamento-na-foz-do-amazonas</link>
+      <pubDate>Sat, 07 Feb 2026 15:18:18 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/ibama-multa-petrobras-em-25-milhoes-por-vazamento-na-foz-do-amazonas#1001</guid>
+      <description>O Ibama aplicou um auto de infração na Petrobras com multa de R$ 2,5 milhões pelo
+vazamento em perfuração no mar na Bacia da Foz do Amazonas
+ocorrido...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Yq0PtjDtMTyKXbmD0rMaT7rfORY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/22/sonda_de_perfuracao_ns-42_responsavel_pela_perfuracao_do_poco_em_aguas_profundas_do_amapa.jpg?itok=QST3zln7&quot; alt=&quot;Ibama multa Petrobras em 2,5 milhões por vazamento na Foz do Amazonas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Ibama aplicou um auto de infração na Petrobras com multa de R$ 2,5 milhões pelo&lt;/p&gt;
+&lt;p&gt;vazamento em perfuração no mar na Bacia da Foz do Amazonas&lt;/p&gt;
+&lt;p&gt;ocorrido no último 4 de janeiro. O derramamento do fluido ocorreu a 175 quilômetros do Amapá, na Margem Equatorial brasileira.&lt;/p&gt;
+&lt;p&gt;“A autuação decorre da descarga de 18,44 m³ de Fluido de Perfuração de Base Não Aquosa (mistura oleosa) no mar, oriunda da instalação denominada Navio Sonda 42 (NS-42), que operava na Bacia da Foz do Amazonas”, informou o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama).&lt;/p&gt;
+&lt;p&gt;Em nota à imprensa, o órgão ambiental acrescentou que o fluido vazado acidentalmente pela Petrobras é uma mistura de produtos usada nas atividades de exploração e produção de petróleo e gás.&lt;/p&gt;
+&lt;p&gt;O Ibama alega que o material “representa risco médio tanto para a saúde humana quanto para o ecossistema aquático”, conforme classificação do órgão definida na Instrução Normativa nº 14, de 28 de julho de 2025.&lt;/p&gt;
+&lt;p&gt;A Petrobras confirmou que recebeu a notificação do Ibama e que vai tomar “as providências cabíveis”. Diferentemente do Ibama, a petroleira sustenta que o material não traz danos ao meio ambiente.&lt;/p&gt;
+&lt;p&gt;“Reiteramos que o fluido é biodegradável, não persistente, não bioacumulável e não tóxico, conforme a Ficha de Dados de Segurança do produto. Atende todos os parâmetros do órgão ambiental e não gera qualquer dano ao meio ambiente”, informou a Petrobras.&lt;/p&gt;
+&lt;p&gt;A partir da ciência do auto de infração, a Petrobras tem o prazo de 20 dias para efetuar o pagamento da multa ou apresentar defesa administrativa.&lt;/p&gt;
+&lt;p&gt;Ocorrido no início do ano, o vazamento na região da Bacia do Amazonas teve origem na instalação denominada Navio Sonda 42 (NS-42).&lt;/p&gt;
+&lt;p&gt;De acordo com a Petrobras, o que ocorreu foi perda de fluido de perfuração em duas linhas auxiliares que conectam a sonda de perfuração ao poço Morpho.&lt;/p&gt;
+&lt;p&gt;Na última quarta-feira (4), a Agência Nacional do Petróleo, Gás e Biocombustíveis (ANP)&lt;/p&gt;
+&lt;p&gt;impôs novas condições para a Petrobras retomar a perfuração do poço exploratório na Bacia da Foz do Amazonas&lt;/p&gt;
+&lt;p&gt;, que está paralisado desde o dia 6 de janeiro, dois dias após o vazamento.&lt;/p&gt;
+&lt;p&gt;A ANP exige, entre outras medidas, a substituição de todos os selos das juntas do riser de perfuração - um tubo de grande diâmetro que conecta o poço de petróleo no fundo do mar à sonda.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/ibama-multa-petrobras-em-25-milhoes-por-vazamento-na-foz-do-amazonas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Ibama aplicou um auto de infração na Petrobras com multa de R$ 2,5 milhões pelo
+vazamento em perfuração no mar na Bacia da Foz do Amazonas
+ocorrido...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-02-07 11:30:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-07 11:30:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-07 11:30:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-07 11:30:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Yq0PtjDtMTyKXbmD0rMaT7rfORY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/22/sonda_de_perfuracao_ns-42_responsavel_pela_perfuracao_do_poco_em_aguas_profundas_do_amapa.jpg?itok=QST3zln7</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>ONU apresenta soluções urbanas brasileiras para países do Sul Global</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/onu-apresenta-solucoes-urbanas-brasileiras-para-paises-do-sul-global</link>
-      <pubDate>Sat, 07 Feb 2026 14:19:26 +0000</pubDate>
+      <pubDate>Sat, 07 Feb 2026 15:18:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/onu-apresenta-solucoes-urbanas-brasileiras-para-paises-do-sul-global#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/onu-apresenta-solucoes-urbanas-brasileiras-para-paises-do-sul-global#1002</guid>
       <description>© Nilton Sousa/prefeitura de salvador
 A Ilha de Maré, um bairro que se estende por uma das ilhas da Baía de Todos-os-Santos, em Salvador, foi terreno...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NFaA6uk-zMNpM4rEBDNltCDXlnw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/06/ilha_da_mare04.jpg?itok=C8V85ll-&quot; alt=&quot;ONU apresenta soluções urbanas brasileiras para países do Sul Global&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +142,7 @@ A Ilha de Maré, um bairro que se estende por uma das ilhas da Baía de Todos-os
 &lt;p&gt;A chamada pública permitiu a inscrição de iniciativas desenvolvidas por governos locais, instituições públicas, organizações da sociedade civil e comunidades.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/onu-apresenta-solucoes-urbanas-brasileiras-para-paises-do-sul-global&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Nilton Sousa/prefeitura de salvador
 A Ilha de Maré, um bairro que se estende por uma das ilhas da Baía de Todos-os-Santos, em Salvador, foi terreno...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-02-07 10:28:00</wp:post_date>
       <wp:post_date_gmt>2026-02-07 10:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-07 10:28:00</wp:post_modified>
@@ -73,9 +168,9 @@ A Ilha de Maré, um bairro que se estende por uma das ilhas da Baía de Todos-os
     <item>
       <title>Céu na Terra completa 25 anos de folia nas ladeiras de Santa Teresa</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/ceu-na-terra-completa-25-anos-de-folia-nas-ladeiras-de-santa-teresa</link>
-      <pubDate>Sat, 07 Feb 2026 14:19:26 +0000</pubDate>
+      <pubDate>Sat, 07 Feb 2026 15:18:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/ceu-na-terra-completa-25-anos-de-folia-nas-ladeiras-de-santa-teresa#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/ceu-na-terra-completa-25-anos-de-folia-nas-ladeiras-de-santa-teresa#1003</guid>
       <description>Poucos blocos do carnaval carioca conseguiram construir, ao longo de cerca de 25 anos, uma identidade tão reconhecível e afetiva quanto o Bloco Céu n...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dWvhZyLo3P4Qyr2QcUPZCf59DgQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/trbr4095.jpg?itok=f_GElRcC&quot; alt=&quot;Céu na Terra completa 25 anos de folia nas ladeiras de Santa Teresa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Poucos blocos do carnaval carioca conseguiram construir, ao longo de cerca de 25 anos, uma identidade tão reconhecível e afetiva quanto o Bloco Céu na Terra.&lt;/p&gt;
@@ -94,7 +189,7 @@ A Ilha de Maré, um bairro que se estende por uma das ilhas da Baía de Todos-os
 &lt;p&gt;, caracterizados por ruas estreitas, circulação limitada e infraestrutura fragilizada.&lt;/p&gt;
 &lt;p&gt;Moradores relatam a ocupação intensa do bairro por blocos não oficiais, muitos deles semplanejamento ou diálogo com a comunidade local.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/ceu-na-terra-completa-25-anos-de-folia-nas-ladeiras-de-santa-teresa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Poucos blocos do carnaval carioca conseguiram construir, ao longo de cerca de 25 anos, uma identidade tão reconhecível e afetiva quanto o Bloco Céu n...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-02-07 10:03:00</wp:post_date>
       <wp:post_date_gmt>2026-02-07 10:03:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-07 10:03:00</wp:post_modified>
@@ -120,9 +215,9 @@ A Ilha de Maré, um bairro que se estende por uma das ilhas da Baía de Todos-os
     <item>
       <title>Bailes da Cinelândia transformam o centro do Rio com shows ao vivo</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/bailes-da-cinelandia-transformam-o-centro-do-rio-com-shows-ao-vivo-0</link>
-      <pubDate>Sat, 07 Feb 2026 14:19:26 +0000</pubDate>
+      <pubDate>Sat, 07 Feb 2026 15:18:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/bailes-da-cinelandia-transformam-o-centro-do-rio-com-shows-ao-vivo-0#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/bailes-da-cinelandia-transformam-o-centro-do-rio-com-shows-ao-vivo-0#1004</guid>
       <description>Os tradicionais bailes da Cinelândiaprometem transformar o centro do Rio de Janeiro em um grande salão a céu aberto durante o carnaval, de sábado (14...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/EW2KZW2trRjToYFnFTISh40fe-c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/fernando_maia_riotur_1.jpg?itok=BFynePhW&quot; alt=&quot;Bailes da Cinelândia transformam o centro do Rio com shows ao vivo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Os tradicionais bailes da Cinelândiaprometem transformar o centro do Rio de Janeiro em um grande salão a céu aberto durante o carnaval, de sábado (14) a terça-feira (17), reunindo público de todas as idades ao som de artistas consagrados e da Orquestra Tupy.&lt;/p&gt;
@@ -132,16 +227,16 @@ A Ilha de Maré, um bairro que se estende por uma das ilhas da Baía de Todos-os
 &lt;p&gt;Ao longo do dia, o público também poderá curtir shows de Osmar do Breque, Ellen de Lima, Paulo Nunes, Tom da Bahia, Márcio Gomes, Selma Costa, Alfredo Del Penho, Luis Cesar, Reginaldo Bessa, Gotsha, Alberto Gino e Wladimir Cabanas, acompanhados da Orquestra Tupy, responsável por encerrar a programação com seu repertório repleto de clássicos do carnaval, convidando foliões de todas as idades a ocuparem a pista de dança.&lt;/p&gt;
 &lt;p&gt;No domingo(15), além das atrações musicais, a Cinelândia recebe o Concurso de Foliões, iniciativa que se repete na segunda e na terça-feira e que valoriza a originalidade dos participantes, premiando fantasias criativas, performances irreverentes e o espírito carnavalesco.&lt;/p&gt;
 &lt;p&gt;A programação musical segue com apresentações de Osmar do Breque, Ellen de Lima, Paulo Nunes, Tom da Bahia, Márcio Gomes, Selma Costa, Luis Cesar, Reginaldo Bessa, Gotsha, Alberto Gino, Wladimir Cabanas com a Orquestra Tupy, mantendo o clima de festa ao longo de toda a tarde e da noite.&lt;/p&gt;
-&lt;p&gt;Comitês Gestores de Sítios do Patrimônio Mundial Cultural abrem edital&lt;/p&gt;
+&lt;p&gt;STF decide punir caixa 2 como crime eleitoral e de improbidade&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Vasco e Botafogo se enfrentam pela última rodada da Taça Guanabara&lt;/p&gt;
-&lt;p&gt;Ramagem, mesmo foragido, presta depoimento ao STF por videoconferência&lt;/p&gt;
-&lt;p&gt;ONU apresenta soluções urbanas brasileiras para países do Sul Global&lt;/p&gt;
-&lt;p&gt;Céu na Terra completa 25 anos de folia nas ladeiras de Santa Teresa&lt;/p&gt;
-&lt;p&gt;Bailes da Cinelândia transformam o centro do Rio com shows ao vivo&lt;/p&gt;
-&lt;p&gt;“Nenhum governador tem poder pleno sobre polícias”, diz pesquisadora&lt;/p&gt;
-&lt;p&gt;Covid-19 mata 29 pessoas em janeiro no Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/bailes-da-cinelandia-transformam-o-centro-do-rio-com-shows-ao-vivo-0&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Brasil no Mundo recebe Luiz Eduardo Soares&lt;/p&gt;
+&lt;p&gt;Rio, Minas e São Paulo têm alerta de “grande perigo” para chuvas&lt;/p&gt;
+&lt;p&gt;Trump diz que não viu parte racista do vídeo e não se desculpará&lt;/p&gt;
+&lt;p&gt;Neve intensa persiste ao longo da costa do Mar do Japão&lt;/p&gt;
+&lt;p&gt;Capitão da PM é preso por envolvimento com a facção Comando Vermelho&lt;/p&gt;
+&lt;p&gt;Ibama multa Petrobras em 2,5 milhões por vazamento na Foz do Amazonas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/bailes-da-cinelandia-transformam-o-centro-do-rio-com-shows-ao-vivo-0&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os tradicionais bailes da Cinelândiaprometem transformar o centro do Rio de Janeiro em um grande salão a céu aberto durante o carnaval, de sábado (14...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-02-07 09:46:00</wp:post_date>
       <wp:post_date_gmt>2026-02-07 09:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-07 09:46:00</wp:post_modified>
@@ -167,9 +262,9 @@ A Ilha de Maré, um bairro que se estende por uma das ilhas da Baía de Todos-os
     <item>
       <title>“Nenhum governador tem poder pleno sobre polícias”, diz pesquisadora</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/nenhum-governador-tem-poder-pleno-sobre-policias-diz-pesquisadora</link>
-      <pubDate>Sat, 07 Feb 2026 14:19:26 +0000</pubDate>
+      <pubDate>Sat, 07 Feb 2026 15:18:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/nenhum-governador-tem-poder-pleno-sobre-policias-diz-pesquisadora#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/nenhum-governador-tem-poder-pleno-sobre-policias-diz-pesquisadora#1005</guid>
       <description>Poucos dias depois de completar três meses, a operação policial mais letal da história do Brasil foi destaque no
 alerta feito nesta semana pela organ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/pp0Y7AYrhZrwW1Hk-TRiGSXFdkY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/06/carolina_grillo.jpg?itok=xxvfNYag&quot; alt=&quot;“Nenhum governador tem poder pleno sobre polícias”, diz pesquisadora&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -190,7 +285,7 @@ alerta feito nesta semana pela organ...</description>
 &lt;p&gt;É complicado eu supor as intenções por trás das atitudes políticas. As operações policiais e as altas taxas de letalidade policial são empregadas com o principal método de controle do crime no Rio de Janeiro há décadas, e a gente observa um aumento constante do controle territorial armado. E, embora a própria polícia saiba da ineficiência, essas operações trazem retornos eleitorais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/nenhum-governador-tem-poder-pleno-sobre-policias-diz-pesquisadora&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Poucos dias depois de completar três meses, a operação policial mais letal da história do Brasil foi destaque no
 alerta feito nesta semana pela organ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-02-07 09:19:00</wp:post_date>
       <wp:post_date_gmt>2026-02-07 09:19:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-07 09:19:00</wp:post_modified>
@@ -216,9 +311,9 @@ alerta feito nesta semana pela organ...</excerpt:encoded>
     <item>
       <title>Covid-19 mata 29 pessoas em janeiro no Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/covid-19-mata-29-pessoas-em-janeiro-no-brasil</link>
-      <pubDate>Sat, 07 Feb 2026 14:19:26 +0000</pubDate>
+      <pubDate>Sat, 07 Feb 2026 15:18:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/covid-19-mata-29-pessoas-em-janeiro-no-brasil#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/covid-19-mata-29-pessoas-em-janeiro-no-brasil#1006</guid>
       <description>© Fernando Frazão/Agência Brasil
 Ao menos 29 brasileiros morreram em janeiro deste ano por complicações em decorrência da Covid-19, segundo o informa...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/h0wCFBZ9Twcdat8YEf2JV55oaW4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/24/_d6a3219.jpg?itok=xP1OICHb&quot; alt=&quot;Covid-19 mata 29 pessoas em janeiro no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -232,14 +327,14 @@ Ao menos 29 brasileiros morreram em janeiro deste ano por complicações em deco
 &lt;p&gt;Além disso, pessoas que fazem parte de grupos especiais devem reforçar a imunização periodicamente. No entanto, cumprir esse calendário tem sido um desafio no Brasil.&lt;/p&gt;
 &lt;p&gt;A cobertura, no entanto, está longe do ideal. Em 2025, de cada dez doses distribuídas pelo Ministério da Saúde a estados e municípios, menos de quatro foram utilizadas. Foram, ao todo, 21,9 milhões de vacinas, e apenas oito milhões aplicadas.&lt;/p&gt;
 &lt;p&gt;Dados da plataforma Infogripe - da Fundação Oswaldo Cruz (Fiocruz) - que monitora a ocorrência da chamada síndrome respiratória aguda grave (SRAG), mostramque, em 2025, pelo menos 10.410 pessoas adoeceram com gravidade após a infecção pelo coronavírus, com cerca de 1,7 mil mortes.&lt;/p&gt;
-&lt;p&gt;Comitês Gestores de Sítios do Patrimônio Mundial Cultural abrem edital&lt;/p&gt;
+&lt;p&gt;STF decide punir caixa 2 como crime eleitoral e de improbidade&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Vasco e Botafogo se enfrentam pela última rodada da Taça Guanabara&lt;/p&gt;
 &lt;p&gt;Ramagem, mesmo foragido, presta depoimento ao STF por videoconferência&lt;/p&gt;
-&lt;p&gt;ONU apresenta soluções urbanas brasileiras para países do Sul Global&lt;/p&gt;
-&lt;p&gt;Céu na Terra completa 25 anos de folia nas ladeiras de Santa Teresa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/covid-19-mata-29-pessoas-em-janeiro-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Trump diz que não viu parte racista do vídeo e não se desculpará&lt;/p&gt;
+&lt;p&gt;Neve intensa persiste ao longo da costa do Mar do Japão&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/covid-19-mata-29-pessoas-em-janeiro-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Ao menos 29 brasileiros morreram em janeiro deste ano por complicações em decorrência da Covid-19, segundo o informa...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-02-07 09:11:00</wp:post_date>
       <wp:post_date_gmt>2026-02-07 09:11:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-07 09:11:00</wp:post_modified>
@@ -265,9 +360,9 @@ Ao menos 29 brasileiros morreram em janeiro deste ano por complicações em deco
     <item>
       <title>TV Brasil transmite desfile do Grupo de Acesso 2 de São Paulo</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/tv-brasil-transmite-desfile-do-grupo-de-acesso-2-de-sao-paulo</link>
-      <pubDate>Sat, 07 Feb 2026 14:19:26 +0000</pubDate>
+      <pubDate>Sat, 07 Feb 2026 15:18:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/tv-brasil-transmite-desfile-do-grupo-de-acesso-2-de-sao-paulo#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/tv-brasil-transmite-desfile-do-grupo-de-acesso-2-de-sao-paulo#1007</guid>
       <description>Com exclusividade na televisão aberta, a
 exibe o desfile das escolas de samba do Grupo de Acesso 2 de São Pauloneste sábado (7), ao vivo, a partir da...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cW7d72DFSLvkdvfirtoXydmnXqU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/06/tv_brasil_transmite_desfile_do_grupo_de_acesso_2_de_sao_paulo01.jpg?itok=C0ho71nW&quot; alt=&quot;TV Brasil transmite desfile do Grupo de Acesso 2 de São Paulo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -288,7 +383,7 @@ exibe o desfile das escolas de samba do Grupo de Acesso 2 de São Pauloneste sá
 &lt;p&gt;7 de fevereiro (sábado), às 21h, exclusivo para São Paulo, na&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/tv-brasil-transmite-desfile-do-grupo-de-acesso-2-de-sao-paulo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Com exclusividade na televisão aberta, a
 exibe o desfile das escolas de samba do Grupo de Acesso 2 de São Pauloneste sábado (7), ao vivo, a partir da...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-02-07 08:23:00</wp:post_date>
       <wp:post_date_gmt>2026-02-07 08:23:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-07 08:23:00</wp:post_modified>
@@ -314,9 +409,9 @@ exibe o desfile das escolas de samba do Grupo de Acesso 2 de São Pauloneste sá
     <item>
       <title>Candomblé de rua, Bembé do Mercado ocupará Sapucaí com a Beija-Flor</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/candomble-de-rua-bembe-do-mercado-ocupara-sapucai-com-beija-flor</link>
-      <pubDate>Sat, 07 Feb 2026 14:19:26 +0000</pubDate>
+      <pubDate>Sat, 07 Feb 2026 15:18:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/candomble-de-rua-bembe-do-mercado-ocupara-sapucai-com-beija-flor#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/candomble-de-rua-bembe-do-mercado-ocupara-sapucai-com-beija-flor#1008</guid>
       <description>A Beija-Flor vai ocupar o Sambódromo do Rio de Janeirocomo o Bembé do Mercado ocupa as ruas e casas da cidade de Santo Amaro da Purificação, no Recôn...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/XEertBAevRul9QkFLfwEiMdRrKM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/26/pai_pote_com_o_casal_de_mestre_sala_claudinho_e_porta_bandeira_selminha_sorriso.jpg?itok=bGmkHycK&quot; alt=&quot;Candomblé de rua, Bembé do Mercado ocupará Sapucaí com a Beija-Flor&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Beija-Flor vai ocupar o Sambódromo do Rio de Janeirocomo o Bembé do Mercado ocupa as ruas e casas da cidade de Santo Amaro da Purificação, no Recôncavo Baiano. Como convoca a sinopse da escola, texto apresenta oenredo, &quot;num país que aboliu a escravidão com uma canetada, sem nenhuma reparação, ocupar é — e sempre foi — nossa forma de autorreparação&quot;.&lt;/p&gt;
@@ -335,7 +430,7 @@ exibe o desfile das escolas de samba do Grupo de Acesso 2 de São Pauloneste sá
 &lt;p&gt;O babalorixá acrescentou que o desfile vai trazer também toda a cultura que envolve o Bembé. “A culinária afro, a manifestação de cultura popular, as necessidades das marisqueiras, farinheiras, os capoeiristas, o Negro Fugido, os feirantes”, descreveu.&lt;/p&gt;
 &lt;p&gt;“Vamos vencer esta batalha, com fé em Deus, em Ogum e em todos os orixás e caboclos”, complementou confiante no campeonato.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/candomble-de-rua-bembe-do-mercado-ocupara-sapucai-com-beija-flor&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Beija-Flor vai ocupar o Sambódromo do Rio de Janeirocomo o Bembé do Mercado ocupa as ruas e casas da cidade de Santo Amaro da Purificação, no Recôn...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-02-07 08:20:00</wp:post_date>
       <wp:post_date_gmt>2026-02-07 08:20:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-07 08:20:00</wp:post_modified>
@@ -361,9 +456,9 @@ exibe o desfile das escolas de samba do Grupo de Acesso 2 de São Pauloneste sá
     <item>
       <title>Após mobilização indígena, governo suspende dragagem do Rio Tapajós</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/apos-mobilizacao-indigena-governo-suspende-dragagem-do-rio-tapajos</link>
-      <pubDate>Sat, 07 Feb 2026 14:19:26 +0000</pubDate>
+      <pubDate>Sat, 07 Feb 2026 15:18:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/apos-mobilizacao-indigena-governo-suspende-dragagem-do-rio-tapajos#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/apos-mobilizacao-indigena-governo-suspende-dragagem-do-rio-tapajos#1009</guid>
       <description>O governo federal decidiu suspender, nesta sexta-feira (6), o processo de contratação de uma empresa para realizar a dragagem do Rio Tapajós, no Pará...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dFI6MetK88nTojW0hFIuDgY5HgA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rio_tapajos.jpg?itok=wy9LBnen&quot; alt=&quot;Após mobilização indígena, governo suspende dragagem do Rio Tapajós&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O governo federal decidiu suspender, nesta sexta-feira (6), o processo de contratação de uma empresa para realizar a dragagem do Rio Tapajós, no Pará.&lt;/p&gt;
@@ -382,7 +477,7 @@ exibe o desfile das escolas de samba do Grupo de Acesso 2 de São Pauloneste sá
 &lt;p&gt;Também foi anunciada a instituição de um grupo de trabalho interministerial, com a participação de órgãos e entidades da administração pública federal, bem como de representantes indicados pelos povos indígenas da região do Rio Tapajós com a finalidade de discutir, sistematizar e orientar os processos de consulta livre, prévia e informada.&lt;/p&gt;
 &lt;p&gt;O outro compromisso assumido é o de apresentação de um cronograma dos processos de consulta prévia sobre a concessão da hidrovia do Tapajós, em diálogo com as comunidades.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/apos-mobilizacao-indigena-governo-suspende-dragagem-do-rio-tapajos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O governo federal decidiu suspender, nesta sexta-feira (6), o processo de contratação de uma empresa para realizar a dragagem do Rio Tapajós, no Pará...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-02-06 21:53:00</wp:post_date>
       <wp:post_date_gmt>2026-02-06 21:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-06 21:53:00</wp:post_modified>
@@ -403,102 +498,6 @@ exibe o desfile das escolas de samba do Grupo de Acesso 2 de São Pauloneste sá
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/dFI6MetK88nTojW0hFIuDgY5HgA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rio_tapajos.jpg?itok=wy9LBnen</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Justiça manda soltar turista argentina acusada de injúria racial</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/justica-manda-soltar-turista-argentina-acusada-de-injuria-racial</link>
-      <pubDate>Sat, 07 Feb 2026 14:19:26 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/justica-manda-soltar-turista-argentina-acusada-de-injuria-racial#1008</guid>
-      <description>© Reprodução/@AgostinaPáez via Instagram
-A Justiça do Rio de Janeiro revogou no final da tarde desta sexta-feira (6) a prisão preventiva da advogada ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Z5T2sobB5yyp8OY7DJzN9rjiWms=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/06/aa1voxus.jpg?itok=Zg4ttxhh&quot; alt=&quot;Justiça manda soltar turista argentina acusada de injúria racial&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Reprodução/@AgostinaPáez via Instagram&lt;/p&gt;
-&lt;p&gt;A Justiça do Rio de Janeiro revogou no final da tarde desta sexta-feira (6) a prisão preventiva da advogada e influencer argentina, Agostina Paez, acusada de ter cometido ofensas racistas, no dia 14 de janeiro, contraquatro funcionários de um bar em Ipanema.Agostina Paez foi liberada agora à noite na delegacia.&lt;/p&gt;
-&lt;p&gt;presa pela manhã em cumprimento a um mandado de prisão preventiva&lt;/p&gt;
-&lt;p&gt;expedido pela 37ªVara Criminal da capital. Ela foi localizada em umapartamento alugado na Vargem Pequena.&lt;/p&gt;
-&lt;p&gt;Como o processo está em segredo de Justiça, a assessoria do Tribunal de Justiça limitou-se a informar que “a ordem de prisão preventiva foi revogada pelo juízo de primeira instância&quot;.&lt;/p&gt;
-&lt;p&gt;O crime ocorreu no dia 14 de janeiro, quando uma dasvítimas compareceu à delegacia e relatou ter sido alvo de xingamentos de cunho racial durante uma discussão envolvendo o pagamento da conta do estabelecimento&lt;/p&gt;
-&lt;p&gt;. Conforme apurado, a turista apontou o dedo para o trabalhador, utilizou a palavra mono, que significa macaco em espanhol, e passou a imitar gestos e reproduzir sons do animal.&lt;/p&gt;
-&lt;p&gt;As condutas criminosas foram registradas em vídeo pela própria vítima e confirmadas após análise das imagens de câmeras de segurança. Ao longo da apuração, de acordo com a Polícia Civil, agentesouviram testemunhas e reuniram elementos probatórios que permitiram esclarecer completamente a dinâmica dos fatos.&lt;/p&gt;
-&lt;p&gt;Antes de decretar a prisão preventiva, a Justiça do Rio, a pedido do Ministério Público, já tinha proibido a denunciada de deixar o país, reteve opassaporte dela e determinou o uso de tornozeleira eletrônica.&lt;/p&gt;
-&lt;p&gt;Nessa quinta-feira (5), em uma publicação no Instagram, Agostina diz que recebeu a notificação da prisão por perigo de fuga e disse que estava usando a tornozeleira eletrônica e estava à disposição da polícia. “Estou desesperada, estou morta de medo”.&lt;/p&gt;
-&lt;p&gt;Na ação, consta que a versão apresentada pela denunciada é que os gestos teriam sido meras brincadeiras dirigidas às amigas.&lt;/p&gt;
-&lt;p&gt;O crime de injúria racial - previsto no artigo 2º-A, caput, da Lei nº 7.716/89 - prevê pena de prisão de dois a cinco anos.&lt;/p&gt;
-&lt;p&gt;Comitês Gestores de Sítios do Patrimônio Mundial Cultural abrem edital&lt;/p&gt;
-&lt;p&gt;Ouça ao vivo: Vasco e Botafogo se enfrentam pela última rodada da Taça Guanabara&lt;/p&gt;
-&lt;p&gt;Ramagem, mesmo foragido, presta depoimento ao STF por videoconferência&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/justica-manda-soltar-turista-argentina-acusada-de-injuria-racial&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Reprodução/@AgostinaPáez via Instagram
-A Justiça do Rio de Janeiro revogou no final da tarde desta sexta-feira (6) a prisão preventiva da advogada ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-02-06 21:13:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-06 21:13:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-06 21:13:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-06 21:13:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Z5T2sobB5yyp8OY7DJzN9rjiWms=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/06/aa1voxus.jpg?itok=Zg4ttxhh</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>SUS teve recorde com 14,7 milhões de cirurgias eletivas em 2025</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/sus-teve-recorde-com-147-milhoes-de-cirurgias-eletivas-em-2025</link>
-      <pubDate>Sat, 07 Feb 2026 14:19:26 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/sus-teve-recorde-com-147-milhoes-de-cirurgias-eletivas-em-2025#1009</guid>
-      <description>O Sistema Único de Saúde (SUS) realizou, em 2025, pelo menos 14,7 milhões de cirurgias eletivas em todo o país, maior número registrado em um ano. O ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vRogGMVcz8nYOEVZXw1WHfBx8m8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/06/55080489907_9b4efbaab6_o.jpg?itok=Lc_2dnh3&quot; alt=&quot;SUS teve recorde com 14,7 milhões de cirurgias eletivas em 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Sistema Único de Saúde (SUS) realizou, em 2025, pelo menos 14,7 milhões de cirurgias eletivas em todo o país, maior número registrado em um ano. O resultado foi celebrado pelo governo federal nesta sexta-feira (6).&lt;/p&gt;
-&lt;p&gt;O presidente Luiz Inácio Lula da Silva e o ministro da Saúde, Alexandre Padilha, em evento em Salvador, destacaram que o número está relacionado às políticas públicas.&lt;/p&gt;
-&lt;p&gt;“Foram 14 milhões de cirurgias no ano passado porque estamos dispostos a acabar com a fila e fazer com que o povo pobre seja respeitado neste país”, afirmou o presidente.&lt;/p&gt;
-&lt;p&gt;Padilha avaliou que o resultado deve ser celebrado também em função da parceria do governo federal com os estados, municípios, hospitais filantrópicos e privados que aderiram ao programa Agora tem especialistas e atenderam pacientes do SUS. Antes, o&lt;/p&gt;
-&lt;p&gt;maior número de cirurgias foi registrado em 2024&lt;/p&gt;
-&lt;p&gt;, com 13,6 milhões de procedimentos.&lt;/p&gt;
-&lt;p&gt;“Acontece que, por conta da nova tabela do Agora Tem Especialistas, que paga um valor muito maior do que a antiga tabela SUS, isso estimula os estados, os municípios, os hospitais filantrópicos a realizarem os procedimentos”, afirmou o Ministério da Saúde.&lt;/p&gt;
-&lt;p&gt;Padilha, em entrevista à imprensa, disse que o SUS é o sistema público de saúde que mais faz cirurgia. No país todo, a previsão é distribuir um total de 150 combos cirúrgicos com foco na assistência hospitalar e outros 10 mil combos para unidades básicas de Saúde, aumentando a resolutividade da Atenção Primária no SUS.&lt;/p&gt;
-&lt;p&gt;Na Bahia, o governo federal fez a entrega de 1.030 combos de equipamentos para ampliar o atendimento no estado nas unidades básicas de saúde.&lt;/p&gt;
-&lt;p&gt;Foram entregues aparelhos como câmara fria para vacinas, balança digital e laser terapêutico para o tratamento de feridas e reabilitação, entre outros para a realização de exames na atenção primária.&lt;/p&gt;
-&lt;p&gt;“As prefeituras receberam também 575 mil kits de telessaúde, uma revolução no SUS. Estamos entregando, também, mais 107 ambulâncias do Samu, e agora a Bahia tem 100% de atendimento do SUS”, disse Padilha.&lt;/p&gt;
-&lt;p&gt;Comitês Gestores de Sítios do Patrimônio Mundial Cultural abrem edital&lt;/p&gt;
-&lt;p&gt;Ouça ao vivo: Vasco e Botafogo se enfrentam pela última rodada da Taça Guanabara&lt;/p&gt;
-&lt;p&gt;Ramagem, mesmo foragido, presta depoimento ao STF por videoconferência&lt;/p&gt;
-&lt;p&gt;ONU apresenta soluções urbanas brasileiras para países do Sul Global&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/sus-teve-recorde-com-147-milhoes-de-cirurgias-eletivas-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Sistema Único de Saúde (SUS) realizou, em 2025, pelo menos 14,7 milhões de cirurgias eletivas em todo o país, maior número registrado em um ano. O ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-02-06 21:12:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-06 21:12:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-06 21:12:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-06 21:12:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/vRogGMVcz8nYOEVZXw1WHfBx8m8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/06/55080489907_9b4efbaab6_o.jpg?itok=Lc_2dnh3</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
