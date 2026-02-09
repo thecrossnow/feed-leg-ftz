@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 09/02/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 11:49 UTC</description>
-<lastBuildDate>Mon, 09 Feb 2026 11:49:27 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Mon, 09 Feb 2026 13:17:06 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Beira-Mar reúne mais de mil pessoas na 2ª caminhada voltada às pessoas idosas em Fortaleza</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/beira-mar-reune-mais-de-mil-pessoas-na-2-caminhada-voltada-as-pessoas-idosas-em-fortaleza</link>
+<guid isPermaLink="false">fortaleza-20260209-946385dc4db7</guid>
+<pubDate>Mon, 09 Feb 2026 09:39:00 +0000</pubDate>
+<description>Beira-Mar reúne mais de mil pessoas na 2ª caminhada voltada às pessoas idosas em Fortaleza - Segunda, 09 Fevereiro 2026 09:39</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/EsporteLazer/IMG_4515%202.JPG" alt="Beira-Mar reúne mais de mil pessoas na 2ª caminhada voltada às pessoas idosas em Fortaleza" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Beira-Mar foi ocupada, na manhã da última sexta-feira (06/02), por mais de mil pessoas que participaram da 2ª caminhada promovida pela Prefeitura de Fortaleza, por meio da Secretaria Municipal de Esporte e Lazer (Secel). O espaço se transformou em ponto de encontro para quem decidiu começar o dia se movimentando, cuidando da saúde e compartilhando momentos de convivência.</p>
+<p>Desde cedo, os participantes se reuniram para o aquecimento e seguiram juntos em um percurso de 2 km, reforçando a presença ativa das pessoas idosas nos espaços públicos da cidade. A caminhada mostrou como ações simples, quando contínuas, ajudam a criar rotina saudável e fortalecem o vínculo entre a população e a cidade.</p>
+<p>Entre os participantes estava Maria José Nobre, de 63 anos, que destacou o clima de alegria e integração da atividade.</p>
+<p>“Achei muito bonito, considero uma festa com os idosos, com incentivo, incentivo também aos novos. Eu adorei e acho que deveria ter mais vezes. Quero agradecer ao prefeito Evandro Leitão e ao secretário Anderson Pinheiro”, afirmou.</p>
+<p>O secretário de Esporte e Lazer de Fortaleza, Anderson Pinheiro, ressaltou a importância de manter a cidade ativa e acessível para todas as idades.</p>
+<p>“Ver a Beira-Mar ocupada por mais de mil pessoas idosas, movimentando-se e participando, mostra que o esporte e o lazer precisam estar presentes no dia a dia da população. Esse cuidado com as pessoas é uma prioridade da gestão e conta com o apoio do prefeito Evandro Leitão”, destacou.</p>
+<p>A caminhada integra as ações do Projeto Viver Mais, que promove atividades físicas e momentos de convivência em todas as regionais da cidade, fortalecendo hábitos saudáveis e incentivando o envelhecimento ativo da população.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/beira-mar-reune-mais-de-mil-pessoas-na-2-caminhada-voltada-as-pessoas-idosas-em-fortaleza" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/EsporteLazer/IMG_4515%202.JPG" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/EsporteLazer/IMG_4515%202.JPG" type="image/jpeg" medium="image">
+<media:title>Beira-Mar reúne mais de mil pessoas na 2ª caminhada voltada às pessoas idosas em Fortaleza</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
