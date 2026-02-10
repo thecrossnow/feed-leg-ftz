@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Tue, 10 Feb 2026 12:56:55 +0000</pubDate>
+    <pubDate>Tue, 10 Feb 2026 14:20:39 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,17 +22,159 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Ferramenta promove educação financeira a famílias no CadÚnico</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/ferramenta-promove-educacao-financeira-familias-no-cadunico</link>
+      <pubDate>Tue, 10 Feb 2026 14:20:39 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/ferramenta-promove-educacao-financeira-familias-no-cadunico#1000</guid>
+      <description>Pessoas inscritas no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico) podem utilizar uma ferramenta educativa que utiliza a lingua...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/u-iYoLOda1W-urSRz1iqscux__I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/10/nova_ferramenta_do_governo_do_brasil_promove_educacao_financeira_a_familias_inscritas_no_cadunico_0.jpg?itok=D-uYGLu0&quot; alt=&quot;Ferramenta promove educação financeira a famílias no CadÚnico&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Pessoas inscritas no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico) podem utilizar uma ferramenta educativa que utiliza a linguagem do futebol para promover educação financeira.&lt;/p&gt;
+&lt;p&gt;De acordo com a Secretaria de Comunicação Social (Secom) da Presidência da República, o jogo Bate-Bola Financeiro propõe uma experiência simples e interativa para ensinar conceitos básicos de organização financeira, controle de gastos, planejamento e noções voltadas a pequenos negócios.&lt;/p&gt;
+&lt;p&gt;“A cada pergunta respondida corretamente, o time avança em campo até marcar o gol. Em caso de erro, o jogador tem novas chances de aprender e seguir na partida. As fases são divididas em níveis fácil, médio e difícil, permitindo uma aprendizagem gradual”, detalhou a pasta em comunicado.&lt;/p&gt;
+&lt;p&gt;O Bate-Bola Financeiro pode ser acessado gratuitamente pelo celular ou pelo computador, por meio do&lt;/p&gt;
+&lt;p&gt;Embora o foco sejam famílias em situação de vulnerabilidade social inscritas no CadÚnico, qualquer pessoa pode acessar o jogo.&lt;/p&gt;
+&lt;p&gt;Carnaval de Olinda: homenageados foram escolhidos por votação online&lt;/p&gt;
+&lt;p&gt;Embrapa promove treinamento sobre cultivo da mandioca&lt;/p&gt;
+&lt;p&gt;Pesquisa investiga impacto do microplástico no organismo humano&lt;/p&gt;
+&lt;p&gt;Ferramenta promove educação financeira a famílias no CadÚnico&lt;/p&gt;
+&lt;p&gt;Câmara aprova urgência para votar quebra de patente do Mounjaro&lt;/p&gt;
+&lt;p&gt;Chuvas: estado de SP tem 45 cidades em atenção para deslizamentos&lt;/p&gt;
+&lt;p&gt;Inflação oficial de janeiro fica em 0,33% e se mantém dentro da meta&lt;/p&gt;
+&lt;p&gt;Denúncias de crimes cibernéticos crescem 28% em 2025, mostra Safernet&lt;/p&gt;
+&lt;p&gt;Bloco no Rio busca integrar trabalhadoras do sexo e romper estigmas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/ferramenta-promove-educacao-financeira-familias-no-cadunico&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Pessoas inscritas no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico) podem utilizar uma ferramenta educativa que utiliza a lingua...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-02-10 10:45:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-10 10:45:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-10 10:45:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-10 10:45:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/u-iYoLOda1W-urSRz1iqscux__I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/10/nova_ferramenta_do_governo_do_brasil_promove_educacao_financeira_a_familias_inscritas_no_cadunico_0.jpg?itok=D-uYGLu0</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Câmara aprova urgência para votar quebra de patente do Mounjaro</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/camara-aprova-urgencia-para-votar-quebra-de-patente-do-mounjaro</link>
+      <pubDate>Tue, 10 Feb 2026 14:20:39 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/camara-aprova-urgencia-para-votar-quebra-de-patente-do-mounjaro#1001</guid>
+      <description>© REUTERS/George Frey/File Photo
+A Câmara dos Deputados aprovou nesta segunda-feira (9) requerimento de regime de urgência para apreciar o Projeto de...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ICrh6VgMGLkLcwK-EWqDN1qZS9Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2023-09-19t183842z_324688230_rc2w30a85kox_rtrmadp_3_lilly-lawsuits.jpg?itok=v0_emQuP&quot; alt=&quot;Câmara aprova urgência para votar quebra de patente do Mounjaro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS/George Frey/File Photo&lt;/p&gt;
+&lt;p&gt;A Câmara dos Deputados aprovou nesta segunda-feira (9) requerimento de regime de urgência para apreciar o Projeto de Lei nº 68, de 2026, que declara os remédios Mounjaro e Zepbound como de interesse público e pede a quebra de patente. Ambos são medicamentos agonistas do receptor GLP‑1, popularmente conhecidos como canetas emagrecedoras.&lt;/p&gt;
+&lt;p&gt;Foram registrados, ao todo, 337 votos favoráveis e 19 contrários. O texto é de autoria dos deputados federais Antonio Brito (PSD-BA) e Mário Heringer (PDT-MG).&lt;/p&gt;
+&lt;p&gt;Com a aprovação do regime de urgência, o projeto pode ser votado a qualquer momento no plenário, sem necessidade de passar pelas comissões da Casa.&lt;/p&gt;
+&lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) emitiu&lt;/p&gt;
+&lt;p&gt;sobre os riscos do uso indevido de canetas emagrecedoras. O grupo inclui a dulaglutida, a liraglutida, a semaglutida e a tirzepatida.&lt;/p&gt;
+&lt;p&gt;Em nota, a Anvisa destacou que, embora o risco conste das bulas dos medicamentos aprovados no Brasil, as notificações têm aumentado tanto no cenário internacional quantono cenário nacional, o que exige reforço das orientações de segurança.&lt;/p&gt;
+&lt;p&gt;O monitoramento médico, segundo a agência, é motivado pelo risco de eventos adversos graves, incluindo pancreatite aguda, que podem incluir formas necrotizantes e fatais.&lt;/p&gt;
+&lt;p&gt;No início do mês, a Agência Reguladora de Medicamentos e Produtos de Saúde (MHRA) do&lt;/p&gt;
+&lt;p&gt;Reino Unido também emitiu alerta&lt;/p&gt;
+&lt;p&gt;para o risco, ainda que pequeno, de casos de pancreatite aguda grave em pacientes que utilizam canetas emagrecedoras.&lt;/p&gt;
+&lt;p&gt;Carnaval de Olinda: homenageados foram escolhidos por votação popular&lt;/p&gt;
+&lt;p&gt;Embrapa promove treinamento sobre cultivo da mandioca&lt;/p&gt;
+&lt;p&gt;Pesquisa investiga impacto do microplástico no organismo humano&lt;/p&gt;
+&lt;p&gt;Ferramenta promove educação financeira a famílias no CadÚnico&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/camara-aprova-urgencia-para-votar-quebra-de-patente-do-mounjaro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS/George Frey/File Photo
+A Câmara dos Deputados aprovou nesta segunda-feira (9) requerimento de regime de urgência para apreciar o Projeto de...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-02-10 10:24:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-10 10:24:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-10 10:24:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-10 10:24:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/ICrh6VgMGLkLcwK-EWqDN1qZS9Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2023-09-19t183842z_324688230_rc2w30a85kox_rtrmadp_3_lilly-lawsuits.jpg?itok=v0_emQuP</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Chuvas: estado de SP tem 45 cidades em atenção para deslizamentos</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-estado-de-sp-tem-45-cidades-em-atencao-para-deslizamentos</link>
+      <pubDate>Tue, 10 Feb 2026 14:20:39 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-estado-de-sp-tem-45-cidades-em-atencao-para-deslizamentos#1002</guid>
+      <description>A Defesa Civil do Estado de São Paulo ampliou, nesta terça-feira (10), para 45 municípios o número de cidades em estado de atenção para deslizamentos...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VttzTgzucJ7S-MGP3JwlvI4Ewts=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/sp_bairro_arthur_alvim_zona_leste_da_capital.jpg?itok=jzMTlHC5&quot; alt=&quot;Chuvas: estado de SP tem 45 cidades em atenção para deslizamentos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Defesa Civil do Estado de São Paulo ampliou, nesta terça-feira (10), para 45 municípios o número de cidades em estado de atenção para deslizamentos de terra, devido aos altos acumulados de chuva registrados nas últimas 72 horas.&lt;/p&gt;
+&lt;p&gt;As chuvas deixaram o solo saturado e aumentaram o risco de ocorrências, especialmente em áreas de encosta e regiões previamente mapeadas como vulneráveis. O nível de atenção indica possibilidade de ocorrência de deslizamentos, exigindo vigilância redobrada das defesas civis municipais e da população.&lt;/p&gt;
+&lt;p&gt;O Plano de Contingência de Proteção e Defesa Civil estabelece quatro níveis operacionais - observação, atenção, alerta e alerta máximo - definidos a partir da análise integrada dos volumes de chuva, da previsão meteorológica, das vistorias de campo e do registro de ocorrências.&lt;/p&gt;
+&lt;p&gt;No estágio de atenção, os municípios devem intensificar vistorias em áreas de risco, manter monitoramento permanente das condições do solo, reforçar ações de conscientização junto à população e manter equipes e recursos em prontidão, podendo propor a elevação do nível do plano caso os critérios técnicos indiquem agravamento do cenário.&lt;/p&gt;
+&lt;p&gt;“Moradores de áreas de risco devem ficar atentos a sinais de instabilidade como rachaduras no solo, trincas em paredes, inclinação de árvores ou postes e estalos em encostas”, diz nota da Defesa Civil.&lt;/p&gt;
+&lt;p&gt;Em caso de risco iminente, a orientação é deixar o local imediatamente e acionar a Defesa Civil pelo telefone 199.&lt;/p&gt;
+&lt;p&gt;Municípios em estado de atenção para deslizamentos:&lt;/p&gt;
+&lt;p&gt;Carnaval de Olinda: homenageados foram escolhidos por votação online&lt;/p&gt;
+&lt;p&gt;Embrapa promove treinamento sobre cultivo da mandioca&lt;/p&gt;
+&lt;p&gt;Pesquisa investiga impacto do microplástico no organismo humano&lt;/p&gt;
+&lt;p&gt;Ferramenta promove educação financeira a famílias no CadÚnico&lt;/p&gt;
+&lt;p&gt;Câmara aprova urgência para votar quebra de patente do Mounjaro&lt;/p&gt;
+&lt;p&gt;Chuvas: estado de SP tem 45 cidades em atenção para deslizamentos&lt;/p&gt;
+&lt;p&gt;Inflação oficial de janeiro fica em 0,33% e se mantém dentro da meta&lt;/p&gt;
+&lt;p&gt;Denúncias de crimes cibernéticos crescem 28% em 2025, mostra Safernet&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-estado-de-sp-tem-45-cidades-em-atencao-para-deslizamentos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Defesa Civil do Estado de São Paulo ampliou, nesta terça-feira (10), para 45 municípios o número de cidades em estado de atenção para deslizamentos...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-02-10 10:05:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-10 10:05:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-10 10:05:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-10 10:05:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/VttzTgzucJ7S-MGP3JwlvI4Ewts=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/sp_bairro_arthur_alvim_zona_leste_da_capital.jpg?itok=jzMTlHC5</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Inflação oficial de janeiro fica em 0,33% e se mantém dentro da meta</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/inflacao-oficial-de-janeiro-fica-em-033-e-se-mantem-dentro-da-meta</link>
-      <pubDate>Tue, 10 Feb 2026 12:56:55 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 14:20:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/inflacao-oficial-de-janeiro-fica-em-033-e-se-mantem-dentro-da-meta#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/inflacao-oficial-de-janeiro-fica-em-033-e-se-mantem-dentro-da-meta#1003</guid>
       <description>© REUTERS/Sergio Moraes/Proibida reprodução
 Os preços da conta de luz e da gasolina mediram força em janeiro e fizeram a inflação oficial do mês fech...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YDsGZUG3tlufbE2V6TggMmrKEPU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2022-05-24t121313z_1_lynxnpei4n0kb_rtroptp_4_health-coronavirus-brazil.jpg?itok=bAiHHb3W&quot; alt=&quot;Inflação oficial de janeiro fica em 0,33% e se mantém dentro da meta&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;© REUTERS/Sergio Moraes/Proibida reprodução&lt;/p&gt;
 &lt;p&gt;Os preços da conta de luz e da gasolina mediram força em janeiro e fizeram a inflação oficial do mês fechar em 0,33%, mesmo patamar de dezembro. Em janeiro de 2025, o IPCA tinha sido de 0,16%.&lt;/p&gt;
-&lt;p&gt;Com o resultado, a inflação oficial - medida pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) - acumula 4,44% em 12 meses dentro do limite máximo de tolerância da meta do governo.&lt;/p&gt;
+&lt;p&gt;Com o resultado, a inflação oficial - medida pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) - acumula 4,44% em 12 meses, dentro do limite máximo de tolerância da meta do governo.&lt;/p&gt;
 &lt;p&gt;A gasolina exerceu a maior pressão de alta, respondendo por 0,10 ponto percentual (p.p.) do índice, enquanto a conta de luz mais barata representou -0,11 p.p.&lt;/p&gt;
 &lt;p&gt;Os dados foram divulgados nesta terça-feira (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), no Rio de Janeiro.&lt;/p&gt;
 &lt;p&gt;A meta de inflação estipulada pelo Conselho Monetário Nacional (CMN) é de 3%, com tolerância de 1,5 ponto percentual para mais ou para menos, ou seja, um intervalo de 1,5% a 4,5%. Desde novembro passado, o IPCA está dentro do limite de tolerância.&lt;/p&gt;
@@ -40,14 +182,14 @@ Os preços da conta de luz e da gasolina mediram força em janeiro e fizeram a i
 &lt;p&gt;Instituições financeiras ouvidas pelo Boletim Focus, do Banco Central&lt;/p&gt;
 &lt;p&gt;, estimam que o IPCA deve terminar o ano em 3,97%.&lt;/p&gt;
 &lt;p&gt;O IPCA apura o custo de vida para famílias com rendimentos entre um e 40 salários mínimos. Ao todos, são coletados preços de 377 subitens (produtos e serviços).&lt;/p&gt;
-&lt;p&gt;A coleta de preços é feita em dez regiões metropolitanas - Belém, Fortaleza, Recife, Salvador, Belo Horizonte, Vitória, Rio de Janeiro, São Paulo, Curitiba, Porto Alegre - além de Brasília, Goiânia, Campo Grande, Rio Branco, São Luís e Aracaju.&lt;/p&gt;
-&lt;p&gt;Caixa lança microcréditos para empreendedores inscritos no CadÙnico&lt;/p&gt;
-&lt;p&gt;Blocobuster leva trilhas icônicas do cinema para o Carnaval do Leme&lt;/p&gt;
-&lt;p&gt;Pesquisa investiga impacto do microplástico no organismo humano&lt;/p&gt;
-&lt;p&gt;Inflação oficial de janeiro fica em 0,33% e se mantém dentro da meta&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/inflacao-oficial-de-janeiro-fica-em-033-e-se-mantem-dentro-da-meta&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Dos nove grupos de produtos e serviços, dois apresentaram recuo no mês. Confira os resultados e impactos no índice.&lt;/p&gt;
+&lt;p&gt;Saúde e cuidados pessoais: 0,70% (0,10 p.p.)&lt;/p&gt;
+&lt;p&gt;Despesas pessoais: 0,41% (0,04 p.p.)&lt;/p&gt;
+&lt;p&gt;Alimentação e bebidas: 0,23% (0,05 p.p.)&lt;/p&gt;
+&lt;p&gt;Artigos de residência: 0,20% (0,01 p.p.)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/inflacao-oficial-de-janeiro-fica-em-033-e-se-mantem-dentro-da-meta&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Sergio Moraes/Proibida reprodução
 Os preços da conta de luz e da gasolina mediram força em janeiro e fizeram a inflação oficial do mês fech...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-02-10 09:22:00</wp:post_date>
       <wp:post_date_gmt>2026-02-10 09:22:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-10 09:22:00</wp:post_modified>
@@ -73,9 +215,9 @@ Os preços da conta de luz e da gasolina mediram força em janeiro e fizeram a i
     <item>
       <title>Denúncias de crimes cibernéticos crescem 28% em 2025, mostra Safernet</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/denuncias-de-crimes-ciberneticos-crescem-28-em-2025-mostra-safernet</link>
-      <pubDate>Tue, 10 Feb 2026 12:56:55 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 14:20:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/denuncias-de-crimes-ciberneticos-crescem-28-em-2025-mostra-safernet#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/denuncias-de-crimes-ciberneticos-crescem-28-em-2025-mostra-safernet#1004</guid>
       <description>© Marcello Casal Jr/Agência Brasi
 As denúncias de crimes cibernéticos voltaram a crescer em todo o país no ano passado. A Central Nacional de Denúnci...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/l7HdmVZzBn0nv2gPqG7yyIqIYks=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/notebook_marcello_casal_jr.jpg?itok=Jzr0PZWS&quot; alt=&quot;Denúncias de crimes cibernéticos crescem 28% em 2025, mostra Safernet&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +238,7 @@ As denúncias de crimes cibernéticos voltaram a crescer em todo o país no ano 
 &lt;p&gt;Central Nacional de Denúncias da Safernet Bra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/denuncias-de-crimes-ciberneticos-crescem-28-em-2025-mostra-safernet&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal Jr/Agência Brasi
 As denúncias de crimes cibernéticos voltaram a crescer em todo o país no ano passado. A Central Nacional de Denúnci...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-02-10 09:02:00</wp:post_date>
       <wp:post_date_gmt>2026-02-10 09:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-10 09:02:00</wp:post_modified>
@@ -122,9 +264,9 @@ As denúncias de crimes cibernéticos voltaram a crescer em todo o país no ano 
     <item>
       <title>Tuiuti trará semelhanças da diáspora africana no Brasil e em Cuba</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tuiuti-trara-semelhancas-da-diaspora-africana-no-brasil-e-em-cuba</link>
-      <pubDate>Tue, 10 Feb 2026 12:56:55 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 14:20:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tuiuti-trara-semelhancas-da-diaspora-africana-no-brasil-e-em-cuba#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tuiuti-trara-semelhancas-da-diaspora-africana-no-brasil-e-em-cuba#1005</guid>
       <description>Imagine um país que levou a escravizaçãode pretos africanos até a penúltima década do Século 19. Essas pessoas eram exploradas como força de trabalho...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VF8Fm6UXX0d8YZe5Xfmi9LAKH4k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/23/tuiuti_bandeira.jpg?itok=Ix2XdaW1&quot; alt=&quot;Tuiuti trará semelhanças da diáspora africana no Brasil e em Cuba&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Imagine um país que levou a escravizaçãode pretos africanos até a penúltima década do Século 19. Essas pessoas eram exploradas como força de trabalho cativa para, por exemplo, a lida nas lavouras de cana-de açúcar e de café. Além da riqueza material criada pelos pretos e apropriada pelos brancos, a diáspora de escravizados africanos legou a esse país uma imensa fortuna cultural, sempre reverenciada na culinária, no idioma, na música, no encantamento do mundo ou sacralidade.&lt;/p&gt;
@@ -143,7 +285,7 @@ As denúncias de crimes cibernéticos voltaram a crescer em todo o país no ano 
 &lt;p&gt;(Pallas Editora). A publicação “originou o enredo”, como conta o carnavalesco da Paraíso de Tuiuti, Jack Vasconcelos, em áudio compartilhado pela agremiação para a imprensa.&lt;/p&gt;
 &lt;p&gt;De acordo com Vasconcelos, o desfile se desenvolverá na avenida com “seis setores”, com alas de passistas e carros alegóricos. O primeiro mostrará a chegada do Ifá na Terra e a passagem do conhecimento aos primeiros babalaôs (sacerdotes). Em seguida, a escola contará como o Ifá chega a outras civilizações, além dos iorubás no território africano.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-01/tuiuti-trara-semelhancas-da-diaspora-africana-no-brasil-e-em-cuba&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Imagine um país que levou a escravizaçãode pretos africanos até a penúltima década do Século 19. Essas pessoas eram exploradas como força de trabalho...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-02-10 07:02:00</wp:post_date>
       <wp:post_date_gmt>2026-02-10 07:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-10 07:02:00</wp:post_modified>
@@ -169,9 +311,9 @@ As denúncias de crimes cibernéticos voltaram a crescer em todo o país no ano 
     <item>
       <title>Brasil capta US$ 4,5 bilhões em títulos no mercado internacional</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/brasil-capta-us-45-bilhoes-em-titulos-no-mercado-internacional</link>
-      <pubDate>Tue, 10 Feb 2026 12:56:55 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 14:20:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/brasil-capta-us-45-bilhoes-em-titulos-no-mercado-internacional#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/brasil-capta-us-45-bilhoes-em-titulos-no-mercado-internacional#1006</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O Tesouro Nacional anunciou nesta segunda-feira (9) o resultado da primeira emissão de títulos soberanos no mercado ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VC_z2TCWWJP7a1EfRpj74KQwdWM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/fachada-ministerio_mcamgo_abr_100420231818-28.jpg?itok=nkeYQSLB&quot; alt=&quot;Brasil capta US$ 4,5 bilhões em títulos no mercado internacional&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -192,7 +334,7 @@ O Tesouro Nacional anunciou nesta segunda-feira (9) o resultado da primeira emis
 &lt;p&gt;A operação foi coordenada pelos bancos HSBC, JP Morgan, Santander e Sumitomo.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/brasil-capta-us-45-bilhoes-em-titulos-no-mercado-internacional&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O Tesouro Nacional anunciou nesta segunda-feira (9) o resultado da primeira emissão de títulos soberanos no mercado ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-02-09 21:14:00</wp:post_date>
       <wp:post_date_gmt>2026-02-09 21:14:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-09 21:14:00</wp:post_modified>
@@ -218,9 +360,9 @@ O Tesouro Nacional anunciou nesta segunda-feira (9) o resultado da primeira emis
     <item>
       <title>Lula defende educação para o combate à violência contra mulher</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/lula-defende-educacao-para-o-combate-violencia-contra-mulher</link>
-      <pubDate>Tue, 10 Feb 2026 12:56:55 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 14:20:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/lula-defende-educacao-para-o-combate-violencia-contra-mulher#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/lula-defende-educacao-para-o-combate-violencia-contra-mulher#1007</guid>
       <description>O presidente Luiz Inácio Lula da Silvadefendeu nesta segunda-feira (9)a educação como parte do compromisso de combate à violência contra a mulher, du...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_uquiudpTITjNTctHKC28JxCaDI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/09/pint7800.jpg.jpg?itok=7pSMUZR1&quot; alt=&quot;Lula defende educação para o combate à violência contra mulher&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O presidente Luiz Inácio Lula da Silvadefendeu nesta segunda-feira (9)a educação como parte do compromisso de combate à violência contra a mulher, durante entrega de ambulâncias e assinatura de convênios nas áreas de educação e saúde na cidade de Mauá, no ABC paulista.&lt;/p&gt;
@@ -239,7 +381,7 @@ O Tesouro Nacional anunciou nesta segunda-feira (9) o resultado da primeira emis
 &lt;p&gt;Desde a semana passada, a Carreta da Saúde tem realizadomais de 1.000 atendimentos em especialidades no município, com intuito de zerar a fila no prazo de um mês. Foi anunciada a entregade 34 ambulâncias do Serviço de Atendimento Móvel de Urgência (Samu) para Mauá, e outros 30 veículos paraSanto André, São Bernardo do Campo, São Caetano do Sul e Diadema. O investimento federal na iniciativa é de R$ 10 milhões.&lt;/p&gt;
 &lt;p&gt;Está em construção em Mauáuma Unidade Básica de Saúde (UBS), financiada pelo Novo PAC Saúde, que terá quatro equipes de Saúde da Família e outras quatro de Saúde Bucal.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/lula-defende-educacao-para-o-combate-violencia-contra-mulher&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O presidente Luiz Inácio Lula da Silvadefendeu nesta segunda-feira (9)a educação como parte do compromisso de combate à violência contra a mulher, du...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-02-09 20:41:00</wp:post_date>
       <wp:post_date_gmt>2026-02-09 20:41:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-09 20:41:00</wp:post_modified>
@@ -265,9 +407,9 @@ O Tesouro Nacional anunciou nesta segunda-feira (9) o resultado da primeira emis
     <item>
       <title>CNJ recebe nova denúncia de importunação sexual contra ministro do STJ</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/cnj-recebe-nova-denuncia-de-importunacao-sexual-contra-ministro-do-stj</link>
-      <pubDate>Tue, 10 Feb 2026 12:56:55 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 14:20:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/cnj-recebe-nova-denuncia-de-importunacao-sexual-contra-ministro-do-stj#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/cnj-recebe-nova-denuncia-de-importunacao-sexual-contra-ministro-do-stj#1008</guid>
       <description>O Conselho Nacional de Justiça (CNJ) confirmou nesta segunda-feira (9) que recebeu uma nova denúncia de importunação sexual contra o ministro Marco B...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UX_ywOczocpWvLbNbb2gN4V5SDY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/04/marco_buzzi.jpg?itok=5rvqP13u&quot; alt=&quot;CNJ recebe nova denúncia de importunação sexual contra ministro do STJ&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Conselho Nacional de Justiça (CNJ) confirmou nesta segunda-feira (9) que recebeu uma nova denúncia de importunação sexual contra o ministro Marco Buzzi, do Superior Tribunal de Justiça (STJ).&lt;/p&gt;
@@ -278,15 +420,15 @@ O Tesouro Nacional anunciou nesta segunda-feira (9) o resultado da primeira emis
 &lt;p&gt;Buzzi apresentou um atestado médico e está afastado do trabalho por questões médicas&lt;/p&gt;
 &lt;p&gt;Em nota, os advogados Paulo Emílio Catta Pretta e Maria Fernanda Ávila negaram as acusações e disseram que ainda não tiveram acesso aos procedimentos abertos no CNJ.&lt;/p&gt;
 &lt;p&gt;“O ministro Marco Buzzi não cometeu qualquer ato impróprio, como será possível demonstrar oportunamente no âmbitos dos procedimentos já instaurados”, afirmou a defesa.&lt;/p&gt;
-&lt;p&gt;Dia da Internet Segura alerta para riscos do sharenting&lt;/p&gt;
+&lt;p&gt;Caixa lança microcrédito para empreendedores inscritos no CadÙnico&lt;/p&gt;
 &lt;p&gt;Blocobuster leva trilhas icônicas do cinema para o Carnaval do Leme&lt;/p&gt;
 &lt;p&gt;Pesquisa investiga impacto do microplástico no organismo humano&lt;/p&gt;
-&lt;p&gt;Inflação oficial de janeiro fica em 0,33% e se mantém dentro da meta&lt;/p&gt;
-&lt;p&gt;Denúncias de crimes cibernéticos crescem 28% em 2025, mostra Safernet&lt;/p&gt;
-&lt;p&gt;Bloco no Rio busca integrar trabalhadoras do sexo e romper estigmas&lt;/p&gt;
-&lt;p&gt;Tuiuti trará semelhanças da diáspora africana no Brasil e em Cuba&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/cnj-recebe-nova-denuncia-de-importunacao-sexual-contra-ministro-do-stj&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Ferramenta promove educação financeira a famílias no CadÚnico&lt;/p&gt;
+&lt;p&gt;Câmara aprova urgência para votar quebra de patente do Mounjaro&lt;/p&gt;
+&lt;p&gt;Chuvas: estado de SP tem 45 cidades em atenção para deslizamentos&lt;/p&gt;
+&lt;p&gt;Inflação oficial de janeiro fica em 0,33% e se mantém dentro da meta&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/cnj-recebe-nova-denuncia-de-importunacao-sexual-contra-ministro-do-stj&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Conselho Nacional de Justiça (CNJ) confirmou nesta segunda-feira (9) que recebeu uma nova denúncia de importunação sexual contra o ministro Marco B...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-02-09 19:59:00</wp:post_date>
       <wp:post_date_gmt>2026-02-09 19:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-09 19:59:00</wp:post_modified>
@@ -312,9 +454,9 @@ O Tesouro Nacional anunciou nesta segunda-feira (9) o resultado da primeira emis
     <item>
       <title>Cármen Lúcia vota contra gratificação de desempenho a inativos do INSS</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/carmen-lucia-vota-contra-gratificacao-de-desempenho-inativos-do-inss</link>
-      <pubDate>Tue, 10 Feb 2026 12:56:55 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 14:20:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/carmen-lucia-vota-contra-gratificacao-de-desempenho-inativos-do-inss#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/carmen-lucia-vota-contra-gratificacao-de-desempenho-inativos-do-inss#1009</guid>
       <description>© Valter Campanato/Agência Brasi
 A ministra Cármen Lucia, do Supremo Tribunal Federal (STF), votou contra o pagamento de gratificação por desempenho ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Li3C6Rwe4UxNRwVonPXr7O7f4gs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/958839-060515-dsc_9915.jpg?itok=QjxMyNnd&quot; alt=&quot;Cármen Lúcia vota contra gratificação de desempenho a inativos do INSS&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -330,12 +472,12 @@ A ministra Cármen Lucia, do Supremo Tribunal Federal (STF), votou contra o paga
 &lt;p&gt;A ministra também entendeu que os valores que já foram recebidos não precisam ser devolvidos.&lt;/p&gt;
 &lt;p&gt;“Tem-se que mera alteração do limite mínimo da Gratificação de Desempenho de Atividade do Seguro Social – GDASS, de 30 para 70 pontos, não confere natureza genérica, capaz de estender sua aplicabilidade aos servidores inativos. Assim, permanece inalterado o pressuposto essencial, qual seja, a realização das avaliações de desempenho individual e institucional”, afirmou a ministra.&lt;/p&gt;
 &lt;p&gt;O julgamento virtual está previsto para ser encerrado às 23h59 da próxima sexta-feira (13). Faltam os votos de dez ministros.&lt;/p&gt;
-&lt;p&gt;Dia da Internet Segura alerta para riscos do sharenting&lt;/p&gt;
-&lt;p&gt;Blocobuster leva trilhas icônicas do cinema para o Carnaval do Leme&lt;/p&gt;
+&lt;p&gt;Caixa lança microcrédito para empreendedores inscritos no CadÙnico&lt;/p&gt;
+&lt;p&gt;Canetas emagrecedoras são associadas a risco de pancreatite&lt;/p&gt;
 &lt;p&gt;Pesquisa investiga impacto do microplástico no organismo humano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/carmen-lucia-vota-contra-gratificacao-de-desempenho-inativos-do-inss&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasi
 A ministra Cármen Lucia, do Supremo Tribunal Federal (STF), votou contra o pagamento de gratificação por desempenho ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-02-09 19:09:00</wp:post_date>
       <wp:post_date_gmt>2026-02-09 19:09:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-09 19:09:00</wp:post_modified>
@@ -356,153 +498,6 @@ A ministra Cármen Lucia, do Supremo Tribunal Federal (STF), votou contra o paga
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/Li3C6Rwe4UxNRwVonPXr7O7f4gs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/958839-060515-dsc_9915.jpg?itok=QjxMyNnd</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Caixa e MDS lançam microcrédito para integrantes no CadÚnico</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/caixa-e-mds-lancam-microcredito-para-integrantes-no-cadunico</link>
-      <pubDate>Tue, 10 Feb 2026 12:56:55 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/caixa-e-mds-lancam-microcredito-para-integrantes-no-cadunico#1007</guid>
-      <description>O ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) e a Caixa Econômica Federal lançaram hoje (9), na capital paulis...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VGjoN137WxtoL6v0_hN6v-J9zXY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/09/caixa_e_mds_lancam_microcredito_para_empreendedores_cadastrados_no_cadunico01.jpg?itok=BtbY6VLo&quot; alt=&quot;Caixa e MDS lançam microcrédito para integrantes no CadÚnico&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) e a Caixa Econômica Federal lançaram hoje (9), na capital paulista, a oportunidade de microcrédito para famílias do Cadastro Único (CadÚnico), registro que permite ao governo saber quem são e como vivem as famílias de baixa renda no Brasil.&lt;/p&gt;
-&lt;p&gt;Ainda em fase piloto, o microcrédito vai funcionar de forma experimental por 90 dias, começando por São Paulo, Rio de Janeiro e Belo Horizonte e depois se estenderá para o resto do país.&lt;/p&gt;
-&lt;p&gt;O empréstimo integra o programa Acredita no Primeiro Passo, que tem por objetivo combater a pobreza e a desigualdade por meio do trabalho, oferecendo crédito e qualificação para famílias de maior vulnerabilidade social.&lt;/p&gt;
-&lt;p&gt;Os primeiros contratos foram assinados na tarde desta segunda-feira pelo ministro do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS), Wellington Dias, e o presidente da Caixa, Carlos Vieira.&lt;/p&gt;
-&lt;p&gt;“Não se trata só de um financiamento, é um crédito assistido. Tem o crédito, mas tem a assistência para o próprio negócio, como o negócio da beleza, da gastronomia, do pequeno comércio”, explicou o ministro, em entrevista à Agência Brasil.&lt;/p&gt;
-&lt;p&gt;“Uma pessoa que quer um financiamento, mas o juro está alto, aqui ela terá uma condição de taxa adequada para o financiamento com a Caixa. Se ela quer [empreender], mas não tem um avalista ou não tem uma garantia, o presidente Lula criou um fundo garantidor”, acrescentou.&lt;/p&gt;
-&lt;p&gt;O foco do programa são mulheres, pessoas negras, jovens, pessoas com deficiência e de povos e comunidades tradicionais.&lt;/p&gt;
-&lt;p&gt;O crédito varia entre R$ 500 e R$ 21 mil, com garantia do Fundo Garantidor de Operações (FGO). O prazo varia entre 4 e 12 meses.&lt;/p&gt;
-&lt;p&gt;“Nós estamos expandindo esses créditos de forma que essas pessoas consigam desenvolver suas atividades laborais. Esse é o grande propósito”, ressaltou o presidente da Caixa.&lt;/p&gt;
-&lt;p&gt;Algumas das pessoas que serão beneficiadas com o crédito são os ambulantes da Associação Guerreiros, que congrega ambulantes, feirantes e trabalhadores informais de São Paulo.&lt;/p&gt;
-&lt;p&gt;Segundo a presidente da associação, Margarida Ramos, esse crédito deve ajudar os ambulantes principalmente no momento de compra de mercadorias.&lt;/p&gt;
-&lt;p&gt;“As pessoas querem investir em mercadoria ou obter algum crédito para momentos de necessidade”, disse.&lt;/p&gt;
-&lt;p&gt;“Eu ficava preocupada porque eu via vários programas do governo para todos os tipos de trabalhadores, mas para o trabalhador informal ele não chegava. Esse programa caiu assim na hora certa”, acrescentou.&lt;/p&gt;
-&lt;p&gt;Ainda nesta segunda-feira, o ministro lançou, na capital paulista, o&lt;/p&gt;
-&lt;p&gt;, um jogo online de educação financeira, elaborado junto com a bandeira Visa, e voltado para inscritos no CadÚnico.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/caixa-e-mds-lancam-microcredito-para-integrantes-no-cadunico&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) e a Caixa Econômica Federal lançaram hoje (9), na capital paulis...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-02-09 19:07:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-09 19:07:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-09 19:07:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-09 19:07:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/VGjoN137WxtoL6v0_hN6v-J9zXY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/09/caixa_e_mds_lancam_microcredito_para_empreendedores_cadastrados_no_cadunico01.jpg?itok=BtbY6VLo</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Dólar cai para o menor valor em 21 meses, e bolsa bate recorde</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/dolar-cai-para-o-menor-valor-em-21-meses-e-bolsa-bate-recorde</link>
-      <pubDate>Tue, 10 Feb 2026 12:56:55 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/dolar-cai-para-o-menor-valor-em-21-meses-e-bolsa-bate-recorde#1008</guid>
-      <description>© Valter Campanato/Agência Brasil
-Num dia de euforia no mercado financeiro, o dólar caiu para o menor nível em 21 meses e fechou abaixo de R$ 5,20. A...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mrDjTR2zqhBRdsHsB9DYyyoKlEs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221206.jpg?itok=Lfnkvs7j&quot; alt=&quot;Dólar cai para o menor valor em 21 meses, e bolsa bate recorde&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Num dia de euforia no mercado financeiro, o dólar caiu para o menor nível em 21 meses e fechou abaixo de R$ 5,20. A bolsa de valores teve forte alta e bateu recorde, superando os 186 mil pontos.&lt;/p&gt;
-&lt;p&gt;O dólar comercial encerrou esta segunda-feira (9) vendido a R$ 5,188, com queda de R$ 0,032 (-0,62%).&lt;/p&gt;
-&lt;p&gt;A cotação caiu durante toda a sessão, chegando a R$ 5,17 por volta das 13h. A partir daí, investidores aproveitaram para comprar moeda barata, mas a moeda não deixou de operar em baixa.&lt;/p&gt;
-&lt;p&gt;A moeda estadunidense está no menor nível desde 28 de maio de 2024, quando estava em R$ 5,15. A divisa acumula queda de 5,47% em 2026.&lt;/p&gt;
-&lt;p&gt;O mercado de ações teve um dia de ganhos&lt;/p&gt;
-&lt;p&gt;. O índice Ibovespa, da B3, fechou aos 186.241 pontos, com alta de 1,8%.&lt;/p&gt;
-&lt;p&gt;O indicador foi puxado por ações de bancos, de petroleiras e de mineradoras, setores com maior peso no índice.&lt;/p&gt;
-&lt;p&gt;A última vez em que o Ibovespa tinha batido recorde foi no último dia 3.&lt;/p&gt;
-&lt;p&gt;A bolsa brasileira sobe 15,69% em 2026.&lt;/p&gt;
-&lt;p&gt;O dólar iniciou o pregão em queda frente ao real, acompanhando o movimento no mercado internacional. Possíveis intervenções para fortalecer o iene japonês e a repercussão de dados recentes da economia dos Estados Unidos contribuíram para a queda.&lt;/p&gt;
-&lt;p&gt;Os números do mercado de trabalho americano, divulgados na semana passada, vieram abaixo do esperado. Isso aumentou as chances de que o Federal Reserve (Fed, Banco Central estadunidense) volte a reduzir os juros. Além disso, a vitória eleitoral da primeira-ministra japonesa Sanae Takaichifez o dólar recuar diante do iene.&lt;/p&gt;
-&lt;p&gt;O principal fator, no entanto, que pesou no mercado foi a recomendação do governo da China de que bancos privados reduzam a compra de títulos do Tesouro dos Estados Unidos. O país asiático é o maior detentor de papéis estadunidenses e pretende diversificar as reservas internacionais.&lt;/p&gt;
-&lt;p&gt;Essa combinação de fatores fez o dólar cair e a bolsa subir. A moeda estadunidense também cedeu diante de divisas de outros países emergentes, como o rand sul-africano, o peso mexicano e o peso chileno. Esse ambiente mais favorável aos mercados emergentes, observado desde o início do ano, tende a persistir e pode continuar a beneficiar o câmbio brasileiro nos próximos meses.&lt;/p&gt;
-&lt;p&gt;Caixa lança microcréditos para empreendedores inscritos no CadÙnico&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/dolar-cai-para-o-menor-valor-em-21-meses-e-bolsa-bate-recorde&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-Num dia de euforia no mercado financeiro, o dólar caiu para o menor nível em 21 meses e fechou abaixo de R$ 5,20. A...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-02-09 18:49:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-09 18:49:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-09 18:49:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-09 18:49:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/mrDjTR2zqhBRdsHsB9DYyyoKlEs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221206.jpg?itok=Lfnkvs7j</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Chuvas intensas no Rio de Janeiro levam ao acionamento da Marinha</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-intensas-no-rio-de-janeiro-levam-ao-acionamento-da-marinha</link>
-      <pubDate>Tue, 10 Feb 2026 12:56:55 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-intensas-no-rio-de-janeiro-levam-ao-acionamento-da-marinha#1009</guid>
-      <description>© Fernando Frazão/Agência Brasil
-Diante de condições climáticas extremas e de temporais que afetam o estado do Rio de Janeiro,
-a Marinha acionou pela...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/g7G2b22oMja34GfzrprdoewFp3k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/22/_mg_0490-2.jpg?itok=tbINHLIC&quot; alt=&quot;Chuvas intensas no Rio de Janeiro levam ao acionamento da Marinha&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Diante de condições climáticas extremas e de temporais que afetam o estado do Rio de Janeiro,&lt;/p&gt;
-&lt;p&gt;a Marinha acionou pela primeira vez a Força de Resposta Imediata a Desastres Ambientais (Frida) do Corpo de Fuzileiros Navais&lt;/p&gt;
-&lt;p&gt;. A operação foi empregada para apoiar o Norte Fluminense após fortes chuvas.&lt;/p&gt;
-&lt;p&gt;A Frida foi criada em dezembro passado em parceria com oBanco Nacional de Desenvolvimento Econômico e Social (BNDES).&lt;/p&gt;
-&lt;p&gt;O objetivo é trabalhar em coordenação com a Defesa Civil para reduzir os impactos causados por eventos extremos.&lt;/p&gt;
-&lt;p&gt;A Frida atuou, no último sábado (7), nos municípios de Cantagalo e Porciúncula oferecendo apoio humanitário, com ênfase na retirada de detritos e recomposição das vias públicas, restabelecimento de acessos e suporte direto às comunidades isoladas.&lt;/p&gt;
-&lt;p&gt;Em Porciúncula, segundo a prefeitura da cidade, 1.090 moradores foram diretamente impactados pelo temporal no sábado.&lt;/p&gt;
-&lt;p&gt;Além do reforço da Marinha, a prefeitura diz que as equipes municipais atuam em ações emergenciais de limpeza, recuperação da infraestrutura e apoio às famílias afetadas. O Governo do Estado anunciou o envio de maquinários para apoio às operações e a análise de medidas voltadas ao atendimento das pessoas diretamente atingidas pelas enchentes.&lt;/p&gt;
-&lt;p&gt;Já Cantagalo está em situação de emergência desde o último dia 6, em razão dos danos causados pelas fortes chuvas, especialmente nos distritos de Euclidelândia e Boa Sorte.&lt;/p&gt;
-&lt;p&gt;A prefeitura da cidade informou que segue atuando de forma integrada, com apoio do Governo do Estado, priorizando a segurança da população e o atendimento às pessoas afetadas.&lt;/p&gt;
-&lt;p&gt;Uma das rotas afetadas no município foi RJ-152. Também no último dia 6, a prefeitura informou que foi feito um desvio na rota, liberando o fluxo apenas para veículos leves.&lt;/p&gt;
-&lt;p&gt;De acordo com a Marinha, um grupo de 120 militares chegou ao Norte Fluminense, seis horas e 30 minutos depois de acionada, no sábado.&lt;/p&gt;
-&lt;p&gt;Em um primeiro momento, segundo a Marinha, foram empregadas 24 viaturas especializadas, tratores e retroescavadeiras, além de recursos tecnológicos avançados, como drones capazes de operar sob condições climáticas adversas em observação aérea de regiões afetadas.&lt;/p&gt;
-&lt;p&gt;A tropa ficará, alojada provisoriamente na Escola Municipal Elestar Caetano Mendes, na região de Euclidelândia, conforme informou a Marinha.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-intensas-no-rio-de-janeiro-levam-ao-acionamento-da-marinha&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fernando Frazão/Agência Brasil
-Diante de condições climáticas extremas e de temporais que afetam o estado do Rio de Janeiro,
-a Marinha acionou pela...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-02-09 18:42:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-09 18:42:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-09 18:42:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-09 18:42:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/g7G2b22oMja34GfzrprdoewFp3k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/22/_mg_0490-2.jpg?itok=tbINHLIC</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
