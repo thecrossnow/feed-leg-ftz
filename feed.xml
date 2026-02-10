@@ -6,13 +6,13 @@
     <description>Notícias Oficiais da Câmara Municipal de Fortaleza</description>
     <language>pt-br</language>
     <generator>GitHub Actions com Imagens</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 04:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 06:08:59 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://thecrossnow.github.io/feed-leg-ftz/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Câmara de Fortaleza lança plataforma ZOI, observatório de dados para auxiliar políticas públicas</title>
       <link>https://www.cmfor.ce.gov.br/2026/02/09/camara-de-fortaleza-lanca-plataforma-zoi-observatorio-de-dados-para-auxiliar-politicas-publicas/</link>
-      <guid>cmfor-img-a5ef128b537eb7e881bc2f929984c294</guid>
+      <guid>cmfor-img-dd31105db2c9b78411248ef6457c5464</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-09-at-16.44.10.jpeg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-09-at-16.44.10.jpeg" medium="image" type="image/jpeg">
         <media:title type="plain">Câmara de Fortaleza lança plataforma ZOI, observatório de dados para auxiliar políticas públicas</media:title>
@@ -127,7 +127,7 @@
     <item>
       <title>2ª edição do Inova Câmara acontece na Estação das Artes com alinhamento de metas para 2026</title>
       <link>https://www.cmfor.ce.gov.br/2026/02/09/2a-edicao-do-inova-camara-acontece-na-estacao-das-artes-com-alinhamento-de-metas-para-2026/</link>
-      <guid>cmfor-img-64254f327e0980e4485e61871e5cf259</guid>
+      <guid>cmfor-img-2d1b4a0888ad094171e4dde7e2576444</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-09-at-16.30.59.jpeg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-09-at-16.30.59.jpeg" medium="image" type="image/jpeg">
         <media:title type="plain">2ª edição do Inova Câmara acontece na Estação das Artes com alinhamento de metas para 2026</media:title>
@@ -250,7 +250,7 @@
     <item>
       <title>Comunicação da Câmara de Fortaleza é premiada com o &amp;#8220;Oscar do Esporte Cearense&amp;#8221;</title>
       <link>https://www.cmfor.ce.gov.br/2026/02/05/comunicacao-da-camara-de-fortaleza-e-premiada-com-o-oscar-do-esporte-cearense/</link>
-      <guid>cmfor-img-f1963d93770ac8dda42b83441637ceac</guid>
+      <guid>cmfor-img-c0dc4182d5ad1f9afb6c57dedde02649</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/IMG_6463-scaled.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/IMG_6463-scaled.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Comunicação da Câmara de Fortaleza é premiada com o &amp;#8220;Oscar do Esporte Cearense&amp;#8221;</media:title>
@@ -336,7 +336,7 @@ contempladas incluíram:</p>
     <item>
       <title>Agência de Notícias da Câmara está entre as 10 mais premiadas do Nordeste</title>
       <link>https://www.cmfor.ce.gov.br/2026/02/05/agencia-de-noticias-da-camara-esta-entre-as-10-mais-premiadas-do-nordeste/</link>
-      <guid>cmfor-img-917b6fbf101d0bccbd371ad3500c5035</guid>
+      <guid>cmfor-img-1d2ef58ca28f0e0e0425ce704a939757</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/IMG_3182.JPG-scaled.jpeg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/IMG_3182.JPG-scaled.jpeg" medium="image" type="image/jpeg">
         <media:title type="plain">Agência de Notícias da Câmara está entre as 10 mais premiadas do Nordeste</media:title>
@@ -389,7 +389,7 @@ contempladas incluíram:</p>
     <item>
       <title>Parlamentar defende alternativas de mobilidade durante a quadra chuvosa</title>
       <link>https://www.cmfor.ce.gov.br/2026/02/05/parlamentar-defende-alternativas-de-mobilidade-durante-a-quadra-chuvosa/</link>
-      <guid>cmfor-img-9a155c562e2d006ba3721efb7f138e35</guid>
+      <guid>cmfor-img-838753d7b8b55cda715b0e32cff6d0b3</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/Sessão-plenária-e-posse-vereador-Consul-do-Povo-2.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/Sessão-plenária-e-posse-vereador-Consul-do-Povo-2.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Parlamentar defende alternativas de mobilidade durante a quadra chuvosa</media:title>
@@ -434,7 +434,7 @@ contempladas incluíram:</p>
     <item>
       <title>Cônsul do Povo assume como vereador de Fortaleza</title>
       <link>https://www.cmfor.ce.gov.br/2026/02/05/consul-do-povo-assume-como-vereador-de-fortaleza/</link>
-      <guid>cmfor-img-b4a290cce3e7293e29c116a97dd90865</guid>
+      <guid>cmfor-img-20f60405083add95856fe61db5616598</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/IMG_9609.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/IMG_9609.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Cônsul do Povo assume como vereador de Fortaleza</media:title>
@@ -501,7 +501,7 @@ contempladas incluíram:</p>
     <item>
       <title>Solenidade presta homenagem ao Movimento da Adoção Espiritual</title>
       <link>https://www.cmfor.ce.gov.br/2026/02/05/solenidade-presta-homenagem-ao-movimento-da-adocao-espiritual/</link>
-      <guid>cmfor-img-2a4a47d2834067b0c038f7f9d8daf502</guid>
+      <guid>cmfor-img-52bcf8aa06da38e158439d7bbf9d0153</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/Adoração-espiritual-2.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/Adoração-espiritual-2.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Solenidade presta homenagem ao Movimento da Adoção Espiritual</media:title>
@@ -578,7 +578,7 @@ contempladas incluíram:</p>
     <item>
       <title>Comissão de Direitos Humanos aprova 17 matérias, com destaque para acolhimento de idosos</title>
       <link>https://www.cmfor.ce.gov.br/2026/02/04/comissao-de-direitos-humanos-aprova-17-materias-com-destaque-para-acolhimento-de-idosos/</link>
-      <guid>cmfor-img-06c8d6a992f790e588d077b56b74c2ac</guid>
+      <guid>cmfor-img-4bdf7be4c342949d70f0c5e07a6625da</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/IMG_6435.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/IMG_6435.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Comissão de Direitos Humanos aprova 17 matérias, com destaque para acolhimento de idosos</media:title>
@@ -644,7 +644,7 @@ justificou o vereador Tony Brito.</p>
     <item>
       <title>Câmara aprova reajuste de 5,4% no piso dos professores</title>
       <link>https://www.cmfor.ce.gov.br/2026/02/04/camara-aprova-reajuste-do-piso-dos-professores/</link>
-      <guid>cmfor-img-115a5be9edd85d3a4c1c8e69cd7d91f0</guid>
+      <guid>cmfor-img-bb2fc8588c4c02b7c852344cba089f9b</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/Sessão-plenária-5-1.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/Sessão-plenária-5-1.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Câmara aprova reajuste de 5,4% no piso dos professores</media:title>
@@ -725,7 +725,7 @@ justificou o vereador Tony Brito.</p>
     <item>
       <title>Vereadores aprovam propostas que asseguram direitos aos servidores da Educação</title>
       <link>https://www.cmfor.ce.gov.br/2026/02/04/vereadores-aprovam-propostas-que-asseguram-direitos-aos-servidores-da-educacao/</link>
-      <guid>cmfor-img-dc8bfa652c55b351ee793202e4c5c561</guid>
+      <guid>cmfor-img-030a0c169eb8949ae8cc7d9f274acfc7</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-13.17.44.jpeg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-13.17.44.jpeg" medium="image" type="image/jpeg">
         <media:title type="plain">Vereadores aprovam propostas que asseguram direitos aos servidores da Educação</media:title>
