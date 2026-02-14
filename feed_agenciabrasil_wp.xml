@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 14 Feb 2026 12:32:15 +0000</pubDate>
+    <pubDate>Sat, 14 Feb 2026 13:39:11 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,107 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Bolsa Família não retira mulheres do mercado de trabalho, diz FMI</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/bolsa-familia-nao-retira-mulheres-do-mercado-de-trabalho-diz-fmi</link>
+      <pubDate>Sat, 14 Feb 2026 13:39:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/bolsa-familia-nao-retira-mulheres-do-mercado-de-trabalho-diz-fmi#1000</guid>
+      <description>Um estudo do Fundo Monetário Internacional (FMI) constatou que o programa do governo federal Bolsa Família não reduz a participação das mulheres na f...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QS-EGe-nmbURiHZm-vmbuKW31E4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/cabelo_1.jpg?itok=zIb9S9Z6&quot; alt=&quot;Bolsa Família não retira mulheres do mercado de trabalho, diz FMI&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Um estudo do Fundo Monetário Internacional (FMI) constatou que o programa do governo federal Bolsa Família não reduz a participação das mulheres na força de trabalho,anão ser para aquelas com crianças de até seis anos.&lt;/p&gt;
+&lt;p&gt;Nesse caso, o mercado de trabalho encontra uma menor participação feminina, por conta das responsabilidades em casa,tarefas domésticas e cuidado com a família.&lt;/p&gt;
+&lt;p&gt;Ainda de acordo com o estudo, as mulheres gastam em média dez horas a mais por semana no cuidado doméstico não remunerado do que os homens.&lt;/p&gt;
+&lt;p&gt;O estudo mostra, ainda, que a presença das mulheres na força de trabalho é importante para o crescimento do país.&lt;/p&gt;
+&lt;p&gt;Para se ter uma ideia, se a diferença da participação de homens e mulheres no mercado de trabalho caísse de 20 para 10 pontos percentuais, até 2033 o crescimento do país poderia aumentar meio ponto percentual.&lt;/p&gt;
+&lt;p&gt;E são elas as responsáveis pela administração do dinheiro que entra em casa.&lt;/p&gt;
+&lt;p&gt;Quase 85% das famílias que recebem o Bolsa Família são chefiadas por mulheres.&lt;/p&gt;
+&lt;p&gt;São os filhos pequenos que acabam levando essas mulheres para fora do mercado de trabalho.&lt;/p&gt;
+&lt;p&gt;Segundo o FMI, metade deixa de trabalhar fora até dois anos depois do nascimento do primeiro filho.A solução, segundo a pesquisa, é ampliar o acesso a creches, incentivar o trabalho remunerado e resolver as diferenças salariais.&lt;/p&gt;
+&lt;p&gt;Lula sanciona programa Gás do Povo; saiba como funciona&lt;/p&gt;
+&lt;p&gt;Bolsa Família não retira mulheres do mercado de trabalho, diz FMI&lt;/p&gt;
+&lt;p&gt;Especialistas alertam sobre cuidados para um carnaval seguro&lt;/p&gt;
+&lt;p&gt;Carnaval: metanol em bebidas liga sinal de alerta nos estados&lt;/p&gt;
+&lt;p&gt;Confira a programação do Carnaval no Distrito Federal neste sábado&lt;/p&gt;
+&lt;p&gt;TV Brasil exibe jogo entre Bahia e Jacuipense neste sábado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/bolsa-familia-nao-retira-mulheres-do-mercado-de-trabalho-diz-fmi&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Um estudo do Fundo Monetário Internacional (FMI) constatou que o programa do governo federal Bolsa Família não reduz a participação das mulheres na f...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-02-14 10:01:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-14 10:01:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-14 10:01:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-14 10:01:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/QS-EGe-nmbURiHZm-vmbuKW31E4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/cabelo_1.jpg?itok=zIb9S9Z6</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Especialistas alertam sobre cuidados para um carnaval seguro</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/especialistas-alertam-sobre-cuidados-para-carnaval-seguro</link>
+      <pubDate>Sat, 14 Feb 2026 13:39:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/especialistas-alertam-sobre-cuidados-para-carnaval-seguro#1001</guid>
+      <description>© Foto Antônio Cruz/ Agência Brasil.
+Cuidados e precauções para manter a saúde sempre em bom estado devem ser tomados diariamente. Mais ainda em époc...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GDNAie7WycRmr5hyeVg9PoMTbCQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/12022024-img_4007.jpg?itok=MhAHAqDA&quot; alt=&quot;Especialistas alertam sobre cuidados para um carnaval seguro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Foto Antônio Cruz/ Agência Brasil.&lt;/p&gt;
+&lt;p&gt;Cuidados e precauções para manter a saúde sempre em bom estado devem ser tomados diariamente. Mais ainda em época de carnaval, quando a alegria e os ânimos se avolumam, acompanhando os cortejos e blocos pela cidade.&lt;/p&gt;
+&lt;p&gt;A nutricionista Anete Mecenas, coordenadora do curso de Nutrição da Universidade Estácio, disse à Agência Brasil que a primeira coisa a lembrar é que o folião vai estar na rua em longos períodos de calor. Por isso, a hidratação é prioridade, para reduzir a perda de líquidos. A indicação é beber, no mínimo, dois litros de água por dia.&lt;/p&gt;
+&lt;p&gt;“O foco é aumentar a ingestão de água, água de coco, bebidas isotônicas, que vão prevenir mal-estar associado à desidratação. Outro ponto importante é não pular as refeições, ou seja, não ficar muitas horas sem comer. Porque isso pode contribuir para a queda de glicemia, para tontura. Fazer sempre refeições leves e regulares.”&lt;/p&gt;
+&lt;p&gt;Ela citou, por exemplo, iogurtes, frutas, sanduíches naturais, castanhas, barras de cereais orgânicas com menos conservantes e corantes.&lt;/p&gt;
+&lt;p&gt;“Tentar ir alternando isso e não ficar muitas horas sem comer, porque isso vai gerar a possibilidade de tontura e hipoglicemia”. O folião deve preferir sempre alimentos de fácil digestão, porque são refeições mais simples, e evitar maioneses, pelo risco de má conservação e de contaminação.&lt;/p&gt;
+&lt;p&gt;As pessoas devem ficar atentastambém a alimentos de procedência duvidosa, conservados em temperatura inadequada. Sanduíches naturais conservados no isopor por longos períodos, churrasquinhos vendidos na rua com carnes armazenadas em temperatura ambiente vão aumentar o risco de contaminação e infecção intestinal, ou gastroenterite, que é uma infecção bacteriana.&lt;/p&gt;
+&lt;p&gt;O mesmo cuidado deve ser tomado em relação a alimentos ultraprocessados, que são ricos em gordura, sódio e açúcar.&lt;/p&gt;
+&lt;p&gt;“São refeições que podem até ter uma absorção mais rápida, mas não vão ter uma nutrição adequada. O indivíduo está desidratando, ingerindo uma quantidade de álcool e consumindo uma quantidade maior de açúcar e de gordura. A tendência é ficar com uma digestão mais lenta, fazer hiperglicemia com hipoglicemia e, consequentemente, o excesso de corantes e conservantes vai gerar distúrbio gastrointestinal, desconforto,. E sem nutrição”.&lt;/p&gt;
+&lt;p&gt;Daí a recomendação ser a de dar preferência a alimentos minimamente processados (frutas, verduras e legumes). Sempre que possível, fazer uma refeição mais completa.&lt;/p&gt;
+&lt;p&gt;“É melhor ir ao restaurante mais próximo e comer arroz, feijão, legume cozido e um frango, do que ingerir, por exemplo, um pacote de Trakinas ou uma lasanha pronta. São refeições mais leves, nutritivas e, consequentemente, vão contribuir para um equilíbrio maior”, indicou a nutricionista.&lt;/p&gt;
+&lt;p&gt;Em relação à ingestão de álcool, Anete Mecenas recomendou intercalar com ingestão de água, para afastar risco de desidratação, e evitar beber álcool em jejum, porque isso vai gerar mais desconforto.&lt;/p&gt;
+&lt;p&gt;Sobre o período pós-folia, quando a pessoa procura recuperar o corpo, é o momento de buscar uma alimentação mais rica em proteína (frango, peixe), verduras, legumes e frutas para aumentar a ingestão de proteínas, vitaminas, minerais que podem atuar na reparação tecidual, na melhora do equilíbrio e na recuperação mesmo da saúde do indivíduo, concluiu.&lt;/p&gt;
+&lt;p&gt;O cirurgião gastroenterologista Rodrigo Barbosa, do corpo clínico do hospital Sírio Libanês, endossou que a hidratação funciona como um controle de danos, como é chamado na medicina, em especial no carnaval, que é uma época do ano que impõe algumas combinações de fatores de risco bem conhecidos, como privação de sono, exposição a um calor intenso, muito sol, álcool, alimentação irregular, principalmente para quem está pulando nos blocos de rua, exposto a alimentos contaminados “muito comuns nas barraquinhas aqui no nosso Brasilzão”, afirmou à&lt;/p&gt;
+&lt;p&gt;“Isso é um resultado que aparece nos prontos-socorros todos os anos. Diarreia, vômito, desidratação, refluxo intenso, crises fortíssimas de gastrite, muitas vezes hepatites alcoólicas, que são também coisas que acontecem bastante nessa época”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/especialistas-alertam-sobre-cuidados-para-carnaval-seguro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Foto Antônio Cruz/ Agência Brasil.
+Cuidados e precauções para manter a saúde sempre em bom estado devem ser tomados diariamente. Mais ainda em époc...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-02-14 09:23:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-14 09:23:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-14 09:23:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-14 09:23:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/GDNAie7WycRmr5hyeVg9PoMTbCQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/12022024-img_4007.jpg?itok=MhAHAqDA</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Carnaval: metanol em bebidas liga sinal de alerta nos estados</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/carnaval-metanol-em-bebidas-liga-sinal-de-alerta-nos-estados</link>
-      <pubDate>Sat, 14 Feb 2026 12:32:15 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 13:39:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/carnaval-metanol-em-bebidas-liga-sinal-de-alerta-nos-estados#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/carnaval-metanol-em-bebidas-liga-sinal-de-alerta-nos-estados#1002</guid>
       <description>© PABLO JACOB/governo de São Paulo
 Alguns estados que tiveram mortes e casos por bebidas contaminadas por metanol estarão em alerta neste carnaval pa...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_jq6OYC9_TPWuh96epWqX90eR3Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/05/fiscalizacao-metanol-bebidas-sao-caetano3.jpg?itok=WBxhheww&quot; alt=&quot;Carnaval: metanol em bebidas liga sinal de alerta nos estados&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +143,7 @@ Alguns estados que tiveram mortes e casos por bebidas contaminadas por metanol e
 &lt;p&gt;A secretaria recomenda cautela aos foliões, que devem consumir bebidas apenas de estabelecimentos regulares e evitar produtos de procedência duvidosa ou sem rótulo adequado. Em caso de sintomas como visão turva, dor abdominal intensa, tontura ou confusão mental após o consumo de bebidas alcoólicas, deve-se procurar imediatamente uma unidade de saúde.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/carnaval-metanol-em-bebidas-liga-sinal-de-alerta-nos-estados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© PABLO JACOB/governo de São Paulo
 Alguns estados que tiveram mortes e casos por bebidas contaminadas por metanol estarão em alerta neste carnaval pa...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-02-14 08:42:00</wp:post_date>
       <wp:post_date_gmt>2026-02-14 08:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-14 08:42:00</wp:post_modified>
@@ -73,9 +169,9 @@ Alguns estados que tiveram mortes e casos por bebidas contaminadas por metanol e
     <item>
       <title>Confira a programação do Carnaval no Distrito Federal neste sábado</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/confira-programacao-do-carnaval-no-distrito-federal-neste-sabado</link>
-      <pubDate>Sat, 14 Feb 2026 12:32:15 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 13:39:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/confira-programacao-do-carnaval-no-distrito-federal-neste-sabado#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/confira-programacao-do-carnaval-no-distrito-federal-neste-sabado#1003</guid>
       <description>O carnaval deste ano no Distrito Federal conta com uma programação oficial com 73 blocos espalhados em diversas regiões administrativas. A festa carn...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QYkTnwSYFa4PsAIuk0rLrUcPbSE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/01/_mg_7691.jpg?itok=kiF34Alt&quot; alt=&quot;Confira a programação do Carnaval no Distrito Federal neste sábado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O carnaval deste ano no Distrito Federal conta com uma programação oficial com 73 blocos espalhados em diversas regiões administrativas. A festa carnavalesca tem atrações para todos os gostos musicais, do frevo tradicional à batida do funk, passando por circuitos infantis e celebrações da diversidade.&lt;/p&gt;
@@ -94,7 +190,7 @@ Alguns estados que tiveram mortes e casos por bebidas contaminadas por metanol e
 &lt;p&gt;Bloco Carnaflow – 10h às 23h – Praça do Cidadão, Ceilândia Norte;&lt;/p&gt;
 &lt;p&gt;Bloco Mamãe Taguá 2026 – 12h às 20h – Estacionamento do Centro Cultural do Taguaparque, Taguatinga (infantil/familiar);&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/confira-programacao-do-carnaval-no-distrito-federal-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O carnaval deste ano no Distrito Federal conta com uma programação oficial com 73 blocos espalhados em diversas regiões administrativas. A festa carn...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-02-14 08:16:00</wp:post_date>
       <wp:post_date_gmt>2026-02-14 08:16:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-14 08:16:00</wp:post_modified>
@@ -120,9 +216,9 @@ Alguns estados que tiveram mortes e casos por bebidas contaminadas por metanol e
     <item>
       <title>TV Brasil exibe jogo entre Bahia e Jacuipense neste sábado</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/tv-brasil-exibe-neste-sabado-jogo-entre-bahia-e-jacuipense</link>
-      <pubDate>Sat, 14 Feb 2026 12:32:15 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 13:39:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/tv-brasil-exibe-neste-sabado-jogo-entre-bahia-e-jacuipense#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/tv-brasil-exibe-neste-sabado-jogo-entre-bahia-e-jacuipense#1004</guid>
       <description>© Breno Barros/Rededoesporte.gov.br
 transmite, neste sábado (14), as emoções do confronto entre Bahia e Jacuipense válido pela oitava rodada do Campe...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/p23_l0FiHNFW0y6dINMvLoBpy_k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/48086306093_388a05227b_k.jpg?itok=TN1xuoe1&quot; alt=&quot;TV Brasil exibe jogo entre Bahia e Jacuipense neste sábado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -143,7 +239,7 @@ transmite, neste sábado (14), as emoções do confronto entre Bahia e Jacuipens
 &lt;p&gt;https://tvbrasil.ebc.com.br/webtv&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/tv-brasil-exibe-neste-sabado-jogo-entre-bahia-e-jacuipense&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Breno Barros/Rededoesporte.gov.br
 transmite, neste sábado (14), as emoções do confronto entre Bahia e Jacuipense válido pela oitava rodada do Campe...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-02-14 07:33:00</wp:post_date>
       <wp:post_date_gmt>2026-02-14 07:33:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-14 07:33:00</wp:post_modified>
@@ -169,9 +265,9 @@ transmite, neste sábado (14), as emoções do confronto entre Bahia e Jacuipens
     <item>
       <title>Carnaval 2026: veja programação de blocos no Rio neste sábado (14)</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/carnaval-2026-veja-programacao-de-blocos-no-rio-neste-sabado-14</link>
-      <pubDate>Sat, 14 Feb 2026 12:32:15 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 13:39:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/carnaval-2026-veja-programacao-de-blocos-no-rio-neste-sabado-14#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/carnaval-2026-veja-programacao-de-blocos-no-rio-neste-sabado-14#1005</guid>
       <description>Este sábado (14) de Carnaval no Rio de Janeiro será aberto pelo tradicional bloco Cordão da Bola Preta no circuito de megablocos na Rua Primeiro de M...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_mVeBn0RZRenZW5lN8Ye7W1B0yQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/01/_rbr8140.jpg?itok=BRtsMV9J&quot; alt=&quot;Carnaval 2026: veja programação de blocos no Rio neste sábado (14)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Este sábado (14) de Carnaval no Rio de Janeiro será aberto pelo tradicional bloco Cordão da Bola Preta no circuito de megablocos na Rua Primeiro de Março, no Centro. OCordão da Bola Pretafoi fundado em 1918 e é o mais antigo da cidade.&lt;/p&gt;
@@ -190,7 +286,7 @@ transmite, neste sábado (14), as emoções do confronto entre Bahia e Jacuipens
 &lt;p&gt;Hora: 09:00Endereço: Rua Jerônimo Barbalho – Campo Grande&lt;/p&gt;
 &lt;p&gt;Hora: 07:00Endereço: R. Almirante Alexandrino, 89 – Santa Teresa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/carnaval-2026-veja-programacao-de-blocos-no-rio-neste-sabado-14&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Este sábado (14) de Carnaval no Rio de Janeiro será aberto pelo tradicional bloco Cordão da Bola Preta no circuito de megablocos na Rua Primeiro de M...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-02-14 07:02:00</wp:post_date>
       <wp:post_date_gmt>2026-02-14 07:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-14 07:02:00</wp:post_modified>
@@ -216,9 +312,9 @@ transmite, neste sábado (14), as emoções do confronto entre Bahia e Jacuipens
     <item>
       <title>SP: Agrada Gregos é destaque deste sábado; veja programação de blocos</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/sp-agrada-gregos-e-destaque-deste-sabado-veja-progrmacao-de-blocos</link>
-      <pubDate>Sat, 14 Feb 2026 12:32:15 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 13:39:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/sp-agrada-gregos-e-destaque-deste-sabado-veja-progrmacao-de-blocos#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/sp-agrada-gregos-e-destaque-deste-sabado-veja-progrmacao-de-blocos#1006</guid>
       <description>Neste sábado (14) São Paulo estará repleta de blocos espalhados por todos os bairros da cidade. Só entre sábado e domingo (15) são esperados mais de ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Y66bd9jEvVOA0E-CiYBqtap6teE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1107819-dsc_892020180210_1.jpg?itok=XC060J-P&quot; alt=&quot;SP: Agrada Gregos é destaque deste sábado; veja programação de blocos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Neste sábado (14) São Paulo estará repleta de blocos espalhados por todos os bairros da cidade. Só entre sábado e domingo (15) são esperados mais de 150 desfiles de rua, com quatro megablocos no Parque do Ibirapuera. Para os quatro dias, a expectativa é que a capital paulista receba 16,5 milhões de foliões.&lt;/p&gt;
@@ -237,7 +333,7 @@ transmite, neste sábado (14), as emoções do confronto entre Bahia e Jacuipens
 &lt;p&gt;Bloco 77 – Os Originais do Punk&lt;/p&gt;
 &lt;p&gt;Às 14h, na Rua Barra Funda, 1100 - Barra Funda.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/sp-agrada-gregos-e-destaque-deste-sabado-veja-progrmacao-de-blocos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Neste sábado (14) São Paulo estará repleta de blocos espalhados por todos os bairros da cidade. Só entre sábado e domingo (15) são esperados mais de ...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-02-14 06:30:00</wp:post_date>
       <wp:post_date_gmt>2026-02-14 06:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-14 06:30:00</wp:post_modified>
@@ -263,9 +359,9 @@ transmite, neste sábado (14), as emoções do confronto entre Bahia e Jacuipens
     <item>
       <title>STF julga validade da aposentadoria especial para vigilantes</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/stf-julga-validade-da-aposentadoria-especial-para-vigilantes</link>
-      <pubDate>Sat, 14 Feb 2026 12:32:15 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 13:39:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/stf-julga-validade-da-aposentadoria-especial-para-vigilantes#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/stf-julga-validade-da-aposentadoria-especial-para-vigilantes#1007</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O Supremo Tribunal Federal (STF) vai decidir nesta sexta-feira (13) se vigilantes tem direito à aposentadoria especi...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xP5aRY7cK_PjGA3ITDAEM1bFqGg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/22/966946-07072015-dsc_5210bbn.jpg?itok=oAKqJlmt&quot; alt=&quot;STF julga validade da aposentadoria especial para vigilantes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -282,11 +378,10 @@ O Supremo Tribunal Federal (STF) vai decidir nesta sexta-feira (13) se vigilante
 &lt;p&gt;O relator do caso, Nunes Marques, votou pelo reconhecimento da atividade especial dos vigilantes e entendeu que a atividade traz riscos à integridade física da categoria.&lt;/p&gt;
 &lt;p&gt;“É possível o reconhecimento da atividade de vigilante como especial, com ou sem o uso de arma de fogo, tendo em vista os prejuízos à saúde mental e os riscos à integridade física do trabalhador, tanto em período anterior quanto posterior à promulgação da Emenda Constitucional n. 103/2019”, afirmou o relator.&lt;/p&gt;
 &lt;p&gt;O voto do relator foi seguido pelos ministros Flávio Dino, Cármen Lúcia e Edson Fachin.&lt;/p&gt;
-&lt;p&gt;O último a votar será o ministro Gilmar Mendes.&lt;/p&gt;
-&lt;p&gt;Carnaval: metanol em bebidas liga sinal de alerta nos estados&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/stf-julga-validade-da-aposentadoria-especial-para-vigilantes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;O último a votar será o ministro Gilmar Mendes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/stf-julga-validade-da-aposentadoria-especial-para-vigilantes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O Supremo Tribunal Federal (STF) vai decidir nesta sexta-feira (13) se vigilantes tem direito à aposentadoria especi...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-02-13 21:48:00</wp:post_date>
       <wp:post_date_gmt>2026-02-13 21:48:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-13 21:48:00</wp:post_modified>
@@ -312,9 +407,9 @@ O Supremo Tribunal Federal (STF) vai decidir nesta sexta-feira (13) se vigilante
     <item>
       <title>Exército diz ao STF que general pode receber visita íntima na prisão</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/exercito-diz-ao-stf-que-general-pode-receber-visita-intima-na-prisao</link>
-      <pubDate>Sat, 14 Feb 2026 12:32:15 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 13:39:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/exercito-diz-ao-stf-que-general-pode-receber-visita-intima-na-prisao#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/exercito-diz-ao-stf-que-general-pode-receber-visita-intima-na-prisao#1008</guid>
       <description>© Arquivo/Marcelo Camargo/Agência Brasil
 O Exército informou nesta sexta-feira (13) ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LeGSJ7NkXjwJCNkxvanLYsagH2Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pr-sustentavel_mcamgo_abr_030520221818-11.jpg?itok=OkjHAdMl&quot; alt=&quot;Exército diz ao STF que general pode receber visita íntima na prisão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -329,13 +424,13 @@ O Exército informou nesta sexta-feira (13) ao ministro Alexandre de Moraes, do 
 &lt;p&gt;Diante das informações prestadas pelo Exército,&lt;/p&gt;
 &lt;p&gt;caberá ao ministro decidir se o pedido de visita íntima será aceito.&lt;/p&gt;
 &lt;p&gt;A Procuradoria-Geral da República (PGR) também deverá opinar sobre a questão.&lt;/p&gt;
-&lt;p&gt;Carnaval: metanol em bebidas liga sinal de alerta nos estados&lt;/p&gt;
-&lt;p&gt;Confira a programação do Carnaval no Distrito Federal neste sábado&lt;/p&gt;
-&lt;p&gt;TV Brasil exibe jogo entre Bahia e Jacuipense neste sábado&lt;/p&gt;
-&lt;p&gt;Carnaval 2026: veja programação de blocos no Rio neste sábado (14)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/exercito-diz-ao-stf-que-general-pode-receber-visita-intima-na-prisao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Lula sanciona programa Gás do Povo; saiba como funciona&lt;/p&gt;
+&lt;p&gt;Bolsa Família não retira mulheres do mercado de trabalho, diz FMI&lt;/p&gt;
+&lt;p&gt;Especialistas alertam sobre cuidados para um carnaval seguro&lt;/p&gt;
+&lt;p&gt;Carnaval: metanol em bebidas liga sinal de alerta nos estados&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/exercito-diz-ao-stf-que-general-pode-receber-visita-intima-na-prisao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Arquivo/Marcelo Camargo/Agência Brasil
 O Exército informou nesta sexta-feira (13) ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-02-13 21:10:00</wp:post_date>
       <wp:post_date_gmt>2026-02-13 21:10:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-13 21:10:00</wp:post_modified>
@@ -361,9 +456,9 @@ O Exército informou nesta sexta-feira (13) ao ministro Alexandre de Moraes, do 
     <item>
       <title>FGC antecipa até R$ 1 mil em garantias a clientes do Will Bank</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/fgc-antecipa-ate-r-1-mil-em-garantias-clientes-do-will-bank</link>
-      <pubDate>Sat, 14 Feb 2026 12:32:15 +0000</pubDate>
+      <pubDate>Sat, 14 Feb 2026 13:39:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/fgc-antecipa-ate-r-1-mil-em-garantias-clientes-do-will-bank#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/fgc-antecipa-ate-r-1-mil-em-garantias-clientes-do-will-bank#1009</guid>
       <description>© Marcello Casal JrAgência Brasil
 O Fundo Garantidor de Créditos (FGC) vai antecipar o pagamento de até R$ 1 mil para credores do Will Bank. A medida...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/RBhLf6rtcHFLHburrqqdCrjmoWQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moeda_020120a84t47665209.jpg?itok=PdaEfaJB&quot; alt=&quot;FGC antecipa até R$ 1 mil em garantias a clientes do Will Bank&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -384,7 +479,7 @@ O Fundo Garantidor de Créditos (FGC) vai antecipar o pagamento de até R$ 1 mil
 &lt;p&gt;Nessa fase, no entanto, a liberação é restrita ao teto de R$ 1 mil por cliente.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/fgc-antecipa-ate-r-1-mil-em-garantias-clientes-do-will-bank&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 O Fundo Garantidor de Créditos (FGC) vai antecipar o pagamento de até R$ 1 mil para credores do Will Bank. A medida...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-02-13 20:48:00</wp:post_date>
       <wp:post_date_gmt>2026-02-13 20:48:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-13 20:48:00</wp:post_modified>
@@ -405,102 +500,6 @@ O Fundo Garantidor de Créditos (FGC) vai antecipar o pagamento de até R$ 1 mil
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/RBhLf6rtcHFLHburrqqdCrjmoWQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moeda_020120a84t47665209.jpg?itok=PdaEfaJB</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mendonça se reúne com PF e define novas etapas da apuração do Master</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/mendonca-se-reune-com-pf-e-define-novas-etapas-da-apuracao-do-master</link>
-      <pubDate>Sat, 14 Feb 2026 12:32:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/mendonca-se-reune-com-pf-e-define-novas-etapas-da-apuracao-do-master#1008</guid>
-      <description>O ministro André Mendonça, do Supremo Tribunal Federal (STF), se reuniu nesta sexta-feira (13) com integrantes da Polícia Federal (PF) para tomar con...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/OICud4_kbIDfKW4X2QVvuL-kv2U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0g0a6420.jpg?itok=vq86oLf7&quot; alt=&quot;Mendonça se reúne com PF e define novas etapas da apuração do Master&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O ministro André Mendonça, do Supremo Tribunal Federal (STF), se reuniu nesta sexta-feira (13) com integrantes da Polícia Federal (PF) para tomar conhecimento das investigações que envolvem o Banco Master.&lt;/p&gt;
-&lt;p&gt;O encontro durou cerca de duas horas. Durante a reunião,&lt;/p&gt;
-&lt;p&gt;o ministro e os delegados responsáveis pelo caso definiram os procedimentos que serão adotados nas próximas etapas da investigação.&lt;/p&gt;
-&lt;p&gt;A reunião marcou o primeiro contato de André Mendonça com o inquérito sobre as fraudes ocorridas no Master.&lt;/p&gt;
-&lt;p&gt;A partir de agora, os próximos passos da investigação serão comandados pelo ministro, que também é relator do inquérito que trata dos descontos indevidos de mensalidades associativas nos benefícios de aposentados e pensionistas doInstituto Nacional doSeguro Social (INSS).&lt;/p&gt;
-&lt;p&gt;O ministro se tornou relator do caso, nesta quinta-feira (12),&lt;/p&gt;
-&lt;p&gt;após Dias Toffoli pedir para deixar a relatoria do caso&lt;/p&gt;
-&lt;p&gt;A saída de Toffoli foi decidida durante reunião na qual os ministros da Corte foram informados de que há menções ao nome do ministro em mensagens encontradas no celular do banqueiro Daniel Vorcaro&lt;/p&gt;
-&lt;p&gt;, dono do Master, que teve o aparelho apreendido durante busca e apreensão da PF.&lt;/p&gt;
-&lt;p&gt;Em novembro de 2025, o banqueiro Daniel Vorcaro e outros acusados foram alvo da Operação Compliance Zero, deflagrada pelaPFpara investigar a concessão de créditos falsos pelo Banco Master, incluindo a tentativa de compra da instituição financeira pelo Banco de Brasília (BRB), banco público ligado ao governo do Distrito Federal.&lt;/p&gt;
-&lt;p&gt;De acordo com as investigações, as fraudes podem chegar a R$ 17 bilhões.&lt;/p&gt;
-&lt;p&gt;Carnaval: metanol em bebidas liga sinal de alerta nos estados&lt;/p&gt;
-&lt;p&gt;Confira a programação do Carnaval no Distrito Federal neste sábado&lt;/p&gt;
-&lt;p&gt;TV Brasil exibe jogo entre Bahia e Jacuipense neste sábado&lt;/p&gt;
-&lt;p&gt;Carnaval 2026: veja programação de blocos no Rio neste sábado (14)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/mendonca-se-reune-com-pf-e-define-novas-etapas-da-apuracao-do-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O ministro André Mendonça, do Supremo Tribunal Federal (STF), se reuniu nesta sexta-feira (13) com integrantes da Polícia Federal (PF) para tomar con...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-02-13 20:27:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-13 20:27:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-13 20:27:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-13 20:27:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/OICud4_kbIDfKW4X2QVvuL-kv2U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0g0a6420.jpg?itok=vq86oLf7</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Dólar sobe para R$ 5,22 em dia de turbulência internacional</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/dolar-sobe-para-r-522-em-dia-de-turbulencia-internacional</link>
-      <pubDate>Sat, 14 Feb 2026 12:32:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/dolar-sobe-para-r-522-em-dia-de-turbulencia-internacional#1009</guid>
-      <description>© Valter Campanato/Agência Brasil
-Emdia de turbulência no mercado externo e de ajustes pré-carnaval, o dólar voltou a superar a barreira de R$ 5,20. ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/tzw7bmbBPCZ1MIo7wYxWWpgNHRE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221203.jpg?itok=TOqn9c4s&quot; alt=&quot;Dólar sobe para R$ 5,22 em dia de turbulência internacional&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Emdia de turbulência no mercado externo e de ajustes pré-carnaval, o dólar voltou a superar a barreira de R$ 5,20. A bolsa de valores recuou pelo segundo dia consecutivo emmovimento de venda de ações para que os investidores embolsem ganhos recentes.&lt;/p&gt;
-&lt;p&gt;O dólar comercial encerrou a sexta-feira (13) vendido a R$ 5,229, com alta de R$ 0,029 (+0,57%)&lt;/p&gt;
-&lt;p&gt;. Em alta durante quase toda a sessão, a cotação chegou a R$ 5,25 por volta das 12h, mas desacelerou durante a tarde, com a redução das tensões no mercado estadunidense.&lt;/p&gt;
-&lt;p&gt;Apesar da alta dos últimos dois dias, o dólar subiu apenas 0,18% na semana. Em 2026, a divisa acumula queda de 4,72%.&lt;/p&gt;
-&lt;p&gt;No mercado de ações, o dia também foi marcado por ajustes.&lt;/p&gt;
-&lt;p&gt;O índice Ibovespa, da B3, fechou aos 186.464 pontos, com queda de 0,69%.&lt;/p&gt;
-&lt;p&gt;O indicador chegou a cair 1,99% às 12h20, mas recuperou-se parcialmente durante a tarde, influenciado pela alta na cotação do petróleo, que influenciam as ações de petroleiras, e pela melhoria nas bolsas dos Estados Unidos.&lt;/p&gt;
-&lt;p&gt;Em relação ao dólar, a divulgação de que a inflação ao consumidor nos Estados Unidos ficou em 0,2% em fevereiro foi insuficiente para melhorar o humor dos investidores. A criação de empregos acima do previsto na economia estadunidense, divulgada na quarta-feira (12), reduz as chances de o Federal Reserve (Fed, Banco Central dos Estados Unidos)cortar os juros nos próximos meses.&lt;/p&gt;
-&lt;p&gt;Paralelamente, as preocupações com uma possível bolha no setor de inteligência artificial continua a influenciar negativamente o mercado financeiro. O índice Nasdaq, das empresas de tecnologia, caiu 0,22% nesta sexta, enquanto os outros dois índices das bolsas estadunidenses fecharam em leve alta.&lt;/p&gt;
-&lt;p&gt;Além das questões internacionais, o mercado interno foi dominado pela realização de lucros. Os investidores aproveitaram as quedas recentes do dólar para comprar moeda barata e a sequência derecordesna bolsa para venderem papéis e embolsarem os lucros.&lt;/p&gt;
-&lt;p&gt;Especialistas alertam sobre cuidados para um carnaval seguro&lt;/p&gt;
-&lt;p&gt;Carnaval: metanol em bebidas liga sinal de alerta nos estados&lt;/p&gt;
-&lt;p&gt;Confira a programação do Carnaval no Distrito Federal neste sábado&lt;/p&gt;
-&lt;p&gt;TV Brasil exibe jogo entre Bahia e Jacuipense neste sábado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/dolar-sobe-para-r-522-em-dia-de-turbulencia-internacional&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-Emdia de turbulência no mercado externo e de ajustes pré-carnaval, o dólar voltou a superar a barreira de R$ 5,20. ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-02-13 19:55:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-13 19:55:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-13 19:55:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-13 19:55:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/tzw7bmbBPCZ1MIo7wYxWWpgNHRE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221203.jpg?itok=TOqn9c4s</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
