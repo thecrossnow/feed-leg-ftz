@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 16 Feb 2026 11:35:22 +0000</pubDate>
+    <pubDate>Mon, 16 Feb 2026 12:44:53 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,105 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Abono salarial começa a ser pago nesta segunda</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/abono-salarial-comeca-ser-pago-nesta-segunda</link>
+      <pubDate>Mon, 16 Feb 2026 12:44:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/abono-salarial-comeca-ser-pago-nesta-segunda#1000</guid>
+      <description>Os trabalhadores nascidos em janeiro que ganharam até R$ 2.766 com carteira assinada em 2024 recebem nesta segunda-feira (16) o abono salarial . Nest...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2D8zVP81cG_cYXPPc3luWO6BA2A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/fgts.jpeg?itok=MDNlqDuL&quot; alt=&quot;Abono salarial começa a ser pago nesta segunda&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Os trabalhadores nascidos em janeiro que ganharam até R$ 2.766 com carteira assinada em 2024 recebem nesta segunda-feira (16) o abono salarial . Neste primeiro lote, serão liberados R$ 2,5 bilhões para cerca de 2 milhões de beneficiários.&lt;/p&gt;
+&lt;p&gt;O valor do benefício varia de R$ 136 a R$ 1.621, conforme a quantidade de meses trabalhados em 2024. O calendário segue de forma escalonada ao longo de 2026, de acordo com o mês de nascimento.&lt;/p&gt;
+&lt;p&gt;Do total de contemplados em fevereiro:&lt;/p&gt;
+&lt;p&gt;1,8 milhão são trabalhadores da iniciativa privada, inscritos no Programa de Integração Social (PIS)&lt;/p&gt;
+&lt;p&gt;, com pagamento feito pela Caixa Econômica Federal, somando R$ 2,29 bilhões;&lt;/p&gt;
+&lt;p&gt;217,2 mil são servidores públicos, inscritos no Programa de Formação do Patrimônio do Servidor Público (Pasep)&lt;/p&gt;
+&lt;p&gt;, pagos pelo Banco do Brasil, no total de R$ 301,9 milhões.&lt;/p&gt;
+&lt;p&gt;Quem tem direito ao Abono Salarial&lt;/p&gt;
+&lt;p&gt;Tem direito ao benefício o trabalhador que:&lt;/p&gt;
+&lt;p&gt;•  está inscrito no Pis/Pasep há pelo menos cinco anos;&lt;/p&gt;
+&lt;p&gt;•  trabalhou com carteira assinada por no mínimo 30 dias em 2024;&lt;/p&gt;
+&lt;p&gt;•  recebeu remuneração média mensal de até R$ 2.766 no ano-base;&lt;/p&gt;
+&lt;p&gt;•  teve os dados corretamente informados pelo empregador no e-Social.&lt;/p&gt;
+&lt;p&gt;, o abono salarial pode chegar até a um salário mínimo, proporcional ao período trabalhado&lt;/p&gt;
+&lt;p&gt;. Os recursos vêm do Fundo de Amparo ao Trabalhador (FAT), com a habilitação feita pelo Ministério do Trabalho e Emprego.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/abono-salarial-comeca-ser-pago-nesta-segunda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Os trabalhadores nascidos em janeiro que ganharam até R$ 2.766 com carteira assinada em 2024 recebem nesta segunda-feira (16) o abono salarial . Nest...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-02-16 08:20:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-16 08:20:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-16 08:20:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-16 08:20:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/2D8zVP81cG_cYXPPc3luWO6BA2A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/fgts.jpeg?itok=MDNlqDuL</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Rio lança portal que usa o samba como ferramenta pedagógica</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/rio-lanca-portal-que-usa-o-samba-como-ferramenta-pedagogica</link>
+      <pubDate>Mon, 16 Feb 2026 12:44:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/rio-lanca-portal-que-usa-o-samba-como-ferramenta-pedagogica#1001</guid>
+      <description>O samba vai além da música, é também uma manifestação cultural ricaque ajuda a desenvolver noções de identidade, memória, território e pertencimento....</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/r4fR7q7g3kQDaZMCl7Y0zVhdirk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/05/toms6150.jpg?itok=-nJqWy4X&quot; alt=&quot;Rio lança portal que usa o samba como ferramenta pedagógica&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O samba vai além da música, é também uma manifestação cultural ricaque ajuda a desenvolver noções de identidade, memória, território e pertencimento. Foi com essa ideia que a Prefeitura do Rio de Janeiro lançou a plataforma&lt;/p&gt;
+&lt;p&gt;, que conecta pessoas à história da música e do carnaval carioca.&lt;/p&gt;
+&lt;p&gt;Segundo o Diretor do Núcleo de Produção da Empresa Municipal de Multimeios da Prefeitura do Rio de Janeiro (MultiRio), Eduardo Guedes, responsável pela iniciativa, abraçar a potência educativa do samba foi algo natural.&lt;/p&gt;
+&lt;p&gt;“O que a gente fez, basicamente, foi reconhecer que o samba ensina, que o samba e o carnaval são, por si só, ambientes de aprendizagem”, disse. “Quando a gente fala de carnaval, a gente está falando de uma grande produção cultural, e a produção cultural é sempre uma produção de conhecimento”.&lt;/p&gt;
+&lt;p&gt;Além de entretenimento interativo por meio de jogos, a plataforma também conta com materiais que contextualizam territórios tradicionais do samba, movimentos culturais espalhados pela cidade e apresentapersonalidades históricas, como Tia Ciata, Pixinguinha e Cartola.&lt;/p&gt;
+&lt;p&gt;tornou obrigatório o ensino de história e cultura afro-brasileira em todas as instituições de ensino fundamental e médio, públicas e privadas. E o objetivo da MultiRio é que esse material também possa ser explorado nas salas de aula.&lt;/p&gt;
+&lt;p&gt;“A gente pensa que a cidade, como um todo, também educa, também ensina, então, é importante que todo mundo, de alguma forma, reconheça o samba e o carnaval como essa potência pedagógica”, afirma Eduardo Guedes.&lt;/p&gt;
+&lt;p&gt;Todo material pode ser acessado&lt;/p&gt;
+&lt;p&gt;. Nos jogos, que incluem música, a brincadeira é tocar os instrumentos ou comandar uma bateria de escola de samba com a ajuda dos ritmistas da escola mirim da Acadêmicos do Grande Rio.&lt;/p&gt;
+&lt;p&gt;, a agremiação Unidos de Vila Isabel apresenta a conexão do samba com os processos de formação territorial e memória coletiva da cidade.&lt;/p&gt;
+&lt;p&gt;A relação não é novidade. No Rio de Janeiro, espaços de conexão histórica com o samba, patrimônio cultural imaterial do estado, realizam trabalhos de manutenção socioculturais nos seus territórios há anos.&lt;/p&gt;
+&lt;p&gt;Agremiações como Mangueira, Beija-Flor e Portela contam com complexos culturais e esportivos, com oficinas de música, dança e artes marciais durante todo o ano, assim como pré-vestibulares sociais, cursos de capacitação profissional e ações de inserção para jovens no mercado de trabalho.&lt;/p&gt;
+&lt;p&gt;Nas escolas de samba mirins, sempre associadas a uma agremiação matriz, é uma exigência que crianças e jovens possuam uma boa frequência escolar e tirem boas notas para participar das atividades, um instrumento que reforça a permanência nos estudos.&lt;/p&gt;
+&lt;p&gt;*Estagiária sob supervisão da jornalista Mariana Tokarnia&lt;/p&gt;
+&lt;p&gt;Pabllo Vittar e grupo de K-Pop fazem o povo sambar em SP nesta segunda&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/rio-lanca-portal-que-usa-o-samba-como-ferramenta-pedagogica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O samba vai além da música, é também uma manifestação cultural ricaque ajuda a desenvolver noções de identidade, memória, território e pertencimento....</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-02-16 08:12:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-16 08:12:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-16 08:12:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-16 08:12:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/r4fR7q7g3kQDaZMCl7Y0zVhdirk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/05/toms6150.jpg?itok=-nJqWy4X</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Pobreza afeta desenvolvimento de bebês desde 6 meses, mostra pesquisa</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/pobreza-afeta-desenvolvimento-de-bebes-desde-6-meses-mostra-pesquisa</link>
-      <pubDate>Mon, 16 Feb 2026 11:35:22 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 12:44:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/pobreza-afeta-desenvolvimento-de-bebes-desde-6-meses-mostra-pesquisa#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/pobreza-afeta-desenvolvimento-de-bebes-desde-6-meses-mostra-pesquisa#1002</guid>
       <description>© Marcello Casal Jr/Agência Brasi
 Bebês em lares pobres têm prejuízos no desenvolvimento motor. A constatação é de estudo da Universidade Federal de ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/B5vm3nWYOFwwXvkouKAqLhzO638=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/16/bebe01.jpg?itok=NvjER9-S&quot; alt=&quot;Pobreza afeta desenvolvimento de bebês desde 6 meses, mostra pesquisa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +141,7 @@ Bebês em lares pobres têm prejuízos no desenvolvimento motor. A constatação
 &lt;p&gt;A presença de mais adultos no mesmo domicílio, em vez de estimular os bebês, também foi apontada como fator negativo. A pesquisa levantou a hipótese de esses lares serem mais &quot;caóticos&quot;, com menos espaços seguros ou oportunidades para os bebês se movimentarem.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/pobreza-afeta-desenvolvimento-de-bebes-desde-6-meses-mostra-pesquisa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal Jr/Agência Brasi
 Bebês em lares pobres têm prejuízos no desenvolvimento motor. A constatação é de estudo da Universidade Federal de ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-02-16 07:39:00</wp:post_date>
       <wp:post_date_gmt>2026-02-16 07:39:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-16 07:39:00</wp:post_modified>
@@ -73,9 +167,9 @@ Bebês em lares pobres têm prejuízos no desenvolvimento motor. A constatação
     <item>
       <title>Carnaval 2026: veja programação dos blocos de rua no Rio nesta segunda</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/carnaval-2026-veja-programacao-dos-blocos-de-rua-no-rio-nesta-segunda</link>
-      <pubDate>Mon, 16 Feb 2026 11:35:22 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 12:44:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/carnaval-2026-veja-programacao-dos-blocos-de-rua-no-rio-nesta-segunda#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/carnaval-2026-veja-programacao-dos-blocos-de-rua-no-rio-nesta-segunda#1003</guid>
       <description>Nesta segunda-feira (16) de carnaval, 46 blocos oficiais vão desfilar por todas as regiões da cidade do Rio de Janeiro.
 O destaque é o Bloco do Sarge...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZzxIKvcZ3NWc1lHUVerl-VMIsZs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/tnrgo_abr_0403190008.jpg?itok=UA3eHmIG&quot; alt=&quot;Carnaval 2026: veja programação dos blocos de rua no Rio nesta segunda&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +190,7 @@ O destaque é o Bloco do Sarge...</description>
 &lt;p&gt;Hora: 14:00 Endereço: Av. Henrique Valadares, 28 – Centro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/carnaval-2026-veja-programacao-dos-blocos-de-rua-no-rio-nesta-segunda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Nesta segunda-feira (16) de carnaval, 46 blocos oficiais vão desfilar por todas as regiões da cidade do Rio de Janeiro.
 O destaque é o Bloco do Sarge...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-02-16 07:08:00</wp:post_date>
       <wp:post_date_gmt>2026-02-16 07:08:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-16 07:08:00</wp:post_modified>
@@ -122,9 +216,9 @@ O destaque é o Bloco do Sarge...</excerpt:encoded>
     <item>
       <title>Paquetá desencanta, Flamengo vence Botafogo e vai à semi do Carioca</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/paqueta-desencanta-flamengo-vence-botafogo-e-vai-semi-do-carioca</link>
-      <pubDate>Mon, 16 Feb 2026 11:35:22 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 12:44:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/paqueta-desencanta-flamengo-vence-botafogo-e-vai-semi-do-carioca#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/paqueta-desencanta-flamengo-vence-botafogo-e-vai-semi-do-carioca#1004</guid>
       <description>Ameaçado, em determinado momento da primeira fase, de ter que disputar um quadrangular para não ser rebaixado no Campeonato Carioca, o Flamengo está ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Max0YYdCqCc4KfKD4H32legPIx4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/15/paqueta.jpg?itok=BoL5ZXWa&quot; alt=&quot;Paquetá desencanta, Flamengo vence Botafogo e vai à semi do Carioca&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Ameaçado, em determinado momento da primeira fase, de ter que disputar um quadrangular para não ser rebaixado no Campeonato Carioca, o Flamengo está nas semifinais do Estadual. Neste domingo (15), o Rubro-Negro venceu o Botafogo por 2 a 1 no Estádio Nilton Santos, no Rio de Janeiro, pelas quartas de final. A partida foi transmitida ao vivo pela Rádio Nacional .&lt;/p&gt;
@@ -133,14 +227,14 @@ O destaque é o Bloco do Sarge...</excerpt:encoded>
 &lt;p&gt;O clássico deste domingo teve o desencantar de Lucas Paquetá. Foi do meia, que retornou ao Rubro-Negro depois de oito temporadas, o gol que abriu o marcador do Nilton Santos, aos 18 minutos. O camisa 20 recebeu do atacante Bruno Henrique na entrada da área e bateu no canto do goleiro Neto.&lt;/p&gt;
 &lt;p&gt;O Botafogo empatou aos oito do segundo tempo. O lateral Alex Telles cobrou escanteio e o zagueiro Alexander Barboza, de cabeça, encobriu o goleiro Andrew. No fim da partida, aos 38 minutos, o volante Erick Pulgar testou fraco em cima de Neto, dentro da área, mas o goleiro deu rebote e o próprio chileno aproveitou, decretando o triunfo rubro-negro.&lt;/p&gt;
 &lt;p&gt;O último semifinalista do Carioca será conhecido na segunda-feira (16). Às 18h (horário de Brasília), o Fluminense recebe o Bangu no Maracanã. Quem avançar, encara o Vasco, que despachou o Volta Redonda no último sábado (14), nos pênaltis.&lt;/p&gt;
+&lt;p&gt;Pabllo Vittar e grupo de K-Pop fazem o povo sambar em SP nesta segunda&lt;/p&gt;
+&lt;p&gt;Paulistão define classificados em volta de Neymar e goleada do Santos&lt;/p&gt;
+&lt;p&gt;Abono salarial começa a ser pago nesta segunda&lt;/p&gt;
 &lt;p&gt;Rio lança portal que usa o samba como ferramenta pedagógica&lt;/p&gt;
 &lt;p&gt;Pobreza afeta desenvolvimento de bebês desde 6 meses, mostra pesquisa&lt;/p&gt;
-&lt;p&gt;Carnaval 2026: veja programação dos blocos de rua no Rio nesta segunda&lt;/p&gt;
-&lt;p&gt;Paquetá desencanta, Flamengo vence Botafogo e vai à semi do Carioca&lt;/p&gt;
-&lt;p&gt;Reforços marcam e Bragantino vence Ferroviária no Brasileiro Feminino&lt;/p&gt;
-&lt;p&gt;Remo evita derrota no fim e enfrenta Águia nas quartas do Paraense&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/paqueta-desencanta-flamengo-vence-botafogo-e-vai-semi-do-carioca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Carnaval 2026: veja programação dos blocos de rua no Rio nesta segunda&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/paqueta-desencanta-flamengo-vence-botafogo-e-vai-semi-do-carioca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Ameaçado, em determinado momento da primeira fase, de ter que disputar um quadrangular para não ser rebaixado no Campeonato Carioca, o Flamengo está ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-02-15 19:55:00</wp:post_date>
       <wp:post_date_gmt>2026-02-15 19:55:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-15 19:55:00</wp:post_modified>
@@ -166,9 +260,9 @@ O destaque é o Bloco do Sarge...</excerpt:encoded>
     <item>
       <title>Reforços marcam e Bragantino vence Ferroviária no Brasileiro Feminino</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/reforcos-marcam-e-bragantino-vence-ferroviaria-no-brasileiro-feminino</link>
-      <pubDate>Mon, 16 Feb 2026 11:35:22 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 12:44:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/reforcos-marcam-e-bragantino-vence-ferroviaria-no-brasileiro-feminino#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/reforcos-marcam-e-bragantino-vence-ferroviaria-no-brasileiro-feminino#1005</guid>
       <description>© Fernando Roberto/Red Bull Bragantino
 Os reforços contratados para a temporada foram decisivos para o Red Bull Bragantino estrear com vitória na Sér...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Q0XabBHyp31SrVLQEjbZz7sTGQI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/15/red-bull-feminino.jpg?itok=2UQoGBFR&quot; alt=&quot;Reforços marcam e Bragantino vence Ferroviária no Brasileiro Feminino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -180,15 +274,15 @@ Os reforços contratados para a temporada foram decisivos para o Red Bull Bragan
 &lt;p&gt;Duas partidas movimentaram a competição na noite do último sábado (14). Atual vice-campeão, o Cruzeiro foi a Salvador e derrotou o Bahia por 2 a 0 no Estádio de Pituaçu, com dois gols da atacante Byanca Brasil.&lt;/p&gt;
 &lt;p&gt;Já o Botafogo, de volta à primeira divisão, recebeu o Juventude no Rio de Janeiro e venceu por 2 a 1. A meia Ana Caroline, de pênalti, e a centroavante Fernanda Tipa marcaram para as Gloriosas no Estádio Nilton Santos. A atacante Martha Figueiredo descontou para as Gurias Jaconeras.&lt;/p&gt;
 &lt;p&gt;A rodada de abertura do Brasileirão chega ao fim na segunda-feira (16). O Santos, campeão da última Série A2 (segunda divisão), recebe o Grêmio às 19h (horário de Brasília), na Vila Belmiro. Mais tarde, às 20h30, o Internacional mede forças com o São Paulo no Sesc Protásio Alves, em Porto Alegre (RS).&lt;/p&gt;
+&lt;p&gt;Pabllo Vittar e grupo de K-Pop fazem o povo sambar em SP nesta segunda&lt;/p&gt;
+&lt;p&gt;Paulistão define classificados em volta de Neymar e goleada do Santos&lt;/p&gt;
+&lt;p&gt;Abono salarial começa a ser pago nesta segunda&lt;/p&gt;
 &lt;p&gt;Rio lança portal que usa o samba como ferramenta pedagógica&lt;/p&gt;
 &lt;p&gt;Pobreza afeta desenvolvimento de bebês desde 6 meses, mostra pesquisa&lt;/p&gt;
-&lt;p&gt;Carnaval 2026: veja programação dos blocos de rua no Rio nesta segunda&lt;/p&gt;
-&lt;p&gt;Paquetá desencanta, Flamengo vence Botafogo e vai à semi do Carioca&lt;/p&gt;
-&lt;p&gt;Reforços marcam e Bragantino vence Ferroviária no Brasileiro Feminino&lt;/p&gt;
-&lt;p&gt;Remo evita derrota no fim e enfrenta Águia nas quartas do Paraense&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/reforcos-marcam-e-bragantino-vence-ferroviaria-no-brasileiro-feminino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Carnaval 2026: veja programação dos blocos de rua no Rio nesta segunda&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/reforcos-marcam-e-bragantino-vence-ferroviaria-no-brasileiro-feminino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Roberto/Red Bull Bragantino
 Os reforços contratados para a temporada foram decisivos para o Red Bull Bragantino estrear com vitória na Sér...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-02-15 19:41:00</wp:post_date>
       <wp:post_date_gmt>2026-02-15 19:41:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-15 19:41:00</wp:post_modified>
@@ -214,9 +308,9 @@ Os reforços contratados para a temporada foram decisivos para o Red Bull Bragan
     <item>
       <title>Remo evita derrota no fim e enfrenta Águia nas quartas do Paraense</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/remo-evita-derrota-no-fim-e-enfrenta-aguia-nas-quartas-do-paraense</link>
-      <pubDate>Mon, 16 Feb 2026 11:35:22 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 12:44:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/remo-evita-derrota-no-fim-e-enfrenta-aguia-nas-quartas-do-paraense#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/remo-evita-derrota-no-fim-e-enfrenta-aguia-nas-quartas-do-paraense#1006</guid>
       <description>A primeira fase do Campeonato Paraense chegou ao fim neste domingo (15). Representante do estado na Série A do Campeonato Brasileiro, o Remo empatou ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ENq1RPSmzSQ6jXZ4Afw6XdKV91c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/15/remo_evita_derrota_no_fim_e_enfrenta_aguia_nas_quartas_do_paraense.jpg?itok=RM9nCeQI&quot; alt=&quot;Remo evita derrota no fim e enfrenta Águia nas quartas do Paraense&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A primeira fase do Campeonato Paraense chegou ao fim neste domingo (15). Representante do estado na Série A do Campeonato Brasileiro, o Remo empatou em 1 a 1 com o Amazônia Independente no Baenão, em Belém.&lt;/p&gt;
@@ -235,7 +329,7 @@ Os reforços contratados para a temporada foram decisivos para o Red Bull Bragan
 &lt;p&gt;O Capitão Poço, segundo, recebeu o Castanhal, sétimo, no Rufinão, e ganhou por 2 a 0. Os dois times vão se reencontrar nas quartas.&lt;/p&gt;
 &lt;p&gt;No clássico de Santarém (PA), que não ocorria na primeira divisão há sete anos, o empate sem gols no Panterão salvou o São Raimundo - que foi a seis pontos, em nono lugar - e decretou o rebaixamento do rival São Francisco, que finalizou o Estadual com os mesmos cinco pontos do Bragantino-PA, outro que caiu.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/remo-evita-derrota-no-fim-e-enfrenta-aguia-nas-quartas-do-paraense&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A primeira fase do Campeonato Paraense chegou ao fim neste domingo (15). Representante do estado na Série A do Campeonato Brasileiro, o Remo empatou ...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-02-15 18:42:00</wp:post_date>
       <wp:post_date_gmt>2026-02-15 18:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-15 18:42:00</wp:post_modified>
@@ -261,9 +355,9 @@ Os reforços contratados para a temporada foram decisivos para o Red Bull Bragan
     <item>
       <title>Charretinhas do Forró mantém folia de resistência na Vila Planalto</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/charretinhas-do-forro-mantem-folia-de-resistencia-na-vila-planalto</link>
-      <pubDate>Mon, 16 Feb 2026 11:35:22 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 12:44:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/charretinhas-do-forro-mantem-folia-de-resistencia-na-vila-planalto#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/charretinhas-do-forro-mantem-folia-de-resistencia-na-vila-planalto#1007</guid>
       <description>Com as bênçãos do bonecão do carnavalesco Joãozinho da Vila, falecido em 2017, a Praça Zé Ramalho, a 5 quilômetros da Praça dos Três Poderes, no cent...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/b8dBQfWvQKWz9PAjdGBumzerCzg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/15/0d4a4644.jpg?itok=7cuk9XC8&quot; alt=&quot;Charretinhas do Forró mantém folia de resistência na Vila Planalto&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Com as bênçãos do bonecão do carnavalesco Joãozinho da Vila, falecido em 2017, a Praça Zé Ramalho, a 5 quilômetros da Praça dos Três Poderes, no centro de Brasília, transformou-se em cenário de resistência cultural neste domingo (15) de carnaval.&lt;/p&gt;
@@ -282,7 +376,7 @@ Os reforços contratados para a temporada foram decisivos para o Red Bull Bragan
 &lt;p&gt;Até pela proximidade com a Praça dos Três Poderes, o carnaval na Vila Planalto não se dissocia da política.&lt;/p&gt;
 &lt;p&gt;Enquanto o bonecão de Joãozinho da Vila desfilava na Praça Zé Ramalho, um folião balançava uma bandeira da Palestina.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/charretinhas-do-forro-mantem-folia-de-resistencia-na-vila-planalto&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Com as bênçãos do bonecão do carnavalesco Joãozinho da Vila, falecido em 2017, a Praça Zé Ramalho, a 5 quilômetros da Praça dos Três Poderes, no cent...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-02-15 18:29:00</wp:post_date>
       <wp:post_date_gmt>2026-02-15 18:29:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-15 18:29:00</wp:post_modified>
@@ -308,9 +402,9 @@ Os reforços contratados para a temporada foram decisivos para o Red Bull Bragan
     <item>
       <title>Centro de São Paulo tem axé e outras surpresas no domingo de carnaval</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/centro-de-sao-paulo-tem-axe-e-outras-surpresas-no-domingo-de-carnaval</link>
-      <pubDate>Mon, 16 Feb 2026 11:35:22 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 12:44:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/centro-de-sao-paulo-tem-axe-e-outras-surpresas-no-domingo-de-carnaval#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/centro-de-sao-paulo-tem-axe-e-outras-surpresas-no-domingo-de-carnaval#1008</guid>
       <description>Na capital paulista, o circuito de blocos da República teve uma tarde de desfiles tranquilos, embalada por ritmos nordestinos como o Axé e o Forró.
 O...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WOswqwTe-wHB2IVqTolO5lcOsLk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/15/pint1307.jpg.jpg?itok=t_l-vOzR&quot; alt=&quot;Centro de São Paulo tem axé e outras surpresas no domingo de carnaval&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -331,7 +425,7 @@ O...</description>
 &lt;p&gt;Vestidos de Lampião e Maria Bonita, Juarez e Ana puxavam o bloco, organizado pelo amigo e produtor cultural Zé da Lua, com quem se apresentam durante o ano com a indumentária no Trio da Lua.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/centro-de-sao-paulo-tem-axe-e-outras-surpresas-no-domingo-de-carnaval&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Na capital paulista, o circuito de blocos da República teve uma tarde de desfiles tranquilos, embalada por ritmos nordestinos como o Axé e o Forró.
 O...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-02-15 17:46:00</wp:post_date>
       <wp:post_date_gmt>2026-02-15 17:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-15 17:46:00</wp:post_modified>
@@ -357,9 +451,9 @@ O...</excerpt:encoded>
     <item>
       <title>Morre Renato Rabelo ex-presidente do PCdoB aos 83 anos</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/morre-renato-rabelo-ex-presidente-do-pcdob-aos-83-anos</link>
-      <pubDate>Mon, 16 Feb 2026 11:35:22 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 12:44:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/morre-renato-rabelo-ex-presidente-do-pcdob-aos-83-anos#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/morre-renato-rabelo-ex-presidente-do-pcdob-aos-83-anos#1009</guid>
       <description>Morreu neste domingo (15), aos 83 anos, o ex-presidente do Partido Comunista do Brasil (PCdoB) Renato Rabello. Ele presidiu a sigla de 2001 a 2015. A...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ra9IxABgl6n7tGXStBubjfxo4Vg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/15/morre_renato_rabelo_ex-presidente_do_pcdob.jpg?itok=OMVOMfPO&quot; alt=&quot;Morre Renato Rabelo ex-presidente do PCdoB aos 83 anos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Morreu neste domingo (15), aos 83 anos, o ex-presidente do Partido Comunista do Brasil (PCdoB) Renato Rabello. Ele presidiu a sigla de 2001 a 2015. A morte foi confirmada pelo partido, em nota.&lt;/p&gt;
@@ -370,15 +464,9 @@ O...</excerpt:encoded>
 &lt;p&gt;Renato foi um dos articuladores, pelo PCdoB, junto com João Amazonas, da Frente Brasil Popular (PT, PSB, PCdoB) que lançou, em 1989, a primeira candidatura de Luiz Inácio Lula da Silva para presidente da República.&lt;/p&gt;
 &lt;p&gt;“Recebi com muita tristeza a perda do companheiro Renato Rabelo, grande liderança do PCdoB. Desde muito jovem, Renato entregou sua militância, inteligência e energia à defesa dos trabalhadores, do socialismo e do Brasil. Enfrentou a ditadura, a perseguição e o exílio”, disse, nas redes sociais, a ministra-chefe da Secretaria de Relações Institucionais do Governo Lula, Gleisi Hoffmann.&lt;/p&gt;
 &lt;p&gt;A deputada pelo PCdoB, Jandira Feghali, também prestou homenagem ao líder do partido.&lt;/p&gt;
-&lt;p&gt;Hoje me despeço com profunda tristeza de um grande amigo, referência ideológica, política e de afeto, que presidiu nosso PCdoB por décadas, e um dos maiores construtores da história do Brasil. Renato dedicou a vida inteira à luta pela democracia, pela soberania nacional, por direitos e pelo socialismo. O Brasil ficou mais pobre de ideias e de luta”, disse.&lt;/p&gt;
-&lt;p&gt;Abono salarial começa a ser pago nesta segunda&lt;/p&gt;
-&lt;p&gt;Rio lança portal que usa o samba como ferramenta pedagógica&lt;/p&gt;
-&lt;p&gt;Pobreza afeta desenvolvimento de bebês desde 6 meses, mostra pesquisa&lt;/p&gt;
-&lt;p&gt;Carnaval 2026: veja programação dos blocos de rua no Rio nesta segunda&lt;/p&gt;
-&lt;p&gt;Paquetá desencanta, Flamengo vence Botafogo e vai à semi do Carioca&lt;/p&gt;
-&lt;p&gt;Reforços marcam e Bragantino vence Ferroviária no Brasileiro Feminino&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/morre-renato-rabelo-ex-presidente-do-pcdob-aos-83-anos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Hoje me despeço com profunda tristeza de um grande amigo, referência ideológica, política e de afeto, que presidiu nosso PCdoB por décadas, e um dos maiores construtores da história do Brasil. Renato dedicou a vida inteira à luta pela democracia, pela soberania nacional, por direitos e pelo socialismo. O Brasil ficou mais pobre de ideias e de luta”, disse.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/morre-renato-rabelo-ex-presidente-do-pcdob-aos-83-anos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Morreu neste domingo (15), aos 83 anos, o ex-presidente do Partido Comunista do Brasil (PCdoB) Renato Rabello. Ele presidiu a sigla de 2001 a 2015. A...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-02-15 15:44:00</wp:post_date>
       <wp:post_date_gmt>2026-02-15 15:44:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-15 15:44:00</wp:post_modified>
@@ -399,104 +487,6 @@ O...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/Ra9IxABgl6n7tGXStBubjfxo4Vg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/15/morre_renato_rabelo_ex-presidente_do_pcdob.jpg?itok=OMVOMfPO</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Estudo mostra impacto de vídeos curtos no desenvolvimento infantil</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/estudo-mostra-impacto-de-videos-curtos-no-desenvolvimento-infantil</link>
-      <pubDate>Mon, 16 Feb 2026 11:35:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/estudo-mostra-impacto-de-videos-curtos-no-desenvolvimento-infantil#1008</guid>
-      <description>Duas pesquisadoras da Universidade de Macau concluíram que vídeos de formato curto usados nas redes sociais e vistos em &quot;
-&quot; (rolagem da tel...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DzPg2T_H8WF7vfqTMNSFRGWXh4M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/28/dupla.jpg?itok=dxVgeIa4&quot; alt=&quot;Estudo mostra impacto de vídeos curtos no desenvolvimento infantil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Duas pesquisadoras da Universidade de Macau concluíram que vídeos de formato curto usados nas redes sociais e vistos em &quot;&lt;/p&gt;
-&lt;p&gt;&quot; (rolagem da tela) em aparelhos celulares impactam negativamente bo desenvolvimento cognitivo das crianças, podendo causar ansiedade social e insegurança.&lt;/p&gt;
-&lt;p&gt;&quot;O consumo compulsivo de vídeos curtos tem um impacto negativo no desenvolvimento cognitivo, podendo causar falta de concentração, ansiedade social e insegurança&quot;, explicou em declarações à Lusa Wang Wei, acadêmica da área da Psicologia Educacional da Universidade de Macau (UM), autora do estudo&lt;/p&gt;
-&lt;p&gt;Dependência de vídeos curtos, envolvimento escolar e inclusão social entre estudantes rurais chineses&lt;/p&gt;
-&lt;p&gt;&quot;Esta concepção de vídeos curtos pode ser particularmente perigosa para as crianças&quot;, alertou a investigadora.&lt;/p&gt;
-&lt;p&gt;&quot;A nossa pesquisa indica uma correlação direta: quanto mais os estudantes consomem vídeos curtos, menos se envolvem com a escola.&quot;&lt;/p&gt;
-&lt;p&gt;Wang argumenta que, embora as necessidades psicológicas fundamentais das crianças devam ser satisfeitas&lt;/p&gt;
-&lt;p&gt;ou seja, fora das redes sociais –, as plataformas de vídeos curtos, com algoritmos personalizados e funcionalidades de interação social, satisfaz de forma direta e maneira sutil essas mesmas necessidades.&lt;/p&gt;
-&lt;p&gt;Esta satisfação paralela, sugere a investigação de Wang, &quot;leva potencialmente a um uso excessivo e ao vício&quot;.&lt;/p&gt;
-&lt;p&gt;&quot;A natureza estimulante e de ritmo acelerado dos vídeos curtos torna-os altamente divertidos para os alunos&quot;, acrescentou ainda a investigadora.&lt;/p&gt;
-&lt;p&gt;Anise Wu Man Sze, professora de Psicologia na Faculdade de Ciências Sociais da UM e autora do estudo&lt;/p&gt;
-&lt;p&gt;A relação das componentes afetivas e cognitivas no uso problemático de vídeos curtos&lt;/p&gt;
-&lt;p&gt;, acrescenta às conclusões de Wang as questões relacionadas com a superestimulação das crianças, que prejudicam ainda mais o desenvolvimento cognitivo saudável.&lt;/p&gt;
-&lt;p&gt;Os vídeos curtos capturam a atenção de todos justamente porque &quot;estão logo ali à mão e são gratuitos&quot;, sublinha Wu, em declarações à Lusa.&lt;/p&gt;
-&lt;p&gt;As pessoas podem ter acesso a grandes quantidades de vídeos curtos &quot;a qualquer hora, em qualquer lugar&quot;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/estudo-mostra-impacto-de-videos-curtos-no-desenvolvimento-infantil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Duas pesquisadoras da Universidade de Macau concluíram que vídeos de formato curto usados nas redes sociais e vistos em &quot;
-&quot; (rolagem da tel...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-02-15 14:55:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-15 14:55:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-15 14:55:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-15 14:55:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/DzPg2T_H8WF7vfqTMNSFRGWXh4M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/28/dupla.jpg?itok=dxVgeIa4</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Bloco celebra diversidade e carnaval sem assédio no Rio de Janeiro</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/bloco-celebra-diversidade-e-carnaval-sem-assedio-no-rio-de-janeiro</link>
-      <pubDate>Mon, 16 Feb 2026 11:35:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/bloco-celebra-diversidade-e-carnaval-sem-assedio-no-rio-de-janeiro#1009</guid>
-      <description>© Fernando Frazão/Agência Brasil
-Milhares de pessoas acordaram cedo neste domingo de carnaval (15) para participar da folia do bloco Divinas Tretas, ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QMx6FV1UVM8AzvWcCVMEhcwMOLA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/15/_d6a7989.jpg?itok=Fm4vkemh&quot; alt=&quot;Bloco celebra diversidade e carnaval sem assédio no Rio de Janeiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Milhares de pessoas acordaram cedo neste domingo de carnaval (15) para participar da folia do bloco Divinas Tretas, que se concentrou, mas não saiu, no Aterro do Flamengo, no Rio de Janeiro.&lt;/p&gt;
-&lt;p&gt;O Divina Tretas é um dos 55 blocos corresponsáveis pela alegria neste dia ensolarado e quente dos cariocas. O coletivo deriva do antigo bloco Toco-Xona, o&lt;/p&gt;
-&lt;p&gt;primeiro bloco LGBTQIA+ da cidade do Rio de Janeiro&lt;/p&gt;
-&lt;p&gt;, criado em 2007 e renomeado em 2022, após a pandemia de covid-19.&lt;/p&gt;
-&lt;p&gt;A programação musical, tocada ao vivo e nos intervalos, tenta dar conta da pluralidade de ritmos brasileiros com samba, axé, piseiro e pitadas de rock em meio à cena pop.&lt;/p&gt;
-&lt;p&gt;“São músicas que levantam a galera”, explica a cantora e multi-instrumentista Karol Gomes, que se apresenta com tamborim e microfone na banda do bloco.&lt;/p&gt;
-&lt;p&gt;“Tocamos músicas que o público gosta, de divas internacionais e divas brasileiras, em que vestimos a roupinha da gente”, acrescenta Thaissa Zin, produtora executiva do Divinas Tretas.&lt;/p&gt;
-&lt;p&gt;“Tocar na rua é saber tocar gêneros populares, em que as pessoas vão se sentir acolhidas, abraçadas”, explica a DJ Laís Conti, uma das responsáveis por animar o público enquanto a banda se prepara ou descansa para seguir a festa.&lt;/p&gt;
-&lt;p&gt;A receita de Laís é fazer do momento em que apresenta a sua seleção de músicas “um set democrático e quente”.&lt;/p&gt;
-&lt;p&gt;As trilhas sonoras da DJ e da banda contribuem para tornar o ambiente do Divinas Tretas receptivo, agradável e diverso como deve ser um carnaval para todas as pessoas.&lt;/p&gt;
-&lt;p&gt;“Este é um bloco em que eu consigo me sentir bem como mulher hétero ou como uma pessoa gay ou uma pessoa fora dos padrões. Um lugar em que eu consigo me sentir completamente à vontade para exercer minha liberdade carnavalesca. De botar a roupa que eu estou com vontade, seja mais ou menos coberta. Onde posso dançar o que eu tenho vontade e ouvir músicas que eu gosto”, dá o testemunho a enfermeira Letícia de Almeida Lopes, 26 anos.&lt;/p&gt;
-&lt;p&gt;Para a foliã, as pessoas vão ao bloco “para serem felizes” e “não para fazer julgamentos”. Ela acredita que o clima geral do Divinas Tretas “traz sensação de segurança”.&lt;/p&gt;
-&lt;p&gt;A vendedora Thaísa Galvão, 28 anos, confirma as impressões de Letícia.&lt;/p&gt;
-&lt;p&gt;“Me sinto muito bem. Dá para a gente se descontrair com os nossos amigos. Não tem nenhum tipo de briga. Todo mundo se dá bem. Por isso, eu sempre venho aqui”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/bloco-celebra-diversidade-e-carnaval-sem-assedio-no-rio-de-janeiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fernando Frazão/Agência Brasil
-Milhares de pessoas acordaram cedo neste domingo de carnaval (15) para participar da folia do bloco Divinas Tretas, ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-02-15 14:21:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-15 14:21:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-15 14:21:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-15 14:21:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/QMx6FV1UVM8AzvWcCVMEhcwMOLA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/15/_d6a7989.jpg?itok=Fm4vkemh</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
