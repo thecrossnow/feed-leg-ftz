@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 20/02/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 11:35 UTC</description>
-<lastBuildDate>Fri, 20 Feb 2026 11:35:09 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Fri, 20 Feb 2026 13:05:51 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>FORTaleCE: Prefeitura divulga Plano para Atendimento Pediátrico na Sazonalidade 2026</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/fortalece-prefeitura-divulga-plano-para-atendimento-pediatrico-na-sazonalidade-2026</link>
+<guid isPermaLink="false">fortaleza-20260220-45631a6de12a</guid>
+<pubDate>Fri, 20 Feb 2026 09:28:00 +0000</pubDate>
+<description>FORTaleCE: Prefeitura divulga Plano para Atendimento Pediátrico na Sazonalidade 2026 - Sexta, 20 Fevereiro 2026 09:28</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" alt="FORTaleCE: Prefeitura divulga Plano para Atendimento Pediátrico na Sazonalidade 2026" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Prefeitura de Fortaleza divulga, nesta segunda-feira (23/2), às 10h, o Plano para Atendimento Pediátrico na Sazonalidade 2026, com foco na proteção do público infantil. Entre as estratégias multissetoriais estão a ampliação dos atendimentos, a implantação de novos equipamentos de saúde e a convocação de profissionais da área.</p>
+<p>O prefeito Evandro Leitão e a secretária municipal da Saúde, Riane Azevedo, conduzem a apresentação, no Auditório do Paço Municipal. A ação conta com apoio do Governo do Ceará e integra o FORtaleCE, programa que reúne ações conjuntas entre Prefeitura e Governo para o desenvolvimento de Fortaleza.</p>
+<p>O plano também inclui ações de prevenção e controle das arboviroses, com monitoramento epidemiológico, vigilância ativa e capacitação permanente dos profissionais de saúde. As medidas visam otimizar os atendimentos e reduzir internações e o agravamento dos casos, especialmente do público infantil.</p>
+<p><strong>Serviço</strong><br/>Apresentação do Plano para Atendimento Pediátrico na Sazonalidade 2026<br/>Data: 23/2 (segunda-feira)<br/>Horário: 10h<br/>Local: Auditório do Paço Municipal (Rua São José, 01 – Centro)</p>
+<figure><img alt="banner do FORtaleCE" src="/images/images3/midias/TemasPortal/FORtaleCE-rodape.jpeg" style="max-width:100%; height:auto;"/></figure> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/fortalece-prefeitura-divulga-plano-para-atendimento-pediatrico-na-sazonalidade-2026" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" medium="image">
+<media:title>FORTaleCE: Prefeitura divulga Plano para Atendimento Pediátrico na Sazonalidade 2026</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
