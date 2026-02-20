@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Fri, 20 Feb 2026 13:56:06 +0000</pubDate>
+    <pubDate>Fri, 20 Feb 2026 14:36:46 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,109 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Dezenove estados e DF têm em 2025 o menor desemprego já registrado</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/dezenove-estados-e-df-tem-em-2025-o-menor-desemprego-ja-registrado</link>
+      <pubDate>Fri, 20 Feb 2026 14:36:46 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/dezenove-estados-e-df-tem-em-2025-o-menor-desemprego-ja-registrado#1000</guid>
+      <description>© Marcello Casal jr/Agência Brasil
+Dezenove estados e o Distrito Federal (DF) fecharam o ano de 2025 com a menor taxa de desemprego registrada na sér...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UR7A9hq3YPfcnhV4ew3kST92tWc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/02_carteira_de_trabalho.jpg?itok=o3QHvFaw&quot; alt=&quot;Dezenove estados e DF têm em 2025 o menor desemprego já registrado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello Casal jr/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Dezenove estados e o Distrito Federal (DF) fecharam o ano de 2025 com a menor taxa de desemprego registrada na série histórica da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua, iniciada em 2012.&lt;/p&gt;
+&lt;p&gt;Os dados foram divulgados nesta sexta-feira (20) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).&lt;/p&gt;
+&lt;p&gt;Para o país como um todo, o ano de 2025 terminou com&lt;/p&gt;
+&lt;p&gt;a menor já registrada na série histórica iniciada em 2012, conforme anunciou o IBGE no fim de janeiro.&lt;/p&gt;
+&lt;p&gt;A pesquisa do IBGE apura o comportamento no mercado de trabalho para pessoas com 14 anos ou mais e leva em conta todas as formas de ocupação, seja com ou sem carteira assinada, temporário e por conta própria, por exemplo.&lt;/p&gt;
+&lt;p&gt;Pelos critérios do instituto, só é considerada desocupada a pessoa que efetivamente procurou uma vaga 30 dias antes da pesquisa.&lt;/p&gt;
+&lt;p&gt;São visitados 211 mil domicílios em todos os estados e no Distrito Federal.&lt;/p&gt;
+&lt;p&gt;As unidades da federação (UF) que alcançaram a taxa mínima de desemprego foram:&lt;/p&gt;
+&lt;p&gt;Apesar de não ter vivenciado queda na taxa de desemprego,&lt;/p&gt;
+&lt;p&gt;Rondônia fechou o ano em 3,3%, quarto menor índice do país.&lt;/p&gt;
+&lt;p&gt;recorde de mínima da desocupação do estado do norte foi 3,1%, em 2023.&lt;/p&gt;
+&lt;p&gt;De todos os estados que atingiram os menores índices de desemprego em 2025, o único que não apresentou queda na comparação com 2024 foi o Amazonas, que repetiu a marca de 8,4%.&lt;/p&gt;
+&lt;p&gt;Os dados consolidados de 2025 revelam que das 27 UFs, 12 ficaram abaixo da média nacional (5,6%); e 15 superam o desemprego médio no país.&lt;/p&gt;
+&lt;p&gt;Três estados do Nordeste apresentam as maiores desocupações.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/dezenove-estados-e-df-tem-em-2025-o-menor-desemprego-ja-registrado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello Casal jr/Agência Brasil
+Dezenove estados e o Distrito Federal (DF) fecharam o ano de 2025 com a menor taxa de desemprego registrada na sér...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-02-20 10:27:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-20 10:27:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-20 10:27:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-20 10:27:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/UR7A9hq3YPfcnhV4ew3kST92tWc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/02_carteira_de_trabalho.jpg?itok=o3QHvFaw</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Polícia segue com buscas em mansão, após libertar ex-príncipe Andrew</title>
+      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/policia-segue-com-buscas-em-mansao-apos-libertar-ex-principe-andrew</link>
+      <pubDate>Fri, 20 Feb 2026 14:36:46 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/policia-segue-com-buscas-em-mansao-apos-libertar-ex-principe-andrew#1001</guid>
+      <description>© REUTERS/Phil Noble/Proibida reprodução
+A polícia britânica revistou, nesta sexta-feira (20), a antiga mansão do irmão mais novo do rei Charles, And...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WwG8V7MHFZBKW5f-G7e1IOaKjFg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/19/andrew_2_-_reuters.jpg?itok=-F3qssG9&quot; alt=&quot;Polícia segue com buscas em mansão, após libertar ex-príncipe Andrew&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS/Phil Noble/Proibida reprodução&lt;/p&gt;
+&lt;p&gt;A polícia britânica revistou, nesta sexta-feira (20), a antiga mansão do irmão mais novo do rei Charles, Andrew Mountbatten-Windsor, depois que uma foto do ex-príncipe saindo de uma delegacia de polícia foi publicada em jornais de todo o mundo.&lt;/p&gt;
+&lt;p&gt;(19), dia de seu aniversário de 66 anos, sob suspeita de má conduta no exercício de cargo público.&lt;/p&gt;
+&lt;p&gt;As alegações indicam que ele teria enviado documentos confidenciais do governo britânico ao financista Jeffrey Epstein, quando era representante especial do Reino Unido para o Comércio Internacional.&lt;/p&gt;
+&lt;p&gt;após ficar detido pela polícia por mais de 10 horas. Ele não foi acusado de nenhum crime, mas parecia assustado em uma foto da Reuters após sua libertação, encurvado no banco de trás de um Range Rover, com os olhos vermelhos e uma expressão de descrença no rosto.&lt;/p&gt;
+&lt;p&gt;A foto de um homem que já foi um elegante oficial da Marinha e filho favorito da falecida rainha Elizabeth foi publicada na primeira página de jornais no Reino Unido e em todo o mundo, acompanhada de manchetes como “Queda”.&lt;/p&gt;
+&lt;p&gt;Andrew sempre negou qualquer irregularidade em relação a Epstein, um criminoso sexual condenado que teria se matado em 2019, e disse que se arrependia da amizade.&lt;/p&gt;
+&lt;p&gt;divulgação de milhões de documentos&lt;/p&gt;
+&lt;p&gt;pelo governo dos Estados Unidos mostrou que ele continuou amigo de Epstein muito tempo depois que o financista foi condenado por solicitar prostituição de uma menor em 2008.&lt;/p&gt;
+&lt;p&gt;Esses arquivos sugeriram que Mountbatten-Windsor havia encaminhado a Epstein relatórios do governo britânico sobre oportunidades de investimento no Afeganistão e avaliações do Vietnã, Cingapura e outros lugares que ele havia visitado como representante especial do governo.&lt;/p&gt;
+&lt;p&gt;A prisão de um membro sênior da realeza, oitavo na linha de sucessão ao trono, é algo sem precedentes nos tempos modernos. O último membro da família real a ser preso no Reino Unido foi Carlos I, que foi decapitado em 1649 após ser considerado culpado de traição.&lt;/p&gt;
+&lt;p&gt;No ano passado, o Rei Charles retirou o título de príncipe de Andrew e determinou que ele deixasse sua casa em Windsor. Nesta quinta-feira ele disse que recebeu a notícia da prisão de seu irmão com “profunda preocupação”.&lt;/p&gt;
+&lt;p&gt;“Deixe-me afirmar claramente: a lei tem que seguir seu curso”, afirmou o rei.&lt;/p&gt;
+&lt;p&gt;“O que se segue agora é o processo completo, justo e adequado pelo qual esta questão será investigada da maneira apropriada e pelas autoridades competentes.”&lt;/p&gt;
+&lt;p&gt;É proibida a reprodução deste conteúdo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/policia-segue-com-buscas-em-mansao-apos-libertar-ex-principe-andrew&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS/Phil Noble/Proibida reprodução
+A polícia britânica revistou, nesta sexta-feira (20), a antiga mansão do irmão mais novo do rei Charles, And...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-02-20 10:26:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-20 10:26:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-20 10:26:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-20 10:26:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/WwG8V7MHFZBKW5f-G7e1IOaKjFg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/19/andrew_2_-_reuters.jpg?itok=-F3qssG9</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>TV Brasil exibe futebol feminino entre Flamengo e Red Bull Bragantino</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/tv-brasil-exibe-futebol-feminino-entre-flamengo-e-red-bull-bragantino</link>
-      <pubDate>Fri, 20 Feb 2026 13:56:06 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 14:36:46 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/tv-brasil-exibe-futebol-feminino-entre-flamengo-e-red-bull-bragantino#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/tv-brasil-exibe-futebol-feminino-entre-flamengo-e-red-bull-bragantino#1002</guid>
       <description>© Fernando Roberto/Red Bull Bragantino
 transmite, nesta sexta-feira (20),o jogoentreFlamengoeRedBull Bragantinopelasegundarodada da Série A1 do Campe...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Q0XabBHyp31SrVLQEjbZz7sTGQI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/15/red-bull-feminino.jpg?itok=2UQoGBFR&quot; alt=&quot;TV Brasil exibe futebol feminino entre Flamengo e Red Bull Bragantino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +145,7 @@ transmite, nesta sexta-feira (20),o jogoentreFlamengoeRedBull Bragantinopelasegu
 &lt;p&gt;pelo canal aberto, TV por assinatura e parabólica. Sintonize: https://tvbrasil.ebc.com.br/comosintonizar.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/tv-brasil-exibe-futebol-feminino-entre-flamengo-e-red-bull-bragantino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Roberto/Red Bull Bragantino
 transmite, nesta sexta-feira (20),o jogoentreFlamengoeRedBull Bragantinopelasegundarodada da Série A1 do Campe...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-02-20 08:02:00</wp:post_date>
       <wp:post_date_gmt>2026-02-20 08:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-20 08:02:00</wp:post_modified>
@@ -73,9 +171,9 @@ transmite, nesta sexta-feira (20),o jogoentreFlamengoeRedBull Bragantinopelasegu
     <item>
       <title>Escolas de samba mirins desfilam nesta sexta na Marquês de Sapucaí</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/escolas-de-samba-mirins-desfilam-nesta-sexta-na-marques-de-sapucai</link>
-      <pubDate>Fri, 20 Feb 2026 13:56:06 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 14:36:46 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/escolas-de-samba-mirins-desfilam-nesta-sexta-na-marques-de-sapucai#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/escolas-de-samba-mirins-desfilam-nesta-sexta-na-marques-de-sapucai#1003</guid>
       <description>A nova geração do samba vai tomar conta da Marquês de Sapucaí, no Rio de Janeiro,nesta sexta-feira (20). A partir das 17h, 12 escolas de samba mirins...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/XPH1-MqDOPut-0HPomllXotVdtc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/tnrgo_abr20180213_0736.jpg?itok=Vwg7qhYH&quot; alt=&quot;Escolas de samba mirins desfilam nesta sexta na Marquês de Sapucaí&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A nova geração do samba vai tomar conta da Marquês de Sapucaí, no Rio de Janeiro,nesta sexta-feira (20). A partir das 17h, 12 escolas de samba mirins atravessam a avenida, em um desfile que antecede o Sábado das Campeãs do Grupo Especial e reafirma o papel das agremiações infantis como celeiro de talentos do carnaval carioca.&lt;/p&gt;
@@ -89,12 +187,12 @@ transmite, nesta sexta-feira (20),o jogoentreFlamengoeRedBull Bragantinopelasegu
 &lt;p&gt;Exposição aborda violência contra mulheres no Rio&lt;/p&gt;
 &lt;p&gt;Viva Maria saúda as escolas de samba campeãs do Rio&lt;/p&gt;
 &lt;p&gt;Cheias colocam três cidades do Amazonas em situação de emergência&lt;/p&gt;
-&lt;p&gt;Dezenove estados e DF têm em 2025 o menor desemprego já registrado&lt;/p&gt;
-&lt;p&gt;Polícia segue com buscas em mansão, após libertar ex-príncipe Andrew&lt;/p&gt;
-&lt;p&gt;ONU alerta para milhares de pessoas forçadas a cometer crimes digitais&lt;/p&gt;
-&lt;p&gt;Legislativo venezuelano aprova lei de anistia limitada&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/escolas-de-samba-mirins-desfilam-nesta-sexta-na-marques-de-sapucai&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Grupo que expunha estudantes a conteúdo pornográfico é alvo da Polícia&lt;/p&gt;
+&lt;p&gt;Chuvas fortes causam estragos no noroeste do Rio Grande do Sul&lt;/p&gt;
+&lt;p&gt;&quot;Alô Alô Brasil&quot;, com Datena, começa segunda-feira na Rádio Nacional&lt;/p&gt;
+&lt;p&gt;Dezenove estados e DF têm em 2025 o menor desemprego já registrado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-02/escolas-de-samba-mirins-desfilam-nesta-sexta-na-marques-de-sapucai&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A nova geração do samba vai tomar conta da Marquês de Sapucaí, no Rio de Janeiro,nesta sexta-feira (20). A partir das 17h, 12 escolas de samba mirins...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-02-20 07:32:00</wp:post_date>
       <wp:post_date_gmt>2026-02-20 07:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-20 07:32:00</wp:post_modified>
@@ -120,9 +218,9 @@ transmite, nesta sexta-feira (20),o jogoentreFlamengoeRedBull Bragantinopelasegu
     <item>
       <title>Caixa paga Bolsa Família a beneficiários com NIS de final 5</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-5</link>
-      <pubDate>Fri, 20 Feb 2026 13:56:06 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 14:36:46 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-5#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-5#1004</guid>
       <description>A Caixa Econômica Federal paga nesta sexta-feira (20) a parcela de fevereirodo Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iZVycUWx5cItawcdqQEkejt7D0I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53627831838_2fa74e7364_o.jpg?itok=EF_jy054&quot; alt=&quot;Caixa paga Bolsa Família a beneficiários com NIS de final 5&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Caixa Econômica Federal paga nesta sexta-feira (20) a parcela de fevereirodo Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 5.&lt;/p&gt;
@@ -141,7 +239,7 @@ transmite, nesta sexta-feira (20),o jogoentreFlamengoeRedBull Bragantinopelasegu
 &lt;p&gt;tempo de permanência na regra de proteção foi reduzido de dois para um ano&lt;/p&gt;
 &lt;p&gt;. No entanto, a mudança só abrange as famílias que entraram na fase de transição a partir de junho de 2025. Quem se enquadrou na regra até maio de 2025 continuará a receber metade do benefício por dois anos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-5&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Caixa Econômica Federal paga nesta sexta-feira (20) a parcela de fevereirodo Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) d...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-02-20 07:02:00</wp:post_date>
       <wp:post_date_gmt>2026-02-20 07:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-20 07:02:00</wp:post_modified>
@@ -167,9 +265,9 @@ transmite, nesta sexta-feira (20),o jogoentreFlamengoeRedBull Bragantinopelasegu
     <item>
       <title>Flamengo joga mal e inicia Recopa Sul-Americana com derrota</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/flamengo-joga-mal-e-inicia-recopa-sul-americana-com-derrota</link>
-      <pubDate>Fri, 20 Feb 2026 13:56:06 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 14:36:46 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/flamengo-joga-mal-e-inicia-recopa-sul-americana-com-derrota#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/flamengo-joga-mal-e-inicia-recopa-sul-americana-com-derrota#1005</guid>
       <description>© Reuters/Rodrigo Valle/Direitos Reservados
 Com uma atuação muito ruim, o Flamengo foi derrotado pelo placar de 1 a 0 pelo Lanús (Argentina), na noit...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Wlg6O3Gf5erMZmjA9oHpbkvwraQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/19/2026-02-20t011622z_251227648_up1em2k03j98t_rtrmadp_3_soccer-recopa-lan-fla.jpg?itok=56CA_Spq&quot; alt=&quot;Flamengo joga mal e inicia Recopa Sul-Americana com derrota&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -190,7 +288,7 @@ Com uma atuação muito ruim, o Flamengo foi derrotado pelo placar de 1 a 0 pelo
 &lt;p&gt;Viva Maria saúda as escolas de samba campeãs do Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/flamengo-joga-mal-e-inicia-recopa-sul-americana-com-derrota&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Rodrigo Valle/Direitos Reservados
 Com uma atuação muito ruim, o Flamengo foi derrotado pelo placar de 1 a 0 pelo Lanús (Argentina), na noit...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-02-20 00:00:00</wp:post_date>
       <wp:post_date_gmt>2026-02-20 00:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-20 00:00:00</wp:post_modified>
@@ -216,9 +314,9 @@ Com uma atuação muito ruim, o Flamengo foi derrotado pelo placar de 1 a 0 pelo
     <item>
       <title>Mega-Sena acumula e prêmio vai a R$ 105 milhões</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mega-sena-acumula-e-premio-vai-a-r-105-milhoes</link>
-      <pubDate>Fri, 20 Feb 2026 13:56:06 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 14:36:46 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mega-sena-acumula-e-premio-vai-a-r-105-milhoes#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mega-sena-acumula-e-premio-vai-a-r-105-milhoes#1006</guid>
       <description>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
 O prêmio do concurso 2.974da Mega-Sena acumulou nesta quinta-feira(19).
 A estimativa de prêmio do próximo c...</description>
@@ -232,16 +330,16 @@ A estimativa de prêmio do próximo c...</description>
 &lt;p&gt;Exposição aborda violência contra mulheres no Rio&lt;/p&gt;
 &lt;p&gt;Viva Maria saúda as escolas de samba campeãs do Rio&lt;/p&gt;
 &lt;p&gt;Cheias colocam três cidades do Amazonas em situação de emergência&lt;/p&gt;
+&lt;p&gt;Grupo que expunha estudantes a conteúdo pornográfico é alvo da Polícia&lt;/p&gt;
+&lt;p&gt;Chuvas fortes causam estragos no noroeste do Rio Grande do Sul&lt;/p&gt;
+&lt;p&gt;&quot;Alô Alô Brasil&quot;, com Datena, começa segunda-feira na Rádio Nacional&lt;/p&gt;
 &lt;p&gt;Dezenove estados e DF têm em 2025 o menor desemprego já registrado&lt;/p&gt;
 &lt;p&gt;Polícia segue com buscas em mansão, após libertar ex-príncipe Andrew&lt;/p&gt;
-&lt;p&gt;ONU alerta para milhares de pessoas forçadas a cometer crimes digitais&lt;/p&gt;
-&lt;p&gt;Legislativo venezuelano aprova lei de anistia limitada&lt;/p&gt;
-&lt;p&gt;Fósseis de nova espécie de dinossauro gigante são encontrados no Níger&lt;/p&gt;
-&lt;p&gt;TV Brasil exibe futebol feminino entre Flamengo e Red Bull Bragantino&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mega-sena-acumula-e-premio-vai-a-r-105-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;ONU alerta para milhares de pessoas forçadas a cometer crimes digitais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mega-sena-acumula-e-premio-vai-a-r-105-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
 O prêmio do concurso 2.974da Mega-Sena acumulou nesta quinta-feira(19).
 A estimativa de prêmio do próximo c...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-02-19 22:21:00</wp:post_date>
       <wp:post_date_gmt>2026-02-19 22:21:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-19 22:21:00</wp:post_modified>
@@ -267,9 +365,9 @@ A estimativa de prêmio do próximo c...</excerpt:encoded>
     <item>
       <title>Corinthians é eficiente e derrota Athletico na Arena da Baixada</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/corinthians-e-eficiente-e-derrota-athletico-na-arena-da-baixada</link>
-      <pubDate>Fri, 20 Feb 2026 13:56:06 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 14:36:46 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/corinthians-e-eficiente-e-derrota-athletico-na-arena-da-baixada#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/corinthians-e-eficiente-e-derrota-athletico-na-arena-da-baixada#1007</guid>
       <description>© Reuters/Rodolfo Buhrer/Direitos reservados
 O Corinthians foi mostrou mais eficiência e derrotou o Athletico-PR por 1 a 0, na noite desta quinta-fei...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jStVHCBtOwrFprnFlPChZQIWTW8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/19/2026-02-19t230522z_1576246052_up1em2j1s4w7p_rtrmadp_3_soccer-brazil-cap-cor.jpg?itok=pHkWR_97&quot; alt=&quot;Corinthians é eficiente e derrota Athletico na Arena da Baixada&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -288,7 +386,7 @@ O Corinthians foi mostrou mais eficiência e derrotou o Athletico-PR por 1 a 0, 
 &lt;p&gt;TV Brasil exibe futebol feminino entre Flamengo e Red Bull Bragantino&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/corinthians-e-eficiente-e-derrota-athletico-na-arena-da-baixada&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Rodolfo Buhrer/Direitos reservados
 O Corinthians foi mostrou mais eficiência e derrotou o Athletico-PR por 1 a 0, na noite desta quinta-fei...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-02-19 22:00:00</wp:post_date>
       <wp:post_date_gmt>2026-02-19 22:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-19 22:00:00</wp:post_modified>
@@ -314,9 +412,9 @@ O Corinthians foi mostrou mais eficiência e derrotou o Athletico-PR por 1 a 0, 
     <item>
       <title>Ministro do STF autoriza PF a retomar investigação do caso Master</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/ministro-do-stf-autoriza-pf-retomar-investigacao-do-caso-master</link>
-      <pubDate>Fri, 20 Feb 2026 13:56:06 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 14:36:46 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/ministro-do-stf-autoriza-pf-retomar-investigacao-do-caso-master#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/ministro-do-stf-autoriza-pf-retomar-investigacao-do-caso-master#1008</guid>
       <description>© Marcello Casal jr/Agência Brasil
 O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu nesta quinta-feira (19), em Brasília, autori...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Iez1JX-lCwCWAruHzHAs9hrtVmA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_abr_numero_de_serie_de_4_digitos_090620_7.jpg?itok=av6AQ5Kg&quot; alt=&quot;Ministro do STF autoriza PF a retomar investigação do caso Master&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -337,7 +435,7 @@ O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu nesta qu
 &lt;p&gt;Viva Maria saúda as escolas de samba campeãs do Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/ministro-do-stf-autoriza-pf-retomar-investigacao-do-caso-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal jr/Agência Brasil
 O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu nesta quinta-feira (19), em Brasília, autori...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-02-19 21:15:00</wp:post_date>
       <wp:post_date_gmt>2026-02-19 21:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-19 21:15:00</wp:post_modified>
@@ -363,9 +461,9 @@ O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu nesta qu
     <item>
       <title>Alckmin anuncia regulamentação de salvaguardas em acordos comerciais</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/alckmin-anuncia-regulamentacao-de-salvaguardas-para-proteger-produtor-em-acordos-comerciais</link>
-      <pubDate>Fri, 20 Feb 2026 13:56:06 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 14:36:46 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/alckmin-anuncia-regulamentacao-de-salvaguardas-para-proteger-produtor-em-acordos-comerciais#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/alckmin-anuncia-regulamentacao-de-salvaguardas-para-proteger-produtor-em-acordos-comerciais#1009</guid>
       <description>O governo federal editará um decreto para regulamentar salvaguardas – instrumentos de proteção a produtores nacionais – em acordos comerciais firmado...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/BIoIyaeG4KFFxmUvQRScVI-iwuU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/06/pint0781.jpg.jpg?itok=JnyNwHnP&quot; alt=&quot;Alckmin anuncia regulamentação de salvaguardas em acordos comerciais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O governo federal editará um decreto para regulamentar salvaguardas – instrumentos de proteção a produtores nacionais – em acordos comerciais firmados pelo Brasil&lt;/p&gt;
@@ -384,7 +482,7 @@ O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu nesta qu
 &lt;p&gt;Com os novos tratados, a parcela da corrente de comércio brasileira coberta por preferências tarifárias passou de 12% para 31,2%, mais que dobrando o alcance dos acordos.&lt;/p&gt;
 &lt;p&gt;Em um cenário anterior, as salvaguardas podiam ser aplicadas com base em regras multilaterais gerais. Com a ampliação dos compromissos preferenciais,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/alckmin-anuncia-regulamentacao-de-salvaguardas-para-proteger-produtor-em-acordos-comerciais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O governo federal editará um decreto para regulamentar salvaguardas – instrumentos de proteção a produtores nacionais – em acordos comerciais firmado...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-02-19 20:47:00</wp:post_date>
       <wp:post_date_gmt>2026-02-19 20:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-19 20:47:00</wp:post_modified>
@@ -405,100 +503,6 @@ O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu nesta qu
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/BIoIyaeG4KFFxmUvQRScVI-iwuU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/06/pint0781.jpg.jpg?itok=JnyNwHnP</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mendonça decide que ida de Vorcaro ao Senado é facultativa</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/mendonca-decide-que-ida-de-vorcaro-ao-senado-e-facultativa</link>
-      <pubDate>Fri, 20 Feb 2026 13:56:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/mendonca-decide-que-ida-de-vorcaro-ao-senado-e-facultativa#1008</guid>
-      <description>O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu nesta quinta-feira (19) que o banqueiro Daniel Vorcaro, dono do Banco Master, n...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/a5XHjndHEcucWtayZb-5sL86q0U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/18/banco_master.jpg?itok=Ayv_9zR0&quot; alt=&quot;Mendonça decide que ida de Vorcaro ao Senado é facultativa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu nesta quinta-feira (19) que o banqueiro Daniel Vorcaro, dono do Banco Master, não é obrigado a comparecer aos depoimentos agendados para a próxima semana em duas comissões do Senado.&lt;/p&gt;
-&lt;p&gt;Os depoimentos estão previstos para ocorrer na Comissão Parlamentar Mista de Inquérito (&lt;/p&gt;
-&lt;p&gt;) do INSSe na Comissão de Assuntos Econômicos (CAE) na&lt;/p&gt;
-&lt;p&gt;(23) e terça-feira (24), respectivamente.&lt;/p&gt;
-&lt;p&gt;Para o ministro, a ida do banqueiro à audiência é facultativa.&lt;/p&gt;
-&lt;p&gt;Vorcaro está na condição de investigado no processo que apura as fraudes no Master. Mendonça é o relator do caso.&lt;/p&gt;
-&lt;p&gt;Na mesma decisão, o ministro negou pedido feito pela defesa de Vorcaro para que o banqueiro se desloque para Brasília, caso queira comparecer aos depoimentos, em um jatinho particular. Os advogados alegaram questões de segurança para solicitar o translado aéreo.&lt;/p&gt;
-&lt;p&gt;Em novembro de 2025, o banqueiro Daniel Vorcaro e outros acusados foram alvo da&lt;/p&gt;
-&lt;p&gt;, deflagrada pela Polícia Federal (PF) para investigar a concessão de créditos falsos pelo BancoMaster, incluindo a tentativa de compra da instituição financeira pelo BancoRegional de Brasília (BRB), bancopúblico ligado ao governo do Distrito Federal.&lt;/p&gt;
-&lt;p&gt;De acordo com as investigações preliminares, as fraudes podem chegar a R$ 17 bilhões.&lt;/p&gt;
-&lt;p&gt;Exposição aborda violência contra mulheres no Rio&lt;/p&gt;
-&lt;p&gt;Viva Maria saúda as escolas de samba campeãs do Rio&lt;/p&gt;
-&lt;p&gt;Cheias colocam três cidades do Amazonas em situação de emergência&lt;/p&gt;
-&lt;p&gt;Dezenove estados e DF têm em 2025 o menor desemprego já registrado&lt;/p&gt;
-&lt;p&gt;Polícia segue com buscas em mansão, após libertar ex-príncipe Andrew&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/mendonca-decide-que-ida-de-vorcaro-ao-senado-e-facultativa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu nesta quinta-feira (19) que o banqueiro Daniel Vorcaro, dono do Banco Master, n...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-02-19 20:38:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-19 20:38:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-19 20:38:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-19 20:38:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/a5XHjndHEcucWtayZb-5sL86q0U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/18/banco_master.jpg?itok=Ayv_9zR0</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>TSE retomará julgamento que pode cassar governador do Rio</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/tse-retomara-julgamento-que-pode-cassar-governador-do-rio</link>
-      <pubDate>Fri, 20 Feb 2026 13:56:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/tse-retomara-julgamento-que-pode-cassar-governador-do-rio#1009</guid>
-      <description>O Tribunal Superior Eleitoral (TSE) marcou para o dia 10 de março a retomada do julgamento do processo que pede a cassação do mandato do governador d...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0m-gPW0gE6uAAzWjmxV89DmNZhw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/53239368575_f85e7a7146_o.jpg?itok=SB4F_h6-&quot; alt=&quot;TSE retomará julgamento que pode cassar governador do Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Tribunal Superior Eleitoral (TSE) marcou para o dia 10 de março a retomada do julgamento do processo que pede a cassação do mandato do governador do Rio de Janeiro, Claúdio Castro (foto), por abuso de poder político e econômico na campanha à reeleição, em 2022.&lt;/p&gt;
-&lt;p&gt;Em novembro do ano passado, a ministra Maria Isabel Galotti, relatora do caso, votou pela cassação do governador, mas a análise do caso foi suspensa por um pedido de vista do ministroAntônio Carlos Ferreira, que será o próximo a votar.&lt;/p&gt;
-&lt;p&gt;O Ministério Público Eleitoral (MPE) e a coligação do ex-deputado Marcelo Freixo (PSOL-RJ) pretendem reverter a decisão do Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ) que, em maio de 2024, absolveu Castroe outros acusados no processo que trata de supostas contratações irregulares na Fundação Centro Estadual de Estatísticas, Pesquisas e Formação de Servidores Públicos do Rio de Janeiro (Ceperj) e na Universidade do Estado do Rio de Janeiro (Uerj)&lt;/p&gt;
-&lt;p&gt;O MPE afirmou que Castroobteve vantagem eleitoral na contratação de servidores temporários, sem amparo legal, e na descentralização de projetos sociais para enviar recursos para entidades desvinculadas da administração pública do Rio&lt;/p&gt;
-&lt;p&gt;Segundo a acusação, a descentralização de recursos ocorreu para fomentar a contratação de 27.665 pessoas, totalizando gastos de R$ 248 milhões.&lt;/p&gt;
-&lt;p&gt;Antes da suspensão do julgamento, o advogado Fernando Neves, representante de Castro, disse que o governador apenas sancionou uma lei da Assembleia Legislativa e um decreto para regulamentar a atuação da Ceperj e não pode ser responsabilizado por eventuais irregularidades.&lt;/p&gt;
-&lt;p&gt;Exposição aborda violência contra mulheres no Rio&lt;/p&gt;
-&lt;p&gt;Viva Maria saúda as escolas de samba campeãs do Rio&lt;/p&gt;
-&lt;p&gt;Cheias colocam três cidades do Amazonas em situação de emergência&lt;/p&gt;
-&lt;p&gt;Dezenove estados e DF têm em 2025 o menor desemprego já registrado&lt;/p&gt;
-&lt;p&gt;Polícia segue com buscas em mansão, após libertar ex-príncipe Andrew&lt;/p&gt;
-&lt;p&gt;ONU alerta para milhares de pessoas forçadas a cometer crimes digitais&lt;/p&gt;
-&lt;p&gt;Legislativo venezuelano aprova lei de anistia limitada&lt;/p&gt;
-&lt;p&gt;Fósseis de nova espécie de dinossauro gigante são encontrados no Níger&lt;/p&gt;
-&lt;p&gt;TV Brasil exibe futebol feminino entre Flamengo e Red Bull Bragantino&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/tse-retomara-julgamento-que-pode-cassar-governador-do-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Tribunal Superior Eleitoral (TSE) marcou para o dia 10 de março a retomada do julgamento do processo que pede a cassação do mandato do governador d...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-02-19 20:36:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-19 20:36:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-19 20:36:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-19 20:36:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/0m-gPW0gE6uAAzWjmxV89DmNZhw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/53239368575_f85e7a7146_o.jpg?itok=SB4F_h6-</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
