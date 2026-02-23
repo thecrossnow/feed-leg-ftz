@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 23 Feb 2026 20:37:50 +0000</pubDate>
+    <pubDate>Mon, 23 Feb 2026 21:37:15 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,246 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Justiça libera R$ 1,4 bilhão do INSS; veja quem recebe</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/justica-libera-r-14-bilhao-do-inss-veja-quem-recebe</link>
+      <pubDate>Mon, 23 Feb 2026 21:37:15 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/justica-libera-r-14-bilhao-do-inss-veja-quem-recebe#1000</guid>
+      <description>O Conselho da Justiça Federal (CJF) liberou R$ 1,4 bilhão para o pagamento de atrasados do Instituto Nacional do Seguro Social (INSS) a aposentados, ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/EI1B7gn55TsqSt3U6CcJAWI1p44=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220043_1.jpg?itok=Bo8u8GgD&quot; alt=&quot;Justiça libera R$ 1,4 bilhão do INSS; veja quem recebe&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Conselho da Justiça Federal (CJF) liberou R$ 1,4 bilhão para o pagamento de atrasados do Instituto Nacional do Seguro Social (INSS) a aposentados, pensionistas e outros beneficiários que venceram ações judiciais contra o órgão.&lt;/p&gt;
+&lt;p&gt;Os valores correspondem a Requisições de Pequeno Valor (RPVs) — dívidas de até 60 salários mínimos (R$ 97.260, em 2026).&lt;/p&gt;
+&lt;p&gt;Ao todo, 87 mil segurados serão contemplados em 65,3 mil processos com decisões definitivas, sem possibilidade de recurso.&lt;/p&gt;
+&lt;p&gt;O dinheiro deve ser depositado até o início de março, conforme o cronograma de cada Tribunal Regional Federal (TRF).&lt;/p&gt;
+&lt;p&gt;Recebem neste lote os segurados que:&lt;/p&gt;
+&lt;p&gt;ganharam ação judicial contra o INSS;&lt;/p&gt;
+&lt;p&gt;com valores de até 60 salários mínimos a receber (RPV);&lt;/p&gt;
+&lt;p&gt;com ordem de pagamento emitida pelo juiz em janeiro de 2026;&lt;/p&gt;
+&lt;p&gt;com processo totalmente encerrado (transitado em julgado); e&lt;/p&gt;
+&lt;p&gt;herdeiros de beneficiários falecidos, desde que comprovem vínculo legal.&lt;/p&gt;
+&lt;p&gt;As ações envolvem concessão ou revisão de:&lt;/p&gt;
+&lt;p&gt;aposentadorias (idade, tempo de contribuição, invalidez e da pessoa com deficiência);&lt;/p&gt;
+&lt;p&gt;auxílios, como auxílio-doença; e&lt;/p&gt;
+&lt;p&gt;benefício de Prestação Continuada (BPC).&lt;/p&gt;
+&lt;p&gt;Os atrasados são valores retroativos pagos após decisão judicial favorável ao segurado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/justica-libera-r-14-bilhao-do-inss-veja-quem-recebe&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Conselho da Justiça Federal (CJF) liberou R$ 1,4 bilhão para o pagamento de atrasados do Instituto Nacional do Seguro Social (INSS) a aposentados, ...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-02-23 17:46:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-23 17:46:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-23 17:46:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-23 17:46:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/EI1B7gn55TsqSt3U6CcJAWI1p44=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220043_1.jpg?itok=Bo8u8GgD</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Viana recorre ao STF para obrigar depoimento de Vorcaro na CPMI</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/viana-recorre-ao-stf-para-obrigar-depoimento-de-vorcaro-na-cpmi</link>
+      <pubDate>Mon, 23 Feb 2026 21:37:15 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/viana-recorre-ao-stf-para-obrigar-depoimento-de-vorcaro-na-cpmi#1001</guid>
+      <description>O presidente da Comissão Parlamentar Mista de Inquérito (CPMI) do INSS, senador Carlos Viana (Podemos-MG), anunciou nesta segunda-feira (23) que vai ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/eL3_ZZ70FvUX09p7fHC-r-TKwfk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/26/0d9a9811_0.jpg?itok=PNyARBoE&quot; alt=&quot;Viana recorre ao STF para obrigar depoimento de Vorcaro na CPMI&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O presidente da Comissão Parlamentar Mista de Inquérito (CPMI) do INSS, senador Carlos Viana (Podemos-MG), anunciou nesta segunda-feira (23) que vai recorrer da decisão do ministro do Supremo Tribunal Federal (STF), André Mendonça, que desobrigou o banqueiro Daniel Vorcaro de depor ao colegiado..&lt;/p&gt;
+&lt;p&gt;O depoimento do ex-dono do Banco Master estava marcado para&lt;/p&gt;
+&lt;p&gt;, mas um habeas corpus concedido pelo ministro determinou que Varcaro&lt;/p&gt;
+&lt;p&gt;não seriaobrigado a comparecer à CPMI&lt;/p&gt;
+&lt;p&gt;&quot;Estamos com a advocacia do Senado recorrendo dessa decisão, estamos impetrando no Supremo Tribunal Federal uma solicitação para que o ministro André Mendonça reveja essa posição e que o Vorcaro seja obrigado a comparecer a essa comissão&quot;, disse Viana pouco antes do início da reunião da CPMI..&lt;/p&gt;
+&lt;p&gt;O Banco Master mantinha acordo de cooperação técnica com o Instituto Nacional do Seguro Social (INSS) para oferta de crédito consignado. A CPMI investiga possíveis descontos indevidos, falhas de controle e eventual participação de dirigentes ou parceiros nas irregularidades.&lt;/p&gt;
+&lt;p&gt;Vorcaro, que cumpre prisão domiciliar, deveria explicar suspeitas de prejuízos a aposentados e pensionistas.&lt;/p&gt;
+&lt;p&gt;“Se nós conseguirmos reverter a decisão no STF, ele será obrigado a comparecer e, se não o fizer, eu determinarei a sua condução coercitiva. Não é porque ele é banqueiro que ele vai receber benefícios”, afirmou o senador.&lt;/p&gt;
+&lt;p&gt;Viana criticou o entendimento do STF de impedir depoimentos em comissões parlamentares. Ministros como André Mendonça defendem que investigados pela Polícia Federal têm o direito de não comparecer ou de silenciar, para não produzirem provas contra si mesmos.&lt;/p&gt;
+&lt;p&gt;“Mais uma vez temos um entendimento completamente diferente entre a CPMI e o STF. Vorcaro, no inquérito da Polícia Federal, é tratado como investigado e, no nosso caso, ele é tratado como testemunha, porque ainda não está pronto o relatório da CPMI para pedir o indiciamento [de qualquer pessoa]. A decisão do STF, mais uma vez, interfere, prejudica e atrasa as nossas investigações”, criticou.&lt;/p&gt;
+&lt;p&gt;No lugar de Vorcaro, o colegiado escalou para depor Ingrid Pikinskeni Morais Santos, ligada à Confederação Nacional dos Agricultores Familiares e Empreendedores Familiares Rurais (Conafer), entidade apontada como beneficiária de mais de R$ 100 milhões emdescontos ilegais debenefícios previdenciários.&lt;/p&gt;
+&lt;p&gt;Ingrid é esposa e sócia de Cícero Marcelino de Souza Santos, apontado como operador e assessor do presidente da Conafer, Carlos Roberto Ferreira Lopes, investigado pela CPMI.&lt;/p&gt;
+&lt;p&gt;Unicef orienta pais sobre uso da internet por crianças e adolescentes&lt;/p&gt;
+&lt;p&gt;&quot;Depois do silêncio&quot; mostra encontro real de menina surdocega com professora&lt;/p&gt;
+&lt;p&gt;Futebol: decisões dos Estaduais têm clássicos pelo Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/viana-recorre-ao-stf-para-obrigar-depoimento-de-vorcaro-na-cpmi&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O presidente da Comissão Parlamentar Mista de Inquérito (CPMI) do INSS, senador Carlos Viana (Podemos-MG), anunciou nesta segunda-feira (23) que vai ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-02-23 17:43:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-23 17:43:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-23 17:43:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-23 17:43:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/eL3_ZZ70FvUX09p7fHC-r-TKwfk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/26/0d9a9811_0.jpg?itok=PNyARBoE</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Fachin arquiva ação que pedia suspeição de Toffoli no caso Master</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/fachin-arquiva-acao-que-pedia-suspeicao-de-toffoli-no-caso-master</link>
+      <pubDate>Mon, 23 Feb 2026 21:37:15 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/fachin-arquiva-acao-que-pedia-suspeicao-de-toffoli-no-caso-master#1002</guid>
+      <description>O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, determinou o arquivamento da ação de suspeição do ministro Dias Toffoli como r...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/y4Iz0kAYMCsY1g4sR31Bk9M6JEo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/05/_mg_9494.jpg?itok=IwCtc4jI&quot; alt=&quot;Fachin arquiva ação que pedia suspeição de Toffoli no caso Master&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, determinou o arquivamento da ação de suspeição do ministro Dias Toffoli como relator do inquérito que trata das investigações sobre&lt;/p&gt;
+&lt;p&gt;.A decisão foi tomada no último sábado (21).&lt;/p&gt;
+&lt;p&gt;Toffoli já havia deixado a relatoria do caso&lt;/p&gt;
+&lt;p&gt;. Após esse encontro, ministros do STFmanifestaram, em nota oficial,que não era o caso de reconhecer a suspeição do ministro.&lt;/p&gt;
+&lt;p&gt;A reunião foi convocada por Fachin&lt;/p&gt;
+&lt;p&gt;após a Polícia Federal (PF) ter entregadoao presidente da Corte um relatório que mostrou menções aToffoli em uma mensagem no celular do dono do Banco Master, Daniel Vorcaro, que teve o telefone apreendido.&lt;/p&gt;
+&lt;p&gt;Após Toffoli deixar a relatoria,&lt;/p&gt;
+&lt;p&gt;o ministro André Mendonça foi escolhido relator do inquérito sobre o Banco Master&lt;/p&gt;
+&lt;p&gt;Enquanto era relator do caso, oministro Dias Toffoli foi alvo decríticaspor ter permanecido nessa posiçãoapós matérias jornalísticas informarem que a Polícia Federal havia encontrado irregularidades em um fundo de investimento ligado ao Banco Master quecomprou uma participação no resort Tayayá. Localizado no Paraná, o resort era de propriedade de familiares do ministro.&lt;/p&gt;
+&lt;p&gt;Toffoli confirmou que eraum dos sócios da empresa que vendeu a participação noresort&lt;/p&gt;
+&lt;p&gt;, mas disse que não recebeu qualquer valor de Daniel Vorcaro nem tem qualquer relação de amizade com o banqueiro.&lt;/p&gt;
+&lt;p&gt;Unicef orienta pais sobre uso da internet por crianças e adolescentes&lt;/p&gt;
+&lt;p&gt;&quot;Depois do silêncio&quot; mostra encontro real de menina surdocega com professora&lt;/p&gt;
+&lt;p&gt;Futebol: decisões dos Estaduais têm clássicos pelo Brasil&lt;/p&gt;
+&lt;p&gt;Golpe: STF tem maioria para manter penas de condenados do Núcleo 3&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/fachin-arquiva-acao-que-pedia-suspeicao-de-toffoli-no-caso-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, determinou o arquivamento da ação de suspeição do ministro Dias Toffoli como r...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-02-23 17:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-23 17:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-23 17:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-23 17:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/y4Iz0kAYMCsY1g4sR31Bk9M6JEo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/05/_mg_9494.jpg?itok=IwCtc4jI</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Arena Pantanal será uma das sedes da 1ª edição feminina do Fifa Series</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/arena-pantanal-sera-uma-das-sedes-da-1a-edicao-feminina-do-fifa-series</link>
+      <pubDate>Mon, 23 Feb 2026 21:37:15 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/arena-pantanal-sera-uma-das-sedes-da-1a-edicao-feminina-do-fifa-series#1003</guid>
+      <description>A Arena Pantanal, em Cuiabá, será a sede do grupo do Brasil na primeira edição feminina da Fifa Series. O anúncio foi feito nesta segunda-feira (23) ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xTwzTD17iPWm_emsMTcjCul42Y4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/23/arena_pantanal_cuiaba.jpg?itok=e24wEbvo&quot; alt=&quot;Arena Pantanal será uma das sedes da 1ª edição feminina do Fifa Series&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Arena Pantanal, em Cuiabá, será a sede do grupo do Brasil na primeira edição feminina da Fifa Series. O anúncio foi feito nesta segunda-feira (23) pela entidade que regula o futebol no mundo. Na chave da seleção brasileira estão também Canadá, Coreia do Sul e Zâmbia. Os jogos serão nos dias 11, 14 e 18 de abril (programação ao final do texto). Outros oito países, divididos em dois grupos, disputarão o torneio na Tailândia e Costa do Marfim. O Fifa Series será o primeiro grande evento da modalidade, antes da Copa do Mundo de 2027no Brasil.&lt;/p&gt;
+&lt;p&gt;Inaugurada em 2014 para a Copa do Mundo masculina no Brasil, a Arena Pantanal tem capacidade para aproximadamente 44 mil espectadores. Para a coordenadora de seleções feminina da CBF, Cris Gambaré, a escolha de uma cidade no Centro-Oeste do país é um sinal claro de descentralização e democratização da modalidade.&lt;/p&gt;
+&lt;p&gt;“O futebol feminino brasileiro vive um momento estratégico de consolidação e expansão, e expandir significa sair do eixo tradicional, ocupar novos espaços e criar novas referências. Quando a cidade abraça o projeto, a transformação vai além dos 90 minutos. Fica o legado para os clubes locais, para as categorias de base, para as escolas e, principalmente, para as próximas gerações&quot;, ressaltou Gambaré.&lt;/p&gt;
+&lt;p&gt;O Fifa Series ocorrerá concomitantemente na Tailândia(além do país-sede, estão República Democrática do Congo,Nepal e seleção da Oceania) e na Costa do Marfim (país-sede,Mauritânia,Paquistão,Ilhas Turks e Caicos). A edição masculina do torneio reunirá 36 seleções, distribuídas em nove grupos. A seleção masculina brasileira não competirá.&lt;/p&gt;
+&lt;p&gt;The FIFA Series 2026 match schedule is here! 🙌&lt;/p&gt;
+&lt;p&gt;This year’s edition will feature 48 national teams representing almost a quarter of FIFA’s 211 Member Associations 👏&lt;/p&gt;
+&lt;p&gt;Prata olímpica em Paris 2024 e campeã da Copa América, a seleção brasileira segue em preparação para o primeiro Mundial feminino no Brasil, no ano que vem. Antes do Fifa Séries, a Amarelinha entra em campo fora de casa em três amistosos: contra Costa Rica (27 de fevereiro, às 22h), Venezuela (4 de março, às 18h) e México (7 de março, às 20h). A seleção também já tem amistoso programado contra os Estados Unidos no período da Data Fifa de 1º a 9 de junho – o local ainda não foi definido.&lt;/p&gt;
+&lt;p&gt;Jogos do Fifa Series na Arena Pantanal&lt;/p&gt;
+&lt;p&gt;Unicef orienta pais sobre uso da internet por crianças e adolescentes&lt;/p&gt;
+&lt;p&gt;&quot;Depois do silêncio&quot; mostra encontro real de menina surdocega com professora&lt;/p&gt;
+&lt;p&gt;Futebol: decisões dos Estaduais têm clássicos pelo Brasil&lt;/p&gt;
+&lt;p&gt;Golpe: STF tem maioria para manter penas de condenados do Núcleo 3&lt;/p&gt;
+&lt;p&gt;Carnaval teve menos furtos e roubos de celulares, diz governo do Rio&lt;/p&gt;
+&lt;p&gt;Inmet emite alerta de chuvas intensas para 14 unidades da federação&lt;/p&gt;
+&lt;p&gt;CPMI do INSS vai pedir prorrogação dos trabalhos por 60 dias&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/arena-pantanal-sera-uma-das-sedes-da-1a-edicao-feminina-do-fifa-series&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Arena Pantanal, em Cuiabá, será a sede do grupo do Brasil na primeira edição feminina da Fifa Series. O anúncio foi feito nesta segunda-feira (23) ...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-02-23 16:58:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-23 16:58:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-23 16:58:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-23 16:58:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/xTwzTD17iPWm_emsMTcjCul42Y4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/23/arena_pantanal_cuiaba.jpg?itok=e24wEbvo</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Brasil e Coreia do Sul firmam parcerias estratégicas em medicamentos</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/brasil-e-coreia-do-sul-firmam-parcerias-estrategicas-em-medicamentos</link>
+      <pubDate>Mon, 23 Feb 2026 21:37:15 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/brasil-e-coreia-do-sul-firmam-parcerias-estrategicas-em-medicamentos#1004</guid>
+      <description>O governo brasileiro assinou com a Coreia do Sul três Parcerias para o Desenvolvimento Produtivo (PDP) destinadas à produção nacional dos medicamento...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/V1FKAxCbWgRl424cgj9cC_jafIk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/23/55111421257_3cb2f64341_o.jpg?itok=Q8Y3jz61&quot; alt=&quot;Brasil e Coreia do Sul firmam parcerias estratégicas em medicamentos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O governo brasileiro assinou com a Coreia do Sul três Parcerias para o Desenvolvimento Produtivo (PDP) destinadas à produção nacional dos medicamentos bevacizumabe, eculizumabe e aflibercepte, prevendo a transferência de tecnologia e internalização da fabricação no Brasil.&lt;/p&gt;
+&lt;p&gt;O investimento do Ministério da Saúde está estimado em até R$ 1,104 bilhão no primeiro ano.&lt;/p&gt;
+&lt;p&gt;“A medida amplia a capacidade produtiva nacional de produtos e insumos essenciais à saúde pública, fortalece a soberania produtiva do país, reduz vulnerabilidades do SUS [Sistema Único de Saúde] diante de oscilações do mercado internacional e diminui o risco de desabastecimento. Além disso, estimula o desenvolvimento tecnológico, a geração de empregos e renda no Brasil e amplia o acesso da população a terapias de alto custo”, disse o Ministério da Saúde.&lt;/p&gt;
+&lt;p&gt;A assinatura formaliza o início da produção nacional do aflibercepte, medicamento essencial para o tratamento da degeneração macular relacionada à idade.&lt;/p&gt;
+&lt;p&gt;O ministério contará com a Fundação Ezequiel Dias (Funed), como parceira pública, e com a Bionovis S.A. e a empresa sul-coreana Samsung Bioepis Co., Ltda. como parceiras privadas.&lt;/p&gt;
+&lt;p&gt;No caso do bevacizumabe, utilizado no tratamento de diversos tipos de câncer e em indicações oftalmológicas, a PDP reúne a Fundação Baiana de Pesquisa, Desenvolvimento, Fornecimento e Distribuição de Medicamentos (Bahiafarma), a Bionovis S.A. e a Samsung Bioepis Co., Ltda.&lt;/p&gt;
+&lt;p&gt;O eculizumabe, medicamento indicado para o tratamento da Hemoglobinúria Paroxística Noturna (HPN), doença rara que afeta o sistema sanguíneo, a produção será com a parceria da Bahiafarma, a Bionovis S.A. e a Samsung Bioepis Co., Ltda.&lt;/p&gt;
+&lt;p&gt;“As parcerias firmadas têm um significado muito relevante. Representam a transferência de tecnologia, a produção local no Brasil, o fortalecimento da base industrial nacional e a redução de vulnerabilidades do sistema de saúde. Representam também previsibilidade para o setor privado e compromisso de longo prazo do Estado brasileiro”, disse o ministro da Saúde, Alexandre Padilha, que participou com o presidente da República, Luiz Inácio Lula da Silva, da missão oficial à Coreia do Sul.&lt;/p&gt;
+&lt;p&gt;Entre os principais instrumentos negociados na missão está o Memorando de Entendimento em Saúde (MoU) firmado entre o Ministério da Saúde do Brasil e o Ministério da Saúde e Bem-Estar da Coreia do Sul, que estabelece bases para cooperação em áreas estratégicas como inovação biomédica e farmacêutica, saúde digital e ecossistemas de dados, excelência clínica, terapias avançadas e fortalecimento da resiliência dos sistemas de saúde e da força de trabalho.&lt;/p&gt;
+&lt;p&gt;“Foram firmados seis novos acordos para produção conjunta de tecnologias em saúde, envolvendo testes diagnósticos, medicamentos biológicos, tratamentos para determinados tipos de câncer e tecnologias voltadas a doenças oftalmológicas. As iniciativas representam avanço tecnológico relevante, fortalecem a capacidade produtiva e inovadora dos dois países e abrem caminho para novas etapas de cooperação”, informou o Ministério da Saúde.&lt;/p&gt;
+&lt;p&gt;Unicef orienta pais sobre uso da internet por crianças e adolescentes&lt;/p&gt;
+&lt;p&gt;&quot;Depois do silêncio&quot; mostra encontro real de menina surdocega com professora&lt;/p&gt;
+&lt;p&gt;Futebol: decisões dos Estaduais têm clássicos pelo Brasil&lt;/p&gt;
+&lt;p&gt;Golpe: STF tem maioria para manter penas de condenados do Núcleo 3&lt;/p&gt;
+&lt;p&gt;Inmet emite alerta de chuvas intensas para 14 unidades da federação&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/brasil-e-coreia-do-sul-firmam-parcerias-estrategicas-em-medicamentos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O governo brasileiro assinou com a Coreia do Sul três Parcerias para o Desenvolvimento Produtivo (PDP) destinadas à produção nacional dos medicamento...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-02-23 16:52:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-23 16:52:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-23 16:52:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-23 16:52:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/V1FKAxCbWgRl424cgj9cC_jafIk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/23/55111421257_3cb2f64341_o.jpg?itok=Q8Y3jz61</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Justiça inicia audiências sobre rompimento de barragem em Brumadinho</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/justica-inicia-audiencias-sobre-rompimento-de-barragem-em-brumadinho</link>
-      <pubDate>Mon, 23 Feb 2026 20:37:50 +0000</pubDate>
+      <pubDate>Mon, 23 Feb 2026 21:37:15 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/justica-inicia-audiencias-sobre-rompimento-de-barragem-em-brumadinho#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/justica-inicia-audiencias-sobre-rompimento-de-barragem-em-brumadinho#1005</guid>
       <description>© Arquivo/REUTERS/Washington Alves/Direitos Reservados
 A Justiça Federal de Minas Gerais iniciou nesta segunda-feira (23) as audiências de instrução ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xejp8z7ZFs7f3VAGj_6OwKZKUtE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2019-01-25t215358z_8325862_rc1f8f826340_rtrmadp_3_brazil-vale-sa-disaster.jpg?itok=jbiVHDS0&quot; alt=&quot;Justiça inicia audiências sobre rompimento de barragem em Brumadinho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +282,7 @@ A Justiça Federal de Minas Gerais iniciou nesta segunda-feira (23) as audiênci
 &lt;p&gt;A empresa afirmou, à época, que a barragem estava inativa e em fase de descaracterização.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/justica-inicia-audiencias-sobre-rompimento-de-barragem-em-brumadinho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Arquivo/REUTERS/Washington Alves/Direitos Reservados
 A Justiça Federal de Minas Gerais iniciou nesta segunda-feira (23) as audiências de instrução ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-02-23 16:04:00</wp:post_date>
       <wp:post_date_gmt>2026-02-23 16:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-23 16:04:00</wp:post_modified>
@@ -73,9 +308,9 @@ A Justiça Federal de Minas Gerais iniciou nesta segunda-feira (23) as audiênci
     <item>
       <title>Zanin autoriza empresária a ficar em silêncio na CPMI do INSS</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/zanin-autoriza-empresaria-ficar-em-silencio-na-cpmi-do-inss</link>
-      <pubDate>Mon, 23 Feb 2026 20:37:50 +0000</pubDate>
+      <pubDate>Mon, 23 Feb 2026 21:37:15 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/zanin-autoriza-empresaria-ficar-em-silencio-na-cpmi-do-inss#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/zanin-autoriza-empresaria-ficar-em-silencio-na-cpmi-do-inss#1006</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), decidiu que a empresária Ingrid Pikinskeni ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jSrXud-4SUW1TKF5kBPRK6626OA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/124a4619.jpg?itok=Bd5Ak_F9&quot; alt=&quot;Zanin autoriza empresária a ficar em silêncio na CPMI do INSS&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -89,14 +324,11 @@ O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), decidiu que a emp
 &lt;p&gt;A comissão investiga o suposto envolvimento do Master com empréstimos consignados e descontos irregulares em aposentadorias.&lt;/p&gt;
 &lt;p&gt;Em novembro de 2025, o banqueiro Daniel Vorcaro e outros acusados foram alvo da Operação Compliance Zero, deflagrada pela Polícia Federal (PF) para investigar a concessão de créditos falsos pelo Banco Master, incluindo a tentativa de compra da instituição financeira pelo Banco Regional de Brasília (BRB), banco público ligado ao governo do Distrito Federal.&lt;/p&gt;
 &lt;p&gt;Unicef orienta pais sobre uso da internet por crianças e adolescentes&lt;/p&gt;
-&lt;p&gt;CVV abre inscrições para o programa de voluntariado em diversas cidades&lt;/p&gt;
-&lt;p&gt;Futebol: decisões dos Estaduais têm clássicos pelo Brasil&lt;/p&gt;
-&lt;p&gt;Fachin arquiva ação que pedia suspeição de Toffoli no caso Master&lt;/p&gt;
-&lt;p&gt;Arena Pantanal será uma das sedes da 1ª edição feminina do Fifa Series&lt;/p&gt;
-&lt;p&gt;Brasil e Coreia do Sul firmam parcerias estratégicas em medicamentos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/zanin-autoriza-empresaria-ficar-em-silencio-na-cpmi-do-inss&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;&quot;Depois do silêncio&quot; mostra encontro real de menina surdocega com professora&lt;/p&gt;
+&lt;p&gt;Futebol: decisões dos Estaduais têm clássicos pelo Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/zanin-autoriza-empresaria-ficar-em-silencio-na-cpmi-do-inss&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), decidiu que a empresária Ingrid Pikinskeni ...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-02-23 15:51:00</wp:post_date>
       <wp:post_date_gmt>2026-02-23 15:51:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-23 15:51:00</wp:post_modified>
@@ -122,9 +354,9 @@ O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), decidiu que a emp
     <item>
       <title>Ex-embaixador britânico é preso após revelações relacionadas a Epstein</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/ex-embaixador-britanico-e-preso-apos-revelacoes-relacionadas-epstein</link>
-      <pubDate>Mon, 23 Feb 2026 20:37:50 +0000</pubDate>
+      <pubDate>Mon, 23 Feb 2026 21:37:15 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/ex-embaixador-britanico-e-preso-apos-revelacoes-relacionadas-epstein#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/ex-embaixador-britanico-e-preso-apos-revelacoes-relacionadas-epstein#1007</guid>
       <description>© REUTERS/Chris Ratcliffe - Proibido reprodução
 O ex-embaixador britânico nos EUA Peter Mandelson foi preso pela polícia de Londres sob suspeita de m...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/OwzUHtilFYRtiX43UaXsF_kqwPE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/23/2026-02-23t172430z_321332077_rc2qljaoux3m_rtrmadp_3_usa-epstein-britain-mandelson.jpg?itok=Z6qYFpyE&quot; alt=&quot;Ex-embaixador britânico é preso após revelações relacionadas a Epstein&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -139,13 +371,13 @@ O ex-embaixador britânico nos EUA Peter Mandelson foi preso pela polícia de Lo
 &lt;p&gt;também foi preso sob suspeita de má conduta&lt;/p&gt;
 &lt;p&gt;no exercício de cargo público, devido a alegações de que ele teria enviado documentos confidenciais do governo a Epstein. Ele sempre negou qualquer irregularidade em relação a Epstein.&lt;/p&gt;
 &lt;p&gt;Unicef orienta pais sobre uso da internet por crianças e adolescentes&lt;/p&gt;
-&lt;p&gt;CVV abre inscrições para o programa de voluntariado em diversas cidades&lt;/p&gt;
+&lt;p&gt;&quot;Depois do silêncio&quot; mostra encontro real de menina surdocega com professora&lt;/p&gt;
 &lt;p&gt;Futebol: decisões dos Estaduais têm clássicos pelo Brasil&lt;/p&gt;
-&lt;p&gt;Fachin arquiva ação que pedia suspeição de Toffoli no caso Master&lt;/p&gt;
-&lt;p&gt;Arena Pantanal será uma das sedes da 1ª edição feminina do Fifa Series&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/ex-embaixador-britanico-e-preso-apos-revelacoes-relacionadas-epstein&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Justiça libera R$ 1,4 bilhão do INSS; veja quem recebe&lt;/p&gt;
+&lt;p&gt;Viana recorre ao STF para obrigar depoimento de Vorcaro na CPMI&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/ex-embaixador-britanico-e-preso-apos-revelacoes-relacionadas-epstein&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Chris Ratcliffe - Proibido reprodução
 O ex-embaixador britânico nos EUA Peter Mandelson foi preso pela polícia de Londres sob suspeita de m...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-02-23 15:40:00</wp:post_date>
       <wp:post_date_gmt>2026-02-23 15:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-23 15:40:00</wp:post_modified>
@@ -171,9 +403,9 @@ O ex-embaixador britânico nos EUA Peter Mandelson foi preso pela polícia de Lo
     <item>
       <title>Fies 2026: prazo para aluno complementar inscrição termina nesta terça</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/fies-2026-prazo-para-aluno-complementar-inscricao-termina-nesta-terca</link>
-      <pubDate>Mon, 23 Feb 2026 20:37:50 +0000</pubDate>
+      <pubDate>Mon, 23 Feb 2026 21:37:15 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/fies-2026-prazo-para-aluno-complementar-inscricao-termina-nesta-terca#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/fies-2026-prazo-para-aluno-complementar-inscricao-termina-nesta-terca#1008</guid>
       <description>© Valter Campanato/Agência Brasil
 Os estudantes pré-selecionados na chamada única do Fundo de Financiamento Estudantil (Fies) 2026 devem complementar...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/BoCFyrxw5csoEuADtktDBlo5e2s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/05/0d7a9047.jpg?itok=UAyXyxKS&quot; alt=&quot;Fies 2026: prazo para aluno complementar inscrição termina nesta terça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -194,7 +426,7 @@ Os estudantes pré-selecionados na chamada única do Fundo de Financiamento Estu
 &lt;p&gt;Em todo o ano de 2026, o número de vagas do Fies ofertadas será de 112.168.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-02/fies-2026-prazo-para-aluno-complementar-inscricao-termina-nesta-terca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 Os estudantes pré-selecionados na chamada única do Fundo de Financiamento Estudantil (Fies) 2026 devem complementar...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-02-23 15:00:00</wp:post_date>
       <wp:post_date_gmt>2026-02-23 15:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-23 15:00:00</wp:post_modified>
@@ -220,9 +452,9 @@ Os estudantes pré-selecionados na chamada única do Fundo de Financiamento Estu
     <item>
       <title>Soldado da PM depõe por ter matado cachorro comunitário em São Paulo</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/soldado-da-pm-depoe-por-ter-matado-cachorro-comunitario-em-sao-paulo</link>
-      <pubDate>Mon, 23 Feb 2026 20:37:50 +0000</pubDate>
+      <pubDate>Mon, 23 Feb 2026 21:37:15 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/soldado-da-pm-depoe-por-ter-matado-cachorro-comunitario-em-sao-paulo#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/soldado-da-pm-depoe-por-ter-matado-cachorro-comunitario-em-sao-paulo#1009</guid>
       <description>Um soldado da Polícia Militar (PM) identificado pela Polícia Civil como suspeito de ter matado com sete tiros um cachorro comunitário na Zona Leste d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/oCfONsjKBn6mgPLoTYVZ4SM-F5w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/30/captura_de_tela_2026-01-30_095356_copy.jpg?itok=RHiN3zFp&quot; alt=&quot;Soldado da PM depõe por ter matado cachorro comunitário em São Paulo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Um soldado da Polícia Militar (PM) identificado pela Polícia Civil como suspeito de ter matado com sete tiros um cachorro comunitário na Zona Leste de São Paulo, no dia 18 de janeiro deste ano, prestou depoimento ao DPPC (Departamento de Polícia de Proteção à Cidadania) nesta segunda-feira (23), acompanhado da Corregedoria da PM, segundo informações da Secretaria Estadual de Segurança Pública de São Paulo (SSP-SP). Ele não foi preso e responderá em liberdade por maus tratos contra animais.&lt;/p&gt;
@@ -235,13 +467,13 @@ Os estudantes pré-selecionados na chamada única do Fundo de Financiamento Estu
 &lt;p&gt;Ele morreu um dia depois das agressões. Na cidade de Toledo, no Paraná,&lt;/p&gt;
 &lt;p&gt;foi morto após o disparo de uma arma de fogo. A polícia investiga os dois casos.&lt;/p&gt;
 &lt;p&gt;Unicef orienta pais sobre uso da internet por crianças e adolescentes&lt;/p&gt;
-&lt;p&gt;CVV abre inscrições para o programa de voluntariado em diversas cidades&lt;/p&gt;
+&lt;p&gt;&quot;Depois do silêncio&quot; mostra encontro real de menina surdocega com professora&lt;/p&gt;
 &lt;p&gt;Futebol: decisões dos Estaduais têm clássicos pelo Brasil&lt;/p&gt;
-&lt;p&gt;Fachin arquiva ação que pedia suspeição de Toffoli no caso Master&lt;/p&gt;
-&lt;p&gt;Arena Pantanal será uma das sedes da 1ª edição feminina do Fifa Series&lt;/p&gt;
-&lt;p&gt;Brasil e Coreia do Sul firmam parcerias estratégicas em medicamentos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/soldado-da-pm-depoe-por-ter-matado-cachorro-comunitario-em-sao-paulo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Golpe: STF tem maioria para manter penas de condenados do Núcleo 3&lt;/p&gt;
+&lt;p&gt;Inmet emite alerta de chuvas intensas para 14 unidades da federação&lt;/p&gt;
+&lt;p&gt;Carnaval teve menos furtos e roubos de celulares, diz governo do Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/soldado-da-pm-depoe-por-ter-matado-cachorro-comunitario-em-sao-paulo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Um soldado da Polícia Militar (PM) identificado pela Polícia Civil como suspeito de ter matado com sete tiros um cachorro comunitário na Zona Leste d...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-02-23 14:41:00</wp:post_date>
       <wp:post_date_gmt>2026-02-23 14:41:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-23 14:41:00</wp:post_modified>
@@ -262,249 +494,6 @@ Os estudantes pré-selecionados na chamada única do Fundo de Financiamento Estu
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/oCfONsjKBn6mgPLoTYVZ4SM-F5w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/30/captura_de_tela_2026-01-30_095356_copy.jpg?itok=RHiN3zFp</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Saiba como foi operação que matou El Mencho, chefe de cartel no México</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/saiba-como-foi-operacao-que-matou-el-mencho-chefe-de-cartel-no-mexico</link>
-      <pubDate>Mon, 23 Feb 2026 20:37:50 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/saiba-como-foi-operacao-que-matou-el-mencho-chefe-de-cartel-no-mexico#1005</guid>
-      <description>© @morelifediares via Instagram/Youtube/via REUTERS - Proibido reprodução
-A localização de uma pessoa de confiança de uma das namoradas do narcotrafi...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/fOS0nrLz-EkkFrXI1fHmyQWclis=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/23/2026-02-23t022824z_1735401018_rc2erjarfbg3_rtrmadp_3_mexico-violence-drone.jpg?itok=l1fqhR02&quot; alt=&quot;Saiba como foi operação que matou El Mencho, chefe de cartel no México&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© @morelifediares via Instagram/Youtube/via REUTERS - Proibido reprodução&lt;/p&gt;
-&lt;p&gt;A localização de uma pessoa de confiança de uma das namoradas do narcotraficante Nemesio Oseguera Cervantes, conhecido comoEl Mencho, foi o que permitiu às autoridades do México realizarem uma operação para prender o criminoso. El Mencho é líder de um dos principais cartéis de drogas do país, procurado internacionalmente.&lt;/p&gt;
-&lt;p&gt;Com informações adicionais dos serviços de inteligência dos Estados Unidos (EUA), os militares mexicanos localizaram o criminoso em um povoado do estado de Jalisco, onde ele construiu seu império de drogas por meio do Cartel Jalisco Nueva Generación (CJNG).&lt;/p&gt;
-&lt;p&gt;El Mencho foi morto durante uma operação, no domingo (22), e sua morte provocou terror país, com represálias que deixaram dezenas de mortos, vias bloqueadas, automóveis incendiados, prédios públicos e comerciais atacados, além de emboscadas contra autoridades.&lt;/p&gt;
-&lt;p&gt;Após a onda de violência, o México amanheceu, nesta segunda-feira (23), sem mais distúrbios ou bloqueios de vias públicas, segundo informou a presidenta Cláudia Sheinbaum, que garantiu que o país estaria “em paz”, em coletiva de imprensa.&lt;/p&gt;
-&lt;p&gt;“Nossos pêsames às famílias dos militares que perderam suas vidas ontem. E nosso mais profundo respeito. O povo do México deve se orgulhar muito de nossas Forças Armadas e de nosso gabinete de segurança.”&lt;/p&gt;
-&lt;p&gt;Ontem, o México registrou 252 bloqueios em 20 dos 31 estados do país. Os ataques causaram a morte de 27 agentes do estado, além de 30 suspeitos de participarem das ações violentas a mando do cartel CJNG, segundo o Gabinete de Segurança da presidência do México. De acordo com as autoridades, o cartel ofereceu 20 mil pesos por militar assassinado.&lt;/p&gt;
-&lt;p&gt;O Cartel de Jalisco é relativamente novo, tendo se expandido a partir dos anos 2010. Ele se consolida como uma das organizações mais poderosas do México, segundo informou a advogada especialista em políticas sobre drogas, Gabriela de Luca.&lt;/p&gt;
-&lt;p&gt;“Seu principal rival tem sido o Cartel de Sinaloa, com quem disputa rotas internacionais, corredores logísticos e territórios em diversos estados — uma rivalidade amplamente apontada como um dos fatores centrais da violência recente no país”, disse a especialista.&lt;/p&gt;
-&lt;p&gt;O serviço de inteligência do país conseguiu interceptar uma pessoa de confiança de uma das “parceiras” do narcotraficante, informou o secretário de Defesa Nacional da presidência, o general Ricardo Trevilla.&lt;/p&gt;
-&lt;p&gt;“Em 20 de fevereiro, por meio de operações da Inteligência Militar Central, um associado de confiança de uma das parceiras amorosas de El Mencho foi localizado. Ele a levou a uma instalação na cidade de Tapalpa, em Jalisco”, disse Trevilla.&lt;/p&gt;
-&lt;p&gt;Essa suposta namorada do traficante teria se reunido com El Mencho nesse imóvel no sábado (21), onde ele estaria com seu círculo pessoal mais próximo. No domingo, foi realizada a operação para prendê-lo.&lt;/p&gt;
-&lt;p&gt;Foram mobilizados agentes de forças especiais do Exército, da Aeronáutica e da Guarda Nacional do México.&lt;/p&gt;
-&lt;p&gt;A operação contou com seis helicópteros e aviões modelo Texan.&lt;/p&gt;
-&lt;p&gt;Ao se ver cercada por militares, a segurança pessoal de El Mencho abriu fogo, permitindo a fuga do narcotraficante.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/saiba-como-foi-operacao-que-matou-el-mencho-chefe-de-cartel-no-mexico&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© @morelifediares via Instagram/Youtube/via REUTERS - Proibido reprodução
-A localização de uma pessoa de confiança de uma das namoradas do narcotrafi...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-02-23 14:39:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-23 14:39:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-23 14:39:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-23 14:39:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/fOS0nrLz-EkkFrXI1fHmyQWclis=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/23/2026-02-23t022824z_1735401018_rc2erjarfbg3_rtrmadp_3_mexico-violence-drone.jpg?itok=l1fqhR02</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Especialistas da ONU pedem justiça plena para Marielle e Anderson</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/especialistas-da-onu-pedem-justica-plena-para-marielle-e-anderson</link>
-      <pubDate>Mon, 23 Feb 2026 20:37:50 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/especialistas-da-onu-pedem-justica-plena-para-marielle-e-anderson#1006</guid>
-      <description>Especialistas da Organização das Nações Unidas (ONU) reivindicaram, por meio de declaração conjunta, que &quot;a justiça plena prevaleça&quot; nojulg...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ExQQYNjs0s6v9AhA9Ngcvm_NZzQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/14/_dsc5646.jpg?itok=JUlHC0X7&quot; alt=&quot;Especialistas da ONU pedem justiça plena para Marielle e Anderson&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Especialistas da Organização das Nações Unidas (ONU) reivindicaram, por meio de declaração conjunta, que &quot;a justiça plena prevaleça&quot; nojulgamentodos réus que respondem como mandantes dos assassinatos da vereadora Marielle Franco (Psol-RJ) e domotorista Anderson Gomes,&lt;/p&gt;
-&lt;p&gt;previsto para terça-feira (24), no Supremo Tribunal Federal (STF)&lt;/p&gt;
-&lt;p&gt;O texto divulgado nesta segunda-feira (23), em Genebra, também defende quesejam garantidas a equidade e a transparência.&lt;/p&gt;
-&lt;p&gt;Marielle e Anderson foram assassinados no dia 14 de março de 2018, no bairro do Estácio, na região central do Rio.&lt;/p&gt;
-&lt;p&gt;No comunicado,16 especialistas independentes, relatores especiais e grupos de trabalho das Nações Unidas pediram “justiça e reparação para todas as vítimas do persistente racismo sistêmico, da discriminação estrutural e da violência no Brasil”.&lt;/p&gt;
-&lt;p&gt;Para os especialistas, além de representar o capítulo final da luta por justiça para Marielle Franco e Anderson Gomes, o julgamento é um marco importante “no combate à impunidade estrutural do racismo, da discriminação interseccional e da violência contra defensores dos direitos humanos, mulheres, pessoas afrodescendentes e LGBTIQ+ no Brasil”.&lt;/p&gt;
-&lt;p&gt;“Marielle Franco era uma defensora dos direitos humanos que se manifestava contra o racismo sistêmico, a discriminação estrutural e a brutalidade policial no Brasil. Ela era vítima de discriminação interseccional, especificamente a intersecção entre racismo, classismo, misoginia e preconceito com base na orientação sexual”, acrescentaram.&lt;/p&gt;
-&lt;p&gt;No entendimento da organização internacional, ainda que os assassinatostenham chocado o Brasil e a comunidade internacional, o caminho para a justiça tem sido longo e árduo para as famílias das vítimas.&lt;/p&gt;
-&lt;p&gt;A ONU apontou também as diversas mudanças na liderança das investigações sobre os assassinatos e o vazamento de informações para aimprensa.&lt;/p&gt;
-&lt;p&gt;“O fato de ter levado oito anos para chegar a esta fase final do processo judicial é, por si só, chocante”, indicaram os especialistas.&lt;/p&gt;
-&lt;p&gt;Em 2024, os especialistas tinham saudado as condenações de alguns dos autores dos assassinatos, mas destacaram, naquele momento, que as condenações não marcavam o fim da luta pela justiça para Marielle Franco e Anderson Gomes.&lt;/p&gt;
-&lt;p&gt;O julgamento de terça-feira será na Primeira Turma do Supremo Tribunal Federal, com sessões agendadas para manhã e tarde, além da manhã de quarta-feira (25). O relator é o ministro Alexandre de Moraes.&lt;/p&gt;
-&lt;p&gt;Os réus são o ex-conselheiro do Tribunal de Contas do Rio de Janeiro, Domingos Brazão; o ex-deputado federal e irmão dele, Chiquinho Brazão; o delegado da Polícia Civil do Rio de Janeiro, Rivaldo Barbosa; e o ex-policial militar, Ronald Paulo de Alves. O ex-assessor do TCE Robson Calixto Fonseca ainda responde pelo crime de organização criminosa junto com os irmãos Brazão.&lt;/p&gt;
-&lt;p&gt;Apesar de crimes contra a vida serem de competência do Tribunal do Júri, como Chiquinho Brazão era deputado federal na época dos assassinatos, o caso ficou no Supremo.&lt;/p&gt;
-&lt;p&gt;Conforme a delação premiada do ex-policial Ronnie Lessa, que foi condenado por ter disparado os tiros que mataram Marielle e Anderson, osirmãos Brazão e Barbosa atuaram como mandantes do crime, e Rivaldo Barbosa teria participado dos preparativos da execução.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/especialistas-da-onu-pedem-justica-plena-para-marielle-e-anderson&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Especialistas da Organização das Nações Unidas (ONU) reivindicaram, por meio de declaração conjunta, que &quot;a justiça plena prevaleça&quot; nojulg...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-02-23 14:24:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-23 14:24:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-23 14:24:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-23 14:24:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/ExQQYNjs0s6v9AhA9Ngcvm_NZzQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/14/_dsc5646.jpg?itok=JUlHC0X7</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>CNU: prazo para aprovados manifestarem interesse em vaga termina hoje</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/cnu-prazo-para-aprovados-manifestarem-interesse-em-vaga-termina-hoje</link>
-      <pubDate>Mon, 23 Feb 2026 20:37:50 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/cnu-prazo-para-aprovados-manifestarem-interesse-em-vaga-termina-hoje#1007</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-O prazo para que os aprovados na segunda edição do Concurso Público Nacional Unificado (CPNU) confirmem o interesse...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VHxbBPXiYD3DPl77TYb2F6ouyWY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/raf07110.jpg?itok=X1wmd5K6&quot; alt=&quot;CNU: prazo para aprovados manifestarem interesse em vaga termina hoje&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O prazo para que os aprovados na segunda edição do Concurso Público Nacional Unificado (CPNU) confirmem o interesse na vaga termina às 23 horas e 59 minutos desta segunda-feira (23), no horário de Brasília.&lt;/p&gt;
-&lt;p&gt;O procedimento deve ser realizado exclusivamente na Página de Acompanhamento do candidato no&lt;/p&gt;
-&lt;p&gt;site da FundaçãoGetúlioVargas (FGV)&lt;/p&gt;
-&lt;p&gt;, banca organizadora do certame.&lt;/p&gt;
-&lt;p&gt;O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) destaca que “é importante finalizar todas as etapas do processo no sistema. Apenas acessar a plataforma não é suficiente”, explica o comunicado da pasta.&lt;/p&gt;
-&lt;p&gt;,nesta ediçãodo CNU, a confirmação ocorre para um único cargo: aquele em que a pessoa foi classificada em vaga imediata naprimeiraconvocação.&lt;/p&gt;
-&lt;p&gt;Os nomes dos 3.651 convocados foram publicados em edital específico, na última sexta-feira, no Diário Oficial da União.&lt;/p&gt;
-&lt;p&gt;O Ministério da Gestão confirma que até às 9h desta segunda-feira, das 3.651 pessoas convocadas nesta rodada, 87,07% (ou 3.179) já manifestaram interesse pelas vagas.&lt;/p&gt;
-&lt;p&gt;Outros 128 candidatos manifestaram não ter interesse e 344 (9,4%)convocadosainda não tinham registrado a manifestação.&lt;/p&gt;
-&lt;p&gt;A manifestação de interesse é obrigatória para manter a participação nas próximas etapas do concurso.&lt;/p&gt;
-&lt;p&gt;O registro é definitivo e não pode ser alterado posteriormente, mesmo que ainda dentro do prazo. Após confirmar interesse ou indicar não interesse, não há opção de mudança dentro desta rodada.&lt;/p&gt;
-&lt;p&gt;Ao todo, haverá três rodadas de confirmação de interesse, antes da divulgação de todas as listas definitivas de classificação em vagas imediatas e lista de espera.&lt;/p&gt;
-&lt;p&gt;Em cada rodada, o registro de interesse poderá ser realizado uma única vez, não permitindo edição posterior, mesmo que ainda esteja dentro do prazo.&lt;/p&gt;
-&lt;p&gt;Confira o calendário das rodadas de confirmação de interesse previstas em edital:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/cnu-prazo-para-aprovados-manifestarem-interesse-em-vaga-termina-hoje&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-O prazo para que os aprovados na segunda edição do Concurso Público Nacional Unificado (CPNU) confirmem o interesse...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-02-23 14:21:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-23 14:21:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-23 14:21:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-23 14:21:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/VHxbBPXiYD3DPl77TYb2F6ouyWY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/raf07110.jpg?itok=X1wmd5K6</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Começa vacinação contra a dengue no Rio de Janeiro</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/comeca-vacinacao-contra-dengue-no-rio-de-janeiro</link>
-      <pubDate>Mon, 23 Feb 2026 20:37:50 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/comeca-vacinacao-contra-dengue-no-rio-de-janeiro#1008</guid>
-      <description>© Instituto Butantan/Divulgação
-A partir desta segunda-feira (23), os 92 municípios fluminenses começam a receber a nova vacina contra a dengue, prod...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3HfUqogCwq_dXj7TFITGUCypqO0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/22/vacina_dengue_4.jpeg?itok=lVsR-BaS&quot; alt=&quot;Começa vacinação contra a dengue no Rio de Janeiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Instituto Butantan/Divulgação&lt;/p&gt;
-&lt;p&gt;A partir desta segunda-feira (23), os 92 municípios fluminenses começam a receber a nova vacina contra a dengue, produzida pelo Instituto Butantan.&lt;/p&gt;
-&lt;p&gt;A distribuição está sendo feita pela Secretaria de Estado de Saúde do Rio de Janeiro (SES-RJ), que recebeu 33.364 doses do imunizante, sendo 12.500 destinadas à capital.&lt;/p&gt;
-&lt;p&gt;Conforme o Ministério da Saúde, a estratégia prioriza trabalhadores da Atenção Primária à Saúde (APS) do Sistema Único de Saúde (SUS)&lt;/p&gt;
-&lt;p&gt;Nesta primeira etapa, serão vacinados profissionais que atuam diretamente nas unidades básicas, como médicos, enfermeiros, técnicos e auxiliares de enfermagem, odontólogos,nutricionistas, psicólogos, fisioterapeutas, educadores físicos, assistentes sociais e farmacêuticos, agentes comunitários de saúde ede combate às endemias, trabalhadores administrativos e de apoio.&lt;/p&gt;
-&lt;p&gt;A nova vacina tem dose única e protege contraquatro sorotipos da dengue&lt;/p&gt;
-&lt;p&gt;. No estado do Rio, os tipos 1 e 2 são os mais frequentes.&lt;/p&gt;
-&lt;p&gt;No entanto, a possível reintrodução do sorotipo 3 preocupa as autoridades sanitárias, já que ele não circula no território fluminense desde 2007&lt;/p&gt;
-&lt;p&gt;. A ausência prolongada pode gerar maior vulnerabilidade da população que nunca teve contato com essa variante, atualmente presente em estados vizinhos.&lt;/p&gt;
-&lt;p&gt;Dados do Centro de Inteligência em Saúde da secretariaindicam que, até 20 de fevereiro de 2026, o estado registrou 1.198 casos prováveis de dengue e 56 internações, sem confirmação de óbitos.&lt;/p&gt;
-&lt;p&gt;Há ainda 41 casos prováveis de chikungunya, com cinco internações. Não há casos confirmados de zika no território fluminense.&lt;/p&gt;
-&lt;p&gt;O monitoramento da dengueé feito por meio de um indicador composto que analisa atendimentos em unidades de pronto atendimento (UPAs), solicitações de leitos e taxa de positividade dos exames. As informações estão disponíveis em tempo real na plataforma&lt;/p&gt;
-&lt;p&gt;Atualmente, os 92 municípios estão em situação de rotina&lt;/p&gt;
-&lt;p&gt;Apesar dos indicadores considerados baixos, a secretaria reforça o alerta para o período pós-carnaval. As chuvas intensas que antecederam a folia, combinadas ao calor do verão, criam condições ideais para a reprodução do&lt;/p&gt;
-&lt;p&gt;, transmissor da dengue, chikungunya e zika.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-02/comeca-vacinacao-contra-dengue-no-rio-de-janeiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Instituto Butantan/Divulgação
-A partir desta segunda-feira (23), os 92 municípios fluminenses começam a receber a nova vacina contra a dengue, prod...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-02-23 13:37:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-23 13:37:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-23 13:37:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-23 13:37:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/3HfUqogCwq_dXj7TFITGUCypqO0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/22/vacina_dengue_4.jpeg?itok=lVsR-BaS</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Ubatuba decreta situação de emergência após chuvas no fim de semana</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/ubatuba-decreta-situacao-de-emergencia-apos-chuvas-no-fim-de-semana</link>
-      <pubDate>Mon, 23 Feb 2026 20:37:50 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/ubatuba-decreta-situacao-de-emergencia-apos-chuvas-no-fim-de-semana#1009</guid>
-      <description>© Prefeitura de Ubatuba/Divulgação
-A Prefeitura de Ubatuba decretou, nesta segunda-feira (23), estado de emergência em todo o municípioem decorrência...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/TdFhL9Vz9uF2wfOTWVVEq5gL4EU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/23/whatsapp-image-2026-02-22-at-12.07.54-770x416.jpeg?itok=oYyDUEdA&quot; alt=&quot;Ubatuba decreta situação de emergência após chuvas no fim de semana&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Prefeitura de Ubatuba/Divulgação&lt;/p&gt;
-&lt;p&gt;A Prefeitura de Ubatuba decretou, nesta segunda-feira (23), estado de emergência em todo o municípioem decorrência daschuvas volumosas registradas no último final de semana.&lt;/p&gt;
-&lt;p&gt;A águacomprometeu grandes vias de acesso ao município. A Rodovia Oswaldo Cruz, no km 81, permanece interditada devido à queda de barreiras, árvores e pedras na pista. Na Rodovia Tamoios, a Serra Antiga também está interditada por causa do excesso de chuva, superior a 100 mm nas últimas 12 horas.&lt;/p&gt;
-&lt;p&gt;Nesta segunda-feira as aulas foram suspensas em todas as unidades escolares do município.&lt;/p&gt;
-&lt;p&gt;Também estão canceladas todas as atividades ligadas à Secretaria de Esportes e Lazer, sendo que na região sulpermanecerão suspensas durante toda a semana.&lt;/p&gt;
-&lt;p&gt;Segundo o comunicado da Sabesp publicado neste domingo (22), a chuva também afetou o sistema de captação de tratamento de água Eta Carolina. A empresa apontou que equipes estavam trabalhando no local para restabelecer o serviço, com previsão para finalizarem no decorrer desta segunda.&lt;/p&gt;
-&lt;p&gt;Segundo o Centro Nacional de Monitoramento e Alertas de Desastres Naturais (Cemaden), a cidade permanece em risco devido à condição de saturação crítica do solo nas 72 horas anteriores.&lt;/p&gt;
-&lt;p&gt;Em 12 horas, a região registrou um volume de chuvaequivalente à média histórica de todo o mês de fevereiro.&lt;/p&gt;
-&lt;p&gt;A cidade de Sertão Da Quina, apresentou o maior nível de chuva, com 102mm, seguido de Ipiranguinha (89mm), Araribá (69mm) ePraia Dura (66mm).&lt;/p&gt;
-&lt;p&gt;Confira as informações sobre as chuvas no Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
-&lt;p&gt;Nestedomingo, 15 famílias ficaram desabrigadas e outras 15 foram desalojadas&lt;/p&gt;
-&lt;p&gt;. Na região sul da Ubatuba, 408 residências foram atingidas. A prefeitura informou que os desabrigados receberam hospedagem provisória em hotéis no bairro da Lagoinha. Há também famílias em monitoramento e atendimento pela assistência social.&lt;/p&gt;
-&lt;p&gt;Também houve o naufrágio de uma embarcação, que deixou duas pessoas mortas na noite do sábado&lt;/p&gt;
-&lt;p&gt;(21). Três pessoas que estavam no barco foram resgatadas por tripulantes de outra embarcação.&lt;/p&gt;
-&lt;p&gt;Além de Ubatuba, outros municípios do litoral de São Paulo registraramgrandes acúmulos de chuva desde ontem. Moradores de locais como Bertioga, Guarujá e Caraguatatuba, devem ficar em alerta.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/ubatuba-decreta-situacao-de-emergencia-apos-chuvas-no-fim-de-semana&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Prefeitura de Ubatuba/Divulgação
-A Prefeitura de Ubatuba decretou, nesta segunda-feira (23), estado de emergência em todo o municípioem decorrência...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-02-23 12:53:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-23 12:53:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-23 12:53:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-23 12:53:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/TdFhL9Vz9uF2wfOTWVVEq5gL4EU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/23/whatsapp-image-2026-02-22-at-12.07.54-770x416.jpeg?itok=oYyDUEdA</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
