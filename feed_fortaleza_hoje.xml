@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 23/02/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 10:58 UTC</description>
-<lastBuildDate>Mon, 23 Feb 2026 10:58:49 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Mon, 23 Feb 2026 11:47:42 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>IJF registra 770 atendimentos na emergência durante o Carnaval 2026</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/ijf-registra-770-atendimentos-na-emergencia-durante-o-carnaval-2026</link>
+<guid isPermaLink="false">fortaleza-20260223-296dd569b5ab</guid>
+<pubDate>Mon, 23 Feb 2026 06:48:00 +0000</pubDate>
+<description>IJF registra 770 atendimentos na emergência durante o Carnaval 2026 - Segunda, 23 Fevereiro 2026 06:48</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/Saude/_27A0969.JPG" alt="IJF registra 770 atendimentos na emergência durante o Carnaval 2026" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>Os cinco dias de folia do Carnaval 2026, período entre 14 e 18 de fevereiro, resultaram em 770 atendimentos na emergência do Instituto Dr. José Frota (IJF), maior complexo hospitalar da Prefeitura de Fortaleza e referência no atendimento de pacientes vítimas de traumas graves. As principais causas dos atendimentos estão relacionadas a quedas, acidentes envolvendo motocicletas, ingestão de corpo estranho, atendimento especializado (otorrinolaringoscopia, oftalmologia e endoscopia), acidentes com animais peçonhentos e queimaduras. No mesmo período de 2025, foram 716 ocorrências, um aumento de 7,54%.</p>
+<p><strong>Balanço</strong></p>
+<p>O ranking deste ano traz como principais atendimentos as quedas (225), acidentes com motocicletas (136), corpo estranho (77), atendimento especializado (48), agressão física (37) e queimaduras (35).</p>
+<p>O sábado de Carnaval (14/02) concentrou o maior número de atendimentos, com 176 registros. Em seguida, aparece a segunda-feira (16/02), com 156 casos. Já o domingo (15/02) apresentou o menor movimento, totalizando 140 entradas na emergência.</p>
+<p><strong>Prevenção</strong></p>
+<p>“Este ano percebemos um volume de internação menor. Mesmo com aumento de atendimentos, os casos foram menos graves, gerando maior celeridade no acolhimento e tratamento clínico dos pacientes. As campanhas de prevenção têm conscientizado a população dos riscos de acidentes, principalmente em períodos festivos. Além disso, tivemos diminuição de casos de diversas naturezas, como as quedas, que sempre apresentam um volume maior e conseguimos reduzir nesse período carnavalesco”, explica Erika Bandeira, chefe de enfermagem da emergência do IJF.</p>
+<p><strong>Quando buscar o IJF</strong></p>
+<p>Especializado no atendimento de grandes traumas, o Instituto Dr. José Frota oferece assistência à população adulta e pediátrica em casos de urgência e emergência traumatológica, incluindo traumas cranioencefálicos (TCE), traumas raquimedulares, fraturas nos membros superiores e inferiores, lesões vasculares graves, traumas oculares, entre outros. O hospital conta com mais de 20 especialidades médicas, como traumatologia, cirurgia geral, neurocirurgia, oftalmologia, otorrinolaringologia, cirurgia vascular, pediátrica e clínica médica.</p>
+<p>O hospital também abriga o Centro de Informação e Assistência Toxicológica (Ciatox), referência no atendimento a intoxicações agudas graves e acidentes com animais peçonhentos, além do Centro de Tratamento de Queimados, que realiza assistência de média e alta complexidade. A unidade funciona 24 horas por dia, sete dias por semana, e está localizada na Rua Barão do Rio Branco, 1816 – Centro.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/ijf-registra-770-atendimentos-na-emergencia-durante-o-carnaval-2026" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/Saude/_27A0969.JPG" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/Saude/_27A0969.JPG" type="image/jpeg" medium="image">
+<media:title>IJF registra 770 atendimentos na emergência durante o Carnaval 2026</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
