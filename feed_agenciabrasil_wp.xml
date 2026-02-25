@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 25 Feb 2026 12:45:58 +0000</pubDate>
+    <pubDate>Wed, 25 Feb 2026 14:05:37 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,18 +22,68 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Operação da PF combate organização que fraudava licitações</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/operacao-da-pf-combate-organizacao-que-fraudava-licitacoes</link>
+      <pubDate>Wed, 25 Feb 2026 14:05:37 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/operacao-da-pf-combate-organizacao-que-fraudava-licitacoes#1000</guid>
+      <description>Polícia Federal (PF) deflagrou, nesta quarta-feira (25), a Operação Vassalos para apurar crimes em licitações.
+A investigação aponta para uma organiz...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/BQ0dQL1UnIRofLkyt0wJ7adZErU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/25/d425f78c-f212-4556-8e39-840ea61c2e77.jpeg?itok=SqZnVB_M&quot; alt=&quot;Operação da PF combate organização que fraudava licitações&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Polícia Federal (PF) deflagrou, nesta quarta-feira (25), a Operação Vassalos para apurar crimes em licitações.&lt;/p&gt;
+&lt;p&gt;A investigação aponta para uma organização composta por agentes públicos e privados suspeita de desviar recursos públicos oriundos de emendas parlamentares.&lt;/p&gt;
+&lt;p&gt;os investigados direcionavam as licitações para empresa vinculada ao grupo e utilizavam os valores desviados no pagamento de vantagens indevidas e ocultação de patrimônio.&lt;/p&gt;
+&lt;p&gt;Entre os crimes praticados estão a frustração do caráter competitivo do procedimento licitatório e a fraude em licitação e contrato, além de peculato, corrupção, lavagem de dinheiro e organização criminosa.&lt;/p&gt;
+&lt;p&gt;Estão sendo cumpridos 42 mandados de busca e apreensão, expedidos pelo Supremo Tribunal Federal, nos estados de Pernambuco, Bahia, São Paulo, Goiás e no Distrito Federal.&lt;/p&gt;
+&lt;p&gt;Minas e mais cinco estados em alerta por acumulado de chuva&lt;/p&gt;
+&lt;p&gt;Fortes chuvas em Juiz de Fora e Ubá deixam 36 mortos e segundo dia do julgamento de Marielle&lt;/p&gt;
+&lt;p&gt;Brasília sedia 6ª Conferência Nacional das Cidades a partir de hoje&lt;/p&gt;
+&lt;p&gt;Meteorologia prevê risco de mais chuvas para Minas Gerais&lt;/p&gt;
+&lt;p&gt;Operação da PF combate organização que fraudava licitações&lt;/p&gt;
+&lt;p&gt;México envia segundo pacote de ajuda humanitária com alimentos a Cuba&lt;/p&gt;
+&lt;p&gt;Mortos em temporais em Juiz de Fora e Ubá chegam a 36&lt;/p&gt;
+&lt;p&gt;Chuvas deixam 384 desabrigados em Peruíbe, no litoral paulista&lt;/p&gt;
+&lt;p&gt;Palmeiras e Fluminense jogam nesta quarta; Rádio Nacional transmite&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/operacao-da-pf-combate-organizacao-que-fraudava-licitacoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Polícia Federal (PF) deflagrou, nesta quarta-feira (25), a Operação Vassalos para apurar crimes em licitações.
+A investigação aponta para uma organiz...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-02-25 09:29:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-25 09:29:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-25 09:29:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-25 09:29:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/BQ0dQL1UnIRofLkyt0wJ7adZErU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/25/d425f78c-f212-4556-8e39-840ea61c2e77.jpeg?itok=SqZnVB_M</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Mortos em temporais em Juiz de Fora e Ubá chegam a 36</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mortos-em-temporais-em-juiz-de-fora-e-uba-chegam-36-0</link>
-      <pubDate>Wed, 25 Feb 2026 12:45:58 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 14:05:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mortos-em-temporais-em-juiz-de-fora-e-uba-chegam-36-0#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mortos-em-temporais-em-juiz-de-fora-e-uba-chegam-36-0#1001</guid>
       <description>As fortes chuvas que atingiram a Zona da Mata mineira desde segunda-feira (23) deixaram até o momento 36 mortos dos quais 30 em Juiz de Fora e seis e...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/a9bKkciQ3RCN4dPnVP_T7F7lVRA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/24/_rbr0418_1.jpg.jpeg?itok=J7CEUX0x&quot; alt=&quot;Mortos em temporais em Juiz de Fora e Ubá chegam a 36&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZGcAf08RP44V-AWjEiNjZisHYL0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/24/_rbr0748.jpg_0.jpeg?itok=7QDSU2YP&quot; alt=&quot;Mortos em temporais em Juiz de Fora e Ubá chegam a 36&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;As fortes chuvas que atingiram a Zona da Mata mineira desde segunda-feira (23) deixaram até o momento 36 mortos dos quais 30 em Juiz de Fora e seis em Ubá, informou o Corpo de Bombeiros na manhã desta quarta-feira (25).&lt;/p&gt;
 &lt;p&gt;Há 31 pessoas desaparecidas em Juiz de Fora e duas em Ubá. Não há desaparecidos nem mortos em&lt;/p&gt;
 &lt;p&gt;Matias Barbosa, outra cidade da região fortemente atingida pelas chuvas&lt;/p&gt;
 &lt;p&gt;. O total de vítimas resgatadas com vida chega a 208.&lt;/p&gt;
-&lt;p&gt;Juiz de Fora teve 584 milímetros de chuvas acumuladas, o que faz do mês de fevereiro o mais chuvoso da história do município mineiro, com volumesuperior ao dobro do esperado para o mês.&lt;/p&gt;
+&lt;p&gt;Juiz de Fora teve 584 milímetros de chuvas acumuladas, o que faz do mês de fevereiro o mais chuvoso da história do município mineiro, com volumesuperior ao dobro do esperado para o mês.Até o momento, a&lt;/p&gt;
+&lt;p&gt;prefeitura contabiliza mais de 3,5 mil desabrigados e desalojados&lt;/p&gt;
+&lt;p&gt;. A Defesa Civil municipal registrou 772 ocorrências.&lt;/p&gt;
 &lt;p&gt;A prefeitura de Ubá informou que a cidade foi atingida por 170 milímetros (mm) de chuva em cerca de três horas e meia e que o Rio Ubá atingiu 7,82 metros.&lt;/p&gt;
 &lt;p&gt;O governador de Minas Gerais, Romeu Zema, está em Juiz de Fora nesta manhã e disse que todo suporte humanitário aos desalojados está sendo providenciado.&lt;/p&gt;
 &lt;p&gt;“Esta madrugada seis vítimas foram localizadas. A previsão é que o trabalho dos bombeiros ainda deve durar até cinco dias. Há muito escombro, muita lama para ser removida”, afirmou o governador em entrevista ao programa Alô, Alô, Brasil, da&lt;/p&gt;
@@ -41,11 +91,9 @@
 &lt;p&gt;. Os recursos serão pagos às prefeituras para a aquisição de itens de primeira necessidade.&lt;/p&gt;
 &lt;p&gt;&quot;Nós temos centenas de pessoas desabrigadas, aí [este recurso] é para a prefeitura para comprar colchão, mantimento, roupa, enfim, para apoiar&quot;, afirmou o presidente em exercício, Geraldo Alckmin, em entrevista a jornalistas, no Palácio do Planalto.&lt;/p&gt;
 &lt;p&gt;Também ontem (24), equipesda Força Nacional do Sistema Único de Saúde (SUS), do Sistema Único de Assistência Social (Suas) e do Departamento de Emergências em Saúde Pública do Ministério da Saúde&lt;/p&gt;
-&lt;p&gt;deslocarammédicos, enfermeiros, psicólogos e outros profissionais para a região&lt;/p&gt;
-&lt;p&gt;. As equipes de saúde levaram kits de emergência contendo medicamentos e insumos.&lt;/p&gt;
-&lt;p&gt;A Defesa Civil Nacional enviou na manhã de ontem (24)oito técnicos especialistas do Grupo de Apoio a Desastres (Gade). Os profissionais vão colaborar para acelerar as ações de assistência humanitária, para o restabelecimento de serviços essenciais e para a reconstrução nas cidades atingidas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mortos-em-temporais-em-juiz-de-fora-e-uba-chegam-36-0&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;deslocarammédicos, enfermeiros, psicólogos e outros profissionais para a região&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mortos-em-temporais-em-juiz-de-fora-e-uba-chegam-36-0&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>As fortes chuvas que atingiram a Zona da Mata mineira desde segunda-feira (23) deixaram até o momento 36 mortos dos quais 30 em Juiz de Fora e seis e...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-02-25 09:02:00</wp:post_date>
       <wp:post_date_gmt>2026-02-25 09:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-25 09:02:00</wp:post_modified>
@@ -65,15 +113,15 @@
       <category domain="post_tag" nicename="ebc">EBC</category>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/a9bKkciQ3RCN4dPnVP_T7F7lVRA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/24/_rbr0418_1.jpg.jpeg?itok=J7CEUX0x</wp:meta_value>
+        <wp:meta_value>https://imagens.ebc.com.br/ZGcAf08RP44V-AWjEiNjZisHYL0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/24/_rbr0748.jpg_0.jpeg?itok=7QDSU2YP</wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
       <title>Chuvas deixam 384 desabrigados em Peruíbe, no litoral paulista</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-deixam-384-desabrigados-em-peruibe-no-litoral-paulista</link>
-      <pubDate>Wed, 25 Feb 2026 12:45:58 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 14:05:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-deixam-384-desabrigados-em-peruibe-no-litoral-paulista#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-deixam-384-desabrigados-em-peruibe-no-litoral-paulista#1002</guid>
       <description>© Frame/defesacivilsp/Instagram
 O município de Peruíbe, no litoral paulista, tem 384 pessoas desabrigadas devido às chuvas intensas que atingiram a r...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/r-4aLu_jvUDqxy8YFtLpoaDC6PU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/24/peruibe2.jpg?itok=hxGAuO98&quot; alt=&quot;Chuvas deixam 384 desabrigados em Peruíbe, no litoral paulista&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -82,18 +130,18 @@ O município de Peruíbe, no litoral paulista, tem 384 pessoas desabrigadas devi
 &lt;p&gt;A cidade teve 234 milímetros (mm) de acumulados de chuva nos últimos três dias. Os desabrigados foram acolhidos em duas escolas municipais, uma escola agrícola e em um centro comunitário.&lt;/p&gt;
 &lt;p&gt;Nesta terça-feira (24), o município de Ilhabela registrou chuva com vendaval, o que gerou danos como quedas de barreira e de árvores sobre a Rodovia SP-131 e desmoronamento de talude e queda árvores sobre a SP-125 (Estrada dos Castelhanos). Não houve registro de vítimas.&lt;/p&gt;
 &lt;p&gt;Além de cidades no litoral, o acúmulo de chuva gerou complicações em outras regiões do estado de São Paulo. No município de São Manuel, chuvas intensas levaram a alagamentos, transbordamento de rios e solapamento nesta terça. Segundo a Defesa Civil, 200 pessoas estão desalojadas. Não houve feridos.&lt;/p&gt;
-&lt;p&gt;Maringá elimina Boavista e avança na Copa do Brasil&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Sobe para 31 o número de mortos em decorrência das chuvas em Juiz de Fora e Ubá&lt;/p&gt;
+&lt;p&gt;Chuvas: sobe para 36 número de mortos na Zona da Mata mineira&lt;/p&gt;
+&lt;p&gt;Fortes chuvas em Juiz de Fora e Ubá deixam 36 mortos e segundo dia do julgamento de Marielle&lt;/p&gt;
 &lt;p&gt;Brasília sedia 6ª Conferência Nacional das Cidades a partir de hoje&lt;/p&gt;
+&lt;p&gt;Inmet emite alerta de grande perigo para chuvas intensas em Minas&lt;/p&gt;
+&lt;p&gt;Operação da PF combate organização que fraudava licitações&lt;/p&gt;
 &lt;p&gt;Mortos em temporais em Juiz de Fora e Ubá chegam a 36&lt;/p&gt;
 &lt;p&gt;México envia segundo pacote de ajuda humanitária com alimentos a Cuba&lt;/p&gt;
 &lt;p&gt;Chuvas deixam 384 desabrigados em Peruíbe, no litoral paulista&lt;/p&gt;
-&lt;p&gt;Palmeiras e Fluminense jogam nesta quarta; Rádio Nacional transmite&lt;/p&gt;
-&lt;p&gt;Trump proclama &quot;era de ouro&quot; em discurso sobre estado da União&lt;/p&gt;
-&lt;p&gt;Soterrado, homem sobrevive com ajuda de amigo em Juiz de Fora&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-deixam-384-desabrigados-em-peruibe-no-litoral-paulista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Palmeiras e Fluminense jogam nesta quarta; Rádio Nacional transmite&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/chuvas-deixam-384-desabrigados-em-peruibe-no-litoral-paulista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Frame/defesacivilsp/Instagram
 O município de Peruíbe, no litoral paulista, tem 384 pessoas desabrigadas devido às chuvas intensas que atingiram a r...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-02-25 08:49:00</wp:post_date>
       <wp:post_date_gmt>2026-02-25 08:49:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-25 08:49:00</wp:post_modified>
@@ -119,9 +167,9 @@ O município de Peruíbe, no litoral paulista, tem 384 pessoas desabrigadas devi
     <item>
       <title>Palmeiras e Fluminense jogam nesta quarta; Rádio Nacional transmite</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/palmeiras-e-fluminense-jogam-nesta-quarta-radio-nacional-transmite</link>
-      <pubDate>Wed, 25 Feb 2026 12:45:58 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 14:05:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/palmeiras-e-fluminense-jogam-nesta-quarta-radio-nacional-transmite#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/palmeiras-e-fluminense-jogam-nesta-quarta-radio-nacional-transmite#1003</guid>
       <description>© Gabriela Montesano /Osasco Audax/Direitos reservados
 Palmeiras e Fluminense entram em campo, nesta quarta-feira (25), pela quarta rodada do Campeon...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Pt_a2z-gJ-_LLeJ5Bz9toiG2e8k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/arena_barueri_estadio_de_futebol.jpg?itok=xqioAMfQ&quot; alt=&quot;Palmeiras e Fluminense jogam nesta quarta; Rádio Nacional transmite&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -142,7 +190,7 @@ Palmeiras e Fluminense entram em campo, nesta quarta-feira (25), pela quarta rod
 &lt;p&gt;Os torcedores podem ficar ligados pelo rádio,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/palmeiras-e-fluminense-jogam-nesta-quarta-radio-nacional-transmite&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Gabriela Montesano /Osasco Audax/Direitos reservados
 Palmeiras e Fluminense entram em campo, nesta quarta-feira (25), pela quarta rodada do Campeon...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-02-25 08:02:00</wp:post_date>
       <wp:post_date_gmt>2026-02-25 08:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-25 08:02:00</wp:post_modified>
@@ -168,9 +216,9 @@ Palmeiras e Fluminense entram em campo, nesta quarta-feira (25), pela quarta rod
     <item>
       <title>Trump proclama &quot;era de ouro&quot; em discurso sobre estado da União</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/trump-proclama-era-de-ouro-em-discurso-sobre-estado-da-uniao</link>
-      <pubDate>Wed, 25 Feb 2026 12:45:58 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 14:05:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/trump-proclama-era-de-ouro-em-discurso-sobre-estado-da-uniao#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/trump-proclama-era-de-ouro-em-discurso-sobre-estado-da-uniao#1004</guid>
       <description>© Reuters/MANDEL NGAN/proibida reprodução
 O presidente dos Estados Unidos (EUA), Donald Trump, declarou no discurso sobre o estado da União, nessater...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FmaNkM5IyD6mFhegUZgf2wn0eNg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/25/2026-02-25t102647z_1_lynxmpem1o0is_rtroptp_4_usa-trump-congress-investors.jpg?itok=AIi9zSHo&quot; alt=&quot;Trump proclama &quot;era de ouro&quot; em discurso sobre estado da União&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -191,7 +239,7 @@ O presidente dos Estados Unidos (EUA), Donald Trump, declarou no discurso sobre 
 &lt;p&gt;Trump afirmou novamente que &quot;encerrou&quot; oito guerras, o que é considerado um exagero, e mal mencionou a Ucrânia, apesar de terça-feira marcar o quarto aniversário da invasão russa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/trump-proclama-era-de-ouro-em-discurso-sobre-estado-da-uniao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/MANDEL NGAN/proibida reprodução
 O presidente dos Estados Unidos (EUA), Donald Trump, declarou no discurso sobre o estado da União, nessater...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-02-25 08:00:00</wp:post_date>
       <wp:post_date_gmt>2026-02-25 08:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-25 08:00:00</wp:post_modified>
@@ -215,11 +263,58 @@ O presidente dos Estados Unidos (EUA), Donald Trump, declarou no discurso sobre 
       </wp:postmeta>
     </item>
     <item>
+      <title>Soterrado, homem sobrevive com ajuda de amigo em Juiz de Fora</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/soterrado-homem-sobrevive-com-ajuda-de-amigo-em-juiz-de-fora</link>
+      <pubDate>Wed, 25 Feb 2026 14:05:37 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/soterrado-homem-sobrevive-com-ajuda-de-amigo-em-juiz-de-fora#1005</guid>
+      <description>O barulho foi seco e repentino. Em segundos, Deivid Carlos da Silva estava soterrado nas ruínas desua casa no Jardim Parque Burnier, na zona sudeste ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Y1Jl-If_7hgE0ucQOPvyYzXhN3I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/24/_rbr0913_1.jpg_0.jpeg?itok=8CXDZ9ZB&quot; alt=&quot;Soterrado, homem sobrevive com ajuda de amigo em Juiz de Fora&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O barulho foi seco e repentino. Em segundos, Deivid Carlos da Silva estava soterrado nas ruínas desua casa no Jardim Parque Burnier, na zona sudeste de Juiz de Fora. Preso nos escombros, ele tinha certeza de que não sairia vivo.&lt;/p&gt;
+&lt;p&gt;“Vou morrer, vou morrer. Só pensava nisso”, lembra.&lt;/p&gt;
+&lt;p&gt;Sem conseguir se mover durante uma hora e meia, já sem esperanças, o desespero de Deivid só foi interrompido quando percebeu que alguém tentava alcançá-lo.&lt;/p&gt;
+&lt;p&gt;“Meu amigo cavou com a mão, tirou uma pedra. Eu consegui ver um buraco, luz e respirar&quot;, diz.&lt;/p&gt;
+&lt;p&gt;O amigo é Luiz Otávio Souza, também morador da região, que passou a madrugada ajudando noresgatedos vizinhos. Isso, mesmo com chuva forte e o risco de novos deslizamentos.&lt;/p&gt;
+&lt;p&gt;“Estava tudo escuro. Só conseguia enxergar com lanterna. Chuva em cima, mas mantendo o trabalho, porque com vidas não se brinca&quot;, diz.&lt;/p&gt;
+&lt;p&gt;A mulher e o filho de Deivid também foram retirados dos escombros com a ajuda dos moradores do bairro.&lt;/p&gt;
+&lt;p&gt;Enquanto ajudava a salvar os vizinhos, Luiz Otávio enfrentava uma angústia pessoal. Ele acompanhava as buscas por dois familiares, desaparecidos desde o deslizamento.&lt;/p&gt;
+&lt;p&gt;“Meu sobrinho, de 21 anos, e a mãe dele, de 41. Ele chegou do serviço, deixou a mochila em casa e foi vê-la. Aí veio o desabamento”, conta.&lt;/p&gt;
+&lt;p&gt;Mesmo sem dormir e sem comer direito, Luiz Otávio mantinha o ritmo de trabalho nos escombros.&lt;/p&gt;
+&lt;p&gt;“Enquanto não achar todo mundo, não vou parar. Todo mundo aqui é família, amigo. Não tem como deixar ninguém para trás. É uma dor para todos&quot;, acrescenta.&lt;/p&gt;
+&lt;p&gt;As chuvas que atingiram a Zona da Mata mineira desde a última segunda-feira (23) provocaram uma sequência de deslizamentos, alagamentos e destruição em diferentes municípios. Segundo balanços preliminares, ao menos 30mortes já foram registradas nosmunicípios de Juiz de Fora e Ubá.&lt;/p&gt;
+&lt;p&gt;O Rio Paraibuna transbordou, houve inundações e soterramentos. Bairros ficaram isolados e houve mais de 40 chamadas emergenciais por inundações e risco estrutural. A Defesa Civil estima 440 pessoas desabrigadas que já receberam acolhimento provisório. O governo federal reconheceu oficialmente o estado de calamidade em Juiz de Fora.&lt;/p&gt;
+&lt;p&gt;Minas e mais cinco estados em alerta por acumulado de chuva&lt;/p&gt;
+&lt;p&gt;Fortes chuvas em Juiz de Fora e Ubá deixam 36 mortos e segundo dia do julgamento de Marielle&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/soterrado-homem-sobrevive-com-ajuda-de-amigo-em-juiz-de-fora&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O barulho foi seco e repentino. Em segundos, Deivid Carlos da Silva estava soterrado nas ruínas desua casa no Jardim Parque Burnier, na zona sudeste ...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-02-25 07:48:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-25 07:48:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-25 07:48:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-25 07:48:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Y1Jl-If_7hgE0ucQOPvyYzXhN3I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/24/_rbr0913_1.jpg_0.jpeg?itok=8CXDZ9ZB</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Promulgado protocolo da OIT contra trabalho forçado</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/promulgado-protocolo-da-oit-contra-trabalho-forcado</link>
-      <pubDate>Wed, 25 Feb 2026 12:45:58 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 14:05:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/promulgado-protocolo-da-oit-contra-trabalho-forcado#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/promulgado-protocolo-da-oit-contra-trabalho-forcado#1006</guid>
       <description>© Ministério Público do Trabalho - Divulgação
 , que promulga o Protocolo de 2014 relativo à Convenção 29 da Organização Internacional do Trabalho sob...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qZsli3NMFDrECmK4QE2Y50dkC_w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/trabalho_escravo_mpt.jpg?itok=o9LuldXm&quot; alt=&quot;Promulgado protocolo da OIT contra trabalho forçado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -234,13 +329,13 @@ O presidente dos Estados Unidos (EUA), Donald Trump, declarou no discurso sobre 
 &lt;p&gt;Proteção de pessoas, principalmente de trabalhadores migrantes, contra práticas abusivas e fraudulentas nos processos de recrutamento;&lt;/p&gt;
 &lt;p&gt;Fortalecimento dos setores público e privado que atuam na prevenção; e&lt;/p&gt;
 &lt;p&gt;Ações para abordar as causas profundas e os fatores que aumentam o risco de trabalho forçado ou compulsório.&lt;/p&gt;
-&lt;p&gt;Maringá elimina Boavista e avança na Copa do Brasil&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Sobe para 31 o número de mortos em decorrência das chuvas em Juiz de Fora e Ubá&lt;/p&gt;
+&lt;p&gt;Minas e mais cinco estados em alerta por acumulado de chuva&lt;/p&gt;
+&lt;p&gt;Fortes chuvas em Juiz de Fora e Ubá deixam 36 mortos e segundo dia do julgamento de Marielle&lt;/p&gt;
 &lt;p&gt;Brasília sedia 6ª Conferência Nacional das Cidades a partir de hoje&lt;/p&gt;
-&lt;p&gt;Operação da PF combate organização que fraudava licitações&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/promulgado-protocolo-da-oit-contra-trabalho-forcado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Meteorologia prevê risco de mais chuvas para Minas Gerais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/promulgado-protocolo-da-oit-contra-trabalho-forcado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Ministério Público do Trabalho - Divulgação
 , que promulga o Protocolo de 2014 relativo à Convenção 29 da Organização Internacional do Trabalho sob...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-02-25 07:48:00</wp:post_date>
       <wp:post_date_gmt>2026-02-25 07:48:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-25 07:48:00</wp:post_modified>
@@ -264,60 +359,11 @@ O presidente dos Estados Unidos (EUA), Donald Trump, declarou no discurso sobre 
       </wp:postmeta>
     </item>
     <item>
-      <title>Soterrado, homem sobrevive com ajuda de amigo em Juiz de Fora</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/soterrado-homem-sobrevive-com-ajuda-de-amigo-em-juiz-de-fora</link>
-      <pubDate>Wed, 25 Feb 2026 12:45:58 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/soterrado-homem-sobrevive-com-ajuda-de-amigo-em-juiz-de-fora#1005</guid>
-      <description>© Prefeitura Matias Barbosa/Divulgação
-O barulho foi seco e repentino. Em segundos, Deivid Carlos da Silva estava soterrado nas ruínas desua casa no ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/c1Dx5YOb6JXo1wZ0CMnDB0DgZrg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/24/matiasbarbosa.jpg?itok=wKUofa2u&quot; alt=&quot;Soterrado, homem sobrevive com ajuda de amigo em Juiz de Fora&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Prefeitura Matias Barbosa/Divulgação&lt;/p&gt;
-&lt;p&gt;O barulho foi seco e repentino. Em segundos, Deivid Carlos da Silva estava soterrado nas ruínas desua casa no Jardim Parque Burnier, na zona sudeste de Juiz de Fora. Preso nos escombros, ele tinha certeza de que não sairia vivo.&lt;/p&gt;
-&lt;p&gt;“Vou morrer, vou morrer. Só pensava nisso”, lembra.&lt;/p&gt;
-&lt;p&gt;Sem conseguir se mover durante uma hora e meia, já sem esperanças, o desespero de Deivid só foi interrompido quando percebeu que alguém tentava alcançá-lo.&lt;/p&gt;
-&lt;p&gt;“Meu amigo cavou com a mão, tirou uma pedra. Eu consegui ver um buraco, luz e respirar&quot;, diz.&lt;/p&gt;
-&lt;p&gt;O amigo é Luiz Otávio Souza, também morador da região, que passou a madrugada ajudando noresgatedos vizinhos. Isso, mesmo com chuva forte e o risco de novos deslizamentos.&lt;/p&gt;
-&lt;p&gt;“Estava tudo escuro. Só conseguia enxergar com lanterna. Chuva em cima, mas mantendo o trabalho, porque com vidas não se brinca&quot;, diz.&lt;/p&gt;
-&lt;p&gt;A mulher e o filho de Deivid também foram retirados dos escombros com a ajuda dos moradores do bairro.&lt;/p&gt;
-&lt;p&gt;Enquanto ajudava a salvar os vizinhos, Luiz Otávio enfrentava uma angústia pessoal. Ele acompanhava as buscas por dois familiares, desaparecidos desde o deslizamento.&lt;/p&gt;
-&lt;p&gt;“Meu sobrinho, de 21 anos, e a mãe dele, de 41. Ele chegou do serviço, deixou a mochila em casa e foi vê-la. Aí veio o desabamento”, conta.&lt;/p&gt;
-&lt;p&gt;Mesmo sem dormir e sem comer direito, Luiz Otávio mantinha o ritmo de trabalho nos escombros.&lt;/p&gt;
-&lt;p&gt;“Enquanto não achar todo mundo, não vou parar. Todo mundo aqui é família, amigo. Não tem como deixar ninguém para trás. É uma dor para todos&quot;, acrescenta.&lt;/p&gt;
-&lt;p&gt;As chuvas que atingiram a Zona da Mata mineira desde a última segunda-feira (23) provocaram uma sequência de deslizamentos, alagamentos e destruição em diferentes municípios. Segundo balanços preliminares, ao menos 30mortes já foram registradas nosmunicípios de Juiz de Fora e Ubá.&lt;/p&gt;
-&lt;p&gt;O Rio Paraibuna transbordou, houve inundações e soterramentos. Bairros ficaram isolados e houve mais de 40 chamadas emergenciais por inundações e risco estrutural. A Defesa Civil estima 440 pessoas desabrigadas que já receberam acolhimento provisório. O governo federal reconheceu oficialmente o estado de calamidade em Juiz de Fora.&lt;/p&gt;
-&lt;p&gt;Maringá elimina Boavista e avança na Copa do Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-02/soterrado-homem-sobrevive-com-ajuda-de-amigo-em-juiz-de-fora&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Prefeitura Matias Barbosa/Divulgação
-O barulho foi seco e repentino. Em segundos, Deivid Carlos da Silva estava soterrado nas ruínas desua casa no ...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-02-25 07:48:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-25 07:48:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-25 07:48:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-25 07:48:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/c1Dx5YOb6JXo1wZ0CMnDB0DgZrg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/24/matiasbarbosa.jpg?itok=wKUofa2u</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
       <title>STF julga decisão de Dino que suspendeu pagamento de penduricalhos</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/stf-julga-decisao-de-dino-que-suspendeu-pagamento-de-penduricalhos</link>
-      <pubDate>Wed, 25 Feb 2026 12:45:58 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 14:05:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/stf-julga-decisao-de-dino-que-suspendeu-pagamento-de-penduricalhos#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/stf-julga-decisao-de-dino-que-suspendeu-pagamento-de-penduricalhos#1007</guid>
       <description>© Marcello Casal Jr/ Agência Brasil
 O plenário do Supremo Tribunal Federal (STF) vai decidir nesta quarta-feira (25) se mantém a decisão individual d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/52FsIJbuEzhczCvp7JYSC-aVRxI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_abr_161019903.jpg?itok=hBrMwLPA&quot; alt=&quot;STF julga decisão de Dino que suspendeu pagamento de penduricalhos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -329,16 +375,16 @@ O plenário do Supremo Tribunal Federal (STF) vai decidir nesta quarta-feira (25
 &lt;p&gt;Além disso, o ministrodefendeu que o Congresso deve regulamentar o pagamento dos benefícios extrateto.&lt;/p&gt;
 &lt;p&gt;Após a decisão, diversasassociações que representam juízes, promotores, defensores públicos e membros de tribunais de contas recorreram ao Supremo para manter o pagamento dos penduricalhos.&lt;/p&gt;
 &lt;p&gt;Ontem (24), o Supremo e a cúpula do Congresso deram o primeiro passo para regulamentar o pagamento e decidiram fechar um acordo para a criação de regras de transição para as verbas extrateto.&lt;/p&gt;
-&lt;p&gt;Maringá elimina Boavista e avança na Copa do Brasil&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Sobe para 31 o número de mortos em decorrência das chuvas em Juiz de Fora e Ubá&lt;/p&gt;
+&lt;p&gt;Chuvas: sobe para 36 número de mortos na Zona da Mata mineira&lt;/p&gt;
+&lt;p&gt;Fortes chuvas em Juiz de Fora e Ubá deixam 36 mortos e segundo dia do julgamento de Marielle&lt;/p&gt;
 &lt;p&gt;Brasília sedia 6ª Conferência Nacional das Cidades a partir de hoje&lt;/p&gt;
+&lt;p&gt;Inmet emite alerta de grande perigo para chuvas intensas em Minas&lt;/p&gt;
 &lt;p&gt;Operação da PF combate organização que fraudava licitações&lt;/p&gt;
-&lt;p&gt;México envia segundo pacote de ajuda humanitária com alimentos a Cuba&lt;/p&gt;
 &lt;p&gt;Mortos em temporais em Juiz de Fora e Ubá chegam a 36&lt;/p&gt;
-&lt;p&gt;Chuvas deixam 384 desabrigados em Peruíbe, no litoral paulista&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/stf-julga-decisao-de-dino-que-suspendeu-pagamento-de-penduricalhos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;México envia segundo pacote de ajuda humanitária com alimentos a Cuba&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/stf-julga-decisao-de-dino-que-suspendeu-pagamento-de-penduricalhos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal Jr/ Agência Brasil
 O plenário do Supremo Tribunal Federal (STF) vai decidir nesta quarta-feira (25) se mantém a decisão individual d...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-02-25 07:28:00</wp:post_date>
       <wp:post_date_gmt>2026-02-25 07:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-25 07:28:00</wp:post_modified>
@@ -364,9 +410,9 @@ O plenário do Supremo Tribunal Federal (STF) vai decidir nesta quarta-feira (25
     <item>
       <title>Caixa paga Bolsa Família a beneficiários com NIS de final 8</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-8</link>
-      <pubDate>Wed, 25 Feb 2026 12:45:58 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 14:05:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-8#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-8#1008</guid>
       <description>A Caixa Econômica Federal paga nesta quarta-feira (25) a parcela de fevereirodo Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5C5tIWKwLzqG6fBZvP8Z4ZkOzn4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53627965394_380dd5f870_o.jpg?itok=Ezd0K5wE&quot; alt=&quot;Caixa paga Bolsa Família a beneficiários com NIS de final 8&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Caixa Econômica Federal paga nesta quarta-feira (25) a parcela de fevereirodo Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 8.&lt;/p&gt;
@@ -385,7 +431,7 @@ O plenário do Supremo Tribunal Federal (STF) vai decidir nesta quarta-feira (25
 &lt;p&gt;, que resgatou o Programa Bolsa Família (PBF). O Seguro Defeso é pago a pessoas que sobrevivem exclusivamente da pesca artesanal e que não podem exercer a atividade durante o período da piracema (reprodução dos peixes).&lt;/p&gt;
 &lt;p&gt;Cerca de 2,51 milhões de famílias estão na regra de proteção em fevereiro. Essa regra permite que famílias cujos membros consigam emprego e melhorem a renda recebam 50% do benefício a que teriam direito por até dois anos, desde que cada integrante receba o equivalente a até meio salário mínimo.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-8&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Caixa Econômica Federal paga nesta quarta-feira (25) a parcela de fevereirodo Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-02-25 07:02:00</wp:post_date>
       <wp:post_date_gmt>2026-02-25 07:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-25 07:02:00</wp:post_modified>
@@ -411,9 +457,9 @@ O plenário do Supremo Tribunal Federal (STF) vai decidir nesta quarta-feira (25
     <item>
       <title>Câmara aprova PL antifacção e endurece penas para crime organizado</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/camara-aprova-pl-antifaccao-e-endurece-penas-para-crime-organizado</link>
-      <pubDate>Wed, 25 Feb 2026 12:45:58 +0000</pubDate>
+      <pubDate>Wed, 25 Feb 2026 14:05:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/camara-aprova-pl-antifaccao-e-endurece-penas-para-crime-organizado#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/camara-aprova-pl-antifaccao-e-endurece-penas-para-crime-organizado#1009</guid>
       <description>© Kayo Magalhães/Câmara dos Deputados
 O Plenário da Câmara dos Deputados aprovou no final da noite de terça (24) o projeto de lei antifacção, que pre...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YuCtiuYhdAg7FuLd732HQWSH0Ro=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/06/camara_dos_deputados_votacao.jpg?itok=BHCjsBDt&quot; alt=&quot;Câmara aprova PL antifacção e endurece penas para crime organizado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -434,7 +480,7 @@ O Plenário da Câmara dos Deputados aprovou no final da noite de terça (24) o 
 &lt;p&gt;Ainda, os dependentes de quem se envolver com crime organizado não contarão com auxílio-reclusão se ele estiver preso provisoriamente ou cumprindo pena privativa de liberdade, em regime fechado ou semiaberto, em razão de ter cometido qualquer crime previsto no projeto.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/camara-aprova-pl-antifaccao-e-endurece-penas-para-crime-organizado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Kayo Magalhães/Câmara dos Deputados
 O Plenário da Câmara dos Deputados aprovou no final da noite de terça (24) o projeto de lei antifacção, que pre...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-02-25 00:50:00</wp:post_date>
       <wp:post_date_gmt>2026-02-25 00:50:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-25 00:50:00</wp:post_modified>
@@ -455,57 +501,6 @@ O Plenário da Câmara dos Deputados aprovou no final da noite de terça (24) o 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/YuCtiuYhdAg7FuLd732HQWSH0Ro=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/06/camara_dos_deputados_votacao.jpg?itok=BHCjsBDt</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mega-sena acumula e prêmio principal vai para R$ 130 milhões</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mega-sena-acumula-e-premio-principal-vai-para-r-130-milhoes</link>
-      <pubDate>Wed, 25 Feb 2026 12:45:58 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mega-sena-acumula-e-premio-principal-vai-para-r-130-milhoes#1009</guid>
-      <description>© Marcello Casal JrAgência Brasil
-Nenhum apostador acertou as seis dezenas do concurso 2.976da Mega-Sena, realizado nesta terça-feira (24).
-O prêmio ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ASvGqrFQWxHGkHnR-77u4qo0EYY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena-1112203502_0.jpg?itok=R9XdpZMk&quot; alt=&quot;Mega-sena acumula e prêmio principal vai para R$ 130 milhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
-&lt;p&gt;Nenhum apostador acertou as seis dezenas do concurso 2.976da Mega-Sena, realizado nesta terça-feira (24).&lt;/p&gt;
-&lt;p&gt;O prêmio acumulou e está estimado em R$ 130milhões para o próximo sorteio.&lt;/p&gt;
-&lt;p&gt;Os números sorteados foram:07 -09 -10 -21 -28 -43&lt;/p&gt;
-&lt;p&gt;136 apostas acertaram cinco dezenas e irão receber R$ 27.292,50cada&lt;/p&gt;
-&lt;p&gt;8.973 apostas acertaram quatro dezenas e irão receber R$ 681,85 cada&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
-&lt;p&gt;Para o próximo concurso, as apostas podem ser feitas até as 20h (horário de Brasília) de quinta-feira (26), em qualquer lotérica do país ou&lt;/p&gt;
-&lt;p&gt;, no site ou aplicativo da Caixa.&lt;/p&gt;
-&lt;p&gt;A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;Maringá elimina Boavista e avança na Copa do Brasil&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Sobe para 31 o número de mortos em decorrência das chuvas em Juiz de Fora e Ubá&lt;/p&gt;
-&lt;p&gt;Brasília sedia 6ª Conferência Nacional das Cidades a partir de hoje&lt;/p&gt;
-&lt;p&gt;Operação da PF combate organização que fraudava licitações&lt;/p&gt;
-&lt;p&gt;Mortos em temporais em Juiz de Fora e Ubá chegam a 36&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/mega-sena-acumula-e-premio-principal-vai-para-r-130-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal JrAgência Brasil
-Nenhum apostador acertou as seis dezenas do concurso 2.976da Mega-Sena, realizado nesta terça-feira (24).
-O prêmio ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-02-24 21:36:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-24 21:36:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-24 21:36:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-24 21:36:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/ASvGqrFQWxHGkHnR-77u4qo0EYY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena-1112203502_0.jpg?itok=R9XdpZMk</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
