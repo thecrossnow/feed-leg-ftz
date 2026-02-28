@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 28 Feb 2026 21:14:27 +0000</pubDate>
+    <pubDate>Sat, 28 Feb 2026 22:15:57 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,160 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Financiamentos a desabrigados em Minas seguirão modelo do RS, diz Lula</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/financiamentos-desabrigados-em-minas-seguirao-modelo-do-rs-diz-lula</link>
+      <pubDate>Sat, 28 Feb 2026 22:15:57 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/financiamentos-desabrigados-em-minas-seguirao-modelo-do-rs-diz-lula#1000</guid>
+      <description>Os financiamentos de moradias a famílias que perderam a casa nas fortes chuvas que atingiram a Zona da Mata de Minas Gerais seguirão o modelo adotado...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2ZDG_-IpymKypvdhyB0UNVcVEm0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/_rbr1367.jpg.jpg?itok=S8OEiEz1&quot; alt=&quot;Financiamentos a desabrigados em Minas seguirão modelo do RS, diz Lula&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Os financiamentos de moradias a famílias que perderam a casa nas fortes chuvas que atingiram a Zona da Mata de Minas Gerais seguirão o modelo adotado nas enchentes do Rio Grande do Sul há dois anos, disse neste sábado (28) o presidente Luiz Inácio Lula da Silva.&lt;/p&gt;
+&lt;p&gt;Em declaração conjunta à imprensa após a reunião com os prefeitos de Juiz de Fora, Ubá e Matias Pereira,&lt;/p&gt;
+&lt;p&gt;Lula afirmou que a União dará apoio integral às cidades atingidas.&lt;/p&gt;
+&lt;p&gt;As medidas incluem assistência às prefeituras e linhas de crédito para pequenos empresários prejudicados pelos temporais.&lt;/p&gt;
+&lt;p&gt;“Aprendemos com a tragédia no Rio Grande do Sul. Vamos ajudar os prefeitos a recuperar suas cidades, vamos ajudar os pequenos empresários a ter crédito para recuperar suas empresas e vamos dar casa para as pessoas que perderam suas casas”, declarou Lula.&lt;/p&gt;
+&lt;p&gt;Assim como nas enchentes do Rio Grande do Sul,&lt;/p&gt;
+&lt;p&gt;as novas residências, explicou o presidente, não serão reconstruídas em locais considerados de risco&lt;/p&gt;
+&lt;p&gt;. Caso o município não disponha de terrenos adequados,&lt;/p&gt;
+&lt;p&gt;o governo poderá adotar o modelo de “compra assistida”, já utilizado em outras tragédias climáticas no país.&lt;/p&gt;
+&lt;p&gt;Nesse formato, a família que perdeu o imóvel recebe um valor do governo federal e pode adquirir uma casa nova ou usada em qualquer cidade do estado&lt;/p&gt;
+&lt;p&gt;. Todo o custo é arcado pela União. “Se a cidade não tiver terreno, vamos arrumar. Se não tiver, vamos adotar o sistema de compra assistida”, afirmou Lula.&lt;/p&gt;
+&lt;p&gt;prioridade é garantir moradia digna e segura às famílias atingidas&lt;/p&gt;
+&lt;p&gt;, evitando a reconstrução em encostas ou áreas sujeitas a alagamentos.&lt;/p&gt;
+&lt;p&gt;Sobrevoo e visita a desabrigados&lt;/p&gt;
+&lt;p&gt;O presidente desembarcou pela manhã na região e sobrevoou cidades atingidas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/financiamentos-desabrigados-em-minas-seguirao-modelo-do-rs-diz-lula&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Os financiamentos de moradias a famílias que perderam a casa nas fortes chuvas que atingiram a Zona da Mata de Minas Gerais seguirão o modelo adotado...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-02-28 18:35:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-28 18:35:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-28 18:35:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-28 18:35:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/2ZDG_-IpymKypvdhyB0UNVcVEm0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/_rbr1367.jpg.jpg?itok=S8OEiEz1</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Pix por aproximação completa um ano com baixa adesão</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/pix-por-aproximacao-completa-um-ano-com-baixa-adesao</link>
+      <pubDate>Sat, 28 Feb 2026 22:15:57 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/pix-por-aproximacao-completa-um-ano-com-baixa-adesao#1001</guid>
+      <description>© Marcello Casal jr/Agência Brasil
+Modalidade criada para acelerar as transações via Pix,
+o Pix por aproximação completa um ano neste sábado (28)
+com...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/TM_Zd7Vw8parSxpIb6ifREl47J0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pix_0411202553.jpg?itok=t_TWtp-5&quot; alt=&quot;Pix por aproximação completa um ano com baixa adesão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello Casal jr/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Modalidade criada para acelerar as transações via Pix,&lt;/p&gt;
+&lt;p&gt;o Pix por aproximação completa um ano neste sábado (28)&lt;/p&gt;
+&lt;p&gt;com o desafio de atrair o interesse do público. Segundo as estatísticas mais recentes do Banco Central (BC),&lt;/p&gt;
+&lt;p&gt;as transferências de dinheiro nessa categoria corresponderam a apenas 0,01% do total de transações Pix e a 0,02% do valor movimentado em janeiro.&lt;/p&gt;
+&lt;p&gt;De um total de 6,33 bilhões de transferências Pix no mês passado, apenas 1,057 milhão foi realizadopor meio da aproximação do celular a uma maquininha de cartão ou a uma tela de computador. Em relação aos valores, R$ 568,73 milhões foram movimentados, de um total de R$ 2,69 trilhões em janeiro.&lt;/p&gt;
+&lt;p&gt;Segundo o diretor executivo da Associação dos Iniciadores de Transação de Pagamento (Init), Gustavo Lino, as restrições de segurança do Banco Central e os limites operacionais tornam a adesão ao Pix por aproximação mais lenta. No entanto, ele diz que&lt;/p&gt;
+&lt;p&gt;os últimos meses mostram tendência de expansão na modalidade, principalmente entre empresas.&lt;/p&gt;
+&lt;p&gt;“O potencial é grande, sobretudo quando a oferta amadurece e passa a suportar mais casos de uso, inclusive no ambiente corporativo, mantendo a confiança como fundamento”, afirma.&lt;/p&gt;
+&lt;p&gt;Para Lino, com a consolidação da oferta do Pix por aproximação pelo comércio e pelas demais empresas, o uso tende a expandir-se, principalmente em pontos de venda com grande fila. “Um ano depois, o Pix por aproximação reforça a direção de evolução do Pix para estar mais presente em pagamentos de alta recorrência e no ponto de venda”, acrescenta.&lt;/p&gt;
+&lt;p&gt;No caso de pagamentos no ambiente corporativo, em que uma filial transfere recursos para a matriz, por exemplo, o diretor executivo da Init acredita que o desenvolvimento de jornadas (procedimentos de pagamento) específicas para empresas ampliará o interesse. Segundo ele, todo o processo está sendo feito com a preservação dos controles de segurança.&lt;/p&gt;
+&lt;p&gt;Apesar da baixa participação no sistema Pix, a modalidade de aproximação tem crescido.&lt;/p&gt;
+&lt;p&gt;Em julho de 2025, cinco meses depois do lançamento, apenas 35,3 mil transações nessa opção tinham sido feitas. Em novembro do ano passado, o número de transferências ultrapassou pela primeira vez a marca de 1 milhão.&lt;/p&gt;
+&lt;p&gt;Os montantes crescem de forma exponencial. De R$ 95,1 mil em julho do ano passado, pulou para R$ 1,103 milhão no mês seguinte, para R$ 24,205 milhões em novembro e atingiu R$ 133,151 milhões movimentados em dezembro.&lt;/p&gt;
+&lt;p&gt;Para inibir golpes por criminosos que usam maquininhas de cartões para retirarvalores, o BC estabeleceu limite padrão de R$ 500 a cada Pix por aproximação quando a transação é feita via Google Pay, carteira digital para dispositivos Android, presente em pouco mais de 80% dos celulares dos brasileiros.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/pix-por-aproximacao-completa-um-ano-com-baixa-adesao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello Casal jr/Agência Brasil
+Modalidade criada para acelerar as transações via Pix,
+o Pix por aproximação completa um ano neste sábado (28)
+com...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-02-28 18:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-28 18:00:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-28 18:00:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-28 18:00:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/TM_Zd7Vw8parSxpIb6ifREl47J0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pix_0411202553.jpg?itok=t_TWtp-5</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Revisão em taxas de importação de eletrônicos mantém preço sem aumento</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/revisao-em-taxas-de-importacao-de-eletronicos-mantem-preco-sem-aumento</link>
+      <pubDate>Sat, 28 Feb 2026 22:15:57 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/revisao-em-taxas-de-importacao-de-eletronicos-mantem-preco-sem-aumento#1002</guid>
+      <description>O governo federal decidiu revisar as tarifas de importação de smartphones e de produtos eletroeletrônicos.
+A medida foi aprovada nesta sexta-feira (2...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iRq6ZlzgneamcdBYb1OEIEkJBDM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/43591452344_c280b9cb5e_o_0.jpg?itok=S9Ns9MpW&quot; alt=&quot;Revisão em taxas de importação de eletrônicos mantém preço sem aumento&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O governo federal decidiu revisar as tarifas de importação de smartphones e de produtos eletroeletrônicos.&lt;/p&gt;
+&lt;p&gt;A medida foi aprovada nesta sexta-feira (27)&lt;/p&gt;
+&lt;p&gt;pelo Comitê-Executivo de Gestão da Câmara de Comércio Exterior (Gecex), vinculado à Câmara de Comércio Exterior (Camex).&lt;/p&gt;
+&lt;p&gt;O impacto da decisão sobre os preços ao consumidor é “praticamente nulo”, estimado em um aumento de 0,04%.&lt;/p&gt;
+&lt;p&gt;O cálculo é de Uallace Moreira Lima, secretário de Desenvolvimento Industrial, Inovação, Comércio e Serviços do Ministério do Desenvolvimento, Indústria, Comércio e Serviços, que acompanhou o vice-presidente Geraldo Alckmin em agenda neste sábado, em São Paulo.&lt;/p&gt;
+&lt;p&gt;Segundo ele, a produção de celulares no país já é majoritariamente nacional: cerca de 95% dos aparelhos comprados pelos brasileiros são fabricados no Brasil. Por isso, as mudanças têm impacto tão baixo para o consumidor.&lt;/p&gt;
+&lt;p&gt;A decisão do governo envolve um conjunto de 120 produtos. Desse total:&lt;/p&gt;
+&lt;p&gt;- 105 itens tiveram o imposto de importação zerado;&lt;/p&gt;
+&lt;p&gt;- 15 produtos que teriam aumento de tarifa voltaram aos percentuais anteriores. Entre eles, notebooks, smartphones, roteadores, impressoras em braile e mesas digitalizadoras.&lt;/p&gt;
+&lt;p&gt;Esses 15 itens, segundo o secretário, seriam reajustados para 16% ou 20%, ou passariam de 12% para 16%, por possuírem similares produzidos no país.&lt;/p&gt;
+&lt;p&gt;Com a revisão, mantiveramalíquotas anteriores, como 10% ou 16%.&lt;/p&gt;
+&lt;p&gt;Na prática, a medida restabelece as condições anteriores para esses produtos e amplia a lista de itens com tarifa zerada.&lt;/p&gt;
+&lt;p&gt;Segundo Uallace Moreira Lima, o objetivo central da decisão é defender a cadeia produtiva nacional e, ao mesmo tempo, manter baixos os custos de produção.&lt;/p&gt;
+&lt;p&gt;O secretário explicou que foi mantido o regime de ex-tarifário, que reduz praticamente a zero o imposto de importação para determinados bens.&lt;/p&gt;
+&lt;p&gt;&quot;A lógica é garantir que as empresas continuem tendo acesso a insumos e equipamentos com menor custo, sem prejudicar a indústria nacional.&quot;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/revisao-em-taxas-de-importacao-de-eletronicos-mantem-preco-sem-aumento&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O governo federal decidiu revisar as tarifas de importação de smartphones e de produtos eletroeletrônicos.
+A medida foi aprovada nesta sexta-feira (2...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-02-28 17:48:00</wp:post_date>
+      <wp:post_date_gmt>2026-02-28 17:48:00</wp:post_date_gmt>
+      <wp:post_modified>2026-02-28 17:48:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-02-28 17:48:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/iRq6ZlzgneamcdBYb1OEIEkJBDM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/43591452344_c280b9cb5e_o_0.jpg?itok=S9Ns9MpW</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Israel diz que cerca de 200 caças atingiram mais de 500 alvos no Irã</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/israel-diz-que-cerca-de-200-cacas-atingiram-mais-de-500-alvos-no-ira</link>
-      <pubDate>Sat, 28 Feb 2026 21:14:27 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 22:15:57 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/israel-diz-que-cerca-de-200-cacas-atingiram-mais-de-500-alvos-no-ira#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/israel-diz-que-cerca-de-200-cacas-atingiram-mais-de-500-alvos-no-ira#1003</guid>
       <description>© Frame/Reuters - Proibido reprodução
 A Força Aérea Israelense (IAF, na sigla em inglês) confirmou que
 mais de 500 alvos foram atingidos
@@ -51,7 +200,7 @@ neste sábado...</description>
 A Força Aérea Israelense (IAF, na sigla em inglês) confirmou que
 mais de 500 alvos foram atingidos
 neste sábado...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-02-28 17:19:00</wp:post_date>
       <wp:post_date_gmt>2026-02-28 17:19:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-28 17:19:00</wp:post_modified>
@@ -77,9 +226,9 @@ neste sábado...</excerpt:encoded>
     <item>
       <title>Ataques ao Irã deixam ao menos 201 mortos e cerca de 750 feridos</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/ataques-ao-ira-deixam-ao-menos-201-mortos-e-cerca-de-750-feridos</link>
-      <pubDate>Sat, 28 Feb 2026 21:14:27 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 22:15:57 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/ataques-ao-ira-deixam-ao-menos-201-mortos-e-cerca-de-750-feridos#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/ataques-ao-ira-deixam-ao-menos-201-mortos-e-cerca-de-750-feridos#1004</guid>
       <description>© Frame/Reuters - Proibido reprodução
 ofensiva militar dos Estados Unidos e de Israel ao Irã
 , desencadeada neste sábado (28), deixou ao menos 201 pe...</description>
@@ -102,7 +251,7 @@ ofensiva militar dos Estados Unidos e de Israel ao Irã
       <excerpt:encoded>© Frame/Reuters - Proibido reprodução
 ofensiva militar dos Estados Unidos e de Israel ao Irã
 , desencadeada neste sábado (28), deixou ao menos 201 pe...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-02-28 16:34:00</wp:post_date>
       <wp:post_date_gmt>2026-02-28 16:34:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-28 16:34:00</wp:post_modified>
@@ -128,9 +277,9 @@ ofensiva militar dos Estados Unidos e de Israel ao Irã
     <item>
       <title>Agência de energia atômica descarta vazamento radiológico no Irã</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/agencia-de-energia-atomica-descarta-vazamento-radiologico-no-ira</link>
-      <pubDate>Sat, 28 Feb 2026 21:14:27 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 22:15:57 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/agencia-de-energia-atomica-descarta-vazamento-radiologico-no-ira#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/agencia-de-energia-atomica-descarta-vazamento-radiologico-no-ira#1005</guid>
       <description>© Reuters/Lisi Niesner/Proibida reprodução
 A Agência Internacional de Energia Atômica (Aiea) comunicou neste sábado (28) que, apesar da recente escal...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_2b0XSfOlGpUmIIg2cEbCBNoTxw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/12/2025-06-12t112705z_1_lynxmpel5b0h1_rtroptp_4_iran-nuclear-iaea.jpg?itok=v_Tf6XB_&quot; alt=&quot;Agência de energia atômica descarta vazamento radiológico no Irã&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -147,11 +296,11 @@ A Agência Internacional de Energia Atômica (Aiea) comunicou neste sábado (28)
 &lt;p&gt;Ataque ao Irã é por petróleo e controle da região, dizem especialistas&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Fluminense e Vasco duelam por uma vaga na decisão do Campeonato Carioca&lt;/p&gt;
 &lt;p&gt;Lula questiona não utilização de recursos do PAC por parte de Minas&lt;/p&gt;
-&lt;p&gt;Pix por aproximação completa um ano com baixa adesão&lt;/p&gt;
-&lt;p&gt;Alvo de ataques, Irã detém terceira maior reserva de petróleo no mundo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/agencia-de-energia-atomica-descarta-vazamento-radiologico-no-ira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Conselho de Segurança faz reunião de emergência após ataques ao Irã&lt;/p&gt;
+&lt;p&gt;Financiamentos a desabrigados em Minas seguirão modelo do RS, diz Lula&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/agencia-de-energia-atomica-descarta-vazamento-radiologico-no-ira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Lisi Niesner/Proibida reprodução
 A Agência Internacional de Energia Atômica (Aiea) comunicou neste sábado (28) que, apesar da recente escal...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-02-28 16:14:00</wp:post_date>
       <wp:post_date_gmt>2026-02-28 16:14:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-28 16:14:00</wp:post_modified>
@@ -177,9 +326,9 @@ A Agência Internacional de Energia Atômica (Aiea) comunicou neste sábado (28)
     <item>
       <title>Brasil deve adotar cautela entre EUA e Irã, parceiro do Brics</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/brasil-deve-adotar-cautela-entre-eua-e-ira-parceiro-do-brics</link>
-      <pubDate>Sat, 28 Feb 2026 21:14:27 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 22:15:57 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/brasil-deve-adotar-cautela-entre-eua-e-ira-parceiro-do-brics#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/brasil-deve-adotar-cautela-entre-eua-e-ira-parceiro-do-brics#1006</guid>
       <description>O Brasil deve adotar postura cautelosa em relação aos
 ataques dos Estados Unidos e de Israel ao Irã
 , neste sábado (28). Esse comportamento é explica...</description>
@@ -202,7 +351,7 @@ ataques dos Estados Unidos e de Israel ao Irã
       <excerpt:encoded>O Brasil deve adotar postura cautelosa em relação aos
 ataques dos Estados Unidos e de Israel ao Irã
 , neste sábado (28). Esse comportamento é explica...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-02-28 15:48:00</wp:post_date>
       <wp:post_date_gmt>2026-02-28 15:48:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-28 15:48:00</wp:post_modified>
@@ -228,9 +377,9 @@ ataques dos Estados Unidos e de Israel ao Irã
     <item>
       <title>Com medo de novo deslizamento em MG, pedreiro cobra moradia digna</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/com-medo-de-novo-deslizamento-em-mg-pedreiro-cobra-moradia-digna</link>
-      <pubDate>Sat, 28 Feb 2026 21:14:27 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 22:15:57 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/com-medo-de-novo-deslizamento-em-mg-pedreiro-cobra-moradia-digna#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/com-medo-de-novo-deslizamento-em-mg-pedreiro-cobra-moradia-digna#1007</guid>
       <description>Desde que era adolescente, o pedreiro Danilo Fartes seguiu os conselhos do pai para juntar dinheiro e montar a própria casa. Quem entra no imóvel ond...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MU1Iq9Af4rtxzZDai0O6T8BRp7A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/27/0g0a4025.jpg?itok=buGBcS1i&quot; alt=&quot;Com medo de novo deslizamento em MG, pedreiro cobra moradia digna&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Desde que era adolescente, o pedreiro Danilo Fartes seguiu os conselhos do pai para juntar dinheiro e montar a própria casa. Quem entra no imóvel onde vivem ele, a mulher e o filho no Parque Jardim Burnier, em Juiz de Fora, percebe o cuidado para deixar os ambientes confortáveis.&lt;/p&gt;
@@ -249,7 +398,7 @@ ataques dos Estados Unidos e de Israel ao Irã
 &lt;p&gt;o pedreiro se esforça para manter a esperança entre aqueles que continuam vivos.&lt;/p&gt;
 &lt;p&gt;“Tenho trabalhado na organização do trânsito, na remoção de escombros e na distribuição de alimentos. A gente vai ajudando do jeito que pode. Não tem muito o que fazer agora”, diz Danilo.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/com-medo-de-novo-deslizamento-em-mg-pedreiro-cobra-moradia-digna&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Desde que era adolescente, o pedreiro Danilo Fartes seguiu os conselhos do pai para juntar dinheiro e montar a própria casa. Quem entra no imóvel ond...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-02-28 15:02:00</wp:post_date>
       <wp:post_date_gmt>2026-02-28 15:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-28 15:02:00</wp:post_modified>
@@ -275,9 +424,9 @@ ataques dos Estados Unidos e de Israel ao Irã
     <item>
       <title>Itamaraty desaconselha viagens a 11 países após ataque ao Irã</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/itamaraty-desaconselha-viagens-11-paises-apos-ataque-ao-ira</link>
-      <pubDate>Sat, 28 Feb 2026 21:14:27 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 22:15:57 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/itamaraty-desaconselha-viagens-11-paises-apos-ataque-ao-ira#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/itamaraty-desaconselha-viagens-11-paises-apos-ataque-ao-ira#1008</guid>
       <description>© Reuters - Proibido reprodução
 O Ministério das Relações Exteriores emitiu neste sábado (28) um
 orientando brasileiros a evitarem viagens a 11 paíse...</description>
@@ -300,7 +449,7 @@ orientando brasileiros a evitarem viagens a 11 paíse...</description>
       <excerpt:encoded>© Reuters - Proibido reprodução
 O Ministério das Relações Exteriores emitiu neste sábado (28) um
 orientando brasileiros a evitarem viagens a 11 paíse...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-02-28 14:28:00</wp:post_date>
       <wp:post_date_gmt>2026-02-28 14:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-28 14:28:00</wp:post_modified>
@@ -326,9 +475,9 @@ orientando brasileiros a evitarem viagens a 11 paíse...</excerpt:encoded>
     <item>
       <title>Ataque ao Irã pode levar a aumento do petróleo, avaliam especialistas</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/ataque-ao-ira-pode-levar-aumento-do-petroleo-avaliam-especialistas</link>
-      <pubDate>Sat, 28 Feb 2026 21:14:27 +0000</pubDate>
+      <pubDate>Sat, 28 Feb 2026 22:15:57 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/ataque-ao-ira-pode-levar-aumento-do-petroleo-avaliam-especialistas#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/ataque-ao-ira-pode-levar-aumento-do-petroleo-avaliam-especialistas#1009</guid>
       <description>© Majid Asgaripour/WANA/Reuters - Proibido reprodução
 ataque dos Estados Unidos e de Israel
 ao território do Irã, neste sábado (28), deve ter reflexo...</description>
@@ -351,7 +500,7 @@ ao território do Irã, neste sábado (28), deve ter reflexo...</description>
       <excerpt:encoded>© Majid Asgaripour/WANA/Reuters - Proibido reprodução
 ataque dos Estados Unidos e de Israel
 ao território do Irã, neste sábado (28), deve ter reflexo...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-02-28 14:23:00</wp:post_date>
       <wp:post_date_gmt>2026-02-28 14:23:00</wp:post_date_gmt>
       <wp:post_modified>2026-02-28 14:23:00</wp:post_modified>
@@ -372,149 +521,6 @@ ao território do Irã, neste sábado (28), deve ter reflexo...</excerpt:encoded
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/8_zsJGQSwSbVSetKl4kYk7ORHmM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/2026-02-28t092503z_519997222_rc2xujab6810_rtrmadp_3_iran-crisis-blast_0.jpg?itok=1qxm-zlR</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Morre aos 78 anos o diretor e ator Dennis Carvalho</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/morre-aos-78-anos-o-diretor-e-ator-dennis-carvalho</link>
-      <pubDate>Sat, 28 Feb 2026 21:14:27 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/morre-aos-78-anos-o-diretor-e-ator-dennis-carvalho#1007</guid>
-      <description>Morreu neste sábado (28), no Rio de Janeiro, aos 78 anos de idade, o ator e diretor Dennis Carvalho. Natural de São Paulo, ele estava internado no Ho...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/G-BwKD_HhFZs3bF3-LaC-Spri_c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/dennis_carvalho_001.jpg?itok=SVluI4kl&quot; alt=&quot;Morre aos 78 anos o diretor e ator Dennis Carvalho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Morreu neste sábado (28), no Rio de Janeiro, aos 78 anos de idade, o ator e diretor Dennis Carvalho. Natural de São Paulo, ele estava internado no Hospital Copa Star, em Copacabana, Rio de Janeiro.&lt;/p&gt;
-&lt;p&gt;A causa da morte não foi revelada, a pedido dos familiares do artista.&lt;/p&gt;
-&lt;p&gt;Ele deixa três filhos: Luíza, do casamento com a também atriz Deborah Evelyn; Leonardo, da união com Christiane Torloni, e Tainah, filha de Monique Alves.&lt;/p&gt;
-&lt;p&gt;Dennis Carvalho dirigiu novelas de grande audiência, como&lt;/p&gt;
-&lt;p&gt;. O início de sua trajetória foi marcado por participações em teleteatros e dublagens de atrações televisivas marcantes. Foi a voz, por exemplo, do capitão Kirk, de&lt;/p&gt;
-&lt;p&gt;Essas experiências no currículo abriram as portas para Dennis na&lt;/p&gt;
-&lt;p&gt;, com a qual manteve contrato até os dias de hoje.&lt;/p&gt;
-&lt;p&gt;Dirigiu na emissora, além de novelas, minisséries, como Anos Rebeldes, e o programa de humor Sai de Baixo, exibido semanalmente, com grande Ibope.&lt;/p&gt;
-&lt;p&gt;Ataque ao Irã é por petróleo e controle da região, dizem especialistas&lt;/p&gt;
-&lt;p&gt;Ouça ao vivo: Fluminense e Vasco duelam por uma vaga na decisão do Campeonato Carioca&lt;/p&gt;
-&lt;p&gt;Lula questiona não utilização de recursos do PAC por parte de Minas&lt;/p&gt;
-&lt;p&gt;Pix por aproximação completa um ano com baixa adesão&lt;/p&gt;
-&lt;p&gt;Alvo de ataques, Irã detém terceira maior reserva de petróleo no mundo&lt;/p&gt;
-&lt;p&gt;Revisão em taxas de importação de eletrônicos mantém preço sem aumento&lt;/p&gt;
-&lt;p&gt;Israel diz que cerca de 200 caças atingiram mais de 500 alvos no Irã&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-02/morre-aos-78-anos-o-diretor-e-ator-dennis-carvalho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Morreu neste sábado (28), no Rio de Janeiro, aos 78 anos de idade, o ator e diretor Dennis Carvalho. Natural de São Paulo, ele estava internado no Ho...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-02-28 14:04:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-28 14:04:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-28 14:04:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-28 14:04:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/G-BwKD_HhFZs3bF3-LaC-Spri_c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/dennis_carvalho_001.jpg?itok=SVluI4kl</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>China, África e países do Golfo Pérsico condenam ataques ao Irã</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/china-africa-e-paises-do-golfo-persico-condenam-ataques-ao-ira</link>
-      <pubDate>Sat, 28 Feb 2026 21:14:27 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/china-africa-e-paises-do-golfo-persico-condenam-ataques-ao-ira#1008</guid>
-      <description>© REUTERS/Rami Shlush - Proibido reprodução
-Governos e organizações internacionais se manifestaram nas redes sociais neste sábado (28) para condenar ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vqx5c4R9CHYncCBAu5CYIE0901Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/2026-02-28t121246z_750855252_rc2yujach9kv_rtrmadp_3_iran-crisis-israel_0.jpg?itok=yIMb9Cin&quot; alt=&quot;China, África e países do Golfo Pérsico condenam ataques ao Irã&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Rami Shlush - Proibido reprodução&lt;/p&gt;
-&lt;p&gt;Governos e organizações internacionais se manifestaram nas redes sociais neste sábado (28) para condenar os ataques militares envolvendo Irã, Estados Unidos e Israel, além das ações que atingiram países do Golfo. As declarações pedem cessação das hostilidades, respeito ao direito internacional e retomada do diálogo.&lt;/p&gt;
-&lt;p&gt;O Ministério das Relações Exteriores da Arábia Saudita condenou o que classificou como “flagrante agressão iraniana” e violação da soberania dos Emirados Árabes Unidos, Bahrein, Catar, Kuwait e Jordânia.&lt;/p&gt;
-&lt;p&gt;O governo saudita declarou solidariedade “total e inabalável” aos países citados e afirmou estar pronta para apoiar quaisquer medidas adotadas em defesa de sua soberania. O governo saudita também alertou para as “graves consequências” da contínua violação dos princípios do direito internacional.&lt;/p&gt;
-&lt;p&gt;O governo do Catar condenou o lançamento de mísseis balísticos iranianos contra seu território e classificou o ataque como violação de sua soberania e integridade territorial.&lt;/p&gt;
-&lt;p&gt;Doha afirmou que se reserva o direito de responder de forma proporcional, conforme o direito internacional, e reiterou que tem defendido historicamente o diálogo com Teerã como forma de resolver disputas regionais.&lt;/p&gt;
-&lt;p&gt;O país também declarou solidariedade ao Kuwait, Emirados Árabes Unidos, Jordânia e Bahrein, e pediu a cessação imediata das ações que possam ampliar o conflito.&lt;/p&gt;
-&lt;p&gt;O Ministério das Relações Exteriores da China declarou estar “extremamente preocupado” com os ataques e exigiu a interrupção imediata das ações militares.&lt;/p&gt;
-&lt;p&gt;O governo em Pequim defendeu o respeito à soberania e à integridade territorial do Irã, além da retomada do diálogo e das negociações para preservar a estabilidade no Oriente Médio.&lt;/p&gt;
-&lt;p&gt;A União Africana divulgou nota assinada pelo presidente da Comissão, Mahmoud Ali Youssouf, manifestando “profunda preocupação” com a escalada militar.&lt;/p&gt;
-&lt;p&gt;Segundo o bloco, uma intensificação do conflito pode afetar mercados de energia, segurança alimentar e estabilidade econômica, especialmente em países africanos que já enfrentam pressões internas.&lt;/p&gt;
-&lt;p&gt;A entidade pediu moderação, desescalada urgente e respeito à Carta das Nações Unidas, além de apoio a esforços de mediação conduzidos por Omã, país do Golfo Pérsico tradicionalmente cenário de negociações.&lt;/p&gt;
-&lt;p&gt;As manifestações ocorrem em meio ao aumento das tensões no Oriente Médio, com líderes internacionais alertando para o risco de um confronto regional de maiores proporções.&lt;/p&gt;
-&lt;p&gt;Ataque ao Irã é por petróleo e controle da região, dizem especialistas&lt;/p&gt;
-&lt;p&gt;Ouça ao vivo: Fluminense e Vasco duelam por uma vaga na decisão do Campeonato Carioca&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-02/china-africa-e-paises-do-golfo-persico-condenam-ataques-ao-ira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Rami Shlush - Proibido reprodução
-Governos e organizações internacionais se manifestaram nas redes sociais neste sábado (28) para condenar ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-02-28 13:52:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-28 13:52:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-28 13:52:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-28 13:52:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/vqx5c4R9CHYncCBAu5CYIE0901Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/2026-02-28t121246z_750855252_rc2yujach9kv_rtrmadp_3_iran-crisis-israel_0.jpg?itok=yIMb9Cin</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Perdas materiais serão recuperadas, diz Lula em visita a Minas Gerais</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/perdas-materiais-serao-recuperadas-diz-lula-em-visita-minas-gerais</link>
-      <pubDate>Sat, 28 Feb 2026 21:14:27 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/perdas-materiais-serao-recuperadas-diz-lula-em-visita-minas-gerais#1009</guid>
-      <description>O presidente Luiz Inácio Lula da Silva afirmou, neste sábado (28), que todos os prejuízos causados pelas chuvas nos municípios da Zona da Mata de Min...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2_rzbQ5MZAtX0j6rh1WTRkTj39M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/55120979973_f9089a1132_o.jpg?itok=7VrJcvrk&quot; alt=&quot;Perdas materiais serão recuperadas, diz Lula em visita a Minas Gerais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O presidente Luiz Inácio Lula da Silva afirmou, neste sábado (28), que todos os prejuízos causados pelas chuvas nos municípios da Zona da Mata de Minas Gerais serão recuperados. Lula está na região e, à tarde, vai se reunir com os prefeitos Margarida Salomão, de Juiz de Fora; José Damato, de Ubá; e Maurício dos Reis, de Matias Barbosa.&lt;/p&gt;
-&lt;p&gt;. Outros dois municípios –Divinésia e Senador Firmino –encontram-se em emergência.&lt;/p&gt;
-&lt;p&gt;“Os prefeitos têm que fazer um trabalho muito sério de levantamento de todos os prejuízos. A única coisa que, lamentavelmente, a gente não pode recuperar é a vida das pessoas que morreram”, disse durante visita a uma das áreas afetadas, em Ubá.&lt;/p&gt;
-&lt;p&gt;“Aquilo quer for material, que a cidade teve prejuízo, educação, saúde, as casas, nós vamos garantir que as pessoas vão ter de volta”, acrescentou o presidente.&lt;/p&gt;
-&lt;p&gt;O número de mortes nas enchentes e deslizamentos de terra em Minas Gerais&lt;/p&gt;
-&lt;p&gt;, das quais 60 em Juiz de Fora e seis em Ubá, informou o Corpo de Bombeiros&lt;/p&gt;
-&lt;p&gt;. Três pessoas ainda seguem desaparecidas, sendo duas em Ubá e uma em Juiz de Fora.&lt;/p&gt;
-&lt;p&gt;o Ministério da Integração e do Desenvolvimento Regional aprovou recursos no valor de R$ 11,3 milhões para socorrer as três cidades mais afetadas.&lt;/p&gt;
-&lt;p&gt;Esses recursos são voltados tanto para assistência humanitária como para restabelecimento dos serviços essenciais, por intermédio dos planos de trabalho apresentados pelas prefeituras.&lt;/p&gt;
-&lt;p&gt;Também em Ubá, o ministro do Desenvolvimento e Assistência Social, Família e Combate à Fome, Wellington Dias, afirmou que as equipes do governo, incluindo as do Sistema Único de Assistência Social (Suas), estão em toda a região, atuando também nos municípios menores para atender a população e auxiliar na elaboração dos planos.&lt;/p&gt;
-&lt;p&gt;“Não vai faltar apoio a qualquer município de Minas Gerais, é um tempo que não é curto, aqui tem uma fase, de apoio humanitário, de salvamento, de alimentação, de abrigo, mas agora nós já estamos trabalhando nos projetos também”, disse.&lt;/p&gt;
-&lt;p&gt;Dias confirmou que haverá a antecipação do pagamento de auxílios. como o Benefício de Prestação Continuada (BPC) e Bolsa Família. Os moradores das três cidades em calamidade pública – Juiz de Fora, Ubá e Matias Barbosa –também podem&lt;/p&gt;
-&lt;p&gt;solicitar o saque do Fundo de Garantia do Tempo de Serviço (FGTS)&lt;/p&gt;
-&lt;p&gt;De Ubá a comitiva presidencial segue para Juiz de Fora, onde será realizada a reunião com os prefeitos.&lt;/p&gt;
-&lt;p&gt;Ataque ao Irã é por petróleo e controle da região, dizem especialistas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/perdas-materiais-serao-recuperadas-diz-lula-em-visita-minas-gerais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O presidente Luiz Inácio Lula da Silva afirmou, neste sábado (28), que todos os prejuízos causados pelas chuvas nos municípios da Zona da Mata de Min...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-02-28 13:50:00</wp:post_date>
-      <wp:post_date_gmt>2026-02-28 13:50:00</wp:post_date_gmt>
-      <wp:post_modified>2026-02-28 13:50:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-02-28 13:50:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/2_rzbQ5MZAtX0j6rh1WTRkTj39M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/55120979973_f9089a1132_o.jpg?itok=7VrJcvrk</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
