@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 02/03/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 11:33 UTC</description>
-<lastBuildDate>Mon, 02 Mar 2026 11:33:40 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Mon, 02 Mar 2026 13:06:13 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Prefeitura de Fortaleza oferta cerca de 9 mil vagas gratuitas na Rede Cuca em março</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/prefeitura-de-fortaleza-oferta-cerca-de-9-mil-vagas-gratuitas-na-rede-cuca-em-marco</link>
+<guid isPermaLink="false">fortaleza-20260302-cbb8ff571d5b</guid>
+<pubDate>Mon, 02 Mar 2026 09:54:00 +0000</pubDate>
+<description>Prefeitura de Fortaleza oferta cerca de 9 mil vagas gratuitas na Rede Cuca em março - Segunda, 02 Março 2026 09:54</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/JUVENTUDE.png" alt="Prefeitura de Fortaleza oferta cerca de 9 mil vagas gratuitas na Rede Cuca em março" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Prefeitura de Fortaleza, por meio da Secretaria Municipal da Juventude, disponibiliza 8.736 vagas gratuitas na Rede Cuca para o mês de março de 2026. As oportunidades estão distribuídas entre cursos de formação, atividades artísticas e diversas modalidades esportivas, ampliando o acesso da população às políticas públicas de juventude na capital.</p>
+<p>As atividades serão realizadas nas unidades da Rede Cuca localizadas na Barra do Ceará, Jangurussu, José Walter, Mondubim e Pici, fortalecendo a descentralização dos serviços e garantindo programação diversificada em diferentes territórios da cidade.</p>
+<p>De acordo com o secretário municipal da Juventude, Júlio Brizzi, a nova oferta reafirma o compromisso da gestão com o acesso gratuito a oportunidades de desenvolvimento. “A Rede Cuca segue ampliando o número de vagas e garantindo formação, esporte e cultura como ferramentas de inclusão e transformação social. Estamos fortalecendo uma política pública que impacta diretamente os territórios e amplia oportunidades para a população”, destaca.</p>
+<p><strong>Matrículas</strong></p>
+<p>O calendário de matrículas para o mês de março segue o seguinte cronograma:<br/><strong><span>03 de março</span></strong> – Cursos de Formação e Artes<br/><strong><span>04 de março</span></strong> – Marcação dos testes de Natação (exceto Cuca Mondubim)<br/><strong><span>05 de março</span></strong> – Demais modalidades esportivas<br/><strong><span>06 de março</span></strong> – Hidroginástica (exceto Barra do Ceará, Mondubim e Jangurussu)</p>
+<p><strong><span>Documentação necessária</span></strong><br/>Para realizar a matrícula, é necessário apresentar:<br/>- RG<br/>- CPF<br/>- Comprovante de endereço<br/> -E-mail válido<br/>- Atestado de aptidão física (obrigatório para modalidades esportivas)<br/><br/>O atendimento presencial ocorre das 8h às 18h, por ordem de chegada, ou pode ser realizado de forma on-line por meio do Portal da Juventude.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/prefeitura-de-fortaleza-oferta-cerca-de-9-mil-vagas-gratuitas-na-rede-cuca-em-marco" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/JUVENTUDE.png" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/JUVENTUDE.png" type="image/jpeg" medium="image">
+<media:title>Prefeitura de Fortaleza oferta cerca de 9 mil vagas gratuitas na Rede Cuca em março</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
