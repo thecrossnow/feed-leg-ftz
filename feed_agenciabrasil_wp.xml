@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 02 Mar 2026 09:40:22 +0000</pubDate>
+    <pubDate>Mon, 02 Mar 2026 10:37:16 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,103 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Fortaleza e Ceará ficam no empate na primeira partida da final</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/fortaleza-e-ceara-ficam-no-empate-na-primeira-partida-da-final</link>
+      <pubDate>Mon, 02 Mar 2026 10:37:16 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/fortaleza-e-ceara-ficam-no-empate-na-primeira-partida-da-final#1000</guid>
+      <description>Fortaleza e Ceará ficaram no 1 a 1 na tarde desse domingo (1°), no Estádio Castelão, em Fortaleza, pelo jogo de ida da final do Campeonato Cearense, ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Fortaleza e Ceará ficam no empate na primeira partida da final&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Fortaleza e Ceará ficaram no 1 a 1 na tarde desse domingo (1°), no Estádio Castelão, em Fortaleza, pelo jogo de ida da final do Campeonato Cearense, em partida transmitida ao vivo pela&lt;/p&gt;
+&lt;p&gt;Os dois gols do clássico foram marcados quase no final do jogo. Aos 41 minutos do segundo tempo, Lucas Emanoel abriu para o Fortaleza. Só que, nos acréscimos, aos 46, Lucca empatou.&lt;/p&gt;
+&lt;p&gt;Com esse resultado, o vencedor da partida de volta (no dia 8, próximo domingo) será campeão do Estadual. Novo empate leva a decisão do título aos pênaltis.&lt;/p&gt;
+&lt;p&gt;No histórico, o Leão do Pici busca voltar a conquistar o estadual depois de três anos. O Vozão quer o tricampeonato e abrir vantagem sobre o rival no&lt;/p&gt;
+&lt;p&gt;de títulos estaduais. O Ceará soma 47. E o Fortaleza,46.&lt;/p&gt;
+&lt;p&gt;Viva Maria reforça corrente de solidariedade em Minas&lt;/p&gt;
+&lt;p&gt;Ouça ao vivo: Fluminense e Vasco duelam por uma vaga na decisão do Campeonato Carioca&lt;/p&gt;
+&lt;p&gt;Custo de coparticipação já fez 60% dos empregados evitarem usar plano&lt;/p&gt;
+&lt;p&gt;Fortaleza e Ceará ficam no empate na primeira partida da final&lt;/p&gt;
+&lt;p&gt;Grêmio faz 3 a 0 no Inter e está com uma mão na taça do Gauchão&lt;/p&gt;
+&lt;p&gt;Guerra no Oriente Médio tem mais bombardeios e mortes neste domingo&lt;/p&gt;
+&lt;p&gt;Caio Bonfim ganha prata em etapa mundial da marcha atlética na China&lt;/p&gt;
+&lt;p&gt;Netanyahu afirma que ofensiva contra o Irã será intensificada&lt;/p&gt;
+&lt;p&gt;Derrubar Irã busca deter China e projetar Israel, dizem analistas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/fortaleza-e-ceara-ficam-no-empate-na-primeira-partida-da-final&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Fortaleza e Ceará ficaram no 1 a 1 na tarde desse domingo (1°), no Estádio Castelão, em Fortaleza, pelo jogo de ida da final do Campeonato Cearense, ...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-02 07:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-02 07:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-02 07:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-02 07:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Grêmio faz 3 a 0 no Inter e está com uma mão na taça do Gauchão</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/gremio-faz-3-0-no-inter-e-esta-com-uma-mao-na-taca-do-gauchao</link>
+      <pubDate>Mon, 02 Mar 2026 10:37:16 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/gremio-faz-3-0-no-inter-e-esta-com-uma-mao-na-taca-do-gauchao#1001</guid>
+      <description>O Grêmio abriu grande vantagem na decisão do Gauchão 2026. Nesse domingo (1º), fez 3 a 0 no Internacional, na arenaem Porto Alegre. Mesmo antes da ex...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VstYUIK7Zdev3pSPcU1q6wfbWFo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/225834739_900679363883369_5774499730423127943_n.jpg?itok=ULOMGRSP&quot; alt=&quot;Grêmio faz 3 a 0 no Inter e está com uma mão na taça do Gauchão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Grêmio abriu grande vantagem na decisão do Gauchão 2026. Nesse domingo (1º), fez 3 a 0 no Internacional, na arenaem Porto Alegre. Mesmo antes da expulsão do lateral-esquerdo Bernabei (do Inter), aos 32 minutos de jogo, o time da casa foi sempre melhor.&lt;/p&gt;
+&lt;p&gt;Enamorado (aos 38 minutos) e Amuzu (aos 45 minutos) marcaram ainda na primeira etapa, e Carlos Vinicius (aos 22 minutos da etapa final) fechou o placar na etapa final.&lt;/p&gt;
+&lt;p&gt;O resultado do Grenal 450 fez a festa total dos mais de 50 mil tricolores que lotaram a arena do Grêmio em Porto Alegre.&lt;/p&gt;
+&lt;p&gt;Na partida decisiva, no próximo domingo (8), no Estádio Beira-Rio, o Grêmio volta a ser campeão estadual mesmo perdendo por dois gols de diferença&lt;/p&gt;
+&lt;p&gt;. A repetição do placar a favor do Inter leva a disputa aos pênaltis. E o Colorado, que fez a melhor campanha em toda a competição, só comemora a conquista nos 90 minutos fazendo quatro ou mais gols de diferença.&lt;/p&gt;
+&lt;p&gt;Viva Maria reforça corrente de solidariedade em Minas&lt;/p&gt;
+&lt;p&gt;Ouça ao vivo: Fluminense e Vasco duelam por uma vaga na decisão do Campeonato Carioca&lt;/p&gt;
+&lt;p&gt;Custo de coparticipação já fez 60% dos empregados evitarem usar plano&lt;/p&gt;
+&lt;p&gt;Fortaleza e Ceará ficam no empate na primeira partida da final&lt;/p&gt;
+&lt;p&gt;Grêmio faz 3 a 0 no Inter e está com uma mão na taça do Gauchão&lt;/p&gt;
+&lt;p&gt;Guerra no Oriente Médio tem mais bombardeios e mortes neste domingo&lt;/p&gt;
+&lt;p&gt;Caio Bonfim ganha prata em etapa mundial da marcha atlética na China&lt;/p&gt;
+&lt;p&gt;Netanyahu afirma que ofensiva contra o Irã será intensificada&lt;/p&gt;
+&lt;p&gt;Derrubar Irã busca deter China e projetar Israel, dizem analistas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/gremio-faz-3-0-no-inter-e-esta-com-uma-mao-na-taca-do-gauchao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Grêmio abriu grande vantagem na decisão do Gauchão 2026. Nesse domingo (1º), fez 3 a 0 no Internacional, na arenaem Porto Alegre. Mesmo antes da ex...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-02 06:40:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-02 06:40:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-02 06:40:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-02 06:40:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/VstYUIK7Zdev3pSPcU1q6wfbWFo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/225834739_900679363883369_5774499730423127943_n.jpg?itok=ULOMGRSP</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Guerra no Oriente Médio tem mais bombardeios e mortes neste domingo</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/guerra-no-oriente-medio-tem-mais-bombardeios-e-mortes-neste-domingo</link>
-      <pubDate>Mon, 02 Mar 2026 09:40:22 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 10:37:16 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/guerra-no-oriente-medio-tem-mais-bombardeios-e-mortes-neste-domingo#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/guerra-no-oriente-medio-tem-mais-bombardeios-e-mortes-neste-domingo#1002</guid>
       <description>© REUTERS/Gideon Markowicz - Proibido reprodução
 Os ataques realizados por Estados Unidos e Israel contra o Irã desde a madrugada de sábado (28) segu...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/E1jPQMSaohQv6NZvg1KnTYiwpeQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/2026-03-01t125606z_1637356760_rc2cvjabnp03_rtrmadp_3_iran-crisis-israel.jpg?itok=mibWhTrx&quot; alt=&quot;Guerra no Oriente Médio tem mais bombardeios e mortes neste domingo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +139,7 @@ Os ataques realizados por Estados Unidos e Israel contra o Irã desde a madrugad
 &lt;p&gt;Do lado americano, o Centcom informou que três militares do país morreram e cinco tiveram ferimentos graves durante os ataques ao Irã. &quot;Vários outros&quot; se feriram sem gravidadee devem retornar ao conflito.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/guerra-no-oriente-medio-tem-mais-bombardeios-e-mortes-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Gideon Markowicz - Proibido reprodução
 Os ataques realizados por Estados Unidos e Israel contra o Irã desde a madrugada de sábado (28) segu...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-03-01 18:22:00</wp:post_date>
       <wp:post_date_gmt>2026-03-01 18:22:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-01 18:22:00</wp:post_modified>
@@ -73,9 +165,9 @@ Os ataques realizados por Estados Unidos e Israel contra o Irã desde a madrugad
     <item>
       <title>Caio Bonfim ganha prata em etapa mundial da marcha atlética na China</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/caio-bonfim-ganha-prata-em-etapa-mundial-da-marcha-atletica-na-china</link>
-      <pubDate>Mon, 02 Mar 2026 09:40:22 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 10:37:16 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/caio-bonfim-ganha-prata-em-etapa-mundial-da-marcha-atletica-na-china#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/caio-bonfim-ganha-prata-em-etapa-mundial-da-marcha-atletica-na-china#1003</guid>
       <description>O brasiliense Caio Bonfim, de 33 anos, conquistou na noite do último sábado (28) a medalha de prata na meia-maratona da etapa Gold do circuito mundia...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/sqjBUR-vVTxeAVr1Z2el_s3mQOA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/_sim_coisas_grandiosas_fez_o_senhor_por_nos_por_isso_estamos_alegres._salmos_126-3meus_amigo.jpg?itok=r5t7r4FT&quot; alt=&quot;Caio Bonfim ganha prata em etapa mundial da marcha atlética na China&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O brasiliense Caio Bonfim, de 33 anos, conquistou na noite do último sábado (28) a medalha de prata na meia-maratona da etapa Gold do circuito mundial de marcha atlética, disputada em Taicang, na China.&lt;/p&gt;
@@ -88,13 +180,13 @@ Os ataques realizados por Estados Unidos e Israel contra o Irã desde a madrugad
 &lt;p&gt;Viva Maria reforça corrente de solidariedade em Minas&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Fluminense e Vasco duelam por uma vaga na decisão do Campeonato Carioca&lt;/p&gt;
 &lt;p&gt;Custo de coparticipação já fez 60% dos empregados evitarem usar plano&lt;/p&gt;
+&lt;p&gt;Fortaleza e Ceará ficam no empate na primeira partida da final&lt;/p&gt;
+&lt;p&gt;Grêmio faz 3 a 0 no Inter e está com uma mão na taça do Gauchão&lt;/p&gt;
 &lt;p&gt;Guerra no Oriente Médio tem mais bombardeios e mortes neste domingo&lt;/p&gt;
 &lt;p&gt;Caio Bonfim ganha prata em etapa mundial da marcha atlética na China&lt;/p&gt;
-&lt;p&gt;Netanyahu afirma que ofensiva contra o Irã será intensificada&lt;/p&gt;
-&lt;p&gt;Derrubar Irã busca deter China e projetar Israel, dizem analistas&lt;/p&gt;
-&lt;p&gt;Bombardeio a Teerã mata ex-presidente iraniano Mahmoud Ahmadinejad&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/caio-bonfim-ganha-prata-em-etapa-mundial-da-marcha-atletica-na-china&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Netanyahu afirma que ofensiva contra o Irã será intensificada&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/caio-bonfim-ganha-prata-em-etapa-mundial-da-marcha-atletica-na-china&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O brasiliense Caio Bonfim, de 33 anos, conquistou na noite do último sábado (28) a medalha de prata na meia-maratona da etapa Gold do circuito mundia...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-03-01 17:20:00</wp:post_date>
       <wp:post_date_gmt>2026-03-01 17:20:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-01 17:20:00</wp:post_modified>
@@ -120,9 +212,9 @@ Os ataques realizados por Estados Unidos e Israel contra o Irã desde a madrugad
     <item>
       <title>Netanyahu afirma que ofensiva contra o Irã será intensificada</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/netanyahu-afirma-que-ofensiva-contra-o-ira-sera-intensificada</link>
-      <pubDate>Mon, 02 Mar 2026 09:40:22 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 10:37:16 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/netanyahu-afirma-que-ofensiva-contra-o-ira-sera-intensificada#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/netanyahu-afirma-que-ofensiva-contra-o-ira-sera-intensificada#1004</guid>
       <description>© Foto: Frame/ X/Benjamin Netanyah
 O primeiro-ministro de Israel, Benjamin Netanyahu, anunciouneste domingo (1º) que a ofensiva militarcontra o Irã,
 ...</description>
@@ -145,7 +237,7 @@ O primeiro-ministro de Israel, Benjamin Netanyahu, anunciouneste domingo (1º) q
       <excerpt:encoded>© Foto: Frame/ X/Benjamin Netanyah
 O primeiro-ministro de Israel, Benjamin Netanyahu, anunciouneste domingo (1º) que a ofensiva militarcontra o Irã,
 ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-03-01 17:04:00</wp:post_date>
       <wp:post_date_gmt>2026-03-01 17:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-01 17:04:00</wp:post_modified>
@@ -171,9 +263,9 @@ O primeiro-ministro de Israel, Benjamin Netanyahu, anunciouneste domingo (1º) q
     <item>
       <title>Derrubar Irã busca deter China e projetar Israel, dizem analistas</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/derrubar-ira-busca-deter-china-e-projetar-israel-dizem-analistas</link>
-      <pubDate>Mon, 02 Mar 2026 09:40:22 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 10:37:16 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/derrubar-ira-busca-deter-china-e-projetar-israel-dizem-analistas#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/derrubar-ira-busca-deter-china-e-projetar-israel-dizem-analistas#1005</guid>
       <description>© Frame/Reuters - Proibido reprodução
 A segunda agressão dos Estados Unidos (EUA) e de Israel contra o Irã, em um intervalo de oito meses, busca a “t...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hv2VSKZgAsPJmtOUcHrOQzQsdR0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/2026-02-28t122744z_1_lwd934328022026rp1_rtrwnev_c_9343-iran-crisis-wrap.mp4_.00_00_45_19.still002.jpg?itok=2-7lhCV-&quot; alt=&quot;Derrubar Irã busca deter China e projetar Israel, dizem analistas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -194,7 +286,7 @@ A segunda agressão dos Estados Unidos (EUA) e de Israel contra o Irã, em um in
 &lt;p&gt;o ponto fundamental envolve a disputa pelo equilíbrio de poder no Oriente Médio, com a tentativa de Israel e EUA conter a influência regional de Teerã.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/derrubar-ira-busca-deter-china-e-projetar-israel-dizem-analistas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Frame/Reuters - Proibido reprodução
 A segunda agressão dos Estados Unidos (EUA) e de Israel contra o Irã, em um intervalo de oito meses, busca a “t...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-03-01 16:41:00</wp:post_date>
       <wp:post_date_gmt>2026-03-01 16:41:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-01 16:41:00</wp:post_modified>
@@ -220,9 +312,9 @@ A segunda agressão dos Estados Unidos (EUA) e de Israel contra o Irã, em um in
     <item>
       <title>Bombardeio a Teerã mata ex-presidente iraniano Mahmoud Ahmadinejad</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/bombardeio-teera-mata-ex-presidente-iraniano-mahmoud-ahmadinejad</link>
-      <pubDate>Mon, 02 Mar 2026 09:40:22 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 10:37:16 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/bombardeio-teera-mata-ex-presidente-iraniano-mahmoud-ahmadinejad#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/bombardeio-teera-mata-ex-presidente-iraniano-mahmoud-ahmadinejad#1006</guid>
       <description>© REUTERS/Raheb Homavandi - Proibido reprodução
 O ex-presidente do Irã, Mahmoud Ahmadinejad, teve a morte divulgadaneste domingo (1º) pela agência es...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/RgJ-VTa6JeGSZJSIjyV2OD-uLPo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/2026-03-01t013850z_1772758715_pbeahunydbl_rtrmadp_3_iran-crisis-khamenei.jpg?itok=mYtpX7l6&quot; alt=&quot;Bombardeio a Teerã mata ex-presidente iraniano Mahmoud Ahmadinejad&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -238,12 +330,12 @@ O ex-presidente do Irã, Mahmoud Ahmadinejad, teve a morte divulgadaneste doming
 &lt;p&gt;Viva Maria reforça corrente de solidariedade em Minas&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Fluminense e Vasco duelam por uma vaga na decisão do Campeonato Carioca&lt;/p&gt;
 &lt;p&gt;Custo de coparticipação já fez 60% dos empregados evitarem usar plano&lt;/p&gt;
-&lt;p&gt;Guerra no Oriente Médio tem mais bombardeios e mortes neste domingo&lt;/p&gt;
-&lt;p&gt;Caio Bonfim ganha prata em etapa mundial da marcha atlética na China&lt;/p&gt;
-&lt;p&gt;Netanyahu afirma que ofensiva contra o Irã será intensificada&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/bombardeio-teera-mata-ex-presidente-iraniano-mahmoud-ahmadinejad&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Fortaleza e Ceará ficam no empate na primeira partida da final&lt;/p&gt;
+&lt;p&gt;Grêmio faz 3 a 0 no Inter e está com uma mão na taça do Gauchão&lt;/p&gt;
+&lt;p&gt;Guerra no Oriente Médio tem mais bombardeios e mortes neste domingo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/bombardeio-teera-mata-ex-presidente-iraniano-mahmoud-ahmadinejad&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Raheb Homavandi - Proibido reprodução
 O ex-presidente do Irã, Mahmoud Ahmadinejad, teve a morte divulgadaneste domingo (1º) pela agência es...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-01 15:39:00</wp:post_date>
       <wp:post_date_gmt>2026-03-01 15:39:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-01 15:39:00</wp:post_modified>
@@ -269,9 +361,9 @@ O ex-presidente do Irã, Mahmoud Ahmadinejad, teve a morte divulgadaneste doming
     <item>
       <title>Ato contra feminicídio inaugura mural em homenagem a Tainara em SP</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/ato-contra-feminicidio-inaugura-mural-em-homenagem-tainara-em-sp</link>
-      <pubDate>Mon, 02 Mar 2026 09:40:22 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 10:37:16 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/ato-contra-feminicidio-inaugura-mural-em-homenagem-tainara-em-sp#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/ato-contra-feminicidio-inaugura-mural-em-homenagem-tainara-em-sp#1007</guid>
       <description>Um ato contra o feminicídio marcou na manhã deste domingo (1º) a inauguração, na capital paulista, de um mural de mais de 140 metros em homenagem a T...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/A4x5W5EdO0UtVqH-AmOt38mriZY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/pint8547.jpg.jpg?itok=S8HJ2je3&quot; alt=&quot;Ato contra feminicídio inaugura mural em homenagem a Tainara em SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Um ato contra o feminicídio marcou na manhã deste domingo (1º) a inauguração, na capital paulista, de um mural de mais de 140 metros em homenagem a Tainara Souza Santos, de 31 anos, vítima de feminicídio, em novembro de 2025. A obra foi pintada por grafiteiras e artistas visuais. O ato inaugurou também a programação oficial do governo federal em alusão ao Dia Internacional da Mulher, celebrado em 8 de março.&lt;/p&gt;
@@ -290,7 +382,7 @@ O ex-presidente do Irã, Mahmoud Ahmadinejad, teve a morte divulgadaneste doming
 &lt;p&gt;* Matéria ampliada às 16h25 para acréscimo de informações sobre o mural.&lt;/p&gt;
 &lt;p&gt;Viva Maria reforça corrente de solidariedade em Minas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/ato-contra-feminicidio-inaugura-mural-em-homenagem-tainara-em-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Um ato contra o feminicídio marcou na manhã deste domingo (1º) a inauguração, na capital paulista, de um mural de mais de 140 metros em homenagem a T...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-01 15:16:00</wp:post_date>
       <wp:post_date_gmt>2026-03-01 15:16:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-01 15:16:00</wp:post_modified>
@@ -316,9 +408,9 @@ O ex-presidente do Irã, Mahmoud Ahmadinejad, teve a morte divulgadaneste doming
     <item>
       <title>Marcelo Melo é campeão do ATP 500 em Acapulco nas duplas</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/marcelo-melo-e-campeao-do-atp-500-em-acapulco-nas-duplas</link>
-      <pubDate>Mon, 02 Mar 2026 09:40:22 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 10:37:16 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/marcelo-melo-e-campeao-do-atp-500-em-acapulco-nas-duplas#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/marcelo-melo-e-campeao-do-atp-500-em-acapulco-nas-duplas#1008</guid>
       <description>Marcelo Melo e Alexander Zverev comemoraram, na noite deste sábado (28), o título de duplas masculinas doATP 500 de Acapulco, no México. Essa foi a p...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zSb7P7ani0fuw49-kDp5zFEescQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/462619_1192648_melo_zverev_campeoi_es1_web_.jpg?itok=oB8jkLxG&quot; alt=&quot;Marcelo Melo é campeão do ATP 500 em Acapulco nas duplas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Marcelo Melo e Alexander Zverev comemoraram, na noite deste sábado (28), o título de duplas masculinas doATP 500 de Acapulco, no México. Essa foi a primeira conquista do mineiro e do alemão juntos.&lt;/p&gt;
@@ -330,14 +422,14 @@ O ex-presidente do Irã, Mahmoud Ahmadinejad, teve a morte divulgadaneste doming
 &lt;p&gt;Viva Maria reforça corrente de solidariedade em Minas&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Fluminense e Vasco duelam por uma vaga na decisão do Campeonato Carioca&lt;/p&gt;
 &lt;p&gt;Custo de coparticipação já fez 60% dos empregados evitarem usar plano&lt;/p&gt;
+&lt;p&gt;Fortaleza e Ceará ficam no empate na primeira partida da final&lt;/p&gt;
+&lt;p&gt;Grêmio faz 3 a 0 no Inter e está com uma mão na taça do Gauchão&lt;/p&gt;
 &lt;p&gt;Guerra no Oriente Médio tem mais bombardeios e mortes neste domingo&lt;/p&gt;
 &lt;p&gt;Caio Bonfim ganha prata em etapa mundial da marcha atlética na China&lt;/p&gt;
 &lt;p&gt;Netanyahu afirma que ofensiva contra o Irã será intensificada&lt;/p&gt;
-&lt;p&gt;Derrubar Irã busca deter China e projetar Israel, dizem analistas&lt;/p&gt;
-&lt;p&gt;Bombardeio a Teerã mata ex-presidente iraniano Mahmoud Ahmadinejad&lt;/p&gt;
-&lt;p&gt;Ato contra feminicídio inaugura mural em homenagem a Tainara em SP&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/marcelo-melo-e-campeao-do-atp-500-em-acapulco-nas-duplas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Derrubar Irã busca deter China e projetar Israel, dizem analistas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/marcelo-melo-e-campeao-do-atp-500-em-acapulco-nas-duplas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Marcelo Melo e Alexander Zverev comemoraram, na noite deste sábado (28), o título de duplas masculinas doATP 500 de Acapulco, no México. Essa foi a p...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-01 14:55:00</wp:post_date>
       <wp:post_date_gmt>2026-03-01 14:55:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-01 14:55:00</wp:post_modified>
@@ -363,9 +455,9 @@ O ex-presidente do Irã, Mahmoud Ahmadinejad, teve a morte divulgadaneste doming
     <item>
       <title>Irã eleva para 153 as estudantes mortas em ataque a escola</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-eleva-para-153-estudantes-mortas-em-ataque-escola</link>
-      <pubDate>Mon, 02 Mar 2026 09:40:22 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2026 10:37:16 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-eleva-para-153-estudantes-mortas-em-ataque-escola#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-eleva-para-153-estudantes-mortas-em-ataque-escola#1009</guid>
       <description>© Frame/Reuters - Proibido reprodução
 O Ministério da Educação do Irã elevou para 153 o número de meninas mortas no ataque de sábado (28) a uma escol...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/W9Mc6oKSqHvmkGJXTQSsCrR2m8w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/2026-03-01t124220z_1_lwd971101032026rp1_rtrwnev_c_9711-iran-crisis-school.mp4_.00_00_08_05.still001.jpg?itok=0uYvkp6f&quot; alt=&quot;Irã eleva para 153 as estudantes mortas em ataque a escola&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -379,14 +471,14 @@ O Ministério da Educação do Irã elevou para 153 o número de meninas mortas 
 &lt;p&gt;Viva Maria reforça corrente de solidariedade em Minas&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Fluminense e Vasco duelam por uma vaga na decisão do Campeonato Carioca&lt;/p&gt;
 &lt;p&gt;Custo de coparticipação já fez 60% dos empregados evitarem usar plano&lt;/p&gt;
+&lt;p&gt;Fortaleza e Ceará ficam no empate na primeira partida da final&lt;/p&gt;
+&lt;p&gt;Grêmio faz 3 a 0 no Inter e está com uma mão na taça do Gauchão&lt;/p&gt;
 &lt;p&gt;Guerra no Oriente Médio tem mais bombardeios e mortes neste domingo&lt;/p&gt;
 &lt;p&gt;Caio Bonfim ganha prata em etapa mundial da marcha atlética na China&lt;/p&gt;
-&lt;p&gt;Netanyahu afirma que ofensiva contra o Irã será intensificada&lt;/p&gt;
-&lt;p&gt;Derrubar Irã busca deter China e projetar Israel, dizem analistas&lt;/p&gt;
-&lt;p&gt;Bombardeio a Teerã mata ex-presidente iraniano Mahmoud Ahmadinejad&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-eleva-para-153-estudantes-mortas-em-ataque-escola&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Netanyahu afirma que ofensiva contra o Irã será intensificada&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-eleva-para-153-estudantes-mortas-em-ataque-escola&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Frame/Reuters - Proibido reprodução
 O Ministério da Educação do Irã elevou para 153 o número de meninas mortas no ataque de sábado (28) a uma escol...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-01 14:45:00</wp:post_date>
       <wp:post_date_gmt>2026-03-01 14:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-01 14:45:00</wp:post_modified>
@@ -407,100 +499,6 @@ O Ministério da Educação do Irã elevou para 153 o número de meninas mortas 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/W9Mc6oKSqHvmkGJXTQSsCrR2m8w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/2026-03-01t124220z_1_lwd971101032026rp1_rtrwnev_c_9711-iran-crisis-school.mp4_.00_00_08_05.still001.jpg?itok=0uYvkp6f</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Buscas em Juiz de Fora estão encerradas; moradores seguem fora de casa</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/chuvas-em-minas-buscas-em-juiz-de-fora-estao-encerradas</link>
-      <pubDate>Mon, 02 Mar 2026 09:40:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/chuvas-em-minas-buscas-em-juiz-de-fora-estao-encerradas#1008</guid>
-      <description>A Polícia Civil de Minas Gerais informou que as buscas por vítimas das chuvas em Juiz de Fora, na Zona da Mata mineira, estão encerradas. Ocorpo do ú...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/f6A7L_smrDDHl-Zw6aSI0rz7JYU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/27/0g0a4305.jpg?itok=0IEdrxDf&quot; alt=&quot;Buscas em Juiz de Fora estão encerradas; moradores seguem fora de casa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Polícia Civil de Minas Gerais informou que as buscas por vítimas das chuvas em Juiz de Fora, na Zona da Mata mineira, estão encerradas. Ocorpo do último desaparecido, o menino Pietro, de 9 anos, foi localizado na noite de sábado (28), no bairro Paineiras.&lt;/p&gt;
-&lt;p&gt;O número de mortos em decorrência das chuvas chegou a 72 na manhã deste domingo (1º), segundo atualização da Polícia Civil do estado&lt;/p&gt;
-&lt;p&gt;.Ao todo, 72 corpos foram encaminhados ao Instituto Médico Legal (IML), sendo 65 deJuiz de Fora e sete deUbá. Uma pessoa continuadesaparecida em Ubá, onde as buscas serão intensificadas.&lt;/p&gt;
-&lt;p&gt;A equipe da Agência Brasil esteve em Juiz de Fora na última sexta-feira (27). No bairro Paineiras, área de classe média com casarões antigos e prédios residenciais, moradores seguiam fora de casa após o deslizamento de terra que atingiu imóveis na noite de segunda-feira (23&lt;/p&gt;
-&lt;p&gt;). A Defesa Civil orientou a retirada das famílias diante do risco de novos desmoronamentos, especialmente pela instabilidade na encosta do Morro do Cristo.&lt;/p&gt;
-&lt;p&gt;O engenheiro civil Guilherme Belini Golver, atualmente desempregado, mora em um casarão na rua atingida, onde vive com os pais. Ele não estava em casa no momento do deslizamento, mas percebeu a gravidade da situação ainda durante o temporal&lt;/p&gt;
-&lt;p&gt;: “Quando eu saí, já haviamuita água, pareciaum rio, decor assim, amarronzada. Tava igualzinho um rio”, relatou. Guilherme saiu por volta das 22h10 para buscar a filha na faculdade. Cerca de 20 minutos depois, recebeu a ligação de um vizinho: “Quando ele chegou aqui fora, já estava essa tragédia toda. A terra invadindo acasa, dentro do portão, da garagem.”&lt;/p&gt;
-&lt;p&gt;Desde então, a família não pôde permanecer no imóvel.&lt;/p&gt;
-&lt;p&gt;“A Defesa Civil pediu para a gente sairporque não se sabe a gravidade, né? Não sabe se pode vir mais alguma coisa lá do Morro do Cristo.”&lt;/p&gt;
-&lt;p&gt;Ele tem retornado apenas para tentar limpar a lama e vigiar o imóvel, que ficou vulnerável após o impacto da terra : “Limpar,tentar acabar com esse lamaçal. E também ficar de olho na casa, que ficou vulnerável.Ficou aberta, a gente perdeu a tranca.”&lt;/p&gt;
-&lt;p&gt;O engenheiro lembra que, há cerca de 40 anos, pequenas pedras deslizaram da encosta, o que levou à instalação de contenções.&lt;/p&gt;
-&lt;p&gt;“Mas isso há 40 anos, não forampedras grandes. Forampequenas&quot;.Apesar da experiência passada, ele admite o receio de novos episódios. “A cabeça da gente fica meio preocupada,aquele medo deacontecer de novo.”&lt;/p&gt;
-&lt;p&gt;Na mesma rua, um policial penal que morava ali hácerca de quatro meses, morreu durante o deslizamento. A poucos metros do casarão de Guilherme, três prédios residenciais alugados por uma mesma família também foram atingidos. Em um dos apartamentos mora o motoboy Paulo Barbosa Siqueira, de 25 anos. Ele estava fora quando o desabamento ocorreu, por volta das 22h50.&lt;/p&gt;
-&lt;p&gt;“No momento eu tinha ido buscar minha irmã no serviço por causa da chuva. Quando curvei aqui para entrar no prédio, já tinha caído tudo”, conta Barbosa.&lt;/p&gt;
-&lt;p&gt;Segundo ele, moradores precisaram improvisar uma rota de fuga entre apartamentos para escapar: “Teve gente que pulou de dois apartamentos para poder ir para o outro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/chuvas-em-minas-buscas-em-juiz-de-fora-estao-encerradas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Polícia Civil de Minas Gerais informou que as buscas por vítimas das chuvas em Juiz de Fora, na Zona da Mata mineira, estão encerradas. Ocorpo do ú...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-01 14:30:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-01 14:30:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-01 14:30:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-01 14:30:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/f6A7L_smrDDHl-Zw6aSI0rz7JYU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/27/0g0a4305.jpg?itok=0IEdrxDf</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Grupo dos Dez faz apresentação única de Madame Satã em BH</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/grupo-dos-dez-faz-apresentacao-unica-de-madame-sata-em-bh</link>
-      <pubDate>Mon, 02 Mar 2026 09:40:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/grupo-dos-dez-faz-apresentacao-unica-de-madame-sata-em-bh#1009</guid>
-      <description>O Grupo dos Dez retoma os trabalhos em Belo Horizonte com uma apresentação única do espetáculo Madame Satã, neste domingo (01), às 20h, no Sesc Palla...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/HypT7qNfr9yDGK7nLy6-WJTkPqg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/madame_sata_09991_46_felipebarbosafotografias.jpg?itok=n6msMQ1e&quot; alt=&quot;Grupo dos Dez faz apresentação única de Madame Satã em BH&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Grupo dos Dez retoma os trabalhos em Belo Horizonte com uma apresentação única do espetáculo Madame Satã, neste domingo (01), às 20h, no Sesc Palladium. A volta aos palcos da capital mineira marca novo momento da companhia, que completa 15 anos de trajetória e reafirma o teatro negro como pilar fundamental da cultura brasileira.&lt;/p&gt;
-&lt;p&gt;Dirigido por João das Neves e Rodrigo Jerônimo, Madame Satã integra o projeto “Grupo dos Dez – 15 anos de Teatro Negro”, aprovado pela Lei Federal de Incentivo à Cultura, com realização do Ministério da Cultura e apresentação da Petrobras&lt;/p&gt;
-&lt;p&gt;. A iniciativa prevê mais de 60 apresentações em sete estados, reunindo obras inéditas, espetáculos consagrados e ações formativas voltadas ao diálogo entre arte, memória e território.&lt;/p&gt;
-&lt;p&gt;Além da reapresentação de Madame Satã, a programação comemorativa inclui a estreia do novo espetáculo Afroapocalíptico, no dia 13 de março, no Palácio das Artes.&lt;/p&gt;
-&lt;p&gt;A montagem parte da cosmovisão do congado mineiro para construir uma experiência artística imersiva, sensorial e política.&lt;/p&gt;
-&lt;p&gt;Como outros coletivos de teatro independente, o grupo enfrentou períodos de suspensão e incertezas após a pandemia.&lt;/p&gt;
-&lt;p&gt;O retorno à cidade, que recebeu o espetáculo pela última vez em 2018, carrega o desejo de expandir fronteiras, descolonizar narrativas e reafirmar o teatro negro como elemento estruturante da produção cultural brasileira.&lt;/p&gt;
-&lt;p&gt;Co-diretor e dramaturgo do espetáculo e coordenador do projeto comemorativo, Rodrigo Jerônimo destaca o valor simbólico da retomada.&lt;/p&gt;
-&lt;p&gt;“Chegar aos 15 anos significa olhar para trás e reconhecer tudo o que conquistamos, mas também reafirmar que nosso trabalho só ganha sentido quando é capaz de criar coletivamente e transformar realidades”, afirma.&lt;/p&gt;
-&lt;p&gt;Para a artista e diretora musical Bia Nogueira, a volta aos palcos consolida uma vocação que sempre esteve no centro da companhia: fazer da arte um meio de encontro, escuta e pertencimento.&lt;/p&gt;
-&lt;p&gt;“Estar de volta com essa temporada é potencializar vozes que refletem o Brasil em toda a sua diversidade e afirmar que a arte deve ser acessível a todas as pessoas”, diz.&lt;/p&gt;
-&lt;p&gt;Madame Satã é o terceiro espetáculo do grupo e se vale da biografia de João Francisco dos Santos para dialogar com a crítica à homofobia, à transfobia e ao racismo.&lt;/p&gt;
-&lt;p&gt;A obra também dá visibilidade a personagens historicamente empurrados para as margens da sociedade, ao abordar histórias que não se enquadram na heteronormatividade vigente.&lt;/p&gt;
-&lt;p&gt;Montado originalmente em 2014, o musical estreou em 2015 e permaneceu em circulação até 2019, com apresentações em diversas capitais brasileiras. Entre os reconhecimentos recebidos estão o Prêmio Brasil Musical 2019, na categoria melhor espetáculo musical da Região Sudeste, e o Prêmio Leda Maria Martins 2017, como melhor espetáculo.&lt;/p&gt;
-&lt;p&gt;Rodrigo Jerônimo ressalta ainda que o espetáculo passa por atualizações ao longo de sua trajetória.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/grupo-dos-dez-faz-apresentacao-unica-de-madame-sata-em-bh&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Grupo dos Dez retoma os trabalhos em Belo Horizonte com uma apresentação única do espetáculo Madame Satã, neste domingo (01), às 20h, no Sesc Palla...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-01 14:18:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-01 14:18:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-01 14:18:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-01 14:18:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/HypT7qNfr9yDGK7nLy6-WJTkPqg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/madame_sata_09991_46_felipebarbosafotografias.jpg?itok=n6msMQ1e</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
