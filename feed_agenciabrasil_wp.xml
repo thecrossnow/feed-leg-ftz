@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 04 Mar 2026 11:24:39 +0000</pubDate>
+    <pubDate>Wed, 04 Mar 2026 12:39:09 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,198 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Governo reconhece situação de emergência em cidades de MG, RJ e SP</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-reconhece-situacao-de-emergencia-em-cidades-de-mg-rj-e-sp</link>
+      <pubDate>Wed, 04 Mar 2026 12:39:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-reconhece-situacao-de-emergencia-em-cidades-de-mg-rj-e-sp#1000</guid>
+      <description>As tempestades que atingiram estados da Região Sudeste nos últimos dias levaram o Ministério da Integração e do Desenvolvimento Regional a reconhecer...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uct47AYHl1esyn-F3Hl9e4AHN88=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/02/_rbr3257.jpg?itok=Gp6mrPjr&quot; alt=&quot;Governo reconhece situação de emergência em cidades de MG, RJ e SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As tempestades que atingiram estados da Região Sudeste nos últimos dias levaram o Ministério da Integração e do Desenvolvimento Regional a reconhecer situação de emergência em 16 cidades de Minas Gerais, Rio de Janeiro e São Paulo.&lt;/p&gt;
+&lt;p&gt;está publicada na edição desta quarta-feira (4) do&lt;/p&gt;
+&lt;p&gt;A maioria das cidades citada no documento estão em&lt;/p&gt;
+&lt;p&gt;. Oito tiveram a situação decretada em decorrência de chuvas intensas e uma por conta de inundações. O número de mortos no estado passou de 70.&lt;/p&gt;
+&lt;p&gt;Ouça detalhes na Radioagência Nacional:&lt;/p&gt;
+&lt;p&gt;O documento cita quatro municípios fluminenses.&lt;/p&gt;
+&lt;p&gt;Todos em decorrência das tempestades.&lt;/p&gt;
+&lt;p&gt;O estado registrou mais de 100 ocorrências relacionadas às chuvas.&lt;/p&gt;
+&lt;p&gt;Dois municípios paulistas constam na lista: Peruíbe e Ubatuba.&lt;/p&gt;
+&lt;p&gt;, choveu por 12 horas volume de chuva equivalente à média histórica de todo o mês de fevereiro.&lt;/p&gt;
+&lt;p&gt;O reconhecimento federal de situação de emergência ou estado de calamidade pública é uma das&lt;/p&gt;
+&lt;p&gt;exigências para que estados e municípios acessemrecursos federais para restabelecimento e assistência humanitária.&lt;/p&gt;
+&lt;p&gt;Para isso, as localidades precisamapresentar planos de trabalhoe metas de atuação, por meio do S2iD – Sistema Integrado de Informações sobre Desastres.&lt;/p&gt;
+&lt;p&gt;O trâmitepara solicitação de recursos está detalhado no&lt;/p&gt;
+&lt;p&gt;portal do Ministério da Integração e do Desenvolvimento Regional&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-reconhece-situacao-de-emergencia-em-cidades-de-mg-rj-e-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>As tempestades que atingiram estados da Região Sudeste nos últimos dias levaram o Ministério da Integração e do Desenvolvimento Regional a reconhecer...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-04 08:21:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-04 08:21:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-04 08:21:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-04 08:21:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/uct47AYHl1esyn-F3Hl9e4AHN88=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/02/_rbr3257.jpg?itok=Gp6mrPjr</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Cristo Redentor é iluminado com mensagens de campanha contra violência</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/cristo-redentor-e-iluminado-com-mensagens-de-campanha-contra-violencia</link>
+      <pubDate>Wed, 04 Mar 2026 12:39:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/cristo-redentor-e-iluminado-com-mensagens-de-campanha-contra-violencia#1001</guid>
+      <description>O Cristo Redentor foi iluminado na noite dessa terça-feira (3) com projeções de frases de combate à violência contra as mulheresdurante o lançamento ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5iAQIP3jMg-tppLAXATJFsYHskk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/04/0g0a4885.jpg?itok=88x3oQbT&quot; alt=&quot;Cristo Redentor é iluminado com mensagens de campanha contra violência&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Cristo Redentor foi iluminado na noite dessa terça-feira (3) com projeções de frases de combate à violência contra as mulheresdurante o lançamento da campanha “Feminicídio Nunca Mais”. Ainiciativa utiliza o futebolcomo plataforma de mobilização social rumo à Copa do Mundo Feminina da Fifa de 2027, que será realizada no Brasil.&lt;/p&gt;
+&lt;p&gt;O evento, aos pés do monumento, reuniu a primeira-dama Janja Lula da Silva, a ministra Anielle Franco, da Igualdade Racial, dirigentes da&lt;/p&gt;
+&lt;p&gt;), daAgência Brasileira de Promoção Internacional do Turismo(Embratur) e da Petrobras.&lt;/p&gt;
+&lt;p&gt;Além de populares, estiveram presentes veteranas do futebol feminino que participaram decampanha exibida na&lt;/p&gt;
+&lt;p&gt;A iniciativaé liderada pelaNO MORE Week, mobilização internacional dedicada à conscientização sobre o impacto da violência doméstica e sexual.&lt;/p&gt;
+&lt;p&gt;Para marcar o início da campanha no país, o monumento foi iluminado na cor teal (verde-azulado)— símbolo global de solidariedade às sobreviventes de violência — e recebeu projeções com mensagens de enfrentamento ao feminicídio.&lt;/p&gt;
+&lt;p&gt;A cerimônia foi aberta pelo reitor do Santuário do Cristo Redentor, Padre Omar Raposo, responsável pelas missas e atividades religiosas no monumento. Durante a abertura, ele destacou o simbolismo histórico do Cristo Redentor e sua relação com o protagonismo feminino.&lt;/p&gt;
+&lt;p&gt;Segundo o religioso, a própria história do monumento remete a uma figura feminina. “O Cristo se chama Redentor porque foi inspirado em uma mulher redentora, a princesa Isabel”, afirmou.&lt;/p&gt;
+&lt;p&gt;Padre Omar também chamou a atenção para um detalhe simbólico da escultura: as mãos da imagem. De acordo com ele, os braços longos e as mãos abertas do Cristo foram inspirados em mãos de mulheres, tendo como referência uma artista que viveu no bairro de Santa Teresa durante o período da construção do monumento.&lt;/p&gt;
+&lt;p&gt;Durante a cerimônia, foi lançado o Prêmio&lt;/p&gt;
+&lt;p&gt;Petrobras para Elas, primeira premiação nacional dedicada exclusivamente ao futebol feminino.&lt;/p&gt;
+&lt;p&gt;Segundo a diretora de Conteúdo e Programação da&lt;/p&gt;
+&lt;p&gt;, Antônia Pellegrino, a iniciativa reforça o papel da comunicação pública na ampliação da visibilidade do esporte feminino.&lt;/p&gt;
+&lt;p&gt;assumiu uma posição estratégica: ser a tela do futebol feminino. Hoje somos a maior detentora de direitos de transmissão da modalidade na TV aberta&quot;.&lt;/p&gt;
+&lt;p&gt;Para ela, mais do que transmitir jogos, a emissora ajudaa construir visibilidade. &quot;E visibilidade, no caso das mulheres, é reconhecimento, legitimidade e construção de novos futuros”, comentou.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/cristo-redentor-e-iluminado-com-mensagens-de-campanha-contra-violencia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Cristo Redentor foi iluminado na noite dessa terça-feira (3) com projeções de frases de combate à violência contra as mulheresdurante o lançamento ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-04 08:10:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-04 08:10:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-04 08:10:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-04 08:10:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/5iAQIP3jMg-tppLAXATJFsYHskk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/04/0g0a4885.jpg?itok=88x3oQbT</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Estudo pede mais políticas públicas para reduzir efeitos da menopausa</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/estudo-pede-mais-politicas-publicas-para-reduzir-efeitos-da-menopausa</link>
+      <pubDate>Wed, 04 Mar 2026 12:39:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/estudo-pede-mais-politicas-publicas-para-reduzir-efeitos-da-menopausa#1002</guid>
+      <description>divulgado nessaterça-feira (3) pelo Instituto Esfera, em Brasília, alerta para a necessidade de políticas públicas específicas a fim de reduzir os im...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/7HIsPEYeirEXxxXYbQDVdUVmYCs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/08/fogachos-sao-um-dos-sintomas-mais-conhecidos-da-menopausa_1.jpg?itok=KMzQ5qOh&quot; alt=&quot;Estudo pede mais políticas públicas para reduzir efeitos da menopausa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;divulgado nessaterça-feira (3) pelo Instituto Esfera, em Brasília, alerta para a necessidade de políticas públicas específicas a fim de reduzir os impactos para as mulheres no período da menopausa. A pesquisa pede atenção para mulheres negras e em vulnerabilidade.&lt;/p&gt;
+&lt;p&gt;Em entrevista à Agência Brasil, a pesquisadora Clarita Costa Maia, uma das responsáveis pelo estudo, explicou que as mulheres mais vulnerabilizadas no país, entre elas as negras e residentes em comunidades desassistidas, ficam ainda mais sujeitas ao impacto que esse período pode causar no âmbito da saúde e do trabalho.&lt;/p&gt;
+&lt;p&gt;“O que constatamos é que a menopausa tem um componente biológico que atinge mais as mulheres negras e há o cruzamento de vulnerabilidades. São mulheres que sentem a menopausa com mais peso, biologicamente e socialmente falando”, explicou.&lt;/p&gt;
+&lt;p&gt;Essa vulnerabilidade deixa a mulher numa posição pior em relação aos outros estratos sociais.“Ela é, em regra, o arrimo de família e líder familiar. São mulheres que ficam numa posição muito frágil no mercado de trabalho”, ressaltou.&lt;/p&gt;
+&lt;p&gt;Os sintomas da menopausa, incluindo os físicos e psicológicosnão tratados, levam, segundo a pesquisadora, a uma insustentabilidade da relação profissional, o que impacta todo o núcleo familiar.&lt;/p&gt;
+&lt;p&gt;É por isso que no Brasil, segundo as considerações do estudo, é preciso que as políticas públicas levem em consideração que tratar a mulher na menopausa é cuidar de todo o núcleo familiar.&lt;/p&gt;
+&lt;p&gt;A pesquisadora, que é da área do direitoe que trabalhou no estudo com a médica Fabiane Berta de Sousa, acrescenta que os sintomas não tratados podem gerar sérias consequências também de saúde mental.&lt;/p&gt;
+&lt;p&gt;“Aumentam significativamente as chances de desenvolvimento de Alzheimer, de depressão e diversas outras consequências relacionais advindas disso”, explicou.&lt;/p&gt;
+&lt;p&gt;Segundo ela, existe um fenômeno hoje em dia de menopausa precoce. Nosso modo de vida está aumentando a menopausa e a andropausa precoce”. Em relação à faixa etária, o documento aborda que, com o envelhecimento populacional, é necessário, mais atenção das redes públicas.&lt;/p&gt;
+&lt;p&gt;“São fases complicadas, de altos e baixos emocionais. Podehaver rupturas em nível pessoal das quais a pessoa precisa se recuperar com o tempo e não está entendendo o que ocorreconsigo mesma”.&lt;/p&gt;
+&lt;p&gt;O afastamento do trabalho gera reflexos, como explica a pesquisadora, como maior pressão previdenciária. “Ao invés de estarmos com trabalhadoras na sua melhor fase intelectual, surgem mais problemas previdenciários e sociais”, diz.&lt;/p&gt;
+&lt;p&gt;O ideal, nesse momento, de acordo como estudo, é que o Brasil possa fazer um mapeamento sobre a menopausa para que haja compreensão da realidade nacional.&lt;/p&gt;
+&lt;p&gt;“A ausência de política pública nacional estruturada para a menopausa não é neutra. Produz efeitos concretos sobre a saúde, a economia e a cidadania de milhões de mulheres, com custos que se projetam sobre o sistema de saúde, a Previdência Social e a produtividade nacional”, mostrao documento.&lt;/p&gt;
+&lt;p&gt;Os dados internacionais demonstram que esses custos são mensuráveis: US$ 26,6 bilhões por ano nos Estados Unidos e US$ 150 bilhões globalmente, além de queda de 10% nos rendimentos das mulheres afetadas.&lt;/p&gt;
+&lt;p&gt;No Brasil, segundo a estimativa, 29 milhões de mulheres estariam nessa fase e 87,9% apresentariam sintomas. Apenas 22,4% delas buscamtratamento.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/estudo-pede-mais-politicas-publicas-para-reduzir-efeitos-da-menopausa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>divulgado nessaterça-feira (3) pelo Instituto Esfera, em Brasília, alerta para a necessidade de políticas públicas específicas a fim de reduzir os im...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-04 08:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-04 08:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-04 08:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-04 08:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/7HIsPEYeirEXxxXYbQDVdUVmYCs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/08/fogachos-sao-um-dos-sintomas-mais-conhecidos-da-menopausa_1.jpg?itok=KMzQ5qOh</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>PF prende Daniel Vorcaro em 3ª fase da Operação Compliance Zero</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pf-deflagra-terceira-fase-da-operacao-compliance-zero</link>
+      <pubDate>Wed, 04 Mar 2026 12:39:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pf-deflagra-terceira-fase-da-operacao-compliance-zero#1003</guid>
+      <description>A terceira fase da Operação Compliance Zero foi deflagrada no início da manhã desta quarta-feira (4) pela Polícia Federal (PF). Entre os presos está ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mcAbwRTdujk7HQYopYJABPcKciw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/04/pf_faz_operacao_contra_vazamento_de_fotos_intimas_e_abuso_sexual_infantojuvenil.jpg?itok=dYUpN30A&quot; alt=&quot;PF prende Daniel Vorcaro em 3ª fase da Operação Compliance Zero&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A terceira fase da Operação Compliance Zero foi deflagrada no início da manhã desta quarta-feira (4) pela Polícia Federal (PF). Entre os presos está Daniel Vorcaro, dono do Banco Master.&lt;/p&gt;
+&lt;p&gt;Nesta fase, ospoliciais investigam “possível prática dos crimes de ameaça, corrupção, lavagem de dinheiro e invasão de dispositivos informáticos, praticados por organização criminosa”.&lt;/p&gt;
+&lt;p&gt;A PF cumpre, desde cedo, quatro mandados de prisão preventiva e 15 de busca e apreensão. As ordens judiciais foram expedidas pelo Supremo Tribunal Federal (STF), nos endereços ligados aos investigados nos estados de São Paulo e Minas Gerais. “As investigações contaram com o apoio do Banco Central do Brasil”.&lt;/p&gt;
+&lt;p&gt;O STF determinou também afastamento de cargos públicos de alguns investigados, além de sequestro e bloqueio de bens, no montante de até R$ 22 bilhões.&lt;/p&gt;
+&lt;p&gt;A medida tem por objetivo interromper “a movimentação de ativos vinculados ao grupo investigado e preservar valores potencialmente relacionados às práticas ilícitas apuradas”, informou a PF.&lt;/p&gt;
+&lt;p&gt;CLDF aprova transferência de imóveis do GDF para o Banco de Brasília&lt;/p&gt;
+&lt;p&gt;Confira toda a repercussão da demissão de Filipe Luís do Flamengo&lt;/p&gt;
+&lt;p&gt;Turismo da região Norte é impulsionado por visitantes estrangeiros&lt;/p&gt;
+&lt;p&gt;Vítimas de feminicídio aumentaram 96% no estado de SP, em quatro anos&lt;/p&gt;
+&lt;p&gt;Governo reconhece situação de emergência em cidades de MG, RJ e SP&lt;/p&gt;
+&lt;p&gt;Cristo Redentor é iluminado com mensagens de campanha contra violência&lt;/p&gt;
+&lt;p&gt;Estudo pede mais políticas públicas para reduzir efeitos da menopausa&lt;/p&gt;
+&lt;p&gt;PF prende Daniel Vorcaro em 3ª fase da Operação Compliance Zero&lt;/p&gt;
+&lt;p&gt;Crime de estupro: entenda os agravantes e punições previstas em lei&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pf-deflagra-terceira-fase-da-operacao-compliance-zero&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A terceira fase da Operação Compliance Zero foi deflagrada no início da manhã desta quarta-feira (4) pela Polícia Federal (PF). Entre os presos está ...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-04 07:50:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-04 07:50:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-04 07:50:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-04 07:50:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/mcAbwRTdujk7HQYopYJABPcKciw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/04/pf_faz_operacao_contra_vazamento_de_fotos_intimas_e_abuso_sexual_infantojuvenil.jpg?itok=dYUpN30A</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Crime de estupro: entenda os agravantes e punições previstas em lei</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/crime-de-estupro-entenda-os-agravantes-e-punicoes-previstas-em-lei</link>
-      <pubDate>Wed, 04 Mar 2026 11:24:39 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2026 12:39:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/crime-de-estupro-entenda-os-agravantes-e-punicoes-previstas-em-lei#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/crime-de-estupro-entenda-os-agravantes-e-punicoes-previstas-em-lei#1004</guid>
       <description>No Rio de Janeiro, a Polícia Civil investiga um
 estupro coletivo contra uma garota de 17 anos, em Copacabana, na Zona Sul
 . O crime, ocorrido na noit...</description>
@@ -49,7 +236,7 @@ estupro coletivo contra uma garota de 17 anos, em Copacabana, na Zona Sul
       <excerpt:encoded>No Rio de Janeiro, a Polícia Civil investiga um
 estupro coletivo contra uma garota de 17 anos, em Copacabana, na Zona Sul
 . O crime, ocorrido na noit...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-03-04 07:45:00</wp:post_date>
       <wp:post_date_gmt>2026-03-04 07:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-04 07:45:00</wp:post_modified>
@@ -75,9 +262,9 @@ estupro coletivo contra uma garota de 17 anos, em Copacabana, na Zona Sul
     <item>
       <title>Conflito no Oriente Médio pode alterar mercado de óleo e gás</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/conflito-no-oriente-medio-pode-alterar-mercado-de-oleo-e-gas</link>
-      <pubDate>Wed, 04 Mar 2026 11:24:39 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2026 12:39:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/conflito-no-oriente-medio-pode-alterar-mercado-de-oleo-e-gas#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/conflito-no-oriente-medio-pode-alterar-mercado-de-oleo-e-gas#1005</guid>
       <description>© REUTERS/Omar Ibrahim/Proibida reprodução
 O aprofundamento do conflito bélico no Oriente Médio pode alterarmercado de óleo e gás, principalmente, po...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9zkW2JdWVh5K3oCqc4cBt7Ygj5c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/03/2026-02-08t205105z_374844318_rc2shjandq0j_rtrmadp_3_lebanon-security.jpg?itok=F2BW2kkr&quot; alt=&quot;Conflito no Oriente Médio pode alterar mercado de óleo e gás&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -90,15 +277,15 @@ O aprofundamento do conflito bélico no Oriente Médio pode alterarmercado de ó
 &lt;p&gt;OBrasil vem ampliando sua produção, além de ser o 9º maior exportador mundial e destinar 67% de seu volume exportado de petróleo para a Ásia.&lt;/p&gt;
 &lt;p&gt;A entidadedefendeque, diante das instabilidades geopolíticas externas, é importante que o Brasil mantenha investimentos constantes em exploração e produção para a descoberta de novas fronteiras, como a Margem Equatorial.&lt;/p&gt;
 &lt;p&gt;“[Tudo isso] para a garantia da segurança energética, aumento da oferta exportadora e para se evitar que o país volte à condição de importador de petróleo na próxima década.”&lt;/p&gt;
-&lt;p&gt;Cada vez mais mulheres adiam a maternidade para ter maior estabilidade&lt;/p&gt;
+&lt;p&gt;Obesidade cresce 118% no Brasil em 18 anos&lt;/p&gt;
 &lt;p&gt;Confira toda a repercussão da demissão de Filipe Luís do Flamengo&lt;/p&gt;
 &lt;p&gt;Turismo da região Norte é impulsionado por visitantes estrangeiros&lt;/p&gt;
+&lt;p&gt;SP: Vítimas de feminicídio aumentaram 96% no estado em quatro anos&lt;/p&gt;
 &lt;p&gt;Governo reconhece situação de emergência em cidades de MG, RJ e SP&lt;/p&gt;
-&lt;p&gt;Cristo Redentor é iluminado com mensagens de campanha contra violência&lt;/p&gt;
-&lt;p&gt;Estudo pede mais políticas públicas para reduzir efeitos da menopausa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/conflito-no-oriente-medio-pode-alterar-mercado-de-oleo-e-gas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Cristo Redentor é iluminado com mensagens de campanha contra violência&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/conflito-no-oriente-medio-pode-alterar-mercado-de-oleo-e-gas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Omar Ibrahim/Proibida reprodução
 O aprofundamento do conflito bélico no Oriente Médio pode alterarmercado de óleo e gás, principalmente, po...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-03-04 07:34:00</wp:post_date>
       <wp:post_date_gmt>2026-03-04 07:34:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-04 07:34:00</wp:post_modified>
@@ -124,9 +311,9 @@ O aprofundamento do conflito bélico no Oriente Médio pode alterarmercado de ó
     <item>
       <title>Área ocupada por favelas quase triplicou em 40 anos no Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/area-ocupada-por-favelas-quase-triplicou-em-40-anos-no-brasil</link>
-      <pubDate>Wed, 04 Mar 2026 11:24:39 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2026 12:39:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/area-ocupada-por-favelas-quase-triplicou-em-40-anos-no-brasil#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/area-ocupada-por-favelas-quase-triplicou-em-40-anos-no-brasil#1006</guid>
       <description>As favelas brasileiras cresceram e ocuparam uma área de 92,3 mil hectares nos últimos 40 anos, aponta o
 Mapeamento Anual das Áreas Urbanizadas no Bra...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WBypjrsZ3TGhEmVFdsKAmymSjc4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/26/63_0.jpg?itok=WcmPUByF&quot; alt=&quot;Área ocupada por favelas quase triplicou em 40 anos no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -147,7 +334,7 @@ Mapeamento Anual das Áreas Urbanizadas no Bra...</description>
 &lt;p&gt;Ao todo, esse montante incluiterritórios em 1.325 municípios brasileiros, sendo que a cidade do Rio de Janeiro é a que concentra a maior área urbanizada em condições mínimas de segurança hídrica.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/area-ocupada-por-favelas-quase-triplicou-em-40-anos-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>As favelas brasileiras cresceram e ocuparam uma área de 92,3 mil hectares nos últimos 40 anos, aponta o
 Mapeamento Anual das Áreas Urbanizadas no Bra...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-04 07:15:00</wp:post_date>
       <wp:post_date_gmt>2026-03-04 07:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-04 07:15:00</wp:post_modified>
@@ -173,9 +360,9 @@ Mapeamento Anual das Áreas Urbanizadas no Bra...</excerpt:encoded>
     <item>
       <title>Minas Gerais tem maior área urbana em encostas íngremes no país</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/minas-gerais-tem-maior-area-urbana-em-encostas-ingremes-no-pais</link>
-      <pubDate>Wed, 04 Mar 2026 11:24:39 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2026 12:39:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/minas-gerais-tem-maior-area-urbana-em-encostas-ingremes-no-pais#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/minas-gerais-tem-maior-area-urbana-em-encostas-ingremes-no-pais#1007</guid>
       <description>Minas Gerais é o estado brasileiro com a maior área urbanizada em alta declividade, isto é, construída em encostas íngremes que oferecem risco aos mo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DCEHRG6aUiYitZrO3VX_iiytUCA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/_rbr1852.jpg_0.jpg?itok=VpUgwqp3&quot; alt=&quot;Minas Gerais tem maior área urbana em encostas íngremes no país&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Minas Gerais é o estado brasileiro com a maior área urbanizada em alta declividade, isto é, construída em encostas íngremes que oferecem risco aos moradores. O dado foi divulgadonesta quarta-feira (4) pelo MapBiomas, no Mapeamento Anual das Áreas Urbanizadas no Brasil.&lt;/p&gt;
@@ -194,7 +381,7 @@ Mapeamento Anual das Áreas Urbanizadas no Bra...</excerpt:encoded>
 &lt;p&gt;Na avaliação da coordenadora do estudo, Mayumi Hirye, o contexto das mudanças climáticas e os riscos causados pelos episódios extremos são fatores a serem considerados na expansão das cidades.&lt;/p&gt;
 &lt;p&gt;“Afetam a todos, mas, em especial, incidem de forma mais dramática em áreas mais sensíveis e vulneráveis, cuja ocupação tem acontecido de forma mais acelerada do que o ritmo da urbanização total”, reforça.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/minas-gerais-tem-maior-area-urbana-em-encostas-ingremes-no-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Minas Gerais é o estado brasileiro com a maior área urbanizada em alta declividade, isto é, construída em encostas íngremes que oferecem risco aos mo...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-04 07:00:00</wp:post_date>
       <wp:post_date_gmt>2026-03-04 07:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-04 07:00:00</wp:post_modified>
@@ -220,9 +407,9 @@ Mapeamento Anual das Áreas Urbanizadas no Bra...</excerpt:encoded>
     <item>
       <title>Pré-Libertadores: Botafogo arranca empate com Barcelona em Guayaquil</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/pre-libertadores-botafogo-arranca-empate-com-barcelona-em-guayaquil</link>
-      <pubDate>Wed, 04 Mar 2026 11:24:39 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2026 12:39:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/pre-libertadores-botafogo-arranca-empate-com-barcelona-em-guayaquil#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/pre-libertadores-botafogo-arranca-empate-com-barcelona-em-guayaquil#1008</guid>
       <description>© Vitor Silva/Botafogo/Direitos Reservados
 O Botafogo arrancou um empate de 1 a 1 com o Barcelona de Guayaquil (Equador), na noite desta terça-feira ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mdKgKQE5aCkNzrDAM9liEmaODzo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/03/55127958238_178be2aa63_o.jpg?itok=B7zgTysP&quot; alt=&quot;Pré-Libertadores: Botafogo arranca empate com Barcelona em Guayaquil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -235,15 +422,15 @@ O Botafogo arrancou um empate de 1 a 1 com o Barcelona de Guayaquil (Equador), n
 &lt;p&gt;Aos 22 minutos o goleiro Léo Linck deu um chutão. Porém, rapidamente a equipe equatoriana rebateu a bola, que sobroupara o atacante Villalba, que finalizou duas vezes seguidas para superar o goleiro brasileiro.&lt;/p&gt;
 &lt;p&gt;Em desvantagem no marcador, o Botafogo passou a se arriscar mais, e chegou a criar boas oportunidades de marcar. Porém, o empate só foi alcançado após o intervalo.&lt;/p&gt;
 &lt;p&gt;Aos 20 minutos, o meia colombiano Jordan Barrera avançou pela direita e cruzou para o meio da área, onde o volante Céliz furou e a bola sobrou para Matheus Martins, que bateu colocado para superar o goleiro Contreras edar números finais ao marcador.&lt;/p&gt;
-&lt;p&gt;Em conferência, Lula e Simone Tebet defendem fim da escala 6x1&lt;/p&gt;
+&lt;p&gt;Obesidade cresce 118% no Brasil em 18 anos&lt;/p&gt;
 &lt;p&gt;Confira toda a repercussão da demissão de Filipe Luís do Flamengo&lt;/p&gt;
 &lt;p&gt;Turismo da região Norte é impulsionado por visitantes estrangeiros&lt;/p&gt;
-&lt;p&gt;Cristo Redentor é iluminado com mensagens de campanha contra violência&lt;/p&gt;
-&lt;p&gt;Estudo pede mais políticas públicas para reduzir efeitos da menopausa&lt;/p&gt;
-&lt;p&gt;PF deflagra 3ª fase da Operação Compliance Zero&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/pre-libertadores-botafogo-arranca-empate-com-barcelona-em-guayaquil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;SP: Vítimas de feminicídio aumentaram 96% no estado em quatro anos&lt;/p&gt;
+&lt;p&gt;Governo reconhece situação de emergência em cidades de MG, RJ e SP&lt;/p&gt;
+&lt;p&gt;Cristo Redentor é iluminado com mensagens de campanha contra violência&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/pre-libertadores-botafogo-arranca-empate-com-barcelona-em-guayaquil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Vitor Silva/Botafogo/Direitos Reservados
 O Botafogo arrancou um empate de 1 a 1 com o Barcelona de Guayaquil (Equador), na noite desta terça-feira ...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-03 23:41:00</wp:post_date>
       <wp:post_date_gmt>2026-03-03 23:41:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-03 23:41:00</wp:post_modified>
@@ -269,9 +456,9 @@ O Botafogo arrancou um empate de 1 a 1 com o Barcelona de Guayaquil (Equador), n
     <item>
       <title>Aposta do CE acerta dezenas da Mega e leva prêmio de R$ 158 milhões</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/aposta-do-ce-acerta-dezenas-da-mega-e-leva-premio-de-r-158-milhoes</link>
-      <pubDate>Wed, 04 Mar 2026 11:24:39 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2026 12:39:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/aposta-do-ce-acerta-dezenas-da-mega-e-leva-premio-de-r-158-milhoes#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/aposta-do-ce-acerta-dezenas-da-mega-e-leva-premio-de-r-158-milhoes#1009</guid>
       <description>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
 Uma aposta de Eusébio(CE) acertou sozinha as seis dezenas do concurso 2.979 da Mega-Sena, realizado nesta t...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uGWKQSevZCX_pTs3UH-Oh-oPDv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182658.jpg?itok=s-3aV28q&quot; alt=&quot;Aposta do CE acerta dezenas da Mega e leva prêmio de R$ 158 milhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -282,17 +469,17 @@ Uma aposta de Eusébio(CE) acertou sozinha as seis dezenas do concurso 2.979 da 
 &lt;p&gt;128apostas acertaram cinco dezenas e irão receber R$ 38.728,95cada.&lt;/p&gt;
 &lt;p&gt;7.902apostas acertaram quatro dezenas e irão receber R$ 1.034,09cada.&lt;/p&gt;
 &lt;p&gt;O próximo concurso irá distribuir um prêmio de R$ 45milhões para quem acertar as seis dezenas. O sorteio será realizado na quinta-feira(5).&lt;/p&gt;
-&lt;p&gt;Em conferência, Lula e Simone Tebet defendem fim da escala 6x1&lt;/p&gt;
+&lt;p&gt;Obesidade cresce 118% no Brasil em 18 anos&lt;/p&gt;
 &lt;p&gt;Confira toda a repercussão da demissão de Filipe Luís do Flamengo&lt;/p&gt;
 &lt;p&gt;Turismo da região Norte é impulsionado por visitantes estrangeiros&lt;/p&gt;
+&lt;p&gt;SP: Vítimas de feminicídio aumentaram 96% no estado em quatro anos&lt;/p&gt;
+&lt;p&gt;Governo reconhece situação de emergência em cidades de MG, RJ e SP&lt;/p&gt;
+&lt;p&gt;Cristo Redentor é iluminado com mensagens de campanha contra violência&lt;/p&gt;
 &lt;p&gt;Estudo pede mais políticas públicas para reduzir efeitos da menopausa&lt;/p&gt;
-&lt;p&gt;PF deflagra 3ª fase da Operação Compliance Zero&lt;/p&gt;
-&lt;p&gt;Crime de estupro: entenda os agravantes e punições previstas em lei&lt;/p&gt;
-&lt;p&gt;Conflito no Oriente Médio pode alterar mercado de óleo e gás&lt;/p&gt;
-&lt;p&gt;Área ocupada por favelas quase triplicou em 40 anos no Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/aposta-do-ce-acerta-dezenas-da-mega-e-leva-premio-de-r-158-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;PF prende Daniel Vorcaro em 3ª fase da Operação Compliance Zero&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/aposta-do-ce-acerta-dezenas-da-mega-e-leva-premio-de-r-158-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
 Uma aposta de Eusébio(CE) acertou sozinha as seis dezenas do concurso 2.979 da Mega-Sena, realizado nesta t...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-03 22:49:00</wp:post_date>
       <wp:post_date_gmt>2026-03-03 22:49:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-03 22:49:00</wp:post_modified>
@@ -313,188 +500,6 @@ Uma aposta de Eusébio(CE) acertou sozinha as seis dezenas do concurso 2.979 da 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/uGWKQSevZCX_pTs3UH-Oh-oPDv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182658.jpg?itok=s-3aV28q</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Fim do 6x1: Lula propõe negociação entre patrões, empregados e governo</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/fim-do-6x1-lula-propoe-negociacao-entre-patroes-empregados-e-governo</link>
-      <pubDate>Wed, 04 Mar 2026 11:24:39 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/fim-do-6x1-lula-propoe-negociacao-entre-patroes-empregados-e-governo#1006</guid>
-      <description>O presidenteLuiz Inácio Lula da Silvapropôs, na noite desta terça-feira (3), que a proposta de lei para o fim da escala 6x1 seja construída, em conju...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wCnlLzOCVNjsaQa4rskMjK_mdIw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/03/pint2401.jpg.jpeg?itok=NkOBuS1_&quot; alt=&quot;Fim do 6x1: Lula propõe negociação entre patrões, empregados e governo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O presidenteLuiz Inácio Lula da Silvapropôs, na noite desta terça-feira (3), que a proposta de lei para o fim da escala 6x1 seja construída, em conjunto, por empregados, patrões e o governo.&lt;/p&gt;
-&lt;p&gt;A declaraçãode Lula ocorreu na abertura da Segunda Conferência do Trabalho, que ocorre na capital paulista até o próximo dia 5, no Anhembi.&lt;/p&gt;
-&lt;p&gt;Segundo o presidente, para os trabalhadores, será mais vantajoso realizar um acordo com a classe empresarial antes de o Congresso apreciar o tema.&lt;/p&gt;
-&lt;p&gt;“É melhor vocês construírem negociando do que vocês terem que engolir uma coisa aberta [vinda do Congresso], e depois ter de recorrer à Justiça do Trabalho”, disse.&lt;/p&gt;
-&lt;p&gt;“Tanto será melhor para nós se o que sair for o resultado de um acordo entre os empresários, os trabalhadores e o governo”, acrescentou.&lt;/p&gt;
-&lt;p&gt;O presidente disse ainda que o governo não irá “pender para um lado” nas discussões.&lt;/p&gt;
-&lt;p&gt;“Não iremos prejudicar os trabalhadores. E também não queremos contribuir com o prejuízo da economia brasileira. Nós queremos contribuir para, de forma bem pensada, bem harmonizada, encontrar uma solução”, disse.&lt;/p&gt;
-&lt;p&gt;O encontro, no Anhembi, visa, segundo o Ministério do Trabalho e Emprego, estabelecer diretrizes para a promoção do trabalho decente no Brasil e fortalecer o diálogo social e a construção coletiva de políticas públicas.&lt;/p&gt;
-&lt;p&gt;Em conferência, Lula e Simone Tebet defendem fim da escala 6x1&lt;/p&gt;
-&lt;p&gt;Confira toda a repercussão da demissão de Filipe Luís do Flamengo&lt;/p&gt;
-&lt;p&gt;Turismo da região Norte é impulsionado por visitantes estrangeiros&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/fim-do-6x1-lula-propoe-negociacao-entre-patroes-empregados-e-governo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O presidenteLuiz Inácio Lula da Silvapropôs, na noite desta terça-feira (3), que a proposta de lei para o fim da escala 6x1 seja construída, em conju...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-03 22:32:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-03 22:32:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-03 22:32:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-03 22:32:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/wCnlLzOCVNjsaQa4rskMjK_mdIw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/03/pint2401.jpg.jpeg?itok=NkOBuS1_</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Vasco anuncia acerto com o técnico Renato Gaúcho</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/vasco-anuncia-acerto-com-o-tecnico-renato-gaucho</link>
-      <pubDate>Wed, 04 Mar 2026 11:24:39 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/vasco-anuncia-acerto-com-o-tecnico-renato-gaucho#1007</guid>
-      <description>© Lucas Uebel/Grêmio FPBA/Direitos Reservados
-O Vasco da Gama anunciou, na noite desta terça-feira (3), que acertou com Renato Gaúcho para assumir a ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/RB0i0_99hArCJ65kFdPoWWnUjaQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/50857139788_1895fb7e71_o.jpg?itok=H0HiUEbO&quot; alt=&quot;Vasco anuncia acerto com o técnico Renato Gaúcho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Lucas Uebel/Grêmio FPBA/Direitos Reservados&lt;/p&gt;
-&lt;p&gt;O Vasco da Gama anunciou, na noite desta terça-feira (3), que acertou com Renato Gaúcho para assumir a sua equipe profissional de futebol masculino. Esta será a terceira passagem do treinador pelo Cruzmaltino de São Januário.&lt;/p&gt;
-&lt;p&gt;Renato Gaúcho é o novo técnico do Vasco da Gama ✍️💢&lt;/p&gt;
-&lt;p&gt;O Vasco da Gama informa que Renato Gaúcho é o novo treinador da equipe profissional. O técnico assinou contrato válido até o fim de 2026 e inicia sua terceira passagem pelo clube.&lt;/p&gt;
-&lt;p&gt;Junto com o comandante, chegam os auxiliares…&lt;/p&gt;
-&lt;p&gt;“O Vasco da Gama informa que Renato Gaúcho é o novo treinador da equipe profissional. O técnico assinou contrato válido até o fim de 2026 e inicia sua terceira passagem pelo clube. Junto com o comandante, chegam os auxiliares Alexandre Mendes e Marcelo Salles”, informou o Vasco em nota.&lt;/p&gt;
-&lt;p&gt;A apresentação do treinador no Vasco da Gama será realizada na próxima quarta-feira (04/03), oportunidade na qual comandará seu primeiro treinamento no Centro de Treinamento Moacyr Barbosa.&lt;/p&gt;
-&lt;p&gt;Renato Gaúcho chega para substituir o técnico Fernando Diniz, demitido após derrota para o Fluminense no Campeonato Carioca. O último time comandado por Renato foi justamente o Tricolor das Laranjeiras, no ano de 2025.&lt;/p&gt;
-&lt;p&gt;Em conferência, Lula e Simone Tebet defendem fim da escala 6x1&lt;/p&gt;
-&lt;p&gt;Confira toda a repercussão da demissão de Filipe Luís do Flamengo&lt;/p&gt;
-&lt;p&gt;Turismo da região Norte é impulsionado por visitantes estrangeiros&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/vasco-anuncia-acerto-com-o-tecnico-renato-gaucho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Lucas Uebel/Grêmio FPBA/Direitos Reservados
-O Vasco da Gama anunciou, na noite desta terça-feira (3), que acertou com Renato Gaúcho para assumir a ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-03 21:50:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-03 21:50:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-03 21:50:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-03 21:50:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/RB0i0_99hArCJ65kFdPoWWnUjaQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/50857139788_1895fb7e71_o.jpg?itok=H0HiUEbO</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Alcolumbre mantém sessão da CPMI do INSS que quebrou sigilo de Lulinha</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/alcolumbre-mantem-sessao-da-cpmi-do-inss-que-quebrou-sigilo-de-lulinha</link>
-      <pubDate>Wed, 04 Mar 2026 11:24:39 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/alcolumbre-mantem-sessao-da-cpmi-do-inss-que-quebrou-sigilo-de-lulinha#1008</guid>
-      <description>O presidente do Senado, Davi Alcolumbre (União-AP), manteve a votação da CPMI do INSS que aprovou a quebra de sigilo bancário e fiscal de FabioLuísLu...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/owXiPb48xs3yiJ-TOIXUV_QIp60=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/03/0d9a3335.jpg?itok=dHxTM7nw&quot; alt=&quot;Alcolumbre mantém sessão da CPMI do INSS que quebrou sigilo de Lulinha&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O presidente do Senado, Davi Alcolumbre (União-AP), manteve a votação da CPMI do INSS que aprovou a quebra de sigilo bancário e fiscal de FabioLuísLula da Silva, filho do presidente Luiz Inácio Lula da Silva e conhecido como Lulinha.&lt;/p&gt;
-&lt;p&gt;Parlamentares governistas haviam apresentado um recurso para que a votação fosse desconsiderada&lt;/p&gt;
-&lt;p&gt;. No documento, 14 senadores e deputados sustentaram que a maioria da comissão teria rejeitado os requerimentos incluídos na pauta, mas que o resultado foi proclamado como aprovado pelopresidente da comissão, Carlos Viana (Podemos-MG). Conforme a votação, os favoráveis deveriam permanecersentados, enquanto os contrários se levantariam.&lt;/p&gt;
-&lt;p&gt;A base governista afirma que Vianaproclamou a aprovação no momento em que apenas sete parlamentares estavam de pé. Segundo o recurso, 14 parlamentares teriam se manifestado contra os requerimentos.&lt;/p&gt;
-&lt;p&gt;Davi Alcolumbre solicitou parecerdaAdvocacia do Senado e daSecretaria-Geral da Mesa sobre a votação. De acordo comAdvocacia e a Secretaria, havia 31 parlamentares com presença registrada no momento da deliberação. Desta forma, seriam necessários16 votos contrários.&lt;/p&gt;
-&lt;p&gt;Ao rejeitar o recurso, Acolumbre afirmou que as decisões nas comissões parlamentares devem ser tomadas por maioria dos votos, com a presença da maioria absoluta dos membros. No caso da votação da CPMI do INSS, mesmo que o presidente Carlos Viana tenha cometido algum erro na contagem dos parlamentares contrários, o número apresentado pelo base governista no recurso não é suficiente para a rejeição, segundo o presidente do Senado.&lt;/p&gt;
-&lt;p&gt;&quot;No caso concreto, sustenta-se que 14 parlamentares teriam se manifestado contrariamente aos requerimentos submetidos à apreciação. Ainda assim, esse número de votos contrários não seria suficiente para a configuração da maioria. Esta presidência conclui que a suposta violação das normas regimentais e constitucionais pelo presidente da CPMI não se mostra evidente e inequívoca. Não se faz necessária a intervenção do presidente da Mesa do Congresso Nacional&quot;, disse Alcolumbre.&lt;/p&gt;
-&lt;p&gt;aprovaram no dia 26 de fevereiro as quebras de sigilos bancários e fiscais de Fábio Luís Lula da Silva&lt;/p&gt;
-&lt;p&gt;. O pedido de elaboração de relatórios de inteligência financeira e de quebra dos sigilos bancário e fiscal de Lulinha foi solicitado pelo deputado Alfredo Gaspar (União-AL)&lt;/p&gt;
-&lt;p&gt;Silva é citado nadecisão do Supremo Tribunal Federal (STF)que autorizou a Polícia Federal (PF) e a Controladoria-Geral da União (CGU) a realizarem, em 18 de dezembro de 2025, uma nova fase da Operação Sem Desconto, que investiga oesquema nacional de descontos associativos não autorizados que lesou milhões de aposentados e pensionistas de todo o Brasil.&lt;/p&gt;
-&lt;p&gt;Mensagens que a PF extraiu do celular de Antônio Carlos Camilo Antunes, o Careca do INSS, principal operador do esquema criminoso,citam o repasse de ao menos R$ 300 mil para “o filho do rapaz” – que, segundo os investigadores, seria uma alusão a Lulinha.&lt;/p&gt;
-&lt;p&gt;Em nota, a defesa de Lulinhaafirmou que o cliente não tem nenhuma relação com as fraudes contra os beneficiários do INSS, não tendo participado de desviosnem recebido quaisquer valores de fontes criminosas.&lt;/p&gt;
-&lt;p&gt;* Com informações da Agência Senado&lt;/p&gt;
-&lt;p&gt;Em conferência, Lula e Simone Tebet defendem fim da escala 6x1&lt;/p&gt;
-&lt;p&gt;Confira toda a repercussão da demissão de Filipe Luís do Flamengo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/alcolumbre-mantem-sessao-da-cpmi-do-inss-que-quebrou-sigilo-de-lulinha&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O presidente do Senado, Davi Alcolumbre (União-AP), manteve a votação da CPMI do INSS que aprovou a quebra de sigilo bancário e fiscal de FabioLuísLu...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-03 21:44:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-03 21:44:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-03 21:44:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-03 21:44:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/owXiPb48xs3yiJ-TOIXUV_QIp60=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/03/0d9a3335.jpg?itok=dHxTM7nw</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Câmara Legislativa aprova uso de imóveis públicos para socorrer BRB</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/camara-legislativa-aprova-uso-de-imoveis-publicos-para-socorrer-brb</link>
-      <pubDate>Wed, 04 Mar 2026 11:24:39 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/camara-legislativa-aprova-uso-de-imoveis-publicos-para-socorrer-brb#1009</guid>
-      <description>Por 14 votos favoráveis e 10 contrários, a Câmara Legislativa do Distrito Federal aprovou nesta terça-feira (3)o projeto que autoriza o Governo do Di...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hEMHx35dhSe97cz0kU5v5LChhII=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0d4a8962.jpg?itok=7gDhIHed&quot; alt=&quot;Câmara Legislativa aprova uso de imóveis públicos para socorrer BRB&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Por 14 votos favoráveis e 10 contrários, a Câmara Legislativa do Distrito Federal aprovou nesta terça-feira (3)o projeto que autoriza o Governo do Distrito Federal (GDF) a fazer um aporte no Banco de Brasília (BRB) para cobrir prejuízos relacionados às operações com o Banco Master.&lt;/p&gt;
-&lt;p&gt;Encaminhado pelo governador Ibaneis Rocha,&lt;/p&gt;
-&lt;p&gt;o texto autoriza o DF a capitalizar o banco e a contratar empréstimo de até R$ 6,6 bilhões&lt;/p&gt;
-&lt;p&gt;com o Fundo Garantidor de Créditos (FGC) ou com outras instituições financeiras.&lt;/p&gt;
-&lt;p&gt;Além disso, o projeto permite oferecer nove imóveis públicos para venda, transferência ao banco ou estruturação em fundo imobiliário.&lt;/p&gt;
-&lt;p&gt;Os imóveis podem ainda servir como garantia nas operações de crédito, cobrindo eventuais inadimplências do BRB.&lt;/p&gt;
-&lt;p&gt;A votação foi precedida de intensa articulação política. Na véspera, o presidente do BRB, Nelson Antônio de Souza, reuniu-se por quase 12 horas com deputados distritais.&lt;/p&gt;
-&lt;p&gt;Em discurso, afirmou que, sem a aprovação do projeto, o banco poderia “deixar de existir” e interromper operações como pagamento de servidores, programas sociais, transporte público e linhas de crédito.&lt;/p&gt;
-&lt;p&gt;Deputados da base governista defenderam a proposta como única alternativa para preservar o controle do banco pelo DF.&lt;/p&gt;
-&lt;p&gt;“Não vamos deixar o BRB ir para o fundo do poço”, afirmou o líder do governo, Hermeto (MDB).&lt;/p&gt;
-&lt;p&gt;Parlamentares de oposição classificaram o texto como um “cheque em branco”.&lt;/p&gt;
-&lt;p&gt;A deputada Paula Belmonte (PSDB) exibiu uma réplica simbólica de um cheque durante a sessão, criticando a falta de laudos detalhados de avaliação dos imóveis.&lt;/p&gt;
-&lt;p&gt;O deputado Chico Vigilante (PT) afirmou que a proposta permite a alienação de bens públicos sem comprovação adequada de interesse público e anunciou que a oposição estuda ingressar na Justiça para tentar barrar a futura lei.&lt;/p&gt;
-&lt;p&gt;Um estudo técnico da Consultoria da própria CLDF&lt;/p&gt;
-&lt;p&gt;por riscos jurídicos e fiscais. Entre os problemas, está a possível afronta à Lei de Responsabilidade Fiscal e impactos no orçamento do DF.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/camara-legislativa-aprova-uso-de-imoveis-publicos-para-socorrer-brb&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Por 14 votos favoráveis e 10 contrários, a Câmara Legislativa do Distrito Federal aprovou nesta terça-feira (3)o projeto que autoriza o Governo do Di...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-03 21:15:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-03 21:15:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-03 21:15:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-03 21:15:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/hEMHx35dhSe97cz0kU5v5LChhII=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0d4a8962.jpg?itok=7gDhIHed</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
