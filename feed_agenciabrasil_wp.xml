@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 09 Mar 2026 19:35:34 +0000</pubDate>
+    <pubDate>Mon, 09 Mar 2026 20:26:11 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,301 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Envio de declaração do IR começa na próxima semana; veja regras</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/envio-de-declaracao-do-ir-comeca-na-proxima-semana-veja-regras</link>
+      <pubDate>Mon, 09 Mar 2026 20:26:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/envio-de-declaracao-do-ir-comeca-na-proxima-semana-veja-regras#1000</guid>
+      <description>© Marcello Casal JrAgência Brasil
+A Receita Federal divulgará na próxima segunda-feira (16) as regras da Declaração do Imposto de Renda Pessoa Física...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xeGJlYRTPc-CjDdRMdp3brp3Phw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moeda_020120a84t47475213.jpg?itok=rWhTkPko&quot; alt=&quot;Envio de declaração do IR começa na próxima semana; veja regras&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
+&lt;p&gt;A Receita Federal divulgará na próxima segunda-feira (16) as regras da Declaração do Imposto de Renda Pessoa Física (IRPF) 2026. Embora o calendário oficial ainda não tenha sido anunciado, a expectativa é que o prazo de entrega da declaração comece no dia 16 e se estenda até 29 de maio, último dia útil do mês, seguindo o padrão dos anos anteriores.&lt;/p&gt;
+&lt;p&gt;Uma das principais dúvidas entre os contribuintes neste ano envolve a nova faixa de isenção do Imposto de Renda para quem recebe até R$ 5 mil por mês.&lt;/p&gt;
+&lt;p&gt;Apesar de a medida ter entrado em vigor em 1º de janeiro&lt;/p&gt;
+&lt;p&gt;ter começado a aliviar o bolso de parte dos trabalhadores desde fevereiro&lt;/p&gt;
+&lt;p&gt;a mudança não terá impacto na declaração entregue em 2026&lt;/p&gt;
+&lt;p&gt;Isso ocorre porque a declaração deste ano se refere aos rendimentos obtidos em 2025. Assim,&lt;/p&gt;
+&lt;p&gt;a nova faixa de isenção só terá efeito prático na declaração a ser apresentada em 2027.&lt;/p&gt;
+&lt;p&gt;A confusão entre isenção do imposto e obrigatoriedade de entregar a declaração é comum entre os contribuintes.&lt;/p&gt;
+&lt;p&gt;Especialistas alertam que estar isento do pagamento mensal não significa automaticamente estar dispensado de prestar contas ao Fisco, já que a obrigação de declarar depende também de outros critérios, como patrimônio, investimentos e operações financeiras.&lt;/p&gt;
+&lt;p&gt;Quem deve declarar o Imposto de Renda em 2026?&lt;/p&gt;
+&lt;p&gt;Com base nas regras aplicadas no último exercício fiscal, que não sofreram alteração neste ano,&lt;/p&gt;
+&lt;p&gt;devem apresentar a declaração os contribuintes que, em 2025&lt;/p&gt;
+&lt;p&gt;Receberam rendimentos tributáveis, como salários, aposentadorias ou aluguéis, acima de R$ 33.888;&lt;/p&gt;
+&lt;p&gt;Obtiveram rendimentos isentos, não tributáveis ou tributados exclusivamente na fonte superiores a R$ 200 mil;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/envio-de-declaracao-do-ir-comeca-na-proxima-semana-veja-regras&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello Casal JrAgência Brasil
+A Receita Federal divulgará na próxima segunda-feira (16) as regras da Declaração do Imposto de Renda Pessoa Física...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-09 16:41:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-09 16:41:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-09 16:41:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-09 16:41:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/xeGJlYRTPc-CjDdRMdp3brp3Phw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moeda_020120a84t47475213.jpg?itok=rWhTkPko</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Moraes autoriza transferência de Domingos Brazão para presídio no Rio</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-autoriza-transferencia-de-domingos-brazao-para-presidio-no-rio</link>
+      <pubDate>Mon, 09 Mar 2026 20:26:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-autoriza-transferencia-de-domingos-brazao-para-presidio-no-rio#1001</guid>
+      <description>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nesta segunda-feira (9) a transferência de Domingos Brazão para o sistem...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/q4TxRZaxc7SjCw1s2p10DZ4KlmM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/25/dbrazao_rc_13_11_12_new.jpg?itok=Qat13l03&quot; alt=&quot;Moraes autoriza transferência de Domingos Brazão para presídio no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nesta segunda-feira (9) a transferência de Domingos Brazão para o sistema prisional estadual no Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;O conselheiro do Tribunal de Contas do estado&lt;/p&gt;
+&lt;p&gt;a 76 anos de prisão pela participação no assassinato da vereadora Marielle Franco e do motorista Anderson Gomes, ocorrido em 2018.&lt;/p&gt;
+&lt;p&gt;A decisão atendeu ao pedido feito pela defesa de Brazão, que está preso há dois anos no Presídio Federal de Porto Velho.&lt;/p&gt;
+&lt;p&gt;Com o encerramento do processo no STF e a condenação, os advogados alegaram que não há mais risco à investigação, razão usada por Moraes para justificar a prisão na penitenciária de segurança máxima.&lt;/p&gt;
+&lt;p&gt;Após analisar o pedido, Moraes deu prazo de 48 horas para a Secretaria de Administração Penitenciária do Estado do Rio de Janeiro (Seap) indicar um presídio para a transferência de Domingos.&lt;/p&gt;
+&lt;p&gt;Além do conselheiro, o irmão dele, Chiquinho Brazão, foi condenado a 76 anos de prisão no processo.&lt;/p&gt;
+&lt;p&gt;Rivaldo Barbosa, ex-chefe da Polícia Civil do Rio de Janeiro,&lt;/p&gt;
+&lt;p&gt;recebeu pena de 18 anos de prisão&lt;/p&gt;
+&lt;p&gt;, major da Polícia Militar, recebeu pena de 56 anos de prisão. Robson Calixto, ex-policial militar, foi condenado a 9 anos.&lt;/p&gt;
+&lt;p&gt;Especialistas avaliam possível impacto dos ataques ao Irã nos juros&lt;/p&gt;
+&lt;p&gt;Inteligência artificial chega à sala de aula&lt;/p&gt;
+&lt;p&gt;Homem é preso acusado de feminicídio em São Gonçalo, no RJ&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-autoriza-transferencia-de-domingos-brazao-para-presidio-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nesta segunda-feira (9) a transferência de Domingos Brazão para o sistem...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-09 16:35:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-09 16:35:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-09 16:35:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-09 16:35:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/q4TxRZaxc7SjCw1s2p10DZ4KlmM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/25/dbrazao_rc_13_11_12_new.jpg?itok=Qat13l03</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Lula cita preocupação com conflito no Irã e fala em ampliar defesa</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/lula-cita-preocupacao-com-conflito-no-ira-e-fala-em-ampliar-defesa-do-pais</link>
+      <pubDate>Mon, 09 Mar 2026 20:26:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/lula-cita-preocupacao-com-conflito-no-ira-e-fala-em-ampliar-defesa-do-pais#1002</guid>
+      <description>© Fabio Rodrigues-Pozzebom/ Agênc
+O presidente Luiz Inácio Lula da Silva disse nesta segunda-feira (9) ao presidente da África do Sul, Cyril Ramaphos...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/KChhDYSx9fqnuXeHFNTpFWPXT9w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/pzzb2492.jpg.jpg?itok=Oi6kGD6A&quot; alt=&quot;Lula cita preocupação com conflito no Irã e fala em ampliar defesa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fabio Rodrigues-Pozzebom/ Agênc&lt;/p&gt;
+&lt;p&gt;O presidente Luiz Inácio Lula da Silva disse nesta segunda-feira (9) ao presidente da África do Sul, Cyril Ramaphosa, que os dois países devem focar na autonomia e no fortalecimento, por meio da produção de artigos militares para autodefesa.&lt;/p&gt;
+&lt;p&gt;“Se a gente não se preparar na questão de defesa, qualquer dia alguém invade a gente. O Brasil tem necessidade similar à da África do Sul. Portanto, vamos juntar o nosso potencial e ver o que podemos construir juntos”, disse Lula, ao receber Ramaphosa no Palácio do Planalto, em Brasília.&lt;/p&gt;
+&lt;p&gt;&quot;Não precisamos ficar comprando dos 'Senhores das Armas'. Nós poderemos produzir. Ninguém vai ajudar a gente, a não ser nós mesmos&quot;, pontuou.&lt;/p&gt;
+&lt;p&gt;O presidente brasileiro defendeu que os dois países do Sul Global articulem uma parceria estratégica parasetornarem um mercado relevante para a indústria de defesa.&lt;/p&gt;
+&lt;p&gt;A declaração de Lula foi dada após assinatura de acordos bilaterais nas áreas de turismo, de comércio exterior e da indústria, no Palácio do Planalto. A visita do presidente sul-africano ao Brasil vai até esta terça (10).&lt;/p&gt;
+&lt;p&gt;Lula também reiterou o perfil pacífico da América do Sul e que as tecnologias têm uso civil.&lt;/p&gt;
+&lt;p&gt;“Aqui, na América do Sul, nós nos colocamos como uma região de paz. Aqui, ninguém tem bomba nuclear, bomba atômica. Nossos drones são para agricultura, para a ciência e tecnologia e não para a guerra.”&lt;/p&gt;
+&lt;p&gt;Lula também manifestou sua “profunda preocupação” com a escalada de conflito no Oriente Médio que, segundo o presidente, representam uma grave ameaça à paz e à segurança internacional. “O diálogo e a diplomacia constituem o único caminho viável para a construção de uma solução duradoura.”&lt;/p&gt;
+&lt;p&gt;O presidente Lula afirmou que, por conta da guerra contra o Irã, o preço do petróleo já vem subindo em quase todo mundo e deve encarecer ainda mais..&lt;/p&gt;
+&lt;p&gt;Lula destacou também os impactos humanitário e econômico do conflito iniciado em 28 de fevereiro, após os Estados Unidos e Israel&lt;/p&gt;
+&lt;p&gt;atacarem de forma coordenada o Irã&lt;/p&gt;
+&lt;p&gt;, aiatolá Ali Khamenei e quase duas centenas de pessoas em Teerã.&lt;/p&gt;
+&lt;p&gt;“Esses conflitos produzem efeitos deletérios sobre as cadeias de energia, de insumos e de alimentos. São mais vulneráveis, sobretudo, as mulheres e as crianças que sofrem os impactos mais severos dessas crises”,declarou Lula.&lt;/p&gt;
+&lt;p&gt;Durante a declaração à imprensa, o mandatário brasileiroexplicou que o Brasil tem potencial para exploração de minerais críticos considerados essenciais para a transição energética e digital em curso.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/lula-cita-preocupacao-com-conflito-no-ira-e-fala-em-ampliar-defesa-do-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agênc
+O presidente Luiz Inácio Lula da Silva disse nesta segunda-feira (9) ao presidente da África do Sul, Cyril Ramaphos...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-09 16:26:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-09 16:26:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-09 16:26:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-09 16:26:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/KChhDYSx9fqnuXeHFNTpFWPXT9w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/pzzb2492.jpg.jpg?itok=Oi6kGD6A</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Clientes do Banco do Brasil podem renegociar dívidas até o fim do mês</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/clientes-do-banco-do-brasil-podem-renegociar-dividas-ate-o-fim-do-mes</link>
+      <pubDate>Mon, 09 Mar 2026 20:26:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/clientes-do-banco-do-brasil-podem-renegociar-dividas-ate-o-fim-do-mes#1003</guid>
+      <description>© Marcelo Camargo/Agência Brasil
+O Banco do Brasil abriu prazo até dia 31 de março para que clientes possam renegociar dívidas com condições especiai...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/efJs4Ja_IgKQyO8KQzufUKYyCOY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1054772-df_img_4743.jpg?itok=kIUzeGwP&quot; alt=&quot;Clientes do Banco do Brasil podem renegociar dívidas até o fim do mês&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Banco do Brasil abriu prazo até dia 31 de março para que clientes possam renegociar dívidas com condições especiais e descontos que podem chegar a até 90%, de acordo com cada perfil.&lt;/p&gt;
+&lt;p&gt;Segundo o banco, o objetivo é reforçar o compromisso com a recuperação da saúde financeira de seus clientes e com o estímulo ao uso consciente do crédito.&lt;/p&gt;
+&lt;p&gt;“Caso a renegociação não esteja disponível de forma automática, o cliente deve procurar sua agência de relacionamento para atendimento personalizado. Em todos esses canais, não é necessário o envio de documentos”, explicou o gerente-executivo da Unidade de Cobrança e Reestruturação de Ativos do Banco do Brasil, Daniel Brum.&lt;/p&gt;
+&lt;p&gt;A campanha do Banco do Brasil acontece simultaneamente ao Mutirão Nacional de Negociação e Orientação Financeira, da Federação Brasileira de Bancos (Febraban), quando será possível renegociar dívidas bancárias em atraso, como cartão de crédito, cheque especial, crédito consignado e outras modalidades de crédito sem garantia e não prescritas.&lt;/p&gt;
+&lt;p&gt;Segundo a Febraban, o mutirão representa uma oportunidade para que os cidadãos regularizem suas pendências financeiras, reorganizem o orçamento e evitem o superendividamento, além de fortalecer a relação entre consumidores e instituições financeiras.&lt;/p&gt;
+&lt;p&gt;A renegociação pode ser feita nos canais de atendimento do Banco do Brasil:&lt;/p&gt;
+&lt;p&gt;Central de Relacionamento do BB (CRBB);&lt;/p&gt;
+&lt;p&gt;Telefones 4004-0001 ou 0800 729 0001;&lt;/p&gt;
+&lt;p&gt;WhatsApp BB, com o número (61) 4004-0001, escolhendo a opção #renegocie;&lt;/p&gt;
+&lt;p&gt;Nas agências do Banco do Brasil.&lt;/p&gt;
+&lt;p&gt;Especialistas avaliam possível impacto dos ataques ao Irã nos juros&lt;/p&gt;
+&lt;p&gt;Inteligência artificial chega à sala de aula&lt;/p&gt;
+&lt;p&gt;Homem é preso acusado de feminicídio em São Gonçalo, no RJ&lt;/p&gt;
+&lt;p&gt;Ódio contra mulheres nas redes é tema do Caminhos da Reportagem&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/clientes-do-banco-do-brasil-podem-renegociar-dividas-ate-o-fim-do-mes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
+O Banco do Brasil abriu prazo até dia 31 de março para que clientes possam renegociar dívidas com condições especiai...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-09 16:16:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-09 16:16:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-09 16:16:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-09 16:16:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/efJs4Ja_IgKQyO8KQzufUKYyCOY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1054772-df_img_4743.jpg?itok=kIUzeGwP</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Quilombo em Mato Grosso do Sul será o primeiro tombado pelo Iphan</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/quilombo-em-mato-grosso-do-sul-sera-o-primeiro-tombado-pelo-iphan</link>
+      <pubDate>Mon, 09 Mar 2026 20:26:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/quilombo-em-mato-grosso-do-sul-sera-o-primeiro-tombado-pelo-iphan#1004</guid>
+      <description>A Comunidade Remanescente de Quilombo Eva Maria de Jesus, em Campo Grande, Mato Grosso do Sul, será o primeiro quilombo tombado do país.
+O reconhecim...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/EslieIGCC3mTou8bXCF4CaLwbSs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/01036cce-ef06-4a8a-a422-3301bddf410f.jpeg?itok=V6MNSEpZ&quot; alt=&quot;Quilombo em Mato Grosso do Sul será o primeiro tombado pelo Iphan&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Comunidade Remanescente de Quilombo Eva Maria de Jesus, em Campo Grande, Mato Grosso do Sul, será o primeiro quilombo tombado do país.&lt;/p&gt;
+&lt;p&gt;O reconhecimento marcará a estreia do Livro do Tombo de Documentos e Sítios Detentores de Reminiscências Históricas de Antigos Quilombos, do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan).&lt;/p&gt;
+&lt;p&gt;A declaração oficial acontecerá nesta terça-feira (10), durante a 112ª Reunião do Conselho Consultivo do órgão. Opresidente do Iphan, Leandro Grass, adiantou que &quot;muitos outros territórios quilombolas receberão, com justiça, esse mesmo reconhecimento&quot;.&lt;/p&gt;
+&lt;p&gt;“A declaração de tombamento representa um importante gesto de reparação histórica às comunidades quilombolas. O trabalho conduzido pelo Iphan para o tombamento constitucional dos quilombos é construído com a participação direta das comunidades, que são as verdadeiras protagonistas”, disse.&lt;/p&gt;
+&lt;p&gt;A arquiteta Rayssa Almeida Silva mora na comunidade Tia Eva, como o quilombo é popularmente conhecido. Ela participou do processo de tombamento com os técnicos do Iphan e entende a medida como legado para o futuro e homenagem aos ancestrais.&lt;/p&gt;
+&lt;p&gt;“Primeiro, buscamos realizar o sonho dos mais velhos. A outra luta é para despertar o interesse dos mais jovens. Muitas pessoas moram aqui em Campo Grande e não sabem da história. Esse reconhecimento ajuda a mostrar o exemplo que Tia Eva foi de não desistir das batalhas da vida”, disse Rayssa.&lt;/p&gt;
+&lt;p&gt;O quilombo foi criado pela benzedeira e alforriada Eva Maria de Jesus, a “Tia Eva” (1848–1929). A comunidade se consolidou como um marco importante da resistência negra no Mato Grosso do Sul.&lt;/p&gt;
+&lt;p&gt;Para o superintendente do Iphan em Mato Grosso do Sul, João Henrique dos Santos, a declaração de tombamento valoriza a trajetória da líder comunitária e religiosa que dá nome ao território.&lt;/p&gt;
+&lt;p&gt;“Há um protagonismo de uma mulher negra, recém alforriada, que chega no sertão brasileiro, como era conhecida a região sul do então Mato Grosso e, nesse território, ela constitui uma comunidade fantástica. Era uma comunidade rural, que agora se insere no contexto urbano”, diz o superintendente.&lt;/p&gt;
+&lt;p&gt;Nilton dos Santos Silva, tataraneto de Tia Eva, espera que outras pessoas possam se interessar pela história da comunidade.&lt;/p&gt;
+&lt;p&gt;“Tudo que eu aprendi e o que sou vem de gerações passadas. Espero agora, com o tombamento, o reconhecimento da história, onde tudo começou, e também que venham mais coisas para a comunidade, como reformas e visitantes”, diz Nilton.&lt;/p&gt;
+&lt;p&gt;O processo de tombamento começou nos primeiros meses de 2024, a partir do diálogo dos técnicos do Iphan com moradores do quilombo. O trabalho foi orientado pela&lt;/p&gt;
+&lt;p&gt;Portaria Iphan nº 135, de 20 de novembro de 2023&lt;/p&gt;
+&lt;p&gt;, que regulamentou esse procedimento para documentos e sítios que contenham memórias históricas dos antigos quilombos.&lt;/p&gt;
+&lt;p&gt;Por meio da portaria, foi criado um Livro do Tombo específico para os quilombos e uma série de princípios, como a autodeterminação e a consulta prévia, livre e informada das comunidades quilombolas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/quilombo-em-mato-grosso-do-sul-sera-o-primeiro-tombado-pelo-iphan&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Comunidade Remanescente de Quilombo Eva Maria de Jesus, em Campo Grande, Mato Grosso do Sul, será o primeiro quilombo tombado do país.
+O reconhecim...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-03-09 16:14:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-09 16:14:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-09 16:14:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-09 16:14:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/EslieIGCC3mTou8bXCF4CaLwbSs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/01036cce-ef06-4a8a-a422-3301bddf410f.jpeg?itok=V6MNSEpZ</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Faturamento da indústria sobe 2,3% em janeiro, mas está abaixo de 2025</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/faturamento-da-industria-sobe-23-em-janeiro-mas-esta-abaixo-de-2025</link>
+      <pubDate>Mon, 09 Mar 2026 20:26:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/faturamento-da-industria-sobe-23-em-janeiro-mas-esta-abaixo-de-2025#1005</guid>
+      <description>© CNI/José Paulo Lacerda/Direitos reservados
+Pressionada pelos juros altos e pela desaceleração da economia, a indústria de transformação brasileira ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yV7bx1cnfIcqfugJLIX7WCOutsY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/17342794878_db148e5efd_o.jpg?itok=RN7c5UPW&quot; alt=&quot;Faturamento da indústria sobe 2,3% em janeiro, mas está abaixo de 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© CNI/José Paulo Lacerda/Direitos reservados&lt;/p&gt;
+&lt;p&gt;Pressionada pelos juros altos e pela desaceleração da economia, a indústria de transformação brasileira faturou 2,3% a mais em janeiro de 2026 na comparação com dezembro de 2025.&lt;/p&gt;
+&lt;p&gt;Os números foram divulgados nesta segunda-feira (9) pela Confederação Nacional da Indústria (CNI), que publicou a pesquisa Indicadores Industriais.&lt;/p&gt;
+&lt;p&gt;Apesar do avanço mensal, o resultado não foi suficiente para reverter o quadro negativo do setor.&lt;/p&gt;
+&lt;p&gt;Na comparação com janeiro do ano passado, o faturamento registrou queda de 9,7%.&lt;/p&gt;
+&lt;p&gt;Outros indicadores da atividade industrial apresentaram comportamento semelhante. As horas trabalhadas na produção aumentaram 0,5% entre dezembro de 2025 e janeiro de 2026, mas continuam em trajetória de queda iniciada no segundo semestre do ano passado. Em relação a janeiro de 2025, o indicador recuou 2,6%.&lt;/p&gt;
+&lt;p&gt;O emprego na indústria de transformação também registrou leve recuperação no início do ano.&lt;/p&gt;
+&lt;p&gt;O número de trabalhadores aumentou 0,5% em janeiro, interrompendo uma sequência de quatro meses consecutivos de retração&lt;/p&gt;
+&lt;p&gt;. Mesmo assim, o nível de emprego permanece 0,2% abaixo do observado no mesmo mês de 2025.&lt;/p&gt;
+&lt;p&gt;AUtilização da Capacidade Instalada (UCI) permaneceu praticamente estável, com leve crescimento de 0,2 ponto percentual. O indicador passou de 77,4% em dezembro de 2025 para 77,6% em janeiro de 2026, nível ainda 1 ponto percentual inferior ao registrado em janeiro do ano passado.&lt;/p&gt;
+&lt;p&gt;Em nota, a especialista em Políticas e Indústria da CNI, Larissa Nocko, destacou que os fatores que levaram ao enfraquecimento da indústria ao longo de 2025, como os juros e o crescimento menor da demanda, continuam limitando a recuperação do setor.&lt;/p&gt;
+&lt;p&gt;“Os elementos que levaram ao desaquecimento da indústria de transformação em 2025 permanecem penalizando o setor, que são, sobretudo, os juros elevados, o alto custo do crédito e a desaceleração da demanda, além da forte entrada de bens de consumo importados”, afirma.&lt;/p&gt;
+&lt;p&gt;A entidade também avalia que a eventual redução da taxa básica de juros deve ter efeito limitado no curto prazo. No comunicado, a&lt;/p&gt;
+&lt;p&gt;CNI informou que espera que o Comitê de Política Monetária (Copom) inicie o ciclo de corte dos juros na reunião deste mês.&lt;/p&gt;
+&lt;p&gt;“No entanto, o patamar da Selic ainda vai continuar bastante elevado, restringindo a atividade econômica, especialmente da indústria de transformação”, acrescentou Nocko na nota.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/faturamento-da-industria-sobe-23-em-janeiro-mas-esta-abaixo-de-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© CNI/José Paulo Lacerda/Direitos reservados
+Pressionada pelos juros altos e pela desaceleração da economia, a indústria de transformação brasileira ...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-03-09 16:13:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-09 16:13:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-09 16:13:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-09 16:13:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/yV7bx1cnfIcqfugJLIX7WCOutsY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/17342794878_db148e5efd_o.jpg?itok=RN7c5UPW</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Moraes autoriza visita íntima a general condenado na trama golpista</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-autoriza-visita-intima-general-condenado-na-trama-golpista</link>
-      <pubDate>Mon, 09 Mar 2026 19:35:34 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 20:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-autoriza-visita-intima-general-condenado-na-trama-golpista#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-autoriza-visita-intima-general-condenado-na-trama-golpista#1006</guid>
       <description>© Arquivo/Marcelo Camargo/Agência Brasil
 O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nesta segunda-feira (9) o gener...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LeGSJ7NkXjwJCNkxvanLYsagH2Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pr-sustentavel_mcamgo_abr_030520221818-11.jpg?itok=OkjHAdMl&quot; alt=&quot;Moraes autoriza visita íntima a general condenado na trama golpista&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -43,11 +333,11 @@ O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nes
 &lt;p&gt;Mário Fernandes foi condenado a 26 anos e seis meses de prisão na ação penal do Núcleo 2 da trama golpista ocorrida durante o governo de Jair Bolsonaro.&lt;/p&gt;
 &lt;p&gt;De acordo com os autos do processo, Fernandes foi o responsável por elaborar o plano Punhal Verde e Amarelo&lt;/p&gt;
 &lt;p&gt;, que foi encontrado pela Polícia Federal (PF) e que previa diversas ações para a realização de um golpe de Estado em 2022, incluindo o sequestro e assassinato de autoridades como o próprio Moraes, além do então presidente eleito Luiz Inácio Lula da Silva.&lt;/p&gt;
-&lt;p&gt;Escolas públicas retomam aulas em área atingida por chuvas em MG&lt;/p&gt;
+&lt;p&gt;Especialistas avaliam possível impacto dos ataques ao Irã nos juros&lt;/p&gt;
 &lt;p&gt;Inteligência artificial chega à sala de aula&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-autoriza-visita-intima-general-condenado-na-trama-golpista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Arquivo/Marcelo Camargo/Agência Brasil
 O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nesta segunda-feira (9) o gener...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-09 15:54:00</wp:post_date>
       <wp:post_date_gmt>2026-03-09 15:54:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-09 15:54:00</wp:post_modified>
@@ -73,9 +363,9 @@ O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nes
     <item>
       <title>Especialistas alertam para riscos ambientais de intervenções em praias</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/especialistas-alertam-para-riscos-ambientais-de-intervencoes-em-praias</link>
-      <pubDate>Mon, 09 Mar 2026 19:35:34 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 20:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/especialistas-alertam-para-riscos-ambientais-de-intervencoes-em-praias#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/especialistas-alertam-para-riscos-ambientais-de-intervencoes-em-praias#1007</guid>
       <description>© Fernando Frazão/Agência Brasil
 Obras como engordas artificiais de praia, molhes de pedra e muros de contenção têm se multiplicado para conter o ava...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/fE8wvCp290D6pClbZTIWPzpyEC8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/30/_d6a3904.jpg?itok=-ZD3nLAi&quot; alt=&quot;Especialistas alertam para riscos ambientais de intervenções em praias&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +386,7 @@ Obras como engordas artificiais de praia, molhes de pedra e muros de contenção
 &lt;p&gt;Além de proteger a costa, esses ambientes também oferecem benefícios econômicos e ambientais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/especialistas-alertam-para-riscos-ambientais-de-intervencoes-em-praias&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Obras como engordas artificiais de praia, molhes de pedra e muros de contenção têm se multiplicado para conter o ava...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-09 15:37:00</wp:post_date>
       <wp:post_date_gmt>2026-03-09 15:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-09 15:37:00</wp:post_modified>
@@ -122,9 +412,9 @@ Obras como engordas artificiais de praia, molhes de pedra e muros de contenção
     <item>
       <title>Gilmar: vazamento de conversa privada representa violação à intimidade</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/gilmar-vazamento-de-conversa-privada-representa-violacao-intimidade</link>
-      <pubDate>Mon, 09 Mar 2026 19:35:34 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 20:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/gilmar-vazamento-de-conversa-privada-representa-violacao-intimidade#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/gilmar-vazamento-de-conversa-privada-representa-violacao-intimidade#1008</guid>
       <description>O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), disse nesta segunda-feira (9) que o vazamento de conversas privadas representa grave vio...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GKQUqyO7SIkZF-M370NwFsbeQXE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/25/54811838718_3ce4479d41_o.jpg?itok=uY_F1fKr&quot; alt=&quot;Gilmar: vazamento de conversa privada representa violação à intimidade&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), disse nesta segunda-feira (9) que o vazamento de conversas privadas representa grave violação ao direito constitucional à intimidade.&lt;/p&gt;
@@ -136,14 +426,14 @@ Obras como engordas artificiais de praia, molhes de pedra e muros de contenção
 &lt;p&gt;“Ao transformar o que deveria ser uma investigação técnica em um espetáculo e em um verdadeiro ato de linchamento moral, o sistema incorre em nítida afronta à dignidade humana e aos direitos fundamentais”, completou o ministro.&lt;/p&gt;
 &lt;p&gt;Na semana passada, o ministro André Mendonça, relator do caso Master no STF, determinou a abertura de inquérito na Polícia Federal (PF) para investigar os vazamentos dos dados dos sigilos bancário, fiscal e telemático de Vorcaro.&lt;/p&gt;
 &lt;p&gt;A decisão do ministro foi motivada por um pedido de investigação feito defesa do banqueiro.&lt;/p&gt;
-&lt;p&gt;Escolas públicas retomam aulas em área atingida por chuvas em MG&lt;/p&gt;
+&lt;p&gt;Especialistas avaliam possível impacto dos ataques ao Irã nos juros&lt;/p&gt;
 &lt;p&gt;Inteligência artificial chega à sala de aula&lt;/p&gt;
-&lt;p&gt;Filho de Ali Khamenei é o novo líder supremo do Irã&lt;/p&gt;
-&lt;p&gt;Clientes do Banco do Brasil podem renegociar dívidas até o fim do mês&lt;/p&gt;
-&lt;p&gt;Quilombo em Mato Grosso do Sul será o primeiro tombado pelo Iphan&lt;/p&gt;
-&lt;p&gt;Faturamento da indústria sobe 2,3% em janeiro, mas está abaixo de 2025&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/gilmar-vazamento-de-conversa-privada-representa-violacao-intimidade&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Homem é preso acusado de feminicídio em São Gonçalo, no RJ&lt;/p&gt;
+&lt;p&gt;Ódio contra mulheres nas redes é tema do Caminhos da Reportagem&lt;/p&gt;
+&lt;p&gt;Alta do petróleo mobiliza potências do G7 em meio à guerra no Irã&lt;/p&gt;
+&lt;p&gt;Envio de declaração do IR começa na próxima semana; veja regras&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/gilmar-vazamento-de-conversa-privada-representa-violacao-intimidade&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), disse nesta segunda-feira (9) que o vazamento de conversas privadas representa grave vio...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-09 15:36:00</wp:post_date>
       <wp:post_date_gmt>2026-03-09 15:36:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-09 15:36:00</wp:post_modified>
@@ -169,9 +459,9 @@ Obras como engordas artificiais de praia, molhes de pedra e muros de contenção
     <item>
       <title>Conteúdos violentos contra a mulher viralizam na internet; saiba mais</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/conteudos-violentos-contra-mulher-viralizam-na-internet-saiba-mais</link>
-      <pubDate>Mon, 09 Mar 2026 19:35:34 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 20:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/conteudos-violentos-contra-mulher-viralizam-na-internet-saiba-mais#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/conteudos-violentos-contra-mulher-viralizam-na-internet-saiba-mais#1009</guid>
       <description>Um conteúdo viral nas redes sociais mostra homens simulando socos, chutes e facadas em mulheres caso levem um fora. Essa trend começou a se populariz...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9q_waSEGACPBOsowl-TEbhXDsAg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/raf07804.jpg?itok=ZMvntUeh&quot; alt=&quot;Conteúdos violentos contra a mulher viralizam na internet; saiba mais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Um conteúdo viral nas redes sociais mostra homens simulando socos, chutes e facadas em mulheres caso levem um fora. Essa trend começou a se popularizar justamente no momento em que o cresce o debate sobre o aumento da violência contra mulheres no país.&lt;/p&gt;
@@ -190,7 +480,7 @@ Obras como engordas artificiais de praia, molhes de pedra e muros de contenção
 &lt;p&gt;&quot;Do ponto de vista criminal existe,ainda que seja uma possibilidade muito remotade responsabilização pelos responsáveis legais da empresa,por uma prática de um crime omissivo:você deixar de agir quando você possui ferramentase o dever de o fazer.Embora concretamente isso seja muito difícil de acontecer&quot;.&lt;/p&gt;
 &lt;p&gt;De acordo com dados do Ministério da Justiça e Segurança Pública, o país registra atualmente&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/conteudos-violentos-contra-mulher-viralizam-na-internet-saiba-mais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Um conteúdo viral nas redes sociais mostra homens simulando socos, chutes e facadas em mulheres caso levem um fora. Essa trend começou a se populariz...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-09 15:23:00</wp:post_date>
       <wp:post_date_gmt>2026-03-09 15:23:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-09 15:23:00</wp:post_modified>
@@ -211,289 +501,6 @@ Obras como engordas artificiais de praia, molhes de pedra e muros de contenção
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/9q_waSEGACPBOsowl-TEbhXDsAg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/raf07804.jpg?itok=ZMvntUeh</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>São Paulo anuncia demissão do técnico Hernán Crespo</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/sao-paulo-anuncia-demissao-do-tecnico-hernan-crespo</link>
-      <pubDate>Mon, 09 Mar 2026 19:35:34 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/sao-paulo-anuncia-demissao-do-tecnico-hernan-crespo#1004</guid>
-      <description>© Rubens Chiri e Miguel Schincariol/Saopaulofc.net/Direitos Reservados
-O técnico argentino Hernán Crespo não comanda mais a equipe de futebol masculi...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/90J9_u6rR5ZiUEAS2v9yZg0G5h0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/55122918327_712bffcfd4_o.jpg?itok=-hjK6vrQ&quot; alt=&quot;São Paulo anuncia demissão do técnico Hernán Crespo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rubens Chiri e Miguel Schincariol/Saopaulofc.net/Direitos Reservados&lt;/p&gt;
-&lt;p&gt;O técnico argentino Hernán Crespo não comanda mais a equipe de futebol masculino do São Paulo. A decisão foi anunciada nesta segunda-feira (9) pela equipe do Morumbi. Com o treinador deixam a equipe os auxiliares Juan Branda e Victor López, os preparadores físicos Federico Martinetti e Leandro Paz e o preparador de goleiros Gustavo Nepote.&lt;/p&gt;
-&lt;p&gt;São Paulo comunica saída de Hernán Crespo&lt;/p&gt;
-&lt;p&gt;O São Paulo Futebol Clube definiu nesta segunda-feira (09) a saída do técnico Hernán Crespo. Também deixam o clube os auxiliares Juan Branda e Victor López, os preparadores físicos Federico Martinetti e Leandro Paz e o preparador de…&lt;/p&gt;
-&lt;p&gt;“O São Paulo deseja sucesso para Hernán Crespo e sua comissão técnica na sequência de suas carreiras”, diz a nota divulgada pela equipe.&lt;/p&gt;
-&lt;p&gt;Esta era a segunda passagem de Crespo pelo São Paulo. Ela teve início em julho de 2025. No período o argentinocomandou a equipe em 46 jogos, com 21 vitórias, sete empates e 18 derrotas.&lt;/p&gt;
-&lt;p&gt;Escolas públicas retomam aulas em área atingida por chuvas em MG&lt;/p&gt;
-&lt;p&gt;Mosaico celebra o Dia Mundial do DJ&lt;/p&gt;
-&lt;p&gt;Filho de Ali Khamenei é o novo líder supremo do Irã&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/sao-paulo-anuncia-demissao-do-tecnico-hernan-crespo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rubens Chiri e Miguel Schincariol/Saopaulofc.net/Direitos Reservados
-O técnico argentino Hernán Crespo não comanda mais a equipe de futebol masculi...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-03-09 15:16:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-09 15:16:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-09 15:16:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-09 15:16:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/90J9_u6rR5ZiUEAS2v9yZg0G5h0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/55122918327_712bffcfd4_o.jpg?itok=-hjK6vrQ</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Governo liberaR$ 7,3 mil para famílias atingidas por chuvas em MG</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-libera-r-73-mil-para-familias-atingidas-por-chuvas-em-mg</link>
-      <pubDate>Mon, 09 Mar 2026 19:35:34 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-libera-r-73-mil-para-familias-atingidas-por-chuvas-em-mg#1005</guid>
-      <description>O governo federal publicou duas medidas provisórias (MPs) para ajudar famílias e empresas afetadas pelas fortes chuvas em Minas Gerais. Uma delas é a...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CYbaBjmhWhWTse9Jo6osc8fnuTE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/_rbr1869.jpg_0.jpg?itok=DS6vhSk6&quot; alt=&quot;Governo liberaR$ 7,3 mil para famílias atingidas por chuvas em MG&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O governo federal publicou duas medidas provisórias (MPs) para ajudar famílias e empresas afetadas pelas fortes chuvas em Minas Gerais. Uma delas é a&lt;/p&gt;
-&lt;p&gt;Medida Provisória nº 1.338/2026&lt;/p&gt;
-&lt;p&gt;poio às famílias atingidas com o pagamento de R$ 7,3 mil, em parcela única, preferencialmente destinado à mulher&lt;/p&gt;
-&lt;p&gt;Segundo o ministro da Casa Civil, Rui Costa, em visita nesta segunda-feira (9) a Juiz de Fora e Ubá, o auxílio é destinado para as famílias que perderam seus bens parcial ou totalmente e que sejam cadastradas pelas prefeituras.&lt;/p&gt;
-&lt;p&gt;para ter acesso ao recurso, é necessário morar em município que tenha tido o estado de calamidade pública reconhecido pelo Ministério da Integração e do Desenvolvimento Regional (MIDR).&lt;/p&gt;
-&lt;p&gt;Medida Provisória nº 1.337/2026&lt;/p&gt;
-&lt;p&gt;linha de crédito de até R$ 500 milhões para apoiar empresas mineiras afetadas pelas chuvas, especialmente micro e pequenas empresas&lt;/p&gt;
-&lt;p&gt;“Os recursos poderão ser utilizados na reconstrução, na aquisição de máquinas e equipamentos para o setor produtivo e como capital de giro, entre outras finalidades&quot;, diz ministério.&lt;/p&gt;
-&lt;p&gt;A medida será ofertada por meio do Banco do Brasil e da Caixa Econômica Federal, podendo beneficiar pessoas físicas ou jurídicas. O texto estabelece&lt;/p&gt;
-&lt;p&gt;prazo de até 120 dias após a publicação da MP para a contratação do financiamento&lt;/p&gt;
-&lt;p&gt;As fortes chuvas que atingiram a Zona da Mata Mineira no final de fevereiro deixaram 72 mortos, após vários deslizamentos de terra, desabamentos de prédios e transbordamento de rios. Foram65 mortes registradas em Juiz de Fora e sete emUbá,além de moradores desalojados ou desabrigados.&lt;/p&gt;
-&lt;p&gt;Escolas públicas retomam aulas em área atingida por chuvas em MG&lt;/p&gt;
-&lt;p&gt;Inteligência artificial chega à sala de aula&lt;/p&gt;
-&lt;p&gt;Filho de Ali Khamenei é o novo líder supremo do Irã&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-libera-r-73-mil-para-familias-atingidas-por-chuvas-em-mg&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O governo federal publicou duas medidas provisórias (MPs) para ajudar famílias e empresas afetadas pelas fortes chuvas em Minas Gerais. Uma delas é a...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-03-09 15:05:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-09 15:05:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-09 15:05:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-09 15:05:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/CYbaBjmhWhWTse9Jo6osc8fnuTE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/_rbr1869.jpg_0.jpg?itok=DS6vhSk6</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Escritório ligado à família de Moraes afirma que não atuou no STF</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/escritorio-ligado-familia-de-moraes-afirma-que-nao-atuou-no-stf</link>
-      <pubDate>Mon, 09 Mar 2026 19:35:34 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/escritorio-ligado-familia-de-moraes-afirma-que-nao-atuou-no-stf#1006</guid>
-      <description>O escritório de advocacia Barci de Moraes divulgou nota à imprensa nesta segunda-feira (9) para detalhar os serviços prestados ao Banco Master. No co...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CMS0UvHpz3JTSmDikETzMrehJJQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/22/52621635701_8329e70315_o_0.jpg?itok=7wJrybyw&quot; alt=&quot;Escritório ligado à família de Moraes afirma que não atuou no STF&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O escritório de advocacia Barci de Moraes divulgou nota à imprensa nesta segunda-feira (9) para detalhar os serviços prestados ao Banco Master. No comunicado, a banca também informou que nunca conduziu nenhuma causa no Supremo Tribunal Federal (STF).&lt;/p&gt;
-&lt;p&gt;escritório é comandado pela advogada Viviane Barci de Moraes, esposa do ministro Alexandre de Moraes, e também tem os filhos do casal entre os sócios.&lt;/p&gt;
-&lt;p&gt;As explicações foram divulgadas após Moraes negar que recebeu mensagens do banqueiro Daniel Vorcaro, dono do Master, em 17 de novembro do ano passado, quando o empresário foi preso pela primeira vez ao ser alvo da Operação Compliance Zero, que investiga fraudes no Banco Master.&lt;/p&gt;
-&lt;p&gt;banca informou que prestou consultoria jurídica e atuou na Justiça para o banco no período entre fevereiro de 2024 e novembro de 2025. O trabalho foi feito por 15 advogados.&lt;/p&gt;
-&lt;p&gt;Os valores de honorários advocatícios não foram divulgados. No ano passado, o jornal&lt;/p&gt;
-&lt;p&gt;divulgou que o contrato é estimado em R$ 129 milhões ao longo de três anos.&lt;/p&gt;
-&lt;p&gt;Os pagamentos mensais seriam de R$ 3,6 milhões e foram suspensos após a liquidação da instituição pelo Banco Central.&lt;/p&gt;
-&lt;p&gt;Durante o período de atuação foram produzidos 36 pareceres e 94 reuniões de trabalho foram realizadas.&lt;/p&gt;
-&lt;p&gt;Os trabalhos foram desenvolvidos nas áreas de compliance, gestão das políticas internas do banco e implementação do código do ética e conduta do Master.&lt;/p&gt;
-&lt;p&gt;Barci de Moraes ressaltou ainda que não atuou no Supremo.&lt;/p&gt;
-&lt;p&gt;“O escritório esclarece ainda que nunca conduziu nenhuma causa para o Banco Master no âmbito do STF&quot;, completou o escritório.&lt;/p&gt;
-&lt;p&gt;Confira as últimas informações sobre o caso Master no Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
-&lt;p&gt;Escolas públicas retomam aulas em área atingida por chuvas em MG&lt;/p&gt;
-&lt;p&gt;Brasil e África do Sul: presidentes fortalecem relações econômicas&lt;/p&gt;
-&lt;p&gt;Moraes autoriza visita íntima a general condenado na trama golpista&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/escritorio-ligado-familia-de-moraes-afirma-que-nao-atuou-no-stf&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O escritório de advocacia Barci de Moraes divulgou nota à imprensa nesta segunda-feira (9) para detalhar os serviços prestados ao Banco Master. No co...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-09 14:58:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-09 14:58:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-09 14:58:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-09 14:58:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/CMS0UvHpz3JTSmDikETzMrehJJQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/22/52621635701_8329e70315_o_0.jpg?itok=7wJrybyw</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Nove equipes garantem títulos estaduais pelo Brasil</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/nove-equipes-garantem-titulos-estaduais-pelo-brasil</link>
-      <pubDate>Mon, 09 Mar 2026 19:35:34 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/nove-equipes-garantem-titulos-estaduais-pelo-brasil#1007</guid>
-      <description>O último domingo (8) foi de decisão em nove campeonatos estaduais, com títulos de Palmeiras, Flamengo, Grêmio, Barra, Fortaleza, Mixto, Paysandu e Sp...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/gTcGAPgyswu9lKF3YhmiOtgCTVU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/styles/1200x0/public?itok=TnPHaVfP&quot; alt=&quot;Nove equipes garantem títulos estaduais pelo Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O último domingo (8) foi de decisão em nove campeonatos estaduais, com títulos de Palmeiras, Flamengo, Grêmio, Barra, Fortaleza, Mixto, Paysandu e Sport. No Mineiro o Cruzeiro ficou com o troféu, mas a partida final terminou com uma briga generalizada.&lt;/p&gt;
-&lt;p&gt;No estádio do Mineirão, o Cruzeiro derrotou o Atlético-MG por 1 a 0, gol do atacante Kaio Jorge, para garantir o título do Mineiro. O que era para ser uma noite de festa terminou em confusão. Já nos acréscimos do segundo tempo, o volante Christian e o goleiro Everson se chocaram em uma disputa de bola. O jogadordo Galo agrediu entãoo adversário, o que foi o ponto de partida para uma brigageneralizada envolvendoseguranças, jogadores e membros da comissão técnica das equipes.&lt;/p&gt;
-&lt;p&gt;𝐎 𝐂𝐑𝐔𝐙𝐄𝐈𝐑𝐎 𝐄𝐒𝐏𝐎𝐑𝐓𝐄 𝐂𝐋𝐔𝐁𝐄 𝐄́ 𝐂𝐀𝐌𝐏𝐄𝐀̃𝐎 𝐌𝐈𝐍𝐄𝐈𝐑𝐎!!!! 🏆&lt;/p&gt;
-&lt;p&gt;PODE COMEMORAR, NAÇÃO AZUL!!!!! É CAMPEÃO!!!! 🦊💙&lt;/p&gt;
-&lt;p&gt;Na súmula da partida (documento que registra fatos ocorridos em jogos de futebol) o árbitroMatheus Candançan informou que, por causa da confusão, puniu 23 atletas, de ambas as equipes, com cartões vermelhos.&lt;/p&gt;
-&lt;p&gt;Em São Paulo o Palmeiras fez valer o seu favoritismo e derrotou o Novorizontino pelo placar de 2 a 1 no estádio Jorge Ismael de Biasi, em Novo Horizonte, para garantir o título paulista pela 27ª vez em sua história. Matheus Bianqui fez o de honra do Tigre, enquanto o atacante Vitor Roque e o zagueiro Murilo marcaram os gols da vitória do Verdão, que já havia vencido o jogo de ida da decisão pelo placar de 1 a 0.&lt;/p&gt;
-&lt;p&gt;NÃO PODERIA SER DIFERENTE! TRANSFORMANDO A LEALDADE EM PADRÃO, O ALVIVERDE SE IMPÔS E CONQUISTOU MAIS UMA TAÇA. O ESTADO DE SÃO PAULO É NOSSO PELA 27ª VEZ,&lt;/p&gt;
-&lt;p&gt;, o Flamengo derrotou o Fluminense por 5 a 4 na disputa de pênaltis, após um empate sem gols no tempo regulamentar, para conquistar o tricampeonato do Campeonato Carioca&lt;/p&gt;
-&lt;p&gt;. Este é o 40º título do Flamengo na competição.&lt;/p&gt;
-&lt;p&gt;O 𝐂𝐋𝐔𝐁𝐄 𝐃𝐄 𝐑𝐄𝐆𝐀𝐓𝐀𝐒 𝐃𝐎 𝐅𝐋𝐀𝐌𝐄𝐍𝐆𝐎 É CAAAAAAAAAAAAAAMPEÃOOOOOOO CARIOCA!!!&lt;/p&gt;
-&lt;p&gt;GRITA NAÇÃO. 𝟒𝟎 𝐕𝐄𝐙𝐄𝐒 CAMPEÃO CARIOCA!&lt;/p&gt;
-&lt;p&gt;É CAMPEÃAAAAAAOOOOOOOOOOOOOOOOOOOOOOO&lt;/p&gt;
-&lt;p&gt;É CAMPEÃAAAAAAOOOOOOOOOOOOOOOOOOOOOOO&lt;/p&gt;
-&lt;p&gt;É CAMPEÃAAAAAAOOOOOOOOOOOOOOOOOOOOOOO&lt;/p&gt;
-&lt;p&gt;Outra decisão decidida nas penalidades máximas foi o Campeonato Cearense. Em jogo transmitido ao vivo pela&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/nove-equipes-garantem-titulos-estaduais-pelo-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O último domingo (8) foi de decisão em nove campeonatos estaduais, com títulos de Palmeiras, Flamengo, Grêmio, Barra, Fortaleza, Mixto, Paysandu e Sp...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-09 14:44:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-09 14:44:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-09 14:44:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-09 14:44:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/gTcGAPgyswu9lKF3YhmiOtgCTVU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/styles/1200x0/public?itok=TnPHaVfP</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>TV Brasil: Na Mesa com Datena estreia nesta terça com Geraldo Alckmin</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/tv-brasil-na-mesa-com-datena-estreia-nesta-terca-com-geraldo-alckmin</link>
-      <pubDate>Mon, 09 Mar 2026 19:35:34 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/tv-brasil-na-mesa-com-datena-estreia-nesta-terca-com-geraldo-alckmin#1008</guid>
-      <description>Sob comando do jornalista José Luiz Datena, a TV Brasil estreia nesta terça-feira (10) seu mais novo programa de entrevistas. O semanal
-vai ao ar às ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hANto_KnhPgHG_1wcK0hvVg5QsY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/_mg_3620.jpg?itok=VUfilp1s&quot; alt=&quot;TV Brasil: Na Mesa com Datena estreia nesta terça com Geraldo Alckmin&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Sob comando do jornalista José Luiz Datena, a TV Brasil estreia nesta terça-feira (10) seu mais novo programa de entrevistas. O semanal&lt;/p&gt;
-&lt;p&gt;vai ao ar às 21h e a entrevista inaugural será com o vice-presidente e ministro do Desenvolvimento, Indústria, Comércio e Serviços, Geraldo Alckmin.&lt;/p&gt;
-&lt;p&gt;. Primeiro para um programa de entrevistas, que eu adoro fazer. A arte da entrevista é dar espaço ao entrevistado. A grande estrela de uma entrevista é o entrevistado”, declarou o apresentador.&lt;/p&gt;
-&lt;p&gt;No último dia 23 de fevereiro, Datena estreou na&lt;/p&gt;
-&lt;p&gt;com mais de 50 anos de história no jornalismo com passagens pelas maiores emissoras de rádio e televisão do país.&lt;/p&gt;
-&lt;p&gt;O comunicador venceu duas edições do Prêmio Vladimir Herzog de Anistia e Direitos Humanos.&lt;/p&gt;
-&lt;p&gt;Sua contratação integra a estratégia da empresa de valorizar o jornalismo em seus veículos, com ampliação do tempo dedicado à cobertura factual, aprofundamento de temas de interesse público e ainda uma maior integração entre rádio e televisão.&lt;/p&gt;
-&lt;p&gt;A iniciativa também busca fortalecer a comunicação pública como um canal de informação seguro e acessível com diálogo direto com a pluralidade de ideias que marca a sociedade brasileira.&lt;/p&gt;
-&lt;p&gt;“No contexto em que vivemos, de intenso ruído informacional, o jornalismo é um ativo central. Precisamos fortalecê-lo para oferecer à população informação segura, contextualizada e com capacidade de gerar reflexão. Portanto, estamos reconhecendo o papel e a importância do jornalismo ao trazê-lo ainda mais para a grade da&lt;/p&gt;
-&lt;p&gt;– Estreia terça-feira (10), às 21h, na&lt;/p&gt;
-&lt;p&gt;, com participação do vice-presidente e ministro do Desenvolvimento, Indústria, Comércio e Serviços, Geraldo Alckmin.&lt;/p&gt;
-&lt;p&gt;pelo canal aberto, TV por assinatura e parabólica.&lt;/p&gt;
-&lt;p&gt;Clique aqui e saiba como sintonizar&lt;/p&gt;
-&lt;p&gt;Seus programas favoritos estão no&lt;/p&gt;
-&lt;p&gt;. O aplicativo pode ser baixado gratuitamente e está disponível para Android e iOS. Assista também&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/tv-brasil-na-mesa-com-datena-estreia-nesta-terca-com-geraldo-alckmin&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Sob comando do jornalista José Luiz Datena, a TV Brasil estreia nesta terça-feira (10) seu mais novo programa de entrevistas. O semanal
-vai ao ar às ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-09 14:20:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-09 14:20:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-09 14:20:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-09 14:20:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/hANto_KnhPgHG_1wcK0hvVg5QsY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/_mg_3620.jpg?itok=VUfilp1s</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Abertura de pequenos negócios bate recorde em 2026</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/abertura-de-pequenos-negocios-bate-recorde-em-2026</link>
-      <pubDate>Mon, 09 Mar 2026 19:35:34 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/abertura-de-pequenos-negocios-bate-recorde-em-2026#1009</guid>
-      <description>© Fernando Frazão/Agência Brasil
-O número de pequenos negócios abertos no Brasil bateu novo recorde nos primeiros dois meses deste ano
-. De acordo co...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PM9iZlKXA899RPhL0J_f8oYDFig=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/comercio_de_rua_e_saloes_de_beleza_reabrem20200627_0330_0_0.jpg?itok=6VZQSfrZ&quot; alt=&quot;Abertura de pequenos negócios bate recorde em 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O número de pequenos negócios abertos no Brasil bateu novo recorde nos primeiros dois meses deste ano&lt;/p&gt;
-&lt;p&gt;. De acordo com dados da Receita Federal -reunidos pelo Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae) -&lt;/p&gt;
-&lt;p&gt;mais de 1,033 milhão de formalizações foram feitas em janeiro e fevereiro, considerando microempreendedores individuais, microempresas e empresas de pequeno porte.&lt;/p&gt;
-&lt;p&gt;O resultado supera em 3% o recorde anterior, alcançado no primeiro bimestre de 2025. Segundo levantamento do Sebrae,&lt;/p&gt;
-&lt;p&gt;os três tipos de pequenos negócios representaram 97,3% do total de cadastros de pessoas jurídica formalizados no país.&lt;/p&gt;
-&lt;p&gt;A abertura categoria de microempreendedor individual (MEI) lideralargamente, com 79,5%. Em seguida, aparecem as microempresas (17%) e as pequenas empresas (3,5%).&lt;/p&gt;
-&lt;p&gt;Eles se diferenciam principalmente pelo volume de faturamento e pela quantidade de empregados.&lt;/p&gt;
-&lt;p&gt;A categoria microempreendedor individual foi criada para formalizar os trabalhadores por conta própria, por isso,&lt;/p&gt;
-&lt;p&gt;só se encaixam como MEI os empreendedores de determinadas atividades com faturamento de até R$ 81 mil reais por anocom, no máximo, umfuncionário.&lt;/p&gt;
-&lt;p&gt;As micro e pequenas empresas podem empregar mais pessoas, sendo que as primeiras faturam até R$ 360 mil anuais, enquanto as segundas chegam a R$ 4,8 milhões&lt;/p&gt;
-&lt;p&gt;. Dados de 2025 do Sebrae, mostram que essas empresas foram responsáveis por mais de 80% do saldo de contratações do país no ano passado.&lt;/p&gt;
-&lt;p&gt;Considerando apenas os microempreendedores, a maioria opera no setor de serviços&lt;/p&gt;
-&lt;p&gt;. Em fevereiro, 65% do total de novos pequenos negócios exerciam atividades dessa categoria, seguidos por 19,6% no Comércio, 7,6% na Indústria e 6,8% na Construção.&lt;/p&gt;
-&lt;p&gt;A análise por atividades mostrou que as mais frequentes, entre os microeemprededores foram de&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/abertura-de-pequenos-negocios-bate-recorde-em-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fernando Frazão/Agência Brasil
-O número de pequenos negócios abertos no Brasil bateu novo recorde nos primeiros dois meses deste ano
-. De acordo co...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-09 13:49:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-09 13:49:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-09 13:49:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-09 13:49:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/PM9iZlKXA899RPhL0J_f8oYDFig=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/comercio_de_rua_e_saloes_de_beleza_reabrem20200627_0330_0_0.jpg?itok=6VZQSfrZ</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
