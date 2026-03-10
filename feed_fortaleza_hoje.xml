@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 10/03/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 14:53 UTC</description>
-<lastBuildDate>Tue, 10 Mar 2026 14:53:10 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Tue, 10 Mar 2026 16:02:40 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Fortaleza supera números pré-pandemia e recebe mais de 4,1 milhões de turistas em 2025</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/fortaleza-supera-numeros-pre-pandemia-e-recebe-mais-de-4-1-milhoes-de-turistas-em-2025</link>
+<guid isPermaLink="false">fortaleza-20260310-c27b39653346</guid>
+<pubDate>Tue, 10 Mar 2026 10:57:00 +0000</pubDate>
+<description>Fortaleza supera números pré-pandemia e recebe mais de 4,1 milhões de turistas em 2025 - Terça, 10 Março 2026 10:57</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/Turismo/turismo-fortaaleza%20(2).jpeg" alt="Fortaleza supera números pré-pandemia e recebe mais de 4,1 milhões de turistas em 2025" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<figure><img alt="Vista aérea da beira mar de Fortaleza" src="/images/images3/midias/Turismo/turismo-fortaaleza (2).jpeg" style="max-width:100%; height:auto;"/><figcaption>A pesquisa também mostra um aumento no tempo de estadia dos turistas, de 4,8 para 6,3 dias, com uma ocupação hoteleira média de 74,19% em todo o ano</figcaption></figure>
+<p>Fortaleza recebeu em 2025 o maior número de turistas da série histórica acompanhada pelo Observatório do Turismo da Secretaria Municipal de Turismo (Setfor), superando valores pré-pandemia. Ao todo, 4.132.928 turistas nacionais e internacionais visitaram Fortaleza ao longo do ano passado, número 4,3% maior que o registrado em 2024.</p>
+<p>Houve um aumento expressivo na recepção de turistas internacionais. Foram 115.735 visitantes estrangeiros em 2025, um crescimento de 19,5% em relação ao ano anterior. A movimentação turística também teve um impacto relevante na movimentação econômica da cidade. Considerando efeitos diretos e indiretos, o turismo movimentou um montante de R$ 31,7 bilhões em 2025.</p>
+<p>O valor considera tanto gastos feitos por turistas na capital como despesas ocasionadas em setores ligados ao turismo. O levantamento do Observatório do Turismo, que leva em conta pesquisas de demanda turística na capital, considera um gasto médio de R$ 5.546,26. Descontada a inflação, o valor cresceu 34,31% em relação ao ano passado, aumento puxado em grande parte pelo aumento do fluxo internacional.</p>
+<p>“Estamos vivendo um ótimo momento do turismo na cidade, com maior inserção internacional e impactos positivos em toda a cadeia produtiva. Fortaleza está colhendo os frutos de um trabalho consistente de promoção, qualificação e fortalecimento do nosso destino”, comemora a secretária de turismo de Fortaleza, Denise Carrá.</p>
+<p><strong>Geração de empregos e tempo de estadia</strong></p>
+<p>A movimentação turística em Fortaleza foi motor para a geração de empregos no ano passado. Foram gerados 784.516 vínculos diretos e indiretos em atividades econômicas ligadas ao turismo, como hotelaria, alimentação, eventos, transporte, bares e restaurantes.</p>
+<p>A pesquisa também mostra um aumento no tempo de estadia dos turistas, de 4,8 para 6,3 dias, com uma ocupação hoteleira média de 74,19% em todo o ano.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/fortaleza-supera-numeros-pre-pandemia-e-recebe-mais-de-4-1-milhoes-de-turistas-em-2025" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/Turismo/turismo-fortaaleza%20(2).jpeg" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/Turismo/turismo-fortaaleza%20(2).jpeg" type="image/jpeg" medium="image">
+<media:title>Fortaleza supera números pré-pandemia e recebe mais de 4,1 milhões de turistas em 2025</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
