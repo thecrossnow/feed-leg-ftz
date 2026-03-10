@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 09 Mar 2026 23:21:06 +0000</pubDate>
+    <pubDate>Tue, 10 Mar 2026 01:19:53 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,203 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Quatro acusados por campanha de ódio contra Maria da Penha viram réus</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/quatro-acusados-por-campanha-de-odio-contra-maria-da-penha-viram-reus</link>
+      <pubDate>Tue, 10 Mar 2026 01:19:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/quatro-acusados-por-campanha-de-odio-contra-maria-da-penha-viram-reus#1000</guid>
+      <description>A Justiça do Ceará aceitou denúncia do Ministério Público (MP) do estado e tornou réus nesta segunda-feira (9) quatro suspeitos de participação em um...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LfiYAZkVqIQ_q9Q_eXz8vYtoDQs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/07/0d9a7387_1.jpg?itok=CQTOAPQ0&quot; alt=&quot;Quatro acusados por campanha de ódio contra Maria da Penha viram réus&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Justiça do Ceará aceitou denúncia do Ministério Público (MP) do estado e tornou réus nesta segunda-feira (9) quatro suspeitos de participação em uma campanha de ódio contra a farmacêutica&lt;/p&gt;
+&lt;p&gt;Maria da Penha, símbolo da luta contra a violência doméstica&lt;/p&gt;
+&lt;p&gt;O ex-marido da ativista, Marco Antônio Heredia Viveiros;&lt;/p&gt;
+&lt;p&gt;O influenciador digital Alexandre Gonçalves de Paiva;&lt;/p&gt;
+&lt;p&gt;A Investigação Paralela: o Caso Maria da Penha,&lt;/p&gt;
+&lt;p&gt;O editor e apresentador do documentário, Henrique Barros Lesina Zingano.&lt;/p&gt;
+&lt;p&gt;Os quatro foram denunciados por atuar de forma organizada para atacar a honra da ativista e descredibilizar a lei que leva o nome dela.&lt;/p&gt;
+&lt;p&gt;Entre os mecanismos utilizados estão perseguições virtuais, notícias falsas e um laudo de exame de corpo de delito forjado para sustentar a inocência de Heredia, já condenado por tentativa de homicídio contra Maria da Penha.&lt;/p&gt;
+&lt;p&gt;As investigações mostram que os denunciados promoviam a perseguição,&lt;/p&gt;
+&lt;p&gt;, disseminação de conteúdos misóginos (ódio, desprezo ou preconceito contra mulheres ou meninas), deturpavam informações e atacavam Maria da Penha, em sites e redes sociais.&lt;/p&gt;
+&lt;p&gt;Para o MP, os riscos foram além das redes sociais, pois Alexandre Paiva se deslocou até a antiga residência de Maria da Penha, em Fortaleza, onde gravou vídeos e divulgou o conteúdo nas redes.&lt;/p&gt;
+&lt;p&gt;Marco Heredia foi denunciado por falsificação de documento público e Alexandre Paiva por&lt;/p&gt;
+&lt;p&gt;Já Zingano e Mantovanelli respondem por uso de documento falso, ao utilizarem um laudo adulterado no documentário&lt;/p&gt;
+&lt;p&gt;A Investigação Paralela: o Caso Maria da Penha&lt;/p&gt;
+&lt;p&gt;, produzido pela Brasil Paralelo S/A.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/quatro-acusados-por-campanha-de-odio-contra-maria-da-penha-viram-reus&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Justiça do Ceará aceitou denúncia do Ministério Público (MP) do estado e tornou réus nesta segunda-feira (9) quatro suspeitos de participação em um...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-09 20:43:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-09 20:43:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-09 20:43:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-09 20:43:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/LfiYAZkVqIQ_q9Q_eXz8vYtoDQs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/07/0d9a7387_1.jpg?itok=CQTOAPQ0</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Sobe para 140 número de casos confirmados de Mpox no país, em 2026</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/sobe-para-140-numero-de-casos-confirmados-de-mpox-no-pais-em-2026</link>
+      <pubDate>Tue, 10 Mar 2026 01:19:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/sobe-para-140-numero-de-casos-confirmados-de-mpox-no-pais-em-2026#1001</guid>
+      <description>© Reuters/Dado Ruvic/proibida a reprodução
+O número de casos confirmados de Mpox no país subiu para 140 desde o início de 2026.
+Não houve registro de...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dyYYQHx8s4Ljn7G3WKBfhK7pNpI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/22/2024-08-20t135720z_630138133_rc2pj9ajc7r8_rtrmadp_3_health-mpox.jpg?itok=7JrG31Vs&quot; alt=&quot;Sobe para 140 número de casos confirmados de Mpox no país, em 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Reuters/Dado Ruvic/proibida a reprodução&lt;/p&gt;
+&lt;p&gt;O número de casos confirmados de Mpox no país subiu para 140 desde o início de 2026.&lt;/p&gt;
+&lt;p&gt;Não houve registro de mortes decorrentes da doença no período. Os casos suspeitos somam 539; além de 9 prováveis. Os dados são do Ministério da Saúde e foram atualizados nesta segunda-feira (9).&lt;/p&gt;
+&lt;p&gt;Em janeiro, o número de casos confirmados e prováveis totalizou 68; em fevereiro, 70; e em março, 11.&lt;/p&gt;
+&lt;p&gt;No ano, o estado que mais registrou casos da doença foi São Paulo (93), seguido pelo Rio de Janeiro (18) e Rondônia (11).&lt;/p&gt;
+&lt;p&gt;A Mpox é uma doença do mesmo gênero da varíola humana, mas geralmente menos letal.&lt;/p&gt;
+&lt;p&gt;Trata-se de uma doença zoonótica viral em que a transmissão para humanos pode ocorrer por meio do contato com pessoas infectadas pelo Mpox vírus, materiais contaminados com o vírus, ou animais silvestres infectados.&lt;/p&gt;
+&lt;p&gt;Os sinais e sintomas, em geral, incluem erupção cutânea ou lesões de pele, linfonodos inchados (ínguas), febre, dor de cabeça, dores no corpo, calafrio, e fraqueza.&lt;/p&gt;
+&lt;p&gt;Pessoas com sintomas compatíveis devem procurar uma unidade de saúde para avaliação. Recomenda-se evitar o contato próximo com outras pessoas.&lt;/p&gt;
+&lt;p&gt;Operação da PF mira fraudes bancárias do Comando Vermelho&lt;/p&gt;
+&lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
+&lt;p&gt;Chuvas causam duas mortes em São Paulo no fim de semana&lt;/p&gt;
+&lt;p&gt;Quatro acusados por campanha de ódio contra Maria da Penha viram réus&lt;/p&gt;
+&lt;p&gt;Sobe para 140 número de casos confirmados de Mpox no país, em 2026&lt;/p&gt;
+&lt;p&gt;Lula e presidenta do México querem reunir empresários dos dois países&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/sobe-para-140-numero-de-casos-confirmados-de-mpox-no-pais-em-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Reuters/Dado Ruvic/proibida a reprodução
+O número de casos confirmados de Mpox no país subiu para 140 desde o início de 2026.
+Não houve registro de...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-09 20:26:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-09 20:26:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-09 20:26:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-09 20:26:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/dyYYQHx8s4Ljn7G3WKBfhK7pNpI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/22/2024-08-20t135720z_630138133_rc2pj9ajc7r8_rtrmadp_3_health-mpox.jpg?itok=7JrG31Vs</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Lula e presidenta do México querem reunir empresários dos dois países</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/lula-e-presidenta-do-mexico-querem-reunir-empresarios-dos-dois-paises</link>
+      <pubDate>Tue, 10 Mar 2026 01:19:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/lula-e-presidenta-do-mexico-querem-reunir-empresarios-dos-dois-paises#1002</guid>
+      <description>O presidente Luiz Inácio Lula da Silva e a presidentado México, Claudia Sheinbaum, concordaram em realizar um evento com empresários do setor privado...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2Y56tdvcj3rxMfv3RADfA6ohhRE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/09/54441253506_a3c921abfa_o.jpg?itok=YO3VH8um&quot; alt=&quot;Lula e presidenta do México querem reunir empresários dos dois países&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O presidente Luiz Inácio Lula da Silva e a presidentado México, Claudia Sheinbaum, concordaram em realizar um evento com empresários do setor privado dos dois países em datas a serem definidas entre junho e julho deste ano.&lt;/p&gt;
+&lt;p&gt;Os dois conversaram por telefone nesta segunda-feira (9).&lt;/p&gt;
+&lt;p&gt;Segundo o Palácio do Planalto, a sugestão partiu de Lula com a intenção de que os dois países explorem novas oportunidades de negócios. A mandatária mexicana aceitou o convite.&lt;/p&gt;
+&lt;p&gt;Na conversa de hoje, os presidentes ainda manifestaram interesse em aprofundar a parceria bilateral na área de energia. Lula reiterou o convite para uma visita da presidente Claudia Sheinbaum ao Brasil.&lt;/p&gt;
+&lt;p&gt;Em outubro do ano passado, os presidentes haviam concordado em realizar ações para aprofundar parceria econômica. A mexicana, inclusive,&lt;/p&gt;
+&lt;p&gt;pediu apoio do brasileiro para obter cooperação brasileira&lt;/p&gt;
+&lt;p&gt;Claudia Sheinbaum também havia manifestado interesse em contar com informações do Brasil sobre a implementação de programas sociais de combate à fome e à pobreza naquele país.&lt;/p&gt;
+&lt;p&gt;Operação da PF mira fraudes bancárias do Comando Vermelho&lt;/p&gt;
+&lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
+&lt;p&gt;Chuvas causam duas mortes em São Paulo no fim de semana&lt;/p&gt;
+&lt;p&gt;Quatro acusados por campanha de ódio contra Maria da Penha viram réus&lt;/p&gt;
+&lt;p&gt;Sobe para 140 número de casos confirmados de Mpox no país, em 2026&lt;/p&gt;
+&lt;p&gt;Lula e presidenta do México querem reunir empresários dos dois países&lt;/p&gt;
+&lt;p&gt;RS: produtores rurais alertam para problemas no fornecimento de diesel&lt;/p&gt;
+&lt;p&gt;Mulheres estão perdendo o direito de ir e vir, diz Amelinha Teles&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/lula-e-presidenta-do-mexico-querem-reunir-empresarios-dos-dois-paises&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O presidente Luiz Inácio Lula da Silva e a presidentado México, Claudia Sheinbaum, concordaram em realizar um evento com empresários do setor privado...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-09 19:59:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-09 19:59:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-09 19:59:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-09 19:59:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/2Y56tdvcj3rxMfv3RADfA6ohhRE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/09/54441253506_a3c921abfa_o.jpg?itok=YO3VH8um</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>RS: produtores rurais alertam para problemas no fornecimento de diesel</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/rs-produtores-rurais-alertam-para-problemas-no-fornecimento-de-diesel</link>
+      <pubDate>Tue, 10 Mar 2026 01:19:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/rs-produtores-rurais-alertam-para-problemas-no-fornecimento-de-diesel#1003</guid>
+      <description>Produtores rurais do Rio Grande do Sul reclamam que está faltando óleo diesel no estado e alertam que problemas no fornecimento desse combustível par...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;RS: produtores rurais alertam para problemas no fornecimento de diesel&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Produtores rurais do Rio Grande do Sul reclamam que está faltando óleo diesel no estado e alertam que problemas no fornecimento desse combustível para as propriedades rurais gaúchas podem prejudicar a colheita da safra de verão.&lt;/p&gt;
+&lt;p&gt;Em um comunicado publicado no sábado (7) em suas redes sociais, a Federação da Agricultura do Estado do Rio Grande do Sul (Farsul) informou que o cenário atual é crítico, principalmente porque neste momento está ocorrendo o auge da safra de verão, especialmente de soja e arroz.&lt;/p&gt;
+&lt;p&gt;O Rio Grande do Sul é o principal responsável pela produção de arroz no país, sendo responsável por 70% dos grãos produzidos no Brasil.&lt;/p&gt;
+&lt;p&gt;“A Farsul vem a público externar sua preocupação com reclamações recorrentes, por parte de produtores rurais, da não entrega de combustíveis pelos Transportadores Revendedores Retalhistas (TRRs) nas últimas 48 horas e a informação de que o serviço não será normalizado neste final de semana”, escreveu a Farsul. ]&lt;/p&gt;
+&lt;p&gt;O TRR é a empresa autorizada pela Agência Nacional do Petróleo (ANP) para adquirir combustível a granel, óleo lubrificante acabado e graxa envasados em grandes quantidadespara depois revender aos produtores rurais.&lt;/p&gt;
+&lt;p&gt;Ele também é responsável pelo armazenamento, transporte, controle de qualidade e assistência técnica ao consumidor quando da comercialização de combustíveis.&lt;/p&gt;
+&lt;p&gt;Segundo a Farsul, as empresas responsáveis pela distribuição de diesel nas propriedades rurais têm afirmado que o problema se inicia já nas refinarias que, sem aviso prévio ou justificativa, com a suspensão da distribuição desses combustíveis.&lt;/p&gt;
+&lt;p&gt;“A Farsul ressalta a gravidade da situação. O Rio Grande do Sul está em meio a colheita da safra de verão, em especial arroz e soja. O atraso no trabalho faz com que as lavouras fiquem expostas a intempéries em um estado que já vem sofrendo volumoso prejuízo pelo acúmulo de perdas em razão de eventos climáticos, impactando em toda a economia gaúcha”.&lt;/p&gt;
+&lt;p&gt;Por meio de nota, a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis informou que vem monitorando o caso desde que recebeu informações sobre &quot;dificuldades pontuais&quot; de aquisição de diesel por produtores rurais.&lt;/p&gt;
+&lt;p&gt;Segundo a ANP, seus técnicos apuraram que o Rio Grande do Sul conta com estoques suficientes para assegurar o abastecimento regular de diesel e que a “produção e a entrega do combustível seguem em ritmo regular pelo principal fornecedor da região”.&lt;/p&gt;
+&lt;p&gt;A ANP informou ainda que está notificando formalmente as distribuidoras para prestarem esclarecimentos sobre o volume em estoque, os pedidos recebidos e os pedidos efetivamente aceitos.&lt;/p&gt;
+&lt;p&gt;“Cabe destacar que o Rio Grande do Sul é um estado que produz mais diesel do que consome, encontra-se com nível de estoque regular e não foram constatadas justificativas técnicas ou operacionais que expliquem uma eventual recusa no fornecimento do produto. Além disso, informamos que aumentos de preços injustificados no estado também serão objeto de investigação da ANP em conjunto com órgãos de defesa do consumidor.”&lt;/p&gt;
+&lt;p&gt;, a Petrobras informou que “não houve qualquer alteração em relação às entregas de diesel por parte de suas refinarias e que elas estão ocorrendo conforme o planejado”.&lt;/p&gt;
+&lt;p&gt;Em nota, a Petrobras destacou ainda que, as entregas de diesel para o estado do Rio Grande do Sul “estão sendo realizadas dentro do volume programado”.&lt;/p&gt;
+&lt;p&gt;Operação da PF mira fraudes bancárias do Comando Vermelho&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/rs-produtores-rurais-alertam-para-problemas-no-fornecimento-de-diesel&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Produtores rurais do Rio Grande do Sul reclamam que está faltando óleo diesel no estado e alertam que problemas no fornecimento desse combustível par...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-09 19:42:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-09 19:42:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-09 19:42:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-09 19:42:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Mulheres estão perdendo o direito de ir e vir, diz Amelinha Teles</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/mulheres-estao-perdendo-o-direito-de-ir-e-vir-diz-amelinha-teles</link>
-      <pubDate>Mon, 09 Mar 2026 23:21:06 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 01:19:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/mulheres-estao-perdendo-o-direito-de-ir-e-vir-diz-amelinha-teles#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/mulheres-estao-perdendo-o-direito-de-ir-e-vir-diz-amelinha-teles#1004</guid>
       <description>“Nós estamos perdendo o direito de ir e vir, esse direito fundamental que está lá na Constituição”. A declaração da jornalista e escritora Maria Amél...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NUhiDJI2yP3IhTg6BsN9wFs3bng=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/30/desaparecidos_se_04.jpg?itok=jv4HM8rC&quot; alt=&quot;Mulheres estão perdendo o direito de ir e vir, diz Amelinha Teles&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;“Nós estamos perdendo o direito de ir e vir, esse direito fundamental que está lá na Constituição”. A declaração da jornalista e escritora Maria Amélia de Almeida Teles, militante feminista da União de Mulheres de São Paulo, denuncia a insegurança gerada pela atual violência contra mulheres no país, especialmente no estado de São Paulo, que tem batido recordes de feminicídio.&lt;/p&gt;
@@ -45,7 +237,7 @@
 &lt;p&gt;“Está faltando fiscalização, acompanhamento.Tem que ter um serviço qualificado, com pessoal qualificado para poder atender a essa mulher e acompanhar cada caso”, disse Amelinha.&lt;/p&gt;
 &lt;p&gt;A jornalista denunciou ainda o isolamento do movimento feminista pelo poder público no contexto do combate à violência de gênero. “Está faltando democracia nesse estado e nessa cidade”, disse.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/mulheres-estao-perdendo-o-direito-de-ir-e-vir-diz-amelinha-teles&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>“Nós estamos perdendo o direito de ir e vir, esse direito fundamental que está lá na Constituição”. A declaração da jornalista e escritora Maria Amél...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-03-09 19:26:00</wp:post_date>
       <wp:post_date_gmt>2026-03-09 19:26:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-09 19:26:00</wp:post_modified>
@@ -71,9 +263,9 @@
     <item>
       <title>Dólar cai para R$ 5,16 após Trump indicar possível fim da guerra</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/dolar-cai-para-r-516-apos-trump-indicar-possivel-fim-da-guerra</link>
-      <pubDate>Mon, 09 Mar 2026 23:21:06 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 01:19:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/dolar-cai-para-r-516-apos-trump-indicar-possivel-fim-da-guerra#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/dolar-cai-para-r-516-apos-trump-indicar-possivel-fim-da-guerra#1005</guid>
       <description>© REUTERS/Elizabeth Frantz - Proibido reprodução
 Em dia de reviravoltas no mercado financeiro, o dólar teve forte queda e praticamente compensoua alt...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VWCp3R-KkRwFA6KRndy6hl62nHM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/2026-02-28t031827z_705080933_rc2pujas7bmm_rtrmadp_3_usa-trump.jpg?itok=Pu4Yd0GB&quot; alt=&quot;Dólar cai para R$ 5,16 após Trump indicar possível fim da guerra&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -91,10 +283,10 @@ Em dia de reviravoltas no mercado financeiro, o dólar teve forte queda e pratic
 &lt;p&gt;Além da mudança de postura de Trump, fatores externos tinham ajudado a segurar a alta do petróleo tipo Brent, que chegou a US$ 119,50 durante a madrugada. Primeiramente, os países do G7, grupo das sete democracias mais industrializadas do planeta, anunciaram uma ajuda para o setor petroleiro.&lt;/p&gt;
 &lt;p&gt;Também nesta segunda, o presidente da França, Emmanuel Macron, anunciou que o país poderia enviar fragatas para defender navios que passassem pelo&lt;/p&gt;
 &lt;p&gt;, bloqueado pelo Irã. Isso também ajudou a aliviar os preços do petróleo.&lt;/p&gt;
-&lt;p&gt;Patrimônio histórico: quilombo em Campo Grande é o 1º tombado no país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/dolar-cai-para-r-516-apos-trump-indicar-possivel-fim-da-guerra&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Operação da PF mira fraudes bancárias do Comando Vermelho&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/dolar-cai-para-r-516-apos-trump-indicar-possivel-fim-da-guerra&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Elizabeth Frantz - Proibido reprodução
 Em dia de reviravoltas no mercado financeiro, o dólar teve forte queda e praticamente compensoua alt...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-03-09 19:03:00</wp:post_date>
       <wp:post_date_gmt>2026-03-09 19:03:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-09 19:03:00</wp:post_modified>
@@ -120,9 +312,9 @@ Em dia de reviravoltas no mercado financeiro, o dólar teve forte queda e pratic
     <item>
       <title>SP vai testar registro de violência doméstica no local da ocorrência</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/sp-vai-testar-registro-de-violencia-domestica-no-local-da-ocorrencia</link>
-      <pubDate>Mon, 09 Mar 2026 23:21:06 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 01:19:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/sp-vai-testar-registro-de-violencia-domestica-no-local-da-ocorrencia#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/sp-vai-testar-registro-de-violencia-domestica-no-local-da-ocorrencia#1006</guid>
       <description>© Valter Campanato/Agência Brasil
 O governo do Estado de São Paulo começará a testar até o final de março, em Santos (SP), um novo sistema de registr...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CmUhmlOFn8W7xje8xTgDpew4i5s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/08/0d7a8641.jpg?itok=EkDCaom9&quot; alt=&quot;SP vai testar registro de violência doméstica no local da ocorrência&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -134,16 +326,16 @@ O governo do Estado de São Paulo começará a testar até o final de março, em
 &lt;p&gt;Além de permitir que o policial militar registre a ocorrência no local, o sistema possibilita que ele preencha também o Formulário Nacional de Avaliação de Risco (Fonar), ferramenta que identifica o grau de vulnerabilidade da vítima. Com essas informações, segundo a SSP, as equipes da Delegacia da Mulher Online poderão solicitar com mais rapidez as medidas protetivas de urgência à Justiça.&lt;/p&gt;
 &lt;p&gt;“A violência doméstica exige uma resposta rápida e coordenada. Ao integrar as polícias e a rede de proteção desde o primeiro atendimento, garantimos que a mulher não fique sozinha no momento em que decide pedir ajuda”, disse a secretária de Políticas para a Mulher, Adriana Liporoni.&lt;/p&gt;
 &lt;p&gt;Segundo a SSP, a expectativa é que o sistema seja expandido para todo o estado de São Paulo nos próximos meses.&lt;/p&gt;
+&lt;p&gt;Operação da PF mira fraudes bancárias do Comando Vermelho&lt;/p&gt;
 &lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
-&lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
-&lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
+&lt;p&gt;Chuvas causam duas mortes em São Paulo no fim de semana&lt;/p&gt;
+&lt;p&gt;Quatro acusados por campanha de ódio contra Maria da Penha viram réus&lt;/p&gt;
+&lt;p&gt;Sobe para 140 número de casos confirmados de Mpox no país, em 2026&lt;/p&gt;
 &lt;p&gt;Lula e presidenta do México querem reunir empresários dos dois países&lt;/p&gt;
-&lt;p&gt;RS: produtores rurais alertam para problemas no fornecimento de diesel&lt;/p&gt;
-&lt;p&gt;Mulheres estão perdendo o direito de ir e vir, diz Amelinha Teles&lt;/p&gt;
-&lt;p&gt;Dólar cai para R$ 5,16 após Trump indicar possível fim da guerra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/sp-vai-testar-registro-de-violencia-domestica-no-local-da-ocorrencia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;RS: produtores rurais alertam para problemas no fornecimento de diesel&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/sp-vai-testar-registro-de-violencia-domestica-no-local-da-ocorrencia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 O governo do Estado de São Paulo começará a testar até o final de março, em Santos (SP), um novo sistema de registr...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-09 18:53:00</wp:post_date>
       <wp:post_date_gmt>2026-03-09 18:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-09 18:53:00</wp:post_modified>
@@ -169,9 +361,9 @@ O governo do Estado de São Paulo começará a testar até o final de março, em
     <item>
       <title>AGU pede que PF investigue usuários que publicaram vídeos misóginos</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/agu-pede-que-pf-investigue-usuarios-que-publicaram-videos-misoginos</link>
-      <pubDate>Mon, 09 Mar 2026 23:21:06 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 01:19:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/agu-pede-que-pf-investigue-usuarios-que-publicaram-videos-misoginos#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/agu-pede-que-pf-investigue-usuarios-que-publicaram-videos-misoginos#1007</guid>
       <description>A Advocacia-Geral da União (AGU) informou nesta segunda-feira (9) que acionou a Polícia Federal (PF) para investigar usuários da internet que publica...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/aP3blS0Pr9CSGdD35ux2uecWfGM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/28/_mg_5839_0.jpg?itok=FTl9Oc3l&quot; alt=&quot;AGU pede que PF investigue usuários que publicaram vídeos misóginos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Advocacia-Geral da União (AGU) informou nesta segunda-feira (9) que acionou a Polícia Federal (PF) para investigar usuários da internet que publicaram vídeos em que fazem apologia à violência contra a mulher.&lt;/p&gt;
@@ -181,16 +373,16 @@ O governo do Estado de São Paulo começará a testar até o final de março, em
 &lt;p&gt;“A circulação sistemática de conteúdo misógino em plataformas digitais representa ameaça concreta aos direitos fundamentais das mulheres”, disse o órgão.&lt;/p&gt;
 &lt;p&gt;Os acusados podem responder pela incitação aos crimes de feminicídio, ameaça, lesão corporal e violência psicológica contra a mulher.&lt;/p&gt;
 &lt;p&gt;Confira a reportagem do Repórter Brasil Tarde, da TV Brasil, sobre a trend&lt;/p&gt;
-&lt;p&gt;Patrimônio histórico: quilombo em Campo Grande é o 1º tombado no país&lt;/p&gt;
+&lt;p&gt;Operação da PF mira fraudes bancárias do Comando Vermelho&lt;/p&gt;
 &lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
-&lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
+&lt;p&gt;Chuvas causam duas mortes em São Paulo no fim de semana&lt;/p&gt;
+&lt;p&gt;Quatro acusados por campanha de ódio contra Maria da Penha viram réus&lt;/p&gt;
+&lt;p&gt;Sobe para 140 número de casos confirmados de Mpox no país, em 2026&lt;/p&gt;
 &lt;p&gt;Lula e presidenta do México querem reunir empresários dos dois países&lt;/p&gt;
 &lt;p&gt;RS: produtores rurais alertam para problemas no fornecimento de diesel&lt;/p&gt;
-&lt;p&gt;Mulheres estão perdendo o direito de ir e vir, diz Amelinha Teles&lt;/p&gt;
-&lt;p&gt;Dólar cai para R$ 5,16 após Trump indicar possível fim da guerra&lt;/p&gt;
-&lt;p&gt;SP vai testar registro de violência doméstica no local da ocorrência&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/agu-pede-que-pf-investigue-usuarios-que-publicaram-videos-misoginos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mulheres estão perdendo o direito de ir e vir, diz Amelinha Teles&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/agu-pede-que-pf-investigue-usuarios-que-publicaram-videos-misoginos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Advocacia-Geral da União (AGU) informou nesta segunda-feira (9) que acionou a Polícia Federal (PF) para investigar usuários da internet que publica...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-09 18:34:00</wp:post_date>
       <wp:post_date_gmt>2026-03-09 18:34:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-09 18:34:00</wp:post_modified>
@@ -216,9 +408,9 @@ O governo do Estado de São Paulo começará a testar até o final de março, em
     <item>
       <title>CPMI do INSS: convocados não comparecem e depoimentos são adiados</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-convocados-nao-comparecem-e-depoimentos-sao-adiados</link>
-      <pubDate>Mon, 09 Mar 2026 23:21:06 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 01:19:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-convocados-nao-comparecem-e-depoimentos-sao-adiados#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-convocados-nao-comparecem-e-depoimentos-sao-adiados#1008</guid>
       <description>Os três depoimentos previstos para aComissão Parlamentar Mista de Inquérito (CPMI) do INSS foram cancelados.
 Os depoentes: Leila Mejdalani Pereira, p...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ko7lBb9oAwowQAtRktMlRomjo8Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/0d9a4602.jpg?itok=hIEjJaKW&quot; alt=&quot;CPMI do INSS: convocados não comparecem e depoimentos são adiados&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -232,14 +424,14 @@ Os depoentes: Leila Mejdalani Pereira, p...</description>
 &lt;p&gt;Já o presidente da Dataprev, Rodrigo Ortiz D’Ávila Assumpção, esteve na CPMI na quinta-feira da semana passada, quando a reunião foi cancelada por motivos de saúde do relator Alfredo Gaspar (União-AL).&lt;/p&gt;
 &lt;p&gt;Nesta segunda-feira, a justificativa da ausência de Assumpção foramexames médicos marcados anteriormente para hoje. A nova oitiva foi reagendada para o dia 23.&lt;/p&gt;
 &lt;p&gt;Se não for prorrogada, a CPMI deve ser encerrada no dia 26 de março. A previsão é que aleitura do relatório final do deputado Alfredo Gaspar (União-AL) seja feita dia 23 de março..&lt;/p&gt;
+&lt;p&gt;Operação da PF mira fraudes bancárias do Comando Vermelho&lt;/p&gt;
 &lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
-&lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
-&lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
-&lt;p&gt;Lula e presidenta do México querem reunir empresários dos dois países&lt;/p&gt;
-&lt;p&gt;RS: produtores rurais alertam para problemas no fornecimento de diesel&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-convocados-nao-comparecem-e-depoimentos-sao-adiados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Chuvas causam duas mortes em São Paulo no fim de semana&lt;/p&gt;
+&lt;p&gt;Quatro acusados por campanha de ódio contra Maria da Penha viram réus&lt;/p&gt;
+&lt;p&gt;Sobe para 140 número de casos confirmados de Mpox no país, em 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/cpmi-do-inss-convocados-nao-comparecem-e-depoimentos-sao-adiados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os três depoimentos previstos para aComissão Parlamentar Mista de Inquérito (CPMI) do INSS foram cancelados.
 Os depoentes: Leila Mejdalani Pereira, p...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-09 18:31:00</wp:post_date>
       <wp:post_date_gmt>2026-03-09 18:31:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-09 18:31:00</wp:post_modified>
@@ -265,9 +457,9 @@ Os depoentes: Leila Mejdalani Pereira, p...</excerpt:encoded>
     <item>
       <title>Após ameaça de bomba, voo da Latam de Brasília a São Paulo é adiado</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/apos-ameaca-de-bomba-voo-da-latam-de-brasilia-sao-paulo-e-adiado</link>
-      <pubDate>Mon, 09 Mar 2026 23:21:06 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 01:19:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/apos-ameaca-de-bomba-voo-da-latam-de-brasilia-sao-paulo-e-adiado#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/apos-ameaca-de-bomba-voo-da-latam-de-brasilia-sao-paulo-e-adiado#1009</guid>
       <description>© Marcelo Camargo/Agência Brasil
 Após uma falsa ameaça de bomba, um avião da Latam que decolaria do Aeroporto deBrasília, às 9h55 desta segunda-feira...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yLfyhfW3N_0n6tf7ug0s60bKY3w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/avioes-aeroporto_mcamgo_abr_290720221818-12.jpg?itok=VF-zNEg2&quot; alt=&quot;Após ameaça de bomba, voo da Latam de Brasília a São Paulo é adiado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -280,15 +472,15 @@ Após uma falsa ameaça de bomba, um avião da Latam que decolaria do Aeroporto 
 &lt;p&gt;A PF garantiu ainda que não foram identificados “riscos ou irregularidades” na aeronave&lt;/p&gt;
 &lt;p&gt;. Segundo a Inframerica, o avião foi liberadopara o voo por volta das 13h e não houve impacto nas operações do aeroporto.&lt;/p&gt;
 &lt;p&gt;A Latam, também em nota, reforçou que o voo até Cumbica ocorreu sem qualquer intercorrência e que “adota os mais elevados padrões internacionais para garantir uma operação segura a todos”.&lt;/p&gt;
+&lt;p&gt;Operação da PF mira fraudes bancárias do Comando Vermelho&lt;/p&gt;
 &lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
-&lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
-&lt;p&gt;Demissão de Filipe Luís do Flamengo e campeões estaduais pelo Brasil&lt;/p&gt;
-&lt;p&gt;Lula e presidenta do México querem reunir empresários dos dois países&lt;/p&gt;
-&lt;p&gt;RS: produtores rurais alertam para problemas no fornecimento de diesel&lt;/p&gt;
-&lt;p&gt;Mulheres estão perdendo o direito de ir e vir, diz Amelinha Teles&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/apos-ameaca-de-bomba-voo-da-latam-de-brasilia-sao-paulo-e-adiado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Chuvas causam duas mortes em São Paulo no fim de semana&lt;/p&gt;
+&lt;p&gt;Quatro acusados por campanha de ódio contra Maria da Penha viram réus&lt;/p&gt;
+&lt;p&gt;Sobe para 140 número de casos confirmados de Mpox no país, em 2026&lt;/p&gt;
+&lt;p&gt;Lula e presidenta do México querem reunir empresários dos dois países&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/apos-ameaca-de-bomba-voo-da-latam-de-brasilia-sao-paulo-e-adiado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 Após uma falsa ameaça de bomba, um avião da Latam que decolaria do Aeroporto deBrasília, às 9h55 desta segunda-feira...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-09 18:30:00</wp:post_date>
       <wp:post_date_gmt>2026-03-09 18:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-09 18:30:00</wp:post_modified>
@@ -309,198 +501,6 @@ Após uma falsa ameaça de bomba, um avião da Latam que decolaria do Aeroporto 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/yLfyhfW3N_0n6tf7ug0s60bKY3w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/avioes-aeroporto_mcamgo_abr_290720221818-12.jpg?itok=VF-zNEg2</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Univaja e DPU denunciam tortura de indígena no Vale do Javari</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/univaja-e-dpu-denunciam-tortura-de-indigena-no-vale-do-javari</link>
-      <pubDate>Mon, 09 Mar 2026 23:21:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/univaja-e-dpu-denunciam-tortura-de-indigena-no-vale-do-javari#1006</guid>
-      <description>© Divulgação/Superintendência Regional de Polícia Federal no Amazonas
-A União dos Povos Indígenas do Vale do Javari (Univaja) e a Defensoria Pública ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/w_u2WcOtKbkn-2dCkX176SlNRWo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/005_0.jpeg?itok=u18jh4oo&quot; alt=&quot;Univaja e DPU denunciam tortura de indígena no Vale do Javari&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Divulgação/Superintendência Regional de Polícia Federal no Amazonas&lt;/p&gt;
-&lt;p&gt;A União dos Povos Indígenas do Vale do Javari (Univaja) e a Defensoria Pública da União (DPU) denunciaramàs autoridades federais que um integrante do povo maruboteria sofrido um &quot;ato de tortura&quot;cometido por invasores da terra indígena.&lt;/p&gt;
-&lt;p&gt;o caso ocorreuno último dia 3, quando a vítima do “ataque brutal” estava pescando próximo à aldeia Beija-Flor, sozinho, e foi cercado por pescadores ilegais que invadiram a Terra Indígena do Vale do Javari.&lt;/p&gt;
-&lt;p&gt;De acordo com a entidade, os agressores acusaram o indígena de ter roubado seus pertences. Após ameaçá-lo de morte, amarram suas mãos e pés e o amordaçaram para que não conseguisse pedir socorro. E o abandonaram à deriva, em sua canoa, levando sua espingarda e seu telefone celular.&lt;/p&gt;
-&lt;p&gt;Ainda segundo a entidade, o indígena só foi encontrado após cerca de 24 horas, tendo permanecido por todo o tempo à deriva, exposto à “situação de grave perigo”.&lt;/p&gt;
-&lt;p&gt;A Univaja afirma que soube da ocorrência no último dia 6. E que acionou imediatamente a Fundação Nacional dos Povos Indígenas (Funai), o Ministério Público Federal (MPF) e a Polícia Federal (PF) para que enviassem servidores ao local a fim de deter os suspeitos, que permaneciam na área.&lt;/p&gt;
-&lt;p&gt;“No entanto, mesmo se colocando à disposição da PF para dar suporte na logística de eventual diligência na região, o departamento da PF em Tabatinga [AM] informou não ter contingente para tal operação”, afirmou a Univaja.&lt;/p&gt;
-&lt;p&gt;Além decriticar a atuação das autoridades, alegando quea demora prejudicou a coleta de provas, a possível identificação e a consequente detenção dos agressores, a Univaja cobrou providências contra a “presença de organizações criminosas fortemente armadas que seguem circulando livremente e praticando atos de tortura e tentativas de homicídios” na região - a mesma onde&lt;/p&gt;
-&lt;p&gt;o indigenista Bruno Pereira e o jornalista Dom Phillips foram assassinados&lt;/p&gt;
-&lt;p&gt;“Cumpre destacar, com a mais absoluta urgência e gravidade, que a calha do alto Rio Ituí e suas imediações abrigam não apenas as comunidades que já mantém um largo grau de contato com a sociedade externa à Terra Indígena do Vale do Javari, mas também os de recente contato”, destacou a Univaja, cobrando “atenção especial” para a região, considerada uma área de ocupação e trânsito de povos em isolamento voluntário.&lt;/p&gt;
-&lt;p&gt;“A invasão dessas áreas rompe o cordão sanitário e de segurança que deveria ser garantido pelo Estado, expondo populações de altíssima vulnerabilidade imunológica e sociocultural a contatos forçados, epidemias e massacres”, acrescentou a Univaja.&lt;/p&gt;
-&lt;p&gt;a Defensoria Pública da União (DPU) informou que também foi acionada pela Univaja e que já pediu que o Ministério da Justiça e Segurança Pública - ao qual a PF está subordinada - adote “providências urgentes” para reforçar a proteção territorial na região, conter possíveis invasões à terra indígena e proteger as comunidades da região.&lt;/p&gt;
-&lt;p&gt;Além de informações sobre o caso específico, a DPU afirma ter solicitado ao ministério dados de operações de fiscalização e repressão à pesca ilegal na calha do rio Ituí e da eventual mobilização da Força Nacional de Segurança Pública ou de outras estruturas federais para reforçar a proteção do território indígena.&lt;/p&gt;
-&lt;p&gt;Para a Defensoria, a gravidade do mais recente caso denunciado pela Univaja ultrapassa um crime individual, revelando “a atuação de grupos organizados envolvidos em pesca ilegal dentro da terra indígena, além da presença de agentes armados em área constitucionalmente protegida”.&lt;/p&gt;
-&lt;p&gt;o Ministério da Justiça e Segurança Pública informou que está acompanhando o episódio, &quot;em articulação com os órgãos federais competentes&quot;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/univaja-e-dpu-denunciam-tortura-de-indigena-no-vale-do-javari&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Divulgação/Superintendência Regional de Polícia Federal no Amazonas
-A União dos Povos Indígenas do Vale do Javari (Univaja) e a Defensoria Pública ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-09 18:16:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-09 18:16:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-09 18:16:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-09 18:16:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/w_u2WcOtKbkn-2dCkX176SlNRWo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/005_0.jpeg?itok=u18jh4oo</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Especialista diz que 95% dos projetos de IA não geram valor a empresas</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/especialista-diz-que-95-dos-projetos-de-ia-nao-geram-valor-empresas</link>
-      <pubDate>Mon, 09 Mar 2026 23:21:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/especialista-diz-que-95-dos-projetos-de-ia-nao-geram-valor-empresas#1007</guid>
-      <description>Apesar de ser tratada com grande entusiasmo e muita expectativa, a inteligência artificial (IA) ainda não é uma forma importante de alavancar a produ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/4wi5Jm-lbEa_OxGpJGcWIHNFG5w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/05/participantes_previa_para_imprensa_da_hannover_messe_-_credito_divulgacao_hannover_messe_3.jpg?itok=lscdL0et&quot; alt=&quot;Especialista diz que 95% dos projetos de IA não geram valor a empresas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Apesar de ser tratada com grande entusiasmo e muita expectativa, a inteligência artificial (IA) ainda não é uma forma importante de alavancar a produção e os resultados de empresas que a utilizam.&lt;/p&gt;
-&lt;p&gt;A constatação é deNorbert Jung, CEO (diretor-executivo) da Bosch Connected Industry – braço de tecnologia da Bosch, multinacional alemã de engenharia e tecnologia.&lt;/p&gt;
-&lt;p&gt;[empolgação], essa grande esperança de que a IA possa ajudar a resolver muitas das nossas questões, mas ainda assim todo mundo está meio que na fase piloto. Noventa e cinco por cento dos projetos de IA não entregam valor econômico hoje”, apontou.&lt;/p&gt;
-&lt;p&gt;Para o diretor da Bosch, a questão passa por excesso de informação, o que classificou como cenário desafiador: “Temos cada vez mais dados, mas isso não parece produzir muito mais valor a partir desses dados”.&lt;/p&gt;
-&lt;p&gt;A declaração foi feita em um painel sobre IA, durante um evento que antecipou novidades da&lt;/p&gt;
-&lt;p&gt;, maior feira de inovação e tecnologia industrial do mundo, que ocorrerá de 20 a 24 de abril em Hannover, cidade de cerca de 550 mil habitantes no Norte da Alemanha.&lt;/p&gt;
-&lt;p&gt;Ao apontar caminhos para fazer com que a IA agregue mais valor às empresas industriais, Norbert Jung aponta para a integração com o conhecimento humano.&lt;/p&gt;
-&lt;p&gt;“A resposta está em trazer IA, máquinas e humanos juntos em uma forma de cointeligência na manufatura”, diz.“Nós industrializamos a IA generativa”, completa.&lt;/p&gt;
-&lt;p&gt;A constatação do especialista segue a conclusão do estudo&lt;/p&gt;
-&lt;p&gt;O Estado da IA nos Negócios em 2025&lt;/p&gt;
-&lt;p&gt;publicado pelo Instituto de Tecnologia de Massachusetts (MIT, na sigla em inglês para Massachusetts Institute of Technology), uma das universidades mais prestigiadas do mundo.&lt;/p&gt;
-&lt;p&gt;“Apesar de US$ 30 bilhões a US$ 40 bilhões em investimentos empresariais em IA generativa, o relatório revela um resultado surpreendente: 95% das organizações estão obtendo retorno zero”.&lt;/p&gt;
-&lt;p&gt;na edição deste ano, que além de robôs e IA, apresentará tecnologias de digitalização, automação, descarbonização e energia limpa.&lt;/p&gt;
-&lt;p&gt;O presidente Luiz Inácio Lula da Silva e o chanceler (chefe de governo) da Alemanha, Friedrich Merz, confirmaram presença na Hannover Messe.&lt;/p&gt;
-&lt;p&gt;O chefe do departamento de pesquisa da empresa de robótica Agile Robots, Sven Parusel, considera que a IA começa a “ganhar vida” por meio de robôs.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/especialista-diz-que-95-dos-projetos-de-ia-nao-geram-valor-empresas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Apesar de ser tratada com grande entusiasmo e muita expectativa, a inteligência artificial (IA) ainda não é uma forma importante de alavancar a produ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-09 17:48:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-09 17:48:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-09 17:48:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-09 17:48:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/4wi5Jm-lbEa_OxGpJGcWIHNFG5w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/05/participantes_previa_para_imprensa_da_hannover_messe_-_credito_divulgacao_hannover_messe_3.jpg?itok=lscdL0et</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Ódio contra mulheres nas redes é tema do Caminhos da Reportagem</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/odio-contra-mulheres-nas-redes-e-tema-do-caminhos-da-reportagem</link>
-      <pubDate>Mon, 09 Mar 2026 23:21:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/odio-contra-mulheres-nas-redes-e-tema-do-caminhos-da-reportagem#1008</guid>
-      <description>Memes, ameaças, dados vazados, deepfakes pornográficos - as estratégias são muitas para transformar mulheres em alvos digitais. O que acontece no amb...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/D1Zo7qbA8UnuBdum8rsIlFlZPuw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/homens_se_escondem_por_tras_das_telas_para_comenter_crimes_de_odio_contra_mulheres.jpg.jpeg?itok=avTiGozs&quot; alt=&quot;Ódio contra mulheres nas redes é tema do Caminhos da Reportagem&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Memes, ameaças, dados vazados, deepfakes pornográficos - as estratégias são muitas para transformar mulheres em alvos digitais. O que acontece no ambiente virtual é reflexo da sociedade fora da internet. E vice-versa. Mas com um agravante: o discurso de ódio gera engajamento, vende e rende lucros para misóginos e plataformas digitais.&lt;/p&gt;
-&lt;p&gt;, apresenta a discussão sobre monetização e estímulo ao discurso de ódio contra mulheres na internet. O programa vai ao ar nesta segunda-feira (9), às 23h.&lt;/p&gt;
-&lt;p&gt;Em 2025, o Brasil bateu recordes em casos de feminicídio, com 4 mulheres mortas por dia, segundo levantamento do Ministério de Justiça e Segurança Pública.&lt;/p&gt;
-&lt;p&gt;Embora ainda não seja possível fazer uma correlação com o aumento do discurso de ódio na internet, é possível afirmar que a violência de gênero tem aumentado - dentro e fora das telas.&lt;/p&gt;
-&lt;p&gt;Um levantamento do Desinfo.pop, da Fundação Getúlio Vargas (FGV), monitorou 85 comunidades virtuais de redes de ódio.&lt;/p&gt;
-&lt;p&gt;Os pesquisadores verificaram que, de 2019 a 2025, houve um crescimento de quase 600 vezes no envio de conteúdo misógino.&lt;/p&gt;
-&lt;p&gt;Para a pesquisadora Julie Ricard, o diagnóstico é que há homens que se sentem atacados pelo poder conquistado pelas mulheres. “Eles estão quase numa missão de se proteger”, analisa.&lt;/p&gt;
-&lt;p&gt;A musicista Bruna Volpi foi um desses alvos, por ironizar o comportamento masculino nas redes sociais. Em uma das mensagens que recebeu, um executivo de uma empresa da qual Bruna era cliente, disse que tinha os dados dela e a ameaçou. “Um homem que se ofende porque eu estou falando que nós merecemos viver, esse homem é um potencial perigo para a sociedade”, afirma.&lt;/p&gt;
-&lt;p&gt;A Safernet, ONG referência de proteção de direitos digitais no país, percebeu um aumento de 220% no número de denúncias de crimes online de misoginia entre 2024 e 2025.&lt;/p&gt;
-&lt;p&gt;“As mulheres não aceitam mais o destino que o patriarcado tinha relegado a elas e isso é compreendido pelos homens como um ataque à masculinidade deles”, acredita a escritora Márcia Tiburi.&lt;/p&gt;
-&lt;p&gt;Lola Aronovich é vítima há mais de 15 anos, sofrendo ataques por seu blog feminista. Até mesmo um site foi criado para difamá-la e vazar seus dados. Dois homens foram condenados; um reincidiu e tornou-se o primeiro preso no país por terrorismo digital, hoje cumprindo 41 anos de prisão. O caso impulsionou a criação da Lei 13.642/2018 (Lei Lola), que atribuiu à Polícia Federal a investigação de crimes digitais misóginos.&lt;/p&gt;
-&lt;p&gt;Segundo o delegado Flávio Rolim, coordenador de Combate a Crimes Cibernéticos de Ódio, da Polícia Federal, são crimes de “discursos e postagens que normalizam a violência e fomentam práticas extremas, como homicídios e estupro, contra a mulher”.&lt;/p&gt;
-&lt;p&gt;Em janeiro, a Meta, empresa responsável pelo Facebook, Instagram e Threads, passou a permitir acusações de “anormalidade mental relacionadas a gênero ou orientação sexual”. “É um retorno ao tal conceito de ‘liberdade de expressão’ inicial quando a empresa foi criada para justificar uma menor moderação de temas que eles consideram de minorias”, analisa Julie Ricard.&lt;/p&gt;
-&lt;p&gt;“A gente sabe que ódio gera engajamento e que essa é a máquina deles, de manter as pessoas conectadas o máximo possível”, conclui.&lt;/p&gt;
-&lt;p&gt;No Brasil, não há ainda uma lei que criminalize a misoginia. Mulheres, como a comentarista e analista de games Layze Pinto Brandão, conhecida nas redes como Lahgolas, e a jornalista esportiva e narradora Luciana Zogaib sofrem com o discurso de ódio, principalmente por estarem em áreas predominantemente masculinas. “Ter uma legislação coibiria um pouco mais, a pessoa passa a pensar duas vezes antes de fazer aquele tipo de coisa, principalmente por conta de valentões que se acham acima da lei”, afirma a gamer.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/odio-contra-mulheres-nas-redes-e-tema-do-caminhos-da-reportagem&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Memes, ameaças, dados vazados, deepfakes pornográficos - as estratégias são muitas para transformar mulheres em alvos digitais. O que acontece no amb...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-09 17:08:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-09 17:08:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-09 17:08:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-09 17:08:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/D1Zo7qbA8UnuBdum8rsIlFlZPuw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/homens_se_escondem_por_tras_das_telas_para_comenter_crimes_de_odio_contra_mulheres.jpg.jpeg?itok=avTiGozs</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Alta do petróleo mobiliza potências do G7 em meio à guerra no Irã</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/alta-do-petroleo-mobiliza-potencias-do-g7-em-meio-guerra-no-ira</link>
-      <pubDate>Mon, 09 Mar 2026 23:21:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/alta-do-petroleo-mobiliza-potencias-do-g7-em-meio-guerra-no-ira#1009</guid>
-      <description>© REUTERS/Dado Ruvic/Proibida reprodução
-O aumento do preço do barril de petróleo vem mobilizando as potências ocidentais reunidas no G7, grupo dos p...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WXNPECk6ez3jFz8-n7M1J_LeV-E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/02/2026-02-19t203627z_1_lynxmpem1i19z_rtroptp_4_global-oil.jpg?itok=B1QzOS4p&quot; alt=&quot;Alta do petróleo mobiliza potências do G7 em meio à guerra no Irã&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Dado Ruvic/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;O aumento do preço do barril de petróleo vem mobilizando as potências ocidentais reunidas no G7, grupo dos países mais industrializados do mundo.&lt;/p&gt;
-&lt;p&gt;Os ministros das finanças do grupo se reuniram, nesta segunda-feira (9), para discutir medidas contra a&lt;/p&gt;
-&lt;p&gt;potências decidiram não liberar as reservas de emergência para forçar a queda dos preços. O barril chegou a quase US$ 120, maior valor desde o início da guerra na Ucrânia, em 2022.&lt;/p&gt;
-&lt;p&gt;Houve um aumento de até 30% desde o início da guerra no Irã e do fechamento do Estreito de Ormuz.&lt;/p&gt;
-&lt;p&gt;As potências do G7 – França, Alemanha, Estados Unidos (EUA), Itália, Japão, Canadá e Reino Unido –discutiram a liberação das reservas estimadas em 1,2 bilhão de barris de petróleo, além de600 milhões mantidos por obrigação governamental.&lt;/p&gt;
-&lt;p&gt;O fechamento do Estreito de Ormuz pelo Irã, por onde transitam cerca de 25% do petróleo mundial, tem abalado os mercados financeiros, com bolsas caindo em todo o mundo.&lt;/p&gt;
-&lt;p&gt;As retaliações de Teerã contra alvos nos países do Golfo Pérsico também contribuíram para reduzir a oferta no mercado de grandes produtores como Bahrein e Catar.&lt;/p&gt;
-&lt;p&gt;“Além dos desafios da travessia do Estreito de Ormuz, uma parcela substancial da produção de petróleo foi reduzida. Isso está criando riscos significativos e crescentes para o mercado”, afirmouo diretor executivo da Agência Internacional de Energia (AIE), Fatih Birol.&lt;/p&gt;
-&lt;p&gt;A diretora técnica do Instituto de Estudos Estratégicos em Petróleo (Ineep), Ticiana Álvares, destacou à&lt;/p&gt;
-&lt;p&gt;que o mercado projetava, para 2026, um preço médio em torno dos US$ 70 o barril.&lt;/p&gt;
-&lt;p&gt;“Os mais impactados imediatamente devem ser, nessa ordem, Ásia e Europa. Só que, se o conflito se mantiver, se aprofundar, a tendência é que haja um impacto global de maiores repercussões”, comentou.&lt;/p&gt;
-&lt;p&gt;A AIE estima que 80% do petróleo que transitou pelo Estreito de Ormuz, em 2025, foi com destino à Ásia. “No entanto, os impactos de uma interrupção prolongada no transporte marítimo seriam globais”, dissea agência internacional.&lt;/p&gt;
-&lt;p&gt;Ticiana Álvares acrescentouque a Petrobras pode se beneficiar como alternativa àqueda da oferta do óleo do Oriente Médio e estima que a China pode “segurar” o não fornecimento do Irã por cerca de dois meses.&lt;/p&gt;
-&lt;p&gt;“A própria geografia do fornecimento do petróleo vai ser impactada. O Brasil pode ser uma alternativa para o fornecimento de muita gente, elevando ainda mais a produção no Brasil. Os EUA também são grandes fornecedores de petróleo, principalmente de derivados”, completou Ticiana.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/alta-do-petroleo-mobiliza-potencias-do-g7-em-meio-guerra-no-ira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Dado Ruvic/Proibida reprodução
-O aumento do preço do barril de petróleo vem mobilizando as potências ocidentais reunidas no G7, grupo dos p...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-09 17:00:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-09 17:00:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-09 17:00:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-09 17:00:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/WXNPECk6ez3jFz8-n7M1J_LeV-E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/02/2026-02-19t203627z_1_lynxmpem1i19z_rtroptp_4_global-oil.jpg?itok=B1QzOS4p</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
