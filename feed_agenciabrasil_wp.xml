@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 11 Mar 2026 12:42:01 +0000</pubDate>
+    <pubDate>Wed, 11 Mar 2026 14:01:08 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,203 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Vendas no comércio crescem 0,4% em janeiro e igualam patamar recorde</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/vendas-no-comercio-crescem-04-em-janeiro-e-igualam-patamar-recorde</link>
+      <pubDate>Wed, 11 Mar 2026 14:01:08 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/vendas-no-comercio-crescem-04-em-janeiro-e-igualam-patamar-recorde#1000</guid>
+      <description>O volume de vendas no comércio varejista brasileiro cresceu 0,4% na passagem de dezembro para janeiro. Dessa forma, o setor alcançou o maior patamar,...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ceo5c7k14qGscS34azzMplwMC_E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rio_tem_primeiro_dia_util_de_reabertura_do_comercio_de_rua2906200458.jpg?itok=0u3W0c4e&quot; alt=&quot;Vendas no comércio crescem 0,4% em janeiro e igualam patamar recorde&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O volume de vendas no comércio varejista brasileiro cresceu 0,4% na passagem de dezembro para janeiro. Dessa forma, o setor alcançou o maior patamar, igualando o recorde de novembro de 2025.&lt;/p&gt;
+&lt;p&gt;Na comparação com o mesmo mês do ano passado, janeiro de 2026 apresenta salto de 2,8%. Em 12 meses, o setor registra expansão de 1,6%.&lt;/p&gt;
+&lt;p&gt;A média móvel trimestral, que apresenta a tendência de comportamento do comércio nos últimos meses, reflete alta de 0,3% na comparação com os três meses terminados em dezembro de 2025.&lt;/p&gt;
+&lt;p&gt;O resultado de janeiro reverte a queda de 0,4% assinalada no último mês de 2025.&lt;/p&gt;
+&lt;p&gt;dados fazem parte da Pesquisa Mensal de Comércio&lt;/p&gt;
+&lt;p&gt;, divulgada nesta quarta-feira (11) pelo&lt;/p&gt;
+&lt;p&gt;Instituto Brasileiro de Geografia e Estatística (IBGE)&lt;/p&gt;
+&lt;p&gt;Ao destacar que foi alcançado o ponto mais alto da série, iniciada no ano 2000, o gerente da pesquisa, Cristiano Santos, ressalta que “renovações do pico não são tão comuns assim”.&lt;/p&gt;
+&lt;p&gt;Dos oito segmentos pesquisados pelo IBGE, quatro apresentaram crescimento do volume de vendas na passagem de dezembro para janeiro, com destaque para a atividade farmacêutica.&lt;/p&gt;
+&lt;p&gt;- Artigos farmacêuticos, médicos, ortopédicos e de perfumaria: 2,6%&lt;/p&gt;
+&lt;p&gt;- Tecidos, vestuário e calçados: 1,8%&lt;/p&gt;
+&lt;p&gt;- Outros artigos de uso pessoal e doméstico: 1,3%&lt;/p&gt;
+&lt;p&gt;- Hiper, supermercados, produtos alimentícios, bebidas e fumo 0,4%&lt;/p&gt;
+&lt;p&gt;- Móveis e eletrodomésticos: 0%&lt;/p&gt;
+&lt;p&gt;- Equipamentos e material para escritório informática e comunicação: -9,3%&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/vendas-no-comercio-crescem-04-em-janeiro-e-igualam-patamar-recorde&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O volume de vendas no comércio varejista brasileiro cresceu 0,4% na passagem de dezembro para janeiro. Dessa forma, o setor alcançou o maior patamar,...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-11 09:53:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-11 09:53:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-11 09:53:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-11 09:53:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Ceo5c7k14qGscS34azzMplwMC_E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rio_tem_primeiro_dia_util_de_reabertura_do_comercio_de_rua2906200458.jpg?itok=0u3W0c4e</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>PF prende policiais militares envolvidos com grupos criminosos no Rio</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pf-prende-policiais-militares-envolvidos-com-grupos-criminosos-no-rio</link>
+      <pubDate>Wed, 11 Mar 2026 14:01:08 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pf-prende-policiais-militares-envolvidos-com-grupos-criminosos-no-rio#1001</guid>
+      <description>A Polícia Federal deflagrou a 3ª fase da Operação Anomalia, nesta quarta-feira (11), visando desmantelar um núcleo composto por policiais militares d...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/7YvyVmN_mAln2L1FLKMkFmIo5f8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/19/6f1db28f-1c0b-4ee1-ab1a-4d81e573b145.jpeg?itok=4I0vxenE&quot; alt=&quot;PF prende policiais militares envolvidos com grupos criminosos no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Polícia Federal deflagrou a 3ª fase da Operação Anomalia, nesta quarta-feira (11), visando desmantelar um núcleo composto por policiais militares do estado do Rio de Janeiro, envolvidos com facções e milícias. Desde as primeiras horas da manhã, os policiais federais cumprem mandados de prisão dos investigados.&lt;/p&gt;
+&lt;p&gt;Os sete PMs alvos da operação foram presos e encaminhados à unidade prisional da corporação em Niterói. Segundo a Polícia Militar do Rio, eles serão submetidos a processos administrativos disciplinares.&lt;/p&gt;
+&lt;p&gt;Na ação de hoje, os agentes também cumprem sete mandados de busca e apreensão nas cidades do Rio de Janeiro, nos bairros Taquara, Freguesia, Campo Grande e Santa Cruz; e de Nova Iguaçu e Nilópolis, na Baixada Fluminense.&lt;/p&gt;
+&lt;p&gt;O Supremo Tribunal Federal (STF) também determinou o imediato afastamento das funções públicas de todos os investigados, bem como a quebra do sigilo de dados dos equipamentos eletrônicos apreendidos. O cumprimento das ordens judiciais contou com o apoio da Corregedoria da Polícia Militar do Rio.&lt;/p&gt;
+&lt;p&gt;As apurações dão conta que os policiais militares alvos da operação se utilizavam das prerrogativas da farda e da função pública para atuar em benefício do crime organizado. &quot;A investigação evidenciou uma estrutura voltada não apenas à facilitação logística para o tráfico e milícias, mas também à blindagem de criminosos e à ocultação do proveito econômico ilícito”.&lt;/p&gt;
+&lt;p&gt;De acordo com a PF, os investigados responderão pelos crimes de organização criminosa, corrupção ativa e passiva, além de lavagem de capitais. O material apreendido durante as buscas será submetido à análise, para a identificação de possíveis outros agentes envolvidos no esquema.&lt;/p&gt;
+&lt;p&gt;A operação é fruto das apurações conduzidas pela força-tarefa Missão Redentor II, que consolida as diretrizes do STF em cumprimento ao Acórdão da ADPF 635, que ficou conhecido comoADPF das Favelas- ação julgada pelo STFque discute a atuação das forças policiais em operações nas favelas do estado do Rio de Janeiro. &quot;A açãoestabelece a atuação uniforme da PF na produção de inteligência para desmantelar facções ligadas ao tráfico de drogas e armas, promovendo a asfixia financeira de tais organizações e o corte sumário de suas conexões com agentes do Estado”, diz a nota da PF.&lt;/p&gt;
+&lt;p&gt;Nesta terça-feira (10), os policiais federais prenderam três policiais civis do Rio de Janeiro,&lt;/p&gt;
+&lt;p&gt;entre eles o delegado titular de uma delegacia da capital&lt;/p&gt;
+&lt;p&gt;O grupo é investigado por utilizar a estrutura do Estado para extorquir integrantes da maior facção criminosa do Rio de Janeiro, o Comando Vermelho, além de praticar corrupção e lavagem de dinheiro.&lt;/p&gt;
+&lt;p&gt;RJ: PF prende PMs suspeitos de envolvimento com facções criminosas&lt;/p&gt;
+&lt;p&gt;Alô Alô Brasil entrevista o Deputado Federal Paulo Pimenta&lt;/p&gt;
+&lt;p&gt;Samba homenageia Vini Júnior e combate o racismo&lt;/p&gt;
+&lt;p&gt;Vendas no comércio crescem 0,4% em janeiro e igualam patamar recorde&lt;/p&gt;
+&lt;p&gt;PF prende policiais militares envolvidos com grupos criminosos no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pf-prende-policiais-militares-envolvidos-com-grupos-criminosos-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Polícia Federal deflagrou a 3ª fase da Operação Anomalia, nesta quarta-feira (11), visando desmantelar um núcleo composto por policiais militares d...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-11 09:40:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-11 09:40:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-11 09:40:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-11 09:40:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/7YvyVmN_mAln2L1FLKMkFmIo5f8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/19/6f1db28f-1c0b-4ee1-ab1a-4d81e573b145.jpeg?itok=4I0vxenE</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>São Paulo tem primeiro caso de sarampo em 2026</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/sao-paulo-tem-primeiro-caso-de-sarampo-em-2026</link>
+      <pubDate>Wed, 11 Mar 2026 14:01:08 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/sao-paulo-tem-primeiro-caso-de-sarampo-em-2026#1002</guid>
+      <description>© Tânia Rêgo/Agência Brasil/Arquivo
+Um bebê de seis meses, uma menina, é a primeira pessoa a contrair sarampo em São Paulo, segundo informa a Secreta...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vqWUmw-VaP5rYmamkz1gJJE48ag=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_campanha_estadual_do_dia_d_de_vacinacao_contra_o_sarampo_no_rio20200201_0133.jpg?itok=LFiE8vVR&quot; alt=&quot;São Paulo tem primeiro caso de sarampo em 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Tânia Rêgo/Agência Brasil/Arquivo&lt;/p&gt;
+&lt;p&gt;Um bebê de seis meses, uma menina, é a primeira pessoa a contrair sarampo em São Paulo, segundo informa a Secretaria de Estado da Saúde paulista. A bebe, que não foi vacinada, esteve na Bolívia em janeiro deste ano.&lt;/p&gt;
+&lt;p&gt;O caso foi registrado em fevereiro e confirmado por exames laboratoriais.&lt;/p&gt;
+&lt;p&gt;Em 2025 o estado de São Paulo teve dois casos importados de sarampo.&lt;/p&gt;
+&lt;p&gt;O governo do estado reforça que a melhor maneira de evitar ser contagiado pela doença é através da vacinação. A&lt;/p&gt;
+&lt;p&gt;vacina contra o sarampo integra o Calendário Nacional de Vacinação e a primeira dose deve ser ministrada aos 12 meses de idade. A segunda dose deve ser dada aos 15 meses.&lt;/p&gt;
+&lt;p&gt;Também é necessário se vacinar entre os 5 e 29 anos, com duas doses no intervalo mínimo de 30 dias. Pessoas entre 30 e 59 anos devem tomar uma nova dose.&lt;/p&gt;
+&lt;p&gt;A Organização Mundial da Saúde (OMS) fez em fevereiro deste ano um&lt;/p&gt;
+&lt;p&gt;. Segundo a entidade, em 2024 e 2025, houve um aumento de 32 vezes nos contágios de sarampo nas Américas.&lt;/p&gt;
+&lt;p&gt;RJ: PF prende PMs suspeitos de envolvimento com facções criminosas&lt;/p&gt;
+&lt;p&gt;Alô Alô Brasil entrevista o Deputado Federal Paulo Pimenta&lt;/p&gt;
+&lt;p&gt;Samba homenageia Vini Júnior e combate o racismo&lt;/p&gt;
+&lt;p&gt;Vendas no comércio crescem 0,4% em janeiro e igualam patamar recorde&lt;/p&gt;
+&lt;p&gt;PF prende policiais militares envolvidos com grupos criminosos no Rio&lt;/p&gt;
+&lt;p&gt;São Paulo tem primeiro caso de sarampo em 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/sao-paulo-tem-primeiro-caso-de-sarampo-em-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Tânia Rêgo/Agência Brasil/Arquivo
+Um bebê de seis meses, uma menina, é a primeira pessoa a contrair sarampo em São Paulo, segundo informa a Secreta...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-11 09:25:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-11 09:25:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-11 09:25:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-11 09:25:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/vqWUmw-VaP5rYmamkz1gJJE48ag=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_campanha_estadual_do_dia_d_de_vacinacao_contra_o_sarampo_no_rio20200201_0133.jpg?itok=LFiE8vVR</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Vereador do Rio é preso suspeito de ligação com o Comando Vermelho</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/vereador-do-rio-e-preso-suspeito-de-ligacao-com-o-comando-vermelho</link>
+      <pubDate>Wed, 11 Mar 2026 14:01:08 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/vereador-do-rio-e-preso-suspeito-de-ligacao-com-o-comando-vermelho#1003</guid>
+      <description>© Fernando Frazão/Agência Brasil
+O vereador do Rio de Janeiro Salvino Oliveira Barbosa (PSD), ex-secretário municipal da Juventude, foi preso nesta q...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kgbTsn4dngjEcJ-2Dc0qlsZSZYA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/04/_d6a0270.jpg?itok=bmvmeLsm&quot; alt=&quot;Vereador do Rio é preso suspeito de ligação com o Comando Vermelho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O vereador do Rio de Janeiro Salvino Oliveira Barbosa (PSD), ex-secretário municipal da Juventude, foi preso nesta quarta-feira (11) pela Polícia Civil por suspeita de ligação com o Comando Vermelho, a maior facção criminosa do estado.&lt;/p&gt;
+&lt;p&gt;A operação revelou tentativas de interferência política em áreas dominadas pelo tráfico, com o objetivo de transformar esses territórios em bases eleitorais&lt;/p&gt;
+&lt;p&gt;. Segundo a investigação, o vereador Salvino teria negociado diretamente com o traficante Edgar Alves de Andrade, o “Doca”, autorização para realizar campanha eleitoral na comunidade da Gardênia Azul, área sob domínio do Comando Vermelho.&lt;/p&gt;
+&lt;p&gt;“Em contrapartida, o parlamentar teria articulado benefícios ao grupo criminoso, apresentados publicamente como ações voltadas à população local. Um dos exemplos investigados envolve a instalação recente de quiosques na região. Conforme apurado, a definição de parte dos beneficiários teria sido determinada diretamente por integrantes da facção, sem processo público transparente”, informou a polícia.&lt;/p&gt;
+&lt;p&gt;A assessoria do vereador disse que, até o momento, o gabinete não recebeu qualquer informação oficial sobre o ocorrido. “A assessoria jurídica já foi acionada e aguardamos esclarecimentos das autoridades competentes para compreender os fatos”, diz a nota.&lt;/p&gt;
+&lt;p&gt;Policiais da Delegacia de Combate ao Crime Organizado e à Lavagem de Dinheiro deflagraram a Operação Contenção Red Legacy, com o objetivo de desarticular a estrutura nacional do Comando Vermelho, identificada pela investigação como organização criminosa com características de cartel e atuação interestadual altamente estruturada.&lt;/p&gt;
+&lt;p&gt;“As investigações reuniram um conjunto robusto de provas que revelam o funcionamento interno da facção, demonstrando a existência de uma cadeia de comando organizada, divisão territorial e articulação entre integrantes em diferentes estados do país, informou a corporação.&lt;/p&gt;
+&lt;p&gt;Até o momento, seis criminosos foram presos, incluindo um vereador do município do Rio de Janeiro”, acrescentou.&lt;/p&gt;
+&lt;p&gt;As apurações também identificaram a participação direta de familiares de um dos principais líderes históricos da facção, Márcio dos Santos Nepomuceno, o “Marcinho VP”, no funcionamento dessa organização criminosa.&lt;/p&gt;
+&lt;p&gt;Segundo a investigação, Márcia Gama, esposa de Marcinho VP, atua na intermediação de interesses do grupo fora do sistema prisional, participando da circulação de informações entre integrantes e de articulações envolvendo operadores da organização e agentes externos.&lt;/p&gt;
+&lt;p&gt;Outro investigado apontado como peça relevante na estrutura é Landerson, sobrinho de Marcinho VP&lt;/p&gt;
+&lt;p&gt;. De acordo com a investigação, ele exerce papel de elo entre lideranças da facção, integrantes que atuam em comunidades dominadas pelo grupo e pessoas envolvidas em atividades econômicas exploradas pela organização criminosa, como serviços, imóveis e outros negócios utilizados para geração de recursos e expansão do poder do grupo.&lt;/p&gt;
+&lt;p&gt;Márcia e Landerson não foram localizados em seus endereços e são considerados foragidos da Justiça.&lt;/p&gt;
+&lt;p&gt;Durante as investigações, também foram identificados casos de criminosos que se passavam por policiais militares para obter vantagens ilícitas, incluindo vazamento de informações e simulação de operações.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/vereador-do-rio-e-preso-suspeito-de-ligacao-com-o-comando-vermelho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+O vereador do Rio de Janeiro Salvino Oliveira Barbosa (PSD), ex-secretário municipal da Juventude, foi preso nesta q...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-11 09:24:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-11 09:24:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-11 09:24:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-11 09:24:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/kgbTsn4dngjEcJ-2Dc0qlsZSZYA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/04/_d6a0270.jpg?itok=bmvmeLsm</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>CIDH realiza audiência sobre operações policiais no Rio de Janeiro</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/cidh-realiza-audiencia-sobre-operacoes-policiais-no-rio-de-janeiro</link>
-      <pubDate>Wed, 11 Mar 2026 12:42:01 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 14:01:08 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/cidh-realiza-audiencia-sobre-operacoes-policiais-no-rio-de-janeiro#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/cidh-realiza-audiencia-sobre-operacoes-policiais-no-rio-de-janeiro#1004</guid>
       <description>AComissão Interamericana de Direitos Humanos (CIDH) realizará, nesta quarta-feira (11), uma audiência sobre as operações policiais no Rio de Janeiro,...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2F4VrK6W97vIKtDG_-tVH0WA_ec=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/29/toms9786.jpg?itok=xeSinvHW&quot; alt=&quot;CIDH realiza audiência sobre operações policiais no Rio de Janeiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;AComissão Interamericana de Direitos Humanos (CIDH) realizará, nesta quarta-feira (11), uma audiência sobre as operações policiais no Rio de Janeiro, com destaque para a&lt;/p&gt;
@@ -45,7 +237,7 @@
 &lt;p&gt;(1994 e 1995), ambas na zona norte doRio de Janeiro.&lt;/p&gt;
 &lt;p&gt;A Operação Contenção, promovidapelas polícias Civil e Militar do Rio de Janeiro, deixou ao menos 122pessoas mortas ─&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/cidh-realiza-audiencia-sobre-operacoes-policiais-no-rio-de-janeiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>AComissão Interamericana de Direitos Humanos (CIDH) realizará, nesta quarta-feira (11), uma audiência sobre as operações policiais no Rio de Janeiro,...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-03-11 08:30:00</wp:post_date>
       <wp:post_date_gmt>2026-03-11 08:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-11 08:30:00</wp:post_modified>
@@ -71,9 +263,9 @@
     <item>
       <title>Guerra no Oriente Médio: governo vai monitorar mercado de combustíveis</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/guerra-no-oriente-medio-governo-vai-monitorar-mercado-de-combustiveis</link>
-      <pubDate>Wed, 11 Mar 2026 12:42:01 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 14:01:08 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/guerra-no-oriente-medio-governo-vai-monitorar-mercado-de-combustiveis#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/guerra-no-oriente-medio-governo-vai-monitorar-mercado-de-combustiveis#1005</guid>
       <description>O Ministério de Minas e Energia (MME) criou uma Sala de Monitoramento do Abastecimento, que vai acompanhar, diariamente, as condições do mercado naci...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MuZhbRKBhjx_Pw_LekK5dUfcbAw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/02/29/tanque_de_diesel_r5_na_rpbc_-_foto_wilson_melo_agencia_petrobras.jpg?itok=DURYnQE5&quot; alt=&quot;Guerra no Oriente Médio: governo vai monitorar mercado de combustíveis&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Ministério de Minas e Energia (MME) criou uma Sala de Monitoramento do Abastecimento, que vai acompanhar, diariamente, as condições do mercado nacional e internacional de combustíveis&lt;/p&gt;
@@ -89,10 +281,10 @@
 &lt;p&gt;distribuidoras elevaram os preços de venda para os postos sob a justificativa de alta no preço internacional do petróleo, associada ao conflito no Oriente Médio.&lt;/p&gt;
 &lt;p&gt;Até o momento, porém, a Petrobras não anunciou aumento nos preços praticados em suas refinarias.&lt;/p&gt;
 &lt;p&gt;“Diante desse cenário, a Senacon solicitou que o Cade avalie a existência de possíveis indícios de práticas que possam prejudicar a livre concorrência no mercado, e que podem indicar tentativa de influência à adoção de conduta comercial uniforme ou combinada entre concorrentes”, completa o MME.&lt;/p&gt;
-&lt;p&gt;Mineração de terras raras exige tempo e alto investimento no país&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Senado aprova projeto que reestrutura carreiras do serviço público federal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/guerra-no-oriente-medio-governo-vai-monitorar-mercado-de-combustiveis&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;RJ: PF prende PMs suspeitos de envolvimento com facções criminosas&lt;/p&gt;
+&lt;p&gt;Alô Alô Brasil entrevista o Deputado Federal Paulo Pimenta&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/guerra-no-oriente-medio-governo-vai-monitorar-mercado-de-combustiveis&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Ministério de Minas e Energia (MME) criou uma Sala de Monitoramento do Abastecimento, que vai acompanhar, diariamente, as condições do mercado naci...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-03-11 08:05:00</wp:post_date>
       <wp:post_date_gmt>2026-03-11 08:05:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-11 08:05:00</wp:post_modified>
@@ -118,9 +310,9 @@
     <item>
       <title>Brasília terá título de Capital Ibero-Americana de Patrimônio Cultural</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/brasilia-tera-titulo-de-capital-ibero-americana-de-patrimonio-cultural</link>
-      <pubDate>Wed, 11 Mar 2026 12:42:01 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 14:01:08 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/brasilia-tera-titulo-de-capital-ibero-americana-de-patrimonio-cultural#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/brasilia-tera-titulo-de-capital-ibero-americana-de-patrimonio-cultural#1006</guid>
       <description>Tratar de estratégias conjuntas para proteção dos patrimônios material e imaterial, e para inovação em políticas públicas está entre os objetivos cen...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hHN47HJ70OvnajBc6eZ5bWQHuL0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/brasilia.jpg?itok=5tNirUGe&quot; alt=&quot;Brasília terá título de Capital Ibero-Americana de Patrimônio Cultural&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Tratar de estratégias conjuntas para proteção dos patrimônios material e imaterial, e para inovação em políticas públicas está entre os objetivos centrais de um evento internacional em Brasília, desta quarta (11) até sexta-feira (13). Na ocasião, a cidadeserá homenageada com o título de Capital Ibero-Americana de Patrimônio Cultural.&lt;/p&gt;
@@ -139,7 +331,7 @@
 &lt;p&gt;O cenário começaria a se alterar com o título expedido pela Unesco em 1987. “A memória foi reconhecida como patrimônio”. A pesquisadora compreende que a manutenção do patrimônio em Brasília não é simples.&lt;/p&gt;
 &lt;p&gt;A capital aprovou, por exemplo, há dois anos, o Plano de Preservação do Conjunto Urbanístico de Brasília (PPCUB). Mas a pesquisadora entende que são necessáriosmais recursos e políticas públicas de proteção para que tanto o tombamento quantoa manutenção estejam em ordem. “Em Brasília, isso devia ser um exemplo, mas ainda não é. A capital é uma cidade muito nova”, diz.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/brasilia-tera-titulo-de-capital-ibero-americana-de-patrimonio-cultural&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Tratar de estratégias conjuntas para proteção dos patrimônios material e imaterial, e para inovação em políticas públicas está entre os objetivos cen...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-11 07:42:00</wp:post_date>
       <wp:post_date_gmt>2026-03-11 07:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-11 07:42:00</wp:post_modified>
@@ -165,9 +357,9 @@
     <item>
       <title>Alckmin defende apuração rigorosa no caso Master</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/alckmin-defende-apuracao-rigorosa-no-caso-master</link>
-      <pubDate>Wed, 11 Mar 2026 12:42:01 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 14:01:08 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/alckmin-defende-apuracao-rigorosa-no-caso-master#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/alckmin-defende-apuracao-rigorosa-no-caso-master#1007</guid>
       <description>O vice-presidente e ministro do Desenvolvimento, Indústria e Comércio, Geraldo Alckmin, defendeu apuração rigorosa e punição a todos os envolvidos no...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1ufSXsOFJEwIYSTUgA72-UGP2js=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/09/_mg_3543_0.jpg?itok=q4YfncuZ&quot; alt=&quot;Alckmin defende apuração rigorosa no caso Master&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O vice-presidente e ministro do Desenvolvimento, Indústria e Comércio, Geraldo Alckmin, defendeu apuração rigorosa e punição a todos os envolvidos no escândalo do Banco Master, que gerou prejuízos bilionários a investidores e entidades públicas e privadas, segundo o Banco Central (BC).&lt;/p&gt;
@@ -186,7 +378,7 @@
 &lt;p&gt;&quot;Olha, Datena, vice-presidente não precisa deixar a vice-presidência, você continua na vice-presidência. Agora, ministério, para qualquer cargo que você for disputar, você tem que se afastar. Então, no dia 2 de abril, cumprindo rigorosamente a lei, nós vamos nos afastar&quot;, garantiu.&lt;/p&gt;
 &lt;p&gt;A informação já havia sido antecipada&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/alckmin-defende-apuracao-rigorosa-no-caso-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O vice-presidente e ministro do Desenvolvimento, Indústria e Comércio, Geraldo Alckmin, defendeu apuração rigorosa e punição a todos os envolvidos no...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-11 07:07:00</wp:post_date>
       <wp:post_date_gmt>2026-03-11 07:07:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-11 07:07:00</wp:post_modified>
@@ -212,9 +404,9 @@
     <item>
       <title>Rádio Nacional transmite nesta quarta jogo entre Flamengo e Cruzeiro</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/radio-nacional-transmite-nesta-quarta-jogo-entre-flamengo-e-cruzeiro</link>
-      <pubDate>Wed, 11 Mar 2026 12:42:01 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 14:01:08 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/radio-nacional-transmite-nesta-quarta-jogo-entre-flamengo-e-cruzeiro#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/radio-nacional-transmite-nesta-quarta-jogo-entre-flamengo-e-cruzeiro#1008</guid>
       <description>Flamengo e Cruzeiro fazem, nesta quarta-feira (11), partida válida pela quinta rodada do Campeonato Brasileiro.
 O confronto ocorre no Estádio do Mara...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/KaYqmTeSB1E_2GykPc_tfSW9ocU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/09/flamengo_x_bragantino.jpg?itok=p8-vogsW&quot; alt=&quot;Rádio Nacional transmite nesta quarta jogo entre Flamengo e Cruzeiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -235,7 +427,7 @@ O confronto ocorre no Estádio do Mara...</description>
 &lt;p&gt;Os torcedores podem ficar ligados pelo rádio, site ou streaming para acompanhar as emoções das disputas entre os maiores clubes brasileiros. Antes e depois dos confrontos, o ouvinte se informa sobre a preparação das equipes e a repercussão do placar nas ondas da&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/radio-nacional-transmite-nesta-quarta-jogo-entre-flamengo-e-cruzeiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Flamengo e Cruzeiro fazem, nesta quarta-feira (11), partida válida pela quinta rodada do Campeonato Brasileiro.
 O confronto ocorre no Estádio do Mara...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-11 07:02:00</wp:post_date>
       <wp:post_date_gmt>2026-03-11 07:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-11 07:02:00</wp:post_modified>
@@ -261,9 +453,9 @@ O confronto ocorre no Estádio do Mara...</excerpt:encoded>
     <item>
       <title>Botafogo cai para o Barcelona e fica fora da Libertadores</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/botafogo-cai-para-o-barcelona-e-fica-fora-da-libertadores</link>
-      <pubDate>Wed, 11 Mar 2026 12:42:01 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 14:01:08 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/botafogo-cai-para-o-barcelona-e-fica-fora-da-libertadores#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/botafogo-cai-para-o-barcelona-e-fica-fora-da-libertadores#1009</guid>
       <description>© Reuters/Pilar Olivares/Direitos Reservados
 A torcida compareceu e apoiou, mas o Botafogo foi derrotado, nesta terça-feira (10), por 1 a 0 pelo Barc...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/y5PH7nQWm6cRmzk086sN1QxeEVY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/10/2026-03-11t023639z_1119084964_up1em3b07916u_rtrmadp_3_soccer-libertadores-bot-bna.jpg?itok=FssGAsvP&quot; alt=&quot;Botafogo cai para o Barcelona e fica fora da Libertadores&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -275,16 +467,16 @@ A torcida compareceu e apoiou, mas o Botafogo foi derrotado, nesta terça-feira 
 &lt;p&gt;Porém, o que a torcida viu em campo no primeiro tempo foi um Botafogo que até conseguia manter mais a posse de bola e se aproximava da área adversária, mas que pecava nas finalizações. Já o Barcelona foi cirúrgico e, na única oportunidade clara que teve, logo aos sete minutos, foi fatal: Rojas cruzou, Martínez escorou e o volante Céliz chutou para superar o goleiro Léo Linck, que falhou no lance.&lt;/p&gt;
 &lt;p&gt;Após o intervalo o técnico Martín Anselmi finalmente colocou em campo um centroavante: Arthur Cabral. E foi do atacante, que não teve uma grande atuação, a oportunidade mais cristalina de empatar o marcador. Aos 35 minutos o camisa 19 do Alvinegro aproveitou bola levantada na área e cabeceou colocado, forçando o goleiro Contreras a fazer grande defesa.&lt;/p&gt;
 &lt;p&gt;Com a queda na Libertadores, o Botafogo segue para a Copa Sul-Americana. Seus adversários na primeira fase da competição serão conhecidos no dia 19 de março, em sorteio realizado pela Confederação Sul-Americana de Futebol (Conmebol) na cidade de Luque (Paraguai).&lt;/p&gt;
-&lt;p&gt;Mineração de terras raras exige tempo e alto investimento no país&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Senado aprova projeto que reestrutura carreiras do serviço público federal&lt;/p&gt;
+&lt;p&gt;RJ: PF prende PMs suspeitos de envolvimento com facções criminosas&lt;/p&gt;
+&lt;p&gt;Alô Alô Brasil entrevista o Deputado Federal Paulo Pimenta&lt;/p&gt;
 &lt;p&gt;Samba homenageia Vini Júnior e combate o racismo&lt;/p&gt;
+&lt;p&gt;Vendas no comércio crescem 0,4% em janeiro e igualam patamar recorde&lt;/p&gt;
+&lt;p&gt;PF prende policiais militares envolvidos com grupos criminosos no Rio&lt;/p&gt;
 &lt;p&gt;São Paulo tem primeiro caso de sarampo em 2026&lt;/p&gt;
-&lt;p&gt;Vereador do Rio é preso suspeito de ligação com o Comando Vermelho&lt;/p&gt;
-&lt;p&gt;Irã dispara contra contra Israel e alvos em todo o Oriente Médio&lt;/p&gt;
-&lt;p&gt;CIDH realiza audiência sobre operações policiais no Rio de Janeiro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/botafogo-cai-para-o-barcelona-e-fica-fora-da-libertadores&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Vereador do Rio é preso suspeito de ligação com o Comando Vermelho&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/botafogo-cai-para-o-barcelona-e-fica-fora-da-libertadores&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Pilar Olivares/Direitos Reservados
 A torcida compareceu e apoiou, mas o Botafogo foi derrotado, nesta terça-feira (10), por 1 a 0 pelo Barc...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-11 00:01:00</wp:post_date>
       <wp:post_date_gmt>2026-03-11 00:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-11 00:01:00</wp:post_modified>
@@ -305,202 +497,6 @@ A torcida compareceu e apoiou, mas o Botafogo foi derrotado, nesta terça-feira 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/y5PH7nQWm6cRmzk086sN1QxeEVY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/10/2026-03-11t023639z_1119084964_up1em3b07916u_rtrmadp_3_soccer-libertadores-bot-bna.jpg?itok=FssGAsvP</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mega-Sena acumula e prêmio principal vai para R$ 65 milhões</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/mega-sena-acumula-e-premio-principal-vai-para-r-65-milhoes</link>
-      <pubDate>Wed, 11 Mar 2026 12:42:01 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/mega-sena-acumula-e-premio-principal-vai-para-r-65-milhoes#1006</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
-Nenhum apostador acertou as seis dezenas do concurso 2.982da Mega-Sena, realizado nesta terça-feira (10).
-O...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uGWKQSevZCX_pTs3UH-Oh-oPDv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182658.jpg?itok=s-3aV28q&quot; alt=&quot;Mega-Sena acumula e prêmio principal vai para R$ 65 milhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil/ARQUIVO&lt;/p&gt;
-&lt;p&gt;Nenhum apostador acertou as seis dezenas do concurso 2.982da Mega-Sena, realizado nesta terça-feira (10).&lt;/p&gt;
-&lt;p&gt;O prêmio acumulou e está estimado em R$ 65milhões para o próximo sorteio.&lt;/p&gt;
-&lt;p&gt;Os números sorteados foram:02 -35 -41 -46 -49 -58&lt;/p&gt;
-&lt;p&gt;27 apostas acertaram cinco dezenas e irão receber R$ 87.399,64cada&lt;/p&gt;
-&lt;p&gt;2.786 apostas acertaram quatro dezenas e irão receber R$ 1.396,18 cada&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
-&lt;p&gt;Para o próximo concurso, as apostas podem ser feitas até as 20h (horário de Brasília) de quinta-feira(12), em qualquer lotérica do país ou&lt;/p&gt;
-&lt;p&gt;, no site ou aplicativo da Caixa.&lt;/p&gt;
-&lt;p&gt;A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;Mineração de terras raras exige tempo e alto investimento no país&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Senado aprova projeto que reestrutura carreiras do serviço público federal&lt;/p&gt;
-&lt;p&gt;Samba homenageia Vini Júnior e combate o racismo&lt;/p&gt;
-&lt;p&gt;São Paulo tem primeiro caso de sarampo em 2026&lt;/p&gt;
-&lt;p&gt;Vereador do Rio é preso suspeito de ligação com o Comando Vermelho&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/mega-sena-acumula-e-premio-principal-vai-para-r-65-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
-Nenhum apostador acertou as seis dezenas do concurso 2.982da Mega-Sena, realizado nesta terça-feira (10).
-O...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-10 21:36:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-10 21:36:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-10 21:36:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-10 21:36:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/uGWKQSevZCX_pTs3UH-Oh-oPDv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182658.jpg?itok=s-3aV28q</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mendonça desobriga ex-sócio do Master de depor na CPMI do INSS</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/mendonca-desobriga-ex-socio-do-master-de-depor-na-cpmi-do-inss</link>
-      <pubDate>Wed, 11 Mar 2026 12:42:01 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/mendonca-desobriga-ex-socio-do-master-de-depor-na-cpmi-do-inss#1007</guid>
-      <description>O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu que Augusto Ferreira Lima, ex-sócio do Banco Master, não é obrigado a comparece...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CA_G7dnPi5-_4kE-Wv7WA1im3ls=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0g0a6470.jpg?itok=P_xqMh-g&quot; alt=&quot;Mendonça desobriga ex-sócio do Master de depor na CPMI do INSS&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu que Augusto Ferreira Lima, ex-sócio do Banco Master, não é obrigado a comparecer ao depoimento marcado nesta quarta-feira (11) na Comissão Parlamentar Mista de Inquérito (CPMI) do INSS.&lt;/p&gt;
-&lt;p&gt;O ministro atendeu ao pedido dos advogados do empresário.&lt;/p&gt;
-&lt;p&gt;A defesa alegou que Lima é investigado no inquérito que trata das fraudes no Master. Dessa forma, segundo os advogados, ele não pode produzir provas contra si.&lt;/p&gt;
-&lt;p&gt;Na decisão, o ministro concordou com os argumentos apresentados pelos advogados e facultou o depoimento do ex-sócio.&lt;/p&gt;
-&lt;p&gt;Após a decisão, a reunião da CPMI prevista para amanhã foi cancelada.&lt;/p&gt;
-&lt;p&gt;Augusto Ferreira e o banqueiro Daniel Vorcarosão investigados na Operação Compliance Zero, deflagrada pela Polícia Federal (PF) para investigar a concessão de créditos falsos pelo BancoMaster, incluindo a tentativa de compra da instituição financeira pelo Bancode Brasília (BRB), bancopúblico ligado ao governo do Distrito Federal.&lt;/p&gt;
-&lt;p&gt;decidiu proibir a gravação das conversas entre o banqueiro Daniel Vorcaro e seus advogados na Penitenciária Federal em Brasília&lt;/p&gt;
-&lt;p&gt;,presídio de segurança máxima onde o empresário está preso.&lt;/p&gt;
-&lt;p&gt;A decisão foi proferida na noite de segunda-feira (9), após os advogados de Vorcaro solicitarem ao Supremo a flexibilização das medidas de segurança, que são inerentes ao funcionamento do presídio e devem ser cumpridas por todos os detentos.&lt;/p&gt;
-&lt;p&gt;O governador do Distrito Federal, Ibaneis Rocha, sancionou nesta terça-feira (10) a&lt;/p&gt;
-&lt;p&gt;lei que autoriza o governo distrital a adotar medidas, como a venda de imóveis públicos, para reforçar o capital do Banco de Brasília (BRB)&lt;/p&gt;
-&lt;p&gt;A nova legislação permite que o Governo do Distrito Federal, acionista controlador da instituição, realize operações financeiras e mobilize ativos públicos para apoiar o banco diante de pressões de liquidez e da crise de confiança relacionada a negócios com o Banco Master.&lt;/p&gt;
-&lt;p&gt;O BRB tenta conter a crise de confiança após operações envolvendo o Banco Master. A Polícia Federal investiga suspeitas de fraude na compra de cerca de R$ 12,2 bilhões em créditos da instituição ligada ao empresário Daniel Vorcaro.&lt;/p&gt;
-&lt;p&gt;Mineração de terras raras exige tempo e alto investimento no país&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Senado aprova projeto que reestrutura carreiras do serviço público federal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/mendonca-desobriga-ex-socio-do-master-de-depor-na-cpmi-do-inss&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O ministro André Mendonça, do Supremo Tribunal Federal (STF), decidiu que Augusto Ferreira Lima, ex-sócio do Banco Master, não é obrigado a comparece...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-10 21:34:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-10 21:34:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-10 21:34:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-10 21:34:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/CA_G7dnPi5-_4kE-Wv7WA1im3ls=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0g0a6470.jpg?itok=P_xqMh-g</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Anvisa libera medicamentos para diabetes, câncer de mama e angioedema</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-libera-medicamentos-para-diabetes-cancer-de-mama-e-angioedema</link>
-      <pubDate>Wed, 11 Mar 2026 12:42:01 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-libera-medicamentos-para-diabetes-cancer-de-mama-e-angioedema#1008</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou novos medicamentos para o tratamento do diabetes tipo 1,...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5MlV5Fk2bJuwEEbU3uXCb7HRFIg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11-11-2020_sede_anvisa-5_0.jpg?itok=Up8Tv61r&quot; alt=&quot;Anvisa libera medicamentos para diabetes, câncer de mama e angioedema&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou novos medicamentos para o tratamento do diabetes tipo 1, para o câncer de mama e para o angioedema hereditário.&lt;/p&gt;
-&lt;p&gt;no Diário Oficial da União (DOU) na última segunda-feira (9).&lt;/p&gt;
-&lt;p&gt;A agência aprovou o Tzield® (teplizumabe), indicado para retardar o início do diabetes tipo 1, estágio 3, em pacientes adultos e pediátricos com 8 anos de idade ou mais que já estejam no estágio 2.&lt;/p&gt;
-&lt;p&gt;O diabetes tipo 1 é uma doença autoimune grave e de longa duração, que costuma se manifestar na infância e pode gerar aumento de complicações, como doenças cardíacas, renais e oculares.&lt;/p&gt;
-&lt;p&gt;Também foi aprovado o Datroway®, indicado para o tratamento de pacientes adultos com câncer de mama irressecável ou metastático,&lt;/p&gt;
-&lt;p&gt;com receptor hormonal positivo e HER2 negativo, que já tenham se submetido a terapia endócrina e a pelo menos uma linha de quimioterapia para doença irressecável (que não pode ser removida completamente por cirurgia) ou metastática (que se espalhou do local original para outras partes do corpo).&lt;/p&gt;
-&lt;p&gt;O Andembry® (garadacimabe) também teve o registro aprovado. O medicamento é indicado para prevenção do angioedema hereditário (AEH).&lt;/p&gt;
-&lt;p&gt;A doença genética é considerada rara e causa inchaços (edemas) repentinos e dolorosos em diversas partes do corpo, que podem afetar de forma recorrente a pele, as mucosas e os órgãos internos.&lt;/p&gt;
-&lt;p&gt;Mineração de terras raras exige tempo e alto investimento no país&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Senado aprova projeto que reestrutura carreiras do serviço público federal&lt;/p&gt;
-&lt;p&gt;Samba homenageia Vini Júnior e combate o racismo&lt;/p&gt;
-&lt;p&gt;São Paulo tem primeiro caso de sarampo em 2026&lt;/p&gt;
-&lt;p&gt;Vereador do Rio é preso suspeito de ligação com o Comando Vermelho&lt;/p&gt;
-&lt;p&gt;Irã dispara contra contra Israel e alvos em todo o Oriente Médio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-libera-medicamentos-para-diabetes-cancer-de-mama-e-angioedema&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou novos medicamentos para o tratamento do diabetes tipo 1,...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-10 21:30:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-10 21:30:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-10 21:30:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-10 21:30:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/5MlV5Fk2bJuwEEbU3uXCb7HRFIg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11-11-2020_sede_anvisa-5_0.jpg?itok=Up8Tv61r</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Senado aprova reestruturação de carreiras do serviço público federal</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/senado-aprova-reestruturacao-de-carreiras-do-servico-publico-federal</link>
-      <pubDate>Wed, 11 Mar 2026 12:42:01 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/senado-aprova-reestruturacao-de-carreiras-do-servico-publico-federal#1009</guid>
-      <description>© Antônio Cruz/ Agência Brasil/Arquivo
-O Senado aprovou nesta terça-feira (10) um projeto de lei que reestrutura parte do serviço público federal e c...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/udomH8Ox7Jlptgi8DnT0pGgMtk8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pzzb0193.jpg?itok=mG4qgDy4&quot; alt=&quot;Senado aprova reestruturação de carreiras do serviço público federal&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Antônio Cruz/ Agência Brasil/Arquivo&lt;/p&gt;
-&lt;p&gt;O Senado aprovou nesta terça-feira (10) um projeto de lei que reestrutura parte do serviço público federal e cria mais de 24 mil novos cargos efetivos&lt;/p&gt;
-&lt;p&gt;, sendo3,8 mil novos professores para o ensino superior e mais de 9,5 mil para os institutos federais de educação, ciência e tecnologia.&lt;/p&gt;
-&lt;p&gt;texto prevê ainda a criação de uma nova carreira federal e doInstituto Federal do Sertão Paraibano (IFSertãoPB)&lt;/p&gt;
-&lt;p&gt;O projeto vai para sanção presidencial&lt;/p&gt;
-&lt;p&gt;De acordo com o relator do projeto, o senador Randolfe Rodrigues (PT-AP), cerca de 270 mil servidores serão beneficiados de alguma forma pelas mudanças no serviço público&lt;/p&gt;
-&lt;p&gt;&quot;Valorização do serviço público e valorização dos servidores é um compromisso a ser cumprido por um governo que é leal à democracia e que compreende a necessidade de fortalecimento do Estado brasileiro como instituição de todos os brasileiros. Só se valoriza o papel do Estado quando se valoriza os seus servidores&quot;, afirmou.&lt;/p&gt;
-&lt;p&gt;A votação foi acompanhada pelopresidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), e pelaministra da Gestão e da Inovação em Serviços Públicos, Esther Dweck.&lt;/p&gt;
-&lt;p&gt;Veja como serão os 24 mil novos cargos:&lt;/p&gt;
-&lt;p&gt;- 200 cargos de especialista em regulação e vigilância sanitária e 25 de técnico em regulação e vigilância sanitária para a Agência Nacional de Vigilância Sanitária (Anvisa);&lt;/p&gt;
-&lt;p&gt;- 3.800 cargos de professor do magistério superior e 2.200 de analista em educação para as universidades federais;&lt;/p&gt;
-&lt;p&gt;- 9.587 cargos de professor do ensino básico, técnico e tecnológico, 4.286 de técnico em educação e 2.490 de analista em educação para as instituições de ensino da Rede Federal de Educação Profissional, Científica e Tecnológica;&lt;/p&gt;
-&lt;p&gt;- 750 cargos de analista técnico de desenvolvimento socioeconômico e 750 de analista técnico de Justiça e Defesa no Ministério da Gestão e da Inovação (MGI).&lt;/p&gt;
-&lt;p&gt;O texto prevê a criação da carreira de analista técnico do Poder Executivo Federal (ATE), composta por6,9 mil cargos vagos de especialidades administrativas distribuídas por diferentes órgãos.&lt;/p&gt;
-&lt;p&gt;Servidores com formação em áreas como administração, contabilidade, biblioteconomia e arquivologia passarão a integrar essa carreira única, com lotação no MGI.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/senado-aprova-reestruturacao-de-carreiras-do-servico-publico-federal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Antônio Cruz/ Agência Brasil/Arquivo
-O Senado aprovou nesta terça-feira (10) um projeto de lei que reestrutura parte do serviço público federal e c...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-10 21:06:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-10 21:06:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-10 21:06:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-10 21:06:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/udomH8Ox7Jlptgi8DnT0pGgMtk8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pzzb0193.jpg?itok=mG4qgDy4</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
