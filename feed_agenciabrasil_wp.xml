@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 15 Mar 2026 12:36:24 +0000</pubDate>
+    <pubDate>Sun, 15 Mar 2026 13:41:31 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,62 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Oscar 2026: saiba onde assistir, filmes indicados e ordem da premiação</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/oscar-2026-saiba-onde-assistir-filmes-indicados-e-ordem-da-premiacao</link>
+      <pubDate>Sun, 15 Mar 2026 13:41:31 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/oscar-2026-saiba-onde-assistir-filmes-indicados-e-ordem-da-premiacao#1000</guid>
+      <description>© Martin Vorel/Wikimedia Commons
+A cerimônia do Oscar 2026 ocorre neste domingo (15), em Los Angeles, e deve mobilizar cinéfilos em todo o Brasil.
+Em...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5aoXGMhruYVbcuyLaaluac4GcbM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/oscar_statue.jpg?itok=O6HzJBnY&quot; alt=&quot;Oscar 2026: saiba onde assistir, filmes indicados e ordem da premiação&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Martin Vorel/Wikimedia Commons&lt;/p&gt;
+&lt;p&gt;A cerimônia do Oscar 2026 ocorre neste domingo (15), em Los Angeles, e deve mobilizar cinéfilos em todo o Brasil.&lt;/p&gt;
+&lt;p&gt;Em clima de final de Copa do Mundo, bares, restaurantes, cinemas e cineclubes organizam sessões especiais para acompanhar ao vivo a maior premiação do cinema mundial, que começa às 20h (horário de Brasília).&lt;/p&gt;
+&lt;p&gt;No Brasil, o público poderá assistir à cerimônia completa e na íntegra pelo canal TNT e pelo streaming Max.&lt;/p&gt;
+&lt;p&gt;Além das transmissões oficiais, cinemas, bares e espaços culturais em diversas cidades do país também organizam exibições em telões, transformando a noite do Oscar em um grande encontro de fãs de cinema.&lt;/p&gt;
+&lt;p&gt;Além da disputa entre grandes produções internacionais, a edição deste ano chega com forte presença brasileira, com o filme&lt;/p&gt;
+&lt;p&gt;, dirigido por Kleber Mendonça Filho e estrelado por Wagner Moura, indicado em quatro categorias.&lt;/p&gt;
+&lt;p&gt;A expectativa é repetir o clima que tomou conta do país no ano passado, quando a vitória de&lt;/p&gt;
+&lt;p&gt;como Melhor Filme Internacional levou o público a acompanhar a cerimônia como um grande evento nacional.&lt;/p&gt;
+&lt;p&gt;O thriller político nacional é ambientado no Recife dos anos 1970 e concorre em quatro categorias: Melhor Filme; Melhor Filme Internacional; Melhor Ator, para Wagner Moura; e Melhor Direção de Elenco&lt;/p&gt;
+&lt;p&gt;Além das indicações, Wagner Moura também foi confirmado como um dos apresentadores da cerimônia, participando da entrega de uma das estatuetas durante a noite.&lt;/p&gt;
+&lt;p&gt;A indicação ao prêmio de Melhor Ator também marca um momento histórico: Wagner Moura se tornou o primeiro brasileiro indicado na categoria principal masculina de atuação.&lt;/p&gt;
+&lt;p&gt;O ator brasileiro concorre na categoria com atores de peso como: Timothée Chalamet (em&lt;/p&gt;
+&lt;p&gt;Na categoria Melhor Filme Internacional, em que&lt;/p&gt;
+&lt;p&gt;disputa a estatueta, os indicados são:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/oscar-2026-saiba-onde-assistir-filmes-indicados-e-ordem-da-premiacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Martin Vorel/Wikimedia Commons
+A cerimônia do Oscar 2026 ocorre neste domingo (15), em Los Angeles, e deve mobilizar cinéfilos em todo o Brasil.
+Em...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-15 09:48:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-15 09:48:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-15 09:48:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-15 09:48:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/5aoXGMhruYVbcuyLaaluac4GcbM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/oscar_statue.jpg?itok=O6HzJBnY</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Cruzeiro derrota Atlético-MG em clássico pelo Brasileirão Feminino</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/cruzeiro-derrota-atletico-mg-em-classico-pelo-brasileirao-feminino</link>
-      <pubDate>Sun, 15 Mar 2026 12:36:24 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 13:41:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/cruzeiro-derrota-atletico-mg-em-classico-pelo-brasileirao-feminino#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/cruzeiro-derrota-atletico-mg-em-classico-pelo-brasileirao-feminino#1001</guid>
       <description>O Cruzeiro levou a melhor sobre o Atlético-MG pelo Campeonato Brasileiro Feminino de futebol.
 as Cabulosas venceram o arquirrival por 3 a 1, de virad...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/v83jOe1FoOrEq3wExTFicIpWaJM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/14/cruzeiro2.jpg?itok=5M0LJqUq&quot; alt=&quot;Cruzeiro derrota Atlético-MG em clássico pelo Brasileirão Feminino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +98,7 @@ as Cabulosas venceram o arquirrival por 3 a 1, de virad...</description>
 &lt;p&gt;O Juventude, por sua vez, conquistou a primeira vitória neste Brasileirão. As Jaconeras visitaram o lanterna América-MG na Arena Frimisa, em Santa Luzia (MG), e ganharam por 1 a 0, com gol da meia Nicole Marussi nos acréscimos da etapa final.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/cruzeiro-derrota-atletico-mg-em-classico-pelo-brasileirao-feminino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Cruzeiro levou a melhor sobre o Atlético-MG pelo Campeonato Brasileiro Feminino de futebol.
 as Cabulosas venceram o arquirrival por 3 a 1, de virad...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-03-14 18:56:00</wp:post_date>
       <wp:post_date_gmt>2026-03-14 18:56:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-14 18:56:00</wp:post_modified>
@@ -73,9 +124,9 @@ as Cabulosas venceram o arquirrival por 3 a 1, de virad...</excerpt:encoded>
     <item>
       <title>Moraes autoriza transferência de condenados no caso Marielle para RJ</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-autoriza-transferencia-de-condenados-no-caso-marielle-para-rj</link>
-      <pubDate>Sun, 15 Mar 2026 12:36:24 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 13:41:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-autoriza-transferencia-de-condenados-no-caso-marielle-para-rj#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-autoriza-transferencia-de-condenados-no-caso-marielle-para-rj#1002</guid>
       <description>© Fernando Frazão/Agência Brasil e Câmara dos Deputdos/Divulgação
 O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou, neste s...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kFuBvdFxI-D94e_YO_j92lxREZQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/14/rivaldo-barbosa-e-domingos-brazao_copiar.jpg?itok=8o-_LhCE&quot; alt=&quot;Moraes autoriza transferência de condenados no caso Marielle para RJ&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +147,7 @@ O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou, nest
 &lt;p&gt;Os acusados também devem perder os cargos públicos após o trânsito em julgado da condenação (fim da possibilidade de recursos).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-autoriza-transferencia-de-condenados-no-caso-marielle-para-rj&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil e Câmara dos Deputdos/Divulgação
 O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou, neste s...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-03-14 17:35:00</wp:post_date>
       <wp:post_date_gmt>2026-03-14 17:35:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-14 17:35:00</wp:post_modified>
@@ -122,9 +173,9 @@ O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou, nest
     <item>
       <title>Hugo Calderano perde de algoz olímpico e cai em torneio na China</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/hugo-calderano-perde-de-algoz-olimpico-e-cai-em-torneio-na-china</link>
-      <pubDate>Sun, 15 Mar 2026 12:36:24 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 13:41:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/hugo-calderano-perde-de-algoz-olimpico-e-cai-em-torneio-na-china#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/hugo-calderano-perde-de-algoz-olimpico-e-cai-em-torneio-na-china#1003</guid>
       <description>Não deu para Hugo Calderano no WTT Champions de Chongqing (China). Neste sábado (14), o carioca foi superado pelo francês Félix Lebrun nas quartas da...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/gjCwpoy_Hq7XItqYQqgvsaMLDy4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/14/55147519035_8a36cbbd9a_o.jpg?itok=7xZmipL1&quot; alt=&quot;Hugo Calderano perde de algoz olímpico e cai em torneio na China&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Não deu para Hugo Calderano no WTT Champions de Chongqing (China). Neste sábado (14), o carioca foi superado pelo francês Félix Lebrun nas quartas da final da competição, que é voltada aos 32 melhores atletas do ranking da Federação Internacional de Tênis de Mesa (ITTF, sigla em inglês).&lt;/p&gt;
@@ -140,10 +191,10 @@ O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou, nest
 &lt;p&gt;O Agente Secreto: trilha sonora não é mero detalhe&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Fluminense recebe o Athletico Paranaense no Maracanã&lt;/p&gt;
 &lt;p&gt;Exposição resgata história negra do samba de São Paulo&lt;/p&gt;
-&lt;p&gt;Cruzeiro derrota Atlético-MG em clássico pelo Brasileirão Feminino&lt;/p&gt;
-&lt;p&gt;Moraes autoriza transferência de condenados no caso Marielle para RJ&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/hugo-calderano-perde-de-algoz-olimpico-e-cai-em-torneio-na-china&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Oscar 2026: saiba onde assistir, filmes indicados e ordem da premiação&lt;/p&gt;
+&lt;p&gt;Cruzeiro derrota Atlético-MG em clássico pelo Brasileirão Feminino&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/hugo-calderano-perde-de-algoz-olimpico-e-cai-em-torneio-na-china&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Não deu para Hugo Calderano no WTT Champions de Chongqing (China). Neste sábado (14), o carioca foi superado pelo francês Félix Lebrun nas quartas da...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-03-14 17:18:00</wp:post_date>
       <wp:post_date_gmt>2026-03-14 17:18:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-14 17:18:00</wp:post_modified>
@@ -169,9 +220,9 @@ O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou, nest
     <item>
       <title>Esqui brasileiro mira 2ª medalha paralímpica em adeus a Milão-Cortina</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/esqui-brasileiro-mira-2a-medalha-paralimpica-em-adeus-milao-cortina</link>
-      <pubDate>Sun, 15 Mar 2026 12:36:24 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 13:41:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/esqui-brasileiro-mira-2a-medalha-paralimpica-em-adeus-milao-cortina#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/esqui-brasileiro-mira-2a-medalha-paralimpica-em-adeus-milao-cortina#1004</guid>
       <description>A Paralimpíada de Inverno deste ano, realizada em Milão e Cortina d'Ampezzo (Itália), termina neste domingo (15). O último dia reserva as disput...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DnxhGm64ujQW6hohinQnpH-5U_8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/14/x.cty_.rev-ac_13.jpg?itok=Y3DfMv4C&quot; alt=&quot;Esqui brasileiro mira 2ª medalha paralímpica em adeus a Milão-Cortina&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Paralimpíada de Inverno deste ano, realizada em Milão e Cortina d'Ampezzo (Itália), termina neste domingo (15). O último dia reserva as disputas de 20 quilômetros (km) do esqui&lt;/p&gt;
@@ -190,7 +241,7 @@ O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou, nest
 &lt;p&gt;&quot;Antes, a gente fazia [a prova de revezamento] meio de brincadeira, sempre chegava em último. Com o Wellington no&lt;/p&gt;
 &lt;p&gt;[em pé, na tradução literal do inglês], as coisas melhoraram&quot;, disse Aline, que é paraplégica devido a um acidente automobilístico, também ao&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/esqui-brasileiro-mira-2a-medalha-paralimpica-em-adeus-milao-cortina&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Paralimpíada de Inverno deste ano, realizada em Milão e Cortina d'Ampezzo (Itália), termina neste domingo (15). O último dia reserva as disput...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-03-14 16:36:00</wp:post_date>
       <wp:post_date_gmt>2026-03-14 16:36:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-14 16:36:00</wp:post_modified>
@@ -216,9 +267,9 @@ O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou, nest
     <item>
       <title>Seleção feminina de basquete enfrenta o Mali no Pré-Mundial</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/selecao-feminina-de-basquete-decide-futuro-no-pre-mundial-contra-mali</link>
-      <pubDate>Sun, 15 Mar 2026 12:36:24 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 13:41:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/selecao-feminina-de-basquete-decide-futuro-no-pre-mundial-contra-mali#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/selecao-feminina-de-basquete-decide-futuro-no-pre-mundial-contra-mali#1005</guid>
       <description>A seleção feminina de basquete está em situação delicada na busca por vaga na Copa do Mundo Feminina da modalidade, que será disputada na Alemanha, e...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1SOlgMxuH-Q0i4sy_UhObU1cNTY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/14/bra_tch_2.jpg?itok=oKHoHX7o&quot; alt=&quot;Seleção feminina de basquete enfrenta o Mali no Pré-Mundial&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A seleção feminina de basquete está em situação delicada na busca por vaga na Copa do Mundo Feminina da modalidade, que será disputada na Alemanha, em setembro. Neste domingo (15), às 2h30 (horário de Brasília), as brasileiras enfrentam o Mali pela quarta e penúltima rodada do Pré-Mundial, que ocorre em Wuhan (China).&lt;/p&gt;
@@ -235,9 +286,9 @@ O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou, nest
 &lt;p&gt;O Agente Secreto: trilha sonora não é mero detalhe&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Fluminense recebe o Athletico Paranaense no Maracanã&lt;/p&gt;
 &lt;p&gt;Exposição resgata história negra do samba de São Paulo&lt;/p&gt;
-&lt;p&gt;Cruzeiro derrota Atlético-MG em clássico pelo Brasileirão Feminino&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/selecao-feminina-de-basquete-decide-futuro-no-pre-mundial-contra-mali&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Oscar 2026: saiba onde assistir, filmes indicados e ordem da premiação&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/selecao-feminina-de-basquete-decide-futuro-no-pre-mundial-contra-mali&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A seleção feminina de basquete está em situação delicada na busca por vaga na Copa do Mundo Feminina da modalidade, que será disputada na Alemanha, e...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-03-14 15:36:00</wp:post_date>
       <wp:post_date_gmt>2026-03-14 15:36:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-14 15:36:00</wp:post_modified>
@@ -263,9 +314,9 @@ O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou, nest
     <item>
       <title>Morre filósofo alemão Jürgen Habermas aos 96 anos</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/morre-filosofo-alemao-jurgen-habermas-aos-96-anos</link>
-      <pubDate>Sun, 15 Mar 2026 12:36:24 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 13:41:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/morre-filosofo-alemao-jurgen-habermas-aos-96-anos#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/morre-filosofo-alemao-jurgen-habermas-aos-96-anos#1006</guid>
       <description>© Dudás Szabolcs/Európai Bizotts
 Afilosofia contemporânea perde uma das vozes mais influentes na defesa do diálogo, da razão e da democracia.O filóso...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/49_21ac3e2dPmxhn10q7HkPUS8s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/14/habermasjurgen.jpg?itok=4PaPYG3Z&quot; alt=&quot;Morre filósofo alemão Jürgen Habermas aos 96 anos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -286,7 +337,7 @@ Afilosofia contemporânea perde uma das vozes mais influentes na defesa do diál
 &lt;p&gt;Outro conceito central de sua filosofia é o de “esfera pública”, entendido como o espaço de debate e deliberação entre sociedade civil e instituições políticas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/morre-filosofo-alemao-jurgen-habermas-aos-96-anos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Dudás Szabolcs/Európai Bizotts
 Afilosofia contemporânea perde uma das vozes mais influentes na defesa do diálogo, da razão e da democracia.O filóso...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-14 15:06:00</wp:post_date>
       <wp:post_date_gmt>2026-03-14 15:06:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-14 15:06:00</wp:post_modified>
@@ -312,9 +363,9 @@ Afilosofia contemporânea perde uma das vozes mais influentes na defesa do diál
     <item>
       <title>Missa relembra os oito anos do assassinato de Marielle e Anderson</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/missa-relembra-os-oito-anos-do-assassinato-de-marielle-e-anderson</link>
-      <pubDate>Sun, 15 Mar 2026 12:36:24 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 13:41:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/missa-relembra-os-oito-anos-do-assassinato-de-marielle-e-anderson#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/missa-relembra-os-oito-anos-do-assassinato-de-marielle-e-anderson#1007</guid>
       <description>Uma missa foi celebrada na manhã deste sábado (14) para família, amigos e apoiadores em memória dos oito anos do assassinato da vereadora do PSOL, Ma...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0t5_wkIMLndoySO9t-9BSYOWves=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/14/0g0a6582.jpg?itok=oicv_VSu&quot; alt=&quot;Missa relembra os oito anos do assassinato de Marielle e Anderson&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Uma missa foi celebrada na manhã deste sábado (14) para família, amigos e apoiadores em memória dos oito anos do assassinato da vereadora do PSOL, Marielle Franco, e de seu motorista Anderson Gomes, na Igreja Nossa Senhora do Parto no centro do Rio de Janeiro.&lt;/p&gt;
@@ -333,7 +384,7 @@ Afilosofia contemporânea perde uma das vozes mais influentes na defesa do diál
 &lt;p&gt;, no CCBB – Centro Cultural Banco do Brasil, localizado na Rua Primeiro de Março, 66, no Centro da cidade.&lt;/p&gt;
 &lt;p&gt;Neste domingo (15), a mobilização continua com a realização da 5ª edição do Festival Justiça por Marielle e Anderson, no Circo Voador, evento político-cultural que reúne artistas, movimentos sociais e apoiadores da luta por justiça.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/missa-relembra-os-oito-anos-do-assassinato-de-marielle-e-anderson&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Uma missa foi celebrada na manhã deste sábado (14) para família, amigos e apoiadores em memória dos oito anos do assassinato da vereadora do PSOL, Ma...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-14 14:36:00</wp:post_date>
       <wp:post_date_gmt>2026-03-14 14:36:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-14 14:36:00</wp:post_modified>
@@ -359,9 +410,9 @@ Afilosofia contemporânea perde uma das vozes mais influentes na defesa do diál
     <item>
       <title>Ministério abre 310 vagas de especialização em enfermagem neonatal</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/ministerio-abre-310-vagas-de-especializacao-em-enfermagem-neonatal</link>
-      <pubDate>Sun, 15 Mar 2026 12:36:24 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 13:41:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/ministerio-abre-310-vagas-de-especializacao-em-enfermagem-neonatal#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/ministerio-abre-310-vagas-de-especializacao-em-enfermagem-neonatal#1008</guid>
       <description>© Ingrid Anne/Prefeitura de Manaus
 O Ministério da Saúde lançou edital com 310 vagas para a Especialização em Enfermagem Neonatal, voltada a profissi...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ervoqMxiM0Ul1TlykMB31fQt6bE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/17/enfermagem_-_ingrid_anne_-_prefeitura_de_manaus.jpg?itok=MEUdIKyv&quot; alt=&quot;Ministério abre 310 vagas de especialização em enfermagem neonatal&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -382,7 +433,7 @@ O Ministério da Saúde lançou edital com 310 vagas para a Especialização em 
 &lt;p&gt;Os profissionais selecionados atuarão em 64 hospitais distribuídos em 36 municípios. O edital também reserva 172 vagas para ações afirmativas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/ministerio-abre-310-vagas-de-especializacao-em-enfermagem-neonatal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Ingrid Anne/Prefeitura de Manaus
 O Ministério da Saúde lançou edital com 310 vagas para a Especialização em Enfermagem Neonatal, voltada a profissi...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-14 13:31:00</wp:post_date>
       <wp:post_date_gmt>2026-03-14 13:31:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-14 13:31:00</wp:post_modified>
@@ -408,9 +459,9 @@ O Ministério da Saúde lançou edital com 310 vagas para a Especialização em 
     <item>
       <title>Alckmin: governo prioriza abastecimento e quer evitar alta do diesel</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/governo-prioriza-abastecimento-e-segurar-preco-do-diesel-diz-alckmin</link>
-      <pubDate>Sun, 15 Mar 2026 12:36:24 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 13:41:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/governo-prioriza-abastecimento-e-segurar-preco-do-diesel-diz-alckmin#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/governo-prioriza-abastecimento-e-segurar-preco-do-diesel-diz-alckmin#1009</guid>
       <description>O vice-presidente Geraldo Alckmin disse, neste sábado (14), que o governo federal prioriza, neste momento,
 Ele defendeu as ações anunciadas,nesta sem...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PqCVuRTeNUZ2mhkU6r1F8Fd0-tw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/07/24/0d4a7892_0.jpg?itok=g6sKHawA&quot; alt=&quot;Alckmin: governo prioriza abastecimento e quer evitar alta do diesel&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -431,7 +482,7 @@ Ele defendeu as ações anunciadas,nesta sem...</description>
 &lt;p&gt;O Agente Secreto: trilha sonora não é mero detalhe&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/governo-prioriza-abastecimento-e-segurar-preco-do-diesel-diz-alckmin&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O vice-presidente Geraldo Alckmin disse, neste sábado (14), que o governo federal prioriza, neste momento,
 Ele defendeu as ações anunciadas,nesta sem...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-14 12:46:00</wp:post_date>
       <wp:post_date_gmt>2026-03-14 12:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-14 12:46:00</wp:post_modified>
@@ -452,55 +503,6 @@ Ele defendeu as ações anunciadas,nesta sem...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/PqCVuRTeNUZ2mhkU6r1F8Fd0-tw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/07/24/0d4a7892_0.jpg?itok=g6sKHawA</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Bolsonaro tem piora da função renal e aumento de inflamação</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/bolsonaro-tem-piora-da-funcao-renal-e-aumento-de-inflamacao</link>
-      <pubDate>Sun, 15 Mar 2026 12:36:24 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/bolsonaro-tem-piora-da-funcao-renal-e-aumento-de-inflamacao#1009</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-O ex-presidente Jair Bolsonaro teve piora da função renal e aumento nos indicadores inflamatórios, informou neste sá...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PrAZUTqO7Y9PJ4tOu3tJeP7BTVk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-4.jpg?itok=wrARe7uR&quot; alt=&quot;Bolsonaro tem piora da função renal e aumento de inflamação&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O ex-presidente Jair Bolsonaro teve piora da função renal e aumento nos indicadores inflamatórios, informou neste sábado (14) o Hospital DF Star, em Brasília.&lt;/p&gt;
-&lt;p&gt;Segundo o último boletim médico,&lt;/p&gt;
-&lt;p&gt;ele continua na Unidade de Terapia Intensiva (UTI), sem previsão de alta&lt;/p&gt;
-&lt;p&gt;apesar do agravamento dos rins, o ex-presidente está clinicamente estável e mantém o tratamento com antibióticos e hidratação por via endovenosa&lt;/p&gt;
-&lt;p&gt;. Bolsonaro também faz exercícios de fisioterapia respiratória e motora e recebe medidas de prevenção de trombose venosa.&lt;/p&gt;
-&lt;p&gt;Desde a manhã de sexta-feira (13),&lt;/p&gt;
-&lt;p&gt;Bolsonaro está na UTI do DF Star, com broncopneumonia bacteriana bilateral de provável origem aspirativa&lt;/p&gt;
-&lt;p&gt;. Ele chegou à unidade hospitalar privada socorrido por uma equipe do Serviço de Atendimento Móvel de Urgência (Samu), após apresentar quadro de febre alta, queda da saturação de oxigênio, sudorese e calafrios.&lt;/p&gt;
-&lt;p&gt;Ele está detido na Papudinha (prédio no Complexo Penitenciário da Papuda), onde cumpre pena de 27 anos e 3 meses, por tentativa de golpe de Estado e outros crimes relacionados.&lt;/p&gt;
-&lt;p&gt;O boletim médico é assinada pelo cirurgião-geral Cláudio Birolini; os cardiologistas Leandro Echenique e Brasil Caiado; o coordenador da UTI Geral, Antônio Aurélio de Paiva Fagundes Júnior; e pelo diretor-geral do hospital, Allisson B. Barcelos Borges.&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
-&lt;p&gt;Em decisão divulgada pelo Supremo Tribunal Federal (STF) no início da tarde de sexta-feira, o ministro Alexandre de Moraes autorizou a presença da esposa do ex-presidente, Michelle Bolsonaro, no hospital, como acompanhante.&lt;/p&gt;
-&lt;p&gt;Moraes também autorizou os filhos Jair Renan, Flávio, Carlos, Laura, bem como a enteada, Letícia, a visitarem Jair Bolsonaro durante a internação.&lt;/p&gt;
-&lt;p&gt;O ministro ainda determinou que a vigilância do ex-presidente seja providenciada pelo Núcleo do Custódia do 19º Batalhão da Polícia Militar do Distrito Federal. Policiais deverão ficar de prontidão 24 horas, sendo dois na porta do quarto, além de equipes dentro e fora do hospital.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/bolsonaro-tem-piora-da-funcao-renal-e-aumento-de-inflamacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-O ex-presidente Jair Bolsonaro teve piora da função renal e aumento nos indicadores inflamatórios, informou neste sá...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-14 12:23:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-14 12:23:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-14 12:23:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-14 12:23:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/PrAZUTqO7Y9PJ4tOu3tJeP7BTVk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/17/hospital-df-star-mc_abr_17092025-4.jpg?itok=wrARe7uR</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
