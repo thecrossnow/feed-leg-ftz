@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 16 Mar 2026 19:49:48 +0000</pubDate>
+    <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,205 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Idosos sentem maior vulnerabilidade a golpes online em SP</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/idosos-sentem-maior-vulnerabilidade-golpes-online-em-sp</link>
+      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/idosos-sentem-maior-vulnerabilidade-golpes-online-em-sp#1000</guid>
+      <description>No estado de São Paulo, 68% da população acima dos 60 anos se sentem vulneráveisa golpes
+estudo inédito da Fundação Sistema Estadual de Análise de Da...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yBw2s8h0Seq7CBcTpQgIWi_ilvk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/16/_mg_8554.jpg?itok=fSNbNJIY&quot; alt=&quot;Idosos sentem maior vulnerabilidade a golpes online em SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;No estado de São Paulo, 68% da população acima dos 60 anos se sentem vulneráveisa golpes&lt;/p&gt;
+&lt;p&gt;estudo inédito da Fundação Sistema Estadual de Análise de Dados (Seade)&lt;/p&gt;
+&lt;p&gt;, divulgado nesta segunda-feira (16).&lt;/p&gt;
+&lt;p&gt;A insegurança é maior do que a média da população do estado (62%). O índice também é 17% superior ao registrado entre jovens de 18 a 29 anos (51%).&lt;/p&gt;
+&lt;p&gt;Entre julho e setembro de 2025, a pesquisa entrevistou 400 pessoas que moram em São Paulo para analisar as faixas etárias que estão mais vulneráveis a golpes. A população foi dividida em quatro faixas etárias: de 18 a 29 anos; de 30 a 44 anos; de 45 a 59 anos; e indivíduos com 60 anos ou mais.&lt;/p&gt;
+&lt;p&gt;&gt;&gt; Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
+&lt;p&gt;82% dos idosos já sofreram tentativas de golpes virtuais&lt;/p&gt;
+&lt;p&gt;por meiode mensagens, e-mails ou ligações fraudulentas. Apesar de parecer um número alto, o grupo apresentou um percentual menor do que a média da população do estado, que foi de 88%.&lt;/p&gt;
+&lt;p&gt;A pesquisa revela que a média de tentativas de golpe online no estado é alta, independentemente de faixas etárias.&lt;/p&gt;
+&lt;p&gt;O grupo entre 45 e 59 anos apresentou o maior índice, alcançando 92%.&lt;/p&gt;
+&lt;p&gt;“A digitalização ampliou a exposição de todos os grupos etários. No caso das pessoas de 60+, ainda que a intensidade de uso da internet tende a declinar, há vulnerabilidades específicas, especialmente em golpes que envolvem o uso fraudulento de dados pessoais”, diz Irineu Barreto, analista de pesquisas da fundação.&lt;/p&gt;
+&lt;p&gt;A Seade analisou algumas modalidades de golpes efetivamente aplicados.&lt;/p&gt;
+&lt;p&gt;Entre a população idosa, destacou-se a abertura de contas bancárias ou contratação de empréstimos não autorizados.&lt;/p&gt;
+&lt;p&gt;A situação atinge 12% das pessoas acima dos 60 anos, a maior proporção entre os grupos etários.&lt;/p&gt;
+&lt;p&gt;Também merecem destaque os dados relativos à&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/idosos-sentem-maior-vulnerabilidade-golpes-online-em-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>No estado de São Paulo, 68% da população acima dos 60 anos se sentem vulneráveisa golpes
+estudo inédito da Fundação Sistema Estadual de Análise de Da...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-16 16:47:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-16 16:47:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-16 16:47:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-16 16:47:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/yBw2s8h0Seq7CBcTpQgIWi_ilvk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/16/_mg_8554.jpg?itok=fSNbNJIY</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Caixa libera abono salarial para nascidos em fevereiro</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-libera-abono-salarial-para-nascidos-em-fevereiro</link>
+      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-libera-abono-salarial-para-nascidos-em-fevereiro#1001</guid>
+      <description>© Marcello Casal JrAgência Brasil
+Os trabalhadores nascidos em fevereiro que ganharam até R$ 2.766 com carteira assinada em 2024 recebem nesta segund...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/S2zWwZo25tbWXi1ctso11Hys3LQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moeda_020120a84t47535211.jpg?itok=NiLO4FGV&quot; alt=&quot;Caixa libera abono salarial para nascidos em fevereiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
+&lt;p&gt;Os trabalhadores nascidos em fevereiro que ganharam até R$ 2.766 com carteira assinada em 2024 recebem nesta segunda-feira (16) o abono salarial.&lt;/p&gt;
+&lt;p&gt;serão liberados R$ 2,5 bilhões para cerca de 2 milhões de beneficiários&lt;/p&gt;
+&lt;p&gt;Os trabalhadores de Juiz de Fora, Matias Barbosa e Ubá, municípios mineiros afetados por fortes enchentes no mês passado, receberão o abono salarial de forma antecipada&lt;/p&gt;
+&lt;p&gt;. Cerca de 93 mil beneficiários nascidos de março a dezembro também recebem nesta segunda totalizando R$ 118 milhões.&lt;/p&gt;
+&lt;p&gt;O valor do benefício varia de R$ 136 a R$ 1.621, conforme a quantidade de meses trabalhados em 2024&lt;/p&gt;
+&lt;p&gt;. O calendário segue de forma escalonada ao longo de 2026, de acordo com o&lt;/p&gt;
+&lt;p&gt;Do total de contemplados em fevereiro:&lt;/p&gt;
+&lt;p&gt;1,8 milhão são trabalhadores da iniciativa privada, inscritos no Programa de Integração Social (PIS), com pagamento feito pela Caixa Econômica Federal, somando R$ 2,2 bilhões;&lt;/p&gt;
+&lt;p&gt;203,9 mil são servidores públicos, inscritos no Programa de Formação do Patrimônio do Servidor Público (Pasep), pagos pelo Banco do Brasil, com total de cerca de R$ 300 milhões.&lt;/p&gt;
+&lt;p&gt;Quem tem direito ao abono salarial&lt;/p&gt;
+&lt;p&gt;Tem direito ao benefício o trabalhador que:&lt;/p&gt;
+&lt;p&gt;Está inscrito no Pis/Pasep há pelo menos cinco anos;&lt;/p&gt;
+&lt;p&gt;Trabalhou com carteira assinada por no mínimo 30 dias em 2024;&lt;/p&gt;
+&lt;p&gt;Recebeu remuneração média mensal de até R$ 2.766 no ano-base;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-libera-abono-salarial-para-nascidos-em-fevereiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello Casal JrAgência Brasil
+Os trabalhadores nascidos em fevereiro que ganharam até R$ 2.766 com carteira assinada em 2024 recebem nesta segund...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-16 16:37:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-16 16:37:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-16 16:37:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-16 16:37:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/S2zWwZo25tbWXi1ctso11Hys3LQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moeda_020120a84t47535211.jpg?itok=NiLO4FGV</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>CNU 2 divulga resultado final com classificações e lista de espera</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/cnu-divulga-resultado-final-com-classificacoes-e-lista-de-espera</link>
+      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/cnu-divulga-resultado-final-com-classificacoes-e-lista-de-espera#1002</guid>
+      <description>O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) e a Escola Nacional de Administração Pública (Enap)divulgaram nesta segunda-feira (16...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jsChBEYXPD7Rr7orIBZWK1hZMWQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/05/toms8790.jpg?itok=Z1FwvKCV&quot; alt=&quot;CNU 2 divulga resultado final com classificações e lista de espera&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) e a Escola Nacional de Administração Pública (Enap)divulgaram nesta segunda-feira (16)o resultado final da segunda edição do Concurso Público Nacional Unificado (CNU).&lt;/p&gt;
+&lt;p&gt;O resultado final, com as classificações gerais do certame, e as convocações para as demais etapas do processo seletivo podem ser consultadosno Diário Oficial da União (DOU).&lt;/p&gt;
+&lt;p&gt;As listas com as classificações finais dos candidatos para vagas imediatas e para a lista de espera foram consolidadas após a terceira rodada de confirmação de interesse pelos candidatos convocados.&lt;/p&gt;
+&lt;p&gt;Desde as 16hdesta segunda-feira, no horário de Brasília, está disponível, também, a consulta individual ao resultado final, na&lt;/p&gt;
+&lt;p&gt;,dentro do portal da Fundação Getulio Vargas (FGV), banca organizadora do concurso.&lt;/p&gt;
+&lt;p&gt;&gt;&gt; Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
+&lt;p&gt;O resultado reúne as classificações para vagas em cargos de nível superior e intermediário, distribuídas em 32 órgãos e entidades federais.&lt;/p&gt;
+&lt;p&gt;Para alguns cargos, o resultadodivulgado corresponde ao encerramento de uma fase do concurso.&lt;/p&gt;
+&lt;p&gt;Cada órgão e entidade federal participante iniciará os procedimentos administrativos para nomear os aprovados dentro do número de vagas imediatas, com respeito à ordem de classificação e os trâmites específicos de cada carreira.&lt;/p&gt;
+&lt;p&gt;Porém, pode haver etapas complementares, como cursos ou programas de formação, procedimentos de investigação social e funcional, além de defesa de memorial e prova oral, dependendo das atribuições e exigências legais de cada cargo ou especialidade.&lt;/p&gt;
+&lt;p&gt;A etapa dos cursos ou programa de formação corresponde à segunda fase do certame, com caráter eliminatório e classificatório e será conduzida pelo órgão responsável pelo cargo.&lt;/p&gt;
+&lt;p&gt;Já para cargos que exigem investigação social e funcional, o procedimento tem caráter eliminatório e busca verificar a idoneidade e a vida pregressa das pessoas candidatas para o exercício das funções públicas.&lt;/p&gt;
+&lt;p&gt;Confira o calendário com as próximas etapas, após o início das convocações para nomeação:&lt;/p&gt;
+&lt;p&gt;Após 16 de março: início das convocações para nomeação, e, quando couber, para o procedimento de investigação social e funcional, a realização da defesa de memorial; prova oral e o curso ou programa de formação&lt;/p&gt;
+&lt;p&gt;17 a 24 de março: prazo para preenchimento da Ficha de Informações Pessoais, referente à fase de investigação social e funcional para o cargo de analista técnico de justiça e defesa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/cnu-divulga-resultado-final-com-classificacoes-e-lista-de-espera&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) e a Escola Nacional de Administração Pública (Enap)divulgaram nesta segunda-feira (16...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-16 16:29:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-16 16:29:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-16 16:29:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-16 16:29:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/jsChBEYXPD7Rr7orIBZWK1hZMWQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/05/toms8790.jpg?itok=Z1FwvKCV</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>PGR denuncia Bacellar e TH Joias por obstrução de investigação</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pgr-denuncia-bacellar-e-th-joias-por-obstrucao-de-investigacao</link>
+      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pgr-denuncia-bacellar-e-th-joias-por-obstrucao-de-investigacao#1003</guid>
+      <description>A Procuradoria-Geral da República (PGR) denunciou, ao Supremo Tribunal Federal (STF), o deputado estadual
+Rodrigo Bacellar (União Brasil)e o ex-deput...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uDr681vzgOE78E8HGi6xdmZYysc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/03/26112025_162803ordemdodia_26_11_2025_thiagolontra-27.jpg?itok=kVqz-ZlO&quot; alt=&quot;PGR denuncia Bacellar e TH Joias por obstrução de investigação&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Procuradoria-Geral da República (PGR) denunciou, ao Supremo Tribunal Federal (STF), o deputado estadual&lt;/p&gt;
+&lt;p&gt;Rodrigo Bacellar (União Brasil)e o ex-deputado estadual Thiego Santos, conhecido como TH Joias,pelo crime de obstrução de investigação.&lt;/p&gt;
+&lt;p&gt;Também foram denunciados o desembargador Macário Ramos Júdice Neto, do Tribunal Regional Federal da Segunda Região (TRF2), além de duas pessoas ligadas a TH Joias.&lt;/p&gt;
+&lt;p&gt;De acordo com a acusação, eles teriam vazado informações sigilosas sobre uma investigação de tráfico de armas e drogas para a organização criminosa Comando Vermelho (CV).&lt;/p&gt;
+&lt;p&gt;O desembargador e TH Joias já estão presos preventivamente por determinação do ministro Alexandre de Moraes, relator do caso, que tramita na Corte.&lt;/p&gt;
+&lt;p&gt;Bacellar chegou a ser preso em dezembro do ano passado&lt;/p&gt;
+&lt;p&gt;, mas uma votação da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) determinou sua soltura. O deputado era presidente da Alerj e foi afastado do cargo, mas segue licenciado do mandato parlamentar e usa&lt;/p&gt;
+&lt;p&gt;A denúncia da PGR foi baseada na investigação realizada pela Polícia Federal (PF).&lt;/p&gt;
+&lt;p&gt;Os investigadores apuraram que o deputado Rodrigo Bacelar foi informado antecipadamente sobre a operação na qual TH Joias foi preso.&lt;/p&gt;
+&lt;p&gt;Com acesso privilegiado à informação, TH conseguiu esconder provas que poderiam ser apreendidas.&lt;/p&gt;
+&lt;p&gt;No decorrer da investigação, a PF encontrou indícios de que a fonte do vazamento tenha sido o desembargador Macário Ramos.&lt;/p&gt;
+&lt;p&gt;Atualmente, TH Joias está preso na Penitenciária Federal de Brasília. A&lt;/p&gt;
+&lt;p&gt;busca contato com as defesas dos acusados.&lt;/p&gt;
+&lt;p&gt;Pesquisa da Ufopa investiga potencial da manteiga de murumuru&lt;/p&gt;
+&lt;p&gt;Mulheres na Ciência: Pesquisadoras estudam o potencial farmacológico do murumuru&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pgr-denuncia-bacellar-e-th-joias-por-obstrucao-de-investigacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Procuradoria-Geral da República (PGR) denunciou, ao Supremo Tribunal Federal (STF), o deputado estadual
+Rodrigo Bacellar (União Brasil)e o ex-deput...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-16 16:28:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-16 16:28:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-16 16:28:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-16 16:28:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/uDr681vzgOE78E8HGi6xdmZYysc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/03/26112025_162803ordemdodia_26_11_2025_thiagolontra-27.jpg?itok=kVqz-ZlO</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Tite é demitido do Cruzeiro após empate com Vasco no Brasileirão</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/tite-e-demitido-do-cruzeiro-apos-empate-com-vasco-no-brasileirao</link>
-      <pubDate>Mon, 16 Mar 2026 19:49:48 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/tite-e-demitido-do-cruzeiro-apos-empate-com-vasco-no-brasileirao#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/tite-e-demitido-do-cruzeiro-apos-empate-com-vasco-no-brasileirao#1004</guid>
       <description>© Gustavo Aleixo/Cruzeiro/Direitos Reservados
 Uma semana após ter conquistado o título do Campeonato Mineiro, o técnico Tite foi demitido do comando ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/b4d_fsuOYiy3JH-KPrAdge1yWzs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/tite_tecnico_cruzeiro.jpg?itok=oHbSn66T&quot; alt=&quot;Tite é demitido do Cruzeiro após empate com Vasco no Brasileirão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -39,15 +233,15 @@ Uma semana após ter conquistado o título do Campeonato Mineiro, o técnico Tit
 &lt;p&gt;&gt;&gt; Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
 &lt;p&gt;Ex-técnico da seleção brasileira, Tite assumiu o comando da Raposa no final do ano passado, no lugar do treinador português Leonardo Jardim – atualmente no Flamengo - que pediu para deixar o clube após eliminação nas semifinais da Copa do Brasil. No Campeonato Mineiro, Tite enfileirou oito vitórias e apenas três derrotas em 11 jogos.&lt;/p&gt;
 &lt;p&gt;Além de Tite, também deixam o clube os auxiliares dele: Matheus Bachi, Vinicius Bergantin e o preparador físico Fabio Mahseredjian.&lt;/p&gt;
-&lt;p&gt;Lula recebe presidente da Bolívia e defende integração sul-americana&lt;/p&gt;
-&lt;p&gt;Mudanças climáticas e responsabilidade coletiva são destaque no Viva Maria&lt;/p&gt;
+&lt;p&gt;Pesquisa da Ufopa investiga potencial da manteiga de murumuru&lt;/p&gt;
+&lt;p&gt;Mulheres na Ciência: Pesquisadoras estudam o potencial farmacológico do murumuru&lt;/p&gt;
 &lt;p&gt;José Luiz Datena recebe ex-jogador da seleção brasileira Craque Neto&lt;/p&gt;
-&lt;p&gt;Caixa libera abono salarial para nascidos em fevereiro&lt;/p&gt;
-&lt;p&gt;CNU divulga resultado final com classificações e lista de espera&lt;/p&gt;
-&lt;p&gt;PGR denuncia Bacellar e TH Joias por obstrução de investigação&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/tite-e-demitido-do-cruzeiro-apos-empate-com-vasco-no-brasileirao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Em 20 anos, CNJ puniu 126 magistrados com aposentadoria compulsória&lt;/p&gt;
+&lt;p&gt;Receita encurta prazo para entregar declaração do IRPF 2026&lt;/p&gt;
+&lt;p&gt;Idosos sentem maior vulnerabilidade a golpes online em SP&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/tite-e-demitido-do-cruzeiro-apos-empate-com-vasco-no-brasileirao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Gustavo Aleixo/Cruzeiro/Direitos Reservados
 Uma semana após ter conquistado o título do Campeonato Mineiro, o técnico Tite foi demitido do comando ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-03-16 16:05:00</wp:post_date>
       <wp:post_date_gmt>2026-03-16 16:05:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-16 16:05:00</wp:post_modified>
@@ -73,9 +267,9 @@ Uma semana após ter conquistado o título do Campeonato Mineiro, o técnico Tit
     <item>
       <title>Rodoviários de São Luís fazem greve para cobrar pagamento de reajustes</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/rodoviarios-de-sao-luis-fazem-greve-para-cobrar-pagamento-de-reajustes</link>
-      <pubDate>Mon, 16 Mar 2026 19:49:48 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/rodoviarios-de-sao-luis-fazem-greve-para-cobrar-pagamento-de-reajustes#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/rodoviarios-de-sao-luis-fazem-greve-para-cobrar-pagamento-de-reajustes#1005</guid>
       <description>© Honório Moreira/Prefeitura São Luís/Arquivo
 A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nesta segunda-feira (16), sem ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/78AwkWRPXYO7nFgQzNvbNHQTCZE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/terminal_da_praia_grande.jpg?itok=082vYUMX&quot; alt=&quot;Rodoviários de São Luís fazem greve para cobrar pagamento de reajustes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +290,7 @@ A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nes
 &lt;p&gt;mesmo com dois reajustes salariais e o aumento no custo dos serviços e que o acordo firmado na Justiça do Trabalho ocorreu sem a participação da prefeitura.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/rodoviarios-de-sao-luis-fazem-greve-para-cobrar-pagamento-de-reajustes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Honório Moreira/Prefeitura São Luís/Arquivo
 A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nesta segunda-feira (16), sem ...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-03-16 15:56:00</wp:post_date>
       <wp:post_date_gmt>2026-03-16 15:56:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-16 15:56:00</wp:post_modified>
@@ -122,26 +316,26 @@ A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nes
     <item>
       <title>Anac autoriza cargueira mexicana a operar regularmente no Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/anac-autoriza-cargueira-mexicana-operar-regularmente-no-brasil</link>
-      <pubDate>Mon, 16 Mar 2026 19:49:48 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/anac-autoriza-cargueira-mexicana-operar-regularmente-no-brasil#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/anac-autoriza-cargueira-mexicana-operar-regularmente-no-brasil#1006</guid>
       <description>A Agência Nacional de Aviação Civil (Anac) autorizou a empresa mexicana TM Aerolíneas a operar serviços regulares de transporte aéreo internacional d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VPn69shsAbe5wT5jSgo93oCQF6c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/2a020615-9769-4374-8afa-e313c42fec09.jpeg?itok=F6uBmq0k&quot; alt=&quot;Anac autoriza cargueira mexicana a operar regularmente no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Agência Nacional de Aviação Civil (Anac) autorizou a empresa mexicana TM Aerolíneas a operar serviços regulares de transporte aéreo internacional de carga com origem ou destino no Brasil.&lt;/p&gt;
 &lt;p&gt;Sediada na Cidade do México, a TM Aerolíneas opera comercialmente sob o nome Awesome Cargo e há meses vinha fazendo a rota China-Campinas (SP), com voos fretados.&lt;/p&gt;
 &lt;p&gt;da última sexta-feira (13) foi concedida após a companhia ter cumprido todas as exigências e requisitos legais.&lt;/p&gt;
 &lt;p&gt;Ainda de acordo com a Anac, a entrada da TM Aerolíneas no mercado brasileiro deve fortalecer a movimentação internacional de cargas, “contribuindo para o aumento da eficiência logística e para a ampliação das rotas disponíveis para o transporte de mercadorias”.&lt;/p&gt;
-&lt;p&gt;Lula recebe presidente da Bolívia e defende integração sul-americana&lt;/p&gt;
-&lt;p&gt;Mudanças climáticas e responsabilidade coletiva são destaque no Viva Maria&lt;/p&gt;
+&lt;p&gt;Pesquisa da Ufopa investiga potencial da manteiga de murumuru&lt;/p&gt;
+&lt;p&gt;Mulheres na Ciência: Pesquisadoras estudam o potencial farmacológico do murumuru&lt;/p&gt;
 &lt;p&gt;José Luiz Datena recebe ex-jogador da seleção brasileira Craque Neto&lt;/p&gt;
+&lt;p&gt;Receita encurta prazo para entregar declaração do IRPF 2026&lt;/p&gt;
+&lt;p&gt;Idosos sentem maior vulnerabilidade a golpes online em SP&lt;/p&gt;
 &lt;p&gt;Caixa libera abono salarial para nascidos em fevereiro&lt;/p&gt;
-&lt;p&gt;CNU divulga resultado final com classificações e lista de espera&lt;/p&gt;
+&lt;p&gt;CNU 2 divulga resultado final com classificações e lista de espera&lt;/p&gt;
 &lt;p&gt;PGR denuncia Bacellar e TH Joias por obstrução de investigação&lt;/p&gt;
-&lt;p&gt;Tite é demitido do Cruzeiro após empate com Vasco no Brasileirão&lt;/p&gt;
-&lt;p&gt;Rodoviários de São Luís fazem greve para cobrar pagamento de reajustes&lt;/p&gt;
-&lt;p&gt;Anac autoriza cargueira mexicana a operar regularmente no Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/anac-autoriza-cargueira-mexicana-operar-regularmente-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Tite é demitido do Cruzeiro após empate com Vasco no Brasileirão&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/anac-autoriza-cargueira-mexicana-operar-regularmente-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Agência Nacional de Aviação Civil (Anac) autorizou a empresa mexicana TM Aerolíneas a operar serviços regulares de transporte aéreo internacional d...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-16 15:37:00</wp:post_date>
       <wp:post_date_gmt>2026-03-16 15:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-16 15:37:00</wp:post_modified>
@@ -167,9 +361,9 @@ A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nes
     <item>
       <title>Anvisa determina apreensão de azeite de oliva extravirgem</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-determina-apreensao-de-azeite-de-oliva-extravirgem</link>
-      <pubDate>Mon, 16 Mar 2026 19:49:48 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-determina-apreensao-de-azeite-de-oliva-extravirgem#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-determina-apreensao-de-azeite-de-oliva-extravirgem#1007</guid>
       <description>A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (16) a apreensão do azeite de oliva extravirgem San Olivetto, da e...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/O_-2DJUL08dDr99sKy9v33igzTQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/3d1aed70-c5e2-41dc-8c51-1d0a278c129d_copy.jpg?itok=AUtXCi1i&quot; alt=&quot;Anvisa determina apreensão de azeite de oliva extravirgem&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (16) a apreensão do azeite de oliva extravirgem San Olivetto, da empresa Agro Industria e Cerealista Norte Paraná Ltda.&lt;/p&gt;
@@ -177,17 +371,17 @@ A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nes
 &lt;p&gt;Em nota, a agência informou que a origem deste azeiteé desconhecida. “O rótulo indica como importadora a Agro Indústria e Cerealista Norte Paraná Ltda. A empresa, no entanto, está com CNPJ suspenso por inconsistência cadastral desde 22/5/2025”.&lt;/p&gt;
 &lt;p&gt;“Já a distribuidora, a empresa Comercial Alimentícia e Cerealista Capixaba Ltda, está com CNPJ baixado por encerramento desde novembro de 2024”, completou a Anvisa.&lt;/p&gt;
 &lt;p&gt;tenta contato com a empresa. O espaço segue aberto para posicionamento.&lt;/p&gt;
-&lt;p&gt;Guarda Civil faz ação contra bullying nas escolas em Salvador&lt;/p&gt;
-&lt;p&gt;Mudanças climáticas e responsabilidade coletiva são destaque no Viva Maria&lt;/p&gt;
-&lt;p&gt;José Luiz Datena recebe ex-jogador da seleção brasileira Craque Neto&lt;/p&gt;
-&lt;p&gt;CNU divulga resultado final com classificações e lista de espera&lt;/p&gt;
-&lt;p&gt;PGR denuncia Bacellar e TH Joias por obstrução de investigação&lt;/p&gt;
-&lt;p&gt;Tite é demitido do Cruzeiro após empate com Vasco no Brasileirão&lt;/p&gt;
-&lt;p&gt;Rodoviários de São Luís fazem greve para cobrar pagamento de reajustes&lt;/p&gt;
-&lt;p&gt;Anac autoriza cargueira mexicana a operar regularmente no Brasil&lt;/p&gt;
-&lt;p&gt;Anvisa determina apreensão de azeite de oliva extravirgem&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-determina-apreensao-de-azeite-de-oliva-extravirgem&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Pesquisa da Ufopa investiga potencial da manteiga de murumuru&lt;/p&gt;
+&lt;p&gt;Mulheres na Ciência: Pesquisadoras estudam o potencial farmacológico do murumuru&lt;/p&gt;
+&lt;p&gt;Caso PM Gisele: laudos complementares devem sair esta semana&lt;/p&gt;
+&lt;p&gt;Brasil quer aumentar produção e importação de gás da Bolívia&lt;/p&gt;
+&lt;p&gt;Em 20 anos, CNJ puniu 126 magistrados com aposentadoria compulsória&lt;/p&gt;
+&lt;p&gt;Receita encurta prazo para entregar declaração do IRPF 2026&lt;/p&gt;
+&lt;p&gt;Idosos sentem maior vulnerabilidade a golpes online em SP&lt;/p&gt;
+&lt;p&gt;Caixa libera abono salarial para nascidos em fevereiro&lt;/p&gt;
+&lt;p&gt;CNU 2 divulga resultado final com classificações e lista de espera&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-determina-apreensao-de-azeite-de-oliva-extravirgem&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (16) a apreensão do azeite de oliva extravirgem San Olivetto, da e...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-16 15:31:00</wp:post_date>
       <wp:post_date_gmt>2026-03-16 15:31:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-16 15:31:00</wp:post_modified>
@@ -213,9 +407,9 @@ A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nes
     <item>
       <title>Anvisa recolhe esmaltes em gel com substância proibida</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-recolhe-esmaltes-em-gel-com-substancia-proibida</link>
-      <pubDate>Mon, 16 Mar 2026 19:49:48 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-recolhe-esmaltes-em-gel-com-substancia-proibida#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-recolhe-esmaltes-em-gel-com-substancia-proibida#1008</guid>
       <description>A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (16) o recolhimento de esmaltes em gel da marca Impala, fabricados...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ipcb-AdEXw6EeMRZ7cetXl8kL5g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/fac30b4c-0a8e-45b5-908d-60e25c060c36.jpeg?itok=YbdoAeG_&quot; alt=&quot;Anvisa recolhe esmaltes em gel com substância proibida&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (16) o recolhimento de esmaltes em gel da marca Impala, fabricados pela empresa Laboratório Avamiller de Cosméticos Ltda.&lt;/p&gt;
@@ -234,7 +428,7 @@ A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nes
 &lt;p&gt;A medida, segundo a agência, tem como objetivo proteger a saúde da população contra riscos de câncer e problemas reprodutivos e foi aprovada em reunião da diretoria colegiada.&lt;/p&gt;
 &lt;p&gt;“A decisão é uma medida para proteger a saúde das pessoas que utilizam esses produtos e principalmente dos profissionais que trabalham com eles”, informou a Anvisa à época, citando que estudos internacionais em animais confirmaram que ambas as substâncias apresentam os seguintes riscos:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-recolhe-esmaltes-em-gel-com-substancia-proibida&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (16) o recolhimento de esmaltes em gel da marca Impala, fabricados...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-16 15:19:00</wp:post_date>
       <wp:post_date_gmt>2026-03-16 15:19:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-16 15:19:00</wp:post_modified>
@@ -260,9 +454,9 @@ A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nes
     <item>
       <title>Médica é morta a tiros por policiais militares em abordagem no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/medica-e-morta-tiros-por-policiais-militares-em-abordagem-no-rio</link>
-      <pubDate>Mon, 16 Mar 2026 19:49:48 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/medica-e-morta-tiros-por-policiais-militares-em-abordagem-no-rio#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/medica-e-morta-tiros-por-policiais-militares-em-abordagem-no-rio#1009</guid>
       <description>A médica Andréa Marins Dias, de 61 anos, foi morta a tiros em seu carro durante uma abordagem policial, em Cascadura, na zona norte do Rio de Janeiro...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Zi7djOnQ8sjvFEbG9qC1GPzp-b0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/por_tras_de_cada_mulher_que_chega_no_consultorio.existe_uma_historia_marcada_por_dor_duvidas_e_fras.jpg?itok=2bOtkrmJ&quot; alt=&quot;Médica é morta a tiros por policiais militares em abordagem no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A médica Andréa Marins Dias, de 61 anos, foi morta a tiros em seu carro durante uma abordagem policial, em Cascadura, na zona norte do Rio de Janeiro, neste domingo (15).&lt;/p&gt;
@@ -275,13 +469,11 @@ A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nes
 &lt;p&gt;“Até quando a ausência de políticas eficazes de segurança pública continuará produzindo cenas como essa? Até quando vamos perder pessoas negras para a violência?”, questiona a ministra.&lt;/p&gt;
 &lt;p&gt;Segundo Anielle, a médica atuava há 28 anos no cuidado com a saúde das mulheres. Era ginecologista e cirurgiã-geral.&lt;/p&gt;
 &lt;p&gt;“Sabemos o quanto custa para uma mulher negra acessar a universidade e se tornar médica. É doloroso perder Andréa a tudo o que ela representa”, afirmou Anielle, ao acrescentar que está pressionando as autoridades responsáveis para que haja uma investigação rápida e rigorosa.&lt;/p&gt;
-&lt;p&gt;Guarda Civil faz ação contra bullying nas escolas em Salvador&lt;/p&gt;
-&lt;p&gt;Mudanças climáticas e responsabilidade coletiva são destaque no Viva Maria&lt;/p&gt;
-&lt;p&gt;José Luiz Datena recebe ex-jogador da seleção brasileira Craque Neto&lt;/p&gt;
-&lt;p&gt;CNU divulga resultado final com classificações e lista de espera&lt;/p&gt;
-&lt;p&gt;PGR denuncia Bacellar e TH Joias por obstrução de investigação&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/medica-e-morta-tiros-por-policiais-militares-em-abordagem-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Pesquisa da Ufopa investiga potencial da manteiga de murumuru&lt;/p&gt;
+&lt;p&gt;Mulheres na Ciência: Pesquisadoras estudam o potencial farmacológico do murumuru&lt;/p&gt;
+&lt;p&gt;Caso PM Gisele: laudos complementares devem sair esta semana&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/medica-e-morta-tiros-por-policiais-militares-em-abordagem-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A médica Andréa Marins Dias, de 61 anos, foi morta a tiros em seu carro durante uma abordagem policial, em Cascadura, na zona norte do Rio de Janeiro...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-16 15:10:00</wp:post_date>
       <wp:post_date_gmt>2026-03-16 15:10:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-16 15:10:00</wp:post_modified>
@@ -302,202 +494,6 @@ A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nes
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/Zi7djOnQ8sjvFEbG9qC1GPzp-b0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/por_tras_de_cada_mulher_que_chega_no_consultorio.existe_uma_historia_marcada_por_dor_duvidas_e_fras.jpg?itok=2bOtkrmJ</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Justiça suspende uso de terrenos como garantia de capitalização do BRB</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/justica-suspende-uso-de-terrenos-como-garantia-de-capitalizacao-do-brb</link>
-      <pubDate>Mon, 16 Mar 2026 19:49:48 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/justica-suspende-uso-de-terrenos-como-garantia-de-capitalizacao-do-brb#1006</guid>
-      <description>O juiz Daniel Eduardo Branco Carnacchioni, da 2ª Vara de Fazenda Pública do Distrito Federal (DF), concedeu nesta segunda-feira (16)
-liminar (decisão...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wgN_WR1Y6eveCnCdjIPv9nKFL_U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0d4a9617.jpg?itok=I-T4i5dZ&quot; alt=&quot;Justiça suspende uso de terrenos como garantia de capitalização do BRB&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O juiz Daniel Eduardo Branco Carnacchioni, da 2ª Vara de Fazenda Pública do Distrito Federal (DF), concedeu nesta segunda-feira (16)&lt;/p&gt;
-&lt;p&gt;liminar (decisão provisória) para suspender a utilização de terrenos públicos como garantia para a capitalização do Banco Regional de Brasília (BRB).&lt;/p&gt;
-&lt;p&gt;O banco passa por uma crise de liquidez após ter comprado cerca de R$ 12 bilhões em títulos do Banco Master, de Daniel Vorcaro,&lt;/p&gt;
-&lt;p&gt;que depois se revelaram fictícios, ou seja, sem lastro em nenhum bem que de fato lhes conferisse valor de mercado.&lt;/p&gt;
-&lt;p&gt;necessidade de adicionar recursos ao BRB, cujo principal acionista é o governo do DF&lt;/p&gt;
-&lt;p&gt;proposta de aumento de capital de até R$ 8,6 bilhões,&lt;/p&gt;
-&lt;p&gt;de modo a atender às exigências regulatórias do setor financeiro.&lt;/p&gt;
-&lt;p&gt;Na semana passada, o governador Ibaneis Rocha sancionou uma lei para autorizar uma série de medidas emergenciais para capitalizar o BRB, incluindo a&lt;/p&gt;
-&lt;p&gt;utilização de nove imóveis do GDF como garantia para a captação de R$ 6,6 bilhões no mercado financeiro. Outra medida autoriza a venda de patrimônio de outras estatais do DF para direcionar recursos ao BRB.&lt;/p&gt;
-&lt;p&gt;Na decisão desta segunda, a Justiça suspendeu a eficácia da lei, afirmando, entre outros argumentos, que ela não esclarece “como tais operações atenderiam o interesse público”. O magistrado responsável afirmou que a&lt;/p&gt;
-&lt;p&gt;decisão sobre instrumentos de capitalização seria “privativa do BRB”, não podendo ter sido tomada por lei distrital.&lt;/p&gt;
-&lt;p&gt;&quot;Determino a suspensão imediata de todo e qualquer ato previsto na mesma legislação que esteja em processo de execução, nos termos da fundamentação, até ulterior deliberação deste juízo&quot;, escreveu o juiz.&lt;/p&gt;
-&lt;p&gt;A decisão foi tomada em ação popular aberta por políticos do PSB, que alegaram risco de dano ao patrimônio público.&lt;/p&gt;
-&lt;p&gt;A lei sobre a capitalização do BRBfoi aprovada naCâmara Legislativa do DFpor 14 votos favoráveis e 10 contrários.&lt;/p&gt;
-&lt;p&gt;Deputados da oposição classificaram o projeto como um possível “cheque em branco” ao governo, argumentando que faltaram informações detalhadas sobre os riscos ao patrimônio público.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/justica-suspende-uso-de-terrenos-como-garantia-de-capitalizacao-do-brb&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O juiz Daniel Eduardo Branco Carnacchioni, da 2ª Vara de Fazenda Pública do Distrito Federal (DF), concedeu nesta segunda-feira (16)
-liminar (decisão...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-16 13:25:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-16 13:25:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-16 13:25:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-16 13:25:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/wgN_WR1Y6eveCnCdjIPv9nKFL_U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0d4a9617.jpg?itok=I-T4i5dZ</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>PM morta com tiro na cabeça não tinha tendência suicida, diz ex-marido</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/pm-morta-com-tiro-na-cabeca-nao-tinha-tendencia-suicida-diz-ex-marido</link>
-      <pubDate>Mon, 16 Mar 2026 19:49:48 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/pm-morta-com-tiro-na-cabeca-nao-tinha-tendencia-suicida-diz-ex-marido#1007</guid>
-      <description>© Gisele Alves Santana/ Instagram
-O ex‑companheiro da policial Gisele Alves Santana, com quem ela teve uma filha, prestou depoimento à Polícia Civil ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YMfO_xjx9F59Mj_P9lV_StLmqEU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/10/img_3454.jpeg?itok=-m6wMr6y&quot; alt=&quot;PM morta com tiro na cabeça não tinha tendência suicida, diz ex-marido&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Gisele Alves Santana/ Instagram&lt;/p&gt;
-&lt;p&gt;O ex‑companheiro da policial Gisele Alves Santana, com quem ela teve uma filha, prestou depoimento à Polícia Civil na última sexta-feira (13).&lt;/p&gt;
-&lt;p&gt;Segundo o advogado da família da vítima, José Miguel da Silva Junior,eledescreveuGisele como alguém que não manifestava tendências suicidas.&lt;/p&gt;
-&lt;p&gt;“É relevante [ele ter relatado] que ela não tinha tendências suicidas, que ela era uma moça que estava querendo se separar, que ela jamais agrediu o ex-marido e que ela queria alugar uma casa e não conseguiu, depois ela queria voltar para a residência dos pais”, disse o advogado.&lt;/p&gt;
-&lt;p&gt;Gisele foi encontrada com um tiro na cabeça, em 18 de fevereiro, no apartamento em que morava com o então marido, o tenente-coronel Geraldo Leite Neto. Eleestava no local e reportou o caso às autoridades como suicídio.&lt;/p&gt;
-&lt;p&gt;“[O ex-companheiro] confirmou também que a criança [filha de Gisele], ela simplesmente tinha pavor de ficar lá com o senhor [Geraldo Leite] Neto, isso é relevante”, relatou Silva Junior.&lt;/p&gt;
-&lt;p&gt;O advogado destacouque a policial militar mantinha boa relação com o ex-marido.&lt;/p&gt;
-&lt;p&gt;do Instituto Médico Legal (IML)apontaram lesões contundentes na face e na região cervical de Gisele. Tais lesões são resultado de pressão digital e escoriação compatível com estigma ungueal, ou seja, causado por unha.&lt;/p&gt;
-&lt;p&gt;O último laudo tem data de 7 de março, um dia depois da exumação do corpo da vítima. No entanto, no&lt;/p&gt;
-&lt;p&gt;laudo necroscópico do dia 19 de fevereiro&lt;/p&gt;
-&lt;p&gt;, dia seguinte à morte de Gisele, já havia menção a lesões na face e no pescoço na lateral direita.&lt;/p&gt;
-&lt;p&gt;Guarda Civil faz ação contra bullying nas escolas em Salvador&lt;/p&gt;
-&lt;p&gt;Mudanças climáticas e responsabilidade coletiva são destaque no Viva Maria&lt;/p&gt;
-&lt;p&gt;José Luiz Datena recebe ex-jogador da seleção brasileira Craque Neto&lt;/p&gt;
-&lt;p&gt;CNU divulga resultado final com classificações e lista de espera&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/pm-morta-com-tiro-na-cabeca-nao-tinha-tendencia-suicida-diz-ex-marido&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Gisele Alves Santana/ Instagram
-O ex‑companheiro da policial Gisele Alves Santana, com quem ela teve uma filha, prestou depoimento à Polícia Civil ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-16 13:25:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-16 13:25:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-16 13:25:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-16 13:25:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/YMfO_xjx9F59Mj_P9lV_StLmqEU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/10/img_3454.jpeg?itok=-m6wMr6y</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mutirão da Febraban para negociar dívidas com bancos vai até 31/03</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/mutirao-da-febraban-para-negociar-dividas-com-bancos-vai-ate-3103</link>
-      <pubDate>Mon, 16 Mar 2026 19:49:48 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/mutirao-da-febraban-para-negociar-dividas-com-bancos-vai-ate-3103#1008</guid>
-      <description>© Marcello Casal Jr/Agência Brasil/Arquivo
-Os consumidores endividados com bancos e instituições financeiras têm até o dia 31 de março para renegocia...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Gor3qR1fF6JLar_wF8PyAHwQ0ww=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/compra_online2411203173.jpg?itok=r3FUuIhM&quot; alt=&quot;Mutirão da Febraban para negociar dívidas com bancos vai até 31/03&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal Jr/Agência Brasil/Arquivo&lt;/p&gt;
-&lt;p&gt;Os consumidores endividados com bancos e instituições financeiras têm até o dia 31 de março para renegociar os débitos com condições especiais oferecidas durante oMutirão Nacional de Negociação de Dívidas e Orientação Financeira da Federação Brasileira de Bancos (Febraban).&lt;/p&gt;
-&lt;p&gt;As vantagens disponíveis incluemalongamento de prazos, redução de taxas, alteração nas condições de pagamento ou migração para outras modalidades de crédito mais baratas.&lt;/p&gt;
-&lt;p&gt;O mutirão permite a negociação de dívidas de cartão de crédito, cheque especial, crédito consignado e demais modalidades de empréstimos em atraso com bancos ou financeiras.&lt;/p&gt;
-&lt;p&gt;As regras e condições são definidas pelas instituiçõesde acordo com suas políticas de crédito.&lt;/p&gt;
-&lt;p&gt;Não podem ser incluídas no mutirão as dívidas que tenham bens dados em garantia (como veículos, motocicletas e imóveis), assim como dívidas prescritas.&lt;/p&gt;
-&lt;p&gt;A negociação pode ser feita diretamente nos canais oficiais da instituição credora ou pelo portal&lt;/p&gt;
-&lt;p&gt;, que o consumidor acessa por meio de sua conta Gov.br prata ou ouro.&lt;/p&gt;
-&lt;p&gt;Para entender como participar da campanha, basta acessar a&lt;/p&gt;
-&lt;p&gt;página disponibilizada pela Febraban&lt;/p&gt;
-&lt;p&gt;, que conta com um vídeo de passo a passo paranegociar e como acessar o portal Gov.BR, encontrar a instituição credora e abrir o pedido de negociação.&lt;/p&gt;
-&lt;p&gt;Na negociação com a instituição credora, o consumidor interessado deve informar a dívida que pretende quitar e perguntar quais são as condições oferecidas para a sua quitação.&lt;/p&gt;
-&lt;p&gt;Se concordar com o que foi proposto, um acordo de negociação será assinado. Caso não concorde, pode fazer contrapropostas para chegar a um acordo que caiba no seu bolso.&lt;/p&gt;
-&lt;p&gt;Na mesma página, o consumidor também encontra conteúdo exclusivo sobre orientação financeira e acesso a outros canais, como o Registrato, sistema do Banco Central que permite acessaro&lt;/p&gt;
-&lt;p&gt;Relatório de Empréstimos e Financiamentos (SCR)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/mutirao-da-febraban-para-negociar-dividas-com-bancos-vai-ate-3103&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal Jr/Agência Brasil/Arquivo
-Os consumidores endividados com bancos e instituições financeiras têm até o dia 31 de março para renegocia...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-16 13:07:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-16 13:07:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-16 13:07:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-16 13:07:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Gor3qR1fF6JLar_wF8PyAHwQ0ww=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/compra_online2411203173.jpg?itok=r3FUuIhM</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Dino acaba com a aposentadoria compulsória como punição a juízes</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/dino-aposentadoria-nao-serve-como-punicao-administrativa-juizes</link>
-      <pubDate>Mon, 16 Mar 2026 19:49:48 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/dino-aposentadoria-nao-serve-como-punicao-administrativa-juizes#1009</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-O ministro Flávio Dino, do Supremo Tribunal Federal (STF), decidiu em liminar assinada nesta segunda-feira (16) acab...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/q6kJ3-lBXLwEwBop72wIpB9n_8Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/02/abertura-stf-mc_abr_30012026-11.jpg?itok=sYZnNwLr&quot; alt=&quot;Dino acaba com a aposentadoria compulsória como punição a juízes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O ministro Flávio Dino, do Supremo Tribunal Federal (STF), decidiu em liminar assinada nesta segunda-feira (16) acabar com a aposentadoria compulsória como punição a magistrados condenados administrativamente por irregularidades no exercício do cargo.&lt;/p&gt;
-&lt;p&gt;“Não existe mais aposentadoria compulsória como ‘punição’ a magistrados, em face da Emenda Constitucional 103 (Reforma da Previdência). Infrações graves de magistrados devem ser punidas com a perda do cargo”, propôs o ministro como tese de julgamento”.&lt;/p&gt;
-&lt;p&gt;A decisão é monocrática e deverá ainda ser analisada pelo próprio Supremo, que decidirá se a mantém ou não. Ainda não há data nem prazo para que isso ocorra.&lt;/p&gt;
-&lt;p&gt;Dino tomou a decisão em uma ação aberta por um magistrado que foi punido com a aposentadoria compulsória pelo Tribunal de Justiça do Rio de Janeiro (TJRJ). Entre as irregularidades estavam a liberação de bens bloqueados sem parecer do Ministério Público e demora deliberada em processos para beneficiar policiais militares milicianos.&lt;/p&gt;
-&lt;p&gt;A aposentadoria compulsória do magistrado havia sido confirmada pelo Conselho Nacional de Justiça (CNJ). Dino determinou que o órgão julga novamente o processo e, caso decida pela punição máxima, oficie o TJRJ para que desligue o juiz de seus quadros.&lt;/p&gt;
-&lt;p&gt;Dino justificou sua decisão aplicando as regras da Reforma da Previdência de 2019, que extinguiu qualquer outro critério de aposentadoria de servidores que não levasse em consideração apenas a idade ou o tempo de contribuição.&lt;/p&gt;
-&lt;p&gt;Com isso, o ministro concluiu que a previsão de aposentadoria de juízes como forma de punição se tornou inconstitucional, tendo que ser substituída pela perda de cargo.&lt;/p&gt;
-&lt;p&gt;O ministro determinou o envio de ofício ao presidente do CNJ, ministro Edson Fachin, “para - caso considerar cabível - rever o sistema de responsabilidade disciplinar no âmbito do Poder Judiciário”.&lt;/p&gt;
-&lt;p&gt;Lula recebe presidente da Bolívia e defende integração sul-americana&lt;/p&gt;
-&lt;p&gt;Mudanças climáticas e responsabilidade coletiva são destaque no Viva Maria&lt;/p&gt;
-&lt;p&gt;José Luiz Datena recebe ex-jogador da seleção brasileira Craque Neto&lt;/p&gt;
-&lt;p&gt;Caixa libera abono salarial para nascidos em fevereiro&lt;/p&gt;
-&lt;p&gt;CNU divulga resultado final com classificações e lista de espera&lt;/p&gt;
-&lt;p&gt;PGR denuncia Bacellar e TH Joias por obstrução de investigação&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/dino-aposentadoria-nao-serve-como-punicao-administrativa-juizes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-O ministro Flávio Dino, do Supremo Tribunal Federal (STF), decidiu em liminar assinada nesta segunda-feira (16) acab...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-16 13:06:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-16 13:06:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-16 13:06:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-16 13:06:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/q6kJ3-lBXLwEwBop72wIpB9n_8Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/02/abertura-stf-mc_abr_30012026-11.jpg?itok=sYZnNwLr</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
