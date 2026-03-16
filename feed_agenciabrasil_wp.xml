@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
+    <pubDate>Mon, 16 Mar 2026 21:31:53 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,356 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Entenda as mudanças na declaração do Imposto de Renda deste ano</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/entenda-mudancas-na-declaracao-do-imposto-de-renda-deste-ano</link>
+      <pubDate>Mon, 16 Mar 2026 21:31:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/entenda-mudancas-na-declaracao-do-imposto-de-renda-deste-ano#1000</guid>
+      <description>A Receita Federal divulgou, nesta segunda-feira (16) as regras do Imposto de Renda 2026, referente ao ano-base 2025.
+Mais curto que nos anos anterior...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9h7j9ZXOvslZveSATtqWskxo2VU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/captura_de_tela_2026-03-16_155701.jpg?itok=9hrzfU6G&quot; alt=&quot;Entenda as mudanças na declaração do Imposto de Renda deste ano&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Receita Federal divulgou, nesta segunda-feira (16) as regras do Imposto de Renda 2026, referente ao ano-base 2025.&lt;/p&gt;
+&lt;p&gt;Mais curto que nos anos anteriores&lt;/p&gt;
+&lt;p&gt;, o prazo de envio da declaração vai de 23 de março a 29 de maio, e a expectativa do Fisco é receber cerca de 44 milhões de declarações.&lt;/p&gt;
+&lt;p&gt;Entre as novidades estão mudanças na restituição, novas exigências para ganhos com apostas online e a possibilidade de uso de nome social na declaração.&lt;/p&gt;
+&lt;p&gt;Nome social: contribuintes poderão informar nome social na declaração.&lt;/p&gt;
+&lt;p&gt;Dados de diversidade: formulário terá campo para informar raça e cor do titular e dos dependentes.&lt;/p&gt;
+&lt;p&gt;Declaração pré-preenchida: ficará disponível desde o primeiro dia do prazo, com mais informações automáticas.&lt;/p&gt;
+&lt;p&gt;Restituição em quatro lotes: pagamento ocorrerá em quatro etapas, e não mais em cinco.&lt;/p&gt;
+&lt;p&gt;Prioridade digital: quem usar declaração pré-preenchida e Pix terá prioridade no recebimento.&lt;/p&gt;
+&lt;p&gt;Uma das principais novidades é a criação de um “cashback” de restituição.&lt;/p&gt;
+&lt;p&gt;A medida permitirá que contribuintes isentos de declarar, mas que tiveram imposto retido na fonte, recebam automaticamente valores a que têm direito.&lt;/p&gt;
+&lt;p&gt;Pagamento em lote especial em 15 de julho;&lt;/p&gt;
+&lt;p&gt;Estimativa de 4 milhões de beneficiados;&lt;/p&gt;
+&lt;p&gt;Previsão de R$ 500 milhões em pagamentos.&lt;/p&gt;
+&lt;p&gt;Não estava obrigado a declarar em 2025;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/entenda-mudancas-na-declaracao-do-imposto-de-renda-deste-ano&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Receita Federal divulgou, nesta segunda-feira (16) as regras do Imposto de Renda 2026, referente ao ano-base 2025.
+Mais curto que nos anos anterior...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-16 17:45:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-16 17:45:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-16 17:45:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-16 17:45:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/9h7j9ZXOvslZveSATtqWskxo2VU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/captura_de_tela_2026-03-16_155701.jpg?itok=9hrzfU6G</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Ancelotti investe em estreantes em penúltima convocação antes da Copa</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/ancelotti-investe-em-estreantes-em-penultima-convocacao-antes-da-copa</link>
+      <pubDate>Mon, 16 Mar 2026 21:31:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/ancelotti-investe-em-estreantes-em-penultima-convocacao-antes-da-copa#1001</guid>
+      <description>© REUTERS/Pilar Olivares/Proibida reprodução
+A três meses do início da Copa do Mundo, o técnico Carlos Ancelotti anunciou seis novidades na penúltima...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3pc7i_pl7Z79ltMXH1pTMlyp5ag=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/ancelotti_penultima_convocacao_brasil_2026.jpg?itok=-Gy2y1Bh&quot; alt=&quot;Ancelotti investe em estreantes em penúltima convocação antes da Copa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS/Pilar Olivares/Proibida reprodução&lt;/p&gt;
+&lt;p&gt;A três meses do início da Copa do Mundo, o técnico Carlos Ancelotti anunciou seis novidades na penúltima convocação da seleção brasileira de futebol masculino, que enfrentará França e Croácia em amistosos fora de casa nos dias 26 e 31 de março, respectivamente. Entre os 26 jogadores elencados, oitoganharam a primeira oportunidade de vestir a Amarelinha sob comando do treinador italiano: os atacantes Endrick (Lyon/França),Rayan (Bournemouth/Inglaterra) e Igor Thiago (Brentford/Inglaterra); os defensores Léo Pereira (Flamengo), Bremmer (Juventus/Itália) e Ibañez (Al-Ahli/Arábia Saudita); e os meio-campistas Danilo (Botafogo) e Gabriel Sara (Galatasaray/Turquia).&lt;/p&gt;
+&lt;p&gt;&quot;É uma lista criada com jogadores que estão 100% de condição física. Todos que estão jogando, já que temos lesões importantes, como Militão, Bruno Guimarães, Estevão, Rodrygo, que desejamos uma rápida recuperação. Mas é uma lista de quem esta bem fisicamente, porque vamos jogar dois jogos muito importantes, de intensidade, com um prazo muito curto, incluindo a viagem. Então preferi chamar quem está 100%. Levando em conta também a posição de alguns jogadores que não conheço, como Ibañez, Bremer, Rayan, Danilo, Gabriel Sara. É uma última oportunidade de conhecer eles e fazer uma lista final com a ideai mais clara possível”, disse Ancelotti.&lt;/p&gt;
+&lt;p&gt;Um post compartilhado por CBF • Seleção Brasileira de Futebol (@brasil)&lt;/p&gt;
+&lt;p&gt;Durante a entrevista coletiva na sede da CBF, no Rio de Janeiro, Ancelotti revelou o que considera importante observar em jogadores estreantes durante o período de treinos e jogosda Data Fifa.&lt;/p&gt;
+&lt;p&gt;“Quando chamamos jogadores novos não é porque queremos ver como se preocupa no campo, isso já sabemos. Queremos saber como ele se incorpora no nosso ambiente, seu caráter, em todos os jogadores novos é isso que vamos ver. Sabemos perfeitamente com está jogando, porque temos avaliações de cada jogador que está e não está na lista, de cada jogador que não está em nenhuma lista nesse ano. Em nível técnico [sabemos] tudo, em questão de caráter, quero saber mais”, ressaltou o treinador.&lt;/p&gt;
+&lt;p&gt;Ausência recorrente nas convocações de Ancelotti, Neymar ainda pode ser chamado para a seleção.&lt;/p&gt;
+&lt;p&gt;O técnico italiano pôde assisti-lona partida de domingo (15), entre Santos e Corinthians&lt;/p&gt;
+&lt;p&gt;que terminou em 1 a 1, e foi enfático ao falar o que falta para o atacante voltar a vestir a Amarelinha. Ancelotti ressaltou que pode chamar novos atletas para a seleção até fechar a lista final de convocados para o Mundial, programada para 18 de maio.&lt;/p&gt;
+&lt;p&gt;“É uma avaliação física, não técnica. Neymar com bola está muito bem, tem que melhorar fisicamente. Porque para a comissão e para mim não está 100% de suas possibilidades. Ele tem que trabalhar para estar 100%. Essa é a minha opinião e de toda a comissão que vê o jogo dele e que vai ver os jogos dele nos próximos dias e meses”, pontuou.&lt;/p&gt;
+&lt;p&gt;A dois meses de divulgar a lista final para a Copa, Ancelotti revelou quais são as atuais carências do escrete carnarinho.&lt;/p&gt;
+&lt;p&gt;“Temos dúvidas para os zagueiros e no meio-campo. Algumas poucas dúvidas na frente. Depois, temos que dar conta das possíveis lesões que podem ocorrer durante dois meses de competição muito intensos na Europa, no Brasileirão... Temos que estar bem, focados na avaliação de todos os jogadores. Os que não estão hoje podem estar na convocação final, sem sombra de dúvidas. Hoje, por exemplo, não está o Paquetá, que voltou para cá, mas ele pode estar muito bem na convocação final e ter uma nova oportunidade. Quis ter a chance de ver dois meias novos que estão jogando muito bem no Botafogo e no Galatasaray.&lt;/p&gt;
+&lt;p&gt;Brasil x França- 26 de março (uma quinta-feira), às 17h (horário de Brasília), no Gillette Stadium, em Boston (EUA);&lt;/p&gt;
+&lt;p&gt;Brasil x Croácia- 31 de março (uma terça), às 21h,no Camping World Stadium, em Orlando (EUA).&lt;/p&gt;
+&lt;p&gt;Gabriel Magalhães - Arsenal (ING)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/ancelotti-investe-em-estreantes-em-penultima-convocacao-antes-da-copa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS/Pilar Olivares/Proibida reprodução
+A três meses do início da Copa do Mundo, o técnico Carlos Ancelotti anunciou seis novidades na penúltima...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-16 17:42:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-16 17:42:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-16 17:42:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-16 17:42:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/3pc7i_pl7Z79ltMXH1pTMlyp5ag=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/ancelotti_penultima_convocacao_brasil_2026.jpg?itok=-Gy2y1Bh</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Mulheres marcam noite do Oscar 2026 com conquistas históricas</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/mulheres-marcam-noite-do-oscar-2026-com-conquistas-historicas</link>
+      <pubDate>Mon, 16 Mar 2026 21:31:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/mulheres-marcam-noite-do-oscar-2026-com-conquistas-historicas#1002</guid>
+      <description>© REUTERS/Mario Anzuoni/ Proibido reprodução
+A cerimônia do Oscar 2026, realizada na noite de domingo (15) em Los Angeles, foi marcada por momentos h...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WoDq3TNVERe28FNVhC52nDTf57Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/2026-03-16t030959z_159874365_hp1em3g0621tl_rtrmadp_3_awards-oscars.jpg?itok=SBY43pRk&quot; alt=&quot;Mulheres marcam noite do Oscar 2026 com conquistas históricas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS/Mario Anzuoni/ Proibido reprodução&lt;/p&gt;
+&lt;p&gt;A cerimônia do Oscar 2026, realizada na noite de domingo (15) em Los Angeles, foi marcada por momentos históricos, como a disputa de uma nova categoria, dedicada à seleção de elenco. A premiação também registrou um marco inédito: pela primeira vez na história da premiação, uma mulher venceu o prêmio de melhor fotografia.&lt;/p&gt;
+&lt;p&gt;A diretora de fotografia Autumn Durald Arkapaw (destaque) fez história ao receber a estatueta por seu trabalho em&lt;/p&gt;
+&lt;p&gt;, dirigido por Ryan Coogler. A conquista encerra uma longa ausência feminina na categoria e foi celebrada como um avanço importante para a presença de mulheres nas áreas técnicas do cinema.&lt;/p&gt;
+&lt;p&gt;Outro momento marcante da cerimônia veio com a vitória de Jessie Buckley como melhor atriz por&lt;/p&gt;
+&lt;p&gt;Em um discurso emocionado, a atriz dedicou o prêmio à maternidade e às mulheres que conciliam o trabalho profissional com as atividades domésticas.&lt;/p&gt;
+&lt;p&gt;“Este prêmio é para o caos maravilhoso que existe no coração de uma mãe”, disse Buckley, lembrando da filha de oito meses e celebrando o que chamou de força e ternura prática aprendidas ao interpretar a personagem Agnes. A atriz também homenageou todas as mães, destacando a potência da experiência feminina dentro e fora das telas.&lt;/p&gt;
+&lt;p&gt;A presença das mulheres também foi destaque na nova categoria em disputa na edição de 2026 do Oscar: melhor seleção de elenco. O prêmio foi concedido à Cassandra Kulukundis, pelo filme&lt;/p&gt;
+&lt;p&gt;, reforçando o reconhecimento de uma área fundamental para a construção das narrativas cinematográficas.&lt;/p&gt;
+&lt;p&gt;Ao longo da noite, o drama épico&lt;/p&gt;
+&lt;p&gt;, dirigido por Paul Thomas Anderson, dominou a premiação ao conquistar os principais prêmios, incluindo Melhor Filme, Direção, Roteiro Adaptado e Montagem.&lt;/p&gt;
+&lt;p&gt;também teve destaque ao vencer em categorias importantes, como Fotografia, Trilha Sonora e Roteiro Original.&lt;/p&gt;
+&lt;p&gt;Entre as atuações premiadas, além de Jessie Buckley, Michael B. Jordan venceu como melhor ator por&lt;/p&gt;
+&lt;p&gt;, enquanto Sean Penn levou o Oscar de ator coadjuvante por&lt;/p&gt;
+&lt;p&gt;. Amy Madigan foi premiada como melhor atriz coadjuvante por&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/mulheres-marcam-noite-do-oscar-2026-com-conquistas-historicas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS/Mario Anzuoni/ Proibido reprodução
+A cerimônia do Oscar 2026, realizada na noite de domingo (15) em Los Angeles, foi marcada por momentos h...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-16 17:39:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-16 17:39:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-16 17:39:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-16 17:39:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/WoDq3TNVERe28FNVhC52nDTf57Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/2026-03-16t030959z_159874365_hp1em3g0621tl_rtrmadp_3_awards-oscars.jpg?itok=SBY43pRk</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Fachin defende que juízes tenham integridade na vida pública e privada</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/fachin-defende-que-juizes-tenham-integridade-na-vida-publica-e-privada</link>
+      <pubDate>Mon, 16 Mar 2026 21:31:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/fachin-defende-que-juizes-tenham-integridade-na-vida-publica-e-privada#1003</guid>
+      <description>O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, disse nesta segunda-feira (16) que
+juízes devem manter integridade na vida púb...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Gy9oGZ4v2G7AggwmrHTpvMYDD1E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/02/pzzb8472.jpg?itok=xZN5GM1L&quot; alt=&quot;Fachin defende que juízes tenham integridade na vida pública e privada&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, disse nesta segunda-feira (16) que&lt;/p&gt;
+&lt;p&gt;juízes devem manter integridade na vida pública e privada&lt;/p&gt;
+&lt;p&gt;Fachin participou, nestamanhã, de uma aula magna no curso de direito do Centro Universitário de Brasília (Ceub), instituição particular da capital federal.&lt;/p&gt;
+&lt;p&gt;Ao comentar sobre os desafios contemporâneos da Corte, o ministro disse que os magistrados devem seguir princípios que já fazem parte das normas disciplinares dos juízes.Fachin também afirmou que “ninguém tem uma Constituição para chamar de sua”.&lt;/p&gt;
+&lt;p&gt;“Há, nada obstante, diretrizes que podem ser recolhidas da experiência e de cartas de princípios nacionais e internacionais. Integridade na vida pública e privada, uma vez que [o magistrado] deve adotar comportamento irrepreensível na vida pública e privada&quot;, disse o ministro.&lt;/p&gt;
+&lt;p&gt;O presidente também afirmou que os juízes devem ser prudentes ao se manifestarem sobre processos que são submetidos a julgamento e devem recusar o recebimento de vantagens.&lt;/p&gt;
+&lt;p&gt;“Por isso que é vedado receber benefícios, presentes ou vantagens de pessoas interessadas em processos&quot;, comentou.&lt;/p&gt;
+&lt;p&gt;&gt;&gt;Dino acaba com a aposentadoria compulsória como punição a juízes&lt;/p&gt;
+&lt;p&gt;Fachin também voltou a defender a separação entre os Três Poderes. O ministro disse que a Corte acumulou “razoável expansão de sua atuação” por determinação da Constituição e ao ser impulsionada pelos debates de outros atores.&lt;/p&gt;
+&lt;p&gt;“A autocontenção não é fraqueza. É respeito à separação de poderes que, em última análise, é ela própria uma exigência constitucional”, completou.&lt;/p&gt;
+&lt;p&gt;Fachin defende adoção de um Código de Ética para os ministros do Supremo.&lt;/p&gt;
+&lt;p&gt;No mês passado, a ministra Cármen Lúcia foi designada para relatar a proposta de criação da norma&lt;/p&gt;
+&lt;p&gt;O anúncio sobre a criação deum código deética ocorreu em meio à investigação sobre o&lt;/p&gt;
+&lt;p&gt;e às citações aos nomes dos ministros Alexandre de Moraes e Dias Toffoli.&lt;/p&gt;
+&lt;p&gt;Ancelotti convoca Seleção com novidades e sem Neymar; confira&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/fachin-defende-que-juizes-tenham-integridade-na-vida-publica-e-privada&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, disse nesta segunda-feira (16) que
+juízes devem manter integridade na vida púb...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-16 17:35:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-16 17:35:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-16 17:35:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-16 17:35:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Gy9oGZ4v2G7AggwmrHTpvMYDD1E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/02/pzzb8472.jpg?itok=xZN5GM1L</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Brasil quer aumentar produção e importação de gás da Bolívia</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/brasil-quer-aumentar-producao-e-importacao-de-gas-da-bolivia</link>
+      <pubDate>Mon, 16 Mar 2026 21:31:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/brasil-quer-aumentar-producao-e-importacao-de-gas-da-bolivia#1004</guid>
+      <description>© Marcelo Camargo/Agência Brasil
+O presidente Luiz Inácio Lula da Silva afirmou, nesta segunda-feira (16), que é interesse do Brasil incrementar a pr...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9o3Z46YLiSgjk9wmhPjmAfl-TQ0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/mcm_0608.jpg?itok=Zmgiw-6V&quot; alt=&quot;Brasil quer aumentar produção e importação de gás da Bolívia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O presidente Luiz Inácio Lula da Silva afirmou, nesta segunda-feira (16), que é interesse do Brasil incrementar a produção de gás na Bolívia e aumentar o volume de importação do insumo para o Brasil.&lt;/p&gt;
+&lt;p&gt;Lula recebeu o novo presidente boliviano, Rodrigo Paz, em visita oficial no Palácio do Planalto e destacou a cooperação energética como um pilar estruturante da parceria entre os dois países.&lt;/p&gt;
+&lt;p&gt;“Em um contexto internacional marcado por conflitos que ameaçam a provisão segura de combustíveis, a Bolívia permanece como uma fonte segura e mantém a condição de maior fornecedor de gás natural para o Brasil”, disse Lula em declaração à imprensa.&lt;/p&gt;
+&lt;p&gt;Lula acrescentou que conversou com Paz sobrea possibilidade de ampliar investimentos nessa área e incrementar o volume exportado para o mercado brasileiro.&lt;/p&gt;
+&lt;p&gt;Para Lula, há décadasa Petrobras ajuda a construir na Bolívia “uma das mais importantes experiências de integração energética da América Latina”. Ainda assim, a estatal, que já foi responsável por 60% da produção de gás natural boliviano, opera hoje 25% do total produzido no país.&lt;/p&gt;
+&lt;p&gt;“O Gasoduto Brasil–Bolívia serviu muito ao crescimento da indústria brasileira e do setor de hidrocarbonetos boliviano. Hoje, ele pode ser aproveitado para uma integração mais ampla dos mercados de gás do Cone Sul. Também poderá contribuir para abastecer a fábrica de fertilizantes que o governo boliviano considera instalar em Puerto Quijaro”, disse Lula.&lt;/p&gt;
+&lt;p&gt;Durante a visita desta segunda-feira, Brasil e Bolívia firmaram acordo para a interconexãotambémdos sistemas elétricos. A previsão é a construção de uma linha de transmissão entre a província de Germán Busch, no departamento boliviano de Santa Cruz, e o município de Corumbá, no estado brasileiro de Mato Grosso do Sul.&lt;/p&gt;
+&lt;p&gt;“Vamos otimizar o uso dos recursos existentes nos dois países e levar eletricidade a regiões ainda dependentes de diesel.&quot;, ressaltou Lula.&lt;/p&gt;
+&lt;p&gt;O presidente brasileiro disse ainda que oBrasil está disposto a cooperar com a Bolívia também com apoio à produção de biocombustíveis e outros recursos renováveis. &quot;Isso significa mais segurança energética e diversificação de fontes de fornecimento, além de possibilitar a descarbonização de nossas economias”.&lt;/p&gt;
+&lt;p&gt;O presidente Rodrigo Paz também destacou as possibilidades de parcerias em mineração, já que a Bolívia tem grandes concentrações e diversidade de minerais.&lt;/p&gt;
+&lt;p&gt;“A capacidade de desenvolvimento da Bolívia é extraordinária e disso depende também a boa fé e as relações geradas com nações irmãs, como é o Brasil”, disse.&lt;/p&gt;
+&lt;p&gt;Além da cooperação na área de energia,&lt;/p&gt;
+&lt;p&gt;os dois presidentes trataram de outros temas como integração física, combate a ilícitos transnacionais, comércio e investimentos, cooperação para o desenvolvimento e temas migratórios e consulares.&lt;/p&gt;
+&lt;p&gt;Um segundo ato de cooperação assinado durante a visita de hoje trata de cooperação turística, em especial para promoção do turismo e formação e qualificação na área.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/brasil-quer-aumentar-producao-e-importacao-de-gas-da-bolivia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
+O presidente Luiz Inácio Lula da Silva afirmou, nesta segunda-feira (16), que é interesse do Brasil incrementar a pr...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-03-16 17:12:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-16 17:12:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-16 17:12:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-16 17:12:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/9o3Z46YLiSgjk9wmhPjmAfl-TQ0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/mcm_0608.jpg?itok=Zmgiw-6V</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Em 20 anos, CNJ puniu 126 magistrados com aposentadoria compulsória</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/em-20-anos-cnj-puniu-126-magistrados-com-aposentadoria-compulsoria</link>
+      <pubDate>Mon, 16 Mar 2026 21:31:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/em-20-anos-cnj-puniu-126-magistrados-com-aposentadoria-compulsoria#1005</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+O Conselho Nacional de Justiça (CNJ) informou nesta segunda-feira (16) que 126 magistrados foram condenados pelo ór...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/BfSBBg9Kf4wR9Lpd8QlpyxP-zVE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20231102_134202.jpg?itok=m2xwGymv&quot; alt=&quot;Em 20 anos, CNJ puniu 126 magistrados com aposentadoria compulsória&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Conselho Nacional de Justiça (CNJ) informou nesta segunda-feira (16) que 126 magistrados foram condenados pelo órgão à aposentadoria compulsória desde 2006&lt;/p&gt;
+&lt;p&gt;, do Supremo Tribunal Federal (STF),&lt;/p&gt;
+&lt;p&gt;decidir que a perda do cargo, e não a aposentadoria compulsória&lt;/p&gt;
+&lt;p&gt;, pode ser aplicada como pena máxima aos magistrados condenados administrativamente pelo conselho.&lt;/p&gt;
+&lt;p&gt;O CNJ foi criado em 2005 e é responsável pelo julgamento de faltas disciplinares cometidas por juízes e desembargadores.&lt;/p&gt;
+&lt;p&gt;Ao longo da história, o CNJ aplicou a Lei Orgânica da Magistratura Nacional (Loman).&lt;/p&gt;
+&lt;p&gt;A norma definiu que são penas disciplinares a advertência, censura, remoção compulsória, disponibilidade com vencimentos proporcionais ao tempo de serviço e aposentadoria compulsória com vencimentos proporcionais ao tempo de serviço. Esta última é a punição mais grave.&lt;/p&gt;
+&lt;p&gt;Antes da decisão de Dino, magistrados mantinham o recebimento mensal dos vencimentos após a condenação pelo órgão.&lt;/p&gt;
+&lt;p&gt;Para o ministro, é “estranho” que a aposentadoria seja aplicada como punição.&lt;/p&gt;
+&lt;p&gt;“Aplicadaapós o devido processo legal, a depender do grau de reprovabilidade da conduta, a penalidade pode corresponder até mesmo à perda do cargo público”, afirmou o ministro.&lt;/p&gt;
+&lt;p&gt;Ancelotti convoca Seleção com novidades e sem Neymar; confira&lt;/p&gt;
+&lt;p&gt;Mulheres na Ciência: Pesquisadoras estudam o potencial farmacológico do murumuru&lt;/p&gt;
+&lt;p&gt;SP: troca de tiros em Capão Redondo deixa dois mortos e cinco feridos&lt;/p&gt;
+&lt;p&gt;MPF propõe que prédio abandonado do INSS no Rio vire moradia popular&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/em-20-anos-cnj-puniu-126-magistrados-com-aposentadoria-compulsoria&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+O Conselho Nacional de Justiça (CNJ) informou nesta segunda-feira (16) que 126 magistrados foram condenados pelo ór...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-03-16 17:09:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-16 17:09:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-16 17:09:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-16 17:09:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/BfSBBg9Kf4wR9Lpd8QlpyxP-zVE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20231102_134202.jpg?itok=m2xwGymv</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Receita encurta prazo para entregar declaração do IRPF 2026</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/receita-encurta-prazo-para-entregar-declaracao-do-irpf-2026</link>
+      <pubDate>Mon, 16 Mar 2026 21:31:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/receita-encurta-prazo-para-entregar-declaracao-do-irpf-2026#1006</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+Os 44 milhões de contribuintes obrigados a apresentaraDeclaração de Ajuste Anual do
+Imposto sobre a Renda da Pessoa...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/foCfLHj2gObESxyQPJTgAfQ8mug=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/whatsapp_image_2026-03-16_at_16.06.333.jpg?itok=rj8FXCJr&quot; alt=&quot;Receita encurta prazo para entregar declaração do IRPF 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Os 44 milhões de contribuintes obrigados a apresentaraDeclaração de Ajuste Anual do&lt;/p&gt;
+&lt;p&gt;Imposto sobre a Renda da Pessoa Física&lt;/p&gt;
+&lt;p&gt;neste ano (IRPF 2026) terão um prazo menor do que o habitual para enviar a declaração à Receita Federal.&lt;/p&gt;
+&lt;p&gt;A entrega do documento começará mais tarde neste ano,&lt;/p&gt;
+&lt;p&gt;, e o prazo se encerrará às 23h59m59s de 29 de maio&lt;/p&gt;
+&lt;p&gt;As datas estão na instrução normativa publicada nesta segunda-feira (16) no&lt;/p&gt;
+&lt;p&gt;.Tradicionalmente, o prazo de entrega começa em 15 de março, ou no primeiro dia útil posterior, e vai até o último dia útil de maio.&lt;/p&gt;
+&lt;p&gt;Em 2026, os contribuintes terão pouco mais de dois meses para prestar contas ao Fisco, contra o prazo habitual de dois meses e meio.&lt;/p&gt;
+&lt;p&gt;Com o adiamento do início do prazo,&lt;/p&gt;
+&lt;p&gt;o programa gerador da declaração só será liberado na próxima sexta-feira (20), às 8h, para download e preenchimento, mas sem transmissão&lt;/p&gt;
+&lt;p&gt;Quem perder o prazo estará sujeito a multa de1% ao mês sobre o imposto devido de 2025, mesmo que o tributo já tenha sido quitado. A penalidade tem valor mínimo de R$ 165,74 e pode chegar a 20% do imposto devido, segundo a Receita.&lt;/p&gt;
+&lt;p&gt;Devem entregar a declaração os contribuintes que, em 2025, receberam rendimentos tributáveis acima de R$ 35.584, como salários, aposentadorias, pensões ou aluguéis.&lt;/p&gt;
+&lt;p&gt;Também entram na obrigatoriedade pessoas que tiveram rendimentos isentos ou tributados na fonte acima de R$ 200 mil, obtiveram ganho de capital na venda de bens, realizaram operações relevantes em bolsa ou possuíam bens e direitos acima de R$ 800 mil em 31 de dezembro de 2025.&lt;/p&gt;
+&lt;p&gt;Produtores rurais com receita bruta superior a R$ 177.920 e contribuintes que passaram a residir no Brasil em 2025 também precisam declarar.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/receita-encurta-prazo-para-entregar-declaracao-do-irpf-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+Os 44 milhões de contribuintes obrigados a apresentaraDeclaração de Ajuste Anual do
+Imposto sobre a Renda da Pessoa...</excerpt:encoded>
+      <wp:post_id>1006</wp:post_id>
+      <wp:post_date>2026-03-16 17:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-16 17:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-16 17:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-16 17:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/foCfLHj2gObESxyQPJTgAfQ8mug=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/whatsapp_image_2026-03-16_at_16.06.333.jpg?itok=rj8FXCJr</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Idosos sentem maior vulnerabilidade a golpes online em SP</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/idosos-sentem-maior-vulnerabilidade-golpes-online-em-sp</link>
-      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 21:31:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/idosos-sentem-maior-vulnerabilidade-golpes-online-em-sp#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/idosos-sentem-maior-vulnerabilidade-golpes-online-em-sp#1007</guid>
       <description>No estado de São Paulo, 68% da população acima dos 60 anos se sentem vulneráveisa golpes
 estudo inédito da Fundação Sistema Estadual de Análise de Da...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yBw2s8h0Seq7CBcTpQgIWi_ilvk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/16/_mg_8554.jpg?itok=fSNbNJIY&quot; alt=&quot;Idosos sentem maior vulnerabilidade a golpes online em SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +392,7 @@ estudo inédito da Fundação Sistema Estadual de Análise de Da...</description
 &lt;p&gt;Também merecem destaque os dados relativos à&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/idosos-sentem-maior-vulnerabilidade-golpes-online-em-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>No estado de São Paulo, 68% da população acima dos 60 anos se sentem vulneráveisa golpes
 estudo inédito da Fundação Sistema Estadual de Análise de Da...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-16 16:47:00</wp:post_date>
       <wp:post_date_gmt>2026-03-16 16:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-16 16:47:00</wp:post_modified>
@@ -73,9 +418,9 @@ estudo inédito da Fundação Sistema Estadual de Análise de Da...</excerpt:enc
     <item>
       <title>Caixa libera abono salarial para nascidos em fevereiro</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-libera-abono-salarial-para-nascidos-em-fevereiro</link>
-      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 21:31:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-libera-abono-salarial-para-nascidos-em-fevereiro#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-libera-abono-salarial-para-nascidos-em-fevereiro#1008</guid>
       <description>© Marcello Casal JrAgência Brasil
 Os trabalhadores nascidos em fevereiro que ganharam até R$ 2.766 com carteira assinada em 2024 recebem nesta segund...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/S2zWwZo25tbWXi1ctso11Hys3LQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moeda_020120a84t47535211.jpg?itok=NiLO4FGV&quot; alt=&quot;Caixa libera abono salarial para nascidos em fevereiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +441,7 @@ Os trabalhadores nascidos em fevereiro que ganharam até R$ 2.766 com carteira a
 &lt;p&gt;Recebeu remuneração média mensal de até R$ 2.766 no ano-base;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-libera-abono-salarial-para-nascidos-em-fevereiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 Os trabalhadores nascidos em fevereiro que ganharam até R$ 2.766 com carteira assinada em 2024 recebem nesta segund...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-16 16:37:00</wp:post_date>
       <wp:post_date_gmt>2026-03-16 16:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-16 16:37:00</wp:post_modified>
@@ -122,9 +467,9 @@ Os trabalhadores nascidos em fevereiro que ganharam até R$ 2.766 com carteira a
     <item>
       <title>CNU 2 divulga resultado final com classificações e lista de espera</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/cnu-divulga-resultado-final-com-classificacoes-e-lista-de-espera</link>
-      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2026 21:31:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/cnu-divulga-resultado-final-com-classificacoes-e-lista-de-espera#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/cnu-divulga-resultado-final-com-classificacoes-e-lista-de-espera#1009</guid>
       <description>O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) e a Escola Nacional de Administração Pública (Enap)divulgaram nesta segunda-feira (16...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jsChBEYXPD7Rr7orIBZWK1hZMWQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/05/toms8790.jpg?itok=Z1FwvKCV&quot; alt=&quot;CNU 2 divulga resultado final com classificações e lista de espera&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) e a Escola Nacional de Administração Pública (Enap)divulgaram nesta segunda-feira (16)o resultado final da segunda edição do Concurso Público Nacional Unificado (CNU).&lt;/p&gt;
@@ -143,7 +488,7 @@ Os trabalhadores nascidos em fevereiro que ganharam até R$ 2.766 com carteira a
 &lt;p&gt;Após 16 de março: início das convocações para nomeação, e, quando couber, para o procedimento de investigação social e funcional, a realização da defesa de memorial; prova oral e o curso ou programa de formação&lt;/p&gt;
 &lt;p&gt;17 a 24 de março: prazo para preenchimento da Ficha de Informações Pessoais, referente à fase de investigação social e funcional para o cargo de analista técnico de justiça e defesa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/cnu-divulga-resultado-final-com-classificacoes-e-lista-de-espera&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) e a Escola Nacional de Administração Pública (Enap)divulgaram nesta segunda-feira (16...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-16 16:29:00</wp:post_date>
       <wp:post_date_gmt>2026-03-16 16:29:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-16 16:29:00</wp:post_modified>
@@ -164,336 +509,6 @@ Os trabalhadores nascidos em fevereiro que ganharam até R$ 2.766 com carteira a
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/jsChBEYXPD7Rr7orIBZWK1hZMWQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/05/toms8790.jpg?itok=Z1FwvKCV</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>PGR denuncia Bacellar e TH Joias por obstrução de investigação</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pgr-denuncia-bacellar-e-th-joias-por-obstrucao-de-investigacao</link>
-      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pgr-denuncia-bacellar-e-th-joias-por-obstrucao-de-investigacao#1003</guid>
-      <description>A Procuradoria-Geral da República (PGR) denunciou, ao Supremo Tribunal Federal (STF), o deputado estadual
-Rodrigo Bacellar (União Brasil)e o ex-deput...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uDr681vzgOE78E8HGi6xdmZYysc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/03/26112025_162803ordemdodia_26_11_2025_thiagolontra-27.jpg?itok=kVqz-ZlO&quot; alt=&quot;PGR denuncia Bacellar e TH Joias por obstrução de investigação&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Procuradoria-Geral da República (PGR) denunciou, ao Supremo Tribunal Federal (STF), o deputado estadual&lt;/p&gt;
-&lt;p&gt;Rodrigo Bacellar (União Brasil)e o ex-deputado estadual Thiego Santos, conhecido como TH Joias,pelo crime de obstrução de investigação.&lt;/p&gt;
-&lt;p&gt;Também foram denunciados o desembargador Macário Ramos Júdice Neto, do Tribunal Regional Federal da Segunda Região (TRF2), além de duas pessoas ligadas a TH Joias.&lt;/p&gt;
-&lt;p&gt;De acordo com a acusação, eles teriam vazado informações sigilosas sobre uma investigação de tráfico de armas e drogas para a organização criminosa Comando Vermelho (CV).&lt;/p&gt;
-&lt;p&gt;O desembargador e TH Joias já estão presos preventivamente por determinação do ministro Alexandre de Moraes, relator do caso, que tramita na Corte.&lt;/p&gt;
-&lt;p&gt;Bacellar chegou a ser preso em dezembro do ano passado&lt;/p&gt;
-&lt;p&gt;, mas uma votação da Assembleia Legislativa do Estado do Rio de Janeiro (Alerj) determinou sua soltura. O deputado era presidente da Alerj e foi afastado do cargo, mas segue licenciado do mandato parlamentar e usa&lt;/p&gt;
-&lt;p&gt;A denúncia da PGR foi baseada na investigação realizada pela Polícia Federal (PF).&lt;/p&gt;
-&lt;p&gt;Os investigadores apuraram que o deputado Rodrigo Bacelar foi informado antecipadamente sobre a operação na qual TH Joias foi preso.&lt;/p&gt;
-&lt;p&gt;Com acesso privilegiado à informação, TH conseguiu esconder provas que poderiam ser apreendidas.&lt;/p&gt;
-&lt;p&gt;No decorrer da investigação, a PF encontrou indícios de que a fonte do vazamento tenha sido o desembargador Macário Ramos.&lt;/p&gt;
-&lt;p&gt;Atualmente, TH Joias está preso na Penitenciária Federal de Brasília. A&lt;/p&gt;
-&lt;p&gt;busca contato com as defesas dos acusados.&lt;/p&gt;
-&lt;p&gt;Pesquisa da Ufopa investiga potencial da manteiga de murumuru&lt;/p&gt;
-&lt;p&gt;Mulheres na Ciência: Pesquisadoras estudam o potencial farmacológico do murumuru&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pgr-denuncia-bacellar-e-th-joias-por-obstrucao-de-investigacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Procuradoria-Geral da República (PGR) denunciou, ao Supremo Tribunal Federal (STF), o deputado estadual
-Rodrigo Bacellar (União Brasil)e o ex-deput...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
-      <wp:post_date>2026-03-16 16:28:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-16 16:28:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-16 16:28:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-16 16:28:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/uDr681vzgOE78E8HGi6xdmZYysc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/03/26112025_162803ordemdodia_26_11_2025_thiagolontra-27.jpg?itok=kVqz-ZlO</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Tite é demitido do Cruzeiro após empate com Vasco no Brasileirão</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/tite-e-demitido-do-cruzeiro-apos-empate-com-vasco-no-brasileirao</link>
-      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/tite-e-demitido-do-cruzeiro-apos-empate-com-vasco-no-brasileirao#1004</guid>
-      <description>© Gustavo Aleixo/Cruzeiro/Direitos Reservados
-Uma semana após ter conquistado o título do Campeonato Mineiro, o técnico Tite foi demitido do comando ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/b4d_fsuOYiy3JH-KPrAdge1yWzs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/tite_tecnico_cruzeiro.jpg?itok=oHbSn66T&quot; alt=&quot;Tite é demitido do Cruzeiro após empate com Vasco no Brasileirão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Gustavo Aleixo/Cruzeiro/Direitos Reservados&lt;/p&gt;
-&lt;p&gt;Uma semana após ter conquistado o título do Campeonato Mineiro, o técnico Tite foi demitido do comando técnico do Cruzeiro após o time arrancar o empate (3 a 3) com o Vasco em Belo Horizonte, pela sexta rodada do Brasileirão. Há apenas três meses do cargo, Tite se junta a outros cinco treinadores demitidos neste início de temporada – Juan Carlos Osório (Remo), Fernando Diniz (Vasco), Jorge Sampaoli (Atlético-MG), Filipe Luís (Flamengo) e Hernán Crespo (São Paulo).&lt;/p&gt;
-&lt;p&gt;O Cruzeiro informa que decidiu pelo encerramento do trabalho de Tite como treinador da equipe.&lt;/p&gt;
-&lt;p&gt;Junto ao técnico também deixam o clube os auxiliares Matheus Bachi, Vinicius Bergantin e o preparador físico Fabio Mahseredjian.&lt;/p&gt;
-&lt;p&gt;Agradecemos aos serviços prestados e desejamos sucesso…&lt;/p&gt;
-&lt;p&gt;Sem nenhuma vitória na competição nacional – foram três derrotas e três empates em seis partidas - o Cruzeiro é o vice-lanterna do Brasileirão: está em 19º lugar, com apenas três pontos. O próximo compromisso da equipe é na próxima quarta (18), contra o Atlhetico-PR, às 20h (horário de Brasília), na Arena da Baixada, em Curitiba. Segundo nota do clube, o time será comandado interinamente pelo auxiliar permanente Wesley Carvalho.&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
-&lt;p&gt;Ex-técnico da seleção brasileira, Tite assumiu o comando da Raposa no final do ano passado, no lugar do treinador português Leonardo Jardim – atualmente no Flamengo - que pediu para deixar o clube após eliminação nas semifinais da Copa do Brasil. No Campeonato Mineiro, Tite enfileirou oito vitórias e apenas três derrotas em 11 jogos.&lt;/p&gt;
-&lt;p&gt;Além de Tite, também deixam o clube os auxiliares dele: Matheus Bachi, Vinicius Bergantin e o preparador físico Fabio Mahseredjian.&lt;/p&gt;
-&lt;p&gt;Pesquisa da Ufopa investiga potencial da manteiga de murumuru&lt;/p&gt;
-&lt;p&gt;Mulheres na Ciência: Pesquisadoras estudam o potencial farmacológico do murumuru&lt;/p&gt;
-&lt;p&gt;José Luiz Datena recebe ex-jogador da seleção brasileira Craque Neto&lt;/p&gt;
-&lt;p&gt;Em 20 anos, CNJ puniu 126 magistrados com aposentadoria compulsória&lt;/p&gt;
-&lt;p&gt;Receita encurta prazo para entregar declaração do IRPF 2026&lt;/p&gt;
-&lt;p&gt;Idosos sentem maior vulnerabilidade a golpes online em SP&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/tite-e-demitido-do-cruzeiro-apos-empate-com-vasco-no-brasileirao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Gustavo Aleixo/Cruzeiro/Direitos Reservados
-Uma semana após ter conquistado o título do Campeonato Mineiro, o técnico Tite foi demitido do comando ...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-03-16 16:05:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-16 16:05:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-16 16:05:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-16 16:05:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/b4d_fsuOYiy3JH-KPrAdge1yWzs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/tite_tecnico_cruzeiro.jpg?itok=oHbSn66T</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Rodoviários de São Luís fazem greve para cobrar pagamento de reajustes</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/rodoviarios-de-sao-luis-fazem-greve-para-cobrar-pagamento-de-reajustes</link>
-      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/rodoviarios-de-sao-luis-fazem-greve-para-cobrar-pagamento-de-reajustes#1005</guid>
-      <description>© Honório Moreira/Prefeitura São Luís/Arquivo
-A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nesta segunda-feira (16), sem ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/78AwkWRPXYO7nFgQzNvbNHQTCZE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/terminal_da_praia_grande.jpg?itok=082vYUMX&quot; alt=&quot;Rodoviários de São Luís fazem greve para cobrar pagamento de reajustes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Honório Moreira/Prefeitura São Luís/Arquivo&lt;/p&gt;
-&lt;p&gt;A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nesta segunda-feira (16), sem previsão de acordo. Desde sexta-feira (13), as linhas urbanas da capital estão sem funcionar e apenas ônibus do sistema semiurbano circulam na Grande São Luís.&lt;/p&gt;
-&lt;p&gt;Uma reunião foi marcada para a tarde de hoje pelo Ministério Público do Maranhão para tentar resolver o impasse em torno das negociações entre empresários e os rodoviários.&lt;/p&gt;
-&lt;p&gt;O encontro vai discutir a situação do transporte urbano, com a presença de representantes dos rodoviários, das empresas e da Secretaria Municipal de Trânsito e Transportes (SMTT).&lt;/p&gt;
-&lt;p&gt;A greve foi deflagrada pelos rodoviários do sistema urbano de São Luís, que pedem o pagamento do reajuste nos salários, obtido após acordo feito junto a Justiça do Trabalho, no último movimento paredista realizado em fevereiro deste ano.&lt;/p&gt;
-&lt;p&gt;Segundo o Sindicato dos Rodoviários do Maranhão (Sttrema), houve avanço nas tratativas envolvendo o sistema semiurbano, o que possibilitou a continuação da operação.&lt;/p&gt;
-&lt;p&gt;Já em relação ao sistema urbano, até o momento não houve nenhum indicativo de pagamento do reajuste salarial dos trabalhadores.&lt;/p&gt;
-&lt;p&gt;“O Sindicato dos Rodoviários do Maranhão segue acompanhando atentamente a situação, aberto ao diálogo e cobrando soluções do SET [Sindicato das Empresas de Transporte de Passageiros], que assegurem todos os direitos da categoria”, diz nota divulgada pelo sindicato.&lt;/p&gt;
-&lt;p&gt;Sem o transporte coletivo, a população teve que recorrer a alternativas como vans, moto táxi, carrinhos-lotação ou carros por aplicativo para tentar se locomover.&lt;/p&gt;
-&lt;p&gt;Em nota, a SMTT disse que o movimento decorre do não cumprimento, por parte das empresas de ônibus, da decisão da Justiça do Trabalho.&lt;/p&gt;
-&lt;p&gt;“Mesmo após a decisão judicial, as empresas não garantiram aos trabalhadores as vantagens determinadas pela Justiça do Trabalho, o que levou à greve no sistema urbano de transporte público”, diz a Secretaria, em nota.&lt;/p&gt;
-&lt;p&gt;A pasta disse ainda que vem cumprindo regularmente todas as suas obrigações financeiras com o sistema de transporte público, “com os repasses do subsídio às empresas sendo realizados em dia, sem qualquer dedução ou atraso.”&lt;/p&gt;
-&lt;p&gt;Ainda de acordo com a SMTT, a Prefeitura adotou medidas emergenciais, como a liberação de vouchers para utilização em aplicativos de transporte.&lt;/p&gt;
-&lt;p&gt;O Sindicato das Empresas de Transporte de Passageiros rebateu as afirmações da SMTT e disse que o subsídio pago pela prefeitura não sofreu reajuste desde janeiro de 2024,&lt;/p&gt;
-&lt;p&gt;mesmo com dois reajustes salariais e o aumento no custo dos serviços e que o acordo firmado na Justiça do Trabalho ocorreu sem a participação da prefeitura.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/rodoviarios-de-sao-luis-fazem-greve-para-cobrar-pagamento-de-reajustes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Honório Moreira/Prefeitura São Luís/Arquivo
-A paralisação do transporte urbano em São Luís (MA) entrou no quarto dia nesta segunda-feira (16), sem ...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-03-16 15:56:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-16 15:56:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-16 15:56:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-16 15:56:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/78AwkWRPXYO7nFgQzNvbNHQTCZE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/terminal_da_praia_grande.jpg?itok=082vYUMX</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Anac autoriza cargueira mexicana a operar regularmente no Brasil</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/anac-autoriza-cargueira-mexicana-operar-regularmente-no-brasil</link>
-      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/anac-autoriza-cargueira-mexicana-operar-regularmente-no-brasil#1006</guid>
-      <description>A Agência Nacional de Aviação Civil (Anac) autorizou a empresa mexicana TM Aerolíneas a operar serviços regulares de transporte aéreo internacional d...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VPn69shsAbe5wT5jSgo93oCQF6c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/2a020615-9769-4374-8afa-e313c42fec09.jpeg?itok=F6uBmq0k&quot; alt=&quot;Anac autoriza cargueira mexicana a operar regularmente no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Agência Nacional de Aviação Civil (Anac) autorizou a empresa mexicana TM Aerolíneas a operar serviços regulares de transporte aéreo internacional de carga com origem ou destino no Brasil.&lt;/p&gt;
-&lt;p&gt;Sediada na Cidade do México, a TM Aerolíneas opera comercialmente sob o nome Awesome Cargo e há meses vinha fazendo a rota China-Campinas (SP), com voos fretados.&lt;/p&gt;
-&lt;p&gt;da última sexta-feira (13) foi concedida após a companhia ter cumprido todas as exigências e requisitos legais.&lt;/p&gt;
-&lt;p&gt;Ainda de acordo com a Anac, a entrada da TM Aerolíneas no mercado brasileiro deve fortalecer a movimentação internacional de cargas, “contribuindo para o aumento da eficiência logística e para a ampliação das rotas disponíveis para o transporte de mercadorias”.&lt;/p&gt;
-&lt;p&gt;Pesquisa da Ufopa investiga potencial da manteiga de murumuru&lt;/p&gt;
-&lt;p&gt;Mulheres na Ciência: Pesquisadoras estudam o potencial farmacológico do murumuru&lt;/p&gt;
-&lt;p&gt;José Luiz Datena recebe ex-jogador da seleção brasileira Craque Neto&lt;/p&gt;
-&lt;p&gt;Receita encurta prazo para entregar declaração do IRPF 2026&lt;/p&gt;
-&lt;p&gt;Idosos sentem maior vulnerabilidade a golpes online em SP&lt;/p&gt;
-&lt;p&gt;Caixa libera abono salarial para nascidos em fevereiro&lt;/p&gt;
-&lt;p&gt;CNU 2 divulga resultado final com classificações e lista de espera&lt;/p&gt;
-&lt;p&gt;PGR denuncia Bacellar e TH Joias por obstrução de investigação&lt;/p&gt;
-&lt;p&gt;Tite é demitido do Cruzeiro após empate com Vasco no Brasileirão&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/anac-autoriza-cargueira-mexicana-operar-regularmente-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Agência Nacional de Aviação Civil (Anac) autorizou a empresa mexicana TM Aerolíneas a operar serviços regulares de transporte aéreo internacional d...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-16 15:37:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-16 15:37:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-16 15:37:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-16 15:37:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/VPn69shsAbe5wT5jSgo93oCQF6c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/2a020615-9769-4374-8afa-e313c42fec09.jpeg?itok=F6uBmq0k</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Anvisa determina apreensão de azeite de oliva extravirgem</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-determina-apreensao-de-azeite-de-oliva-extravirgem</link>
-      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-determina-apreensao-de-azeite-de-oliva-extravirgem#1007</guid>
-      <description>A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (16) a apreensão do azeite de oliva extravirgem San Olivetto, da e...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/O_-2DJUL08dDr99sKy9v33igzTQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/3d1aed70-c5e2-41dc-8c51-1d0a278c129d_copy.jpg?itok=AUtXCi1i&quot; alt=&quot;Anvisa determina apreensão de azeite de oliva extravirgem&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (16) a apreensão do azeite de oliva extravirgem San Olivetto, da empresa Agro Industria e Cerealista Norte Paraná Ltda.&lt;/p&gt;
-&lt;p&gt;(DOU), a resolução proíbe ainda a comercialização, a distribuição, a fabricação, a importação, a propaganda e o uso do produto.&lt;/p&gt;
-&lt;p&gt;Em nota, a agência informou que a origem deste azeiteé desconhecida. “O rótulo indica como importadora a Agro Indústria e Cerealista Norte Paraná Ltda. A empresa, no entanto, está com CNPJ suspenso por inconsistência cadastral desde 22/5/2025”.&lt;/p&gt;
-&lt;p&gt;“Já a distribuidora, a empresa Comercial Alimentícia e Cerealista Capixaba Ltda, está com CNPJ baixado por encerramento desde novembro de 2024”, completou a Anvisa.&lt;/p&gt;
-&lt;p&gt;tenta contato com a empresa. O espaço segue aberto para posicionamento.&lt;/p&gt;
-&lt;p&gt;Pesquisa da Ufopa investiga potencial da manteiga de murumuru&lt;/p&gt;
-&lt;p&gt;Mulheres na Ciência: Pesquisadoras estudam o potencial farmacológico do murumuru&lt;/p&gt;
-&lt;p&gt;Caso PM Gisele: laudos complementares devem sair esta semana&lt;/p&gt;
-&lt;p&gt;Brasil quer aumentar produção e importação de gás da Bolívia&lt;/p&gt;
-&lt;p&gt;Em 20 anos, CNJ puniu 126 magistrados com aposentadoria compulsória&lt;/p&gt;
-&lt;p&gt;Receita encurta prazo para entregar declaração do IRPF 2026&lt;/p&gt;
-&lt;p&gt;Idosos sentem maior vulnerabilidade a golpes online em SP&lt;/p&gt;
-&lt;p&gt;Caixa libera abono salarial para nascidos em fevereiro&lt;/p&gt;
-&lt;p&gt;CNU 2 divulga resultado final com classificações e lista de espera&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-determina-apreensao-de-azeite-de-oliva-extravirgem&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (16) a apreensão do azeite de oliva extravirgem San Olivetto, da e...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-16 15:31:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-16 15:31:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-16 15:31:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-16 15:31:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/O_-2DJUL08dDr99sKy9v33igzTQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/3d1aed70-c5e2-41dc-8c51-1d0a278c129d_copy.jpg?itok=AUtXCi1i</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Anvisa recolhe esmaltes em gel com substância proibida</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-recolhe-esmaltes-em-gel-com-substancia-proibida</link>
-      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-recolhe-esmaltes-em-gel-com-substancia-proibida#1008</guid>
-      <description>A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (16) o recolhimento de esmaltes em gel da marca Impala, fabricados...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ipcb-AdEXw6EeMRZ7cetXl8kL5g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/fac30b4c-0a8e-45b5-908d-60e25c060c36.jpeg?itok=YbdoAeG_&quot; alt=&quot;Anvisa recolhe esmaltes em gel com substância proibida&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (16) o recolhimento de esmaltes em gel da marca Impala, fabricados pela empresa Laboratório Avamiller de Cosméticos Ltda.&lt;/p&gt;
-&lt;p&gt;De acordo com a Anvisa, a lista de produtos afetados inclui:&lt;/p&gt;
-&lt;p&gt;Plus Gel Esmalte Impala Gel (todos os lotes);&lt;/p&gt;
-&lt;p&gt;Esmalte Gel Impala Gel Plus (todos os lotes);&lt;/p&gt;
-&lt;p&gt;Gel Plus Impala Esmalte Gel (todos os lotes);&lt;/p&gt;
-&lt;p&gt;Esmalte Gel Plus Impala (todos os lotes);&lt;/p&gt;
-&lt;p&gt;Top Coat Gel Impala Gel Plus Clear (todos os lotes).&lt;/p&gt;
-&lt;p&gt;Em nota, a agência informou que a medida foi tomada após a empresa comunicar sobre o recolhimento voluntário de produtos que têm, em suas formulações, a substância INCI Trimethylbenzoyl Diphenylphosphine Oxide (TPO), proibida em cosméticos no Brasil.&lt;/p&gt;
-&lt;p&gt;Em outubro de 2025, a Anvisa publicou a&lt;/p&gt;
-&lt;p&gt;Resolução da Diretoria Colegiada (RDC) 995/2025&lt;/p&gt;
-&lt;p&gt;, que proíbe o uso de duas substâncias químicas em produtos de higiene pessoal, cosméticos e perfumes.&lt;/p&gt;
-&lt;p&gt;substâncias proibidas são o TPO&lt;/p&gt;
-&lt;p&gt;[óxido de difenil (2,4,6-trimetilbenzol) fosfina] e o DMPT (N,N-dimetil-p-toluidina), também conhecido como dimetiltolilamina (DMTA), que podem estar presentes em produtos usados para fazer unhas artificiais em gel ou esmaltes em gel, que precisam ser expostos à luz ultravioleta (UV) ou LED.&lt;/p&gt;
-&lt;p&gt;A medida, segundo a agência, tem como objetivo proteger a saúde da população contra riscos de câncer e problemas reprodutivos e foi aprovada em reunião da diretoria colegiada.&lt;/p&gt;
-&lt;p&gt;“A decisão é uma medida para proteger a saúde das pessoas que utilizam esses produtos e principalmente dos profissionais que trabalham com eles”, informou a Anvisa à época, citando que estudos internacionais em animais confirmaram que ambas as substâncias apresentam os seguintes riscos:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/anvisa-recolhe-esmaltes-em-gel-com-substancia-proibida&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Agência Nacional de Vigilância Sanitária (Anvisa) determinou nesta segunda-feira (16) o recolhimento de esmaltes em gel da marca Impala, fabricados...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-16 15:19:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-16 15:19:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-16 15:19:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-16 15:19:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Ipcb-AdEXw6EeMRZ7cetXl8kL5g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/fac30b4c-0a8e-45b5-908d-60e25c060c36.jpeg?itok=YbdoAeG_</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Médica é morta a tiros por policiais militares em abordagem no Rio</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/medica-e-morta-tiros-por-policiais-militares-em-abordagem-no-rio</link>
-      <pubDate>Mon, 16 Mar 2026 20:30:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/medica-e-morta-tiros-por-policiais-militares-em-abordagem-no-rio#1009</guid>
-      <description>A médica Andréa Marins Dias, de 61 anos, foi morta a tiros em seu carro durante uma abordagem policial, em Cascadura, na zona norte do Rio de Janeiro...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Zi7djOnQ8sjvFEbG9qC1GPzp-b0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/por_tras_de_cada_mulher_que_chega_no_consultorio.existe_uma_historia_marcada_por_dor_duvidas_e_fras.jpg?itok=2bOtkrmJ&quot; alt=&quot;Médica é morta a tiros por policiais militares em abordagem no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A médica Andréa Marins Dias, de 61 anos, foi morta a tiros em seu carro durante uma abordagem policial, em Cascadura, na zona norte do Rio de Janeiro, neste domingo (15).&lt;/p&gt;
-&lt;p&gt;A Secretaria de Estado de Polícia Militar lamentou a morte e informou que, por determinação do secretário de Polícia Militar,Marcelo de Menezes Nogueira,&lt;/p&gt;
-&lt;p&gt;foi instaurado um procedimento para apurar os fatos ocorridos durante a ação&lt;/p&gt;
-&lt;p&gt;“Vale informar que os policiais que faziam parte da equipe de agentes que efetuou a abordagem portavam as câmeras corporais. Os dispositivos e as armas utilizadas pelos agentes estão à disposição do procedimento investigativo pela Polícia Civil”, disse a corporação.&lt;/p&gt;
-&lt;p&gt;As investigações estão sendo conduzidas pela Delegacia de Homicídios da Capital (DHC).&lt;/p&gt;
-&lt;p&gt;A ministra da Igualdade Racial, Anielle Franco, disse em rede social que&lt;/p&gt;
-&lt;p&gt;testemunhas informaram que o carro da médica negra foi confundido com o de criminosos&lt;/p&gt;
-&lt;p&gt;“Até quando a ausência de políticas eficazes de segurança pública continuará produzindo cenas como essa? Até quando vamos perder pessoas negras para a violência?”, questiona a ministra.&lt;/p&gt;
-&lt;p&gt;Segundo Anielle, a médica atuava há 28 anos no cuidado com a saúde das mulheres. Era ginecologista e cirurgiã-geral.&lt;/p&gt;
-&lt;p&gt;“Sabemos o quanto custa para uma mulher negra acessar a universidade e se tornar médica. É doloroso perder Andréa a tudo o que ela representa”, afirmou Anielle, ao acrescentar que está pressionando as autoridades responsáveis para que haja uma investigação rápida e rigorosa.&lt;/p&gt;
-&lt;p&gt;Pesquisa da Ufopa investiga potencial da manteiga de murumuru&lt;/p&gt;
-&lt;p&gt;Mulheres na Ciência: Pesquisadoras estudam o potencial farmacológico do murumuru&lt;/p&gt;
-&lt;p&gt;Caso PM Gisele: laudos complementares devem sair esta semana&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/medica-e-morta-tiros-por-policiais-militares-em-abordagem-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A médica Andréa Marins Dias, de 61 anos, foi morta a tiros em seu carro durante uma abordagem policial, em Cascadura, na zona norte do Rio de Janeiro...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-16 15:10:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-16 15:10:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-16 15:10:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-16 15:10:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Zi7djOnQ8sjvFEbG9qC1GPzp-b0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/por_tras_de_cada_mulher_que_chega_no_consultorio.existe_uma_historia_marcada_por_dor_duvidas_e_fras.jpg?itok=2bOtkrmJ</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
