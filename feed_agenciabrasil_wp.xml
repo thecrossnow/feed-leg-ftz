@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 18 Mar 2026 10:43:40 +0000</pubDate>
+    <pubDate>Wed, 18 Mar 2026 11:39:55 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,205 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Saúde está em alerta máximo por aumento do sarampo nas Américas</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/saude-esta-em-alerta-maximo-por-aumento-do-sarampo-nas-americas</link>
+      <pubDate>Wed, 18 Mar 2026 11:39:55 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/saude-esta-em-alerta-maximo-por-aumento-do-sarampo-nas-americas#1000</guid>
+      <description>O Brasil está em alerta máximo por causa dos
+surtos de sarampo em outros países do continente americano
+. De acordo com o diretor do Programa Naciona...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UNVHea0ug3TgTkIplZer0vplvig=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/10/toms9414.jpg?itok=7XqWkija&quot; alt=&quot;Saúde está em alerta máximo por aumento do sarampo nas Américas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Brasil está em alerta máximo por causa dos&lt;/p&gt;
+&lt;p&gt;surtos de sarampo em outros países do continente americano&lt;/p&gt;
+&lt;p&gt;. De acordo com o diretor do Programa Nacional de Imunizações (PNI), Eder Gatti,&lt;/p&gt;
+&lt;p&gt;ações de prevenção e controle estão sendo realizadas de forma constantepara manter o país como área livre da doença&lt;/p&gt;
+&lt;p&gt;No ano passado, foram registrados 14.891casos da doença em 14 países das Américas, com 29 mortes. Neste ano, somente até o dia 5 de março, foram 7.145 infecções confirmadas.&lt;/p&gt;
+&lt;p&gt;a primeira infecção em 2026 foi confirmada na semana passada, em uma bebê de 6 meses, na cidade de São Paulo&lt;/p&gt;
+&lt;p&gt;. A paciente adquiriu a doença durante uma viagem à Bolívia,que vive um surto da doença.&lt;/p&gt;
+&lt;p&gt;Em2025, 38 casos de sarampo foram confirmados no país.&lt;/p&gt;
+&lt;p&gt;Ainda assim, por enquanto, o Brasil não corre risco de perder o certificado de área livre&lt;/p&gt;
+&lt;p&gt;, porque não há transmissão sustentada dentro do nosso território.&lt;/p&gt;
+&lt;p&gt;&quot;Por conta do cenário internacional, o Ministério [da Saúde] está em alerta máximo. Nós vamos manter essa certificação, mas, para isso, a gente precisa continuar vacinando a populaçãoe alertando que a vacina é a principal prevenção, além de promover ações específicas em locais que estão com a cobertura mais baixa&quot;, explica Gatti.&lt;/p&gt;
+&lt;p&gt;O Ministério da Saúde também tem realizado campanhas de vacinação nas áreas de fronteira&lt;/p&gt;
+&lt;p&gt;O calendário básico do Sistema Único de Saúde prevê a aplicação da vacina contra o sarampo em duas doses. A primeira deve ser tomada aos 12 meses, como parte do imunizante tríplice viral, e a segunda, aos 15 meses, com atetraviral.&lt;/p&gt;
+&lt;p&gt;No ano passado, 92,5% dos bebês receberam a primeira dose, mas apenas 77,9% completaram o esquema na idade correta.&lt;/p&gt;
+&lt;p&gt;Todas as pessoas com até 59 anos que não tenham comprovante das duas dosesdevem se imunizar.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/saude-esta-em-alerta-maximo-por-aumento-do-sarampo-nas-americas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Brasil está em alerta máximo por causa dos
+surtos de sarampo em outros países do continente americano
+. De acordo com o diretor do Programa Naciona...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-18 07:50:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-18 07:50:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-18 07:50:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-18 07:50:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/UNVHea0ug3TgTkIplZer0vplvig=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/10/toms9414.jpg?itok=7XqWkija</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Copom se reúne nesta quarta com petróleo sob pressão da guerra</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/copom-se-reune-nesta-quarta-com-petroleo-sob-pressao-da-guerra</link>
+      <pubDate>Wed, 18 Mar 2026 11:39:55 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/copom-se-reune-nesta-quarta-com-petroleo-sob-pressao-da-guerra#1001</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+Com a guerra no Oriente Médio pressionando o preço dos combustíveis, o Comitê de Política Monetária (Copom) do Banc...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1NJn9G2PoYXBvGMCP58KdHAie8c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20231025_150203.jpg?itok=GOvom9QM&quot; alt=&quot;Copom se reúne nesta quarta com petróleo sob pressão da guerra&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Com a guerra no Oriente Médio pressionando o preço dos combustíveis, o Comitê de Política Monetária (Copom) do Banco Central (BC) faz nesta quarta-feira (18) a segunda reunião do ano.&lt;/p&gt;
+&lt;p&gt;Mesmo com a alta do petróleo, os analistas de mercado acreditam que o comitê decidirá pelaprimeira redução dos juros em dois anos.&lt;/p&gt;
+&lt;p&gt;Atualmente em 15% ao ano, a Selic está no maior nível desde julho de 2006, quando era de 15,25% ao ano.&lt;/p&gt;
+&lt;p&gt;De setembro de 2024 a junho de 2025, a taxa foi elevada sete vezes seguidas&lt;/p&gt;
+&lt;p&gt;, mas não foi alterada nas quatro últimas reuniões.&lt;/p&gt;
+&lt;p&gt;A decisão sobre a Taxa Selic será anunciada no início da noite desta quarta. O Copom estará desfalcado, porque o mandato dos diretores de Organização do Sistema Financeiro, Renato Gomes, e de Política Econômica, Paulo Pichetti, expirou no fim de 2025. O presidente Luiz Inácio Lula da Silva só encaminhará as indicações dos substitutos ao Congresso Nacional nas próximas semanas.&lt;/p&gt;
+&lt;p&gt;Na ata da reunião de janeiro, o Copom confirmou que pretendia começar a cortar a Selic em março&lt;/p&gt;
+&lt;p&gt;. No entanto, o início do conflito entre Estados Unidos, Israel e Irã pôs em dúvida o tamanho do corte, com algumas instituições financeiras chegando a apostar no adiamento da redução dos juros.&lt;/p&gt;
+&lt;p&gt;Segundo a edição mais recente do boletim Focus&lt;/p&gt;
+&lt;p&gt;, pesquisa semanal que ouve analistas do mercado financeiro, a taxa básica deve ser reduzida em 0,25 ponto percentual, para 14,75% ao ano. Antes do início do conflito, a expectativa estava num corte de 0,5 ponto.&lt;/p&gt;
+&lt;p&gt;O comportamento da inflação continua uma incógnita.&lt;/p&gt;
+&lt;p&gt;A prévia da inflação oficial, medida pelo Índice Nacional de Preços ao Consumidor Amplo-15 (IPCA), acelerou para 0,7% em fevereiro&lt;/p&gt;
+&lt;p&gt;, pressionada por gastos com educação. No entanto, recuou para 3,81% em 12 meses, abaixo dos 4% pela primeira vez desde maio de 2024.&lt;/p&gt;
+&lt;p&gt;Segundo o último boletim Focus, a estimativa de inflação para 2026 subiu de 3,8% para 4,1%por causa do conflito no Oriente Médio. Isso representa inflação pouco abaixo do teto da meta contínua estabelecida pelo Conselho Monetário Nacional (CMN), de 3%, podendo chegar a 4,5%, com o intervalo de tolerância de 1,5 ponto.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/copom-se-reune-nesta-quarta-com-petroleo-sob-pressao-da-guerra&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+Com a guerra no Oriente Médio pressionando o preço dos combustíveis, o Comitê de Política Monetária (Copom) do Banc...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-18 07:30:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-18 07:30:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-18 07:30:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-18 07:30:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/1NJn9G2PoYXBvGMCP58KdHAie8c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20231025_150203.jpg?itok=GOvom9QM</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Ferros-velhos poderão ser fechados se venderem fios de cobre roubados</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/ferros-velhos-poderao-ser-fechados-se-comercializarem-cabos-roubados</link>
+      <pubDate>Wed, 18 Mar 2026 11:39:55 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/ferros-velhos-poderao-ser-fechados-se-comercializarem-cabos-roubados#1002</guid>
+      <description>Ferros-velhos no estado do Rio poderão ser interditados ou fechados,quando houver flagrante de comercializaçãode rolos e fios de cobre pertencentes a...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/4ld4jlKb872LqqAGC1GTUosw3Ms=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/13/palacio_tiradentes_creditos_divulgacao.jpg?itok=1JixWfge&quot; alt=&quot;Ferros-velhos poderão ser fechados se venderem fios de cobre roubados&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Ferros-velhos no estado do Rio poderão ser interditados ou fechados,quando houver flagrante de comercializaçãode rolos e fios de cobre pertencentes a concessionárias de serviço público.&lt;/p&gt;
+&lt;p&gt;projeto de lei aprovado pela Assembleia Legislativa do Estado do Rio de Janeiro (Alerj)&lt;/p&gt;
+&lt;p&gt;A medida é de autoria original do deputado Cláudio Caiado (PSD).&lt;/p&gt;
+&lt;p&gt;O texto seguirá para o governo do estado, que tem 15 dias para sancionar ou vetar a medida.&lt;/p&gt;
+&lt;p&gt;A interdição cautelar será pelo prazo de até 180 dias, quando houver flagrante, desde que comprovada a origem ilícita do material por meio de perícia da policialou auto de reconhecimento da concessionária de serviço público.&lt;/p&gt;
+&lt;p&gt;O fechamento pode ocorrer emcaso de reincidência, após o estabelecimento já ter sido interditado cautelarmente, garantido o devido processo legal, assegurados o contraditório e a ampla defesa.&lt;/p&gt;
+&lt;p&gt;A proposta permite a interdição cautelar mesmo sem a aplicação de multa, que deverá serratificada em até 30 dias.&lt;/p&gt;
+&lt;p&gt;A medida complementa a lei, que estabeleceu medidas administrativas, como multas, para combater o roubo, furto e receptação de cabos, fios metálicos, geradores, baterias, transformadores e placas metálicas.&lt;/p&gt;
+&lt;p&gt;“Atualmente, a norma prevê sanções como multa e cancelamento da inscrição estadual, mas não impede que ferros-velhos clandestinos e estabelecimentos irregulares continuem operando. Com a interdição cautelar, será possível agir rapidamente para coibir essas práticas criminosas, sempre garantindo o direito à defesa e a revisão da medida pelo órgão competente”, explicou Caiado.&lt;/p&gt;
+&lt;p&gt;Viva Maria acompanha avanço do ECA digital&lt;/p&gt;
+&lt;p&gt;Ouça ao vivo: Vasco e Fluminense se enfrentam pelo Campeonato Brasileiro&lt;/p&gt;
+&lt;p&gt;Congresso Nacional promulga acordo entre Mercosul e União Europeia&lt;/p&gt;
+&lt;p&gt;Caso confirmado de sarampo acende alerta sobre cobertura vacinal&lt;/p&gt;
+&lt;p&gt;Saúde está em alerta máximo por aumento do sarampo nas Américas&lt;/p&gt;
+&lt;p&gt;Copom se reúne nesta quarta com petróleo sob pressão da guerra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/ferros-velhos-poderao-ser-fechados-se-comercializarem-cabos-roubados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Ferros-velhos no estado do Rio poderão ser interditados ou fechados,quando houver flagrante de comercializaçãode rolos e fios de cobre pertencentes a...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-18 07:25:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-18 07:25:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-18 07:25:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-18 07:25:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/4ld4jlKb872LqqAGC1GTUosw3Ms=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/13/palacio_tiradentes_creditos_divulgacao.jpg?itok=1JixWfge</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Caixa começa a pagar Bolsa Família de março</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-comeca-pagar-bolsa-familia-de-marco</link>
+      <pubDate>Wed, 18 Mar 2026 11:39:55 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-comeca-pagar-bolsa-familia-de-marco#1003</guid>
+      <description>A Caixa Econômica Federal começa a pagar a parcela de março do Bolsa Família. Recebem nesta quarta-feira (18) os beneficiários com Número de Inscriçã...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5C5tIWKwLzqG6fBZvP8Z4ZkOzn4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53627965394_380dd5f870_o.jpg?itok=Ezd0K5wE&quot; alt=&quot;Caixa começa a pagar Bolsa Família de março&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Caixa Econômica Federal começa a pagar a parcela de março do Bolsa Família. Recebem nesta quarta-feira (18) os beneficiários com Número de Inscrição Social (NIS) de final 1.&lt;/p&gt;
+&lt;p&gt;Ao todo cerca de 18,7 milhões de famílias receberão o benefício neste mês.&lt;/p&gt;
+&lt;p&gt;Os beneficiários de nove estados receberão o crédito nesta quinta, independentemente do número final do NIS. O&lt;/p&gt;
+&lt;p&gt;pagamento unificado beneficia localidades em situação de emergência ou em estado de calamidade pública nos seguintes estados: Amazonas, Bahia, Minas Gerais, Piauí, Paraná, Rio de Janeiro, Rio Grande do Norte, Roraima e Sergipe.&lt;/p&gt;
+&lt;p&gt;O valor mínimo corresponde a R$ 600. Além do benefício mínimo, há o pagamento de três adicionais. O Benefício Variável Familiar Nutriz paga seis parcelas de R$ 50 a mães de bebês de até seis meses de idade, para garantir a alimentação da criança. O Bolsa Família também paga um acréscimo de R$ 50 a famílias com gestantes e filhos de 7 a 18 anos e outro, de R$ 150, a famílias com crianças de até 6 anos.&lt;/p&gt;
+&lt;p&gt;No modelo tradicional do Bolsa Família, o pagamento ocorre nos últimos dez dias úteis de cada mês. O&lt;/p&gt;
+&lt;p&gt;beneficiário poderá consultar informações sobre as datas de pagamento, o valor do benefício e a composição das parcelas no aplicativo Caixa Tem, usado para acompanhar as contas poupança digitais do banco.&lt;/p&gt;
+&lt;p&gt;cerca de 2milhões de famílias estão na regra de proteção em março.&lt;/p&gt;
+&lt;p&gt;Em vigor desde junho de 2023, essa regra permite que famílias cujos membros consigam emprego e melhorem a renda recebam 50% do benefício a que teriam direito por até dois anos, desde que cada integrante receba o equivalente a até meio salário mínimo.&lt;/p&gt;
+&lt;p&gt;tempo de permanência na regra de proteção foi reduzido de dois para um ano&lt;/p&gt;
+&lt;p&gt;. No entanto, quem entrou na regra até maio de 2025 continua a receber metade do benefício por dois anos.&lt;/p&gt;
+&lt;p&gt;Desde 2024, os beneficiários do Bolsa Família não têm mais o desconto do Seguro Defeso. A mudança foi estabelecida pela&lt;/p&gt;
+&lt;p&gt;, que resgatou o Programa Bolsa Família (PBF). O Seguro Defeso é pago a pessoas que sobrevivem exclusivamente da pesca artesanal e que não podem exercer a atividade durante o período da piracema (reprodução dos peixes).&lt;/p&gt;
+&lt;p&gt;Viva Maria acompanha avanço do ECA digital&lt;/p&gt;
+&lt;p&gt;Ouça ao vivo: Vasco e Fluminense se enfrentam pelo Campeonato Brasileiro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-comeca-pagar-bolsa-familia-de-marco&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Caixa Econômica Federal começa a pagar a parcela de março do Bolsa Família. Recebem nesta quarta-feira (18) os beneficiários com Número de Inscriçã...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-18 07:03:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-18 07:03:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-18 07:03:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-18 07:03:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/5C5tIWKwLzqG6fBZvP8Z4ZkOzn4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53627965394_380dd5f870_o.jpg?itok=Ezd0K5wE</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Mujica receberá título Doutor Honoris Causa da Universidade do ABC</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/mujica-recebera-titulo-doutor-honoris-causa-da-universidade-do-abc</link>
-      <pubDate>Wed, 18 Mar 2026 10:43:40 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 11:39:55 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/mujica-recebera-titulo-doutor-honoris-causa-da-universidade-do-abc#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/mujica-recebera-titulo-doutor-honoris-causa-da-universidade-do-abc#1004</guid>
       <description>O ex-presidente do Uruguai e ícone da da esquerda latino-americana
 aos 89 anos, receberá o título de Doutor Honoris Causa pela Universidade Federal d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yV7s5iqCED3MaxiZLStOSinhQVU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/13/mujica01.jpg?itok=ELVVldL-&quot; alt=&quot;Mujica receberá título Doutor Honoris Causa da Universidade do ABC&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -41,10 +235,13 @@ aos 89 anos, receberá o título de Doutor Honoris Causa pela Universidade Feder
 &lt;p&gt;O título é a mais alta distinção acadêmica concedida por universidades a pessoasque se destacaram nas artes, ciências, educação, política, cultura ou causas humanitárias, contribuindo para o progresso social.&lt;/p&gt;
 &lt;p&gt;Viva Maria acompanha avanço do ECA digital&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Vasco e Fluminense se enfrentam pelo Campeonato Brasileiro&lt;/p&gt;
-&lt;p&gt;Congresso Nacional promulga acordo entre Mercosul e União Europeia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/mujica-recebera-titulo-doutor-honoris-causa-da-universidade-do-abc&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Congresso Nacional promulga acordo entre Mercosul e União Europeia&lt;/p&gt;
+&lt;p&gt;Caso confirmado de sarampo acende alerta sobre cobertura vacinal&lt;/p&gt;
+&lt;p&gt;Saúde está em alerta máximo por aumento do sarampo nas Américas&lt;/p&gt;
+&lt;p&gt;Copom se reúne nesta quarta com petróleo sob pressão da guerra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/mujica-recebera-titulo-doutor-honoris-causa-da-universidade-do-abc&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ex-presidente do Uruguai e ícone da da esquerda latino-americana
 aos 89 anos, receberá o título de Doutor Honoris Causa pela Universidade Federal d...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-03-18 06:59:00</wp:post_date>
       <wp:post_date_gmt>2026-03-18 06:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-18 06:59:00</wp:post_modified>
@@ -70,16 +267,16 @@ aos 89 anos, receberá o título de Doutor Honoris Causa pela Universidade Feder
     <item>
       <title>Nobel de Economia ajudará a capacitar servidores públicos no Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/nobel-de-economia-ajudara-capacitar-servidores-publicos-no-brasil</link>
-      <pubDate>Wed, 18 Mar 2026 10:43:40 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 11:39:55 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/nobel-de-economia-ajudara-capacitar-servidores-publicos-no-brasil#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/nobel-de-economia-ajudara-capacitar-servidores-publicos-no-brasil#1005</guid>
       <description>© Valter Campanato/Agência Brasil
 Iniciativa aplicada com sucesso em pelo menos 18 países, o programa Ensino no Nível Certo (Teaching at the Right Le...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ihc6tAkQuyMLlT5ugJFEzviYZrk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/17/0d7a9156.jpg.jpeg?itok=BR-V5pFx&quot; alt=&quot;Nobel de Economia ajudará a capacitar servidores públicos no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
 &lt;p&gt;Iniciativa aplicada com sucesso em pelo menos 18 países, o programa Ensino no Nível Certo (Teaching at the Right Level, em inglês), que dá aulas de reforço escolar, quase não deu certo em dois estados da Índia. Famoso por agrupar crianças pelo nível de conhecimento atual, em vez da idade ou série, o programa enfrentava resistência de professores que sentiam que o método “desviava” do currículo oficial.&lt;/p&gt;
 &lt;p&gt;O diagnóstico que corrigiu a política pública só foi possível por causa de um tipo de avaliação semelhante à de um remédio ou vacina em desenvolvimento. Dois grupos suficientemente grandes e parecidos entre si foram separados por sorteio. Um beneficiou-se do programa, o outro continuou com o ensino normal. Método que rendeu o Nobel de Economia de 2019 a Esther Duflo.&lt;/p&gt;
-&lt;p&gt;A economista francesa deu uma aula magna na noite dessa terça-feira (17) em Brasília a servidores públicos, acadêmicos e convidados na Escola Nacional de Administração Pública (Enap). A instituição assinou um convênio com a Fundação Lehmann e a Universidade de Zurique, que permitirá a capacitação de servidores públicos na avaliação contínua dos resultados das políticas públicas.&lt;/p&gt;
+&lt;p&gt;A economista francesa deu uma aula magna na noite dessa terça-feira (17) em Brasília a servidores públicos, acadêmicos e convidados na Escola Nacional de Administração Pública (Enap). A instituição assinou um convênio com a Fundação Lemann e a Universidade de Zurique, que permitirá a capacitação de servidores públicos na avaliação contínua dos resultados das políticas públicas.&lt;/p&gt;
 &lt;p&gt;A capacitação será dada em associação com o Laboratório de Ação contra a Pobreza Abdul Latif Jameel (J-PALna sigla em inglês). Com sede no Instituto de Tecnologia de Massachusetts, nos Estados Unidos, o centro de pesquisa global trabalha para reduzir a pobreza, garantindo que as políticas públicas sejam orientadas por evidências científicas.&lt;/p&gt;
 &lt;p&gt;Durante a aula magna, Duflo explicou os três principais entraves para a gestão pública:&lt;/p&gt;
 &lt;p&gt;• ignorância: desconhecimento da realidade local e dos detalhes práticos de implementação de políticas;&lt;/p&gt;
@@ -87,13 +284,13 @@ Iniciativa aplicada com sucesso em pelo menos 18 países, o programa Ensino no N
 &lt;p&gt;• inércia: tendência de manter programas existentes apenas porque já estão em vigor, mesmo que não apresentem resultados.&lt;/p&gt;
 &lt;p&gt;Segundo ela, métodos como as avaliações controladas aleatórias de políticas públicas podem identificar com precisão os êxitos e os problemas Para Duflo, esses exemplos reforçam o papel da avaliação contínua.&lt;/p&gt;
 &lt;p&gt;“O objetivo é usar a avaliação para avançar, para ir do que não funciona para algo que funcione melhor”, explicou Duflo. “A pobreza é multidimensional. Não há um único problema da pobreza, há milhares de problemas e milhares de soluções potenciais competindo por atenção num mundo de recursos escassos.”&lt;/p&gt;
-&lt;p&gt;O programa Ensino no Nível Certo expandiu-se pelo mundo após a identificação da origem dos problemas. Além de beneficiar milhões de crianças na Índia e em 17 países da África, começou a ser aplicado no Brasil, em parceria entre o J-PAL e a Fundação Lehmann. O monitoramento contínuo de políticas públicas, destacou Duflo, foi importante para a adoção de outras iniciativas.&lt;/p&gt;
+&lt;p&gt;O programa Ensino no Nível Certo expandiu-se pelo mundo após a identificação da origem dos problemas. Além de beneficiar milhões de crianças na Índia e em 17 países da África, começou a ser aplicado no Brasil, em parceria entre o J-PAL e a Fundação Lemann. O monitoramento contínuo de políticas públicas, destacou Duflo, foi importante para a adoção de outras iniciativas.&lt;/p&gt;
 &lt;p&gt;O Espírito Santo, mencionou a economista, está testando o uso de inteligência artificial (IA) na educação pública. Por meio da Plataforma Letrus, alunos escrevem redações&lt;/p&gt;
 &lt;p&gt;imediato da IA para correções e aprimoramento. Após a comprovação do sucesso, o programa foi ampliado para 100 mil estudantes no estado.&lt;/p&gt;
 &lt;p&gt;Durante conferência anual da Confederação Nacional de Municípios (CNM), pesquisadores convidaram prefeitos para sessões de informação sobre evidências em desenvolvimento infantil e conformidade tributária. Os estudos mostraram aumento de um terço na probabilidade de adoção dessas políticas nos municípios cujos prefeitos participaram.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/nobel-de-economia-ajudara-capacitar-servidores-publicos-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 Iniciativa aplicada com sucesso em pelo menos 18 países, o programa Ensino no Nível Certo (Teaching at the Right Le...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-03-18 06:45:00</wp:post_date>
       <wp:post_date_gmt>2026-03-18 06:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-18 06:45:00</wp:post_modified>
@@ -119,9 +316,9 @@ Iniciativa aplicada com sucesso em pelo menos 18 países, o programa Ensino no N
     <item>
       <title>Cinco equipes avançam para quinta fase da Copa do Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/cinco-equipes-avancam-para-quinta-fase-da-copa-do-brasil</link>
-      <pubDate>Wed, 18 Mar 2026 10:43:40 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 11:39:55 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/cinco-equipes-avancam-para-quinta-fase-da-copa-do-brasil#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/cinco-equipes-avancam-para-quinta-fase-da-copa-do-brasil#1006</guid>
       <description>© Vinicius Gentil/FEC/Direitos Reservados
 Os cinco primeiros classificados para a quinta fase da Copa do Brasil foram definidos nesta terça-feira (17...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/I8SzDGmyUN56viRB0G2GAYs2cjE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/17/hdpgbojwoaaczsr.jpeg?itok=0WQN7WRe&quot; alt=&quot;Cinco equipes avançam para quinta fase da Copa do Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -142,7 +339,7 @@ Os cinco primeiros classificados para a quinta fase da Copa do Brasil foram defi
 &lt;p&gt;O quinto classificado desta terça foi o Paysandu, que venceu a Portuguesa por 3 a 2 no estádio do Canindé. O Papão contou com gols de Ítalo, Pedro Henrique e Castro, enquanto a Lusa marcou com Renê e Igor Torres.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/cinco-equipes-avancam-para-quinta-fase-da-copa-do-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Vinicius Gentil/FEC/Direitos Reservados
 Os cinco primeiros classificados para a quinta fase da Copa do Brasil foram definidos nesta terça-feira (17...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-17 23:51:00</wp:post_date>
       <wp:post_date_gmt>2026-03-17 23:51:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-17 23:51:00</wp:post_modified>
@@ -168,9 +365,9 @@ Os cinco primeiros classificados para a quinta fase da Copa do Brasil foram defi
     <item>
       <title>Tenente-coronel é indiciado por feminicídio, diz defesa da PM morta</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/tenente-coronel-e-indiciado-por-feminicidio-diz-defesa-da-pm-morta</link>
-      <pubDate>Wed, 18 Mar 2026 10:43:40 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 11:39:55 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/tenente-coronel-e-indiciado-por-feminicidio-diz-defesa-da-pm-morta#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/tenente-coronel-e-indiciado-por-feminicidio-diz-defesa-da-pm-morta#1007</guid>
       <description>© Gisele Alves Santana/ Instagram
 A Polícia Civil de São Paulo indiciou por feminicídio e fraude processual o tenente-coronel da PM Geraldo Leite Ros...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YMfO_xjx9F59Mj_P9lV_StLmqEU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/10/img_3454.jpeg?itok=-m6wMr6y&quot; alt=&quot;Tenente-coronel é indiciado por feminicídio, diz defesa da PM morta&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -191,7 +388,7 @@ A Polícia Civil de São Paulo indiciou por feminicídio e fraude processual o t
 &lt;p&gt;Viva Maria acompanha avanço do ECA digital&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/tenente-coronel-e-indiciado-por-feminicidio-diz-defesa-da-pm-morta&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Gisele Alves Santana/ Instagram
 A Polícia Civil de São Paulo indiciou por feminicídio e fraude processual o tenente-coronel da PM Geraldo Leite Ros...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-17 22:16:00</wp:post_date>
       <wp:post_date_gmt>2026-03-17 22:16:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-17 22:16:00</wp:post_modified>
@@ -217,9 +414,9 @@ A Polícia Civil de São Paulo indiciou por feminicídio e fraude processual o t
     <item>
       <title>Brasil tem menor taxa de mortalidade infantil em 34 anos, diz Unicef</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/brasil-tem-menor-taxa-de-mortalidade-infantil-em-34-anos-diz-unicef</link>
-      <pubDate>Wed, 18 Mar 2026 10:43:40 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 11:39:55 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/brasil-tem-menor-taxa-de-mortalidade-infantil-em-34-anos-diz-unicef#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/brasil-tem-menor-taxa-de-mortalidade-infantil-em-34-anos-diz-unicef#1008</guid>
       <description>© Marcello Casal/Agência Brasil
 Níveis e Tendências daMortalidade Infantil
 , divulgado nesta terça-feira (17) pelas Nações Unidas, aponta que o
@@ -244,7 +441,7 @@ Brasi...</description>
 Níveis e Tendências daMortalidade Infantil
 , divulgado nesta terça-feira (17) pelas Nações Unidas, aponta que o
 Brasi...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-17 21:57:00</wp:post_date>
       <wp:post_date_gmt>2026-03-17 21:57:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-17 21:57:00</wp:post_modified>
@@ -270,9 +467,9 @@ Brasi...</excerpt:encoded>
     <item>
       <title>Três apostas acertam a Mega-Sena e levam R$ 34,8 milhões cada</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/tres-apostas-acertam-a-mega-sena</link>
-      <pubDate>Wed, 18 Mar 2026 10:43:40 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2026 11:39:55 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/tres-apostas-acertam-a-mega-sena#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/tres-apostas-acertam-a-mega-sena#1009</guid>
       <description>© Marcello Casal JrAgência Brasil
 Três apostas acertaram as seis dezenas do concurso 2.985da Mega-Sena, realizado nesta terça-feira (17) e vão recebe...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jNKq_a3p9ZWAHgLo0V-OFakQG7g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena_mcajr_abr_2904223676.jpg?itok=BWyQt9wC&quot; alt=&quot;Três apostas acertam a Mega-Sena e levam R$ 34,8 milhões cada&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -290,10 +487,10 @@ Três apostas acertaram as seis dezenas do concurso 2.985da Mega-Sena, realizado
 &lt;p&gt;Viva Maria acompanha avanço do ECA digital&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Vasco e Fluminense se enfrentam pelo Campeonato Brasileiro&lt;/p&gt;
 &lt;p&gt;Congresso Nacional promulga acordo entre Mercosul e União Europeia&lt;/p&gt;
-&lt;p&gt;Copom se reúne nesta quarta com petróleo sob pressão da guerra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/tres-apostas-acertam-a-mega-sena&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Caso confirmado de sarampo acende alerta sobre cobertura vacinal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/tres-apostas-acertam-a-mega-sena&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 Três apostas acertaram as seis dezenas do concurso 2.985da Mega-Sena, realizado nesta terça-feira (17) e vão recebe...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-17 21:47:00</wp:post_date>
       <wp:post_date_gmt>2026-03-17 21:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-17 21:47:00</wp:post_modified>
@@ -314,199 +511,6 @@ Três apostas acertaram as seis dezenas do concurso 2.985da Mega-Sena, realizado
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/jNKq_a3p9ZWAHgLo0V-OFakQG7g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena_mcajr_abr_2904223676.jpg?itok=BWyQt9wC</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>ONU: 4,9 milhões de crianças até 5 anos morreram em 2024 no planeta</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/onu-49-milhoes-de-criancas-ate-5-anos-morreram-em-2024-no-planeta</link>
-      <pubDate>Wed, 18 Mar 2026 10:43:40 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/onu-49-milhoes-de-criancas-ate-5-anos-morreram-em-2024-no-planeta#1006</guid>
-      <description>© Arquivo/Fernando Frazão/Agência Brasil
-Com cerca de 4,9 milhões de mortes de crianças de até 5 anos de idade em 2024
-, um relatório global do Grupo...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mEEaK1c5BXKOiYKXZc0VCyXEBjI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/910224-moradores_complexo20da20mare_51001.jpg?itok=uXD_oHeH&quot; alt=&quot;ONU: 4,9 milhões de crianças até 5 anos morreram em 2024 no planeta&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Arquivo/Fernando Frazão/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Com cerca de 4,9 milhões de mortes de crianças de até 5 anos de idade em 2024&lt;/p&gt;
-&lt;p&gt;, um relatório global do Grupo Interagencial das OrganizaçõesNações Unidas (ONU) para Estimativas de Mortalidade Infantil (UN IGME), divulgado nesta terça-feira (17), aponta que a&lt;/p&gt;
-&lt;p&gt;maioria desses óbitos decorreu de causas evitáveis ou que demandavam tratamento de baixo custo&lt;/p&gt;
-&lt;p&gt;Em uma perspectiva mais dramática,&lt;/p&gt;
-&lt;p&gt;cerca de 2,3 milhões das mortes, quase metade do total, foram de recém-nascidos&lt;/p&gt;
-&lt;p&gt;prematuridade (36%) e complicações durante o parto (21%&lt;/p&gt;
-&lt;p&gt;). Infecções, incluindo sepse neonatal e anomalias congênitas, também foram causas importantes.&lt;/p&gt;
-&lt;p&gt;Segundo o relatório, intitulado&lt;/p&gt;
-&lt;p&gt;Níveis e Tendências daMortalidade Infantil&lt;/p&gt;
-&lt;p&gt;, feito em parceria com Banco Mundial, Organização Mundial da Saúde (ONU) e Departamento Assuntos Econômicos e Sociais (Desa/ONU),as mortes de crianças permanecem altamente concentradas geograficamente no planeta.&lt;/p&gt;
-&lt;p&gt;África Subsaariana foi responsável por 58% de todas os óbitos de menores de cinco anos&lt;/p&gt;
-&lt;p&gt;. Nessa região, as nove principais doenças infecciosas, incluindo pneumonia, malária, diarreia, sepse, meningite, tuberculose, sarampo, HIV/AIDS e tétanocausaram 54% dos falecimentos.&lt;/p&gt;
-&lt;p&gt;No Sul da Ásia, que concentrou 25% de todas as mortes de menores de cinco anos.Amortalidade foi impulsionada principalmente por complicações no primeiro mês de vida — incluindo parto prematuro, asfixia ou trauma no parto, anomalias congênitas e infecções neonatais.&lt;/p&gt;
-&lt;p&gt;&quot;Essas condições amplamente evitáveis destacam a urgência de investir em cuidados pré‑natais de qualidade, profissionais de saúde qualificados, cuidados para recém‑nascidos pequenos e doentes e serviços essenciais de saúde neonatal&quot;, aponta o relatório.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/onu-49-milhoes-de-criancas-ate-5-anos-morreram-em-2024-no-planeta&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Arquivo/Fernando Frazão/Agência Brasil
-Com cerca de 4,9 milhões de mortes de crianças de até 5 anos de idade em 2024
-, um relatório global do Grupo...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-17 21:32:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-17 21:32:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-17 21:32:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-17 21:32:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/mEEaK1c5BXKOiYKXZc0VCyXEBjI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/910224-moradores_complexo20da20mare_51001.jpg?itok=uXD_oHeH</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Câmeras corporais de PMs estavam descarregadas na abordagem de médica</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/cameras-corporais-de-pms-estavam-descarregadas-na-abordagem-de-medica</link>
-      <pubDate>Wed, 18 Mar 2026 10:43:40 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/cameras-corporais-de-pms-estavam-descarregadas-na-abordagem-de-medica#1007</guid>
-      <description>A Polícia Militar do Rio de Janeiro informou que as câmeras corporais usadas nos uniformes dos três militares
-envolvidos na morte da médica Andréa Ma...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1JQOnUUa7LOVC5eE1luzbbmV1Ys=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/hoje_celebro_mais_um_ano_de_vida.mas_tambem_celebro_cada_mulher_que_confia_em_mim_sua_historia_.jpg?itok=o4sOZKKK&quot; alt=&quot;Câmeras corporais de PMs estavam descarregadas na abordagem de médica&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Polícia Militar do Rio de Janeiro informou que as câmeras corporais usadas nos uniformes dos três militares&lt;/p&gt;
-&lt;p&gt;envolvidos na morte da médica Andréa Marins Dias&lt;/p&gt;
-&lt;p&gt;, de 61 anos, na noite do último domingo (15), “estavam descarregadas no momento da ocorrência”.&lt;/p&gt;
-&lt;p&gt;De acordo com a corporação, todos os fatos seguem sob apuração integral da área correcional da Secretaria da Polícia Militar.&lt;/p&gt;
-&lt;p&gt;“Vale ressaltar que na corporação existem normas rígidas que determinam que os policiais, ao perceberem que há qualquer tipo de falha ou mau funcionamento das câmeras, devem regressar à unidade de origem para substituição dos equipamentos”, diz a nota da PM.&lt;/p&gt;
-&lt;p&gt;Os policiais seguem afastados dos serviços nas ruas.&lt;/p&gt;
-&lt;p&gt;A médica foi atingida por tiros de fuzil, quando retornava da casa dos pais no domingo à noite, em Cascadura, zona norte do Rio. e teve o seu carro confundido com um veículo utilizado por criminosos, que faziam roubos na região.&lt;/p&gt;
-&lt;p&gt;Andrea era cirurgiã oncológica e especializada em tratamento da endometriose. O corpo da médica foi enterrado nesta terça-feira (17) à tarde no Cemitério da Penitência, no bairro do Caju, zona portuária do Rio.&lt;/p&gt;
-&lt;p&gt;Viva Maria acompanha avanço do ECA digital&lt;/p&gt;
-&lt;p&gt;Ouça ao vivo: Vasco e Fluminense se enfrentam pelo Campeonato Brasileiro&lt;/p&gt;
-&lt;p&gt;Congresso Nacional promulga acordo entre Mercosul e União Europeia&lt;/p&gt;
-&lt;p&gt;Copom se reúne nesta quarta com petróleo sob pressão da guerra&lt;/p&gt;
-&lt;p&gt;Ferros-velhos poderão ser fechados se venderem fios de cobre roubados&lt;/p&gt;
-&lt;p&gt;Caixa começa a pagar Bolsa Família de março&lt;/p&gt;
-&lt;p&gt;Mujica receberá título Doutor Honoris Causa da Universidade do ABC&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/cameras-corporais-de-pms-estavam-descarregadas-na-abordagem-de-medica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Polícia Militar do Rio de Janeiro informou que as câmeras corporais usadas nos uniformes dos três militares
-envolvidos na morte da médica Andréa Ma...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-17 21:19:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-17 21:19:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-17 21:19:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-17 21:19:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/1JQOnUUa7LOVC5eE1luzbbmV1Ys=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/hoje_celebro_mais_um_ano_de_vida.mas_tambem_celebro_cada_mulher_que_confia_em_mim_sua_historia_.jpg?itok=o4sOZKKK</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Tesouro faz maior intervenção em títulos públicos em mais de 10 anos</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/tesouro-faz-maior-intervencao-em-titulos-publicos-em-mais-de-10-anos</link>
-      <pubDate>Wed, 18 Mar 2026 10:43:40 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/tesouro-faz-maior-intervencao-em-titulos-publicos-em-mais-de-10-anos#1008</guid>
-      <description>© José Cruz/Agência Brasil/Arquivo
-O Tesouro Nacional realizou novas recompras de títulos públicos nesta terça-feira (17), em uma tentativa de conter...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Wzy0N04C3R-zfGZ0k4fQd_TxKDg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220046_1.jpg?itok=NbzJGgQz&quot; alt=&quot;Tesouro faz maior intervenção em títulos públicos em mais de 10 anos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© José Cruz/Agência Brasil/Arquivo&lt;/p&gt;
-&lt;p&gt;O Tesouro Nacional realizou novas recompras de títulos públicos nesta terça-feira (17), em uma tentativa de conter a escalada dos juros futuros diante do aumento das incertezas globais e domésticas.&lt;/p&gt;
-&lt;p&gt;Com as operações mais recentes, a atuação do Tesouro alcançou R$ 43,6 bilhões em apenas dois dias, configurando a maior intervenção no mercado em mais de uma década.&lt;/p&gt;
-&lt;p&gt;O volume supera, em termos nominais, as ações adotadas durante a pandemia de covid-19, quando foram recomprados R$ 35,56 bilhões ao longo de 15 dias.&lt;/p&gt;
-&lt;p&gt;Pela manhã, foram recomprados R$ 9,05 bilhões em títulos prefixados. À tarde, novas operações com papéis atrelados à inflação movimentaram R$ 7,07 bilhões. Na véspera, o volume já havia atingido R$ 27,5 bilhões.&lt;/p&gt;
-&lt;p&gt;Levantamentos de mercado indicam que a magnitude atual também supera episódios de estresse como as manifestações de 2013 e a greve dos caminhoneiros de 2018.&lt;/p&gt;
-&lt;p&gt;As recompras buscam reduzir a volatilidade na curva de juros, referência para expectativas sobre a Taxa Selic (juros básicos da economia). A alta recente das taxas foi impulsionada pelo avanço do conflito no Irã e pela elevação dos preços do petróleo, fatores que aumentam o risco inflacionário.&lt;/p&gt;
-&lt;p&gt;O movimento também ocorre em meio a incertezas internas, incluindo a possibilidade de uma nova paralisação de caminhoneiros.&lt;/p&gt;
-&lt;p&gt;A atuação chama atenção por ocorrer na semana da decisão de juros do Comitê de Política Monetária (Copom).&lt;/p&gt;
-&lt;p&gt;Tradicionalmente, o Tesouro evita intervenções nesse período para não gerar interpretações de influência sobre a política monetária.&lt;/p&gt;
-&lt;p&gt;A curva de juros futuros é um dos principais termômetros para as decisões do Banco Central, especialmente na definição da trajetória da taxa Selic.&lt;/p&gt;
-&lt;p&gt;A última edição do boletim Focus, pesquisa semanal do Banco Central com instituições financeiras, aponta divisão nas projeções para a reunião desta quarta-feira. A maioria prevê corte de 0,25 ponto percentual na Selic, mas parte do mercado ainda aposta em redução maior. Antes da escalada do conflito no Oriente Médio, a expectativa predominante era de um corte de 0,5 ponto.&lt;/p&gt;
-&lt;p&gt;A avaliação técnica é de que o Tesouro adotou uma postura mais agressiva para evitar disfunções maiores no mercado no futuro. Em dezembro de 2024, por exemplo, a reação foi mais tardia em meio a turbulências políticas e fiscais.&lt;/p&gt;
-&lt;p&gt;A continuidade das intervenções ainda é incerta e dependerá das condições de mercado. Historicamente, o Tesouro atua por alguns dias consecutivos em momentos de estresse, mas a decisão fica a critério do órgão.&lt;/p&gt;
-&lt;p&gt;Apesar da atuação, o mercado seguiu pressionado no fim do dia. A possibilidade de greve de caminhoneiros, revelada pelo jornal Folha de S.Paulo, elevou a percepção de risco, relembrando impactos econômicos observados em 2018, como alta da inflação e pressão fiscal.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/tesouro-faz-maior-intervencao-em-titulos-publicos-em-mais-de-10-anos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© José Cruz/Agência Brasil/Arquivo
-O Tesouro Nacional realizou novas recompras de títulos públicos nesta terça-feira (17), em uma tentativa de conter...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-17 21:08:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-17 21:08:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-17 21:08:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-17 21:08:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Wzy0N04C3R-zfGZ0k4fQd_TxKDg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220046_1.jpg?itok=NbzJGgQz</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Justiça libera uso de imóveis públicos para garantir empréstimo ao BRB</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/justica-libera-uso-de-imoveis-publicos-para-garantir-emprestimo-ao-brb</link>
-      <pubDate>Wed, 18 Mar 2026 10:43:40 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/justica-libera-uso-de-imoveis-publicos-para-garantir-emprestimo-ao-brb#1009</guid>
-      <description>O desembargador Roberval Belinati, do Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), derrubou nesta terça-feira (17) a decisão que ba...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Z-3GzrSFWQDx2S8STkRob64vJFM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0d4a9209.jpg?itok=0TulD7G5&quot; alt=&quot;Justiça libera uso de imóveis públicos para garantir empréstimo ao BRB&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O desembargador Roberval Belinati, do Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), derrubou nesta terça-feira (17) a decisão que barrou a lei que autorizou o governo distrital a usar imóveis públicos como garantias de empréstimos para salvar o Banco de Brasília (BRB).&lt;/p&gt;
-&lt;p&gt;suspende a liminar de primeira instância&lt;/p&gt;
-&lt;p&gt;que proibiu a utilização dos imóveis para capitalização do BRB, que é alvo das investigações sobre fraudes no Banco Master.&lt;/p&gt;
-&lt;p&gt;O desembargador aceitou recurso protocolado pelo GDF e afirmou que a proibição deve ser derrubada por interferir no livre funcionamento do governo local.&lt;/p&gt;
-&lt;p&gt;Belinati também ressaltou que a medida pode trazer prejuízos financeiros para o Distrito Federal.&lt;/p&gt;
-&lt;p&gt;“Destaque-se que o Banco de Brasília detém relevante função social, sendo responsável pela execução de políticas públicas de crédito, pela operacionalização de programas governamentais e pela prestação de serviços bancários a milhares de servidores públicos, aposentados e cidadãos do Distrito Federal”, afirmou.&lt;/p&gt;
-&lt;p&gt;o governador Ibaneis Rocha sancionou o projeto de lei&lt;/p&gt;
-&lt;p&gt;que permite o uso de imóveis públicos para garantir empréstimos e cobrir o rombo causado com as operações envolvendo o Master.&lt;/p&gt;
-&lt;p&gt;O BRB pretende realizar operações de crédito de R$ 6 bilhões com o Fundo Garantidor de Créditos (FGC) e outros bancos.&lt;/p&gt;
-&lt;p&gt;Viva Maria acompanha avanço do ECA digital&lt;/p&gt;
-&lt;p&gt;Ouça ao vivo: Vasco e Fluminense se enfrentam pelo Campeonato Brasileiro&lt;/p&gt;
-&lt;p&gt;Congresso Nacional promulga acordo entre Mercosul e União Europeia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/justica-libera-uso-de-imoveis-publicos-para-garantir-emprestimo-ao-brb&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O desembargador Roberval Belinati, do Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), derrubou nesta terça-feira (17) a decisão que ba...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-17 20:36:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-17 20:36:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-17 20:36:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-17 20:36:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Z-3GzrSFWQDx2S8STkRob64vJFM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0d4a9209.jpg?itok=0TulD7G5</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
