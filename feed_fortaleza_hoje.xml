@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 19/03/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 23:33 UTC</description>
-<lastBuildDate>Thu, 19 Mar 2026 23:33:13 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Fri, 20 Mar 2026 02:26:49 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Agefis autua novamente fábrica interditada por funcionamento irregular após infestação de pragas</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/agefis-autua-novamente-fabrica-interditada-por-funcionamento-irregular-apos-infestacao-de-pragas</link>
+<guid isPermaLink="false">fortaleza-20260319-9479e68672d5</guid>
+<pubDate>Thu, 19 Mar 2026 18:18:00 +0000</pubDate>
+<description>Agefis autua novamente fábrica interditada por funcionamento irregular após infestação de pragas - Quinta, 19 Março 2026 18:18</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/Fiscalizacao/Agefis_apreensao_fabrica_panificacao.jpg" alt="Agefis autua novamente fábrica interditada por funcionamento irregular após infestação de pragas" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<figure><img alt="Fiscais da Agefis lavram autos de infração durante fiscalização em fábrica" src="/images/images3/midias/Fiscalizacao/Agefis_apreensao_fabrica_panificacao.jpg" style="max-width:100%; height:auto;"/><figcaption>Durante nova fiscalização, empresa foi autuada por descumprir interdição e por manter produção de alimentos em condições inadequadas</figcaption></figure>
+<p>A Agência de Fiscalização de Fortaleza (Agefis) autuou novamente uma indústria de panificação localizada no bairro Carlito Pamplona, após constatar o funcionamento irregular do estabelecimento mesmo durante período de interdição sanitária. A nova vistoria foi realizada na quarta-feira (18/3), a pedido da própria empresa, que solicitou avaliação para possível desinterdição.</p>
+<p>Durante a fiscalização, a equipe identificou que a empresa continuou produzindo alimentos mesmo após a interdição aplicada no último dia 10 de março. Foram encontrados produtos expostos na área de venda com datas de fabricação posteriores à interdição, além de registros de pedidos realizados nos dias 12, 13 e 14 de março em área de preparo de alimentos. Um dos fornos utilizados na produção também apresentava sinais recentes de uso.</p>
+<p>Os fiscais constataram ainda que os produtos armazenados na câmara de congelamento estavam sem identificação de data de produção. Diante das irregularidades, todo o material foi apreendido por não apresentar condições de rastreabilidade e por ter sido produzido em ambiente classificado como insalubre.</p>
+<p>A empresa foi autuada por descumprimento de determinação da autoridade sanitária, conforme previsto na Lei Municipal nº 8.222/1998, além de ser novamente enquadrada por comercializar alimentos sem as condições adequadas de higiene, infração prevista no Art. 887 do Código da Cidade (Lei Complementar nº 270/2019).</p>
+<p>Apesar de a empresa já ter iniciado adequações estruturais e melhorias nas condições de higiene de equipamentos e utensílios, a equipe fiscal identificou a permanência de focos de infestação de baratas no local, o que inviabilizou a desinterdição do estabelecimento.</p>
+<p>O valor final das multas e a eventual aplicação de medidas administrativas adicionais, como cassação de licenças e alvarás, serão definidos após a conclusão do processo administrativo. A empresa tem prazo de 10 dias úteis para apresentar defesa, conforme previsto na legislação municipal.</p>
+<p><strong>Histórico</strong></p>
+<p>Na primeira vistoria, realizada no dia 10 de março, a Agefis interditou a fábrica após constatar graves irregularidades sanitárias, incluindo infestação de pragas e condições inadequadas de produção. Na ocasião, cerca de 11,5 toneladas de produtos de panificação foram apreendidas por estarem impróprias para o consumo.</p>
+<p><strong>Denúncias</strong></p>
+<p>A população pode acionar a fiscalização por meio da Central 156 ou pelo aplicativo Fiscalize Fortaleza, disponível para Android e iOS.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/agefis-autua-novamente-fabrica-interditada-por-funcionamento-irregular-apos-infestacao-de-pragas" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/Fiscalizacao/Agefis_apreensao_fabrica_panificacao.jpg" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/Fiscalizacao/Agefis_apreensao_fabrica_panificacao.jpg" type="image/jpeg" medium="image">
+<media:title>Agefis autua novamente fábrica interditada por funcionamento irregular após infestação de pragas</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
