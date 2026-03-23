@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 23 Mar 2026 19:42:43 +0000</pubDate>
+    <pubDate>Mon, 23 Mar 2026 20:31:34 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,250 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Polícia Federal investiga furto de material de pesquisa na Unicamp</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/policia-federal-investiga-furto-de-material-de-pesquisa-na-unicamp</link>
+      <pubDate>Mon, 23 Mar 2026 20:31:34 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/policia-federal-investiga-furto-de-material-de-pesquisa-na-unicamp#1000</guid>
+      <description>A Polícia Federal investigaum furto de materiais de pesquisa que ocorreu no fimde semana nas dependências do Instituto de Biologia da Universidade Es...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/l-NGQYoGMycP2-Wlv-L515aobL0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/unicamp.jpg?itok=_uoBv9n3&quot; alt=&quot;Polícia Federal investiga furto de material de pesquisa na Unicamp&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Polícia Federal investigaum furto de materiais de pesquisa que ocorreu no fimde semana nas dependências do Instituto de Biologia da Universidade Estadual de Campinas (Unicamp), no interior paulista.&lt;/p&gt;
+&lt;p&gt;O tipo de material furtado e outras informações sobre o caso não foram divulgados, segundo a Unicamp, “para não comprometer o andamento das investigações”.&lt;/p&gt;
+&lt;p&gt;Como medida preventiva, os laboratórios de pesquisa da unidade foram interditados temporariamente. Já as aulas de graduação e nos laboratórios de ensino ocorrem normalmente.&lt;/p&gt;
+&lt;p&gt;Por meio de nota publicada nesta segunda-feira (23),&lt;/p&gt;
+&lt;p&gt;a reitoria da Unicamp informou que, “em razão da gravidade do fato e da natureza do patrimônio científico envolvido”, acionou a Polícia Federal e a Agência Nacional de Vigilância Sanitária (Anvisa) para conduzir as investigações sobre o caso e fazer os procedimentos periciais necessários.&lt;/p&gt;
+&lt;p&gt;“A Universidade esclarece que vem tomando todas as medidas cabíveis, colaborando integralmente com as autoridades competentes. Os possíveis envolvidos na ocorrência serão responsabilizados, conforme previsto na legislação vigente”, diz a nota.&lt;/p&gt;
+&lt;p&gt;, a Anvisa informou queestava levantando mais informações sobre o caso.&lt;/p&gt;
+&lt;p&gt;No início deste ano, um laboratório da Universidade de São Paulo (USP), na capital paulista, foi assaltado. Os criminosos renderam os vigilantes do local e roubaram materiais do laboratório.&lt;/p&gt;
+&lt;p&gt;Lar de acolhimento para vítimas de violência é investigado por tortura&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 12h: COP15 sobre proteção de espécies migratórias começa nesta segunda&lt;/p&gt;
+&lt;p&gt;Duelos da Copa do Brasil e expectativa para jogo entre Brasil e França&lt;/p&gt;
+&lt;p&gt;Advogados deverão pagar custos do adiamento da sessão sobre caso Henry&lt;/p&gt;
+&lt;p&gt;Polícia Federal investiga furto de material de pesquisa na Unicamp&lt;/p&gt;
+&lt;p&gt;Celebração de 85 anos de Jorge Mautner terá transmissão online&lt;/p&gt;
+&lt;p&gt;Energia nuclear é estratégica para soberania, defende indústria&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/policia-federal-investiga-furto-de-material-de-pesquisa-na-unicamp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Polícia Federal investigaum furto de materiais de pesquisa que ocorreu no fimde semana nas dependências do Instituto de Biologia da Universidade Es...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-23 16:46:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-23 16:46:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-23 16:46:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-23 16:46:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/l-NGQYoGMycP2-Wlv-L515aobL0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/unicamp.jpg?itok=_uoBv9n3</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Celebração de 85 anos de Jorge Mautner terá transmissão online</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/celebracao-de-85-anos-de-jorge-mautner-tera-transmissao-online</link>
+      <pubDate>Mon, 23 Mar 2026 20:31:34 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/celebracao-de-85-anos-de-jorge-mautner-tera-transmissao-online#1001</guid>
+      <description>A celebração dos 85 anos de Jorge Mautner mobilizou o público antes mesmo de começar.
+Com ingressos esgotados em poucos minutos, a homenagem
+A Força ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iQVzaIK91AJ3enkpZYSF1woZhwU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/jorge-mautner-divulg.jpg?itok=5zgl5wt-&quot; alt=&quot;Celebração de 85 anos de Jorge Mautner terá transmissão online&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A celebração dos 85 anos de Jorge Mautner mobilizou o público antes mesmo de começar.&lt;/p&gt;
+&lt;p&gt;Com ingressos esgotados em poucos minutos, a homenagem&lt;/p&gt;
+&lt;p&gt;A Força Secreta Daquela Alegria&lt;/p&gt;
+&lt;p&gt;ganhou uma alternativa para atender à alta demanda: o evento será transmitido&lt;/p&gt;
+&lt;p&gt;, ampliando o acesso ao encontro dedicado a um dos nomes mais singulares da cultura brasileira.&lt;/p&gt;
+&lt;p&gt;Marcada para esta terça-feira (24), às 17h, na&lt;/p&gt;
+&lt;p&gt;, em Botafogo, na capital fluminense,a programação vai reunir artistas, escritores e pensadores para refletir sobre a trajetória multifacetada de Mautner, cuja obra atravessa a música, a literatura, o cinema e o pensamento cultural.&lt;/p&gt;
+&lt;p&gt;Aos 85 anos, o artista segue em plena atividade criativa, mantendo-se como uma referência da inventividade brasileira.&lt;/p&gt;
+&lt;p&gt;O evento começa com uma mesa de debates, com a participação da atriz Fernanda Torres, do músico e escritor Fausto Fawcett e do jornalista Cláudio Leal, sobre a presença de Mautner no teatro, na literatura e no cinema.&lt;/p&gt;
+&lt;p&gt;A relação do autor com os palcosinclui,por exemplo, a adaptação de sua obra&lt;/p&gt;
+&lt;p&gt;para o teatro, da qual ele também participou como ator.&lt;/p&gt;
+&lt;p&gt;Na sequência, os músicos Caetano Veloso e Gilberto Gil abordam o legado de Jorge Mautner, marcado por parcerias históricas e trocas criativas que remontam ao período de exílio em Londres.&lt;/p&gt;
+&lt;p&gt;Dessa convivência nasceram canções emblemáticas da música brasileira, como&lt;/p&gt;
+&lt;p&gt;, que dimensionam a influência de Mautner na produção artística do país.&lt;/p&gt;
+&lt;p&gt;Além dos debates, a programação inclui apresentações musicais. A abertura será conduzida pelo cantor e compositor Rubinho Jacobina, que apresenta repertório inspirado no universo do homenageado, com referências ao samba tradicional.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/celebracao-de-85-anos-de-jorge-mautner-tera-transmissao-online&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A celebração dos 85 anos de Jorge Mautner mobilizou o público antes mesmo de começar.
+Com ingressos esgotados em poucos minutos, a homenagem
+A Força ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-23 16:41:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-23 16:41:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-23 16:41:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-23 16:41:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/iQVzaIK91AJ3enkpZYSF1woZhwU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/jorge-mautner-divulg.jpg?itok=5zgl5wt-</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Energia nuclear é estratégica para soberania, defende indústria</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/energia-nuclear-e-estrategica-para-soberania-defende-industria</link>
+      <pubDate>Mon, 23 Mar 2026 20:31:34 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/energia-nuclear-e-estrategica-para-soberania-defende-industria#1002</guid>
+      <description>O desenvolvimento da energia nuclear é estratégico para o Brasil alcançar autonomia energética e soberania nacional, em um momentoem queas economias ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NTNGQzWTo_2F-cTEg4vWAh3jYEU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/24/toms0892.jpg?itok=IWE8a2P9&quot; alt=&quot;Energia nuclear é estratégica para soberania, defende indústria&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O desenvolvimento da energia nuclear é estratégico para o Brasil alcançar autonomia energética e soberania nacional, em um momentoem queas economias globais precisam de fontesestáveis de energiae o cenário geopolítico causa turbulência nascadeiasde petróleo e gás natural.&lt;/p&gt;
+&lt;p&gt;A opinião é defendida por especialistas que participaram, nesta segunda-feira (23),do&lt;/p&gt;
+&lt;p&gt;, encontro sobre o desenvolvimento da energia nuclear, na Casa Firjan,centro de inovação e tendências da Federação das Indústrias do Estado doRio de Janeiro.O encontro foi realizado pela Associação Brasileira para Desenvolvimento de Atividades Nucleares (Abdan).&lt;/p&gt;
+&lt;p&gt;Oprofessor de relações internacionais Júlio César Rodriguez, da Universidade Federal de Santa Maria (UFSM),considera que o Brasil deveinvestir na energia nuclear pelo caráter escalável dessa fonte energética, ou seja, capacidade de aumento da produção.&lt;/p&gt;
+&lt;p&gt;“A energia nuclear é uma fonte de energia chave para o Brasil dominar, ter autonomia energética e, mais do que isso, ser autônomo tecnologicamente”, completa o professor da universidade gaúcha em entrevistaà&lt;/p&gt;
+&lt;p&gt;“Dominando oprocessotodo, a extração dos minérios, o enriquecimento, o desenvolvimento de reatores, estamos jogando em nível de desenvolvimento industrial, tecnológico e científico mais alto, dos atores mais importantes do mundo”,sustenta.&lt;/p&gt;
+&lt;p&gt;O presidente daAbdan, Celso Cunha,elenca que a energia nuclear tem “atributos importantes”.“Élimpa, geraenergiaemum espaço muito pequeno, é altamente eficiente e tecnológica”, descreve.&lt;/p&gt;
+&lt;p&gt;Para Cunha, a conjuntura ambiental e geopolítica,&lt;/p&gt;
+&lt;p&gt;, reafirma as vantagens da energia nuclear.&lt;/p&gt;
+&lt;p&gt;“É extremamente importante um país ser independente energeticamente. Um país dependente energeticamente não consegue crescer”, diz ele à&lt;/p&gt;
+&lt;p&gt;O presidente daAbdanreconhece que o Brasil tem muitas fontes renováveis, como eólica, solar ehidrelétrica, mas ressalta a vantagem dea&lt;/p&gt;
+&lt;p&gt;energia nuclear ter fornecimento constante, que não depende de fatores climáticos, como ventos, sol e regime de chuvas&lt;/p&gt;
+&lt;p&gt;“É a grande solução”, defendeele, incluindo como vantagem para o país a capacidade de exportar combustível.&quot;Podemos ganhar muito dinheiro vendendo combustível. Nada de vender minério innatura, isso não traz valor agregado. Estamos no momento certo,chegou a hora do nuclear”, finaliza.&lt;/p&gt;
+&lt;p&gt;Apesar de ser considerada pela indústria como energia limpa, a fonte nuclear atrai preocupação de ambientalistas a respeito dos resíduos gerados no processo, que precisam ser armazenados de forma segura.&lt;/p&gt;
+&lt;p&gt;No Brasil, a Comissão Nacional de Energia Nuclear, um órgão estatal, trabalha na&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/energia-nuclear-e-estrategica-para-soberania-defende-industria&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O desenvolvimento da energia nuclear é estratégico para o Brasil alcançar autonomia energética e soberania nacional, em um momentoem queas economias ...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-23 16:33:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-23 16:33:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-23 16:33:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-23 16:33:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/NTNGQzWTo_2F-cTEg4vWAh3jYEU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/24/toms0892.jpg?itok=IWE8a2P9</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>FGC inicia pagamento de garantia a clientes do Banco Pleno</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/fgc-inicia-pagamento-de-garantia-clientes-do-banco-pleno</link>
+      <pubDate>Mon, 23 Mar 2026 20:31:34 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/fgc-inicia-pagamento-de-garantia-clientes-do-banco-pleno#1003</guid>
+      <description>Cerca de 152 mil clientes do Banco Pleno, instituição associada ao Banco Master liquidada em fevereiro, podem pedir o pagamento de garantias do Fundo...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LAlYJcZkUIIlzatoLaPYUb6vIdA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/21/retrospectiva74.jpg?itok=XVeKXQav&quot; alt=&quot;FGC inicia pagamento de garantia a clientes do Banco Pleno&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Cerca de 152 mil clientes do Banco Pleno, instituição associada ao Banco Master liquidada em fevereiro, podem pedir o pagamento de garantias do Fundo Garantidor de Créditos (FGC)&lt;/p&gt;
+&lt;p&gt;a partir desta segunda-feira (23)&lt;/p&gt;
+&lt;p&gt;. O fundo começou a liberar os pagamentos.&lt;/p&gt;
+&lt;p&gt;152 mil credores têm direito a receber cerca de R$ 4,8 bilhões em garantias&lt;/p&gt;
+&lt;p&gt;, referentes a depósitos, investimentos como Certificados de Depósito Bancário (CDB) e outros produtos cobertos pelo fundo.&lt;/p&gt;
+&lt;p&gt;Os investidores pessoas físicas já podem solicitar o resgate por meio do aplicativo oficial do FGC. O processo inclui cadastro, validação de dados e assinatura digital do pedido.&lt;/p&gt;
+&lt;p&gt;Após a confirmação, o valor é depositado na conta indicada em até dois dias úteis.&lt;/p&gt;
+&lt;p&gt;Para pessoas jurídicas, a solicitação deve ser feita exclusivamente pelo&lt;/p&gt;
+&lt;p&gt;O FGC cobre até R$ 250 mil por Cadastro de Pessoas Físicas (CPF)ou Cadastro Nacional de Pessoas Jurídicas (CNPJ) por instituição financeira&lt;/p&gt;
+&lt;p&gt;. Há ainda um teto global de R$ 1 milhão por investidor a cada período de quatro anos.&lt;/p&gt;
+&lt;p&gt;OFGCcobreos seguintes recursos e investimentos:&lt;/p&gt;
+&lt;p&gt;Letras financeiras dos seguintes tipos: LCI,LCA, LC, LH, LCD;&lt;/p&gt;
+&lt;p&gt;Operações compromissadas com títulos elegíveis.&lt;/p&gt;
+&lt;p&gt;Em caso de liquidação, oFGCé o caminho para recuperar os valores dentro do limite.&lt;/p&gt;
+&lt;p&gt;Recursos e investimentos não cobertos peloFGC:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/fgc-inicia-pagamento-de-garantia-clientes-do-banco-pleno&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Cerca de 152 mil clientes do Banco Pleno, instituição associada ao Banco Master liquidada em fevereiro, podem pedir o pagamento de garantias do Fundo...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-23 16:23:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-23 16:23:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-23 16:23:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-23 16:23:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/LAlYJcZkUIIlzatoLaPYUb6vIdA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/21/retrospectiva74.jpg?itok=XVeKXQav</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Comissão enfrentará &quot;sistema organizado de opressão&quot;, diz Erika Hilton</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/comissao-enfrentara-sistema-organizado-de-opressao-diz-erika-hilton</link>
+      <pubDate>Mon, 23 Mar 2026 20:31:34 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/comissao-enfrentara-sistema-organizado-de-opressao-diz-erika-hilton#1004</guid>
+      <description>A deputada federal Erika Hilton (PSOL-SP) disse que a Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados terá, entre seus desafios, o ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NQla6IY33Qc-opegImajE8oTOjg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/18/0d9a5782.jpg?itok=hDj0A3Hm&quot; alt=&quot;Comissão enfrentará &quot;sistema organizado de opressão&quot;, diz Erika Hilton&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A deputada federal Erika Hilton (PSOL-SP) disse que a Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados terá, entre seus desafios, o de enfrentar o que classifica como um “sistema organizado de opressão, desigualdade, injustiça e ódio” contra muitos grupos que historicamente viveram à margem da sociedade.&lt;/p&gt;
+&lt;p&gt;Eleita recentemente presidente da comissão&lt;/p&gt;
+&lt;p&gt;, a deputada participou, nesta segunda-feira (23), do programa&lt;/p&gt;
+&lt;p&gt;Durante o programa, ela disse ter acionado a Justiça Eleitoral contra a deputada estadual Fabiana Bolsonaro (PL-SP), pelo&lt;/p&gt;
+&lt;p&gt;uso de cotas destinadas à população negra em sua campanha&lt;/p&gt;
+&lt;p&gt;, ao se declarar parda, o que, na avaliação de Erika, configura fraude eleitoral.&lt;/p&gt;
+&lt;p&gt;A deputada federal criticou também o&lt;/p&gt;
+&lt;p&gt;uso de blackface por parte de Fabiana&lt;/p&gt;
+&lt;p&gt;, atitude adotada pela parlamentar estadual para atacar outra parlamentar.&lt;/p&gt;
+&lt;p&gt;Blackface é uma prática em que uma pessoa branca pinta o rosto de preto para imitar, de forma caricata, uma pessoa negra.&lt;/p&gt;
+&lt;p&gt;Segundo Erika Hilton, tal atitude configura prática racista, violenta e grave, que ultrapassa todos os limites do debate político e da convivência social.&lt;/p&gt;
+&lt;p&gt;Na entrevista, a deputada federal apresentou algumas de suas prioridades à frente da comissão para a qual foi eleita, como o enfrentamento à misoginia alimentada pelo discurso de ódio, algo que, na avaliação da deputada, acabou sendo reforçado por meio dos ambientes digitais, tanto contra mulheres, quanto contra pessoas trans, crianças e minorias que, historicamente, foram colocadas à margem da sociedade.&lt;/p&gt;
+&lt;p&gt;A deputada Erika Hilton lembrou que, graças a uma série de conquistas, esses grupos conquistaram espaços, mas que tudo foi obtido por meio de muita luta e políticas públicas, algo que, segundo ela, não foi bem recebido por uma camada conservadora da sociedade.&lt;/p&gt;
+&lt;p&gt;“Há uma guerra de narrativas contra esses grupos cuja presença nesses lugares ainda parece muito incômoda para essas pessoas [conservadoras]”, disse ao defender que democracia pressupõe diversidade e que, por isso, carrega em sua essência maior representação de grupos diversos.&lt;/p&gt;
+&lt;p&gt;A deputada reiterou seus posicionamentos em favor da ampliação do conceito de mulher, afirmando que essa compreensão não deve estar restrita a questões biológicas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/comissao-enfrentara-sistema-organizado-de-opressao-diz-erika-hilton&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A deputada federal Erika Hilton (PSOL-SP) disse que a Comissão de Defesa dos Direitos da Mulher da Câmara dos Deputados terá, entre seus desafios, o ...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-03-23 16:14:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-23 16:14:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-23 16:14:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-23 16:14:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/NQla6IY33Qc-opegImajE8oTOjg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/18/0d9a5782.jpg?itok=hDj0A3Hm</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>BTG Pactual retoma Pix após ataque hacker que desviou R$ 100 milhões</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/btg-pactual-retoma-pix-apos-ataque-hacker-que-desviou-r-100-milhoes</link>
-      <pubDate>Mon, 23 Mar 2026 19:42:43 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 20:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/btg-pactual-retoma-pix-apos-ataque-hacker-que-desviou-r-100-milhoes#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/btg-pactual-retoma-pix-apos-ataque-hacker-que-desviou-r-100-milhoes#1005</guid>
       <description>© Marcello Casal jr/Agência Brasil
 O banco BTG Pactual informou nesta segunda-feira (23) que iniciou o restabelecimento das operações via Pix, após s...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/TM_Zd7Vw8parSxpIb6ifREl47J0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pix_0411202553.jpg?itok=t_TWtp-5&quot; alt=&quot;BTG Pactual retoma Pix após ataque hacker que desviou R$ 100 milhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -40,14 +279,14 @@ O banco BTG Pactual informou nesta segunda-feira (23) que iniciou o restabelecim
 &lt;p&gt;A instituição destacou que a segurança das informações segue como prioridade e que permanece disponível para esclarecimentos por meio de seus canais de atendimento.&lt;/p&gt;
 &lt;p&gt;O banco continua trabalhando para recuperar o restante dos valores desviados e apurar as circunstâncias do ataque.&lt;/p&gt;
 &lt;p&gt;As operações via Pix estão sendo normalizadas gradualmente ao longo desta segunda-feira.&lt;/p&gt;
-&lt;p&gt;Com guerra no Irã, mercado projeta alta na inflação e na taxa de juros&lt;/p&gt;
+&lt;p&gt;Lar de acolhimento para vítimas de violência é investigado por tortura&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 12h: COP15 sobre proteção de espécies migratórias começa nesta segunda&lt;/p&gt;
-&lt;p&gt;&quot;Inaceitável. Violência política&quot;, afirma Erika Hilton sobre blackface&lt;/p&gt;
-&lt;p&gt;FGC inicia pagamento de garantia a clientes do Banco Pleno&lt;/p&gt;
-&lt;p&gt;Comissão enfrentará &quot;sistema organizado de opressão&quot;, diz Erika Hilton&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/btg-pactual-retoma-pix-apos-ataque-hacker-que-desviou-r-100-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Duelos da Copa do Brasil e expectativa para jogo entre Brasil e França&lt;/p&gt;
+&lt;p&gt;Advogados deverão pagar custos do adiamento da sessão sobre caso Henry&lt;/p&gt;
+&lt;p&gt;Polícia Federal investiga furto de material de pesquisa na Unicamp&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/btg-pactual-retoma-pix-apos-ataque-hacker-que-desviou-r-100-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal jr/Agência Brasil
 O banco BTG Pactual informou nesta segunda-feira (23) que iniciou o restabelecimento das operações via Pix, após s...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-03-23 16:00:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 16:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 16:00:00</wp:post_modified>
@@ -73,9 +312,9 @@ O banco BTG Pactual informou nesta segunda-feira (23) que iniciou o restabelecim
     <item>
       <title>Gás do Povo chega a 15 milhões de famílias com nova expansão</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/gas-do-povo-chega-15-milhoes-de-familias-com-nova-expansao</link>
-      <pubDate>Mon, 23 Mar 2026 19:42:43 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 20:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/gas-do-povo-chega-15-milhoes-de-familias-com-nova-expansao#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/gas-do-povo-chega-15-milhoes-de-familias-com-nova-expansao#1006</guid>
       <description>© Marcello Casal/Agência Brasil
 O programa Gás do Povo passou a atender quase 15 milhões de famílias em todos os municípios do Brasil. A nova etapa d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/-RO0haikWbuizCz_d2cH_JlH8wc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/tmcj_0025.jpg?itok=XTg7piH1&quot; alt=&quot;Gás do Povo chega a 15 milhões de famílias com nova expansão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +335,7 @@ O programa Gás do Povo passou a atender quase 15 milhões de famílias em todos
 &lt;p&gt;Sem o benefício, muitas famílias recorrem a alternativas como lenha e carvão, que aumentam riscos à saúde e de acidentes domésticos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/gas-do-povo-chega-15-milhoes-de-familias-com-nova-expansao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal/Agência Brasil
 O programa Gás do Povo passou a atender quase 15 milhões de famílias em todos os municípios do Brasil. A nova etapa d...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-23 15:50:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 15:50:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 15:50:00</wp:post_modified>
@@ -122,9 +361,9 @@ O programa Gás do Povo passou a atender quase 15 milhões de famílias em todos
     <item>
       <title>Jovem de 24 anos é vítima de feminicídio em Bragaça Paulista</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/jovem-de-24-anos-e-vitima-de-feminicidio-em-bragaca-paulista</link>
-      <pubDate>Mon, 23 Mar 2026 19:42:43 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 20:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/jovem-de-24-anos-e-vitima-de-feminicidio-em-bragaca-paulista#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/jovem-de-24-anos-e-vitima-de-feminicidio-em-bragaca-paulista#1007</guid>
       <description>© Fernando Frazão/Agência Brasil
 A Polícia Civil investiga uma denúncia de feminicídio ocorrido neste domingo (22), em Bragança Paulista, interior de...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/gf98ev0ycP50LFs05_zOBCpJN1U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/986724-25112015_9870.jpg?itok=-FKKh6Re&quot; alt=&quot;Jovem de 24 anos é vítima de feminicídio em Bragaça Paulista&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -138,14 +377,14 @@ A Polícia Civil investiga uma denúncia de feminicídio ocorrido neste domingo 
 &lt;p&gt;de feminicídio desde o início da série histórica, em 2018.&lt;/p&gt;
 &lt;p&gt;Em todo o ano passado, as vítimas chegaram a 270, o que representa um aumento de 6,7% em relação a 2024,&lt;/p&gt;
 &lt;p&gt;quando o número chegou a 253. Os dados estão disponíveis no site da Secretaria da Segurança Pública do estado (SSP).&lt;/p&gt;
-&lt;p&gt;Com guerra no Irã, mercado projeta alta na inflação e na taxa de juros&lt;/p&gt;
+&lt;p&gt;Lar de acolhimento para vítimas de violência é investigado por tortura&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 12h: COP15 sobre proteção de espécies migratórias começa nesta segunda&lt;/p&gt;
-&lt;p&gt;&quot;Inaceitável. Violência política&quot;, afirma Erika Hilton sobre blackface&lt;/p&gt;
-&lt;p&gt;FGC inicia pagamento de garantia a clientes do Banco Pleno&lt;/p&gt;
-&lt;p&gt;Comissão enfrentará &quot;sistema organizado de opressão&quot;, diz Erika Hilton&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/jovem-de-24-anos-e-vitima-de-feminicidio-em-bragaca-paulista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Duelos da Copa do Brasil e expectativa para jogo entre Brasil e França&lt;/p&gt;
+&lt;p&gt;Na Mesa com Datena recebe Simone Tebet e Guilherme Boulos, nesta terça&lt;/p&gt;
+&lt;p&gt;Advogados deverão pagar custos do adiamento da sessão sobre caso Henry&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/jovem-de-24-anos-e-vitima-de-feminicidio-em-bragaca-paulista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 A Polícia Civil investiga uma denúncia de feminicídio ocorrido neste domingo (22), em Bragança Paulista, interior de...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-23 15:48:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 15:48:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 15:48:00</wp:post_modified>
@@ -171,9 +410,9 @@ A Polícia Civil investiga uma denúncia de feminicídio ocorrido neste domingo 
     <item>
       <title>Última década foi a mais quente já registrada, diz agência da ONU</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/ultima-decada-foi-mais-quente-ja-registrada-diz-agencia-da-onu</link>
-      <pubDate>Mon, 23 Mar 2026 19:42:43 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 20:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/ultima-decada-foi-mais-quente-ja-registrada-diz-agencia-da-onu#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/ultima-decada-foi-mais-quente-ja-registrada-diz-agencia-da-onu#1008</guid>
       <description>O relatório Estado do Clima Global 2025, da World Meteorological Organization (WMO), mostrou que o período de 2015 a 2025 foi o mais quente já regist...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/490K2_wJLS0tf15izrNPHq7HjhU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/calor_rio_de_janeiro_tmazs_abr_2701220284_0.jpg?itok=JllIzL2l&quot; alt=&quot;Última década foi a mais quente já registrada, diz agência da ONU&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O relatório Estado do Clima Global 2025, da World Meteorological Organization (WMO), mostrou que o período de 2015 a 2025 foi o mais quente já registrado na série histórica, desde começaram as medições, em 1850.&lt;/p&gt;
@@ -192,7 +431,7 @@ A Polícia Civil investiga uma denúncia de feminicídio ocorrido neste domingo 
 &lt;p&gt;O derretimento das geleiras do Ártico e da Antártida também tem avançado, já que 3% do excesso de energia aquece e derrete o gelo.&lt;/p&gt;
 &lt;p&gt;O aquecimento dos oceanos e o derretimento do gelo impulsionam a elevação, a longo prazo, do nível médio do mar, que se acelerou desde o início das medições por satélite em 1993, informou a entidade.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/ultima-decada-foi-mais-quente-ja-registrada-diz-agencia-da-onu&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O relatório Estado do Clima Global 2025, da World Meteorological Organization (WMO), mostrou que o período de 2015 a 2025 foi o mais quente já regist...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-23 15:30:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 15:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 15:30:00</wp:post_modified>
@@ -218,9 +457,9 @@ A Polícia Civil investiga uma denúncia de feminicídio ocorrido neste domingo 
     <item>
       <title>Sônia Guajajara apresenta melhoras, mas continua internada em SP</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/sonia-guajajara-apresenta-melhoras-mas-continua-internada-em-sp</link>
-      <pubDate>Mon, 23 Mar 2026 19:42:43 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 20:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/sonia-guajajara-apresenta-melhoras-mas-continua-internada-em-sp#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/sonia-guajajara-apresenta-melhoras-mas-continua-internada-em-sp#1009</guid>
       <description>Após apresentar um quadro de mal-estar, febre alta e dor abdominal, a ministra dos Povos Indígenas,
 Sônia Guajajara, foi internada no Instituto do Co...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/KaDLMHC4crVBZItBqW1u6kFqzhw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/26/lula6436.jpg?itok=JPsPXK4a&quot; alt=&quot;Sônia Guajajara apresenta melhoras, mas continua internada em SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -233,15 +472,15 @@ Sônia Guajajara, foi internada no Instituto do Co...</description>
 &lt;p&gt;“Por orientação médica, segue hospitalizada em observação, realizando exames complementares e recebendo acompanhamento clínico”, diz a nota.&lt;/p&gt;
 &lt;p&gt;a ministra também esteve internada no Incor, em São Paulo, após passar mal enquanto cumpria uma agenda pública.&lt;/p&gt;
 &lt;p&gt;Confira mais detalhes no Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
-&lt;p&gt;Com guerra no Irã, mercado projeta alta na inflação e na taxa de juros&lt;/p&gt;
+&lt;p&gt;Lar de acolhimento para vítimas de violência é investigado por tortura&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 12h: COP15 sobre proteção de espécies migratórias começa nesta segunda&lt;/p&gt;
-&lt;p&gt;&quot;Inaceitável. Violência política&quot;, afirma Erika Hilton sobre blackface&lt;/p&gt;
-&lt;p&gt;FGC inicia pagamento de garantia a clientes do Banco Pleno&lt;/p&gt;
-&lt;p&gt;Comissão enfrentará &quot;sistema organizado de opressão&quot;, diz Erika Hilton&lt;/p&gt;
-&lt;p&gt;BTG Pactual retoma Pix após ataque hacker que desviou R$ 100 milhões&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/sonia-guajajara-apresenta-melhoras-mas-continua-internada-em-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Duelos da Copa do Brasil e expectativa para jogo entre Brasil e França&lt;/p&gt;
+&lt;p&gt;Na Mesa com Datena recebe Simone Tebet e Guilherme Boulos, nesta terça&lt;/p&gt;
+&lt;p&gt;Advogados deverão pagar custos do adiamento da sessão sobre caso Henry&lt;/p&gt;
+&lt;p&gt;Polícia Federal investiga furto de material de pesquisa na Unicamp&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/sonia-guajajara-apresenta-melhoras-mas-continua-internada-em-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Após apresentar um quadro de mal-estar, febre alta e dor abdominal, a ministra dos Povos Indígenas,
 Sônia Guajajara, foi internada no Instituto do Co...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-23 15:27:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 15:27:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 15:27:00</wp:post_modified>
@@ -262,250 +501,6 @@ Sônia Guajajara, foi internada no Instituto do Co...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/KaDLMHC4crVBZItBqW1u6kFqzhw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/26/lula6436.jpg?itok=JPsPXK4a</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Diversidade marca cerimônia de abertura da COP15 em Campo Grande</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/diversidade-marca-cerimonia-de-abertura-da-cop15-em-campo-grande</link>
-      <pubDate>Mon, 23 Mar 2026 19:42:43 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/diversidade-marca-cerimonia-de-abertura-da-cop15-em-campo-grande#1005</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais Silvestres (COP15)
-, em Campo Grande (MS), ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/B9spw6GX776Ewb6Q9f9Ui5wtxl0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/_raf4515.jpg?itok=dXm-F4BT&quot; alt=&quot;Diversidade marca cerimônia de abertura da COP15 em Campo Grande&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais Silvestres (COP15)&lt;/p&gt;
-&lt;p&gt;, em Campo Grande (MS), foi marcada, na manhã desta segunda-feira (23), pela diversidade de oradores e apresentações das comunidades tradicionais. Além de autoridades governamentais e do secretariado das Nações Unidas, representantes da sociedade civil e cientistas também discursaram sobre as expectativas para os trabalhos até o dia 29.&lt;/p&gt;
-&lt;p&gt;A ministra do Meio Ambiente e Mudança do Clima, Marina Silva, abriu a cerimônia com um discurso de boas-vindas, no qual reafirmou que a união entre os países é capaz de promover avanços na proteção de espécies contempladas nos anexos da Convenção sobre a Conservação das Espécies Migratórias de Animais Silvestres (CMS, na sigla em inglês), bem como fortalecer ações transversais em temas como conectividade ecológica e mudança do clima.&lt;/p&gt;
-&lt;p&gt;“Nos próximos dias, teremos a oportunidade de lançar uma mensagem clara ao mundo: se trabalharmos juntos, é possível conciliar desenvolvimento e conservação; é possível gerar riqueza sem destruir o patrimônio natural que nos sustenta, promovendo assim um novo ciclo de prosperidade”, destacou.&lt;/p&gt;
-&lt;p&gt;A secretária-executiva da CMS, Amy Fraenkel, reforçou a necessidade de agir a respeito dos números apresentados pelo último relatório sobre espécies migratórias, divulgado na COP14, que demonstram um&lt;/p&gt;
-&lt;p&gt;aumento das populações em declínio para 49% das espécies protegidas pelo tratado internacional&lt;/p&gt;
-&lt;p&gt;Amy Fraenkel também apontou avanços com a recuperação das populações de tartaruga-verde e outras espécies alcançadas por ações como a criação de sistemas de áreas protegidas, bem conectadas e gerenciadas de forma eficaz.&lt;/p&gt;
-&lt;p&gt;Após os discursos oficiais, indígenas do povo Terena realizaram a&lt;/p&gt;
-&lt;p&gt;, uma manifestação cultural sagrada e de resistência dessa população tradicional do Mato Grosso do Sul.&lt;/p&gt;
-&lt;p&gt;Representando a população quilombola, Adriana da Silva Soaresdestacou que&lt;/p&gt;
-&lt;p&gt;o Pantanal é vida e ancestralidade para os povos tradicionais que ainda lutam pela demarcação e articulação de seus territórios&lt;/p&gt;
-&lt;p&gt;, mesmo sendo os principais protetores do meio ambiente.&lt;/p&gt;
-&lt;p&gt;“Sem esse reconhecimento, nossas comunidades seguem vulneráveis, ameaçadas e invisibilizadas. Com o território tradicional ameaçado, não é apenas o povo que sofre, é todo o bioma que entra em risco”, declarou.&lt;/p&gt;
-&lt;p&gt;Diante de um auditório com representantes de governos, agências das Nações Unidas, cientistas, especialistas em conservação, grupos da sociedade civil, povos indígenas e comunidades locais, a bióloga Tatiana Neves, fundadora e coordenadora-geral do Projeto Albatroz, lembrou que, assim como essas aves que atravessam oceanos unindo continentes, a união de todos é capaz de conectar conhecimento a favor da conservação das espécies migratórias.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/diversidade-marca-cerimonia-de-abertura-da-cop15-em-campo-grande&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais Silvestres (COP15)
-, em Campo Grande (MS), ...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-03-23 15:11:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-23 15:11:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-23 15:11:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-23 15:11:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/B9spw6GX776Ewb6Q9f9Ui5wtxl0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/_raf4515.jpg?itok=dXm-F4BT</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Polícia investiga morte de 2 crianças em Praia Grande, litoral de SP</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-investiga-morte-de-2-criancas-em-praia-grande-litoral-de-sp</link>
-      <pubDate>Mon, 23 Mar 2026 19:42:43 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-investiga-morte-de-2-criancas-em-praia-grande-litoral-de-sp#1006</guid>
-      <description>Dois meninos, primos de 4 e 6 anos, que estavam desaparecidos em Praia Grande, cidade do litoral sul de São Paulo, tiveram os corpos encontrados na m...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QQCv3XV0W32NKCudlE1HZiHAoC4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/12/policia_civil_sp.jpg?itok=jr8sMicv&quot; alt=&quot;Polícia investiga morte de 2 crianças em Praia Grande, litoral de SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Dois meninos, primos de 4 e 6 anos, que estavam desaparecidos em Praia Grande, cidade do litoral sul de São Paulo, tiveram os corpos encontrados na madrugada desta segunda-feira (23).&lt;/p&gt;
-&lt;p&gt;O sumiço deles foi informado nodomingo (22).&lt;/p&gt;
-&lt;p&gt;Segundo informações da polícia, moradores da região localizaram os garotos no Bairro Antártica e avisaram as autoridades.&lt;/p&gt;
-&lt;p&gt;Eles estavam dentro de um carro – que estava parado num terreno – e os corpos tinham sinais de violência.&lt;/p&gt;
-&lt;p&gt;A Secretaria de Segurança Pública de São Paulo diz que a perícia foi acionada para investigar o caso.&lt;/p&gt;
-&lt;p&gt;Com guerra no Irã, mercado projeta alta na inflação e na taxa de juros&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: COP15 sobre proteção de espécies migratórias começa nesta segunda&lt;/p&gt;
-&lt;p&gt;&quot;Inaceitável. Violência política&quot;, afirma Erika Hilton sobre blackface&lt;/p&gt;
-&lt;p&gt;FGC inicia pagamento de garantia a clientes do Banco Pleno&lt;/p&gt;
-&lt;p&gt;Comissão enfrentará &quot;sistema organizado de opressão&quot;, diz Erika Hilton&lt;/p&gt;
-&lt;p&gt;BTG Pactual retoma Pix após ataque hacker que desviou R$ 100 milhões&lt;/p&gt;
-&lt;p&gt;Gás do Povo chega a 15 milhões de famílias com nova expansão&lt;/p&gt;
-&lt;p&gt;Jovem de 24 anos é vítima de feminicídio em Bragaça Paulista&lt;/p&gt;
-&lt;p&gt;Última década foi a mais quente já registrada, diz agência da ONU&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-investiga-morte-de-2-criancas-em-praia-grande-litoral-de-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Dois meninos, primos de 4 e 6 anos, que estavam desaparecidos em Praia Grande, cidade do litoral sul de São Paulo, tiveram os corpos encontrados na m...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-23 14:32:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-23 14:32:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-23 14:32:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-23 14:32:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/QQCv3XV0W32NKCudlE1HZiHAoC4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/12/policia_civil_sp.jpg?itok=jr8sMicv</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Defesa de Jairinho abandona júri e caso Henry Borel é adiado</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/defesa-de-jairinho-abandona-juri-e-caso-henry-borel-e-adiado</link>
-      <pubDate>Mon, 23 Mar 2026 19:42:43 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/defesa-de-jairinho-abandona-juri-e-caso-henry-borel-e-adiado#1007</guid>
-      <description>Nesta segunda-feira (23), a defesa deJairo Souza Santos Júnior, (o Dr. Jairinho), padrasto de Henry Borel, pediu adiamento do júri por falta de acess...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2gj1NW6zv8gzv80_-_gyPho39BM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/toms1046.jpg?itok=BwQ3wYG4&quot; alt=&quot;Defesa de Jairinho abandona júri e caso Henry Borel é adiado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Nesta segunda-feira (23), a defesa deJairo Souza Santos Júnior, (o Dr. Jairinho), padrasto de Henry Borel, pediu adiamento do júri por falta de acesso às provas e após o indeferimento do pedido pela juíza Elizabeth Machado Louro do2º Tribunal do Júri, no centro do Rio de Janeiro, os advogados de defesa abandonaram o plenário.&lt;/p&gt;
-&lt;p&gt;Com essa atitude, o julgamento foi adiado para 25 de maio.&lt;/p&gt;
-&lt;p&gt;A juíza também determinou a soltura de Monique Medeiros, mãe de Henry Borel, por excesso de prazo. A defesa de Monique era contrária ao adiamento do processo.&lt;/p&gt;
-&lt;p&gt;Hoje começaria o julgamentodos réus, Monique Medeiros (mãe) e Jairo Souza Santos Júnior, padrasto de Henry Borel,&lt;/p&gt;
-&lt;p&gt;,aos4 anos, na madrugada de 8 de março de 2021.&lt;/p&gt;
-&lt;p&gt;Um dos advogados que compõem a defesa de Jairinho, Rodrigo Faucz, disse que não é possível seguir o julgamento com a omissão de documentos, provas e dados entregues à defesa.&lt;/p&gt;
-&lt;p&gt;“A defesa solicitou essas provas no dia 12 de agosto de 2025. A juíza mandou nos entregar. Recebemos apenas informações parciais. Querem colocar a opinião pública, mais uma vez, contrária. Isso é um absurdo”, disse o advogado.&lt;/p&gt;
-&lt;p&gt;Ao chegar ao Fórum de Justiça, o pai de Henry, Leniel Borel,disse que já são cinco anos de luto e de luta esperando por esse dia. Ele lembrou que tem mais tempo da morte do filho do que o tempo de convivência que ele teve com a criança.&lt;/p&gt;
-&lt;p&gt;“A condenação é o mínimo para aqueles dois monstros. Três pessoas entraram vivas no apartamento. Depois dois adultos e uma criança saíram mortos. O que aconteceu com o meu filho naquele apartamento? Eu acho que eles não vão falar o que ocorreu”, disse Leniel.&lt;/p&gt;
-&lt;p&gt;Henry morreu no apartamento onde morava com a mãe, Monique Medeiros e o padastro, Dr. Jaririnho, na Barra da Tijuca, zona sudoeste do Rio.&lt;/p&gt;
-&lt;p&gt;O menino ainda chegou a ser levado a um hospital particular na Barra da Tijuca, onde o&lt;/p&gt;
-&lt;p&gt;casal alegou que a criança teria sofrido um acidente doméstico&lt;/p&gt;
-&lt;p&gt;No entanto, o laudo da necropsia do Instituto Médico-Legal (IML) apontou que&lt;/p&gt;
-&lt;p&gt;Henry sofreu 23 lesões por ação violenta, incluindo laceração hepática e hemorragia interna&lt;/p&gt;
-&lt;p&gt;As investigações da Polícia Civil concluíram que Henry era&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/defesa-de-jairinho-abandona-juri-e-caso-henry-borel-e-adiado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Nesta segunda-feira (23), a defesa deJairo Souza Santos Júnior, (o Dr. Jairinho), padrasto de Henry Borel, pediu adiamento do júri por falta de acess...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-23 14:13:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-23 14:13:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-23 14:13:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-23 14:13:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/2gj1NW6zv8gzv80_-_gyPho39BM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/toms1046.jpg?itok=BwQ3wYG4</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Otan não confirma ataque do Irã à base do Reino Unido e EUA no Índico</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/otan-nao-confirma-ataque-do-ira-base-do-reino-unido-e-eua-no-indico</link>
-      <pubDate>Mon, 23 Mar 2026 19:42:43 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/otan-nao-confirma-ataque-do-ira-base-do-reino-unido-e-eua-no-indico#1008</guid>
-      <description>© Reuters/Yves Herman/Arquivo/Proibida reprodução
-O secretário-geral da Organização do Tratado do Atlântico Norte (Otan), Mark Rutte, disse que não p...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Co90v8kHlcqM3QNKW-cxTRrNoXY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/2026-03-05t113116z_572610408_rc29yjachgv8_rtrmadp_3_iran-crisis-nato-rutte.jpg?itok=aPDLRDvS&quot; alt=&quot;Otan não confirma ataque do Irã à base do Reino Unido e EUA no Índico&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Reuters/Yves Herman/Arquivo/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;O secretário-geral da Organização do Tratado do Atlântico Norte (Otan), Mark Rutte, disse que não pode confirmar que a base militar de Diego Garcia, compartilhada por Reino Unido e Estados Unidos no Oceano Índico, tenha sido atingida por mísseis balísticos intercontinentais do Irã no sábado (21).&lt;/p&gt;
-&lt;p&gt;“Não podemos confirmar isso neste momento, então estamos investigando”, disse o chefe da aliança militar em entrevista exclusiva à emissora CBS News, neste domingo (22). O chefe da Otan é um entusiasta da agressão dos EUA e Israel contra o Irã.&lt;/p&gt;
-&lt;p&gt;Questionado se o Irã teria capacidade balística para atingir cidades europeias, como alegam as autoridades israelenses, Rutte disse que o que eles sabem “com certeza” é que Teerã estaria “muito perto” de ter essa capacidade balística intercontinental.&lt;/p&gt;
-&lt;p&gt;“Se esse foi o caso da base no Reino Unido, em Diego Garcia, ainda estamos avaliando. Mas, se for verdade, significa que eles já possuem essa capacidade. Se não for verdade, sabemos que estão muito perto de tê-la”, completou Rutte.&lt;/p&gt;
-&lt;p&gt;O Irã nega o ataque à base militar conjunta EUA-Reino Unido que fica a mais de 3 mil quilômetros do território do país persa.&lt;/p&gt;
-&lt;p&gt;Teerã sempre informou que seus mísseis teriam alcance de, no máximo, 2 mil quilômetros de distância.&lt;/p&gt;
-&lt;p&gt;O porta-voz do Ministério das Relações Exteriores do Irã, Esmaeil Baqaei, afirma que a acusação de que o Irã atacou a ilha de Diego Garcia é uma “falsa bandeira” para acusar Teerã.&lt;/p&gt;
-&lt;p&gt;Se confirmada autoria do Irã, o ataque poderia arrastar Londres e a Otan para a guerra.&lt;/p&gt;
-&lt;p&gt;“O fato de até mesmo o secretário-geral da Otan [que notoriamente pressiona os membros da aliança a apaziguar os EUA e apoiar sua guerra ilegal contra Irã] se recusar a endossar a mais recente desinformação de Israel diz muito: o mundo está completamente exausto dessas histórias batidas e desacreditadas”, disse o porta-voz de Teerã.&lt;/p&gt;
-&lt;p&gt;Fontes militares dos EUA não identificadas informaram a agências internacionais de notícias que o Irã teria lançado mísseis contra essa base conjunta no meio do Oceano Índico, mas que os projéteis não teriam atingido as instalações.&lt;/p&gt;
-&lt;p&gt;Israel usou essas notícias para insinuar que os países europeus deveriam entrar na guerra. O ministro das Relações Exteriores de Israel, Gideon Sa'ar, disse que o Irã mentiu sobre sua capacidade balística.&lt;/p&gt;
-&lt;p&gt;“Isso significa que os únicos três países europeus fora do alcance dos mísseis balísticos iranianos são a Islândia, a Irlanda e Portugal. A 4.000 km do Irã, encontram-se Berlim, Paris e Londres”, afirmou Gideon nas redes sociais.&lt;/p&gt;
-&lt;p&gt;O governo do Reino Unido tem apoiado politicamente a agressão dos EUA e de Israel contra o Irã, chegando a fornecer apoio logístico para operações de “defesa” na região.&lt;/p&gt;
-&lt;p&gt;governo britânico confirmou que os EUA estão usando as bases do Reino Unido&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/otan-nao-confirma-ataque-do-ira-base-do-reino-unido-e-eua-no-indico&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Reuters/Yves Herman/Arquivo/Proibida reprodução
-O secretário-geral da Organização do Tratado do Atlântico Norte (Otan), Mark Rutte, disse que não p...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-23 12:47:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-23 12:47:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-23 12:47:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-23 12:47:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Co90v8kHlcqM3QNKW-cxTRrNoXY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/2026-03-05t113116z_572610408_rc29yjachgv8_rtrmadp_3_iran-crisis-nato-rutte.jpg?itok=aPDLRDvS</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Imposto de renda: Receita já recebeu mais de 450 mil declarações</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/imposto-de-renda-receita-ja-recebeu-mais-de-450-mil-declaracoes</link>
-      <pubDate>Mon, 23 Mar 2026 19:42:43 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/imposto-de-renda-receita-ja-recebeu-mais-de-450-mil-declaracoes#1009</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-A Receita Federal recebeu, até as 12h desta segunda-feira (23), 450.026
-Declarações do Imposto de Renda Pessoa Físi...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/HTjZa0pa1NJXuhZBgyZlzniM6LE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/whatsapp_image_2026-03-16_at_16.06.34.jpg?itok=CW1QxBKJ&quot; alt=&quot;Imposto de renda: Receita já recebeu mais de 450 mil declarações&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;A Receita Federal recebeu, até as 12h desta segunda-feira (23), 450.026&lt;/p&gt;
-&lt;p&gt;Declarações do Imposto de Renda Pessoa Física 2026 (ano-base 2025)&lt;/p&gt;
-&lt;p&gt;O prazo para envio começou às 8h e segue até as 29h59min59s do dia 29 de maio.&lt;/p&gt;
-&lt;p&gt;Este ano, o Fisco espera receber cerca de 44 milhões de declarações.&lt;/p&gt;
-&lt;p&gt;Do total de declarações recebidas até o momento, 42,7% foram pré-preenchidas, 57,3% foram simplificadas e 1,3% foram retificadoras. Dados da Receita Federal mostram também que 34,6% foram enviadas por contribuintes do sexo feminino e que a média de idade é 47 anos.&lt;/p&gt;
-&lt;p&gt;Ainda de acordo com a Receita Federal, 83,9% das declarações enviadas apresentam valor a restituir, enquanto 7,9% têm imposto a pagar e 8,2% constam como sem imposto.&lt;/p&gt;
-&lt;p&gt;O Programa Gerador da Declaração pode ser baixado desde as 18h da última quinta-feira (19).&lt;/p&gt;
-&lt;p&gt;A partir desta segunda, o contribuinte também pode usar o&lt;/p&gt;
-&lt;p&gt;Meu Imposto de Renda, que permite o preenchimento online da declaração.&lt;/p&gt;
-&lt;p&gt;Neste ano, o prazo de entrega será mais curto que nos anos anteriores. Tradicionalmente, o envio das declarações começa em 15 de março ou no primeiro dia útil seguinte.&lt;/p&gt;
-&lt;p&gt;Em 2026, no entanto, o Fisco adiou o início em uma semana.&lt;/p&gt;
-&lt;p&gt;Com um lote a menos neste ano, a restituição será paga nas seguintes datas:&lt;/p&gt;
-&lt;p&gt;- 2º lote: 30 de junho de 2026;&lt;/p&gt;
-&lt;p&gt;- 3º lote: 31 de julho de 2026;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/imposto-de-renda-receita-ja-recebeu-mais-de-450-mil-declaracoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-A Receita Federal recebeu, até as 12h desta segunda-feira (23), 450.026
-Declarações do Imposto de Renda Pessoa Físi...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-23 12:24:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-23 12:24:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-23 12:24:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-23 12:24:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/HTjZa0pa1NJXuhZBgyZlzniM6LE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/whatsapp_image_2026-03-16_at_16.06.34.jpg?itok=CW1QxBKJ</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
