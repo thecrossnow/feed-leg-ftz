@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 23 Mar 2026 17:45:44 +0000</pubDate>
+    <pubDate>Mon, 23 Mar 2026 18:42:19 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,57 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Polícia investiga morte de 2 crianças em Praia Grande, litoral de SP</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-investiga-morte-de-2-criancas-em-praia-grande-litoral-de-sp</link>
+      <pubDate>Mon, 23 Mar 2026 18:42:19 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-investiga-morte-de-2-criancas-em-praia-grande-litoral-de-sp#1000</guid>
+      <description>Dois meninos, primos de 4 e 6 anos, que estavam desaparecidos em Praia Grande, cidade do litoral sul de São Paulo, tiveram os corpos encontrados na m...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QQCv3XV0W32NKCudlE1HZiHAoC4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/12/policia_civil_sp.jpg?itok=jr8sMicv&quot; alt=&quot;Polícia investiga morte de 2 crianças em Praia Grande, litoral de SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Dois meninos, primos de 4 e 6 anos, que estavam desaparecidos em Praia Grande, cidade do litoral sul de São Paulo, tiveram os corpos encontrados na madrugada desta segunda-feira (23).&lt;/p&gt;
+&lt;p&gt;O sumiço deles foi informado nodomingo (22).&lt;/p&gt;
+&lt;p&gt;Segundo informações da polícia, moradores da região localizaram os garotos no Bairro Antártica e avisaram as autoridades.&lt;/p&gt;
+&lt;p&gt;Eles estavam dentro de um carro – que estava parado num terreno – e os corpos tinham sinais de violência.&lt;/p&gt;
+&lt;p&gt;A Secretaria de Segurança Pública de São Paulo diz que a perícia foi acionada para investigar o caso.&lt;/p&gt;
+&lt;p&gt;Érika Hilton pede justiça contra parlamentar que encenou blackface&lt;/p&gt;
+&lt;p&gt;Onde a água flui, a igualdade cresce&lt;/p&gt;
+&lt;p&gt;Simone Tebet e Guilherme Boulos falam sobre fim da escala 6x1 e mais&lt;/p&gt;
+&lt;p&gt;Última década foi a mais quente já registrada, diz agência da ONU&lt;/p&gt;
+&lt;p&gt;Sônia Guajajara apresenta melhoras, mas continua internada em SP&lt;/p&gt;
+&lt;p&gt;Diversidade marca cerimônia de abertura da COP15 em Campo Grande&lt;/p&gt;
+&lt;p&gt;Polícia investiga morte de 2 crianças em Praia Grande, litoral de SP&lt;/p&gt;
+&lt;p&gt;Defesa de Jairinho abandona júri e caso Henry Borel é adiado&lt;/p&gt;
+&lt;p&gt;Avião militar colombiano se envolve em acidente com 110 soldados&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-investiga-morte-de-2-criancas-em-praia-grande-litoral-de-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Dois meninos, primos de 4 e 6 anos, que estavam desaparecidos em Praia Grande, cidade do litoral sul de São Paulo, tiveram os corpos encontrados na m...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-23 14:32:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-23 14:32:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-23 14:32:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-23 14:32:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/QQCv3XV0W32NKCudlE1HZiHAoC4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/12/policia_civil_sp.jpg?itok=jr8sMicv</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Defesa de Jairinho abandona júri e caso Henry Borel é adiado</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/defesa-de-jairinho-abandona-juri-e-caso-henry-borel-e-adiado</link>
-      <pubDate>Mon, 23 Mar 2026 17:45:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 18:42:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/defesa-de-jairinho-abandona-juri-e-caso-henry-borel-e-adiado#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/defesa-de-jairinho-abandona-juri-e-caso-henry-borel-e-adiado#1001</guid>
       <description>Nesta segunda-feira (23), a defesa deJairo Souza Santos Júnior, (o Dr. Jairinho), padrasto de Henry Borel, pediu adiamento do júri por falta de acess...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2gj1NW6zv8gzv80_-_gyPho39BM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/toms1046.jpg?itok=BwQ3wYG4&quot; alt=&quot;Defesa de Jairinho abandona júri e caso Henry Borel é adiado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Nesta segunda-feira (23), a defesa deJairo Souza Santos Júnior, (o Dr. Jairinho), padrasto de Henry Borel, pediu adiamento do júri por falta de acesso às provas e após o indeferimento do pedido pela juíza Elizabeth Machado Louro do2º Tribunal do Júri, no centro do Rio de Janeiro, os advogados de defesa abandonaram o plenário.&lt;/p&gt;
@@ -37,7 +83,7 @@
 &lt;p&gt;Um dos advogados que compõem a defesa de Jairinho, Rodrigo Faucz, disse que não é possível seguir o julgamento com a omissão de documentos, provas e dados entregues à defesa.&lt;/p&gt;
 &lt;p&gt;“A defesa solicitou essas provas no dia 12 de agosto de 2025. A juíza mandou nos entregar. Recebemos apenas informações parciais. Querem colocar a opinião pública, mais uma vez, contrária. Isso é um absurdo”, disse o advogado.&lt;/p&gt;
 &lt;p&gt;Ao chegar ao Fórum de Justiça, o pai de Henry, Leniel Borel,disse que já são cinco anos de luto e de luta esperando por esse dia. Ele lembrou que tem mais tempo da morte do filho do que o tempo de convivência que ele teve com a criança.&lt;/p&gt;
-&lt;p&gt;“A condenação é o mínimo par aqueles dois monstros. Três pessoas entraram vivas no apartamento. Depois dois adultos e uma criança saíram mortos. O que aconteceu com o meu filho naquele apartamento? Eu acho que eles não vão falar o que ocorreu”, disse Leniel.&lt;/p&gt;
+&lt;p&gt;“A condenação é o mínimo para aqueles dois monstros. Três pessoas entraram vivas no apartamento. Depois dois adultos e uma criança saíram mortos. O que aconteceu com o meu filho naquele apartamento? Eu acho que eles não vão falar o que ocorreu”, disse Leniel.&lt;/p&gt;
 &lt;p&gt;Henry morreu no apartamento onde morava com a mãe, Monique Medeiros e o padastro, Dr. Jaririnho, na Barra da Tijuca, zona sudoeste do Rio.&lt;/p&gt;
 &lt;p&gt;O menino ainda chegou a ser levado a um hospital particular na Barra da Tijuca, onde o&lt;/p&gt;
 &lt;p&gt;casal alegou que a criança teria sofrido um acidente doméstico&lt;/p&gt;
@@ -45,7 +91,7 @@
 &lt;p&gt;Henry sofreu 23 lesões por ação violenta, incluindo laceração hepática e hemorragia interna&lt;/p&gt;
 &lt;p&gt;As investigações da Polícia Civil concluíram que Henry era&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/defesa-de-jairinho-abandona-juri-e-caso-henry-borel-e-adiado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Nesta segunda-feira (23), a defesa deJairo Souza Santos Júnior, (o Dr. Jairinho), padrasto de Henry Borel, pediu adiamento do júri por falta de acess...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-03-23 14:13:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 14:13:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 14:13:00</wp:post_modified>
@@ -71,9 +117,9 @@
     <item>
       <title>Otan não confirma ataque do Irã à base do Reino Unido e EUA no Índico</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/otan-nao-confirma-ataque-do-ira-base-do-reino-unido-e-eua-no-indico</link>
-      <pubDate>Mon, 23 Mar 2026 17:45:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 18:42:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/otan-nao-confirma-ataque-do-ira-base-do-reino-unido-e-eua-no-indico#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/otan-nao-confirma-ataque-do-ira-base-do-reino-unido-e-eua-no-indico#1002</guid>
       <description>© Reuters/Yves Herman/Arquivo/Proibida reprodução
 O secretário-geral da Organização do Tratado do Atlântico Norte (Otan), Mark Rutte, disse que não p...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Co90v8kHlcqM3QNKW-cxTRrNoXY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/2026-03-05t113116z_572610408_rc29yjachgv8_rtrmadp_3_iran-crisis-nato-rutte.jpg?itok=aPDLRDvS&quot; alt=&quot;Otan não confirma ataque do Irã à base do Reino Unido e EUA no Índico&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -94,7 +140,7 @@ O secretário-geral da Organização do Tratado do Atlântico Norte (Otan), Mark
 &lt;p&gt;governo britânico confirmou que os EUA estão usando as bases do Reino Unido&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/otan-nao-confirma-ataque-do-ira-base-do-reino-unido-e-eua-no-indico&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Yves Herman/Arquivo/Proibida reprodução
 O secretário-geral da Organização do Tratado do Atlântico Norte (Otan), Mark Rutte, disse que não p...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-03-23 12:47:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 12:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 12:47:00</wp:post_modified>
@@ -120,9 +166,9 @@ O secretário-geral da Organização do Tratado do Atlântico Norte (Otan), Mark
     <item>
       <title>Imposto de renda: Receita já recebeu mais de 450 mil declarações</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/imposto-de-renda-receita-ja-recebeu-mais-de-450-mil-declaracoes</link>
-      <pubDate>Mon, 23 Mar 2026 17:45:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 18:42:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/imposto-de-renda-receita-ja-recebeu-mais-de-450-mil-declaracoes#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/imposto-de-renda-receita-ja-recebeu-mais-de-450-mil-declaracoes#1003</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 A Receita Federal recebeu, até as 12h desta segunda-feira (23), 450.026
 Declarações do Imposto de Renda Pessoa Físi...</description>
@@ -145,7 +191,7 @@ Declarações do Imposto de Renda Pessoa Físi...</description>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 A Receita Federal recebeu, até as 12h desta segunda-feira (23), 450.026
 Declarações do Imposto de Renda Pessoa Físi...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-03-23 12:24:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 12:24:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 12:24:00</wp:post_modified>
@@ -171,9 +217,9 @@ Declarações do Imposto de Renda Pessoa Físi...</excerpt:encoded>
     <item>
       <title>Confira as datas de pagamento da primeira parcela do Pé-de-Meia 2026</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/confira-datas-de-pagamento-da-primeira-parcela-do-pe-de-meia-2026</link>
-      <pubDate>Mon, 23 Mar 2026 17:45:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 18:42:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/confira-datas-de-pagamento-da-primeira-parcela-do-pe-de-meia-2026#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/confira-datas-de-pagamento-da-primeira-parcela-do-pe-de-meia-2026#1004</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 A primeira parcela do programa Pé-de-Meia de 2026 começa a ser paga nesta segunda-feira (23) a estudantesdo ensino ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1JT6iCa5jTyGaYAH1uMHoL-jC_o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/02/img_3339.jpg?itok=V-zCL0Hk&quot; alt=&quot;Confira as datas de pagamento da primeira parcela do Pé-de-Meia 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -194,7 +240,7 @@ A primeira parcela do programa Pé-de-Meia de 2026 começa a ser paga nesta segu
 &lt;p&gt;São automaticamente incluídos no programa federal os estudantes do ensino médio público que integram famílias cadastradas no Cadastro Único para Programas Sociais do governo federal (CadÚnico) e que estavam com cadastro ativo até a data-base de 7 de agosto de 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/confira-datas-de-pagamento-da-primeira-parcela-do-pe-de-meia-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 A primeira parcela do programa Pé-de-Meia de 2026 começa a ser paga nesta segunda-feira (23) a estudantesdo ensino ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-03-23 12:20:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 12:20:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 12:20:00</wp:post_modified>
@@ -220,9 +266,9 @@ A primeira parcela do programa Pé-de-Meia de 2026 começa a ser paga nesta segu
     <item>
       <title>PGR dá parecer favorável à prisão domiciliar de Bolsonaro</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/pgr-da-parecer-favoravel-prisao-domiciliar-humanitaria-de-bolsonaro</link>
-      <pubDate>Mon, 23 Mar 2026 17:45:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 18:42:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/pgr-da-parecer-favoravel-prisao-domiciliar-humanitaria-de-bolsonaro#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/pgr-da-parecer-favoravel-prisao-domiciliar-humanitaria-de-bolsonaro#1005</guid>
       <description>© Reuters/Diego Herculano/Arquivo/Proibida reprodução
 , Paulo Gonet, enviou ao Supremo Tribunal Federal (STF), nesta segunda-feira (23), parecer favo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/rKPV770OpkBIQvZN2P-tE9DXAW8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/22/2025-09-03t181322z_1791967569_rc2gkgalcxwm_rtrmadp_3_brazil-bolsonaro-trial.jpg?itok=vejol_54&quot; alt=&quot;PGR dá parecer favorável à prisão domiciliar de Bolsonaro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -239,11 +285,11 @@ A primeira parcela do programa Pé-de-Meia de 2026 começa a ser paga nesta segu
 &lt;p&gt;Após a internação, a defesa voltou a pedir a prisão domiciliar de Bolsonaro, alegando sobretudo o risco de morte do ex-presidente por algum mal súbito, havendo a necessidade de monitoramento constante do estado de saúde.&lt;/p&gt;
 &lt;p&gt;Na última sexta (20), o ministro Alexandre de Moraes&lt;/p&gt;
 &lt;p&gt;Confira mais informações no Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
-&lt;p&gt;CPI do INSS entra na reta final com votação prevista&lt;/p&gt;
+&lt;p&gt;Érika Hilton pede justiça contra parlamentar que encenou blackface&lt;/p&gt;
 &lt;p&gt;Onde a água flui, a igualdade cresce&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/pgr-da-parecer-favoravel-prisao-domiciliar-humanitaria-de-bolsonaro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Diego Herculano/Arquivo/Proibida reprodução
 , Paulo Gonet, enviou ao Supremo Tribunal Federal (STF), nesta segunda-feira (23), parecer favo...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-03-23 11:38:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 11:38:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 11:38:00</wp:post_modified>
@@ -269,9 +315,9 @@ A primeira parcela do programa Pé-de-Meia de 2026 começa a ser paga nesta segu
     <item>
       <title>&quot;Condenação é o mínimo para aqueles dois monstros&quot;, diz pai de Henry</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/condenacao-e-o-minimo-para-aqueles-dois-monstros-diz-pai-de-henry</link>
-      <pubDate>Mon, 23 Mar 2026 17:45:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 18:42:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/condenacao-e-o-minimo-para-aqueles-dois-monstros-diz-pai-de-henry#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/condenacao-e-o-minimo-para-aqueles-dois-monstros-diz-pai-de-henry#1006</guid>
       <description>Começam a ser julgados nesta terça-feira (23) Monique Medeiros eJairo Souza Santos Júnior (Dr. Jairinho), mãe e padrasto de Henry Borel. Acusados da
 ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/E6cRzlOuZ4JxTKYwC15PhndriCY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/toms0994.jpg.jpeg?itok=bZ96vwOg&quot; alt=&quot;&quot;Condenação é o mínimo para aqueles dois monstros&quot;, diz pai de Henry&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -292,7 +338,7 @@ A primeira parcela do programa Pé-de-Meia de 2026 começa a ser paga nesta segu
 &lt;p&gt;Para o advogado assistente de acusação, Cristiano Medina da Rocha, as provas são irrefutáveis.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/condenacao-e-o-minimo-para-aqueles-dois-monstros-diz-pai-de-henry&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Começam a ser julgados nesta terça-feira (23) Monique Medeiros eJairo Souza Santos Júnior (Dr. Jairinho), mãe e padrasto de Henry Borel. Acusados da
 ...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-23 11:15:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 11:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 11:15:00</wp:post_modified>
@@ -318,9 +364,9 @@ A primeira parcela do programa Pé-de-Meia de 2026 começa a ser paga nesta segu
     <item>
       <title>Mercado eleva previsão da inflação para 4,17% este ano</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/mercado-eleva-previsao-da-inflacao-para-417-este-ano</link>
-      <pubDate>Mon, 23 Mar 2026 17:45:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 18:42:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/mercado-eleva-previsao-da-inflacao-para-417-este-ano#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/mercado-eleva-previsao-da-inflacao-para-417-este-ano#1007</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) - referência oficial d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1NJn9G2PoYXBvGMCP58KdHAie8c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20231025_150203.jpg?itok=GOvom9QM&quot; alt=&quot;Mercado eleva previsão da inflação para 4,17% este ano&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -341,7 +387,7 @@ A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumid
 &lt;p&gt;, mas o comunicado divulgado após o encontro trouxe mais cautela diante do aumento das incertezas provocado pelo conflito no Oriente Médio. O BC não descarta rever o ciclo de baixa, caso seja necessário.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/mercado-eleva-previsao-da-inflacao-para-417-este-ano&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) - referência oficial d...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-23 10:31:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 10:31:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 10:31:00</wp:post_modified>
@@ -367,9 +413,9 @@ A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumid
     <item>
       <title>Março Azul: exames para rastrear câncer de intestino triplicam no SUS</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/marco-azul-exames-para-rastrear-cancer-de-intestino-triplicam-no-sus</link>
-      <pubDate>Mon, 23 Mar 2026 17:45:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 18:42:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/marco-azul-exames-para-rastrear-cancer-de-intestino-triplicam-no-sus#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/marco-azul-exames-para-rastrear-cancer-de-intestino-triplicam-no-sus#1008</guid>
       <description>© Fernando Frazão/Agência Brasil
 O número de exames para detecção precoce do câncer de intestino realizados via
 triplicou ao longo da última década.
@@ -394,7 +440,7 @@ triplicou ao longo da última década.
 O número de exames para detecção precoce do câncer de intestino realizados via
 triplicou ao longo da última década.
 ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-23 10:09:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 10:09:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 10:09:00</wp:post_modified>
@@ -420,9 +466,9 @@ triplicou ao longo da última década.
     <item>
       <title>EUA suspendem ataques a usinas; Irã diz que Trump recuou após ameaças</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/eua-suspendem-ataques-usinas-ira-diz-que-trump-recuou-apos-ameacas</link>
-      <pubDate>Mon, 23 Mar 2026 17:45:44 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2026 18:42:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/eua-suspendem-ataques-usinas-ira-diz-que-trump-recuou-apos-ameacas#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/eua-suspendem-ataques-usinas-ira-diz-que-trump-recuou-apos-ameacas#1009</guid>
       <description>© REUTERS/Kevin Lamarque/Proibida reprodução
 O presidente dos Estados Unidos (EUA), Donald Trump, afirmou nesta segunda-feira (23) que mandou suspend...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Oi3YeoW0spDVflYuJw_TR14oW7g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/12/2026-03-12t151751z_1_lynxmpem2b10m_rtroptp_4_usa-trump.jpg?itok=XeWoMUt2&quot; alt=&quot;EUA suspendem ataques a usinas; Irã diz que Trump recuou após ameaças&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -437,13 +483,13 @@ O presidente dos Estados Unidos (EUA), Donald Trump, afirmou nesta segunda-feira
 &lt;p&gt;Por outro lado, a Guarda Revolucionário do Irã, braço das Forças Armadas iranianas, afirmouque, caso os EUA ataquem a cadeia de suprimentos de eletricidade,também atacará a cadeia de suprimentos de eletricidade norte-americana.&lt;/p&gt;
 &lt;p&gt;A Guarda iraniana destacou que todas as empresas de energia na região que possuem acionistas dos EUA seriam destruídas. &quot;As centrais elétricas dos países da região que abrigam bases americanas serão alvos legítimos para nós&quot;.&lt;/p&gt;
 &lt;p&gt;&quot;Estamos determinados a responder a todas as ameaças no mesmo nível que criaria dissuasão no equilíbrio, e cumpriremos essa missão. Os Estados Unidos não conhecem nossas capacidades; eles as testemunharão no campo de batalha&quot;, completou a IRGC.&lt;/p&gt;
-&lt;p&gt;CPI do INSS entra na reta final com votação prevista&lt;/p&gt;
+&lt;p&gt;Confira mais informações no Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
+&lt;p&gt;Érika Hilton pede justiça contra parlamentar que encenou blackface&lt;/p&gt;
 &lt;p&gt;Onde a água flui, a igualdade cresce&lt;/p&gt;
-&lt;p&gt;Lula critica guerras e exploração de recursos na Celac&lt;/p&gt;
-&lt;p&gt;Polícia investiga morte de 2 crianças em Praia Grande, litoral de SP&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/eua-suspendem-ataques-usinas-ira-diz-que-trump-recuou-apos-ameacas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Sem Censura recebe Milly Lacombe, Sara Sarres e Renata Mendonça&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/eua-suspendem-ataques-usinas-ira-diz-que-trump-recuou-apos-ameacas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Kevin Lamarque/Proibida reprodução
 O presidente dos Estados Unidos (EUA), Donald Trump, afirmou nesta segunda-feira (23) que mandou suspend...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-23 10:01:00</wp:post_date>
       <wp:post_date_gmt>2026-03-23 10:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-23 10:01:00</wp:post_modified>
@@ -464,57 +510,6 @@ O presidente dos Estados Unidos (EUA), Donald Trump, afirmou nesta segunda-feira
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/Oi3YeoW0spDVflYuJw_TR14oW7g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/12/2026-03-12t151751z_1_lynxmpem2b10m_rtroptp_4_usa-trump.jpg?itok=XeWoMUt2</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Congresso terá Frente Parlamentar pela Paz Mundial</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/congresso-tera-frente-parlamentar-pela-paz-mundial</link>
-      <pubDate>Mon, 23 Mar 2026 17:45:44 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/congresso-tera-frente-parlamentar-pela-paz-mundial#1009</guid>
-      <description>Resolução do Senado publicada no
-desta segunda-feira (23) cria a Frente Parlamentar pela Paz Mundial no âmbito do Congresso Nacional.
-A frente será f...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/m9N10uXMYO5tLspa03UGW3TLMNE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/24/55114740058_155b73538e_o.jpg?itok=wdMtzqTJ&quot; alt=&quot;Congresso terá Frente Parlamentar pela Paz Mundial&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Resolução do Senado publicada no&lt;/p&gt;
-&lt;p&gt;desta segunda-feira (23) cria a Frente Parlamentar pela Paz Mundial no âmbito do Congresso Nacional.&lt;/p&gt;
-&lt;p&gt;A frente será formada pelos senadores, e é permitida a participação de ex-parlamentares como membros honorários.&lt;/p&gt;
-&lt;p&gt;, a frente terá regimento próprio e se reuniránas dependências do Senado Federal.&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
-&lt;p&gt;fortalecer a atuação do Congresso Nacional em defesa da paz mundial;&lt;/p&gt;
-&lt;p&gt;promover o debate e o apoio à tramitação de ações parlamentares voltadas à promoção da paz no Brasil e no mundo;&lt;/p&gt;
-&lt;p&gt;Apoiar iniciativas voltadas à solução pacífica dos conflitos e à convivência harmônica entre os povos;&lt;/p&gt;
-&lt;p&gt;foi apresentado pelo senador Flávio Arns (PSB-PR) e recebeu parecer favorável do senador Paulo Paim (PT-RS).&lt;/p&gt;
-&lt;p&gt;ONU alerta para avanço do caos climático global&lt;/p&gt;
-&lt;p&gt;Onde a água flui, a igualdade cresce&lt;/p&gt;
-&lt;p&gt;Lula critica guerras e exploração de recursos na Celac&lt;/p&gt;
-&lt;p&gt;Defesa de Jairinho abandona júri e caso Henry Borel é adiado&lt;/p&gt;
-&lt;p&gt;Avião militar colombiano se envolve em acidente com 110 soldados&lt;/p&gt;
-&lt;p&gt;Otan não confirma ataque do Irã à base do Reino Unido e EUA no Índico&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/congresso-tera-frente-parlamentar-pela-paz-mundial&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Resolução do Senado publicada no
-desta segunda-feira (23) cria a Frente Parlamentar pela Paz Mundial no âmbito do Congresso Nacional.
-A frente será f...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-23 08:51:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-23 08:51:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-23 08:51:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-23 08:51:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/m9N10uXMYO5tLspa03UGW3TLMNE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/24/55114740058_155b73538e_o.jpg?itok=wdMtzqTJ</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
