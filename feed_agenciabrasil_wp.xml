@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Tue, 24 Mar 2026 15:59:23 +0000</pubDate>
+    <pubDate>Tue, 24 Mar 2026 17:04:27 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,211 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Pesquisa com IA identifica terras agrícolas abandonadas no Cerrado</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/pesquisa-identifica-terras-agricolas-abandonadas-no-cerrado-com-ia</link>
+      <pubDate>Tue, 24 Mar 2026 17:04:27 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/pesquisa-identifica-terras-agricolas-abandonadas-no-cerrado-com-ia#1000</guid>
+      <description>© Fernando Frazão/Agência Brasil
+Uma pesquisa desenvolvida pelaEmpresa Brasileira de Pesquisa Agropecuária (Embrapa) e pela Universidade de Brasília ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cNFBUr6Ws4KtUUrm1jIFhwK88Bc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/31/_d6a9905_2_0.jpg?itok=vms2Y7_q&quot; alt=&quot;Pesquisa com IA identifica terras agrícolas abandonadas no Cerrado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Uma pesquisa desenvolvida pelaEmpresa Brasileira de Pesquisa Agropecuária (Embrapa) e pela Universidade de Brasília (UnB) com o uso de inteligência artificial (IA) mapeouterras agrícolas abandonadas no Cerrado que podem passar por processos de restauração ambiental.&lt;/p&gt;
+&lt;p&gt;A partir de imagens de satélite da Agência Espacial Europeia (ESA), a pesquisa utilizou a tecnologia deaprendizado profundo (&lt;/p&gt;
+&lt;p&gt;) para que a IA fosse capaz de reconhecer padrões que identificam essas áreas.&lt;/p&gt;
+&lt;p&gt;O estudo analisou terras agrícolas do município de Buritizeiro, no norte de Minas Gerais, que faz parte do bioma Cerrado.&lt;/p&gt;
+&lt;p&gt;Pelas imagens de satélite, a IA conseguiu classificar vegetação nativa, pastagens cultivadas, lavouras anuais, plantações de eucalipto e, de forma inédita, áreas agrícolas abandonadas.&lt;/p&gt;
+&lt;p&gt;A precisão da análisealcançou 94,7%. De acordo com a pesquisa, é um indicador “considerado excelente” para classificações de uso da terra com sensoriamento remoto.&lt;/p&gt;
+&lt;p&gt;Pesquisadores da empresa estatal e da universidade federalpublicaram artigo com os resultadosna revista científica internacional Land, especializada em temas como terras, água e clima.&lt;/p&gt;
+&lt;p&gt;Putting Abandoned Farmlands in the Legend of Land Use and Land Cover Maps of the Brazilian Tropical Savanna&lt;/p&gt;
+&lt;p&gt;Incluindo Terras Agrícolas Abandonadas na Legenda de Mapas de Uso e Cobertura da Terra da Savana Tropical Brasileira, e&lt;/p&gt;
+&lt;p&gt;Uma vez identificadas as áreas agrícolas abandonadas, os analistas da Embrapa e da UnB sustentam que&lt;/p&gt;
+&lt;p&gt;os dados podem servir de subsídio para formuladores de políticas públicas voltadas à área ambiental&lt;/p&gt;
+&lt;p&gt;&quot;Esses mapas podem auxiliar órgãos governamentais, planejadores ambientais e proprietários rurais a priorizar áreas para reabilitação, incluindo plantações de eucalipto degradadas e pastagens de baixo desempenho&quot;, escrevem no artigo.&lt;/p&gt;
+&lt;p&gt;Pesquisador da Embrapa, o analista Gustavo Bayma, da divisão Meio Ambiente, ressalta ainda que&lt;/p&gt;
+&lt;p&gt;os mapas detalhados de áreas abandonadas demonstram o potencial das tecnologias de IA para apoiar políticas públicas de restauração ambiental&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/pesquisa-identifica-terras-agricolas-abandonadas-no-cerrado-com-ia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+Uma pesquisa desenvolvida pelaEmpresa Brasileira de Pesquisa Agropecuária (Embrapa) e pela Universidade de Brasília ...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-24 13:07:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-24 13:07:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-24 13:07:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-24 13:07:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/cNFBUr6Ws4KtUUrm1jIFhwK88Bc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/31/_d6a9905_2_0.jpg?itok=vms2Y7_q</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Entenda o que acontece no Rio com a renúncia de Claudio Castro</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/entenda-o-que-acontece-no-rio-com-renuncia-de-claudio-castro</link>
+      <pubDate>Tue, 24 Mar 2026 17:04:27 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/entenda-o-que-acontece-no-rio-com-renuncia-de-claudio-castro#1001</guid>
+      <description>© Fernando Frazão/Agência Brasil
+O ex-governador do Rio de Janeiro, Claudio Castro,
+renunciou nesta segunda-feira (23)
+ao cargo para concorrer a uma ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/P_4dca9Rs8WKpXzqgiO9YatPb1Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_8480.jpg?itok=I0gG2Pfg&quot; alt=&quot;Entenda o que acontece no Rio com a renúncia de Claudio Castro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O ex-governador do Rio de Janeiro, Claudio Castro,&lt;/p&gt;
+&lt;p&gt;renunciou nesta segunda-feira (23)&lt;/p&gt;
+&lt;p&gt;ao cargo para concorrer a uma vaga no Senado nas eleições majoritárias de outubro.&lt;/p&gt;
+&lt;p&gt;Com sua saída, o presidente do Tribunal de Justiça do Rio, desembargador Ricardo Couto, assume interinamente o governo.&lt;/p&gt;
+&lt;p&gt;Essa situação ocorre porque o vice-governador, Thiago Pampolha, que assumiu um cargo no Tribunal de Contas do Estado (TCE-RJ) saiu em 2025 e o presidente da Assembleia Legislativa do Rio de Janeiro (Alerj), Rodrigo Bacellar, está licenciado do cargo.&lt;/p&gt;
+&lt;p&gt;renovou o pedido de licença do mandato&lt;/p&gt;
+&lt;p&gt;. Ele não exerce o cargo desde 10 de dezembro de 2025 porque foi preso durante a Operação Unha e Carne, da Polícia Federal (PF), em 3 de dezembro.&lt;/p&gt;
+&lt;p&gt;sobre a investigação contra o ex-deputado estadual Thiego Raimundo dos Santos Silva, conhecido como TH Joias, acusado de intermediar compra e venda de armas para o Comando Vermelho (CV), principal facção criminosa do Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Mensagens interceptadas pelos investigadores fundamentaram a decisão do Supremo Tribunal Federal (STF) para prender e afastar Bacellar da presidência da Alerj.&lt;/p&gt;
+&lt;p&gt;Pela legislação, o presidente do TJRJ deverá organizar em dois dias uma eleição indireta para que os 70 deputados estaduais escolham em 30 dias um indicado para comandar o governo durante um mandato-tampão, até a escolha do próximo governador nas eleições de outubro.&lt;/p&gt;
+&lt;p&gt;réu em processo no Tribunal Superior Eleitoral (TSE)&lt;/p&gt;
+&lt;p&gt;e pode ser condenado à inelegibilidade por abuso de poder político e econômico na campanha à reeleição, em 2022.&lt;/p&gt;
+&lt;p&gt;Com a saída do governo, o pedido para cassar o mandato de Castro perde efeito, mas ele ainda pode ser condenado à inelegibilidade e ficar impedido de disputar o pleito deste ano.&lt;/p&gt;
+&lt;p&gt;O TSE retoma nesta terça-feira (24), às 19h, o julgamento.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/entenda-o-que-acontece-no-rio-com-renuncia-de-claudio-castro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+O ex-governador do Rio de Janeiro, Claudio Castro,
+renunciou nesta segunda-feira (23)
+ao cargo para concorrer a uma ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-24 12:57:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-24 12:57:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-24 12:57:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-24 12:57:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/P_4dca9Rs8WKpXzqgiO9YatPb1Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_8480.jpg?itok=I0gG2Pfg</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Polícia de SP prende suspeitos de aplicarem golpe do “falso advogado”</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-de-sp-prende-suspeitos-de-aplicarem-golpe-do-falso-advogado</link>
+      <pubDate>Tue, 24 Mar 2026 17:04:27 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-de-sp-prende-suspeitos-de-aplicarem-golpe-do-falso-advogado#1002</guid>
+      <description>A Polícia Civil de São Paulo prendeu durante uma operação, nesta terça-feira (24), quatro pessoas que aplicavam o golpe do “falso advogado”. No estad...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QQCv3XV0W32NKCudlE1HZiHAoC4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/12/policia_civil_sp.jpg?itok=jr8sMicv&quot; alt=&quot;Polícia de SP prende suspeitos de aplicarem golpe do “falso advogado”&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Polícia Civil de São Paulo prendeu durante uma operação, nesta terça-feira (24), quatro pessoas que aplicavam o golpe do “falso advogado”. No estado, foram expedidos seis mandados de busca e apreensão.&lt;/p&gt;
+&lt;p&gt;As investigações apontam que os criminosos se passavam por advogados das vítimas e informaram que o precatório – requisições de pagamento emitidas pelo Judiciário para quitar dívidas de entes públicos – havia saído. Em seguida, era solicitado o pagamento de taxas inexistentes via Pix.&lt;/p&gt;
+&lt;p&gt;Os golpistas sabiam que as vítimas tinham um precatório a receber, pois consultavam processos judiciais em andamento através do sistema da Justiça. O acesso ao sistema era possível porque os criminosos conseguiam a senha dos legítimos advogados das vítimas.&lt;/p&gt;
+&lt;p&gt;Após obter as informações, os suspeitos clonavam a foto do advogado das redes sociais e ligavam para as vítimas&lt;/p&gt;
+&lt;p&gt;. De acordo com a polícia, o crime ocorria em São Paulo e migrava para outro estado quando a vítima fazia o pagamento.&lt;/p&gt;
+&lt;p&gt;A ação faz parte de uma operação liderada pela polícia de Santa Catarina, com suporte do Núcleo de Inteligência do Tribunal de Justiça de SP. Após a execução dos mandados, os autos serão formalizados na 2ª Delegacia de Capturas, no Palácio da Polícia Civil. Os investigados responderão pelo crime de estelionato qualificado de natureza cibernética.&lt;/p&gt;
+&lt;p&gt;O golpe de falso advogado geralmente busca persuadir a vítima a fornecer dados pessoais, como chaves de acesso ao Pix, senhas ou informações de contas bancárias.&lt;/p&gt;
+&lt;p&gt;Para a Ordem dos Advogados do Brasil (OAB), o esquema criminoso é eficaz porque os golpistas têm acesso aos dados inseridos nos processos judiciais, que são públicos.&lt;/p&gt;
+&lt;p&gt;Os criminosos enganam as vítimas de várias maneiras. Podem se passar por representantes de instituições financeiras e pedir dados sigilosos sob o pretexto de “resolver um problema”. Também enviam mensagens fraudulentas por&lt;/p&gt;
+&lt;p&gt;, SMS ou redes sociais contendo&lt;/p&gt;
+&lt;p&gt;para páginas que visam roubar informações pessoais.&lt;/p&gt;
+&lt;p&gt;Para evitar cair no golpe, a OAB orienta jamais acreditar em pessoas ou números desconhecidos. O cliente deve também sempre verificar a veracidade da informação recebida por WhatsApp, seja entrando em contato com o advogado através dos canais oficiais ou comparecendo pessoalmente ao escritório de advocacia.&lt;/p&gt;
+&lt;p&gt;*Estagiário sob supervisão de Odair Braz Junior&lt;/p&gt;
+&lt;p&gt;PF mira esquema de falsificação de diplomas acadêmicos em Brasília&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 7h30: presidente Lula sanciona nesta terça o PL Antifacção&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-de-sp-prende-suspeitos-de-aplicarem-golpe-do-falso-advogado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Polícia Civil de São Paulo prendeu durante uma operação, nesta terça-feira (24), quatro pessoas que aplicavam o golpe do “falso advogado”. No estad...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-24 12:53:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-24 12:53:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-24 12:53:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-24 12:53:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/QQCv3XV0W32NKCudlE1HZiHAoC4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/12/policia_civil_sp.jpg?itok=jr8sMicv</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Instituto oferta videoaulas de português a alunos do ensino médio</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/instituto-oferta-videoaulas-de-portugues-alunos-do-ensino-medio</link>
+      <pubDate>Tue, 24 Mar 2026 17:04:27 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/instituto-oferta-videoaulas-de-portugues-alunos-do-ensino-medio#1003</guid>
+      <description>© Fernando Frazão/Agência Brasil
+O Instituto de Matemática Pura e Aplicada (Impa) disponibilizou
+videoaulas gratuitas de língua portuguesa voltadas a...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UduhF9NFLx7O3IUrT_waXQoHyl4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/09/1000371792.jpg?itok=qiey57FY&quot; alt=&quot;Instituto oferta videoaulas de português a alunos do ensino médio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Instituto de Matemática Pura e Aplicada (Impa) disponibilizou&lt;/p&gt;
+&lt;p&gt;videoaulas gratuitas de língua portuguesa voltadas aalunos do ensino médio e professores.&lt;/p&gt;
+&lt;p&gt;Os documentos estão disponíveis no&lt;/p&gt;
+&lt;p&gt;(Olimpíada Brasileira de Matemática das Escolas Públicas).&lt;/p&gt;
+&lt;p&gt;A iniciativa oferece suporte ainda mais completo para a formação dos estudantes, principalmente aqueles com menos acesso a materiais educacionais.&lt;/p&gt;
+&lt;p&gt;O objetivo é desenvolver as habilidades de leitura, interpretação de texto e escrita.&lt;/p&gt;
+&lt;p&gt;De acordo com o Impa, essas competências sãoessenciais para o desempenho acadêmico e para as edições anuais do&lt;/p&gt;
+&lt;p&gt;Exame Nacional do Ensino Médio (Enem)&lt;/p&gt;
+&lt;p&gt;O Portal da OBMep reúne materiais didáticos gratuitos, com videoaulas, apostilas, exercícios, problemas resolvidos e conteúdos organizados por nível de ensino. A plataforma anuncia que, em breve, poderá disponibilizar o conteúdo de português em um aplicativo.&lt;/p&gt;
+&lt;p&gt;As aulas da disciplina abordam temas centrais do currículo do ensino médio, como variação linguística, neologismo semântico, classe de palavras, comunicação oral e escrita, sentido literal das palavras (denotação) e sentido figurado (conotação), entre outros conteúdos.&lt;/p&gt;
+&lt;p&gt;Para fazer os testes de conhecimento, é preciso se cadastrar na plataforma de ensino.&lt;/p&gt;
+&lt;p&gt;Além de língua portuguesa, o sistema do Impa também oferece conteúdos de matemática, para ensino fundamental 2 e ensino médio; física, para o 9º ano do ensino fundamental 2 e ensino médio; e quadrinhos de matemática, para ensino fundamental 1.&lt;/p&gt;
+&lt;p&gt;Sebrae Supernova abre inscrições para edição 2026&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 12h: limite de renda para financiamento habitacional no Minha Casa, Minha Vida aumenta para R$ 13 mil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/instituto-oferta-videoaulas-de-portugues-alunos-do-ensino-medio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+O Instituto de Matemática Pura e Aplicada (Impa) disponibilizou
+videoaulas gratuitas de língua portuguesa voltadas a...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-24 12:38:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-24 12:38:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-24 12:38:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-24 12:38:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/UduhF9NFLx7O3IUrT_waXQoHyl4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/09/1000371792.jpg?itok=qiey57FY</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Supermercados já podem vender medicamentos; entenda</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/supermercados-ja-podem-vender-medicamentos-entenda</link>
-      <pubDate>Tue, 24 Mar 2026 15:59:23 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 17:04:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/supermercados-ja-podem-vender-medicamentos-entenda#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/supermercados-ja-podem-vender-medicamentos-entenda#1004</guid>
       <description>O presidente Luiz Inácio Lula da Silva sancionou a
 , que autoriza a instalação de farmácia ou drogaria em áreas de venda de supermercados.
 O texto fo...</description>
@@ -45,11 +245,11 @@ O texto fo...</description>
 &lt;p&gt;As atividades permanecem submetidas às normas de vigilância sanitária e à legislação que regula o exercício da atividade farmacêutica no país.&lt;/p&gt;
 &lt;p&gt;Remédios sujeitos a controle especial de receita só deverão ser entregues ao cliente após o pagamento. Os medicamentos poderão ser transportados do balcão de atendimento até o caixa em embalagem lacrada, inviolável e identificável.&lt;/p&gt;
 &lt;p&gt;Farmácias e drogarias licenciadas e registradas por órgãos competentes poderão contratar canais digitais e plataformas de comércio eletrônico para fins de logística e entrega ao consumidor, desde que assegurado o cumprimento integral da regulamentação sanitária aplicável.&lt;/p&gt;
-&lt;p&gt;Rio registra quase 1,4 mil vítimas de balas perdidas em 10 anos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/supermercados-ja-podem-vender-medicamentos-entenda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Sebrae Supernova abre inscrições para edição 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/supermercados-ja-podem-vender-medicamentos-entenda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O presidente Luiz Inácio Lula da Silva sancionou a
 , que autoriza a instalação de farmácia ou drogaria em áreas de venda de supermercados.
 O texto fo...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-03-24 11:53:00</wp:post_date>
       <wp:post_date_gmt>2026-03-24 11:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-24 11:53:00</wp:post_modified>
@@ -75,9 +275,9 @@ O texto fo...</excerpt:encoded>
     <item>
       <title>Governo quer flexibilizar descanso de caminhoneiros na volta para casa</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-quer-flexibilizar-descanso-de-caminhoneiros-na-volta-para-casa</link>
-      <pubDate>Tue, 24 Mar 2026 15:59:23 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 17:04:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-quer-flexibilizar-descanso-de-caminhoneiros-na-volta-para-casa#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-quer-flexibilizar-descanso-de-caminhoneiros-na-volta-para-casa#1005</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 O governo federal apresentará esta semana novas medidas de apoio aos caminhoneiros autônomos. A ideia é vi...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/EYq33CVQXSjdqSo67sIHlhhJTCE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/24/pzzb4124.jpg?itok=Xny8WmsB&quot; alt=&quot;Governo quer flexibilizar descanso de caminhoneiros na volta para casa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -98,7 +298,7 @@ O governo federal apresentará esta semana novas medidas de apoio aos caminhonei
 &lt;p&gt;Essa garantia será possível porque&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-quer-flexibilizar-descanso-de-caminhoneiros-na-volta-para-casa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 O governo federal apresentará esta semana novas medidas de apoio aos caminhoneiros autônomos. A ideia é vi...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-03-24 11:52:00</wp:post_date>
       <wp:post_date_gmt>2026-03-24 11:52:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-24 11:52:00</wp:post_modified>
@@ -124,9 +324,9 @@ O governo federal apresentará esta semana novas medidas de apoio aos caminhonei
     <item>
       <title>CNU 1: governo convoca 1,8 mil candidatos para vagas remanescentes</title>
       <link>https://agenciabrasil.ebc.com.br/concursos/noticia/2026-03/cnu-1-governo-convoca-18-mil-candidatos-para-vagas-remanescentes</link>
-      <pubDate>Tue, 24 Mar 2026 15:59:23 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 17:04:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/concursos/noticia/2026-03/cnu-1-governo-convoca-18-mil-candidatos-para-vagas-remanescentes#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/concursos/noticia/2026-03/cnu-1-governo-convoca-18-mil-candidatos-para-vagas-remanescentes#1006</guid>
       <description>O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) convocou, nesta terça-feira (24), 1.860 candidatos para vagas remanescentes da primei...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0NUi_m2DhUz95aFRIJoEtAmeCds=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/05/toms8664.jpg?itok=4merl2n5&quot; alt=&quot;CNU 1: governo convoca 1,8 mil candidatos para vagas remanescentes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) convocou, nesta terça-feira (24), 1.860 candidatos para vagas remanescentes da primeira edição do Concurso Público Nacional Unificado (CPNU).&lt;/p&gt;
@@ -145,7 +345,7 @@ O governo federal apresentará esta semana novas medidas de apoio aos caminhonei
 &lt;p&gt;Já no eixo de políticas voltadas ao campo e segurança sanitária, destacam-se:&lt;/p&gt;
 &lt;p&gt;engenheiro agrônomo, com 59 vagas;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/concursos/noticia/2026-03/cnu-1-governo-convoca-18-mil-candidatos-para-vagas-remanescentes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) convocou, nesta terça-feira (24), 1.860 candidatos para vagas remanescentes da primei...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-24 11:42:00</wp:post_date>
       <wp:post_date_gmt>2026-03-24 11:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-24 11:42:00</wp:post_modified>
@@ -171,9 +371,9 @@ O governo federal apresentará esta semana novas medidas de apoio aos caminhonei
     <item>
       <title>OMS recomenda testes de diagnóstico rápido para erradicar tuberculose</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/oms-recomenda-testes-de-diagnostico-rapido-para-erradicar-tuberculose</link>
-      <pubDate>Tue, 24 Mar 2026 15:59:23 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 17:04:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/oms-recomenda-testes-de-diagnostico-rapido-para-erradicar-tuberculose#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/oms-recomenda-testes-de-diagnostico-rapido-para-erradicar-tuberculose#1007</guid>
       <description>No Dia Mundial da Tuberculose, lembrado nesta terça-feira (24), a Organização Mundial da Saúde (OMS) cobrou maiores esforços para erradicar a doença ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/26ZLfpJCtKI3DhR0xoH109xYPKQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/tuberculose.jpg?itok=dIrNV8iI&quot; alt=&quot;OMS recomenda testes de diagnóstico rápido para erradicar tuberculose&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;No Dia Mundial da Tuberculose, lembrado nesta terça-feira (24), a Organização Mundial da Saúde (OMS) cobrou maiores esforços para erradicar a doença e ampliar o acesso a novas tecnologias, incluindo testes diagnósticos que podem ser feitos no próprio local de atendimento e&lt;/p&gt;
@@ -192,7 +392,7 @@ O governo federal apresentará esta semana novas medidas de apoio aos caminhonei
 &lt;p&gt;foram contabilizados ainda mais de 6 mil óbitos&lt;/p&gt;
 &lt;p&gt;Os maiores coeficientes de incidência foram observados no Amazonas (94,7 por 100 mil), no Rio de Janeiro (75,3 por 100 mil) e em Roraima (64,3 por 100 mil).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/oms-recomenda-testes-de-diagnostico-rapido-para-erradicar-tuberculose&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>No Dia Mundial da Tuberculose, lembrado nesta terça-feira (24), a Organização Mundial da Saúde (OMS) cobrou maiores esforços para erradicar a doença ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-24 11:14:00</wp:post_date>
       <wp:post_date_gmt>2026-03-24 11:14:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-24 11:14:00</wp:post_modified>
@@ -218,9 +418,9 @@ O governo federal apresentará esta semana novas medidas de apoio aos caminhonei
     <item>
       <title>Ata do Copom: BC não indica mais cortes na taxa de juros</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/ata-do-copom-bc-nao-indica-mais-cortes-na-taxa-de-juros</link>
-      <pubDate>Tue, 24 Mar 2026 15:59:23 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 17:04:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/ata-do-copom-bc-nao-indica-mais-cortes-na-taxa-de-juros#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/ata-do-copom-bc-nao-indica-mais-cortes-na-taxa-de-juros#1008</guid>
       <description>© Marcello Casal JrAgência Brasil
 O Banco Central (BC) não indicou um novo corte na taxa Selic, os juros básicos da economia. Em meio às tensões em t...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3VXrOhYg0p-Bt2kaFhwd1s2UePI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco_central_economia_0413202009.jpg?itok=FonBpLQc&quot; alt=&quot;Ata do Copom: BC não indica mais cortes na taxa de juros&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -241,7 +441,7 @@ O Banco Central (BC) não indicou um novo corte na taxa Selic, os juros básicos
 &lt;p&gt;Desde junho do ano passado, a Selic estava em 15% ao ano. A última vez em que o Copom reduziuos juros foiem maio de 2024, quando a Selic passou de 10,75% para 10,5% ao ano. Em setembro do mesmo ano, a taxa começou a ser elevada, até chegar aos 15% ao ano.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/ata-do-copom-bc-nao-indica-mais-cortes-na-taxa-de-juros&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 O Banco Central (BC) não indicou um novo corte na taxa Selic, os juros básicos da economia. Em meio às tensões em t...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-24 11:11:00</wp:post_date>
       <wp:post_date_gmt>2026-03-24 11:11:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-24 11:11:00</wp:post_modified>
@@ -267,9 +467,9 @@ O Banco Central (BC) não indicou um novo corte na taxa Selic, os juros básicos
     <item>
       <title>Subnotificados, casos de Oropouche atingem 2% da população brasileira</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/subnotificados-casos-de-oropouche-atingem-2-da-populacao-brasileira</link>
-      <pubDate>Tue, 24 Mar 2026 15:59:23 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2026 17:04:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/subnotificados-casos-de-oropouche-atingem-2-da-populacao-brasileira#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/subnotificados-casos-de-oropouche-atingem-2-da-populacao-brasileira#1009</guid>
       <description>© Bruna Lais Sena do Nascimento/Laboratório de Entomologia Médica/SEARB/IEC
 Dados sobre a Febre do Oropouche
 divulgados nesta terça-feira (24)
@@ -294,7 +494,7 @@ indica...</description>
 Dados sobre a Febre do Oropouche
 divulgados nesta terça-feira (24)
 indica...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-24 10:04:00</wp:post_date>
       <wp:post_date_gmt>2026-03-24 10:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-24 10:04:00</wp:post_modified>
@@ -315,202 +515,6 @@ indica...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/yLKqMUt0syMQhaOdypys2WRCg30=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/07/23/240718-mosquito-culicoides-paraensis1-800x600_0.jpg?itok=Srt_TSN2</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Chega a 66 número de mortos em queda de avião militar na Colômbia</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/chega-66-numero-de-mortos-em-queda-de-aviao-militar-na-colombia</link>
-      <pubDate>Tue, 24 Mar 2026 15:59:23 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/chega-66-numero-de-mortos-em-queda-de-aviao-militar-na-colombia#1006</guid>
-      <description>© Frame Reuters/Proibida reproduçao
-Um avião militar colombiano caiu durante a decolagem nessasegunda-feira (23), matando 66 pessoas, enquanto equipe...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/reTthOr8zESxsWPd6kYCBj2_E-g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/aviao_militar_colombiano_se_envolve_em_acidente_com_110_soldados.jpg?itok=Tzho-_k3&quot; alt=&quot;Chega a 66 número de mortos em queda de avião militar na Colômbia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Frame Reuters/Proibida reproduçao&lt;/p&gt;
-&lt;p&gt;Um avião militar colombiano caiu durante a decolagem nessasegunda-feira (23), matando 66 pessoas, enquanto equipes de resgate transportaram dezenas de sobreviventes para hospitais próximos e continuavam as buscas por quatro pessoas que permaneciam desaparecidas, segundo as autoridades.&lt;/p&gt;
-&lt;p&gt;O avião de transporte Hercules C-130, fabricado pela Lockheed Martin, transportava 128 pessoas, incluindo 11 membros da Força Aérea, 115 militares do Exército e dois policiais, de acordo com Hugo Alejandro López, chefe das Forças Armadas do país.&lt;/p&gt;
-&lt;p&gt;O número de mortos é quase o dobro do divulgado anteriormente pelas autoridades, que seguem com as buscas e os trabalhos de resgate no local do desastre.&lt;/p&gt;
-&lt;p&gt;O acidente ocorreu quando o avião decolava de Puerto Leguízamo, na fronteira com o Peru, informou o ministro da Defesa, Pedro Sánchez, no X.&lt;/p&gt;
-&lt;p&gt;Acredita-se que o avião tenha sofrido um impacto próximo ao final da pista durante a decolagem, disse o bombeiro Eduardo San Juan Callejas à Caracol. Uma das asas da aeronave atingiu uma árvore durante a queda.&lt;/p&gt;
-&lt;p&gt;O acidente fez com que o avião pegasse fogo e detonasse algum tipo de dispositivo explosivo a bordo, acrescentou.&lt;/p&gt;
-&lt;p&gt;Moradores da área remota foram os primeiros a resgatar os sobreviventes, com vídeos mostrando homens percorrendo uma estrada de terra em alta velocidade com soldados feridos na garupa de suas motos.&lt;/p&gt;
-&lt;p&gt;Veículos militares chegaram posteriormente, embora as autoridades tenham afirmado que o local do acidente era de difícil acesso, o que dificultou os esforços de resgate.&lt;/p&gt;
-&lt;p&gt;López disse que 57 dos sobreviventes foram hospitalizados, sendo que 30 deles estavam em condição estável em uma clínica militar.&lt;/p&gt;
-&lt;p&gt;Modernização das Forças Armadas&lt;/p&gt;
-&lt;p&gt;Um porta-voz da empresa de defesa norte-americana Lockheed Martin disse que a empresa estendeu suas condolências às pessoas afetadase que estava comprometida em ajudar a Colômbia na investigação do acidente.&lt;/p&gt;
-&lt;p&gt;No X, o presidente colombiano, Gustavo Petro, criticou os obstáculos burocráticos por atrasar seus planos de modernizar as Forças Armadas.&lt;/p&gt;
-&lt;p&gt;&quot;Não permitirei mais atrasos; são as vidas de nossos jovens que estão em jogo&quot;, disse ele. &quot;Se os funcionários administrativos civis ou militares não estiverem à altura desse desafio, eles devem ser removidos.&quot;&lt;/p&gt;
-&lt;p&gt;Vários candidatos à eleição presidencial de 31 de maio na Colômbia manifestaramcondolências às famílias dos soldados feridos nas redes sociais e pediram investigação.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/chega-66-numero-de-mortos-em-queda-de-aviao-militar-na-colombia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Frame Reuters/Proibida reproduçao
-Um avião militar colombiano caiu durante a decolagem nessasegunda-feira (23), matando 66 pessoas, enquanto equipe...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-24 09:47:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-24 09:47:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-24 09:47:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-24 09:47:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/reTthOr8zESxsWPd6kYCBj2_E-g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/aviao_militar_colombiano_se_envolve_em_acidente_com_110_soldados.jpg?itok=Tzho-_k3</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Faturamento do mercado fonográfico brasileiro cresce 14% em 2025</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/faturamento-do-mercado-fonografico-brasileiro-cresce-14-em-2025</link>
-      <pubDate>Tue, 24 Mar 2026 15:59:23 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/faturamento-do-mercado-fonografico-brasileiro-cresce-14-em-2025#1007</guid>
-      <description>A arrecadação do mercado fonográfico brasileiro registrou um crescimento de 14,1% em 2025, ao atingir um faturamento de R$ 3,958 bilhões.
-O resultado...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WGiwjvOAc0S-acDMNxwkINj3Dcc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pessoa-que-usa-a-ferramenta-ai-no-trabalho.jpg?itok=Rw4L2CCy&quot; alt=&quot;Faturamento do mercado fonográfico brasileiro cresce 14% em 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A arrecadação do mercado fonográfico brasileiro registrou um crescimento de 14,1% em 2025, ao atingir um faturamento de R$ 3,958 bilhões.&lt;/p&gt;
-&lt;p&gt;O resultado, segundo a Pró-Música Brasil, que divulgou os números,&lt;/p&gt;
-&lt;p&gt;consolida a posição do segmento “como um dos mercados de música gravada mais dinâmicos e que mais crescem no mundo”.&lt;/p&gt;
-&lt;p&gt;Os dados fazem parte do relatório anual da entidade que representa as principais gravadoras e produtoras fonográficas em operação no país.&lt;/p&gt;
-&lt;p&gt;O patamar alcançado no ano passado levou o Brasil à 8ª posição entre os maiores mercados do mundo no ranking global da Federação Internacional da Indústria Fonográfica (IFPI).&lt;/p&gt;
-&lt;p&gt;Mostra também uma progressão nos últimos anos. Em 2024, estava em 9º lugar e no ano anterior em 10º.&lt;/p&gt;
-&lt;p&gt;A avaliação da Pró-Música Brasil é que os números demonstram e reforçam a trajetória de expansão do setor no país.&lt;/p&gt;
-&lt;p&gt;“O desempenho do mercado em 2025 confirma o papel estratégico das gravadoras como motor do crescimento da indústria, sustentado por investimentos contínuos e por um diversificado modelo de parceria com os artistas”, apontou a entidade.&lt;/p&gt;
-&lt;p&gt;O presidente da Pró-Música Brasil, Paulo Rosa, ressalta que foi o 16º ano consecutivo de crescimento do mercado fonográfico brasileiro, alcançado por meio do desenvolvimento do mercado digital, após a crise encerrada no início da década de 2010 com o começo da recuperação do setor depois da pirataria física e online e que culminou com o modelo do streaming que se espalhou pelo mundo.&lt;/p&gt;
-&lt;p&gt;Segundo Paulo Rosa, as boas notícias de crescimento do mercado que têm ocorrido ao longo dos anos significam muito para o setor que investe muito, tanto em produção de artistas já com mercado, como no marketing de promoção de artistas novos, “o que é sempre mais arriscado”.&lt;/p&gt;
-&lt;p&gt;Esse crescimento “tem mostrado, principalmente em relação à música brasileira, que o Brasil é um grande mercado para música e que o modelo de streaming encontrou aqui no Brasil assim como em outros países um ambiente bastante saudável no mercado como um todo, permitindo que as companhias invistam cada vez mais na procura de novos artistas e nas gravações de artistas que já têm carreira consolidada”, disse Paulo Rosa à Agência Brasil.&lt;/p&gt;
-&lt;p&gt;De acordo com a Pró-Música Brasil, o crescimento consistente do streaming que o mercado brasileiro tem apresentado nos últimos cinco anos é acima da média global, e em 2025 permanece com a expansão dos assinantes.&lt;/p&gt;
-&lt;p&gt;As plataformas de distribuição de música ficaram na liderança desse avanço do segmento digital.&lt;/p&gt;
-&lt;p&gt;A arrecadação no ano alcançou R$ 3,4 bilhões, o que significa uma elevação de 13,2% nas receitas digitais, se comparado com 2024.&lt;/p&gt;
-&lt;p&gt;“O streaming tem mantido uma participação aqui no Brasil, nos últimos cinco ou seis anos, de 83% das receitas. É uma participação bem alta e segue as tendências mundiais, principalmente, na América Latina”, apontou Rosa.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/faturamento-do-mercado-fonografico-brasileiro-cresce-14-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A arrecadação do mercado fonográfico brasileiro registrou um crescimento de 14,1% em 2025, ao atingir um faturamento de R$ 3,958 bilhões.
-O resultado...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-24 08:35:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-24 08:35:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-24 08:35:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-24 08:35:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/WGiwjvOAc0S-acDMNxwkINj3Dcc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pessoa-que-usa-a-ferramenta-ai-no-trabalho.jpg?itok=Rw4L2CCy</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Determinação é chave para mulheres vencerem preconceito no futebol</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/determinacao-e-chave-para-mulheres-vencerem-preconceito-no-futebol</link>
-      <pubDate>Tue, 24 Mar 2026 15:59:23 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/determinacao-e-chave-para-mulheres-vencerem-preconceito-no-futebol#1008</guid>
-      <description>Atuar em cenários tipicamente masculinos ainda é um desafio para muitas mulheres, em diversas áreas.
-No futebol, então, as barreiras ficam ainda mais...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0uE0SSmrKycqcnqm89_6J5DXviw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/18/_mg_3879.jpg?itok=K8lDaO6T&quot; alt=&quot;Determinação é chave para mulheres vencerem preconceito no futebol&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Atuar em cenários tipicamente masculinos ainda é um desafio para muitas mulheres, em diversas áreas.&lt;/p&gt;
-&lt;p&gt;No futebol, então, as barreiras ficam ainda mais altas e permanecer nesse espaço exige determinação&lt;/p&gt;
-&lt;p&gt;, atletas, narradoras e meninas que estão começando no esportecontam como a vontade de vencer sustenta a disposição diária de estar inserida nesse esporte,&lt;/p&gt;
-&lt;p&gt;proibido às mulheres por praticamente 40 anos&lt;/p&gt;
-&lt;p&gt;De acordo com números de 2022 da Confederação Brasileira de Futebol, havia apenas 360 jogadoras profissionais e 17 árbitras registradas.&lt;/p&gt;
-&lt;p&gt;Há três meses no Ministério do Esporte, onde ocupa a Diretoria de Políticas de Futebol e de Promoção do Futebol Feminino,&lt;/p&gt;
-&lt;p&gt;destaca que, para haver mais mulheres em campo, é preciso avançar na construção de um ambiente seguro.&lt;/p&gt;
-&lt;p&gt;Formiga foi a única atleta a disputar sete Copas do Mundo de Futebol&lt;/p&gt;
-&lt;p&gt;. Na posição de volante e meia, foi duas vezes vice-campeã olímpica e uma vez vice-campeã mundial. Conquistou ainda os Jogos Pan-Americanos do Rio de Janeiro, em 2007, com vitória do Brasil por 5 a 0 sobre os Estados Unidos na final.&lt;/p&gt;
-&lt;p&gt;“Precisamos trazer segurança não só para essas atletas de hoje, mas para todas as meninas, mulheres, independentemente em que cargo estejam, seja como treinadora, árbitra, diretora.”&lt;/p&gt;
-&lt;p&gt;Para isso, a formação de base é essencial.&lt;/p&gt;
-&lt;p&gt;“Meninas tem até demais, talentos temos até demais, mas, enquanto não tivermos estrutura, vamos avançar pouco”, destacou a atleta, que agora tem, dentre outros propósitos, trabalhar para aumentar o número de atletas no futebol.&lt;/p&gt;
-&lt;p&gt;Segundo ela, todos os estados precisam consolidar times femininos, com foco na formação de base, assim como ocorre em São Paulo.&lt;/p&gt;
-&lt;p&gt;“A gente entende que São Paulo praticamente é o peso do futebol feminino, mas é preciso ter um equilíbrio no país inteiro. Os clubes precisam aceitar isso, precisam nos ajudar nisso.”&lt;/p&gt;
-&lt;p&gt;De início, apenas como um sonho, Isadora Jardim, de apenas 14 anos, vive agora um momento mais confortável,porém desafiador em sua trajetória no futebol.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/determinacao-e-chave-para-mulheres-vencerem-preconceito-no-futebol&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Atuar em cenários tipicamente masculinos ainda é um desafio para muitas mulheres, em diversas áreas.
-No futebol, então, as barreiras ficam ainda mais...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-24 08:30:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-24 08:30:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-24 08:30:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-24 08:30:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/0uE0SSmrKycqcnqm89_6J5DXviw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/18/_mg_3879.jpg?itok=K8lDaO6T</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Pescadores beneficiados pelo Seguro-Defeso recebem 6º lote nesta terça</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/pescadores-beneficiados-pelo-seguro-defeso-recebem-6o-lote-nesta-terca</link>
-      <pubDate>Tue, 24 Mar 2026 15:59:23 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/pescadores-beneficiados-pelo-seguro-defeso-recebem-6o-lote-nesta-terca#1009</guid>
-      <description>© Fernando Frazão/Agência Brasil
-O pagamento do sexto lote do seguro-defeso será feito nesta terça-feira (24) pelo Ministério do Trabalho e Emprego (...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UcAM5CzbLQesg45tTyfLBvJvBtA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/23/_d6a1606_0.jpg?itok=c0RxDLT5&quot; alt=&quot;Pescadores beneficiados pelo Seguro-Defeso recebem 6º lote nesta terça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O pagamento do sexto lote do seguro-defeso será feito nesta terça-feira (24) pelo Ministério do Trabalho e Emprego (MTE). A parcela, no valor de R$ 179,7 milhões, beneficiará 110.904 pescadores que estejam devidamente cadastrados e de acordo com os novos requisitos do programa.&lt;/p&gt;
-&lt;p&gt;O benefício garante uma renda fixa de R$ 1.621 durante a paralisação da pesca, chamadade defeso. Durante o período de reprodução de cada espécie, que pode durar até cinco meses, a atividade pesqueira é interrompida.&lt;/p&gt;
-&lt;p&gt;O seguro-defeso é empenhado nos estados da Bahia, do Maranhão, Piauí, Pará e Amazonas. Têm direito ao programa os trabalhadores que têma pesca como única fonte de renda, não recebem benefício previdenciário contínuo e residem nos municípios abrangidos pelo defeso.&lt;/p&gt;
-&lt;p&gt;Também é necessário comprovar o empenho da atividade por meio do Relatório do Exercício da Atividade Pesqueira (REAP), estar com registro de pesca regular e ter inscrição no CadÚnico.&lt;/p&gt;
-&lt;p&gt;As exigências para receber o benefício foram alteradas em novembro do ano passado para diminuir pagamentos indevidos e evitar fraudes. Também foi reformulada a gestão do defeso, que deixou de ser administrado peloInstituto Nacional do Seguro Social (INSS).&lt;/p&gt;
-&lt;p&gt;Apesar de o número de benefícios fraudados ser relativamente pequeno, as consequências das fraudes são significativas, pois o programa já alcançou mais de 2 milhões de cadastrados no seu auge.&lt;/p&gt;
-&lt;p&gt;“O MTE tem trabalhado para garantir o pagamento de todos os pedidos de seguro-defeso que passaram por análise criteriosa, assegurando o direito de quem realmente vive da pesca”, afirmou o ministro do Trabalho e Emprego, Luiz Marinho.&lt;/p&gt;
-&lt;p&gt;Até o momento, o MTE já destinou R$ 616,3 milhões para o pagamento do benefício. Entre 1º de novembro de 2025 e 14 de março de 2026, a gestão do programa recebeu 1.198.473 requerimentos. Os estados com maior número de solicitações são o Pará (351.502), Maranhão (336.803), Amazonas (106.632), a Bahia (81.765) e o Piauí (63.025).&lt;/p&gt;
-&lt;p&gt;Rio registra quase 1,4 mil vítimas de balas perdidas em 10 anos&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: presidente Lula sanciona nesta terça o PL Antifacção&lt;/p&gt;
-&lt;p&gt;Indígenas da Ilha do Bananal, realizam a tradicional festa Hetohoky&lt;/p&gt;
-&lt;p&gt;Polícia de SP prende suspeitos de aplicarem golpe do “falso advogado”&lt;/p&gt;
-&lt;p&gt;Instituto oferta videoaulas de português a alunos do ensino médio&lt;/p&gt;
-&lt;p&gt;Supermercados já podem vender medicamentos; entenda&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/pescadores-beneficiados-pelo-seguro-defeso-recebem-6o-lote-nesta-terca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fernando Frazão/Agência Brasil
-O pagamento do sexto lote do seguro-defeso será feito nesta terça-feira (24) pelo Ministério do Trabalho e Emprego (...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-24 08:17:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-24 08:17:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-24 08:17:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-24 08:17:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/UcAM5CzbLQesg45tTyfLBvJvBtA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/23/_d6a1606_0.jpg?itok=c0RxDLT5</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
