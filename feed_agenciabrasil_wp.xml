@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 25 Mar 2026 12:52:49 +0000</pubDate>
+    <pubDate>Wed, 25 Mar 2026 14:15:33 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,30 +22,369 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Chuvas em Minas: União autoriza repasse de R$ 5 milhões a Ubá</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/chuvas-em-minas-uniao-autoriza-repasse-de-r-5-milhoes-para-uba</link>
+      <pubDate>Wed, 25 Mar 2026 14:15:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/chuvas-em-minas-uniao-autoriza-repasse-de-r-5-milhoes-para-uba#1000</guid>
+      <description>traz publicado nesta quarta-feira (25) repasse de R$ 4,9 milhões para a cidade Ubá, em Minas Gerais.
+, o valor foi liberado pela União e será transfe...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kYeuqQBGi8vNxfOsJ1I31B3iruU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/_rbr2946.jpg.jpg?itok=bEFX1Uaf&quot; alt=&quot;Chuvas em Minas: União autoriza repasse de R$ 5 milhões a Ubá&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;traz publicado nesta quarta-feira (25) repasse de R$ 4,9 milhões para a cidade Ubá, em Minas Gerais.&lt;/p&gt;
+&lt;p&gt;, o valor foi liberado pela União e será transferido a Ubá por meio do Ministério da Integração e do Desenvolvimento Regional.&lt;/p&gt;
+&lt;p&gt;A verba deverá ser usada em resposta aos desastres causados pelas tempestades que atingiram o município no fim de fevereiro.&lt;/p&gt;
+&lt;p&gt;As fortes chuvas que atingiram a Zona da Mata Mineira no final de fevereiro deixaram 72 mortos, após vários deslizamentos de terra, desabamentos de prédios e transbordamento de rios.&lt;/p&gt;
+&lt;p&gt;Foram 65 mortes registradas em Juiz de Fora e sete de Ubá, além de milhares de moradores desalojados ou desabrigados.&lt;/p&gt;
+&lt;p&gt;Passado um mês, as famílias ainda tentam reconstruir o que restou.&lt;/p&gt;
+&lt;p&gt;A Prefeitura de Ubá informa que tem dado assistência integral aos moradores mais impactados pelas chuvas.&lt;/p&gt;
+&lt;p&gt;Os números indicam que a inundação atingiu área de aproximadamente 47,4 km², o que representa cerca de 11,6% do território do município.&lt;/p&gt;
+&lt;p&gt;Desde fevereiro, foram registradas cerca de 1.188 famílias desalojadas e 4.790 pessoas diretamente atingidas pela inundação.&lt;/p&gt;
+&lt;p&gt;Rio antecipa campanha de vacinação contra a gripe&lt;/p&gt;
+&lt;p&gt;Alô Alô Datena ouve Secretário Nacional de Segurança Pública e Embaixador do Brasil em Teerã&lt;/p&gt;
+&lt;p&gt;No Rio, projeto leva literatura de autoria indígena para sala de aula&lt;/p&gt;
+&lt;p&gt;Chuvas em Minas: União autoriza repasse de R$ 5 milhões a Ubá&lt;/p&gt;
+&lt;p&gt;IBGE: Quatro em cada dez adolescentes já sofreram bullying na escola&lt;/p&gt;
+&lt;p&gt;Cinema Inflável chega a Tanguá, no Rio, e reforça acesso à cultura&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/chuvas-em-minas-uniao-autoriza-repasse-de-r-5-milhoes-para-uba&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>traz publicado nesta quarta-feira (25) repasse de R$ 4,9 milhões para a cidade Ubá, em Minas Gerais.
+, o valor foi liberado pela União e será transfe...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-25 10:31:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-25 10:31:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-25 10:31:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-25 10:31:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/kYeuqQBGi8vNxfOsJ1I31B3iruU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/_rbr2946.jpg.jpg?itok=bEFX1Uaf</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>IBGE: Quatro em cada dez adolescentes já sofreram bullying na escola</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/ibge-quatro-em-cada-dez-adolescentes-ja-sofreram-bullying-na-escola</link>
+      <pubDate>Wed, 25 Mar 2026 14:15:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/ibge-quatro-em-cada-dez-adolescentes-ja-sofreram-bullying-na-escola#1001</guid>
+      <description>Quatro em cada dez estudantes brasileiros de 13 a 17 anosafirmam já ter sido alvos de bullying, e27,2% dos alunos nessa faixa etária já sofreram algu...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6zduIydA7i5mlzmJ6rAAtnMItSk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/05/_rbr5002.jpg?itok=mYbK0bZY&quot; alt=&quot;IBGE: Quatro em cada dez adolescentes já sofreram bullying na escola&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Quatro em cada dez estudantes brasileiros de 13 a 17 anosafirmam já ter sido alvos de bullying, e27,2% dos alunos nessa faixa etária já sofreram alguma forma de humilhação duas ou mais vezes.&lt;/p&gt;
+&lt;p&gt;Os dados foram divulgados nesta quarta-feira (25) peloInstituto Brasileiro de Geografia e Estatística (IBGE), na Pesquisa Nacional de Saúde do Escolar (PeNSE), e se referem a depoimentos coletadosem 2024 em escolas de todo o Brasil.&lt;/p&gt;
+&lt;p&gt;Com relação à pesquisa anterior, feita em 2019, houve um aumento de 0,7 ponto percentual no total de estudantes que declararam já ter sofrido bullying.&lt;/p&gt;
+&lt;p&gt;Já a proporção de alunos que passaram por isso pelo menos duas vezes subiu mais de 4 pontos percentuais, ressalta ogerente da pesquisa, Marco Andreazzi.&lt;/p&gt;
+&lt;p&gt;&quot;O bullying já é caracterizado como algo persistente, intermitente… E nós observamos aqui uma tendência de aumento, o que indica que mais estudantes passaram a vivenciar situações repetidas de violência&quot;.&lt;/p&gt;
+&lt;p&gt;&quot;O número dos que sofrem bullying permanece praticamente igual, porém,a persistênciados episódios e a intensidade deles aumentou&quot;, complementa.&lt;/p&gt;
+&lt;p&gt;&gt;&gt;IBGE alerta para quadro preocupante na saúde mental de adolescentes&lt;/p&gt;
+&lt;p&gt;39,8% dos estudantes de 13 a 17 anos sofreram bullying na escola;&lt;/p&gt;
+&lt;p&gt;No caso das meninas, percentual sobe para 43,3%;&lt;/p&gt;
+&lt;p&gt;Aparência do rosto ou cabelo foi alvo em 30,2% dos casos;&lt;/p&gt;
+&lt;p&gt;13,7% assumiram ter praticado bullying;&lt;/p&gt;
+&lt;p&gt;16,6% dos estudantes já foram fisicamente agredidos por colegas.&lt;/p&gt;
+&lt;p&gt;Os estudantes agredidos disseram à pesquisa que aaparência do rosto ou do cabelo foi o principal alvo do bullying, o que se deu em 30,2% dos casos.&lt;/p&gt;
+&lt;p&gt;Em seguida, vêm a aparência do corpo, com 24,7%, e a violência por causa da cor ou raça, vivida por 10,6% deles.&lt;/p&gt;
+&lt;p&gt;“Há também um percentual alto, de 26,3%, de alunos que declaram que o bullying não teve motivo. Ou seja, uma grande parte daqueles que sofrem não sabem por que, e isso é natural, já que o bullying ocorre coletivamente, e aquele que está sofrendo não necessariamente vê uma razão para isso. Pelo contrário, se sente completamente injustiçado”, destaca o gerente da pesquisa.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/ibge-quatro-em-cada-dez-adolescentes-ja-sofreram-bullying-na-escola&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Quatro em cada dez estudantes brasileiros de 13 a 17 anosafirmam já ter sido alvos de bullying, e27,2% dos alunos nessa faixa etária já sofreram algu...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-25 10:10:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-25 10:10:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-25 10:10:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-25 10:10:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/6zduIydA7i5mlzmJ6rAAtnMItSk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/05/_rbr5002.jpg?itok=mYbK0bZY</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Cinema Inflável chega a Tanguá, no Rio, e reforça acesso à cultura</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/cinema-inflavel-chega-tangua-no-rio-e-reforca-acesso-cultura</link>
+      <pubDate>Wed, 25 Mar 2026 14:15:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/cinema-inflavel-chega-tangua-no-rio-e-reforca-acesso-cultura#1002</guid>
+      <description>Em um país onde o acesso ao cinema ainda é desigual e concentrado nos grandes centros urbanos, iniciativas itinerantes ganham cada vez mais relevânci...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NJJdU5BqWcHyr3vZakgG3Hwa_Ss=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/25/cinema_inflavel01.jpg?itok=rl0zuAIZ&quot; alt=&quot;Cinema Inflável chega a Tanguá, no Rio, e reforça acesso à cultura&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Em um país onde o acesso ao cinema ainda é desigual e concentrado nos grandes centros urbanos, iniciativas itinerantes ganham cada vez mais relevância para democratizar a cultura. É nesse contexto que o projetoCinema Inflávelchega à cidade de Tanguá, na Região Metropolitana do Rio de Janeiro, levando sessões gratuitas ao ar livre entre os dias 27 e 29 de março, no Centro de Referência da Juventude (Praça da Juventude), sempre a partir das 19h.&lt;/p&gt;
+&lt;p&gt;Apresentado pelo Ministério da Cultura (MinC) e pelo Nubank, com apoio da TV Brasil, o projeto transforma espaços públicos em verdadeiras salas de cinema a céu aberto, comtela inflável de dezpor seismetros (o equivalente a 60 metros quadrados) e capacidade para até 800 pessoas por sessão&lt;/p&gt;
+&lt;p&gt;. A proposta vai além da exibição de filmes: trata-se de uma experiência cultural completa, que inclui distribuição gratuita de pipoca, oficinas artísticas, recreação infantil e exibição de curtas e videoclipes de artistas locais.&lt;/p&gt;
+&lt;p&gt;A programação detalhada pode ser consultada no&lt;/p&gt;
+&lt;p&gt;Criado em 2013 como contrapartida social do Open Air Brasil, o Cinema Inflável tem como missão levar a sétima arte a regiões onde não há salas de exibição, seja por questões geográficas ou socioeconômicas&lt;/p&gt;
+&lt;p&gt;. Em 2025, a iniciativa percorreu 12 regiões administrativas do Distrito Federal e 12 localidades na Bahia, reunindo cerca de 40 mil pessoas. A forte adesão do público evidencia a demanda reprimida por acesso ao cinema em áreas periféricas e cidades do interior.&lt;/p&gt;
+&lt;p&gt;Antes de chegar a Tanguá, o projeto passou por bairros do Rio de Janeiro, como a Taquara, e também por cidades da Região dos Lagos, como Iguaba Grande, consolidando uma trajetória marcada pelo engajamento comunitário e pela valorização do audiovisual como ferramenta de inclusão cultural.&lt;/p&gt;
+&lt;p&gt;Durante a etapa em Tanguá, o público infantil também ganha destaque. A programação tem início às 18h com a oficina “Artes da Terra”, conduzida por artistas do projeto Helianthus Artes e Ofícios&lt;/p&gt;
+&lt;p&gt;. A atividade propõe vivências criativas com técnicas como aquarela, papietagem e criação de mandalas a partir de materiais reutilizados e elementos naturais, estimulando o contato com a arte desde cedo.&lt;/p&gt;
+&lt;p&gt;Além das atividades de formação, segundo a organização do evento, a curadoria de filmes contempla títulos nacionais e internacionais voltados para toda a família, incluindo produções infantojuvenis e obras que dialogam com a cultura brasileira, como “Nosso Sonho”, que retrata a trajetória da dupla Claudinho &amp; Buchecha.&lt;/p&gt;
+&lt;p&gt;Ao ocupar espaços públicos e promover o encontro coletivo em torno do cinema, o projeto reafirma a importância da experiência compartilhada da arte — especialmente em territórios onde esse acesso historicamente foi limitado&lt;/p&gt;
+&lt;p&gt;. Mais do que entretenimento, o Cinema Inflável atua na formação de público e no fortalecimento do audiovisual brasileiro.&lt;/p&gt;
+&lt;p&gt;Com duração até maio e passagenspor diferentes localidades do Brasil, o Cinema Inflável segue como exemplo de que inovação e política cultural podem caminhar juntas para transformar realidades: uma tela, uma praça e uma comunidade por vez.&lt;/p&gt;
+&lt;p&gt;Rio antecipa campanha de vacinação contra a gripe&lt;/p&gt;
+&lt;p&gt;Alô Alô Datena ouve Secretário Nacional de Segurança Pública e Embaixador do Brasil em Teerã&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/cinema-inflavel-chega-tangua-no-rio-e-reforca-acesso-cultura&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Em um país onde o acesso ao cinema ainda é desigual e concentrado nos grandes centros urbanos, iniciativas itinerantes ganham cada vez mais relevânci...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-25 10:09:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-25 10:09:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-25 10:09:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-25 10:09:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/NJJdU5BqWcHyr3vZakgG3Hwa_Ss=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/25/cinema_inflavel01.jpg?itok=rl0zuAIZ</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Um quarto das estudantes adolescentes já foi alvo de violência sexual</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/um-quarto-das-estudantes-adolescentes-ja-foi-alvo-de-violencia-sexual</link>
+      <pubDate>Wed, 25 Mar 2026 14:15:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/um-quarto-das-estudantes-adolescentes-ja-foi-alvo-de-violencia-sexual#1003</guid>
+      <description>© Fernando Frazão/Agência Brasil
+Um quarto das estudantes adolescentes do Brasil já sofreualguma situação de violência sexual, incluindo toques, beij...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_n-fWzDbx87KBGKjRWeB02q3GBA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/10/_d6a1749.jpg?itok=kr2xYI4h&quot; alt=&quot;Um quarto das estudantes adolescentes já foi alvo de violência sexual&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Um quarto das estudantes adolescentes do Brasil já sofreualguma situação de violência sexual, incluindo toques, beijos ou exposição de partes íntimas sem consentimento.&lt;/p&gt;
+&lt;p&gt;O alerta faz parte daPesquisa Nacional de Saúde do Escolar (PeNSe), divulgada nesta quarta-feira (25)pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Foram entrevistados 118.099 adolescentes de 13 a 17 anos,que frequentavam 4.167 escolas públicas e privadas de todo o Brasil em 2024.&lt;/p&gt;
+&lt;p&gt;Em relação a 2019, último ano em que a pesquisa foi feita, o percentual de meninas que relataram essas violências nas respostas aumentou 5,9 pontos percentuais.&lt;/p&gt;
+&lt;p&gt;O IBGE destaca ainda que 11,7% das estudantes entrevistadas contaram que foram forçadas ou intimidadas para se submeterema relações sexuais. Nesse caso, o aumento em relação a 2019 foi de 2,9 pontos percentuais.&lt;/p&gt;
+&lt;p&gt;Apesar da proporção de meninas violentadas ser, em média, o dobro da de meninos, estudantes de ambos os gêneros relataram situações de abuso, somando&lt;/p&gt;
+&lt;p&gt;mais de 2,2 milhões de vítimas de assédio e 1,1 milhão de relações forçadas&lt;/p&gt;
+&lt;p&gt;:ECA digital aumenta proteção de nossas crianças e adolescentes&lt;/p&gt;
+&lt;p&gt;Apesar de ações enquadradas nas duas categorias serem tipificadas como estupro pela lei brasileira, o IBGE optou por dividi-las em duas perguntas para facilitar a compreensão dos adolescentes durante as entrevistas.&lt;/p&gt;
+&lt;p&gt;“Esse tipo de violência nem sempre é identificado pela vítima, seja por falta de conhecimento em razão da idade, no caso de menores, seja por aspectos sociais e culturais. Nesse sentido, a identificação dos diversos atos que caracterizam a violência sexual, por um lado, consiste numa estratégia metodológica que facilita a identificação da violência; por outro, possibilita a caracterização da violência em escalas de gravidade”&lt;/p&gt;
+&lt;p&gt;Outro destaque da pesquisa diz respeito à idade das vítimas no momento do crime. Enquanto as situações de assédio sexual foram mais reportadas por adolescentes com 16 e 17 anos,&lt;/p&gt;
+&lt;p&gt;entre aqueles forçados à relação sexual, a maioria (66,2%) tinha 13 anos ou menosquando sofreu a violência&lt;/p&gt;
+&lt;p&gt;A violência foi mais frequente entre os estudantes de escola pública: 9,3% dos adolescentes dessas instituições relataram já terem sido intimidados ou forçados a uma relação sexual, contra 5,7% dos alunos da rede privada.&lt;/p&gt;
+&lt;p&gt;Já nos casos de assédio sexual, a proporção entre as duas redes é semelhante.&lt;/p&gt;
+&lt;p&gt;O instituto também pediu aos estudantes que apontassem o autor das violências.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/um-quarto-das-estudantes-adolescentes-ja-foi-alvo-de-violencia-sexual&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+Um quarto das estudantes adolescentes do Brasil já sofreualguma situação de violência sexual, incluindo toques, beij...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-25 10:05:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-25 10:05:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-25 10:05:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-25 10:05:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/_n-fWzDbx87KBGKjRWeB02q3GBA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/10/_d6a1749.jpg?itok=kr2xYI4h</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Povo Fulni-ô guiará vivência na Chapada dos Veadeiros</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/povo-fulni-o-guiara-vivencia-na-chapada-dos-veadeiros</link>
+      <pubDate>Wed, 25 Mar 2026 14:15:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/povo-fulni-o-guiara-vivencia-na-chapada-dos-veadeiros#1004</guid>
+      <description>Entre os dias 18 e 21 de abril, indígenas da etnia Fulni-ô dividirão saberes culturais e ancestrais com os
+participantes da Aldeia Multiétnica
+Durant...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jaDm8usLIqcKrW3ND2hHP3XNeSo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/25/aldeia_multietnica05a.jpg?itok=yateNFqd&quot; alt=&quot;Povo Fulni-ô guiará vivência na Chapada dos Veadeiros&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Entre os dias 18 e 21 de abril, indígenas da etnia Fulni-ô dividirão saberes culturais e ancestrais com os&lt;/p&gt;
+&lt;p&gt;participantes da Aldeia Multiétnica&lt;/p&gt;
+&lt;p&gt;Durante os quatro dias de encontro, rodas de conversa e palestras abordarão as lutas e os desafios enfrentados por esse povo.&lt;/p&gt;
+&lt;p&gt;Estão programados momentos de convivência ao redor da fogueira, reflexões sob o céu estrelado e banhos nos rios da região.&lt;/p&gt;
+&lt;p&gt;&quot;A Aldeia é feita de encontros, de histórias que se entrelaçam, e cada pessoa que passa por aqui leva consigo um pouco da sabedoria indígena e da essência do lugar&quot;, destacou Juliano Basso, coordenador da Aldeia Multiétnica.&lt;/p&gt;
+&lt;p&gt;A Aldeia Multiétnica prepara-se para o próximo evento, em julho. Por nove dias, além dos Fulni-ô (PE);os Kayapó Mebêngôkré (PA), Kariri Xocó (AL/DF), Xavante (MT), Alto Xingu (MT), Krahô (TO) e os Guarani Mbyá (SP/SC) participarão da vivência.&lt;/p&gt;
+&lt;p&gt;“Queremos que todos vivenciem a essência dos nossos povos, é um espaço para aprender e celebrar juntos. A troca de saberes é fundamental para a construção de um futuro mais harmônico”, acrescenta Basso.&lt;/p&gt;
+&lt;p&gt;Mais informações estão disponíveis na&lt;/p&gt;
+&lt;p&gt;Rio antecipa campanha de vacinação contra a gripe&lt;/p&gt;
+&lt;p&gt;Alô Alô Datena ouve Secretário Nacional de Segurança Pública e Embaixador do Brasil em Teerã&lt;/p&gt;
+&lt;p&gt;No Rio, projeto leva literatura de autoria indígena para sala de aula&lt;/p&gt;
+&lt;p&gt;Chuvas em Minas: União autoriza repasse de R$ 5 milhões a Ubá&lt;/p&gt;
+&lt;p&gt;IBGE: Quatro em cada dez adolescentes já sofreram bullying na escola&lt;/p&gt;
+&lt;p&gt;Cinema Inflável chega a Tanguá, no Rio, e reforça acesso à cultura&lt;/p&gt;
+&lt;p&gt;Um quarto das estudantes adolescentes já foi alvo de violência sexual&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/povo-fulni-o-guiara-vivencia-na-chapada-dos-veadeiros&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Entre os dias 18 e 21 de abril, indígenas da etnia Fulni-ô dividirão saberes culturais e ancestrais com os
+participantes da Aldeia Multiétnica
+Durant...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-03-25 10:04:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-25 10:04:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-25 10:04:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-25 10:04:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/jaDm8usLIqcKrW3ND2hHP3XNeSo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/25/aldeia_multietnica05a.jpg?itok=yateNFqd</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Senado aprova projeto de lei que criminaliza a misoginia</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/senado-aprova-projeto-de-lei-que-criminaliza-misoginia</link>
+      <pubDate>Wed, 25 Mar 2026 14:15:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/senado-aprova-projeto-de-lei-que-criminaliza-misoginia#1005</guid>
+      <description>© Paulo H. Carvalho/Agência Brasília
+O Senado Federal aprovou nesta terça-feira (24) o projeto de lei que criminaliza amisoginia, que é o ódio ou ave...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xbDY-CvGYWwxV7btn2jSxmO_UBA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/whatsapp-image-2021-01-07-at-16.33.12-1200x797.jpeg?itok=iaozSvMY&quot; alt=&quot;Senado aprova projeto de lei que criminaliza a misoginia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Paulo H. Carvalho/Agência Brasília&lt;/p&gt;
+&lt;p&gt;O Senado Federal aprovou nesta terça-feira (24) o projeto de lei que criminaliza amisoginia, que é o ódio ou aversão às mulheres.&lt;/p&gt;
+&lt;p&gt;A proposta insere o delito entre os crimes de preconceito e discriminação previstos na Lei do Racismo.&lt;/p&gt;
+&lt;p&gt;O texto define amisoginiacomo conduta baseada na crença da supremacia do gênero masculino.&lt;/p&gt;
+&lt;p&gt;Como forma de combater essa violência, o projeto prevê penas de 2 a 5 anos de prisão nestes casos.&lt;/p&gt;
+&lt;p&gt;A autora do projeto senadora Ana Paula Lobato (PSB-MA) denunciou as agressões e ameaças que recebeu na internet por defender a proposta.&lt;/p&gt;
+&lt;p&gt;&quot;Por exemplo, eu recebi: 'vai morrer, lixo'; 'vai mandar prender, quero ver, os que te querem morta, depois de eles terem te matado. Depois de te seguir até sua casa, merda!'. 'Você é contra a democracia. Manda prender quem ofende mulher na internet. Então vem, você vai morrer. Não escapa dessa não'&quot;, enumerou a senadora.&lt;/p&gt;
+&lt;p&gt;A relatora do projeto senadora Soraya Tronicke (Podemos-MS) reforçou o crescimento do número de feminicídios no país, necessitando criminalizar amisoginia.&lt;/p&gt;
+&lt;p&gt;&quot;O ódio às mulheres não é episódico, não é abstrato. Ele é estruturado, crescente e ceifa vidas todos os dias. O país viveu, nos últimos anos, uma escalada alarmante de feminicídios e agressões motivadas por desprezo às mulheres.&quot;&lt;/p&gt;
+&lt;p&gt;&quot;Apenas em 2025 houve 6.904 vítimas de tentativas e casos consumados de feminicídios, segundo levantamento do Laboratório de Estudos de Feminicídio da UEL [Universidade Estadual de Londrina]&quot;, lembrou a senadora Tronicke.&lt;/p&gt;
+&lt;p&gt;A oposição defendia que a proposta fosse alterada, para permitir que não fossem punidos autores de crimes demisoginiaem caso de 'liberdade de expressão' ou até por motivos religiosos.&lt;/p&gt;
+&lt;p&gt;Mas as alterações foram rejeitadas pelo plenário do Senado.&lt;/p&gt;
+&lt;p&gt;O texto agora segue para discussão da Câmara dos Deputados.&lt;/p&gt;
+&lt;p&gt;Confira mais informações sobre a aprovação do PL no Repórter Brasil, da TV Brasil&lt;/p&gt;
+&lt;p&gt;Meninas são as maiores vítimas de bullying nas escolas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/senado-aprova-projeto-de-lei-que-criminaliza-misoginia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Paulo H. Carvalho/Agência Brasília
+O Senado Federal aprovou nesta terça-feira (24) o projeto de lei que criminaliza amisoginia, que é o ódio ou ave...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-03-25 10:03:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-25 10:03:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-25 10:03:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-25 10:03:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/xbDY-CvGYWwxV7btn2jSxmO_UBA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/whatsapp-image-2021-01-07-at-16.33.12-1200x797.jpeg?itok=iaozSvMY</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>IBGE alerta para quadro preocupante na saúde mental de adolescentes</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/ibge-alerta-para-quadro-preocupante-na-saude-mental-de-adolescentes</link>
+      <pubDate>Wed, 25 Mar 2026 14:15:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/ibge-alerta-para-quadro-preocupante-na-saude-mental-de-adolescentes#1006</guid>
+      <description>Três em cada dez estudantesde13 a17 anosafirmaram que se sentem tristes sempre ou na maioria das vezes na Pesquisa Nacional de Saúde do Escolar (PeNS...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MCshlXcPq0ucziXlIVqnwcCMM5Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/05/_rbr5071.jpg?itok=6TWtjaao&quot; alt=&quot;IBGE alerta para quadro preocupante na saúde mental de adolescentes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Três em cada dez estudantesde13 a17 anosafirmaram que se sentem tristes sempre ou na maioria das vezes na Pesquisa Nacional de Saúde do Escolar (PeNSe), divulgada nesta quarta-feira (25) pelo Instituto Brasileiro de Geografia e Estatística. Uma proporção semelhante também revelou que já teve vontade de se machucar de propósito.&lt;/p&gt;
+&lt;p&gt;O IBGE entrevistou 118.099 adolescentes que frequentavam 4.167 escolas públicas e privadas de todo o Brasil em 2024, e a amostra é considerada representativa do universo de estudantes do país.&lt;/p&gt;
+&lt;p&gt;O quadropreocupante sobre a saúde mental dessa população inclui ainda42,9% dos alunos que responderam que se sentem “irritados, nervosos ou mal-humorados por qualquer coisa” e 18,5% que pensam sempre, ou na maioria das vezes, que “a vida não vale a pena ser vivida”.&lt;/p&gt;
+&lt;p&gt;Adolescentes e seus responsáveis ou quaisquer pessoas com pensamentos e sentimentos de querer acabar com a própria vida devem buscar acolhimento em sua rede de apoio, como familiares,amigos, educadorese também em serviços de saúde&lt;/p&gt;
+&lt;p&gt;De acordo com o Ministério da Saúde, émuito importante conversar com alguém de confiançae nãohesitarem pedir ajuda, inclusive para buscar serviços de saúde.&lt;/p&gt;
+&lt;p&gt;Serviços de saúde que podem ser procurados para atendimento:&lt;/p&gt;
+&lt;p&gt;Centros de Atenção Psicossocial (Caps)e Unidades Básicas de Saúde (Saúde da família, Postos e Centros de Saúde);&lt;/p&gt;
+&lt;p&gt;UPA 24H, SAMU 192, Pronto Socorro; Hospitais;&lt;/p&gt;
+&lt;p&gt;Centro de Valorização da Vida – 188 (ligação gratuita).&lt;/p&gt;
+&lt;p&gt;Centro de Valorização da Vida (CVV)&lt;/p&gt;
+&lt;p&gt;realiza apoio emocional e prevenção do suicídio, atendendo voluntária e gratuitamente todas as pessoas que querem e precisam conversar, sob total sigilo, por telefone (188),&lt;/p&gt;
+&lt;p&gt;Apesar da gravidade dos números, menos da metade dos alunos frequentava uma escola que oferecia algum tipo de suporte psicológico&lt;/p&gt;
+&lt;p&gt;, proporção que sobe para 58,2% na rede privada e cai para 45,8% na pública.&lt;/p&gt;
+&lt;p&gt;A presença de profissional de saúde mental no quadro de funcionários da escola era ainda mais rara, sendo disponível a apenas 34,1% dos estudantes.&lt;/p&gt;
+&lt;p&gt;: Jovens têm altas taxas de internação por saúde mental&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/ibge-alerta-para-quadro-preocupante-na-saude-mental-de-adolescentes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Três em cada dez estudantesde13 a17 anosafirmaram que se sentem tristes sempre ou na maioria das vezes na Pesquisa Nacional de Saúde do Escolar (PeNS...</excerpt:encoded>
+      <wp:post_id>1006</wp:post_id>
+      <wp:post_date>2026-03-25 10:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-25 10:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-25 10:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-25 10:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/MCshlXcPq0ucziXlIVqnwcCMM5Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/05/_rbr5071.jpg?itok=6TWtjaao</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Caso Henry Borel: Monique Medeiros é demitida pela prefeitura do Rio</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/caso-henry-borel-monique-medeiros-e-demitida-pela-prefeitura-do-rio</link>
-      <pubDate>Wed, 25 Mar 2026 12:52:49 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 14:15:33 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/caso-henry-borel-monique-medeiros-e-demitida-pela-prefeitura-do-rio#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/caso-henry-borel-monique-medeiros-e-demitida-pela-prefeitura-do-rio#1007</guid>
       <description>Acusada de homicídio por omissão na morte do filho, Monique Medeiros, mãe do menino Henry Borel, morto aos 4 anos, foi demitida do cargo de professor...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LMlj1NVnSZVZnOIU7XrKBuxSVzM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/toms0976.jpg.jpeg?itok=vHAf3OLo&quot; alt=&quot;Caso Henry Borel: Monique Medeiros é demitida pela prefeitura do Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Acusada de homicídio por omissão na morte do filho, Monique Medeiros, mãe do menino Henry Borel, morto aos 4 anos, foi demitida do cargo de professora da prefeitura do Rio.&lt;/p&gt;
 &lt;p&gt;Diário Oficial do Município do Rio&lt;/p&gt;
-&lt;p&gt;na edição desta quarta-feira (25).&lt;/p&gt;
-&lt;p&gt;Ela deixou a penitenciária Talavera Bruce, no Complexo de Gericinó, na zona oeste do Rio, no início da noite dessa segunda-feira (23) e está em casa. Acusada de participação na morte do filho Henry Borel deixa a cadeia.&lt;/p&gt;
+&lt;p&gt;na edição desta quarta-feira (25). Elavinha recebendo normalmente seu salário de professora há cinco anos.&lt;/p&gt;
+&lt;p&gt;Ela deixou a penitenciária Talavera Bruce&lt;/p&gt;
+&lt;p&gt;, no Complexo de Gericinó, na zona oeste do Rio, no início da noite dessa segunda-feira (23) e está em casa.&lt;/p&gt;
 &lt;p&gt;A soltura foi determinada pela juíza Elizabeth Machado Louro, do 2º Tribunal do Júri, após o julgamento do caso Henry Borel ter sido adiado. A magistrada aceitou o pedido da defesa de relaxamento de prisão de Monique porque, com o adiamento, poderia incorrer em excesso de prazo.&lt;/p&gt;
-&lt;p&gt;No plenário, a defesa de Jairo dos Santos Júnior, o Dr. Jairinho, padrasto de Henry e também acusado pelo crime, pediu o adiamento do júripor falta de acesso às provas. Após o indeferimento do pedido pela juíza,os cinco advogados de defesa abandonaram o plenário. Com essa medida, o julgamento foi adiado para 25 de maio próximo.&lt;/p&gt;
+&lt;p&gt;No plenário, a defesa de Jairo dos Santos Júnior, o Dr. Jairinho, padrasto de Henry e também acusado pelo crime, pediu o adiamento do júripor falta de acesso às provas.&lt;/p&gt;
+&lt;p&gt;Após o indeferimento do pedido pela juíza,os cinco advogados de defesa abandonaram o plenário. Com essa medida, o julgamento foi adiado para 25 de maio próximo.&lt;/p&gt;
 &lt;p&gt;Na segunda-feira (23), começaria o julgamentodos réus, Monique Medeiros e Jairo Souza Santos Júnior, padrasto de Henry Borel, acusados da morte da criança, na madrugada de 8 de março de 2021.&lt;/p&gt;
 &lt;p&gt;Henry morreu no apartamento onde morava com a mãe, Monique Medeiros e o padrastro, Dr. Jaririnho, na Barra da Tijuca, zona sudoeste do Rio.&lt;/p&gt;
 &lt;p&gt;O menino ainda chegou a ser levado a um hospital particular na Barra da Tijuca, onde ocasal alegou que a criança teria sofrido um acidente doméstico.&lt;/p&gt;
 &lt;p&gt;No entanto, o laudo da necropsia do Instituto Médico-Legal (IML) apontou queHenry sofreu 23 lesões por ação violenta, incluindo laceração hepática e hemorragia interna.&lt;/p&gt;
 &lt;p&gt;As investigações da Polícia Civil concluíram que Henry eravítima de rotinas de tortura praticadas pelo padrasto e que a mãe tinha conhecimento das agressões.&lt;/p&gt;
 &lt;p&gt;Os réus foram presos em abril de 2021 e denunciados pelo Ministério Público do Rio de Janeiro (MPRJ).&lt;/p&gt;
-&lt;p&gt;Jairinho responde por homicídio qualificado e Monique por homicídio por omissão de socorro.&lt;/p&gt;
-&lt;p&gt;A denúncia aponta que no dia do crime, Jairo Santos Júnior, com vontade livre e de forma consciente, mediante ação contundente exercida contra a vítima,causou-lhe lesões corporais que foram a causa única de sua morte, tendo a mãe, Monique Medeiros, garantidora legal da vítima, se omitido de sua responsabilidade,concorrendo eficazmente para o crime de homicídio de seu filho.&lt;/p&gt;
-&lt;p&gt;De acordo com o MPRJ, em outras três ocasiões, no mês de fevereiro de 2021, Jairinho submeteu Henry Borel a sofrimentos físico e mental com emprego de violência.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/caso-henry-borel-monique-medeiros-e-demitida-pela-prefeitura-do-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Jairinho responde por homicídio qualificado e Monique por homicídio por omissão de socorro.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/caso-henry-borel-monique-medeiros-e-demitida-pela-prefeitura-do-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Acusada de homicídio por omissão na morte do filho, Monique Medeiros, mãe do menino Henry Borel, morto aos 4 anos, foi demitida do cargo de professor...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-25 09:15:00</wp:post_date>
       <wp:post_date_gmt>2026-03-25 09:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-25 09:15:00</wp:post_modified>
@@ -71,9 +410,9 @@
     <item>
       <title>Polícia Federal faz operação contra fraudes na Caixa Econômica Federal</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-federal-faz-operacao-contra-fraudes-na-caixa-economica-federal</link>
-      <pubDate>Wed, 25 Mar 2026 12:52:49 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 14:15:33 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-federal-faz-operacao-contra-fraudes-na-caixa-economica-federal#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-federal-faz-operacao-contra-fraudes-na-caixa-economica-federal#1008</guid>
       <description>A Polícia Federal (PF) faz a Operação Fallax para desarticular uma organização criminosa que atua em fraudes bancárias contra a Caixa Econômica Feder...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UMV48OmpQJ7olP59mGJdSjxky0g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/17/f58552e2-8153-4628-b5c9-609b6778921f.jpeg?itok=HtPSq_Lz&quot; alt=&quot;Polícia Federal faz operação contra fraudes na Caixa Econômica Federal&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Polícia Federal (PF) faz a Operação Fallax para desarticular uma organização criminosa que atua em fraudes bancárias contra a Caixa Econômica Federal, na manhã desta quarta-feira (25).&lt;/p&gt;
@@ -83,10 +422,16 @@
 &lt;p&gt;Como medidas da operação, a justiça determinou o bloqueio e sequestro de bens imóveis, de veículos e de ativos financeiros de até o limite de R$ 47 milhões dos investigados. Também foi determinada a quebra de sigilo bancário e fiscal de 33 pessoas físicas e de 172 empresas.&lt;/p&gt;
 &lt;p&gt;São cumpridos nesta manhã 21 mandados de prisão preventiva e 43 de busca e apreensão expedidos pela Justiça Federal de são Paulo. As diligências também ocorrem no Rio de Janeiro e na Bahia.&lt;/p&gt;
 &lt;p&gt;Rio antecipa campanha de vacinação contra a gripe&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 18h30: Presidente Lula sanciona Marco Legal do Combate ao Crime Organizado no Brasil; Lei Antifacção prevê penas de até 40 anos de prisão&lt;/p&gt;
-&lt;p&gt;No Rio, projeto leva literatura de autoria indígena para sala de aula&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-federal-faz-operacao-contra-fraudes-na-caixa-economica-federal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Alô Alô Datena ouve Secretário Nacional de Segurança Pública e Embaixador do Brasil em Teerã&lt;/p&gt;
+&lt;p&gt;No Rio, projeto leva literatura de autoria indígena para sala de aula&lt;/p&gt;
+&lt;p&gt;Chuvas em Minas: União autoriza repasse de R$ 5 milhões a Ubá&lt;/p&gt;
+&lt;p&gt;IBGE: Quatro em cada dez adolescentes já sofreram bullying na escola&lt;/p&gt;
+&lt;p&gt;Cinema Inflável chega a Tanguá, no Rio, e reforça acesso à cultura&lt;/p&gt;
+&lt;p&gt;Um quarto das estudantes adolescentes já foi alvo de violência sexual&lt;/p&gt;
+&lt;p&gt;Povo Fulni-ô guiará vivência na Chapada dos Veadeiros&lt;/p&gt;
+&lt;p&gt;Senado aprova projeto de lei que criminaliza a misoginia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/policia-federal-faz-operacao-contra-fraudes-na-caixa-economica-federal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Polícia Federal (PF) faz a Operação Fallax para desarticular uma organização criminosa que atua em fraudes bancárias contra a Caixa Econômica Feder...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-25 09:06:00</wp:post_date>
       <wp:post_date_gmt>2026-03-25 09:06:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-25 09:06:00</wp:post_modified>
@@ -112,9 +457,9 @@
     <item>
       <title>Papa Leão lamenta que guerra contra Irã &quot;esteja cada vez pior&quot;</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/papa-leao-lamenta-que-guerra-contra-ira-esteja-cada-vez-pior</link>
-      <pubDate>Wed, 25 Mar 2026 12:52:49 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2026 14:15:33 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/papa-leao-lamenta-que-guerra-contra-ira-esteja-cada-vez-pior#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/papa-leao-lamenta-que-guerra-contra-ira-esteja-cada-vez-pior#1009</guid>
       <description>© REUTERS/Guglielmo Mangiapane/ Proibida reprodução
 O papa Leão XIV voltou a manifestar preocupaçãocom o aumento do teor de animosidade na crescente ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8ODIJ6wdvp7lVZfA45X86Yu6CCo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/09/2026-01-09t121705z_1_lynxmpem080nr_rtroptp_4_religiao-papa-diplomatas-discurso.jpg?itok=NSIu-J4N&quot; alt=&quot;Papa Leão lamenta que guerra contra Irã &quot;esteja cada vez pior&quot;&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -126,16 +471,16 @@ O papa Leão XIV voltou a manifestar preocupaçãocom o aumento do teor de animo
 &lt;p&gt;Leão, que é conhecido por escolher suas palavras com cuidado, tem aumentado os apelos para o fim da guerra contra o Irã nos últimos dias. No domingo (22), ele disse que o conflito éum &quot;escândalo para toda a família humana&quot;.&lt;/p&gt;
 &lt;p&gt;*É proibida a reprodução deste conteúdo.&lt;/p&gt;
 &lt;p&gt;Rio antecipa campanha de vacinação contra a gripe&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 18h30: Presidente Lula sanciona Marco Legal do Combate ao Crime Organizado no Brasil; Lei Antifacção prevê penas de até 40 anos de prisão&lt;/p&gt;
+&lt;p&gt;Alô Alô Datena ouve Secretário Nacional de Segurança Pública e Embaixador do Brasil em Teerã&lt;/p&gt;
 &lt;p&gt;No Rio, projeto leva literatura de autoria indígena para sala de aula&lt;/p&gt;
-&lt;p&gt;Caso Henry Borel: Monique Medeiros é demitida pela prefeitura do Rio&lt;/p&gt;
-&lt;p&gt;Polícia Federal faz operação contra fraudes na Caixa Econômica Federal&lt;/p&gt;
-&lt;p&gt;Papa Leão lamenta que guerra contra Irã &quot;esteja cada vez pior&quot;&lt;/p&gt;
-&lt;p&gt;BB vai criar pontos de apoio para entregadores de aplicativos&lt;/p&gt;
-&lt;p&gt;Lei Antifacção é publicada no Diário Oficial da União&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/papa-leao-lamenta-que-guerra-contra-ira-esteja-cada-vez-pior&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Chuvas em Minas: União autoriza repasse de R$ 5 milhões a Ubá&lt;/p&gt;
+&lt;p&gt;IBGE: Quatro em cada dez adolescentes já sofreram bullying na escola&lt;/p&gt;
+&lt;p&gt;Cinema Inflável chega a Tanguá, no Rio, e reforça acesso à cultura&lt;/p&gt;
+&lt;p&gt;Um quarto das estudantes adolescentes já foi alvo de violência sexual&lt;/p&gt;
+&lt;p&gt;Povo Fulni-ô guiará vivência na Chapada dos Veadeiros&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/papa-leao-lamenta-que-guerra-contra-ira-esteja-cada-vez-pior&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Guglielmo Mangiapane/ Proibida reprodução
 O papa Leão XIV voltou a manifestar preocupaçãocom o aumento do teor de animosidade na crescente ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-25 08:48:00</wp:post_date>
       <wp:post_date_gmt>2026-03-25 08:48:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-25 08:48:00</wp:post_modified>
@@ -156,340 +501,6 @@ O papa Leão XIV voltou a manifestar preocupaçãocom o aumento do teor de animo
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/8ODIJ6wdvp7lVZfA45X86Yu6CCo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/09/2026-01-09t121705z_1_lynxmpem080nr_rtroptp_4_religiao-papa-diplomatas-discurso.jpg?itok=NSIu-J4N</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>BB vai criar pontos de apoio para entregadores de aplicativos</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/bb-vai-criar-pontos-de-apoio-para-entregadores-de-aplicativos</link>
-      <pubDate>Wed, 25 Mar 2026 12:52:49 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/bb-vai-criar-pontos-de-apoio-para-entregadores-de-aplicativos#1003</guid>
-      <description>O Banco do Brasil, por meio daFundação BB, firmou nessa terça-feira (24) parceria com a Secretaria-Geral da Presidência da Repúblicapara a implantaçã...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cIHkQSTIDhZVLUF9-VaIw3DnQ3s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/31/pint8161.jpg?itok=jZ0RpHWh&quot; alt=&quot;BB vai criar pontos de apoio para entregadores de aplicativos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Banco do Brasil, por meio daFundação BB, firmou nessa terça-feira (24) parceria com a Secretaria-Geral da Presidência da Repúblicapara a implantação de pontos de apoio destinados a entregadores de aplicativos. A iniciativa é voltada à ampliação das condições de dignidade, saúde, segurança, inclusão produtiva e bem-estar desses trabalhadores em todas as regiões do país.&lt;/p&gt;
-&lt;p&gt;O acordo prevê a criação de espaços físicos padronizados, com infraestrutura essencial para apoiar o trabalho de entrega urbana e fortalecer o desenvolvimento social e econômico nos territórios.&lt;/p&gt;
-&lt;p&gt;Cada unidade desses pontos de apoio terá infraestrutura sanitária, áreas de descanso, pontos de hidratação e recarga elétrica. O cenário de expansão nacional prevê a expectativa de implementar cerca de 100 pontos desses, com investimento estimado de R$ 24 milhões.&lt;/p&gt;
-&lt;p&gt;“Muitas vezes os trabalhadores não têm um local para parar, ir ao banheiro, carregar o celular, por exemplo. Os pontos de apoio terão impacto real e concreto no dia a dia desses profissionais”, afirma o ministro da Secretaria-Geral da Presidência da República, Guilherme Boulos.&lt;/p&gt;
-&lt;p&gt;O projeto incorpora recortes de equidade e cidadania, considerando vulnerabilidades específicas enfrentadas por mulheres, pessoas LGBTQIAPN+ e pela população negra, majoritária no setor e, em grande parte, residente em periferias urbanas.&lt;/p&gt;
-&lt;p&gt;Para a presidentedo Banco do Brasil, Tarciana Medeiros, &quot;apoiar iniciativas que promovem condições dignas de trabalho, em todas as regiões do Brasil, é parte essencial do trabalho da instituiçãocomo conglomerado financeiro comprometido com a melhoria das condições sociais e econômicas dos territórios onde está presente, afirmou.&lt;/p&gt;
-&lt;p&gt;Na fase inicial, o projeto será implementado por meio de um piloto, com recomendação técnica da Fundação BB para a instalação de até 20 pontos de apoio, permitindo a calibração do modelo de gestão, operação e monitoramento antes de uma eventual expansão nacional.&lt;/p&gt;
-&lt;p&gt;Cada unidade contará, obrigatoriamente, com banheiros adequados — incluindo estrutura para higiene menstrual —, água potável gratuita, área de descanso protegida, estações de recarga de celulares, mobiliário interno e externo, além de iluminação e ambiente seguro&lt;/p&gt;
-&lt;p&gt;Segundo o presidente da Fundação Banco do Brasil, André Machado, o acordo tem caráter estruturante.&lt;/p&gt;
-&lt;p&gt;“Trata-se de iniciativa de grande impacto social, que amplia o acesso a direitos básicos, fortalece a inclusão e contribui para a construção de políticas públicas permanentes voltadas a esses trabalhadores”, destacou.&lt;/p&gt;
-&lt;p&gt;O acordo de cooperação terá duração inicialde24 meses.&lt;/p&gt;
-&lt;p&gt;Com essa iniciativa, o Banco do Brasil, por meio da Fundação BB, reafirma seu compromisso com projetos estruturantes de impacto social, que contribuem para a promoção da cidadania, da inclusão produtiva e do desenvolvimento econômico sustentável no Brasil.&lt;/p&gt;
-&lt;p&gt;Rio antecipa campanha de vacinação contra a gripe&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 18h30: Presidente Lula sanciona Marco Legal do Combate ao Crime Organizado no Brasil; Lei Antifacção prevê penas de até 40 anos de prisão&lt;/p&gt;
-&lt;p&gt;No Rio, projeto leva literatura de autoria indígena para sala de aula&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/bb-vai-criar-pontos-de-apoio-para-entregadores-de-aplicativos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Banco do Brasil, por meio daFundação BB, firmou nessa terça-feira (24) parceria com a Secretaria-Geral da Presidência da Repúblicapara a implantaçã...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
-      <wp:post_date>2026-03-25 08:28:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-25 08:28:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-25 08:28:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-25 08:28:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/cIHkQSTIDhZVLUF9-VaIw3DnQ3s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/31/pint8161.jpg?itok=jZ0RpHWh</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Lei Antifacção é publicada no Diário Oficial da União</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/lei-antifaccao-e-publicada-no-diario-oficial-da-uniao</link>
-      <pubDate>Wed, 25 Mar 2026 12:52:49 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/lei-antifaccao-e-publicada-no-diario-oficial-da-uniao#1004</guid>
-      <description>© Fernando Frazão/Agencia Brasil
-A edição desta quarta-feira (25) do
-traz publicada a Lei 15.358/2026, Lei Antifacção,
-sancionada nessa terça-feira (...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PmO0kgJlmmMn7kc94MJQB5pqoG0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/ffraz_abr_18071919317.jpg?itok=8HT-0k76&quot; alt=&quot;Lei Antifacção é publicada no Diário Oficial da União&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fernando Frazão/Agencia Brasil&lt;/p&gt;
-&lt;p&gt;A edição desta quarta-feira (25) do&lt;/p&gt;
-&lt;p&gt;traz publicada a Lei 15.358/2026, Lei Antifacção,&lt;/p&gt;
-&lt;p&gt;sancionada nessa terça-feira (24)&lt;/p&gt;
-&lt;p&gt;pelo presidente Luiz Inácio Lula da Silva.&lt;/p&gt;
-&lt;p&gt;Marco Legal do Combate ao Crime Organizado no Brasil&lt;/p&gt;
-&lt;p&gt;A nova lei considera facção criminosa toda organização criminosa ou grupo de três ou mais pessoas que empregue violência, grave ameaça ou coação para controlar territórios, intimidar populações ou autoridades.&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Siga o canal daAgência Brasilno WhatsApp&lt;/p&gt;
-&lt;p&gt;A norma também estabelece que lideranças conectadas a esses crimes deixam de ter benefícios como anistia e indulto, fiança ou liberdade condicional. A progressão de pena fica mais restrita. Em alguns casos, exige-se até 85% do cumprimento em regime fechado.&lt;/p&gt;
-&lt;p&gt;A legislação prevê pena de reclusão de 20 a 40 anos para tais crimes.&lt;/p&gt;
-&lt;p&gt;Ouça mais detalhes na Radioagência Nacional:&lt;/p&gt;
-&lt;p&gt;foi aprovada no fim de fevereiro pela Câmara dos Deputados. Porém, dois trechos foram vetados pelo presidente Lula.&lt;/p&gt;
-&lt;p&gt;Um deles foi considerado inconstitucional por permitir o enquadramento de infratores na lei, mesmo que não integrassem comprovadamente organizações criminosas.&lt;/p&gt;
-&lt;p&gt;O outro implicava perda de receita da União ao prever destinação de produtos e valores apreendidos do crime organizado a fundos dos estados e do Distrito Federal.&lt;/p&gt;
-&lt;p&gt;Veja mais detalhes no Repórter Brasil, da TV Brasil:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-03/lei-antifaccao-e-publicada-no-diario-oficial-da-uniao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fernando Frazão/Agencia Brasil
-A edição desta quarta-feira (25) do
-traz publicada a Lei 15.358/2026, Lei Antifacção,
-sancionada nessa terça-feira (...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-03-25 08:25:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-25 08:25:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-25 08:25:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-25 08:25:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/PmO0kgJlmmMn7kc94MJQB5pqoG0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/ffraz_abr_18071919317.jpg?itok=8HT-0k76</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>STF retoma julgamento sobre pagamento de penduricalhos</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-retoma-julgamento-sobre-pagamento-de-penduricalhos</link>
-      <pubDate>Wed, 25 Mar 2026 12:52:49 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-retoma-julgamento-sobre-pagamento-de-penduricalhos#1005</guid>
-      <description>O Supremo Tribunal Federal (STF) inicia nesta quarta-feira (25) o julgamento sobre as decisões que suspenderam o pagamento de penduricalhosnos Três P...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/boVItIIR2Q3px-E-Dsj5kMlGH24=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/19/55156883781_29060c6af8_o.jpg?itok=0AsCh8eS&quot; alt=&quot;STF retoma julgamento sobre pagamento de penduricalhos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Supremo Tribunal Federal (STF) inicia nesta quarta-feira (25) o julgamento sobre as decisões que suspenderam o pagamento de penduricalhosnos Três Poderes, benefícios que são concedidos a servidores públicos e que, somados ao salário, não cumprem o teto remuneratório constitucional de R$ 46,3 mil.&lt;/p&gt;
-&lt;p&gt;O caso começou a ser analisado no mês passado, mas foi suspenso para aguardar o resultado dos trabalhos de uma comissão criada pelo Supremo para avaliar a possibilidade de adoção de regras de transição para as verbas extrateto.&lt;/p&gt;
-&lt;p&gt;Na sessão de hoje, será iniciada a votação que vai decidir se as decisões individuais dos ministros Flávio Dino e Gilmar Mendes, que suspenderam os pagamentos, serão mantidas pelo plenário.&lt;/p&gt;
-&lt;p&gt;No dia 5 de fevereiro, Dino determinou a suspensão dos penduricalhosque não estão previstos em lei. A decisão deve aplicada pelos poderes Judiciário, Legislativo e Executivo, nas esferas federal, estadual e municipal, que terão prazo de 60 dias para revisar e suspender o pagamento dessas verbas indenizatórias que não respeitam o teto.&lt;/p&gt;
-&lt;p&gt;Em seguida, Gilmar Mendes também suspendeu os pagamentos a juízes e membros do Ministério Público.&lt;/p&gt;
-&lt;p&gt;A comissão criada para analisar os pagamentos dos penduricalhos encerrou os trabalhos nesta semana. De acordo com nota elaborada pelos técnicos que fazemo diagnóstico, o Judiciário e o Ministério Público pagam cerca de R$ 17 bilhões em penduricalhos acima do teto constitucional.&lt;/p&gt;
-&lt;p&gt;O relatório também recomendou o uso dos critérios utilizados pela Receita Federal para definir os pagamentos que podem ser considerados como verbas indenizatórias. Esse tipo de pagamento é responsável pelo descumprimento do teto.&lt;/p&gt;
-&lt;p&gt;Rio antecipa campanha de vacinação contra a gripe&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 18h30: Presidente Lula sanciona Marco Legal do Combate ao Crime Organizado no Brasil; Lei Antifacção prevê penas de até 40 anos de prisão&lt;/p&gt;
-&lt;p&gt;No Rio, projeto leva literatura de autoria indígena para sala de aula&lt;/p&gt;
-&lt;p&gt;Caso Henry Borel: Monique Medeiros é demitida pela prefeitura do Rio&lt;/p&gt;
-&lt;p&gt;Polícia Federal faz operação contra fraudes na Caixa Econômica Federal&lt;/p&gt;
-&lt;p&gt;Papa Leão lamenta que guerra contra Irã &quot;esteja cada vez pior&quot;&lt;/p&gt;
-&lt;p&gt;BB vai criar pontos de apoio para entregadores de aplicativos&lt;/p&gt;
-&lt;p&gt;Lei Antifacção é publicada no Diário Oficial da União&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/stf-retoma-julgamento-sobre-pagamento-de-penduricalhos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Supremo Tribunal Federal (STF) inicia nesta quarta-feira (25) o julgamento sobre as decisões que suspenderam o pagamento de penduricalhosnos Três P...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-03-25 08:02:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-25 08:02:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-25 08:02:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-25 08:02:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/boVItIIR2Q3px-E-Dsj5kMlGH24=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/19/55156883781_29060c6af8_o.jpg?itok=0AsCh8eS</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>PF combate tráfico de drogas e lavagem de dinheiro na Paraíba</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/pf-combate-trafico-de-drogas-e-lavagem-de-dinheiro-na-paraiba</link>
-      <pubDate>Wed, 25 Mar 2026 12:52:49 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/pf-combate-trafico-de-drogas-e-lavagem-de-dinheiro-na-paraiba#1006</guid>
-      <description>Uma organização criminosa envolvida com tráfico de drogas e lavagem de dinheiro, especialmente em Cabedelo, cidade localizada na região metropolitana...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UdVzJTYtZlQ9mX4J0Pk55De2Ps4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/15/pf_e_policia_civil_apuram_assassinato_de_filho_de_cacique_no_parana.jpg?itok=G1JHKrZo&quot; alt=&quot;PF combate tráfico de drogas e lavagem de dinheiro na Paraíba&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Uma organização criminosa envolvida com tráfico de drogas e lavagem de dinheiro, especialmente em Cabedelo, cidade localizada na região metropolitana de João Pessoa, na Paraíba, é alvo da Operação Leonard, deflagrada pela Polícia Federal (PF), na manhã desta quarta-feira (25).&lt;/p&gt;
-&lt;p&gt;Estão sendo cumpridos 34 mandados de prisão, sendo 30 preventivas e 4 temporárias; e 16 de busca e apreensão, além de medidas de natureza patrimonial como: sequestro e bloqueio de bens e valores.&lt;/p&gt;
-&lt;p&gt;As ações ocorrem nos municípios de João Pessoa, Cabedelo e Campina Grande, na Paraíba; e no Rio de Janeiro. As medidas judiciais foram expedidas pela 1ª Vara Regional do Juízo das Garantias.&lt;/p&gt;
-&lt;p&gt;“O material apreendido será submetido à análise e aos exames periciais, com a finalidade de identificar a extensão das condutas, a participação individual de cada investigado e eventuais conexões com outros envolvidos”, segundo a PF.&lt;/p&gt;
-&lt;p&gt;A operação conta com o apoio e parceira da Polícia Militar da Paraíba e do Gaeco/Ministério Público.&lt;/p&gt;
-&lt;p&gt;Rio antecipa campanha de vacinação contra a gripe&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Senado aprova projeto de Lei que criminaliza a misoginia&lt;/p&gt;
-&lt;p&gt;No Rio, projeto leva literatura de autoria indígena para sala de aula&lt;/p&gt;
-&lt;p&gt;Militares do Irã rejeitam comentário de Trump sobre negociação&lt;/p&gt;
-&lt;p&gt;Caso Henry Borel: Monique Medeiros é demitida pela prefeitura do Rio&lt;/p&gt;
-&lt;p&gt;Polícia Federal faz operação contra fraudes na Caixa Econômica Federal&lt;/p&gt;
-&lt;p&gt;Papa Leão lamenta que guerra contra Irã &quot;esteja cada vez pior&quot;&lt;/p&gt;
-&lt;p&gt;BB vai criar pontos de apoio para entregadores de aplicativos&lt;/p&gt;
-&lt;p&gt;Lei Antifacção é publicada no Diário Oficial da União&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/pf-combate-trafico-de-drogas-e-lavagem-de-dinheiro-na-paraiba&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Uma organização criminosa envolvida com tráfico de drogas e lavagem de dinheiro, especialmente em Cabedelo, cidade localizada na região metropolitana...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-25 07:57:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-25 07:57:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-25 07:57:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-25 07:57:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/UdVzJTYtZlQ9mX4J0Pk55De2Ps4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/15/pf_e_policia_civil_apuram_assassinato_de_filho_de_cacique_no_parana.jpg?itok=G1JHKrZo</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Justiça manda prender militares condenados por fraudes em licitações</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/justica-manda-prender-militares-condenados-por-fraudes-em-licitacoes</link>
-      <pubDate>Wed, 25 Mar 2026 12:52:49 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/justica-manda-prender-militares-condenados-por-fraudes-em-licitacoes#1007</guid>
-      <description>A Justiça Militar da União expediu mandados para prender de forma definitiva militares e ex-militares do Exército condenados por participarem de esqu...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VVFcvhEN4hzR4Adu-TBbZlD3DCQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/25/81481c9a70db39d0561280e4e7ac6abc_copiar.jpg?itok=MjXZ07qJ&quot; alt=&quot;Justiça manda prender militares condenados por fraudes em licitações&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Justiça Militar da União expediu mandados para prender de forma definitiva militares e ex-militares do Exército condenados por participarem de esquema de desvio de recursos públicos no Instituto Militar de Engenharia (IME), no Rio de Janeiro.&lt;/p&gt;
-&lt;p&gt;prejuízo inicial estimado em R$ 11 milhões, podendo ultrapassar R$ 25milhões, após atualizações.&lt;/p&gt;
-&lt;p&gt;A decisão é do juiz federal substituto Sidnei Carlos Moura, da 2ª Auditoria da 1ª Circunscrição Judiciária Militar (CJM-RJ), responsável pela execução penal.&lt;/p&gt;
-&lt;p&gt;As ordens foram expedidas nessa terça-feira (25), após trânsito em julgado das condenações.&lt;/p&gt;
-&lt;p&gt;De acordo com o magistrado, os militares que ainda mantêm vínculo com as Forças Armadas deverão cumprir pena no 1º Batalhão de Polícia do Exército (1º BPE), no bairro da Tijuca.&lt;/p&gt;
-&lt;p&gt;O ex-militar, que perdeu o posto e a patente, e dois empresários civis serão encaminhados ao sistema prisional comum, no Complexo de Gericinó, em Bangu, conforme determinação da Justiça estadual do Rio de Janeiro.&lt;/p&gt;
-&lt;p&gt;Dois civis e dois militares já estão presos. Um ex-militar ainda não foi encontrado para cumprir a pena.&lt;/p&gt;
-&lt;p&gt;Na manhã dessa terça-feira (25), um dos condenados, um tenente-coronel da reserva, de 62 anos, foi preso por agentes da Polícia Civil na Barra da Tijuca, zona sudoeste do Rio. O militar foi condenado a 8 anos e 4 meses, em regime fechado, pelo crime de peculato.&lt;/p&gt;
-&lt;p&gt;De acordo com as investigações, ele integrou um grupo de 15 pessoas envolvido em fraudes em licitações e contratos firmados entre o IME e o Departamento Nacional de Infraestrutura de Transportes (Dnit).&lt;/p&gt;
-&lt;p&gt;As investigações do Ministério Público Militar apontaram que o esquema envolveu a manipulação de concorrências públicas, uso de empresas de fachada e falsificação de documentos para encobrir o desaparecimento de bens públicos.&lt;/p&gt;
-&lt;p&gt;Ao todo, foram identificados 88 processos licitatórios fraudulentos, que movimentaram cerca de R$ 38 milhões.&lt;/p&gt;
-&lt;p&gt;Além desse tenente-coronel, foram condenados um coronel da reserva a 16 anos e 8 meses de reclusão; um major a 16 anos; um coronel da reserva a11 anos, 1 mês e 10 dias; um capitão 5 anos, 11 meses e 2 dias; e dois civis (empresários), ambos condenados a 10 anos e 8 meses de reclusão.&lt;/p&gt;
-&lt;p&gt;A sentença condenatória foi proferida em abril de 2019 e mantida integralmente pelo Superior Tribunal Militar (STM) em acórdão publicado em maio de 2022.&lt;/p&gt;
-&lt;p&gt;Recentemente, com o esgotamento dos recursos para parte dos réus, o Ministério Público Militar requereu o início imediato do cumprimento das penas, o que foi autorizado por decisão liminar do ministro Artur Vidigal de Oliveira, no âmbito de mandado de segurança.&lt;/p&gt;
-&lt;p&gt;Outros acusados no processo foram absolvidos, enquanto dois tiveram a punibilidade extinta em razão de falecimento no curso da ação penal.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/justica-manda-prender-militares-condenados-por-fraudes-em-licitacoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Justiça Militar da União expediu mandados para prender de forma definitiva militares e ex-militares do Exército condenados por participarem de esqu...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-25 07:33:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-25 07:33:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-25 07:33:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-25 07:33:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/VVFcvhEN4hzR4Adu-TBbZlD3DCQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/25/81481c9a70db39d0561280e4e7ac6abc_copiar.jpg?itok=MjXZ07qJ</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Caixa paga Bolsa Família a beneficiários com NIS de final 6</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-6</link>
-      <pubDate>Wed, 25 Mar 2026 12:52:49 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-6#1008</guid>
-      <description>A Caixa Econômica Federal paga nesta quarta-feira (25) a parcela de março do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1gp3VkQcrnEn3QKld5k9diQoELg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53628083405_9eff29bda1_o.jpg?itok=zLeILNBR&quot; alt=&quot;Caixa paga Bolsa Família a beneficiários com NIS de final 6&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Caixa Econômica Federal paga nesta quarta-feira (25) a parcela de março do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 6.&lt;/p&gt;
-&lt;p&gt;O valor mínimo corresponde a R$ 600, mas com o novo adicional o valor médio do benefício sobe para R$ 683,75.&lt;/p&gt;
-&lt;p&gt;Segundo o Ministério do Desenvolvimento e Assistência Social, neste mês o programa de transferência de renda do Governo Federal alcançará 18,73 milhões de famílias, com gasto de R$ 12,77 bilhões.&lt;/p&gt;
-&lt;p&gt;Além do benefício mínimo, há o pagamento de três adicionais.&lt;/p&gt;
-&lt;p&gt;O Benefício Variável Familiar Nutriz paga seis parcelas de R$ 50 a mães de bebês de até seis meses de idade, para garantir a alimentação da criança. O bolsa família também paga um acréscimo de R$ 50 a gestantes e nutrizes (mães que amamentam), um de R$ 50 a cada filho de 7 a 18 anos e outro, de R$ 150, a cada criança de até 6 anos.&lt;/p&gt;
-&lt;p&gt;No modelo tradicional do Bolsa Família, o pagamento ocorre nos últimos dez dias úteis de cada mês.&lt;/p&gt;
-&lt;p&gt;O beneficiário poderá consultar informações sobre as datas de pagamento, o valor do benefício e a composição das parcelas no aplicativo Caixa Tem, usado para acompanhar as contas poupança digitais do banco.&lt;/p&gt;
-&lt;p&gt;Os beneficiários de 171 cidades de nove estados receberam o pagamento no último dia 18, independentemente do NIS&lt;/p&gt;
-&lt;p&gt;. A medida beneficiou os moradores de 126 municípios do Rio Grande do Norte, que sofrem com a seca, e os moradores de Juiz de Fora, Ubá, Patrocínio do Muriaé e Formiga, em Minas Gerais, afetados por enchentes. Também foram beneficiadas cidades nos seguintes estados: Amazonas (3), Bahia (17), Paraná (1), Piauí (1), Rio de Janeiro (4), Roraima (6) e Sergipe (9).&lt;/p&gt;
-&lt;p&gt;Essas localidades foram afetadas por chuvas ou por estiagens ou têm povos indígenas em situação de vulnerabilidade.&lt;/p&gt;
-&lt;p&gt;com pagamento antecipado está disponível na página do Ministério do Desenvolvimento e Assistência Social.&lt;/p&gt;
-&lt;p&gt;Desde 2024, os beneficiários do Bolsa Família não têm mais o desconto do Seguro Defeso.&lt;/p&gt;
-&lt;p&gt;A mudança foi estabelecida pela&lt;/p&gt;
-&lt;p&gt;, que resgatou o Programa Bolsa Família (PBF). O Seguro Defeso é pago a pessoas que sobrevivem exclusivamente da pesca artesanal e que não podem exercer a atividade durante o período da piracema (reprodução dos peixes).&lt;/p&gt;
-&lt;p&gt;Cerca de 2,35milhões de famílias estão na regra de proteção em março. Essa regra permite que famílias cujos membros consigam emprego e melhorem a renda recebam&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-6&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Caixa Econômica Federal paga nesta quarta-feira (25) a parcela de março do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-25 07:32:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-25 07:32:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-25 07:32:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-25 07:32:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/1gp3VkQcrnEn3QKld5k9diQoELg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53628083405_9eff29bda1_o.jpg?itok=zLeILNBR</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>TSE condena Cláudio Castro e ex-governador fica inelegível até 2030</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/tse-condena-claudio-castro-inelegibilidade-ate-2030</link>
-      <pubDate>Wed, 25 Mar 2026 12:52:49 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/tse-condena-claudio-castro-inelegibilidade-ate-2030#1009</guid>
-      <description>Por 5 votos a 2, o Tribunal Superior Eleitoral (TSE) decidiu nesta terça-feira (24) condenar o ex-governadordoRiode Janeiro Cláudio Castropor abuso d...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/AmP_sCWCT6G7-FIr7DMMTRpX0WM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/trbr6524.jpg?itok=OP4vMW9o&quot; alt=&quot;TSE condena Cláudio Castro e ex-governador fica inelegível até 2030&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Por 5 votos a 2, o Tribunal Superior Eleitoral (TSE) decidiu nesta terça-feira (24) condenar o ex-governadordoRiode Janeiro Cláudio Castropor abuso de poder político e econômico na campanha à reeleição, em 2022.&lt;/p&gt;
-&lt;p&gt;Castro disse que irá apresentarrecurso contra a decisão.&lt;/p&gt;
-&lt;p&gt;Com a decisão, Castro ficará inelegível pelo prazo de oito anos, a contar do pleito de 2022. Dessa forma,&lt;/p&gt;
-&lt;p&gt;o ex-governador deve ser impedido de disputar eleições até 2030&lt;/p&gt;
-&lt;p&gt;renunciou ao mandato e anunciou que é pré-candidato ao Senado nas eleições de outubro&lt;/p&gt;
-&lt;p&gt;saída ocorreu em função do prazo eleitoral para desincompatibilização&lt;/p&gt;
-&lt;p&gt;. Pela regra, Castro precisava deixar o governo estadual seis meses antes das eleições para se candidatar a outro cargo.&lt;/p&gt;
-&lt;p&gt;O TSE julgou um recurso do MinistérioPúblico Eleitoral (MPE) para reverter a decisão doTribunal Regional Eleitoral doRiode Janeiro (TRE-RJ) que, em maio de 2024, rejeitou a cassação do mandato e absolveu o ex-governadore os outros acusados no processo que trata de supostas contratações irregulares na Fundação Centro Estadual de Estatísticas, Pesquisas e Formação de Servidores Públicos doRiode Janeiro (Ceperj) e na Universidade doEstado doRiode Janeiro (Uerj)&lt;/p&gt;
-&lt;p&gt;Castroobteve vantagem eleitoral na contratação de servidores temporários&lt;/p&gt;
-&lt;p&gt;, sem amparo legal, e na descentralização de projetos sociais para enviar recursos para entidades desvinculadas da administração pública doRio.&lt;/p&gt;
-&lt;p&gt;De acordo com a acusação, a descentralização de recursos ocorreu para fomentar a contratação de 27.665 pessoas, totalizando gastos de R$ 248 milhões.&lt;/p&gt;
-&lt;p&gt;A inelegibilidade foi definida no processo no qual o TSE derrubou a decisão da Justiça Eleitoral do Rio de Janeiro, que rejeitou a cassação do mandato de Castro e a consequente declaração de inelegibilidade.&lt;/p&gt;
-&lt;p&gt;Os votos pela condenação foram proferidos ao longo de várias sessões para decidir o caso.&lt;/p&gt;
-&lt;p&gt;Votaram pela inelegibilidade os ministros Maria Isabel Galotti, Antonio Carlos Ferreira, Floriano de Azevedo Marques, Estela Aranha e Cármen Lúcia&lt;/p&gt;
-&lt;p&gt;Durante o julgamento, a presidente do TSE, ministra Cármen Lúcia, disse que o&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/tse-condena-claudio-castro-inelegibilidade-ate-2030&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Por 5 votos a 2, o Tribunal Superior Eleitoral (TSE) decidiu nesta terça-feira (24) condenar o ex-governadordoRiode Janeiro Cláudio Castropor abuso d...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-24 21:58:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-24 21:58:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-24 21:58:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-24 21:58:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/AmP_sCWCT6G7-FIr7DMMTRpX0WM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/trbr6524.jpg?itok=OP4vMW9o</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
