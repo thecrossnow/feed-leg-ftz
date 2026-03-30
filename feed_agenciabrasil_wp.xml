@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+    <pubDate>Mon, 30 Mar 2026 13:01:54 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,51 +22,11 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
-      <title>Motor de avião explode e piloto faz pouso de emergência em São Paulo</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/motor-de-aviao-explode-e-piloto-faz-pouso-de-emergencia-em-sao-paulo</link>
-      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/motor-de-aviao-explode-e-piloto-faz-pouso-de-emergencia-em-sao-paulo#1000</guid>
-      <description>O motor do Airbus A330-300, da DeltaAirlines, explodiu momentos após a decolagem do Aeroporto de Guarulhos, em São Paulo, na noite desse domingo (29)...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Motor de avião explode e piloto faz pouso de emergência em São Paulo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O motor do Airbus A330-300, da DeltaAirlines, explodiu momentos após a decolagem do Aeroporto de Guarulhos, em São Paulo, na noite desse domingo (29). O piloto teve de fazer um pouso de emergência. Ninguém ficou ferido.&lt;/p&gt;
-&lt;p&gt;O voo tinha como destino a cidade de Atlanta, no estado da Georgia, nos Estados Unidos. Devido ao cancelamento da viagem, outros voos tiveram de ser cancelados.&lt;/p&gt;
-&lt;p&gt;O Corpo de Bombeiros do aeroporto foi acionado e o avião conseguiu pousar em segurança.&lt;/p&gt;
-&lt;p&gt;Segundo nota da companhia aérea, “o voo 104 da Delta, de São Paulo para Atlanta, retornou ao aeroporto logo após a decolagem após um problema mecânico no motor esquerdo da aeronave. Os passageiros foram levados de ônibus até o terminal. A segurança de nossos clientes e da tripulação é nossa maior prioridade. Pedimos desculpas aso nossos clientes por esse atraso em suas viagens”.&lt;/p&gt;
-&lt;p&gt;A aeronave levava 272 passageiros e 14 tripulantes.&lt;/p&gt;
-&lt;p&gt;Moraes mantém restrições na prisão domiciliar de Bolsonaro&lt;/p&gt;
-&lt;p&gt;Apesar da derrota, Carlo Ancelotti elogia atuação da Seleção Brasileira contra a França&lt;/p&gt;
-&lt;p&gt;Justiça libera uso de área protegida para garantir empréstimo ao BRB&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/motor-de-aviao-explode-e-piloto-faz-pouso-de-emergencia-em-sao-paulo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O motor do Airbus A330-300, da DeltaAirlines, explodiu momentos após a decolagem do Aeroporto de Guarulhos, em São Paulo, na noite desse domingo (29)...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
-      <wp:post_date>2026-03-30 08:02:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-30 08:02:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-30 08:02:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-30 08:02:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
       <title>Pé-de-Meia: beneficiários nascidos em novembro e dezembro recebem hoje</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-novembro-e-dezembro-recebem-hoje</link>
-      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:01:54 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-novembro-e-dezembro-recebem-hoje#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-novembro-e-dezembro-recebem-hoje#1000</guid>
       <description>Os estudantes beneficiados pelo programa Pé-de-Meia de 2026, que nasceram nos meses de novembro e dezembro, recebem nesta segunda-feira (30) a primei...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/aTOT1LRU0WxULe-sAC2WHGjaCHw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/19/0d4a4629_0.jpg?itok=z0Xje7dk&quot; alt=&quot;Pé-de-Meia: beneficiários nascidos em novembro e dezembro recebem hoje&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Os estudantes beneficiados pelo programa Pé-de-Meia de 2026, que nasceram nos meses de novembro e dezembro, recebem nesta segunda-feira (30) a primeira parcela referente ao incentivo-matrícula.&lt;/p&gt;
@@ -85,7 +45,7 @@
 &lt;p&gt;Neste mês, o MEC também paga o incentivo-conclusão aos participantes do Pé-de-Meia que deixaram de receber na data regular porque as redes de ensino não tinham enviado as informações no prazo anterior estabelecido pelo programa.&lt;/p&gt;
 &lt;p&gt;O valor de R$ 1 mil do incentivo conclusão é referente à aprovação em cada ano letivo do ensino médio, mas somente pode ser sacado após a aprovação no terceiro ano.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-novembro-e-dezembro-recebem-hoje&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os estudantes beneficiados pelo programa Pé-de-Meia de 2026, que nasceram nos meses de novembro e dezembro, recebem nesta segunda-feira (30) a primei...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1000</wp:post_id>
       <wp:post_date>2026-03-30 08:02:00</wp:post_date>
       <wp:post_date_gmt>2026-03-30 08:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-30 08:02:00</wp:post_modified>
@@ -109,9 +69,55 @@
       </wp:postmeta>
     </item>
     <item>
+      <title>Motor de avião explode e piloto faz pouso de emergência em São Paulo</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/motor-de-aviao-explode-e-piloto-faz-pouso-de-emergencia-em-sao-paulo</link>
+      <pubDate>Mon, 30 Mar 2026 13:01:54 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/motor-de-aviao-explode-e-piloto-faz-pouso-de-emergencia-em-sao-paulo#1001</guid>
+      <description>O motor do Airbus A330-300, da DeltaAirlines, explodiu momentos após a decolagem do Aeroporto de Guarulhos, em São Paulo, na noite desse domingo (29)...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Motor de avião explode e piloto faz pouso de emergência em São Paulo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O motor do Airbus A330-300, da DeltaAirlines, explodiu momentos após a decolagem do Aeroporto de Guarulhos, em São Paulo, na noite desse domingo (29). O piloto teve de fazer um pouso de emergência. Ninguém ficou ferido.&lt;/p&gt;
+&lt;p&gt;O voo tinha como destino a cidade de Atlanta, no estado da Georgia, nos Estados Unidos. Devido ao cancelamento da viagem, outros voos tiveram de ser cancelados.&lt;/p&gt;
+&lt;p&gt;O Corpo de Bombeiros do aeroporto foi acionado e o avião conseguiu pousar em segurança.&lt;/p&gt;
+&lt;p&gt;Segundo nota da companhia aérea, “o voo 104 da Delta, de São Paulo para Atlanta, retornou ao aeroporto logo após a decolagem após um problema mecânico no motor esquerdo da aeronave. Os passageiros foram levados de ônibus até o terminal. A segurança de nossos clientes e da tripulação é nossa maior prioridade. Pedimos desculpas aso nossos clientes por esse atraso em suas viagens”.&lt;/p&gt;
+&lt;p&gt;A aeronave levava 272 passageiros e 14 tripulantes.&lt;/p&gt;
+&lt;p&gt;Mestres das culturas tradicionais e populares são reconhecidos na CBO&lt;/p&gt;
+&lt;p&gt;Filho caçula de Thiago de Mello destaca o lado cancioneiro do poeta&lt;/p&gt;
+&lt;p&gt;Justiça libera uso de área protegida para garantir empréstimo ao BRB&lt;/p&gt;
+&lt;p&gt;STF marca para 8 de abril decisão sobre eleição para governador no Rio&lt;/p&gt;
+&lt;p&gt;Aeroportos da UE esperam filas de duas horas no controle de fronteira&lt;/p&gt;
+&lt;p&gt;Netanyahu garante acesso de patriarca latino ao Santo Sepulcro&lt;/p&gt;
+&lt;p&gt;Nova flotilha com destino a Gaza sai de Marselha na próxima semana&lt;/p&gt;
+&lt;p&gt;Motor de avião explode e piloto faz pouso de emergência em São Paulo&lt;/p&gt;
+&lt;p&gt;Pé-de-Meia: beneficiários nascidos em novembro e dezembro recebem hoje&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/motor-de-aviao-explode-e-piloto-faz-pouso-de-emergencia-em-sao-paulo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O motor do Airbus A330-300, da DeltaAirlines, explodiu momentos após a decolagem do Aeroporto de Guarulhos, em São Paulo, na noite desse domingo (29)...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-30 08:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-30 08:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-30 08:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-30 08:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>COP15 em Campo Grande deixa legado de conscientização ambiental</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/cop15-em-campo-grande-deixa-legado-de-conscientizacao-ambiental</link>
-      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:01:54 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
       <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/cop15-em-campo-grande-deixa-legado-de-conscientizacao-ambiental#1002</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
@@ -131,7 +137,7 @@ Ao longo de toda a programação da 15ª Conferência das Nações Unidas sobre 
 &lt;p&gt;– um espaço verde urbano - e a construção de mais conhecimento sobre o tema, com o lançamento de um edital de pesquisa para fomentar estudos sobre espécies e rotas migratórias, que será publicado por meio do Ministério da Ciência, Tecnologia e Inovação e direcionado aos pesquisadores, universidades e centros de pesquisa brasileiros.&lt;/p&gt;
 &lt;p&gt;“É pensar que a gente está aqui construindo alguma coisa também para olhar para o futuro e ter um legado para a cidade. Isso foi muito bacana e foi um esforço compartilhado, integrado por todos os níveis, entes, com muitas parcerias”, completou.&lt;/p&gt;
 &lt;p&gt;*A equipe viajou a convite do Ministério do Meio Ambiente&lt;/p&gt;
-&lt;p&gt;Exposição na UFF relembra atos antidemocráticos de 8 de janeiro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/cop15-em-campo-grande-deixa-legado-de-conscientizacao-ambiental&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mestres das culturas tradicionais e populares são reconhecidos na CBO&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/cop15-em-campo-grande-deixa-legado-de-conscientizacao-ambiental&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Ao longo de toda a programação da 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais Silvestre...</excerpt:encoded>
       <wp:post_id>1002</wp:post_id>
@@ -160,7 +166,7 @@ Ao longo de toda a programação da 15ª Conferência das Nações Unidas sobre 
     <item>
       <title>BB vai compensar emissões da COP15 no Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/bb-vai-compensar-emissoes-da-cop15-no-brasil-0</link>
-      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:01:54 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
       <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/bb-vai-compensar-emissoes-da-cop15-no-brasil-0#1003</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
@@ -180,7 +186,7 @@ O Banco do Brasil (BB) neutralizará as emissões de gases de efeito estufa gera
 &lt;p&gt;O Banco do Brasil informou que seus projetos ambientais já evitam a emissão de cerca de 3,6 milhões de toneladas de gases de efeito estufa por ano.&lt;/p&gt;
 &lt;p&gt;Além disso, a instituição apoia a preservação e recuperação de aproximadamente 1,4 milhão de hectares de áreas naturais, com meta de alcançar 2 milhões até 2030.&lt;/p&gt;
 &lt;p&gt;As iniciativas incluem ações como reflorestamento, agricultura de baixo carbono e geração de energia renovável, consideradas fundamentais para conter o avanço das mudanças climáticas.&lt;/p&gt;
-&lt;p&gt;Moraes mantém restrições na prisão domiciliar de Bolsonaro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/bb-vai-compensar-emissoes-da-cop15-no-brasil-0&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mestres das culturas tradicionais e populares são reconhecidos na CBO&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/bb-vai-compensar-emissoes-da-cop15-no-brasil-0&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 O Banco do Brasil (BB) neutralizará as emissões de gases de efeito estufa geradas pela 15ª Conferência das Partes d...</excerpt:encoded>
       <wp:post_id>1003</wp:post_id>
@@ -209,7 +215,7 @@ O Banco do Brasil (BB) neutralizará as emissões de gases de efeito estufa gera
     <item>
       <title>Caminhos da Reportagem aborda riscos do consumo de ultraprocessados</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/caminhos-da-reportagem-aborda-riscos-do-consumo-de-ultraprocessados</link>
-      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:01:54 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
       <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/caminhos-da-reportagem-aborda-riscos-do-consumo-de-ultraprocessados#1004</guid>
       <description>O consumo de ultraprocessados pelos brasileiros mais do que dobrou desde os anos de 1980, passando de 10% para 23% do total de calorias ingeridas na ...</description>
@@ -256,7 +262,7 @@ O Banco do Brasil (BB) neutralizará as emissões de gases de efeito estufa gera
     <item>
       <title>Caixa paga Bolsa Família a beneficiários com NIS de final 9</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-9</link>
-      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:01:54 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
       <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-9#1005</guid>
       <description>A Caixa Econômica Federal paga nesta segunda-feira (30) a parcela de março do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de...</description>
@@ -301,14 +307,14 @@ O Banco do Brasil (BB) neutralizará as emissões de gases de efeito estufa gera
       </wp:postmeta>
     </item>
     <item>
-      <title>COP15 termina em Campo Grande com mais 40 espécies protegidas</title>
+      <title>COP15 inclui mais 40 espécies em regras de proteção</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/cop15-termina-em-campo-grande-com-mais-40-especies-protegidas</link>
-      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:01:54 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
       <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/cop15-termina-em-campo-grande-com-mais-40-especies-protegidas#1006</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 A 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais Silvestres (COP15), em Campo Grande (MS),...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8WSL5F6xWN-QLnTzHBuJDb0UbVI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/28/_raf1252.jpg?itok=zCfeveOs&quot; alt=&quot;COP15 termina em Campo Grande com mais 40 espécies protegidas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8WSL5F6xWN-QLnTzHBuJDb0UbVI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/28/_raf1252.jpg?itok=zCfeveOs&quot; alt=&quot;COP15 inclui mais 40 espécies em regras de proteção&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
 &lt;p&gt;A 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais Silvestres (COP15), em Campo Grande (MS), terminou nesse domingo (29)com mais 40 espécies protegidas, 16 novas ações de cooperação internacional e 39 resoluções que deverão ser adotadas pelos132 países participantes, mais a União Europeia. Os resultados são inéditos.&lt;/p&gt;
 &lt;p&gt;Segundo o presidente da COP15, João Paulo Capobianco, a conferência foi considerada um sucesso tanto no avanço coletivo, quanto nas iniciativas lideradas pelo Brasil.&lt;/p&gt;
@@ -352,7 +358,7 @@ A 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais 
     <item>
       <title>Museu do Futebol lança audioguia em formato de programa de rádio</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/museu-do-futebol-lanca-audioguia-em-formato-de-programa-de-radio</link>
-      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:01:54 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
       <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/museu-do-futebol-lanca-audioguia-em-formato-de-programa-de-radio#1007</guid>
       <description>Aumentar a acessibilidade para pessoas com deficiência visual, com este objetivo o Museu de Futebol lançou oficialmente neste mês o audioguia “Futebo...</description>
@@ -361,15 +367,15 @@ A 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais 
 &lt;p&gt;O audioguia (que estava disponível desde o segundo semestre de 2025, mas que agora tem versões em inglês e espanhol) usa o formato de um programa de rádio, conduzido por dois âncoras (apresentadores) e uma repórter, que conduz todo o percurso expositivo.&lt;/p&gt;
 &lt;p&gt;“Desenvolvemos esse projeto com muito cuidado ao longo de dois anos e, durante o processo, percebemos que um programa de rádio poderia agregar um valor interessante à audiodescrição, pois é um meio de comunicação muito consumido pela pessoa com deficiência visual. E fomos além: trabalhamos para que esse material também pudesse atender a um público maior. A ideia é que as pessoas sem deficiência visual [exceto as pessoas com deficiência auditiva] ouçam a audiodescrição, achem interessante a experiência que propomos e compreendam um pouco mais como as pessoas com deficiência visual constroem as imagens com o recurso da audiodescrição. Nesse sentido é uma ampliação do entendimento do que pode ser esse recurso de acessibilidade”, afirma a audiodescritora e diretora da Inclusive Acessibilidade, Georgea Rodrigues.&lt;/p&gt;
 &lt;p&gt;Através da nova ferramenta oferecida pelo Museu do Futebol, os visitantes ficam sabendo de fatos marcantes de alguns dos maiores ídolos do futebol brasileiro. Dois exemplos são Pelé ou Marta. Sobre o Rei do Futebol é informado que ele se tornou verbete de dicionário. Já em relação à Rainha é dito que ela jogou descalça durante um bom período da vida e utilizou cabeças de boneca como bola em suas peladas em Alagoas.&lt;/p&gt;
-&lt;p&gt;Exposição na UFF relembra atos antidemocráticos de 8 de janeiro&lt;/p&gt;
-&lt;p&gt;Apesar da derrota, Carlo Ancelotti elogia atuação da Seleção Brasileira contra a França&lt;/p&gt;
+&lt;p&gt;Mestres das culturas tradicionais e populares são reconhecidos na CBO&lt;/p&gt;
+&lt;p&gt;Filho caçula de Thiago de Mello destaca o lado cancioneiro do poeta&lt;/p&gt;
 &lt;p&gt;Justiça libera uso de área protegida para garantir empréstimo ao BRB&lt;/p&gt;
+&lt;p&gt;STF marca para 8 de abril decisão sobre eleição para governador no Rio&lt;/p&gt;
+&lt;p&gt;Aeroportos da UE esperam filas de duas horas no controle de fronteira&lt;/p&gt;
+&lt;p&gt;Netanyahu garante acesso de patriarca latino ao Santo Sepulcro&lt;/p&gt;
 &lt;p&gt;Nova flotilha com destino a Gaza sai de Marselha na próxima semana&lt;/p&gt;
 &lt;p&gt;Pé-de-Meia: beneficiários nascidos em novembro e dezembro recebem hoje&lt;/p&gt;
-&lt;p&gt;Motor de avião explode e piloto faz pouso de emergência em São Paulo&lt;/p&gt;
-&lt;p&gt;COP15 em Campo Grande deixa legado de conscientização ambiental&lt;/p&gt;
-&lt;p&gt;BB vai compensar emissões da COP15 no Brasil&lt;/p&gt;
-&lt;p&gt;Caminhos da Reportagem aborda riscos do consumo de ultraprocessados&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/museu-do-futebol-lanca-audioguia-em-formato-de-programa-de-radio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Motor de avião explode e piloto faz pouso de emergência em São Paulo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/museu-do-futebol-lanca-audioguia-em-formato-de-programa-de-radio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Aumentar a acessibilidade para pessoas com deficiência visual, com este objetivo o Museu de Futebol lançou oficialmente neste mês o audioguia “Futebo...</excerpt:encoded>
       <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-29 19:39:00</wp:post_date>
@@ -397,7 +403,7 @@ A 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais 
     <item>
       <title>Caminhada do Silêncio em São Paulo denuncia violência de estado</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/caminhada-do-silencio-em-sao-paulo-denuncia-violencia-de-estado</link>
-      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:01:54 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
       <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/caminhada-do-silencio-em-sao-paulo-denuncia-violencia-de-estado#1008</guid>
       <description>São Paulo - A 6ª edição da Caminhada do Silêncio pelas Vítimas de Violência do Estado ocorreu neste domingo (29), na capital paulista. A concentração...</description>
@@ -444,7 +450,7 @@ A 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais 
     <item>
       <title>Dois homens morrem em queda de avião em Rio Claro, no sul fluminense</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/dois-homens-morrem-em-queda-de-aviao-em-rio-claro-no-sul-fluminense</link>
-      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 13:01:54 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
       <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/dois-homens-morrem-em-queda-de-aviao-em-rio-claro-no-sul-fluminense#1009</guid>
       <description>Dois homens morreram na manhã deste domingo (29) depois da queda de um avião de pequeno porte em Rio Claro, no Sul Fluminense.
@@ -455,9 +461,15 @@ Segundo o Corpo de Bom...</description>
 &lt;p&gt;Houve um princípio de incêndio em uma área de matagal, que foi controlado pelos bombeiros. A área foi isolada por equipes do 28º Batalhão da Polícia Militar de Volta Redonda, município próximo de Rio Claro, e peritos são aguardados no local.&lt;/p&gt;
 &lt;p&gt;Causas da queda do avião e identidades das vítimas ainda não são conhecidas.&lt;/p&gt;
 &lt;p&gt;A investigação sobre o acidente fica sob responsabilidade da Polícia Civil e do Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa).&lt;/p&gt;
-&lt;p&gt;Moraes mantém restrições na prisão domiciliar de Bolsonaro&lt;/p&gt;
-&lt;p&gt;Apesar da derrota, Carlo Ancelotti elogia atuação da Seleção Brasileira contra a França&lt;/p&gt;
-&lt;p&gt;Justiça libera uso de área protegida para garantir empréstimo ao BRB&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/dois-homens-morrem-em-queda-de-aviao-em-rio-claro-no-sul-fluminense&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mestres das culturas tradicionais e populares são reconhecidos na CBO&lt;/p&gt;
+&lt;p&gt;Filho caçula de Thiago de Mello destaca o lado cancioneiro do poeta&lt;/p&gt;
+&lt;p&gt;Justiça libera uso de área protegida para garantir empréstimo ao BRB&lt;/p&gt;
+&lt;p&gt;STF marca para 8 de abril decisão sobre eleição para governador no Rio&lt;/p&gt;
+&lt;p&gt;Aeroportos da UE esperam filas de duas horas no controle de fronteira&lt;/p&gt;
+&lt;p&gt;Netanyahu garante acesso de patriarca latino ao Santo Sepulcro&lt;/p&gt;
+&lt;p&gt;Nova flotilha com destino a Gaza sai de Marselha na próxima semana&lt;/p&gt;
+&lt;p&gt;Motor de avião explode e piloto faz pouso de emergência em São Paulo&lt;/p&gt;
+&lt;p&gt;Pé-de-Meia: beneficiários nascidos em novembro e dezembro recebem hoje&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/dois-homens-morrem-em-queda-de-aviao-em-rio-claro-no-sul-fluminense&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Dois homens morreram na manhã deste domingo (29) depois da queda de um avião de pequeno porte em Rio Claro, no Sul Fluminense.
 Segundo o Corpo de Bom...</excerpt:encoded>
       <wp:post_id>1009</wp:post_id>
