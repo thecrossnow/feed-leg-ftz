@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 30 Mar 2026 10:10:06 +0000</pubDate>
+    <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,28 +22,356 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Motor de avião explode e piloto faz pouso de emergência em São Paulo</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/motor-de-aviao-explode-e-piloto-faz-pouso-de-emergencia-em-sao-paulo</link>
+      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/motor-de-aviao-explode-e-piloto-faz-pouso-de-emergencia-em-sao-paulo#1000</guid>
+      <description>O motor do Airbus A330-300, da DeltaAirlines, explodiu momentos após a decolagem do Aeroporto de Guarulhos, em São Paulo, na noite desse domingo (29)...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Motor de avião explode e piloto faz pouso de emergência em São Paulo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O motor do Airbus A330-300, da DeltaAirlines, explodiu momentos após a decolagem do Aeroporto de Guarulhos, em São Paulo, na noite desse domingo (29). O piloto teve de fazer um pouso de emergência. Ninguém ficou ferido.&lt;/p&gt;
+&lt;p&gt;O voo tinha como destino a cidade de Atlanta, no estado da Georgia, nos Estados Unidos. Devido ao cancelamento da viagem, outros voos tiveram de ser cancelados.&lt;/p&gt;
+&lt;p&gt;O Corpo de Bombeiros do aeroporto foi acionado e o avião conseguiu pousar em segurança.&lt;/p&gt;
+&lt;p&gt;Segundo nota da companhia aérea, “o voo 104 da Delta, de São Paulo para Atlanta, retornou ao aeroporto logo após a decolagem após um problema mecânico no motor esquerdo da aeronave. Os passageiros foram levados de ônibus até o terminal. A segurança de nossos clientes e da tripulação é nossa maior prioridade. Pedimos desculpas aso nossos clientes por esse atraso em suas viagens”.&lt;/p&gt;
+&lt;p&gt;A aeronave levava 272 passageiros e 14 tripulantes.&lt;/p&gt;
+&lt;p&gt;Moraes mantém restrições na prisão domiciliar de Bolsonaro&lt;/p&gt;
+&lt;p&gt;Apesar da derrota, Carlo Ancelotti elogia atuação da Seleção Brasileira contra a França&lt;/p&gt;
+&lt;p&gt;Justiça libera uso de área protegida para garantir empréstimo ao BRB&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/motor-de-aviao-explode-e-piloto-faz-pouso-de-emergencia-em-sao-paulo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O motor do Airbus A330-300, da DeltaAirlines, explodiu momentos após a decolagem do Aeroporto de Guarulhos, em São Paulo, na noite desse domingo (29)...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-30 08:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-30 08:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-30 08:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-30 08:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Pé-de-Meia: beneficiários nascidos em novembro e dezembro recebem hoje</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-novembro-e-dezembro-recebem-hoje</link>
+      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-novembro-e-dezembro-recebem-hoje#1001</guid>
+      <description>Os estudantes beneficiados pelo programa Pé-de-Meia de 2026, que nasceram nos meses de novembro e dezembro, recebem nesta segunda-feira (30) a primei...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/aTOT1LRU0WxULe-sAC2WHGjaCHw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/19/0d4a4629_0.jpg?itok=z0Xje7dk&quot; alt=&quot;Pé-de-Meia: beneficiários nascidos em novembro e dezembro recebem hoje&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Os estudantes beneficiados pelo programa Pé-de-Meia de 2026, que nasceram nos meses de novembro e dezembro, recebem nesta segunda-feira (30) a primeira parcela referente ao incentivo-matrícula.&lt;/p&gt;
+&lt;p&gt;O valor de R$ 200 será creditado em conta poupançaCaixa Tem, aberta automaticamente pela Caixa Econômica Federal em nome dos estudantes participantes.&lt;/p&gt;
+&lt;p&gt;A parcela é depositada conforme o mês de nascimento dos estudantes de 14 a 24 anos, que cumprem os requisitos do Pé-de-Meia.&lt;/p&gt;
+&lt;p&gt;Confira o calendário de pagamentos:&lt;/p&gt;
+&lt;p&gt;· Nascidos em janeiro e fevereiro: receberam em 23 de março;&lt;/p&gt;
+&lt;p&gt;· em março e abril: receberam em 24 de março;&lt;/p&gt;
+&lt;p&gt;· em maio e junho: receberam em 25 de março;&lt;/p&gt;
+&lt;p&gt;· em julho e agosto: receberam em 26 de março;&lt;/p&gt;
+&lt;p&gt;· em setembro e outubro: receberam em 27 de março;&lt;/p&gt;
+&lt;p&gt;· em novembro e dezembro: receberam nesta segunda-feira (30);&lt;/p&gt;
+&lt;p&gt;O Pé-de-Meia funciona como uma poupança para incentivar a permanência de jovens nos estudos até a conclusão do ensino médio. Cerca de 3,6 milhões de estudantes receberão o incentivo-matrícula de 2026.&lt;/p&gt;
+&lt;p&gt;A participação no Pé-de-Meia ocorre de forma automática para os estudantes matriculados na rede pública de saúde e com inscrições ativas no Cadastro Único (CadÚnico). Em 2026, é preciso ter cadastro ativo até a data-base de 7 de agosto de 2026. Também é preciso ter renda familiar de até meio salário mínimo por pessoa.&lt;/p&gt;
+&lt;p&gt;O Ministério da Educação (MEC) é o responsável por verificar se o jovem pode participar do programa federal a partir dos dados do CadÚnico.&lt;/p&gt;
+&lt;p&gt;Neste mês, o MEC também paga o incentivo-conclusão aos participantes do Pé-de-Meia que deixaram de receber na data regular porque as redes de ensino não tinham enviado as informações no prazo anterior estabelecido pelo programa.&lt;/p&gt;
+&lt;p&gt;O valor de R$ 1 mil do incentivo conclusão é referente à aprovação em cada ano letivo do ensino médio, mas somente pode ser sacado após a aprovação no terceiro ano.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/pe-de-meia-beneficiarios-nascidos-em-novembro-e-dezembro-recebem-hoje&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Os estudantes beneficiados pelo programa Pé-de-Meia de 2026, que nasceram nos meses de novembro e dezembro, recebem nesta segunda-feira (30) a primei...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-30 08:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-30 08:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-30 08:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-30 08:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/aTOT1LRU0WxULe-sAC2WHGjaCHw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/19/0d4a4629_0.jpg?itok=z0Xje7dk</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>COP15 em Campo Grande deixa legado de conscientização ambiental</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/cop15-em-campo-grande-deixa-legado-de-conscientizacao-ambiental</link>
+      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/cop15-em-campo-grande-deixa-legado-de-conscientizacao-ambiental#1002</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+Ao longo de toda a programação da 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais Silvestre...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0UTCGf4mfVd2eLNVVkcI3UYckAc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/28/_raf1175.jpg?itok=6Ex3oqe0&quot; alt=&quot;COP15 em Campo Grande deixa legado de conscientização ambiental&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Ao longo de toda a programação da 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais Silvestres (COP15), em Campo Grande, encerrada neste domingo (29), a Casa do Homem Pantaneiro recebeu uma agenda paralela de atividades gratuitas abertas ao público: a Conexão sem Fronteiras.&lt;/p&gt;
+&lt;p&gt;Com o mesmo tema do encontro global, as atividades movimentaram o antigo prédio no Parque das Nações Indígenas, restaurado para estender os debates da conferência para além da Zona Azul destinada aos credenciados.&lt;/p&gt;
+&lt;p&gt;Apresentação de iniciativas, exposições e atividades educativas despertaram a curiosidade sobre os ciclos e caminhos percorridos pelas espécies que migram através dos biomas brasileiros.&lt;/p&gt;
+&lt;p&gt;“Faz a gente refletir que muitas das aves que a gente tem no nosso território passavam despercebidas. Muitas vezes são aves migratórias que a gente não tinha notado, não tinha essa noção”, diz o estudante de agroecologia da Universidade Estadual de Mato Grosso do Sul (Uems), Luiz Henrique Kinikinau,&lt;/p&gt;
+&lt;p&gt;A professora da rede municipal de Campo Grande, Adriana Suzuki, considerou fundamental a recuperação de um espaço público para a finalidade educativa. Embora pratique observação de pássaros, ela pouco sabia da existência de uma conferência das Nações Unidas para conservação de espécies migratórias antes do anúncio de que a capital sul-mato-grossense seria a sede da COP15.&lt;/p&gt;
+&lt;p&gt;Quando soube da programação viu uma oportunidade de conhecer mais sobre o assunto e multiplicar o conhecimento. “Então, eu vim estabelecer parcerias a fim de desenvolver projetos, transformar o que a gente vai aprender aqui hoje em processos pedagógicos”, disse.&lt;/p&gt;
+&lt;p&gt;A secretária Nacional de Biodiversidade, Rita Mesquita, em entrevista à imprensa no encerramento da COP15, considerou que a iniciativa promovida pelo Ministério do Meio Ambiente e Mudança do Clima cumpriu um importante papel de mostrar todo o potencial da Casa do Homem Pantaneiro de ser um espaço democrático de divulgação da ciência.&lt;/p&gt;
+&lt;p&gt;“A gente ficou muito satisfeito com os resultados e com a grande receptividade de todos que foram lá visitar”, afirmou.&lt;/p&gt;
+&lt;p&gt;A secretária lembrou ainda que a&lt;/p&gt;
+&lt;p&gt;conferência deixa outros legados como o Bosque da COP15&lt;/p&gt;
+&lt;p&gt;– um espaço verde urbano - e a construção de mais conhecimento sobre o tema, com o lançamento de um edital de pesquisa para fomentar estudos sobre espécies e rotas migratórias, que será publicado por meio do Ministério da Ciência, Tecnologia e Inovação e direcionado aos pesquisadores, universidades e centros de pesquisa brasileiros.&lt;/p&gt;
+&lt;p&gt;“É pensar que a gente está aqui construindo alguma coisa também para olhar para o futuro e ter um legado para a cidade. Isso foi muito bacana e foi um esforço compartilhado, integrado por todos os níveis, entes, com muitas parcerias”, completou.&lt;/p&gt;
+&lt;p&gt;*A equipe viajou a convite do Ministério do Meio Ambiente&lt;/p&gt;
+&lt;p&gt;Exposição na UFF relembra atos antidemocráticos de 8 de janeiro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/cop15-em-campo-grande-deixa-legado-de-conscientizacao-ambiental&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+Ao longo de toda a programação da 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais Silvestre...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-30 07:44:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-30 07:44:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-30 07:44:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-30 07:44:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/0UTCGf4mfVd2eLNVVkcI3UYckAc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/28/_raf1175.jpg?itok=6Ex3oqe0</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>BB vai compensar emissões da COP15 no Brasil</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/bb-vai-compensar-emissoes-da-cop15-no-brasil-0</link>
+      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/bb-vai-compensar-emissoes-da-cop15-no-brasil-0#1003</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+O Banco do Brasil (BB) neutralizará as emissões de gases de efeito estufa geradas pela 15ª Conferência das Partes d...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/l1WoGio_gLf27BfBBLIAxhzVVII=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/28/_raf0612.jpg?itok=h2nsr5Ag&quot; alt=&quot;BB vai compensar emissões da COP15 no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Banco do Brasil (BB) neutralizará as emissões de gases de efeito estufa geradas pela 15ª Conferência das Partes da Convenção sobre Espécies Migratórias de Animais Silvestres (COP15). O encontro terminou nesse domingo (29), em Campo Grande. A iniciativa reforça o papel da instituição na agenda climática e na preservação ambiental.&lt;/p&gt;
+&lt;p&gt;Organizado pelo Ministério do Meio Ambiente e Mudança do Clima, o evento reuniucerca de 2 mil participantes de diferentes países, incluindo representantes de governos, cientistas e organizações da sociedade civil. O objetivo foidiscutir ações globais para proteger espécies migratórias e seus habitats.&lt;/p&gt;
+&lt;p&gt;A estimativa é que a conferência gere entre 2,5 mil e 3 mil toneladas de emissões de carbono. O cálculo considera fatores como transporte dos participantes, consumo de energia e estrutura&lt;/p&gt;
+&lt;p&gt;Para compensar esse impacto ambiental, o banco utilizará créditos de carbono provenientes de projetos de energia renovável, garantindo que o volume total de emissões seja neutralizado.&lt;/p&gt;
+&lt;p&gt;A neutralização de carbono é um processo que busca equilibrar as emissões de gases poluentes com ações que removem ou evitam a liberação desses gases na atmosfera.&lt;/p&gt;
+&lt;p&gt;Na prática, isso significa que, para cada tonelada de carbono emitida, é investido em projetos que reduzem a mesma quantidade, como energia solar, reflorestamento ou captura de gases.&lt;/p&gt;
+&lt;p&gt;No caso da COP15, a compensação será feita por meio de créditos certificados dentro do sistema da Convenção-Quadro das Nações Unidas sobre Mudança do Clima.&lt;/p&gt;
+&lt;p&gt;Esses créditos vêm de projetos de energia solar financiados ou apoiados pelo Banco do Brasil, que evitam a emissão de gases de efeito estufa ao substituir fontes poluentes.&lt;/p&gt;
+&lt;p&gt;As espécies migratórias, como aves, peixes e mamíferos, dependem de rotas naturais que podem ser afetadas pelas mudanças climáticas. Alterações no clima impactam diretamente esses trajetos e a sobrevivência dos animais.&lt;/p&gt;
+&lt;p&gt;Por isso, informou o BB, reduzir e compensar emissões em eventos internacionais é visto como uma forma de alinhar discurso e prática na luta contra o aquecimento global&lt;/p&gt;
+&lt;p&gt;O Banco do Brasil informou que seus projetos ambientais já evitam a emissão de cerca de 3,6 milhões de toneladas de gases de efeito estufa por ano.&lt;/p&gt;
+&lt;p&gt;Além disso, a instituição apoia a preservação e recuperação de aproximadamente 1,4 milhão de hectares de áreas naturais, com meta de alcançar 2 milhões até 2030.&lt;/p&gt;
+&lt;p&gt;As iniciativas incluem ações como reflorestamento, agricultura de baixo carbono e geração de energia renovável, consideradas fundamentais para conter o avanço das mudanças climáticas.&lt;/p&gt;
+&lt;p&gt;Moraes mantém restrições na prisão domiciliar de Bolsonaro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/bb-vai-compensar-emissoes-da-cop15-no-brasil-0&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+O Banco do Brasil (BB) neutralizará as emissões de gases de efeito estufa geradas pela 15ª Conferência das Partes d...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-30 07:39:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-30 07:39:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-30 07:39:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-30 07:39:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/l1WoGio_gLf27BfBBLIAxhzVVII=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/28/_raf0612.jpg?itok=h2nsr5Ag</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Caminhos da Reportagem aborda riscos do consumo de ultraprocessados</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/caminhos-da-reportagem-aborda-riscos-do-consumo-de-ultraprocessados</link>
+      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/caminhos-da-reportagem-aborda-riscos-do-consumo-de-ultraprocessados#1004</guid>
+      <description>O consumo de ultraprocessados pelos brasileiros mais do que dobrou desde os anos de 1980, passando de 10% para 23% do total de calorias ingeridas na ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vXgJOSuhSq0q83Qvpm7ArBjytzM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/28/ultraprocessados_3.jpg?itok=FSdJukis&quot; alt=&quot;Caminhos da Reportagem aborda riscos do consumo de ultraprocessados&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O consumo de ultraprocessados pelos brasileiros mais do que dobrou desde os anos de 1980, passando de 10% para 23% do total de calorias ingeridas na alimentação.&lt;/p&gt;
+&lt;p&gt;Um fenômeno que não acontece apenas no Brasil. Dados internacionais foram publicados em uma série de artigos na revista científica&lt;/p&gt;
+&lt;p&gt;por mais de 40 pesquisadores do mundo todo, liderados por cientistas da Universidade de São Paulo (USP).&lt;/p&gt;
+&lt;p&gt;Foi justamente na USP que o conceito de ultraprocessados foi criado. Naquele momento, em 2009, o pesquisador Carlos Monteiro, do Núcleo de Pesquisas Epidemiológicas em Nutrição e Saúde (Nupens), estava preocupado com o aumento de obesidade, sobrepeso e doenças crônicas associadas ao consumo de alimentos com alto nível de processamento.&lt;/p&gt;
+&lt;p&gt;O pesquisador e sua equipe, então, desenvolveram a classificação NOVA, que organiza os alimentos em quatro grupos: (1) alimentos&lt;/p&gt;
+&lt;p&gt;ou minimamente processados, como frutas, arroz ensacado, feijão ensacado; (2) ingredientes culinários processados, como azeite, manteiga, sal; (3) alimentos processados, a exemplo de milho em lata, sardinha em lata, pão de padaria; e (4) alimentos e bebidas ultraprocessados, como bolachas recheadas, achocolatados de caixinha, refrigerantes e bebidas açucaradas.&lt;/p&gt;
+&lt;p&gt;De acordo com Carlos Monteiro, antes da classificação NOVA, as explicações para o aumento de obesidade, sobrepeso e doenças crônicas eram muito relacionadas à escolha individual das pessoas. Segundo ele, era como se as pessoas comessem muito açúcar, sal e muita gordura por um “defeito de força de vontade”.&lt;/p&gt;
+&lt;p&gt;“Não existe uma epidemia de falta de força de vontade, as pessoas são as mesmas. O que mudou foi o sistema alimentar. O sistema alimentar hoje é muito não saudável e acaba estimulando as pessoas a quase compulsoriamente consumir alimentos ultraprocessados”, afirma o pesquisador.&lt;/p&gt;
+&lt;p&gt;Ultraprocessados na Mesa dos Brasileiros&lt;/p&gt;
+&lt;p&gt;nesta segunda-feira (30), a partir das 23h, na TV Brasil&lt;/p&gt;
+&lt;p&gt;. O programa apresenta como e por que foi criado o conceito de ultraprocessado, explica como identificar se um produto é resultado de alto nível de processamento e discute as consequências sociais e para a saúde do consumo desses produtos.&lt;/p&gt;
+&lt;p&gt;Também serão apresentados exemplos de quem mudou hábitos alimentares com foco em diminuir o consumo desses produtos e de uma escola em Águas Lindas de Goiás que investe em comida de verdade e em educação, como parte do Programa Nacional de Alimentação Escolar, uma política pública mundialmente reconhecida.&lt;/p&gt;
+&lt;p&gt;Um levantamento conduzido pela Fiocruz Brasília e pelo Nupens indica que o consumo de produtos ultraprocessados é responsável por um custo de mais de R$ 10 bilhões à saúde e à economia no Brasil.&lt;/p&gt;
+&lt;p&gt;Segundo o pesquisador Eduardo Nilson, da Fiocruz Brasília, estudos mostraram que até 57 mil mortes ao ano poderiam ser evitadas se o consumo de ultraprocessados fosse eliminado.&lt;/p&gt;
+&lt;p&gt;Estudos como esse são um alerta e preocupam cientistas brasileiros, organizações da sociedade civil e todos que defendem “comida de verdade” e reivindicam uma política fiscal mais agressiva para os produtos ultraprocessados. A última reforma tributária foi publicada em dezembro de 2023, mas a transição começou neste ano de 2026 e vai até 2033.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/caminhos-da-reportagem-aborda-riscos-do-consumo-de-ultraprocessados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O consumo de ultraprocessados pelos brasileiros mais do que dobrou desde os anos de 1980, passando de 10% para 23% do total de calorias ingeridas na ...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-03-30 07:32:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-30 07:32:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-30 07:32:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-30 07:32:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/vXgJOSuhSq0q83Qvpm7ArBjytzM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/28/ultraprocessados_3.jpg?itok=FSdJukis</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Caixa paga Bolsa Família a beneficiários com NIS de final 9</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-9</link>
+      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-9#1005</guid>
+      <description>A Caixa Econômica Federal paga nesta segunda-feira (30) a parcela de março do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5C5tIWKwLzqG6fBZvP8Z4ZkOzn4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53627965394_380dd5f870_o.jpg?itok=Ezd0K5wE&quot; alt=&quot;Caixa paga Bolsa Família a beneficiários com NIS de final 9&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Caixa Econômica Federal paga nesta segunda-feira (30) a parcela de março do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 9.&lt;/p&gt;
+&lt;p&gt;O valor mínimo corresponde a R$ 600, mas com o novo adicional o valor médio do benefício sobe para R$ 683,75. Segundo o Ministério do Desenvolvimento e Assistência Social,&lt;/p&gt;
+&lt;p&gt;neste mês o programa de transferência de renda do Governo Federal alcançará 18,73 milhões de famílias, com gasto de R$ 12,77 bilhões.&lt;/p&gt;
+&lt;p&gt;Além do benefício mínimo, há o pagamento de três adicionais. O Benefício Variável Familiar Nutriz paga seis parcelas de R$ 50 a mães de bebês de até seis meses de idade, para garantir a alimentação da criança. O Bolsa Família também paga um acréscimo de R$ 50 a gestantes e nutrizes (mães que amamentam), um de R$ 50 a cada filho de 7 a 18 anos e outro, de R$ 150, a cada criança de até 6 anos.&lt;/p&gt;
+&lt;p&gt;No modelo tradicional do Bolsa Família, o pagamento ocorre nos últimos dez dias úteis de cada mês. O&lt;/p&gt;
+&lt;p&gt;beneficiário poderá consultar informações sobre as datas de pagamento, o valor do benefício e a composição das parcelas no aplicativo Caixa Tem, usado para acompanhar as contas poupança digitais do banco.&lt;/p&gt;
+&lt;p&gt;Os beneficiários de 171 cidades de nove estados receberam o pagamento no último dia 18, independentemente do NIS.&lt;/p&gt;
+&lt;p&gt;A medida beneficiou os moradores de 126 municípios do Rio Grande do Norte, que sofrem com a seca, e os moradores de Juiz de Fora, Ubá, Patrocínio do Muriaé e Formiga, em Minas Gerais, afetados por enchentes.&lt;/p&gt;
+&lt;p&gt;Também foram beneficiadas cidades nos seguintes estados: Amazonas (3), Bahia (17), Paraná (1), Piauí (1), Rio de Janeiro (4), Roraima (6) e Sergipe (9).&lt;/p&gt;
+&lt;p&gt;Essas localidades foram afetadas por chuvas ou por estiagens ou têm povos indígenas em situação de vulnerabilidade. A&lt;/p&gt;
+&lt;p&gt;com pagamento antecipado está disponível na página do Ministério do Desenvolvimento e Assistência Social.&lt;/p&gt;
+&lt;p&gt;Desde 2024, os beneficiários do Bolsa Família não têm mais o desconto do Seguro Defeso. A mudança foi estabelecida pela&lt;/p&gt;
+&lt;p&gt;, que resgatou o Programa Bolsa Família (PBF). O Seguro Defeso é pago a pessoas que sobrevivem exclusivamente da pesca artesanal e que não podem exercer a atividade durante o período da piracema (reprodução dos peixes).&lt;/p&gt;
+&lt;p&gt;Cerca de 2,35milhões de famílias estão na regra de proteção em março. Essa regra permite que famílias cujos membros consigam emprego e melhorem a renda recebam 50% do benefício a que teriam direito por até dois anos, desde que cada integrante receba o equivalente a até meio salário mínimo. Neste mês, o benefício médio para elas está em R$ 368,97.&lt;/p&gt;
+&lt;p&gt;, o tempo de permanência na regra de proteção foi reduzido de dois para um ano. No entanto, a mudança só abrange as famílias que entraram na fase de transição a partir de junho de 2025. Quem se enquadrou na regra até maio de 2025 continuará a receber metade do benefício por dois anos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-9&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Caixa Econômica Federal paga nesta segunda-feira (30) a parcela de março do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-03-30 07:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-30 07:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-30 07:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-30 07:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/5C5tIWKwLzqG6fBZvP8Z4ZkOzn4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53627965394_380dd5f870_o.jpg?itok=Ezd0K5wE</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>COP15 termina em Campo Grande com mais 40 espécies protegidas</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/cop15-termina-em-campo-grande-com-mais-40-especies-protegidas</link>
+      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/cop15-termina-em-campo-grande-com-mais-40-especies-protegidas#1006</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+A 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais Silvestres (COP15), em Campo Grande (MS),...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8WSL5F6xWN-QLnTzHBuJDb0UbVI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/28/_raf1252.jpg?itok=zCfeveOs&quot; alt=&quot;COP15 termina em Campo Grande com mais 40 espécies protegidas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;A 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais Silvestres (COP15), em Campo Grande (MS), terminou nesse domingo (29)com mais 40 espécies protegidas, 16 novas ações de cooperação internacional e 39 resoluções que deverão ser adotadas pelos132 países participantes, mais a União Europeia. Os resultados são inéditos.&lt;/p&gt;
+&lt;p&gt;Segundo o presidente da COP15, João Paulo Capobianco, a conferência foi considerada um sucesso tanto no avanço coletivo, quanto nas iniciativas lideradas pelo Brasil.&lt;/p&gt;
+&lt;p&gt;“Nós trouxemos 60 negociadores. Os maiores especialistas em aves, répteis, mamíferos, insetos Todos muito envolvidos nos debates que ocorreram ao longo da semana”, afirmou.&lt;/p&gt;
+&lt;p&gt;Foram aprovadas seis das sete propostas brasileiras de inclusão de espécies nos Anexo I (espécies ameaçadas de extinção) e Anexo II (espécies que demandam esforços internacionais de conservação) da Convenção de Espécies Migratórias de Animais Silvestres (CMS, na sigla em inglês).&lt;/p&gt;
+&lt;p&gt;As aves maçarico-de-bico-torto e maçarico-de-bico-virado foram listadas no Anexo I. O peixe pintado, o tubarão cação-cola-fina e a ave caboclinho-do-pantanal entraram para o Anexo II e as aves petréis serão incluídas nas duas listas.&lt;/p&gt;
+&lt;p&gt;A única proposta brasileira que foi retirada das negociações foi a de incluir o tubarão cação-anjo-espinhoso no Anexo II, sob a condição de acordo para uma ação conjunta entre Brasil, Argentina e Uruguai a fim dereavaliar a situação da espécie&lt;/p&gt;
+&lt;p&gt;. “Havia uma controvérsia se a espécie estava ou não em risco, ou algum tipo de ameaça”, explica Capobianco.&lt;/p&gt;
+&lt;p&gt;Outras iniciativas apoiadas pelo Brasil, mas lideradas por outros países, como a proposta francesa de inclusão da ariranha nos dois anexos da CMS, também tiveram êxito.&lt;/p&gt;
+&lt;p&gt;Das 42 propostas globais para ajustes nas&lt;/p&gt;
+&lt;p&gt;do tratado internacional, também não foi acordada a retirada do cervo-de-Bokhara, uma espécie asiática que mesmo tendo apresentado melhorana população, ainda permanecerá protegida por mais alguns anos, até nova avaliação.&lt;/p&gt;
+&lt;p&gt;“Hoje a gente ainda tem 400 espécies no mundo que fazem migração, não estão em nenhuma lista e tem sido um esforço gradativo, para cada vez mais, a gente conseguir a proteção dessas espécies. Conseguimos avançar em 10%. Em nenhuma outra COP houveum número tão representativo”, acrescentou o presidente do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), Rodrigo Agostinho.&lt;/p&gt;
+&lt;p&gt;Entre as 16 ações de cooperação internacional, também foram aprovadas propostas brasileiras como o Plano de Ação para a Conservação dos&lt;/p&gt;
+&lt;p&gt;Grandes Bagres Migratórios Amazônicos&lt;/p&gt;
+&lt;p&gt;eas ações de cooperação para a conservação do tubarão-mangona e do tubarão-peregrino.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-03/cop15-termina-em-campo-grande-com-mais-40-especies-protegidas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+A 15ª Conferência das Nações Unidas sobre Espécies Migratórias de Animais Silvestres (COP15), em Campo Grande (MS),...</excerpt:encoded>
+      <wp:post_id>1006</wp:post_id>
+      <wp:post_date>2026-03-30 06:55:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-30 06:55:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-30 06:55:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-30 06:55:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/8WSL5F6xWN-QLnTzHBuJDb0UbVI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/28/_raf1252.jpg?itok=zCfeveOs</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Museu do Futebol lança audioguia em formato de programa de rádio</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/museu-do-futebol-lanca-audioguia-em-formato-de-programa-de-radio</link>
-      <pubDate>Mon, 30 Mar 2026 10:10:06 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/museu-do-futebol-lanca-audioguia-em-formato-de-programa-de-radio#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/museu-do-futebol-lanca-audioguia-em-formato-de-programa-de-radio#1007</guid>
       <description>Aumentar a acessibilidade para pessoas com deficiência visual, com este objetivo o Museu de Futebol lançou oficialmente neste mês o audioguia “Futebo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1ojXnOXlozSSLpn9oX61nqnLahM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/30/museu_futebol_13.jpg?itok=URZKvtpr&quot; alt=&quot;Museu do Futebol lança audioguia em formato de programa de rádio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Aumentar a acessibilidade para pessoas com deficiência visual, com este objetivo o Museu de Futebol lançou oficialmente neste mês o audioguia “Futebol é Mais”, um projeto inédito e inovador de audiodescrição dramatúrgica da nova exposição principal da instituição.&lt;/p&gt;
 &lt;p&gt;O audioguia (que estava disponível desde o segundo semestre de 2025, mas que agora tem versões em inglês e espanhol) usa o formato de um programa de rádio, conduzido por dois âncoras (apresentadores) e uma repórter, que conduz todo o percurso expositivo.&lt;/p&gt;
 &lt;p&gt;“Desenvolvemos esse projeto com muito cuidado ao longo de dois anos e, durante o processo, percebemos que um programa de rádio poderia agregar um valor interessante à audiodescrição, pois é um meio de comunicação muito consumido pela pessoa com deficiência visual. E fomos além: trabalhamos para que esse material também pudesse atender a um público maior. A ideia é que as pessoas sem deficiência visual [exceto as pessoas com deficiência auditiva] ouçam a audiodescrição, achem interessante a experiência que propomos e compreendam um pouco mais como as pessoas com deficiência visual constroem as imagens com o recurso da audiodescrição. Nesse sentido é uma ampliação do entendimento do que pode ser esse recurso de acessibilidade”, afirma a audiodescritora e diretora da Inclusive Acessibilidade, Georgea Rodrigues.&lt;/p&gt;
 &lt;p&gt;Através da nova ferramenta oferecida pelo Museu do Futebol, os visitantes ficam sabendo de fatos marcantes de alguns dos maiores ídolos do futebol brasileiro. Dois exemplos são Pelé ou Marta. Sobre o Rei do Futebol é informado que ele se tornou verbete de dicionário. Já em relação à Rainha é dito que ela jogou descalça durante um bom período da vida e utilizou cabeças de boneca como bola em suas peladas em Alagoas.&lt;/p&gt;
-&lt;p&gt;Zanin anula condenação de Anthony Garotinho em caso de compra de votos&lt;/p&gt;
+&lt;p&gt;Exposição na UFF relembra atos antidemocráticos de 8 de janeiro&lt;/p&gt;
 &lt;p&gt;Apesar da derrota, Carlo Ancelotti elogia atuação da Seleção Brasileira contra a França&lt;/p&gt;
 &lt;p&gt;Justiça libera uso de área protegida para garantir empréstimo ao BRB&lt;/p&gt;
-&lt;p&gt;Museu do Futebol lança audioguia em formato de programa de rádio&lt;/p&gt;
-&lt;p&gt;Caminhada do Silêncio em São Paulo denuncia violência de estado&lt;/p&gt;
-&lt;p&gt;Netanyahu manda ampliar operações no Sul do Líbano&lt;/p&gt;
-&lt;p&gt;Dois homens morrem em queda de avião em Rio Claro, no sul fluminense&lt;/p&gt;
-&lt;p&gt;Brasil critica Israel por proibir religiosos no Santo Sepulcro&lt;/p&gt;
-&lt;p&gt;Carlo Ancelotti testa mudanças para enfrentar a Croácia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/museu-do-futebol-lanca-audioguia-em-formato-de-programa-de-radio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Nova flotilha com destino a Gaza sai de Marselha na próxima semana&lt;/p&gt;
+&lt;p&gt;Pé-de-Meia: beneficiários nascidos em novembro e dezembro recebem hoje&lt;/p&gt;
+&lt;p&gt;Motor de avião explode e piloto faz pouso de emergência em São Paulo&lt;/p&gt;
+&lt;p&gt;COP15 em Campo Grande deixa legado de conscientização ambiental&lt;/p&gt;
+&lt;p&gt;BB vai compensar emissões da COP15 no Brasil&lt;/p&gt;
+&lt;p&gt;Caminhos da Reportagem aborda riscos do consumo de ultraprocessados&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/museu-do-futebol-lanca-audioguia-em-formato-de-programa-de-radio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Aumentar a acessibilidade para pessoas com deficiência visual, com este objetivo o Museu de Futebol lançou oficialmente neste mês o audioguia “Futebo...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-29 19:39:00</wp:post_date>
       <wp:post_date_gmt>2026-03-29 19:39:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-29 19:39:00</wp:post_modified>
@@ -69,9 +397,9 @@
     <item>
       <title>Caminhada do Silêncio em São Paulo denuncia violência de estado</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/caminhada-do-silencio-em-sao-paulo-denuncia-violencia-de-estado</link>
-      <pubDate>Mon, 30 Mar 2026 10:10:06 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/caminhada-do-silencio-em-sao-paulo-denuncia-violencia-de-estado#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/caminhada-do-silencio-em-sao-paulo-denuncia-violencia-de-estado#1008</guid>
       <description>São Paulo - A 6ª edição da Caminhada do Silêncio pelas Vítimas de Violência do Estado ocorreu neste domingo (29), na capital paulista. A concentração...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2RZ_utGJzTaCJ_n8F95LFXABn98=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/29/_int7251.jpg?itok=IbP12Hu1&quot; alt=&quot;Caminhada do Silêncio em São Paulo denuncia violência de estado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;São Paulo - A 6ª edição da Caminhada do Silêncio pelas Vítimas de Violência do Estado ocorreu neste domingo (29), na capital paulista. A concentração foi, a partir das 16h, em frente ao antigo prédio do DOI-Codi/SP, na rua Tutóia, onde funcionava um dos principais centros de repressão e tortura da ditadura militar brasileira (1964-1985).&lt;/p&gt;
@@ -90,7 +418,7 @@
 &lt;p&gt;Saímos de um lugar marcado pela dor, o antigo DOI-Codi, onde o Estado torturou, matou e tentou apagar histórias. E seguimos até um monumento que insiste em lembrar: as histórias não foram apagadas.&lt;/p&gt;
 &lt;p&gt;Nossos mortos não estão no passado. Nossos desaparecidos não são ausência.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/caminhada-do-silencio-em-sao-paulo-denuncia-violencia-de-estado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>São Paulo - A 6ª edição da Caminhada do Silêncio pelas Vítimas de Violência do Estado ocorreu neste domingo (29), na capital paulista. A concentração...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-29 18:29:00</wp:post_date>
       <wp:post_date_gmt>2026-03-29 18:29:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-29 18:29:00</wp:post_modified>
@@ -116,9 +444,9 @@
     <item>
       <title>Dois homens morrem em queda de avião em Rio Claro, no sul fluminense</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/dois-homens-morrem-em-queda-de-aviao-em-rio-claro-no-sul-fluminense</link>
-      <pubDate>Mon, 30 Mar 2026 10:10:06 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 11:51:08 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/dois-homens-morrem-em-queda-de-aviao-em-rio-claro-no-sul-fluminense#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/dois-homens-morrem-em-queda-de-aviao-em-rio-claro-no-sul-fluminense#1009</guid>
       <description>Dois homens morreram na manhã deste domingo (29) depois da queda de um avião de pequeno porte em Rio Claro, no Sul Fluminense.
 Segundo o Corpo de Bom...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Dois homens morrem em queda de avião em Rio Claro, no sul fluminense&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -127,18 +455,12 @@ Segundo o Corpo de Bom...</description>
 &lt;p&gt;Houve um princípio de incêndio em uma área de matagal, que foi controlado pelos bombeiros. A área foi isolada por equipes do 28º Batalhão da Polícia Militar de Volta Redonda, município próximo de Rio Claro, e peritos são aguardados no local.&lt;/p&gt;
 &lt;p&gt;Causas da queda do avião e identidades das vítimas ainda não são conhecidas.&lt;/p&gt;
 &lt;p&gt;A investigação sobre o acidente fica sob responsabilidade da Polícia Civil e do Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa).&lt;/p&gt;
-&lt;p&gt;Zanin anula condenação de Anthony Garotinho em caso de compra de votos&lt;/p&gt;
+&lt;p&gt;Moraes mantém restrições na prisão domiciliar de Bolsonaro&lt;/p&gt;
 &lt;p&gt;Apesar da derrota, Carlo Ancelotti elogia atuação da Seleção Brasileira contra a França&lt;/p&gt;
-&lt;p&gt;Justiça libera uso de área protegida para garantir empréstimo ao BRB&lt;/p&gt;
-&lt;p&gt;Museu do Futebol lança audioguia em formato de programa de rádio&lt;/p&gt;
-&lt;p&gt;Caminhada do Silêncio em São Paulo denuncia violência de estado&lt;/p&gt;
-&lt;p&gt;Netanyahu manda ampliar operações no Sul do Líbano&lt;/p&gt;
-&lt;p&gt;Dois homens morrem em queda de avião em Rio Claro, no sul fluminense&lt;/p&gt;
-&lt;p&gt;Brasil critica Israel por proibir religiosos no Santo Sepulcro&lt;/p&gt;
-&lt;p&gt;Carlo Ancelotti testa mudanças para enfrentar a Croácia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/dois-homens-morrem-em-queda-de-aviao-em-rio-claro-no-sul-fluminense&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Justiça libera uso de área protegida para garantir empréstimo ao BRB&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/dois-homens-morrem-em-queda-de-aviao-em-rio-claro-no-sul-fluminense&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Dois homens morreram na manhã deste domingo (29) depois da queda de um avião de pequeno porte em Rio Claro, no Sul Fluminense.
 Segundo o Corpo de Bom...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-29 17:29:00</wp:post_date>
       <wp:post_date_gmt>2026-03-29 17:29:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-29 17:29:00</wp:post_modified>
@@ -159,351 +481,6 @@ Segundo o Corpo de Bom...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Brasil critica Israel por proibir religiosos no Santo Sepulcro</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/brasil-critica-israel-por-proibir-religiosos-igreja-santo-sepulcro</link>
-      <pubDate>Mon, 30 Mar 2026 10:10:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/brasil-critica-israel-por-proibir-religiosos-igreja-santo-sepulcro#1003</guid>
-      <description>© Fabio Rodrigues Pozzebom/Agência Brasil
-O Brasil condenou neste domingo (29), a ação da polícia de Israel que impediu o acesso de dois religiosos c...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/p7jAqE9xDHtogIa2lPWy8DCEEbQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pzzb1916_0.jpg?itok=_-3gRphf&quot; alt=&quot;Brasil critica Israel por proibir religiosos no Santo Sepulcro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fabio Rodrigues Pozzebom/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O Brasil condenou neste domingo (29), a ação da polícia de Israel que impediu o acesso de dois religiosos católicosà Igreja do Santo Sepulcro, em Jerusalém Oriental, neste Domingo (29) de Ramos.&lt;/p&gt;
-&lt;p&gt;O Patriarca Latino de Jerusalém cardeal Pierbattista Pizzaballa, e o Custódio da Terra Santa, Monsenhor Francesco Ielpo,celebrariam a missa de hoje, mas&lt;/p&gt;
-&lt;p&gt;foram barrados no trajeto enquanto&lt;/p&gt;
-&lt;p&gt;seguiam de forma privada, sem caráter de procissão, ao local onde os cristãos acreditam que Jesus foi crucificado e ressuscitou ao terceiro dia.&lt;/p&gt;
-&lt;p&gt;O Santo Sepulcro é um dos lugares mais sagrados do cristianismo. O Domingo de Ramos marca o início da Semana Santa, quando Jesus voltou do deserto e entrou em Jerusalém, aclamado pelo povo com ramos de palmeira.&lt;/p&gt;
-&lt;p&gt;Em nota à imprensa, o Ministério das Relações Exteriores (MRE) do Brasil lembrou que as restrições da polícia israelense vem ocorrendo ao longo das últimas semanas e afetam também a Esplanada das Mesquitas, que recebe fiéis muçulmanos, durante o mês sagrado do Ramadã, marcado por jejum, orações e caridade.&lt;/p&gt;
-&lt;p&gt;O governo brasileiro recordou o parecer consultivo da Corte Internacional de Justiça de 19 de julho de 2024 que concluiu que a continuada presença de Israel no Território Palestino Ocupado é ilícita.&lt;/p&gt;
-&lt;p&gt;“Aquele país [Israel] não está habilitado a exercer soberania em nenhuma parte do Território Palestino Ocupado, incluindo Jerusalém Oriental”,frisa a nota do Ministério das Relações Exteriores.&lt;/p&gt;
-&lt;p&gt;O Itamaraty classificou as ações recentes como de &quot;extrema gravidade&quot; e contrárias ao&lt;/p&gt;
-&lt;p&gt;histórico dos locais sagrados em Jerusalém e ao princípio da liberdade de culto.&lt;/p&gt;
-&lt;p&gt;Clique aqui e confira a íntegra da nota.&lt;/p&gt;
-&lt;p&gt;Zanin anula condenação de Anthony Garotinho em caso de compra de votos&lt;/p&gt;
-&lt;p&gt;Apesar da derrota, Carlo Ancelotti elogia atuação da Seleção Brasileira contra a França&lt;/p&gt;
-&lt;p&gt;Justiça libera uso de área protegida para garantir empréstimo ao BRB&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/brasil-critica-israel-por-proibir-religiosos-igreja-santo-sepulcro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fabio Rodrigues Pozzebom/Agência Brasil
-O Brasil condenou neste domingo (29), a ação da polícia de Israel que impediu o acesso de dois religiosos c...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
-      <wp:post_date>2026-03-29 17:09:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-29 17:09:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-29 17:09:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-29 17:09:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/p7jAqE9xDHtogIa2lPWy8DCEEbQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pzzb1916_0.jpg?itok=_-3gRphf</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Carlo Ancelotti testa mudanças para enfrentar a Croácia</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/carlo-ancelotti-testa-mudancas-para-enfrentar-croacia</link>
-      <pubDate>Mon, 30 Mar 2026 10:10:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/carlo-ancelotti-testa-mudancas-para-enfrentar-croacia#1004</guid>
-      <description>© Rafael Ribeiro/CBF/Drieitos Reservados
-O técnico italiano Carlo Ancelotti comandou neste domingo (29) um treino de preparação para o amistoso contr...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/7Blf54LLZ9mrPzrB7o0mn7UezX4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/29/treino_selecao_24_03_2026_masculino_24032026_1_ac287674db.jpg?itok=vSYSRIZI&quot; alt=&quot;Carlo Ancelotti testa mudanças para enfrentar a Croácia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafael Ribeiro/CBF/Drieitos Reservados&lt;/p&gt;
-&lt;p&gt;O técnico italiano Carlo Ancelotti comandou neste domingo (29) um treino de preparação para o amistoso contra a Croácia. A atividade contou com a participação de todos os jogadores, inclusive do atacante Vinicius Júnior, que foi poupado da atividade do último sábado (28) por causa de dores na coxa.&lt;/p&gt;
-&lt;p&gt;Após ser derrotado pela França por 2 a 1 na última quinta-feira (26), o Brasil volta a entrar em ação na próxima terça-feira (31), quando enfrentará a Croácia no Camping World Stadium, em Orlando, a partir das 21h (horário de Brasília).&lt;/p&gt;
-&lt;p&gt;Na atividade deste domingo Ancelotti fez algumas experiências, em busca de substitutos para o atacante Raphinha e o lateral Wesley, cortados por problemas musculares sofridos no jogo contra a França. Luiz Henrique ganhou uma oportunidade na vaga do jogador do Barcelona, enquanto Ibañez apareceu na lateral direita. Outras mudanças foram a entrada de Marquinhos na zaga, de Danilo no meio-campo e de João Pedro no ataque.&lt;/p&gt;
-&lt;p&gt;Desta forma, o técnico Ancelotti formou a equipe titular da seguinte forma: Ederson; Ibañez, Marquinhos, Léo Pereira e Douglas Santos; Casemiro e Danilo; Luiz Henrique, Matheus Cunha, João Pedro e Vinicius Júnior.&lt;/p&gt;
-&lt;p&gt;Após o amistoso com a Croácia, o Brasil ainda terá dois compromissos antes do início da Copa do Mundo. O primeiro será um jogo de despedida da torcida brasileira. A seleção enfrentará o Panamá no dia 31 de maio no estádio do Maracanã, no Rio de Janeiro. Por fim, no dia 6 de junho, uma semana antes da estreia do Brasil no Mundial, a seleção enfrenta o Egito em seu último amistoso antes da estreia. A partida será disputada no Huntington Bank Field, em Cleveland.&lt;/p&gt;
-&lt;p&gt;O Brasil está no Grupo C do Mundial de 2026. A estreia será contra Marrocos, no dia 13 de junho no MetLife Stadium, em Nova Jersey, às 19h (horário de Brasília). Na segunda rodada, o Brasil encara o Haiti no Lincoln Financial Field, na Filadélfia, às 22h. Já o encerramento da primeira fase está marcado para o dia 24 de junho, contra a Escócia, no Hard Rock Stadium, em Miami, às 19h.&lt;/p&gt;
-&lt;p&gt;Zanin anula condenação de Anthony Garotinho em caso de compra de votos&lt;/p&gt;
-&lt;p&gt;Apesar da derrota, Carlo Ancelotti elogia atuação da Seleção Brasileira contra a França&lt;/p&gt;
-&lt;p&gt;Justiça libera uso de área protegida para garantir empréstimo ao BRB&lt;/p&gt;
-&lt;p&gt;COP15 termina em Campo Grande com mais 40 espécies protegidas&lt;/p&gt;
-&lt;p&gt;Museu do Futebol lança audioguia em formato de programa de rádio&lt;/p&gt;
-&lt;p&gt;Caminhada do Silêncio em São Paulo denuncia violência de estado&lt;/p&gt;
-&lt;p&gt;Netanyahu manda ampliar operações no Sul do Líbano&lt;/p&gt;
-&lt;p&gt;Dois homens morrem em queda de avião em Rio Claro, no sul fluminense&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/carlo-ancelotti-testa-mudancas-para-enfrentar-croacia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafael Ribeiro/CBF/Drieitos Reservados
-O técnico italiano Carlo Ancelotti comandou neste domingo (29) um treino de preparação para o amistoso contr...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-03-29 15:53:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-29 15:53:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-29 15:53:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-29 15:53:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/7Blf54LLZ9mrPzrB7o0mn7UezX4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/29/treino_selecao_24_03_2026_masculino_24032026_1_ac287674db.jpg?itok=vSYSRIZI</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Plataforma do MEC facilita volta de jovens e adultos ao ensino público</title>
-      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/plataforma-do-mec-facilita-volta-de-jovens-e-adultos-ao-ensino-publico</link>
-      <pubDate>Mon, 30 Mar 2026 10:10:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/plataforma-do-mec-facilita-volta-de-jovens-e-adultos-ao-ensino-publico#1005</guid>
-      <description>© Geovana Albuquerque/Agência Brasília
-Qualquer pessoa com 15 anos ou mais que deseje concluir os estudos poderá registrar um pedido de matrícula na ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/TDz1GCBTIi7p7cQANEmvkYWBNK4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/03/53627074762_1f76bd9eae_o.jpg?itok=1ohmoWWq&quot; alt=&quot;Plataforma do MEC facilita volta de jovens e adultos ao ensino público&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Geovana Albuquerque/Agência Brasília&lt;/p&gt;
-&lt;p&gt;Qualquer pessoa com 15 anos ou mais que deseje concluir os estudos poderá registrar um pedido de matrícula na plataforma&lt;/p&gt;
-&lt;p&gt;Cadastro da Educação de Jovens e Adultos&lt;/p&gt;
-&lt;p&gt;(CadEJA), lançada pelo Ministério da Educação (MEC) neste sábado (28), durante o&lt;/p&gt;
-&lt;p&gt;O novo sistema do governo federal registra informações sobre a oferta de turmas e a demanda por matrículas para Educação de Jovens e Adultos na rede pública de ensino básico em todo o país.&lt;/p&gt;
-&lt;p&gt;O objetivo do MEC é facilitar o processo de matrícula escolar, a partir da mobilização das secretarias de educação para atender as demandas.&lt;/p&gt;
-&lt;p&gt;Para quem quer iniciar os estudos ou voltar a estudar, o Cadastro da Educação de Jovens e Adultos(CadEJA) tem duas formas de inscrição.&lt;/p&gt;
-&lt;p&gt;As pessoas que conseguem ler e escrever devem se inscrever pelo&lt;/p&gt;
-&lt;p&gt;com nome completo, número do CPF, data de nascimento, um número de telefone ou WhatsApp com DDD ou outra forma de contato, como o&lt;/p&gt;
-&lt;p&gt;ou telefone de parente ou vizinho.&lt;/p&gt;
-&lt;p&gt;Para a ferramenta filtrar a escola mais próxima e a melhor turma, primeiramente, os jovens e adultos devem escolher a unidade da federação, o município e obairro onde desejam estudar e o turno – se manhã, tarde ou noite&lt;/p&gt;
-&lt;p&gt;Na penúltima etapa, o internauta precisa marcar a opção de quando parou de estudar: antes de aprender a ler e escrever; no ensino fundamental; ou no ensino médio (antigo segundo grau).&lt;/p&gt;
-&lt;p&gt;No final, o futuro estudante deve indicar situações especiais, como estar inscrito no Cadastro Único para Programas Sociais do governo federal (CadÚnico) e/ou ser uma pessoa com deficiência (PCD).&lt;/p&gt;
-&lt;p&gt;Depois de fazer a inscrição, o cidadão recebe um número de protocolo e deve aguardar o contato da Secretaria de Educação local com oferta de EJA no bairro escolhido.&lt;/p&gt;
-&lt;p&gt;Com a sinalização de existência da vaga pela rede públicade ensino, basta a pessoa realizar a matrícula para voltar a estudar.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/plataforma-do-mec-facilita-volta-de-jovens-e-adultos-ao-ensino-publico&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Geovana Albuquerque/Agência Brasília
-Qualquer pessoa com 15 anos ou mais que deseje concluir os estudos poderá registrar um pedido de matrícula na ...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-03-29 14:12:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-29 14:12:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-29 14:12:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-29 14:12:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/TDz1GCBTIi7p7cQANEmvkYWBNK4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/03/53627074762_1f76bd9eae_o.jpg?itok=1ohmoWWq</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Uma aposta leva sozinha prêmio de R$ 37 milhões da Mega-Sena</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/uma-aposta-leva-sozinha-premio-de-r-37-milhoes-da-mega-sena</link>
-      <pubDate>Mon, 30 Mar 2026 10:10:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/uma-aposta-leva-sozinha-premio-de-r-37-milhoes-da-mega-sena#1006</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-Uma única aposta acertou as seis dezenas do concurso 2.990 da Mega-Sena, sorteado na noite deste sábado (28). O gan...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iMnJ7QbN8LggBB2qCkwm6mQBy40=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_183531.jpg?itok=gE1Ie902&quot; alt=&quot;Uma aposta leva sozinha prêmio de R$ 37 milhões da Mega-Sena&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Uma única aposta acertou as seis dezenas do concurso 2.990 da Mega-Sena, sorteado na noite deste sábado (28). O ganhador vai levar o prêmio de R$ 37.983.331.&lt;/p&gt;
-&lt;p&gt;Os números sorteados foram: 06 -14 -18 - 29 - 30 - 44&lt;/p&gt;
-&lt;p&gt;Quarenta e cinco apostas acertaram cinco números e cada uma delas recebe R$ 48.264.&lt;/p&gt;
-&lt;p&gt;Já a quadra teve 3.814 apostas vencedoras, que recebem prêmio de R$ 938, cada.&lt;/p&gt;
-&lt;p&gt;O próximo concurso ocorre no dia 31 de março e a estimativa do prêmio é de R$ 3,5 milhões. As apostas podem ser feitas até as 20h do dia 31, em qualquer casa lotérica do país ou&lt;/p&gt;
-&lt;p&gt;A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;Zanin anula condenação de Anthony Garotinho em caso de compra de votos&lt;/p&gt;
-&lt;p&gt;Apesar da derrota, Carlo Ancelotti elogia atuação da Seleção Brasileira contra a França&lt;/p&gt;
-&lt;p&gt;Justiça libera uso de área protegida para garantir empréstimo ao BRB&lt;/p&gt;
-&lt;p&gt;Museu do Futebol lança audioguia em formato de programa de rádio&lt;/p&gt;
-&lt;p&gt;Caminhada do Silêncio em São Paulo denuncia violência de estado&lt;/p&gt;
-&lt;p&gt;Netanyahu manda ampliar operações no Sul do Líbano&lt;/p&gt;
-&lt;p&gt;Dois homens morrem em queda de avião em Rio Claro, no sul fluminense&lt;/p&gt;
-&lt;p&gt;Brasil critica Israel por proibir religiosos no Santo Sepulcro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/uma-aposta-leva-sozinha-premio-de-r-37-milhoes-da-mega-sena&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-Uma única aposta acertou as seis dezenas do concurso 2.990 da Mega-Sena, sorteado na noite deste sábado (28). O gan...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-29 13:32:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-29 13:32:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-29 13:32:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-29 13:32:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/iMnJ7QbN8LggBB2qCkwm6mQBy40=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_183531.jpg?itok=gE1Ie902</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>ECA digital e julgamento nos EUA contribuem para internet mais segura</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/eca-digital-e-julgamento-nos-eua-deixam-internet-mais-segura</link>
-      <pubDate>Mon, 30 Mar 2026 10:10:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/eca-digital-e-julgamento-nos-eua-deixam-internet-mais-segura#1007</guid>
-      <description>© Marcello Casal jr/Agência Brasil
-Ações ocorridas neste mês de março de 2026 podem ter contribuído para mudar a história da Internet e, sem ferir a ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6V_PnIOBnhZ4bftmz-ImkI1DURs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/aplicativo_0410211422.jpg?itok=RW6Om7dw&quot; alt=&quot;ECA digital e julgamento nos EUA contribuem para internet mais segura&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal jr/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Ações ocorridas neste mês de março de 2026 podem ter contribuído para mudar a história da Internet e, sem ferir a proclamada “liberdade de expressão”, torná-la um ambiente mais apropriado e seguro, especialmente para menores de idade.&lt;/p&gt;
-&lt;p&gt;No último dia 24, um júri em Santa Fe, capital do Novo México, no sudeste dos Estados Unidos, entendeu que a Meta, dona do Facebook, Instagram e WhatsApp, deve ser responsabilizada por não adotar medidas para que crianças e adolescentes não sejam expostos a conteúdos inapropriados em suas redes sociais, inclusive de abuso sexual por adultos.&lt;/p&gt;
-&lt;p&gt;A condenação obrigará a Meta a pagar aproximadamente US$ 375 milhões como pena à coletividade.&lt;/p&gt;
-&lt;p&gt;Um dia depois, a cerca de 1,3 mil quilômetros de Santa Fe,&lt;/p&gt;
-&lt;p&gt;um outro júri em Los Angeles, na Califórnia, decidiu que plataformas da Meta e do Google (YouTube)&lt;/p&gt;
-&lt;p&gt;foram projetadas para viciar seus usuários&lt;/p&gt;
-&lt;p&gt;Para o júri, mecanismos que disparam “gatilhos emocionais” – como a rolagem infinita, notificações constantes, reprodução instantânea de vídeos, recompensas intermitentes como as “curtidas” – tiveram o condão de fazer com que uma jovem de cerca de 20 anos, identificada apenas como Kaley, sofresse de depressão na adolescência, com pensamentos suicidas, e desenvolvesse uma preocupação obsessiva com sua aparência física. Esse comportamento é chamado de Transtorno Dismórfico Corporal (TDC).&lt;/p&gt;
-&lt;p&gt;Condenadas, as duas big techs do Vale do Silício, também na Califórnia, terão de pagar um total de US$ 6 milhões em indenização à Kaley.&lt;/p&gt;
-&lt;p&gt;Para especialistas brasileiros ouvidos pela&lt;/p&gt;
-&lt;p&gt;, as decisões na justiça estadunidense podem ter repercussão global e vêm ao encontro do lançamento do ECA Digital (&lt;/p&gt;
-&lt;p&gt;), que entrou em vigor no último dia 17 e&lt;/p&gt;
-&lt;p&gt;foi regulamentado no dia seguinte&lt;/p&gt;
-&lt;p&gt;, assinado pelo presidente Luiz Inácio Lula da Silva.&lt;/p&gt;
-&lt;p&gt;“Os casos nos Estados Unidos e o ECA Digital têm uma convergência muito grande em relação a esse olhar sobre a saúde dos usuários [da internet] crianças e adolescentes”, reconhece Maria Góes de Mello, coordenadora do programa Criança e Consumo, do Instituto Alana, que enxerga na lei brasileira e nas recentes decisões dos EUA “ferramentas poderosas” para evitar e combater vícios nas redes sociais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/eca-digital-e-julgamento-nos-eua-deixam-internet-mais-segura&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal jr/Agência Brasil
-Ações ocorridas neste mês de março de 2026 podem ter contribuído para mudar a história da Internet e, sem ferir a ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-29 13:15:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-29 13:15:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-29 13:15:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-29 13:15:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/6V_PnIOBnhZ4bftmz-ImkI1DURs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/aplicativo_0410211422.jpg?itok=RW6Om7dw</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Moraes nega livre acesso de filhos de Bolsonaro à prisão domiciliar</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-nega-livre-acesso-de-filhos-de-bolsonaro-prisao-domiciliar</link>
-      <pubDate>Mon, 30 Mar 2026 10:10:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-nega-livre-acesso-de-filhos-de-bolsonaro-prisao-domiciliar#1008</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-O ministro do Supremo Tribunal Federal (STF),
-Alexandre de Moraes, negou neste sábado (28) um pedido da defesa de Ja...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ivAG88XhPMZcNe8wZIqO1B9B-tw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/27/mcm_2698.jpg.jpeg?itok=CJHk9Axx&quot; alt=&quot;Moraes nega livre acesso de filhos de Bolsonaro à prisão domiciliar&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O ministro do Supremo Tribunal Federal (STF),&lt;/p&gt;
-&lt;p&gt;Alexandre de Moraes, negou neste sábado (28) um pedido da defesa de Jair Bolsonaro de revisão dos horários restritos de visitação e de concessão de &quot;livre acesso&quot; aos filhos do ex-presidente&lt;/p&gt;
-&lt;p&gt;que não moram na residência onde o ex-presidente cumpre pena, no Lago Sul, bairro de Brasília. Desde sexta-feira (27), Bolsonaro está em prisão domiciliar temporária.&lt;/p&gt;
-&lt;p&gt;Na última terça-feira (24), o ministro Moares&lt;/p&gt;
-&lt;p&gt;concedeu prisão domiciliar humanitária&lt;/p&gt;
-&lt;p&gt;temporária ao ex-presidente,atendendo a um pedido da defesa que alegava que ele não teria condições de voltar a cumprir pena na penitenciária Papudinha, devido ao agravamento de seus problemas de saúde.&lt;/p&gt;
-&lt;p&gt;Na decisão de ontem, no âmbito da&lt;/p&gt;
-&lt;p&gt;ministro Alexandre de Moraes esclarece que a prisão domiciliar concedida representa “uma medida excepcionalíssima&lt;/p&gt;
-&lt;p&gt;fundamentada exclusivamente em razões de saúde, para substituir o recolhimento em estabelecimento prisional.”&lt;/p&gt;
-&lt;p&gt;O ministro da Corte acrescenta que o custodiado continua sujeito às regras e restrições inerentes ao regime fechado, ainda que esteja em seu domicílio.&lt;/p&gt;
-&lt;p&gt;“Importante destacar que tal concessão não implicou alteração do regime de cumprimento de pena, que permanece sendo o fechado, conforme fixado no título executivo judicial transitado em julgado.”&lt;/p&gt;
-&lt;p&gt;O despacho mantém a autorização de visitas permanentes de seus filhos Flávio Nantes Bolsonaro, Carlos Nantes Bolsonaro e Jair Renan Bolsonaro às quartas-feiras e sábados, em um dos seguintes horários: de 8h às 10h, 11h às 13h e 14h às 16h.&lt;/p&gt;
-&lt;p&gt;Para a esposa de Jair Bolsonaro, Michelle Bolsonaro, a filha do casal e a enteada, que residem na mesma casa, o acesso é livre.&lt;/p&gt;
-&lt;p&gt;Inicialmente, a prisão domiciliar do ex-presidente Jair Bolsonaro tem duração de 90 dias. A manutenção do benefício deverá ser reanalisada pelo ministro, que poderá solicitar nova perícia médica.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/moraes-nega-livre-acesso-de-filhos-de-bolsonaro-prisao-domiciliar&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-O ministro do Supremo Tribunal Federal (STF),
-Alexandre de Moraes, negou neste sábado (28) um pedido da defesa de Ja...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-29 12:27:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-29 12:27:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-29 12:27:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-29 12:27:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/ivAG88XhPMZcNe8wZIqO1B9B-tw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/27/mcm_2698.jpg.jpeg?itok=CJHk9Axx</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Pesquisa alerta para adolescentes ainda desprotegidos contra o HPV</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/pesquisa-alerta-para-adolescentes-ainda-desprotegidos-contra-o-hpv</link>
-      <pubDate>Mon, 30 Mar 2026 10:10:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/pesquisa-alerta-para-adolescentes-ainda-desprotegidos-contra-o-hpv#1009</guid>
-      <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-O Sistema Único de Saúde oferece um método seguro para a prevenção de vários tipos de câncer: a vacina con...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hnO6P04LYznosJSgTzkMapqX-rU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/18/pzzb7912.jpg?itok=fyLpjlqA&quot; alt=&quot;Pesquisa alerta para adolescentes ainda desprotegidos contra o HPV&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fabio Rodrigues-Pozzebom/ Agência Brasil&lt;/p&gt;
-&lt;p&gt;O Sistema Único de Saúde oferece um método seguro para a prevenção de vários tipos de câncer: a vacina contra o HPV. Mas, para alcançar a sua máxima eficiência, essa precaução precisa ser tomada no final da infância ou início da adolescência, o que não acontece para boa parte do público-alvo.&lt;/p&gt;
-&lt;p&gt;A Pesquisa Nacional de Saúde do Escolar (PeNSE), divulgada pelo Instituto Brasileiro de Geografia e Estatística (IBGE) na última quarta-feira (25), mostra que apenas 54,9% dos estudantes, com idades entre 13 e 17 anos, tinham certeza de que foram vacinados contra o HPV, sigla para papilomavírus humano.&lt;/p&gt;
-&lt;p&gt;Esse vírus é responsável por 99% dos casos de câncer de colo do útero e por boa parte dos tumores de ânus, pênis, boca e garganta.&lt;/p&gt;
-&lt;p&gt;A vacina que previne contra o HPVestá disponível em todas as unidades de saúde do Brasil, e deve ser tomada por meninas e meninos, entre 9 e 14 anos.&lt;/p&gt;
-&lt;p&gt;Essa faixa etária foi definida porque o vírusé transmitido principalmente por via sexual, e a vacina é mais eficaz se for tomada antes da primeira relação.&lt;/p&gt;
-&lt;p&gt;Apesar disso, 10,4% dos estudantes entrevistados pelo IBGE ainda não estavam vacinados e 34,6% não sabiam se tinham recebido a vacina ou não.&lt;/p&gt;
-&lt;p&gt;Isso representa quase 1,3 milhão de adolescentes desprotegidos, e outros 4,2 milhões potencialmente vulneráveis à infecção.&lt;/p&gt;
-&lt;p&gt;A mesma pesquisa identificou que 30,4% dos estudantes de 13 a 17 anos já tinham vida sexual ativa, e que a idade média de iniciação sexual foi de 13,3 anos para os meninos e de 14,3 anos para as meninas.&lt;/p&gt;
-&lt;p&gt;Os dados foram coletados pelo IBGE em 2024e mostram ainda que a porcentagem de estudantes que se vacinaram caiu 8 pontos percentuaisna comparação com a edição anterior da pesquisa, de 2019.&lt;/p&gt;
-&lt;p&gt;Apesar de uma proporção maior de meninas ter se vacinado ─ 59,5%, contra 50,3% dos meninos ─a queda da cobertura vacinal entre elas foi ainda mais expressiva, de 16,6 pontos.&lt;/p&gt;
-&lt;p&gt;Considerando apenas os estudantes que não se vacinaram, metade deles alegou não saber que precisava tomar a vacina. Para a diretora da Sociedade Brasileira de Imunizações Isabela Balallai, isso prova como a falta de informação tem sido preponderante.&lt;/p&gt;
-&lt;p&gt;&quot;Todo mundo acha que a hesitação vacinal se resume às&lt;/p&gt;
-&lt;p&gt;mas não é isso. A desinformação é só uma das coisas que causam a hesitação vacinal. As outras são a falta de acesso, a baixa percepção do risco da doença e a falta de informação. E isso é um problema máximo no Brasil. Muitas pessoas não sabem quando têm que se vacinar e quais as vacinas disponíveis&quot;.&lt;/p&gt;
-&lt;p&gt;Outros motivos foram apontados, mas em proporção bem menor:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/pesquisa-alerta-para-adolescentes-ainda-desprotegidos-contra-o-hpv&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-O Sistema Único de Saúde oferece um método seguro para a prevenção de vários tipos de câncer: a vacina con...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-29 11:21:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-29 11:21:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-29 11:21:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-29 11:21:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/hnO6P04LYznosJSgTzkMapqX-rU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/18/pzzb7912.jpg?itok=fyLpjlqA</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
