@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
+    <pubDate>Tue, 31 Mar 2026 14:40:57 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,301 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>MEC divulga lista de espera do Prouni para bolsas do ensino superior</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-divulga-lista-de-espera-do-prouni-para-bolsas-do-ensino-superior</link>
+      <pubDate>Tue, 31 Mar 2026 14:40:57 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-divulga-lista-de-espera-do-prouni-para-bolsas-do-ensino-superior#1000</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+O Ministério da Educação (MEC) divulgou nesta terça-feira (31) o resultado da lista de espera do Programa Universid...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6JUDtv2-pdzewKVdyvQtthmJ-O0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230627_123947_0.jpg?itok=ffZX2ziA&quot; alt=&quot;MEC divulga lista de espera do Prouni para bolsas do ensino superior&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Ministério da Educação (MEC) divulgou nesta terça-feira (31) o resultado da lista de espera do Programa Universidade para Todos (Prouni) no primeiro semestre.&lt;/p&gt;
+&lt;p&gt;Portal Único de Acesso ao Ensino Superior&lt;/p&gt;
+&lt;p&gt;na parte do Prouni. Para acessar, é preciso digitar o login e senha da conta Gov.br.&lt;/p&gt;
+&lt;p&gt;A iniciativa federal oferece bolsas de estudo integrais e parciais (50% do valor da mensalidade) em cursos de graduação e sequenciais de formação específica, em instituições privadas.&lt;/p&gt;
+&lt;p&gt;Todas as informações sobre as regras do processo seletivo estão no&lt;/p&gt;
+&lt;p&gt;Os pré-selecionados terão até 10 de abril para enviar a documentação necessária àcomprovação das informações declaradas na inscrição.&lt;/p&gt;
+&lt;p&gt;Os estudantes poderão comparecer às instituições de ensino superior para entregar presencialmente a documentação ou encaminhá-la por meio virtual definido pela faculdade privada.&lt;/p&gt;
+&lt;p&gt;Neste ano, estão sendo ofertadas 595.374 bolsas,em 895 cursos de 1.046 instituições privadas de ensino superior de todo o país.&lt;/p&gt;
+&lt;p&gt;A edição de 2026 é a maior da história do Prouni,que ocorre há 22 anos.&lt;/p&gt;
+&lt;p&gt;O requisito para ter a bolsa integral do programa é comprovar a renda familiar menor ou igual a um salário-mínimo e meio por pessoa. Para a bolsa parcial (50%), a renda familiar não pode ultrapassar três salários mínimos por pessoa.&lt;/p&gt;
+&lt;p&gt;Índice de inflação da indústria caiu 0,25% em fevereiro&lt;/p&gt;
+&lt;p&gt;Alô Alô Brasil desta terça-feira (31) atualiza informações sobre a guerra no Irã e sobre jogo do Brasil&lt;/p&gt;
+&lt;p&gt;Cientista brasileiro Carlos Nobre é nomeado conselheiro do Vaticano&lt;/p&gt;
+&lt;p&gt;Política Nacional das Artes quer ampliar acesso e direito da população&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-03/mec-divulga-lista-de-espera-do-prouni-para-bolsas-do-ensino-superior&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+O Ministério da Educação (MEC) divulgou nesta terça-feira (31) o resultado da lista de espera do Programa Universid...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-31 10:32:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-31 10:32:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-31 10:32:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-31 10:32:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/6JUDtv2-pdzewKVdyvQtthmJ-O0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230627_123947_0.jpg?itok=ffZX2ziA</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Medicamentos podem ter reajuste de até 3,81% a partir desta terça</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/medicamentos-podem-ter-reajuste-de-ate-381-partir-desta-terca</link>
+      <pubDate>Tue, 31 Mar 2026 14:40:57 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/medicamentos-podem-ter-reajuste-de-ate-381-partir-desta-terca#1001</guid>
+      <description>Medicamentos vendidos no Brasil podem ter o preço reajustado em até 3,81% a partir desta terça-feira (31), conforme estabelecido em
+pela Câmara de Re...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/tpEdkWsTmE4IZrUk5MwSOfVB7mI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/31/_mg_8153.jpg?itok=CT-783aA&quot; alt=&quot;Medicamentos podem ter reajuste de até 3,81% a partir desta terça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Medicamentos vendidos no Brasil podem ter o preço reajustado em até 3,81% a partir desta terça-feira (31), conforme estabelecido em&lt;/p&gt;
+&lt;p&gt;pela Câmara de Regulação do Mercado de Medicamentos (Cmed).&lt;/p&gt;
+&lt;p&gt;O texto prevê três níveis máximos de reajuste aplicáveis a diferentes grupos de medicamentos, conforme a competitividade de cada categoria:&lt;/p&gt;
+&lt;p&gt;3,81% para medicamentos com concorrência;&lt;/p&gt;
+&lt;p&gt;2,47% para medicamentos de média concorrência;&lt;/p&gt;
+&lt;p&gt;1,13% para medicamentos de pouca ou nenhuma concorrência.&lt;/p&gt;
+&lt;p&gt;Algumas categorias não se encaixam nesses critérios, como fitoterápicos, homeopáticos e determinados medicamentos isentos de prescrição com alta concorrência no mercado, que possuem regras específicas dentro do sistema de regulação de preços.&lt;/p&gt;
+&lt;p&gt;Em nota, a Agência Nacional de Vigilância Sanitária (Anvisa) destacou que o reajuste médio permitido por lei ficará em até 2,47%, o menor dos últimos 20 anos e abaixo da inflação acumulada dos últimos 12 meses, de 3,81%&lt;/p&gt;
+&lt;p&gt;“A redução consecutiva do índice desde 2023 é fruto da política de combate à inflação e reforça a importância da regulação para proteger o consumidor de preços abusivos. Nos anos anteriores, houve um aumento expressivo do percentual, ultrapassando 10%.”&lt;/p&gt;
+&lt;p&gt;A Anvisa destaca que os aumentos não são automáticos. “Na prática, fabricantes e farmácias podem aplicar reajustes inferiores ou até manter os preços atuais, dependendo das condições do setor e do nível de concorrência entre as empresas”.&lt;/p&gt;
+&lt;p&gt;“A regulação econômica dos medicamentos no Brasil garante a proteção do consumidor e, ao mesmo tempo, busca a sustentabilidade do setor para a continuidade do fornecimento de medicamentos no país.”&lt;/p&gt;
+&lt;p&gt;O reajuste dos preços de medicamentos é feito uma vez ao ano e segue uma fórmula regulatória que parte da inflação medida pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) e desconta o ganho de produtividade da indústria.&lt;/p&gt;
+&lt;p&gt;A Cmed é o órgão federal responsável pela regulação econômica do mercado farmacêutico no Brasil e estabelece critérios para a fixação e o reajuste dos preços de medicamentos, com o objetivo de estimular a concorrência e garantir o acesso da população aos produtos.&lt;/p&gt;
+&lt;p&gt;A câmara de regulação é composta pelo Ministério da Saúde, pela Casa Civil e pelos Ministérios da Justiça e Segurança Pública, da Fazenda e do Desenvolvimento, Indústria, Comércio e Serviços. A Anvisa, por sua vez, exerce a função de secretaria executiva, fornecendo suporte técnico às decisões.&lt;/p&gt;
+&lt;p&gt;Índice de inflação da indústria caiu 0,25% em fevereiro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/medicamentos-podem-ter-reajuste-de-ate-381-partir-desta-terca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Medicamentos vendidos no Brasil podem ter o preço reajustado em até 3,81% a partir desta terça-feira (31), conforme estabelecido em
+pela Câmara de Re...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-31 10:28:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-31 10:28:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-31 10:28:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-31 10:28:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/tpEdkWsTmE4IZrUk5MwSOfVB7mI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/31/_mg_8153.jpg?itok=CT-783aA</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Banda que teve disco censurado na ditadura será indenizada pelo Estado</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/banda-que-teve-disco-censurado-na-ditadura-sera-indenizada-pelo-estado</link>
+      <pubDate>Tue, 31 Mar 2026 14:40:57 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/banda-que-teve-disco-censurado-na-ditadura-sera-indenizada-pelo-estado#1002</guid>
+      <description>O grupo musical pernambucano Ave Sangria, que teve um disco censurado pela ditadura militar, em 1974, será indenizada pelo Estado brasileiro. A decis...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jOM9_xylTXl0HEQyymyWVJBWYwk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/31/ave_sangria.jpeg?itok=79ZYpkbx&quot; alt=&quot;Banda que teve disco censurado na ditadura será indenizada pelo Estado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O grupo musical pernambucano Ave Sangria, que teve um disco censurado pela ditadura militar, em 1974, será indenizada pelo Estado brasileiro. A decisão foi aprovada pela Comissão de Anistia do Ministério dos Direitos Humanos e da Cidadaniana última quinta-feira (26).&lt;/p&gt;
+&lt;p&gt;Uma das bandas icônicas da psicodelia de Pernambuco, a Ave Sangria teve o voo interrompido pela ditadura militar.Em 1974, a música “&lt;/p&gt;
+&lt;p&gt;” emplacou nas rádios com uma letra sobre o amor de um homem por outro homem.&lt;/p&gt;
+&lt;p&gt;Por causada conotação homoafetiva da letra, vista pela ditadura como atentado à moral e aos bons costumes,todos os discos foram recolhidos das lojas.&lt;/p&gt;
+&lt;p&gt;O baque foi grande: o segundo disco previsto foi cancelado pela gravadora, a banda acabou se desfazendo e só voltou nos anos 2010.&lt;/p&gt;
+&lt;p&gt;Segundo o conselheiro da Comissão de Anistia, Manoel Moraes, o processo reuniu provas das perseguições sofridas pelos músicos do grupo&lt;/p&gt;
+&lt;p&gt;, o que levou à indenização vitalícia de R$ 2.000 por mês, mais o retroativo desde a data do protocolo. Para ele, os valores não reparam os danos causados pela ditadura militar à banda.&lt;/p&gt;
+&lt;p&gt;&quot;A interrupção da carreira deles é um dano irreparável. Então, na verdade, o que aconteceu aqui foi o reconhecimento público e o pedido de desculpas pelos atos de exceção praticados contra esses integrantes e contra a cultura popular, disse Moraes.&lt;/p&gt;
+&lt;p&gt;O conselheiro lembrouque a música delesbuscava construir uma alternativa crítica a tudo aquilo que a sociedade na época vivia, que era o cerceamento da liberdade, a falta de democracia.&quot;&lt;/p&gt;
+&lt;p&gt;Segundo Marco Polo, vocalista e compositor da Ave Sangria, a notícia da anistia trouxe emoção e alívio.&lt;/p&gt;
+&lt;p&gt;&quot;Embora eu achasse que aquele episódio já estava soterrado, no fundo talvez ainda sentisse um pouco do trauma que foi a proibição do nosso disco e que levou à destruição da banda. É claro quenão temos mais a juventude de volta, nem o dinheiro que ganharíamos se tivéssemos continuado com a carreira, mas mesmo assim é uma boa notícia saber que haverá uma remuneração econômica.&quot;&lt;/p&gt;
+&lt;p&gt;Em 2019, a Ave Sangria lançou o segundo disco, 45 anos depois do primeiro, com Marco Polo e Almir de Oliveira da formação original. Almir comenta a sensação de justiça feita.&lt;/p&gt;
+&lt;p&gt;&quot;E retornamos aos palcos depois de tanta emoção, aliviados de tudo isso que aconteceu. A reparação financeira é importante. Porém, esse reconhecimento dos danos causados e a justiça que foi feita é o nosso maior legado neste momento. Deixo aqui um abraço para todos e todas vocês, e a certeza de que a democracia deve ser preservada agora e para sempre, para que novos episódios como esse não venham causar tantos danos ao povo brasileiro.&quot;&lt;/p&gt;
+&lt;p&gt;Em 2023, a Ave Sangria se tornou Patrimônio Cultural Imaterial do Recife.&lt;/p&gt;
+&lt;p&gt;Índice de inflação da indústria caiu 0,25% em fevereiro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/banda-que-teve-disco-censurado-na-ditadura-sera-indenizada-pelo-estado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O grupo musical pernambucano Ave Sangria, que teve um disco censurado pela ditadura militar, em 1974, será indenizada pelo Estado brasileiro. A decis...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-31 10:05:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-31 10:05:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-31 10:05:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-31 10:05:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/jOM9_xylTXl0HEQyymyWVJBWYwk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/31/ave_sangria.jpeg?itok=79ZYpkbx</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Lei reestrutura carreiras no Executivo e cria mais de 24 mil cargos</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/lei-reestrutura-carreiras-no-executivo-e-cria-mais-de-24-mil-cargos</link>
+      <pubDate>Tue, 31 Mar 2026 14:40:57 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/lei-reestrutura-carreiras-no-executivo-e-cria-mais-de-24-mil-cargos#1003</guid>
+      <description>Mais de 200 mil servidores do Executivo Federal terão as carreiras reorganizadas, com acriação de mais de 24 mil cargos para professores e técnicos
+,...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/I8AL8W7ylJHjETYbQ6kHx0n4Hz0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/51179314033_2ae15eb915_o.jpg?itok=H5rOI1h7&quot; alt=&quot;Lei reestrutura carreiras no Executivo e cria mais de 24 mil cargos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Mais de 200 mil servidores do Executivo Federal terão as carreiras reorganizadas, com acriação de mais de 24 mil cargos para professores e técnicos&lt;/p&gt;
+&lt;p&gt;, publicada nesta terça-feira (31) no&lt;/p&gt;
+&lt;p&gt;consolida mais de 20 temas relacionados à gestão de pessoas e às relações de trabalho no serviço público federal.&lt;/p&gt;
+&lt;p&gt;Ministério de Gestão e Inovação&lt;/p&gt;
+&lt;p&gt;, é a maior reestruturação de carreiras do Executivo federal em um mandato.&lt;/p&gt;
+&lt;p&gt;O objetivo é racionalizar estruturas administrativas. Para isso,&lt;/p&gt;
+&lt;p&gt;1.392 cargos vagos foram transformados em 428 novos cargos efetivos&lt;/p&gt;
+&lt;p&gt;O impacto orçamentário está estimado em até R$ 5,3 bilhões em 2026.&lt;/p&gt;
+&lt;p&gt;O valor está previsto na Lei Orçamentária Anual (LOA) deste ano e corresponde a cerca de 1,5% das despesas com pessoal previstas peloExecutivo federal.&lt;/p&gt;
+&lt;p&gt;Principais pontos da Lei 15.367/2026:&lt;/p&gt;
+&lt;p&gt;reestruturação de carreiras no Executivo Federal;&lt;/p&gt;
+&lt;p&gt;implantação de uma carreira transversal (Analista Técnico do Poder Executivo);&lt;/p&gt;
+&lt;p&gt;reorganização e modernização de cargos existentes;&lt;/p&gt;
+&lt;p&gt;transformação de cargos considerados obsoletos.&lt;/p&gt;
+&lt;p&gt;Uma das bases da nova legislação, no âmbitos do MGI,é a&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/lei-reestrutura-carreiras-no-executivo-e-cria-mais-de-24-mil-cargos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Mais de 200 mil servidores do Executivo Federal terão as carreiras reorganizadas, com acriação de mais de 24 mil cargos para professores e técnicos
+,...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-31 09:54:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-31 09:54:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-31 09:54:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-31 09:54:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/I8AL8W7ylJHjETYbQ6kHx0n4Hz0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/51179314033_2ae15eb915_o.jpg?itok=H5rOI1h7</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Comemorações dos 50 anos da Funarte fortalecem a Cultura do Brasil</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/comemoracoes-dos-50-anos-da-funarte-fortalecem-cultura-do-brasil</link>
+      <pubDate>Tue, 31 Mar 2026 14:40:57 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/comemoracoes-dos-50-anos-da-funarte-fortalecem-cultura-do-brasil#1004</guid>
+      <description>O Centro de Documentação e Pesquisa (Cedoc) da Fundação Nacional de Artes (Funarte), entidade vinculada ao Ministério da Cultura (MinC), será aberto ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Wbui080StMga62QA3-lO61dhmIw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/31/comemoracoes_dos_50_anos_da_funarte_fortalecem_a_cultura_do_brasil.jpg?itok=uNWWLciW&quot; alt=&quot;Comemorações dos 50 anos da Funarte fortalecem a Cultura do Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Centro de Documentação e Pesquisa (Cedoc) da Fundação Nacional de Artes (Funarte), entidade vinculada ao Ministério da Cultura (MinC), será aberto nesta terça-feira (31), às 10h&lt;/p&gt;
+&lt;p&gt;. Agora, vinculado à nova Diretoria de Memória, Pesquisa e Produção de Conteúdos (Dimemo), criada em 2025, com a reforma administrativa da Funarte, o Cedoc está instalado em um imóvel próprio, no casarão histórico onde funcionou o Museu da Casa da Moeda, na Praça da República, centro do Rio.&lt;/p&gt;
+&lt;p&gt;A abertura do Cedoc faz parte do encerramento do período de comemorações dos 50 anos da Funarte. Durante três meses, a entidade promoveu ações pelo país destacando a sua importância para a Cultura do Brasil.&lt;/p&gt;
+&lt;p&gt;“Nesse 31 de março, a Funarte completa esse circuito de três meses de celebração de uma história, mas também valorizando, sobretudo, o papel formulador de política pública para as artes e agora com um marco de instituição da nossa Política Nacional das artes”, disse à&lt;/p&gt;
+&lt;p&gt;a presidenta da Funarte, Maria Marighella.&lt;/p&gt;
+&lt;p&gt;“O Cedoc sai de um espaço e de uma sede que não era sua, se transfere para um prédio que era o antigo Museu da Casa da Moeda, mas que hoje é um prédio do Cedoc, um prédio próprio, um patrimônio no centro do Rio de Janeiro vocacionado a preservar esse acervo”, completou.&lt;/p&gt;
+&lt;p&gt;Conforme informou, o Centro de Documentação e Pesquisa guarda mais de 2 milhões de itens que preservam a memória das artes brasileiras e da própria instituição, como acervos fundamentais para a história das artes do Brasil. Entre eles, o do dramaturgo Oduvaldo Vianna (1892-1972), o do produtor e autor de teatro de revista Walter Pinto (1913-1994) e o do ator, produtor, diretor e pesquisador Fernando Peixoto (1937-2012), estão registrados no Programa Memória do Mundo da Unesco.&lt;/p&gt;
+&lt;p&gt;“É um acervo muitíssimo vasto e amplo que nos dá a dimensão e a grandeza dessa riqueza”, destacou.&lt;/p&gt;
+&lt;p&gt;Maria Marighella disse ainda que essa abertura vai também convocar e mobilizar instituições culturais, que promovem a preservação, a memória e a proteção dos acervos, que sendo públicos ou privados são de interesse público.&lt;/p&gt;
+&lt;p&gt;“Ao convocarmos, chamarmos e unirmos as instituições estamos inaugurando um ambiente de rede, dizendo que o papel da memória é o que só pode se dar se ele for na relação federativa, no sistema nacional de cultura, com os entes federados, mas sobretudo com os agentes culturais e as suas instituições”, afirmou a presidenta.&lt;/p&gt;
+&lt;p&gt;Ela destacou que na busca desse ambiente de rede de proteção e memória das artes, a Funarte vai assinar protocolos de intenção com instituições que tenham esta vocação.&lt;/p&gt;
+&lt;p&gt;Desde 2008, o Cedoc guarda também o acervo pessoal de Sebastião Bernardes de Souza Prata, o ator Grande Othelo (1915-1993). A partir desta coleção foi montada a&lt;/p&gt;
+&lt;p&gt;, uma parceria da Funarte com o Itaú Cultural, que a levou para a sua sede na cidade de São Paulo, e abriu a mostra ao público entre dezembro do ano passado e março deste ano.&lt;/p&gt;
+&lt;p&gt;Agora, instalada na nova sede do Cedoc, no Rio, os visitantes têm a possibilidade de fazerem, por meio de mais de 160 itens, uma imersão na vida e obra do primeiro artista negro a ocupar um lugar de destaque tanto no teatro, como no rádio, no cinema e na televisão no Brasil.&lt;/p&gt;
+&lt;p&gt;“Com talento, humor e sagacidade, Othelo abriu caminhos nas artes e pautou discussões importantes, reivindicando direitos e representatividade. Uma presença marcante para a cultura do Brasil, de alcance e reconhecimento internacional”, ressalta a Funarte em nota.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-03/comemoracoes-dos-50-anos-da-funarte-fortalecem-cultura-do-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Centro de Documentação e Pesquisa (Cedoc) da Fundação Nacional de Artes (Funarte), entidade vinculada ao Ministério da Cultura (MinC), será aberto ...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-03-31 09:54:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-31 09:54:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-31 09:54:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-31 09:54:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Wbui080StMga62QA3-lO61dhmIw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/31/comemoracoes_dos_50_anos_da_funarte_fortalecem_a_cultura_do_brasil.jpg?itok=uNWWLciW</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Governo federal endurece regras de acesso ao aplicativo SouGov.br</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-federal-endurece-regras-de-acesso-ao-aplicativo-sougovbr</link>
+      <pubDate>Tue, 31 Mar 2026 14:40:57 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-federal-endurece-regras-de-acesso-ao-aplicativo-sougovbr#1005</guid>
+      <description>© Marcello CasalJrAgência Brasil
+O governo federal está endurecendo as regras de acesso ao aplicativo SouGov.br.A partir deste mês, crianças, adolesc...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/x8zAJGggIdAC06ewnPOpi1K2Qug=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_6151.jpg?itok=0CqW_vXD&quot; alt=&quot;Governo federal endurece regras de acesso ao aplicativo SouGov.br&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello CasalJrAgência Brasil&lt;/p&gt;
+&lt;p&gt;O governo federal está endurecendo as regras de acesso ao aplicativo SouGov.br.A partir deste mês, crianças, adolescentes e pessoas legalmente incapazes só podem utilizar a plataforma mediante autorização formal de um responsável.&lt;/p&gt;
+&lt;p&gt;A medida corrige uma falha de segurança e divide os usuários em dois perfis:o representante legal e o representado. Agora, pais, tutores ou curadores precisam estar vinculados ao sistema para liberar o uso aos dependentes, garantindo o cumprimento da Lei Geral de Proteção de Dados e do ECA Digital.&lt;/p&gt;
+&lt;p&gt;Na prática, o responsável deve acessar sua conta Prata ou Ouro do Gov.br e aceitar os termos de uso. Somente após essa autorização é que o dependente terá o acesso liberado. Se houver tentativa de entrada antes da autorização, o sistema bloqueia a navegação automaticamente.&lt;/p&gt;
+&lt;p&gt;Existem diferenças nas permissões:enquanto o representante pode consultar e editar informações, o representado tem autorização apenas para leitura de dados.&lt;/p&gt;
+&lt;p&gt;Além disso, funções sensíveis, como a contratação de empréstimos consignados e a Prova de Vida digital ficam suspensas para esses perfis.&lt;/p&gt;
+&lt;p&gt;Segundo o Ministério da Gestão e da Inovação, a iniciativa traz mais rastreabilidade e evita o uso indevido da plataforma, que atende servidores ativos, aposentados e pensionistas do Executivo Federal.&lt;/p&gt;
+&lt;p&gt;Vale lembrar que o responsável pode revogar a permissão a qualquer momento, suspendendo o acesso do dependente de forma imediata. Para o funcionamento pleno, ambos devem terconta nível Prata ou Ouro no portal do governo.&lt;/p&gt;
+&lt;p&gt;Índice de inflação da indústria caiu 0,25% em fevereiro&lt;/p&gt;
+&lt;p&gt;Alô Alô Brasil desta terça-feira (31) atualiza informações sobre a guerra no Irã e sobre jogo do Brasil&lt;/p&gt;
+&lt;p&gt;Cientista brasileiro Carlos Nobre é nomeado conselheiro do Vaticano&lt;/p&gt;
+&lt;p&gt;Política Nacional das Artes quer ampliar acesso e direito da população&lt;/p&gt;
+&lt;p&gt;SP: polícia desarticula grupo que roubava medicamentos de alto custo&lt;/p&gt;
+&lt;p&gt;Contas públicas têm déficit primário de R$ 16,4 bilhões em fevereiro&lt;/p&gt;
+&lt;p&gt;MEC divulga lista de espera do Prouni para bolsas do ensino superior&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/governo-federal-endurece-regras-de-acesso-ao-aplicativo-sougovbr&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello CasalJrAgência Brasil
+O governo federal está endurecendo as regras de acesso ao aplicativo SouGov.br.A partir deste mês, crianças, adolesc...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-03-31 09:38:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-31 09:38:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-31 09:38:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-31 09:38:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/x8zAJGggIdAC06ewnPOpi1K2Qug=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_6151.jpg?itok=0CqW_vXD</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Saiba quem deve declarar Imposto de Renda em 2026</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/saiba-quem-deve-declarar-imposto-de-renda-em-2026</link>
-      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 14:40:57 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/saiba-quem-deve-declarar-imposto-de-renda-em-2026#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/saiba-quem-deve-declarar-imposto-de-renda-em-2026#1006</guid>
       <description>O prazo para entrega dadeclaração do Imposto de Renda para pessoas físicas já iniciou. E é claro que algumas questões começam a aparecer. Uma das pri...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/S3fd6jEK0d6ZSzbjvjsO5L8w07M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/11/01_ir_2026_duvidas_card_horizontal.jpg?itok=IrAb7FIP&quot; alt=&quot;Saiba quem deve declarar Imposto de Renda em 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O prazo para entrega dadeclaração do Imposto de Renda para pessoas físicas já iniciou. E é claro que algumas questões começam a aparecer. Uma das primeiras é:&lt;/p&gt;
@@ -45,7 +335,7 @@
 &lt;p&gt;Apesar de a declaração pré-preenchida ter reduzido essaexigência, é importante ter alguns comprovantes em mãos, comoinformes de rendimentos, notas fiscais de despesas médicas, comprovantes de gastos com educação, documentos de bens, como carros, imóveis e aplicações, além, claro, dos documentos pessoais, como CPF e comprovante de endereço.&lt;/p&gt;
 &lt;p&gt;Mas e se você não tiver todos os documentos?&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/saiba-quem-deve-declarar-imposto-de-renda-em-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O prazo para entrega dadeclaração do Imposto de Renda para pessoas físicas já iniciou. E é claro que algumas questões começam a aparecer. Uma das pri...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-31 09:01:00</wp:post_date>
       <wp:post_date_gmt>2026-03-31 09:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-31 09:01:00</wp:post_modified>
@@ -71,9 +361,9 @@
     <item>
       <title>Grande incêndio atinge distribuidora de tintas em Diadema (SP)</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/grande-incendio-atinge-distribuidora-de-tintas-em-diadema-sp</link>
-      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 14:40:57 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/grande-incendio-atinge-distribuidora-de-tintas-em-diadema-sp#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/grande-incendio-atinge-distribuidora-de-tintas-em-diadema-sp#1007</guid>
       <description>© Marcos Palumbo/Divulgação/Corpo de Bombeiros de SP
 Um incêndio de grandes proporções atinge uma distribuidora de tintas em Diadema, na região da Gr...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/nCRo5oqyFPQhIhUBF_dtgYtO1Sg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/31/grande_incendio_atinge_distribuidora_de_tintas_em_diadema_sp.jpg?itok=5s0HaULI&quot; alt=&quot;Grande incêndio atinge distribuidora de tintas em Diadema (SP)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -82,18 +372,18 @@ Um incêndio de grandes proporções atinge uma distribuidora de tintas em Diade
 &lt;p&gt;Não há feridos segundo informações dos bombeiros.&lt;/p&gt;
 &lt;p&gt;O depósito da distribuidora, que fica na Avenida Fábio Eduardo Ramos Esquivel, foi totalmente consumido pelas chamas.&lt;/p&gt;
 &lt;p&gt;O Corpo de Bombeiros está no local com 22 viaturas e 60 homens.&lt;/p&gt;
-&lt;p&gt;Viva Maria relembra Eunice Michiles, a primeira senadora brasileira&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Lula faz reunião ministerial às vésperas de saída de ministros que vão disputar eleições&lt;/p&gt;
+&lt;p&gt;Índice de inflação da indústria caiu 0,25% em fevereiro&lt;/p&gt;
+&lt;p&gt;Alô Alô Brasil desta terça-feira (31) atualiza informações sobre a guerra no Irã e sobre jogo do Brasil&lt;/p&gt;
 &lt;p&gt;Cientista brasileiro Carlos Nobre é nomeado conselheiro do Vaticano&lt;/p&gt;
-&lt;p&gt;Governo federal endurece regras de acesso ao aplicativo SouGov.br&lt;/p&gt;
-&lt;p&gt;Impacto ambiental da IA: centros de dados criam &quot;ilhas de calor&quot;&lt;/p&gt;
-&lt;p&gt;Saiba quem deve declarar Imposto de Renda em 2026&lt;/p&gt;
-&lt;p&gt;Grande incêndio atinge distribuidora de tintas em Diadema (SP)&lt;/p&gt;
-&lt;p&gt;Prazo para BRB apresentar balanço acaba nesta terça-feira (31)&lt;/p&gt;
-&lt;p&gt;Irã incendeia petroleiro gigante perto de Dubai após alertas de Trump&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/grande-incendio-atinge-distribuidora-de-tintas-em-diadema-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Política Nacional das Artes quer ampliar acesso e direito da população&lt;/p&gt;
+&lt;p&gt;SP: polícia desarticula grupo que roubava medicamentos de alto custo&lt;/p&gt;
+&lt;p&gt;Contas públicas têm déficit primário de R$ 16,4 bilhões em fevereiro&lt;/p&gt;
+&lt;p&gt;MEC divulga lista de espera do Prouni para bolsas do ensino superior&lt;/p&gt;
+&lt;p&gt;Medicamentos podem ter reajuste de até 3,81% a partir desta terça&lt;/p&gt;
+&lt;p&gt;Banda que teve disco censurado na ditadura será indenizada pelo Estado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/grande-incendio-atinge-distribuidora-de-tintas-em-diadema-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcos Palumbo/Divulgação/Corpo de Bombeiros de SP
 Um incêndio de grandes proporções atinge uma distribuidora de tintas em Diadema, na região da Gr...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-31 08:50:00</wp:post_date>
       <wp:post_date_gmt>2026-03-31 08:50:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-31 08:50:00</wp:post_modified>
@@ -119,9 +409,9 @@ Um incêndio de grandes proporções atinge uma distribuidora de tintas em Diade
     <item>
       <title>Prazo para BRB apresentar balanço acaba nesta terça-feira (31)</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/prazo-para-brb-apresentar-balanco-acaba-nesta-terca-feira-31</link>
-      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 14:40:57 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/prazo-para-brb-apresentar-balanco-acaba-nesta-terca-feira-31#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/prazo-para-brb-apresentar-balanco-acaba-nesta-terca-feira-31#1008</guid>
       <description>Acaba nesta terça-feira (31) o prazo dado pelo
 . Em meio à pressão do mercado e sem indicação da autoridade monetária sobre uma possível prorrogação ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/bkoMem-ijwKSX3KqKCYVNz9WFRg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0d4a9528.jpg?itok=kuRSCGJm&quot; alt=&quot;Prazo para BRB apresentar balanço acaba nesta terça-feira (31)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -142,7 +432,7 @@ Um incêndio de grandes proporções atinge uma distribuidora de tintas em Diade
 &lt;p&gt;As penalidades podem chegar a R$ 25 mil por infração, segundo especialistas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/prazo-para-brb-apresentar-balanco-acaba-nesta-terca-feira-31&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Acaba nesta terça-feira (31) o prazo dado pelo
 . Em meio à pressão do mercado e sem indicação da autoridade monetária sobre uma possível prorrogação ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-31 08:28:00</wp:post_date>
       <wp:post_date_gmt>2026-03-31 08:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-31 08:28:00</wp:post_modified>
@@ -168,9 +458,9 @@ Um incêndio de grandes proporções atinge uma distribuidora de tintas em Diade
     <item>
       <title>Irã incendeia petroleiro gigante perto de Dubai após alertas de Trump</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-incendeia-petroleiro-gigante-perto-de-dubai-apos-alertas-de-trump</link>
-      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 14:40:57 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-incendeia-petroleiro-gigante-perto-de-dubai-apos-alertas-de-trump#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-incendeia-petroleiro-gigante-perto-de-dubai-apos-alertas-de-trump#1009</guid>
       <description>© Reuters/Planet Labs PBC/Proibida reprodução/Arquivo
 Teerã atacou e incendiou um navio petroleiro totalmente carregado ao largo de Dubai nestaterça-...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/P6DH80wxQJPNGz-ddCzna_6mcMw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/14/2026-03-14t000317z_1_lynxmpem2d005_rtroptp_4_iran-crisis-oil-kharg.jpg?itok=6wqTTdh8&quot; alt=&quot;Irã incendeia petroleiro gigante perto de Dubai após alertas de Trump&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -186,12 +476,12 @@ Teerã atacou e incendiou um navio petroleiro totalmente carregado ao largo de D
 &lt;p&gt;A China, um dos aliados mais próximos do Irã e o maior comprador de seu petróleo, feznovo apelo a todos os lados para que interrompamas operações militares.&lt;/p&gt;
 &lt;p&gt;O país disse que três navios chineses foram recentemente autorizados a navegar pelo Estreito de Ormuz, que normalmente transporta cerca de um quinto dos suprimentos globais de petróleo e gás natural liquefeito.&lt;/p&gt;
 &lt;p&gt;O Irã afirma ter recebido propostas de paz dos EUA por meio de intermediários, mas o porta-voz do Ministério das Relações Exteriores afirmou ontemque elas eram &quot;irrealistas, ilógicas e excessivas&quot;.&lt;/p&gt;
+&lt;p&gt;Confira mais informações sobre o conflito no Oriente Médio no&lt;/p&gt;
 &lt;p&gt;Após esses comentários, Trump disse que os EUA estavam em negociações com um &quot;regime mais razoável&quot;, referindo-se aos líderes iranianos que substituíram os mortos na guerra, mas emitiunovo aviso sobre o Estreito de Ormuz.&lt;/p&gt;
-&lt;p&gt;Ele afirmou que os EUA destruiriam usinas de energia, poços de petróleo e a ilha de Kharg, de onde o Irã exporta grande parte de seu petróleo, se um acordo não fosse alcançado em breve e o estreito não fosse aberto.&lt;/p&gt;
-&lt;p&gt;O fracasso em garantir um acordo de paz fez com que o chefe de energia da União Europeia alertasse os Estados membros a se prepararem para uma &quot;interrupção prolongada&quot; nos mercados de energia.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-incendeia-petroleiro-gigante-perto-de-dubai-apos-alertas-de-trump&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Ele afirmou que os EUA destruiriam usinas de energia, poços de petróleo e a ilha de Kharg, de onde o Irã exporta grande parte de seu petróleo, se um acordo não fosse alcançado em breve e o estreito não fosse aberto.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-incendeia-petroleiro-gigante-perto-de-dubai-apos-alertas-de-trump&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Planet Labs PBC/Proibida reprodução/Arquivo
 Teerã atacou e incendiou um navio petroleiro totalmente carregado ao largo de Dubai nestaterça-...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-31 08:24:00</wp:post_date>
       <wp:post_date_gmt>2026-03-31 08:24:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-31 08:24:00</wp:post_modified>
@@ -212,300 +502,6 @@ Teerã atacou e incendiou um navio petroleiro totalmente carregado ao largo de D
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/P6DH80wxQJPNGz-ddCzna_6mcMw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/14/2026-03-14t000317z_1_lynxmpem2d005_rtroptp_4_iran-crisis-oil-kharg.jpg?itok=6wqTTdh8</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Vigilância Sanitária orienta sobre compra de pescado na Semana Santa</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/vigilancia-sanitaria-orienta-sobre-compra-de-pescado-na-semana-santa</link>
-      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/vigilancia-sanitaria-orienta-sobre-compra-de-pescado-na-semana-santa#1004</guid>
-      <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-Vigilância Sanitária da Secretaria Estadual de Saúde do Rio
-(SES-RJ) orienta os consumidores sobre a quali...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xuFkBI-iCiWwTDMD69FMuT8Lq6s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/30/pzzb4463.jpg?itok=Y6XzyCee&quot; alt=&quot;Vigilância Sanitária orienta sobre compra de pescado na Semana Santa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fabio Rodrigues-Pozzebom/ Agência Brasil&lt;/p&gt;
-&lt;p&gt;Vigilância Sanitária da Secretaria Estadual de Saúde do Rio&lt;/p&gt;
-&lt;p&gt;(SES-RJ) orienta os consumidores sobre a qualidade do pescado neste período da Semana Santa.&lt;/p&gt;
-&lt;p&gt;Dicas simples podem reduzir os riscos de intoxicação alimentar, neste momento em que o consumo de peixes e frutos do mar aumenta.&lt;/p&gt;
-&lt;p&gt;“Com atenção na compra, no armazenamento e no preparo dos alimentos, é possível evitar riscos e garantir um momento de celebração saudável”, destacou a superintendente de Vigilância Sanitária da SES-RJ, Helen Keller.&lt;/p&gt;
-&lt;p&gt;A nutricionista Jussara Salgado explica que&lt;/p&gt;
-&lt;p&gt;há sinais claros de que o pescado está fresco&lt;/p&gt;
-&lt;p&gt;. Por serem altamente perecíveis, peixes e frutos do mar podem se deteriorar rapidamente se não forem mantidos nas condições adequadas de conservação.&lt;/p&gt;
-&lt;p&gt;“O peixe deve ter carne firme, escamas brilhantes e bem aderidas à pele, olhos salientes e brilhantes, além de guelras vermelhas e cheiro suave, característico.”&lt;/p&gt;
-&lt;p&gt;consumidor deve evitar produtos com odor forte, semelhante ao de amônia, ou que não estejam devidamente refrigerados.&lt;/p&gt;
-&lt;p&gt;“O pescado precisa estar sobre uma camada de gelo, sem contato direto, e protegido por plástico adequado. Já os congelados devem estar bem armazenados, sem sinais de descongelamento, como embalagem úmida ou amolecida”, explicoua nutricionista.&lt;/p&gt;
-&lt;p&gt;Caraterísticas do peixe próprio para o consumo:&lt;/p&gt;
-&lt;p&gt;A recomendação é que o pescado seja armazenado o mais rápido possível após a compra. Em casa, deve ser limpo (com retirada de vísceras, escamas e resíduos), e guardado em recipiente fechado na geladeira.&lt;/p&gt;
-&lt;p&gt;O consumo do peixe cru deve ocorrer em até 24 horas. Já o alimento cozido pode ser mantido por até três dias, desde que refrigerado adequadamente.&lt;/p&gt;
-&lt;p&gt;“Durante o preparo, a higiene é essencial. Lavar bem as mãos antes e depois de manipular alimentos, higienizar utensílios e evitar o contato entre alimentos crus e cozidos são medidas simples, mas eficazes”, acrescentou Jussara Salgado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/vigilancia-sanitaria-orienta-sobre-compra-de-pescado-na-semana-santa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-Vigilância Sanitária da Secretaria Estadual de Saúde do Rio
-(SES-RJ) orienta os consumidores sobre a quali...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-03-31 08:02:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-31 08:02:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-31 08:02:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-31 08:02:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/xuFkBI-iCiWwTDMD69FMuT8Lq6s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/30/pzzb4463.jpg?itok=Y6XzyCee</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Caixa conclui pagamento da parcela de março do Bolsa Família</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-conclui-pagamento-da-parcela-de-marco-do-bolsa-familia</link>
-      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-conclui-pagamento-da-parcela-de-marco-do-bolsa-familia#1005</guid>
-      <description>A Caixa Econômica Federal conclui o pagamento da parcela de março do
-Recebem nesta terça-feira (31) os beneficiários com Número de Inscrição Social (...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iZVycUWx5cItawcdqQEkejt7D0I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53627831838_2fa74e7364_o.jpg?itok=EF_jy054&quot; alt=&quot;Caixa conclui pagamento da parcela de março do Bolsa Família&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Caixa Econômica Federal conclui o pagamento da parcela de março do&lt;/p&gt;
-&lt;p&gt;Recebem nesta terça-feira (31) os beneficiários com Número de Inscrição Social (NIS) de final 0&lt;/p&gt;
-&lt;p&gt;O valor mínimo corresponde a R$ 600, mas com o novo adicional o valor médio do benefício sobe para R$ 683,75. Segundo o&lt;/p&gt;
-&lt;p&gt;Ministério do Desenvolvimento e Assistência Social&lt;/p&gt;
-&lt;p&gt;neste mês o programa de transferência de renda do governo federal alcançou 18,73 milhões de famílias&lt;/p&gt;
-&lt;p&gt;, com gasto de R$ 12,77 bilhões.&lt;/p&gt;
-&lt;p&gt;Além do benefício mínimo, há o pagamento de três adicionais&lt;/p&gt;
-&lt;p&gt;. O Benefício Variável Familiar Nutriz paga seis parcelas de R$ 50 a mães de bebês de até seis meses de idade, para garantir a alimentação da criança.&lt;/p&gt;
-&lt;p&gt;O Bolsa Família também paga um acréscimo de R$ 50 a gestantes e nutrizes (mães que amamentam), um de R$ 50 a cada filho de 7 a 18 anos e outro, de R$ 150, a cada criança de até 6 anos.&lt;/p&gt;
-&lt;p&gt;No modelo tradicional do Bolsa Família,&lt;/p&gt;
-&lt;p&gt;o pagamento ocorre nos últimos dez dias úteis de cada mês&lt;/p&gt;
-&lt;p&gt;. O beneficiário poderá consultar informações sobre as datas de pagamento, o valor do benefício e a composição das parcelas no aplicativo Caixa Tem, usado para acompanhar as contas poupança digitais do banco.&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Siga o canal daAgência Brasilno WhatsApp&lt;/p&gt;
-&lt;p&gt;Os beneficiários de 171 cidades de nove estados receberam o pagamento no último dia 18, independentemente do NIS&lt;/p&gt;
-&lt;p&gt;. A medida beneficiou os moradores de 126 municípios do Rio Grande do Norte, que sofrem com a seca, e os moradores de Juiz de Fora, Ubá, Patrocínio do Muriaé e Formiga, em Minas Gerais,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-conclui-pagamento-da-parcela-de-marco-do-bolsa-familia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Caixa Econômica Federal conclui o pagamento da parcela de março do
-Recebem nesta terça-feira (31) os beneficiários com Número de Inscrição Social (...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-03-31 07:48:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-31 07:48:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-31 07:48:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-31 07:48:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/iZVycUWx5cItawcdqQEkejt7D0I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53627831838_2fa74e7364_o.jpg?itok=EF_jy054</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mega-Sena sorteia nesta terça-feira prêmio estimado em R$ 3,5 milhões</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/mega-sena-sorteia-nesta-terca-feira-premio-estimado-em-r-35-milhoes</link>
-      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/mega-sena-sorteia-nesta-terca-feira-premio-estimado-em-r-35-milhoes#1006</guid>
-      <description>© Marcello Casal JrAgência Brasil
-As seis dezenas do concurso 2.991 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço d...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jNKq_a3p9ZWAHgLo0V-OFakQG7g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena_mcajr_abr_2904223676.jpg?itok=BWyQt9wC&quot; alt=&quot;Mega-Sena sorteia nesta terça-feira prêmio estimado em R$ 3,5 milhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
-&lt;p&gt;As seis dezenas do concurso 2.991 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço da Sorte, localizado na Avenida Paulista, nº 750, em São Paulo.&lt;/p&gt;
-&lt;p&gt;O prêmio da faixa principal está estimado em R$ 3,5 milhões.&lt;/p&gt;
-&lt;p&gt;As apostas podem ser feitas até as 20h (horário de Brasília), nas casas lotéricas credenciadas pela Caixa em todo o país ou pela internet, no&lt;/p&gt;
-&lt;p&gt;O sorteio terá transmissão ao vivo pelo&lt;/p&gt;
-&lt;p&gt;e no Facebook das Loterias Caixa.&lt;/p&gt;
-&lt;p&gt;&gt;&gt;Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
-&lt;p&gt;O jogo simples, com seis números marcados, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;Viva Maria relembra Eunice Michiles, a primeira senadora brasileira&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Lula faz reunião ministerial às vésperas de saída de ministros que vão disputar eleições&lt;/p&gt;
-&lt;p&gt;Cientista brasileiro Carlos Nobre é nomeado conselheiro do Vaticano&lt;/p&gt;
-&lt;p&gt;Governo federal endurece regras de acesso ao aplicativo SouGov.br&lt;/p&gt;
-&lt;p&gt;Impacto ambiental da IA: centros de dados criam &quot;ilhas de calor&quot;&lt;/p&gt;
-&lt;p&gt;Saiba quem deve declarar Imposto de Renda em 2026&lt;/p&gt;
-&lt;p&gt;Grande incêndio atinge distribuidora de tintas em Diadema (SP)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/mega-sena-sorteia-nesta-terca-feira-premio-estimado-em-r-35-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal JrAgência Brasil
-As seis dezenas do concurso 2.991 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço d...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-31 07:45:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-31 07:45:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-31 07:45:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-31 07:45:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/jNKq_a3p9ZWAHgLo0V-OFakQG7g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena_mcajr_abr_2904223676.jpg?itok=BWyQt9wC</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Guerra no Irã amplia risco ambiental e climático, diz relatório</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/guerra-no-ira-amplia-risco-ambiental-e-climatico-diz-relatorio</link>
-      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/guerra-no-ira-amplia-risco-ambiental-e-climatico-diz-relatorio#1007</guid>
-      <description>© Majid Asgaripour/Reuters/Proibida a Reprodução
-A guerra dos Estados Unidos (EUA) e Israel contra o Irã completou um mês nofim de semana.Relatório d...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Pb4Np597wXj9o7xvmubDO-ZO5b4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/05/2026-03-05t105908z_1_lynxmpem240ps_rtroptp_4_iran-crisis.jpg?itok=HvL93m_B&quot; alt=&quot;Guerra no Irã amplia risco ambiental e climático, diz relatório&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Majid Asgaripour/Reuters/Proibida a Reprodução&lt;/p&gt;
-&lt;p&gt;A guerra dos Estados Unidos (EUA) e Israel contra o Irã completou um mês nofim de semana.Relatório do Observatório de Conflitos e Meio Ambiente (Ceobs, na sigla em inglês) mostraque além das mortes, os riscos ambientais e climáticos na região continuam a aumentar. Saúde pública, ecossistemas terrestres e marinhos, recursos naturais e aquíferos estão ameaçados.&lt;/p&gt;
-&lt;p&gt;Os pesquisadores alertam para os perigos da continuidade do conflito. Só nas três primeiras semanas, foram identificados mais de 300 incidentes com algum grau de dano ambiental nos países envolvidos. O levantamento considera incidentes no Irã, Iraque, em Israel, no Kuwait, na Jordânia, no Chipre, Bahrein, Catar, nos Emirados Árabes Unidos, na Arábia Saudita, em Omã e no Azerbaijão.&lt;/p&gt;
-&lt;p&gt;O estudo lembra que ataques às instalações industriais, residenciais e comerciais podem liberar poluentes, pulverizar materiais de construção, como o amianto, e provocar incêndios que geram produtos tóxicos de combustão. Muitos dos componentes de armas explosivas liberam metais pesados no ambiente.&lt;/p&gt;
-&lt;p&gt;Recentemente, o Programa das Nações Unidas para o Meio Ambiente (Pnuma) relatou preocupação com o aumento da violência no Oriente Médio. Em uma declaração oficial, citou os danos ambientais generalizados e pediu o fim das hostilidades.&lt;/p&gt;
-&lt;p&gt;“O impacto ambiental desteconflito é imediato e severo. Os ataques aos depósitos de petróleo estão espalhando poluição tóxica, enquanto a escassez de água no Irã e no Oriente Médio se agrava. Um cessar-fogo é urgentemente necessário para proteger a saúde humana e ambiental”, afirma&lt;/p&gt;
-&lt;p&gt;Irã e Líbano enviaram reclamações às Nações Unidas, em que acusam Israel de cometer ecocídio. O termo é usado para definir uma destruição maciça e duradoura do meio ambiente, causada por atos ilegais ou irresponsáveis.&lt;/p&gt;
-&lt;p&gt;“O ataque criminoso aos reservatórios de combustível de Teerã se enquadra, segundo todos os critérios do direito internacional, na definição de ‘ecocídio’ ou crime ambiental. Consequentemente, o regime terrorista sionista, como perpetrador, e o regime terrorista dos Estados Unidos, como seu apoiador e facilitador, devem ser responsabilizados perante organizações e fóruns internacionais”, diz o&lt;/p&gt;
-&lt;p&gt;O levantamento do Ceobslista os principais riscos ambientais.&lt;/p&gt;
-&lt;p&gt;- Riscos nucleares: Israel atacou a instalação de enriquecimento de Natanz e as proximidades do reator de Bushehr, no Irã. Em retaliação, foram bombardeadas duas cidades próximas às instalações israelenses de armas nucleares no deserto de Negev e a Zona Industrial de Rotem, onde o urânio é extraído de depósitos de fosfato. A Agência Internacional de Energia Atômica e a Organização Mundial da Saúde manifestaram preocupação com uma possível emergência nuclear na região.&lt;/p&gt;
-&lt;p&gt;- Infraestrutura de combustíveis fósseis: dezenas de locais de produção, processamento e armazenamento foram danificados ou interrompidos em toda a região. Isso provocou incêndios em instalações de armazenamento de petróleo. Há riscos adicionais de incêndios ou derramamentos em instalações que processam produtos de petróleo e gás. Emissões adicionais de gases do efeito estufa ocorrem de vazamentos de metano e queima de emergência.&lt;/p&gt;
-&lt;p&gt;- Golfo Pérsico: a maioria dos navios atacados pelo Irã eracargueiroa granel, e não petroleiros. No entanto, existe risco constante de derramamentos e capacidade limitada de resposta a eles. Portos e infraestrutura petrolífera costeira, como a de Bandar Abbas, bem como navios da Marinha iraniana afundados, também são fontes potenciais de poluição.&lt;/p&gt;
-&lt;p&gt;- Mar Vermelho: os ataques dos Houthis, movimento político e militar do Iêmen, contra navios levaram a graves incidentes de poluição. A continuação desses atos representa ameaças ao ecossistema marinho e à pesca no Mar Vermelho. Ataques retaliatórios de Israel e EUA contra infraestrutura portuária e energética também representam ameaças de poluição costeira.&lt;/p&gt;
-&lt;p&gt;- Consequências globais: os preços e a disponibilidade menor do gás estão fazendo com que alguns países voltem a queimar carvão no curto prazo. A redução das exportações de ureia e fertilizantes está elevando os preços, o que prejudicará a produção agrícola em países importadores como Sudão e Somália, enquanto beneficia as receitas de exportação da Rússia.&lt;/p&gt;
-&lt;p&gt;Climate and Community Institute&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/guerra-no-ira-amplia-risco-ambiental-e-climatico-diz-relatorio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Majid Asgaripour/Reuters/Proibida a Reprodução
-A guerra dos Estados Unidos (EUA) e Israel contra o Irã completou um mês nofim de semana.Relatório d...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-31 07:40:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-31 07:40:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-31 07:40:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-31 07:40:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Pb4Np597wXj9o7xvmubDO-ZO5b4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/05/2026-03-05t105908z_1_lynxmpem240ps_rtroptp_4_iran-crisis.jpg?itok=HvL93m_B</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Receita paga lote da malha fina do Imposto de Renda de março</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/receita-paga-lote-da-malha-fina-do-imposto-de-renda-de-marco</link>
-      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/receita-paga-lote-da-malha-fina-do-imposto-de-renda-de-marco#1008</guid>
-      <description>© Marcello Casal Jr/Agência Brasil/Arquivo
-Cerca de 87 mil contribuintes que caíram na malha fina e regularizaram as pendênciasvão acertar as contas ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/h23n_0bfQZfJZuOywZokzWyJYJs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moeda_dinheiro_mcajr_2904223675.jpg?itok=lBuQHeSN&quot; alt=&quot;Receita paga lote da malha fina do Imposto de Renda de março&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal Jr/Agência Brasil/Arquivo&lt;/p&gt;
-&lt;p&gt;Cerca de 87 mil contribuintes que caíram na malha fina e regularizaram as pendênciasvão acertar as contas com o Leão.&lt;/p&gt;
-&lt;p&gt;Nesta terça-feira (31), a Receita Federal paga o lote da malha fina de março. Serão contempladas também restituições residuais de anos anteriores.&lt;/p&gt;
-&lt;p&gt;Ao todo, 87.440contribuintes receberão R$ 300 milhões. Neste lote, todo o dinheiro irá para contribuintes com prioridade no reembolso.&lt;/p&gt;
-&lt;p&gt;As restituições estão distribuídas da seguinte forma:&lt;/p&gt;
-&lt;p&gt;47.817 contribuintes que usaram a declaração pré-preenchida e/ou optaram simultaneamente por receber a restituição via Pix;&lt;/p&gt;
-&lt;p&gt;25.028 contribuintes de 60 a 79 anos;&lt;/p&gt;
-&lt;p&gt;6.649 contribuintes cuja maior fonte de renda seja o magistério;&lt;/p&gt;
-&lt;p&gt;4.566 contribuintes acima de 80 anos;&lt;/p&gt;
-&lt;p&gt;3.380 contribuintes com deficiência física ou mental ou doença grave.&lt;/p&gt;
-&lt;p&gt;página da Receita Federal na internet&lt;/p&gt;
-&lt;p&gt;. Basta o contribuinte clicar em “Meu Imposto de Renda” e, em seguida, no botão “Consultar a Restituição”. Também é possível fazer a consulta no aplicativo da Receita Federal para&lt;/p&gt;
-&lt;p&gt;O pagamento será feito na conta ou na chave Pix do tipo CPF informada na declaração do Imposto de Renda. Caso o contribuinte não esteja na lista, deverá entrar no&lt;/p&gt;
-&lt;p&gt;Centro Virtual de Atendimento ao Contribuinte&lt;/p&gt;
-&lt;p&gt;(e-CAC)e tirar o extrato da declaração. Se verificar uma pendência, pode enviar uma declaração retificadora e esperar os próximos lotes da malha fina.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/receita-paga-lote-da-malha-fina-do-imposto-de-renda-de-marco&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal Jr/Agência Brasil/Arquivo
-Cerca de 87 mil contribuintes que caíram na malha fina e regularizaram as pendênciasvão acertar as contas ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-31 07:28:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-31 07:28:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-31 07:28:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-31 07:28:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/h23n_0bfQZfJZuOywZokzWyJYJs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moeda_dinheiro_mcajr_2904223675.jpg?itok=lBuQHeSN</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>“Não posso parar”, diz ativista que perdeu familiares na ditadura</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/nao-posso-parar-diz-ativista-que-perdeu-familiares-na-ditadura</link>
-      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/nao-posso-parar-diz-ativista-que-perdeu-familiares-na-ditadura#1009</guid>
-      <description>A professora e ativista Victória Grabois perdeu o pai, Maurício, o irmão, André, e o marido, Gilberto Olímpio, no ano de 1973, assassinados por agent...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Bg25Ek1CeV50QbwPiJVQoGdRaDE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/29/_int8144.jpg?itok=P3dyswWH&quot; alt=&quot;“Não posso parar”, diz ativista que perdeu familiares na ditadura&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A professora e ativista Victória Grabois perdeu o pai, Maurício, o irmão, André, e o marido, Gilberto Olímpio, no ano de 1973, assassinados por agentes do Estado na região da Serra do Araguaia. Eles atuavam na guerrilha e defendiam o fim do regime de exceção no período. “Não posso parar e faço tudo o que eu puder fazer para divulgar a memória e acabar com o silenciamento”.&lt;/p&gt;
-&lt;p&gt;Passados 53 anos, ela, que tem hoje 82, diz que não tem esperanças reais de saber o que aconteceu com as pessoas de sua família. No entanto, diz que é preciso lutar pela verdade, pela memória e contra o silenciamento.&lt;/p&gt;
-&lt;p&gt;“Quero que abram os arquivos e que digam onde mataram, como mataram e quando mataram”. Os corpos deles nunca foram entregues à família.&lt;/p&gt;
-&lt;p&gt;Nesta terça-feira (31), às 17h, o Ministério dos Direitos Humanos e da Cidadania (MDHC) e a Comissão Especial sobre Mortos e Desaparecidos Políticos entrega mais27 atestados de óbito retificados, em evento na Universidade Federal da Bahia (UFBA), em Salvador.&lt;/p&gt;
-&lt;p&gt;Entre os documentos, estão o de Maurício Grabois, que era baiano. No documento, há a retificação da causa da morte: ação violenta do Estado. Grabois foi deputado constituinte, em 1946. Seus escritos foram reunidos pela família em livros.&lt;/p&gt;
-&lt;p&gt;A filha, Victória, que é uma das fundadoras do movimento Tortura Nunca Mais, vive no Rio de Janeiro e não estará no evento em Salvador. Ela pede que o Estado, além da correção dos atestados de óbitos, atue parainvestigar o que ocorreu com as vítimas da ditadura.&lt;/p&gt;
-&lt;p&gt;“Meu pai foi um grande homem. Ele deu o seu bem maior, a vida, e levou o seu filho junto, em prol da liberdade do Brasil e da democracia”, afirma Victória.&lt;/p&gt;
-&lt;p&gt;Ela conviveu com Maurício até os 29 anos de idade dela. A provável data da morte do pai e do irmão foi o dia 25 de dezembro de 1973. “Ele era um homem de princípios que me ensinou a ser uma pessoa digna. Essa é a lembrança quetenho do meu pai”.&lt;/p&gt;
-&lt;p&gt;O movimento Tortura Nunca Mais homenageou, nessasegunda-feira (30), defensores dos direitos humanos com a medalha “Chico Mendes” (pelo 38º ano seguido). A condecoração foi criada como contraponto à medalha do Pacificador, do Exército. Neste ano, a “Chico Mendes”, lembrou o guerrilheiro Francisco Manuel Chaves, que desapareceu no Araguaia, e a socióloga Yara Yavelber, também assassinada por agentes do Estado.&lt;/p&gt;
-&lt;p&gt;Além de revolucionários do passado, a medalha homenageou as mães que perderam filhos para a violência policial. Entre elas,está a ativista Solange de Oliveira, fundadora do Movimento Mães em Luto da Zona Leste, em São Paulo.&lt;/p&gt;
-&lt;p&gt;“Lembramos das violações que foram cometidas no passado e no presente e de pessoas que lutam contra”.&lt;/p&gt;
-&lt;p&gt;A ativista Victoria Grabois destacaque os dois últimos filmes brasileiros que participaram do Oscar, e trataram sobre ditadura, foram importantes para “furar a bolha” na sociedade e para que as pessoas compreendessem melhor o que foi esse período, que completa 62 anos nesta semana.&lt;/p&gt;
-&lt;p&gt;Ela diz que os filmes fizeram com que as escolas mostrassemmais interesse em saber sobre aquele período de opressão. Victoria Grabois diz que muitas pessoas só conheceram a história de violações recentemente com os filmes. “A Guerrilha do Araguaia, por exemplo, passou a ser mais um fato histórico para as pessoas”.&lt;/p&gt;
-&lt;p&gt;Segundo a presidente da comissão de mortos e desaparecidos, Eugênia Gonzaga, a prioridade pelas retificações de certidões de óbitose revelou a mais importante das medidas de reparação&lt;/p&gt;
-&lt;p&gt;. &quot;É uma iniciativa que vem sendo muito bem recebida e a gente quer, então, fazer as 434 retificações para todas as famílias e, se possível, fazer a entrega delas em ocasião solene, com pedido de desculpas&quot;, afirmou.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/nao-posso-parar-diz-ativista-que-perdeu-familiares-na-ditadura&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A professora e ativista Victória Grabois perdeu o pai, Maurício, o irmão, André, e o marido, Gilberto Olímpio, no ano de 1973, assassinados por agent...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-31 07:13:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-31 07:13:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-31 07:13:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-31 07:13:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Bg25Ek1CeV50QbwPiJVQoGdRaDE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/29/_int8144.jpg?itok=P3dyswWH</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
