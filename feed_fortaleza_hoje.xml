@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 31/03/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 11:53 UTC</description>
-<lastBuildDate>Tue, 31 Mar 2026 11:53:53 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Tue, 31 Mar 2026 13:27:16 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Operação de trânsito garante segurança viária das procissões da Semana Santa</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/operacao-de-transito-garante-seguranca-viaria-das-procissoes-da-semana-santa</link>
+<guid isPermaLink="false">fortaleza-20260331-30ed4039bad1</guid>
+<pubDate>Tue, 31 Mar 2026 09:35:00 +0000</pubDate>
+<description>Operação de trânsito garante segurança viária das procissões da Semana Santa - Terça, 31 Março 2026 09:35</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/Transito/agente2.jpeg" alt="Operação de trânsito garante segurança viária das procissões da Semana Santa" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Autarquia Municipal de Trânsito e Cidadania (AMC) executa, até o próximo domingo (05/04), o plano operacional para organizar o fluxo de veículos e reforçar a segurança viária das procissões religiosas alusivas à Semana Santa. Ao todo, 65 agentes e orientadores de tráfego atuam em pelo menos 11 eventos que celebram a morte e ressurreição de Jesus Cristo.</p>
+<p>Bloqueios temporários e parciais serão implementados de acordo com a programação das paróquias. As vias serão liberadas à medida que os cortejos avançam. Além disso, as equipes atuam no entorno das celebrações para coibição de estacionamento irregular e controle de tráfego, disciplinando a circulação de veículos e pedestres.</p>
+<p>Os trabalhos também contarão com o suporte das câmeras da Central de Mobilidade para Preservação de Vidas no Trânsito da AMC. Os equipamentos serão utilizados tanto para o suporte operacional como para monitorar o comportamento dos condutores.</p>
+<p>“É fundamental a consciência da população quanto ao respeito às normas de trânsito, como estacionar em locais permitidos, não exceder os limites de velocidade e compreender os riscos da combinação álcool e direção”, reforça Roberto Félix, chefe do Núcleo de Operações da AMC.</p>
+<p>Em caso de ocorrências, a população pode solicitar o atendimento de agentes de trânsito pelo número 190, da Coordenadoria Integrada de Operações de Segurança (Ciops).</p>
+<p><strong>Procissões</strong></p>
+<p>- Catedral Metropolitana de Fortaleza - sexta-feira, 16h<br/>Percurso: rua Rufino de Alencar, Av. Dom Manuel, e ruas Costa Barros e São José</p>
+<p>- Igreja Nossa Senhora da Glória - sexta-feira, 16h30<br/>Percurso: Av. Oliveira Paiva, rua Joãozito Arruda, rua Nossa Senhora 06 e Comunidade Nossa Senhora de Lourdes</p>
+<p>- Igreja Cristo Rei - sexta-feira, 16h<br/>Percurso: ruas Costa Barros, Rodrigues Júnior, Pinto Madeira e Nogueira Acioli</p>
+<p>- Paróquia Nossa Senhora dos Remédios - sexta-feira, 16h30<br/>Percurso: Av. da Universidade, ruas Juvenal Galeno, Padre Mororó e Justiniano de Serpa, Av. Domingos Olímpio e rua Dom Jerônimo</p>
+<p>- Capela São Vicente de Paulo - sexta-feira, 16h30<br/>Percurso: ruas São Vicente de Paulo, Tomáz Rodrigues, Anário Braga e São Domingos, Travessa Antônio Joaquim, e ruas Anário Braga, Professora Raimunda Adélia, Presidente Prudente, Padre Perdigão Sampaio, Hipólito Pamplona, Cantor Carlos Augusto e São Vicente de Paulo</p>
+<p>- Paróquia Cristo Redentor – sexta-feira, 16h<br/>Percurso: ruas Nossa Senhora das Graças, Marcílio Dias e Camélia e Av. Dr. Theberge</p>
+<p>- Paróquia São João do Tauape – sexta-feira, 17h<br/>Percurso: ruas Capitão Gustavo, Carvalho Júnior, Sabino Monte e Monsenhor Salazar</p>
+<p>- Paróquia Nossa Senhora de Salette – sexta-feira, 16h<br/>Percurso: ruas José Façanha, Goiás, Mário de Andrade, Papi Júnior, Miguel Gonçalves e Coronel Nunes Melo</p>
+<p>- Santuário Sagrado Coração de Jesus – sexta-feira, 16h<br/>Percurso: ruas Pedro I e Major Facundo, Av. Duque de Caxias (parada na Igreja do Carmo), ruas General Clarindo de Queiroz e Solon Pinheiro</p>
+<p>- Santuário Nossa Senhora Aparecida – sexta-feira, 16h<br/>Av. Professor Gomes de Matos, e ruas Isaie Boris, Antônio Fiuza, Professor Teodorico, Barão de Canindé, Elcias Lopes, Equador, Bogari, Álvares Cabral e Benjamim Franklin</p>
+<p>- Capela Cristo Ressuscitado – domingo, 16h<br/>Percurso: avenidas Poebla, H e J, rua 62, e avenidas L, G e João Araújo Lima<br/><br/></p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/operacao-de-transito-garante-seguranca-viaria-das-procissoes-da-semana-santa" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/Transito/agente2.jpeg" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/Transito/agente2.jpeg" type="image/jpeg" medium="image">
+<media:title>Operação de trânsito garante segurança viária das procissões da Semana Santa</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
