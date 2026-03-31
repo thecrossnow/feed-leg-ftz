@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Tue, 31 Mar 2026 11:42:44 +0000</pubDate>
+    <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,255 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Saiba quem deve declarar Imposto de Renda em 2026</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/saiba-quem-deve-declarar-imposto-de-renda-em-2026</link>
+      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/saiba-quem-deve-declarar-imposto-de-renda-em-2026#1000</guid>
+      <description>O prazo para entrega dadeclaração do Imposto de Renda para pessoas físicas já iniciou. E é claro que algumas questões começam a aparecer. Uma das pri...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/S3fd6jEK0d6ZSzbjvjsO5L8w07M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/11/01_ir_2026_duvidas_card_horizontal.jpg?itok=IrAb7FIP&quot; alt=&quot;Saiba quem deve declarar Imposto de Renda em 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O prazo para entrega dadeclaração do Imposto de Renda para pessoas físicas já iniciou. E é claro que algumas questões começam a aparecer. Uma das primeiras é:&lt;/p&gt;
+&lt;p&gt;quem precisa declarar o imposto de renda?&lt;/p&gt;
+&lt;p&gt;A resposta passa por diversos critérios que envolvemganhos, patrimônio e gastos no ano de 2025. A instrução normativa daReceita Federal lista&lt;/p&gt;
+&lt;p&gt;12 critérios que podem definir a obrigatoriedade na hora de declarar.&lt;/p&gt;
+&lt;p&gt;&gt;&gt; Veja quem é obrigado a declarar IR:&lt;/p&gt;
+&lt;p&gt;recebeu mais do que R$ 35.584,00em valores que precisam de ajuste de imposto&lt;/p&gt;
+&lt;p&gt;Atividade rural: quem recebeuR$ 177.920,00 no ano&lt;/p&gt;
+&lt;p&gt;Aqueles que receberam rendimentos isentos, não tributáveis ou tributados exclusivamente na fonte superior a R$ 200.000,00&lt;/p&gt;
+&lt;p&gt;Possuíam, em 31/12/2025, bens ou direitos de valor total superior a R$ 800.000,00&lt;/p&gt;
+&lt;p&gt;Optaram pela isenção do imposto sobre o ganho de capital de venda de imóveis residenciais&lt;/p&gt;
+&lt;p&gt;Possuem bens, direitos ou entidades controladas no exterior conforme legislação vigente&lt;/p&gt;
+&lt;p&gt;Quem passou à condição de residente no Brasil no ano de 2025.&lt;/p&gt;
+&lt;p&gt;Documentos para declarar o IRPF2026&lt;/p&gt;
+&lt;p&gt;Apesar de a declaração pré-preenchida ter reduzido essaexigência, é importante ter alguns comprovantes em mãos, comoinformes de rendimentos, notas fiscais de despesas médicas, comprovantes de gastos com educação, documentos de bens, como carros, imóveis e aplicações, além, claro, dos documentos pessoais, como CPF e comprovante de endereço.&lt;/p&gt;
+&lt;p&gt;Mas e se você não tiver todos os documentos?&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/saiba-quem-deve-declarar-imposto-de-renda-em-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O prazo para entrega dadeclaração do Imposto de Renda para pessoas físicas já iniciou. E é claro que algumas questões começam a aparecer. Uma das pri...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-03-31 09:01:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-31 09:01:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-31 09:01:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-31 09:01:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/S3fd6jEK0d6ZSzbjvjsO5L8w07M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/11/01_ir_2026_duvidas_card_horizontal.jpg?itok=IrAb7FIP</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Grande incêndio atinge distribuidora de tintas em Diadema (SP)</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/grande-incendio-atinge-distribuidora-de-tintas-em-diadema-sp</link>
+      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/grande-incendio-atinge-distribuidora-de-tintas-em-diadema-sp#1001</guid>
+      <description>© Marcos Palumbo/Divulgação/Corpo de Bombeiros de SP
+Um incêndio de grandes proporções atinge uma distribuidora de tintas em Diadema, na região da Gr...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/nCRo5oqyFPQhIhUBF_dtgYtO1Sg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/31/grande_incendio_atinge_distribuidora_de_tintas_em_diadema_sp.jpg?itok=5s0HaULI&quot; alt=&quot;Grande incêndio atinge distribuidora de tintas em Diadema (SP)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcos Palumbo/Divulgação/Corpo de Bombeiros de SP&lt;/p&gt;
+&lt;p&gt;Um incêndio de grandes proporções atinge uma distribuidora de tintas em Diadema, na região da Grande São Paulo, desde a madrugada desta terça-feira (31). A empresa também comercializa materiais de construção.&lt;/p&gt;
+&lt;p&gt;Não há feridos segundo informações dos bombeiros.&lt;/p&gt;
+&lt;p&gt;O depósito da distribuidora, que fica na Avenida Fábio Eduardo Ramos Esquivel, foi totalmente consumido pelas chamas.&lt;/p&gt;
+&lt;p&gt;O Corpo de Bombeiros está no local com 22 viaturas e 60 homens.&lt;/p&gt;
+&lt;p&gt;Viva Maria relembra Eunice Michiles, a primeira senadora brasileira&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 7h30: Lula faz reunião ministerial às vésperas de saída de ministros que vão disputar eleições&lt;/p&gt;
+&lt;p&gt;Cientista brasileiro Carlos Nobre é nomeado conselheiro do Vaticano&lt;/p&gt;
+&lt;p&gt;Governo federal endurece regras de acesso ao aplicativo SouGov.br&lt;/p&gt;
+&lt;p&gt;Impacto ambiental da IA: centros de dados criam &quot;ilhas de calor&quot;&lt;/p&gt;
+&lt;p&gt;Saiba quem deve declarar Imposto de Renda em 2026&lt;/p&gt;
+&lt;p&gt;Grande incêndio atinge distribuidora de tintas em Diadema (SP)&lt;/p&gt;
+&lt;p&gt;Prazo para BRB apresentar balanço acaba nesta terça-feira (31)&lt;/p&gt;
+&lt;p&gt;Irã incendeia petroleiro gigante perto de Dubai após alertas de Trump&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/grande-incendio-atinge-distribuidora-de-tintas-em-diadema-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcos Palumbo/Divulgação/Corpo de Bombeiros de SP
+Um incêndio de grandes proporções atinge uma distribuidora de tintas em Diadema, na região da Gr...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-03-31 08:50:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-31 08:50:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-31 08:50:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-31 08:50:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/nCRo5oqyFPQhIhUBF_dtgYtO1Sg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/31/grande_incendio_atinge_distribuidora_de_tintas_em_diadema_sp.jpg?itok=5s0HaULI</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Prazo para BRB apresentar balanço acaba nesta terça-feira (31)</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/prazo-para-brb-apresentar-balanco-acaba-nesta-terca-feira-31</link>
+      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/prazo-para-brb-apresentar-balanco-acaba-nesta-terca-feira-31#1002</guid>
+      <description>Acaba nesta terça-feira (31) o prazo dado pelo
+. Em meio à pressão do mercado e sem indicação da autoridade monetária sobre uma possível prorrogação ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/bkoMem-ijwKSX3KqKCYVNz9WFRg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0d4a9528.jpg?itok=kuRSCGJm&quot; alt=&quot;Prazo para BRB apresentar balanço acaba nesta terça-feira (31)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Acaba nesta terça-feira (31) o prazo dado pelo&lt;/p&gt;
+&lt;p&gt;. Em meio à pressão do mercado e sem indicação da autoridade monetária sobre uma possível prorrogação do prazo, o banco pode sofrer sanções.&lt;/p&gt;
+&lt;p&gt;O atraso na apresentação dos resultados aumenta a cobrança por&lt;/p&gt;
+&lt;p&gt;medidas para recompor o capital&lt;/p&gt;
+&lt;p&gt;da instituição. A situação se agrava, porque os balanços do terceiro e do quarto trimestres de 2025 também seguem pendentes.&lt;/p&gt;
+&lt;p&gt;A demora amplia a desconfiança de investidores e pode afetar diretamente a liquidez do banco&lt;/p&gt;
+&lt;p&gt;O presidente do BRB, Nelson de Souza, afirma que opedido de extensão do prazo se deve ao“momento atípico” enfrentado pela instituição&lt;/p&gt;
+&lt;p&gt;.O BRB pediu ao Banco Central ampliaçãodo prazo até junho, no entanto, não recebeu respostas.&lt;/p&gt;
+&lt;p&gt;Analistas consideramque o Banco Central tende a manter postura rigorosa e autorizarprorrogações apenas em crises que afetam todo o sistema financeiro, o que não é caso do banco.&lt;/p&gt;
+&lt;p&gt;A incerteza sobre os números do banco eleva o risco percebido pelos investidores.&lt;/p&gt;
+&lt;p&gt;Atrasos na divulgação de balanços costumam ser interpretados como sinal de problemas mais graves.&lt;/p&gt;
+&lt;p&gt;Com isso, há risco de rebaixamento de rating (nota de crédito do banco) e saída de investidores institucionais, o que pode pressionar o caixa e dificultar novas captações.&lt;/p&gt;
+&lt;p&gt;Caso o prazo não seja cumprido, o BRB pode sofrer penalidades regulatórias. Entre elas:&lt;/p&gt;
+&lt;p&gt;Aumento das punições em caso de descumprimento.&lt;/p&gt;
+&lt;p&gt;As penalidades podem chegar a R$ 25 mil por infração, segundo especialistas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/prazo-para-brb-apresentar-balanco-acaba-nesta-terca-feira-31&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Acaba nesta terça-feira (31) o prazo dado pelo
+. Em meio à pressão do mercado e sem indicação da autoridade monetária sobre uma possível prorrogação ...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-03-31 08:28:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-31 08:28:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-31 08:28:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-31 08:28:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/bkoMem-ijwKSX3KqKCYVNz9WFRg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0d4a9528.jpg?itok=kuRSCGJm</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Irã incendeia petroleiro gigante perto de Dubai após alertas de Trump</title>
+      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-incendeia-petroleiro-gigante-perto-de-dubai-apos-alertas-de-trump</link>
+      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-incendeia-petroleiro-gigante-perto-de-dubai-apos-alertas-de-trump#1003</guid>
+      <description>© Reuters/Planet Labs PBC/Proibida reprodução/Arquivo
+Teerã atacou e incendiou um navio petroleiro totalmente carregado ao largo de Dubai nestaterça-...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/P6DH80wxQJPNGz-ddCzna_6mcMw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/14/2026-03-14t000317z_1_lynxmpem2d005_rtroptp_4_iran-crisis-oil-kharg.jpg?itok=6wqTTdh8&quot; alt=&quot;Irã incendeia petroleiro gigante perto de Dubai após alertas de Trump&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Reuters/Planet Labs PBC/Proibida reprodução/Arquivo&lt;/p&gt;
+&lt;p&gt;Teerã atacou e incendiou um navio petroleiro totalmente carregado ao largo de Dubai nestaterça-feira, apesar da ameaça do presidente Donald Trump de que os Estados Unidos (EUA) destruiriam as usinas de energia do Irã se o país não aceitar um acordo de paz e abrir o Estreito de Ormuz.&lt;/p&gt;
+&lt;p&gt;Autoridades de Dubai disseram que o incêndio no Al-Salmi, de bandeira do Kuwait, foi controlado após um ataque de drones, sem vazamento de óleo e sem ferimentos na tripulação. A Kuweit Petroleum Corp, proprietária do navio, afirmou que o casco da embarcação foi danificado.&lt;/p&gt;
+&lt;p&gt;O ataque foi o mais recente contra navios mercantes no estreito, uma hidrovia vital, desde que Estados Unidos e Israel atacaram o Irã em 28 de fevereiro.&lt;/p&gt;
+&lt;p&gt;Dados mostraram que o navio estava indo para Qingdao, na China, e transportava 1,2 milhão de barris de petróleo saudita e 800 milbarris de petróleo kuwaitiano, de acordo com o serviço de monitoramento TankerTrackers.com.&lt;/p&gt;
+&lt;p&gt;O Al-Salmi pode não ter sido o alvo pretendido. A Guarda Revolucionária do Irã disse que tinha como alvo um navio de contêineres no Golfo por causa de seus laços com Israel. Mas eles pareciam estar se referindo ao Haiphong Express, com bandeira de Cingapura, que estava ancorado ao lado do Al-Salmi, de acordo com dados de navegação.&lt;/p&gt;
+&lt;p&gt;O conflito, que dura um mês, espalhou-se pela região, matando milhares de pessoas, interrompendo o fornecimento de energia e ameaçando levar a economia global aocolapso.&lt;/p&gt;
+&lt;p&gt;Os preços do petróleo voltaram a subir brevemente após o ataque ao navio-tanque, que pode transportar cerca de 2 milhões de barris de petróleo, no valor de mais de US$ 200 milhões aos preços atuais.&lt;/p&gt;
+&lt;p&gt;Como os ataques não mostram sinais de abrandamento, o Paquistão está tentando mediar a guerra. Seu ministro das Relações Exteriores, Ishaq Dar, deve discutir o conflito durantevisita à China nestaterça-feira, depois de manter conversações com Turquia, Egito e Arábia Saudita.&lt;/p&gt;
+&lt;p&gt;A China, um dos aliados mais próximos do Irã e o maior comprador de seu petróleo, feznovo apelo a todos os lados para que interrompamas operações militares.&lt;/p&gt;
+&lt;p&gt;O país disse que três navios chineses foram recentemente autorizados a navegar pelo Estreito de Ormuz, que normalmente transporta cerca de um quinto dos suprimentos globais de petróleo e gás natural liquefeito.&lt;/p&gt;
+&lt;p&gt;O Irã afirma ter recebido propostas de paz dos EUA por meio de intermediários, mas o porta-voz do Ministério das Relações Exteriores afirmou ontemque elas eram &quot;irrealistas, ilógicas e excessivas&quot;.&lt;/p&gt;
+&lt;p&gt;Após esses comentários, Trump disse que os EUA estavam em negociações com um &quot;regime mais razoável&quot;, referindo-se aos líderes iranianos que substituíram os mortos na guerra, mas emitiunovo aviso sobre o Estreito de Ormuz.&lt;/p&gt;
+&lt;p&gt;Ele afirmou que os EUA destruiriam usinas de energia, poços de petróleo e a ilha de Kharg, de onde o Irã exporta grande parte de seu petróleo, se um acordo não fosse alcançado em breve e o estreito não fosse aberto.&lt;/p&gt;
+&lt;p&gt;O fracasso em garantir um acordo de paz fez com que o chefe de energia da União Europeia alertasse os Estados membros a se prepararem para uma &quot;interrupção prolongada&quot; nos mercados de energia.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/ira-incendeia-petroleiro-gigante-perto-de-dubai-apos-alertas-de-trump&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Reuters/Planet Labs PBC/Proibida reprodução/Arquivo
+Teerã atacou e incendiou um navio petroleiro totalmente carregado ao largo de Dubai nestaterça-...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-03-31 08:24:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-31 08:24:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-31 08:24:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-31 08:24:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/P6DH80wxQJPNGz-ddCzna_6mcMw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/14/2026-03-14t000317z_1_lynxmpem2d005_rtroptp_4_iran-crisis-oil-kharg.jpg?itok=6wqTTdh8</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Vigilância Sanitária orienta sobre compra de pescado na Semana Santa</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/vigilancia-sanitaria-orienta-sobre-compra-de-pescado-na-semana-santa</link>
+      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/vigilancia-sanitaria-orienta-sobre-compra-de-pescado-na-semana-santa#1004</guid>
+      <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
+Vigilância Sanitária da Secretaria Estadual de Saúde do Rio
+(SES-RJ) orienta os consumidores sobre a quali...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xuFkBI-iCiWwTDMD69FMuT8Lq6s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/30/pzzb4463.jpg?itok=Y6XzyCee&quot; alt=&quot;Vigilância Sanitária orienta sobre compra de pescado na Semana Santa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fabio Rodrigues-Pozzebom/ Agência Brasil&lt;/p&gt;
+&lt;p&gt;Vigilância Sanitária da Secretaria Estadual de Saúde do Rio&lt;/p&gt;
+&lt;p&gt;(SES-RJ) orienta os consumidores sobre a qualidade do pescado neste período da Semana Santa.&lt;/p&gt;
+&lt;p&gt;Dicas simples podem reduzir os riscos de intoxicação alimentar, neste momento em que o consumo de peixes e frutos do mar aumenta.&lt;/p&gt;
+&lt;p&gt;“Com atenção na compra, no armazenamento e no preparo dos alimentos, é possível evitar riscos e garantir um momento de celebração saudável”, destacou a superintendente de Vigilância Sanitária da SES-RJ, Helen Keller.&lt;/p&gt;
+&lt;p&gt;A nutricionista Jussara Salgado explica que&lt;/p&gt;
+&lt;p&gt;há sinais claros de que o pescado está fresco&lt;/p&gt;
+&lt;p&gt;. Por serem altamente perecíveis, peixes e frutos do mar podem se deteriorar rapidamente se não forem mantidos nas condições adequadas de conservação.&lt;/p&gt;
+&lt;p&gt;“O peixe deve ter carne firme, escamas brilhantes e bem aderidas à pele, olhos salientes e brilhantes, além de guelras vermelhas e cheiro suave, característico.”&lt;/p&gt;
+&lt;p&gt;consumidor deve evitar produtos com odor forte, semelhante ao de amônia, ou que não estejam devidamente refrigerados.&lt;/p&gt;
+&lt;p&gt;“O pescado precisa estar sobre uma camada de gelo, sem contato direto, e protegido por plástico adequado. Já os congelados devem estar bem armazenados, sem sinais de descongelamento, como embalagem úmida ou amolecida”, explicoua nutricionista.&lt;/p&gt;
+&lt;p&gt;Caraterísticas do peixe próprio para o consumo:&lt;/p&gt;
+&lt;p&gt;A recomendação é que o pescado seja armazenado o mais rápido possível após a compra. Em casa, deve ser limpo (com retirada de vísceras, escamas e resíduos), e guardado em recipiente fechado na geladeira.&lt;/p&gt;
+&lt;p&gt;O consumo do peixe cru deve ocorrer em até 24 horas. Já o alimento cozido pode ser mantido por até três dias, desde que refrigerado adequadamente.&lt;/p&gt;
+&lt;p&gt;“Durante o preparo, a higiene é essencial. Lavar bem as mãos antes e depois de manipular alimentos, higienizar utensílios e evitar o contato entre alimentos crus e cozidos são medidas simples, mas eficazes”, acrescentou Jussara Salgado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/vigilancia-sanitaria-orienta-sobre-compra-de-pescado-na-semana-santa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
+Vigilância Sanitária da Secretaria Estadual de Saúde do Rio
+(SES-RJ) orienta os consumidores sobre a quali...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-03-31 08:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-03-31 08:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-03-31 08:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-03-31 08:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/xuFkBI-iCiWwTDMD69FMuT8Lq6s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/30/pzzb4463.jpg?itok=Y6XzyCee</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Caixa conclui pagamento da parcela de março do Bolsa Família</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-conclui-pagamento-da-parcela-de-marco-do-bolsa-familia</link>
-      <pubDate>Tue, 31 Mar 2026 11:42:44 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-conclui-pagamento-da-parcela-de-marco-do-bolsa-familia#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-conclui-pagamento-da-parcela-de-marco-do-bolsa-familia#1005</guid>
       <description>A Caixa Econômica Federal conclui o pagamento da parcela de março do
 Recebem nesta terça-feira (31) os beneficiários com Número de Inscrição Social (...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iZVycUWx5cItawcdqQEkejt7D0I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53627831838_2fa74e7364_o.jpg?itok=EF_jy054&quot; alt=&quot;Caixa conclui pagamento da parcela de março do Bolsa Família&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +291,7 @@ Recebem nesta terça-feira (31) os beneficiários com Número de Inscrição Soc
 &lt;p&gt;. A medida beneficiou os moradores de 126 municípios do Rio Grande do Norte, que sofrem com a seca, e os moradores de Juiz de Fora, Ubá, Patrocínio do Muriaé e Formiga, em Minas Gerais,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/caixa-conclui-pagamento-da-parcela-de-marco-do-bolsa-familia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Caixa Econômica Federal conclui o pagamento da parcela de março do
 Recebem nesta terça-feira (31) os beneficiários com Número de Inscrição Social (...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-03-31 07:48:00</wp:post_date>
       <wp:post_date_gmt>2026-03-31 07:48:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-31 07:48:00</wp:post_modified>
@@ -73,9 +317,9 @@ Recebem nesta terça-feira (31) os beneficiários com Número de Inscrição Soc
     <item>
       <title>Mega-Sena sorteia nesta terça-feira prêmio estimado em R$ 3,5 milhões</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/mega-sena-sorteia-nesta-terca-feira-premio-estimado-em-r-35-milhoes</link>
-      <pubDate>Tue, 31 Mar 2026 11:42:44 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/mega-sena-sorteia-nesta-terca-feira-premio-estimado-em-r-35-milhoes#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/mega-sena-sorteia-nesta-terca-feira-premio-estimado-em-r-35-milhoes#1006</guid>
       <description>© Marcello Casal JrAgência Brasil
 As seis dezenas do concurso 2.991 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jNKq_a3p9ZWAHgLo0V-OFakQG7g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena_mcajr_abr_2904223676.jpg?itok=BWyQt9wC&quot; alt=&quot;Mega-Sena sorteia nesta terça-feira prêmio estimado em R$ 3,5 milhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -87,12 +331,16 @@ As seis dezenas do concurso 2.991 da Mega-Sena serão sorteadas, a partir das 21
 &lt;p&gt;e no Facebook das Loterias Caixa.&lt;/p&gt;
 &lt;p&gt;&gt;&gt;Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
 &lt;p&gt;O jogo simples, com seis números marcados, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;Banda que teve disco censurado na ditadura será indenizada pelo Estado&lt;/p&gt;
-&lt;p&gt;Depois da derrota contra a França, o que esperar de Brasil e Croácia?&lt;/p&gt;
-&lt;p&gt;Cientista brasileiro Carlos Nobre é nomeado conselheiro do Vaticano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/mega-sena-sorteia-nesta-terca-feira-premio-estimado-em-r-35-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Viva Maria relembra Eunice Michiles, a primeira senadora brasileira&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 7h30: Lula faz reunião ministerial às vésperas de saída de ministros que vão disputar eleições&lt;/p&gt;
+&lt;p&gt;Cientista brasileiro Carlos Nobre é nomeado conselheiro do Vaticano&lt;/p&gt;
+&lt;p&gt;Governo federal endurece regras de acesso ao aplicativo SouGov.br&lt;/p&gt;
+&lt;p&gt;Impacto ambiental da IA: centros de dados criam &quot;ilhas de calor&quot;&lt;/p&gt;
+&lt;p&gt;Saiba quem deve declarar Imposto de Renda em 2026&lt;/p&gt;
+&lt;p&gt;Grande incêndio atinge distribuidora de tintas em Diadema (SP)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/mega-sena-sorteia-nesta-terca-feira-premio-estimado-em-r-35-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 As seis dezenas do concurso 2.991 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço d...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-03-31 07:45:00</wp:post_date>
       <wp:post_date_gmt>2026-03-31 07:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-31 07:45:00</wp:post_modified>
@@ -118,9 +366,9 @@ As seis dezenas do concurso 2.991 da Mega-Sena serão sorteadas, a partir das 21
     <item>
       <title>Guerra no Irã amplia risco ambiental e climático, diz relatório</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/guerra-no-ira-amplia-risco-ambiental-e-climatico-diz-relatorio</link>
-      <pubDate>Tue, 31 Mar 2026 11:42:44 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/guerra-no-ira-amplia-risco-ambiental-e-climatico-diz-relatorio#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/guerra-no-ira-amplia-risco-ambiental-e-climatico-diz-relatorio#1007</guid>
       <description>© Majid Asgaripour/Reuters/Proibida a Reprodução
 A guerra dos Estados Unidos (EUA) e Israel contra o Irã completou um mês nofim de semana.Relatório d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Pb4Np597wXj9o7xvmubDO-ZO5b4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/05/2026-03-05t105908z_1_lynxmpem240ps_rtroptp_4_iran-crisis.jpg?itok=HvL93m_B&quot; alt=&quot;Guerra no Irã amplia risco ambiental e climático, diz relatório&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -141,7 +389,7 @@ A guerra dos Estados Unidos (EUA) e Israel contra o Irã completou um mês nofim
 &lt;p&gt;Climate and Community Institute&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-03/guerra-no-ira-amplia-risco-ambiental-e-climatico-diz-relatorio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Majid Asgaripour/Reuters/Proibida a Reprodução
 A guerra dos Estados Unidos (EUA) e Israel contra o Irã completou um mês nofim de semana.Relatório d...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-03-31 07:40:00</wp:post_date>
       <wp:post_date_gmt>2026-03-31 07:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-31 07:40:00</wp:post_modified>
@@ -167,9 +415,9 @@ A guerra dos Estados Unidos (EUA) e Israel contra o Irã completou um mês nofim
     <item>
       <title>Receita paga lote da malha fina do Imposto de Renda de março</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/receita-paga-lote-da-malha-fina-do-imposto-de-renda-de-marco</link>
-      <pubDate>Tue, 31 Mar 2026 11:42:44 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/receita-paga-lote-da-malha-fina-do-imposto-de-renda-de-marco#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/receita-paga-lote-da-malha-fina-do-imposto-de-renda-de-marco#1008</guid>
       <description>© Marcello Casal Jr/Agência Brasil/Arquivo
 Cerca de 87 mil contribuintes que caíram na malha fina e regularizaram as pendênciasvão acertar as contas ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/h23n_0bfQZfJZuOywZokzWyJYJs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moeda_dinheiro_mcajr_2904223675.jpg?itok=lBuQHeSN&quot; alt=&quot;Receita paga lote da malha fina do Imposto de Renda de março&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -190,7 +438,7 @@ Cerca de 87 mil contribuintes que caíram na malha fina e regularizaram as pend�
 &lt;p&gt;(e-CAC)e tirar o extrato da declaração. Se verificar uma pendência, pode enviar uma declaração retificadora e esperar os próximos lotes da malha fina.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/receita-paga-lote-da-malha-fina-do-imposto-de-renda-de-marco&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal Jr/Agência Brasil/Arquivo
 Cerca de 87 mil contribuintes que caíram na malha fina e regularizaram as pendênciasvão acertar as contas ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-03-31 07:28:00</wp:post_date>
       <wp:post_date_gmt>2026-03-31 07:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-31 07:28:00</wp:post_modified>
@@ -216,9 +464,9 @@ Cerca de 87 mil contribuintes que caíram na malha fina e regularizaram as pend�
     <item>
       <title>“Não posso parar”, diz ativista que perdeu familiares na ditadura</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/nao-posso-parar-diz-ativista-que-perdeu-familiares-na-ditadura</link>
-      <pubDate>Tue, 31 Mar 2026 11:42:44 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2026 13:00:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/nao-posso-parar-diz-ativista-que-perdeu-familiares-na-ditadura#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/nao-posso-parar-diz-ativista-que-perdeu-familiares-na-ditadura#1009</guid>
       <description>A professora e ativista Victória Grabois perdeu o pai, Maurício, o irmão, André, e o marido, Gilberto Olímpio, no ano de 1973, assassinados por agent...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Bg25Ek1CeV50QbwPiJVQoGdRaDE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/29/_int8144.jpg?itok=P3dyswWH&quot; alt=&quot;“Não posso parar”, diz ativista que perdeu familiares na ditadura&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A professora e ativista Victória Grabois perdeu o pai, Maurício, o irmão, André, e o marido, Gilberto Olímpio, no ano de 1973, assassinados por agentes do Estado na região da Serra do Araguaia. Eles atuavam na guerrilha e defendiam o fim do regime de exceção no período. “Não posso parar e faço tudo o que eu puder fazer para divulgar a memória e acabar com o silenciamento”.&lt;/p&gt;
@@ -237,7 +485,7 @@ Cerca de 87 mil contribuintes que caíram na malha fina e regularizaram as pend�
 &lt;p&gt;Segundo a presidente da comissão de mortos e desaparecidos, Eugênia Gonzaga, a prioridade pelas retificações de certidões de óbitose revelou a mais importante das medidas de reparação&lt;/p&gt;
 &lt;p&gt;. &quot;É uma iniciativa que vem sendo muito bem recebida e a gente quer, então, fazer as 434 retificações para todas as famílias e, se possível, fazer a entrega delas em ocasião solene, com pedido de desculpas&quot;, afirmou.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/nao-posso-parar-diz-ativista-que-perdeu-familiares-na-ditadura&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A professora e ativista Victória Grabois perdeu o pai, Maurício, o irmão, André, e o marido, Gilberto Olímpio, no ano de 1973, assassinados por agent...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-03-31 07:13:00</wp:post_date>
       <wp:post_date_gmt>2026-03-31 07:13:00</wp:post_date_gmt>
       <wp:post_modified>2026-03-31 07:13:00</wp:post_modified>
@@ -258,249 +506,6 @@ Cerca de 87 mil contribuintes que caíram na malha fina e regularizaram as pend�
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/Bg25Ek1CeV50QbwPiJVQoGdRaDE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/29/_int8144.jpg?itok=P3dyswWH</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Fatores sociais empurram famílias para ultraprocessados, diz pesquisa</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/fatores-sociais-empurram-familias-para-ultraprocessados-diz-pesquisa</link>
-      <pubDate>Tue, 31 Mar 2026 11:42:44 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/fatores-sociais-empurram-familias-para-ultraprocessados-diz-pesquisa#1005</guid>
-      <description>A sobrecarga materna, o preço atraente e até componentes afetivos são alguns dos fatores sociais que impulsionam o consumo de alimentos ultraprocessa...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Fd5sT3fRqcbtsKQWmMObS1Bs-8I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/refrigerantes.jpg?itok=ns-f7lyc&quot; alt=&quot;Fatores sociais empurram famílias para ultraprocessados, diz pesquisa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A sobrecarga materna, o preço atraente e até componentes afetivos são alguns dos fatores sociais que impulsionam o consumo de alimentos ultraprocessados por crianças em comunidades urbanas de diferentes cidades brasileiras, segundo pesquisa divulgada nesta terça-feira (31) peloFundo das Nações Unidas para a Infância (Unicef).&lt;/p&gt;
-&lt;p&gt;O estudo entrevistou cerca de 600 famílias de três comunidades urbanas do país: Guamá, em Belém (PA);Ibura, em Recife (PE);e Pavuna, no Rio de Janeiro (RJ).&lt;/p&gt;
-&lt;p&gt;Apesar de 84% dos entrevistados se considerarem muito preocupados em oferecer uma alimentação saudável para suas famílias, em metade dos lares os alimentos ultraprocessados faziam parte do lanche das crianças. Além disso, em um a cada quatro, algum desses produtosestava no café da manhã.&lt;/p&gt;
-&lt;p&gt;Os produtos ultraprocessados mais presentes nas casas foram iogurte com sabor, embutidos, biscoito recheado, refrigerante e macarrão instantâneo.&lt;/p&gt;
-&lt;p&gt;Os ultraprocessados são produtos alimentícios de origem industrial, resultantes da mistura de ingredientes naturais com aditivos químicos, como corantes, aromatizantes e emulsificantes. Isso permite a fabricação de produtos de baixo custo, longa durabilidade e com sabores intensos, que viciam o paladar.&lt;/p&gt;
-&lt;p&gt;Evidências científicas mostram que o seu consumo aumenta o risco de doenças como obesidade, diabetes, problemas cardíacos, depressão e câncer.&lt;/p&gt;
-&lt;p&gt;Nas famílias ouvidas pela pesquisa, 87% das mães exerceram a tarefa de comprar e servir o alimento às crianças, e 82% delas também foram responsáveis pela preparação.&lt;/p&gt;
-&lt;p&gt;Já entre os pais, apenas 40% comprou alimentos, enquanto 27% cozinharam e 31% ofereceram a comida às crianças da casa.&lt;/p&gt;
-&lt;p&gt;A oficial de Saúde e Nutrição do Unicef no Brasil, Stephanie Amaral, ressalta a sobrecarga das mulheres nos cuidados com a alimentação.&lt;/p&gt;
-&lt;p&gt;&quot;Muitas mães fazem isso sozinhas, além de trabalhar fora. É uma sobrecarga que acaba fazendo com que a praticidade dos alimentos ultraprocessados pese muito mais&quot;.&lt;/p&gt;
-&lt;p&gt;Outro ponto destacado pela pesquisa é o desconhecimentosobre os produtos ultraprocessados. Muitos alimentos que se enquadram nessa categoriaforam apontados como saudáveis pela maioria dos entrevistados, como os iogurtes com sabor e os nuggets de frango fritos na&lt;/p&gt;
-&lt;p&gt;A nova rotulagem frontal dos produtos, que traz avisos quando eles têm grande concentração de sódio, açúcar e gorduras saturadas também não cumpre seu papel de forma integral: 26% dos entrevistados disseram não saber o que esses avisos significam.&lt;/p&gt;
-&lt;p&gt;Além disso, 55% dos entrevistados nunca observam os avisos de alto teor no rótulo dos alimentos, e 62% admitem que nunca deixaram de comprar algum produto por causa deles.&lt;/p&gt;
-&lt;p&gt;A percepção de preço também pode influenciar no consumo.&lt;/p&gt;
-&lt;p&gt;A maioria das famílias (67%) considera que os sucos de caixinha, salgadinhos e refrigerantes são baratos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-03/fatores-sociais-empurram-familias-para-ultraprocessados-diz-pesquisa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A sobrecarga materna, o preço atraente e até componentes afetivos são alguns dos fatores sociais que impulsionam o consumo de alimentos ultraprocessa...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-03-31 07:00:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-31 07:00:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-31 07:00:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-31 07:00:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Fd5sT3fRqcbtsKQWmMObS1Bs-8I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/refrigerantes.jpg?itok=ns-f7lyc</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Governo bloqueia R$ 1,2 bi do Executivo e R$ 334 mi de emendas</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/governo-bloqueia-r-12-bilhao-do-executivo-e-r-334-milhoes-de-emendas</link>
-      <pubDate>Tue, 31 Mar 2026 11:42:44 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/governo-bloqueia-r-12-bilhao-do-executivo-e-r-334-milhoes-de-emendas#1006</guid>
-      <description>© Antônio Cruz/ Agência Brasil/Arquivo
-bloqueio de R$ 1,6 bilhão do Orçamento de 2026
-preservaráos gastos com o Programa de Aceleração do Crescimento...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/udomH8Ox7Jlptgi8DnT0pGgMtk8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pzzb0193.jpg?itok=mG4qgDy4&quot; alt=&quot;Governo bloqueia R$ 1,2 bi do Executivo e R$ 334 mi de emendas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Antônio Cruz/ Agência Brasil/Arquivo&lt;/p&gt;
-&lt;p&gt;bloqueio de R$ 1,6 bilhão do Orçamento de 2026&lt;/p&gt;
-&lt;p&gt;preservaráos gastos com o Programa de Aceleração do Crescimento (PAC)&lt;/p&gt;
-&lt;p&gt;, divulgou nesta segunda-feira (30) o Ministério do Planejamento e Orçamento.&lt;/p&gt;
-&lt;p&gt;O governo federal publicou nesta noite segunda-feira (30) o&lt;/p&gt;
-&lt;p&gt;novo decreto de programação orçamentária e financeira do primeiro bimestre&lt;/p&gt;
-&lt;p&gt;, que detalha a distribuição por órgãos do congelamento de recursos orçamentários.&lt;/p&gt;
-&lt;p&gt;a maior parte, R$ 1,26 bilhão, atinge despesas discricionárias (não obrigatórias) do Poder Executivo classificadas como RP2,o que exclui os investimentos do PAC.&lt;/p&gt;
-&lt;p&gt;R$ 334 milhões recaem sobre emendas parlamentares&lt;/p&gt;
-&lt;p&gt;A Lei de Diretrizes Orçamentárias regulamenta como se dará o bloqueio das emendas parlamentares, incluindo emendas impositivas.&lt;/p&gt;
-&lt;p&gt;Além do bloqueio, o decreto mantém o chamado faseamento de empenho, mecanismo que limita o empenho (autorização) de despesas ao longo do ano. Na prática, isso impõe uma restrição de até R$ 42,9 bilhões nos gastos discricionários até novembro.&lt;/p&gt;
-&lt;p&gt;O objetivo é alinhar o ritmo de execução das despesas à arrecadação prevista, evitando desequilíbrios nas contas públicas e permitindo ajustes ao longo do exercício, caso novas necessidades de contenção surjam.&lt;/p&gt;
-&lt;p&gt;O decreto estabelece que os limites de empenho serão liberados em etapas ao longo do ano — com prazos previstos para maio, novembro e dezembro. A estratégia acompanha os ciclos de reavaliação fiscal e permite maior controle sobre a execução do Orçamento.&lt;/p&gt;
-&lt;p&gt;Os cortes atingem diferentes áreas do governo, com&lt;/p&gt;
-&lt;p&gt;maior impacto em pastas como o Ministério dos Transportes, que concentra R$ 476,7 milhões do bloqueio, seguido por órgãos ligados à infraestrutura e desenvolvimento regional&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/governo-bloqueia-r-12-bilhao-do-executivo-e-r-334-milhoes-de-emendas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Antônio Cruz/ Agência Brasil/Arquivo
-bloqueio de R$ 1,6 bilhão do Orçamento de 2026
-preservaráos gastos com o Programa de Aceleração do Crescimento...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-03-30 21:49:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-30 21:49:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-30 21:49:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-30 21:49:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/udomH8Ox7Jlptgi8DnT0pGgMtk8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pzzb0193.jpg?itok=mG4qgDy4</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Zanin condena acusado de participar de trote misógino contra alunas</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/zanin-condena-acusado-de-participar-de-trote-misogino-contra-alunas</link>
-      <pubDate>Tue, 31 Mar 2026 11:42:44 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/zanin-condena-acusado-de-participar-de-trote-misogino-contra-alunas#1007</guid>
-      <description>O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), decidiu nesta segunda-feira (30) condenar o médico Matheus Gabriel Braia ao pagamento ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NyTr0UfnAEEi1b0lpju4-nhLiJ4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/53186968519_a5fc7f7042_o.jpg?itok=3vC7JfPh&quot; alt=&quot;Zanin condena acusado de participar de trote misógino contra alunas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), decidiu nesta segunda-feira (30) condenar o médico Matheus Gabriel Braia ao pagamento de danos morais por participar de um trote universitário misógino, em 2019.&lt;/p&gt;
-&lt;p&gt;O ministro aceitou recurso do Ministério Público para anular decisões das instâncias inferiores que absolveram o acusado da imputação de promover discurso para expor calouras a tratamento humilhante e ofender a dignidade das mulheres.&lt;/p&gt;
-&lt;p&gt;O caso ocorreu no curso de medicina da Universidade de Franca (Unifran), em 2019. De acordo com o processo, o acusado, que é ex-aluno da faculdade, foi responsável por ler um discurso de “juramento” que deveria ser repetido pelas calouras do curso.&lt;/p&gt;
-&lt;p&gt;O texto dizia que as alunas “deveriam estar à disposição dos veteranos” e “nunca recusar a uma tentativa de coito de um veterano”.&lt;/p&gt;
-&lt;p&gt;Após ser processado pelas falas, uma juíza absolveu o acusado e disse que o discurso não causou ofensa às mulheres.&lt;/p&gt;
-&lt;p&gt;Para justificar a absolvição, a magistrada disse que a acusação retratava uma “panfletagem feminista”.&lt;/p&gt;
-&lt;p&gt;A segunda instância também manteve a absolvição e entendeu que as alunas não rechaçaram “a brincadeira proposta”. Em seguida, o STJ reconheceu que as declarações são “moralmente reprováveis”, mas não alterou o entendimento.&lt;/p&gt;
-&lt;p&gt;Ao decidir a questão, Zanin criticou as decisões anteriores e disse que a proteção aos direitos das mulheres deve ser garantida em todas as instâncias do Judiciário.&lt;/p&gt;
-&lt;p&gt;“Vê-se que, no julgamento em primeira instância, decidiu-se que o feminismo foi o provocador das falas impróprias contra as mulheres. Já em segunda instância, a culpa foi das calouras, que não se recusaram a entoar o juramento infame”, escreveu o ministro.&lt;/p&gt;
-&lt;p&gt;Com a condenação, o acusado deverá pagar 40 salários mínimos em danos coletivos, valor equivalente a R$ 64,8 mil.&lt;/p&gt;
-&lt;p&gt;entrou em contato com o escritório de advocacia que faz a defesa do médico e aguarda retorno. O espaço está aberto para manifestação.&lt;/p&gt;
-&lt;p&gt;Banda que teve disco censurado na ditadura será indenizada pelo Estado&lt;/p&gt;
-&lt;p&gt;Depois da derrota contra a França, o que esperar de Brasil e Croácia?&lt;/p&gt;
-&lt;p&gt;Cientista brasileiro Carlos Nobre é nomeado conselheiro do Vaticano&lt;/p&gt;
-&lt;p&gt;Prazo para BRB apresentar balanço acaba nesta terça-feira (31)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/zanin-condena-acusado-de-participar-de-trote-misogino-contra-alunas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), decidiu nesta segunda-feira (30) condenar o médico Matheus Gabriel Braia ao pagamento ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-03-30 20:22:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-30 20:22:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-30 20:22:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-30 20:22:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/NyTr0UfnAEEi1b0lpju4-nhLiJ4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/53186968519_a5fc7f7042_o.jpg?itok=3vC7JfPh</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>ONUcobra acesso a direitos básicos para pessoas em situação de rua</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/onu-cobra-acesso-direitos-basicos-para-pessoas-em-situacao-de-rua</link>
-      <pubDate>Tue, 31 Mar 2026 11:42:44 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/onu-cobra-acesso-direitos-basicos-para-pessoas-em-situacao-de-rua#1008</guid>
-      <description>O Conselho de Direitos Humanos das Nações Unidas aprovou, por consenso, uma resolução inédita sobre a população em situação de rua. O documento convo...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hp--oHFkBZ1ad2lAzGMC23NO7sg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/21/0g0a1892_0.jpg?itok=bnKlWY1-&quot; alt=&quot;ONUcobra acesso a direitos básicos para pessoas em situação de rua&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Conselho de Direitos Humanos das Nações Unidas aprovou, por consenso, uma resolução inédita sobre a população em situação de rua. O documento convoca os países a adotarem ações que garantam dignidade, inclusão e acesso a direitos. O Brasil foi um dos líderes da iniciativa.&lt;/p&gt;
-&lt;p&gt;O Ministério dos Direitos Humanos e da Cidadania (MDHC)comemorou a decisão nas redes sociais.&lt;/p&gt;
-&lt;p&gt;Para a pasta, a medida representa um passo histórico de reconhecimento de um grupo invisibilizado.&lt;/p&gt;
-&lt;p&gt;“O texto destaca a necessidade de assegurar o acesso a direitos básicos, como moradia, alimentação, saúde, educação, trabalho e documentação, além de combater a violência e a discriminação, inclusive quando praticadas por agentes públicos”, diz o MDHC.&lt;/p&gt;
-&lt;p&gt;“Também chama atenção para a invisibilidade dessa população no mundo e para a urgência de produzir dados mais precisos, capazes de orientar políticas públicas mais eficazes”, complementa a pasta.&lt;/p&gt;
-&lt;p&gt;O secretário executivo do Movimento Nacional da População de Rua do Rio de Janeiro (MNPR/RJ), Flávio Lino, comemorou a aprovação do documento.Lino tem se envolvidodiretamente na promoção dessa agenda no plano internacional. Eleparticipou de debates e encontros no Brics, no G20 e na própria ONU.&lt;/p&gt;
-&lt;p&gt;“A resolução é o reconhecimento de uma luta construída há décadas nas ruas e representa a abertura de um novo patamar de participação política no plano internacional. Ela rompe com uma lógica de criminalização da pobreza. Esperamos que ela se traduza em políticas públicas diretas e assegure a participação da população de rua na luta por direitos”, destaca.&lt;/p&gt;
-&lt;p&gt;Ele também entende que a liderança do Brasil no processo é significativa, mas reforça as responsabilidades do país em lidar com os próprios problemas.&lt;/p&gt;
-&lt;p&gt;“Quando o país se posiciona internacionalmente em defesa dos direitos da população em situação de rua, assume um compromisso público. Ou seja, será mais cobrado pela comunidade internacional e pelos próprios movimentos sociais internos. Não é possível defender esses direitos fora e negar esses mesmos direitos dentro do país”, dizo secretário.&lt;/p&gt;
-&lt;p&gt;A resolução foi submetida à 61ª sessão do Conselho de Direitos Humanos das Nações Unidas, que ocorre de 23 de fevereiro a 31 de março de 2026 na sede da instituição.&lt;/p&gt;
-&lt;p&gt;Além do Brasil, assinam a proposta inicial: Albânia, Cabo Verde, República Dominicana, Etiópia, Grécia, Guatemala, Portugal, Reino Unido, Irlanda do Norte e Uruguai.&lt;/p&gt;
-&lt;p&gt;O texto é divididoem 10 tópicos:&lt;/p&gt;
-&lt;p&gt;Condena todas as formas de discriminação, estigmatização, abuso e violência contra pessoas em situação de rua. Proteger os direitos dessa população, especialmente mulheres, meninas, crianças, idosos e pessoas com deficiência;&lt;/p&gt;
-&lt;p&gt;Convoca Estados a tomarem todas as medidas necessárias para eliminar legislações que criminalizem pessoas nestas condições;&lt;/p&gt;
-&lt;p&gt;Pede que Estados implementem e reforcem sistemas e medidas de proteção social adequados, incluindo garantias básicas;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/onu-cobra-acesso-direitos-basicos-para-pessoas-em-situacao-de-rua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Conselho de Direitos Humanos das Nações Unidas aprovou, por consenso, uma resolução inédita sobre a população em situação de rua. O documento convo...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-03-30 19:47:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-30 19:47:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-30 19:47:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-30 19:47:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/hp--oHFkBZ1ad2lAzGMC23NO7sg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/21/0g0a1892_0.jpg?itok=bnKlWY1-</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Na Mesa com Datena recebe o promotor Lincoln Gakiya nesta terça-feira</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/na-mesa-com-datena-recebe-o-promotor-lincoln-gakiya-nesta-terca-feira</link>
-      <pubDate>Tue, 31 Mar 2026 11:42:44 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/na-mesa-com-datena-recebe-o-promotor-lincoln-gakiya-nesta-terca-feira#1009</guid>
-      <description>exibe nesta terça-feira (31), às 21h, uma nova edição do
-, programa semanal de entrevistas comandado por José Luiz Datena.
-Neste episódio, o convidad...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/n8y-TytHQnPMxOx2CV-JSs7w6Fw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/19/pint2650.jpg.jpeg?itok=4PZVTlO_&quot; alt=&quot;Na Mesa com Datena recebe o promotor Lincoln Gakiya nesta terça-feira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;exibe nesta terça-feira (31), às 21h, uma nova edição do&lt;/p&gt;
-&lt;p&gt;, programa semanal de entrevistas comandado por José Luiz Datena.&lt;/p&gt;
-&lt;p&gt;Neste episódio, o convidado é o promotor Lincoln Gakiya, promotor de Justiça integrante do Grupo de Atuação Especial de Combate ao Crime Organizado do Ministério Público de São Paulo (GAECO).&lt;/p&gt;
-&lt;p&gt;Gakiya é um dos principais nomes no combate ao crime organizado no país e recebe proteção pessoal há mais de 20 anos por ter sido ameaçado de morte pela facção criminosa PCC.&lt;/p&gt;
-&lt;p&gt;, Lincoln Gakiya comenta como funciona a lavagem de dinheiro de organizações criminosas e avalia o cenário internacional.&lt;/p&gt;
-&lt;p&gt;Segundo o jornal norte-americano&lt;/p&gt;
-&lt;p&gt;, o presidente dos Estados Unidos, Donald Trump, pretende enquadrar as facções brasileiras Primeiro Comando da Capital (PCC) e o Comando Vermelho (CV) como organizações terroristas.&lt;/p&gt;
-&lt;p&gt;, o promotor também compartilha seu cotidiano com as constantes ameaças que sofre por sua atuação no combate ao crime organizado. Em seu trabalho, Gakiya foi um dos responsáveis por transferir a alta cúpula do PCC para presídios de segurança máxima.&lt;/p&gt;
-&lt;p&gt;Estreado no dia 10 de março com a participação do vice-presidente Geraldo Alckmin,&lt;/p&gt;
-&lt;p&gt;marca a chegada de José Luiz Datena à programação da&lt;/p&gt;
-&lt;p&gt;Com mais de 50 anos de carreira, duas vezes vencedor do Prêmio Vladimir Herzog e passagens pelas maiores emissoras do país, o apresentador conduz entrevistas que se destacam pela escuta atenta e pelo protagonismo reservado ao convidado.&lt;/p&gt;
-&lt;p&gt;A atração integra a estratégia da&lt;/p&gt;
-&lt;p&gt;Empresa Brasil de Comunicação (EBC)&lt;/p&gt;
-&lt;p&gt;de fortalecer o jornalismo em seus veículos, ampliar o tempo de cobertura factual e aprofundar debates sobre temas de interesse público, reforçando o papel da comunicação pública como espaço de informação segura, acessível e plural.&lt;/p&gt;
-&lt;p&gt;- terça-feira, dia 31/03, às 21h, na&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-03/na-mesa-com-datena-recebe-o-promotor-lincoln-gakiya-nesta-terca-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>exibe nesta terça-feira (31), às 21h, uma nova edição do
-, programa semanal de entrevistas comandado por José Luiz Datena.
-Neste episódio, o convidad...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-03-30 19:27:00</wp:post_date>
-      <wp:post_date_gmt>2026-03-30 19:27:00</wp:post_date_gmt>
-      <wp:post_modified>2026-03-30 19:27:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-03-30 19:27:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/n8y-TytHQnPMxOx2CV-JSs7w6Fw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/19/pint2650.jpg.jpeg?itok=4PZVTlO_</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
