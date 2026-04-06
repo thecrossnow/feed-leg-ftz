@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 06 Apr 2026 18:47:00 +0000</pubDate>
+    <pubDate>Mon, 06 Apr 2026 19:47:09 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,107 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Preço médio do self-service por quilo chega a R$ 86,86 em São Paulo</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/preco-medio-do-self-service-por-quilo-chega-r-8686-em-sao-paulo</link>
+      <pubDate>Mon, 06 Apr 2026 19:47:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/preco-medio-do-self-service-por-quilo-chega-r-8686-em-sao-paulo#1000</guid>
+      <description>© Marcelo Camargo/Agência Brasil/Arquivo
+Pesquisa divulgada nesta segunda-feira (6) pelo Procon-SP mostra forte variação de preços em restaurantes do...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Jpb4yCXmlFNAAgWOj0e9H8rLcSg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/17-09-2020_comida_restaurante-7.jpg?itok=hFve9H3H&quot; alt=&quot;Preço médio do self-service por quilo chega a R$ 86,86 em São Paulo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/Agência Brasil/Arquivo&lt;/p&gt;
+&lt;p&gt;Pesquisa divulgada nesta segunda-feira (6) pelo Procon-SP mostra forte variação de preços em restaurantes do tipo&lt;/p&gt;
+&lt;p&gt;considerando as diferentes regiões da capital paulista.&lt;/p&gt;
+&lt;p&gt;No sistema cobrado por quilo, o preçomédio ficou em R$ 86,86 em fevereiro de 2026.&lt;/p&gt;
+&lt;p&gt;Os valoresoscilam entre R$ 79,49 e R$ 94,36, respectivamente, nas zonas norte e oeste,&lt;/p&gt;
+&lt;p&gt;Na modalidade de preço fixo, o valor médio ficou em R$ 58,91.&lt;/p&gt;
+&lt;p&gt;Na região norte, a média é de R$ 36,74, enquanto na sul chega a R$ 71,39 (&lt;/p&gt;
+&lt;p&gt;Com preço médio de R$ 38,65, o prato feito do dia teve variação entre R$ 32,47, na zona norte, e R$ 44,85, na zona oeste, com diferença de 38,13%.&lt;/p&gt;
+&lt;p&gt;Já o prato executivo de frango variou entre R$ 35,11 e R$ 51,31 (46,14%), com valor médio de R$ 42,98.&lt;/p&gt;
+&lt;p&gt;analisou 350 estabelecimentos distribuídos pelas cinco regiões do município, com dados coletados em fevereiro.&lt;/p&gt;
+&lt;p&gt;A pesquisa também indica que a maioria dos estabelecimentos oferece mais de um tipo de refeição, o que amplia as opções para o consumidor.&lt;/p&gt;
+&lt;p&gt;O Procon-SP recomenda, no entanto, que é preciso ter atenção na comparação de preços e na escolha conforme o custo-benefício.&lt;/p&gt;
+&lt;p&gt;O Procon-SP explica que, no caso de&lt;/p&gt;
+&lt;p&gt;por quilo,foipossível fazer comparações de preços entre aqueles estabelecimentos do município de São Paulo comuns a todos os levantamentos feitos desde 2020.&lt;/p&gt;
+&lt;p&gt;Dessa forma, a amostra foi constituída por 51 estabelecimentos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/preco-medio-do-self-service-por-quilo-chega-r-8686-em-sao-paulo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/Agência Brasil/Arquivo
+Pesquisa divulgada nesta segunda-feira (6) pelo Procon-SP mostra forte variação de preços em restaurantes do...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-04-06 15:59:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-06 15:59:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-06 15:59:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-06 15:59:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Jpb4yCXmlFNAAgWOj0e9H8rLcSg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/17-09-2020_comida_restaurante-7.jpg?itok=hFve9H3H</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>PF diz que PM do Rio ainda não entregou imagens da Operação Contenção</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/pf-diz-que-pm-do-rio-ainda-nao-entregou-imagens-da-operacao-contencao</link>
+      <pubDate>Mon, 06 Apr 2026 19:47:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/pf-diz-que-pm-do-rio-ainda-nao-entregou-imagens-da-operacao-contencao#1001</guid>
+      <description>A Policia Federal (PF) informou nesta segunda-feira (6) ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que ainda não recebeu as ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/TZ9ZNE4Nvah2vhP1jfa58zkdDRQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/21/retrospectiva96.jpg?itok=AZowltSu&quot; alt=&quot;PF diz que PM do Rio ainda não entregou imagens da Operação Contenção&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Policia Federal (PF) informou nesta segunda-feira (6) ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que ainda não recebeu as imagens capturadas pelas câmeras corporais dos policiais militares que participaram da&lt;/p&gt;
+&lt;p&gt;, realizada, no ano passado, no Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Em março deste ano, Moraes determinou que as polícias Militar e Civil&lt;/p&gt;
+&lt;p&gt;devem enviar à PF as imagens da operação&lt;/p&gt;
+&lt;p&gt;, que deixou mais de 120 mortos. A corporação será responsável pela perícia do material.&lt;/p&gt;
+&lt;p&gt;Em ofício enviado ao ministro, o diretor-geral da PF, Andrei Rodrigues, disse que a corporaçãoestá realizando a perícia do material enviado pela Polícia Civil, mas as imagens da Polícia Militar ainda não foram recebidas.&lt;/p&gt;
+&lt;p&gt;“Não foi recebido qualquer acervo audiovisual relativo às equipes da Polícia Militar do Estado do Rio de Janeiro (PMERJ)que atuaram na operação com efetivo significativamente maior e número substancialmente superior de dispositivos de gravação corporal”, afirmou Andrei Rodrigues.&lt;/p&gt;
+&lt;p&gt;O diretor também pediu mais prazo para analisar as imagens. Segundo Andre Rodriguesi, a perícia do material da Polícia Civil levará pelo menos 90 dias. Serão analisadas cerca de 400 horas de gravações.&lt;/p&gt;
+&lt;p&gt;“Cumpre informar que equipe de 10 peritos criminais federais já se encontra mobilizada, trabalhando nos exames com caráter prioritário, no entanto não se revela tecnicamente viável o cumprimento do prazo de 15 dias fixado na decisão, à luz das condições atualmente verificadas, sendo imprescindível a concessão do prazo técnico estimado em pelo menos 90 dias”, completou.&lt;/p&gt;
+&lt;p&gt;A apuração sobre a legalidade da operação ocorre no âmbito do processo conhecido como&lt;/p&gt;
+&lt;p&gt;- Arguição de Descumprimento de Preceito Fundamental (ADPF) nº 635.&lt;/p&gt;
+&lt;p&gt;Na ação, a Corte já determinou diversas medidas para redução da letalidade durante operações em comunidades do Riode Janeiro.&lt;/p&gt;
+&lt;p&gt;&quot;Não é em vão que chegamos aqui&quot;, diz indígena acampada em Brasília&lt;/p&gt;
+&lt;p&gt;Desintoxicação para quem exagerou no consumo de chocolate na Páscoa&lt;/p&gt;
+&lt;p&gt;EUA concluem resgate de piloto de caça F-15 abatido pelo Irã&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/pf-diz-que-pm-do-rio-ainda-nao-entregou-imagens-da-operacao-contencao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Policia Federal (PF) informou nesta segunda-feira (6) ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que ainda não recebeu as ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-04-06 15:39:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-06 15:39:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-06 15:39:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-06 15:39:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/TZ9ZNE4Nvah2vhP1jfa58zkdDRQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/21/retrospectiva96.jpg?itok=AZowltSu</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>MEC disponibiliza aplicativo gratuito com oito mil livros</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-disponibiliza-aplicativo-gratuito-com-oito-mil-livros</link>
-      <pubDate>Mon, 06 Apr 2026 18:47:00 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 19:47:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-disponibiliza-aplicativo-gratuito-com-oito-mil-livros#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-disponibiliza-aplicativo-gratuito-com-oito-mil-livros#1002</guid>
       <description>O Ministério da Educação (MEC) disponibilizou para download, nesta segunda-feira (6), o aplicativo
 com quase oito mil obras literárias disponíveis pa...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iKCCpu_iGYo8UAZim_qWlpMZCMg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/14/library-1147815.jpg?itok=p6doUTLU&quot; alt=&quot;MEC disponibiliza aplicativo gratuito com oito mil livros&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -42,12 +138,12 @@ com quase oito mil obras literárias disponíveis pa...</description>
 &lt;p&gt;Com a nova ferramenta, o estudante poderá percorrer seis níveis de aprendizado nos idiomas, do básico ao avançado. Nesse caso, as experiências serão melhoradas com o apoio do agente de inteligência artificial para prática de conversação, teste de proficiência, notificações e aulas de reforço.&lt;/p&gt;
 &lt;p&gt;“O objetivo é ser o primeiro ponto de contato digital entre o estudante de línguas iniciante e o idioma de sua escolha, acompanhando seu aprendizado até níveis mais avançados”, informou o MEC, por meio de nota.&lt;/p&gt;
 &lt;p&gt;De acordo com o MEC, a iniciativa demandará investimentos de R$ 1,68 milhão ao ano e poderá alcançar 16 mil estudantes por semestre.&lt;/p&gt;
-&lt;p&gt;Dia Internacional do Esporte celebra a prática como forma de inclusão&lt;/p&gt;
+&lt;p&gt;&quot;Não é em vão que chegamos aqui&quot;, diz indígena acampada em Brasília&lt;/p&gt;
 &lt;p&gt;Desintoxicação para quem exagerou no consumo de chocolate na Páscoa&lt;/p&gt;
-&lt;p&gt;Eleições: onze governadores deixaram os cargos para serem candidatos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-disponibiliza-aplicativo-gratuito-com-oito-mil-livros&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;EUA concluem resgate de piloto de caça F-15 abatido pelo Irã&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-disponibiliza-aplicativo-gratuito-com-oito-mil-livros&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Ministério da Educação (MEC) disponibilizou para download, nesta segunda-feira (6), o aplicativo
 com quase oito mil obras literárias disponíveis pa...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-04-06 15:07:00</wp:post_date>
       <wp:post_date_gmt>2026-04-06 15:07:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-06 15:07:00</wp:post_modified>
@@ -73,9 +169,9 @@ com quase oito mil obras literárias disponíveis pa...</excerpt:encoded>
     <item>
       <title>Famílias afetadas por enchentes em MG precisam validar cadastro</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/familias-afetadas-por-enchentes-em-mg-precisam-validar-cadastro</link>
-      <pubDate>Mon, 06 Apr 2026 18:47:00 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 19:47:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/familias-afetadas-por-enchentes-em-mg-precisam-validar-cadastro#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/familias-afetadas-por-enchentes-em-mg-precisam-validar-cadastro#1003</guid>
       <description>Famílias atingidas pelas chuvas em Juiz de Fora e Ubá, em Minas Gerais, já podem avançar no processo para receber o Auxílio Reconstrução, no valor de...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vJfh7brtdORzruZUzp66HG5Exv8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/_rbr5563ta_44_1.jpg?itok=eGlv9G8S&quot; alt=&quot;Famílias afetadas por enchentes em MG precisam validar cadastro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Famílias atingidas pelas chuvas em Juiz de Fora e Ubá, em Minas Gerais, já podem avançar no processo para receber o Auxílio Reconstrução, no valor de R$ 7,3 mil por família. A liberação do pagamento depende da validação das informações cadastrais no Portal do Cidadão.&lt;/p&gt;
@@ -90,11 +186,11 @@ com quase oito mil obras literárias disponíveis pa...</excerpt:encoded>
 &lt;p&gt;Se houver erros ou pendências no cadastro, é necessário procurar atendimento presencial no município. Em Juiz de Fora, o serviço é feito nas unidades do DIGA. Já em Ubá, o atendimento ocorre na Secretaria Municipal de Desenvolvimento Social.&lt;/p&gt;
 &lt;p&gt;O Auxílio Reconstrução é um benefício emergencial pago em parcela única para famílias que sofreram perdas materiais devido às chuvas. O valor pode ser usado livremente, inclusive para compra de móveis, eletrodomésticos ou materiais de construção.&lt;/p&gt;
 &lt;p&gt;O processo para liberação envolve três etapas: cadastro pelas prefeituras, análise das informações e validação pelo cidadão. O pagamento é feito pela Caixa em conta poupança social digital aberta automaticamente em nome do beneficiário.&lt;/p&gt;
-&lt;p&gt;Dia Internacional do Esporte celebra a prática como forma de inclusão&lt;/p&gt;
+&lt;p&gt;Meio do futebol ainda é um desafio para mulheres&lt;/p&gt;
 &lt;p&gt;Desintoxicação para quem exagerou no consumo de chocolate na Páscoa&lt;/p&gt;
-&lt;p&gt;Eleições: onze governadores deixaram os cargos para serem candidatos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/familias-afetadas-por-enchentes-em-mg-precisam-validar-cadastro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;EUA concluem resgate de piloto de caça F-15 abatido pelo Irã&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/familias-afetadas-por-enchentes-em-mg-precisam-validar-cadastro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Famílias atingidas pelas chuvas em Juiz de Fora e Ubá, em Minas Gerais, já podem avançar no processo para receber o Auxílio Reconstrução, no valor de...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-04-06 15:03:00</wp:post_date>
       <wp:post_date_gmt>2026-04-06 15:03:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-06 15:03:00</wp:post_modified>
@@ -118,18 +214,17 @@ com quase oito mil obras literárias disponíveis pa...</excerpt:encoded>
       </wp:postmeta>
     </item>
     <item>
-      <title>Começa hoje prazo para biometria em programas sociais</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/comeca-hoje-prazo-para-biometria-obrigatoria-em-programas-sociais</link>
-      <pubDate>Mon, 06 Apr 2026 18:47:00 +0000</pubDate>
+      <title>Governo muda prazo de cadastro biométrico para manter programa social</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/governo-muda-prazo-de-cadastro-biometrico-para-manter-programa-social</link>
+      <pubDate>Mon, 06 Apr 2026 19:47:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/comeca-hoje-prazo-para-biometria-obrigatoria-em-programas-sociais#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/governo-muda-prazo-de-cadastro-biometrico-para-manter-programa-social#1004</guid>
       <description>© Assessora de Comunicação Secretaria Especial de Modernização do Estado
 As pessoas que ainda não têm nenhum cadastro biométrico terão novo prazo par...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/4qSLs1ZmKYz9xeCwHcPgbBPyk2g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/carteira_de_identidade_nacional_1.jpeg?itok=tNvU29EQ&quot; alt=&quot;Começa hoje prazo para biometria em programas sociais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/4qSLs1ZmKYz9xeCwHcPgbBPyk2g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/carteira_de_identidade_nacional_1.jpeg?itok=tNvU29EQ&quot; alt=&quot;Governo muda prazo de cadastro biométrico para manter programa social&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;© Assessora de Comunicação Secretaria Especial de Modernização do Estado&lt;/p&gt;
 &lt;p&gt;As pessoas que ainda não têm nenhum cadastro biométrico terão novo prazo para emiti-lo gratuitamente por meio da novaCarteira de Identidade Nacional(CIN) para concessão ou renovação de benefícios sociais.&lt;/p&gt;
-&lt;p&gt;O prazo começa nesta segunda-feira (6) e prossegue até 31 de dezembro deste ano, conforme a portaria nº 2.907/2026,publicada no&lt;/p&gt;
-&lt;p&gt;Anteriormente, o cadastro biométrico deveria ser realizado até 30 de abril de 2026 e teria impacto a partir de maio deste ano para quem buscasse um benefíciosocial.&lt;/p&gt;
+&lt;p&gt;O prazo que terminaria em 30 de abril foi prorrogado até 31 de dezembro deste ano, conforme a portaria nº 2.907/2026,publicada no&lt;/p&gt;
 &lt;p&gt;O cadastro biométrico da carteira de Identidadeé o registro da impressão digital dos dedos das duas mãos e da foto do rosto do cidadão em uma base de dados do governo federal.&lt;/p&gt;
 &lt;p&gt;O objetivo da biometria é confirmar a identidade do beneficiário e evitar que terceiros recebam seus valores indevidamente.&lt;/p&gt;
 &lt;p&gt;A CIN possui número único nacional e estará disponível em formato físico ou digital.&lt;/p&gt;
@@ -140,10 +235,11 @@ As pessoas que ainda não têm nenhum cadastro biométrico terão novo prazo par
 &lt;p&gt;a partir de1º de janeiro de 2028&lt;/p&gt;
 &lt;p&gt;, apenas a biometria da nova Carteira de Identidade Nacional (CIN) será aceita para as finalidades mencionadas.&lt;/p&gt;
 &lt;p&gt;O primeiro passo para a emissão é acessar o&lt;/p&gt;
-&lt;p&gt;da Carteira de Identidade Nacional, entrar no link de agendamento no estado onde mora e escolher a data disponível para a coleta da biometria.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/comeca-hoje-prazo-para-biometria-obrigatoria-em-programas-sociais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;da Carteira de Identidade Nacional, entrar no link de agendamento no estado onde mora e escolher a data disponível para a coleta da biometria.&lt;/p&gt;
+&lt;p&gt;A primeira emissão em papel da CIN é gratuita.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/governo-muda-prazo-de-cadastro-biometrico-para-manter-programa-social&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Assessora de Comunicação Secretaria Especial de Modernização do Estado
 As pessoas que ainda não têm nenhum cadastro biométrico terão novo prazo par...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-04-06 14:31:00</wp:post_date>
       <wp:post_date_gmt>2026-04-06 14:31:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-06 14:31:00</wp:post_modified>
@@ -169,9 +265,9 @@ As pessoas que ainda não têm nenhum cadastro biométrico terão novo prazo par
     <item>
       <title>Nacional faz 90 anos com uma das maiores estruturas da América Latina</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/nacional-faz-90-anos-com-uma-das-maiores-estruturas-da-america-latina</link>
-      <pubDate>Mon, 06 Apr 2026 18:47:00 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 19:47:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/nacional-faz-90-anos-com-uma-das-maiores-estruturas-da-america-latina#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/nacional-faz-90-anos-com-uma-das-maiores-estruturas-da-america-latina#1005</guid>
       <description>completa neste ano nove décadas de existência reafirmando seu papel histórico como um dos principais veículos de comunicação do país. A emissora, que...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dM8ZjWrlzm68FehS5jyStcbg1O4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/06/radionacional90anos.jpg?itok=UuN04dM3&quot; alt=&quot;Nacional faz 90 anos com uma das maiores estruturas da América Latina&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;completa neste ano nove décadas de existência reafirmando seu papel histórico como um dos principais veículos de comunicação do país. A emissora, que integra o conglomerado de mídia da Empresa Brasil de Comunicação (EBC), é reconhecida como a maior rádio pública da América Latina, destacando-se por sua ampla capilaridade e pela presença multiplataforma no cenário radiofônico.&lt;/p&gt;
@@ -190,7 +286,7 @@ As pessoas que ainda não têm nenhum cadastro biométrico terão novo prazo par
 &lt;p&gt;. Aprogramação combina as notícias locais e nacionais com protagonismo para a produção e a cultura regional. Referência na cidade amazonense de Tabatinga (AM), onde está localizada, a rádio também faz a diferença para os moradores da região do Alto Solimões. A emissora FM interliga nove municípios e serve de ponte de informação e comunicação com a população urbana, povos indígenas e comunidades tradicionais da Tríplice Fronteira entre Brasil, Colômbia e Peru.&lt;/p&gt;
 &lt;p&gt;integra o sistema público de comunicação e atua como um importante eixo de distribuição de conteúdo jornalístico. Pautada pela missão de levar informação gratuita, plural e de qualidade, a plataforma disponibiliza reportagens, boletins e matérias especiais que podem ser acessadas por emissoras de rádio de todo o país. Os conteúdos produzidos pelo Radiojornalismo da&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/nacional-faz-90-anos-com-uma-das-maiores-estruturas-da-america-latina&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>completa neste ano nove décadas de existência reafirmando seu papel histórico como um dos principais veículos de comunicação do país. A emissora, que...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-04-06 14:10:00</wp:post_date>
       <wp:post_date_gmt>2026-04-06 14:10:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-06 14:10:00</wp:post_modified>
@@ -216,9 +312,9 @@ As pessoas que ainda não têm nenhum cadastro biométrico terão novo prazo par
     <item>
       <title>Corinthians demite Dorival Júnior após derrota para o Internacional</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/corinthians-demite-dorival-junior-apos-derrota-para-o-internacional</link>
-      <pubDate>Mon, 06 Apr 2026 18:47:00 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 19:47:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/corinthians-demite-dorival-junior-apos-derrota-para-o-internacional#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/corinthians-demite-dorival-junior-apos-derrota-para-o-internacional#1006</guid>
       <description>© Rodrigo Coca/Agência Corinthians/Direitos Reservados
 Dorival Júnior não é mais treinador do Corinthians. Após um ano no cargo, ele foi demitido apó...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/z4mIEz2gKIvYQXE2Sr-CdPxSSYE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/06/dorival_junior_tecnico_corinthians.jpg?itok=bv5NfXZK&quot; alt=&quot;Corinthians demite Dorival Júnior após derrota para o Internacional&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -230,16 +326,12 @@ Dorival Júnior não é mais treinador do Corinthians. Após um ano no cargo, el
 &lt;p&gt;A partir desta segunda (6), o Timão será comandado por William Batista, técnico da equipe sub-20 masculina.&lt;/p&gt;
 &lt;p&gt;Na próxima quinta (9), às 21h (horário de Brasília) o time paulista estreia fora de casa na Libertadores contra o Platense (Argentina), pelo Grupo E, que tem ainda Peñarol (Uruguai) e Santa Fé (Colômbia).&lt;/p&gt;
 &lt;p&gt;Dorival é o 10º técnico demitido desde o início do Brasileirão. Os demais foram Jorge Sampaolli (Atlético-MG), Fernando Diniz (Vasco), Juan Carlos Osório (Remo), Filipe Luís (Flamengo), Hernán Crespo (São Paulo), Tite (Cruzeiro), Juan Vojvoda (Santos), Martín Anselmi (Botafogo) e Gilmar Dal Pozzo (Chapecoense).&lt;/p&gt;
-&lt;p&gt;Dia Internacional do Esporte celebra a prática como forma de inclusão&lt;/p&gt;
+&lt;p&gt;Meio do futebol ainda é um desafio para mulheres&lt;/p&gt;
 &lt;p&gt;Desintoxicação para quem exagerou no consumo de chocolate na Páscoa&lt;/p&gt;
-&lt;p&gt;Eleições: onze governadores deixaram os cargos para serem candidatos&lt;/p&gt;
-&lt;p&gt;MEC disponibiliza aplicativo gratuito com oito mil livros&lt;/p&gt;
-&lt;p&gt;Famílias afetadas por enchentes em MG precisam validar cadastro&lt;/p&gt;
-&lt;p&gt;Começa hoje prazo para biometria em programas sociais&lt;/p&gt;
-&lt;p&gt;Nacional faz 90 anos com uma das maiores estruturas da América Latina&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/corinthians-demite-dorival-junior-apos-derrota-para-o-internacional&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;EUA concluem resgate de piloto de caça F-15 abatido pelo Irã&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/corinthians-demite-dorival-junior-apos-derrota-para-o-internacional&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rodrigo Coca/Agência Corinthians/Direitos Reservados
 Dorival Júnior não é mais treinador do Corinthians. Após um ano no cargo, ele foi demitido apó...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-04-06 13:45:00</wp:post_date>
       <wp:post_date_gmt>2026-04-06 13:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-06 13:45:00</wp:post_modified>
@@ -265,9 +357,9 @@ Dorival Júnior não é mais treinador do Corinthians. Após um ano no cargo, el
     <item>
       <title>Irã desafia ultimato de Trump: Ormuz jamais retomará status anterior</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/ira-desafia-ultimato-de-trump-ormuz-jamais-retomara-status-anterior</link>
-      <pubDate>Mon, 06 Apr 2026 18:47:00 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 19:47:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/ira-desafia-ultimato-de-trump-ormuz-jamais-retomara-status-anterior#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/ira-desafia-ultimato-de-trump-ormuz-jamais-retomara-status-anterior#1007</guid>
       <description>© Agência de Notícias da republica Islâmica.
 Em meio a mais um ultimato do presidente Donald Trump, a Marinha da Guarda Revolucionária Islâmica do Ir...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6IJ1SLn3O4Xm57B3f4XEmoZj3M4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/13/171930539.jpg?itok=AdyS-6dr&quot; alt=&quot;Irã desafia ultimato de Trump: Ormuz jamais retomará status anterior&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -288,7 +380,7 @@ Em meio a mais um ultimato do presidente Donald Trump, a Marinha da Guarda Revol
 &lt;p&gt;Em mais um vídeo publicado hoje, o porta-voz do Quartel-General Khatam al-Anbiya, Ibrahim Zulfiqari, anunciou os alvos da 98ª onda de ataques do Irã contra instalações ligadas à Israel eEUA no Oriente Médio.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/ira-desafia-ultimato-de-trump-ormuz-jamais-retomara-status-anterior&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Agência de Notícias da republica Islâmica.
 Em meio a mais um ultimato do presidente Donald Trump, a Marinha da Guarda Revolucionária Islâmica do Ir...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-04-06 12:54:00</wp:post_date>
       <wp:post_date_gmt>2026-04-06 12:54:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-06 12:54:00</wp:post_modified>
@@ -314,9 +406,9 @@ Em meio a mais um ultimato do presidente Donald Trump, a Marinha da Guarda Revol
     <item>
       <title>Operação Semana Santa: acidentes em rodovias resultam em 57 mortes</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/operacao-semana-santa-acidentes-em-rodovias-resultam-em-57-mortes</link>
-      <pubDate>Mon, 06 Apr 2026 18:47:00 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 19:47:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/operacao-semana-santa-acidentes-em-rodovias-resultam-em-57-mortes#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/operacao-semana-santa-acidentes-em-rodovias-resultam-em-57-mortes#1008</guid>
       <description>A Polícia Rodoviária Federal (PRF) registrou 808 acidentes nas rodovias brasileiras, com 57 pessoas mortas e 814 feridas.
 Os dados são da Operação Se...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MiznGvMQcsEvG7GHCK_o3hdogFI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/17/e1be976d-9fc6-4526-85bb-61d906611a13_0.jpeg?itok=OWnGbYpA&quot; alt=&quot;Operação Semana Santa: acidentes em rodovias resultam em 57 mortes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -332,12 +424,12 @@ Os dados são da Operação Se...</description>
 &lt;p&gt;A fiscalização da mistura do álcool com direção foi intensa ao longo dos quatro dias, com a aplicação de 65,5 mil testes do bafômetro.&lt;/p&gt;
 &lt;p&gt;Desse total, 1.293 pessoas foram autuadas e 67 motoristas foram detidos.&lt;/p&gt;
 &lt;p&gt;O uso do celular ao dirigir resultou em 455 flagrantes e por diversas irregularidades, 2.700 veículos foram recolhidos.&lt;/p&gt;
-&lt;p&gt;Dia Internacional do Esporte celebra a prática como forma de inclusão&lt;/p&gt;
+&lt;p&gt;Meio do futebol ainda é um desafio para mulheres&lt;/p&gt;
 &lt;p&gt;Desintoxicação para quem exagerou no consumo de chocolate na Páscoa&lt;/p&gt;
-&lt;p&gt;Eleições: onze governadores deixaram os cargos para serem candidatos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/operacao-semana-santa-acidentes-em-rodovias-resultam-em-57-mortes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;EUA concluem resgate de piloto de caça F-15 abatido pelo Irã&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/operacao-semana-santa-acidentes-em-rodovias-resultam-em-57-mortes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Polícia Rodoviária Federal (PRF) registrou 808 acidentes nas rodovias brasileiras, com 57 pessoas mortas e 814 feridas.
 Os dados são da Operação Se...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-04-06 12:35:00</wp:post_date>
       <wp:post_date_gmt>2026-04-06 12:35:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-06 12:35:00</wp:post_modified>
@@ -363,9 +455,9 @@ Os dados são da Operação Se...</excerpt:encoded>
     <item>
       <title>EUA e Israel atacam principal universidade de tecnologia do Irã</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/eua-e-israel-atacam-principal-universidade-de-tecnologia-do-ira</link>
-      <pubDate>Mon, 06 Apr 2026 18:47:00 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 19:47:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/eua-e-israel-atacam-principal-universidade-de-tecnologia-do-ira#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/eua-e-israel-atacam-principal-universidade-de-tecnologia-do-ira#1009</guid>
       <description>© Sharif University of Technology/Divulgação
 A Universidade de Tecnologia Sharif, em Teerã, foi bombardeada pelos Estados Unidos (EUA) e por Israel n...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/M7TEhI3sjaBXEsE_3JM8vbWp2G0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/06/univsharif.jpg?itok=tpvULlHq&quot; alt=&quot;EUA e Israel atacam principal universidade de tecnologia do Irã&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -386,7 +478,7 @@ A Universidade de Tecnologia Sharif, em Teerã, foi bombardeada pelos Estados Un
 &lt;p&gt;, no primeiro dia da guerra, que matou 168 crianças do ensino básico.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/eua-e-israel-atacam-principal-universidade-de-tecnologia-do-ira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Sharif University of Technology/Divulgação
 A Universidade de Tecnologia Sharif, em Teerã, foi bombardeada pelos Estados Unidos (EUA) e por Israel n...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-04-06 12:18:00</wp:post_date>
       <wp:post_date_gmt>2026-04-06 12:18:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-06 12:18:00</wp:post_modified>
@@ -407,106 +499,6 @@ A Universidade de Tecnologia Sharif, em Teerã, foi bombardeada pelos Estados Un
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/M7TEhI3sjaBXEsE_3JM8vbWp2G0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/06/univsharif.jpg?itok=tpvULlHq</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Ouvidoria: Fala.BR passa a usar IA para agilizar atendimento</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/ouvidoria-falabr-passa-usar-ia-para-agilizar-atendimento</link>
-      <pubDate>Mon, 06 Apr 2026 18:47:00 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/ouvidoria-falabr-passa-usar-ia-para-agilizar-atendimento#1008</guid>
-      <description>começa a usarnesta segunda-feira (6)a inteligência artificial para simplificar o atendimento ao cidadão.
-nova versão doprincipal canal de ouvidoria d...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mi3Pb41A10AJi2a2SR3EfYaXj5g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/02/falabr.jpg?itok=C1rE8cXW&quot; alt=&quot;Ouvidoria: Fala.BR passa a usar IA para agilizar atendimento&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;começa a usarnesta segunda-feira (6)a inteligência artificial para simplificar o atendimento ao cidadão.&lt;/p&gt;
-&lt;p&gt;nova versão doprincipal canal de ouvidoria do governo federal&lt;/p&gt;
-&lt;p&gt;automatiza a classificação das demandas e visa a tornar o registro mais simples, rápido e acessível, principalmente aosusuários com menor familiaridade digital.&lt;/p&gt;
-&lt;p&gt;Gerenciado pela Controladoria-Geral da União (CGU),&lt;/p&gt;
-&lt;p&gt;o sistema será capaz de identificar, a partir do relato por escrito do cidadão, qual tipo de manifestação está sendo registrada –elogio, sugestão, solicitação de providência, reclamação ou denúncia.&lt;/p&gt;
-&lt;p&gt;Nos próximos meses, comnovas atualizações,&lt;/p&gt;
-&lt;p&gt;a tecnologia também conseguirá sugerir, de forma automática, a classificação da demanda por assunto, órgão destinatário e serviço público&lt;/p&gt;
-&lt;p&gt;. Atualmente, para fazer um registro por meio do sistema, o cidadão precisa escolher essas classificações por conta própria, a partir de listas com várias opções.&lt;/p&gt;
-&lt;p&gt;O objetivo da CGU é que o novo fluxo apoiado por inteligência artificial simplifique e agilize essas etapas&lt;/p&gt;
-&lt;p&gt;para que mais pessoas passem a acessar o Fala.BR, com menos barreiras para o cidadão se comunicar com o poder público.&lt;/p&gt;
-&lt;p&gt;De acordo com a Ouvidoria-Geral da União, a interface mais simples beneficiará principalmente aqueles que usama plataforma em telas menores, por meio de dispositivos móveis, e que hoje representam a maioria dos usuários do Fala.BR.&lt;/p&gt;
-&lt;p&gt;O órgão destaca que as manifestações dos cidadãos são insumos para melhoria dos serviços públicos e até para o combate à corrupção. Recentemente, uma&lt;/p&gt;
-&lt;p&gt;de recursos da educaçãoem um município baiano, feitapela CGU e pela Polícia Federal (PF), teve origem em uma manifestação registrada no sistema.&lt;/p&gt;
-&lt;p&gt;A Plataforma Integrada de Ouvidoria e Acesso à Informação do Poder Executivo Federal, chamadaFala.BR, está em operação desde 2019. Por meio do canal, os cidadãos podem enviar quaisquer tipos de manifestações para o governo federal e para estados e municípios que aderiramà ferramenta.&lt;/p&gt;
-&lt;p&gt;Na plataforma, os solicitantes podem acompanhar a tramitação das manifestações, com prazos definidos para o recebimento de respostas dos órgãos responsáveis, de acordo com a Lei n°13.460/2017, o&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/ouvidoria-falabr-passa-usar-ia-para-agilizar-atendimento&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>começa a usarnesta segunda-feira (6)a inteligência artificial para simplificar o atendimento ao cidadão.
-nova versão doprincipal canal de ouvidoria d...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-04-06 11:29:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-06 11:29:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-06 11:29:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-06 11:29:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/mi3Pb41A10AJi2a2SR3EfYaXj5g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/02/falabr.jpg?itok=C1rE8cXW</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Inscrições para o programa Mais Médicos seguem até quarta-feira</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/inscricoes-para-o-programa-mais-medicos-seguem-ate-quarta-feira</link>
-      <pubDate>Mon, 06 Apr 2026 18:47:00 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/inscricoes-para-o-programa-mais-medicos-seguem-ate-quarta-feira#1009</guid>
-      <description>© Fernando Frazão/Agência Brasil
-As inscrições para o 45º ciclo do projeto Mais Médicos para o Brasil(PMMB) podem ser feitas até quarta-feira (8).
-O ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/X_MFxsw13YVWX5LwFrF1oZKzhSM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/24/_d6a1618.jpg?itok=dwjb4tGq&quot; alt=&quot;Inscrições para o programa Mais Médicos seguem até quarta-feira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
-&lt;p&gt;As inscrições para o 45º ciclo do projeto Mais Médicos para o Brasil(PMMB) podem ser feitas até quarta-feira (8).&lt;/p&gt;
-&lt;p&gt;O projeto é voltado à atuação na Atenção Primária à Saúde (APS) do Sistema Único de Saúde (SUS), em regiões prioritárias, remotas, de difícil acesso e de alto índice de vulnerabilidade, incluindo territórios indígenas, onde há escassez ou ausência de médicos&lt;/p&gt;
-&lt;p&gt;Os profissionais interessados em participar devem se inscrever por meio da&lt;/p&gt;
-&lt;p&gt;Plataforma de Gerenciamento de Programas de Provimento&lt;/p&gt;
-&lt;p&gt;Os profissionais selecionados atuarão por até 48 meses, combinando atendimento direto à população com formação continuada.&lt;/p&gt;
-&lt;p&gt;, o Ministério da Saúde abriu 1.524 vagas.&lt;/p&gt;
-&lt;p&gt;São 1.351 vagas para equipes de Saúde da Família (eSF), 75 para equipes de consultório na rua e 98 para Distritos Sanitários Especiais Indígenas (DSEI).&lt;/p&gt;
-&lt;p&gt;Todos os médicos poderão participar; no entanto, os profissionais formados em instituições de educação superior brasileiras ou com diploma revalidado no Brasil terão prioridade na seleção e ocupação das vagas ofertadas pelo Mais Médicos.&lt;/p&gt;
-&lt;p&gt;O edital contempla três perfis principais:&lt;/p&gt;
-&lt;p&gt;perfil 1: médicos formados no Brasil ou com diploma revalidado, com registro ativo no Conselho Federal de Medicina (CRM);&lt;/p&gt;
-&lt;p&gt;perfil 2: médicos brasileiros formados no exterior (intercambistas);&lt;/p&gt;
-&lt;p&gt;perfil 3: médicos estrangeiros com habilitação para atuar no exterior.&lt;/p&gt;
-&lt;p&gt;Os profissionais selecionados atuarão por 48 meses.&lt;/p&gt;
-&lt;p&gt;O programa oferece uma bolsa-formação de R$ 14.121,63 para os médicos matriculados e com situação regular quanto às atividades educacionais previstas no projeto.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/inscricoes-para-o-programa-mais-medicos-seguem-ate-quarta-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fernando Frazão/Agência Brasil
-As inscrições para o 45º ciclo do projeto Mais Médicos para o Brasil(PMMB) podem ser feitas até quarta-feira (8).
-O ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-04-06 11:00:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-06 11:00:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-06 11:00:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-06 11:00:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/X_MFxsw13YVWX5LwFrF1oZKzhSM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/24/_d6a1618.jpg?itok=dwjb4tGq</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
