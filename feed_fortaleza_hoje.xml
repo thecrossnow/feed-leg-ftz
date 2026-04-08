@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 08/04/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 13:26 UTC</description>
-<lastBuildDate>Wed, 08 Apr 2026 13:26:20 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Wed, 08 Apr 2026 15:13:02 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Prefeitura realiza coletiva de imprensa para a apresentação do Plano Operacional da Programação dos 300 Anos de Fortaleza</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/prefeitura-realiza-coletiva-de-imprensa-para-a-apresentacao-do-plano-operacional-da-programacao-dos-300-anos-de-fortaleza</link>
+<guid isPermaLink="false">fortaleza-20260408-cb8c44e919c7</guid>
+<pubDate>Wed, 08 Apr 2026 10:28:00 +0000</pubDate>
+<description>Prefeitura realiza coletiva de imprensa para a apresentação do Plano Operacional da Programação dos 300 Anos de Fortaleza - Quarta, 08 Abril 2026 10:28</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/COLETIVA-DE-IMPRENSA.png" alt="Prefeitura realiza coletiva de imprensa para a apresentação do Plano Operacional da Programação dos " 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Prefeitura de Fortaleza realiza nesta quinta-feira (09/04) às 14h, no Paço Municipal  a coletiva de imprensa para a apresentação do Plano Operacional da Programação dos 300 Anos de Fortaleza. Durante o evento, autoridades e representantes de diversos órgãos públicos vão detalhar as ações de segurança, transporte, saúde e logística para as celebrações do tricentenário.</p>
+<p>Já no domingo (12/04), Fortaleza contará com três grandes polos de shows simultâneos, iniciando às 18h, e descentralizados. O Aterrinho da Praia de Iracema receberá Marcos Lessa, Superbanda, Alcione, Simone Mendes, Alexandre Pires e Nattan. No Bairro Jangurussu, haverá shows de Os Transacionais, Diego Facó, Zé Vaqueiro e Amado Batista. Já no palco da Granja Portugal, a festa fica por conta de Dipas, Laninha Show, Felipe Amorim e Rey Vaqueiro.<br/><br/><strong>Serviço</strong><br/>Coletica do plano operacional da programação dos 300 anos de Fortaleza<br/>Data: 09/04 (quinta-feira)<br/>Horário: 14h<br/>Local: Paço Municipal (Rua São José, 01 - Centro)</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/prefeitura-realiza-coletiva-de-imprensa-para-a-apresentacao-do-plano-operacional-da-programacao-dos-300-anos-de-fortaleza" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/COLETIVA-DE-IMPRENSA.png" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/COLETIVA-DE-IMPRENSA.png" type="image/jpeg" medium="image">
+<media:title>Prefeitura realiza coletiva de imprensa para a apresentação do Plano Operacional da Programação dos </media:title>
+</media:content>
+</item>
 </channel>
 </rss>
