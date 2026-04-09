@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Thu, 09 Apr 2026 21:42:14 +0000</pubDate>
+    <pubDate>Thu, 09 Apr 2026 22:34:12 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,107 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Cármen Lúcia antecipa eleição para sucessão no TSE</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/carmen-lucia-antecipa-eleicao-para-sucessao-no-tse</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:12 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/carmen-lucia-antecipa-eleicao-para-sucessao-no-tse#1000</guid>
+      <description>A presidente do Tribunal Superior Eleitoral (TSE), ministra Cármen Lúcia, antecipou para a próxima terça-feira (14) a eleição simbólica que vai confi...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ck8HS7sQUkOP0vm0tLJAazjQrwI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/09/55193265442_f9f5ffac0a_o.jpg?itok=v9OhVDY-&quot; alt=&quot;Cármen Lúcia antecipa eleição para sucessão no TSE&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A presidente do Tribunal Superior Eleitoral (TSE), ministra Cármen Lúcia, antecipou para a próxima terça-feira (14) a eleição simbólica que vai confirmar os ministros Nunes Marques e André Mendonça nos cargos de presidente e vice-presidente da Corte eleitoral, respectivamente.&lt;/p&gt;
+&lt;p&gt;Eles já fazem parte do tribunal.&lt;/p&gt;
+&lt;p&gt;No dia 3 de junho, Carmen Lúcia encerra o mandato de dois anos no comando do TSE.&lt;/p&gt;
+&lt;p&gt;A medida foi anunciada durante a sessão de julgamento na manhã desta quinta-feira (9).&lt;/p&gt;
+&lt;p&gt;Diante da proximidade do período eleitoral, a ministra decidiu antecipar sua saída do tribunal para permitir que a transição de gestão possa ser iniciada.&lt;/p&gt;
+&lt;p&gt;“Eu decidi, ao invés de deixar para o último dia de mandato, 3 de junho, a sucessão da presidência deste TSE, iniciar o procedimento para eleição dos novos dirigentes da Casa e o processo de transição para equilíbrio e calma na passagem das funções aos que dirigirão a Justiça Eleitoral e conduzirão o processo eleitoral de outubro”, esclareceu a ministra.&lt;/p&gt;
+&lt;p&gt;A posse de Nunes Marques e Mendonça deve ocorrer no final do mês de maio.&lt;/p&gt;
+&lt;p&gt;O TSE é composto por sete ministros, sendo três do Supremo Tribunal Federal (STF), dois do Superior Tribunal de Justiça (STJ) e dois advogados indicados pelo presidente da República, além dos respectivos substitutos.&lt;/p&gt;
+&lt;p&gt;Fernando Diniz estreia no comando do Corinthians em jogo pela Liberta&lt;/p&gt;
+&lt;p&gt;O eterno abril de Carajás: 30 anos de um massacre&lt;/p&gt;
+&lt;p&gt;USP confirma título Doutor Honoris Causa ao jornalista Vladimir Herzog&lt;/p&gt;
+&lt;p&gt;Receita recebe mais de 10 milhões de declarações do Imposto de Renda&lt;/p&gt;
+&lt;p&gt;Fifa nomeia três árbitros brasileiros para a Copa do Mundo&lt;/p&gt;
+&lt;p&gt;Cármen Lúcia antecipa eleição para sucessão no TSE&lt;/p&gt;
+&lt;p&gt;PIB dos Estados Unidos registra desaceleração no 4º trimestre de 2025&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/carmen-lucia-antecipa-eleicao-para-sucessao-no-tse&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A presidente do Tribunal Superior Eleitoral (TSE), ministra Cármen Lúcia, antecipou para a próxima terça-feira (14) a eleição simbólica que vai confi...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-04-09 18:29:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-09 18:29:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-09 18:29:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-09 18:29:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Ck8HS7sQUkOP0vm0tLJAazjQrwI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/09/55193265442_f9f5ffac0a_o.jpg?itok=v9OhVDY-</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>STF tem placar de 4 a 1 para eleições indiretas no Rio</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/stf-tem-placar-de-4-a-1-para-eleicoes-indireta-no-rio</link>
+      <pubDate>Thu, 09 Apr 2026 22:34:12 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/stf-tem-placar-de-4-a-1-para-eleicoes-indireta-no-rio#1001</guid>
+      <description>© Fernando Frazão/Agência Brasil
+O Supremo Tribunal Federal (STF) formou nesta quinta-feira (9) placar de 4 votos a 1 para a realização de eleições i...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/P_4dca9Rs8WKpXzqgiO9YatPb1Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_8480.jpg?itok=I0gG2Pfg&quot; alt=&quot;STF tem placar de 4 a 1 para eleições indiretas no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Supremo Tribunal Federal (STF) formou nesta quinta-feira (9) placar de 4 votos a 1 para a realização de eleições indiretas para o mandato-tampão de governador do Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Apesar do entendimento parcial formado, o&lt;/p&gt;
+&lt;p&gt;por um pedido de vista feito pelo ministro Flávio Dino. Não há data para retomada da análise do caso.&lt;/p&gt;
+&lt;p&gt;Com a suspensão, o presidente do Tribunal de Justiça do Rio de Janeiro (TJRJ), Ricardo Couto de Castro, continuará exercendo interinamente o cargo de governador do estado.&lt;/p&gt;
+&lt;p&gt;O Supremo julga uma ação na qual o diretório estadual do&lt;/p&gt;
+&lt;p&gt;PSD defende a realização de eleições diretas&lt;/p&gt;
+&lt;p&gt;para o comando interino do estado.&lt;/p&gt;
+&lt;p&gt;O julgamento começou na sessão desta quarta-feira (8). Primeiro a votar, o ministro&lt;/p&gt;
+&lt;p&gt;, relator do caso, votou pela realização de eleições diretas, ou seja, com o eleitor votando na urna eletrônica.&lt;/p&gt;
+&lt;p&gt;No entendimento do ministro, a renúncia do ex-governador Cláudio Castro para disputar uma vaga do Senado,no dia anterior ao julgamento que o condenou no Tribunal Superior Eleitoral (TSE), foi uma &quot;tentativa de burla&quot; para evitar a convocação de eleições populares.&lt;/p&gt;
+&lt;p&gt;Em seguida, Luiz Fux votou pela votação indireta, que ocorre por meio da deliberação dos deputados da Assembleia Legislativa do Rio de Janeiro (Alerj).&lt;/p&gt;
+&lt;p&gt;Na sessão de hoje, o ministro Flávio Dino pediu vista do processo. O ministro disse que pretende esperar a publicação do acórdão do julgamento do TSE que condenou o Castro à inelegibilidade para proferir seu voto.&lt;/p&gt;
+&lt;p&gt;Diante da suspensão da votação, os ministros André Mendonça, Nunes Marques e Cármen Lúcia, que também fazem parte do TSE, anteciparam seus votos e se manifestaram pela realização de eleições indiretas.&lt;/p&gt;
+&lt;p&gt;Mendonça disse que não houve desvio de finalidade na renúncia de Castro para concorrer ao Senado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/stf-tem-placar-de-4-a-1-para-eleicoes-indireta-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+O Supremo Tribunal Federal (STF) formou nesta quinta-feira (9) placar de 4 votos a 1 para a realização de eleições i...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-04-09 18:14:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-09 18:14:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-09 18:14:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-09 18:14:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/P_4dca9Rs8WKpXzqgiO9YatPb1Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_8480.jpg?itok=I0gG2Pfg</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Tênis: João Fonseca avança para quartas de final em Monte Carlo</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/tenis-joao-fonseca-avanca-para-quartas-de-final-em-monte-carlo</link>
-      <pubDate>Thu, 09 Apr 2026 21:42:14 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2026 22:34:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/tenis-joao-fonseca-avanca-para-quartas-de-final-em-monte-carlo#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/tenis-joao-fonseca-avanca-para-quartas-de-final-em-monte-carlo#1002</guid>
       <description>© Geoff Burke-Imagn Images/Direitos Reservados
 O brasileiro João Fonseca continua fazendo história no Masters 1000 de Monte Carlo. Nesta quinta-feira...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/lCesOAF2swxmuav7gA7fl5APAzo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/09/2026-03-21t025949z_665295702_mt1usatoday28552549_rtrmadp_3_tennis-miami-open.jpg?itok=3oYOoQg3&quot; alt=&quot;Tênis: João Fonseca avança para quartas de final em Monte Carlo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -37,16 +133,17 @@ O brasileiro João Fonseca continua fazendo história no Masters 1000 de Monte C
 &lt;p&gt;Agora João Fonseca terá uma pedreira pela frenteo alemão Alexander Zverev. Esta será a primeira vez que o carioca de 19 anos mede forças com o atual número três do mundo.&lt;/p&gt;
 &lt;p&gt;O brasileiro estreou na competição na última segunda-feira (6), quando bateu o canadense Gabriel Diallo por 2 sets a 0 (parciais de 6/2 e 6/3). DepoisJoão Fonseca superou francês Arthur Rinderknech, na última quarta-feira (8), por 2 sest a 1 (parciais de 7/5, 4/6 e 6/3).&lt;/p&gt;
 &lt;p&gt;— Rolex Monte-Carlo Masters (@ROLEXMCMASTERS)&lt;/p&gt;
+&lt;p&gt;Jerusalém reabre locais sagrados e Argentina altera Lei de Geleiras&lt;/p&gt;
+&lt;p&gt;Juventude indígena ganha voz no Acampamento Terra Livre em Brasília&lt;/p&gt;
 &lt;p&gt;O eterno abril de Carajás: 30 anos de um massacre&lt;/p&gt;
+&lt;p&gt;Petrobras devolverá diferença de preço de leilão de gás&lt;/p&gt;
+&lt;p&gt;USP confirma título Doutor Honoris Causa ao jornalista Vladimir Herzog&lt;/p&gt;
+&lt;p&gt;Receita recebe mais de 10 milhões de declarações do Imposto de Renda&lt;/p&gt;
 &lt;p&gt;Fifa nomeia três árbitros brasileiros para a Copa do Mundo&lt;/p&gt;
-&lt;p&gt;Cármen Lúcia antecipa eleição para sucessão no TSE&lt;/p&gt;
-&lt;p&gt;PIB dos Estados Unidos registra desaceleração no 4º trimestre de 2025&lt;/p&gt;
-&lt;p&gt;STF tem placar de 4 a 1 para eleições indiretas no Rio&lt;/p&gt;
-&lt;p&gt;Tênis: João Fonseca avança para quartas de final em Monte Carlo&lt;/p&gt;
-&lt;p&gt;Congresso vota em 30 de abril veto de Lula a PL da Dosimetria&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/tenis-joao-fonseca-avanca-para-quartas-de-final-em-monte-carlo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Cármen Lúcia antecipa eleição para sucessão no TSE&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/tenis-joao-fonseca-avanca-para-quartas-de-final-em-monte-carlo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Geoff Burke-Imagn Images/Direitos Reservados
 O brasileiro João Fonseca continua fazendo história no Masters 1000 de Monte Carlo. Nesta quinta-feira...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-04-09 17:55:00</wp:post_date>
       <wp:post_date_gmt>2026-04-09 17:55:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-09 17:55:00</wp:post_modified>
@@ -72,9 +169,9 @@ O brasileiro João Fonseca continua fazendo história no Masters 1000 de Monte C
     <item>
       <title>Congresso vota em 30 de abril veto de Lula a PL da Dosimetria</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/congresso-vota-em-30-de-abril-veto-de-lula-pl-da-dosimetria</link>
-      <pubDate>Thu, 09 Apr 2026 21:42:14 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2026 22:34:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/congresso-vota-em-30-de-abril-veto-de-lula-pl-da-dosimetria#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/congresso-vota-em-30-de-abril-veto-de-lula-pl-da-dosimetria#1003</guid>
       <description>O presidente do Senado e do Congresso Nacional, Davi Alcolumbre (União-AP), marcou para 30 de abril sessão do Congresso Nacional para analisar o veto...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/HQiZOG_x_g8Pml-WOQP0PCb-DZU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/04/0d9a3478.jpg?itok=1M_DhHVh&quot; alt=&quot;Congresso vota em 30 de abril veto de Lula a PL da Dosimetria&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O presidente do Senado e do Congresso Nacional, Davi Alcolumbre (União-AP), marcou para 30 de abril sessão do Congresso Nacional para analisar o veto do presidente Luiz Inácio Lula da Silva ao Projeto de Lei da Dosimetria, que prevê&lt;/p&gt;
@@ -93,7 +190,7 @@ O brasileiro João Fonseca continua fazendo história no Masters 1000 de Monte C
 &lt;p&gt;tais mudanças poderão beneficiar réus como&lt;/p&gt;
 &lt;p&gt;os militares Almir Garnier, ex-comandante da Marinha; Paulo Sérgio Nogueira, ex-ministro da Defesa; Walter Braga Netto, ex-ministro da Casa Civil; e Augusto Heleno, ex-chefe do Gabinete de Segurança Institucional (GSI).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/congresso-vota-em-30-de-abril-veto-de-lula-pl-da-dosimetria&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O presidente do Senado e do Congresso Nacional, Davi Alcolumbre (União-AP), marcou para 30 de abril sessão do Congresso Nacional para analisar o veto...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-04-09 17:51:00</wp:post_date>
       <wp:post_date_gmt>2026-04-09 17:51:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-09 17:51:00</wp:post_modified>
@@ -119,9 +216,9 @@ O brasileiro João Fonseca continua fazendo história no Masters 1000 de Monte C
     <item>
       <title>Mesmo com guerra, Ipea prevê crescimento de 1,8% do PIB</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/mesmo-com-guerra-ipea-preve-crescimento-de-18-do-pib</link>
-      <pubDate>Thu, 09 Apr 2026 21:42:14 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2026 22:34:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/mesmo-com-guerra-ipea-preve-crescimento-de-18-do-pib#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/mesmo-com-guerra-ipea-preve-crescimento-de-18-do-pib#1004</guid>
       <description>© Marcello Casal JrAgência Brasil
 A economia brasileira vai crescer 1,8% neste ano. A previsão é do Instituto de Pesquisa Econômica Aplicada (Ipea), ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5ACOjU0BmGT_Z-dyrOe8MeNxubI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/economia_1609210412_0.jpg?itok=pEt_terf&quot; alt=&quot;Mesmo com guerra, Ipea prevê crescimento de 1,8% do PIB&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -142,7 +239,7 @@ A economia brasileira vai crescer 1,8% neste ano. A previsão é do Instituto de
 &lt;p&gt;A estimativa do Ipea para o PIB de 2027 é de crescimento de 2%.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/mesmo-com-guerra-ipea-preve-crescimento-de-18-do-pib&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 A economia brasileira vai crescer 1,8% neste ano. A previsão é do Instituto de Pesquisa Econômica Aplicada (Ipea), ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-04-09 17:45:00</wp:post_date>
       <wp:post_date_gmt>2026-04-09 17:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-09 17:45:00</wp:post_modified>
@@ -168,9 +265,9 @@ A economia brasileira vai crescer 1,8% neste ano. A previsão é do Instituto de
     <item>
       <title>Luciana Barreto é homenageada no 4º Prêmio MOL de Jornalismo</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/luciana-barreto-e-homenageada-no-4o-premio-mol-de-jornalismo</link>
-      <pubDate>Thu, 09 Apr 2026 21:42:14 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2026 22:34:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/luciana-barreto-e-homenageada-no-4o-premio-mol-de-jornalismo#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/luciana-barreto-e-homenageada-no-4o-premio-mol-de-jornalismo#1005</guid>
       <description>A apresentadora da TV Brasil e editora-chefe do Repórter Brasil Tarde, Luciana Barreto, foi homenageada durante a cerimônia do 4º Prêmio MOL de Jorna...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mcmybNiEFGb75-kKyu6nHQCDNhY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/09/lubarretopremio_0.jpg?itok=BuNGqp2G&quot; alt=&quot;Luciana Barreto é homenageada no 4º Prêmio MOL de Jornalismo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A apresentadora da TV Brasil e editora-chefe do Repórter Brasil Tarde, Luciana Barreto, foi homenageada durante a cerimônia do 4º Prêmio MOL de Jornalismo para a Solidariedade.&lt;/p&gt;
@@ -187,9 +284,9 @@ A economia brasileira vai crescer 1,8% neste ano. A previsão é do Instituto de
 &lt;p&gt;A matéria apresenta histórias de pessoas que deixaram o sistema prisional e buscam reconstruir suas vidas. O trabalho aborda iniciativas de reinserção social e destaca novas oportunidades após o cárcere.&lt;/p&gt;
 &lt;p&gt;Sobre o Prêmio MOL de Jornalismo para a Solidariedade&lt;/p&gt;
 &lt;p&gt;A premiação é uma iniciativa do Instituto MOL para reconhecer o trabalho de profissionais, estudantes da comunicação e comunicadores populares que contribuem para fortalecer a cultura de doação, a solidariedade e a atuação das organizações da sociedade civil, destacando a importância dos temas para o exercício da cidadania em nosso país.&lt;/p&gt;
-&lt;p&gt;Balé Teatro Castro Alves comemora 45 anos com diversas apresentações&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/luciana-barreto-e-homenageada-no-4o-premio-mol-de-jornalismo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Fernando Diniz estreia no comando do Corinthians em jogo pela Liberta&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/luciana-barreto-e-homenageada-no-4o-premio-mol-de-jornalismo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A apresentadora da TV Brasil e editora-chefe do Repórter Brasil Tarde, Luciana Barreto, foi homenageada durante a cerimônia do 4º Prêmio MOL de Jorna...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-04-09 17:40:00</wp:post_date>
       <wp:post_date_gmt>2026-04-09 17:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-09 17:40:00</wp:post_modified>
@@ -215,9 +312,9 @@ A economia brasileira vai crescer 1,8% neste ano. A previsão é do Instituto de
     <item>
       <title>Fux diz que escândalos de corrupção não estão concentrados no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/fux-diz-que-escandalos-de-corrupcao-nao-estao-concentrados-no-rio</link>
-      <pubDate>Thu, 09 Apr 2026 21:42:14 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2026 22:34:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/fux-diz-que-escandalos-de-corrupcao-nao-estao-concentrados-no-rio#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/fux-diz-que-escandalos-de-corrupcao-nao-estao-concentrados-no-rio#1006</guid>
       <description>O ministro Luiz Fux, do Supremo Tribunal Federal (STF), afirmou nesta quinta-feira (9) que os escândalos de corrupção não estão concentrados no Rio d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Dx9rANQuBK19NpVZuQPv7I0vsrI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/19/54994137685_9a43bc59cd_o.jpg?itok=jieJzPtS&quot; alt=&quot;Fux diz que escândalos de corrupção não estão concentrados no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O ministro Luiz Fux, do Supremo Tribunal Federal (STF), afirmou nesta quinta-feira (9) que os escândalos de corrupção não estão concentrados no Rio de Janeiro.&lt;/p&gt;
@@ -231,10 +328,12 @@ A economia brasileira vai crescer 1,8% neste ano. A previsão é do Instituto de
 &lt;p&gt;decisão do Tribunal Superior Eleitoral (TSE) quecondenou o ex-governador do Rio de Janeiro Cláudio Castro à inelegibilidade&lt;/p&gt;
 &lt;p&gt;pedido de vista de Dino suspendeu o julgamento&lt;/p&gt;
 &lt;p&gt;sobre o mandato-tampão. O julgamento será retomado somente após a publicação do acórdão do julgamento do TSE.Não há previsão para a publicação do documento.&lt;/p&gt;
-&lt;p&gt;Lula sanciona leis para fortalecer combate à violência contra mulheres&lt;/p&gt;
-&lt;p&gt;O eterno abril de Carajás: 30 anos de um massacre&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/fux-diz-que-escandalos-de-corrupcao-nao-estao-concentrados-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Fernando Diniz estreia no comando do Corinthians em jogo pela Liberta&lt;/p&gt;
+&lt;p&gt;O eterno abril de Carajás: 30 anos de um massacre&lt;/p&gt;
+&lt;p&gt;USP confirma título Doutor Honoris Causa ao jornalista Vladimir Herzog&lt;/p&gt;
+&lt;p&gt;Receita recebe mais de 10 milhões de declarações do Imposto de Renda&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/fux-diz-que-escandalos-de-corrupcao-nao-estao-concentrados-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro Luiz Fux, do Supremo Tribunal Federal (STF), afirmou nesta quinta-feira (9) que os escândalos de corrupção não estão concentrados no Rio d...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-04-09 17:17:00</wp:post_date>
       <wp:post_date_gmt>2026-04-09 17:17:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-09 17:17:00</wp:post_modified>
@@ -260,9 +359,9 @@ A economia brasileira vai crescer 1,8% neste ano. A previsão é do Instituto de
     <item>
       <title>Sabatina de Jorge Messias para vaga no STF será dia 29 de abril</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/sabatina-de-jorge-messias-para-vaga-no-stf-sera-dia-29</link>
-      <pubDate>Thu, 09 Apr 2026 21:42:14 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2026 22:34:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/sabatina-de-jorge-messias-para-vaga-no-stf-sera-dia-29#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/sabatina-de-jorge-messias-para-vaga-no-stf-sera-dia-29#1007</guid>
       <description>A sabatina do advogado-geral da União, Jorge Messias, para vaga de ministro no Supremo Tribunal Federal (STF), será no dia 29 de abril.
 A informação ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YsiQh4RXyxDIMlLxlKYjbJOl5XY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/01/0d9a3378.jpg?itok=vIaSC95i&quot; alt=&quot;Sabatina de Jorge Messias para vaga no STF será dia 29 de abril&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -283,7 +382,7 @@ A informação ...</description>
 &lt;p&gt;“Já se passaram quatro meses [desde a indicação] e de lá para cá ele dialogou, fez visitas a diversos senadores e tem aberto mais portas. Arrisco dizer que ele já está mais ou menos com o caminho construído para ser aprovado no plenário do Senado Federal.”&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/sabatina-de-jorge-messias-para-vaga-no-stf-sera-dia-29&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A sabatina do advogado-geral da União, Jorge Messias, para vaga de ministro no Supremo Tribunal Federal (STF), será no dia 29 de abril.
 A informação ...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-04-09 17:07:00</wp:post_date>
       <wp:post_date_gmt>2026-04-09 17:07:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-09 17:07:00</wp:post_modified>
@@ -309,9 +408,9 @@ A informação ...</excerpt:encoded>
     <item>
       <title>Saiba quais são as novas leis que ampliam a proteção às mulheres</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-04/saiba-quais-sao-novas-leis-que-ampliam-protecao-as-mulheres</link>
-      <pubDate>Thu, 09 Apr 2026 21:42:14 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2026 22:34:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-04/saiba-quais-sao-novas-leis-que-ampliam-protecao-as-mulheres#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-04/saiba-quais-sao-novas-leis-que-ampliam-protecao-as-mulheres#1008</guid>
       <description>O presidente Luiz Inácio Lula da Silva
 (9), três projetos de lei que fortalecem o combate à violência contra a mulher.
 Conheça mais detalhes das nova...</description>
@@ -334,7 +433,7 @@ Conheça mais detalhes das nova...</description>
       <excerpt:encoded>O presidente Luiz Inácio Lula da Silva
 (9), três projetos de lei que fortalecem o combate à violência contra a mulher.
 Conheça mais detalhes das nova...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-04-09 16:51:00</wp:post_date>
       <wp:post_date_gmt>2026-04-09 16:51:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-09 16:51:00</wp:post_modified>
@@ -360,9 +459,9 @@ Conheça mais detalhes das nova...</excerpt:encoded>
     <item>
       <title>Governo recorre de liminar que barra imposto na exportação de petróleo</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/governo-recorre-de-liminar-que-barra-imposto-na-exportacao-de-petroleo</link>
-      <pubDate>Thu, 09 Apr 2026 21:42:14 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2026 22:34:12 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/governo-recorre-de-liminar-que-barra-imposto-na-exportacao-de-petroleo#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/governo-recorre-de-liminar-que-barra-imposto-na-exportacao-de-petroleo#1009</guid>
       <description>A Procuradoria-Geral da Fazenda Nacional (PGFN), órgão jurídico vinculado ao Ministério da Fazenda, recorreu contra a decisão da Justiça Federal no R...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jkp4K02EdOFLgunnxaj5XlkqTSM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/foto_divulgacao_petrobras.jpg?itok=VamOwW18&quot; alt=&quot;Governo recorre de liminar que barra imposto na exportação de petróleo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Procuradoria-Geral da Fazenda Nacional (PGFN), órgão jurídico vinculado ao Ministério da Fazenda, recorreu contra a decisão da Justiça Federal no Rio de Janeiro que barrou a cobrança de 12% de imposto de exportação de petróleo.&lt;/p&gt;
@@ -381,7 +480,7 @@ Conheça mais detalhes das nova...</excerpt:encoded>
 &lt;p&gt;O Instituto Brasileiro de Petróleo, Gás e Biocombustíveis (IBP), que representa empresas do setor, também tinha criticado o imposto.&lt;/p&gt;
 &lt;p&gt;Para as empresas de óleo, a MP &quot;impõe uma carga desnecessária a um setor que já destina cerca de 70% de sua renda a tributos e participações governamentais&quot;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/governo-recorre-de-liminar-que-barra-imposto-na-exportacao-de-petroleo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Procuradoria-Geral da Fazenda Nacional (PGFN), órgão jurídico vinculado ao Ministério da Fazenda, recorreu contra a decisão da Justiça Federal no R...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-04-09 16:35:00</wp:post_date>
       <wp:post_date_gmt>2026-04-09 16:35:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-09 16:35:00</wp:post_modified>
@@ -402,102 +501,6 @@ Conheça mais detalhes das nova...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/jkp4K02EdOFLgunnxaj5XlkqTSM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/foto_divulgacao_petrobras.jpg?itok=VamOwW18</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Evento Viagem Literária passará por 67 cidades de São Paulo</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/evento-viagem-literaria-passara-por-67-cidades-de-sao-paulo</link>
-      <pubDate>Thu, 09 Apr 2026 21:42:14 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/evento-viagem-literaria-passara-por-67-cidades-de-sao-paulo#1008</guid>
-      <description>A lista das cidades do estado de São Paulo selecionadas para receber a 18ª edição do programa Viagem Literária inclui 67 cidades paulistas. As biblio...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CXpgjFSDXOJDcZl9fbNYkYmTC6c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/09/evento-literario.jpg?itok=-Emv8Kl2&quot; alt=&quot;Evento Viagem Literária passará por 67 cidades de São Paulo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A lista das cidades do estado de São Paulo selecionadas para receber a 18ª edição do programa Viagem Literária inclui 67 cidades paulistas. As bibliotecas dos municípios receberão escritores e também vão servir de espaço para contação de histórias.&lt;/p&gt;
-&lt;p&gt;Nesta edição, o projeto contempla municípios nas regiões de Araçatuba, Barretos, Bauru, Campinas, Marília, Presidente Prudente, São José do Rio Preto, São José dos Campos, Sorocaba, Baixada Santista e também a região metropolitana de São Paulo.&lt;/p&gt;
-&lt;p&gt;As cidades que recebem o evento neste ano podem ser encontradas no&lt;/p&gt;
-&lt;p&gt;A Viagem Literária também apoiará a realização de feiras, festas e festivais literários em algumas das cidades selecionadas. Em Buritama e Itapetininga acontecem, respectivamente, o Festival Literário de Buritama e a Feira Literária da Academia Itapetininga de Letras (FLAIL).&lt;/p&gt;
-&lt;p&gt;Eventos literários em cidades como Cubatão, Registro, Narandiba, Santa Bárbara d’Oeste, São Bento de Sapucaí e Ubarana receberão apoio público.&lt;/p&gt;
-&lt;p&gt;“A Viagem Literária é um programa já consolidado nas bibliotecas paulistas, que permite a circulação não só das obras mas também dos próprios autores, o que fomenta não apenas o interesse pela leitura, mas também a vocação da escrita, inspirando a formação de novos escritores, além do apoio fundamental a feiras e festivais literários”, diz Marilia Marton, secretária da Cultura, Economia e Indústria Criativas do Estado de São Paulo.&lt;/p&gt;
-&lt;p&gt;As cidades escolhidas para o evento se inscreveram no edital criado pelo Sistema Estadual de Bibliotecas Públicas de São Paulo (SisEB). Foram recebidas 120 inscrições, representando 108 municípios paulistas.&lt;/p&gt;
-&lt;p&gt;O processo seletivo levou em consideração critérios técnicos e de participação institucional como desempenho na edição anterior do programa, cumprimento das contrapartidas exigidas e avaliação dos serviços oferecidos pelas bibliotecas.&lt;/p&gt;
-&lt;p&gt;*Estagiário da Agência Brasil sob supervisão de Odair Braz Junior&lt;/p&gt;
-&lt;p&gt;Balé Teatro Castro Alves comemora 45 anos com diversas apresentações&lt;/p&gt;
-&lt;p&gt;O eterno abril de Carajás: 30 anos de um massacre&lt;/p&gt;
-&lt;p&gt;Maioria do STF vota por eleições indiretas no Rio de Janeiro&lt;/p&gt;
-&lt;p&gt;Tênis: João Fonseca avança para quartas de final em Monte Carlo&lt;/p&gt;
-&lt;p&gt;Congresso vota em 30 de abril veto de Lula a PL da Dosimetria&lt;/p&gt;
-&lt;p&gt;Mesmo com guerra, Ipea prevê crescimento de 1,8% do PIB&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/evento-viagem-literaria-passara-por-67-cidades-de-sao-paulo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A lista das cidades do estado de São Paulo selecionadas para receber a 18ª edição do programa Viagem Literária inclui 67 cidades paulistas. As biblio...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-04-09 16:10:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-09 16:10:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-09 16:10:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-09 16:10:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/CXpgjFSDXOJDcZl9fbNYkYmTC6c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/09/evento-literario.jpg?itok=-Emv8Kl2</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Multidões no Irã marcam 40º dia da morte do líder Supremo Khamenei</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/multidoes-no-ira-marcam-40o-dia-da-morte-do-lider-supremo-khamenei</link>
-      <pubDate>Thu, 09 Apr 2026 21:42:14 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/multidoes-no-ira-marcam-40o-dia-da-morte-do-lider-supremo-khamenei#1009</guid>
-      <description>© REUTERS/Mohammed Aty/ Proibido reprodução
-Multidões de manifestantes foram as ruas em diversas cidades do Irã, nesta quinta-feira (9), para marcar ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3CXFXPQCbFWQR_5XpC_ERPnzmAQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/09/2026-04-04t162435z_1220473409_rc2gikaamg47_rtrmadp_3_iraq-protests-sadr.jpg?itok=AbTII2hG&quot; alt=&quot;Multidões no Irã marcam 40º dia da morte do líder Supremo Khamenei&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Mohammed Aty/ Proibido reprodução&lt;/p&gt;
-&lt;p&gt;Multidões de manifestantes foram as ruas em diversas cidades do Irã, nesta quinta-feira (9), para marcar o 40º dia do assassinato do líder Supremo da República Islâmica,&lt;/p&gt;
-&lt;p&gt;, morto por bombardeio de Israel e Estados Unidos (EUA) no primeiro dia da guerra.&lt;/p&gt;
-&lt;p&gt;Os veículos de imprensa iranianos fizeram uma extensa cobertura dos atos, mostrando o apoio popular ao regime político combatido pelas potências ocidentais. Também foram homenageados os altos dirigentes políticos e militares mortos nos quase 40 dias do conflito, além das 168 meninas mortas no&lt;/p&gt;
-&lt;p&gt;“A procissão fúnebre começou na manhã de quinta-feira, com os participantes marchando da Praça Jomhouri até o local onde o aiatolá Khamenei foi assassinado”, informou a mídia estatal Press TV, acrescentando que as homenagens ocorrem em centenas de cidades do país.&lt;/p&gt;
-&lt;p&gt;A cerimônia em Teerã foiaté a noite.&lt;/p&gt;
-&lt;p&gt;Em vídeos publicanos pelas emissoras locais, é possível ver milhares de pessoas em marcha em diferentes cidades, segurando bandeiras do Irã e imagens das principais lideranças e também das crianças mortas no ataque a escola.&lt;/p&gt;
-&lt;p&gt;Oantropólogo Paulo Hilu, coordenador do Núcleo de Estudos do Oriente Médio da Universidade Federal Fluminense (UFF), destacou à&lt;/p&gt;
-&lt;p&gt;que, apesar de haver uma oposição importante à República Islâmica, existem setores que apoiam o regime.&lt;/p&gt;
-&lt;p&gt;“Existe uma base de sustentação da República Islâmica na sociedade. São setores que são ideologicamente ou politicamente, ou por interesses pessoais, ligados à manutenção da República Islâmica. Não se trata de uma unanimidade, é uma sociedade dividida”, disse.&lt;/p&gt;
-&lt;p&gt;Ainda segundo o especialista, a agressão contra o Irã tem feito pessoas críticas ao regime “passarem a preferir que o regime consiga se defender e salvar o Irã de uma invasão estrangeira ou de uma destruição total”.&lt;/p&gt;
-&lt;p&gt;Mais de 3 mil pessoas foram mortas pelos ataques israelenses-estadunidenses no Irã durante a guerra, informou nesta quinta-feira (9) a Organização de Medicina Forense do Irã, sendo que 40% dos mortos ainda não puderam ser identificados.&lt;/p&gt;
-&lt;p&gt;Protestos contra a agressão israelense-estadunidense&lt;/p&gt;
-&lt;p&gt;foram registradas no Irã durante toda a guerra, mesmo sob bombas dos inimigos. No dia do ultimato do Trump,&lt;/p&gt;
-&lt;p&gt;que ameaçou um genocídio contra a população iraniana&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/multidoes-no-ira-marcam-40o-dia-da-morte-do-lider-supremo-khamenei&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Mohammed Aty/ Proibido reprodução
-Multidões de manifestantes foram as ruas em diversas cidades do Irã, nesta quinta-feira (9), para marcar ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-04-09 16:00:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-09 16:00:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-09 16:00:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-09 16:00:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/3CXFXPQCbFWQR_5XpC_ERPnzmAQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/09/2026-04-04t162435z_1220473409_rc2gikaamg47_rtrmadp_3_iraq-protests-sadr.jpg?itok=AbTII2hG</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
