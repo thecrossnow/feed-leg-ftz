@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 11 Apr 2026 14:30:48 +0000</pubDate>
+    <pubDate>Sat, 11 Apr 2026 15:26:11 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,62 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Reforma tributária expõe desafios em automatização de empresas</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/reforma-tributaria-expoe-desafios-em-automatizacao-de-empresas</link>
+      <pubDate>Sat, 11 Apr 2026 15:26:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/reforma-tributaria-expoe-desafios-em-automatizacao-de-empresas#1000</guid>
+      <description>© José Cruz/Agência Brasil/Arquivo
+Os desafios da reforma tributária começam a expor fragilidades na operação fiscal das empresas.
+A menos de nove me...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Wzy0N04C3R-zfGZ0k4fQd_TxKDg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220046_1.jpg?itok=NbzJGgQz&quot; alt=&quot;Reforma tributária expõe desafios em automatização de empresas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© José Cruz/Agência Brasil/Arquivo&lt;/p&gt;
+&lt;p&gt;Os desafios da reforma tributária começam a expor fragilidades na operação fiscal das empresas.&lt;/p&gt;
+&lt;p&gt;A menos de nove meses do início da entrada em vigor do Imposto sobre Valor Adicionado Dual (IVA dual), grande parte das companhias enfrentam processos lentos e dependência de tarefas manuais.&lt;/p&gt;
+&lt;p&gt;Levantamento da V360, empresa que ajuda outras companhias a automatizar o pagamento de fornecedores, mostra que 62,2% das empresas levam mais de 20 dias para registrar uma nota fiscal no sistema, enquanto 22,3% ultrapassam 30 dias.&lt;/p&gt;
+&lt;p&gt;Ao mesmo tempo, 87% das companhias afirmam ter alto nível de automação fiscal, um contraste que evidencia o que especialistas chamam de&lt;/p&gt;
+&lt;p&gt;“falsa automação”, quando processos são digitais, mas ainda exigem intervenção humana.&lt;/p&gt;
+&lt;p&gt;Apesar do avanço tecnológico, a adaptação ao novo modelo deve pressionar ainda mais estruturas consideradas pouco eficientes.O dado revela gargalos relevantes justamente no momento em que o país se prepara para mudanças profundas no sistema tributário.&lt;/p&gt;
+&lt;p&gt;A pesquisa ouviu 355 profissionais de médias e grandes empresas, a maioria com alto volume operacional. Do total de companhias pesquisadas, 63% processam mais de 10 mil notas fiscais por mês.&lt;/p&gt;
+&lt;p&gt;Na prática, a automação ainda é incompleta.&lt;/p&gt;
+&lt;p&gt;Embora 61% das empresas consigam capturar notas fiscais automaticamente, apenas 49% fazem o registro no sistema sem ação manual.&lt;/p&gt;
+&lt;p&gt;Isso acontece porque o Enterprise Resource Planning (ERP) depende de integrações e validações adicionais para funcionar plenamente no ambiente tributário brasileiro. Traduzido como Recurso de Planejamento Empresarial em português, o ERP funciona como espécie de cérebro para empresas.&lt;/p&gt;
+&lt;p&gt;“Muitas empresas acreditam que estão automatizadas, mas ainda dependem de pessoas para validar dados e concluir processos”, afirma o presidente-executivo (CEO) da V360, Izaias Miguel. “O documento entra automaticamente, mas ainda precisa de ajustes e conferências antes de seguir no sistema.”&lt;/p&gt;
+&lt;p&gt;O estudo também aponta falhas na validação das notas fiscais. Apenas 48% das empresas fazem conferência completa; comparando itens, valores e quantidades com pedidos de compra.&lt;/p&gt;
+&lt;p&gt;Outras 44% realizam checagens parciais, enquanto 8% ainda operam de forma totalmente manual.&lt;/p&gt;
+&lt;p&gt;Esse cenário aumenta riscos como pagamentos indevidos, erros fiscais e perda de controle interno, especialmente em empresas com grande volume de fornecedores.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/reforma-tributaria-expoe-desafios-em-automatizacao-de-empresas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© José Cruz/Agência Brasil/Arquivo
+Os desafios da reforma tributária começam a expor fragilidades na operação fiscal das empresas.
+A menos de nove me...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-04-11 10:55:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-11 10:55:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-11 10:55:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-11 10:55:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Wzy0N04C3R-zfGZ0k4fQd_TxKDg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220046_1.jpg?itok=NbzJGgQz</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>IR 2026: veja como declarar dependentes e pensão alimentícia</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/como-declarar-dependentes-e-pensao-alimenticia-no-ir-2026</link>
-      <pubDate>Sat, 11 Apr 2026 14:30:48 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 15:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/como-declarar-dependentes-e-pensao-alimenticia-no-ir-2026#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/como-declarar-dependentes-e-pensao-alimenticia-no-ir-2026#1001</guid>
       <description>© Fabio Rodrigues Pozzebom/Agência Brasil
 Uma das estratégias mais eficazes para reduzir o imposto a pagar ou garantir uma maior restituição é
 . Isso...</description>
@@ -49,7 +100,7 @@ Uma das estratégias mais eficazes para reduzir o imposto a pagar ou garantir um
       <excerpt:encoded>© Fabio Rodrigues Pozzebom/Agência Brasil
 Uma das estratégias mais eficazes para reduzir o imposto a pagar ou garantir uma maior restituição é
 . Isso...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-04-11 10:32:00</wp:post_date>
       <wp:post_date_gmt>2026-04-11 10:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-11 10:32:00</wp:post_modified>
@@ -75,9 +126,9 @@ Uma das estratégias mais eficazes para reduzir o imposto a pagar ou garantir um
     <item>
       <title>Cena Musical exibe show que celebra dez anos da banda Afrojazz</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/cena-musical-exibe-show-que-celebra-dez-anos-da-banda-afrojazz</link>
-      <pubDate>Sat, 11 Apr 2026 14:30:48 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 15:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/cena-musical-exibe-show-que-celebra-dez-anos-da-banda-afrojazz#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/cena-musical-exibe-show-que-celebra-dez-anos-da-banda-afrojazz#1002</guid>
       <description>apresenta um show especial da banda Afrojazz na madrugada deste sábado (11) para domingo (12), à meia-noite, na
 . O espetáculo foi gravado com exclus...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8VjrzqRrTBbdnP1xUDjnvXJ3JZg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/10/large-3-.jpg?itok=l-wwh4F8&quot; alt=&quot;Cena Musical exibe show que celebra dez anos da banda Afrojazz&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -98,7 +149,7 @@ Uma das estratégias mais eficazes para reduzir o imposto a pagar ou garantir um
 &lt;p&gt;O app pode ser baixado gratuitamente e está disponível para Android e iOS.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/cena-musical-exibe-show-que-celebra-dez-anos-da-banda-afrojazz&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>apresenta um show especial da banda Afrojazz na madrugada deste sábado (11) para domingo (12), à meia-noite, na
 . O espetáculo foi gravado com exclus...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-04-11 10:20:00</wp:post_date>
       <wp:post_date_gmt>2026-04-11 10:20:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-11 10:20:00</wp:post_modified>
@@ -124,9 +175,9 @@ Uma das estratégias mais eficazes para reduzir o imposto a pagar ou garantir um
     <item>
       <title>Professores poderão participar de olimpíada inédita de matemática</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-poderao-participar-de-olimpiada-inedita-de-matematica</link>
-      <pubDate>Sat, 11 Apr 2026 14:30:48 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 15:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-poderao-participar-de-olimpiada-inedita-de-matematica#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-poderao-participar-de-olimpiada-inedita-de-matematica#1003</guid>
       <description>Instituto de Matemática Pura e Aplicada (Impa)
 abre de 4 a 29 de maio inscrições para a 1ª Olimpíada dos Professores da Obmep Mirim.
 A Obmep Mirim, d...</description>
@@ -149,7 +200,7 @@ A Obmep Mirim, d...</description>
       <excerpt:encoded>Instituto de Matemática Pura e Aplicada (Impa)
 abre de 4 a 29 de maio inscrições para a 1ª Olimpíada dos Professores da Obmep Mirim.
 A Obmep Mirim, d...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-04-11 09:04:00</wp:post_date>
       <wp:post_date_gmt>2026-04-11 09:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-11 09:04:00</wp:post_modified>
@@ -175,9 +226,9 @@ A Obmep Mirim, d...</excerpt:encoded>
     <item>
       <title>Mega-Sena sorteia prêmio estimado em R$ 40 milhões neste sábado</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/mega-sena-sorteia-premio-estimado-em-r-40-milhoes-neste-sabado</link>
-      <pubDate>Sat, 11 Apr 2026 14:30:48 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 15:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/mega-sena-sorteia-premio-estimado-em-r-40-milhoes-neste-sabado#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/mega-sena-sorteia-premio-estimado-em-r-40-milhoes-neste-sabado#1004</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 As seis dezenas do concurso 2.995 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZknnHaJ1JX0ZFgm3I3cbvuQ5tQg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182751.jpg?itok=QnjfS3G4&quot; alt=&quot;Mega-Sena sorteia prêmio estimado em R$ 40 milhões neste sábado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -190,15 +241,15 @@ As seis dezenas do concurso 2.995 da Mega-Sena serão sorteadas, a partir das 21
 &lt;p&gt;O sorteio terá transmissão ao vivo pelo&lt;/p&gt;
 &lt;p&gt;e no Facebook das Loterias Caixa.&lt;/p&gt;
 &lt;p&gt;O jogo simples, com seis números marcados, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;Empresa Brasil de Comunicação tem nova presidenta: Antonia Pellegrino&lt;/p&gt;
+&lt;p&gt;Tripulação da Artemis II volta à Terra após viagem à Lua&lt;/p&gt;
 &lt;p&gt;Qual é o papel do esporte universitário num mundo tomado pelas tensões geopolíticas?&lt;/p&gt;
 &lt;p&gt;No ES, Festa da Penha deve reunir mais de 2,5 milhões de pessoas&lt;/p&gt;
-&lt;p&gt;Reforma tributária expõe desafios em automatização de empresas&lt;/p&gt;
-&lt;p&gt;IR 2026: veja como declarar dependentes e pensão alimentícia&lt;/p&gt;
-&lt;p&gt;Cena Musical exibe show que celebra dez anos da banda Afrojazz&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/mega-sena-sorteia-premio-estimado-em-r-40-milhoes-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;TRE-RJ promove mutirão para eleitores regularizar título&lt;/p&gt;
+&lt;p&gt;Júri condena ex-PM pelo assassinato do bicheiro Fernando Iggnácio&lt;/p&gt;
+&lt;p&gt;Reforma tributária expõe desafios em automatização de empresas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-04/mega-sena-sorteia-premio-estimado-em-r-40-milhoes-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 As seis dezenas do concurso 2.995 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço d...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-04-11 08:41:00</wp:post_date>
       <wp:post_date_gmt>2026-04-11 08:41:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-11 08:41:00</wp:post_modified>
@@ -224,9 +275,9 @@ As seis dezenas do concurso 2.995 da Mega-Sena serão sorteadas, a partir das 21
     <item>
       <title>CNJ quer fazer cultura circular nos presídios do país</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/cnj-quer-fazer-cultura-circular-nos-presidios-do-pais</link>
-      <pubDate>Sat, 11 Apr 2026 14:30:48 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 15:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/cnj-quer-fazer-cultura-circular-nos-presidios-do-pais#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/cnj-quer-fazer-cultura-circular-nos-presidios-do-pais#1005</guid>
       <description>A pintura de um menino negro de cinco ou seis anos, segurando um sorriso no rosto, vestindo beca por cima do uniforme escolar foi a forma que Átila e...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NQsVztyr1Ld47Pqdaw5HIppkqVo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/10/0g0a9766.jpg?itok=guhr4R9m&quot; alt=&quot;CNJ quer fazer cultura circular nos presídios do país&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A pintura de um menino negro de cinco ou seis anos, segurando um sorriso no rosto, vestindo beca por cima do uniforme escolar foi a forma que Átila encontrou de preencher uma ausência: a de uma fotografia sua na formatura do primário.&lt;/p&gt;
@@ -245,7 +296,7 @@ As seis dezenas do concurso 2.995 da Mega-Sena serão sorteadas, a partir das 21
 &lt;p&gt;&quot;Comida. Era tudo muito pouco. Eu queria mais do que pedir esmolas e ser humilhado e não posso negar que a fome foi a marca registrada da minha dor e culpa&quot;, declamou um dos atores, Mateus de Souza Silva, de 30 anos, em trecho do espetáculo teatral&lt;/p&gt;
 &lt;p&gt;No fragmento apresentado ao público, ele relembra de si aos sete anos, quando perdeu o irmão de 12 anos, atropelado com uma sacola de frutas nas mãos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/cnj-quer-fazer-cultura-circular-nos-presidios-do-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A pintura de um menino negro de cinco ou seis anos, segurando um sorriso no rosto, vestindo beca por cima do uniforme escolar foi a forma que Átila e...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-04-10 21:01:00</wp:post_date>
       <wp:post_date_gmt>2026-04-10 21:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-10 21:01:00</wp:post_modified>
@@ -271,9 +322,9 @@ As seis dezenas do concurso 2.995 da Mega-Sena serão sorteadas, a partir das 21
     <item>
       <title>STF tem três votos para derrubar lei de SC que proibiu cotas raciais</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/stf-tem-tres-votos-para-derrubar-lei-de-sc-que-proibiu-cotas-raciais</link>
-      <pubDate>Sat, 11 Apr 2026 14:30:48 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 15:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/stf-tem-tres-votos-para-derrubar-lei-de-sc-que-proibiu-cotas-raciais#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/stf-tem-tres-votos-para-derrubar-lei-de-sc-que-proibiu-cotas-raciais#1006</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O Supremo Tribunal Federal (STF) registrou nesta sexta-feira (10) placar de 3 votos a 0 para derrubar a
 lei de Santa...</description>
@@ -287,16 +338,16 @@ lei de Santa...</description>
 &lt;p&gt;O plenário julga ações protocoladas pelo PSOL, PT, PCdoB e o Conselho Federal da Ordem dos Advogados do Brasil (OAB) para considerar a lei inconstitucional.&lt;/p&gt;
 &lt;p&gt;foi aprovada pela Assembleia Legislativa e sancionada pelo governador Jorginho Melo (PL).&lt;/p&gt;
 &lt;p&gt;A norma permite a reserva de vagas somente para pessoas com deficiência, alunos oriundos de escolas públicas ou com base em critérios exclusivamente econômicos.&lt;/p&gt;
-&lt;p&gt;Empresa Brasil de Comunicação tem nova presidenta: Antonia Pellegrino&lt;/p&gt;
+&lt;p&gt;Tripulação da Artemis II volta à Terra após viagem à Lua&lt;/p&gt;
 &lt;p&gt;Qual é o papel do esporte universitário num mundo tomado pelas tensões geopolíticas?&lt;/p&gt;
 &lt;p&gt;No ES, Festa da Penha deve reunir mais de 2,5 milhões de pessoas&lt;/p&gt;
-&lt;p&gt;Reforma tributária expõe desafios em automatização de empresas&lt;/p&gt;
-&lt;p&gt;IR 2026: veja como declarar dependentes e pensão alimentícia&lt;/p&gt;
-&lt;p&gt;Cena Musical exibe show que celebra dez anos da banda Afrojazz&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/stf-tem-tres-votos-para-derrubar-lei-de-sc-que-proibiu-cotas-raciais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;TRE-RJ promove mutirão para eleitores regularizar título&lt;/p&gt;
+&lt;p&gt;Júri condena ex-PM pelo assassinato do bicheiro Fernando Iggnácio&lt;/p&gt;
+&lt;p&gt;Reforma tributária expõe desafios em automatização de empresas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/stf-tem-tres-votos-para-derrubar-lei-de-sc-que-proibiu-cotas-raciais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O Supremo Tribunal Federal (STF) registrou nesta sexta-feira (10) placar de 3 votos a 0 para derrubar a
 lei de Santa...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-04-10 20:42:00</wp:post_date>
       <wp:post_date_gmt>2026-04-10 20:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-10 20:42:00</wp:post_modified>
@@ -322,9 +373,9 @@ lei de Santa...</excerpt:encoded>
     <item>
       <title>CNJ lança programa para ampliar acesso à saúde no sistema prisional</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/cnj-lanca-programa-para-ampliar-acesso-saude-no-sistema-prisional</link>
-      <pubDate>Sat, 11 Apr 2026 14:30:48 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 15:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/cnj-lanca-programa-para-ampliar-acesso-saude-no-sistema-prisional#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/cnj-lanca-programa-para-ampliar-acesso-saude-no-sistema-prisional#1007</guid>
       <description>O Conselho Nacional de Justiça (CNJ) lançou nesta sexta-feira (10), no Rio de Janeiro, o programa Cuidar, estratégia do plano Pena Justa voltado à am...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zOhdQV4SMfGkqRQ2CCP9JYgR6zM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/10/0g0a9876.jpg?itok=4EffUUfZ&quot; alt=&quot;CNJ lança programa para ampliar acesso à saúde no sistema prisional&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Conselho Nacional de Justiça (CNJ) lançou nesta sexta-feira (10), no Rio de Janeiro, o programa Cuidar, estratégia do plano Pena Justa voltado à ampliação do acesso à saúde no sistema prisional brasileiro.&lt;/p&gt;
@@ -343,7 +394,7 @@ lei de Santa...</excerpt:encoded>
 &lt;p&gt;Ela acrescenta que outro desafio é a disponibilização de métodos de diagnóstico de alta performance. “A gente precisa das melhores soluções para rastreamento e não tecnologias atrasadas&quot;, completou.&lt;/p&gt;
 &lt;p&gt;O programa Cuidar integra o plano Pena Justa, política nacional voltada ao enfrentamento da crise no sistema prisional brasileiro.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/cnj-lanca-programa-para-ampliar-acesso-saude-no-sistema-prisional&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Conselho Nacional de Justiça (CNJ) lançou nesta sexta-feira (10), no Rio de Janeiro, o programa Cuidar, estratégia do plano Pena Justa voltado à am...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-04-10 20:07:00</wp:post_date>
       <wp:post_date_gmt>2026-04-10 20:07:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-10 20:07:00</wp:post_modified>
@@ -369,9 +420,9 @@ lei de Santa...</excerpt:encoded>
     <item>
       <title>Dólar cai para R$ 5,01, e bolsa renova recorde com ajuda do exterior</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/dolar-cai-para-r-501-e-bolsa-renova-recorde-com-ajuda-do-exterior</link>
-      <pubDate>Sat, 11 Apr 2026 14:30:48 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 15:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/dolar-cai-para-r-501-e-bolsa-renova-recorde-com-ajuda-do-exterior#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/dolar-cai-para-r-501-e-bolsa-renova-recorde-com-ajuda-do-exterior#1008</guid>
       <description>© Valter Campanato/Agência Brasil
 O dólar voltou a cair e se aproximou do patamar de R$ 5, no menor nível em mais de dois anos. A bolsa brasileira re...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/rasBiqiDGctpl5-xBWwAW622HfA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221212.jpg?itok=KoFmjD94&quot; alt=&quot;Dólar cai para R$ 5,01, e bolsa renova recorde com ajuda do exterior&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -392,7 +443,7 @@ O dólar voltou a cair e se aproximou do patamar de R$ 5, no menor nível em mai
 &lt;p&gt;Foi o nono pregão seguido de ganhos e o 16º fechamento recorde, consolidando a melhor sequência da bolsa brasileira desde a semana entre 19 e 23 de janeiro. Na semana, o índice acumulou alta de 4,93%.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/dolar-cai-para-r-501-e-bolsa-renova-recorde-com-ajuda-do-exterior&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 O dólar voltou a cair e se aproximou do patamar de R$ 5, no menor nível em mais de dois anos. A bolsa brasileira re...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-04-10 20:01:00</wp:post_date>
       <wp:post_date_gmt>2026-04-10 20:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-10 20:01:00</wp:post_modified>
@@ -418,9 +469,9 @@ O dólar voltou a cair e se aproximou do patamar de R$ 5, no menor nível em mai
     <item>
       <title>Lula quer incluir inadimplentes do FIES em pacote contra endividamento</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-quer-incluir-inadimplentes-do-fies-em-pacote-contra-endividamento</link>
-      <pubDate>Sat, 11 Apr 2026 14:30:48 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 15:26:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-quer-incluir-inadimplentes-do-fies-em-pacote-contra-endividamento#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-quer-incluir-inadimplentes-do-fies-em-pacote-contra-endividamento#1009</guid>
       <description>O presidente da República, Luiz Inácio Lula da Silva, disse nesta sexta-feira (10) que deverá incluir no pacote de medidas do governo federal contra ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VFNWzNlpadjFZM3i--7Ch6MgudM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/10/_int1159.jpg.jpeg?itok=Vqd2cEVB&quot; alt=&quot;Lula quer incluir inadimplentes do FIES em pacote contra endividamento&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O presidente da República, Luiz Inácio Lula da Silva, disse nesta sexta-feira (10) que deverá incluir no pacote de medidas do governo federal contra o endividamento os estudantes que estão em atraso com os pagamentos do Fundo de Financiamento ao Estudante do Ensino Superior (FIES).&lt;/p&gt;
@@ -439,7 +490,7 @@ O dólar voltou a cair e se aproximou do patamar de R$ 5, no menor nível em mai
 &lt;p&gt;“Vamos supor que cada deputado tenha R$ 40 milhões por ano de emenda. Cada deputado e cada senador. Imagina se todos eles assumirem a responsabilidade de financiar a construção de uma escola. São 513 deputados, são 513 escolas. São 81 senadores, são 81 escolas. Resolvemos o problema da educação”, acrescentou.&lt;/p&gt;
 &lt;p&gt;No fim do discurso, em tom de brincadeira, Lula disse que se o presidente estadunidense soubesse o que é um pernambucano não faria ameaças contra o Brasil. Lula ressalvou, no entanto, que o país é pacífico e valoriza a paz e o amor.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-quer-incluir-inadimplentes-do-fies-em-pacote-contra-endividamento&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O presidente da República, Luiz Inácio Lula da Silva, disse nesta sexta-feira (10) que deverá incluir no pacote de medidas do governo federal contra ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-04-10 20:01:00</wp:post_date>
       <wp:post_date_gmt>2026-04-10 20:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-10 20:01:00</wp:post_modified>
@@ -460,55 +511,6 @@ O dólar voltou a cair e se aproximou do patamar de R$ 5, no menor nível em mai
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/VFNWzNlpadjFZM3i--7Ch6MgudM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/10/_int1159.jpg.jpeg?itok=Vqd2cEVB</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Antonia Pellegrino é a nova presidenta da EBC</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/antonia-pellegrino-e-nova-presidenta-da-ebc</link>
-      <pubDate>Sat, 11 Apr 2026 14:30:48 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/antonia-pellegrino-e-nova-presidenta-da-ebc#1009</guid>
-      <description>© Fernando Frazão/Agência Brasil
-A roteirista Antonia Pellegrino é a nova presidenta da Empresa Brasil de Comunicação (EBC). Com trajetória consolida...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/4BZaDv74B4ICEi-BCCq8jxlmuos=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_0324_0.jpg?itok=InpnTobv&quot; alt=&quot;Antonia Pellegrino é a nova presidenta da EBC&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
-&lt;p&gt;A roteirista Antonia Pellegrino é a nova presidenta da Empresa Brasil de Comunicação (EBC). Com trajetória consolidada no audiovisual e na gestão pública, ela assume o comando da empresa após atuar, desde 2023, como diretora de Conteúdo e Programação da EBC, período em que liderou a reconstrução da TV Brasil, ampliando a audiência e fortalecendo a programação cultural.&lt;/p&gt;
-&lt;p&gt;O ministro da Secretaria de Comunicação Social da Presidência da República, Sidônio Palmeira, destaca que seu convite a Antonia Pellegrino reflete o&lt;/p&gt;
-&lt;p&gt;compromisso com o fortalecimento da comunicação pública no país&lt;/p&gt;
-&lt;p&gt;“Antonia reúne experiência em gestão, sensibilidade editorial e profundo conhecimento do audiovisual brasileiro. Sua trajetória à frente do conteúdo da&lt;/p&gt;
-&lt;p&gt;demonstra capacidade de inovar, ampliar o alcance e reafirmar o papel estratégico da comunicação pública para a democracia, que é o cerne da nossa gestão da Secom”, afirmou.&lt;/p&gt;
-&lt;p&gt;Antonia coordenou iniciativas estratégicas como a reformulação do programa&lt;/p&gt;
-&lt;p&gt;, vencedor do Prêmio APCA 2024 de Melhor Programa de Televisão,&lt;/p&gt;
-&lt;p&gt;e a realização do maior edital da história do campo público de comunicação: a Seleção TV Brasil&lt;/p&gt;
-&lt;p&gt;, que vai investir de R$ 110 milhões na produção audiovisual independente, incluindo, de forma pioneira, uma novela. Também foi responsável pela ampliação da presença da emissora no esporte, com destaque para a transmissão do futebol feminino.&lt;/p&gt;
-&lt;p&gt;Com formação em ciências sociais e mestrado em literatura, cultura e contemporaneidade pela PUC-Rio, além de mestrado em administração pública pela FGV-Ebape, Antonia reúne experiência em gestão e produção cultural.&lt;/p&gt;
-&lt;p&gt;No audiovisual, construiu trajetória premiada como roteirista, com reconhecimento de instituições como a Academia Brasileira de Letras e a Academia do Cinema Brasileiro, além de festivais internacionais.&lt;/p&gt;
-&lt;p&gt;Colaborou no roteiro do documentário&lt;/p&gt;
-&lt;p&gt;, indicado ao Oscar, e desenvolveu projetos para diferentes plataformas, como a série Amar&lt;/p&gt;
-&lt;p&gt;, em parceria com Marcelo D2, e o filme&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/antonia-pellegrino-e-nova-presidenta-da-ebc&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fernando Frazão/Agência Brasil
-A roteirista Antonia Pellegrino é a nova presidenta da Empresa Brasil de Comunicação (EBC). Com trajetória consolida...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-04-10 19:48:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-10 19:48:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-10 19:48:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-10 19:48:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/4BZaDv74B4ICEi-BCCq8jxlmuos=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_0324_0.jpg?itok=InpnTobv</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
