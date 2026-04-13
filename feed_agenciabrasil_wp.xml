@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 13 Apr 2026 17:56:45 +0000</pubDate>
+    <pubDate>Mon, 13 Apr 2026 19:11:14 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,160 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Olimpíada de Professores de Matemática abre as inscrições</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/olimpiada-de-professores-de-matematica-abre-inscricoes</link>
+      <pubDate>Mon, 13 Apr 2026 19:11:14 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/olimpiada-de-professores-de-matematica-abre-inscricoes#1000</guid>
+      <description>A 3ª edição da Olimpíada de Professores de Matemática do Brasil (OPMBr) – Edição Anos Finais do Ensino Fundamental está com
+inscrições abertas até 17...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/pzOAtuq5jiKPD_45cPfeEuuWxFM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/26/foto_4_-_faculdade_inovadora_-_sala_de_aula.jpg?itok=S1AKCcwv&quot; alt=&quot;Olimpíada de Professores de Matemática abre as inscrições&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A 3ª edição da Olimpíada de Professores de Matemática do Brasil (OPMBr) – Edição Anos Finais do Ensino Fundamental está com&lt;/p&gt;
+&lt;p&gt;inscrições abertas até 17 de maio&lt;/p&gt;
+&lt;p&gt;para os docentes das redes públicas de educação.&lt;/p&gt;
+&lt;p&gt;De acordo com o Ministério da Educação (MEC), a competição educacional tem o objetivo de valorizar o trabalho desses profissionais e suas práticas pedagógicas inovadoras no ensino da matemática.&lt;/p&gt;
+&lt;p&gt;O reconhecimento também deve contribuir para o fortalecimento da aprendizagem da matemática na educação básica pelos estudantes.&lt;/p&gt;
+&lt;p&gt;Para participar da 3ª OPMBr – Anos Finais, os professores do ensino fundamental II precisam, primeiramente, conferir se a rede pública de ensino onde atuam aderiu ao Compromisso Nacional Toda Matemática (CNTM) firmado com o MEC, pela plataforma Sistema Integrado de Monitoramento Execução e Controle (Simec).&lt;/p&gt;
+&lt;p&gt;Podem se inscrever todos os professores de matemática do 6º ao 9º ano (EF II) com contrato efetivo ou vínculo temporário, que estejam em salas de aula da rede pública de ensino.&lt;/p&gt;
+&lt;p&gt;As inscrições são gratuitas e devem ser feitas exclusivamente pelo&lt;/p&gt;
+&lt;p&gt;A Olimpíada de Professores de Matemática do Brasil é estruturada em três fases, sendo duas primeiras classificatórias e eliminatórias e a terceira apenas classificatória:&lt;/p&gt;
+&lt;p&gt;fase I: dois testes com questões de matemática e didática, entre 11 de junho e 23 de agosto;&lt;/p&gt;
+&lt;p&gt;fase II: envio de um vídeo de até 10 minutos com proposta pedagógica, de 1 a 8 de setembro;&lt;/p&gt;
+&lt;p&gt;fase III: avaliação por meio de portfólio e entrevista, entre 26 de outubro a 10 de novembro.&lt;/p&gt;
+&lt;p&gt;A premiação está agendada para 7 de dezembro.&lt;/p&gt;
+&lt;p&gt;O regulamento completo está disponível no&lt;/p&gt;
+&lt;p&gt;Mulheres que sofreram violência sexual têm mais problemas cardíacos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/olimpiada-de-professores-de-matematica-abre-inscricoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A 3ª edição da Olimpíada de Professores de Matemática do Brasil (OPMBr) – Edição Anos Finais do Ensino Fundamental está com
+inscrições abertas até 17...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-04-13 14:57:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-13 14:57:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-13 14:57:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-13 14:57:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/pzOAtuq5jiKPD_45cPfeEuuWxFM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/26/foto_4_-_faculdade_inovadora_-_sala_de_aula.jpg?itok=S1AKCcwv</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Réus pelo assassinato de mãe Bernadete vão a júri popular em Salvador</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/reus-pelo-assassinato-de-mae-bernadete-vao-juri-popular-em-salvador</link>
+      <pubDate>Mon, 13 Apr 2026 19:11:14 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/reus-pelo-assassinato-de-mae-bernadete-vao-juri-popular-em-salvador#1001</guid>
+      <description>© Arte sobre foto de Walisson Braga/Conaq
+O julgamento de dois dos réus pelo
+assassinato da líder quilombola
+e ialorixá Maria Bernadete Pacífico More...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QogMOrMOknisrGBBgaM5Iy0XYXw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mae-bernadette.png?itok=drJC3psJ&quot; alt=&quot;Réus pelo assassinato de mãe Bernadete vão a júri popular em Salvador&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Arte sobre foto de Walisson Braga/Conaq&lt;/p&gt;
+&lt;p&gt;O julgamento de dois dos réus pelo&lt;/p&gt;
+&lt;p&gt;assassinato da líder quilombola&lt;/p&gt;
+&lt;p&gt;e ialorixá Maria Bernadete Pacífico Moreira, a Mãe Bernadete, teve início nesta segunda-feira (13) na Justiça da Bahia.&lt;/p&gt;
+&lt;p&gt;Arielson da Conceição Santos e Marílio dos Santos estão sendo julgados no Fórum Ruy Barbosa, em Salvador.&lt;/p&gt;
+&lt;p&gt;Inicialmente, a sessão de julgamento estava prevista para fevereiro, mas&lt;/p&gt;
+&lt;p&gt;após a defesa ter solicitado a troca de advogados.&lt;/p&gt;
+&lt;p&gt;Os réus são acusados de homicídio qualificado cometido por motivo torpe, meio cruel, com impossibilidade de defesa da vítima e utilização de arma de uso restrito, contra a líder quilombola, em 2023, no município de Simões Filho. Arielson também responderá pelo crime de roubo.&lt;/p&gt;
+&lt;p&gt;Arielson da Conceição Santos, que é réu confesso, já está preso e Marílio dos Santos está foragido.&lt;/p&gt;
+&lt;p&gt;No início da manhã, integrantes do movimento negro, familiares e amigos de mãe Bernadete realizaram um protesto em frente ao fórum.&lt;/p&gt;
+&lt;p&gt;O advogado da família Pacífico, Hédio Júnior, disse em uma rede social que a expectativa é que os réus sejam condenados à pena máxima.&lt;/p&gt;
+&lt;p&gt;“O mundo precisa ter um resultado, que seja a condenação à pena máxima. As provas são irrefutáveis, são provas periciais. Esse executor que está aqui foi reconhecido pelas testemunhas. Ele é réu confesso, ele confessou na polícia, depois confessou no juízo, você tem prova de grampo telefônico, de rastreamento de antena de celular, prova pericial, prova de balística. Portanto o que se hoje aqui se espera, e eu confio muito no discernimento dos jurados, é a condenação à pena máxima”, afirmou.&lt;/p&gt;
+&lt;p&gt;, em fevereiro, o ativista e filho de Mãe Bernadete Jurandir Pacífico também&lt;/p&gt;
+&lt;p&gt;“Minha expectativa é que se comece a se fazer justiça para esse assassinato bárbaro. Vou chegar cedinho. Minha mãe era uma pessoa de 72 anos que sempre atuou em defesa dos direitos humanos”, disse Jurandir em entrevista à&lt;/p&gt;
+&lt;p&gt;As outras três pessoas denunciadas pelo MP baiano, Josevan Dionísio dos Santos, Sérgio Ferreira de Jesus e Ydney Carlos dos Santos de Jesus - este último também acusado de ser mandante do crime, ainda não tem data para serem julgados.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/reus-pelo-assassinato-de-mae-bernadete-vao-juri-popular-em-salvador&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Arte sobre foto de Walisson Braga/Conaq
+O julgamento de dois dos réus pelo
+assassinato da líder quilombola
+e ialorixá Maria Bernadete Pacífico More...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-04-13 14:53:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-13 14:53:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-13 14:53:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-13 14:53:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/QogMOrMOknisrGBBgaM5Iy0XYXw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mae-bernadette.png?itok=drJC3psJ</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Professores do estado de SP finalizam greve, mas mantêm mobilização</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-do-estado-de-sp-finalizam-greve-mas-mantem-mobilizacao</link>
+      <pubDate>Mon, 13 Apr 2026 19:11:14 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-do-estado-de-sp-finalizam-greve-mas-mantem-mobilizacao#1002</guid>
+      <description>Os professores da rede estadual deSão Paulo decidiram em assembleia, na última sexta-feira (10)finalizar a paralisação iniciada na quinta-feira (9). ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GDcs12GMeG-IhLzDmJyc_0vRF3o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/26/12778-700x480.jpg?itok=epquMU4D&quot; alt=&quot;Professores do estado de SP finalizam greve, mas mantêm mobilização&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Os professores da rede estadual deSão Paulo decidiram em assembleia, na última sexta-feira (10)finalizar a paralisação iniciada na quinta-feira (9). Osdocentes optaram por dar andamento a um calendário de ações em todo o estado.&lt;/p&gt;
+&lt;p&gt;Segundo o Sindicato dos Professores do Ensino Oficial do Estado de São Paulo (Apeosp),&lt;/p&gt;
+&lt;p&gt;a decisão foi tomada por cerca de 10 mil participantes, que avaliaram positivamente a greve, com adesão média de 40% da rede estadual, e definiram a continuidade da luta com a realização de atos, reuniões e ações de mobilização com acomunidade escolar.&lt;/p&gt;
+&lt;p&gt;Para esta terça-feira (14), está programada uma mobilização a partir das 14h30na Assembleia Legislativa do Estado de São Paulo (Alesp)&lt;/p&gt;
+&lt;p&gt;, onde a categoria pretende acompanhar os debates e pressionar os parlamentares pela retirada de pauta do PL 1.316, que trata da Reforma Administrativa da Educação.&lt;/p&gt;
+&lt;p&gt;Uma nova assembleia estadual está convocada para o dia 28 de abril, às 15h, na Alesp, quando serão avaliados os próximos passos do movimento.&lt;/p&gt;
+&lt;p&gt;A categoria reivindicareajuste salarial, aplicação correta do piso nacional como base da carreira, valorização profissional, melhores condições de trabalho e mudanças em políticas educacionais em curso no estado.&lt;/p&gt;
+&lt;p&gt;A pauta da mobilização inclui ainda outros pontos, como a retirada de pauta do PL 1.316, que trata da Reforma Administrativa da Educação e a revogação da Avaliação de Desempenho, considerada injusta pela entidade.&lt;/p&gt;
+&lt;p&gt;Os professores também pedem abertura de classes para o ensino regular e educação de jovens e adultos (EJA) no período noturno e de educação especial inclusivaque atenda às necessidades de alunos atípicos e com deficiência.&lt;/p&gt;
+&lt;p&gt;Outro ponto destacado pela entidade é a implementação da meta 17 do Plano Nacional de Educação (PNE), que prevê a equiparação salarial dos professores da educação básica com outros profissionais de nível superior.&lt;/p&gt;
+&lt;p&gt;O movimento também questiona a chamada &quot;plataformização do ensino&quot;, que se refere à integração intensiva de plataformas de empresas privadoa na aprendizagem e na rotina da sala de aula.&lt;/p&gt;
+&lt;p&gt;Mulheres que sofreram violência sexual têm mais problemas cardíacos&lt;/p&gt;
+&lt;p&gt;STF tem 3 votos para derrubar lei que proíbe cotas em Santa Catarina&lt;/p&gt;
+&lt;p&gt;ICE prende Alexandre Ramagem nos Estados Unidos&lt;/p&gt;
+&lt;p&gt;Olimpíada de Professores de Matemática abre as inscrições&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/professores-do-estado-de-sp-finalizam-greve-mas-mantem-mobilizacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Os professores da rede estadual deSão Paulo decidiram em assembleia, na última sexta-feira (10)finalizar a paralisação iniciada na quinta-feira (9). ...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-04-13 14:43:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-13 14:43:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-13 14:43:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-13 14:43:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/GDcs12GMeG-IhLzDmJyc_0vRF3o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/26/12778-700x480.jpg?itok=epquMU4D</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Finep e BNDES lançam edital para selecionar gestor de fundo de IA</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/finep-e-bndes-lancam-edital-para-selecionar-gestor-de-fundo-de-ia</link>
-      <pubDate>Mon, 13 Apr 2026 17:56:45 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 19:11:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/finep-e-bndes-lancam-edital-para-selecionar-gestor-de-fundo-de-ia#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/finep-e-bndes-lancam-edital-para-selecionar-gestor-de-fundo-de-ia#1003</guid>
       <description>A Financiadora de Estudos e Projetos (Finep) e o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) estão com edital aberto para escolher o...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/X9LYYfYpB5I5XpSHMIxD5IYsu9U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/homem-tocando-uma-tela-virtual-futurista-remix-de-tecnologia-digital.jpg?itok=E0_DSAXg&quot; alt=&quot;Finep e BNDES lançam edital para selecionar gestor de fundo de IA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Financiadora de Estudos e Projetos (Finep) e o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) estão com edital aberto para escolher o gestor de Fundo de Investimento em Participações (FIP) de Inteligência Artificial (IA). Segundo as entidades, as propostas serão avaliadas com base em critérios de qualificação dogestore sua equipe, tese de investimentos do fundo e custos previstos.&lt;/p&gt;
@@ -45,7 +194,7 @@
 &lt;p&gt;intensivas em tecnologia faz parte de uma estratégia de desenvolver soluções em inteligência artificial que promovam o aumento das atividades de pesquisa, desenvolvimento e inovação no setor e melhorem significativamente a qualidade de vida da população.&lt;/p&gt;
 &lt;p&gt;“Por parte do MCTI [Ministério da Ciência, Tecnologia e Inovação] e da Finep, o novo FIP é mais uma iniciativa para o atendimento a uma finalidade prevista no Plano Brasileiro de Inteligência Artificial, de tornar o país referência mundial em inovação e uso de IA”, afirmou Elias.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/finep-e-bndes-lancam-edital-para-selecionar-gestor-de-fundo-de-ia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Financiadora de Estudos e Projetos (Finep) e o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) estão com edital aberto para escolher o...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-04-13 13:48:00</wp:post_date>
       <wp:post_date_gmt>2026-04-13 13:48:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-13 13:48:00</wp:post_modified>
@@ -71,9 +220,9 @@
     <item>
       <title>Servidora Ana Cristina Viana assume comando do INSS</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/servidora-ana-cristina-viana-assume-comando-do-inss</link>
-      <pubDate>Mon, 13 Apr 2026 17:56:45 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 19:11:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/servidora-ana-cristina-viana-assume-comando-do-inss#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/servidora-ana-cristina-viana-assume-comando-do-inss#1004</guid>
       <description>Ministério da Previdência Social
 anunciou, nesta segunda-feira (13), a troca no comando do Instituto Nacional do Seguro Social (INSS). A servidora An...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/10FRbMNhET26O3aXbtJRAgxcmxw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/13/546b7792-6c69-4341-b128-9c9894caf2dc_copy.jpg?itok=LQf36ZM4&quot; alt=&quot;Servidora Ana Cristina Viana assume comando do INSS&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -90,11 +239,11 @@ anunciou, nesta segunda-feira (13), a troca no comando do Instituto Nacional do 
 &lt;p&gt;no lugar de Alessandro Stefanutto, demitido do cargo após a Operação Sem Desconto da Polícia Federal revelar a existência de um esquema de fraudes no órgão entre 2019 e 2024&lt;/p&gt;
 &lt;p&gt;, que descontou indevidamente contribuições de aposentados e pensionistas a entidades e organizações sociais.&lt;/p&gt;
 &lt;p&gt;Confira mais detalhes no Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
-&lt;p&gt;Rio Grande do Norte ganha primeira lavanderia coletiva e agroecológica&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: após ameaça de Donald Trump, forças dos Estados Unidos começam bloqueio no Estreito de Ormuz&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/servidora-ana-cristina-viana-assume-comando-do-inss&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mulheres que sofreram violência sexual têm mais problemas cardíacos&lt;/p&gt;
+&lt;p&gt;STF tem 3 votos para derrubar lei que proíbe cotas em Santa Catarina&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/servidora-ana-cristina-viana-assume-comando-do-inss&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Ministério da Previdência Social
 anunciou, nesta segunda-feira (13), a troca no comando do Instituto Nacional do Seguro Social (INSS). A servidora An...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-04-13 12:44:00</wp:post_date>
       <wp:post_date_gmt>2026-04-13 12:44:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-13 12:44:00</wp:post_modified>
@@ -120,9 +269,9 @@ anunciou, nesta segunda-feira (13), a troca no comando do Instituto Nacional do 
     <item>
       <title>Nova lei amplia acesso a terapias e vacinas contra o câncer no SUS</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/nova-lei-amplia-acesso-a-terapias-e-vacinas-contra-o-cancer-no-sus</link>
-      <pubDate>Mon, 13 Apr 2026 17:56:45 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 19:11:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/nova-lei-amplia-acesso-a-terapias-e-vacinas-contra-o-cancer-no-sus#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/nova-lei-amplia-acesso-a-terapias-e-vacinas-contra-o-cancer-no-sus#1005</guid>
       <description>Pacientes de todo o país terãoacesso a
 protocolos mais ampliados de prevenção e controle do câncer no Sistema Único de Saúde (SUS)
 nesta segunda-feir...</description>
@@ -145,7 +294,7 @@ nesta segunda-feir...</description>
       <excerpt:encoded>Pacientes de todo o país terãoacesso a
 protocolos mais ampliados de prevenção e controle do câncer no Sistema Único de Saúde (SUS)
 nesta segunda-feir...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-04-13 11:45:00</wp:post_date>
       <wp:post_date_gmt>2026-04-13 11:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-13 11:45:00</wp:post_modified>
@@ -171,9 +320,9 @@ nesta segunda-feir...</excerpt:encoded>
     <item>
       <title>Reino Unido rejeita bloqueio proposto por Trump no Estreito de Ormuz</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/reino-unido-rejeita-bloqueio-proposto-por-trump-no-estreito-de-ormuz</link>
-      <pubDate>Mon, 13 Apr 2026 17:56:45 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 19:11:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/reino-unido-rejeita-bloqueio-proposto-por-trump-no-estreito-de-ormuz#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/reino-unido-rejeita-bloqueio-proposto-por-trump-no-estreito-de-ormuz#1006</guid>
       <description>© Reuters/Hamad I Mohammed/proibida reprodução
 O primeiro-ministro do Reino Unido, Keir Starmer, rejeitou participar do bloqueio naval anunciado pelo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Y8MKAiGU4N16591UEZXo3LsYOao=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/02/2026-03-02t135147z_1_lynxmpem210wq_rtroptp_4_ira-crise-petroleo-ue.jpg?itok=C1Yt5mVK&quot; alt=&quot;Reino Unido rejeita bloqueio proposto por Trump no Estreito de Ormuz&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -194,7 +343,7 @@ O primeiro-ministro do Reino Unido, Keir Starmer, rejeitou participar do bloquei
 &lt;p&gt;Por sua vez, a China afirmou que, para resolver a questão da navegação no Estreito de Ormuz, é necessário, em primeiro lugar, resolver o conflito bélico no Oriente Médio.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/reino-unido-rejeita-bloqueio-proposto-por-trump-no-estreito-de-ormuz&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Hamad I Mohammed/proibida reprodução
 O primeiro-ministro do Reino Unido, Keir Starmer, rejeitou participar do bloqueio naval anunciado pelo...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-04-13 11:44:00</wp:post_date>
       <wp:post_date_gmt>2026-04-13 11:44:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-13 11:44:00</wp:post_modified>
@@ -220,9 +369,9 @@ O primeiro-ministro do Reino Unido, Keir Starmer, rejeitou participar do bloquei
     <item>
       <title>Petrobras faz nova descoberta no pré-sal da Bacia de Campos</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/petrobras-faz-nova-descoberta-no-pre-sal-da-bacia-de-campos</link>
-      <pubDate>Mon, 13 Apr 2026 17:56:45 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 19:11:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/petrobras-faz-nova-descoberta-no-pre-sal-da-bacia-de-campos#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/petrobras-faz-nova-descoberta-no-pre-sal-da-bacia-de-campos#1007</guid>
       <description>A Petrobras localizou a presença de hidrocarbonetos no pré-sal da Bacia de Campos. A identificação foi no bloco C-M-477 do poço exploratório perfurad...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/USAuvNQPn1A4fhiMgsZmUcZq8uk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/13/unnamed_1_copy.jpg?itok=Pv58LHXu&quot; alt=&quot;Petrobras faz nova descoberta no pré-sal da Bacia de Campos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Petrobras localizou a presença de hidrocarbonetos no pré-sal da Bacia de Campos. A identificação foi no bloco C-M-477 do poço exploratório perfurado no Setor SC-AP4 da região. De acordo com a nota da companhia,&lt;/p&gt;
@@ -234,14 +383,14 @@ O primeiro-ministro do Reino Unido, Keir Starmer, rejeitou participar do bloquei
 &lt;p&gt;“está alinhada à estratégia de recomposição das reservas de petróleo e gás por meio da atuação em áreas de fronteira exploratória, em parceria com outras empresas, assegurando o atendimento à demanda nacional de energia durante a transição energética”.&lt;/p&gt;
 &lt;p&gt;Com 70% de participação, a Petrobras opera o bloco C-M-477, em parceria com a empresa BP, que participa com o restante.&lt;/p&gt;
 &lt;p&gt;“O bloco é oriundo da 16ª Rodada de Licitações da ANP, em regime de concessão”, concluiu a nota.&lt;/p&gt;
-&lt;p&gt;EUA iniciam bloqueio naval ao Estreito de Ormuz&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: após ameaça de Donald Trump, forças dos Estados Unidos começam bloqueio no Estreito de Ormuz&lt;/p&gt;
+&lt;p&gt;Mulheres que sofreram violência sexual têm mais problemas cardíacos&lt;/p&gt;
 &lt;p&gt;STF tem 3 votos para derrubar lei que proíbe cotas em Santa Catarina&lt;/p&gt;
-&lt;p&gt;Professores do estado de SP finalizam greve, mas mantêm mobilização&lt;/p&gt;
-&lt;p&gt;Finep e BNDES lançam edital para selecionar gestor de fundo de IA&lt;/p&gt;
-&lt;p&gt;Servidora Ana Cristina Viana assume comando do INSS&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/petrobras-faz-nova-descoberta-no-pre-sal-da-bacia-de-campos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;ICE prende Alexandre Ramagem nos Estados Unidos&lt;/p&gt;
+&lt;p&gt;Olimpíada de Professores de Matemática abre as inscrições&lt;/p&gt;
+&lt;p&gt;Réus pelo assassinato de mãe Bernadete vão a júri popular em Salvador&lt;/p&gt;
+&lt;p&gt;Professores do estado de SP finalizam greve, mas mantêm mobilização&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/petrobras-faz-nova-descoberta-no-pre-sal-da-bacia-de-campos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Petrobras localizou a presença de hidrocarbonetos no pré-sal da Bacia de Campos. A identificação foi no bloco C-M-477 do poço exploratório perfurad...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-04-13 11:40:00</wp:post_date>
       <wp:post_date_gmt>2026-04-13 11:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-13 11:40:00</wp:post_modified>
@@ -267,9 +416,9 @@ O primeiro-ministro do Reino Unido, Keir Starmer, rejeitou participar do bloquei
     <item>
       <title>Em reação a Trump, Irã ameaça retaliar portos do Pérsico e Mar de Omã</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/em-reacao-trump-ira-ameaca-retaliar-portos-do-persico-e-mar-do-oma</link>
-      <pubDate>Mon, 13 Apr 2026 17:56:45 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 19:11:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/em-reacao-trump-ira-ameaca-retaliar-portos-do-persico-e-mar-do-oma#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/em-reacao-trump-ira-ameaca-retaliar-portos-do-persico-e-mar-do-oma#1008</guid>
       <description>© Reuters/Stringer/Proibida reprodução
 As Forças Armadas da República Islâmica do Irã ameaçaram realizar retaliações contra portos no Golfo Pérsico e...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/G1XFVLz6R7vimkLa7vtkjh-hCPQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/31/2026-03-31t123057z_1567743119_rc2b2kaowaws_rtrmadp_3_oil-prices.jpg?itok=cBEICPm1&quot; alt=&quot;Em reação a Trump, Irã ameaça retaliar portos do Pérsico e Mar de Omã&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -290,7 +439,7 @@ As Forças Armadas da República Islâmica do Irã ameaçaram realizar retaliaç
 &lt;p&gt;&quot;Todos os trânsitos e não trânsitos sob controle total das forças armadas. Qualquer movimento equivocado prenderá o inimigo nos vórtices mortais do Estreito&quot;, disse.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/em-reacao-trump-ira-ameaca-retaliar-portos-do-persico-e-mar-do-oma&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Stringer/Proibida reprodução
 As Forças Armadas da República Islâmica do Irã ameaçaram realizar retaliações contra portos no Golfo Pérsico e...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-04-13 10:43:00</wp:post_date>
       <wp:post_date_gmt>2026-04-13 10:43:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-13 10:43:00</wp:post_modified>
@@ -316,9 +465,9 @@ As Forças Armadas da República Islâmica do Irã ameaçaram realizar retaliaç
     <item>
       <title>Enem 2026: períodopara pedirisençãodataxacomeça hoje</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/enem-2026-periodo-para-pedir-isencao-da-taxa-comeca-hoje</link>
-      <pubDate>Mon, 13 Apr 2026 17:56:45 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 19:11:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/enem-2026-periodo-para-pedir-isencao-da-taxa-comeca-hoje#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/enem-2026-periodo-para-pedir-isencao-da-taxa-comeca-hoje#1009</guid>
       <description>O prazo para que as pessoas interessadas em solicitar a isenção de pagamento da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) de 2026 e ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/28ifgyNFas7UcXO-VU-DktgzTok=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/16/toms0114.jpg?itok=jX6_RkSQ&quot; alt=&quot;Enem 2026: períodopara pedirisençãodataxacomeça hoje&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O prazo para que as pessoas interessadas em solicitar a isenção de pagamento da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) de 2026 e para aqueles candidatos que precisam justificar a ausência na edição do ano passado para participar gratuitamente desta edição começa nesta segunda-feira (13) e se estende até 24 de abril.&lt;/p&gt;
@@ -337,7 +486,7 @@ As Forças Armadas da República Islâmica do Irã ameaçaram realizar retaliaç
 &lt;p&gt;, no mesmo período, 13 a 24 de abril.&lt;/p&gt;
 &lt;p&gt;Não serão aceitos documentos autodeclaratórios ou emitidos por pais ou responsáveis dos participantes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/enem-2026-periodo-para-pedir-isencao-da-taxa-comeca-hoje&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O prazo para que as pessoas interessadas em solicitar a isenção de pagamento da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) de 2026 e ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-04-13 10:20:00</wp:post_date>
       <wp:post_date_gmt>2026-04-13 10:20:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-13 10:20:00</wp:post_modified>
@@ -358,151 +507,6 @@ As Forças Armadas da República Islâmica do Irã ameaçaram realizar retaliaç
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/28ifgyNFas7UcXO-VU-DktgzTok=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/16/toms0114.jpg?itok=jX6_RkSQ</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mercado eleva previsão da inflação para 4,71% este ano</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/mercado-eleva-previsao-da-inflacao-para-471-este-ano</link>
-      <pubDate>Mon, 13 Apr 2026 17:56:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/mercado-eleva-previsao-da-inflacao-para-471-este-ano#1007</guid>
-      <description>A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA), referência oficial da inflação no país, passou de 4,36%...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/z_msEtMQ2N6Mzt5PMHpa_35GH8o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/10/inflacion4.jpg?itok=qcVRNjEM&quot; alt=&quot;Mercado eleva previsão da inflação para 4,71% este ano&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA), referência oficial da inflação no país, passou de 4,36% para 4,71% este ano.&lt;/p&gt;
-&lt;p&gt;desta segunda-feira (13), pesquisa divulgada semanalmente pelo&lt;/p&gt;
-&lt;p&gt;com a expectativa de instituições financeiras para os principais indicadores econômicos.&lt;/p&gt;
-&lt;p&gt;Em meio às tensões causadas pela&lt;/p&gt;
-&lt;p&gt;a previsão para a inflação deste ano foi elevada pela quinta semana seguida&lt;/p&gt;
-&lt;p&gt;, estourando o intervalo da meta que deve ser perseguida pelo BC.&lt;/p&gt;
-&lt;p&gt;Estabelecida pelo Conselho Monetário Nacional (CMN),&lt;/p&gt;
-&lt;p&gt;a meta é de 3%, com intervalo de tolerância de 1,5 ponto percentual&lt;/p&gt;
-&lt;p&gt;. Ou seja, o limite inferior é 1,5% e o superior, 4,5%.&lt;/p&gt;
-&lt;p&gt;alta dos preços em transportes e alimentação&lt;/p&gt;
-&lt;p&gt;fez a inflação oficial do mês fechar em 0,88%– ante 0,7% em fevereiro. O IPCA acumulado em 12 meses ficou em 4,14%, de acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE).&lt;/p&gt;
-&lt;p&gt;Para 2027, a projeção da inflação subiu de 3,85% para 3,91%. Para 2028 e 2029, as estimativas são de 3,6% e 3,5%, respectivamente.&lt;/p&gt;
-&lt;p&gt;Para alcançar a meta de inflação, o Banco Central usa como principal instrumento&lt;/p&gt;
-&lt;p&gt;a taxa básica de juros, a Selic, definida atualmente em 14,75% ao ano pelo Comitê de Política Monetária (Copom) do BC.&lt;/p&gt;
-&lt;p&gt;Na última reunião, mês passado, por unanimidade,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/mercado-eleva-previsao-da-inflacao-para-471-este-ano&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA), referência oficial da inflação no país, passou de 4,36%...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-04-13 09:56:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-13 09:56:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-13 09:56:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-13 09:56:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/z_msEtMQ2N6Mzt5PMHpa_35GH8o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/10/inflacion4.jpg?itok=qcVRNjEM</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Papa responde a Trump: “Não tenho medo do presidente dos EUA&quot;</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/papa-responde-trump-nao-tenho-medo-do-presidente-dos-eua</link>
-      <pubDate>Mon, 13 Apr 2026 17:56:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/papa-responde-trump-nao-tenho-medo-do-presidente-dos-eua#1008</guid>
-      <description>© REUTERS/Guglielmo Mangiapane/ Proibida reprodução
-Durante o voo de ida para Argel, primeira etapa da viagem à África, o papa Leão XIV disse que não...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8ODIJ6wdvp7lVZfA45X86Yu6CCo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/09/2026-01-09t121705z_1_lynxmpem080nr_rtroptp_4_religiao-papa-diplomatas-discurso.jpg?itok=NSIu-J4N&quot; alt=&quot;Papa responde a Trump: “Não tenho medo do presidente dos EUA&quot;&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Guglielmo Mangiapane/ Proibida reprodução&lt;/p&gt;
-&lt;p&gt;Durante o voo de ida para Argel, primeira etapa da viagem à África, o papa Leão XIV disse que não tem medo do presidente dos Estados Unidos (EUA), Donald Trump. &quot;Continuarei falando com voz forte sobre a mensagem do Evangelho, pela qual a Igreja trabalha. Não somos políticos, não olhamos para a política externa com a mesma perspectiva. Mas acreditamos na mensagem do Evangelho como construtores de paz”.&lt;/p&gt;
-&lt;p&gt;Leão XIV respondeu às críticas de Trump, feitas na rede Truth Social,de que o papa é fraco em política externa e deve deixar de agradar a esquerda radical.&lt;/p&gt;
-&lt;p&gt;&quot;Não quero um papa que ache que está bem o Irãter arma nuclear. Não quero um papa que considere terrível que os Estados Unidos tenham atacado a Venezuela. E não quero um papa que critique o presidente dos Estados Unidos quando estou fazendoexatamente aquilo para que fui eleito&quot;, declarou.&quot;Trump sugeriu que Leão XIV foi eleito porque era estadunidense,pensaram que seria a melhor forma de lidarcom o republicano, e pediu que ele seja grato.&lt;/p&gt;
-&lt;p&gt;Leão XIV diz que não vê seu papel como o de um político e que não quer entrar em debate com o presidente dos EUA. &quot;A minha mensagem é o Evangelho e continuo a falar com força contra a guerra”&lt;/p&gt;
-&lt;p&gt;Durante a viagem, o papa cumprimentouos cerca de 70 jornalistas que o acompanham: “Éuma viagem especial, a primeira que eu queria fazer. Uma oportunidade muito importante para promover a reconciliação e o respeito pelos povos”. Ele visitará até a próxima quinta-feira (23) a Argélia, Camarões, Angola e Guiné Equatorial.&lt;/p&gt;
-&lt;p&gt;Confira mais detalhes no Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
-&lt;p&gt;Falar com força contra a guerra&lt;/p&gt;
-&lt;p&gt;Segundo Leão XIV, a mensagem do Evangelho não deveser deturpada como alguns estão fazendo. &quot;Eu continuo a falar com força contra a guerra, buscando promover a paz, promovendo o diálogo e o multilateralismo com os Estados para encontrar soluções aos problemas. Muitas pessoas estão sofrendo hoje, muitos inocentes foram mortos e acredito que alguém deve se levantar e dizer que há um caminho melhor”.&lt;/p&gt;
-&lt;p&gt;Ele diz que sua mensagem épara todos os líderes do mundo, não apenas para Trump: &quot;Tentemos acabar com as guerras e promover a paz e a reconciliação”.&lt;/p&gt;
-&lt;p&gt;Rio Grande do Norte ganha primeira lavanderia coletiva e agroecológica&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: após ameaça de Donald Trump, forças dos Estados Unidos começam bloqueio no Estreito de Ormuz&lt;/p&gt;
-&lt;p&gt;Guerra no Oriente Médio: Estados Unidos bloqueiam o Estreito de Ormuz&lt;/p&gt;
-&lt;p&gt;Finep e BNDES lançam edital para selecionar gestor de fundo de IA&lt;/p&gt;
-&lt;p&gt;Servidora Ana Cristina Viana assume comando do INSS&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/papa-responde-trump-nao-tenho-medo-do-presidente-dos-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Guglielmo Mangiapane/ Proibida reprodução
-Durante o voo de ida para Argel, primeira etapa da viagem à África, o papa Leão XIV disse que não...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-04-13 08:51:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-13 08:51:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-13 08:51:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-13 08:51:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/8ODIJ6wdvp7lVZfA45X86Yu6CCo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/09/2026-01-09t121705z_1_lynxmpem080nr_rtroptp_4_religiao-papa-diplomatas-discurso.jpg?itok=NSIu-J4N</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Financiamento de veículos cresce 12,8% no trimestre</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/financiamento-de-veiculos-cresce-128-no-trimestre</link>
-      <pubDate>Mon, 13 Apr 2026 17:56:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/financiamento-de-veiculos-cresce-128-no-trimestre#1009</guid>
-      <description>© Marcello Casal Jr./Agência Brasil/Arquivo
-As vendas financiadas de veículos cresceram 12,8% no primeiro trimestre de 2026 na comparação com o mesmo...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/f-OQfM5S2PV1MHnuhd7wv-PIRoQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/1500mc_0062.jpg?itok=9E3slaQ5&quot; alt=&quot;Financiamento de veículos cresce 12,8% no trimestre&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal Jr./Agência Brasil/Arquivo&lt;/p&gt;
-&lt;p&gt;As vendas financiadas de veículos cresceram 12,8% no primeiro trimestre de 2026 na comparação com o mesmo período do ano passado.&lt;/p&gt;
-&lt;p&gt;Ao todo foram concedidos créditos na compra de 1,89 milhão de unidades.&lt;/p&gt;
-&lt;p&gt;A soma inclui automóveis leves, motos e veículos pesados, considerando novos e usados.&lt;/p&gt;
-&lt;p&gt;Segundo o balanço feito pela Trillia, da B3, o número marca o melhor desempenho para um primeiro trimestre desde 2008, quando foram financiadas 2,037 milhões de unidades.&lt;/p&gt;
-&lt;p&gt;De acordo com os dados, no acumulado de janeiro a março deste ano, a liderança dos financiamentos de veículos segue com os modelos usados, que contabilizaram 1,21 milhão de unidades, enquanto os veículos novos somaram 675 mil unidades.&lt;/p&gt;
-&lt;p&gt;Na comparação com o primeiro trimestre de 2025, houve crescimento tanto nos usados, com avanço de 12,2%, quanto nos novos, com alta de 14,1%.&lt;/p&gt;
-&lt;p&gt;maioria das operações são para as vendas de autos leves&lt;/p&gt;
-&lt;p&gt;, que representam 1,31 milhão de unidades financiadas, com alta de 12,4% na comparação entre os trimestres.&lt;/p&gt;
-&lt;p&gt;motos somaram 510,6 mil unidades&lt;/p&gt;
-&lt;p&gt;, um avanço de 18,1% em relação ao primeiro trimestre de 2025. Os veículos pesados alcançaram 69,3 mil financiamentos, com aumento de 3,9% no mesmo período.&lt;/p&gt;
-&lt;p&gt;“O avanço foi observado em todas as regiões do país no comparativo entre o primeiro trimestre de 2026 e o mesmo intervalo de 2025. O Nordeste liderou o crescimento percentual, com alta de 16,6%, seguido por 15,3% no Centro-Oeste (15,3%), Sul (11,8%), Sudeste (11,7%) e Norte (9,4%) no Norte”, destaca a Trillia.&lt;/p&gt;
-&lt;p&gt;Crédito Direto ao Consumidor (CDC)&lt;/p&gt;
-&lt;p&gt;, tradicionalmente oferecido por bancos e financeiras somou 1,619 milhão de unidades financiadas de janeiro a março, alta de 14,3% em relação ao mesmo período de 2025.&lt;/p&gt;
-&lt;p&gt;alcançou 261,9 mil unidades, com crescimento de 5,5%, enquanto as modalidades de&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/financiamento-de-veiculos-cresce-128-no-trimestre&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal Jr./Agência Brasil/Arquivo
-As vendas financiadas de veículos cresceram 12,8% no primeiro trimestre de 2026 na comparação com o mesmo...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-04-13 08:15:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-13 08:15:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-13 08:15:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-13 08:15:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/f-OQfM5S2PV1MHnuhd7wv-PIRoQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/1500mc_0062.jpg?itok=9E3slaQ5</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
