@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Tue, 21 Apr 2026 16:52:08 +0000</pubDate>
+    <pubDate>Tue, 21 Apr 2026 17:55:14 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,60 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Na Mesa com Datena recebe maestro João Carlos Martins</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/na-mesa-com-datena-recebe-maestro-joao-carlos-martins</link>
+      <pubDate>Tue, 21 Apr 2026 17:55:14 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/na-mesa-com-datena-recebe-maestro-joao-carlos-martins#1000</guid>
+      <description>O maestro João Carlos Martins seráo entrevistado desta terça-feira (21) no
+. Com mais de 50 anos de carreira na música, Martins fala sobre a superaçã...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/G8Pvm7lqyP3DfqSb7cfqCEvfK80=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_9762.jpg?itok=gZqUBthp&quot; alt=&quot;Na Mesa com Datena recebe maestro João Carlos Martins&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O maestro João Carlos Martins seráo entrevistado desta terça-feira (21) no&lt;/p&gt;
+&lt;p&gt;. Com mais de 50 anos de carreira na música, Martins fala sobre a superação dos problemas de saúde no caminho para o sucesso, os grandes espetáculos internacionais, a relação com a fé e a música e revela o amor pelos animais.&lt;/p&gt;
+&lt;p&gt;O programa vai ao ar toda terça, às 21h, na&lt;/p&gt;
+&lt;p&gt;marca a chegada de José Luiz Datena à programação da&lt;/p&gt;
+&lt;p&gt;e se destaca pela escuta atenta e pelo espaço dedicado à análise aprofundada de temas políticos, econômicos e sociais.A atração integra a estratégia da&lt;/p&gt;
+&lt;p&gt;Empresa Brasil de Comunicação (EBC)&lt;/p&gt;
+&lt;p&gt;de fortalecer o jornalismo público, ampliar o debate qualificado e contribuir para a formação crítica da audiência.&lt;/p&gt;
+&lt;p&gt;pelo canal aberto, TV por assinatura e parabólica. Sintonize:&lt;/p&gt;
+&lt;p&gt;https://tvbrasil.ebc.com.br/comosintonizar&lt;/p&gt;
+&lt;p&gt;Seus programas favoritos estão no&lt;/p&gt;
+&lt;p&gt;ou por aplicativo no smartphone. O app pode ser baixado gratuitamente e está disponível para Android e iOS.Assista também pela WebTV:&lt;/p&gt;
+&lt;p&gt;https://tvbrasil.ebc.com.br/webtv&lt;/p&gt;
+&lt;p&gt;TV Brasilna internet e nas redes sociais&lt;/p&gt;
+&lt;p&gt;https://www.instagram.com/tvbrasil&lt;/p&gt;
+&lt;p&gt;https://www.youtube.com/tvbrasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/na-mesa-com-datena-recebe-maestro-joao-carlos-martins&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O maestro João Carlos Martins seráo entrevistado desta terça-feira (21) no
+. Com mais de 50 anos de carreira na música, Martins fala sobre a superaçã...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-04-21 14:20:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-21 14:20:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-21 14:20:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-21 14:20:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/G8Pvm7lqyP3DfqSb7cfqCEvfK80=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_9762.jpg?itok=gZqUBthp</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>BRB firma acordo para transferir ativos comprados do Banco Master</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/brb-firma-acordo-para-transferir-ativos-comprados-do-banco-master</link>
-      <pubDate>Tue, 21 Apr 2026 16:52:08 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2026 17:55:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/brb-firma-acordo-para-transferir-ativos-comprados-do-banco-master#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/brb-firma-acordo-para-transferir-ativos-comprados-do-banco-master#1001</guid>
       <description>O Banco de Brasília (BRB), instituição pública controlada pelo Governo do Distrito Federal (GDF), anunciou a criação de umfundo para a transferência ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iMpgnK7kwTYdkONC7d1_MPRurK0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/19/0d4a8719.jpg?itok=wHQRKFmm&quot; alt=&quot;BRB firma acordo para transferir ativos comprados do Banco Master&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Banco de Brasília (BRB), instituição pública controlada pelo Governo do Distrito Federal (GDF), anunciou a criação de umfundo para a transferência de ativos comprados do Banco Master.&lt;/p&gt;
@@ -43,9 +92,9 @@
 &lt;p&gt;Ele também é suspeito do recebimento de propina estimada em R$ 146,5 milhões&lt;/p&gt;
 &lt;p&gt;, pagas por Vorcaro para facilitar a compra do Master pelo BRB, transação que foi vetada pelo Banco Central (BC).&lt;/p&gt;
 &lt;p&gt;Ao estruturar um novo fundo, o BRB espera &quot;fortalecer sua estrutura de capital e sua liquidez, bem como aprimorar a gestão de seu portfólio, sendo a transação etapa relevante no processo de readequação da companhia, com expectativa de efeitos positivos sobre a liquidez, a gestão de ativos e a racionalização patrimonial&quot;.&lt;/p&gt;
-&lt;p&gt;Lei reserva vagas de trabalho para mães de PCDs no Amazonas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/brb-firma-acordo-para-transferir-ativos-comprados-do-banco-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Lula e Primeiro-Ministro português reforçam boas relações entre países&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/brb-firma-acordo-para-transferir-ativos-comprados-do-banco-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Banco de Brasília (BRB), instituição pública controlada pelo Governo do Distrito Federal (GDF), anunciou a criação de umfundo para a transferência ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-04-21 12:33:00</wp:post_date>
       <wp:post_date_gmt>2026-04-21 12:33:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-21 12:33:00</wp:post_modified>
@@ -71,9 +120,9 @@
     <item>
       <title>Trem do Choro chega à 13ª edição homenageando Nilze Carvalho</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/trem-do-choro-chega-13a-edicao-homenageando-nilze-carvalho</link>
-      <pubDate>Tue, 21 Apr 2026 16:52:08 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2026 17:55:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/trem-do-choro-chega-13a-edicao-homenageando-nilze-carvalho#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/trem-do-choro-chega-13a-edicao-homenageando-nilze-carvalho#1002</guid>
       <description>Na próxima quinta-feira, feriado de São Jorge (23) no estado do Rio de Janeiro, o Trem do Choro comemora o Dia Nacional do Choro, prestando homenagem...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2ma6t2iqLwc76BKa5272gztnEKA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/17/whatsapp_image_2026-04-17_at_14.26.08.jpeg?itok=eTuUdM9a&quot; alt=&quot;Trem do Choro chega à 13ª edição homenageando Nilze Carvalho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Na próxima quinta-feira, feriado de São Jorge (23) no estado do Rio de Janeiro, o Trem do Choro comemora o Dia Nacional do Choro, prestando homenagem ao nascimento do músico e compositor Alfredo da Vianna Filho, o Pixinguinha, em parceria com a SuperVia.&lt;/p&gt;
@@ -90,9 +139,9 @@
 &lt;p&gt;“São várias mãos, cada uma na sua especialidade, para não deixar morrer a história do Trem do Choro e a gente manter essa parte cultural. Porque o choro hoje é mundial e seu público está cada vez mais aumentando”. Itamar Marques calcula que entre 6 mil a 7 mil pessoas participam anualmente do Trem do Choro.&lt;/p&gt;
 &lt;p&gt;A programação terá início às 10h, na Estação Central do Brasil, Plataforma 12, com partida do trem às 11h18, em direção à Estação Olaria, batizada, simbolicamente, de “Estação do Choro Zé da Velha”. Durante o trajeto, grupos de choro se apresentarão em cada vagão, celebrando a tradição da música instrumental brasileira.&lt;/p&gt;
 &lt;p&gt;Em Olaria, os músicos e participantes seguem em cortejo pelo Circuito Mestre Siqueira até a Travessa Pixinguinha, onde o patrono do dia viveu e será homenageado. Após o cortejo, haverá a tradicional roda de choro e feira cultural do Instituto Cultural Grupo 100% Suburbano, na Praça Ramos Figueira, Reduto Pixinguinha. Nessa praça, haverá ainda uma ação social, realizada em parceria com o Lions Club.&lt;/p&gt;
-&lt;p&gt;Lei reserva vagas de trabalho para mães de PCDs no Amazonas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/trem-do-choro-chega-13a-edicao-homenageando-nilze-carvalho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Lula e Primeiro-Ministro português reforçam boas relações entre países&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/trem-do-choro-chega-13a-edicao-homenageando-nilze-carvalho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Na próxima quinta-feira, feriado de São Jorge (23) no estado do Rio de Janeiro, o Trem do Choro comemora o Dia Nacional do Choro, prestando homenagem...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-04-21 12:33:00</wp:post_date>
       <wp:post_date_gmt>2026-04-21 12:33:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-21 12:33:00</wp:post_modified>
@@ -118,9 +167,9 @@
     <item>
       <title>Lula: é preciso “dar logo” Nobel da Paz à Trump para encerrar guerras</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/lula-e-preciso-dar-logo-nobel-da-paz-trump-para-encerrar-guerras</link>
-      <pubDate>Tue, 21 Apr 2026 16:52:08 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2026 17:55:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/lula-e-preciso-dar-logo-nobel-da-paz-trump-para-encerrar-guerras#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/lula-e-preciso-dar-logo-nobel-da-paz-trump-para-encerrar-guerras#1003</guid>
       <description>O presidente Luiz Inácio Lula da Silva disse nesta terça-feira (21) que é preciso “dar logo” o Prêmio Nobel da Paz ao presidente dos Estados Unidos, ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/s_dJM2LIoljNTuuxNZjHPNv5HTE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/21/55221588351_3a6240f274_o.jpg?itok=f8q5el-H&quot; alt=&quot;Lula: é preciso “dar logo” Nobel da Paz à Trump para encerrar guerras&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O presidente Luiz Inácio Lula da Silva disse nesta terça-feira (21) que é preciso “dar logo” o Prêmio Nobel da Paz ao presidente dos Estados Unidos, Donald Trump, para que se possa acabar com as guerras no mundo.&lt;/p&gt;
@@ -132,14 +181,14 @@
 &lt;p&gt;Segundo Lula, as alterações seriam direcionadas especificamente ao estatuto das Nações Unidas, “para dar a ela o sentido de existência para o qual foi criada em 1945.”&lt;/p&gt;
 &lt;p&gt;“Não é possível que você não tenha nenhuma instituição capa de contemporizar, harmonizar e acabar com a quantidade de guerras que temos no mundo hoje”, acrescentou Lula.&lt;/p&gt;
 &lt;p&gt;O presidente está em viagem oficial àEuropa,onde já passou pela Espanha e Alemanha. Após compromissos em Portugal, ele retorna a Brasília.&lt;/p&gt;
-&lt;p&gt;Lei reserva vagas de trabalho para mães de PCDs no Amazonas&lt;/p&gt;
+&lt;p&gt;Lula e Primeiro-Ministro português reforçam boas relações entre países&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 12h: Lula fala em reciprocidade após expulsão de delegado brasileiro pelos EUA e critica o que chamou de ingerência e abuso de autoridade&lt;/p&gt;
-&lt;p&gt;Inconfidência Mineira: legado de luta e memória em Ouro Preto&lt;/p&gt;
+&lt;p&gt;Maestro João Carlos Martins fala sobre fé, música e superação&lt;/p&gt;
+&lt;p&gt;Na Mesa com Datena recebe maestro João Carlos Martins&lt;/p&gt;
 &lt;p&gt;Tráfego marítimo através de Ormuz continua praticamente parado&lt;/p&gt;
-&lt;p&gt;Israel enfrentará resistência se tropas permanecerem no Líbano&lt;/p&gt;
-&lt;p&gt;BRB firma acordo para transferir ativos comprados do Banco Master&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/lula-e-preciso-dar-logo-nobel-da-paz-trump-para-encerrar-guerras&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Israel enfrentará resistência se tropas permanecerem no Líbano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/lula-e-preciso-dar-logo-nobel-da-paz-trump-para-encerrar-guerras&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O presidente Luiz Inácio Lula da Silva disse nesta terça-feira (21) que é preciso “dar logo” o Prêmio Nobel da Paz ao presidente dos Estados Unidos, ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-04-21 11:50:00</wp:post_date>
       <wp:post_date_gmt>2026-04-21 11:50:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-21 11:50:00</wp:post_modified>
@@ -165,9 +214,9 @@
     <item>
       <title>Cármen Lúcia vota para condenar Eduardo Bolsonaro por difamação</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/carmen-lucia-vota-para-condenar-eduardo-bolsonaro-por-difamacao</link>
-      <pubDate>Tue, 21 Apr 2026 16:52:08 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2026 17:55:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/carmen-lucia-vota-para-condenar-eduardo-bolsonaro-por-difamacao#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/carmen-lucia-vota-para-condenar-eduardo-bolsonaro-por-difamacao#1004</guid>
       <description>© Marcelo Camargo/Agência Brasil
 A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), acompanhou integralmente o voto do relator Alexandre de ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/i-SzjN-CawWWYPxInR2995Z8BzY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/11/julgamento-trama-golpista-mc_abr_11092025-13.jpg?itok=gexbCiV9&quot; alt=&quot;Cármen Lúcia vota para condenar Eduardo Bolsonaro por difamação&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -183,12 +232,12 @@ A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), acompanhou integra
 &lt;p&gt;&quot;Na mesma imagem,a autora do processo contra mim (Tabata) e o 'juiz' (Moraes) que me condenou a umano de prisão + multa, tudo no casamento dela!&quot;, escreveu o deputado. &quot;Isso que se tornou o Brasil com a associação Lula-Moraes. Já imaginou ser condenado por um juiz amigo daquela que te processa?&quot;, acrescentou.&lt;/p&gt;
 &lt;p&gt;Tabata Amaral não se manifestou publicamente sobre o andamento da votação no STF.&lt;/p&gt;
 &lt;p&gt;Eduardo Bolsonaro está nos Estados Unidos desde o ano passado e perdeu o mandato por acumular faltas às sessões da Câmara dos Deputados.&lt;/p&gt;
-&lt;p&gt;Lei reserva vagas de trabalho para mães de PCDs no Amazonas&lt;/p&gt;
+&lt;p&gt;Lula e Primeiro-Ministro português reforçam boas relações entre países&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 12h: Lula fala em reciprocidade após expulsão de delegado brasileiro pelos EUA e critica o que chamou de ingerência e abuso de autoridade&lt;/p&gt;
-&lt;p&gt;Inconfidência Mineira: legado de luta e memória em Ouro Preto&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/carmen-lucia-vota-para-condenar-eduardo-bolsonaro-por-difamacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Maestro João Carlos Martins fala sobre fé, música e superação&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/carmen-lucia-vota-para-condenar-eduardo-bolsonaro-por-difamacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), acompanhou integralmente o voto do relator Alexandre de ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-04-21 11:36:00</wp:post_date>
       <wp:post_date_gmt>2026-04-21 11:36:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-21 11:36:00</wp:post_modified>
@@ -214,9 +263,9 @@ A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), acompanhou integra
     <item>
       <title>Anistia acusa EUA, Israel e Rússia de minar multilateralismo</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/anistia-acusa-eua-israel-e-russia-de-minar-multilateralismo</link>
-      <pubDate>Tue, 21 Apr 2026 16:52:08 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2026 17:55:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/anistia-acusa-eua-israel-e-russia-de-minar-multilateralismo#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/anistia-acusa-eua-israel-e-russia-de-minar-multilateralismo#1005</guid>
       <description>© REUTERS/Gideon Markowicz/Proibida reprodução
 A organização de direitos humanos Anistia Internacional acusa Estados Unidos, Israel e Rússia de ataqu...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/E1jPQMSaohQv6NZvg1KnTYiwpeQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/01/2026-03-01t125606z_1637356760_rc2cvjabnp03_rtrmadp_3_iran-crisis-israel.jpg?itok=mibWhTrx&quot; alt=&quot;Anistia acusa EUA, Israel e Rússia de minar multilateralismo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -237,7 +286,7 @@ A organização de direitos humanos Anistia Internacional acusa Estados Unidos, 
 &lt;p&gt;A organização acrescenta que o uso ilegítimo da força contra o Irã, por parte dos Estados Unidos e de Israel, em violação à Carta das Nações Unidas, provocou ataques de retaliação iranianos contra Israel e países do Conselho de Cooperação dos Estados Árabes do Golfo. Israel, por sua vez, intensificou seus ataques contra o Líbano.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-04/anistia-acusa-eua-israel-e-russia-de-minar-multilateralismo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Gideon Markowicz/Proibida reprodução
 A organização de direitos humanos Anistia Internacional acusa Estados Unidos, Israel e Rússia de ataqu...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-04-21 11:07:00</wp:post_date>
       <wp:post_date_gmt>2026-04-21 11:07:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-21 11:07:00</wp:post_modified>
@@ -263,9 +312,9 @@ A organização de direitos humanos Anistia Internacional acusa Estados Unidos, 
     <item>
       <title>Unesco destaca contribuição de seus sítios para o meio ambiente global</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/unesco-destaca-contribuicao-de-seus-sitios-para-o-meio-ambiente-global</link>
-      <pubDate>Tue, 21 Apr 2026 16:52:08 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2026 17:55:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/unesco-destaca-contribuicao-de-seus-sitios-para-o-meio-ambiente-global#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/unesco-destaca-contribuicao-de-seus-sitios-para-o-meio-ambiente-global#1006</guid>
       <description>Relatório da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco), divulgado nesta terça-feira (21), em Paris, destaca a gra...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YtgZIzKUlLEb9XHxnvyBl8PT5vI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/15/lencois_maranhenses01.jpg?itok=OCo6X8-d&quot; alt=&quot;Unesco destaca contribuição de seus sítios para o meio ambiente global&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Relatório da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco), divulgado nesta terça-feira (21), em Paris, destaca a grande contribuição de seus sítios protegidos para as pessoas e o meio ambiente.&lt;/p&gt;
@@ -284,7 +333,7 @@ A organização de direitos humanos Anistia Internacional acusa Estados Unidos, 
 &lt;p&gt;Cada gigatonelada de carbono corresponde a um bilhão de toneladas. Anualmente, apenas as florestas dos sítios da Unesco respondem por cerca de 15% do carbono absorvido por florestas em todo o mundo.&lt;/p&gt;
 &lt;p&gt;A Unesco ressalta que apesar de sua importância em nível global, esses sítios enfrentam pressões crescentes. Quase 90% deles estão sujeitos a elevados níveis de estresse ambiental. Somente na última década, os riscos relacionados ao clima aumentaram 40%.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/unesco-destaca-contribuicao-de-seus-sitios-para-o-meio-ambiente-global&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Relatório da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco), divulgado nesta terça-feira (21), em Paris, destaca a gra...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-04-21 09:28:00</wp:post_date>
       <wp:post_date_gmt>2026-04-21 09:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-21 09:28:00</wp:post_modified>
@@ -310,9 +359,9 @@ A organização de direitos humanos Anistia Internacional acusa Estados Unidos, 
     <item>
       <title>Lula chama conflito no Oriente Médio de “guerra da insensatez”</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-chama-conflito-no-oriente-medio-de-guerra-da-insensatez</link>
-      <pubDate>Tue, 21 Apr 2026 16:52:08 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2026 17:55:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-chama-conflito-no-oriente-medio-de-guerra-da-insensatez#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-chama-conflito-no-oriente-medio-de-guerra-da-insensatez#1007</guid>
       <description>Ao comentar a possibilidade de retomada de hostilidades no Oriente Médio, em meio à demora de uma segunda rodada de negociações entre os Estados Unid...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/aOaBVSzK19LWupzFD1etuCXvPb0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/20/55220013091_328f5ea3d1_o.jpg?itok=vFwKyXGx&quot; alt=&quot;Lula chama conflito no Oriente Médio de “guerra da insensatez”&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Ao comentar a possibilidade de retomada de hostilidades no Oriente Médio, em meio à demora de uma segunda rodada de negociações entre os Estados Unidos e o Irã, o presidente Luiz Inácio Lula da Silva se referiu ao conflito na região como “guerra da insensatez”.&lt;/p&gt;
@@ -320,17 +369,17 @@ A organização de direitos humanos Anistia Internacional acusa Estados Unidos, 
 &lt;p&gt;Em conversa com jornalistas durante viagem à Alemanha, Lula voltou a afirmar que “aquilo que os americanos querem que o Irã faça com o urânio” já foi alvo de acordo firmado entre Brasil, Turquia e Irã em 2010. “Mas os Estados Unidos não aceitaram. E nem a União Europeia”.&lt;/p&gt;
 &lt;p&gt;“Na verdade, eles estão pagando o preço da insensatez com um acordo que resolvia o problema”, disse.&lt;/p&gt;
 &lt;p&gt;“Não quiseram aceitar o acordo e, agora, estão, outra vez, discutindo a mesma coisa que teria sido resolvida em 2010. Por isso acho que é a guerra da insensatez. E quem vai pagar o preço disso é a pessoa que vai comprar carne, feijão, arroz. É o caminhoneiro que trabalha que vai pagar mais caro pelo combustível”, completou o presidente.&lt;/p&gt;
-&lt;p&gt;Lei reserva vagas de trabalho para mães de PCDs no Amazonas&lt;/p&gt;
+&lt;p&gt;Lula e Primeiro-Ministro português reforçam boas relações entre países&lt;/p&gt;
 &lt;p&gt;Repórter Nacional 12h: Lula fala em reciprocidade após expulsão de delegado brasileiro pelos EUA e critica o que chamou de ingerência e abuso de autoridade&lt;/p&gt;
-&lt;p&gt;Inconfidência Mineira: legado de luta e memória em Ouro Preto&lt;/p&gt;
+&lt;p&gt;Maestro João Carlos Martins fala sobre fé, música e superação&lt;/p&gt;
+&lt;p&gt;Na Mesa com Datena recebe maestro João Carlos Martins&lt;/p&gt;
 &lt;p&gt;Tráfego marítimo através de Ormuz continua praticamente parado&lt;/p&gt;
 &lt;p&gt;Israel enfrentará resistência se tropas permanecerem no Líbano&lt;/p&gt;
 &lt;p&gt;BRB firma acordo para transferir ativos comprados do Banco Master&lt;/p&gt;
 &lt;p&gt;Trem do Choro chega à 13ª edição homenageando Nilze Carvalho&lt;/p&gt;
-&lt;p&gt;Trump diz que não quer prorrogar cessar-fogo com Irã&lt;/p&gt;
-&lt;p&gt;Lula: é preciso “dar logo” Nobel da Paz à Trump para encerrar guerras&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-chama-conflito-no-oriente-medio-de-guerra-da-insensatez&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Trump diz que não quer prorrogar cessar-fogo com Irã&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-chama-conflito-no-oriente-medio-de-guerra-da-insensatez&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Ao comentar a possibilidade de retomada de hostilidades no Oriente Médio, em meio à demora de uma segunda rodada de negociações entre os Estados Unid...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-04-21 09:10:00</wp:post_date>
       <wp:post_date_gmt>2026-04-21 09:10:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-21 09:10:00</wp:post_modified>
@@ -356,9 +405,9 @@ A organização de direitos humanos Anistia Internacional acusa Estados Unidos, 
     <item>
       <title>Lula fala em reciprocidade após expulsão de delegado dos EUA</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-fala-em-reciprocidade-apos-expulsao-de-delegado-dos-eua</link>
-      <pubDate>Tue, 21 Apr 2026 16:52:08 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2026 17:55:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-fala-em-reciprocidade-apos-expulsao-de-delegado-dos-eua#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/lula-fala-em-reciprocidade-apos-expulsao-de-delegado-dos-eua#1008</guid>
       <description>O presidente Luiz Inácio Lula da Silva falou em reciprocidade depois que o governo de Donald Trump pediu a
 saída de um delegado da Polícia Federal
 , ...</description>
@@ -381,7 +430,7 @@ saída de um delegado da Polícia Federal
       <excerpt:encoded>O presidente Luiz Inácio Lula da Silva falou em reciprocidade depois que o governo de Donald Trump pediu a
 saída de um delegado da Polícia Federal
 , ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-04-21 08:57:00</wp:post_date>
       <wp:post_date_gmt>2026-04-21 08:57:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-21 08:57:00</wp:post_modified>
@@ -407,9 +456,9 @@ saída de um delegado da Polícia Federal
     <item>
       <title>Pesquisa quer descobrir de onde vêm tartarugas que vivem em Arraial</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/pesquisa-quer-descobrir-de-onde-vem-tartarugas-que-vivem-em-arraial</link>
-      <pubDate>Tue, 21 Apr 2026 16:52:08 +0000</pubDate>
+      <pubDate>Tue, 21 Apr 2026 17:55:14 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/pesquisa-quer-descobrir-de-onde-vem-tartarugas-que-vivem-em-arraial#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/pesquisa-quer-descobrir-de-onde-vem-tartarugas-que-vivem-em-arraial#1009</guid>
       <description>© Fernando Frazão/Agência Brasil
 Em uma tarde de mar calmo e céu aberto, mergulhadores em um caiaque entram no mar da Praia do Pontal, que faz parte ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QDRCosxnhY2GahBjgZfiTTTUV58=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/16/gopr0509.jpg?itok=hWfqQj5k&quot; alt=&quot;Pesquisa quer descobrir de onde vêm tartarugas que vivem em Arraial&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -430,7 +479,7 @@ Em uma tarde de mar calmo e céu aberto, mergulhadores em um caiaque entram no m
 &lt;p&gt;Depois de capturadas pelos mergulhadores, elas são levadas para a faixa de areia. “A gente faz uma bateria de exames, que consiste em pesar, medir e coleta de tecido. É como se a gente estivesse fazendo uma biópsia para entender a origem dela”, detalha Juliana à&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/pesquisa-quer-descobrir-de-onde-vem-tartarugas-que-vivem-em-arraial&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Em uma tarde de mar calmo e céu aberto, mergulhadores em um caiaque entram no mar da Praia do Pontal, que faz parte ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-04-21 08:47:00</wp:post_date>
       <wp:post_date_gmt>2026-04-21 08:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-21 08:47:00</wp:post_modified>
@@ -451,53 +500,6 @@ Em uma tarde de mar calmo e céu aberto, mergulhadores em um caiaque entram no m
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/QDRCosxnhY2GahBjgZfiTTTUV58=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/16/gopr0509.jpg?itok=hWfqQj5k</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Salvador recebe evento que mostra importância da economia criativa</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/salvador-recebe-evento-que-mostra-importancia-da-economia-criativa</link>
-      <pubDate>Tue, 21 Apr 2026 16:52:08 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/salvador-recebe-evento-que-mostra-importancia-da-economia-criativa#1009</guid>
-      <description>O mundo celebra nesta quinta-feira (21) a criatividade, e a Bahia não ficou de fora. A capitalSalvador e a cidade de Lauro de Freitas integram a rede...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/7D9g1I7_BClq_vjT_qQRCA7DGZk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/08/0g0a8384.jpg?itok=STmiH12W&quot; alt=&quot;Salvador recebe evento que mostra importância da economia criativa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O mundo celebra nesta quinta-feira (21) a criatividade, e a Bahia não ficou de fora. A capitalSalvador e a cidade de Lauro de Freitas integram a rede global do maior evento de criatividade do mundo, transformando ruas, bibliotecas e centros comerciais em laboratórios de inovação. O objetivo éprovar que ser criativo é o primeiro passo para gerar renda e transformar realidades sociais.&lt;/p&gt;
-&lt;p&gt;Mais do que as intervenções artísticas, oevento este ano foca na revolução criativa, explorando como a criatividade deixa de ser apenas um dom para se tornar ferramenta estratégica em educação, negócios e sociedade.&lt;/p&gt;
-&lt;p&gt;Em Lauro de Freitas, na região metropolitana de Salvador, o festival, soba liderança da diretora de cultura da Bahia, Josenita Luz, está ocorrendodesde o dia 14. A curadora fala sobre a importância de um evento desse porte na cidade.&lt;/p&gt;
-&lt;p&gt;“O WCDé o maior evento colaborativo de criatividade e inovação do mundo, hoje presente, simultaneamente, em quase 50 cidades do Brasil e de outros países, como Portugal eVenezuela, entre outros. Éum evento de extrema importância para despertar nos jovens, nos idosos, em todo o mundo o poder da criatividade”.&lt;/p&gt;
-&lt;p&gt;Na capital baiana, a curadoria de Thiago Bastos aposta na conexão entre a identidade ancestral de Salvador e as novas tecnologias&lt;/p&gt;
-&lt;p&gt;. Segundo Thiago, que é gestor cultural e consultor em criatividade, aprogramação busca responder como a economia criativa pode ser o motor para resolver gargalos históricos de empregabilidade e inovação urbana.&lt;/p&gt;
-&lt;p&gt;“Salvador é conhecida, no primeiro olhar, no primeiro momento, como berço da criatividade, do carnaval, do axé, do da música, da dança. Então, a gente busca não só celebrar a criatividade numa perspectiva festiva, mas trazeroutro viés da criatividade -justamente onde elaentra, que dividi em quatro eixos: criatividade arte, criatividade e mídia, criatividade e empreendedorismo e criatividade e educação”.&lt;/p&gt;
-&lt;p&gt;Instituído pela Organização das Nações Unidas (ONU), o evento que celebra o Dia Mundial da Criatividade e Inovação, será realizadoem Lauro de Freitas até 24 de abril. Em Salvador, o festival acontece principalmente entre os dias 21 e 23 de abril.&lt;/p&gt;
-&lt;p&gt;Todas as atividades são gratuitas e abertas ao público.&lt;/p&gt;
-&lt;p&gt;Lei reserva vagas de trabalho para mães de PCDs no Amazonas&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 12h: Lula fala em reciprocidade após expulsão de delegado brasileiro pelos EUA e critica o que chamou de ingerência e abuso de autoridade&lt;/p&gt;
-&lt;p&gt;Inconfidência Mineira: legado de luta e memória em Ouro Preto&lt;/p&gt;
-&lt;p&gt;Tráfego marítimo através de Ormuz continua praticamente parado&lt;/p&gt;
-&lt;p&gt;Israel enfrentará resistência se tropas permanecerem no Líbano&lt;/p&gt;
-&lt;p&gt;BRB firma acordo para transferir ativos comprados do Banco Master&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/salvador-recebe-evento-que-mostra-importancia-da-economia-criativa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O mundo celebra nesta quinta-feira (21) a criatividade, e a Bahia não ficou de fora. A capitalSalvador e a cidade de Lauro de Freitas integram a rede...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-04-21 08:39:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-21 08:39:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-21 08:39:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-21 08:39:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/7D9g1I7_BClq_vjT_qQRCA7DGZk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/08/0g0a8384.jpg?itok=STmiH12W</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
