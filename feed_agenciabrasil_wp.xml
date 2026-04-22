@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 22 Apr 2026 20:45:13 +0000</pubDate>
+    <pubDate>Wed, 22 Apr 2026 21:43:40 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,58 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Polícia Federal retira credenciais de agente de imigração dos EUA</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/policia-federal-retira-credenciais-de-agente-de-imigracao-dos-eua</link>
+      <pubDate>Wed, 22 Apr 2026 21:43:40 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/policia-federal-retira-credenciais-de-agente-de-imigracao-dos-eua#1000</guid>
+      <description>O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, retirou as credenciais diplomáticas de um agente de imigração dos Estados Unidos que atuav...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FCvHAiJ6_ftm_dQXV6fwPBTrYv8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/09/lula9437.jpg?itok=CtwF_VsE&quot; alt=&quot;Polícia Federal retira credenciais de agente de imigração dos EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, retirou as credenciais diplomáticas de um agente de imigração dos Estados Unidos que atuava na sede da PF em Brasília.&lt;/p&gt;
+&lt;p&gt;Segundo ele, ainiciativa é um ato do governo brasileiro em reciprocidade àdecisão do governo estadunidense de determinar a saída do delegado brasileiro Marcelo Ivo de Carvalho, também da PF, dos EUA.&lt;/p&gt;
+&lt;p&gt;&quot;Eu retirei, com pesar, as credenciais de um servidor dos EUA pelo princípio da reciprocidade&quot;, afirmou Andrei durante entrevista ao programa&lt;/p&gt;
+&lt;p&gt;entrou em contato com a assessoria de imprensa da Polícia Federal para confirmar a informação e também para pedir detalhes sobre a substituição do delegado Marcelo Ivo pela delegada Tatiana Alves Torres.&lt;/p&gt;
+&lt;p&gt;Até a redação desta nota, não havia recebido retorno.&lt;/p&gt;
+&lt;p&gt;Na última segunda-feira (20), o Escritório para Assuntos do Hemisfério Ocidental dos Estados Unidos&lt;/p&gt;
+&lt;p&gt;de um “funcionário brasileiro” do país. Embora a postagem não cite nomes, o texto indica que se trata de um delegado da Polícia Federal envolvido na&lt;/p&gt;
+&lt;p&gt;prisão do ex-deputado Alexandre Ramagem&lt;/p&gt;
+&lt;p&gt;Ramagem foi solto na última quarta-feira (15) após ficar dois dias preso na Flórida.&lt;/p&gt;
+&lt;p&gt;O ex-deputado foi diretor da Agência Brasileira de Inteligência (Abin). No ano passado, o Supremo Tribunal Federal (STF) condenou Ramagem a 16 anos de prisão na ação penal relacionada à trama golpista.&lt;/p&gt;
+&lt;p&gt;Na terça-feira (21), o presidente&lt;/p&gt;
+&lt;p&gt;Luiz Inácio Lula da Silva comentou o caso&lt;/p&gt;
+&lt;p&gt;durante viagem à Alemanha, e falou em em reciprocidade.&lt;/p&gt;
+&lt;p&gt;“Acho que, se houve um abuso americano com relação ao nosso policial, nós vamos fazer a reciprocidade com o deles no Brasil. Não tem conversa”, disse Lula.&lt;/p&gt;
+&lt;p&gt;Manifestantes fazem abraço símbolico na Serra da Moeda, em MG&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/policia-federal-retira-credenciais-de-agente-de-imigracao-dos-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, retirou as credenciais diplomáticas de um agente de imigração dos Estados Unidos que atuav...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-04-22 17:23:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-22 17:23:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-22 17:23:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-22 17:23:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/FCvHAiJ6_ftm_dQXV6fwPBTrYv8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/09/lula9437.jpg?itok=CtwF_VsE</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Produção indígena sobre identidade é destaque na Seleção TV Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/producao-indigena-sobre-identidade-e-destaque-na-selecao-tv-brasil</link>
-      <pubDate>Wed, 22 Apr 2026 20:45:13 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 21:43:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/producao-indigena-sobre-identidade-e-destaque-na-selecao-tv-brasil#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/producao-indigena-sobre-identidade-e-destaque-na-selecao-tv-brasil#1001</guid>
       <description>A chamada públicaSeleção TV Brasilcontemplou o projeto
 , série documental protagonizada por indígenas que acompanha a busca pela preservação da memór...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/D0ZBtp09Truu8fcDKBV1C2x8dSE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/22/ubiratan-surui-foto-07.jpg?itok=Rw3ZbYWN&quot; alt=&quot;Produção indígena sobre identidade é destaque na Seleção TV Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +94,7 @@
 &lt;p&gt;escolhendo uma emissora pública como espaço de exibição.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/producao-indigena-sobre-identidade-e-destaque-na-selecao-tv-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A chamada públicaSeleção TV Brasilcontemplou o projeto
 , série documental protagonizada por indígenas que acompanha a busca pela preservação da memór...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-04-22 17:09:00</wp:post_date>
       <wp:post_date_gmt>2026-04-22 17:09:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-22 17:09:00</wp:post_modified>
@@ -73,9 +120,9 @@
     <item>
       <title>MEC Livros: biblioteca digital já tem mais de meio milhão de usuários</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-biblioteca-digital-ja-tem-mais-de-meio-milhao-de-usuarios</link>
-      <pubDate>Wed, 22 Apr 2026 20:45:13 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 21:43:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-biblioteca-digital-ja-tem-mais-de-meio-milhao-de-usuarios#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-biblioteca-digital-ja-tem-mais-de-meio-milhao-de-usuarios#1002</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 Mais de 566 mil pessoas já se cadastraram na plataforma literária disponibilizada pelo Ministério da Educação (MEC)...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CSS5B_s_ZTPIvzV8kbjT-ktQjIY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/09/img_5018.jpg?itok=LE1Loj0z&quot; alt=&quot;MEC Livros: biblioteca digital já tem mais de meio milhão de usuários&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -93,10 +140,10 @@ Mais de 566 mil pessoas já se cadastraram na plataforma literária disponibiliz
 &lt;p&gt;Os livros devem ser devolvidos em 14 dias, quando o usuário pode optar pela renovação do empréstimopelo mesmo períodoou pela devolução do título.&lt;/p&gt;
 &lt;p&gt;Segundo o MEC, estão sendo implementadas melhorias para permitir a devolução a qualquer tempo&lt;/p&gt;
 &lt;p&gt;, além da possibilidade de habilitar essa função a partir de 90% da leitura, ampliando a autonomia do usuário na gestão dos empréstimos.&lt;/p&gt;
-&lt;p&gt;Evento da Embrapa aproxima ciência, inovação e produção de alimentos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-biblioteca-digital-ja-tem-mais-de-meio-milhao-de-usuarios&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Manifestantes fazem abraço símbolico na Serra da Moeda, em MG&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/mec-livros-biblioteca-digital-ja-tem-mais-de-meio-milhao-de-usuarios&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Mais de 566 mil pessoas já se cadastraram na plataforma literária disponibilizada pelo Ministério da Educação (MEC)...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-04-22 17:01:00</wp:post_date>
       <wp:post_date_gmt>2026-04-22 17:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-22 17:01:00</wp:post_modified>
@@ -122,9 +169,9 @@ Mais de 566 mil pessoas já se cadastraram na plataforma literária disponibiliz
     <item>
       <title>Cooperativa histórica de catadores recebe ordem de despejo em SP</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/cooperativa-historica-de-catadores-recebe-ordem-de-despejo-em-sp</link>
-      <pubDate>Wed, 22 Apr 2026 20:45:13 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 21:43:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/cooperativa-historica-de-catadores-recebe-ordem-de-despejo-em-sp#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/cooperativa-historica-de-catadores-recebe-ordem-de-despejo-em-sp#1003</guid>
       <description>A Cooperativa de Catadores Autônomos de Papel, Aparas e Materiais Reaproveitáveis (Coopamare)recebeuuma notificação da Prefeitura de São Paulo para q...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GiFo358d8CFBu2ryHkFguI2bfn4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_8912.jpg?itok=e1nivBOS&quot; alt=&quot;Cooperativa histórica de catadores recebe ordem de despejo em SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Cooperativa de Catadores Autônomos de Papel, Aparas e Materiais Reaproveitáveis (Coopamare)recebeuuma notificação da Prefeitura de São Paulo para que desocupe o local em que está instalada há mais de três décadas.&lt;/p&gt;
@@ -143,7 +190,7 @@ Mais de 566 mil pessoas já se cadastraram na plataforma literária disponibiliz
 &lt;p&gt;Segundo o manifesto, além de gerar trabalho e renda, a cooperativa presta um serviço essencial para toda a região, com a separação e destinação correta dos materiais recicláveis.&lt;/p&gt;
 &lt;p&gt;Esse trabalho reduza poluição, diminuio volume de lixo enviado aos aterros, preservao meio ambiente e geraeconomia aos cofres públicos, com a redução dos custos de coleta, argumenta a cooperativa.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/cooperativa-historica-de-catadores-recebe-ordem-de-despejo-em-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Cooperativa de Catadores Autônomos de Papel, Aparas e Materiais Reaproveitáveis (Coopamare)recebeuuma notificação da Prefeitura de São Paulo para q...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-04-22 16:55:00</wp:post_date>
       <wp:post_date_gmt>2026-04-22 16:55:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-22 16:55:00</wp:post_modified>
@@ -169,9 +216,9 @@ Mais de 566 mil pessoas já se cadastraram na plataforma literária disponibiliz
     <item>
       <title>“Taxa das blusinhas” preservou 135 mil empregos, estima CNI</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/taxa-das-blusinhas-preservou-135-mil-empregos-estima-cni</link>
-      <pubDate>Wed, 22 Apr 2026 20:45:13 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 21:43:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/taxa-das-blusinhas-preservou-135-mil-empregos-estima-cni#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/taxa-das-blusinhas-preservou-135-mil-empregos-estima-cni#1004</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 Apesar de impopular, a cobrança de imposto sobre compras internacionais de pequeno valor, conhecida como “taxa das ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LWSpcBdAwShx44WC7jCu38aS-LU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/01/imagem_do_whatsapp_de_2024-06-01_as_16.55.52_b4540200.jpg?itok=VvmkR04i&quot; alt=&quot;“Taxa das blusinhas” preservou 135 mil empregos, estima CNI&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -192,7 +239,7 @@ Apesar de impopular, a cobrança de imposto sobre compras internacionais de pequ
 &lt;p&gt;A medida estabelece a cobrança de 20% de Imposto de Importação sobre compras internacionais de até US$ 50.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/taxa-das-blusinhas-preservou-135-mil-empregos-estima-cni&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Apesar de impopular, a cobrança de imposto sobre compras internacionais de pequeno valor, conhecida como “taxa das ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-04-22 16:12:00</wp:post_date>
       <wp:post_date_gmt>2026-04-22 16:12:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-22 16:12:00</wp:post_modified>
@@ -218,9 +265,9 @@ Apesar de impopular, a cobrança de imposto sobre compras internacionais de pequ
     <item>
       <title>Religiões se unem para celebrar São Jorge no Rio Grande do Sul</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/religioes-se-unem-para-celebrar-sao-jorge-no-rio-grande-do-sul</link>
-      <pubDate>Wed, 22 Apr 2026 20:45:13 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 21:43:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/religioes-se-unem-para-celebrar-sao-jorge-no-rio-grande-do-sul#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/religioes-se-unem-para-celebrar-sao-jorge-no-rio-grande-do-sul#1005</guid>
       <description>© Igreja de São Jorge/Divulgação
 Acelebração do Dia de São Jorge, neste 23 de abril, vai juntar, pelo terceiro ano consecutivo, a partir das 8h, mani...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/RAf8r-si6lI4_i2Obz0_7bySwj4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/22/e7f09c4b-af2e-4482-95ff-114f75cf38c4.jpg?itok=Cl5XNTvP&quot; alt=&quot;Religiões se unem para celebrar São Jorge no Rio Grande do Sul&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -241,7 +288,7 @@ Acelebração do Dia de São Jorge, neste 23 de abril, vai juntar, pelo terceiro
 &lt;p&gt;Segundo o Pai Ricardo, o Rio Grande do Sul sempre foi um estado &quot;muito racista&quot; e os católicos tinham uma &quot;visão distorcida&quot; sobre a religião de matriz africana. “A família Yecari vem, ao longo de três anos, tentando quebrar este bloqueio e mostrar que as duas festas podem caminhar juntas. São Jorge e Ogum são louvados mundialmente e faz parte da tradição dos dois caminharem juntos”, observou.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/religioes-se-unem-para-celebrar-sao-jorge-no-rio-grande-do-sul&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Igreja de São Jorge/Divulgação
 Acelebração do Dia de São Jorge, neste 23 de abril, vai juntar, pelo terceiro ano consecutivo, a partir das 8h, mani...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-04-22 15:46:00</wp:post_date>
       <wp:post_date_gmt>2026-04-22 15:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-22 15:46:00</wp:post_modified>
@@ -267,9 +314,9 @@ Acelebração do Dia de São Jorge, neste 23 de abril, vai juntar, pelo terceiro
     <item>
       <title>Inscrições para vagas remanescentes do Fies vão até 29 de abril</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/inscricoes-para-vagas-remanescentes-do-fies-vao-ate-29-de-abril</link>
-      <pubDate>Wed, 22 Apr 2026 20:45:13 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 21:43:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/inscricoes-para-vagas-remanescentes-do-fies-vao-ate-29-de-abril#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/inscricoes-para-vagas-remanescentes-do-fies-vao-ate-29-de-abril#1006</guid>
       <description>Estão abertas as inscrições para o processo seletivo das vagas remanescentes do Fundo de Financiamento Estudantil (Fies) referente ao primeiro semest...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qXt4rH3-oeMOMzvG8o6seyShVw0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/10/sp_enem08.jpg?itok=p3Bqe_4V&quot; alt=&quot;Inscrições para vagas remanescentes do Fies vão até 29 de abril&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Estão abertas as inscrições para o processo seletivo das vagas remanescentes do Fundo de Financiamento Estudantil (Fies) referente ao primeiro semestre de 2026. O prazo começou nesta quarta-feira (22) e segue até o dia 29 de abril.&lt;/p&gt;
@@ -288,7 +335,7 @@ Acelebração do Dia de São Jorge, neste 23 de abril, vai juntar, pelo terceiro
 &lt;p&gt;Renda familiar mensal bruta por pessoa de até três salários mínimos;&lt;/p&gt;
 &lt;p&gt;Condições de atingir a frequência mínima exigida para o primeiro semestre de 2026 no curso escolhido, que é de 70% de presença.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/inscricoes-para-vagas-remanescentes-do-fies-vao-ate-29-de-abril&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Estão abertas as inscrições para o processo seletivo das vagas remanescentes do Fundo de Financiamento Estudantil (Fies) referente ao primeiro semest...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-04-22 15:42:00</wp:post_date>
       <wp:post_date_gmt>2026-04-22 15:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-22 15:42:00</wp:post_modified>
@@ -314,9 +361,9 @@ Acelebração do Dia de São Jorge, neste 23 de abril, vai juntar, pelo terceiro
     <item>
       <title>Conferência na Colômbia discute menor uso de combustíveis fósseis</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/conferencia-na-colombia-discute-menor-uso-de-combustiveis-fosseis</link>
-      <pubDate>Wed, 22 Apr 2026 20:45:13 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 21:43:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/conferencia-na-colombia-discute-menor-uso-de-combustiveis-fosseis#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/conferencia-na-colombia-discute-menor-uso-de-combustiveis-fosseis#1007</guid>
       <description>© Fernando Frazão/Agência Brasil
 Representantes de cerca de 60 países e governos locais, povos indígenas, comunidades tradicionais, organizações soci...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8Z13d9VxMs8dlNewdICHz1IE7K0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/31/_d6a0313_0.jpg?itok=mDj_fqns&quot; alt=&quot;Conferência na Colômbia discute menor uso de combustíveis fósseis&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -337,7 +384,7 @@ Representantes de cerca de 60 países e governos locais, povos indígenas, comun
 &lt;p&gt;O Mapa do Caminho é uma proposta brasileira lançada em novembro de 2025, durante a 30ª Conferência das Nações Unidas sobre Mudanças Climáticas (COP30), em Belém (PA).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/conferencia-na-colombia-discute-menor-uso-de-combustiveis-fosseis&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Representantes de cerca de 60 países e governos locais, povos indígenas, comunidades tradicionais, organizações soci...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-04-22 15:17:00</wp:post_date>
       <wp:post_date_gmt>2026-04-22 15:17:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-22 15:17:00</wp:post_modified>
@@ -363,9 +410,9 @@ Representantes de cerca de 60 países e governos locais, povos indígenas, comun
     <item>
       <title>Anvisa aprova Mounjaro para criança e adolescente com diabetes tipo 2</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/anvisa-aprova-mounjaro-para-crianca-e-adolescente-com-diabetes-tipo-2</link>
-      <pubDate>Wed, 22 Apr 2026 20:45:13 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 21:43:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/anvisa-aprova-mounjaro-para-crianca-e-adolescente-com-diabetes-tipo-2#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/anvisa-aprova-mounjaro-para-crianca-e-adolescente-com-diabetes-tipo-2#1008</guid>
       <description>A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou nesta quarta-feira (22) o uso do medicamento Mounjaro para tratar diabetes tipo 2 em cria...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/tMZu2JHgY-mZVwmZZkjpcOkNDtk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/22/2018-11-14t113311z_421806139_mt1spyf0229739_rtrmadp_3_science-photo-library_0.jpg?itok=ND0Z7gAo&quot; alt=&quot;Anvisa aprova Mounjaro para criança e adolescente com diabetes tipo 2&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou nesta quarta-feira (22) o uso do medicamento Mounjaro para tratar diabetes tipo 2 em crianças a partir de 10 anos.&lt;/p&gt;
@@ -381,10 +428,10 @@ Representantes de cerca de 60 países e governos locais, povos indígenas, comun
 &lt;p&gt;para dar suporte à atuação da autarquia no controle sanitário e garantir a segurança de pacientes que utilizam canetas emagrecedoras.&lt;/p&gt;
 &lt;p&gt;O primeiro grupo, formalizado pela Portaria 488/2026, será formado por representantes do Conselho Federal de Farmácia (CFF), do Conselho Federal de Medicina (CFM) e do Conselho Federal de Odontologia (CFO).&lt;/p&gt;
 &lt;p&gt;Já a Portaria 489/2026 institui o segundo grupo, que vai acompanhar e avaliar a implementação de um plano de ação proposto pela Anvisa e subsidiar a tomada de decisão da diretoria colegiada a partir da proposição de medidas de aprimoramento.&lt;/p&gt;
-&lt;p&gt;Evento da Embrapa aproxima ciência, inovação e produção de alimentos&lt;/p&gt;
-&lt;p&gt;&quot;Mestras do Macabro&quot; foca no protagonismo feminino no horror&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/anvisa-aprova-mounjaro-para-crianca-e-adolescente-com-diabetes-tipo-2&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Manifestantes fazem abraço símbolico na Serra da Moeda, em MG&lt;/p&gt;
+&lt;p&gt;Como lidar com a compulsão por compras?&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/anvisa-aprova-mounjaro-para-crianca-e-adolescente-com-diabetes-tipo-2&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou nesta quarta-feira (22) o uso do medicamento Mounjaro para tratar diabetes tipo 2 em cria...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-04-22 15:07:00</wp:post_date>
       <wp:post_date_gmt>2026-04-22 15:07:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-22 15:07:00</wp:post_modified>
@@ -410,9 +457,9 @@ Representantes de cerca de 60 países e governos locais, povos indígenas, comun
     <item>
       <title>João Fonseca encara ex-top 3 Cilic na estreia do Masters 1000 de Madri</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/joao-fonseca-encara-ex-top-3-cilic-na-estreia-do-masters-1000-de-madri</link>
-      <pubDate>Wed, 22 Apr 2026 20:45:13 +0000</pubDate>
+      <pubDate>Wed, 22 Apr 2026 21:43:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/joao-fonseca-encara-ex-top-3-cilic-na-estreia-do-masters-1000-de-madri#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/joao-fonseca-encara-ex-top-3-cilic-na-estreia-do-masters-1000-de-madri#1009</guid>
       <description>O tenista carioca João Fonseca, número 31 do mundo, conheceu nesta quarta-feira (22) quem irá enfrentar na estreia do Masters 1000 de Madri. O advers...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0qhIhN9YkPt63Ps3FTfS8CGJONw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/18/joao_fonseca_vence_thiago_monteiro_em_duelo_brasileiro_pelo_rio_open.jpg?itok=Viz1AXMk&quot; alt=&quot;João Fonseca encara ex-top 3 Cilic na estreia do Masters 1000 de Madri&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O tenista carioca João Fonseca, número 31 do mundo, conheceu nesta quarta-feira (22) quem irá enfrentar na estreia do Masters 1000 de Madri. O adversário será o ex-top 3 Marin Cilic, atualmente na 51ª posição no ranking da Associação de Tenistas Profissionais (ATP). Cilic, de 37 anos, avançou nesta quarta ao derrotar na primeira rodada o belga o Zizou Bergs (44º) por 2 sets a 1. Único brasileiro na chave de simples em Madri, Fonseca entra em quadra na sexta (24), ainda sem horário definido. O torneio em quadra de saibro é preparatório para Roland Garros (França), sgundo Grand Slam do ano.&lt;/p&gt;
@@ -420,11 +467,17 @@ Representantes de cerca de 60 países e governos locais, povos indígenas, comun
 &lt;p&gt;Pela primeira vez na carreira, o carioca de 19 anos competirá como cabeça de chave de um torneio Masters 1000, daí a estreia apenas na segunda rodada. Isso se tornou possível após as desistências do espanhol Carlos Alacaraz, vice-líder do ranking, e do sérvio Novak Dkokovic (4º). Fonseca será o cabeça de chave 27 no torneio que reúne 96 tenistas.&lt;/p&gt;
 &lt;p&gt;Nesta quarta (22), Fonseca teve a presença confirmada no&lt;/p&gt;
 &lt;p&gt;, entre os dias 16 e 23 de maio, também disputado no saibro. Na listas de 32 inscritos estão o anfitrião Alexander Zverev (3º) – algoz de Fonseca nas quartas do Masters de Monte Carlo–, o canadense Felix Auger-Aliassime (5º), o norte-americano Ben Shelton (6º) e o italiano Flavio Cobolli (13º), campeão do torneio no ano passado.&lt;/p&gt;
-&lt;p&gt;BRB aprova aumento de capital em até R$ 8,8 bilhões&lt;/p&gt;
+&lt;p&gt;Manifestantes fazem abraço símbolico na Serra da Moeda, em MG&lt;/p&gt;
 &lt;p&gt;&quot;Mestras do Macabro&quot; foca no protagonismo feminino no horror&lt;/p&gt;
-&lt;p&gt;Belém tem força-tarefa para atender atingidos pelas chuvas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/joao-fonseca-encara-ex-top-3-cilic-na-estreia-do-masters-1000-de-madri&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Falta de atendimento de saúde em prisões leva a uma série de violações&lt;/p&gt;
+&lt;p&gt;Como a ditadura militar criou um império do ensino privado&lt;/p&gt;
+&lt;p&gt;Chuvas em Belém: governo federal reconhece situação de emergência&lt;/p&gt;
+&lt;p&gt;Polícia Federal retira credenciais de agente de imigração dos EUA&lt;/p&gt;
+&lt;p&gt;Produção indígena sobre identidade é destaque na Seleção TV Brasil&lt;/p&gt;
+&lt;p&gt;MEC Livros: biblioteca digital já tem mais de meio milhão de usuários&lt;/p&gt;
+&lt;p&gt;Cooperativa histórica de catadores recebe ordem de despejo em SP&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/joao-fonseca-encara-ex-top-3-cilic-na-estreia-do-masters-1000-de-madri&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O tenista carioca João Fonseca, número 31 do mundo, conheceu nesta quarta-feira (22) quem irá enfrentar na estreia do Masters 1000 de Madri. O advers...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-04-22 13:59:00</wp:post_date>
       <wp:post_date_gmt>2026-04-22 13:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-22 13:59:00</wp:post_modified>
@@ -445,55 +498,6 @@ Representantes de cerca de 60 países e governos locais, povos indígenas, comun
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/0qhIhN9YkPt63Ps3FTfS8CGJONw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/18/joao_fonseca_vence_thiago_monteiro_em_duelo_brasileiro_pelo_rio_open.jpg?itok=Viz1AXMk</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Acionistas aprovam aumento de capital do BRB em até R$ 8,81 bilhões</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/acionistas-aprovam-aumento-de-capital-do-brb-em-ate-r-881-bilhoes</link>
-      <pubDate>Wed, 22 Apr 2026 20:45:13 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/acionistas-aprovam-aumento-de-capital-do-brb-em-ate-r-881-bilhoes#1009</guid>
-      <description>© Valter Campanato/Agência Brasil
-Os acionistas do Banco de Brasília (BRB) aprovaram, nesta quarta-feira (22), a proposta de aumento de capital da in...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/S6VlcgGMqKAHJXAob7qolflvSHo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/16/0d7a1770.jpg?itok=wwAvd85b&quot; alt=&quot;Acionistas aprovam aumento de capital do BRB em até R$ 8,81 bilhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Os acionistas do Banco de Brasília (BRB) aprovaram, nesta quarta-feira (22), a proposta de aumento de capital da instituição estatal, cujo principal acionista é o Governo do Distrito Federal (GDF), que detém 53,7% das ações.&lt;/p&gt;
-&lt;p&gt;A proposta aprovada durante a Assembleia Geral Extraordinária desta manhã prevê que o banco emita ações ordinárias e preferenciais até o limite de R$ 8,81 bilhões. Cada ação será emitida por R$ 5,36 no mercado, para subscrição privada.&lt;/p&gt;
-&lt;p&gt;A expectativa dos dirigentes do BRB é que, com a emissão de ações, o capital social do banco passe dos atuais R$ 2,344 bilhões para, no mínimo, R$ 2,88 bilhões. Já omáximo previsto chegaria aR$ 11,16 bilhões.&lt;/p&gt;
-&lt;p&gt;Ainda de acordo com o BRB, o aumento de capital visa a assegurar níveis adequados de capitalização do banco; ampliar a capacidade de crescimento das operações da companhia e reforçar sua estrutura de capital, fortalecendo seus indicadores prudenciais e patrimoniais.&lt;/p&gt;
-&lt;p&gt;Para viabilizar a proposta, os acionistas autorizaram o Conselho de Administração do banco a tomar todas as providências necessárias ao aumento de capital.&lt;/p&gt;
-&lt;p&gt;Também foram homologadas na assembleia as nomeações do atual presidente da instituição, Nelson Antônio de Souza, e de Joaquim Lima de Oliveira e de Sergio Iunes Brito para o Conselho de Administração.&lt;/p&gt;
-&lt;p&gt;o BRB enfrenta uma crise institucional sem precedentes em sua história&lt;/p&gt;
-&lt;p&gt;. Ao deflagrar a primeira fase da Operação Compliance Zero, em novembro de 2025, a Polícia Federalexpôs um esquema de fraudes financeiras, tornando público que o BRB teve um prejuízo bilionário ao adquirir créditos do Banco Master.&lt;/p&gt;
-&lt;p&gt;O controlador do Master,Daniel Vorcaro está&lt;/p&gt;
-&lt;p&gt;presodesde o início de março deste ano&lt;/p&gt;
-&lt;p&gt;, e os desdobramentos da investigação resultaram no afastamento e na&lt;/p&gt;
-&lt;p&gt;prisão do ex-presidente do BRB, Paulo Henrique Costa (PHC)&lt;/p&gt;
-&lt;p&gt;. O ex-executivo é suspeito de envolvimento em crimes financeiros, corrupção, lavagem de dinheiro e organização criminosa.&lt;/p&gt;
-&lt;p&gt;o BRB anunciou que assinou um memorando de entendimento com a empresa gestora de fundos de investimentos Quadra Capital&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/acionistas-aprovam-aumento-de-capital-do-brb-em-ate-r-881-bilhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-Os acionistas do Banco de Brasília (BRB) aprovaram, nesta quarta-feira (22), a proposta de aumento de capital da in...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-04-22 13:21:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-22 13:21:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-22 13:21:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-22 13:21:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/S6VlcgGMqKAHJXAob7qolflvSHo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/16/0d7a1770.jpg?itok=wwAvd85b</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
