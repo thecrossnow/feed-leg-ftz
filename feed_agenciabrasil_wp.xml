@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Tue, 28 Apr 2026 17:41:22 +0000</pubDate>
+    <pubDate>Tue, 28 Apr 2026 19:23:39 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,205 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>BB lança boleto com Pix automático para pagamentos recorrentes</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/bb-lanca-boleto-com-pix-automatico-para-pagamentos-recorrentes</link>
+      <pubDate>Tue, 28 Apr 2026 19:23:39 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/bb-lanca-boleto-com-pix-automatico-para-pagamentos-recorrentes#1000</guid>
+      <description>© Marcello Casal JrAgência Brasil
+O Banco do Brasil (BB) anunciou nesta terça-feira (28) uma nova ferramenta para facilitar o pagamento de contas rec...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/oqTcRfPLfdPRonUXczaGrbQAesU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pix_0411202552.jpg?itok=nederioL&quot; alt=&quot;BB lança boleto com Pix automático para pagamentos recorrentes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
+&lt;p&gt;O Banco do Brasil (BB) anunciou nesta terça-feira (28) uma nova ferramenta para facilitar o pagamento de contas recorrentes: o boleto com Pix automático. A solução, inédita no país, permite que boletos mensais, como contas de luz ou mensalidades, sejam pagos automaticamente após uma única autorização do cliente.&lt;/p&gt;
+&lt;p&gt;A ferramenta pretende simplificar o processo tanto para quem paga quanto para empresas que recebem, reduzindo etapas e evitando atrasos.&lt;/p&gt;
+&lt;p&gt;O funcionamento é simples: ao pagar um boleto com Código QR via Pix, o cliente pode autorizar, naquele momento, que os próximos pagamentos sejam feitos automaticamente.&lt;/p&gt;
+&lt;p&gt;•  Os boletos futuros são agendados automaticamente&lt;/p&gt;
+&lt;p&gt;•  O valor é debitado na data de vencimento&lt;/p&gt;
+&lt;p&gt;•  Não é necessário repetir o pagamento todo mês&lt;/p&gt;
+&lt;p&gt;O cliente não precisa ter conta no Banco do Brasil para usar a funcionalidade. A autorização pode ser feita por usuários de qualquer instituição financeira.&lt;/p&gt;
+&lt;p&gt;Para quem paga contas recorrentes, a principal vantagem é a praticidade. Hoje, o cliente precisa lembrar de pagar cada boleto manualmente ou cadastrar débito automático, nem sempre disponível para todos os serviços.&lt;/p&gt;
+&lt;p&gt;Com o Pix automático via boleto:&lt;/p&gt;
+&lt;p&gt;•  O processo acontece em uma única etapa&lt;/p&gt;
+&lt;p&gt;•  Há menos risco de esquecer pagamentos&lt;/p&gt;
+&lt;p&gt;•  O controle continua com o cliente, que precisa autorizar previamente&lt;/p&gt;
+&lt;p&gt;Do lado das empresas, a nova ferramenta busca resolver um problema comum: a inadimplência e a dificuldade de integração entre sistemas.&lt;/p&gt;
+&lt;p&gt;•  Mantém o modelo tradicional de boleto&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/bb-lanca-boleto-com-pix-automatico-para-pagamentos-recorrentes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello Casal JrAgência Brasil
+O Banco do Brasil (BB) anunciou nesta terça-feira (28) uma nova ferramenta para facilitar o pagamento de contas rec...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-04-28 15:33:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-28 15:33:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-28 15:33:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-28 15:33:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/oqTcRfPLfdPRonUXczaGrbQAesU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/pix_0411202552.jpg?itok=nederioL</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>SP confirma segundo caso importado de sarampo</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/sp-confirma-segundo-caso-importado-de-sarampo</link>
+      <pubDate>Tue, 28 Apr 2026 19:23:39 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/sp-confirma-segundo-caso-importado-de-sarampo#1001</guid>
+      <description>© Divulgação/Josué Damacena (IOC/Fiocruz)
+A Secretaria Estadual da Saúde de São Paulo confirmou nesta terça-feira(28) o segundo caso importado de sar...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/sf2ERRA_tMQFQbiE-CXXpbEfi88=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/diagnostico_laboratorial_de_casos_suspeitos_do_novo_coronavirus_2801209411.jpg?itok=7Xm3OpYO&quot; alt=&quot;SP confirma segundo caso importado de sarampo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Divulgação/Josué Damacena (IOC/Fiocruz)&lt;/p&gt;
+&lt;p&gt;A Secretaria Estadual da Saúde de São Paulo confirmou nesta terça-feira(28) o segundo caso importado de sarampo no território paulista. De acordo com a pasta, o paciente é um homem de 42 anos, morador da Guatemala e que tem histórico de vacinação.&lt;/p&gt;
+&lt;p&gt;O caso foi identificado no final de março, na cidade de São Paulo, e depois confirmado por exames laboratoriais. O estado de saúde do paciente não foi informado.&lt;/p&gt;
+&lt;p&gt;Este é o segundo caso importado de sarampo, ou seja, sem transmissão local do vírus, identificado no estado de São Paulo em 2026. O&lt;/p&gt;
+&lt;p&gt;do ano foi o de um bebê de seis meses que não foi vacinado eesteve na Bolívia em janeiro.Em todo o ano passado foram registrados dois casos importados da doença em São Paulo.&lt;/p&gt;
+&lt;p&gt;Segundo a Organização Pan-Americana da Saúde (Opas), os países da América continuam enfrentando a doença. No ano passado, por exemplo, 14.767 registros de sarampo foram confirmados&lt;/p&gt;
+&lt;p&gt;.Só neste anoforam confirmados 15,3 mil casos, sendo que México Guatemala, Estados Unidos e Canadá respondem pela maioria deles.&lt;/p&gt;
+&lt;p&gt;O sarampo é uma doença infecciosa altamente contagiosa e que já foi uma das principais causas de mortalidade infantil no mundo. A transmissão do vírus ocorre de pessoa a pessoa, por via aérea, seja ao tossir, espirrar, falar ou respirar.&lt;/p&gt;
+&lt;p&gt;O sarampo é tão contagioso que uma pessoa infectada pode transmitir a doença para 90% das pessoas próximas e que não estejam imunes.&lt;/p&gt;
+&lt;p&gt;Por isso, a vacinação contra o sarampo é extremamente importante. A vacinação é a principal forma de prevenção contra a doença.&lt;/p&gt;
+&lt;p&gt;Os principais sintomas da doença são manchas vermelhas no corpo e febre alta, acima de 38,5ºC, acompanhada de tosse, conjuntivite, nariz escorrendo ou mal-estar intenso. Os casos podem evoluir para complicações graves podendo causar diarreia intensa, infecções de ouvido, cegueira, pneumonia e encefalite (inflamação do cérebro). Algumas dessas complicações podem ser fatais.&lt;/p&gt;
+&lt;p&gt;A vacinação contra o sarampo faz parte do Calendário Nacional de Vacinação. A primeira dose deve ser aplicada aos 12 meses de idade (tríplice viral – sarampo, caxumba e rubéola) e a segunda aos 15 meses (tetra viral – sarampo, caxumba, rubéola e varicela).&lt;/p&gt;
+&lt;p&gt;Esquema de corrupção no Porto do Rio causa prejuízo de R$ 87 bilhões&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 12h: Combate ao abuso sexual infantil leva agentes da PF às ruas de todo o país; operação faz parte de ação internacional&lt;/p&gt;
+&lt;p&gt;Novo programa Desenrola vai permitir uso do FGTS para quitar dívidas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/sp-confirma-segundo-caso-importado-de-sarampo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Divulgação/Josué Damacena (IOC/Fiocruz)
+A Secretaria Estadual da Saúde de São Paulo confirmou nesta terça-feira(28) o segundo caso importado de sar...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-04-28 15:32:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-28 15:32:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-28 15:32:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-28 15:32:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/sf2ERRA_tMQFQbiE-CXXpbEfi88=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/diagnostico_laboratorial_de_casos_suspeitos_do_novo_coronavirus_2801209411.jpg?itok=7Xm3OpYO</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Lista de peixes e invertebrados ameaçados de extinção é atualizada</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/lista-de-peixes-e-invertebrados-ameacados-de-extincao-e-atualizada</link>
+      <pubDate>Tue, 28 Apr 2026 19:23:39 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/lista-de-peixes-e-invertebrados-ameacados-de-extincao-e-atualizada#1002</guid>
+      <description>A Lista Nacional Oficial de Espécies da Fauna Ameaçadas de Extinção para Peixes e Invertebrados Aquáticos foi atualizada nesta terça-feira (28). A re...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/v68A_TOmy3w4f_5qTdQJgFtTnu4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/28/54db394d-b8d7-443b-9c58-a968679ca940.jpg?itok=aoSWeaH8&quot; alt=&quot;Lista de peixes e invertebrados ameaçados de extinção é atualizada&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Lista Nacional Oficial de Espécies da Fauna Ameaçadas de Extinção para Peixes e Invertebrados Aquáticos foi atualizada nesta terça-feira (28). A revisão iniciada em 2024, incluiu novas 100 espécies e excluiu o mesmo número, mantendo 490 espécies classificadas.&lt;/p&gt;
+&lt;p&gt;Peixes, arraias, tubarões, estrelas-do-mar e mais centenas de espécies que vivem no continente e no mar brasileiro foram analisados em relação ao risco de extinção e, conforme a atual situação, foram classificados como Vulnerável (VU), Em Perigo (EN) e Criticamente em Perigo (CR).&lt;/p&gt;
+&lt;p&gt;Segundo o ministro de Meio Ambiente e Mudança do Clima, João Paulo Capobianco, a atualização é o resultado de uma robusta análise técnica para identificar a efetiva situação da fauna brasileira a partir de um esforço conjunto de governos, academia, sociedade civil e setor econômico.&lt;/p&gt;
+&lt;p&gt;“O objetivo, a partir desta iniciativa, é mobilizar ações para que as espécies atualmente pressionadas por diversos fatores tenham suas populações recuperadas”, reforça.&lt;/p&gt;
+&lt;p&gt;A nova lista substitui a versão de 2014 e foi revisada a partir de critérios da União Internacional para a Conservação da Natureza&lt;/p&gt;
+&lt;p&gt;(IUCN, na sigla em inglês), adotados para a avaliação do tamanho das populações, distribuição geográfica, condições de conservação dos habitats e pressões como captura e poluição.&lt;/p&gt;
+&lt;p&gt;, o Ministério do Meio Ambiente publicou também&lt;/p&gt;
+&lt;p&gt;para proteção das espécies classificadas e recuperação de suas populações.&lt;/p&gt;
+&lt;p&gt;São medidas como a proibição da captura, transporte, comercialização e armazenamento e, ainda, diretrizes para a elaboração de planos de recuperação.&lt;/p&gt;
+&lt;p&gt;De acordo com o Ministério do Meio Ambiente e Mudança do Clima, já estão sendo revisados alguns planos de recuperação de espécies reclassificadas, como o pargo (Lutjanus purpureus), que passou de VU para EN, na lista.&lt;/p&gt;
+&lt;p&gt;Com o novo enquadramento, a espécie terá as medidas de proteção e manejo intensificadas com o objetivo de reduzir as pressões causadas pela sobrepesca e captura intensiva de indivíduos jovens.&lt;/p&gt;
+&lt;p&gt;Segundo Capobianco, esse é um esforço que terá gestão compartilhada como o Ministério da Pesca e Aquicultura, objetivando a recomposição das populações e a continuidade da atividade econômica.&lt;/p&gt;
+&lt;p&gt;“Quando falamos em sustentabilidade na pesca, falamos em garantir equilíbrio: proteger a espécie, respeitar a ciência e assegurar que a atividade pesqueira continue gerando alimento, renda e desenvolvimento para o Brasil. O pargo tem grande importância econômica, mas só haverá futuro para essa cadeia se houver responsabilidade no presente”, reforça o ministro da Pesca e Aquicultura, Edipo Araujo.&lt;/p&gt;
+&lt;p&gt;Esquema de corrupção no Porto do Rio causa prejuízo de R$ 87 bilhões&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 12h: Combate ao abuso sexual infantil leva agentes da PF às ruas de todo o país; operação faz parte de ação internacional&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/lista-de-peixes-e-invertebrados-ameacados-de-extincao-e-atualizada&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Lista Nacional Oficial de Espécies da Fauna Ameaçadas de Extinção para Peixes e Invertebrados Aquáticos foi atualizada nesta terça-feira (28). A re...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-04-28 14:39:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-28 14:39:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-28 14:39:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-28 14:39:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/v68A_TOmy3w4f_5qTdQJgFtTnu4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/28/54db394d-b8d7-443b-9c58-a968679ca940.jpg?itok=aoSWeaH8</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Estudo de longo prazo na Amazônia descarta teoria de savanização</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/estudo-de-longo-prazo-na-amazonia-descarta-teoria-de-savanizacao</link>
+      <pubDate>Tue, 28 Apr 2026 19:23:39 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/estudo-de-longo-prazo-na-amazonia-descarta-teoria-de-savanizacao#1003</guid>
+      <description>© REUTERS/Amanda Perobelli/Direitos Reservados
+Um estudo realizado em Querência, no Mato Grosso, região da Amazônia mais afetada pelo desmatamento na...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CLdMtIeCm_w8il-FktOHGPfJy2Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2023-01-04t011928z_1_lynxmpej0300u_rtroptp_3_brazil-environment.jpg?itok=ADuBeBsU&quot; alt=&quot;Estudo de longo prazo na Amazônia descarta teoria de savanização&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS/Amanda Perobelli/Direitos Reservados&lt;/p&gt;
+&lt;p&gt;Um estudo realizado em Querência, no Mato Grosso, região da Amazônia mais afetada pelo desmatamento nas últimas décadas, avaliou os impactos das secas e queimadas que atingem a floresta em regiões pressionadas pela agricultura.&lt;/p&gt;
+&lt;p&gt;Após 22 anos de pesquisa, a tese de savanização – defendida por cientistas desde a década de 90 – foi descartada.&lt;/p&gt;
+&lt;p&gt;No lugar de uma possível substituição das florestas por gramíneas e arbustos (vegetação típica de savanas),os cientistas observaram a retomada dos espaços afetados pelo fogo e secapelas mesmas espécies florestais&lt;/p&gt;
+&lt;p&gt;“O que a gente está mostrando é que a floresta recupera, que ela é altamente resiliente e tem essa capacidade de voltar e de retornar aos espaços altamente degradados”, avalia Leandro Maracahipes, pesquisador da Universidade de Yale apoiado pelo Instituto Serrapilheira.&lt;/p&gt;
+&lt;p&gt;O biólogo explica que, apesar da boa notícia, há uma série de condições necessárias para que, de fato, a floresta retome o seu espaço.&lt;/p&gt;
+&lt;p&gt;A principal é a interrupção dos incêndios, mas também a necessidade de preservar as florestas por perto.&lt;/p&gt;
+&lt;p&gt;“É preciso que você tenha uma fonte de dispersão próxima pra poder recuperar essa área. Porque tem que ter uma matriz de vegetação nativa próxima, animais para poder dispersar essas sementes com o vento. Se não tiver, vai ser mais difícil e mais lento”, diz Macahipes.&lt;/p&gt;
+&lt;p&gt;O estudo começou em 2004, em uma área de 150 hectares, com um levantamento para documentar a vegetação, os animais e insetos que habitavam o local originalmente.&lt;/p&gt;
+&lt;p&gt;Dividida em três espaços de 50 hectares, duas frações passaram por queimadas: uma delas a cada três anos, e a outra todos os anos até 2010. A terceira fração não foi atingida pelo fogo no período do estudo.&lt;/p&gt;
+&lt;p&gt;Desde então, as áreas atingidas foram observadas e logo após os incêndios, a primeira constatação foi de empobrecimento da biodiversidade no local. A riqueza de espécies caiu 20,3% nas áreas queimadas anualmente e 46,2% na fração queimada a cada três anos.&lt;/p&gt;
+&lt;p&gt;Em 2012, uma tempestade de vento afetou a área causando uma mortandade de 5% das árvores no local. Inicialmente, os cientistas registraram uma área totalmente transformada pelos distúrbios, mas com o passar do tempo a floresta se mostrou mais forte que as cicatrizes.&lt;/p&gt;
+&lt;p&gt;“Com o docel [cobertura formada pela copa das árvores] aberto havia mais gramínea, principalmente na borda da floresta. Recentemente o docel fechou e hoje a gente tem 10% de gramínea na área. O ambiente parece muito mais um ambiente florestal. Com certeza, o interior recuperou muito mais rápido do que a borda, e a composição de espécies está retornando”, diz o pesquisador.&lt;/p&gt;
+&lt;p&gt;Apesar da recuperação ao longo do tempo, a floresta ainda não é a mesma com uma margem inferior de espécies que varia de 31,3% a 50,8%, dependendo se foi mais ou menos atingida.&lt;/p&gt;
+&lt;p&gt;“A floresta volta em uma nova condição, não volta com todos aqueles serviços que ela fornecia. Ela volta muito mais vulnerável. As espécies que fazem parte dessa nova composição, elas têm casca fina e densidade da madeira baixa e morrem muito mais facilmente”, explica Maracahipes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-04/estudo-de-longo-prazo-na-amazonia-descarta-teoria-de-savanizacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS/Amanda Perobelli/Direitos Reservados
+Um estudo realizado em Querência, no Mato Grosso, região da Amazônia mais afetada pelo desmatamento na...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-04-28 14:21:00</wp:post_date>
+      <wp:post_date_gmt>2026-04-28 14:21:00</wp:post_date_gmt>
+      <wp:post_modified>2026-04-28 14:21:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-04-28 14:21:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/CLdMtIeCm_w8il-FktOHGPfJy2Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2023-01-04t011928z_1_lynxmpej0300u_rtroptp_3_brazil-environment.jpg?itok=ADuBeBsU</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Redução da jornada vai favorecer o empreendodorismo, diz ministro</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/reducao-da-jornada-vai-favorecer-o-empreendodorismo-diz-ministro</link>
-      <pubDate>Tue, 28 Apr 2026 17:41:22 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 19:23:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/reducao-da-jornada-vai-favorecer-o-empreendodorismo-diz-ministro#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/reducao-da-jornada-vai-favorecer-o-empreendodorismo-diz-ministro#1004</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 A redução da jornada de seis dias de trabalho por um de descanso terá impacto positivo não apenas para a q...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/D3xmXIdru5bLGeUU7Kik_X_dkmQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/28/pzzb4844.jpg?itok=UO0GBQjk&quot; alt=&quot;Redução da jornada vai favorecer o empreendodorismo, diz ministro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +241,7 @@ A redução da jornada de seis dias de trabalho por um de descanso terá impacto
 &lt;p&gt;“Esse medo já existiu quando a gente implementou o salário mínimo, quando a gente implementou as férias, o décimo terceiro. Até quando acabaram com a escravidão existiu muito desse discurso”, disse.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/reducao-da-jornada-vai-favorecer-o-empreendodorismo-diz-ministro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 A redução da jornada de seis dias de trabalho por um de descanso terá impacto positivo não apenas para a q...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-04-28 13:14:00</wp:post_date>
       <wp:post_date_gmt>2026-04-28 13:14:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-28 13:14:00</wp:post_modified>
@@ -73,9 +267,9 @@ A redução da jornada de seis dias de trabalho por um de descanso terá impacto
     <item>
       <title>Edital para ações culturais contínuas abre inscrições no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/edital-para-acoes-culturais-continuas-abre-inscricoes-no-rio</link>
-      <pubDate>Tue, 28 Apr 2026 17:41:22 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 19:23:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/edital-para-acoes-culturais-continuas-abre-inscricoes-no-rio#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/edital-para-acoes-culturais-continuas-abre-inscricoes-no-rio#1005</guid>
       <description>© Fernando Frazão/Agência Brasil
 Projetos culturais do estado do Rio de Janeiro podem se candidatar até o dia 18 de maio ao Edital de Apoio a Ações C...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xloXoj3uUcUvqmB2pGne4Yc9JcQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/11/_d6a2130.jpg?itok=IH7j9Jdp&quot; alt=&quot;Edital para ações culturais contínuas abre inscrições no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +290,7 @@ Projetos culturais do estado do Rio de Janeiro podem se candidatar até o dia 18
 &lt;p&gt;Podem participar do edital pessoas jurídicas ou microempreendedores individuais (MEIs) da área cultural, com até três anos de atuação comprovada no estado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/edital-para-acoes-culturais-continuas-abre-inscricoes-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Projetos culturais do estado do Rio de Janeiro podem se candidatar até o dia 18 de maio ao Edital de Apoio a Ações C...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-04-28 13:10:00</wp:post_date>
       <wp:post_date_gmt>2026-04-28 13:10:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-28 13:10:00</wp:post_modified>
@@ -122,9 +316,9 @@ Projetos culturais do estado do Rio de Janeiro podem se candidatar até o dia 18
     <item>
       <title>PF e Receita combatem fraude de R$ 86 bilhões em alfândega no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/pf-e-receita-combatem-fraude-de-rs-86-bilhoes-no-porto-do-rio</link>
-      <pubDate>Tue, 28 Apr 2026 17:41:22 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 19:23:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/pf-e-receita-combatem-fraude-de-rs-86-bilhoes-no-porto-do-rio#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/pf-e-receita-combatem-fraude-de-rs-86-bilhoes-no-porto-do-rio#1006</guid>
       <description>© 26.07.2020/Tânia Rêgo/Agência Brasil
 A Polícia Federal, a Receita Federal e Ministério Público Federal deflagraram, nesta terça-feira (28), a
 para ...</description>
@@ -147,7 +341,7 @@ para ...</description>
       <excerpt:encoded>© 26.07.2020/Tânia Rêgo/Agência Brasil
 A Polícia Federal, a Receita Federal e Ministério Público Federal deflagraram, nesta terça-feira (28), a
 para ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-04-28 11:26:00</wp:post_date>
       <wp:post_date_gmt>2026-04-28 11:26:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-28 11:26:00</wp:post_modified>
@@ -173,9 +367,9 @@ para ...</excerpt:encoded>
     <item>
       <title>Gasolina e alimentos pressionam, e prévia da inflação sobe para 0,89%</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/gasolina-e-alimentos-pressionam-e-previa-da-inflacao-sobe-para-089</link>
-      <pubDate>Tue, 28 Apr 2026 17:41:22 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 19:23:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/gasolina-e-alimentos-pressionam-e-previa-da-inflacao-sobe-para-089#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/gasolina-e-alimentos-pressionam-e-previa-da-inflacao-sobe-para-089#1007</guid>
       <description>O preço dos alimentos e dos combustíveis pressionaram o bolso do brasileiro em abril e fizeram a prévia da inflação do mês fechar em 0,89%. O resulta...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DacJuP8sQUFCW1TE1C9AOGKDj-E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/sp_transito_1.jpg?itok=tbIfIQpr&quot; alt=&quot;Gasolina e alimentos pressionam, e prévia da inflação sobe para 0,89%&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O preço dos alimentos e dos combustíveis pressionaram o bolso do brasileiro em abril e fizeram a prévia da inflação do mês fechar em 0,89%. O resultado fica acima do apurado em abril (0,44%) e é o maior desde fevereiro (1,23%).&lt;/p&gt;
@@ -194,7 +388,7 @@ para ...</excerpt:encoded>
 &lt;p&gt;O economista-chefe da Associação Paulista de Supermercados (Apas), Felipe Queiroz, dizque um dos motivos para a alta nos alimentos é o processo de entressafra.&lt;/p&gt;
 &lt;p&gt;“A menor produção de alguns itens, inclusive leite, tem pressionado o indicador”, afirma.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/gasolina-e-alimentos-pressionam-e-previa-da-inflacao-sobe-para-089&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O preço dos alimentos e dos combustíveis pressionaram o bolso do brasileiro em abril e fizeram a prévia da inflação do mês fechar em 0,89%. O resulta...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-04-28 10:52:00</wp:post_date>
       <wp:post_date_gmt>2026-04-28 10:52:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-28 10:52:00</wp:post_modified>
@@ -220,9 +414,9 @@ para ...</excerpt:encoded>
     <item>
       <title>Prazo para isençãode taxado Enem 2026 termina nesta quinta-feira</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prazo-para-isencao-de-taxa-do-enem-2026-termina-nesta-quinta-feira</link>
-      <pubDate>Tue, 28 Apr 2026 17:41:22 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 19:23:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prazo-para-isencao-de-taxa-do-enem-2026-termina-nesta-quinta-feira#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prazo-para-isencao-de-taxa-do-enem-2026-termina-nesta-quinta-feira#1008</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O prazo para os interessados em solicitar a isenção da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) 20...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jD5rqLylrBtRcEmbO7IrBcbKXA8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/16/enem-mc_abr_16112025-15.jpg?itok=YXqDnSBK&quot; alt=&quot;Prazo para isençãode taxado Enem 2026 termina nesta quinta-feira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -243,7 +437,7 @@ O prazo para os interessados em solicitar a isenção da taxa de inscrição do 
 &lt;p&gt;. O período de recursos para quem tiver o pedido negado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/prazo-para-isencao-de-taxa-do-enem-2026-termina-nesta-quinta-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O prazo para os interessados em solicitar a isenção da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) 20...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-04-28 10:49:00</wp:post_date>
       <wp:post_date_gmt>2026-04-28 10:49:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-28 10:49:00</wp:post_modified>
@@ -269,9 +463,9 @@ O prazo para os interessados em solicitar a isenção da taxa de inscrição do 
     <item>
       <title>Iniciativa seleciona jovens para tratamento odontológico gratuito</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/iniciativa-seleciona-jovens-para-tratamento-odontologico-gratuito</link>
-      <pubDate>Tue, 28 Apr 2026 17:41:22 +0000</pubDate>
+      <pubDate>Tue, 28 Apr 2026 19:23:39 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/iniciativa-seleciona-jovens-para-tratamento-odontologico-gratuito#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/iniciativa-seleciona-jovens-para-tratamento-odontologico-gratuito#1009</guid>
       <description>© Arquivo/Valter Campanato/Agência Brasil
 Começa nesta terça-feira (28) uma triagem em várias cidades a fim de selecionar jovens de 11 a 17 anos para...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/KsFvG1ghYJA1a4oCmWgkv_Kiw-0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/dentista.jpg?itok=Pw7FtCDg&quot; alt=&quot;Iniciativa seleciona jovens para tratamento odontológico gratuito&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -286,13 +480,13 @@ Começa nesta terça-feira (28) uma triagem em várias cidades a fim de selecion
 &lt;p&gt;A Turma do Bem trabalha em 12 países com mais de 19 mil dentistas voluntários&lt;/p&gt;
 &lt;p&gt;. Nas últimas edições da Megatriagem, realizadas em 2024 e 2025, mais de 10 mil jovens foram selecionados para recebertratamento odontológico gratuito. A organização também tem parceria com a Colgate, que apoia a ação com atividades educativas e distribuição de kits de higiene bucal em diversas localidades.&lt;/p&gt;
 &lt;p&gt;sob supervisão de Odair Braz Junior&lt;/p&gt;
-&lt;p&gt;Desmatamento na Amazônia cai 17% no primeiro trimestre de 2026&lt;/p&gt;
-&lt;p&gt;Viva Maria lança novo podcast: desagravo às mulheres do Brasil&lt;/p&gt;
-&lt;p&gt;Associações pedem 30 dias para aplicação das regras dos penduricalhos&lt;/p&gt;
-&lt;p&gt;Estudo de longo prazo na Amazônia descarta teoria de savanização&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/iniciativa-seleciona-jovens-para-tratamento-odontologico-gratuito&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Esquema de corrupção no Porto do Rio causa prejuízo de R$ 87 bilhões&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 12h: Combate ao abuso sexual infantil leva agentes da PF às ruas de todo o país; operação faz parte de ação internacional&lt;/p&gt;
+&lt;p&gt;Novo programa Desenrola vai permitir uso do FGTS para quitar dívidas&lt;/p&gt;
+&lt;p&gt;Deputado Gustavo Gayer vira réu no STF por injúria contra Lula&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/iniciativa-seleciona-jovens-para-tratamento-odontologico-gratuito&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Arquivo/Valter Campanato/Agência Brasil
 Começa nesta terça-feira (28) uma triagem em várias cidades a fim de selecionar jovens de 11 a 17 anos para...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-04-28 10:15:00</wp:post_date>
       <wp:post_date_gmt>2026-04-28 10:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-04-28 10:15:00</wp:post_modified>
@@ -313,206 +507,6 @@ Começa nesta terça-feira (28) uma triagem em várias cidades a fim de selecion
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/KsFvG1ghYJA1a4oCmWgkv_Kiw-0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/dentista.jpg?itok=Pw7FtCDg</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Cartilha orienta médicos e instituições sobre uso de IA na medicina</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/cartilha-orienta-medicos-e-instituicoes-sobre-uso-de-ia-na-medicina</link>
-      <pubDate>Tue, 28 Apr 2026 17:41:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/cartilha-orienta-medicos-e-instituicoes-sobre-uso-de-ia-na-medicina#1006</guid>
-      <description>A Associação Médica Brasileira (AMB) lançou este mês uma
-com o objetivo de orientar médicos e instituições de saúde sobre a aplicação da inteligência...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/r_ZeeqCwSH6mvOFe3E-XY-LNWfI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/ai.jpg?itok=Kdwn75Ck&quot; alt=&quot;Cartilha orienta médicos e instituições sobre uso de IA na medicina&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Associação Médica Brasileira (AMB) lançou este mês uma&lt;/p&gt;
-&lt;p&gt;com o objetivo de orientar médicos e instituições de saúde sobre a aplicação da inteligência artificial (IA) na prática clínica, com base na&lt;/p&gt;
-&lt;p&gt;do Conselho Federal de Medicina (CFM).&lt;/p&gt;
-&lt;p&gt;O material aborda os principais pontos da primeira legislação brasileira dedicada exclusivamente ao uso da IA no exercício da medicina, publicada em fevereiro de 2026. A norma do CFM estabelece prazo de 180 dias para adequação, com entrada em vigor prevista para agosto.&lt;/p&gt;
-&lt;p&gt;Em nota, a AMB avalia que um dos pilares da resolução, destacado na cartilha, é o entendimento de que a IA deve ser utilizada exclusivamente como ferramenta de apoio.&lt;/p&gt;
-&lt;p&gt;“A decisão clínica permanece sob responsabilidade do médico, que mantém autonomia técnica e ética em todas as etapas do cuidado ao paciente”, diz.&lt;/p&gt;
-&lt;p&gt;“A publicação reforça que, embora a tecnologia amplie a capacidade diagnóstica e operacional, o julgamento humano é insubstituível e deve prevalecer em qualquer circunstância”, destacou o comunicado.&lt;/p&gt;
-&lt;p&gt;A cartilha detalha direitos dos médicos, como o uso livre de IA como suporte à decisão, além da possibilidade de recusar sistemas sem validação científica ou que apresentem riscos éticos.&lt;/p&gt;
-&lt;p&gt;O documento também estabelece deveres classificados pela AMB como fundamentais, incluindo a necessidade de capacitação contínua, o uso crítico das ferramentas e o registro obrigatório em prontuário sempre que a IA for utilizada.&lt;/p&gt;
-&lt;p&gt;“Entre as proibições expressas estão a delegação de diagnósticos à IA, o uso de sistemas sem segurança de dados e a omissão da informação ao paciente quando a tecnologia tiver papel relevante no atendimento.”&lt;/p&gt;
-&lt;p&gt;classificação dos sistemas de IA por níveis de risco — baixo, médio, alto e inaceitável&lt;/p&gt;
-&lt;p&gt;—, com exigências proporcionais de governança para cada categoria.&lt;/p&gt;
-&lt;p&gt;“Sistemas de maior impacto clínico demandam estruturas mais robustas de controle, monitoramento e validação”, avaliou a associação.&lt;/p&gt;
-&lt;p&gt;Segurança jurídica e proteção de dados&lt;/p&gt;
-&lt;p&gt;A cartilha orienta que o registro do uso da IA em prontuário é condição essencial para garantir proteção jurídica ao médico e recomenda a adoção de Termo de Consentimento Livre e Esclarecido (TCLE) específico para o uso da tecnologia, assegurando transparência ao paciente.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-04/cartilha-orienta-medicos-e-instituicoes-sobre-uso-de-ia-na-medicina&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Associação Médica Brasileira (AMB) lançou este mês uma
-com o objetivo de orientar médicos e instituições de saúde sobre a aplicação da inteligência...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-04-28 10:09:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-28 10:09:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-28 10:09:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-28 10:09:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/r_ZeeqCwSH6mvOFe3E-XY-LNWfI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/ai.jpg?itok=Kdwn75Ck</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Fim da escala 6x1: estudos divergem sobre impactos no PIB e inflação</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/fim-da-escala-6-1-estudos-divergem-sobre-impactos-no-pib-e-inflacao</link>
-      <pubDate>Tue, 28 Apr 2026 17:41:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/fim-da-escala-6-1-estudos-divergem-sobre-impactos-no-pib-e-inflacao#1007</guid>
-      <description>© Tânia Rêgo/Agência Brasil/Arquivo
-As propostas de redução da jornada de trabalho no Brasil, em
-tramitação no Congresso Nacional
-,têm mobilizado pes...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QIx3yA7L8_lmixF6ptWBSTa4NPE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1064929-edit_04214.jpg?itok=2S2sz0T9&quot; alt=&quot;Fim da escala 6x1: estudos divergem sobre impactos no PIB e inflação&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Tânia Rêgo/Agência Brasil/Arquivo&lt;/p&gt;
-&lt;p&gt;As propostas de redução da jornada de trabalho no Brasil, em&lt;/p&gt;
-&lt;p&gt;tramitação no Congresso Nacional&lt;/p&gt;
-&lt;p&gt;,têm mobilizado pesquisadores sobre os possíveis impactos da medida na economia, a partir do fim da escala de seis dias de trabalho por um de descanso, a chamada 6x1.&lt;/p&gt;
-&lt;p&gt;Deum lado, estudos de entidades que representam o empresariado, as chamadas confederações patronais, projetam queda no Produto Interno Bruto (PIB) e alta da inflação.&lt;/p&gt;
-&lt;p&gt;Por outra perspectiva, análises da Universidade Estadual de Campinas (Unicamp) e do Instituto de Pesquisa Econômica Aplicada (Ipea) desenham um cenário diferente, com impactos reduzidos atingindo apenas alguns setores, além da criação de mais empregos e possível aumento do PIB.&lt;/p&gt;
-&lt;p&gt;Para a economista da Unicamp Marilane Teixeira, a diferença entre as pesquisas sobre os custos econômicos da redução da jornada ocorre porque não se trata de um debate puramente técnico, mas político.&lt;/p&gt;
-&lt;p&gt;“Parte significativa da literatura econômica que discute o assunto parte de modelos que assumem, como regra, que qualquer redução na quantidade de horas trabalhadas levará, inevitavelmente, à redução da produção e da renda – ignorando, assim, os ajustes dinâmicos que historicamente ocorrem no mercado de trabalho”, aponta.&lt;/p&gt;
-&lt;p&gt;Centro de Estudos Sindicais e de Economia do Trabalho (Cesite)&lt;/p&gt;
-&lt;p&gt;, Marilene defende que a resistência à redução da jornada, por parte dos empregadores, pode levar a projeções alarmistas.&lt;/p&gt;
-&lt;p&gt;“Do ponto de vista dos empregadores, é claro que, qualquer mudança é vista a partir do seu negócio. Eles não olham a economia como um todo, mas isso traz benefícios para o conjunto da sociedade”, acredita.&lt;/p&gt;
-&lt;p&gt;da Confederação Nacional da Indústria (CNI) calcula uma perda de R$ 76 bilhões no PIB brasileiro (-0,7%) com a redução da jornada das atuais 44para 40 horas.&lt;/p&gt;
-&lt;p&gt;No caso da indústria, o PIB cairia 1,2%.&lt;/p&gt;
-&lt;p&gt;“Nossa indústria vai perder participação no mercado doméstico e internacional, a partir da redução nas exportações e da alta nas importações”, destaca o presidente da CNI, Ricardo Alban.&lt;/p&gt;
-&lt;p&gt;Já a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), que reúne empresários desses setores,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/fim-da-escala-6-1-estudos-divergem-sobre-impactos-no-pib-e-inflacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Tânia Rêgo/Agência Brasil/Arquivo
-As propostas de redução da jornada de trabalho no Brasil, em
-tramitação no Congresso Nacional
-,têm mobilizado pes...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-04-28 09:27:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-28 09:27:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-28 09:27:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-28 09:27:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/QIx3yA7L8_lmixF6ptWBSTa4NPE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1064929-edit_04214.jpg?itok=2S2sz0T9</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Apenas 3% de presos provisórios conseguiram votar nas últimas eleições</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/direito-voto-entre-pessoas-reclusas-nao-e-efetivo-no-brasil</link>
-      <pubDate>Tue, 28 Apr 2026 17:41:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/direito-voto-entre-pessoas-reclusas-nao-e-efetivo-no-brasil#1008</guid>
-      <description>© Arquivo/Marcello Casal Jr/Agência Brasil
-Apesar de o direito ao voto de presos provisórios e adolescentes internados estar assegurado pela Constitu...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/j2QTvEN3xdlHk6RIdng4PJw09FY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/titulo_de_eleitor.jpg?itok=xVeuowgu&quot; alt=&quot;Apenas 3% de presos provisórios conseguiram votar nas últimas eleições&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Arquivo/Marcello Casal Jr/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Apesar de o direito ao voto de presos provisórios e adolescentes internados estar assegurado pela Constituição e aJustiça Eleitoral, é pouco provável que a maioria consiga exercer esse direito nas eleições deste ano.&lt;/p&gt;
-&lt;p&gt;Isso porque há poucas sessões eleitorais previstas e instaladas em estabelecimentos prisionais e socioeducativos. Além disso, é minoritário o número de pessoas em confinamentotemporário e adolescentes internados que dispõemde documentação completa para o alistamento.&lt;/p&gt;
-&lt;p&gt;relatório da Defensoria Pública da União&lt;/p&gt;
-&lt;p&gt;,apenas 3% das pessoas que estavam nessas condições exerceramo direito de voto.&lt;/p&gt;
-&lt;p&gt;De acordo com o advogado Ariel de Castro Alves, membro da Comissão de Direitos Humanos da Ordem dos Advogados do Brasil (OAB) emSão Paulo, nas eleições municipais de 2024 a participação foi ainda menor.&lt;/p&gt;
-&lt;p&gt;&quot;Enquanto em 2022tínhamos quase 13 mil presos aptos a participarem do&lt;/p&gt;
-&lt;p&gt;, em 2024 esse número caiupara 6mil, mesmo tendo um número de mais de 200 mil presos provisórios no país&quot;, disse em entrevista à&lt;/p&gt;
-&lt;p&gt;Para o especialista, a burocracia impede maior participação eleitoral dos presos que aguardam julgamento.&lt;/p&gt;
-&lt;p&gt;Dados doConselho Nacional de Justiça (CNJ) mostramque atualmente há no Brasil 200,4 mil (número de abril de 2026, do Banco Nacional de Medidas Penais e Prisões). Também segundo o CNJ, há 11.680 adolescentes em meio fechado (internação e semiliberdade) no Brasil (informação do Painel de Inspeções no Socioeducativo, de janeiro de 2025).&lt;/p&gt;
-&lt;p&gt;O prazo para que pessoas presas em regime provisório e adolescentes de 16 anos ou mais internados possam fazer alistamento eleitoral ou solicitar transferência de título para votar na sessãoonde estejam confinados ou cumprindo medida socioeducativa termina no di 6 de maio.&lt;/p&gt;
-&lt;p&gt;O direito de essas pessoas votarem está estabelecido na Constituição Federal. Segundo o Artigo nº 15, a cassação dos direitos políticos ocorre quando há “condenação criminal transitada em julgado, enquanto durarem seus efeitos.”&lt;/p&gt;
-&lt;p&gt;O preso provisório é a pessoa que não foi condenada, cujo processo não transitounem foi julgado. É o caso de quem está detido por flagrante, ou cumpre prisão temporária ou preventiva para assegurar o andamento de investigações ou processos. Por lei, não devem ficar juntocom presos já condenados.&lt;/p&gt;
-&lt;p&gt;A possibilidade legal de os presos provisórios poderem votar foi reafirmada na última quinta-feira (23), por unanimidade, pelosministros do Tribunal Superior Eleitoral (TSE).&lt;/p&gt;
-&lt;p&gt;A Cortefoi questionada se as restrições ao direito dos presos provisórios previstas na Lei nº 15.358/2026, batizada de&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/direito-voto-entre-pessoas-reclusas-nao-e-efetivo-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Arquivo/Marcello Casal Jr/Agência Brasil
-Apesar de o direito ao voto de presos provisórios e adolescentes internados estar assegurado pela Constitu...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-04-28 09:02:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-28 09:02:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-28 09:02:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-28 09:02:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/j2QTvEN3xdlHk6RIdng4PJw09FY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/titulo_de_eleitor.jpg?itok=xVeuowgu</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Morre a vereadora Luciana Novaes, atingida em 2003 por bala perdida</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/morre-vereadora-luciana-novaes-atingida-em-2003-por-bala-perdida</link>
-      <pubDate>Tue, 28 Apr 2026 17:41:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/morre-vereadora-luciana-novaes-atingida-em-2003-por-bala-perdida#1009</guid>
-      <description>© Cristina Índio do Brasil/ Agência Brasil
-Morreu nessa segunda-feira (27), no Rio, aos 42 anos, a vereadora Luciana Novaes (PT), que teve sua trajet...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LNv5Gh5L5rDUau8hImYK4iLC0kg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/vereadora_luciana_novaes_campanha_acao_pela_inclusao_defensores_250823.jpg?itok=rZ81wZk5&quot; alt=&quot;Morre a vereadora Luciana Novaes, atingida em 2003 por bala perdida&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Cristina Índio do Brasil/ Agência Brasil&lt;/p&gt;
-&lt;p&gt;Morreu nessa segunda-feira (27), no Rio, aos 42 anos, a vereadora Luciana Novaes (PT), que teve sua trajetória marcada aos 19 anos por uma bala perdida, quando cursava enfermagem na Universidade Estácio de Sá, no campus Rio Comprido, na zona norte, em 2003. Ela sobreviveu ao diagnóstico de apenas 1% de chance de vida, mas ficou tetraplégica.&lt;/p&gt;
-&lt;p&gt;A causa da morte não foi divulgada.A parlamentar enfrentava problemas de saúde desde o fim do ano passado, quando foi internada em estado grave.&lt;/p&gt;
-&lt;p&gt;Após o incidente em 2003, Luciana não só superou as dificuldades, como se adaptou ànova vida e voltou a estudar. Formou-se em serviço social e concluiu pós-graduação em gestão governamental. Em 2016, elegeu-se vereadora pela Câmara Municipal do Rio. Foi campeã de leis aprovadas em primeiro mandato.&lt;/p&gt;
-&lt;p&gt;Em 2020, no auge da pandemia, não conseguiu fazer campanha na rua por ser do grupo de risco, mas mesmo assim, teve 16 mil votos, ficando como primeira suplente.&lt;/p&gt;
-&lt;p&gt;Em 2022, concorreu ao cargo dedeputada federal e obteve mais de 31 mil votos, ficando com a segunda suplência do PT no Rio e Janeiro. Em 2023, retornou à Câmara Municipal do Rio.&lt;/p&gt;
-&lt;p&gt;Ao tomar conhecimento doprotocolo de morte cerebral da vereadora, o presidente da Câmara Municipal do Rio de Janeiro, Carlo Caiado (PSD), manifestouprofundo pesar pelo falecimento da parlamentar, uma mulher que transformou a própria dor em propósito e fez desua trajetória um exemplo permanente de luta.&lt;/p&gt;
-&lt;p&gt;Ao longo de sua atuação, deixou um legadode quase 200 leis, sempre voltadas para a inclusão, a defesa das pessoas com deficiência, dos idosos e da população em situação de vulnerabilidade.&lt;/p&gt;
-&lt;p&gt;Desmatamento na Amazônia cai 17% no primeiro trimestre de 2026&lt;/p&gt;
-&lt;p&gt;Viva Maria lança novo podcast: desagravo às mulheres do Brasil&lt;/p&gt;
-&lt;p&gt;Associações pedem 30 dias para aplicação das regras dos penduricalhos&lt;/p&gt;
-&lt;p&gt;Estudo de longo prazo na Amazônia descarta teoria de savanização&lt;/p&gt;
-&lt;p&gt;Redução da jornada vai favorecer o empreendodorismo, diz ministro&lt;/p&gt;
-&lt;p&gt;Edital para ações culturais contínuas abre inscrições no Rio&lt;/p&gt;
-&lt;p&gt;Emirados Árabes Unidos deixam Opep e Opep+&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/morre-vereadora-luciana-novaes-atingida-em-2003-por-bala-perdida&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Cristina Índio do Brasil/ Agência Brasil
-Morreu nessa segunda-feira (27), no Rio, aos 42 anos, a vereadora Luciana Novaes (PT), que teve sua trajet...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-04-28 08:41:00</wp:post_date>
-      <wp:post_date_gmt>2026-04-28 08:41:00</wp:post_date_gmt>
-      <wp:post_modified>2026-04-28 08:41:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-04-28 08:41:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/LNv5Gh5L5rDUau8hImYK4iLC0kg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/vereadora_luciana_novaes_campanha_acao_pela_inclusao_defensores_250823.jpg?itok=rZ81wZk5</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
