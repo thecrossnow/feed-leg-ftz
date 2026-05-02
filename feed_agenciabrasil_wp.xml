@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 02 May 2026 15:39:30 +0000</pubDate>
+    <pubDate>Sat, 02 May 2026 16:38:19 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,109 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Temporal no RS deixa desalojados e provoca danos em 19 cidades</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/temporal-no-rs-deixa-desalojados-e-provoca-danos-em-19-cidades</link>
+      <pubDate>Sat, 02 May 2026 16:38:19 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/temporal-no-rs-deixa-desalojados-e-provoca-danos-em-19-cidades#1000</guid>
+      <description>As fortes chuvas que atingiram o Rio Grande do Sul da tarde de sexta-feira (1º) à madrugada deste sábado (2) provocaram uma série de transtornos em a...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dnWJJgMEdECqpEx10INqn5RBu_Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/02/chuvas_no_rio_grande_do_sul01.jpg?itok=3iO7rJTz&quot; alt=&quot;Temporal no RS deixa desalojados e provoca danos em 19 cidades&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As fortes chuvas que atingiram o Rio Grande do Sul da tarde de sexta-feira (1º) à madrugada deste sábado (2) provocaram uma série de transtornos em ao menos 19 municípios, com alagamentos, bloqueios de rodovias, quedas de árvores e centenas de pessoas desalojadas.&lt;/p&gt;
+&lt;p&gt;Defesa Civil do Rio Grande do Sul&lt;/p&gt;
+&lt;p&gt;, o cenário ainda exige atenção devido ao risco de deslizamentos em diversas regiões.&lt;/p&gt;
+&lt;p&gt;A situação mais grave foi registrada em Rosário do Sul, na Fronteira Oeste, onde o volume de chuva chegou a 324 milímetros em apenas sete horas. O impacto foi imediato, com 225 residências foram atingidas por alagamentos e 512 pessoas desalojadas, buscando abrigo com familiares e amigos.&lt;/p&gt;
+&lt;p&gt;As autoridades investigam duas mortes que podem estar relacionadas ao temporal.&lt;/p&gt;
+&lt;p&gt;Uma delas envolve um homem de 24 anos, que teria sido atingido por uma descarga elétrica em Canguçu.&lt;/p&gt;
+&lt;p&gt;O outro caso é o de uma mulher de 25 anos, atingida pela queda de um eucalipto na zona rural de Bom Retiro do Sul.&lt;/p&gt;
+&lt;p&gt;Há também busca por três pescadores desaparecidos na região de Pelotas.&lt;/p&gt;
+&lt;p&gt;Apesar da gravidade, não houve necessidade de disponibilizarabrigos públicos até o momento. Equipes da Defesa Civil foram enviadas ao município para avaliar a possibilidade de decretação de situação de emergência.&lt;/p&gt;
+&lt;p&gt;Principais números do temporal:&lt;/p&gt;
+&lt;p&gt;19 municípios afetados em diferentes regiões do estado;&lt;/p&gt;
+&lt;p&gt;Mais de 500 desalojados, principalmente em Rosário do Sul;&lt;/p&gt;
+&lt;p&gt;Até 324 mm de chuva em poucas horas;&lt;/p&gt;
+&lt;p&gt;225 casas alagadas em uma única cidade;&lt;/p&gt;
+&lt;p&gt;Rajadas de vento acima de 80 km/h em alguns municípios.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/temporal-no-rs-deixa-desalojados-e-provoca-danos-em-19-cidades&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>As fortes chuvas que atingiram o Rio Grande do Sul da tarde de sexta-feira (1º) à madrugada deste sábado (2) provocaram uma série de transtornos em a...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-05-02 12:45:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-02 12:45:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-02 12:45:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-02 12:45:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/dnWJJgMEdECqpEx10INqn5RBu_Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/02/chuvas_no_rio_grande_do_sul01.jpg?itok=3iO7rJTz</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Plataforma do BB amplia digitalização na gestão pública</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/plataforma-do-bb-amplia-digitalizacao-na-gestao-publica</link>
+      <pubDate>Sat, 02 May 2026 16:38:19 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/plataforma-do-bb-amplia-digitalizacao-na-gestao-publica#1001</guid>
+      <description>© Marcello Casal jr/Agência Brasil
+Usar a tecnologia como aliada ao combate ao desperdício e à promoção do desenvolvimento sustentável.
+A digitalizaç...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WTb-bBzf-YrOXFw2KoBQ7O2UsZI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_abr_2407182208.jpg?itok=yP6xybp7&quot; alt=&quot;Plataforma do BB amplia digitalização na gestão pública&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello Casal jr/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Usar a tecnologia como aliada ao combate ao desperdício e à promoção do desenvolvimento sustentável.&lt;/p&gt;
+&lt;p&gt;A digitalização de processos administrativos no serviço público em cidades mineiras começa a mostrar resultados, com redução de consumo de papel, de insumos e de custos operacionais.&lt;/p&gt;
+&lt;p&gt;Desenvolvida pelo Banco do Brasil (BB) em parceria com a empresa de tecnologia governamental Aprova, a plataforma BB Governo Digital obteve sucesso em Ipatinga (MG).&lt;/p&gt;
+&lt;p&gt;Oprojeto rendeu reconhecimento internacional ao município, com a conquista da Medalha Pan-Americana da Inovação na Expo BH Cidades Inteligentes, em abril.&lt;/p&gt;
+&lt;p&gt;A iniciativa segue agora para a etapa global, prevista para maio, em Boston, Estados Unidos.&lt;/p&gt;
+&lt;p&gt;A plataforma integra, em um único ambiente, etapas como análise, autorização, assinatura e cobrança, com foco em eficiência e transparência na gestão pública.&lt;/p&gt;
+&lt;p&gt;Em Ipatinga, que participou do projeto piloto, a administração passou a operar com processos 100% digitais.&lt;/p&gt;
+&lt;p&gt;Documentos que antes circulavam fisicamente entre secretarias agora tramitam&lt;/p&gt;
+&lt;p&gt;, com recursos de automação, inteligência artificial e rastreabilidade em tempo real.&lt;/p&gt;
+&lt;p&gt;Além da melhoria na gestão, a digitalização também trouxe impactos ambientais e operacionais relevantes.&lt;/p&gt;
+&lt;p&gt;Com a eliminação do papel, os prazos para as respostas dos processos diminuíram de vários dias para algumas horas ou até minutos, beneficiando a população.&lt;/p&gt;
+&lt;p&gt;Resultados registrados em Ipatinga:&lt;/p&gt;
+&lt;p&gt;• 700 mil páginas deixam de ser impressas por mês;&lt;/p&gt;
+&lt;p&gt;• 42 toneladas de papel economizadas por ano;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/plataforma-do-bb-amplia-digitalizacao-na-gestao-publica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello Casal jr/Agência Brasil
+Usar a tecnologia como aliada ao combate ao desperdício e à promoção do desenvolvimento sustentável.
+A digitalizaç...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-05-02 12:06:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-02 12:06:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-02 12:06:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-02 12:06:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/WTb-bBzf-YrOXFw2KoBQ7O2UsZI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_abr_2407182208.jpg?itok=yP6xybp7</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Mil convocados no CNU 2025 podem escolher local de trabalho até terça</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/mil-convocados-no-cnu-2025-podem-escolher-local-de-trabalho-ate-terca</link>
-      <pubDate>Sat, 02 May 2026 15:39:30 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 16:38:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/mil-convocados-no-cnu-2025-podem-escolher-local-de-trabalho-ate-terca#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/mil-convocados-no-cnu-2025-podem-escolher-local-de-trabalho-ate-terca#1002</guid>
       <description>Os aprovados para o cargo de analista técnico-administrativo da segunda edição do Concurso Público Nacional Unificado podem manifestar a preferência ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/AFreuTg4jBqwu7KXZgWzKvwrMNU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/05/toms8675.jpg?itok=9PzUC3ZP&quot; alt=&quot;Mil convocados no CNU 2025 podem escolher local de trabalho até terça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Os aprovados para o cargo de analista técnico-administrativo da segunda edição do Concurso Público Nacional Unificado podem manifestar a preferência pelo local de lotação até as 23 horas e 59 minutos da próxima terça-feira (5), no horário de Brasília.&lt;/p&gt;
@@ -45,7 +143,7 @@
 &lt;p&gt;respeito à ordem de classificação no concurso público;&lt;/p&gt;
 &lt;p&gt;alternância entre listas de ampla concorrência e vagas reservadas, conforme previsto na legislação do processo seletivo.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/mil-convocados-no-cnu-2025-podem-escolher-local-de-trabalho-ate-terca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os aprovados para o cargo de analista técnico-administrativo da segunda edição do Concurso Público Nacional Unificado podem manifestar a preferência ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-05-02 11:54:00</wp:post_date>
       <wp:post_date_gmt>2026-05-02 11:54:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-02 11:54:00</wp:post_modified>
@@ -71,9 +169,9 @@
     <item>
       <title>Metrô inicia a venda da pulseira após apresentação de Shakira no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/metro-inicia-venda-da-pulseira-apos-apresentacao-de-shakira-no-rio</link>
-      <pubDate>Sat, 02 May 2026 15:39:30 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 16:38:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/metro-inicia-venda-da-pulseira-apos-apresentacao-de-shakira-no-rio#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/metro-inicia-venda-da-pulseira-apos-apresentacao-de-shakira-no-rio#1003</guid>
       <description>© Reuters/Gerardo Vieyra/Arquivo/Proibida reprodução
 iniciou às 6h da manhã deste sábado (2), a venda da pulseira de retorno, que será entregue assim...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2WJcYYJe5sZ1i7Gczsi8nTezK40=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/24/2026-03-01t000000z_1923233184_mt1nurpho000hgqq17_rtrmadp_3_mexico-shakira-concert.jpg?itok=xpCYSqnr&quot; alt=&quot;Metrô inicia a venda da pulseira após apresentação de Shakira no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -94,7 +192,7 @@ iniciou às 6h da manhã deste sábado (2), a venda da pulseira de retorno, que 
 &lt;p&gt;até as 7h de domingo, a Linha 2 vai operar entre a estação Pavuna e General Osório/Ipanema, e as linhas 1 e 4 seguirão o trajeto Uruguai/Tijuca e Jardim Oceânico/Barra da Tijuca. A transferência entre as linhas 1 e 2 poderá ser feita no trecho entre as estações General Osório/Ipanema e Central do Brasil/Centro. As linhas 1 e 4 seguirão o trajeto Uruguai-Jardim Oceânico/Barra da Tijuca. Com isso, todos os trens seguirão direto para as estações de Copacabana.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/metro-inicia-venda-da-pulseira-apos-apresentacao-de-shakira-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Gerardo Vieyra/Arquivo/Proibida reprodução
 iniciou às 6h da manhã deste sábado (2), a venda da pulseira de retorno, que será entregue assim...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-05-02 11:20:00</wp:post_date>
       <wp:post_date_gmt>2026-05-02 11:20:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-02 11:20:00</wp:post_modified>
@@ -120,9 +218,9 @@ iniciou às 6h da manhã deste sábado (2), a venda da pulseira de retorno, que 
     <item>
       <title>Ministério Público denuncia Marcinho VP, a mulher e o filho Oruam</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/ministerio-publico-denuncia-marcinho-vp-mulher-e-o-filho-oruam</link>
-      <pubDate>Sat, 02 May 2026 15:39:30 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 16:38:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/ministerio-publico-denuncia-marcinho-vp-mulher-e-o-filho-oruam#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/ministerio-publico-denuncia-marcinho-vp-mulher-e-o-filho-oruam#1004</guid>
       <description>Ministério Público do Rio de Janeiro (MPRJ)
 denunciou à Justiça o traficante Márcio Santos Nepumuceno, o Marcinho VP, sua mulher, Marcia Gama Nepomuc...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3zNe8z4lyoEawHR7rjCYRk_2lB0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/29/filho_do_dono_.jpg?itok=th1-TmYj&quot; alt=&quot;Ministério Público denuncia Marcinho VP, a mulher e o filho Oruam&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -143,7 +241,7 @@ denunciou à Justiça o traficante Márcio Santos Nepumuceno, o Marcinho VP, sua
 &lt;p&gt;o núcleo de suporte operacional, que presta suporte à lavagem de dinheiro e atua paracamuflar o cresceimentopatrimonial;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/ministerio-publico-denuncia-marcinho-vp-mulher-e-o-filho-oruam&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Ministério Público do Rio de Janeiro (MPRJ)
 denunciou à Justiça o traficante Márcio Santos Nepumuceno, o Marcinho VP, sua mulher, Marcia Gama Nepomuc...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-05-02 10:58:00</wp:post_date>
       <wp:post_date_gmt>2026-05-02 10:58:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-02 10:58:00</wp:post_modified>
@@ -169,9 +267,9 @@ denunciou à Justiça o traficante Márcio Santos Nepumuceno, o Marcinho VP, sua
     <item>
       <title>Documentários de Brasil e Paraguai pautam democracia no Prêmio Platino</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/documentarios-de-brasil-e-paraguai-pautam-democracia-no-premio-platino</link>
-      <pubDate>Sat, 02 May 2026 15:39:30 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 16:38:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/documentarios-de-brasil-e-paraguai-pautam-democracia-no-premio-platino#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/documentarios-de-brasil-e-paraguai-pautam-democracia-no-premio-platino#1005</guid>
       <description>A fragilidade da democracia na América Latina étema de dois filmes que concorremao troféu de melhor documentário da 13ª edição doPrêmioPlatino, princ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/SzVffp4IeJoDkl1ZpJI68A5Ut3U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/27/apocalip_f03cor_2024113419.jpg?itok=QydmVZsf&quot; alt=&quot;Documentários de Brasil e Paraguai pautam democracia no Prêmio Platino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A fragilidade da democracia na América Latina étema de dois filmes que concorremao troféu de melhor documentário da 13ª edição doPrêmioPlatino, principal condecoraçãodo cinema ibero-americano.O vencedor será anunciado em cerimônia no México, no próximo sábado (9).&lt;/p&gt;
@@ -190,7 +288,7 @@ denunciou à Justiça o traficante Márcio Santos Nepumuceno, o Marcinho VP, sua
 &lt;p&gt;discute o apoio dos meios de comunicação ao regime.&lt;/p&gt;
 &lt;p&gt;Essa adesão é consideradacrucial para a longa duração da ditadura, na avaliação do professor de História da Universidade Federal da Integração Latino-Americana (Unila)Paulo Renato da Silva, um dos maiores estudiosos do tema.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-04/documentarios-de-brasil-e-paraguai-pautam-democracia-no-premio-platino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A fragilidade da democracia na América Latina étema de dois filmes que concorremao troféu de melhor documentário da 13ª edição doPrêmioPlatino, princ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-05-02 10:20:00</wp:post_date>
       <wp:post_date_gmt>2026-05-02 10:20:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-02 10:20:00</wp:post_modified>
@@ -216,9 +314,9 @@ denunciou à Justiça o traficante Márcio Santos Nepumuceno, o Marcinho VP, sua
     <item>
       <title>Tempestades em PE deixam quatro mortos e mais de mil desalojados</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/tempestades-em-pe-deixam-quatro-mortos-e-mais-de-mil-desalojados</link>
-      <pubDate>Sat, 02 May 2026 15:39:30 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 16:38:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/tempestades-em-pe-deixam-quatro-mortos-e-mais-de-mil-desalojados#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/tempestades-em-pe-deixam-quatro-mortos-e-mais-de-mil-desalojados#1006</guid>
       <description>Quatro pessoas morreram em decorrência das tempestades que atingem o estado de Pernambuco.
 , uma mulher e o filho, de 6 anos, foram soterrados na reg...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/meow4d9pd9kVXVGkUiRWt1GwpNE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/02/chuvas_em_pernambuco01.jpg?itok=OmV9bfwv&quot; alt=&quot;Tempestades em PE deixam quatro mortos e mais de mil desalojados&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -239,7 +337,7 @@ denunciou à Justiça o traficante Márcio Santos Nepumuceno, o Marcinho VP, sua
 &lt;p&gt;Por meio do WhatsApp (61) 2034-4611 ou pelo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/tempestades-em-pe-deixam-quatro-mortos-e-mais-de-mil-desalojados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Quatro pessoas morreram em decorrência das tempestades que atingem o estado de Pernambuco.
 , uma mulher e o filho, de 6 anos, foram soterrados na reg...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-05-02 09:59:00</wp:post_date>
       <wp:post_date_gmt>2026-05-02 09:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-02 09:59:00</wp:post_modified>
@@ -265,9 +363,9 @@ denunciou à Justiça o traficante Márcio Santos Nepumuceno, o Marcinho VP, sua
     <item>
       <title>Bombeiros fazem última vistoria em estruturas para show de Shakira</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/bombeiros-fazem-ultima-vistoria-em-estruturas-para-show-de-shakira</link>
-      <pubDate>Sat, 02 May 2026 15:39:30 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 16:38:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/bombeiros-fazem-ultima-vistoria-em-estruturas-para-show-de-shakira#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/bombeiros-fazem-ultima-vistoria-em-estruturas-para-show-de-shakira#1007</guid>
       <description>O Corpo de Bombeiros realiza neste sábado (2) uma segunda vistoria das estruturas montadas para
 o show da cantora colombiana Shakira
 , que será reali...</description>
@@ -279,18 +377,13 @@ o show da cantora colombiana Shakira
 &lt;p&gt;De acordo com o comandante-geral do Corpo de Bombeiros, coronel Tarciso Salles, a atuação preventiva é fundamental para garantir a segurança do público em eventos de grande porte.&lt;/p&gt;
 &lt;p&gt;“A presença dos Bombeiros desde a fase de planejamento até a execução é essencial para assegurar que todas as normas de segurança sejam rigorosamente cumpridas. Nosso objetivo é permitir que a população aproveite grandes eventos com tranquilidade, sabendo que há uma estrutura preparada para agir com rapidez e eficiência em qualquer situação”, avaliou.&lt;/p&gt;
 &lt;p&gt;Os principais itens verificados pelo Corpo de Bombeiros foram a largura e a sinalização das saídas de emergência, além da disponibilidade e do fácil acesso aos extintores de incêndio, garantindo que todas as exigências de segurança foram&lt;/p&gt;
-&lt;p&gt;Temporal deixa quatro mortos e mais de mil desabrigados em Pernambuco&lt;/p&gt;
+&lt;p&gt;Novas regras de fiscalização de planos de saúde já estão em vigor&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Flamengo e Vasco se enfrentam pelo Campeonato Brasileiro&lt;/p&gt;
-&lt;p&gt;Mossoró se prepara para maior São João do Rio Grande do Norte&lt;/p&gt;
-&lt;p&gt;Plataforma do BB amplia digitalização na gestão pública&lt;/p&gt;
-&lt;p&gt;Mil convocados no CNU 2025 podem escolher local de trabalho até terça&lt;/p&gt;
-&lt;p&gt;Metrô inicia a venda da pulseira após apresentação de Shakira no Rio&lt;/p&gt;
-&lt;p&gt;Ministério Público denuncia Marcinho VP, a mulher e o filho Oruam&lt;/p&gt;
-&lt;p&gt;Israel interroga ativista brasileiro capturado em flotilha&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/bombeiros-fazem-ultima-vistoria-em-estruturas-para-show-de-shakira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mossoró se prepara para maior São João do Rio Grande do Norte&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/bombeiros-fazem-ultima-vistoria-em-estruturas-para-show-de-shakira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Corpo de Bombeiros realiza neste sábado (2) uma segunda vistoria das estruturas montadas para
 o show da cantora colombiana Shakira
 , que será reali...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-05-02 09:13:00</wp:post_date>
       <wp:post_date_gmt>2026-05-02 09:13:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-02 09:13:00</wp:post_modified>
@@ -316,9 +409,9 @@ o show da cantora colombiana Shakira
     <item>
       <title>Eleitores fluminenses podem regularizar título neste sábado</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/eleitores-fluminenses-podem-regularizar-titulo-neste-sabado</link>
-      <pubDate>Sat, 02 May 2026 15:39:30 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 16:38:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/eleitores-fluminenses-podem-regularizar-titulo-neste-sabado#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/eleitores-fluminenses-podem-regularizar-titulo-neste-sabado#1008</guid>
       <description>© Marcello Casal JrAgência Brasil
 Eleitoras e eleitores fluminenses que estão com pendências no título eleitoral têm atéa próxima quarta-feira (6)par...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DggW9Dkhp5wFKdAxxaL6Yr2nOGI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/etitulo.jpg?itok=j2NndudC&quot; alt=&quot;Eleitores fluminenses podem regularizar título neste sábado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -339,7 +432,7 @@ Eleitoras e eleitores fluminenses que estão com pendências no título eleitora
 &lt;p&gt;do TRE-RJou deixar para buscar esses serviços presencialmente após o dia 6 de maio.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/eleitores-fluminenses-podem-regularizar-titulo-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 Eleitoras e eleitores fluminenses que estão com pendências no título eleitoral têm atéa próxima quarta-feira (6)par...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-05-02 07:26:00</wp:post_date>
       <wp:post_date_gmt>2026-05-02 07:26:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-02 07:26:00</wp:post_modified>
@@ -365,9 +458,9 @@ Eleitoras e eleitores fluminenses que estão com pendências no título eleitora
     <item>
       <title>Lauro Chaman é ouro em etapa a Copa do Mundo de ciclismo de estrada</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/lauro-chaman-e-ouro-em-etapa-copa-do-mundo-de-ciclismo-de-estrada</link>
-      <pubDate>Sat, 02 May 2026 15:39:30 +0000</pubDate>
+      <pubDate>Sat, 02 May 2026 16:38:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/lauro-chaman-e-ouro-em-etapa-copa-do-mundo-de-ciclismo-de-estrada#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/lauro-chaman-e-ouro-em-etapa-copa-do-mundo-de-ciclismo-de-estrada#1009</guid>
       <description>© JB Benavent/CBC/Direitos Reservados
 O último dia da etapa da Copa do Mundo de ciclismo de estada em Gistel (Bélgica) terminou em grande estilo para...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/U3btCYN6km7Mf04KvqlED2vEZVY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/01/lauro_chaman_etapa_copa_do_mundo_ciclismo_belgica_2026.jpg?itok=4mQv4XZh&quot; alt=&quot;Lauro Chaman é ouro em etapa a Copa do Mundo de ciclismo de estrada&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -378,17 +471,17 @@ O último dia da etapa da Copa do Mundo de ciclismo de estada em Gistel (Bélgic
 &lt;p&gt;(bicicletas impulsionadas com as mãos).&lt;/p&gt;
 &lt;p&gt;As brasileiras voltaram a subir ao pódio no dia seguinte. Gilmara chegou em segundo lugar na prova de resistência em percurso de 29,4 km (dividido em três voltas), com o tempo 1h30min34s, atrás apenas da tailandesa Patcharapha Seesen, que levou o ouro. O bronze ficou com a britânica Marina Logacheva (1h31min44s). A compatriota Jéssica também foi vice-campeã no percurso de 49,8 km (dividido em cinco voltas), com o tempo de 1h29min24s. O ouro ficou com a francesa Anaïs Vincent (1h26min32s) e o bronze com a norte-americana Jenna Rollman (1h41min01s).&lt;/p&gt;
 &lt;p&gt;Ao todo, 14 atletas e um piloto competiram na etapa da Copa na Bélgica. A próxima será em Abruzzo (Itália), com início na quinta (7).&lt;/p&gt;
-&lt;p&gt;Temporal deixa quatro mortos e mais de mil desabrigados em Pernambuco&lt;/p&gt;
+&lt;p&gt;Novas regras de fiscalização de planos de saúde já estão em vigor&lt;/p&gt;
 &lt;p&gt;Ouça ao vivo: Flamengo e Vasco se enfrentam pelo Campeonato Brasileiro&lt;/p&gt;
 &lt;p&gt;Mossoró se prepara para maior São João do Rio Grande do Norte&lt;/p&gt;
-&lt;p&gt;Plataforma do BB amplia digitalização na gestão pública&lt;/p&gt;
-&lt;p&gt;Mil convocados no CNU 2025 podem escolher local de trabalho até terça&lt;/p&gt;
-&lt;p&gt;Metrô inicia a venda da pulseira após apresentação de Shakira no Rio&lt;/p&gt;
-&lt;p&gt;Ministério Público denuncia Marcinho VP, a mulher e o filho Oruam&lt;/p&gt;
-&lt;p&gt;Israel interroga ativista brasileiro capturado em flotilha&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/lauro-chaman-e-ouro-em-etapa-copa-do-mundo-de-ciclismo-de-estrada&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Bolsonaro apresenta boa evolução de cirurgia no ombro&lt;/p&gt;
+&lt;p&gt;Marinha alerta para mar com ressaca e ondas de 3 metros na orla do Rio&lt;/p&gt;
+&lt;p&gt;Avenida Atlântica está interditada para show de Shakira no Rio&lt;/p&gt;
+&lt;p&gt;Temporal no RS deixa desalojados e provoca danos em 19 cidades&lt;/p&gt;
+&lt;p&gt;Proposta rejeitada por EUA abriria Ormuz antes de negociação nuclear&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/lauro-chaman-e-ouro-em-etapa-copa-do-mundo-de-ciclismo-de-estrada&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© JB Benavent/CBC/Direitos Reservados
 O último dia da etapa da Copa do Mundo de ciclismo de estada em Gistel (Bélgica) terminou em grande estilo para...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-05-01 20:42:00</wp:post_date>
       <wp:post_date_gmt>2026-05-01 20:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-01 20:42:00</wp:post_modified>
@@ -409,99 +502,6 @@ O último dia da etapa da Copa do Mundo de ciclismo de estada em Gistel (Bélgic
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/U3btCYN6km7Mf04KvqlED2vEZVY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/01/lauro_chaman_etapa_copa_do_mundo_ciclismo_belgica_2026.jpg?itok=4mQv4XZh</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Ato em São Bernardo mobiliza sindicatos e pede fim da escala 6x1</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/ato-em-sao-bernardo-mobiliza-sindicatos-e-pede-fim-da-escala-6x1</link>
-      <pubDate>Sat, 02 May 2026 15:39:30 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/ato-em-sao-bernardo-mobiliza-sindicatos-e-pede-fim-da-escala-6x1#1008</guid>
-      <description>Alguns milhares de trabalhadores e moradores da região do ABC paulista se reuniram, neste 1° de maio, no Paço Municipal de São Bernardo do Campo, ond...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/B9eY_P9MPri_pYOSEJ_f4DbjwrQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/01/_int1053.jpg.jpg?itok=Fbtpicob&quot; alt=&quot;Ato em São Bernardo mobiliza sindicatos e pede fim da escala 6x1&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Alguns milhares de trabalhadores e moradores da região do ABC paulista se reuniram, neste 1° de maio, no Paço Municipal de São Bernardo do Campo, onde acompanharam a festa promovida pelos sindicatos da região, em comemoração ao Dia do Trabalhador.&lt;/p&gt;
-&lt;p&gt;As 26 agremiações, filiadas à Central Única dos Trabalhadores (CUT), se revezaram em discursos e programação musical.&lt;/p&gt;
-&lt;p&gt;As principais pautas pediam o fim da escala de seis dias de trabalho para um de descanso (6x1) e a expansão das políticas de combate ao feminicídio, com falas que discutiam a necessidade da participação popular para superar o machismo.&lt;/p&gt;
-&lt;p&gt;O evento contou com a participação de três ministros do governo federal: Luiz Marinho (Ministério do Trabalho e Emprego), Alexandre Padilha (da Saúde) e Leonardo Sarchini (da Educação).&lt;/p&gt;
-&lt;p&gt;“Toda vez que o presidente Lula governa o país, o 1° de maio costuma ser o dia da celebração mas também é o dia da consciência do trabalhador e da trabalhadora em relação ao que falta fazer. A batalha do ano é fazer o Congresso aprovar, antes das eleições [de outubro], a revisão da jornada 6x1”, discursou Fernando Haddad, ex-ministro da Fazenda.&lt;/p&gt;
-&lt;p&gt;Haddad falou ainda sobre a importância da participação popular para a conquista de outros avanços, como a isenção do Imposto de Renda nas participações de lucros (PLR).&lt;/p&gt;
-&lt;p&gt;Representando o Sindicato dos Metalúrgicos do ABC, o presidente da entidade Moisés Selerges comemorou o bom momento para a categoria.&lt;/p&gt;
-&lt;p&gt;“Tivemos conquistas e hoje as taxas de desemprego são as melhores da história. Essas conquistas serão importantes porque somos os trabalhadores e trabalhadoras que produzem a riqueza do nosso país. Agora queremos, precisamos reduzir a jornada de trabalho. A nossa missão é pressionar, lá em Brasília, pra acabar com a jornada 6x1.”&lt;/p&gt;
-&lt;p&gt;A programação da festa contou com apresentações musicais desde a manhã dessa sexta-feira. Os destaques foram o MC IG e Glória Groove, que se apresentaram no começo da noite.&lt;/p&gt;
-&lt;p&gt;A Guarda Municipal de São Bernardo fez a segurança do evento, a partir de sua base no próprio Paço. Por volta das 16h interferiu em um confronto localizado, à esquerda do palco, removendo um homem a quem atribuíram ter iniciado uma confusão. No processo afastaram com violência o fotógrafo da&lt;/p&gt;
-&lt;p&gt;Temporal deixa quatro mortos e mais de mil desabrigados em Pernambuco&lt;/p&gt;
-&lt;p&gt;Ouça ao vivo: Flamengo e Vasco se enfrentam pelo Campeonato Brasileiro&lt;/p&gt;
-&lt;p&gt;Mossoró se prepara para maior São João do Rio Grande do Norte&lt;/p&gt;
-&lt;p&gt;Plataforma do BB amplia digitalização na gestão pública&lt;/p&gt;
-&lt;p&gt;Mil convocados no CNU 2025 podem escolher local de trabalho até terça&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/ato-em-sao-bernardo-mobiliza-sindicatos-e-pede-fim-da-escala-6x1&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Alguns milhares de trabalhadores e moradores da região do ABC paulista se reuniram, neste 1° de maio, no Paço Municipal de São Bernardo do Campo, ond...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-05-01 19:29:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-01 19:29:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-01 19:29:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-01 19:29:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/B9eY_P9MPri_pYOSEJ_f4DbjwrQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/01/_int1053.jpg.jpg?itok=Fbtpicob</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Inter aplica 3 a 0 no Santos fora de casa pelo Brasileirão Feminino</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/inter-aplica-3-0-no-santos-fora-de-casa-pelo-brasileirao-feminino</link>
-      <pubDate>Sat, 02 May 2026 15:39:30 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/inter-aplica-3-0-no-santos-fora-de-casa-pelo-brasileirao-feminino#1009</guid>
-      <description>O Internacional superou o Santos fora de casa por 3 a 0 nesta sexta-feira (1º) pela nona rodada Série A1 do Campeonato Brasileiro Feminino de futebol...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/R4vC5kPGhHkJj3oiLb5041-i_98=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/01/inter_fem_soles_jaimes_brasileirao_fem_2026.jpg?itok=33QsT8sq&quot; alt=&quot;Inter aplica 3 a 0 no Santos fora de casa pelo Brasileirão Feminino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Internacional superou o Santos fora de casa por 3 a 0 nesta sexta-feira (1º) pela nona rodada Série A1 do Campeonato Brasileiro Feminino de futebol. O placar foi todo construído na primeira etapa. Aos cinco minutos, a atacante argentina Soles Jaimes abriu o marcador de cabeça; aos 29 Marlene ampliou com um chute certeiro de dentro da área; e por fim, Valéria Cantuário balançou a rede nos acréscimos, selando a vitória das visitantes.&lt;/p&gt;
-&lt;p&gt;O triunfo alçou as Gurias Colocadas, provisoriamente, ao quarto lugar (17 pontos) na tabela da primeira fase. Com o mesmo número de pontos, Bahia (5º) pode ultrapassar o Inter caso vença em casa o vice-líder Palmeiras neste sábado (2). A partida com início às 16h (horário de Brasília) terá transmissão ao vivo na&lt;/p&gt;
-&lt;p&gt;Um post compartilhado por Gurias Coloradas (@guriascoloradasoficial)&lt;/p&gt;
-&lt;p&gt;O jogo marcou a estreia do novo técnico Marcelo Frigerio no comando das Sereias da Vila, que completaram seis rodadas sem vencer – o último triunfo ocorreu em 14 de março – 3 a 0 sobre o Mixto. Após a derrota de hoje, a caiu uma posição, ficando em 12º lugar, com 11 pontos. No Brasileirão feminino, apenas as oito equipes mais em colocadas avançam à próxima fase (jogos de ida e volta).&lt;/p&gt;
-&lt;p&gt;Outros dois jogos movimentaram a tarde desta sexta (1º). Em Caxias do Sul (RS), o Juventude ficou no 0 a 0 contra Cruzeiro. Jogando em Sete Lagoas (MG), o Atlético Mineiro saiu na frente contra o Fluminense, com gol da lateral-direita Nine no fim do primeiro tempo. No entanto, o Tricolor arrancou o empate com um belo chute cruzado da atacante Kaline nos acréscimos da etapa final. Final 1 a 1.&lt;/p&gt;
-&lt;p&gt;Temporal deixa quatro mortos e mais de mil desabrigados em Pernambuco&lt;/p&gt;
-&lt;p&gt;Ouça ao vivo: Flamengo e Vasco se enfrentam pelo Campeonato Brasileiro&lt;/p&gt;
-&lt;p&gt;Mossoró se prepara para maior São João do Rio Grande do Norte&lt;/p&gt;
-&lt;p&gt;Plataforma do BB amplia digitalização na gestão pública&lt;/p&gt;
-&lt;p&gt;Mil convocados no CNU 2025 podem escolher local de trabalho até terça&lt;/p&gt;
-&lt;p&gt;Metrô inicia a venda da pulseira após apresentação de Shakira no Rio&lt;/p&gt;
-&lt;p&gt;Ministério Público denuncia Marcinho VP, a mulher e o filho Oruam&lt;/p&gt;
-&lt;p&gt;Israel interroga ativista brasileiro capturado em flotilha&lt;/p&gt;
-&lt;p&gt;Documentários de Brasil e Paraguai pautam democracia no Prêmio Platino&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/inter-aplica-3-0-no-santos-fora-de-casa-pelo-brasileirao-feminino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Internacional superou o Santos fora de casa por 3 a 0 nesta sexta-feira (1º) pela nona rodada Série A1 do Campeonato Brasileiro Feminino de futebol...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-05-01 19:00:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-01 19:00:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-01 19:00:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-01 19:00:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/R4vC5kPGhHkJj3oiLb5041-i_98=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/01/inter_fem_soles_jaimes_brasileirao_fem_2026.jpg?itok=33QsT8sq</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
