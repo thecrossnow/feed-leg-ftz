@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 06/05/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 11:50 UTC</description>
-<lastBuildDate>Wed, 06 May 2026 11:50:00 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Wed, 06 May 2026 14:21:57 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Barra do Ceará tem iluminação 100% em LED após modernização</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/barra-do-ceara-tem-iluminacao-100-em-led-apos-modernizacao</link>
+<guid isPermaLink="false">fortaleza-20260506-b7b4e8da7b40</guid>
+<pubDate>Wed, 06 May 2026 09:01:00 +0000</pubDate>
+<description>Barra do Ceará tem iluminação 100% em LED após modernização - Quarta, 06 Maio 2026 09:01</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/2026/Maio/06%2005%2026%20-%20ilumina%C3%A7%C3%A3o%20barra.jpg" alt="Barra do Ceará tem iluminação 100% em LED após modernização" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>Berço de Fortaleza, a Barra do Ceará iniciou o mês de maio com a iluminação pública totalmente modernizada. Isso porque foi concluído em abril, mês em que a Capital completou 300 anos, a substituição de todas as luminárias do bairro por tecnologia LED.</p>
+<p>A intervenção foi executada pela Fortaleza Luz, concessionária responsável pela gestão do parque de iluminação pública da cidade, sob supervisão da Secretaria Municipal da Conservação e Serviços Públicos (SCSP).</p>
+<p>Segundo o secretário da SCSP, Abreu Machado, a entrega integra o plano de modernização da iluminação pública e impacta diretamente a rotina da população.</p>
+<p>“A Barra do Ceará tem um papel histórico para Fortaleza e passa agora a contar com um novo padrão de iluminação. A modernização melhora a visibilidade nas vias, aumenta a eficiência do sistema e reduz custos, garantindo um serviço mais adequado para a população”, afirma.</p>
+<p>Ao todo, 2.919 luminárias foram substituídas ao longo do mês de abril, contemplando todo o parque luminotécnico do bairro. Com a modernização, o sistema passa a ser até 69% mais econômico, devido à maior eficiência energética e à redução dos custos operacionais.</p>
+<p>De acordo com o coordenador de Iluminação Pública, Nelson Calixto, a nova tecnologia também contribui para a segurança no trânsito e na circulação de pedestres.</p>
+<p>“A modernização no bairro proporciona e incentiva a segurança viária, porque a uniformidade da luz em LED elimina os pontos escuros, conhecidos como efeito zebrado, comuns em tecnologias antigas. Isso melhora a visibilidade tanto para motoristas quanto para pedestres”, destaca.</p>
+<p>A ação faz parte do plano geral da Parceria Público-Privada (PPP) da iluminação pública, que prevê a substituição integral do parque de iluminação de Fortaleza por tecnologia LED em até dois anos, conforme metas estabelecidas em contrato.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/barra-do-ceara-tem-iluminacao-100-em-led-apos-modernizacao" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/2026/Maio/06%2005%2026%20-%20ilumina%C3%A7%C3%A3o%20barra.jpg" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/2026/Maio/06%2005%2026%20-%20ilumina%C3%A7%C3%A3o%20barra.jpg" type="image/jpeg" medium="image">
+<media:title>Barra do Ceará tem iluminação 100% em LED após modernização</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
