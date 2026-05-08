@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Fri, 08 May 2026 09:08:22 +0000</pubDate>
+    <pubDate>Fri, 08 May 2026 11:05:24 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,58 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Fies 2026: pré-selecionados devem validar informações até segunda</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-2026-pre-selecionados-devem-validar-informacoes-ate-segunda</link>
+      <pubDate>Fri, 08 May 2026 11:05:24 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-2026-pre-selecionados-devem-validar-informacoes-ate-segunda#1000</guid>
+      <description>O estudante de ensino superior pré-selecionado no processo de oferta de vagas remanescentes do Fundo de Financiamento Estudantil (Fies), referente ao...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/HMA4LLQzMZhOrCZ4s0QHzidpcDc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/24/0d9a2987.jpg?itok=k2hjIdvO&quot; alt=&quot;Fies 2026: pré-selecionados devem validar informações até segunda&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O estudante de ensino superior pré-selecionado no processo de oferta de vagas remanescentes do Fundo de Financiamento Estudantil (Fies), referente ao primeiro semestre de 2026,&lt;/p&gt;
+&lt;p&gt;deve validar as informações declaradas no momento da inscrição a partir desta sexta-feira (8) até a próxima segunda-feira (11).&lt;/p&gt;
+&lt;p&gt;Para validação, o estudante deve procurar a Comissão Permanente de Supervisão e Acompanhamento da instituição de ensino superior privada onde foi pré-selecionado.&lt;/p&gt;
+&lt;p&gt;A documentação exigida pode ser entregue no formato físico ou digital, conforme definido pela faculdade privada.&lt;/p&gt;
+&lt;p&gt;Os nomes dos pré-selecionados podem ser consultados na&lt;/p&gt;
+&lt;p&gt;página do programa no Portal Único de Acesso ao Ensino Superior&lt;/p&gt;
+&lt;p&gt;, com a senha da plataforma Gov.br.&lt;/p&gt;
+&lt;p&gt;O Ministério da Educação (MEC) divulgou o&lt;/p&gt;
+&lt;p&gt;resultado das vagas remanescentes do Fies 2026&lt;/p&gt;
+&lt;p&gt;O Fies financia a graduação de estudantes matriculados em cursos presenciais não gratuitos em faculdades privadas e com avaliação positiva do Ministério da Educação.&lt;/p&gt;
+&lt;p&gt;O programa é destinado prioritariamente a estudantes que não tenham concluído o e não tenham sido beneficiados por outro financiamento estudantil.&lt;/p&gt;
+&lt;p&gt;Depois da validação das informações, ocorrerá a validação das informações pelo banco (agente financeiro) responsável pelo financiamento, conforme previsto no&lt;/p&gt;
+&lt;p&gt;O prazo para essa última validação é de até dez dias, contados a partir do terceiro dia útil, logo após a data da validação da inscrição pela faculdade privada para a qual o estudante foi selecionado.&lt;/p&gt;
+&lt;p&gt;O pré-selecionado na vaga do Fies Social com renda familiar de até meio salário mínimo por pessoa tem a situação distinta.&lt;/p&gt;
+&lt;p&gt;Nesse caso, o estudante não precisa comprovar a renda familiar junto à Comissão Permanente de Supervisão e Acompanhamento (CPSA) da instituição privada.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/fies-2026-pre-selecionados-devem-validar-informacoes-ate-segunda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O estudante de ensino superior pré-selecionado no processo de oferta de vagas remanescentes do Fundo de Financiamento Estudantil (Fies), referente ao...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-05-08 07:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-08 07:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-08 07:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-08 07:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/HMA4LLQzMZhOrCZ4s0QHzidpcDc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/24/0d9a2987.jpg?itok=k2hjIdvO</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Jogo do Flamengo na Libertadores é cancelado por atos de vandalismo</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/jogo-do-flamengo-na-libertadores-e-cancelado-por-atos-de-vandalismo</link>
-      <pubDate>Fri, 08 May 2026 09:08:22 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 11:05:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/jogo-do-flamengo-na-libertadores-e-cancelado-por-atos-de-vandalismo#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/jogo-do-flamengo-na-libertadores-e-cancelado-por-atos-de-vandalismo#1001</guid>
       <description>© Reuters/Luisa Gonzalez/Dirietos Reservados
 A partida entre Flamengo e Independiente Medellín (Colômbia), pelo Grupo A da Copa Libertadores da Améri...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2oEue7ULnz1mSx7RK_SvwBG-2OQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/07/2026-05-08t004455z_1058170855_up1em58022tf5_rtrmadp_3_soccer-libertadores-ime-fla.jpg?itok=Bky6Mxt8&quot; alt=&quot;Jogo do Flamengo na Libertadores é cancelado por atos de vandalismo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -43,11 +90,11 @@ A partida entre Flamengo e Independiente Medellín (Colômbia), pelo Grupo A da 
 &lt;p&gt;— CONMEBOL Libertadores (@LibertadoresBR)&lt;/p&gt;
 &lt;p&gt;Graças ao triunfo construindo com gols do zagueiro Lucas Oliveira e do zagueiro Reinaldo, a equipe do interior paulista chegou aos nove pontos. Já equipe equatoriana, com o revés, ficou empatada em número de pontos com o Lanús (Argentina), ambos com seis pontos.&lt;/p&gt;
 &lt;p&gt;* Matéria atualizada às 23h33com posição oficial do Flamengo.&lt;/p&gt;
-&lt;p&gt;Caso Master: André Mendonça cobra delação “séria e efetiva” de Vorcaro&lt;/p&gt;
+&lt;p&gt;Viva Maria: Pesquisa revela lado menos romantizado da maternidade&lt;/p&gt;
 &lt;p&gt;Do rock ao soul: o álbum de 1969 que mudou Roberto Carlos para sempre&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/jogo-do-flamengo-na-libertadores-e-cancelado-por-atos-de-vandalismo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Luisa Gonzalez/Dirietos Reservados
 A partida entre Flamengo e Independiente Medellín (Colômbia), pelo Grupo A da Copa Libertadores da Améri...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-05-07 23:05:00</wp:post_date>
       <wp:post_date_gmt>2026-05-07 23:05:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-07 23:05:00</wp:post_modified>
@@ -73,9 +120,9 @@ A partida entre Flamengo e Independiente Medellín (Colômbia), pelo Grupo A da 
     <item>
       <title>Mega-Sena acumula e prêmio principal vai para R$ 45 milhões</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/mega-sena-acumula-e-premio-principal-vai-para-r-45-milhoes</link>
-      <pubDate>Fri, 08 May 2026 09:08:22 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 11:05:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/mega-sena-acumula-e-premio-principal-vai-para-r-45-milhoes#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/mega-sena-acumula-e-premio-principal-vai-para-r-45-milhoes#1002</guid>
       <description>© Marcelo Camargo/Agência Brasil
 Nenhum apostador acertou as seis dezenas do concurso 3.005da Mega-Sena, realizado nesta quinta-feira (7).
 O prêmio a...</description>
@@ -90,15 +137,15 @@ O prêmio a...</description>
 &lt;p&gt;Para o próximo concurso, as apostas podem ser feitas até as 20h (horário de Brasília) de sábado-feira (9), em qualquer lotérica do país ou&lt;/p&gt;
 &lt;p&gt;, no site ou aplicativo da Caixa.&lt;/p&gt;
 &lt;p&gt;A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;Caso Master: André Mendonça cobra delação “séria e efetiva” de Vorcaro&lt;/p&gt;
+&lt;p&gt;Viva Maria: Pesquisa revela lado menos romantizado da maternidade&lt;/p&gt;
 &lt;p&gt;Do rock ao soul: o álbum de 1969 que mudou Roberto Carlos para sempre&lt;/p&gt;
 &lt;p&gt;Operação apura desvio de R$ 15 milhões dentro do BRB&lt;/p&gt;
-&lt;p&gt;Jogo do Flamengo na Libertadores é cancelado por atos de vandalismo&lt;/p&gt;
-&lt;p&gt;Mega-Sena acumula e prêmio principal vai para R$ 45 milhões&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/mega-sena-acumula-e-premio-principal-vai-para-r-45-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;MP denuncia policiais militares por morte de empresário no Rio&lt;/p&gt;
+&lt;p&gt;Fábrica de produção de linha chilena é fechada no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/mega-sena-acumula-e-premio-principal-vai-para-r-45-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 Nenhum apostador acertou as seis dezenas do concurso 3.005da Mega-Sena, realizado nesta quinta-feira (7).
 O prêmio a...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-05-07 21:37:00</wp:post_date>
       <wp:post_date_gmt>2026-05-07 21:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-07 21:37:00</wp:post_modified>
@@ -124,9 +171,9 @@ O prêmio a...</excerpt:encoded>
     <item>
       <title>Fiocruz obtém patente para tratamento contra malária resistente</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/fiocruz-obtem-patente-para-tratamento-contra-malaria-resistente</link>
-      <pubDate>Fri, 08 May 2026 09:08:22 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 11:05:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/fiocruz-obtem-patente-para-tratamento-contra-malaria-resistente#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/fiocruz-obtem-patente-para-tratamento-contra-malaria-resistente#1003</guid>
       <description>A Fundação Oswaldo Cruz (Fiocruz) conseguiu a patente de um método de tratamento que utiliza um composto considerado promissor no tratamento da malár...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0Ezkwb3UI_WhAyuwCYncPRwvyk0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/12/53648100892_c7c30dc128_o.jpg?itok=GIfyctOp&quot; alt=&quot;Fiocruz obtém patente para tratamento contra malária resistente&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Fundação Oswaldo Cruz (Fiocruz) conseguiu a patente de um método de tratamento que utiliza um composto considerado promissor no tratamento da malária, especialmente em casos resistentes aos medicamentos tradicionais.&lt;/p&gt;
@@ -143,9 +190,9 @@ O prêmio a...</excerpt:encoded>
 &lt;p&gt;Concedida em março deste ano, a patente tem validade até 5 de setembro de 2041. Para Antoniana Krettli, a estrutura da Fiocruz também pode acelerar futuras etapas de desenvolvimento do tratamento.&lt;/p&gt;
 &lt;p&gt;“A instituição tem forte atuação na Amazônia, com diagnóstico e acompanhamento de pacientes, além de experiência em testes clínicos. Isso facilita parcerias e o avanço de novos medicamentos”, afirma.&lt;/p&gt;
 &lt;p&gt;Os pesquisadores alertam que, apesar da existência atual de tratamentos eficazes, o parasitada malária continua evoluindo e desenvolvendo resistência. Por isso, defendem que o desenvolvimento de novas alternativas terapêuticas precisa ocorrer desde já, para evitar uma possível escassez de medicamentos eficazes no futuro.&lt;/p&gt;
-&lt;p&gt;Caso Master: André Mendonça cobra delação “séria e efetiva” de Vorcaro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/fiocruz-obtem-patente-para-tratamento-contra-malaria-resistente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Viva Maria: Pesquisa revela lado menos romantizado da maternidade&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/fiocruz-obtem-patente-para-tratamento-contra-malaria-resistente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Fundação Oswaldo Cruz (Fiocruz) conseguiu a patente de um método de tratamento que utiliza um composto considerado promissor no tratamento da malár...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-05-07 20:51:00</wp:post_date>
       <wp:post_date_gmt>2026-05-07 20:51:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-07 20:51:00</wp:post_modified>
@@ -171,9 +218,9 @@ O prêmio a...</excerpt:encoded>
     <item>
       <title>Operação da PF desarticula esquema de tráfico internacional de drogas</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/operacao-da-pf-desarticula-esquema-de-trafico-internacional-de-drogas</link>
-      <pubDate>Fri, 08 May 2026 09:08:22 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 11:05:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/operacao-da-pf-desarticula-esquema-de-trafico-internacional-de-drogas#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/operacao-da-pf-desarticula-esquema-de-trafico-internacional-de-drogas#1004</guid>
       <description>A Polícia Federal realizou nesta quinta-feira (7), a operação
 para desarticular uma organização criminosa especializada no tráfico internacional de d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9v7JxmOogICB9vsOedTR01jUKok=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/25/5567b7d4-978e-4fcc-a678-e2eb7228d598.png?itok=G3j1urfu&quot; alt=&quot;Operação da PF desarticula esquema de tráfico internacional de drogas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -187,14 +234,14 @@ para desarticular uma organização criminosa especializada no tráfico internac
 &lt;p&gt;De acordo com as provas colhidas, o grupo atuava de forma organizada, com divisão de tarefas entre os integrantes. Um dos investigados exerceria papel de liderança, coordenando negociações internacionais, movimentação financeira e logística do envio da droga, enquanto outros atuavam na intermediação comercial, fornecimento de empresas e controle do carregamento dos contêineres.&lt;/p&gt;
 &lt;p&gt;As apurações também revelaram a utilização de recursos financeiros oriundos de atividades ilícitas, com indícios de lavagem de dinheiro por meio de transferências bancárias para dificultar o rastreamento dos valores empregados na operação.&lt;/p&gt;
 &lt;p&gt;Os investigados poderão responder pelos crimes de tráfico internacional de drogas, organização criminosa, lavagem de dinheiro, falsidade ideológica, entre outros delitos que possam ser identificados durante as investigações.&lt;/p&gt;
-&lt;p&gt;Caso Master: André Mendonça cobra delação “séria e efetiva” de Vorcaro&lt;/p&gt;
+&lt;p&gt;Viva Maria: Pesquisa revela lado menos romantizado da maternidade&lt;/p&gt;
 &lt;p&gt;Do rock ao soul: o álbum de 1969 que mudou Roberto Carlos para sempre&lt;/p&gt;
 &lt;p&gt;Operação apura desvio de R$ 15 milhões dentro do BRB&lt;/p&gt;
-&lt;p&gt;Jogo do Flamengo na Libertadores é cancelado por atos de vandalismo&lt;/p&gt;
-&lt;p&gt;Mega-Sena acumula e prêmio principal vai para R$ 45 milhões&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/operacao-da-pf-desarticula-esquema-de-trafico-internacional-de-drogas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;MP denuncia policiais militares por morte de empresário no Rio&lt;/p&gt;
+&lt;p&gt;Fábrica de produção de linha chilena é fechada no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/operacao-da-pf-desarticula-esquema-de-trafico-internacional-de-drogas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Polícia Federal realizou nesta quinta-feira (7), a operação
 para desarticular uma organização criminosa especializada no tráfico internacional de d...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-05-07 20:06:00</wp:post_date>
       <wp:post_date_gmt>2026-05-07 20:06:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-07 20:06:00</wp:post_modified>
@@ -220,9 +267,9 @@ para desarticular uma organização criminosa especializada no tráfico internac
     <item>
       <title>Mendonça diz que não teve acesso à proposta de delação de Vorcaro</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/mendonca-diz-que-nao-teve-acesso-proposta-de-delacao-de-vorcaro</link>
-      <pubDate>Fri, 08 May 2026 09:08:22 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 11:05:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/mendonca-diz-que-nao-teve-acesso-proposta-de-delacao-de-vorcaro#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/mendonca-diz-que-nao-teve-acesso-proposta-de-delacao-de-vorcaro#1005</guid>
       <description>O ministro André Mendonça, do Supremo Tribunal Federal (STF), afirmou nesta quinta-feira (7) que uma colaboração premiada deve ser &quot;séria e efet...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/V12EIX644ihCGO52J51ievJuk_I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/52441529977_f3565b5d7d_o.jpg?itok=rlgK9Uj5&quot; alt=&quot;Mendonça diz que não teve acesso à proposta de delação de Vorcaro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O ministro André Mendonça, do Supremo Tribunal Federal (STF), afirmou nesta quinta-feira (7) que uma colaboração premiada deve ser &quot;séria e efetiva&quot;.&lt;/p&gt;
@@ -236,12 +283,12 @@ para desarticular uma organização criminosa especializada no tráfico internac
 &lt;p&gt;Daniel Vorcaro está preso na superintendência da Polícia Federal em Brasília.&lt;/p&gt;
 &lt;p&gt;e foi alvo da terceira fase da Operação Compliance Zero, da PF, que investiga fraudes financeiras no Master e a tentativa de compra da instituição pelo Banco Regional de Brasília (BRB), banco público ligado ao Governo do Distrito Federal (GDF).&lt;/p&gt;
 &lt;p&gt;André Mendonça atendeu ao pedido de prisão feito pela PF após novos dados da investigação apontarem que Vorcaro deu ordens diretas para os outros acusados para intimidarem jornalistas, ex-empregados e empresários, além de ter acesso prévio ao conteúdo das investigações.&lt;/p&gt;
-&lt;p&gt;Caso Master: André Mendonça cobra delação “séria e efetiva” de Vorcaro&lt;/p&gt;
+&lt;p&gt;Viva Maria: Pesquisa revela lado menos romantizado da maternidade&lt;/p&gt;
 &lt;p&gt;Do rock ao soul: o álbum de 1969 que mudou Roberto Carlos para sempre&lt;/p&gt;
 &lt;p&gt;Operação apura desvio de R$ 15 milhões dentro do BRB&lt;/p&gt;
-&lt;p&gt;Jogo do Flamengo na Libertadores é cancelado por atos de vandalismo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/mendonca-diz-que-nao-teve-acesso-proposta-de-delacao-de-vorcaro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;MP denuncia policiais militares por morte de empresário no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/mendonca-diz-que-nao-teve-acesso-proposta-de-delacao-de-vorcaro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro André Mendonça, do Supremo Tribunal Federal (STF), afirmou nesta quinta-feira (7) que uma colaboração premiada deve ser &quot;séria e efet...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-05-07 19:33:00</wp:post_date>
       <wp:post_date_gmt>2026-05-07 19:33:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-07 19:33:00</wp:post_modified>
@@ -267,9 +314,9 @@ para desarticular uma organização criminosa especializada no tráfico internac
     <item>
       <title>Moraes autoriza hacker Delgatti a cumprir regime aberto de prisão</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/moraes-autoriza-hacker-delgatti-cumprir-regime-aberto-de-prisao</link>
-      <pubDate>Fri, 08 May 2026 09:08:22 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 11:05:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/moraes-autoriza-hacker-delgatti-cumprir-regime-aberto-de-prisao#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/moraes-autoriza-hacker-delgatti-cumprir-regime-aberto-de-prisao#1006</guid>
       <description>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nesta quinta-feira (7) o
 Walter Delgatti a passar para o regime aberto d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/BI_IJrHAgkbrxNdL3LwA0sUPUH4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/17082023-lula3371.jpg?itok=yyO2Z89I&quot; alt=&quot;Moraes autoriza hacker Delgatti a cumprir regime aberto de prisão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -283,14 +330,14 @@ Walter Delgatti a passar para o regime aberto d...</description>
 &lt;p&gt;Além disso, Delgatti deve desconto de 100 dias na pena ao ter sido&lt;/p&gt;
 &lt;p&gt;aprovado no Exame Nacional do Ensino Médio (Enem)&lt;/p&gt;
 &lt;p&gt;para pessoas privadas de liberdade.&lt;/p&gt;
-&lt;p&gt;Caso Master: André Mendonça cobra delação “séria e efetiva” de Vorcaro&lt;/p&gt;
+&lt;p&gt;Viva Maria: Pesquisa revela lado menos romantizado da maternidade&lt;/p&gt;
 &lt;p&gt;Do rock ao soul: o álbum de 1969 que mudou Roberto Carlos para sempre&lt;/p&gt;
 &lt;p&gt;Operação apura desvio de R$ 15 milhões dentro do BRB&lt;/p&gt;
-&lt;p&gt;Jogo do Flamengo na Libertadores é cancelado por atos de vandalismo&lt;/p&gt;
-&lt;p&gt;Mega-Sena acumula e prêmio principal vai para R$ 45 milhões&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/moraes-autoriza-hacker-delgatti-cumprir-regime-aberto-de-prisao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;MP denuncia policiais militares por morte de empresário no Rio&lt;/p&gt;
+&lt;p&gt;Fábrica de produção de linha chilena é fechada no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/moraes-autoriza-hacker-delgatti-cumprir-regime-aberto-de-prisao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nesta quinta-feira (7) o
 Walter Delgatti a passar para o regime aberto d...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-05-07 19:29:00</wp:post_date>
       <wp:post_date_gmt>2026-05-07 19:29:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-07 19:29:00</wp:post_modified>
@@ -316,9 +363,9 @@ Walter Delgatti a passar para o regime aberto d...</excerpt:encoded>
     <item>
       <title>Crédito para MEIs do turismo atenderá inscritos no CadÚnico</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/credito-para-meis-do-turismo-atendera-inscritos-no-cadunico</link>
-      <pubDate>Fri, 08 May 2026 09:08:22 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 11:05:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/credito-para-meis-do-turismo-atendera-inscritos-no-cadunico#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/credito-para-meis-do-turismo-atendera-inscritos-no-cadunico#1007</guid>
       <description>© Fernando Frazão/Agência Brasil
 Microempreendedores individuais (MEIs) de baixa renda que atuam no setor do turismo terão acesso a uma nova linha de...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YRsniMXSI_gZk2US2Q54eFrog-k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/15/_d6a8073.jpg?itok=oF8H7rEu&quot; alt=&quot;Crédito para MEIs do turismo atenderá inscritos no CadÚnico&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -339,7 +386,7 @@ Microempreendedores individuais (MEIs) de baixa renda que atuam no setor do turi
 &lt;p&gt;Os interessados deverão manifestar interesse por meio de um canal virtual do Banco do Nordeste (BNB). Depois disso, haverá entrevista com agente de crédito para análise do negócio, incluindo atividade exercida, tempo de funcionamento, renda média e finalidade do financiamento.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/credito-para-meis-do-turismo-atendera-inscritos-no-cadunico&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Microempreendedores individuais (MEIs) de baixa renda que atuam no setor do turismo terão acesso a uma nova linha de...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-05-07 19:26:00</wp:post_date>
       <wp:post_date_gmt>2026-05-07 19:26:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-07 19:26:00</wp:post_modified>
@@ -365,9 +412,9 @@ Microempreendedores individuais (MEIs) de baixa renda que atuam no setor do turi
     <item>
       <title>Trump diz que encontro com Lula foi &quot;muito bom&quot;</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/trump-diz-que-encontro-com-lula-foi-muito-bom</link>
-      <pubDate>Fri, 08 May 2026 09:08:22 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 11:05:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/trump-diz-que-encontro-com-lula-foi-muito-bom#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/trump-diz-que-encontro-com-lula-foi-muito-bom#1008</guid>
       <description>O presidente dos Estados Unidos, Donald Trump, disse nas redes sociais nesta quinta-feira que seu encontro com o presidente Luiz Inácio Lula da Silva...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/fJb-It8sETmEkADJSs_h1juyERs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/07/55255559494_1b6b0b4961_o.jpg?itok=J_qltYIt&quot; alt=&quot;Trump diz que encontro com Lula foi &quot;muito bom&quot;&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O presidente dos Estados Unidos, Donald Trump, disse nas redes sociais nesta quinta-feira que seu encontro com o presidente Luiz Inácio Lula da Silva na Casa Branca foi &quot;muito bom&quot; e que os dois discutiram comércio e tarifas.&lt;/p&gt;
@@ -379,14 +426,11 @@ Microempreendedores individuais (MEIs) de baixa renda que atuam no setor do turi
 &lt;p&gt;Os produtos brasileiros ainda estão sujeitos a uma tarifa adicional de 10%, que expira em julho.&lt;/p&gt;
 &lt;p&gt;No entanto, nas últimas semanas, o Brasil tem observado indícios de que suas exportações podem ser atingidas por novas tarifas relacionadas a uma investigação da Seção 301 sobre práticas comerciais desleais.&lt;/p&gt;
 &lt;p&gt;* É proibida a reprodução deste conteúdo&lt;/p&gt;
-&lt;p&gt;Caso Master: André Mendonça cobra delação “séria e efetiva” de Vorcaro&lt;/p&gt;
+&lt;p&gt;Viva Maria: Pesquisa revela lado menos romantizado da maternidade&lt;/p&gt;
 &lt;p&gt;Do rock ao soul: o álbum de 1969 que mudou Roberto Carlos para sempre&lt;/p&gt;
-&lt;p&gt;Operação apura desvio de R$ 15 milhões dentro do BRB&lt;/p&gt;
-&lt;p&gt;Jogo do Flamengo na Libertadores é cancelado por atos de vandalismo&lt;/p&gt;
-&lt;p&gt;Mega-Sena acumula e prêmio principal vai para R$ 45 milhões&lt;/p&gt;
-&lt;p&gt;Fiocruz obtém patente para tratamento contra malária resistente&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/trump-diz-que-encontro-com-lula-foi-muito-bom&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Operação apura desvio de R$ 15 milhões dentro do BRB&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/trump-diz-que-encontro-com-lula-foi-muito-bom&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O presidente dos Estados Unidos, Donald Trump, disse nas redes sociais nesta quinta-feira que seu encontro com o presidente Luiz Inácio Lula da Silva...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-05-07 18:58:00</wp:post_date>
       <wp:post_date_gmt>2026-05-07 18:58:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-07 18:58:00</wp:post_modified>
@@ -412,9 +456,9 @@ Microempreendedores individuais (MEIs) de baixa renda que atuam no setor do turi
     <item>
       <title>Lula e Trump orientam ministros a resolverem tarifas em 30 dias</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/lula-e-trump-orientam-ministros-resolverem-tarifas-em-30-dias</link>
-      <pubDate>Fri, 08 May 2026 09:08:22 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 11:05:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/lula-e-trump-orientam-ministros-resolverem-tarifas-em-30-dias#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/lula-e-trump-orientam-ministros-resolverem-tarifas-em-30-dias#1009</guid>
       <description>O presidente Luiz Inácio Lula da Silva afirmou nesta quinta-feira (7), após reunião com o presidente dos Estados Unidos, Donald Trump, na Casa Branca...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Jqsjc0ilZvlvDgQ76gJdLlm2wjM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/07/55255888144_8023c1d5b2_o.jpg?itok=bVOp5mx5&quot; alt=&quot;Lula e Trump orientam ministros a resolverem tarifas em 30 dias&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O presidente Luiz Inácio Lula da Silva afirmou nesta quinta-feira (7), após reunião com o presidente dos Estados Unidos, Donald Trump, na Casa Branca, em Washington, que equipes dos dois governos deverão fechar uma proposta para resolver o impasse sobre tarifas de exportação e uma&lt;/p&gt;
@@ -433,7 +477,7 @@ Microempreendedores individuais (MEIs) de baixa renda que atuam no setor do turi
 &lt;p&gt;&quot;A reunião foi muito produtiva. Nossos representantes têm reuniões agendadas para discutir alguns pontos-chave. Outras reuniões serão agendadas nos próximos meses, conforme necessário&quot;, escreveu o norte-americano.&lt;/p&gt;
 &lt;p&gt;Lula chegou à Casa Branca pouco depois do meio-dia (horário de Brasília). O encontro foi previamente negociado pelas equipes dos dois países, com a expectativa de tratar diversos temas, como comércio, combate ao crime organizado, além de questões geopolíticas e de minerais críticos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/lula-e-trump-orientam-ministros-resolverem-tarifas-em-30-dias&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O presidente Luiz Inácio Lula da Silva afirmou nesta quinta-feira (7), após reunião com o presidente dos Estados Unidos, Donald Trump, na Casa Branca...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-05-07 18:53:00</wp:post_date>
       <wp:post_date_gmt>2026-05-07 18:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-07 18:53:00</wp:post_modified>
@@ -454,55 +498,6 @@ Microempreendedores individuais (MEIs) de baixa renda que atuam no setor do turi
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/Jqsjc0ilZvlvDgQ76gJdLlm2wjM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/07/55255888144_8023c1d5b2_o.jpg?itok=bVOp5mx5</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Natação: Brasil abre World Series com recorde mundial e 10 medalhas</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/natacao-brasil-abre-world-series-com-recorde-mundial-e-10-medalhas</link>
-      <pubDate>Fri, 08 May 2026 09:08:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/natacao-brasil-abre-world-series-com-recorde-mundial-e-10-medalhas#1009</guid>
-      <description>© Marcello Zambrana/CPB/Direitos Reservados
-A seleção brasileira de natação paralímpica abriu em grande estilo a World Séries em Berlim (Alemanha), c...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/rEXdC5j3Cynnb9zmt7MX9Ab72sA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/07/beatriz-flausino_word_series_natacao_para_2026.jpg?itok=Cii5flGE&quot; alt=&quot;Natação: Brasil abre World Series com recorde mundial e 10 medalhas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Zambrana/CPB/Direitos Reservados&lt;/p&gt;
-&lt;p&gt;A seleção brasileira de natação paralímpica abriu em grande estilo a World Séries em Berlim (Alemanha), com 10 medalhas – nove nas disputas adultas e uma entre jovens – e recorde mundial de Beatriz Flausino na prova dos 100 metros peito da classe SB14 (deficiência intelectual). Campeã mundial ano passado em Singapura, a paulista de Osasco estabeleceu nova marca mundial (1min11s52) durante as eliminatórias, superando a anterior, da espanhola Michelle Morales (1min12s02), registrada nos Jogos de Tóquio 2021.&lt;/p&gt;
-&lt;p&gt;“Estou muito feliz. Agradeço aos meus apoiadores, ao meu técnico e à minha família. Queria fazer esta marca desde o Mundial no ano passado, mas não estava totalmente preparada para isso. Depois da competição, comecei o ano focada neste recorde”, disse a atleta de 22 anos.&lt;/p&gt;
-&lt;p&gt;Na final dos 100m peito, Flausino ficou com a prata, ao concluir a prova em 1min12s49. A conterrânea Alessandra Oliveira, da classe SB4 (comprometimento físico-motor) foi bronze, com 1min43s41, o garantiu a ela o ouro na disputa Junior da mesma prova. O ouro ficou com a britânica Aaliyah Richards (1min12s14), da classe S14.&lt;/p&gt;
-&lt;p&gt;O Brasil também garantiu dobradinha nos 100m livre com o ouro do mineiro Gabriel Araújo, da classe S2 (comprometimento físico-motor), com o tempo de 1min56s01, e prata do conterrâneo Arthur Xavier, da classe S14. O britânico William Ellard,também da classe S14, completou o pódio com o bronze.&lt;/p&gt;
-&lt;p&gt;Gabrielzinho emplacou outra dobradinha nos 50m borboleta, desta vez com Samuel Oliveira, o Samuka, que faturou o ouro ao encerrar a prova em 33s13. Gabrielzinho (53s09) levou a prata e sul-africano Christian Sadie, da classe 7 (comprometimento físico-motor) levou o bronze, como tempo de 30s57. Samuka assegurou o segundo ouro do dia nos 50m costas, com o tempo de 34s66. Em segundo lugar ficou o alemão Josia Tim Alexander (47s22) , da classe S3 (comprometimento físico-motor), e em terceiro o bósnio Ismail Zulfic (36s98).&lt;/p&gt;
-&lt;p&gt;Pra fechar esta quinta-feira, um dia recheado de conquistas brasileiras mundo afora, vamos com os resultados do World Series de natação. ✨🏊🏻♀️&lt;/p&gt;
-&lt;p&gt;Em Berlim, foram 10 medalhas para a nossa Seleção, com direito a recorde mundial de…&lt;/p&gt;
-&lt;p&gt;— Comitê Paralímpico Brasileiro (@BraParalimpico)&lt;/p&gt;
-&lt;p&gt;Na disputa feminina dos 50m costas, a carioca Lídia Cruz faturou a prata na classe S4 (comprometimento físico-motor), com o tempo de 51s83. O topo do pódio ficou com a turca Sevilay Ozturk (44s34) e o bronze com a ucraniana Maryna Verbova (53s34).&lt;/p&gt;
-&lt;p&gt;“Esta é uma das provas mais importantes para mim e caiu logo no primeiro dia. Foi uma forma de quebrar o gelo cheia de emoções. Minha intenção era nadar próximo do meu melhor e isso foi feito. Está comprovado por esta medalha”, festejou Lídia.&lt;/p&gt;
-&lt;p&gt;A catarinense Mayara Petzold fechou o primeiro dia de competições com prata nos 50m borboleta, com o tempo de 35s90. A vencedora da prova foi a irlandesa Dearbhaile Brady (35s82) e a norte-americana Mallory Weggemann, da classe S6 (comprometimento físico-motor) arrematou o bronze com o tempo de 35s22.&lt;/p&gt;
-&lt;p&gt;A World Series Berlim vai até sábado (9). O Brasil conta com 17 representantes na competição, que são disputadas no formato multiclasses, em que atletas de diferentes classes competem na mesma série.&lt;/p&gt;
-&lt;p&gt;Caso Master: André Mendonça cobra delação “séria e efetiva” de Vorcaro&lt;/p&gt;
-&lt;p&gt;Do rock ao soul: o álbum de 1969 que mudou Roberto Carlos para sempre&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/natacao-brasil-abre-world-series-com-recorde-mundial-e-10-medalhas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Zambrana/CPB/Direitos Reservados
-A seleção brasileira de natação paralímpica abriu em grande estilo a World Séries em Berlim (Alemanha), c...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-05-07 18:37:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-07 18:37:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-07 18:37:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-07 18:37:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/rEXdC5j3Cynnb9zmt7MX9Ab72sA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/07/beatriz-flausino_word_series_natacao_para_2026.jpg?itok=Cii5flGE</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
