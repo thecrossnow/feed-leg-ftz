@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 11 May 2026 21:59:28 +0000</pubDate>
+    <pubDate>Mon, 11 May 2026 22:58:26 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,299 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Nunes Marques vai relatar ação de Bolsonaro para anular pena</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/nunes-marques-vai-relatar-acao-de-bolsonaro-para-anular-pena</link>
+      <pubDate>Mon, 11 May 2026 22:58:26 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/nunes-marques-vai-relatar-acao-de-bolsonaro-para-anular-pena#1000</guid>
+      <description>O ministro Nunes Marques, do Supremo Tribunal Federal (STF), foi escolhido nesta segunda-feira (11) para relatar o pedido de revisão criminal no qual...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_9P-Xk4KgWS9pIzT-ejNNHg1qaM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/30/kassio_nunes_marques.jpg?itok=OrbSBU7b&quot; alt=&quot;Nunes Marques vai relatar ação de Bolsonaro para anular pena&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O ministro Nunes Marques, do Supremo Tribunal Federal (STF), foi escolhido nesta segunda-feira (11) para relatar o pedido de revisão criminal no qual o ex-presidente Jair Bolsonaro pretende anular a condenação a 27 anos e três meses de prisão no processo da trama golpista.&lt;/p&gt;
+&lt;p&gt;O sorteio foi feito de forma eletrônica.&lt;/p&gt;
+&lt;p&gt;Conforme determina o regimento interno do Supremo, a revisão criminal foi enviada para a Segunda Turma da Corte.&lt;/p&gt;
+&lt;p&gt;Além de Nunes Marques, o colegiado é composto por André Mendonça, Gilmar Mendes, Dias Toffoli e Luiz Fux.&lt;/p&gt;
+&lt;p&gt;No ano passado, Bolsonaro foi condenado pela Primeira Turma, formada pelos ministros Alexandre de Moraes, Flávio Dino, Cristiano Zanin e Cármen Lúcia.&lt;/p&gt;
+&lt;p&gt;A data do julgamento ainda não foi definida.&lt;/p&gt;
+&lt;p&gt;a condenação do ex-presidente deve ser revista porque houve “erro judiciário&lt;/p&gt;
+&lt;p&gt;No recurso, a defesa contestou a tramitação do processo que condenou Bolsonaro. Para os advogados, por estar na condição de ex-presidente, Bolsonaro deveria ter sido julgado pelo plenário da Corte, e não pela Primeira Turma.&lt;/p&gt;
+&lt;p&gt;Os advogados também afirmaram que a delação do ex-ajudante de ordens de BolsonaroMauro Cid,não foi voluntária e deve ser anulada. A falta de acesso integral às provas da investigação também é suscitada.&lt;/p&gt;
+&lt;p&gt;Massa de ar frio baixa temperatura principalmente no centro do país&lt;/p&gt;
+&lt;p&gt;Natureza Viva homenageia as árvores: &quot;mães da floresta&quot;&lt;/p&gt;
+&lt;p&gt;Ministro Dario Durigan revela bastidores do encontro de Lula com Trump&lt;/p&gt;
+&lt;p&gt;Homem morre vítima da explosão no Jaguaré, zona oeste de SP&lt;/p&gt;
+&lt;p&gt;Anvisa apreende canetas emagrecedoras sem identificação de fabricante&lt;/p&gt;
+&lt;p&gt;Nunes Marques vai relatar ação de Bolsonaro para anular pena&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/nunes-marques-vai-relatar-acao-de-bolsonaro-para-anular-pena&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O ministro Nunes Marques, do Supremo Tribunal Federal (STF), foi escolhido nesta segunda-feira (11) para relatar o pedido de revisão criminal no qual...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-05-11 19:10:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-11 19:10:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-11 19:10:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-11 19:10:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/_9P-Xk4KgWS9pIzT-ejNNHg1qaM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/30/kassio_nunes_marques.jpg?itok=OrbSBU7b</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Homem morre vítima da explosão no Jaguaré, zona oeste de SP</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/homem-morre-vitima-da-explosao-no-jaguare-zona-oeste-de-sp</link>
+      <pubDate>Mon, 11 May 2026 22:58:26 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/homem-morre-vitima-da-explosao-no-jaguare-zona-oeste-de-sp#1001</guid>
+      <description>O Corpo de Bombeiros Militar de São Paulo confirmou, no início da noite, a morte de uma pessoa após uma explosão que danificou diversas casas na regi...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dfxyEhrcnK7TWPvDETZA9--cwI0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/jaguare.jpg?itok=S2-C-rz-&quot; alt=&quot;Homem morre vítima da explosão no Jaguaré, zona oeste de SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Corpo de Bombeiros Militar de São Paulo confirmou, no início da noite, a morte de uma pessoa após uma explosão que danificou diversas casas na região do Jaguaré, na zona oeste da capital paulista, nesta segunda-feira (11).&lt;/p&gt;
+&lt;p&gt;A vítima, segundo a capitã Karoline Burunsizian, porta-voz do Corpo de Bombeiros, era um homem de 45 anos. Os Bombeiros ainda trabalham com a hipótese de uma outra pessoa estar desaparecida, entre os escombros.&lt;/p&gt;
+&lt;p&gt;“Infelizmente, ele foi encontrado sem vida. O médico atestou o óbito ali no local e ele já foi retirado dos escombros. Agora as buscas permanecem para uma possível segunda vítima que não está confirmada ainda.”&lt;/p&gt;
+&lt;p&gt;“Há poucos minutos a gente recebeu a informação de que possivelmente há um outro homem [entre os escombros]. Não sabemos a idade, mas ele estaria também em uma das casas [atingidas pela explosão]”, completou.&lt;/p&gt;
+&lt;p&gt;De acordo com Karoline Burunsizian, os bombeiros continuarão no local “até a gente ter certeza que a vítima está lá [nos escombros] e a gente encontre ela ou que a gente tenha certeza absoluta de que essa vítima não está debaixo dos escombros”.&lt;/p&gt;
+&lt;p&gt;Isso, segundo ela, pode durar toda a madrugada, com reforço de cães farejadores:&lt;/p&gt;
+&lt;p&gt;“As equipes só sairão dali quando a gente tiver certeza de que não há mais vítimas. Vale lembrar que a equipe do canil acabou de chegar. A gente vai deixar os cães passarem pelo local quente da ocorrência e eles vão perceber se tiver algum indício ou algum odor de pessoa viva ou não.”&lt;/p&gt;
+&lt;p&gt;A explosão ocorreu por volta das 16h10 na rua Doutor Benedito de Moraes Leme e pode ter acontecido por problemas em uma tubulação de gás liquefeito de petróleo (GLP). Pelo menos dez residências foram atingidas diretamente pela explosão.&lt;/p&gt;
+&lt;p&gt;Três pessoas ficaram feridas, mas saíram do local conscientes. Um dos feridos seria um funcionário da Companhia de Saneamento Básico do Estado de São Paulo (Sabesp) que, possivelmente, participava de uma obra da empresa no local.&lt;/p&gt;
+&lt;p&gt;Procurada pela Agência Brasil, a Sabesp confirmou que estava realizando uma obra de remanejamento de tubulação de água no local, que era realizada em alinhamento operacional e acompanhamento com a concessionária de gás.&lt;/p&gt;
+&lt;p&gt;&quot;Durante a execução dos trabalhos, houve o atingimento de uma rede de gás, com imediata paralisação da atividade e acionamento da concessionária responsável para adoção dos procedimentos técnicos necessários. Durante a mobilização da equipe técnica para realização do reparo, ocorreu a explosão. As causas da ocorrência estão sendo apuradas pelas empresas e pelas autoridades competentes&quot;, diz a Sabesp.&lt;/p&gt;
+&lt;p&gt;Segundo a companhia, neste momento, a prioridade da Sabesp é &quot;prestar todo o apoio necessário às vítimas, moradores, comerciantes e demais pessoas impactadas na área afetada, permanecendo à disposição para colaborar integralmente com as apurações&quot;.&lt;/p&gt;
+&lt;p&gt;Segundo informações preliminares, havia um forte odor de gás na região. A explosão causou danos estruturais em imóveis e estourou os vidros das janelas de condomínios próximos.&lt;/p&gt;
+&lt;p&gt;Por meio de nota, a Companhia de Gás de São Paulo (Comgás) informou que recebeu um chamado por volta das 15h15 de hoje sobre um vazamento de gás provocado por “uma obra feita por terceiros” na altura da Rua Pirauba, 31, no Jaguaré.&lt;/p&gt;
+&lt;p&gt;“A equipe chegou ao local às 15h37 e eliminou o vazamento. A concessionária esclarece que não realizava manutenção no local”, diz a companhia.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/homem-morre-vitima-da-explosao-no-jaguare-zona-oeste-de-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Corpo de Bombeiros Militar de São Paulo confirmou, no início da noite, a morte de uma pessoa após uma explosão que danificou diversas casas na regi...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-05-11 19:09:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-11 19:09:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-11 19:09:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-11 19:09:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/dfxyEhrcnK7TWPvDETZA9--cwI0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/jaguare.jpg?itok=S2-C-rz-</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Bolsa cai 1,19%, e dólar fecha estável com tensão no Oriente Médio</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/bolsa-cai-119-e-dolar-fecha-estavel-com-tensao-no-oriente-medio</link>
+      <pubDate>Mon, 11 May 2026 22:58:26 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/bolsa-cai-119-e-dolar-fecha-estavel-com-tensao-no-oriente-medio#1002</guid>
+      <description>© REUTERS/Amanda Perobelli/Direitos Reservados
+O dólar fechou praticamente estável, e a bolsa brasileira encerrou em queda nesta segunda-feira (11), ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cauHduw3id-MLAHy8ymvhaNMdVU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2021-10-19t202053z_1211697182_rc25dq9bcpf7_rtrmadp_3_brazil-economy.jpg?itok=nMj2Rg2d&quot; alt=&quot;Bolsa cai 1,19%, e dólar fecha estável com tensão no Oriente Médio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS/Amanda Perobelli/Direitos Reservados&lt;/p&gt;
+&lt;p&gt;O dólar fechou praticamente estável, e a bolsa brasileira encerrou em queda nesta segunda-feira (11), em um pregão marcado pela cautela dos investidores diante do agravamento das tensões entre Estados Unidos e Irã. A moeda estadunidense resistiu e manteve-se abaixo de R$ 4,90, mas o Ibovespa foi pressionado pelo avanço do petróleo e pelo aumento das preocupações com inflação e juros.&lt;/p&gt;
+&lt;p&gt;O índice Ibovespa, da B3, caiu 1,19%, aos 181.908 pontos, registrando o menor fechamento desde 27 de março.&lt;/p&gt;
+&lt;p&gt;O índice foi pressionado principalmente por ações sensíveis aos juros, diante do temor de que a alta do petróleo possa dificultar cortes na taxa Selic.&lt;/p&gt;
+&lt;p&gt;O mercado também acompanhou a temporada de balanços corporativos, mas nem resultados considerados robustos impediram perdas em papéis de grandes empresas. Investidores seguem atentos à saída de recursos estrangeiros da bolsa brasileira nos primeiros pregões de maio.&lt;/p&gt;
+&lt;p&gt;Apiora nas perspectivas inflacionárias reduziu o otimismo com o mercado acionário local. A continuidade da guerra no Oriente Médio e a possibilidade de manutenção de juros elevados nos Estados Unidos também contribuíram para o movimento de aversão ao risco.&lt;/p&gt;
+&lt;p&gt;O dólar à vista encerrou o dia cotado a R$ 4,891, com leve baixa de 0,10%, no menor valor desde 15 janeiro de 2024.&lt;/p&gt;
+&lt;p&gt;Apesar da estabilidade no mercado doméstico, a moeda estadunidense sustentou ganhos frente a outras divisas emergentes no exterior após os Estados Unidos rejeitarem a proposta iraniana para encerrar a guerra no Oriente Médio.&lt;/p&gt;
+&lt;p&gt;Durante a sessão, o câmbio oscilou em faixa estreita. A moeda chegou à máxima de R$ 4,9059 pela manhã e à mínima de R$ 4,8858 antes de voltar para perto da estabilidade. O dólar futuro para junho fechou praticamente estável na B3.&lt;/p&gt;
+&lt;p&gt;A reação moderada do mercado brasileiro foi atribuída ao diferencial de juros entre Brasil e Estados Unidos, que continua favorecendo a entrada de capital estrangeiro.&lt;/p&gt;
+&lt;p&gt;O Boletim Focus , pesquisa semanal do Banco Central com instituições financeiras, mostrou redução da projeção para o dólar no fim do ano, de R$ 5,25 para R$ 5,20.&lt;/p&gt;
+&lt;p&gt;Analistas também destacaram a baixa liquidez do pregão e a ausência de apostas mais fortes em meio à incerteza geopolítica.&lt;/p&gt;
+&lt;p&gt;No exterior, o índice DXY, que mede o desempenho do dólar frente a uma cesta de moedas fortes, operou próximo da estabilidade.&lt;/p&gt;
+&lt;p&gt;Com o impasse diplomático, o petróleo voltou a subir no mercado internacional. O barril do Brent, referência para a Petrobras, avançou 2,88% e fechou cotado a US$ 104,21. O WTI, do Texas, subiu 2,78%, para US$ 98,07.&lt;/p&gt;
+&lt;p&gt;A valorização do petróleo reforçou a percepção de pressão inflacionária global e ampliou as dúvidas sobre o ritmo de cortes de juros em diversos países, incluindo o Brasil.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/bolsa-cai-119-e-dolar-fecha-estavel-com-tensao-no-oriente-medio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS/Amanda Perobelli/Direitos Reservados
+O dólar fechou praticamente estável, e a bolsa brasileira encerrou em queda nesta segunda-feira (11), ...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-05-11 18:56:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-11 18:56:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-11 18:56:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-11 18:56:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/cauHduw3id-MLAHy8ymvhaNMdVU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2021-10-19t202053z_1211697182_rc25dq9bcpf7_rtrmadp_3_brazil-economy.jpg?itok=nMj2Rg2d</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Estudo revela evolução do garimpo ilegal e novas táticas de exploração</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/estudo-revela-evolucao-do-garimpo-ilegal-e-novas-taticas-de-exploracao</link>
+      <pubDate>Mon, 11 May 2026 22:58:26 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/estudo-revela-evolucao-do-garimpo-ilegal-e-novas-taticas-de-exploracao#1003</guid>
+      <description>Nas terras indígenas Munduruku, no Pará, osgarimpeiros estão substituindo grandes maquinários por equipamentos menores e menos potentes.
+Amudança oco...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VZPs8P-3jgT3BQ4cNsKchaHQ2Bc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/f169d939-18cb-4d6b-9825-c86427ad96e2.jpeg?itok=qIrhYXO3&quot; alt=&quot;Estudo revela evolução do garimpo ilegal e novas táticas de exploração&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Nas terras indígenas Munduruku, no Pará, osgarimpeiros estão substituindo grandes maquinários por equipamentos menores e menos potentes.&lt;/p&gt;
+&lt;p&gt;Amudança ocorre após a intensificação de ações de retirada de invasores em Terras Indígenas (TIs), durante o governo do presidente Luiz Inácio Lula da Silva.&lt;/p&gt;
+&lt;p&gt;A desaceleração das atividades e o retrocesso técnico podem parecer uma decadência do setor, mas na verdade indicam uma estratégia para driblar a fiscalização e recuperar o elevado faturamento&lt;/p&gt;
+&lt;p&gt;A conclusão faz parte do relatório&lt;/p&gt;
+&lt;p&gt;O Circuito Espacial do Garimpo Ilegal no Pós-Desintrusão&lt;/p&gt;
+&lt;p&gt;, lançado hoje (11) pela Universidade do Estado do Pará (UEPA), em parceria com o Instituto Mãe Crioula.&lt;/p&gt;
+&lt;p&gt;.Junto com os Yanomami e os Kayapó, os Munduruku são o grupo indígena mais atingido pelo garimpo no Brasil.&lt;/p&gt;
+&lt;p&gt;O estudo aponta, ainda, que o mesmo sistema financeiro que mantém relações com facções criminosas, reveladas por operações como a&lt;/p&gt;
+&lt;p&gt;, também sustenta as estruturas de extração de minério. Esse suporte financeiro também eliminou a distinção entre o garimpo artesanal e a mineração industrial de larga escala. Operações recentes da Polícia Federal expuseram esses esquemas que envolvem fundos de investimento, lavagem de dinheiro e organizações criminosas.&lt;/p&gt;
+&lt;p&gt;O estudo também investigou a origem da mão de obra que trabalha nos garimpos ilegais no Pará, formadaem sua maioria por maranhenses. Esse cenário consolida uma transformação de migração intrarregional, iniciada em 1990. Os trabalhadores realizam deslocamentos dentro da mesma região, alternando entre a lavoura e o garimpo.&lt;/p&gt;
+&lt;p&gt;A equipe analisou as dinâmicas socioespaciais de alguns municípios, como Jacareacanga e Itaituba, onde vivem os Munduruku. A etnia denuncia, há alguns anos, as&lt;/p&gt;
+&lt;p&gt;causadas pela exploração da terra por populações não indígenas.&lt;/p&gt;
+&lt;p&gt;Os pesquisadores ressaltam que as redes econômicas que mantêm os pontos de garimpo têm extrapolado os postos de combustíveis, as aeronaves e as embarcações. Pequenos comércios e prestadores de serviço locais garantem a existência dos garimpos e dependem deles, simultaneamente. O pesquisador Fabiano Bringe, um dos autores do estudo, define essa relação como &quot;minero-dependência&quot;.&lt;/p&gt;
+&lt;p&gt;Muitos indígenas aderem ao garimpo por falta de alternativas de renda e sustento. Essa dinâmica deu origem ao bairro dos Alagados, em Jacareacanga. O município fica à margem do rio Tapajós e possui uma presença tão forte dos Munduruku que o nome da etnia é o sobrenome mais comum da cidade. Os indígenas representam 59,1% dos habitantes locais, segundo o Censo de 2022 do Instituto Brasileiro de Geografia e Estatística (IBGE).&lt;/p&gt;
+&lt;p&gt;&quot;Há a desterritorialização deles, quevão para periferias próximas, conformando bairros precarizados como os que a gente costuma ver nas grandes e médias cidades, com condições de saneamento péssimas&quot;, destaca Bringe.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/estudo-revela-evolucao-do-garimpo-ilegal-e-novas-taticas-de-exploracao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Nas terras indígenas Munduruku, no Pará, osgarimpeiros estão substituindo grandes maquinários por equipamentos menores e menos potentes.
+Amudança oco...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-05-11 18:51:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-11 18:51:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-11 18:51:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-11 18:51:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/VZPs8P-3jgT3BQ4cNsKchaHQ2Bc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/f169d939-18cb-4d6b-9825-c86427ad96e2.jpeg?itok=qIrhYXO3</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>EBC apresenta estação de testes da TV 3.0 a embaixadores estrangeiros</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/ebc-apresenta-estacao-de-testes-da-tv-30-embaixadores-estrangeiros</link>
+      <pubDate>Mon, 11 May 2026 22:58:26 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/ebc-apresenta-estacao-de-testes-da-tv-30-embaixadores-estrangeiros#1004</guid>
+      <description>Empresa Brasil de Comunicação (EBC)
+recebeu nesta segunda-feira (11) em sua estação de testes da TV 3.0 embaixadores estrangeiros de países da África...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0kdnusuJbAI70If3HsVjsb7evRo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/55264295109_95c0ee4055_o.jpg?itok=aAJTcZbk&quot; alt=&quot;EBC apresenta estação de testes da TV 3.0 a embaixadores estrangeiros&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Empresa Brasil de Comunicação (EBC)&lt;/p&gt;
+&lt;p&gt;recebeu nesta segunda-feira (11) em sua estação de testes da TV 3.0 embaixadores estrangeiros de países da África, América Latina e Europa. O objetivo da ação foi apresentar o sistema que será utilizado pelo Brasil, para que outros países possam avaliar sua implantação.&lt;/p&gt;
+&lt;p&gt;A ação foi uma iniciativa do Ministério das Comunicações e Agência Nacional de Telecomunicações (Anatel) em parceria com a EBC&lt;/p&gt;
+&lt;p&gt;. A recepção aos embaixadores foi feito no Espaço Cultural da Anatel e depois os diplomatas visitaram a estação de testes da&lt;/p&gt;
+&lt;p&gt;acreditou no projeto da TV 3.0 e foi uma grande parceira que está liderando os testes em Brasília”, afirmou o ministro das Comunicações, Frederico de Siqueira Filho.&lt;/p&gt;
+&lt;p&gt;O Brasil chega a este momento após um processo amplo, técnico e coletivo, que envolveu o governo federal, a Anatel, a sociedade civil organizada, a academia, a indústria, os radiodifusores e instituições que acompanham a evolução da televisão no país.&lt;/p&gt;
+&lt;p&gt;Essa construção conferiu consistência à decisão, trouxe confiança aos setores envolvidos e permitiu uma escolha baseada em evidências, testes, diálogo e responsabilidade pública”, disse.&lt;/p&gt;
+&lt;p&gt;receber os senhores e as senhoras para mostrar um pouco desse trabalho pioneiro que estamos desenvolvendo”, afirmou a diretora presidente da&lt;/p&gt;
+&lt;p&gt;“A EBC tem a sorte de se inspirar na história de protagonismo da comunicação pública”&lt;/p&gt;
+&lt;p&gt;, afirmou, ao lembrar que as primeiras transmissões de rádio no Brasil foram feitas pela&lt;/p&gt;
+&lt;p&gt;Rádio Sociedade do Rio de Janeiro&lt;/p&gt;
+&lt;p&gt;, emissora posteriormente assumida pela&lt;/p&gt;
+&lt;p&gt;honrarmos essa tradição inovadora, mais um de século depois, iniciando as transmissões do sinal digital 3.0”,disseAntonia Pellegrino.&lt;/p&gt;
+&lt;p&gt;Estiveram presentes ao evento a presidente da Comissão de Comunicação da Câmara, Maria Rosas (Republicanos-SP); Paulo Tonet Camargo, presidente da Associação Internacional de Radiodifusão (AIR); Márcio Novaes, presidente da Associação Brasileira de Rádio e Televisão (Abratel); Cristiano Flores, presidente da Associação Brasileira de Emissoras de Rádio e TV (Abert) e o conselheiro da Anatel Octavio Pieranti.&lt;/p&gt;
+&lt;p&gt;Lei institui Dia Nacional em Memória das Vítimas da Covid-19&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/ebc-apresenta-estacao-de-testes-da-tv-30-embaixadores-estrangeiros&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Empresa Brasil de Comunicação (EBC)
+recebeu nesta segunda-feira (11) em sua estação de testes da TV 3.0 embaixadores estrangeiros de países da África...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-05-11 18:50:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-11 18:50:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-11 18:50:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-11 18:50:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/0kdnusuJbAI70If3HsVjsb7evRo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/55264295109_95c0ee4055_o.jpg?itok=aAJTcZbk</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Rússia lidera venda de diesel ao Brasil durante guerra no Irã</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/russia-lidera-venda-de-diesel-ao-brasil-durante-guerra-no-ira</link>
+      <pubDate>Mon, 11 May 2026 22:58:26 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/russia-lidera-venda-de-diesel-ao-brasil-durante-guerra-no-ira#1005</guid>
+      <description>O Brasil ampliou fortemente as compras de diesel da Rússia desde o início da guerra no Oriente Médio, após a suspensão das importações vindas da regi...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/S8zcT2lI89jJsKp5dmj5n2ANdYc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/diesel_bomba_de_combustivel.jpg?itok=jIl82zo4&quot; alt=&quot;Rússia lidera venda de diesel ao Brasil durante guerra no Irã&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Brasil ampliou fortemente as compras de diesel da Rússia desde o início da guerra no Oriente Médio, após a suspensão das importações vindas da região.&lt;/p&gt;
+&lt;p&gt;Dados do sistema Comex Stat, do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic), mostram que Rússia e Estados Unidos passaram a liderar o fornecimento do combustível ao país nos últimos meses.&lt;/p&gt;
+&lt;p&gt;Em março e em abril, o Brasil importou US$ 1,76 bilhão em diesel. Desse total, US$ 1,43 bilhão tiveram origem na Rússia, equivalente a 81,25% das compras externas do produto. Os Estados Unidos aparecem na segunda posição, com US$ 112,92 milhões, ou 6,42% do total.&lt;/p&gt;
+&lt;p&gt;Apenas em abril, a dependência do diesel russo aumentou ainda mais.&lt;/p&gt;
+&lt;p&gt;O país comprou US$ 924 milhões do combustível da Rússia, o que correspondeu a 89,84% das importações no mês.&lt;/p&gt;
+&lt;p&gt;Os Estados Unidos responderam por 10,98% das compras, enquanto o Reino Unido teve participação residual.&lt;/p&gt;
+&lt;p&gt;US$ 1,76 bilhão em diesel importado em março e abril&lt;/p&gt;
+&lt;p&gt;81,25% do total vieram da Rússia&lt;/p&gt;
+&lt;p&gt;US$ 924 milhões importados da Rússia apenas em abril&lt;/p&gt;
+&lt;p&gt;89,84% de participação russa nas compras de abril&lt;/p&gt;
+&lt;p&gt;Antes do conflito, o Brasil ainda mantinha parte das importações vindas do Oriente Médio.&lt;/p&gt;
+&lt;p&gt;Em março, o país recebeu carregamentos enviados antes do agravamento da guerra, incluindo compras dos Emirados Árabes Unidos e da Arábia Saudita.&lt;/p&gt;
+&lt;p&gt;Os números mostram uma rápida escalada das compras russas. Em fevereiro, o Brasil importou US$ 433,22 milhões em diesel da Rússia. O valor subiu para US$ 505,86 milhões em março e se aproximou de US$ 1 bilhão em abril.&lt;/p&gt;
+&lt;p&gt;Para conter os impactos da alta do diesel sobre consumidores e transportadores, o governo federal anunciou uma série de medidas de compensação.&lt;/p&gt;
+&lt;p&gt;Em março, uma medida provisória liberou R$ 10 bilhões em subsídios para importação e comercialização do combustível.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/russia-lidera-venda-de-diesel-ao-brasil-durante-guerra-no-ira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Brasil ampliou fortemente as compras de diesel da Rússia desde o início da guerra no Oriente Médio, após a suspensão das importações vindas da regi...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-05-11 18:36:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-11 18:36:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-11 18:36:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-11 18:36:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/S8zcT2lI89jJsKp5dmj5n2ANdYc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/diesel_bomba_de_combustivel.jpg?itok=jIl82zo4</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Três pessoas ficam feridas em explosão na zona oeste de SP</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/tres-pessoas-ficam-feridas-em-explosao-na-zona-oeste-de-sp</link>
-      <pubDate>Mon, 11 May 2026 21:59:28 +0000</pubDate>
+      <pubDate>Mon, 11 May 2026 22:58:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/tres-pessoas-ficam-feridas-em-explosao-na-zona-oeste-de-sp#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/tres-pessoas-ficam-feridas-em-explosao-na-zona-oeste-de-sp#1006</guid>
       <description>Pelo menos três pessoas ficaram feridas após uma explosão na tarde desta segunda-feira(11) na zona oeste da capital paulista, e que atingiu diversas ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Três pessoas ficam feridas em explosão na zona oeste de SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Pelo menos três pessoas ficaram feridas após uma explosão na tarde desta segunda-feira(11) na zona oeste da capital paulista, e que atingiu diversas casas na região do Jaguaré&lt;/p&gt;
@@ -41,11 +329,11 @@
 &lt;p&gt;Doze equipes do Corpo de Bombeiros, além de algumas equipes da Defesa Civil, estão trabalhando no local.&lt;/p&gt;
 &lt;p&gt;Até omomento, não háum levantamento oficial sobre o número de casas destruídas ou danificadas.&lt;/p&gt;
 &lt;p&gt;procurou as companhias Sabesp e da Companhia de Gás de São Paulo (Comgás) para obter mais informações sobre a explosão, mas não obteve retorno.&lt;/p&gt;
-&lt;p&gt;Donald Trump diz que cessar-fogo com Irã está por um fio&lt;/p&gt;
-&lt;p&gt;Educação e a efetiva aplicação do ECA Digital&lt;/p&gt;
+&lt;p&gt;Lei institui Dia Nacional em Memória das Vítimas da Covid-19&lt;/p&gt;
+&lt;p&gt;Natureza Viva homenageia as árvores: &quot;mães da floresta&quot;&lt;/p&gt;
 &lt;p&gt;Ministro Dario Durigan revela bastidores do encontro de Lula com Trump&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/tres-pessoas-ficam-feridas-em-explosao-na-zona-oeste-de-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Pelo menos três pessoas ficaram feridas após uma explosão na tarde desta segunda-feira(11) na zona oeste da capital paulista, e que atingiu diversas ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-05-11 18:23:00</wp:post_date>
       <wp:post_date_gmt>2026-05-11 18:23:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-11 18:23:00</wp:post_modified>
@@ -71,9 +359,9 @@
     <item>
       <title>Governo vai monitorar presença de agrotóxico em bacias hidrográficas</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/governo-vai-monitorar-presenca-de-agrotoxico-em-bacias-hidrograficas</link>
-      <pubDate>Mon, 11 May 2026 21:59:28 +0000</pubDate>
+      <pubDate>Mon, 11 May 2026 22:58:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/governo-vai-monitorar-presenca-de-agrotoxico-em-bacias-hidrograficas#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/governo-vai-monitorar-presenca-de-agrotoxico-em-bacias-hidrograficas#1007</guid>
       <description>© Reuters/Davi Pinheiro/Proibida reprodução
 O governo federal lançou hoje (11) um painel de monitoramento de agrotóxicos nos recursos hídricos, com d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/aY9q8NHcE3PQPiAGxbyH9ldVG2g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mwz36ofdibpzvj4sjditefktoa.jpg?itok=solV8JEr&quot; alt=&quot;Governo vai monitorar presença de agrotóxico em bacias hidrográficas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -94,7 +382,7 @@ O governo federal lançou hoje (11) um painel de monitoramento de agrotóxicos n
 &lt;p&gt;O ministro frisou ainda que antes do painel, o cenário era de fragmentação de informações a respeito do monitoramento de agrotóxicos e que isso dificultava a tomada de decisão por parte de gestores e agentes públicos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/governo-vai-monitorar-presenca-de-agrotoxico-em-bacias-hidrograficas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Davi Pinheiro/Proibida reprodução
 O governo federal lançou hoje (11) um painel de monitoramento de agrotóxicos nos recursos hídricos, com d...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-05-11 18:16:00</wp:post_date>
       <wp:post_date_gmt>2026-05-11 18:16:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-11 18:16:00</wp:post_modified>
@@ -120,9 +408,9 @@ O governo federal lançou hoje (11) um painel de monitoramento de agrotóxicos n
     <item>
       <title>Falta um mês para a Copa que promete ser a maior de todos os tempos</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/falta-um-mes-para-copa-que-promete-ser-maior-de-todos-os-tempos</link>
-      <pubDate>Mon, 11 May 2026 21:59:28 +0000</pubDate>
+      <pubDate>Mon, 11 May 2026 22:58:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/falta-um-mes-para-copa-que-promete-ser-maior-de-todos-os-tempos#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/falta-um-mes-para-copa-que-promete-ser-maior-de-todos-os-tempos#1008</guid>
       <description>© Reuters/Brendan McDermid/Proibida reprodução
 A maior Copa do Mundo de todos os tempos, esta é a promessa feita pela Fifa em relação ao Mundial de f...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zNeDRcRpip6OTAtPcBxFK3ULmBg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/05/copa_do_mundo_2026_logo.jpg?itok=yops-YKV&quot; alt=&quot;Falta um mês para a Copa que promete ser a maior de todos os tempos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -138,12 +426,12 @@ A maior Copa do Mundo de todos os tempos, esta é a promessa feita pela Fifa em 
 &lt;p&gt;is no longer just a date on the calendar. ⏳🌎&lt;/p&gt;
 &lt;p&gt;— FIFA World Cup (@FIFAWorldCup)&lt;/p&gt;
 &lt;p&gt;O anúncio da relação de 26 atletas que representarão o Brasil no Mundial será feito pelo técnico italiano Carlo Ancelotti na próxima segunda-feira (18), a partir das 17h, no Museu do Amanhã, no Rio de Janeiro.&lt;/p&gt;
-&lt;p&gt;Donald Trump diz que cessar-fogo com Irã está por um fio&lt;/p&gt;
-&lt;p&gt;Educação e a efetiva aplicação do ECA Digital&lt;/p&gt;
+&lt;p&gt;Massa de ar frio baixa temperatura principalmente no centro do país&lt;/p&gt;
+&lt;p&gt;Natureza Viva homenageia as árvores: &quot;mães da floresta&quot;&lt;/p&gt;
 &lt;p&gt;Ministro Dario Durigan revela bastidores do encontro de Lula com Trump&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/falta-um-mes-para-copa-que-promete-ser-maior-de-todos-os-tempos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Brendan McDermid/Proibida reprodução
 A maior Copa do Mundo de todos os tempos, esta é a promessa feita pela Fifa em relação ao Mundial de f...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-05-11 18:14:00</wp:post_date>
       <wp:post_date_gmt>2026-05-11 18:14:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-11 18:14:00</wp:post_modified>
@@ -169,9 +457,9 @@ A maior Copa do Mundo de todos os tempos, esta é a promessa feita pela Fifa em 
     <item>
       <title>Lei define 12 de março Dia Nacional em Memória das Vítimas da Covid-19</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/lei-define-12-de-marco-dia-nacional-em-memoria-das-vitimas-da-covid-19</link>
-      <pubDate>Mon, 11 May 2026 21:59:28 +0000</pubDate>
+      <pubDate>Mon, 11 May 2026 22:58:26 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/lei-define-12-de-marco-dia-nacional-em-memoria-das-vitimas-da-covid-19#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/lei-define-12-de-marco-dia-nacional-em-memoria-das-vitimas-da-covid-19#1009</guid>
       <description>Seis anos após o início da pandemia de covid-19, que matou mais de 716 mil pessoas no Brasil,
 a lei que institui o Dia Nacional em Memória das Vítima...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ke6ftmvLz9hS4cKHbhfqGMwSuF8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/05/28/covid-19_vala_comum4.jpg?itok=F1yVX-gm&quot; alt=&quot;Lei define 12 de março Dia Nacional em Memória das Vítimas da Covid-19&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -192,7 +480,7 @@ a lei que institui o Dia Nacional em Memória das Vítima...</description>
 &lt;p&gt;, no Rio de Janeiro, para homenagear as mais de 700 mil vítimas da covid-19 no país.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/lei-define-12-de-marco-dia-nacional-em-memoria-das-vitimas-da-covid-19&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Seis anos após o início da pandemia de covid-19, que matou mais de 716 mil pessoas no Brasil,
 a lei que institui o Dia Nacional em Memória das Vítima...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-05-11 17:50:00</wp:post_date>
       <wp:post_date_gmt>2026-05-11 17:50:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-11 17:50:00</wp:post_modified>
@@ -213,300 +501,6 @@ a lei que institui o Dia Nacional em Memória das Vítima...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/Ke6ftmvLz9hS4cKHbhfqGMwSuF8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/05/28/covid-19_vala_comum4.jpg?itok=F1yVX-gm</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Em registro raro, onça-pintada é filmada no oeste da Bahia</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/em-registro-raro-onca-pintada-e-filmada-no-oeste-da-bahia</link>
-      <pubDate>Mon, 11 May 2026 21:59:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/em-registro-raro-onca-pintada-e-filmada-no-oeste-da-bahia#1004</guid>
-      <description>© Parque Vida Cerrado/Divulgação
-Um registro cada vez mais raro foi possível pelas câmeras de monitoramento no extremo oeste baiano.
-Trata-se de uma ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/7D0IVhgXVaE4yYsjmMSZ7_jvrwA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/onca_melancia.jpg?itok=MMneY5uk&quot; alt=&quot;Em registro raro, onça-pintada é filmada no oeste da Bahia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Parque Vida Cerrado/Divulgação&lt;/p&gt;
-&lt;p&gt;Um registro cada vez mais raro foi possível pelas câmeras de monitoramento no extremo oeste baiano.&lt;/p&gt;
-&lt;p&gt;Trata-se de uma onça-pintada melânica, condição rara que deixa os pelos do animal com coloração escura.&lt;/p&gt;
-&lt;p&gt;A ocorrência é considerada excepcional, já que registros documentados desse tipo são extremamente incomuns no oeste da Bahia.&lt;/p&gt;
-&lt;p&gt;O registro foi feito em uma área de vegetação nativa da região, em uma propriedade particular.&lt;/p&gt;
-&lt;p&gt;Até então, o caso mais próximo havia sido identificado no Parque Nacional Grande Sertão Veredas, na região de Cocos, na Bahia, em agosto de 2025, com uma ninhada rara de trigêmeos de onça-pintada.&lt;/p&gt;
-&lt;p&gt;O monitoramento foi feito pelo parque Vida Cerrado&lt;/p&gt;
-&lt;p&gt;, por meio de armadilhas fotográficas (câmeras trap), tecnologia amplamente utilizada em estudos de fauna para monitorar a presença e o comportamento de animais de forma não invasiva.&lt;/p&gt;
-&lt;p&gt;A instituição é o primeiro centro de conservação e educação socioambiental do oeste da Bahia.&lt;/p&gt;
-&lt;p&gt;O Parque Vida Cerrado esclareceu que, por questões de segurança, a localização exata do registro não será divulgada.&lt;/p&gt;
-&lt;p&gt;A gerente da instituição Gabrielle Rosa disse que avistamentos de onças têm ficado mais raros e que o caso do registro obtido é ainda mais difícil devido à condição do animal, também conhecido como pantera negra.&lt;/p&gt;
-&lt;p&gt;“O registro de uma onça-pintada melânica é extremamente relevante porque reforça que ainda existem áreas com condições adequadas para a sobrevivência de espécies sensíveis. Estamos falando de um animal no topo da cadeia alimentar, que precisa de grandes áreas conservadas para viver, e sua presença é um indicativo claro de equilíbrio ambiental”, explicou.&lt;/p&gt;
-&lt;p&gt;Além de ameaçada pela perda de habitat, a onça-pintada também enfrenta desafios relacionados à caça ilegal e ao preconceito histórico, frequentemente associado à presença do animal em áreas produtivas.&lt;/p&gt;
-&lt;p&gt;Segundo Gabrielle, o registro mostra a necessidade da conservação de trechos contínuos no Cerrado&lt;/p&gt;
-&lt;p&gt;para a sobrevivência de diversas espécies da fauna, especialmente da vegetação nativa em regiões agrícolas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/em-registro-raro-onca-pintada-e-filmada-no-oeste-da-bahia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Parque Vida Cerrado/Divulgação
-Um registro cada vez mais raro foi possível pelas câmeras de monitoramento no extremo oeste baiano.
-Trata-se de uma ...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-05-11 17:48:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-11 17:48:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-11 17:48:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-11 17:48:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/7D0IVhgXVaE4yYsjmMSZ7_jvrwA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/onca_melancia.jpg?itok=MMneY5uk</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Estudantes da USP denunciam desocupação ilegal e violenta feita por PM</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/estudantes-da-usp-denunciam-desocupacao-ilegal-e-violenta-feita-por-pm</link>
-      <pubDate>Mon, 11 May 2026 21:59:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/estudantes-da-usp-denunciam-desocupacao-ilegal-e-violenta-feita-por-pm#1005</guid>
-      <description>da Universidade de São Paulo (USP) pela Polícia Militar (PM), na madrugada de domingo (9), ocorreu de forma truculenta e ilegal, segundo denunciou o ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8rN93D-8JNWoSAnBzZ8mUAlUomo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/08/fachada_reitoria_foto-cecilia-bastos-1.jpg?itok=sLqzvuoL&quot; alt=&quot;Estudantes da USP denunciam desocupação ilegal e violenta feita por PM&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;da Universidade de São Paulo (USP) pela Polícia Militar (PM), na madrugada de domingo (9), ocorreu de forma truculenta e ilegal, segundo denunciou o Diretório Central dos Estudantes da instituição, o DCE Livre da USP.&lt;/p&gt;
-&lt;p&gt;Aentidade avaliou a ação como “abusiva eivada de ilegalidade”, por não ser embasada emdeterminação judicial.&lt;/p&gt;
-&lt;p&gt;Em nota, o DCE afirmou o resultado foram dezenas de estudantes feridos combombas de efeito moral, gás lacrimogêneo e cassetetes e que houve &quot;formação de um corredor polonês para espancamento&quot;. Quatro estudantes foram detidos.&lt;/p&gt;
-&lt;p&gt;O DCE ressaltou que “mesmo em situações em que há determinação de reintegração de posse (o que não é o caso), existe um conjunto de regras que orientam o procedimento de desocupação, entre as quais a ilegalidade da realização de operações entre às 21h e 5h, algo pacífico nos tribunais”. A desocupação ocorreu por volta das 4h15, segundo os estudantes&lt;/p&gt;
-&lt;p&gt;Os estudantes ocupavam a reitoria desde quinta-feira (7) para reivindicar a reabertura de diálogo com o reitor Aluísio Augusto Cotrim Segurado. De acordo com os alunos, havia uma negociação em curso que foi encerrada unilateralmente pela reitoria na semana passada, sem que diversas reivindicações dos estudantes fossem atendidas.&lt;/p&gt;
-&lt;p&gt;“O estopim para a ocupação é a extrema precarização das condições de inclusão e permanência enfrentadas na universidade”, apontou o DCE.&lt;/p&gt;
-&lt;p&gt;Eles relatam falta de água e proliferação de mofo nos apartamentos da moradia estudantil, além de insegurança alimentar nos restaurantes universitários, com fornecimento de comida estragada e até com larvas.&lt;/p&gt;
-&lt;p&gt;A Secretaria da Segurança Pública do estado de São Paulo disse, em nota, que quatro pessoas foram conduzidas ao 7º Distrito Policial, onde o caso foi registrado como dano ao patrimônio público e alteração de limites. Após serem qualificadas, elas foram liberadas.&lt;/p&gt;
-&lt;p&gt;“A ação contou com aproximadamente 50 policiais e foi concluída sem feridos, após o esgotamento de tentativas de diálogo, observando o princípio legal do poder-dever, o fator surpresa para a segurança dos envolvidos e o uso moderado da força diante de resistência física às ordens legais. Havia situação de flagrante delito e crime permanente, não sendo necessária ordem judicial ou notificação para a desobstrução do espaço”, diz a nota.&lt;/p&gt;
-&lt;p&gt;Segundo a pasta, toda a operação foi registrada pelas câmeras corporais dos agentes. “Após a desocupação, foram constatados danos ao patrimônio público, como portas de vidro quebradas, carteiras e mesas danificadas, além de avarias na catraca de entrada. No local, também foram apreendidos entorpecentes, armas brancas e objetos contundentes”, acrescentou a nota.&lt;/p&gt;
-&lt;p&gt;Donald Trump diz que cessar-fogo com Irã está por um fio&lt;/p&gt;
-&lt;p&gt;Educação e a efetiva aplicação do ECA Digital&lt;/p&gt;
-&lt;p&gt;Ministro Dario Durigan revela bastidores do encontro de Lula com Trump&lt;/p&gt;
-&lt;p&gt;Rússia lidera venda de diesel ao Brasil durante guerra no Irã&lt;/p&gt;
-&lt;p&gt;Três pessoas ficam feridas em explosão na zona oeste de SP&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/estudantes-da-usp-denunciam-desocupacao-ilegal-e-violenta-feita-por-pm&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>da Universidade de São Paulo (USP) pela Polícia Militar (PM), na madrugada de domingo (9), ocorreu de forma truculenta e ilegal, segundo denunciou o ...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-05-11 17:43:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-11 17:43:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-11 17:43:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-11 17:43:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/8rN93D-8JNWoSAnBzZ8mUAlUomo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/08/fachada_reitoria_foto-cecilia-bastos-1.jpg?itok=sLqzvuoL</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Entenda como funciona investir no Tesouro Reserva</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/entenda-como-funciona-investir-no-tesouro-reserva</link>
-      <pubDate>Mon, 11 May 2026 21:59:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/entenda-como-funciona-investir-no-tesouro-reserva#1006</guid>
-      <description>© Marcello Casal JrAgência Brasil
-Aposta do governo para atrair pequenos investidores e estimular a poupança, o Tesouro Reserva,
-lançado nesta segund...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/B8E8Wc-PIFdc7pvAAitt-2FUyjc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/eco_1688.jpg?itok=Ut3wTu1Q&quot; alt=&quot;Entenda como funciona investir no Tesouro Reserva&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
-&lt;p&gt;Aposta do governo para atrair pequenos investidores e estimular a poupança, o Tesouro Reserva,&lt;/p&gt;
-&lt;p&gt;lançado nesta segunda-feira (11)&lt;/p&gt;
-&lt;p&gt;, tem como alvo quem busca guardar dinheiro com segurança, liquidez e simplicidade.&lt;/p&gt;
-&lt;p&gt;A aplicação começa com valor mínimo de R$ 1, rende diariamente conforme a Taxa Selic&lt;/p&gt;
-&lt;p&gt;(juros básicos da economia) e poderá ser movimentada 24 horas por dia, inclusive aos fins de semana e feriados.&lt;/p&gt;
-&lt;p&gt;A nova modalidade surge como uma tentativa do governo de ampliar o acesso aos investimentos públicos e competir diretamente com produtos populares dos bancos e fintechs, como poupança, Certificados de Depósito Bancário (CDBs) e as chamadas “caixinhas” digitais.&lt;/p&gt;
-&lt;p&gt;Neste primeiro momento, o Tesouro Reserva estará disponível apenas para os cerca de 80 milhões de correntistas do Banco do Brasil. O&lt;/p&gt;
-&lt;p&gt;Tesouro Nacional informou que negocia a entrada de outras instituições financeiras na nova plataforma.&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
-&lt;p&gt;O Tesouro Reserva é um título público federal. Na prática, quem investe está emprestando dinheiro ao governo em troca de remuneração.&lt;/p&gt;
-&lt;p&gt;O rendimento acompanha a taxa Selic, atualmente em 14,5% ao ano.&lt;/p&gt;
-&lt;p&gt;Como os juros básicos estão elevados, o novo título tende a render bem mais do que a poupança.&lt;/p&gt;
-&lt;p&gt;A proposta do Tesouro Nacional é que o produto funcione como uma opção simples para reserva de emergência, ou seja, dinheiro guardado para despesas inesperadas, como problemas de saúde, desemprego ou consertos.&lt;/p&gt;
-&lt;p&gt;Segundo o secretário do Tesouro Nacional, Daniel Leal, a ideia é aproximar o investimento público da experiência já oferecida pelos aplicativos bancários.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/entenda-como-funciona-investir-no-tesouro-reserva&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal JrAgência Brasil
-Aposta do governo para atrair pequenos investidores e estimular a poupança, o Tesouro Reserva,
-lançado nesta segund...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-05-11 17:25:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-11 17:25:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-11 17:25:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-11 17:25:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/B8E8Wc-PIFdc7pvAAitt-2FUyjc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/eco_1688.jpg?itok=Ut3wTu1Q</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>SP: explosão na região do Jaguaré danifica diversas residências</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/sp-explosao-na-regiao-do-jaguare-danifica-diversas-residencias</link>
-      <pubDate>Mon, 11 May 2026 21:59:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/sp-explosao-na-regiao-do-jaguare-danifica-diversas-residencias#1007</guid>
-      <description>Uma explosão na tarde desta segunda-feira (11) na região do Jaguaré, zona oeste de São Paulo, atingiu diversas residências. Informações preliminares ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;SP: explosão na região do Jaguaré danifica diversas residências&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Uma explosão na tarde desta segunda-feira (11) na região do Jaguaré, zona oeste de São Paulo, atingiu diversas residências. Informações preliminares indicam que pode haver feridos.&lt;/p&gt;
-&lt;p&gt;Segundo o Corpo de Bombeiros, a explosão aconteceu por volta das 16h10 na rua Floresto Bandecchi, próximo à rua Doutor Benedito de Moraes, e pode ter relação com problemas em uma tubulação de gás liquefeito de petróleo (GLP). No local há umforte cheiro de gás.&lt;/p&gt;
-&lt;p&gt;Doze equipes do Corpo de Bombeiros estão no local. Até a publicação do texto, não há ainda um levantamento sobre o número de casas atingidas ou danificadas e nem sobre o número de feridos.&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
-&lt;p&gt;Donald Trump diz que cessar-fogo com Irã está por um fio&lt;/p&gt;
-&lt;p&gt;Educação e a efetiva aplicação do ECA Digital&lt;/p&gt;
-&lt;p&gt;Ministro Dario Durigan revela bastidores do encontro de Lula com Trump&lt;/p&gt;
-&lt;p&gt;Rússia lidera venda de diesel ao Brasil durante guerra no Irã&lt;/p&gt;
-&lt;p&gt;Três pessoas ficam feridas em explosão na zona oeste de SP&lt;/p&gt;
-&lt;p&gt;Governo vai monitorar presença de agrotóxico em bacias hidrográficas&lt;/p&gt;
-&lt;p&gt;Falta um mês para a Copa que promete ser a maior de todos os tempos&lt;/p&gt;
-&lt;p&gt;Lei define 12 de março Dia Nacional em Memória das Vítimas da Covid-19&lt;/p&gt;
-&lt;p&gt;Em registro raro, onça-pintada é filmada no oeste da Bahia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/sp-explosao-na-regiao-do-jaguare-danifica-diversas-residencias&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Uma explosão na tarde desta segunda-feira (11) na região do Jaguaré, zona oeste de São Paulo, atingiu diversas residências. Informações preliminares ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-05-11 17:23:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-11 17:23:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-11 17:23:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-11 17:23:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Óleo diesel cai pela 4ª vez em cinco semanas e acumula recuo de 4,5%</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/oleo-diesel-cai-pela-4a-vez-em-cinco-semanas-e-acumula-recuo-de-45</link>
-      <pubDate>Mon, 11 May 2026 21:59:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/oleo-diesel-cai-pela-4a-vez-em-cinco-semanas-e-acumula-recuo-de-45#1008</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-O preço do óleo diesel no país registrou o quarto recuo em um período de cinco semanas.
-Nesse intervalo de tempo, o ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/lg5myB-Jp5LxVXFkW46B1Qe9_JM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcamgo_edit_04061808095.jpg?itok=qLFOSyp6&quot; alt=&quot;Óleo diesel cai pela 4ª vez em cinco semanas e acumula recuo de 4,5%&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O preço do óleo diesel no país registrou o quarto recuo em um período de cinco semanas.&lt;/p&gt;
-&lt;p&gt;Nesse intervalo de tempo, o combustível usado majoritariamente por caminhões e ônibus acumula queda de 4,5%.&lt;/p&gt;
-&lt;p&gt;No entanto, ainda está 18,9% acima do período pré-guerra no Irã,&lt;/p&gt;
-&lt;p&gt;Os dados fazem parte do monitoramento de preços da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), órgão do governo que regula o setor no país.&lt;/p&gt;
-&lt;p&gt;painel de preços de revenda da agência&lt;/p&gt;
-&lt;p&gt;, na semana de 3 a 9 de maio o litro do diesel S10 teve preço médio de revenda de R$ 7,24.&lt;/p&gt;
-&lt;p&gt;O preço do diesel é acompanhado com atenção por autoridades e pelo setor produtivo&lt;/p&gt;
-&lt;p&gt;, pois, por ser o principal combustível da frota de caminhões, está diretamente ligado ao valor do frete, que se reflete no custo dos alimentos transportados.&lt;/p&gt;
-&lt;p&gt;Nas últimas cinco semanas, a ANP identificou uma semana sem variação e quatro com queda no preço médio.&lt;/p&gt;
-&lt;p&gt;O preço médio do diesel S10 em cada fim de semana de pesquisa:&lt;/p&gt;
-&lt;p&gt;Apesar da trajetória recente de queda, o litro do diesel ainda reflete a escalada de preços provocada pelos ataques americanos e israelenses ao Irã.&lt;/p&gt;
-&lt;p&gt;Na semana terminada em 28 de fevereiro, dia do primeiro ataque, o combustível era vendido por R$ 6,09, em média.&lt;/p&gt;
-&lt;p&gt;Desde então, foram cinco semanas até alcançar o pico de R$ 7,58 na semana terminada em 11 de abril.&lt;/p&gt;
-&lt;p&gt;Em relação ao diesel S500, a trajetória é semelhante ao S10 nas últimas cinco semanas, saindo de R$ 7,45 o litro para R$ 7,05, regressão de 5,37%. Na comparação com o pré-guerra, o aumento está em 17%.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/oleo-diesel-cai-pela-4a-vez-em-cinco-semanas-e-acumula-recuo-de-45&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-O preço do óleo diesel no país registrou o quarto recuo em um período de cinco semanas.
-Nesse intervalo de tempo, o ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-05-11 17:00:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-11 17:00:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-11 17:00:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-11 17:00:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/lg5myB-Jp5LxVXFkW46B1Qe9_JM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcamgo_edit_04061808095.jpg?itok=qLFOSyp6</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>É autônomo, MEI ou CNPJ? Veja como declarar o Imposto de Renda</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/e-autonomo-mei-ou-cnpj-veja-como-declarar-o-imposto-de-renda</link>
-      <pubDate>Mon, 11 May 2026 21:59:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/e-autonomo-mei-ou-cnpj-veja-como-declarar-o-imposto-de-renda#1009</guid>
-      <description>© Marcello Casal jr/Agência Brasil
-Trabalhadores com carteira assinada têm o Imposto de Renda descontado na fonte. Mas, e para autônomos? A situação ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/n5zgETtlSOeAlxptEa7-tK0ifNo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/06/como_declarar_ganhos_como_autonomo_mei_e_cnpj_no_imposto_de_renda_c_marcello_casal_jragencia_brasil.jpg?itok=2-0FLAhr&quot; alt=&quot;É autônomo, MEI ou CNPJ? Veja como declarar o Imposto de Renda&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal jr/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Trabalhadores com carteira assinada têm o Imposto de Renda descontado na fonte. Mas, e para autônomos? A situação é diferente:&lt;/p&gt;
-&lt;p&gt;osrendimentos devem ser declarados de formas distintas, a depender da fonte pagadora&lt;/p&gt;
-&lt;p&gt;“Se recebeu como pessoa física, você deve recolher o imposto mensalmente pelo Carnê-Leão e, depois, declarar na ficha Rendimentos Tributáveis Recebidos de Pessoa Física/Exterior. Se recebeu de empresa, ela já deve ter feito a retenção do imposto na fonte. Nesse caso, declare na ficha Rendimentos Tributáveis Recebidos de Pessoa Jurídica”, explica oprofessor Eduardo Linhares, da Universidade Federal do Ceará.&lt;/p&gt;
-&lt;p&gt;Caso o contribuinte não tenha pago o Carnê-Leão ou não tenha imposto retido na fonte, o cálculo do valor devido é feito pelo próprio programa da Receita Federal.&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Ouça na Radioagência Nacional o Tira-Dúvidas do IR 2026:&lt;/p&gt;
-&lt;p&gt;microempreendedor individual, os valores de até R$ 81 mil anuais ganhos como MEI são isentos de Imposto de Renda&lt;/p&gt;
-&lt;p&gt;E nem todo MEI precisa declarar o IRPF. O que vai definir é o chamado pró-labore. Apenas quem se encaixa nas regras que obrigam a declaração como, por exemplo, ter um ganho pró-labore maior do que R$ 35.584 em 2025, precisa declarar.&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Veja o passo a passo para MEI:&lt;/p&gt;
-&lt;p&gt;Declarar a empresa MEI na ficha Bens e Direitos&lt;/p&gt;
-&lt;p&gt;Declarar o lucro isento na ficha Rendimentos Isentos e Não Tributáveis&lt;/p&gt;
-&lt;p&gt;Declarar os valores recebidos como pró-labore na ficha Rendimentos Tributáveis Recebidos de Pessoa Jurídica.&lt;/p&gt;
-&lt;p&gt;Para quem é sócio de empresa maior com CNPJ,apenas o pró-labore do sócio deve constar na declaração de Pessoa Física.&lt;/p&gt;
-&lt;p&gt;“É como se ele fosse um funcionário. Vai estar constando dele, mesmo sendo uma empresa dele. Porque, mesmo que seja um pró-labore, é um dinheiro que tem que ser comprovado e está ali registrado nas notas fiscais, como o CNPJ, uma limitada, por exemplo”, explica Janaina Barboza, professora da Faculdade Anhanguera.&lt;/p&gt;
-&lt;p&gt;Em muitos casos relacionados a ganhos de autônomos, MEIs e empresas, o recomendado é procurar um contador para realizar os cálculos e fazer a declaração.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/e-autonomo-mei-ou-cnpj-veja-como-declarar-o-imposto-de-renda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal jr/Agência Brasil
-Trabalhadores com carteira assinada têm o Imposto de Renda descontado na fonte. Mas, e para autônomos? A situação ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-05-11 16:57:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-11 16:57:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-11 16:57:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-11 16:57:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/n5zgETtlSOeAlxptEa7-tK0ifNo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/06/como_declarar_ganhos_como_autonomo_mei_e_cnpj_no_imposto_de_renda_c_marcello_casal_jragencia_brasil.jpg?itok=2-0FLAhr</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
