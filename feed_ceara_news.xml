@@ -6,6 +6,42 @@
   <description>Feed RSS gerado via API</description>
 
   <item>
+    <title>Sefaz-CE lança API que conecta transportadoras ao Sitram</title>
+    <guid>https://www.ce.gov.br/2026/05/11/sefaz-ce-lanca-api-que-conecta-transportadoras-ao-sitram/</guid>
+    <pubDate>2026-05-11T16:47:36</pubDate>
+    <description><![CDATA[Inovação agiliza operações fiscais
+
+A Secretaria da Fazenda do Ceará (Sefaz-CE) deu mais um passo na modernização do controle de mercadorias em trânsito, lançando, por meio da Coordenadoria de Fiscalização de Mercadorias em Trânsito (Cofit), uma interface de programação de aplicações (API) voltada para as transportadoras que operam no estado.
+
+A nova solução permite a integração direta entre os sistemas das transportadoras e o Sistema de Trânsito de Mercadorias (Sitram). Na prática, isso significa mais agilidade, menos intervenção manual e maior eficiência nos processos realizados nos postos fiscais.
+
+Conforme o orientador da Célula de Monitoramento de Mercadorias em Trânsito (Cemot), Germano Guerra, a inovação possibilita uma comunicação automatizada entre os sistemas. “A transportadora passa a consultar o Sitram diretamente por meio da API, recebendo respostas em tempo real, com base nos dados da Sefaz”, explica.
+
+Com a integração, as transportadoras passam a ter mais transparência sobre o fluxo de registro das notas fiscais. Os sistemas podem ser configurados para acompanhar, em tempo real, o status das notas fiscais e identificar pendências de forma antecipada.
+
+Outro avanço é a automação do processo de pagamento de tributos. Quando há Imposto sobre Circulação de Mercadorias e Serviços (ICMS) da operação a recolher, o sistema da transportadora pode realizar automaticamente o download do Documento de Arrecadação Estadual (DAE), em formato PDF, e até encaminhá-lo aos responsáveis pelo pagamento, reduzindo falhas operacionais, erros de digitação e atrasos no pagamento.
+
+A expectativa é que a ferramenta contribua diretamente para a redução do tempo de espera nos postos fiscais, agilizando a liberação de mercadorias. Com isso, as equipes podem focar no atendimento e na resolução de pendências mais complexas.
+
+Clique aqui para saber como agilizar seu atendimento a partir da API das transportadoras.]]></description>
+    <content:encoded><![CDATA[Inovação agiliza operações fiscais
+
+A Secretaria da Fazenda do Ceará (Sefaz-CE) deu mais um passo na modernização do controle de mercadorias em trânsito, lançando, por meio da Coordenadoria de Fiscalização de Mercadorias em Trânsito (Cofit), uma interface de programação de aplicações (API) voltada para as transportadoras que operam no estado.
+
+A nova solução permite a integração direta entre os sistemas das transportadoras e o Sistema de Trânsito de Mercadorias (Sitram). Na prática, isso significa mais agilidade, menos intervenção manual e maior eficiência nos processos realizados nos postos fiscais.
+
+Conforme o orientador da Célula de Monitoramento de Mercadorias em Trânsito (Cemot), Germano Guerra, a inovação possibilita uma comunicação automatizada entre os sistemas. “A transportadora passa a consultar o Sitram diretamente por meio da API, recebendo respostas em tempo real, com base nos dados da Sefaz”, explica.
+
+Com a integração, as transportadoras passam a ter mais transparência sobre o fluxo de registro das notas fiscais. Os sistemas podem ser configurados para acompanhar, em tempo real, o status das notas fiscais e identificar pendências de forma antecipada.
+
+Outro avanço é a automação do processo de pagamento de tributos. Quando há Imposto sobre Circulação de Mercadorias e Serviços (ICMS) da operação a recolher, o sistema da transportadora pode realizar automaticamente o download do Documento de Arrecadação Estadual (DAE), em formato PDF, e até encaminhá-lo aos responsáveis pelo pagamento, reduzindo falhas operacionais, erros de digitação e atrasos no pagamento.
+
+A expectativa é que a ferramenta contribua diretamente para a redução do tempo de espera nos postos fiscais, agilizando a liberação de mercadorias. Com isso, as equipes podem focar no atendimento e na resolução de pendências mais complexas.
+
+Clique aqui para saber como agilizar seu atendimento a partir da API das transportadoras.]]></content:encoded>
+    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/API-das-transportadoras-1200x669-1.jpeg" type="image/jpeg" />
+  </item>
+  <item>
     <title>Vapt Vupt de Juazeiro do Norte registra mais de 5 milhões de atendimentos</title>
     <guid>https://www.ce.gov.br/2026/05/11/vapt-vupt-de-juazeiro-do-norte-registra-mais-de-5-milhoes-de-atendimentos/</guid>
     <pubDate>2026-05-11T15:49:42</pubDate>
