@@ -6,526 +6,90 @@
   <description>Feed RSS gerado via API</description>
 
   <item>
-    <title>Sefaz-CE lança API que conecta transportadoras ao Sitram</title>
-    <guid>https://www.ce.gov.br/2026/05/11/sefaz-ce-lanca-api-que-conecta-transportadoras-ao-sitram/</guid>
-    <pubDate>2026-05-11T16:47:36</pubDate>
-    <description><![CDATA[Inovação agiliza operações fiscais
+    <title>Últimos dias para conferir a IV Mostra Fazendo Artes, Aprendendo Ofícios</title>
+    <guid>https://www.ce.gov.br/2026/05/12/ultimos-dias-para-conferir-a-iv-mostra-fazendo-artes-aprendendo-oficios/</guid>
+    <pubDate>2026-05-12T09:51:45</pubDate>
+    <description><![CDATA[Mostra homenageia centenário do artista cearense Zé Pinto com trabalhos dos alunos da Escola de Artes e Ofícios Thomaz Pompeu Sobrinho, incluindo 13 esculturas que foram restauradas
 
-A Secretaria da Fazenda do Ceará (Sefaz-CE) deu mais um passo na modernização do controle de mercadorias em trânsito, lançando, por meio da Coordenadoria de Fiscalização de Mercadorias em Trânsito (Cofit), uma interface de programação de aplicações (API) voltada para as transportadoras que operam no estado.
+A 4ª edição da Mostra Fazendo Artes, Aprendendo Ofícios que homenageia o centenário do nascimento do artista plástico cearense Zé Pinto está na última semana de visitação. Lançada no dia 27 de março, a Mostra segue em cartaz até o dia 15 de maio, reunindo exposições com trabalhos artísticos desenvolvidos pelos alunos da Escola de Artes e Ofícios Thomaz Pompeu Sobrinho (EAOTPS) no ciclo formativo 2025/2026. São obras no campo dos ofícios tradicionais (Bordado, Gravura e Prataria Artesanal) e na área da Conservação e Restauração de bens patrimoniais. A Mostra conta com uma exposição que reúne 13 esculturas do Zé Pinto que foram restauradas pelos alunos do Curso de Conservação e Restauração, sob coordenação do professor e restaurador Antônio Vieira. As obras pertencem ao acervo da Prefeitura de Fortaleza, além de coleções particulares.
 
-A nova solução permite a integração direta entre os sistemas das transportadoras e o Sistema de Trânsito de Mercadorias (Sitram). Na prática, isso significa mais agilidade, menos intervenção manual e maior eficiência nos processos realizados nos postos fiscais.
+Outra homenagem ao Zé Pinto é feita pelos alunos do Curso de Iniciação em Bordado e Costura, com a exposição Zé Pinto, Sucata entre linhas, que tem curadoria da bordadeira Iara Reis e reúne peças bordados inspiradas no trabalho do artista, com reaproveitamento de peças de sucata. Os alunos do Curso de Gravura Integrada também fazem uma homenagem ao artista com obras que utilizam técnicas de xilogravura, litografia, gravura em metal e serigrafia, além de outras impressões gráficas com temática livre. Esta exposição tem curadoria do artista gravurista Gerson Ipirajá.
 
-Conforme o orientador da Célula de Monitoramento de Mercadorias em Trânsito (Cemot), Germano Guerra, a inovação possibilita uma comunicação automatizada entre os sistemas. “A transportadora passa a consultar o Sitram diretamente por meio da API, recebendo respostas em tempo real, com base nos dados da Sefaz”, explica.
+O visitante também encontra na Mostra as exposições “Memórias preservadas”, com exibição de trabalhos de conservação e restauração feitos pela Escola; “Artes em Prataria Artesanal”, com obras produzidas pelos alunos do Curso de Aperfeiçoamento em Prataria Artesanal; além de uma exibição de fotografias sobre o Projeto Patrimônio para Todos – Uma aventura através das memórias, reunindo imagens de Sandy Albuquerque e Gabriel Franck.
 
-Com a integração, as transportadoras passam a ter mais transparência sobre o fluxo de registro das notas fiscais. Os sistemas podem ser configurados para acompanhar, em tempo real, o status das notas fiscais e identificar pendências de forma antecipada.
+Sobre Zé Pinto: Zé Pinto era o nome artístico do escultor cearense Francisco Magalhães Barbosa (1925-2004), autor de um grande número de esculturas feitas a partir de peças de sucata. Autodidata, suas criações participaram de inúmeras mostras coletivas e individuais de arte, como o Salão de Abril.
 
-Outro avanço é a automação do processo de pagamento de tributos. Quando há Imposto sobre Circulação de Mercadorias e Serviços (ICMS) da operação a recolher, o sistema da transportadora pode realizar automaticamente o download do Documento de Arrecadação Estadual (DAE), em formato PDF, e até encaminhá-lo aos responsáveis pelo pagamento, reduzindo falhas operacionais, erros de digitação e atrasos no pagamento.
+Sobre a EAOTPS: A Escola de Artes e Ofícios Thomaz Pompeu Sobrinho é um espaço da Rede Pública de Equipamentos Culturais da Secretaria da Cultura do Ceará (Secult) gerido em parceria com o Instituto Dragão do Mar. O equipamento atua na área da educação patrimonial, promovendo há mais de 20 anos cursos de conservação e restauração e de ofícios tradicionais, entre outras atividades.
 
-A expectativa é que a ferramenta contribua diretamente para a redução do tempo de espera nos postos fiscais, agilizando a liberação de mercadorias. Com isso, as equipes podem focar no atendimento e na resolução de pendências mais complexas.
+Local: Sede da EAOTPS – Av. Francisco Sá, 1801, Jacarecanga, Fortaleza/CE]]></description>
+    <content:encoded><![CDATA[Mostra homenageia centenário do artista cearense Zé Pinto com trabalhos dos alunos da Escola de Artes e Ofícios Thomaz Pompeu Sobrinho, incluindo 13 esculturas que foram restauradas
 
-Clique aqui para saber como agilizar seu atendimento a partir da API das transportadoras.]]></description>
-    <content:encoded><![CDATA[Inovação agiliza operações fiscais
+A 4ª edição da Mostra Fazendo Artes, Aprendendo Ofícios que homenageia o centenário do nascimento do artista plástico cearense Zé Pinto está na última semana de visitação. Lançada no dia 27 de março, a Mostra segue em cartaz até o dia 15 de maio, reunindo exposições com trabalhos artísticos desenvolvidos pelos alunos da Escola de Artes e Ofícios Thomaz Pompeu Sobrinho (EAOTPS) no ciclo formativo 2025/2026. São obras no campo dos ofícios tradicionais (Bordado, Gravura e Prataria Artesanal) e na área da Conservação e Restauração de bens patrimoniais. A Mostra conta com uma exposição que reúne 13 esculturas do Zé Pinto que foram restauradas pelos alunos do Curso de Conservação e Restauração, sob coordenação do professor e restaurador Antônio Vieira. As obras pertencem ao acervo da Prefeitura de Fortaleza, além de coleções particulares.
 
-A Secretaria da Fazenda do Ceará (Sefaz-CE) deu mais um passo na modernização do controle de mercadorias em trânsito, lançando, por meio da Coordenadoria de Fiscalização de Mercadorias em Trânsito (Cofit), uma interface de programação de aplicações (API) voltada para as transportadoras que operam no estado.
+Outra homenagem ao Zé Pinto é feita pelos alunos do Curso de Iniciação em Bordado e Costura, com a exposição Zé Pinto, Sucata entre linhas, que tem curadoria da bordadeira Iara Reis e reúne peças bordados inspiradas no trabalho do artista, com reaproveitamento de peças de sucata. Os alunos do Curso de Gravura Integrada também fazem uma homenagem ao artista com obras que utilizam técnicas de xilogravura, litografia, gravura em metal e serigrafia, além de outras impressões gráficas com temática livre. Esta exposição tem curadoria do artista gravurista Gerson Ipirajá.
 
-A nova solução permite a integração direta entre os sistemas das transportadoras e o Sistema de Trânsito de Mercadorias (Sitram). Na prática, isso significa mais agilidade, menos intervenção manual e maior eficiência nos processos realizados nos postos fiscais.
+O visitante também encontra na Mostra as exposições “Memórias preservadas”, com exibição de trabalhos de conservação e restauração feitos pela Escola; “Artes em Prataria Artesanal”, com obras produzidas pelos alunos do Curso de Aperfeiçoamento em Prataria Artesanal; além de uma exibição de fotografias sobre o Projeto Patrimônio para Todos – Uma aventura através das memórias, reunindo imagens de Sandy Albuquerque e Gabriel Franck.
 
-Conforme o orientador da Célula de Monitoramento de Mercadorias em Trânsito (Cemot), Germano Guerra, a inovação possibilita uma comunicação automatizada entre os sistemas. “A transportadora passa a consultar o Sitram diretamente por meio da API, recebendo respostas em tempo real, com base nos dados da Sefaz”, explica.
+Sobre Zé Pinto: Zé Pinto era o nome artístico do escultor cearense Francisco Magalhães Barbosa (1925-2004), autor de um grande número de esculturas feitas a partir de peças de sucata. Autodidata, suas criações participaram de inúmeras mostras coletivas e individuais de arte, como o Salão de Abril.
 
-Com a integração, as transportadoras passam a ter mais transparência sobre o fluxo de registro das notas fiscais. Os sistemas podem ser configurados para acompanhar, em tempo real, o status das notas fiscais e identificar pendências de forma antecipada.
+Sobre a EAOTPS: A Escola de Artes e Ofícios Thomaz Pompeu Sobrinho é um espaço da Rede Pública de Equipamentos Culturais da Secretaria da Cultura do Ceará (Secult) gerido em parceria com o Instituto Dragão do Mar. O equipamento atua na área da educação patrimonial, promovendo há mais de 20 anos cursos de conservação e restauração e de ofícios tradicionais, entre outras atividades.
 
-Outro avanço é a automação do processo de pagamento de tributos. Quando há Imposto sobre Circulação de Mercadorias e Serviços (ICMS) da operação a recolher, o sistema da transportadora pode realizar automaticamente o download do Documento de Arrecadação Estadual (DAE), em formato PDF, e até encaminhá-lo aos responsáveis pelo pagamento, reduzindo falhas operacionais, erros de digitação e atrasos no pagamento.
-
-A expectativa é que a ferramenta contribua diretamente para a redução do tempo de espera nos postos fiscais, agilizando a liberação de mercadorias. Com isso, as equipes podem focar no atendimento e na resolução de pendências mais complexas.
-
-Clique aqui para saber como agilizar seu atendimento a partir da API das transportadoras.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/API-das-transportadoras-1200x669-1.jpeg" type="image/jpeg" />
+Local: Sede da EAOTPS – Av. Francisco Sá, 1801, Jacarecanga, Fortaleza/CE]]></content:encoded>
+    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/DSC_9513.jpg" type="image/jpeg" />
   </item>
   <item>
-    <title>Vapt Vupt de Juazeiro do Norte registra mais de 5 milhões de atendimentos</title>
-    <guid>https://www.ce.gov.br/2026/05/11/vapt-vupt-de-juazeiro-do-norte-registra-mais-de-5-milhoes-de-atendimentos/</guid>
-    <pubDate>2026-05-11T15:49:42</pubDate>
-    <description><![CDATA[Equipamento reúne serviços essenciais e mantém índice de satisfação acima de 99% entre usuários
+    <title>Semana na Pinacoteca do Ceará destaca debate sobre curadoria e visita temática em Libras </title>
+    <guid>https://www.ce.gov.br/2026/05/12/semana-na-pinacoteca-do-ceara-destaca-debate-sobre-curadoria-e-visita-tematica-em-libras/</guid>
+    <pubDate>2026-05-12T09:47:25</pubDate>
+    <description><![CDATA[Entre 13 e 17 de maio, o museu também traz uma nova modalidade de yoga e atividades infantis. Toda a programação é gratuita
 
-Ainda cedo, antes mesmo do fluxo mais intenso do dia, a movimentação já começa a ganhar forma no Vapt Vupt de Juazeiro do Norte, equipamento do Governo do Estado do Ceará. Pessoas chegam com documentos nas mãos, algumas com horário marcado, outras em busca de orientação. Em comum, a expectativa de resolver, em poucas horas, demandas que antes poderiam levar dias.
+A Pinacoteca do Ceará traz como destaques da semana uma fala pública sobre curadoria, prática artística e território, com o pesquisador e curador Osmar Paulino, além de visita temática em Libras. O museu, que integra a Rede de Equipamentos  e Espaços Culturais da Secretaria da Cultura do Ceará (Secult-CE) e é gerido em parceria com o Instituto Mirante, oferece ainda uma nova modalidade no programa Yoga ao Pôr do Sol e atividades voltadas ao público infantil. O acesso é gratuito.
 
-Coordenada pela Secretaria da Proteção Social (SPS), a unidade foi inaugurada em agosto de 2014 e já ultrapassou a marca de 5,1 milhões de atendimentos realizados. Ao longo desse período, o equipamento passou a ocupar um lugar central na rotina de quem precisa acessar serviços públicos na região do Cariri.
+A programação inicia na quarta-feira (13), com o Pouso do Trabalhador, que realiza uma oficina de bonecas Abayomi. Com mediação de Iuri Tavares, a partir das 12h30, no hall, os participantes são convidados a confeccionar bonecas de pano com origem na resistência da cultura afro-brasileira. A atividade oferece 15 vagas por ordem de chegada e conta com acessibilidade em Libras. No final da tarde, às 17h, o pátio recebe o Yoga ao Pôr do Sol com a estreia da Kemetic Yoga, conduzida pela instrutora Beatriz Freitas. Selecionada pelo Edital de Credenciamento de atividades artísticas, a prática resgata saberes do antigo Egito para o autocuidado. São ofertadas 30 vagas, disponíveis na recepção uma hora antes e reserva de 30% das vagas para pessoas negras.
 
-Os números ajudam a dimensionar esse movimento. Somente em 2025, foram 480.399 atendimentos. Em 2026, até março, já são 131.111 registros. Em dias úteis, a média chega a 1.872 atendimentos diários. O índice de satisfação acumulado, de 99,73%, aponta para a percepção positiva por parte dos usuários.
+Na sexta-feira (15), a atividade formativa ocorre no auditório, às 18h, com a Fala Pública “curadoria d’água barrenta”, ministrada pelo pesquisador e curador Osmar Paulino. O convidado integra a programação do V Ateliê de Pesquisa e Crítica e utiliza a metáfora da água e o conceito tupi de Imbariê para discutir novos modos de olhar e ensinar a arte contemporânea, pensando a exposição como um processo vivo e conectado aos lugares. A participação é por ordem de chegada e o encontro contará com acessibilidade em Libras.
 
-No mesmo espaço, funcionam órgãos estaduais e federais como Cagece, Detran, IDT/Sine, Pefoce, Sefaz, TRE e o Tribunal de Justiça. A emissão da nova carteira de identidade nacional (CIN), os serviços do Detran e as demandas ligadas à Perícia Forense estão entre os atendimentos mais procurados.
+&gt; Saiba mais detalhes sobre a Fala Pública AQUI
 
-Para quem acompanha essa trajetória desde o início, as mudanças são visíveis. O gerente da unidade, Rodolfo Braga, iniciou sua atuação como atendente e hoje responde pela gestão do equipamento. “Eu lembro de quando a população chegava de madrugada. Hoje, o cidadão já sai de casa com horário definido. Isso muda completamente a forma como ele é atendido”, relata.
+No domingo (17), o foco é no público infantil. O Ateliê Criança Cria “Malungo: Brincadeiras afro-indígenas”, mediada por Déu, tem duas sessões, uma às 10h30 e outra às 15h. Selecionada via Edital de Credenciamento, a atividade propõe um resgate das ancestralidades populares para crianças a partir de 4 anos acompanhadas de um responsável, com 15 vagas por turma. O acesso é por ordem de chegada.
 
-Essa organização impacta diretamente a experiência de quem passa pelo local. Aos 18 anos, o estudante Kauê Marinho já conhece bem a dinâmica do equipamento. “É rápido. Quando a gente precisa resolver alguma coisa, resolve mesmo”, resume.
+A Mostra Acervo Pinacoteca do Ceará, com trabalhos de Chico da Silva pertencentes à coleção do museu e bastidores do processo de conservação e restauro, também é outro convite aos visitantes.
 
-A presença do Vapt Vupt tem atraído moradores de cidades vizinhas. Vinda de Missão Velha, a dona de casa Jennyfer Rayanne buscou o serviços para emitir documentos para si e para os filhos. “Na minha cidade demora muito. Aqui é diferente, já cheguei com agendamento e fui atendida. É mais prático”, conta.
+A classificação indicativa das mostras varia e a visitação é livre e gratuita de quarta a sexta-feira, de 10h às 18h, aos sábados de 12h às 20h e aos domingos, de 10h às 17h.
 
-Para o médico Francisco Caio Amorim, que esteve na unidade para renovar a carteira de habilitação, a concentração de serviços em um único espaço faz diferença no cotidiano. “Você resolve tudo no mesmo lugar. Isso economiza tempo e evita deslocamentos. O processo fica mais organizado”, avalia.
+Inaugurada em dezembro de 2022 pelo Governo do Ceará, a Pinacoteca do Ceará tem a missão de salvaguardar, preservar, pesquisar e difundir a coleção artística da instituição, sendo espaço de ações formativas com artistas, comunidade escolar, famílias, movimentos sociais, organizações não governamentais e demais profissionais do campo das artes e da cultura. Trata-se de um espaço de experimentação, pesquisa e reflexão para promover o diálogo entre arte e educação a partir de práticas artísticas. Desde a abertura, o museu já recebeu mais de 272 mil visitantes.
 
-O funcionamento do equipamento também revela outra dimensão do serviço público, a de quem atende. Aos 20 anos, Adonai Silva, atendente junior, vê no trabalho uma forma direta de impacto social. “Quando a gente ajuda alguém a tirar um documento, está ajudando essa pessoa a acessar direitos. Isso tem um peso grande”, afirma.
+13/5/2026 | quarta-feira | 12h30 às 13h30
 
-O estado conta com uma rede de atendimento ao cidadão estruturada para ampliar o acesso a serviços públicos de forma mais ágil e integrada. No caso dos Vapt Vupts, são sete unidades em funcionamento no estado, sendo cinco em Fortaleza, além de Sobral e Juazeiro do Norte.
+[POUSO DO TRABALHADOR]
 
-Os equipamentos do Governo do Ceará concentram, em um único local, serviços de diversos órgãos públicos, facilitando o acesso da população a atendimentos essenciais. É importante destacar que cinco dessas unidades oferecem atendimento ao cidadão com salas de acomodação sensorial, especialmente para pessoas atípicas. Para utilizar os serviços dos Vapts Vupts, é necessário realizar o agendamento prévio pelo site meuvaptvupt.com.br ou se dirigir a unidade mais próxima.
+Oficina de Boneca Abayomi
 
-Vapt Vupt de Juazeiro do Norte
+Com  Iuri Tavares
 
-Funcionamento: Segunda a sexta, das 8h às 17h
+Local: Hall da Pinacoteca
 
-Endereço: R. Interventor Francisco Erivano Cruz, 120 – Centro, Juazeiro do Norte – CE
+Classificação Indicativa: Livre
 
-Agendar atendimentos: https://meuvaptvupt.com.br/agendamento]]></description>
-    <content:encoded><![CDATA[Equipamento reúne serviços essenciais e mantém índice de satisfação acima de 99% entre usuários
+Acessibilidade: Libras
 
-Ainda cedo, antes mesmo do fluxo mais intenso do dia, a movimentação já começa a ganhar forma no Vapt Vupt de Juazeiro do Norte, equipamento do Governo do Estado do Ceará. Pessoas chegam com documentos nas mãos, algumas com horário marcado, outras em busca de orientação. Em comum, a expectativa de resolver, em poucas horas, demandas que antes poderiam levar dias.
+Gratuito. 15 vagas disponíveis por ordem de chegada
 
-Coordenada pela Secretaria da Proteção Social (SPS), a unidade foi inaugurada em agosto de 2014 e já ultrapassou a marca de 5,1 milhões de atendimentos realizados. Ao longo desse período, o equipamento passou a ocupar um lugar central na rotina de quem precisa acessar serviços públicos na região do Cariri.
+13/5/2026 | quarta-feira | 17h às 18h
 
-Os números ajudam a dimensionar esse movimento. Somente em 2025, foram 480.399 atendimentos. Em 2026, até março, já são 131.111 registros. Em dias úteis, a média chega a 1.872 atendimentos diários. O índice de satisfação acumulado, de 99,73%, aponta para a percepção positiva por parte dos usuários.
+[YOGA]
 
-No mesmo espaço, funcionam órgãos estaduais e federais como Cagece, Detran, IDT/Sine, Pefoce, Sefaz, TRE e o Tribunal de Justiça. A emissão da nova carteira de identidade nacional (CIN), os serviços do Detran e as demandas ligadas à Perícia Forense estão entre os atendimentos mais procurados.
+Yoga ao Pôr do Sol (Kemetic Yoga)
 
-Para quem acompanha essa trajetória desde o início, as mudanças são visíveis. O gerente da unidade, Rodolfo Braga, iniciou sua atuação como atendente e hoje responde pela gestão do equipamento. “Eu lembro de quando a população chegava de madrugada. Hoje, o cidadão já sai de casa com horário definido. Isso muda completamente a forma como ele é atendido”, relata.
+Com Beatriz Freitas
 
-Essa organização impacta diretamente a experiência de quem passa pelo local. Aos 18 anos, o estudante Kauê Marinho já conhece bem a dinâmica do equipamento. “É rápido. Quando a gente precisa resolver alguma coisa, resolve mesmo”, resume.
+Local: Pátio
 
-A presença do Vapt Vupt tem atraído moradores de cidades vizinhas. Vinda de Missão Velha, a dona de casa Jennyfer Rayanne buscou o serviços para emitir documentos para si e para os filhos. “Na minha cidade demora muito. Aqui é diferente, já cheguei com agendamento e fui atendida. É mais prático”, conta.
+Classificação Indicativa: Livre
 
-Para o médico Francisco Caio Amorim, que esteve na unidade para renovar a carteira de habilitação, a concentração de serviços em um único espaço faz diferença no cotidiano. “Você resolve tudo no mesmo lugar. Isso economiza tempo e evita deslocamentos. O processo fica mais organizado”, avalia.
+Gratuito. 30 vagas* disponíveis a partir de 1h antes da atividade
 
-O funcionamento do equipamento também revela outra dimensão do serviço público, a de quem atende. Aos 20 anos, Adonai Silva, atendente junior, vê no trabalho uma forma direta de impacto social. “Quando a gente ajuda alguém a tirar um documento, está ajudando essa pessoa a acessar direitos. Isso tem um peso grande”, afirma.
-
-O estado conta com uma rede de atendimento ao cidadão estruturada para ampliar o acesso a serviços públicos de forma mais ágil e integrada. No caso dos Vapt Vupts, são sete unidades em funcionamento no estado, sendo cinco em Fortaleza, além de Sobral e Juazeiro do Norte.
-
-Os equipamentos do Governo do Ceará concentram, em um único local, serviços de diversos órgãos públicos, facilitando o acesso da população a atendimentos essenciais. É importante destacar que cinco dessas unidades oferecem atendimento ao cidadão com salas de acomodação sensorial, especialmente para pessoas atípicas. Para utilizar os serviços dos Vapts Vupts, é necessário realizar o agendamento prévio pelo site meuvaptvupt.com.br ou se dirigir a unidade mais próxima.
-
-Vapt Vupt de Juazeiro do Norte
-
-Funcionamento: Segunda a sexta, das 8h às 17h
-
-Endereço: R. Interventor Francisco Erivano Cruz, 120 – Centro, Juazeiro do Norte – CE
-
-Agendar atendimentos: https://meuvaptvupt.com.br/agendamento]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/Vapt-Vupt-Juazeiro-do-Norte-1.jpeg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Detran-CE realiza leilão virtual em Camocim dia 13 de maio com lances a partir de R$ 100</title>
-    <guid>https://www.ce.gov.br/2026/05/11/detran-ce-realiza-leilao-virtual-em-camocim-dia-13-de-maio-com-lances-a-partir-de-r-100/</guid>
-    <pubDate>2026-05-11T15:42:23</pubDate>
-    <description><![CDATA[O Departamento Estadual de Trânsito do Ceará (Detran-CE) promove, nesta quarta-feira (13), um leilão de veículos em Camocim. O evento, realizado de forma totalmente virtual, conta com 290 lotes, incluindo motocicletas, carros e sucatas. Na terça-feira (12), das 8h às 16h, os interessados podem visitar o pátio credenciado em Camocim para vistoria presencial.
-
-Para participar, é necessário atender aos critérios estabelecidos em edital. Vale ressaltar que os lotes de sucata são exclusivos para empresas (pessoas jurídicas) do setor de desmonte, devidamente cadastradas no Detran-CE. Mais informações podem ser consultadas no site da Montenegro Leilões (montenegroleiloes.com.br) ou pelo telefone (85) 3066-8282.
-
-O arrematante receberá o veículo livre de débitos anteriores à data do leilão. Ficam sob responsabilidade do comprador apenas os procedimentos padrão de regularização — como taxa de transferência e confecção de placas —, processo semelhante à aquisição de um veículo em concessionária.
-
-Todos os itens leiloados foram apreendidos por circularem irregularmente em via pública. Conforme o Código de Trânsito Brasileiro (CTB), os órgãos de trânsito devem leiloar veículos recolhidos que não forem resgatados pelos proprietários no prazo de 60 dias.
-
-Leilão Virtual de Veículos do Detran-CE – Regional Camocim
-
-Visitação presencial: Terça-feira, 12 de maio, no pátio da Regional do Detran de Camocim (Rodovia CE-085, KM 399, Tijuca — próximo à rotatória).
-
-Participação e lances: montenegroleiloes.com.br
-
-====================================================
-
-NORMAS_PROCEDIMENTOS_EDITAL_LEILAO_02_2026_CAMOCIM
-
-LOTES_EDITAL_LEILAO_02_2026_CAMOCIM]]></description>
-    <content:encoded><![CDATA[O Departamento Estadual de Trânsito do Ceará (Detran-CE) promove, nesta quarta-feira (13), um leilão de veículos em Camocim. O evento, realizado de forma totalmente virtual, conta com 290 lotes, incluindo motocicletas, carros e sucatas. Na terça-feira (12), das 8h às 16h, os interessados podem visitar o pátio credenciado em Camocim para vistoria presencial.
-
-Para participar, é necessário atender aos critérios estabelecidos em edital. Vale ressaltar que os lotes de sucata são exclusivos para empresas (pessoas jurídicas) do setor de desmonte, devidamente cadastradas no Detran-CE. Mais informações podem ser consultadas no site da Montenegro Leilões (montenegroleiloes.com.br) ou pelo telefone (85) 3066-8282.
-
-O arrematante receberá o veículo livre de débitos anteriores à data do leilão. Ficam sob responsabilidade do comprador apenas os procedimentos padrão de regularização — como taxa de transferência e confecção de placas —, processo semelhante à aquisição de um veículo em concessionária.
-
-Todos os itens leiloados foram apreendidos por circularem irregularmente em via pública. Conforme o Código de Trânsito Brasileiro (CTB), os órgãos de trânsito devem leiloar veículos recolhidos que não forem resgatados pelos proprietários no prazo de 60 dias.
-
-Leilão Virtual de Veículos do Detran-CE – Regional Camocim
-
-Visitação presencial: Terça-feira, 12 de maio, no pátio da Regional do Detran de Camocim (Rodovia CE-085, KM 399, Tijuca — próximo à rotatória).
-
-Participação e lances: montenegroleiloes.com.br
-
-====================================================
-
-NORMAS_PROCEDIMENTOS_EDITAL_LEILAO_02_2026_CAMOCIM
-
-LOTES_EDITAL_LEILAO_02_2026_CAMOCIM]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/leilao-10-161225-capa-726x485-1.jpg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Sua Nota Tem Valor: mais de 9 milhões de bilhetes foram gerados para o 70º sorteio</title>
-    <guid>https://www.ce.gov.br/2026/05/11/sua-nota-tem-valor-mais-de-9-milhoes-de-bilhetes-foram-gerados-para-o-70o-sorteio/</guid>
-    <pubDate>2026-05-11T14:52:53</pubDate>
-    <description><![CDATA[Sorteio ocorrerá no dia 20 de maio
-
-A Secretaria da Fazenda do Ceará (Sefaz-CE) disponibiliza a consulta aos bilhetes que concorrerão ao 70° sorteio do programa Sua Nota Tem Valor (SNTV), os quais podem ser conferidos por meio do site ou do aplicativo da iniciativa. Registrados em notas fiscais emitidas em abril de 2026, foram gerados 9.037.750 bilhetes de participantes do concurso n.º 06067-4.
-
-Para o 70º sorteio, a premiação geral permanece com um prêmio de R$ 40 mil, cinco prêmios de R$ 10 mil e dez de R$ 500. O sorteio por áreas continua totalizando R$ 120 mil, quantia dividida entre seis prêmios de R$ 5 mil – três para pessoas físicas e três para instituições cadastradas – e 90 prêmios de R$ 1 mil – 45 para pessoas físicas e 45 para instituições cadastradas.
-
-Permanece também o rateio de R$ 300 mil, dividido entre as instituições sem fins lucrativos por terem atingido o Índice de Engajamento Social (IES) de 0,1% do total de pontos apurados, a partir das compras com notas fiscais com os CPFs das pessoas cadastradas no programa. Após auditoria que garante a lisura e a segurança dos resultados, os nomes dos ganhadores serão divulgados até 22 de maio, nos sites e nas redes sociais da Sefaz-CE e do Sua Nota Tem Valor.
-
-Nos casos em que o participante venha a ser contemplado em sorteio regional mensal, a apresentação de comprovante de residência ou declaração de moradia que ateste a residência no município correspondente ao prêmio é requisito para a validação da premiação, conforme o artigo 24, § 8º, da Instrução Normativa nº 65/2025.
-
-Assim, reforça-se a importância de os participantes manterem os dados cadastrais atualizados, especialmente as informações de residência.
-
-Com mais de 504 mil participantes, o Sua Nota Tem Valor é uma iniciativa do Governo do Ceará, desenvolvida pela Secretaria da Fazenda, que tem o objetivo de conscientizar a população acerca da importância de pedir notas e cupons fiscais e, assim, garantir o recolhimento dos tributos, por meio da educação fiscal. Desde a criação, em 2020, o programa já entregou cerca de R$ 34,02 milhões em prêmios, distribuídos entre 1.751 pessoas e 489 instituições.
-
-O consumidor deve se cadastrar no site específico ou no aplicativo Sua Nota Tem Valor, o qual está disponível para download gratuito nas lojas Play Store (sistema operacional Android) e App Store (sistema iOS). Após o preenchimento do cadastro, todas as vezes em que você pedir seu CPF na nota fiscal, automaticamente, já são registrados os pontos para o programa, contribuindo para um sistema tributário e uma sociedade mais justa.]]></description>
-    <content:encoded><![CDATA[Sorteio ocorrerá no dia 20 de maio
-
-A Secretaria da Fazenda do Ceará (Sefaz-CE) disponibiliza a consulta aos bilhetes que concorrerão ao 70° sorteio do programa Sua Nota Tem Valor (SNTV), os quais podem ser conferidos por meio do site ou do aplicativo da iniciativa. Registrados em notas fiscais emitidas em abril de 2026, foram gerados 9.037.750 bilhetes de participantes do concurso n.º 06067-4.
-
-Para o 70º sorteio, a premiação geral permanece com um prêmio de R$ 40 mil, cinco prêmios de R$ 10 mil e dez de R$ 500. O sorteio por áreas continua totalizando R$ 120 mil, quantia dividida entre seis prêmios de R$ 5 mil – três para pessoas físicas e três para instituições cadastradas – e 90 prêmios de R$ 1 mil – 45 para pessoas físicas e 45 para instituições cadastradas.
-
-Permanece também o rateio de R$ 300 mil, dividido entre as instituições sem fins lucrativos por terem atingido o Índice de Engajamento Social (IES) de 0,1% do total de pontos apurados, a partir das compras com notas fiscais com os CPFs das pessoas cadastradas no programa. Após auditoria que garante a lisura e a segurança dos resultados, os nomes dos ganhadores serão divulgados até 22 de maio, nos sites e nas redes sociais da Sefaz-CE e do Sua Nota Tem Valor.
-
-Nos casos em que o participante venha a ser contemplado em sorteio regional mensal, a apresentação de comprovante de residência ou declaração de moradia que ateste a residência no município correspondente ao prêmio é requisito para a validação da premiação, conforme o artigo 24, § 8º, da Instrução Normativa nº 65/2025.
-
-Assim, reforça-se a importância de os participantes manterem os dados cadastrais atualizados, especialmente as informações de residência.
-
-Com mais de 504 mil participantes, o Sua Nota Tem Valor é uma iniciativa do Governo do Ceará, desenvolvida pela Secretaria da Fazenda, que tem o objetivo de conscientizar a população acerca da importância de pedir notas e cupons fiscais e, assim, garantir o recolhimento dos tributos, por meio da educação fiscal. Desde a criação, em 2020, o programa já entregou cerca de R$ 34,02 milhões em prêmios, distribuídos entre 1.751 pessoas e 489 instituições.
-
-O consumidor deve se cadastrar no site específico ou no aplicativo Sua Nota Tem Valor, o qual está disponível para download gratuito nas lojas Play Store (sistema operacional Android) e App Store (sistema iOS). Após o preenchimento do cadastro, todas as vezes em que você pedir seu CPF na nota fiscal, automaticamente, já são registrados os pontos para o programa, contribuindo para um sistema tributário e uma sociedade mais justa.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/bilhetes-gerados-70-1200x712-1.jpeg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Ceasa-CE e Prefeitura de Maracanaú realizam ações de proteção a crianças e adolescentes</title>
-    <guid>https://www.ce.gov.br/2026/05/11/ceasa-ce-e-prefeitura-de-maracanau-realizam-acoes-de-protecao-a-criancas-e-adolescentes/</guid>
-    <pubDate>2026-05-11T14:17:21</pubDate>
-    <description><![CDATA[A Ceasa-CE, em parceria com a Prefeitura de Maracanaú, por meio da Secretaria de Assistência Social e Cidadania, por meio do Centro de Referência Especializado de Assistência Social (Creas), realizou na manhã desta segunda-feira (11), no entreposto de Maracanaú, uma ação de combate ao trabalho infantil e à exploração sexual de crianças e adolescentes.
-
-A atividade aconteceu das 9h às 11h30min e teve como objetivo conscientizar comerciantes, trabalhadores e frequentadores da Ceasa-CE sobre a importância da proteção integral de crianças e adolescentes, além de orientar a população sobre os canais de denúncia e os direitos garantidos por lei.
-
-Para o presidente da Ceasa-CE, Hebert Lima, a iniciativa reforça o compromisso social da instituição. “A Ceasa-CE é um espaço de grande circulação de pessoas e também um ambiente de conscientização. Apoiar ações como essa é fundamental para fortalecer a rede de proteção às crianças e adolescentes e combater qualquer forma de violação dos seus direitos”, destacou.
-
-O Creas é uma unidade pública da política de assistência social vinculada à Secretaria de Assistência Social e Cidadania de Maracanaú e atua oferecendo apoio, orientação e acompanhamento a famílias e indivíduos em situação de risco pessoal e social, especialmente em casos de violação de direitos.
-
-Segundo a coordenadora do Creas de Maracanaú, Cristiane Oliveira, a ação foi uma abordagem social para identificar possíveis situações de trabalho infantil e também orientar a todos sobre o tema. “Neste mês, reforçamos ainda a campanha de combate à exploração sexual de crianças e adolescentes, lembrada no dia 18 de maio, que também é considerada uma das formas de trabalho infantil. Nosso objetivo é conscientizar a população, divulgar os canais de denúncia e verificar possíveis situações de violação de direitos durante as abordagens”, afirmou.]]></description>
-    <content:encoded><![CDATA[A Ceasa-CE, em parceria com a Prefeitura de Maracanaú, por meio da Secretaria de Assistência Social e Cidadania, por meio do Centro de Referência Especializado de Assistência Social (Creas), realizou na manhã desta segunda-feira (11), no entreposto de Maracanaú, uma ação de combate ao trabalho infantil e à exploração sexual de crianças e adolescentes.
-
-A atividade aconteceu das 9h às 11h30min e teve como objetivo conscientizar comerciantes, trabalhadores e frequentadores da Ceasa-CE sobre a importância da proteção integral de crianças e adolescentes, além de orientar a população sobre os canais de denúncia e os direitos garantidos por lei.
-
-Para o presidente da Ceasa-CE, Hebert Lima, a iniciativa reforça o compromisso social da instituição. “A Ceasa-CE é um espaço de grande circulação de pessoas e também um ambiente de conscientização. Apoiar ações como essa é fundamental para fortalecer a rede de proteção às crianças e adolescentes e combater qualquer forma de violação dos seus direitos”, destacou.
-
-O Creas é uma unidade pública da política de assistência social vinculada à Secretaria de Assistência Social e Cidadania de Maracanaú e atua oferecendo apoio, orientação e acompanhamento a famílias e indivíduos em situação de risco pessoal e social, especialmente em casos de violação de direitos.
-
-Segundo a coordenadora do Creas de Maracanaú, Cristiane Oliveira, a ação foi uma abordagem social para identificar possíveis situações de trabalho infantil e também orientar a todos sobre o tema. “Neste mês, reforçamos ainda a campanha de combate à exploração sexual de crianças e adolescentes, lembrada no dia 18 de maio, que também é considerada uma das formas de trabalho infantil. Nosso objetivo é conscientizar a população, divulgar os canais de denúncia e verificar possíveis situações de violação de direitos durante as abordagens”, afirmou.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/MG_6700.JPG-scaled-1.jpeg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>SDE articula chegada de indústria de cosméticos e novos investimentos para o Sertão Central</title>
-    <guid>https://www.ce.gov.br/2026/05/11/sde-articula-chegada-de-industria-de-cosmeticos-e-novos-investimentos-para-o-sertao-central/</guid>
-    <pubDate>2026-05-11T14:14:32</pubDate>
-    <description><![CDATA[A secretária executiva da Indústria da Secretaria do Desenvolvimento Econômico (SDE), Brígida Miola, recebeu, nesta segunda-feira (11), representantes da Prefeitura de Pedra Branca e da empresa Maila Cosméticos. O encontro teve como foco a aproximação da empresa, visando interiorização do desenvolvimento e a prospecção de novos negócios para o Sertão Central.
-
-Durante a reunião, a prefeita Ivoneth Braga destacou o esforço contínuo de sua gestão para atrair investidores que possam complementar a economia do município, hoje fortemente baseada no agronegócio — com destaque para a produção de algodão, mel e carne.
-
-Um dos grandes destaques da pauta foi a Maila Cosméticos. Com mais de 24 anos de mercado, a empresa é uma gigante na produção de marcas próprias e terceirização para multinacionais. A possível instalação da empresa no Ceará representa um salto tecnológico para a Região. A empresa se destaca com algumas vantagens no mercado, dentre eles, potencial produtivo de 40 milhões de unidades por mês, área fabril de 20.000m², tecnologia de ponta com linhas de envase automáticas e forte atuação nas linhas de Oral Care, Skin Care, Body Care e Hair Care.]]></description>
-    <content:encoded><![CDATA[A secretária executiva da Indústria da Secretaria do Desenvolvimento Econômico (SDE), Brígida Miola, recebeu, nesta segunda-feira (11), representantes da Prefeitura de Pedra Branca e da empresa Maila Cosméticos. O encontro teve como foco a aproximação da empresa, visando interiorização do desenvolvimento e a prospecção de novos negócios para o Sertão Central.
-
-Durante a reunião, a prefeita Ivoneth Braga destacou o esforço contínuo de sua gestão para atrair investidores que possam complementar a economia do município, hoje fortemente baseada no agronegócio — com destaque para a produção de algodão, mel e carne.
-
-Um dos grandes destaques da pauta foi a Maila Cosméticos. Com mais de 24 anos de mercado, a empresa é uma gigante na produção de marcas próprias e terceirização para multinacionais. A possível instalação da empresa no Ceará representa um salto tecnológico para a Região. A empresa se destaca com algumas vantagens no mercado, dentre eles, potencial produtivo de 40 milhões de unidades por mês, área fabril de 20.000m², tecnologia de ponta com linhas de envase automáticas e forte atuação nas linhas de Oral Care, Skin Care, Body Care e Hair Care.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-11-at-14.05.07.jpeg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>CEE apresenta Plano de Desenvolvimento do Sistema de Legalização Escolar (SLE)</title>
-    <guid>https://www.ce.gov.br/2026/05/11/cee-apresenta-plano-de-desenvolvimento-do-sistema-de-legalizacao-escolar-sle/</guid>
-    <pubDate>2026-05-11T14:03:14</pubDate>
-    <description><![CDATA[A equipe da Coordenadoria de Tecnologia da Informação e Comunicação (Cotic) do Conselho Estadual de Educação (CEE) apresentou, na última sexta-feira (8), o Plano de Desenvolvimento do SLE – Sistema de Legalização Escolar para os gestores do órgão.
-
-O encontro teve como objetivo detalhar as diretrizes iniciais, as etapas de desenvolvimento e a proposta de modernização dos processos vigentes. A meta principal é integrar e unificar as informações em uma plataforma única, superando a fragmentação dos sistemas atuais.
-
-O SLE está sendo projetado com foco em eficiência, segurança, padronização de dados e plena adequação às necessidades do Conselho e das instituições de ensino. Durante a apresentação, foram demonstradas as premissas do projeto, os objetivos estratégicos e os benefícios esperados tanto para usuários internos quanto externos.
-
-A iniciativa representa um avanço significativo do CEE na transformação digital institucional, reafirmando o compromisso da Cotic com a inovação tecnológica e a melhoria contínua dos serviços prestados à sociedade.]]></description>
-    <content:encoded><![CDATA[A equipe da Coordenadoria de Tecnologia da Informação e Comunicação (Cotic) do Conselho Estadual de Educação (CEE) apresentou, na última sexta-feira (8), o Plano de Desenvolvimento do SLE – Sistema de Legalização Escolar para os gestores do órgão.
-
-O encontro teve como objetivo detalhar as diretrizes iniciais, as etapas de desenvolvimento e a proposta de modernização dos processos vigentes. A meta principal é integrar e unificar as informações em uma plataforma única, superando a fragmentação dos sistemas atuais.
-
-O SLE está sendo projetado com foco em eficiência, segurança, padronização de dados e plena adequação às necessidades do Conselho e das instituições de ensino. Durante a apresentação, foram demonstradas as premissas do projeto, os objetivos estratégicos e os benefícios esperados tanto para usuários internos quanto externos.
-
-A iniciativa representa um avanço significativo do CEE na transformação digital institucional, reafirmando o compromisso da Cotic com a inovação tecnológica e a melhoria contínua dos serviços prestados à sociedade.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/sistema-600x600-1.jpg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Lançamento de plataforma com inventários culturais e homenagem a guardiões da memória marcam início da edição 2026 do Projeto Patrimônio para Todos</title>
-    <guid>https://www.ce.gov.br/2026/05/11/lancamento-de-plataforma-com-inventarios-culturais-e-homenagem-a-guardioes-da-memoria-marcam-inicio-da-edicao-2026-do-projeto-patrimonio-para-todos/</guid>
-    <pubDate>2026-05-11T13:47:58</pubDate>
-    <description><![CDATA[Lançamento do Projeto Patrimônio Para Todos
-
-Uma noite para celebrar a diversidade do patrimônio cultural. Assim foi o lançamento da edição 2026 do Projeto Patrimônio Para Todos (PPT) – Uma aventura através das memórias, realizado a última sexta-feira (8), no Museu da Imagem e do Som do Ceará (MIS-CE). Iniciativa da Escola de Artes e Ofícios Thomaz Pompeu Sobrinho (EAOTPS) o Projeto percorre territórios diversos, realizando oficinas de educação patrimonial e construindo um inventário cultural participativo com jovens moradores das localidades visitadas. A EAOTPS e o MIS são espaços que integram a Rede Pública de Equipamentos Culturais (Rece) do Governo do Ceará, vinculada à Secretaria da Cultura (Secult). A Escola é gerida em parceria com o Instituto Dragão do Mar (IDM) e o Museu é gerido em parceria com o Instituto Mirante de Cultura e Arte.
-
-A programação do evento incluiu o lançamento da plataforma do Projeto, portal que reúne acervo com os patrimônios inventariados de forma colaborativa ao longo das edições do PPT, uma homenagem aos guardiões da memória identificados no ano de 2025 em bairros periféricos de Fortaleza, e a exibição do filme documentário Territórios das Memórias, dirigido por Henrique Dídimo. O filme mostra o percurso que o Projeto fez em 2025 nos bairros Ancuri, Barra do Ceará, Henrique Jorge, Luciano Cavalcante e Passaré. O documentário está disponível no canal de YouTube da Escola.
-
-“Costumo dizer que o Projeto Patrimônio para Todos é uma das mais importantes iniciativas da Escola de Artes e Ofícios, porque através dele conseguimos expandir a nossa principal missão que é promover, através de ações educativas, a valorização do patrimônio cultural em toda a sua diversidade”, ressaltou Maninha Morais, gestora executiva da EAOTPS. Também estiveram presentes ao evento Natasha Faria, diretora do MIS-CE; Rachel Gadelha, diretora presidente do Instituto Dragão do Mar; Bete Jaguaribe, diretora de formação do IDM; Elisberto Araújo, técnico da Coordenadoria Estadual de Tempo Integral da Secretaria da Educação do Ceará; e Gecíola Fonseca, Secretária da Cultura do Ceará. A titular da Secult ressaltou a metodologia horizontal do PPT “por colocar nas mãos das comunidades o mapeamento cultural dos territórios visitados”. Rachel Gadelha também reforçou a importância do Projeto: “É uma forma bonita do Estado ouvir e reconhecer o patrimônio que a sociedade já reconhece”.
-
-A Secretária da Cultura do Ceará, Gecíola Fonseca, participou do lançamento do Projeto
-
-Nayane Sena, assessora pedagógica do PPT, destacou que o Projeto utiliza o patrimônio como uma ferramenta “de garantia de direitos sociais e de luta pelo direito à cultura, à memória e à cidade” e enalteceu a importância da plataforma lançada por reunir em um único espaço o acervo inventariado de forma colaborativa ao longo dos anos pelos participantes do Projeto. Já Robson Oliveira, guardião da memória identificado no bairro Ancuri, defendeu que o PPT inspire a construção de uma política pública de Estado.
-
-Este ano, o Projeto Patrimônio para Todos vai percorrer os bairros Granja Lisboa, Conjunto Esperança, Cajazeiras, Pirambu e Alto da Balança
-
-O Projeto Patrimônio Para Todos – Uma aventura através das memórias tem o objetivo de sensibilizar jovens sobre a importância do patrimônio a partir da construção coletiva de um inventário cultural das localidades visitadas. Ao longo de suas edições, o PPT já registrou mais de 700 patrimônios, envolvendo 1750 jovens. O Projeto foi agraciado em 2012, com o Prêmio Rodrigo Melo Franco de Andrade pelo Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN). Em 2023 foi contemplado com o Prêmio Inventários Participativos, do Instituto Brasileiro de Museus (Ibram). O Projeto tem parceria com a Secretaria da Educação do Ceará, com as oficinas sendo realizadas em escolas de tempo integral do Estado.
-
-O portal patrimonioparatodos.com.br é uma plataforma on-line que reúne os patrimônios culturais que foram identificados ao longo das edições do projeto, divididos por categorias: Saberes, ofícios e modos de fazer; Lugares de memória; Celebrações; Histórias e lendas; Guardiões da memória; e Expressões culturais. No primeiro momento, estão disponibilizados os acervos das últimas cinco edições do PPT, realizadas de 2022 a 2025. Todo o inventário do Projeto é desenvolvido a partir de uma metodologia participativa, através do qual os moradores dos territórios visitados indicam o que é considerado patrimônio em sua comunidade.
-
-A plataforma é estruturada sobre o Tainacan, uma solução brasileira de software livre, desenvolvida pelo Laboratório de Inteligência de Redes da Universidade de Brasília (UnB) com apoio de instituições como o Ibram e o IBICT. Voltada para gestão de acervos digitais de museus e instituições culturais, o Tainacan atua permitindo o armazenamento, catalogação e a disponibilização pública de acervos com mecanismos avançados de busca, garantindo a democratização do acesso e a preservação digital do patrimônio cultural. O lançamento do portal é fruto da premiação que o PPT recebeu em 2023, quando foi contemplado com o Prêmio Inventários Participativos, do Ibram.
-
-EAOTPS é um espaço que integra a Rede Pública de Equipamentos Culturais (Rece) do Governo do Ceará, vinculada à Secretaria da Cultura (Secult) e gerido em parceria com o Instituto Dragão do Mar (IDM).
-
-O Museu da Imagem e do Som é um espaço que integra a Rede Pública de Equipamentos Culturais (Rece) do Governo do Ceará, vinculada à Secretaria da Cultura (Secult) e é gerido em parceria com o Instituto Mirante de Cultura e Arte]]></description>
-    <content:encoded><![CDATA[Lançamento do Projeto Patrimônio Para Todos
-
-Uma noite para celebrar a diversidade do patrimônio cultural. Assim foi o lançamento da edição 2026 do Projeto Patrimônio Para Todos (PPT) – Uma aventura através das memórias, realizado a última sexta-feira (8), no Museu da Imagem e do Som do Ceará (MIS-CE). Iniciativa da Escola de Artes e Ofícios Thomaz Pompeu Sobrinho (EAOTPS) o Projeto percorre territórios diversos, realizando oficinas de educação patrimonial e construindo um inventário cultural participativo com jovens moradores das localidades visitadas. A EAOTPS e o MIS são espaços que integram a Rede Pública de Equipamentos Culturais (Rece) do Governo do Ceará, vinculada à Secretaria da Cultura (Secult). A Escola é gerida em parceria com o Instituto Dragão do Mar (IDM) e o Museu é gerido em parceria com o Instituto Mirante de Cultura e Arte.
-
-A programação do evento incluiu o lançamento da plataforma do Projeto, portal que reúne acervo com os patrimônios inventariados de forma colaborativa ao longo das edições do PPT, uma homenagem aos guardiões da memória identificados no ano de 2025 em bairros periféricos de Fortaleza, e a exibição do filme documentário Territórios das Memórias, dirigido por Henrique Dídimo. O filme mostra o percurso que o Projeto fez em 2025 nos bairros Ancuri, Barra do Ceará, Henrique Jorge, Luciano Cavalcante e Passaré. O documentário está disponível no canal de YouTube da Escola.
-
-“Costumo dizer que o Projeto Patrimônio para Todos é uma das mais importantes iniciativas da Escola de Artes e Ofícios, porque através dele conseguimos expandir a nossa principal missão que é promover, através de ações educativas, a valorização do patrimônio cultural em toda a sua diversidade”, ressaltou Maninha Morais, gestora executiva da EAOTPS. Também estiveram presentes ao evento Natasha Faria, diretora do MIS-CE; Rachel Gadelha, diretora presidente do Instituto Dragão do Mar; Bete Jaguaribe, diretora de formação do IDM; Elisberto Araújo, técnico da Coordenadoria Estadual de Tempo Integral da Secretaria da Educação do Ceará; e Gecíola Fonseca, Secretária da Cultura do Ceará. A titular da Secult ressaltou a metodologia horizontal do PPT “por colocar nas mãos das comunidades o mapeamento cultural dos territórios visitados”. Rachel Gadelha também reforçou a importância do Projeto: “É uma forma bonita do Estado ouvir e reconhecer o patrimônio que a sociedade já reconhece”.
-
-A Secretária da Cultura do Ceará, Gecíola Fonseca, participou do lançamento do Projeto
-
-Nayane Sena, assessora pedagógica do PPT, destacou que o Projeto utiliza o patrimônio como uma ferramenta “de garantia de direitos sociais e de luta pelo direito à cultura, à memória e à cidade” e enalteceu a importância da plataforma lançada por reunir em um único espaço o acervo inventariado de forma colaborativa ao longo dos anos pelos participantes do Projeto. Já Robson Oliveira, guardião da memória identificado no bairro Ancuri, defendeu que o PPT inspire a construção de uma política pública de Estado.
-
-Este ano, o Projeto Patrimônio para Todos vai percorrer os bairros Granja Lisboa, Conjunto Esperança, Cajazeiras, Pirambu e Alto da Balança
-
-O Projeto Patrimônio Para Todos – Uma aventura através das memórias tem o objetivo de sensibilizar jovens sobre a importância do patrimônio a partir da construção coletiva de um inventário cultural das localidades visitadas. Ao longo de suas edições, o PPT já registrou mais de 700 patrimônios, envolvendo 1750 jovens. O Projeto foi agraciado em 2012, com o Prêmio Rodrigo Melo Franco de Andrade pelo Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN). Em 2023 foi contemplado com o Prêmio Inventários Participativos, do Instituto Brasileiro de Museus (Ibram). O Projeto tem parceria com a Secretaria da Educação do Ceará, com as oficinas sendo realizadas em escolas de tempo integral do Estado.
-
-O portal patrimonioparatodos.com.br é uma plataforma on-line que reúne os patrimônios culturais que foram identificados ao longo das edições do projeto, divididos por categorias: Saberes, ofícios e modos de fazer; Lugares de memória; Celebrações; Histórias e lendas; Guardiões da memória; e Expressões culturais. No primeiro momento, estão disponibilizados os acervos das últimas cinco edições do PPT, realizadas de 2022 a 2025. Todo o inventário do Projeto é desenvolvido a partir de uma metodologia participativa, através do qual os moradores dos territórios visitados indicam o que é considerado patrimônio em sua comunidade.
-
-A plataforma é estruturada sobre o Tainacan, uma solução brasileira de software livre, desenvolvida pelo Laboratório de Inteligência de Redes da Universidade de Brasília (UnB) com apoio de instituições como o Ibram e o IBICT. Voltada para gestão de acervos digitais de museus e instituições culturais, o Tainacan atua permitindo o armazenamento, catalogação e a disponibilização pública de acervos com mecanismos avançados de busca, garantindo a democratização do acesso e a preservação digital do patrimônio cultural. O lançamento do portal é fruto da premiação que o PPT recebeu em 2023, quando foi contemplado com o Prêmio Inventários Participativos, do Ibram.
-
-EAOTPS é um espaço que integra a Rede Pública de Equipamentos Culturais (Rece) do Governo do Ceará, vinculada à Secretaria da Cultura (Secult) e gerido em parceria com o Instituto Dragão do Mar (IDM).
-
-O Museu da Imagem e do Som é um espaço que integra a Rede Pública de Equipamentos Culturais (Rece) do Governo do Ceará, vinculada à Secretaria da Cultura (Secult) e é gerido em parceria com o Instituto Mirante de Cultura e Arte]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/DSC_0078-768x513-1.jpg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Escola de Gastronomia Social oferta 160 vagas gratuitas para cursos básicos no mês de maio, em Fortaleza</title>
-    <guid>https://www.ce.gov.br/2026/05/11/escola-de-gastronomia-social-oferta-160-vagas-gratuitas-para-cursos-basicos-no-mes-de-maio-em-fortaleza/</guid>
-    <pubDate>2026-05-11T13:06:44</pubDate>
-    <description><![CDATA[A Escola de Gastronomia Social Ivens Dias Branco (EGSIDB), equipamento da Secretaria da Cultura do Ceará (Secult Ceará), gerido pelo Instituto Dragão do Mar (IDM), está com inscrições abertas, até 12 de maio, para quatro cursos básicos gratuitos da programação de maio de 2026. Ao todo, serão ofertadas 160 vagas distribuídas entre modalidades presencial e on-line, contemplando formações nas áreas de cozinha, confeitaria e marketing digital em gastronomia.
-
-Os cursos básicos da EGSIDB são voltados à iniciação no universo da cultura alimentar e gastronomia, promovendo formação técnica, incentivo ao empreendedorismo e valorização dos saberes e insumos locais.
-
-Por meio do preenchimento do formulário disponível no site oficial da Escola: www.gastronomiasocial.org.br
-
-Quem não conseguir realizar a inscrição on-line poderá comparecer à sede da Escola, localizada na Rua Manoel Dias Branco, 80 – Mucuripe, apresentando RG, CPF e comprovante de endereço. Podem participar pessoas com idade mínima de 17 anos completos e disponibilidade para frequentar as aulas no turno escolhido.
-
-O processo seletivo será realizado por ordem de inscrição. A Escola reserva 70% das vagas para candidatos que nunca participaram de cursos da EGSIDB, ampliando o acesso de novos públicos às formações. Nos cursos on-line, também será priorizada a participação de pessoas residentes fora de Fortaleza, fortalecendo o alcance das atividades para o interior do estado.
-
-Equipamento da Secretaria da Cultura do Ceará (Secult), a Escola de Gastronomia Social Ivens Dias Branco (EGSIDB) é gerida pelo Instituto Dragão do Mar (IDM) e faz parte do Cultura em Rede, programa da Secult Ceará que integra ações e políticas culturais na sua rede de equipamentos públicos. O centro de formação, inaugurado em 2018 no bairro Cais do Porto, é um espaço formativo que associa ensino, pesquisa e compromisso social, reconhecendo a riqueza da forma de se alimentar do cearense, os diversos tipos de saberes, a cadeia de produção, promovendo a inovação de produtos, incentivando o empreendedorismo social, qualificando para o mercado de trabalho e contribuindo para o combate à fome, por meio de cursos de longa e curta duração, que acontecem dentro da Escola e em comunidades pelo Ceará. Toda a programação é gratuita. O nome da Escola é uma referência ao empresário Ivens Dias Branco (em memória), do grupo M. Dias Branco, que financiou a sede doada para o Governo do Ceará, em uma parceria público-privada. A EGSIDB foi vencedora dos prêmios LED Globo (2026) e Pacto Contra Fome (2025).
-
-Cursos Básicos – Maio/2026
-
-Vagas: 160 gratuitas
-
-Mais informações: Site: www.gastronomiasocial.org.br | Instagram: @escolagastronomiasocial
-
-Escola de Gastronomia Social Ivens Dias Branco
-
-Rua Manoel Dias Branco, 80 – Cais do Porto – Fortaleza/CE
-
-E-mail: coordenacaopedagogica.gastronomiasocial@idm.org.br
-
-Telefone: (85) 99295-2122]]></description>
-    <content:encoded><![CDATA[A Escola de Gastronomia Social Ivens Dias Branco (EGSIDB), equipamento da Secretaria da Cultura do Ceará (Secult Ceará), gerido pelo Instituto Dragão do Mar (IDM), está com inscrições abertas, até 12 de maio, para quatro cursos básicos gratuitos da programação de maio de 2026. Ao todo, serão ofertadas 160 vagas distribuídas entre modalidades presencial e on-line, contemplando formações nas áreas de cozinha, confeitaria e marketing digital em gastronomia.
-
-Os cursos básicos da EGSIDB são voltados à iniciação no universo da cultura alimentar e gastronomia, promovendo formação técnica, incentivo ao empreendedorismo e valorização dos saberes e insumos locais.
-
-Por meio do preenchimento do formulário disponível no site oficial da Escola: www.gastronomiasocial.org.br
-
-Quem não conseguir realizar a inscrição on-line poderá comparecer à sede da Escola, localizada na Rua Manoel Dias Branco, 80 – Mucuripe, apresentando RG, CPF e comprovante de endereço. Podem participar pessoas com idade mínima de 17 anos completos e disponibilidade para frequentar as aulas no turno escolhido.
-
-O processo seletivo será realizado por ordem de inscrição. A Escola reserva 70% das vagas para candidatos que nunca participaram de cursos da EGSIDB, ampliando o acesso de novos públicos às formações. Nos cursos on-line, também será priorizada a participação de pessoas residentes fora de Fortaleza, fortalecendo o alcance das atividades para o interior do estado.
-
-Equipamento da Secretaria da Cultura do Ceará (Secult), a Escola de Gastronomia Social Ivens Dias Branco (EGSIDB) é gerida pelo Instituto Dragão do Mar (IDM) e faz parte do Cultura em Rede, programa da Secult Ceará que integra ações e políticas culturais na sua rede de equipamentos públicos. O centro de formação, inaugurado em 2018 no bairro Cais do Porto, é um espaço formativo que associa ensino, pesquisa e compromisso social, reconhecendo a riqueza da forma de se alimentar do cearense, os diversos tipos de saberes, a cadeia de produção, promovendo a inovação de produtos, incentivando o empreendedorismo social, qualificando para o mercado de trabalho e contribuindo para o combate à fome, por meio de cursos de longa e curta duração, que acontecem dentro da Escola e em comunidades pelo Ceará. Toda a programação é gratuita. O nome da Escola é uma referência ao empresário Ivens Dias Branco (em memória), do grupo M. Dias Branco, que financiou a sede doada para o Governo do Ceará, em uma parceria público-privada. A EGSIDB foi vencedora dos prêmios LED Globo (2026) e Pacto Contra Fome (2025).
-
-Cursos Básicos – Maio/2026
-
-Vagas: 160 gratuitas
-
-Mais informações: Site: www.gastronomiasocial.org.br | Instagram: @escolagastronomiasocial
-
-Escola de Gastronomia Social Ivens Dias Branco
-
-Rua Manoel Dias Branco, 80 – Cais do Porto – Fortaleza/CE
-
-E-mail: coordenacaopedagogica.gastronomiasocial@idm.org.br
-
-Telefone: (85) 99295-2122]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/divulgacao_cursos_EGSIDB.jpg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Secretaria da Diversidade realiza programação em alusão ao 17 de maio com ações de fortalecimento das políticas públicas LGBTI+</title>
-    <guid>https://www.ce.gov.br/2026/05/11/secretaria-da-diversidade-celebra-o-17-de-maio-com-acoes-de-fortalecimento-das-politicas-publicas-lgbti/</guid>
-    <pubDate>2026-05-11T12:08:46</pubDate>
-    <description><![CDATA[A Secretaria da Diversidade do Ceará (Sediv), por meio da campanha Ceará da Diversidade contra a LGBTfobia, realiza, até domingo (17), uma programação de atividades em alusão ao 17 de maio — data que marca a retirada da homossexualidade da lista de doenças da Organização Mundial da Saúde (OMS) e simboliza a luta pelo enfrentamento à LGBTfobia e pela promoção dos direitos da população LGBTI+.
-
-A agenda reúne ações institucionais, atividades de participação social, articulação interfederativa e mobilizações em diferentes territórios, reforçando o compromisso do Governo do Ceará com a interiorização das políticas públicas e o fortalecimento da rede de proteção e cidadania para a população LGBTI+.
-
-Entre os destaques da programação está a participação da Sediv, na segunda (11) e terça (12), na 6ª Reunião Ordinária da Comissão Nacional Intergestores da Política LGBTQIA+, realizada em Salvador (BA). Vinculada ao Ministério dos Direitos Humanos e da Cidadania, a comissão é um espaço estratégico de articulação entre gestores federais, estaduais e municipais para construção, regulamentação e fortalecimento das políticas públicas voltadas à promoção dos direitos humanos e ao enfrentamento à LGBTIfobia no Brasil.
-
-A programação também contará, na quinta (14), com a realização do Projeto Acolher, em Ubajara, desenvolvido em parceria com a Secretaria da Proteção Social (SPS). A ação contará com a presença da secretária da SPS, Augusta Brito, e levará orientações e atendimentos à população LGBTI+ por meio da Unidade Móvel Dandara Ketlely e do Centro Estadual de Referência LGBT+ Thina Rodrigues.
-
-Ainda na quinta (14), a Sediv promoverá a 1ª Reunião Extraordinária da Comissão Estadual Intergestores da Política LGBTI+ (CEINP) e do Conselho Estadual de Combate à Discriminação LGBT (CECD/LGBT), fortalecendo os espaços de participação social, pactuação e construção coletiva das políticas públicas no Ceará.
-
-A agenda também inclui, na sexta (15), a realização da 1ª Marcha TransnordesThina, em Fortaleza, mobilização que reunirá pessoas travestis, transexuais e transmasculinidades do Nordeste em defesa da dignidade, da cidadania e da visibilidade da população trans. A atividade homenageia Thina Rodrigues, importante liderança trans cearense e referência nacional na luta pelos direitos da população LGBTI+.
-
-Encerrando a programação, no domingo (17), a Sediv participará da VI Parada pela Diversidade de Saboeiro, iniciativa que fortalece a visibilidade LGBTQIA+ no interior do estado e amplia o diálogo sobre respeito, inclusão e garantia de direitos.
-
-As atividades reafirmam o compromisso institucional da Secretaria da Diversidade com a promoção da cidadania, o combate à discriminação e a construção de políticas públicas voltadas à inclusão e à garantia de direitos da população LGBTI+ em todo o Ceará.]]></description>
-    <content:encoded><![CDATA[A Secretaria da Diversidade do Ceará (Sediv), por meio da campanha Ceará da Diversidade contra a LGBTfobia, realiza, até domingo (17), uma programação de atividades em alusão ao 17 de maio — data que marca a retirada da homossexualidade da lista de doenças da Organização Mundial da Saúde (OMS) e simboliza a luta pelo enfrentamento à LGBTfobia e pela promoção dos direitos da população LGBTI+.
-
-A agenda reúne ações institucionais, atividades de participação social, articulação interfederativa e mobilizações em diferentes territórios, reforçando o compromisso do Governo do Ceará com a interiorização das políticas públicas e o fortalecimento da rede de proteção e cidadania para a população LGBTI+.
-
-Entre os destaques da programação está a participação da Sediv, na segunda (11) e terça (12), na 6ª Reunião Ordinária da Comissão Nacional Intergestores da Política LGBTQIA+, realizada em Salvador (BA). Vinculada ao Ministério dos Direitos Humanos e da Cidadania, a comissão é um espaço estratégico de articulação entre gestores federais, estaduais e municipais para construção, regulamentação e fortalecimento das políticas públicas voltadas à promoção dos direitos humanos e ao enfrentamento à LGBTIfobia no Brasil.
-
-A programação também contará, na quinta (14), com a realização do Projeto Acolher, em Ubajara, desenvolvido em parceria com a Secretaria da Proteção Social (SPS). A ação contará com a presença da secretária da SPS, Augusta Brito, e levará orientações e atendimentos à população LGBTI+ por meio da Unidade Móvel Dandara Ketlely e do Centro Estadual de Referência LGBT+ Thina Rodrigues.
-
-Ainda na quinta (14), a Sediv promoverá a 1ª Reunião Extraordinária da Comissão Estadual Intergestores da Política LGBTI+ (CEINP) e do Conselho Estadual de Combate à Discriminação LGBT (CECD/LGBT), fortalecendo os espaços de participação social, pactuação e construção coletiva das políticas públicas no Ceará.
-
-A agenda também inclui, na sexta (15), a realização da 1ª Marcha TransnordesThina, em Fortaleza, mobilização que reunirá pessoas travestis, transexuais e transmasculinidades do Nordeste em defesa da dignidade, da cidadania e da visibilidade da população trans. A atividade homenageia Thina Rodrigues, importante liderança trans cearense e referência nacional na luta pelos direitos da população LGBTI+.
-
-Encerrando a programação, no domingo (17), a Sediv participará da VI Parada pela Diversidade de Saboeiro, iniciativa que fortalece a visibilidade LGBTQIA+ no interior do estado e amplia o diálogo sobre respeito, inclusão e garantia de direitos.
-
-As atividades reafirmam o compromisso institucional da Secretaria da Diversidade com a promoção da cidadania, o combate à discriminação e a construção de políticas públicas voltadas à inclusão e à garantia de direitos da população LGBTI+ em todo o Ceará.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/3ab70032-610f-49c5-8cbe-1b05123ca3a5.jpg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Castração gratuita chega a Morada Nova com o Pet Ceará Móvel</title>
-    <guid>https://www.ce.gov.br/2026/05/11/castracao-gratuita-chega-a-morada-nova-com-o-pet-ceara-movel/</guid>
-    <pubDate>2026-05-11T12:04:12</pubDate>
-    <description><![CDATA[O Governo do Ceará segue fortalecendo as ações de proteção animal com mais uma etapa do Pet Ceará Móvel. Entre os dias 12 e 16 de maio, a unidade móvel de castração gratuita estará no município de Morada Nova, realizando atendimentos para cães e gatos.
-
-A iniciativa oferece, além da castração, a microchipagem, a medicação pós-operatória e o fornecimento do colar elizabetano para os animais atendidos. A ação é fundamental para o controle populacional e amplia o acesso aos serviços de saúde e bem-estar animal em todo o estado.
-
-As vagas para agendamento estarão disponíveis a partir deste sábado (9), às 12h, exclusivamente por meio do site oficial do programa.
-
-Pet Ceará Móvel em Morada Nova
-
-Data: De 12 a 16 de maio
-
-Horário: A partir das 8h
-
-Local: Ginásio Municipal de Morada Nova
-
-Endereço: Av. Manoel Castro Gomes de Andrade, 79/163 – Morada Nova.
-
-Agendamentos: Disponíveis a partir de sábado (09/05), às 12h, em: www.protecaoanimal.ce.gov.br]]></description>
-    <content:encoded><![CDATA[O Governo do Ceará segue fortalecendo as ações de proteção animal com mais uma etapa do Pet Ceará Móvel. Entre os dias 12 e 16 de maio, a unidade móvel de castração gratuita estará no município de Morada Nova, realizando atendimentos para cães e gatos.
-
-A iniciativa oferece, além da castração, a microchipagem, a medicação pós-operatória e o fornecimento do colar elizabetano para os animais atendidos. A ação é fundamental para o controle populacional e amplia o acesso aos serviços de saúde e bem-estar animal em todo o estado.
-
-As vagas para agendamento estarão disponíveis a partir deste sábado (9), às 12h, exclusivamente por meio do site oficial do programa.
-
-Pet Ceará Móvel em Morada Nova
-
-Data: De 12 a 16 de maio
-
-Horário: A partir das 8h
-
-Local: Ginásio Municipal de Morada Nova
-
-Endereço: Av. Manoel Castro Gomes de Andrade, 79/163 – Morada Nova.
-
-Agendamentos: Disponíveis a partir de sábado (09/05), às 12h, em: www.protecaoanimal.ce.gov.br]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/IMG_3175.JPG-1.jpeg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Governo do Ceará leva o projeto Giro Pet a quatro municípios de 12 a 15 de maio</title>
-    <guid>https://www.ce.gov.br/2026/05/11/governo-do-ceara-leva-o-projeto-giro-pet-a-quatro-municipios-de-12-a-15-de-maio/</guid>
-    <pubDate>2026-05-11T12:00:42</pubDate>
-    <description><![CDATA[O Governo do Ceará, por meio da Secretaria da Proteção Animal (Sepa), segue fortalecendo as políticas públicas voltadas ao bem-estar animal com o programa Giro Pet Ceará. A iniciativa oferece vacinação antirrábica e encoleiramento antiparasitário gratuito para cães e gatos em todo o estado.
-
-Entre os dias 12 e 15 de maio, a unidade itinerante percorrerá os municípios de Pedra Branca, Quixeramobim, Boa Viagem e Guaiúba. Além dos serviços veterinários, a ação promove a conscientização dos tutores sobre posse responsável e saúde pública.
-
-Com passagens frequentes por diferentes regiões, o Governo do Ceará amplia o acesso à assistência veterinária e reforça o compromisso com a causa animal em solo cearense.
-
-Pedra Branca
-
-Data: 12/05 (terça-feira)
-
-Hora: 8h às 15h
-
-Local: Praça Matriz (Rua José Joaquim de Sousa, nº 10, Centro – em frente à Prefeitura)
-
-Quixeramobim
-
-13/05 (quarta-feira)
-
-Hora: 8h às 15h
-
-Local: Praça da Prefeitura (Rua Dr. Álvaro Fernandes, 36)
-
-Boa Viagem
-
-Data: 14/05 (quinta-feira)
-
-Hora: 8h às 15h
-
-Local: Secretaria Municipal da Saúde (Av. São Vicente de Paula, nº 137, Centro)
-
-Guaiúba
-
-Data: 15/05 (sexta-feira)
-
-Hora: 9h às 16h
-
-Local: Rua Pedro Augusto, nº 53, Centro]]></description>
-    <content:encoded><![CDATA[O Governo do Ceará, por meio da Secretaria da Proteção Animal (Sepa), segue fortalecendo as políticas públicas voltadas ao bem-estar animal com o programa Giro Pet Ceará. A iniciativa oferece vacinação antirrábica e encoleiramento antiparasitário gratuito para cães e gatos em todo o estado.
-
-Entre os dias 12 e 15 de maio, a unidade itinerante percorrerá os municípios de Pedra Branca, Quixeramobim, Boa Viagem e Guaiúba. Além dos serviços veterinários, a ação promove a conscientização dos tutores sobre posse responsável e saúde pública.
-
-Com passagens frequentes por diferentes regiões, o Governo do Ceará amplia o acesso à assistência veterinária e reforça o compromisso com a causa animal em solo cearense.
-
-Pedra Branca
-
-Data: 12/05 (terça-feira)
-
-Hora: 8h às 15h
-
-Local: Praça Matriz (Rua José Joaquim de Sousa, nº 10, Centro – em frente à Prefeitura)
-
-Quixeramobim
-
-13/05 (quarta-feira)
-
-Hora: 8h às 15h
-
-Local: Praça da Prefeitura (Rua Dr. Álvaro Fernandes, 36)
-
-Boa Viagem
-
-Data: 14/05 (quinta-feira)
-
-Hora: 8h às 15h
-
-Local: Secretaria Municipal da Saúde (Av. São Vicente de Paula, nº 137, Centro)
-
-Guaiúba
-
-Data: 15/05 (sexta-feira)
-
-Hora: 9h às 16h
-
-Local: Rua Pedro Augusto, nº 53, Centro]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/DSCF2179-1-2048x1365-1.jpg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Pinacoteca do Ceará recebe o curador Osmar Paulino para fala pública sobre arte e território</title>
-    <guid>https://www.ce.gov.br/2026/05/11/pinacoteca-do-ceara-recebe-o-curador-osmar-paulino-para-fala-publica-sobre-arte-e-territorio/</guid>
-    <pubDate>2026-05-11T11:59:25</pubDate>
-    <description><![CDATA[A atividade “curadoria d’água barrenta” integra o V Ateliê de Pesquisa e Crítica e acontece na próxima sexta-feira (15), propondo um diálogo sobre novas pedagogias e processos artísticos.
-
-A atividade parte do conceito de Imbariê, termo tupi para “água barrenta”, para propor uma discussão sobre curadoria que foge de modelos tradicionais e engessados. Osmar Paulino traz sua bagagem de pesquisa sobre território e poder para pensar a prática artística como algo fluido e em constante movimento, assim como as águas. O debate também gira em torno da ideia de que uma exposição não é um produto estático, mas sim um processo que continua acontecendo e se transformando no contato com as pessoas e os lugares.
-
-Nesse encontro, o curador convida o público para pensar sobre novos jeitos de ensinar e de olhar para a arte. A proposta é mostrar como o trabalho de curadoria pode ser feito de uma forma simples e atenta às histórias das pessoas e do lugar onde o museu está.
-
-Osmar é geógrafo pela UFRJ, mestre em Cultura e Territorialidades pela UFF e doutorando em Artes e Culturas Contemporâneas pela Universidade Estadual do Rio de Janeiro (UERJ). É fundador do FAIM Festival e do Curador Negro Estúdio. Desenvolve pesquisas sobre as relações de poder e territorialidades em torno da curadoria de arte e sobre as representações visuais em torno do homem negro na arte. Atua como professor de teoria da cultura no Polo Educacional Sesc/RJ e possui experiência como curador independente, tendo assinado exposições no Museu de Arte do Rio (MAR), Sesc Ramos no Rio de Janeiro e no Centro Cultural Casa do Benin, na Bahia.
-
-Inaugurada em dezembro de 2022 pelo Governo do Ceará, a Pinacoteca do Ceará tem a missão de salvaguardar, preservar, pesquisar e difundir a coleção artística da instituição, sendo espaço de ações formativas com artistas, comunidade escolar, famílias, movimentos sociais, organizações não governamentais e demais profissionais do campo das artes e da cultura. Trata-se de um espaço de experimentação, pesquisa e reflexão para promover o diálogo entre arte e educação a partir de práticas artísticas. Desde a abertura, o museu já recebeu mais de 290 mil visitantes.
+*30% das vagas destinadas a pessoas negras
 
 15/5/2026 | sexta-feira | 18h às 20h
 
@@ -533,22 +97,102 @@ Inaugurada em dezembro de 2022 pelo Governo do Ceará, a Pinacoteca do Ceará te
 
 curadoria d’água barrenta
 
+Com Osmar Paulino
+
 Local: Auditório
 
 Classificação Indicativa: Livre
 
 Acessibilidade: Libras
 
-Gratuito. 100 vagas disponíveis por ordem de chegada]]></description>
-    <content:encoded><![CDATA[A atividade “curadoria d’água barrenta” integra o V Ateliê de Pesquisa e Crítica e acontece na próxima sexta-feira (15), propondo um diálogo sobre novas pedagogias e processos artísticos.
+Gratuito. 100 vagas disponíveis por ordem de chegada
 
-A atividade parte do conceito de Imbariê, termo tupi para “água barrenta”, para propor uma discussão sobre curadoria que foge de modelos tradicionais e engessados. Osmar Paulino traz sua bagagem de pesquisa sobre território e poder para pensar a prática artística como algo fluido e em constante movimento, assim como as águas. O debate também gira em torno da ideia de que uma exposição não é um produto estático, mas sim um processo que continua acontecendo e se transformando no contato com as pessoas e os lugares.
+16/5/2026 | sábado | 16h às 18h
 
-Nesse encontro, o curador convida o público para pensar sobre novos jeitos de ensinar e de olhar para a arte. A proposta é mostrar como o trabalho de curadoria pode ser feito de uma forma simples e atenta às histórias das pessoas e do lugar onde o museu está.
+[VISITA TEMÁTICA]
 
-Osmar é geógrafo pela UFRJ, mestre em Cultura e Territorialidades pela UFF e doutorando em Artes e Culturas Contemporâneas pela Universidade Estadual do Rio de Janeiro (UERJ). É fundador do FAIM Festival e do Curador Negro Estúdio. Desenvolve pesquisas sobre as relações de poder e territorialidades em torno da curadoria de arte e sobre as representações visuais em torno do homem negro na arte. Atua como professor de teoria da cultura no Polo Educacional Sesc/RJ e possui experiência como curador independente, tendo assinado exposições no Museu de Arte do Rio (MAR), Sesc Ramos no Rio de Janeiro e no Centro Cultural Casa do Benin, na Bahia.
+Jogo de Memória em LIBRAS
 
-Inaugurada em dezembro de 2022 pelo Governo do Ceará, a Pinacoteca do Ceará tem a missão de salvaguardar, preservar, pesquisar e difundir a coleção artística da instituição, sendo espaço de ações formativas com artistas, comunidade escolar, famílias, movimentos sociais, organizações não governamentais e demais profissionais do campo das artes e da cultura. Trata-se de um espaço de experimentação, pesquisa e reflexão para promover o diálogo entre arte e educação a partir de práticas artísticas. Desde a abertura, o museu já recebeu mais de 290 mil visitantes.
+Com Eleotério Tomaz
+
+Classificação Indicativa: Livre
+
+Acessibilidade: Tradução para Português
+
+Gratuito. 15 vagas disponíveis por ordem de chegada
+
+17/5/2026 | domingo |  manhã 10h30 às 11h30 | tarde 15h às 16h
+
+[ATELIÊ CRIANÇA CRIA]
+
+Malungo: Brincadeiras afro-indígenas
+
+Com Déu
+
+Local: Ateliê 1
+
+Classificação Indicativa: Livre
+
+Gratuito. 15 vagas disponíveis por ordem de chegada
+
+Para crianças a partir de 4 anos acompanhadas de um responsável
+
+&gt; Todas as atividades são gratuitas.
+
+&gt; As obras em exposição têm diferentes classificações indicativas. Atente para a sinalização daquelas não recomendadas para crianças ou adolescentes.
+
+&gt; A programação infantil requer sempre o acompanhamento de um adulto responsável por cada criança.
+
+&gt; A Pinacoteca do Ceará dispõe dos seguintes recursos de acessibilidade: audiodescrição, abafadores de ruídos, videoguias em Libras, cadeira de rodas, intérpretes de Libras e peças táteis.]]></description>
+    <content:encoded><![CDATA[Entre 13 e 17 de maio, o museu também traz uma nova modalidade de yoga e atividades infantis. Toda a programação é gratuita
+
+A Pinacoteca do Ceará traz como destaques da semana uma fala pública sobre curadoria, prática artística e território, com o pesquisador e curador Osmar Paulino, além de visita temática em Libras. O museu, que integra a Rede de Equipamentos  e Espaços Culturais da Secretaria da Cultura do Ceará (Secult-CE) e é gerido em parceria com o Instituto Mirante, oferece ainda uma nova modalidade no programa Yoga ao Pôr do Sol e atividades voltadas ao público infantil. O acesso é gratuito.
+
+A programação inicia na quarta-feira (13), com o Pouso do Trabalhador, que realiza uma oficina de bonecas Abayomi. Com mediação de Iuri Tavares, a partir das 12h30, no hall, os participantes são convidados a confeccionar bonecas de pano com origem na resistência da cultura afro-brasileira. A atividade oferece 15 vagas por ordem de chegada e conta com acessibilidade em Libras. No final da tarde, às 17h, o pátio recebe o Yoga ao Pôr do Sol com a estreia da Kemetic Yoga, conduzida pela instrutora Beatriz Freitas. Selecionada pelo Edital de Credenciamento de atividades artísticas, a prática resgata saberes do antigo Egito para o autocuidado. São ofertadas 30 vagas, disponíveis na recepção uma hora antes e reserva de 30% das vagas para pessoas negras.
+
+Na sexta-feira (15), a atividade formativa ocorre no auditório, às 18h, com a Fala Pública “curadoria d’água barrenta”, ministrada pelo pesquisador e curador Osmar Paulino. O convidado integra a programação do V Ateliê de Pesquisa e Crítica e utiliza a metáfora da água e o conceito tupi de Imbariê para discutir novos modos de olhar e ensinar a arte contemporânea, pensando a exposição como um processo vivo e conectado aos lugares. A participação é por ordem de chegada e o encontro contará com acessibilidade em Libras.
+
+&gt; Saiba mais detalhes sobre a Fala Pública AQUI
+
+No domingo (17), o foco é no público infantil. O Ateliê Criança Cria “Malungo: Brincadeiras afro-indígenas”, mediada por Déu, tem duas sessões, uma às 10h30 e outra às 15h. Selecionada via Edital de Credenciamento, a atividade propõe um resgate das ancestralidades populares para crianças a partir de 4 anos acompanhadas de um responsável, com 15 vagas por turma. O acesso é por ordem de chegada.
+
+A Mostra Acervo Pinacoteca do Ceará, com trabalhos de Chico da Silva pertencentes à coleção do museu e bastidores do processo de conservação e restauro, também é outro convite aos visitantes.
+
+A classificação indicativa das mostras varia e a visitação é livre e gratuita de quarta a sexta-feira, de 10h às 18h, aos sábados de 12h às 20h e aos domingos, de 10h às 17h.
+
+Inaugurada em dezembro de 2022 pelo Governo do Ceará, a Pinacoteca do Ceará tem a missão de salvaguardar, preservar, pesquisar e difundir a coleção artística da instituição, sendo espaço de ações formativas com artistas, comunidade escolar, famílias, movimentos sociais, organizações não governamentais e demais profissionais do campo das artes e da cultura. Trata-se de um espaço de experimentação, pesquisa e reflexão para promover o diálogo entre arte e educação a partir de práticas artísticas. Desde a abertura, o museu já recebeu mais de 272 mil visitantes.
+
+13/5/2026 | quarta-feira | 12h30 às 13h30
+
+[POUSO DO TRABALHADOR]
+
+Oficina de Boneca Abayomi
+
+Com  Iuri Tavares
+
+Local: Hall da Pinacoteca
+
+Classificação Indicativa: Livre
+
+Acessibilidade: Libras
+
+Gratuito. 15 vagas disponíveis por ordem de chegada
+
+13/5/2026 | quarta-feira | 17h às 18h
+
+[YOGA]
+
+Yoga ao Pôr do Sol (Kemetic Yoga)
+
+Com Beatriz Freitas
+
+Local: Pátio
+
+Classificação Indicativa: Livre
+
+Gratuito. 30 vagas* disponíveis a partir de 1h antes da atividade
+
+*30% das vagas destinadas a pessoas negras
 
 15/5/2026 | sexta-feira | 18h às 20h
 
@@ -556,358 +200,54 @@ Inaugurada em dezembro de 2022 pelo Governo do Ceará, a Pinacoteca do Ceará te
 
 curadoria d’água barrenta
 
+Com Osmar Paulino
+
 Local: Auditório
 
 Classificação Indicativa: Livre
 
 Acessibilidade: Libras
 
-Gratuito. 100 vagas disponíveis por ordem de chegada]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/Osmar-Paulino-Credito-da-foto_-Museu-de-Arte-do-Rio-por-@wesleysabino--scaled.jpeg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Etice inaugura ponto de Wi-Fi gratuito no município de Jaguaribe</title>
-    <guid>https://www.ce.gov.br/2026/05/11/etice-inaugura-ponto-de-wi-fi-gratuito-no-municipio-de-jaguaribe/</guid>
-    <pubDate>2026-05-11T11:54:55</pubDate>
-    <description><![CDATA[Com a terceira fase do programa Ceará Conectado em rápido andamento, a Empresa de Tecnologia da Informação do Ceará (Etice) inaugurou mais um ponto de Wi-Fi gratuito: desta vez na Praça Tenente Barreira (Palácio da Intendência), localizada no município de Jaguaribe. A terceira e última fase da iniciativa tem previsão de ser concluída até o fim deste semestre, levando internet gratuita para os 184 municípios cearenses.
+Gratuito. 100 vagas disponíveis por ordem de chegada
 
-O Ceará Conectado é uma política de inclusão digital que leva internet gratuita às praças e espaços públicos escolhidos pelos próprios municípios. Atualmente, a iniciativa já chega em 157 cidades cearenses (a lista completa está disponível no site da Etice). Na terceira fase, o programa contemplará as 27 localidades ainda não participantes, totalizando os 184 municípios do estado.
+16/5/2026 | sábado | 16h às 18h
 
-Com essa conexão, a população pode acessar serviços digitais do governo, educação, saúde e oportunidades de negócio, transformando o Ceará num estado cada vez mais digital.
+[VISITA TEMÁTICA]
 
-O presidente da Etice, Hugo Figueirêdo afirmou que “nesta terceira e última etapa, atenderemos os municípios em que o Cinturão Digital do Ceará ainda não chega, por meio de fibra óptica de empresas parceiras. A previsão é que em aproximadamente 90 dias, os pontos de Wi-Fi estejam em funcionamento, garantindo internet gratuita e ampliando o acesso da população aos serviços digitais do estado”.]]></description>
-    <content:encoded><![CDATA[Com a terceira fase do programa Ceará Conectado em rápido andamento, a Empresa de Tecnologia da Informação do Ceará (Etice) inaugurou mais um ponto de Wi-Fi gratuito: desta vez na Praça Tenente Barreira (Palácio da Intendência), localizada no município de Jaguaribe. A terceira e última fase da iniciativa tem previsão de ser concluída até o fim deste semestre, levando internet gratuita para os 184 municípios cearenses.
+Jogo de Memória em LIBRAS
 
-O Ceará Conectado é uma política de inclusão digital que leva internet gratuita às praças e espaços públicos escolhidos pelos próprios municípios. Atualmente, a iniciativa já chega em 157 cidades cearenses (a lista completa está disponível no site da Etice). Na terceira fase, o programa contemplará as 27 localidades ainda não participantes, totalizando os 184 municípios do estado.
+Com Eleotério Tomaz
 
-Com essa conexão, a população pode acessar serviços digitais do governo, educação, saúde e oportunidades de negócio, transformando o Ceará num estado cada vez mais digital.
+Classificação Indicativa: Livre
 
-O presidente da Etice, Hugo Figueirêdo afirmou que “nesta terceira e última etapa, atenderemos os municípios em que o Cinturão Digital do Ceará ainda não chega, por meio de fibra óptica de empresas parceiras. A previsão é que em aproximadamente 90 dias, os pontos de Wi-Fi estejam em funcionamento, garantindo internet gratuita e ampliando o acesso da população aos serviços digitais do estado”.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/60aa30e0-459c-49ed-a46a-358fd9932fae-e1778505730797.jpg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>SRH e Sepince discutem ações para fortalecer segurança hídrica nas comunidades indígenas</title>
-    <guid>https://www.ce.gov.br/2026/05/11/srh-e-sepince-discutem-acoes-para-fortalecer-seguranca-hidrica-nas-comunidades-indigenas/</guid>
-    <pubDate>2026-05-11T11:50:33</pubDate>
-    <description><![CDATA[A Secretaria dos Recursos Hídricos realizou reunião com a Secretaria dos Povos Indígenas para discutir projetos e ações voltados ao fortalecimento da gestão indígena e à ampliação da segurança hídrica nas comunidades do Ceará.
+Acessibilidade: Tradução para Português
 
-Durante o encontro, o secretário da SRH, Ramon Rodrigues, destacou iniciativas que poderão beneficiar diretamente as comunidades indígenas.“A Cogerh, vinculada da SRH, vai realizar um estudo nas barragens localizadas nas comunidades indígenas para avaliar quais ações concretas poderão ser executadas. Outro ponto importante é o Programa Água Doce, que visa beneficiar comunidades rurais com água potável. Vamos analisar quais comunidades atendem aos critérios do programa para futura implementação”, afirmou o secretário.
+Gratuito. 15 vagas disponíveis por ordem de chegada
 
-A secretária dos Povos Indígenas, Juliana Alves, ressaltou a importância da parceria entre as instituições para garantir melhores condições de acesso à água. “A construção conjunta de políticas públicas vai garantir mais segurança hídrica aos nossos povos. Hoje ainda existem comunidades que sofrem com água salobra e, com essa parceria com o Sistema SRH, vamos buscar soluções para atender todas as comunidades necessitadas”, destacou.
+17/5/2026 | domingo |  manhã 10h30 às 11h30 | tarde 15h às 16h
 
-A reunião contou com a participação de representantes indígenas dos municípios de Acaraú, Itarema e Monsenhor Tabosa, além do presidente da Companhia de Gestão dos Recursos Hídricos, Yuri Castro, do secretário executivo da SRH, Márcio Bertrand, e dos secretários Ramon Rodrigues e Juliana Alves.]]></description>
-    <content:encoded><![CDATA[A Secretaria dos Recursos Hídricos realizou reunião com a Secretaria dos Povos Indígenas para discutir projetos e ações voltados ao fortalecimento da gestão indígena e à ampliação da segurança hídrica nas comunidades do Ceará.
+[ATELIÊ CRIANÇA CRIA]
 
-Durante o encontro, o secretário da SRH, Ramon Rodrigues, destacou iniciativas que poderão beneficiar diretamente as comunidades indígenas.“A Cogerh, vinculada da SRH, vai realizar um estudo nas barragens localizadas nas comunidades indígenas para avaliar quais ações concretas poderão ser executadas. Outro ponto importante é o Programa Água Doce, que visa beneficiar comunidades rurais com água potável. Vamos analisar quais comunidades atendem aos critérios do programa para futura implementação”, afirmou o secretário.
+Malungo: Brincadeiras afro-indígenas
 
-A secretária dos Povos Indígenas, Juliana Alves, ressaltou a importância da parceria entre as instituições para garantir melhores condições de acesso à água. “A construção conjunta de políticas públicas vai garantir mais segurança hídrica aos nossos povos. Hoje ainda existem comunidades que sofrem com água salobra e, com essa parceria com o Sistema SRH, vamos buscar soluções para atender todas as comunidades necessitadas”, destacou.
+Com Déu
 
-A reunião contou com a participação de representantes indígenas dos municípios de Acaraú, Itarema e Monsenhor Tabosa, além do presidente da Companhia de Gestão dos Recursos Hídricos, Yuri Castro, do secretário executivo da SRH, Márcio Bertrand, e dos secretários Ramon Rodrigues e Juliana Alves.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-11-at-11.44.11.jpeg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>CGE divulga balanço do Programa Aperfeiçoar com mais de 1.632 participações em capacitações e eventos</title>
-    <guid>https://www.ce.gov.br/2026/05/11/cge-divulga-balanco-do-programa-aperfeicoar-com-mais-de-1-632-participacoes-em-capacitacoes-e-eventos/</guid>
-    <pubDate>2026-05-11T11:09:42</pubDate>
-    <description><![CDATA[A Controladoria e Ouvidoria Geral do Estado do Ceará (CGE), em parceria com a Escola de Gestão Pública do Estado do Ceará (EGPCE), divulga, nesta segunda-feira (11), o balanço do Programa Aperfeiçoar referente ao período de janeiro a abril de 2026. No total, foram realizadas 21 capacitações, que formaram 280 servidores, além de 26 eventos que reuniram 1.352 participantes.
+Local: Ateliê 1
 
-As ações foram distribuídas entre diversos eixos temáticos, sendo 09 cursos voltados para Controladoria Interna Governamental, 06 para Contratos e Parcerias, 02 para Correição, Ética e Inspeção, 01 para Transparência e Proteção de Dados e 03 para Ouvidoria.
+Classificação Indicativa: Livre
 
-Com o Programa Aperfeiçoar, a CGE, em parceria com a EGPCE, amplia as oportunidades de qualificação profissional em suas áreas de atuação, consolidando uma cultura institucional voltada para o aprendizado contínuo, a inovação e a excelência no serviço público.]]></description>
-    <content:encoded><![CDATA[A Controladoria e Ouvidoria Geral do Estado do Ceará (CGE), em parceria com a Escola de Gestão Pública do Estado do Ceará (EGPCE), divulga, nesta segunda-feira (11), o balanço do Programa Aperfeiçoar referente ao período de janeiro a abril de 2026. No total, foram realizadas 21 capacitações, que formaram 280 servidores, além de 26 eventos que reuniram 1.352 participantes.
+Gratuito. 15 vagas disponíveis por ordem de chegada
 
-As ações foram distribuídas entre diversos eixos temáticos, sendo 09 cursos voltados para Controladoria Interna Governamental, 06 para Contratos e Parcerias, 02 para Correição, Ética e Inspeção, 01 para Transparência e Proteção de Dados e 03 para Ouvidoria.
+Para crianças a partir de 4 anos acompanhadas de um responsável
 
-Com o Programa Aperfeiçoar, a CGE, em parceria com a EGPCE, amplia as oportunidades de qualificação profissional em suas áreas de atuação, consolidando uma cultura institucional voltada para o aprendizado contínuo, a inovação e a excelência no serviço público.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/Banner_Balanco-Aperfeicoar-1.png" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Em Nova Iorque, governador Elmano de Freitas defende potencial do Ceará como hub tecnológico</title>
-    <guid>https://www.ce.gov.br/2026/05/11/em-nova-iorque-governador-elmano-de-freitas-defende-potencial-do-ceara-como-um-hub-tecnologico/</guid>
-    <pubDate>2026-05-11T10:32:24</pubDate>
-    <description><![CDATA[Governador visitou a Universidade de Nova York, onde conheceu iniciativas do centro de pesquisa voltado à ciência de dados e inteligência artificial
+&gt; Todas as atividades são gratuitas.
 
-O governador Elmano de Freitas segue, nesta segunda-feira (11), em missão internacional nos Estados Unidos, com o objetivo de atrair parcerias e investimentos em áreas como tecnologia e indústria. A agenda oficial faz parte da estratégia de posicionar o Ceará como um ambiente favorável ao desenvolvimento tecnológico e inovação, criando uma nova economia no estado.
+&gt; As obras em exposição têm diferentes classificações indicativas. Atente para a sinalização daquelas não recomendadas para crianças ou adolescentes.
 
-No sábado (9), Elmano de Freitas visitou a Universidade de Nova York, onde visitou as instalações e conheceu iniciativas desenvolvidas pelo Instituto VIDA (Visualization Imaging and Data Analysis Center). O governador estava acompanhado do secretário do Desenvolvimento Econômico (SDE), Fábio Feijó, e do deputado e presidente da Assembleia Legislativa do Ceará (Alece), Romeu Aldigueri.
+&gt; A programação infantil requer sempre o acompanhamento de um adulto responsável por cada criança.
 
-“No Ceará, nós conquistamos o ITA [campus do Instituto Tecnológico de Aeronáutica]. Estamos com o maior Data Center das Américas sendo construído na nossa Zona de Processamento de Exportação, com outros que já temos e novos que estão sendo construídos. Estamos construindo no Ceará uma grande ambiência para o Ceará se transformar em uma referência de inovação e inteligência artificial para o mundo”, afirmou o governador.
-
-O centro de pesquisa é voltado à aplicação de ciência de dados, inteligência artificial, visualização de dados, imagem computacional e análise de informações complexas a problemas de relevância social, científica e econômica.
-
-O Instituto reúne pesquisadores de computação e especialistas de áreas como saúde, políticas públicas, urbanismo, meio ambiente e ciência, com o objetivo de transformar grandes volumes de dados em conhecimento útil para a tomada de decisão.
-
-“É muito importante conhecer essas experiências. Tive o prazer de encontrar dois pesquisadores cearenses, dra. Juliana e dr. Cláudio. Muito nos orgulha esses talentos aqui ajudando a desenvolver novas tecnologias”, destacou Elmano de Freitas.]]></description>
-    <content:encoded><![CDATA[Governador visitou a Universidade de Nova York, onde conheceu iniciativas do centro de pesquisa voltado à ciência de dados e inteligência artificial
-
-O governador Elmano de Freitas segue, nesta segunda-feira (11), em missão internacional nos Estados Unidos, com o objetivo de atrair parcerias e investimentos em áreas como tecnologia e indústria. A agenda oficial faz parte da estratégia de posicionar o Ceará como um ambiente favorável ao desenvolvimento tecnológico e inovação, criando uma nova economia no estado.
-
-No sábado (9), Elmano de Freitas visitou a Universidade de Nova York, onde visitou as instalações e conheceu iniciativas desenvolvidas pelo Instituto VIDA (Visualization Imaging and Data Analysis Center). O governador estava acompanhado do secretário do Desenvolvimento Econômico (SDE), Fábio Feijó, e do deputado e presidente da Assembleia Legislativa do Ceará (Alece), Romeu Aldigueri.
-
-“No Ceará, nós conquistamos o ITA [campus do Instituto Tecnológico de Aeronáutica]. Estamos com o maior Data Center das Américas sendo construído na nossa Zona de Processamento de Exportação, com outros que já temos e novos que estão sendo construídos. Estamos construindo no Ceará uma grande ambiência para o Ceará se transformar em uma referência de inovação e inteligência artificial para o mundo”, afirmou o governador.
-
-O centro de pesquisa é voltado à aplicação de ciência de dados, inteligência artificial, visualização de dados, imagem computacional e análise de informações complexas a problemas de relevância social, científica e econômica.
-
-O Instituto reúne pesquisadores de computação e especialistas de áreas como saúde, políticas públicas, urbanismo, meio ambiente e ciência, com o objetivo de transformar grandes volumes de dados em conhecimento útil para a tomada de decisão.
-
-“É muito importante conhecer essas experiências. Tive o prazer de encontrar dois pesquisadores cearenses, dra. Juliana e dr. Cláudio. Muito nos orgulha esses talentos aqui ajudando a desenvolver novas tecnologias”, destacou Elmano de Freitas.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/PHOTO-2026-05-11-07-05-42.jpg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Linha Santana completa um ano e consolida o Pecém como hub estratégico entre o Ceará e a Ásia</title>
-    <guid>https://www.ce.gov.br/2026/05/11/linha-santana-completa-um-ano-e-consolida-o-pecem-como-hub-estrategico-entre-o-ceara-e-a-asia/</guid>
-    <pubDate>2026-05-11T10:13:20</pubDate>
-    <description><![CDATA[O Complexo do Pecém celebra o primeiro ano de operação da Linha Santana, serviço marítimo operado pela MSC que consolidou uma conexão direta e regular entre o Ceará e os principais mercados da Ásia. Implantada dentro do novo ciclo de expansão comercial e reposicionamento internacional do Porto do Pecém, a rota rapidamente se tornou um dos principais pilares da movimentação conteinerizada do terminal cearense.
-
-Em apenas 12 meses de operação, o Serviço Santana alcançou resultados expressivos e já figura entre os maiores serviços em volume de movimentação do Porto do Pecém, reforçando a importância estratégica da rota para o fortalecimento do comércio exterior da região. Ao longo do período, a linha registrou mais de 103 mil TEUs movimentados, representando cerca de 15% de toda a movimentação de contêineres do terminal. Os números refletem não apenas a regularidade da operação, mas também a confiança do mercado no potencial logístico do Pecém e na capacidade do terminal de atrair grandes rotas internacionais.
-
-Para o presidente do Complexo do Pecém, Max Quintino, a consolidação da Linha Santana representa um avanço importante no processo de internacionalização do terminal cearense. “Os resultados da Linha Santana neste primeiro ano demonstram a força do Porto do Pecém como uma plataforma logística estratégica para o Brasil. Conseguimos ampliar nossa conexão com os principais mercados asiáticos, reduzir significativamente o tempo de trânsito das cargas e oferecer mais competitividade para os nossos clientes e para a economia cearense”, destaca.
-
-Segundo ele, antes da operação da rota direta, uma carga que saía da China com destino ao Ceará podia levar até 70 dias para chegar ao Estado. “As mercadorias precisavam seguir pelo Cabo da Boa Esperança, realizar conexão em portos do Sudeste e depois aguardar o transporte por cabotagem até o Nordeste. Hoje temos uma operação muito mais eficiente, previsível e competitiva. Além disso, embora a importação ainda seja o principal fluxo, observamos um crescimento importante das exportações, que já representam entre 5% e 10% da movimentação da linha”, explica.
-
-A Linha Santana conecta o Pecém a importantes portos do Extremo Oriente, como China, Coreia do Sul e Singapura, além de rotas na América Central e no Caribe. Entre os principais produtos movimentados estão painéis solares, coque de petróleo, peças automotivas e cargas de transbordo destinadas ao Polo Industrial de Manaus. Na exportação, destacam-se produtos como pedras ornamentais, óleos minerais e açaí.
-
-Um dos grandes diferenciais do serviço é o forte perfil de transbordo, que representa cerca de 47% da operação. Esse movimento fortalece o Porto do Pecém como hub logístico regional, responsável por redistribuir cargas internacionais para as regiões Norte e Nordeste de forma mais eficiente e competitiva.
-
-Além do crescimento em volume, a Linha Santana trouxe impactos logísticos relevantes para o Ceará. A conexão direta com a Ásia reduziu em aproximadamente 30 dias o tempo de trânsito das cargas destinadas ao Estado, eliminando a necessidade de transbordos em portos do Sudeste e do Sul do país. O resultado é uma cadeia logística mais rápida, previsível e eficiente.
-
-Para Max Quintino, o desempenho da rota ao longo do primeiro ano reforça o momento de crescimento vivido pelo Complexo do Pecém e a capacidade do terminal de ampliar sua presença nas grandes rotas marítimas globais. “O sucesso da Linha Santana comprova que o Pecém está preparado para receber grandes serviços internacionais de longo curso, ampliar fluxos comerciais e consolidar cada vez mais sua posição entre os principais hubs logísticos do país. Esse é o resultado de um trabalho estratégico que vem fortalecendo a competitividade e a inserção internacional do nosso complexo”, afirma.]]></description>
-    <content:encoded><![CDATA[O Complexo do Pecém celebra o primeiro ano de operação da Linha Santana, serviço marítimo operado pela MSC que consolidou uma conexão direta e regular entre o Ceará e os principais mercados da Ásia. Implantada dentro do novo ciclo de expansão comercial e reposicionamento internacional do Porto do Pecém, a rota rapidamente se tornou um dos principais pilares da movimentação conteinerizada do terminal cearense.
-
-Em apenas 12 meses de operação, o Serviço Santana alcançou resultados expressivos e já figura entre os maiores serviços em volume de movimentação do Porto do Pecém, reforçando a importância estratégica da rota para o fortalecimento do comércio exterior da região. Ao longo do período, a linha registrou mais de 103 mil TEUs movimentados, representando cerca de 15% de toda a movimentação de contêineres do terminal. Os números refletem não apenas a regularidade da operação, mas também a confiança do mercado no potencial logístico do Pecém e na capacidade do terminal de atrair grandes rotas internacionais.
-
-Para o presidente do Complexo do Pecém, Max Quintino, a consolidação da Linha Santana representa um avanço importante no processo de internacionalização do terminal cearense. “Os resultados da Linha Santana neste primeiro ano demonstram a força do Porto do Pecém como uma plataforma logística estratégica para o Brasil. Conseguimos ampliar nossa conexão com os principais mercados asiáticos, reduzir significativamente o tempo de trânsito das cargas e oferecer mais competitividade para os nossos clientes e para a economia cearense”, destaca.
-
-Segundo ele, antes da operação da rota direta, uma carga que saía da China com destino ao Ceará podia levar até 70 dias para chegar ao Estado. “As mercadorias precisavam seguir pelo Cabo da Boa Esperança, realizar conexão em portos do Sudeste e depois aguardar o transporte por cabotagem até o Nordeste. Hoje temos uma operação muito mais eficiente, previsível e competitiva. Além disso, embora a importação ainda seja o principal fluxo, observamos um crescimento importante das exportações, que já representam entre 5% e 10% da movimentação da linha”, explica.
-
-A Linha Santana conecta o Pecém a importantes portos do Extremo Oriente, como China, Coreia do Sul e Singapura, além de rotas na América Central e no Caribe. Entre os principais produtos movimentados estão painéis solares, coque de petróleo, peças automotivas e cargas de transbordo destinadas ao Polo Industrial de Manaus. Na exportação, destacam-se produtos como pedras ornamentais, óleos minerais e açaí.
-
-Um dos grandes diferenciais do serviço é o forte perfil de transbordo, que representa cerca de 47% da operação. Esse movimento fortalece o Porto do Pecém como hub logístico regional, responsável por redistribuir cargas internacionais para as regiões Norte e Nordeste de forma mais eficiente e competitiva.
-
-Além do crescimento em volume, a Linha Santana trouxe impactos logísticos relevantes para o Ceará. A conexão direta com a Ásia reduziu em aproximadamente 30 dias o tempo de trânsito das cargas destinadas ao Estado, eliminando a necessidade de transbordos em portos do Sudeste e do Sul do país. O resultado é uma cadeia logística mais rápida, previsível e eficiente.
-
-Para Max Quintino, o desempenho da rota ao longo do primeiro ano reforça o momento de crescimento vivido pelo Complexo do Pecém e a capacidade do terminal de ampliar sua presença nas grandes rotas marítimas globais. “O sucesso da Linha Santana comprova que o Pecém está preparado para receber grandes serviços internacionais de longo curso, ampliar fluxos comerciais e consolidar cada vez mais sua posição entre os principais hubs logísticos do país. Esse é o resultado de um trabalho estratégico que vem fortalecendo a competitividade e a inserção internacional do nosso complexo”, afirma.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/IMG_4990.JPG-scaled.jpeg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Festival Ceará Sem Fome em Ibiapina reúne beneficiários, expositores e comunidade da Serra da Ibiapaba</title>
-    <guid>https://www.ce.gov.br/2026/05/11/festival-ceara-sem-fome-em-ibiapina-reune-beneficiarios-expositores-e-comunidade-da-serra-da-ibiapaba/</guid>
-    <pubDate>2026-05-11T09:59:27</pubDate>
-    <description><![CDATA[O município de Ibiapina, na Serra da Ibiapaba, recebeu, neste sábado (09), o Festival Ceará Sem Fome, reunindo beneficiários do programa, expositores e a comunidade local em um momento de integração, geração de renda e valorização de talentos. O evento foi realizado na Praça Calçadão da Liberdade, no Centro da cidade, marcando o início de uma série de festivais que acontecerão em todas as regiões do estado.
-
-A programação contou com apresentações culturais, feira de produtos produzidos pelos beneficiários do programa, com a comercialização de bolos, tortas, salgados, comidas de rua, peças de confecção, itens de limpeza e perfumaria, além da oferta de serviços de beleza, como escova e penteados.
-
-Beneficiária da Cozinha das Pedrinhas, em Ibiapina, Maria Eliane de Lima participou da feira comercializando bolos, doces e maçã do amor. Ela destacou o aprendizado adquirido por meio das capacitações do programa. “Eu aprendi muita coisa durante os cursos. Hoje consigo fazer meus produtos e estar aqui vendendo, mostrando o que eu sei fazer”, afirmou.
-
-A agente popular de segurança alimentar Telma Maria também participou do festival, levando para a feira produtos como doces, salgados, hambúrgueres e sanduíches. Ela ressaltou a importância do aprendizado e do apoio familiar. “Eu aprendi muita coisa também. E aqui é a família toda junto: minha filha, minha neta, minha esposa, todo mundo ajudando. A gente trabalha unido e consegue vender”, destacou.
-
-Durante o evento, o secretário executivo da Infância, Família e Combate à Fome, Francisco Ibiapina, reforçou a importância do programa para o estado. “Quando a gente for contar a história do Ceará Sem Fome daqui a alguns anos, esse momento vai ficar marcado. É a concretização de uma decisão do governador Elmano de Freitas de combater a fome no Ceará. E os resultados já são visíveis, com ações como o eixo +Qualificação e Renda, que tem ampliado as oportunidades para os beneficiários se qualificarem, empreenderem e conquistarem autonomia econômica”, afirmou.
-
-O prefeito de Ibiapina, Marcão Lima, também destacou os impactos do programa no município. “São 500 quentinhas servidas diariamente para o nosso povo, mas o Ceará Sem Fome vai além disso. São cursos, capacitações e oportunidades. Já temos vários profissionais formados aqui, com kits para começar a trabalhar, seja na área de manutenção, beleza ou outras atividades. É um programa que gera dignidade e desenvolvimento”, ressaltou.
-
-A primeira-dama do Estado e presidente do Comitê Ceará Sem Fome, Lia de Freitas, enfatizou o compromisso do Governo do Estado com o combate à fome e a promoção da segurança alimentar. “O governador Elmano de Freitas tem como prioridade garantir que nenhum cearense passe fome. Estamos trabalhando para assegurar não só o acesso à alimentação adequada e saudável, que é um direito, mas também para fortalecer a participação social e criar oportunidades. Aqui em Ibiapina, por exemplo, temos cozinhas funcionando, famílias atendidas pelo cartão e o fortalecimento da agricultura familiar, integrando produção, renda e dignidade”, destacou.
-
-Ao todo, serão realizados 35 festivais, distribuídos entre a Grande Fortaleza e o interior, como parte da preparação para a 3ª edição do Festival Ceará Sem Fome.
-
-A iniciativa tem como objetivo dar visibilidade ao impacto das ações do programa na vida dos beneficiários, destacando histórias de superação, talentos e iniciativas que vêm transformando comunidades. Os festivais também incentivam a geração de renda e fortalecem o protagonismo social das pessoas atendidas.
-
-A culminância dessas atividades será a realização da 3ª edição do Festival Ceará Sem Fome, no mês de junho, no Centro de Eventos do Ceará, reunindo experiências, iniciativas e resultados de todo o estado.]]></description>
-    <content:encoded><![CDATA[O município de Ibiapina, na Serra da Ibiapaba, recebeu, neste sábado (09), o Festival Ceará Sem Fome, reunindo beneficiários do programa, expositores e a comunidade local em um momento de integração, geração de renda e valorização de talentos. O evento foi realizado na Praça Calçadão da Liberdade, no Centro da cidade, marcando o início de uma série de festivais que acontecerão em todas as regiões do estado.
-
-A programação contou com apresentações culturais, feira de produtos produzidos pelos beneficiários do programa, com a comercialização de bolos, tortas, salgados, comidas de rua, peças de confecção, itens de limpeza e perfumaria, além da oferta de serviços de beleza, como escova e penteados.
-
-Beneficiária da Cozinha das Pedrinhas, em Ibiapina, Maria Eliane de Lima participou da feira comercializando bolos, doces e maçã do amor. Ela destacou o aprendizado adquirido por meio das capacitações do programa. “Eu aprendi muita coisa durante os cursos. Hoje consigo fazer meus produtos e estar aqui vendendo, mostrando o que eu sei fazer”, afirmou.
-
-A agente popular de segurança alimentar Telma Maria também participou do festival, levando para a feira produtos como doces, salgados, hambúrgueres e sanduíches. Ela ressaltou a importância do aprendizado e do apoio familiar. “Eu aprendi muita coisa também. E aqui é a família toda junto: minha filha, minha neta, minha esposa, todo mundo ajudando. A gente trabalha unido e consegue vender”, destacou.
-
-Durante o evento, o secretário executivo da Infância, Família e Combate à Fome, Francisco Ibiapina, reforçou a importância do programa para o estado. “Quando a gente for contar a história do Ceará Sem Fome daqui a alguns anos, esse momento vai ficar marcado. É a concretização de uma decisão do governador Elmano de Freitas de combater a fome no Ceará. E os resultados já são visíveis, com ações como o eixo +Qualificação e Renda, que tem ampliado as oportunidades para os beneficiários se qualificarem, empreenderem e conquistarem autonomia econômica”, afirmou.
-
-O prefeito de Ibiapina, Marcão Lima, também destacou os impactos do programa no município. “São 500 quentinhas servidas diariamente para o nosso povo, mas o Ceará Sem Fome vai além disso. São cursos, capacitações e oportunidades. Já temos vários profissionais formados aqui, com kits para começar a trabalhar, seja na área de manutenção, beleza ou outras atividades. É um programa que gera dignidade e desenvolvimento”, ressaltou.
-
-A primeira-dama do Estado e presidente do Comitê Ceará Sem Fome, Lia de Freitas, enfatizou o compromisso do Governo do Estado com o combate à fome e a promoção da segurança alimentar. “O governador Elmano de Freitas tem como prioridade garantir que nenhum cearense passe fome. Estamos trabalhando para assegurar não só o acesso à alimentação adequada e saudável, que é um direito, mas também para fortalecer a participação social e criar oportunidades. Aqui em Ibiapina, por exemplo, temos cozinhas funcionando, famílias atendidas pelo cartão e o fortalecimento da agricultura familiar, integrando produção, renda e dignidade”, destacou.
-
-Ao todo, serão realizados 35 festivais, distribuídos entre a Grande Fortaleza e o interior, como parte da preparação para a 3ª edição do Festival Ceará Sem Fome.
-
-A iniciativa tem como objetivo dar visibilidade ao impacto das ações do programa na vida dos beneficiários, destacando histórias de superação, talentos e iniciativas que vêm transformando comunidades. Os festivais também incentivam a geração de renda e fortalecem o protagonismo social das pessoas atendidas.
-
-A culminância dessas atividades será a realização da 3ª edição do Festival Ceará Sem Fome, no mês de junho, no Centro de Eventos do Ceará, reunindo experiências, iniciativas e resultados de todo o estado.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/FOTOS-IBIAPINA_FESTIVAL-CSF_3.png" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Licenciamento de veículos com placa final 3 vence nesta segunda-feira (11)</title>
-    <guid>https://www.ce.gov.br/2026/05/11/licenciamento-de-veiculos-com-placa-final-3-vence-nesta-segunda-feira-11/</guid>
-    <pubDate>2026-05-11T09:37:23</pubDate>
-    <description><![CDATA[O Departamento Estadual de Trânsito do Ceará (Detran-CE) comunica aos proprietários de veículos automotores com placa de final 3 que o prazo para o pagamento do licenciamento 2026 vence nesta segunda-feira (11). O extrato pode ser emitido pelo aplicativo Meu Detran ou pelo site oficial do órgão (www.detran.ce.gov.br), na aba “Central de Serviços”, com a opção de pagamento via Pix.
-
-Embora os boletos sejam encaminhados pelos Correios ao endereço cadastrado, o Detran-CE ressalta que o não recebimento da correspondência não isenta o contribuinte do pagamento da taxa e dos encargos dentro do prazo estabelecido.
-
-Além dos canais digitais, o proprietário pode dirigir-se a qualquer posto de atendimento do Detran-CE para emitir o boleto. Os valores para 2026 são de R$ 188,96 para motocicletas e R$ 220,46 para os demais veículos. Após a compensação do pagamento, o Certificado de Registro e Licenciamento de Veículo (CRLV-e) é renovado digitalmente.
-
-Circular com o licenciamento em atraso configura infração gravíssima, gerando multa de R$ 293,70, acréscimo de 7 pontos na CNH e a impossibilidade de emissão do CRLV atualizado. Em caso de fiscalização, o veículo também está sujeito a recolhimento (remoção).
-
-O Detran-CE reforça que o cidadão deve ficar atento a tentativas de fraude. O órgão estadual não envia mensagens de texto (SMS), e-mails ou links de cobrança por redes sociais ou aplicativos de mensagens (como WhatsApp).
-
-Confira, abaixo, o calendário completo do Licenciamento 2026:]]></description>
-    <content:encoded><![CDATA[O Departamento Estadual de Trânsito do Ceará (Detran-CE) comunica aos proprietários de veículos automotores com placa de final 3 que o prazo para o pagamento do licenciamento 2026 vence nesta segunda-feira (11). O extrato pode ser emitido pelo aplicativo Meu Detran ou pelo site oficial do órgão (www.detran.ce.gov.br), na aba “Central de Serviços”, com a opção de pagamento via Pix.
-
-Embora os boletos sejam encaminhados pelos Correios ao endereço cadastrado, o Detran-CE ressalta que o não recebimento da correspondência não isenta o contribuinte do pagamento da taxa e dos encargos dentro do prazo estabelecido.
-
-Além dos canais digitais, o proprietário pode dirigir-se a qualquer posto de atendimento do Detran-CE para emitir o boleto. Os valores para 2026 são de R$ 188,96 para motocicletas e R$ 220,46 para os demais veículos. Após a compensação do pagamento, o Certificado de Registro e Licenciamento de Veículo (CRLV-e) é renovado digitalmente.
-
-Circular com o licenciamento em atraso configura infração gravíssima, gerando multa de R$ 293,70, acréscimo de 7 pontos na CNH e a impossibilidade de emissão do CRLV atualizado. Em caso de fiscalização, o veículo também está sujeito a recolhimento (remoção).
-
-O Detran-CE reforça que o cidadão deve ficar atento a tentativas de fraude. O órgão estadual não envia mensagens de texto (SMS), e-mails ou links de cobrança por redes sociais ou aplicativos de mensagens (como WhatsApp).
-
-Confira, abaixo, o calendário completo do Licenciamento 2026:]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/licenciamento-final-placa-2-100426-1-728x485-1.jpeg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>IPVA 2026: 4ª parcela vence quarta-feira (13)</title>
-    <guid>https://www.ce.gov.br/2026/05/11/ipva-2026-4a-parcela-vence-quarta-feira-13/</guid>
-    <pubDate>2026-05-11T09:31:20</pubDate>
-    <description><![CDATA[Proprietários de veículos emplacados no Ceará têm até quarta-feira (13/05) para pagar a quarta parcela do Imposto sobre a Propriedade de Veículos Automotores (IPVA) 2026. Os contribuintes que optaram por essa modalidade, participantes do programa Sua Nota Tem Valor (SNTV), podem obter até 5% de desconto no valor do tributo, com pontos acumulados a partir de documentos fiscais emitidos entre dezembro de 2024 e novembro de 2025.
-
-Após o pagamento da quarta parcela, resta apenas uma cota do IPVA 2026, com vencimento no dia 12 de junho. O valor mínimo de cada parcela é R$ 100.
-
-O boleto pode ser emitido de três formas:
-
-– pelo aplicativo Meu IPVA, disponível gratuitamente nas lojas Play Store (Android) e App Store (iOS);
-
-– via Assistente Virtual, pelo número (85) 3108-1404 no WhatsApp. Neste caso, é necessário verificar se o número possui o selo de verificação e está registrado como Secretaria da Fazenda do Estado do Ceará.
-
-O pagamento via Pix pode ser feito em qualquer instituição financeira. A rede arrecadadora do IPVA abrange os bancos Caixa Econômica, Bradesco, Banco do Brasil, Banco do Nordeste do Brasil, Santander, Itaú, Sistema de Cooperativas Financeiras do Brasil (Sicoob) e as casas lotéricas. Outra alternativa é quitar o imposto com cartões de crédito vinculados ao Banco do Brasil ou Bradesco.
-
-Ao pagar o IPVA por Pix, disponível em qualquer instituição financeira, verifique se no nome do favorecido está escrito Secretaria da Fazenda do Estado do Ceará, e se o CNPJ é 07.954.597/0001-52.
-
-Cuidado com os golpes: a Sefaz não envia guias de recolhimento pelos Correios, WhatsApp ou e-mail.
-
-Pessoas com deficiência têm direito à isenção do imposto, assim como os proprietários de máquinas agrícolas e de terraplanagem, táxis, mototáxis, ônibus, micro-ônibus, vans e topics de transporte urbano, metropolitano e intermunicipal, além de veículos com mais de 15 anos de fabricação.
-
-Plantão Fiscal: (85) 3108.2200]]></description>
-    <content:encoded><![CDATA[Proprietários de veículos emplacados no Ceará têm até quarta-feira (13/05) para pagar a quarta parcela do Imposto sobre a Propriedade de Veículos Automotores (IPVA) 2026. Os contribuintes que optaram por essa modalidade, participantes do programa Sua Nota Tem Valor (SNTV), podem obter até 5% de desconto no valor do tributo, com pontos acumulados a partir de documentos fiscais emitidos entre dezembro de 2024 e novembro de 2025.
-
-Após o pagamento da quarta parcela, resta apenas uma cota do IPVA 2026, com vencimento no dia 12 de junho. O valor mínimo de cada parcela é R$ 100.
-
-O boleto pode ser emitido de três formas:
-
-– pelo aplicativo Meu IPVA, disponível gratuitamente nas lojas Play Store (Android) e App Store (iOS);
-
-– via Assistente Virtual, pelo número (85) 3108-1404 no WhatsApp. Neste caso, é necessário verificar se o número possui o selo de verificação e está registrado como Secretaria da Fazenda do Estado do Ceará.
-
-O pagamento via Pix pode ser feito em qualquer instituição financeira. A rede arrecadadora do IPVA abrange os bancos Caixa Econômica, Bradesco, Banco do Brasil, Banco do Nordeste do Brasil, Santander, Itaú, Sistema de Cooperativas Financeiras do Brasil (Sicoob) e as casas lotéricas. Outra alternativa é quitar o imposto com cartões de crédito vinculados ao Banco do Brasil ou Bradesco.
-
-Ao pagar o IPVA por Pix, disponível em qualquer instituição financeira, verifique se no nome do favorecido está escrito Secretaria da Fazenda do Estado do Ceará, e se o CNPJ é 07.954.597/0001-52.
-
-Cuidado com os golpes: a Sefaz não envia guias de recolhimento pelos Correios, WhatsApp ou e-mail.
-
-Pessoas com deficiência têm direito à isenção do imposto, assim como os proprietários de máquinas agrícolas e de terraplanagem, táxis, mototáxis, ônibus, micro-ônibus, vans e topics de transporte urbano, metropolitano e intermunicipal, além de veículos com mais de 15 anos de fabricação.
-
-Plantão Fiscal: (85) 3108.2200]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/4a-parcela-ipva-2026-1200x624-1.jpeg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Cagece e Aladyr promovem a 6ª edição das Olimpíadas da Água</title>
-    <guid>https://www.ce.gov.br/2026/05/11/cagece-e-aladyr-promovem-a-6a-edicao-das-olimpiadas-da-agua/</guid>
-    <pubDate>2026-05-11T09:27:47</pubDate>
-    <description><![CDATA[A Companhia de Água e Esgoto do Ceará (Cagece), em parceria com a Associação Latino-Americana de Dessalinização e Reúso de Água (Aladyr), promove a 6ª edição das Olimpíadas da Água 2026. As inscrições para participar da competição foram prorrogadas e seguem abertas até o dia 15 de maio. A ação é voltada para estudantes de 10 a 12 anos de idade e será realizada de forma virtual, por meio da plataforma Zoom.
-
-A iniciativa busca promover a conscientização sobre a preservação dos recursos hídricos e estimular o aprendizado sobre temas relacionados ao saneamento, reúso da água, dessalinização e acesso à água potável. Durante a programação, os participantes terão acesso a conteúdos educativos e participarão de atividades interativas, como quiz e produção de redações.
-
-As instituições educacionais interessadas em participar deverão enviar um e-mail para rse@aladyr.net ou mensagem para o número +55 11 98988-7089 com as seguintes informações: Nome da instituição, cidade/estado, endereço, e-mail, nome e cargo da pessoa de contato para a organização da dinâmica, WhatsApp, lista dos alunos participantes, incluindo nome, sobrenome e método de participação.
-
-Segundo a coordenadora de Interação Social da Cagece, Sâmia Régia, a parceria fortalece as ações de educação ambiental desenvolvidas pela companhia. “A parceria da Cagece com a Aladyr fortalece o compromisso da companhia com a educação ambiental e a sensibilização sobre a importância da preservação dos recursos hídricos, incentivando a participação ativa dos jovens neste evento educativo de grande relevância”, afirma.
-
-As atividades serão realizadas de forma virtual, com participação de especialistas da América Latina e programação voltada para temas relacionados à preservação dos recursos hídricos e à sustentabilidade.
-
-A ação já impactou cerca de 26 mil crianças, com a participação de 629 escolas em mais de dez países, incluindo Argentina, Bolívia, Brasil, Chile, Colômbia, Costa Rica, Equador, Honduras, México, Panamá, Paraguai, Peru e Venezuela.
-
-Os participantes também poderão concorrer a premiações em gift cards, distribuídas conforme o desempenho nas atividades propostas durante a programação.]]></description>
-    <content:encoded><![CDATA[A Companhia de Água e Esgoto do Ceará (Cagece), em parceria com a Associação Latino-Americana de Dessalinização e Reúso de Água (Aladyr), promove a 6ª edição das Olimpíadas da Água 2026. As inscrições para participar da competição foram prorrogadas e seguem abertas até o dia 15 de maio. A ação é voltada para estudantes de 10 a 12 anos de idade e será realizada de forma virtual, por meio da plataforma Zoom.
-
-A iniciativa busca promover a conscientização sobre a preservação dos recursos hídricos e estimular o aprendizado sobre temas relacionados ao saneamento, reúso da água, dessalinização e acesso à água potável. Durante a programação, os participantes terão acesso a conteúdos educativos e participarão de atividades interativas, como quiz e produção de redações.
-
-As instituições educacionais interessadas em participar deverão enviar um e-mail para rse@aladyr.net ou mensagem para o número +55 11 98988-7089 com as seguintes informações: Nome da instituição, cidade/estado, endereço, e-mail, nome e cargo da pessoa de contato para a organização da dinâmica, WhatsApp, lista dos alunos participantes, incluindo nome, sobrenome e método de participação.
-
-Segundo a coordenadora de Interação Social da Cagece, Sâmia Régia, a parceria fortalece as ações de educação ambiental desenvolvidas pela companhia. “A parceria da Cagece com a Aladyr fortalece o compromisso da companhia com a educação ambiental e a sensibilização sobre a importância da preservação dos recursos hídricos, incentivando a participação ativa dos jovens neste evento educativo de grande relevância”, afirma.
-
-As atividades serão realizadas de forma virtual, com participação de especialistas da América Latina e programação voltada para temas relacionados à preservação dos recursos hídricos e à sustentabilidade.
-
-A ação já impactou cerca de 26 mil crianças, com a participação de 629 escolas em mais de dez países, incluindo Argentina, Bolívia, Brasil, Chile, Colômbia, Costa Rica, Equador, Honduras, México, Panamá, Paraguai, Peru e Venezuela.
-
-Os participantes também poderão concorrer a premiações em gift cards, distribuídas conforme o desempenho nas atividades propostas durante a programação.]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/Cagece-Aladyr-promovem-Olimpiadas-2025.jpg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Governo do Ceará realiza encerramento do projeto Impacto Produtivo com demo day para apresentação de 10 negócios apoiados</title>
-    <guid>https://www.ce.gov.br/2026/05/11/governo-do-ceara-realiza-encerramento-do-projeto-impacto-produtivo-com-demo-day-para-apresentacao-de-10-negocios-apoiados/</guid>
-    <pubDate>2026-05-11T09:24:08</pubDate>
-    <description><![CDATA[Cerimônia de encerramento será realizada na próxima terça-feira (12), às 14h30, no Palácio da Abolição
-
-Após uma jornada de capacitação, mentorias especializadas e apoio ao desenvolvimento de soluções inovadoras para desafios socioambientais de empresas cearenses, o projeto Impacto Produtivo encerra sua trajetória com um demo day para apresentação de 10 negócios apoiados. A iniciativa é do Governo do Ceará, por meio da Agência de Desenvolvimento do Estado do Ceará (Adece), vinculada à Secretaria do Desenvolvimento Econômico (SDE), e da Secretaria da Ciência, Tecnologia e Educação Superior (Secitece). O projeto também é executado pelo Instituto de Cidadania Empresarial (ICE).
-
-Além das mentorias especializadas, cada um dos 10 negócios selecionados por meio de edital foi apoiado com subvenção econômica de R$ 25 mil. O valor é destinado a investimentos no desenvolvimento de suas soluções socioambientais para cadeias produtivas cearenses.
-
-O Impacto Produtivo é um modelo pioneiro e inovador de política pública voltado à promoção da economia de impacto no Estado articulando capacitação, apoio técnico e incentivo financeiro em uma mesma iniciativa.
-
-Data: 12 de maio (terça-feira)
-
-Hora: 14h30
-
-14h30 – Credenciamento Demo Day (Aberto ao público
-
-15h15 – Abertura institucional
-
-15h45 – Apresentação dos resultados do ciclo
-
-16h00 – Pitchs dos finalistas
-
-16h45 – Painel:“Como estimular e conectar pequenos e médios negócios com foco em sustentabilidade e em impacto
-
-17h05 – Resultado da Votação Popular e Negócio Destaque
-
-Categoria Votação Popular
-
-Categoria Negócio Destaque da Jornada
-
-17h15 – Coffee break e encerramento]]></description>
-    <content:encoded><![CDATA[Cerimônia de encerramento será realizada na próxima terça-feira (12), às 14h30, no Palácio da Abolição
-
-Após uma jornada de capacitação, mentorias especializadas e apoio ao desenvolvimento de soluções inovadoras para desafios socioambientais de empresas cearenses, o projeto Impacto Produtivo encerra sua trajetória com um demo day para apresentação de 10 negócios apoiados. A iniciativa é do Governo do Ceará, por meio da Agência de Desenvolvimento do Estado do Ceará (Adece), vinculada à Secretaria do Desenvolvimento Econômico (SDE), e da Secretaria da Ciência, Tecnologia e Educação Superior (Secitece). O projeto também é executado pelo Instituto de Cidadania Empresarial (ICE).
-
-Além das mentorias especializadas, cada um dos 10 negócios selecionados por meio de edital foi apoiado com subvenção econômica de R$ 25 mil. O valor é destinado a investimentos no desenvolvimento de suas soluções socioambientais para cadeias produtivas cearenses.
-
-O Impacto Produtivo é um modelo pioneiro e inovador de política pública voltado à promoção da economia de impacto no Estado articulando capacitação, apoio técnico e incentivo financeiro em uma mesma iniciativa.
-
-Data: 12 de maio (terça-feira)
-
-Hora: 14h30
-
-14h30 – Credenciamento Demo Day (Aberto ao público
-
-15h15 – Abertura institucional
-
-15h45 – Apresentação dos resultados do ciclo
-
-16h00 – Pitchs dos finalistas
-
-16h45 – Painel:“Como estimular e conectar pequenos e médios negócios com foco em sustentabilidade e em impacto
-
-17h05 – Resultado da Votação Popular e Negócio Destaque
-
-Categoria Votação Popular
-
-Categoria Negócio Destaque da Jornada
-
-17h15 – Coffee break e encerramento]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-22-at-11.05.42.jpeg" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Confira vagas disponíveis para cursos, bolsas, emprego e qualificação profissional</title>
-    <guid>https://www.ce.gov.br/2026/05/11/radar-de-oportunidades-confira-vagas-disponiveis-para-cursos-bolsas-emprego-e-qualificacao-profissional/</guid>
-    <pubDate>2026-05-11T07:03:06</pubDate>
-    <description><![CDATA[O Governo do Ceará está oferecendo, através de seus equipamentos e secretaria/órgãos, vagas de bolsas, cursos e qualificações profissionais. Confira abaixo as oportunidades:]]></description>
-    <content:encoded><![CDATA[O Governo do Ceará está oferecendo, através de seus equipamentos e secretaria/órgãos, vagas de bolsas, cursos e qualificações profissionais. Confira abaixo as oportunidades:]]></content:encoded>
-    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/Bolsista-do-Acervo-no-Nucleo-de-Conservacao-e-Restauro-Foto_-Marilia-Camelo-1-1200x800-1.jpg" type="image/jpeg" />
+&gt; A Pinacoteca do Ceará dispõe dos seguintes recursos de acessibilidade: audiodescrição, abafadores de ruídos, videoguias em Libras, cadeira de rodas, intérpretes de Libras e peças táteis.]]></content:encoded>
+    <enclosure url="https://www.ce.gov.br/wp-content/uploads/2026/05/Vista-de-exposicao-_Existencias-paralelas-acervo-em-desconstrucao__Foto_-Marilia-Camelo-_-Pinacoteca-do-Ceara-1-scaled.jpg" type="image/jpeg" />
   </item>
 </channel>
 </rss>
