@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 13 May 2026 11:57:40 +0000</pubDate>
+    <pubDate>Wed, 13 May 2026 14:31:58 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,346 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Desenrola: renegociação de dívidas do Fies começa nesta quarta-feira</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/desenrola-renegociacao-de-dividas-do-fies-comeca-nesta-quarta-feira</link>
+      <pubDate>Wed, 13 May 2026 14:31:58 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/desenrola-renegociacao-de-dividas-do-fies-comeca-nesta-quarta-feira#1000</guid>
+      <description>As pessoas com dívidas do Fundo de Financiamento Estudantil (Fies) podem renegociar seus débitos a partir desta quarta-feira (13), por meio do Desenr...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Q6_utpFPT7ArgyNe304IvRD07Lo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/24/0d9a2938.jpg?itok=18RVdMb_&quot; alt=&quot;Desenrola: renegociação de dívidas do Fies começa nesta quarta-feira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As pessoas com dívidas do Fundo de Financiamento Estudantil (Fies) podem renegociar seus débitos a partir desta quarta-feira (13), por meio do Desenrola Fies.&lt;/p&gt;
+&lt;p&gt;As condições variam conforme o perfil do estudante e o tempo de atraso da dívida, com&lt;/p&gt;
+&lt;p&gt;descontos para a quitação de até 99% sobre o valor da dívida&lt;/p&gt;
+&lt;p&gt;Pode participar quem tem contrato firmado até 2017 e que estava em fase de amortização – ou seja, em fase de pagamento – em 4 de maio de 2026, data de lançamento do novo Desenrola Brasil.&lt;/p&gt;
+&lt;p&gt;No caso do Desenrola Fies a negociação pode ser feita até 31 de dezembro de 2026.&lt;/p&gt;
+&lt;p&gt;As regras para a renegociação foram aprovadas pelo Comitê Gestor do Fundo de Financiamento Estudantil e a regulamentação publicada nesta terça-feira (12) no&lt;/p&gt;
+&lt;p&gt;Confira as condições específicas conforme a situação da dívida:&lt;/p&gt;
+&lt;p&gt;- Débitos vencidos há mais de 360 dias:&lt;/p&gt;
+&lt;p&gt;estudantes fora do Cadastro Único para programas sociais do governo federal (CadÚnico) têm desconto de até 77% do valor total consolidado (incluindo o principal) para quitar a dívida;&lt;/p&gt;
+&lt;p&gt;estudantes inscritos no CadÚnico, com informações atualizadas nos últimos 24 meses, podem quitar a dívida com desconto de 92% do valor consolidado;&lt;/p&gt;
+&lt;p&gt;estudantes beneficiados pelo CadÚnico com atraso superior a cinco anos na última prestação o desconto é de 99% do valor consolidado.&lt;/p&gt;
+&lt;p&gt;- Débitos vencidos há mais de 90 dias:&lt;/p&gt;
+&lt;p&gt;pagamento à vista, com desconto total de juros e multas e redução de até 12% do valor principal;&lt;/p&gt;
+&lt;p&gt;ou parcelamento em até 150 parcelas mensais, com redução de 100% dos juros e multas.&lt;/p&gt;
+&lt;p&gt;- Adimplentes ou atraso de até 90 dias:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/desenrola-renegociacao-de-dividas-do-fies-comeca-nesta-quarta-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>As pessoas com dívidas do Fundo de Financiamento Estudantil (Fies) podem renegociar seus débitos a partir desta quarta-feira (13), por meio do Desenr...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-05-13 10:35:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-13 10:35:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-13 10:35:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-13 10:35:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Q6_utpFPT7ArgyNe304IvRD07Lo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/24/0d9a2938.jpg?itok=18RVdMb_</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>13 de maio: dia de reflexão sobre como reparar danos da escravidão</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/13-de-maio-dia-de-reflexao-sobre-como-reparar-danos-da-escravidao</link>
+      <pubDate>Wed, 13 May 2026 14:31:58 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/13-de-maio-dia-de-reflexao-sobre-como-reparar-danos-da-escravidao#1001</guid>
+      <description>O dia 13 de maio, data oficial da abolição da escravatura no Brasil, não é comemorado como o dia da libertação.
+Para estudiosos e movimentos da socie...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FSHIsml_vqKGDo4hYx9EPJn3Y3E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/25/_mg_3627_0.jpg?itok=Z1eTFPRy&quot; alt=&quot;13 de maio: dia de reflexão sobre como reparar danos da escravidão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O dia 13 de maio, data oficial da abolição da escravatura no Brasil, não é comemorado como o dia da libertação.&lt;/p&gt;
+&lt;p&gt;Para estudiosos e movimentos da sociedade civil, ao assinar a Lei Áurea, em 1888, a Princesa Isabel nada disse ou fez sobre o dia seguinte.&lt;/p&gt;
+&lt;p&gt;Muitas pessoas, até mesmo crianças, foram lançadas às ruas com a roupa do corpo. Outras foram mantidas nas mesmas condições de antes.&lt;/p&gt;
+&lt;p&gt;Por isso, a data da abolição, historicamente, tem sido marcada pelo movimento negro como forma de provocar uma reflexão sobre a perpetuação do racismo estrutural, que se traduz em racismo, pobreza e exclusão, assim como sobre ações de reparação.&lt;/p&gt;
+&lt;p&gt;Uma delas é a campanha Justiça Tributária Já, planejada por organizações da sociedade civil, como o Instituto de Estudos Socioeconômicos (Inesc) e a Oxfam Brasil.&lt;/p&gt;
+&lt;p&gt;A campanha propõe enfrentar desigualdades raciais que estruturam a economia brasileira por meio da tributação de grandes fortunas,&lt;/p&gt;
+&lt;p&gt;muitas oriundas de empreendimentos escravocratas, altas rendas, lucros e dividendos.&lt;/p&gt;
+&lt;p&gt;A ação também busca acabar com privilégios fiscais e garantir um alívio para as famílias que precisam se endividar para sobreviver.&lt;/p&gt;
+&lt;p&gt;No documento que traz as sugestões de mudanças no sistema tributário brasileiro, o&lt;/p&gt;
+&lt;p&gt;, a Oxfam Brasil identificou, entre os super-ricos no Brasil, 80% de homens brancos (Pnad 2024), enquanto os beneficiados pela isenção de IR (rendas até R$ 5 mil) são 44% negros e 41% mulheres.&lt;/p&gt;
+&lt;p&gt;Ao levantar os dados, a Oxfam identificou que mulheres negras sustentam lares com menor renda e maior incidência de tributos indiretos, enquanto R$ 400 bilhões em lucros e dividendos escapam da tributação que poderia servir para redistribuir recursos.&lt;/p&gt;
+&lt;p&gt;&quot;O país precisa enfrentar a herança [da escravidão] que ainda carrega&quot;, afirma a Oxfam, no&lt;/p&gt;
+&lt;p&gt;A entidade lembra que, no pós-abolição, políticas negaram acesso à terra, educação e trabalho formal aos negros, preferindo e beneficiando, com leis e incentivo, imigrantes europeus.&lt;/p&gt;
+&lt;p&gt;&quot;Essa desigualdade estrutural persiste até hoje, refletindo-se no sistema tributário, que, ao não considerar a história, reforça desigualdades socioeconômicas.&quot;&lt;/p&gt;
+&lt;p&gt;A disparidade pode ser constatada, por exemplo, na remuneração média: enquanto os homens não negros têm renda média de R$ 6.033, mulheres negras recebem R$ 2.864 em média, segundo dados do Ministério do Trabalho.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-05/13-de-maio-dia-de-reflexao-sobre-como-reparar-danos-da-escravidao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O dia 13 de maio, data oficial da abolição da escravatura no Brasil, não é comemorado como o dia da libertação.
+Para estudiosos e movimentos da socie...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-05-13 10:29:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-13 10:29:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-13 10:29:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-13 10:29:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/FSHIsml_vqKGDo4hYx9EPJn3Y3E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/25/_mg_3627_0.jpg?itok=Z1eTFPRy</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Fragmentos de vegetação nativa cresceram no país 260% em 38 anos</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/areas-de-vegetacao-nativa-fragmentadas-cresceram-260-em-38-anos</link>
+      <pubDate>Wed, 13 May 2026 14:31:58 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/areas-de-vegetacao-nativa-fragmentadas-cresceram-260-em-38-anos#1002</guid>
+      <description>© Fernando Frazão/Agência Brasil
+As porções isoladas de vegetação nativa cresceram de 2,7 milhões, em 1986, para 7,1 milhões, em 2023, em todo o país...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/R1emITRGR93mHNEglvvc08mJ7vs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/31/_d6a8472_0.jpg?itok=sK_GzD7W&quot; alt=&quot;Fragmentos de vegetação nativa cresceram no país 260% em 38 anos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;As porções isoladas de vegetação nativa cresceram de 2,7 milhões, em 1986, para 7,1 milhões, em 2023, em todo o país, conclui um novo estudo do Mapbiomas divulgado nesta quarta-feira (13).&lt;/p&gt;
+&lt;p&gt;O aumento de 260%, em 38 anos, demonstra como o desmatamento no Brasil transformou grandes extensões contínuas de cobertura verde em pequenos fragmentos remanescentes.&lt;/p&gt;
+&lt;p&gt;Os dados são do Módulo de Degradação, uma plataforma desenvolvida pelo MapBiomas, que permite a análise, integração de dados e monitoramento das transformações na cobertura e no uso da terra no Brasil. Pela primeira vez, a fragmentação - processo de divisão de grandes extensões de vegetação nativa – foi analisada.&lt;/p&gt;
+&lt;p&gt;Além do aumento na quantidade, os pesquisadores também constataram a diminuição do tamanho dos fragmentos. Enquanto no início da série histórica a média de tamanho dos fragmentos era de 241 hectares, em 2023 eles encolheram para um tamanho médio de apenas 77 hectares.&lt;/p&gt;
+&lt;p&gt;Segundo o pesquisador do Instituto de Pesquisa Ambiental da Amazônia (Ipam), Dhemerson Conciani, que coordena o Módulo de Degradação, os dados preocupam porque o tamanho dos fragmentos de vegetação nativa tem relação direta com a quantidade e variedade da fauna e da flora presente.&lt;/p&gt;
+&lt;p&gt;“Cada vez que diminui o tamanho de um fragmento de vegetação nativa, mais problemas aparecem: aumenta o risco de extinções locais das espécies, diminui a chance de recolonização por indivíduos vindos de outros fragmentos vizinhos e maior é a proporção do efeito de borda [perda de características naturais mais presentes nas margens próximas às áreas degradas]”, analisa Conciani.&lt;/p&gt;
+&lt;p&gt;De acordo com o estudo, quase 5% da vegetação nativa do Brasil, o equivalente a 26,7 milhões de hectares, está em fragmentos menores que 250 hectares&lt;/p&gt;
+&lt;p&gt;. E as pequenas porções isoladas estão mais presentes na Mata Atlântica, onde elas respondem por quase 28% da vegetação nativa remanescente - ou 10 milhões de hectares.&lt;/p&gt;
+&lt;p&gt;Em quantidade absoluta de fragmentos, a Mata Atlântica e o Cerrado são os que mais possuem porções isoladas de vegetação nativa, sendo 2,7 milhões em cada bioma. Para Natalia Crusco, coordenadora técnica de Mata Atlântica no MapBiomas, o avanço da fragmentação nos dois biomas ocorre por razões diferentes.&lt;/p&gt;
+&lt;p&gt;“Enquanto no Cerrado o aumento no número de fragmentos está associado ao avanço do desmatamento e à divisão de grandes remanescentes de vegetação nativa em áreas menores; na Mata Atlântica, parte desse aumento também pode ser explicada por um processo no sentido oposto ao desmatamento, ou seja, pelo surgimento de múltiplas áreas de recuperação da vegetação secundária”.&lt;/p&gt;
+&lt;p&gt;Nos biomas Amazônia, Caatinga, Pampa e Pantanal o número de fragmentos foi de respectivamente quase 662 mil, 600 mil, 324 mil e 45 mil, em 2023.&lt;/p&gt;
+&lt;p&gt;Ao longo dos 38 anos observados, Pantanal e a Amazônia foram os que sofreram mais fragmentação, com aumento de 350% e 332%, respectivamente. No Pampa, o número de porções isoladas cresceu 285% e no Cerrado aumentou 172%.&lt;/p&gt;
+&lt;p&gt;Caatinga e Mata Atlântica variaram menos, mas ainda tiveram aumento de fragmentação de suas vegetações com crescimentos de 90% e 68%, respectivamente.&lt;/p&gt;
+&lt;p&gt;Em redução de fragmentos, a Amazônia foi a mais impactada. As porções de vegetação nativa no bioma encolheram 82% ao longo do período estudado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/areas-de-vegetacao-nativa-fragmentadas-cresceram-260-em-38-anos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+As porções isoladas de vegetação nativa cresceram de 2,7 milhões, em 1986, para 7,1 milhões, em 2023, em todo o país...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-05-13 09:49:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-13 09:49:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-13 09:49:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-13 09:49:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/R1emITRGR93mHNEglvvc08mJ7vs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/31/_d6a8472_0.jpg?itok=sK_GzD7W</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Jazz Livre recebe trombonista Felipe Brito para live na Rádio MEC</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/jazz-livre-recebe-trombonista-felipe-brito-para-live-na-radio-mec</link>
+      <pubDate>Wed, 13 May 2026 14:31:58 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/jazz-livre-recebe-trombonista-felipe-brito-para-live-na-radio-mec#1003</guid>
+      <description>O trombonista Felipe Brito é a atração da liveem formato multiplataforma do
+apresenta nesta quarta-feira (13). Com transmissão simultânea em áudio, p...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FESelWP98lZUm2joCwcizFtCpdA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/12/cantor_felipe_brito_-_credito_fotografico_jose_de_holanda.jpg?itok=Tn-arBrc&quot; alt=&quot;Jazz Livre recebe trombonista Felipe Brito para live na Rádio MEC&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O trombonista Felipe Brito é a atração da liveem formato multiplataforma do&lt;/p&gt;
+&lt;p&gt;apresenta nesta quarta-feira (13). Com transmissão simultânea em áudio, pelo dial da emissora, e em vídeo, no&lt;/p&gt;
+&lt;p&gt;da rádio, o programa vai ao ar às 21h conduzido por Sidney Ferreira.&lt;/p&gt;
+&lt;p&gt;Embaixador da música brasileira no exterior e um dos grandes nomes do trombone contemporâneo, Felipe Brito se apresenta no&lt;/p&gt;
+&lt;p&gt;acompanhado de Ivan Carlos Nunes (saxofone), Renan Francisco (piano), Miguel Dias (baixo) e Luciano de Paula (bateria). Conhecido por seus projetos de grande impacto social, o trombonista interpreta obras autorais do aclamado espetáculo&lt;/p&gt;
+&lt;p&gt;Tributo a Martin Luther King Jr.&lt;/p&gt;
+&lt;p&gt;, trabalho que une a excelência do jazz à mensagem de união e justiça.&lt;/p&gt;
+&lt;p&gt;, Felipe conta como foi o processo de traduzir o legado e os discursos de uma das maiores figuras da história da humanidade para as notas do seu trombone e para o arranjo do quinteto. Ainda no programa, o convidado destaca como a imersão nos Estados Unidos - berço do jazz, onde mora e tem uma carreira sólida - influenciou a forma como construiu essa homenagem.&lt;/p&gt;
+&lt;p&gt;Com datas para apresentações no Rio de Janeiro e em São Paulo, o show “Tributo a Martin Luther King Jr.” traz uma forte carga emocional e política. Aos músicos Ivan, Natan, Giordano e Flávio, Sidney Ferreira pergunta como foi criar uma sonoridade que dialoga com a espiritualidade e a luta pelos direitos civis&lt;/p&gt;
+&lt;p&gt;O repertório interpretado por Felipe Brito e os quatro músicos ao longo da atração radiofônica traz&lt;/p&gt;
+&lt;p&gt;(Don't Put Off Until Tomorrow),&lt;/p&gt;
+&lt;p&gt;. Além de integrar o show, as composições autorais foram gravadas no álbum&lt;/p&gt;
+&lt;p&gt;Felipe Brito atua nos Estados Unidos há 14 anos como artista solo, músico orquestral, de jazz, comercial, de estúdio e solista em Cape Girardeau, St. Louis, Memphis, Nashville, Chicago, Austin, Nova York e Nova Jersey. Desde 2023, Felipe também é professor de trombone e diretor de jazz e de música comercial na Southeast Missouri State University.&lt;/p&gt;
+&lt;p&gt;, no ar de segunda a sexta-feira, na faixa das 21h, o&lt;/p&gt;
+&lt;p&gt;tem uma hora de duração com o melhor repertório do gênero e da música instrumental. O programa apresenta várias edições inéditas por semana, ao vivo, geralmente, de segunda a quinta-feira.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/jazz-livre-recebe-trombonista-felipe-brito-para-live-na-radio-mec&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O trombonista Felipe Brito é a atração da liveem formato multiplataforma do
+apresenta nesta quarta-feira (13). Com transmissão simultânea em áudio, p...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-05-13 09:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-13 09:00:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-13 09:00:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-13 09:00:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/FESelWP98lZUm2joCwcizFtCpdA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/12/cantor_felipe_brito_-_credito_fotografico_jose_de_holanda.jpg?itok=Tn-arBrc</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>PF investiga instituto de previdência de Cajamar por gestão temerária</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/pf-investiga-instituto-de-previdencia-de-cajamar-por-gestao-temeraria</link>
+      <pubDate>Wed, 13 May 2026 14:31:58 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/pf-investiga-instituto-de-previdencia-de-cajamar-por-gestao-temeraria#1004</guid>
+      <description>A Polícia Federal (PF) deflagrou na manhã desta quarta-feira (13) a Operação Off-Balance. O objetivo é apurar a possível prática de gestão temerária ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MPKf8kcJjddWWNLiTreecgT7SXA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/23/279bd352-e759-45e1-9f5d-058ab82a2eb4.jpg?itok=j2LCOy85&quot; alt=&quot;PF investiga instituto de previdência de Cajamar por gestão temerária&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Polícia Federal (PF) deflagrou na manhã desta quarta-feira (13) a Operação Off-Balance. O objetivo é apurar a possível prática de gestão temerária de recursos em Regime Próprio de Previdência Social (RPPS)&lt;/p&gt;
+&lt;p&gt;no âmbito da autarquia responsável pela previdência social de servidores públicos titulares de cargo efetivo no município de Cajamar (SP).&lt;/p&gt;
+&lt;p&gt;Em nota, a corporação informou que policiais federais cumprem seis mandados de busca e apreensão nos municípios de Cajamar e Boituva (SP) e também na capital paulista, além de medidas cautelares de afastamento de função pública e de indisponibilidade de bens, expedidas pela 9ª Vara Criminal Federal de São Paulo.&lt;/p&gt;
+&lt;p&gt;Ainda de acordo com a PF, a investigação teve origem em informações que apontavam possíveis irregularidades na aplicação de cerca de R$ 107 milhões em quatro letras financeiras emitidas por dois bancos privados.&lt;/p&gt;
+&lt;p&gt;O comunicado não cita os nomes das instituições.&lt;/p&gt;
+&lt;p&gt;Desde o ano passado, a PF deflagrou uma série de operações que investigam a emissão de letras financeiras irregulares emitidas por instituições ligadas ao Banco Master, como no caso da&lt;/p&gt;
+&lt;p&gt;*Colaboraram Pedro Peduzzi e Andreia Verdélio&lt;/p&gt;
+&lt;p&gt;Delegacia digital da mulher soma 1,5 mil ocorrências&lt;/p&gt;
+&lt;p&gt;Alô Alô Brasil: Jaques Wagner fala sobre Eleições 2026 e Luna Zarattini cobra Sabesp por explosão em SP&lt;/p&gt;
+&lt;p&gt;Sete em cada dez refugiados empreendedores no Brasil são mulheres&lt;/p&gt;
+&lt;p&gt;Com queda do dólar, comércio cresce 0,5% em março e amplia recorde&lt;/p&gt;
+&lt;p&gt;Desenrola: renegociação de dívidas do Fies começa nesta quarta-feira&lt;/p&gt;
+&lt;p&gt;13 de maio: dia de reflexão sobre como reparar danos da escravidão&lt;/p&gt;
+&lt;p&gt;Fragmentos de vegetação nativa cresceram no país 260% em 38 anos&lt;/p&gt;
+&lt;p&gt;Jazz Livre recebe trombonista Felipe Brito para live na Rádio MEC&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/pf-investiga-instituto-de-previdencia-de-cajamar-por-gestao-temeraria&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Polícia Federal (PF) deflagrou na manhã desta quarta-feira (13) a Operação Off-Balance. O objetivo é apurar a possível prática de gestão temerária ...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-05-13 08:50:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-13 08:50:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-13 08:50:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-13 08:50:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/MPKf8kcJjddWWNLiTreecgT7SXA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/23/279bd352-e759-45e1-9f5d-058ab82a2eb4.jpg?itok=j2LCOy85</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Explosão em SP: 86 imóveis são liberados para retorno das famílias</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/explosao-em-sp-86-imoveis-sao-liberados-para-retorno-das-familias</link>
+      <pubDate>Wed, 13 May 2026 14:31:58 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/explosao-em-sp-86-imoveis-sao-liberados-para-retorno-das-familias#1005</guid>
+      <description>Dos 105 imóveis vistoriados no bairro do Jaguaré, na capital paulista, 86 foram liberados para o retorno das famílias. Cinco imóveis foram completame...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dfxyEhrcnK7TWPvDETZA9--cwI0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/jaguare.jpg?itok=S2-C-rz-&quot; alt=&quot;Explosão em SP: 86 imóveis são liberados para retorno das famílias&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Dos 105 imóveis vistoriados no bairro do Jaguaré, na capital paulista, 86 foram liberados para o retorno das famílias. Cinco imóveis foram completamente interditados e outros 14 tiveram interdição cautelar.&lt;/p&gt;
+&lt;p&gt;O balanço inclui as vistorias realizadas até o fim da noite desta terça-feira (12) pelos os técnicos da Defesa Civil e do Instituto de Pesquisas Tecnológicas (IPT), após a explosão que atingiu parte da tubulação de gás da Comgás.&lt;/p&gt;
+&lt;p&gt;Sabesp e Comgás acompanharam as visitas para as avaliações de danos e ressarcimento das famílias a eventuais prejuízos.&lt;/p&gt;
+&lt;p&gt;O trabalho integrado para a vistoria e avaliação de imóveis nas demais ruas afetadas pela explosão recomeça na manhã desta quarta-feira (13).&lt;/p&gt;
+&lt;p&gt;As casas vistoriadas foram catalogadas em quatro níveis, de acordo com o risco: no Verde, o imóvel está liberado e as famílias podem retornar imediatamente, que foi o caso das 86 residências liberadas.&lt;/p&gt;
+&lt;p&gt;O Amarelo significa que as famílias podem retirar seus pertences; no Laranja, terão que ser acompanhados pela Defesa Civil para fazer a retirada de roupas e pertences (14 residências), e no Vermelho, a residência ficará totalmente interditada em função do alto risco de desabamento (5 residências).&lt;/p&gt;
+&lt;p&gt;Residências da Comunidade Nossa Senhora das Virtudes II, no bairro do Jaguaré, zona oeste de São Paulo, foram atingidas por uma explosão por volta das 16h de segunda-feira (11). Moradores relataram ter sentido forte cheiro de gás em suas casas cerca de três horas antes da explosão, que matou um homem de 49 anos e levou à interdição inicial de 46 casas. Outras três pessoas ficaram feridas.&lt;/p&gt;
+&lt;p&gt;Desde o acidente, equipes da Defesa Civil de São Paulo e das concessionárias realizam vistorias.&lt;/p&gt;
+&lt;p&gt;De acordo com a Sabesp e Comgás, até a tarde de ontem), 194 pessoas tinham sido cadastradas para receber auxílio emergencial imediato, ampliado para R$ 5 mil. As famílias também estão sendo acolhidas em hotéis.&lt;/p&gt;
+&lt;p&gt;De acordo com informações da Secretaria de Estado da Saúde, das três pessoas feridas na explosão, uma recebeu atendimento no Hospital Universitário da USP. A segunda vítima segue no Hospital das Clínicas da Faculdade de Medicina da USP em quadro estável. O terceiro paciente está em estado grave no Hospital Regional de Osasco.&lt;/p&gt;
+&lt;p&gt;Delegacia digital da mulher soma 1,5 mil ocorrências&lt;/p&gt;
+&lt;p&gt;Alô Alô Brasil: Jaques Wagner fala sobre Eleições 2026 e Luna Zarattini cobra Sabesp por explosão em SP&lt;/p&gt;
+&lt;p&gt;Sete em cada dez refugiados empreendedores no Brasil são mulheres&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/explosao-em-sp-86-imoveis-sao-liberados-para-retorno-das-familias&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Dos 105 imóveis vistoriados no bairro do Jaguaré, na capital paulista, 86 foram liberados para o retorno das famílias. Cinco imóveis foram completame...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-05-13 08:32:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-13 08:32:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-13 08:32:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-13 08:32:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/dfxyEhrcnK7TWPvDETZA9--cwI0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/jaguare.jpg?itok=S2-C-rz-</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Myrian Pereira é a nova diretora de Jornalismo da EBC</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/myrian-pereira-e-nova-diretora-de-jornalismo-da-ebc</link>
+      <pubDate>Wed, 13 May 2026 14:31:58 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/myrian-pereira-e-nova-diretora-de-jornalismo-da-ebc#1006</guid>
+      <description>© Myrian Pereira/Arquivo pessoal
+O presidente Luiz Inácio Lula da Silva nomeou a jornalista MyrianPereira como nova diretora de Jornalismo da Empresa...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/IOTh7XUOZiz3vaDlYzXTM3dzioo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/13/whatsapp_image_2026-05-13_at_08.29.11.jpeg?itok=XtajQwII&quot; alt=&quot;Myrian Pereira é a nova diretora de Jornalismo da EBC&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Myrian Pereira/Arquivo pessoal&lt;/p&gt;
+&lt;p&gt;O presidente Luiz Inácio Lula da Silva nomeou a jornalista MyrianPereira como nova diretora de Jornalismo da Empresa Brasil de Comunicação (EBC). O&lt;/p&gt;
+&lt;p&gt;No cargo, MyrianPereira será responsável pela cobertura jornalística dos veículos da casa, como a&lt;/p&gt;
+&lt;p&gt;Profissional de comunicação com mais de 25 anos de experiência, Myrianpassou pordiversos setores e veículos de imprensa, como TV Globo e Rádio CBN, e temtrajetória profissional em assessoria de comunicação institucional de órgãos governamentais e terceiro setor. Trabalhou nos ministérios da Saúde, Educação, Cultura e Turismo, além do Senado Federal e na Presidência da República.&lt;/p&gt;
+&lt;p&gt;“Nós, mulheres, já fomos maioria nesta diretoria. A chegada da nova diretora à EBC marca um momento importante. Não só pela experiência de Myriam em anos de trabalho na área de comunicação, mas também por ser um passo fundamental na restituição da equidade de gênero em nossa diretoria&quot;, afirmou a diretora presidente da EBC, Antonia Pellegrino.&lt;/p&gt;
+&lt;p&gt;&quot;Tenho certeza que a inteligência de Myrianpara temas essenciais da nossa cidadania vão contribuir muito com o jornalismo público&quot;, acrescentou.&lt;/p&gt;
+&lt;p&gt;Myriam Pereira substitui Cidinha Matos, que deixou a Diretoria de Jornalismo em fevereiro.&lt;/p&gt;
+&lt;p&gt;Durante a gestão de Cidinha à frente da Dijor, os veículos e profissionais da EBC receberam 57 prêmios por sua cobertura jornalística&lt;/p&gt;
+&lt;p&gt;Delegacia digital da mulher soma 1,5 mil ocorrências&lt;/p&gt;
+&lt;p&gt;Alô Alô Brasil: Jaques Wagner fala sobre Eleições 2026 e Luna Zarattini cobra Sabesp por explosão em SP&lt;/p&gt;
+&lt;p&gt;Sete em cada dez refugiados empreendedores no Brasil são mulheres&lt;/p&gt;
+&lt;p&gt;Com queda do dólar, comércio cresce 0,5% em março e amplia recorde&lt;/p&gt;
+&lt;p&gt;Desenrola: renegociação de dívidas do Fies começa nesta quarta-feira&lt;/p&gt;
+&lt;p&gt;13 de maio: dia de reflexão sobre como reparar danos da escravidão&lt;/p&gt;
+&lt;p&gt;Fragmentos de vegetação nativa cresceram no país 260% em 38 anos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/myrian-pereira-e-nova-diretora-de-jornalismo-da-ebc&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Myrian Pereira/Arquivo pessoal
+O presidente Luiz Inácio Lula da Silva nomeou a jornalista MyrianPereira como nova diretora de Jornalismo da Empresa...</excerpt:encoded>
+      <wp:post_id>1006</wp:post_id>
+      <wp:post_date>2026-05-13 08:31:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-13 08:31:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-13 08:31:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-13 08:31:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/IOTh7XUOZiz3vaDlYzXTM3dzioo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/13/whatsapp_image_2026-05-13_at_08.29.11.jpeg?itok=XtajQwII</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Trump visita Xi Jinping na China em meio ao atoleiro da guerra no Irã</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/trump-visita-xi-jinping-na-china-em-meio-ao-atoleiro-da-guerra-no-ira</link>
-      <pubDate>Wed, 13 May 2026 11:57:40 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 14:31:58 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/trump-visita-xi-jinping-na-china-em-meio-ao-atoleiro-da-guerra-no-ira#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/trump-visita-xi-jinping-na-china-em-meio-ao-atoleiro-da-guerra-no-ira#1007</guid>
       <description>© Reuters/Kevin Lamarque/Arquivo/Proibida reprodução
 A visita do presidente dos Estados Unidos (EUA), Donald Trump, à China, para encontro com o pres...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YibWuE8A6_OCuDHft4TBrrCSI28=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/12/2026-05-12t075741z_2055094218_rc2i7laun6uu_rtrmadp_3_china-usa-markets-investors.jpg?itok=HOGOeVms&quot; alt=&quot;Trump visita Xi Jinping na China em meio ao atoleiro da guerra no Irã&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +382,7 @@ A visita do presidente dos Estados Unidos (EUA), Donald Trump, à China, para en
 &lt;p&gt;, que teria, entre os objetivos, além de projetar Israel,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-05/trump-visita-xi-jinping-na-china-em-meio-ao-atoleiro-da-guerra-no-ira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Kevin Lamarque/Arquivo/Proibida reprodução
 A visita do presidente dos Estados Unidos (EUA), Donald Trump, à China, para encontro com o pres...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-05-13 07:05:00</wp:post_date>
       <wp:post_date_gmt>2026-05-13 07:05:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-13 07:05:00</wp:post_modified>
@@ -73,9 +408,9 @@ A visita do presidente dos Estados Unidos (EUA), Donald Trump, à China, para en
     <item>
       <title>Estratégias de consumo aumentam volume de endividamento</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/estrategias-de-consumo-aumentam-volume-de-endividamento</link>
-      <pubDate>Wed, 13 May 2026 11:57:40 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 14:31:58 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/estrategias-de-consumo-aumentam-volume-de-endividamento#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/estrategias-de-consumo-aumentam-volume-de-endividamento#1008</guid>
       <description>Em uma compra habitual no supermercado, posto de gasolina ou na farmácia, o atendente oferece ao consumidor a possibilidade de parcelar a despesa em ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zTKBQKAHvg07fXqBpbIKT3Y9B7s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/15/0d8a1415.jpg?itok=uFhXx_G1&quot; alt=&quot;Estratégias de consumo aumentam volume de endividamento&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Em uma compra habitual no supermercado, posto de gasolina ou na farmácia, o atendente oferece ao consumidor a possibilidade de parcelar a despesa em até três vezes sem juros.O comprador avalia como vantajosa a ofertae concorda em deixar a prazo aquilo que costumava a pagar de uma vez –à vista ou no cartão de crédito.&lt;/p&gt;
@@ -94,7 +429,7 @@ A visita do presidente dos Estados Unidos (EUA), Donald Trump, à China, para en
 &lt;p&gt;Isabela Tavares, assim como Fabio Bentes e Katherine Hennings, acha necessário que haja mais educação financeira da população para decidir sobre o que, quando e como gastar.&lt;/p&gt;
 &lt;p&gt;Esse é o trabalho do planejador financeiro Carlos Castro, que criou uma plataforma na internet para fazer educação financeira (SuperRico) e atua em uma associação (Planejar) que forma profissionais para fazer o trabalho de orientação pessoalmente.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/estrategias-de-consumo-aumentam-volume-de-endividamento&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Em uma compra habitual no supermercado, posto de gasolina ou na farmácia, o atendente oferece ao consumidor a possibilidade de parcelar a despesa em ...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-05-13 07:02:00</wp:post_date>
       <wp:post_date_gmt>2026-05-13 07:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-13 07:02:00</wp:post_modified>
@@ -120,9 +455,9 @@ A visita do presidente dos Estados Unidos (EUA), Donald Trump, à China, para en
     <item>
       <title>Flu, Inter e Cruzeiro vencem e avançam na Copa do Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/flu-inter-e-cruzeiro-vencem-e-avancam-na-copa-do-brasil</link>
-      <pubDate>Wed, 13 May 2026 11:57:40 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 14:31:58 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/flu-inter-e-cruzeiro-vencem-e-avancam-na-copa-do-brasil#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/flu-inter-e-cruzeiro-vencem-e-avancam-na-copa-do-brasil#1009</guid>
       <description>© Marcelo Gonçalves/Fluminense F.C./Direitos Reservados
 A noite desta terça-feira (12) foi de classificação de Fluminense, Internacional e Cruzeiro p...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8nVk8PXbdgM47fmo6giqYqWG8ss=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/12/55266629151_aede3cfddb_o.jpg?itok=SJx7UWF3&quot; alt=&quot;Flu, Inter e Cruzeiro vencem e avançam na Copa do Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -139,11 +474,11 @@ A noite desta terça-feira (12) foi de classificação de Fluminense, Internacio
 &lt;p&gt;𝗖𝗟𝗨𝗕𝗘 𝗗𝗢 𝗣𝗢𝗩𝗢 𝗩𝗘𝗡𝗖𝗘 𝗘 𝗦𝗘 𝗖𝗟𝗔𝗦𝗦𝗜𝗙𝗜𝗖𝗔! ❤️🤍&lt;/p&gt;
 &lt;p&gt;Com gols de Borré, Allex e Bernabei, Inter volta a superar o Athletic-MG, desta vez por 3 a 2, e avança para as oitavas de final da Copa do Brasil! ⚽🇦🇹&lt;/p&gt;
 &lt;p&gt;— Sport Club Internacional (@SCInternacional)&lt;/p&gt;
-&lt;p&gt;TSE inicia nova etapa de testes de segurança das urnas&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: TSE inicia nova etapa dos testes de segurança das urnas eletrônicas para as eleições deste ano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/flu-inter-e-cruzeiro-vencem-e-avancam-na-copa-do-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Delegacia digital da mulher soma 1,5 mil ocorrências&lt;/p&gt;
+&lt;p&gt;DJ Ademar Danilo fala sobre o reggae maranhense&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/flu-inter-e-cruzeiro-vencem-e-avancam-na-copa-do-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Gonçalves/Fluminense F.C./Direitos Reservados
 A noite desta terça-feira (12) foi de classificação de Fluminense, Internacional e Cruzeiro p...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-05-13 00:04:00</wp:post_date>
       <wp:post_date_gmt>2026-05-13 00:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-13 00:04:00</wp:post_modified>
@@ -164,349 +499,6 @@ A noite desta terça-feira (12) foi de classificação de Fluminense, Internacio
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/8nVk8PXbdgM47fmo6giqYqWG8ss=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/12/55266629151_aede3cfddb_o.jpg?itok=SJx7UWF3</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Fim da &quot;taxa das blusinhas&quot; preocupa indústria; plataformas apoiam</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/varejo-e-industria-criticam-fim-da-taxa-das-blusinhas</link>
-      <pubDate>Wed, 13 May 2026 11:57:40 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/varejo-e-industria-criticam-fim-da-taxa-das-blusinhas#1003</guid>
-      <description>A decisão do governo federal de zerar o imposto de importação sobre compras internacionais de até US$ 50, conhecida como “taxa das blusinhas”, provoc...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Uj_vIRq0CkoSwHDpfhkmOOHVf1s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/industria_textil_.jpg?itok=2rfzLc-X&quot; alt=&quot;Fim da &quot;taxa das blusinhas&quot; preocupa indústria; plataformas apoiam&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A decisão do governo federal de zerar o imposto de importação sobre compras internacionais de até US$ 50, conhecida como “taxa das blusinhas”, provocou reação imediata de entidades da indústria e do varejo e das plataformas de comércio internacional.&lt;/p&gt;
-&lt;p&gt;A medida foi anunciada pelo presidente Luiz Inácio Lula da Silva e&lt;/p&gt;
-&lt;p&gt;passa a valer a partir desta quarta-feira (13)&lt;/p&gt;
-&lt;p&gt;, mantendo apenas a cobrança de 20% do Imposto sobre a Circulação de Mercadorias e Serviços (ICMS), tributo estadual, sobre as encomendas.&lt;/p&gt;
-&lt;p&gt;Em nota, a Confederação Nacional da Indústria (CNI) afirmou que a&lt;/p&gt;
-&lt;p&gt;medida cria uma vantagem para fabricantes estrangeiros em detrimento da produção nacional&lt;/p&gt;
-&lt;p&gt;. Em nota, a entidade declarou que a decisão representa “uma vantagem concedida a indústrias estrangeiras em detrimento do setor produtivo nacional”.&lt;/p&gt;
-&lt;p&gt;A CNI avalia que o impacto será maior sobre micro e pequenas empresas e poderá provocar perda de empregos.&lt;/p&gt;
-&lt;p&gt;Em nota, o Instituto para Desenvolvimento do Varejo (IDV) informou que a revogação amplia a desigualdade tributária entre produtos nacionais e importados. A entidade alertou para o risco de redução nas vendas do varejo brasileiro, sobretudo entre pequenas e médias empresas, diante da concorrência com produtos importados. De acordo com o IDV, a medida pode provocar queda na reposição de estoques, afetar a indústria nacional e levar ao fechamento de fábricas ou transferência de produção para países vizinhos.&lt;/p&gt;
-&lt;p&gt;Segundo a entidade, após a criação da tributação sobre compras internacionais, o varejo registrou a abertura de 107 mil empregos no primeiro ano, além de aumento de investimentos e produtividade. “O fim do Imposto de Importação na venda cross border acarretará riscos para a economia, cujas consequências poderão comprometer a viabilidade das empresas e o emprego de milhares de trabalhadores”, concluiu o instituto.&lt;/p&gt;
-&lt;p&gt;A Associação Brasileira da Indústria Têxtil e de Confecção (Abit) classificou a revogação da cobrança como “extremamente equivocada”. Segundo a entidade,&lt;/p&gt;
-&lt;p&gt;a medida amplia a desigualdade tributária entre empresas brasileiras e plataformas internacionais&lt;/p&gt;
-&lt;p&gt;“É inadmissível que empresas brasileiras arquem com elevada carga tributária, juros reais altíssimos e custos regulatórios enquanto concorrentes estrangeiros recebem vantagens ainda maiores para acessar o mercado nacional”, afirmou a Abit.&lt;/p&gt;
-&lt;p&gt;A associação também argumentou que a decisão pode afetar a arrecadação pública. Dados da Receita Federal apontam que, entre janeiro e abril de 2026, o imposto arrecadou R$ 1,78 bilhão, alta de 25% em relação ao mesmo período do ano passado.&lt;/p&gt;
-&lt;p&gt;A Associação Brasileira do Varejo Têxtil (Abvtex) disse “repudiar com veemência” o fim da tributação. Para a entidade, a medida representa “um grave retrocesso econômico e um ataque direto à indústria, ao varejo nacional e aos 18 milhões de empregos gerados no Brasil” e pode&quot;penalizar as empresas brasileiras, especialmente as micros e pequenas, que produzem, empregam e sustentam a arrecadação do país”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/varejo-e-industria-criticam-fim-da-taxa-das-blusinhas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A decisão do governo federal de zerar o imposto de importação sobre compras internacionais de até US$ 50, conhecida como “taxa das blusinhas”, provoc...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
-      <wp:post_date>2026-05-12 22:28:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-12 22:28:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-12 22:28:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-12 22:28:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Uj_vIRq0CkoSwHDpfhkmOOHVf1s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/industria_textil_.jpg?itok=2rfzLc-X</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Regulação para IA será flexível e terá níveis de risco, diz Durigan</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/regulacao-para-ia-sera-flexivel-e-tera-niveis-de-risco-diz-durigan</link>
-      <pubDate>Wed, 13 May 2026 11:57:40 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/regulacao-para-ia-sera-flexivel-e-tera-niveis-de-risco-diz-durigan#1004</guid>
-      <description>© Valter Campanato/Agência Brasil
-O ministro da Fazenda, Dario Durigan, defendeu nesta terça-feira (12) um modelo de regulamentação da inteligência a...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LTmOJrBYF7kclTtQ_f56sTAqjXg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/0d7a2897.jpg.jpg?itok=JpiSs3Y9&quot; alt=&quot;Regulação para IA será flexível e terá níveis de risco, diz Durigan&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O ministro da Fazenda, Dario Durigan, defendeu nesta terça-feira (12) um modelo de regulamentação da inteligência artificial (IA) baseado em níveis de risco das aplicações tecnológicas.&lt;/p&gt;
-&lt;p&gt;, o ministro afirmou que o governo quer criar regras flexíveis para acompanhar a rápida evolução da IA sem exigir novas leis a cada avanço tecnológico.&lt;/p&gt;
-&lt;p&gt;Segundo Durigan, a inteligência artificial representa uma nova etapa da transformação digital global. “O que nós queremos é fazer com que as regras de boa civilidade também valham no ambiente digital”, afirmou o ministro ao jornalista José Luiz Datena.&lt;/p&gt;
-&lt;p&gt;O debate sobre o marco regulatório da inteligência artificial está em discussão no Congresso Nacional e envolve articulação entre o governo e parlamentares.&lt;/p&gt;
-&lt;p&gt;O ministro informou que o relator do projeto na Câmara, deputado Agnaldo Ribeiro (PP-PB), está favorável ao modelo proposto.&lt;/p&gt;
-&lt;p&gt;O principal eixo da proposta do governo, explicou Durigan, é a criação de uma matriz de risco para classificar os diferentes tipos de inteligência artificial&lt;/p&gt;
-&lt;p&gt;. “Nós temos que montar uma matriz de risco [para a IA]”, disse Durigan.&lt;/p&gt;
-&lt;p&gt;A ideia é substituir modelos rígidos de legislação por um sistema que avalie o potencial de impacto e periculosidade de cada aplicação tecnológica.&lt;/p&gt;
-&lt;p&gt;Segundo o ministro, tecnologias de IA consideradas mais sensíveis terão exigências maiores de transparência, controle e&lt;/p&gt;
-&lt;p&gt;. Ferramentas de menor impacto teriam regras simplificadas.&lt;/p&gt;
-&lt;p&gt;Entre as aplicações classificadas como de alto risco, estariam sistemas ligados à genética humana, reconhecimento de identidade e temas considerados sensíveis para direitos individuais.&lt;/p&gt;
-&lt;p&gt;De acordo com Durigan, essas ferramentas exigirão mecanismos rigorosos de fiscalização e prestação de contas.&lt;/p&gt;
-&lt;p&gt;O governo também pretende discutir limites éticos para o uso dessas tecnologias, especialmente em áreas relacionadas à privacidade e aos direitos fundamentais.&lt;/p&gt;
-&lt;p&gt;Já aplicações voltadas para jogos, entretenimento e funções lúdicas devem ser enquadradas em categorias de baixo risco.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/regulacao-para-ia-sera-flexivel-e-tera-niveis-de-risco-diz-durigan&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-O ministro da Fazenda, Dario Durigan, defendeu nesta terça-feira (12) um modelo de regulamentação da inteligência a...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-05-12 21:50:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-12 21:50:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-12 21:50:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-12 21:50:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/LTmOJrBYF7kclTtQ_f56sTAqjXg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/0d7a2897.jpg.jpg?itok=JpiSs3Y9</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Durigan: Brasil discutirá guerra e minerais em reuniões do Brics e G7</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/durigan-brasil-discutira-guerra-e-minerais-em-reunioes-do-brics-e-g7</link>
-      <pubDate>Wed, 13 May 2026 11:57:40 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/durigan-brasil-discutira-guerra-e-minerais-em-reunioes-do-brics-e-g7#1005</guid>
-      <description>© Valter Campanato/Agência Brasil
-Os impactos econômicos das guerras no Oriente Médio e na Ucrânia e as negociações sobre minerais críticosserão os p...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/gZnFV18hugbXBxK7B4iXoQ9sxMU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/0d7a2918.jpg.jpg?itok=oo6dzowc&quot; alt=&quot;Durigan: Brasil discutirá guerra e minerais em reuniões do Brics e G7&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Os impactos econômicos das guerras no Oriente Médio e na Ucrânia e as negociações sobre minerais críticosserão os principais temas discutidos pelo Brasil nas reuniões do Brics e do G7, disse nesta terça-feira (12) o ministro da Fazenda, Dario Durigan.&lt;/p&gt;
-&lt;p&gt;Em entrevista ao programa Na Mesa com Datena, apresentado pelo jornalista José Luiz Datena na&lt;/p&gt;
-&lt;p&gt;, Durigan também detalhou que as negociações incluirão investimentos estratégicos e segurança energética.&lt;/p&gt;
-&lt;p&gt;As viagens ocorrerão em meio ao aumento das tensões geopolíticas globais e fazem parte da estratégia do governo brasileiro de antecipar cenários de turbulência internacional para proteger setores como combustíveis, agronegócio e mineração.&lt;/p&gt;
-&lt;p&gt;O ministro afirmou a Datena que o Brasil pretende consolidar-se como parceiro estratégico em recursos minerais e tecnologia, ao mesmo tempo em que busca ampliar a cooperação internacional em áreas consideradas sensíveis para a economia brasileira.&lt;/p&gt;
-&lt;p&gt;O ministro parte nesta quarta-feira (13) do Brasil. Na quinta (14), desembarca em Moscou, onde participará da reunião do Banco do Brics, grupo formado por Brasil, Rússia, Índia, China e África do Sul.&lt;/p&gt;
-&lt;p&gt;O foco principal será discutir formas de proteger a economia brasileira dos efeitos das guerras internacionais, especialmente sobre os preços dos combustíveis e sobre o agronegócio.&lt;/p&gt;
-&lt;p&gt;“O tema de como a gente se prepara e protege o Brasil da guerra é o tema que mais me importa”, afirmou Durigan.&lt;/p&gt;
-&lt;p&gt;O ministro pretende se reunir com representantes da Índia, de países do Oriente Médio e de outras nações do bloco para avaliar cenários econômicos diante da instabilidade internacional. Durigan ressalta quemesmo a guerrasendo alheiaà vontade dos brasileiros, afeta o país.&lt;/p&gt;
-&lt;p&gt;&quot;Ela afeta muito a vida das pessoas. Claro, nós estamos acompanhando, como no preço de combustível&quot;, declarou o ministro.&lt;/p&gt;
-&lt;p&gt;Outro ponto central da agenda será a preservação de investimentos financiados pelo Novo Banco de Desenvolvimento, conhecido como Banco do Brics.&lt;/p&gt;
-&lt;p&gt;Entre os projetos prioritários citados pela equipe econômica está o desenvolvimento do primeiro Hospital Inteligente da América Latina, em parceria com a Universidade de São Paulo (USP) e financiado pelo Banco do Brics.&lt;/p&gt;
-&lt;p&gt;Segundo o governo, a iniciativa prevê integração tecnológica internacional e cooperação entre especialistas de vários países.&lt;/p&gt;
-&lt;p&gt;A pauta de minerais críticos também será levada tanto à Rússia quanto à França, onde o ministro chega na segunda-feira (18) para a reunião do G7.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/durigan-brasil-discutira-guerra-e-minerais-em-reunioes-do-brics-e-g7&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-Os impactos econômicos das guerras no Oriente Médio e na Ucrânia e as negociações sobre minerais críticosserão os p...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-05-12 21:36:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-12 21:36:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-12 21:36:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-12 21:36:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/gZnFV18hugbXBxK7B4iXoQ9sxMU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/0d7a2918.jpg.jpg?itok=oo6dzowc</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mega-Sena acumula novamente e prêmio principal vai para R$ 60 milhões</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/mega-sena-acumula-novamente-e-premio-principal-vai-para-r-60-milhoes</link>
-      <pubDate>Wed, 13 May 2026 11:57:40 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/mega-sena-acumula-novamente-e-premio-principal-vai-para-r-60-milhoes#1006</guid>
-      <description>© Marcello Casal JrAgência Brasil
-Nenhum apostador acertou as seis dezenas do concurso 3.007da Mega-Sena, realizado nesta terça-feira (12).
-O prêmio ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/HlaywVyiQZqpKzR_7BoLq4p6CaQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena_mcajr_abr_2904223678.jpg?itok=Go31lEuw&quot; alt=&quot;Mega-Sena acumula novamente e prêmio principal vai para R$ 60 milhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
-&lt;p&gt;Nenhum apostador acertou as seis dezenas do concurso 3.007da Mega-Sena, realizado nesta terça-feira (12).&lt;/p&gt;
-&lt;p&gt;O prêmio acumulou e está estimado em R$ 60 milhões para o próximo sorteio.&lt;/p&gt;
-&lt;p&gt;Os números sorteados são:17 -19 -27 -32 -38 -44&lt;/p&gt;
-&lt;p&gt;89 apostas acertaram cinco dezenas e irão receber R$ 23.778,68cada&lt;/p&gt;
-&lt;p&gt;5.035 apostas acertaram quatro dezenas e irão receber R$ 692,83 cada&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
-&lt;p&gt;Para o próximo concurso, as apostas podem ser feitas até as 20h (horário de Brasília) de quinta-feira(14), em qualquer lotérica do país ou&lt;/p&gt;
-&lt;p&gt;, no site ou aplicativo da Caixa.&lt;/p&gt;
-&lt;p&gt;A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;TSE inicia nova etapa de testes de segurança das urnas&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: TSE inicia nova etapa dos testes de segurança das urnas eletrônicas para as eleições deste ano&lt;/p&gt;
-&lt;p&gt;Sete em cada dez refugiados empreendedores no Brasil são mulheres&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/mega-sena-acumula-novamente-e-premio-principal-vai-para-r-60-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal JrAgência Brasil
-Nenhum apostador acertou as seis dezenas do concurso 3.007da Mega-Sena, realizado nesta terça-feira (12).
-O prêmio ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-05-12 21:35:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-12 21:35:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-12 21:35:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-12 21:35:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/HlaywVyiQZqpKzR_7BoLq4p6CaQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena_mcajr_abr_2904223678.jpg?itok=Go31lEuw</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Reunião entre Lula e Trump foi marcada por respeito mútuo, diz Durigan</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/reuniao-entre-lula-e-trump-foi-marcada-por-respeito-mutuo-diz-durigan</link>
-      <pubDate>Wed, 13 May 2026 11:57:40 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/reuniao-entre-lula-e-trump-foi-marcada-por-respeito-mutuo-diz-durigan#1007</guid>
-      <description>© Valter Campanato/Agência Brasil
-encontro entre os presidentes do Brasil, Luiz Inácio Lula da Silva, e dos Estados Unidos, Donald Trump
-, na semana ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/y6vCQC-e8mO_3qf_MT0-Ga3w2W4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/0d7a2863.jpg.jpg?itok=jfx4VsjS&quot; alt=&quot;Reunião entre Lula e Trump foi marcada por respeito mútuo, diz Durigan&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;encontro entre os presidentes do Brasil, Luiz Inácio Lula da Silva, e dos Estados Unidos, Donald Trump&lt;/p&gt;
-&lt;p&gt;, na semana passada em Washington, foi descrito pelo ministro da Fazenda, Dario Durigan, como uma conversa marcada por “deferência” e respeito mútuo.&lt;/p&gt;
-&lt;p&gt;A reunião, com 3 horas de duração, teve como principais eixos a relação comercial entre os dois países, o combate ao crime organizado internacional e a exploração de minerais estratégicos.&lt;/p&gt;
-&lt;p&gt;, transmitida nesta terça-feira (12), Durigan, que participou da reunião, disse que a&lt;/p&gt;
-&lt;p&gt;conversa inicial teve tom informal e girou em torno das trajetórias pessoais dos dois presidentes&lt;/p&gt;
-&lt;p&gt;Trump demonstrou surpresa com relatos da infância de Lula&lt;/p&gt;
-&lt;p&gt;, especialmente ao saber que o presidente brasileiro afirmou ter comido pão pela primeira vez aos 7 anos de idade.&lt;/p&gt;
-&lt;p&gt;O republicano também teria se mostrado impressionado com o fato de Lula não ter diploma universitário e, ainda assim, ter ampliado a rede federal de universidades durante seus governos.&lt;/p&gt;
-&lt;p&gt;Outro tema abordado foi o período em que Lula ficou preso. Segundo Durigan,&lt;/p&gt;
-&lt;p&gt;Trump reagiu com espanto ao ouvir que o presidente brasileiro recusou alternativas jurídicas como prisão domiciliar com tornozeleira eletrônica para tentar provar inocência de forma integral.&lt;/p&gt;
-&lt;p&gt;De acordo com o ministro, tanto Lula como Trump ficaram emocionados após o presidente brasileiro relatar os cerca de dois anos na cadeia.&lt;/p&gt;
-&lt;p&gt;&quot;A conversa foi muito franca e eu fiquei muito impressionado com o nível de deferência do presidente Trump ao presidente Lula&quot;, revelou o ministro a Datena.&lt;/p&gt;
-&lt;p&gt;Durigan disse ter a impressão de que a admiração de Trump por Lula aumentou depois do encontro.&lt;/p&gt;
-&lt;p&gt;encontro incluiu conversas descontraídas sobre temas pessoais e familiares, numa tentativa de estabelecer proximidade antes das negociações de Estado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/reuniao-entre-lula-e-trump-foi-marcada-por-respeito-mutuo-diz-durigan&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-encontro entre os presidentes do Brasil, Luiz Inácio Lula da Silva, e dos Estados Unidos, Donald Trump
-, na semana ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-05-12 21:25:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-12 21:25:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-12 21:25:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-12 21:25:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/y6vCQC-e8mO_3qf_MT0-Ga3w2W4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/0d7a2863.jpg.jpg?itok=jfx4VsjS</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Desafio do TSE é conter uso ilegal de IA na eleição, diz Nunes Marques</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/desafio-do-tse-e-conter-uso-ilegal-de-ia-na-eleicao-diz-nunes-marques</link>
-      <pubDate>Wed, 13 May 2026 11:57:40 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/desafio-do-tse-e-conter-uso-ilegal-de-ia-na-eleicao-diz-nunes-marques#1008</guid>
-      <description>© Valter Campanato/Agência Brasil
-O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, disse nesta terça-feira (12) que ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5ovSlSDIAHHeiEb34Q9W836L86U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/12/0d7a3465.jpg.jpeg?itok=XZoKgKwI&quot; alt=&quot;Desafio do TSE é conter uso ilegal de IA na eleição, diz Nunes Marques&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, disse nesta terça-feira (12) que o tribunal terá o desafio de combater o usoinadequado da inteligência artificial nas eleiçõesde outubro.&lt;/p&gt;
-&lt;p&gt;o ministro tomou posse comopresidente da Corte e vai comandar o pleito eleitoral&lt;/p&gt;
-&lt;p&gt;, que elegerá o presidente da República, deputados federais, estaduais, distritais, governadores e senadores.&lt;/p&gt;
-&lt;p&gt;o novo presidente disse que a utilização inadequada da tecnologia ameaça o processo democrático&lt;/p&gt;
-&lt;p&gt;“Devemos estar atentos a tecnologias, que, quando mal utilizadas, podem representar ameaças ao nosso processo democrático. Vivemos em uma era em que as campanhas eleitorais não chegam às urnas sem atravessar algoritmos, em que a disputa política já não se desenvolve nas ruas e nos espaços tradicionais da vida pública, mas também no ambiente digital&quot;, afirmou.&lt;/p&gt;
-&lt;p&gt;a Corte aprovou limitações para o uso de IA nas campanhas&lt;/p&gt;
-&lt;p&gt;O presidente também disse que o pleito de outubro será um dos mais importantes desde a redemocratização do país e deverá ter o eleitor como protagonista.&lt;/p&gt;
-&lt;p&gt;&quot;O voto não constitui mero ato formal de participação política, representa expresso de pertencimento cívico, de dignidade democrática e de confiança nas instituições da República. O processo eleitoral de um país verdadeiramente democrático deve ter como protagonista seus eleitores&quot;, destacou.&lt;/p&gt;
-&lt;p&gt;O novo presidente afirmou que o TSE vai cumprir seu papel institucional de garantir eleições limpas a transparentes.&lt;/p&gt;
-&lt;p&gt;“Reputo essencial que o Tribunal Superior Eleitoral cumpra com sua missão constitucional de organizar, orientar e fiscalizar as eleições, para sejam eleições limpas e transparentes”.&lt;/p&gt;
-&lt;p&gt;Nunes Marques também defendeu o sistema eletrônico de votação e disse que o mecanismo é um “patrimônio da democracia&quot;.&lt;/p&gt;
-&lt;p&gt;&quot;O sistema eletrônico de votação brasileiro constitui patrimônio institucional da nossa democracia. No tocante à apuração, recepção e divulgação dos votos, o nosso sistema é o mais avançado do mundo&quot;, completou.&lt;/p&gt;
-&lt;p&gt;Natural de Teresina, Kassio Nunes Marques tem 53 anose foi indicado ao Supremo, em 2020, pelo ex-presidente Jair Bolsonaro para ocupar a vaga deixada pelo ministro aposentado Celso de Mello.&lt;/p&gt;
-&lt;p&gt;Antes de chegar ao Supremo, atuou como desembargador do Tribunal Regional Federal (TRF) da 1ª Região, sediado em Brasília. Também foi advogado por cerca de 15 anos e juiz do Tribunal Regional Eleitoral (TRE) do Piauí.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/desafio-do-tse-e-conter-uso-ilegal-de-ia-na-eleicao-diz-nunes-marques&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, disse nesta terça-feira (12) que ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-05-12 21:22:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-12 21:22:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-12 21:22:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-12 21:22:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/5ovSlSDIAHHeiEb34Q9W836L86U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/12/0d7a3465.jpg.jpeg?itok=XZoKgKwI</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Vereadores fazem “protocolaço” de projetos pelo fim da escala 6x1</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/vereadores-fazem-protocolaco-de-projetos-pelo-fim-da-escala-6x1</link>
-      <pubDate>Wed, 13 May 2026 11:57:40 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/vereadores-fazem-protocolaco-de-projetos-pelo-fim-da-escala-6x1#1009</guid>
-      <description>© Valter Campanato/Agência Brasil
-Vereadores de diferentes regiões do Brasil articularam-se, nesta terça (12), para fazer o que eles chamaram de “pro...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/b_S9l5L3T8mO7Aspl6cVmDGdOnM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/10/0d7a0398.jpg?itok=pv6JbBek&quot; alt=&quot;Vereadores fazem “protocolaço” de projetos pelo fim da escala 6x1&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Vereadores de diferentes regiões do Brasil articularam-se, nesta terça (12), para fazer o que eles chamaram de “protocolaço” de projetos legislativos pela redução da jornada de trabalho no setor público municipal, incluindo o fim da escala de seis dias trabalhados para um de descanso, a escala 6x1.&lt;/p&gt;
-&lt;p&gt;A mobilização foi encabeçada pelos vereadores do PT Luna Zarattini (São Paulo/SP), Pedro Rousseff (Belo Horizonte/MG), Kari Santos (Recife/PE), Brisa (Natal/RN), Maíra do MST (Rio de Janeiro/RJ) e Eduardo Zanatta (Balneário Camboriú/SC).&lt;/p&gt;
-&lt;p&gt;Segundo os vereadores, a iniciativa buscafortalecer a luta nacional pela revisão da jornada de trabalho. No caso, os projetos deram atenção ao setor público e a prestadores de serviço das prefeituras e câmaras municipais.&lt;/p&gt;
-&lt;p&gt;Foram protocolados projetos de lei para estabelecer jornada de trabalho máxima de 40 horas semanais nas cidades com garantia de dois repousos semanais remunerados para trabalhadores de empresas que prestam serviços à administração pública direta e indireta.&lt;/p&gt;
-&lt;p&gt;As propostas preveem que a adequação das escalas não poderá resultar em redução de salários para os funcionários. “A justificativa central é que o modelo 6x1 é uma lógica ultrapassada que compromete a saúde física e mental, reduzindo o tempo de descanso e convivência familiar”, defendeu o grupo de vereadores em nota à imprensa.&lt;/p&gt;
-&lt;p&gt;A vereadora Luna Zarattini, de São Paulo (SP), por exemplo, afirmou que o projeto representa um passo concreto na construção de uma política comprometida com a saúde dos trabalhadores e com a promoção de um ambiente de trabalho mais justo e equilibrado.&lt;/p&gt;
-&lt;p&gt;Propostas para a redução da jornada e para o fim da escala 6x1 para os trabalhadores no Brasil também estão em tramitação, em regime de urgência, no Congresso Nacional.&lt;/p&gt;
-&lt;p&gt;TSE inicia nova etapa de testes de segurança das urnas&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: TSE inicia nova etapa dos testes de segurança das urnas eletrônicas para as eleições deste ano&lt;/p&gt;
-&lt;p&gt;Sete em cada dez refugiados empreendedores no Brasil são mulheres&lt;/p&gt;
-&lt;p&gt;Explosão em SP: 86 imóveis são liberados para retorno das famílias&lt;/p&gt;
-&lt;p&gt;Myrian Pereira é a nova diretora de Jornalismo da EBC&lt;/p&gt;
-&lt;p&gt;Trump visita Xi Jinping na China em meio ao atoleiro da guerra no Irã&lt;/p&gt;
-&lt;p&gt;Estratégias de consumo aumentam volume de endividamento&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/vereadores-fazem-protocolaco-de-projetos-pelo-fim-da-escala-6x1&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-Vereadores de diferentes regiões do Brasil articularam-se, nesta terça (12), para fazer o que eles chamaram de “pro...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-05-12 20:44:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-12 20:44:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-12 20:44:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-12 20:44:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/b_S9l5L3T8mO7Aspl6cVmDGdOnM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/10/0d7a0398.jpg?itok=pv6JbBek</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
