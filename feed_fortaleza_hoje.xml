@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 15/05/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 10:27 UTC</description>
-<lastBuildDate>Fri, 15 May 2026 10:27:27 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Fri, 15 May 2026 12:55:38 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Prefeitura de Fortaleza entrega nova Praça Helena Moreira dos Santos, no Planalto Ayrton Senna</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/prefeitura-de-fortaleza-entrega-nova-praca-helena-moreira-dos-santos-no-planalto-ayrton-senna</link>
+<guid isPermaLink="false">fortaleza-20260515-16c8278a0297</guid>
+<pubDate>Fri, 15 May 2026 09:16:00 +0000</pubDate>
+<description>Prefeitura de Fortaleza entrega nova Praça Helena Moreira dos Santos, no Planalto Ayrton Senna - Sexta, 15 Maio 2026 09:16</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" alt="Prefeitura de Fortaleza entrega nova Praça Helena Moreira dos Santos, no Planalto Ayrton Senna" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Prefeitura de Fortaleza entrega, nesta sexta-feira (15/05), às 18h, a nova Praça Helena Moreira dos Santos, conhecida como Praça Santa Edwiges, localizada na Rua Virgílio Neto, no bairro Planalto Ayrton Senna. A solenidade contará com a presença do prefeito em exercício, Leo Couto.</p>
+<p>Executada pela Coordenadoria Especial de Apoio à Governança das Regionais (Cegor), a obra amplia a infraestrutura de lazer, convivência e prática de atividades físicas da região. O espaço recebeu piso intertravado, parquinho infantil, academia ao ar livre, gradil e bancos.</p>
+<p><strong>Serviço</strong><br/>Entrega da Praça Helena Moreira dos Santos (Praça Santa Edwiges)<br/>Data: sexta-feira (15/05)<br/>Horário: 18h<br/>Local: Rua Virgílio Neto – Planalto Ayrton Senna</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/prefeitura-de-fortaleza-entrega-nova-praca-helena-moreira-dos-santos-no-planalto-ayrton-senna" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" medium="image">
+<media:title>Prefeitura de Fortaleza entrega nova Praça Helena Moreira dos Santos, no Planalto Ayrton Senna</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
