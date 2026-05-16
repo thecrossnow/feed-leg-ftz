@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 16 May 2026 18:54:33 +0000</pubDate>
+    <pubDate>Sat, 16 May 2026 19:58:37 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,205 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Sabesp suspende obras que possam interferir em rede de gás</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/sabesp-suspende-obras-que-possam-interferir-em-rede-de-gas</link>
+      <pubDate>Sat, 16 May 2026 19:58:37 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/sabesp-suspende-obras-que-possam-interferir-em-rede-de-gas#1000</guid>
+      <description>A Companhia de Saneamento Básico do Estado de São Paulo (Sabesp)decidiu paralisar temporariamente todas as obras que estiverem sendo realizadas nas r...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dfxyEhrcnK7TWPvDETZA9--cwI0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/jaguare.jpg?itok=S2-C-rz-&quot; alt=&quot;Sabesp suspende obras que possam interferir em rede de gás&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Companhia de Saneamento Básico do Estado de São Paulo (Sabesp)decidiu paralisar temporariamente todas as obras que estiverem sendo realizadas nas ruas e espaços públicos e que possam interferir diretamente nas redes do sistema público de gás. Segundo a companhia, inicialmente a paralisação será por um período de 15 dias.&lt;/p&gt;
+&lt;p&gt;Segundo a Sabesp, a medida amplia o escopo da suspensão, que antes estava restrita às intervenções realizadas por método não destrutivo.&lt;/p&gt;
+&lt;p&gt;“A decisão tem caráter preventivo e busca reforçar a segurança operacional, permitindo a revisão dos procedimentos técnicos, protocolos de atuação e fluxos operacionais aplicados nas obras executadas pela companhia, além da elaboração de medidas adicionais de controle e mitigação de riscos”, escreveu a Sabespem nota.&lt;/p&gt;
+&lt;p&gt;, na zona oeste paulistana, que provocou duas mortes. Na última segunda-feira (11), a Sabesp realizava obras que atingiram uma&lt;/p&gt;
+&lt;p&gt;.Horas depois, houve a explosão que atingiu e danificou dezenas de casas.&lt;/p&gt;
+&lt;p&gt;Na manhã de hoje (16), o governo de São Paulo informou que as reformas já haviam sido iniciadas em 45 dos imóveis que sofreram avarias leves por causa da explosão. Outros 16 imóveis foram interditados. O governo informou ainda que 589 pessoas foram cadastradas para receber o auxílio emergencial para despesas imediatas.&lt;/p&gt;
+&lt;p&gt;INMET prevê chuva em grande parte do país no fim de semana&lt;/p&gt;
+&lt;p&gt;Tesouro Reserva: saiba como funciona a nova aplicação&lt;/p&gt;
+&lt;p&gt;Atleta tenta maior highline urbano do mundo, em ponte de Florianópolis&lt;/p&gt;
+&lt;p&gt;Alison dos Santos abre Diamond League vencendo recordista mundial&lt;/p&gt;
+&lt;p&gt;China diz que acordos firmados em visita de Trump são &quot;preliminares&quot;&lt;/p&gt;
+&lt;p&gt;Sabesp suspende obras que possam interferir em rede de gás&lt;/p&gt;
+&lt;p&gt;Ateliês de Nise da Silveira completam 80 anos&lt;/p&gt;
+&lt;p&gt;Brasil leva dois ouros na Copa do Mundo de canoagem e paracanoagem&lt;/p&gt;
+&lt;p&gt;Criança atacada por onça passa por cirurgia e segue estável&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/sabesp-suspende-obras-que-possam-interferir-em-rede-de-gas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Companhia de Saneamento Básico do Estado de São Paulo (Sabesp)decidiu paralisar temporariamente todas as obras que estiverem sendo realizadas nas r...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-05-16 16:01:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-16 16:01:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-16 16:01:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-16 16:01:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/dfxyEhrcnK7TWPvDETZA9--cwI0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/jaguare.jpg?itok=S2-C-rz-</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Ateliês de Nise da Silveira completam 80 anos</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/rio-celebra-80-anos-de-atelies-da-psiquiatra-nise-da-silveira</link>
+      <pubDate>Sat, 16 May 2026 19:58:37 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/rio-celebra-80-anos-de-atelies-da-psiquiatra-nise-da-silveira#1001</guid>
+      <description>Experiência pioneira que transformou a história da psiquiatria no Brasil, os ateliês terapêuticos criados por
+completam, neste dia 18 de maio, 80 ano...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/L1fKhUrGaRadCk9Y7lD7_FTfsi0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/14/img-20260514-wa0027.jpg?itok=SXJ96h0K&quot; alt=&quot;Ateliês de Nise da Silveira completam 80 anos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Experiência pioneira que transformou a história da psiquiatria no Brasil, os ateliês terapêuticos criados por&lt;/p&gt;
+&lt;p&gt;completam, neste dia 18 de maio, 80 anos.&lt;/p&gt;
+&lt;p&gt;A proposta era usar atividades artísticas coletivas como alternativas aos eletrochoques, isolamento e lobotomia, métodos predominantes na psiquiatria em 1946, quando foram criados.&lt;/p&gt;
+&lt;p&gt;Os ateliês hoje compõem o Museu de Imagens do Inconsciente (MII), no bairro Engenho de Dentro, na zona norte do Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Museu abriga o maior acervo do mundo em seu gênero&lt;/p&gt;
+&lt;p&gt;, com mais de 400 mil obras, sendo 128 mil tombadas pelo Instituto do Patrimônio Histórico e Artístico Nacional (Iphan). Os ateliês da psiquiatra são considerados referência internacional ao substituírem práticas agressivaspor uma abordagem baseada na escuta, na expressão criativa e na dignidade humana.&lt;/p&gt;
+&lt;p&gt;Nascida em Maceió, em 15 de fevereiro de 1905, Nise Magalhães da Silveira foi uma médica psiquiatra que revolucionou o tratamento mental no Brasil. Ela morreu em 30 de outubro de 1999, no Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Os ateliês terapêuticos de Nise da Silveira continuam em funcionamento até hoje. Eles se destinam a pessoas que precisam de algum tipo de cuidado. “São pessoas que atravessam dificuldades emocionais e psíquicas, sejam elas temporárias, pontuais ou mais permanentes”, explicou o coordenador de projetos da Sociedade Amigos do Museu de Imagens do Inconsciente, Eurípedes Junior.&lt;/p&gt;
+&lt;p&gt;O que é produzido nos ateliês do Museu é objeto de estudo e pesquisa&lt;/p&gt;
+&lt;p&gt;, visando “conhecer mais um pouco o mundo interno do ser humano e os processos psíquicos que pertencem a todos nós, independente de doença ou não”, diz Junior. Com isso, o museu abre um grande leque de pesquisa sobre o imaginário, as imagens e o tratamento.&lt;/p&gt;
+&lt;p&gt;Atualmente, 55 pessoas frequentam os ateliês do MII. As melhoras observadas são muitas, segundo a coordenadora dos ateliês do museu, psicóloga Adriana Lemos.&lt;/p&gt;
+&lt;p&gt;“Nós temos, inclusive, três clientes que este ano começaram a cursar faculdades”, disse.&lt;/p&gt;
+&lt;p&gt;Dois deles estão na Universidade Federal do Estado do Rio de Janeiro (Unirio), cursando museologia e pedagogia, e um no Colégio Pedro II, cursando filosofia.&lt;/p&gt;
+&lt;p&gt;O trabalho desenvolvido pelos terapeutas do MII proporcionou não só uma estrutura para que eles conseguissem passar nas faculdades, se aproximando cada vez mais do território, mas ainda construindo uma relação familiar mais digna, uma aproximação da família. “É importante que a família esteja mais presente”, afirmou a psicóloga.&lt;/p&gt;
+&lt;p&gt;De acordo com Lemos, atualmente funcionam sete ateliês com atividades expressivas: roda de mulheres, voltado para questões femininas; pintura; cerâmica; ritmologia; corpo e movimento; atividades plásticas; e teatro.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/rio-celebra-80-anos-de-atelies-da-psiquiatra-nise-da-silveira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Experiência pioneira que transformou a história da psiquiatria no Brasil, os ateliês terapêuticos criados por
+completam, neste dia 18 de maio, 80 ano...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-05-16 16:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-16 16:00:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-16 16:00:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-16 16:00:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/L1fKhUrGaRadCk9Y7lD7_FTfsi0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/14/img-20260514-wa0027.jpg?itok=SXJ96h0K</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Brasil leva dois ouros na Copa do Mundo de canoagem e paracanoagem</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/brasil-leva-dois-ouros-na-copa-do-mundo-de-canoagem-e-paracanoagem</link>
+      <pubDate>Sat, 16 May 2026 19:58:37 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/brasil-leva-dois-ouros-na-copa-do-mundo-de-canoagem-e-paracanoagem#1002</guid>
+      <description>O Brasil marcou presença duas vezes no topo do pódio na etapa de Brandemburgo, na Alemanha, da Copa do Mundo de canoagem e paracanoagem.
+baiano Isaqu...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/4FBCYWPQIXr4OPxcCZSUPQvzvtI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/16/isaquias-gabriel.jpeg?itok=a186YAve&quot; alt=&quot;Brasil leva dois ouros na Copa do Mundo de canoagem e paracanoagem&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Brasil marcou presença duas vezes no topo do pódio na etapa de Brandemburgo, na Alemanha, da Copa do Mundo de canoagem e paracanoagem.&lt;/p&gt;
+&lt;p&gt;baiano Isaquias Queiroz venceu os 500 metros da categoria C1&lt;/p&gt;
+&lt;p&gt;(canoa individual), enquanto o sul-mato-grossense Fernando Rufino garantiu o ouro nos 200 m da classe VL2 (canoa para atletas que utilizam braços e troncos para remar).&lt;/p&gt;
+&lt;p&gt;Dono de cinco medalhas olímpicas, sendo uma dourada, Isaquias, de 32 anos de idade, finalizou os 500 m em 1min52s55, 10 centésimos a frente do chinês Ji Bowen, que o tinha superado na etapa de Szeged, na Hungria, há uma semana.&lt;/p&gt;
+&lt;p&gt;E teve dobradinha brasileira no pódio alemão, já que o também baiano Gabriel Assunção, revelação de apenas 20 anos, garantiu o bronze, com tempo de 1min54s60.&lt;/p&gt;
+&lt;p&gt;Rufino concluiu os 200 m de sua prova em 53s44, com mais de 1 segundo de vantagem para o ucraniano Andrii Kryvchun&lt;/p&gt;
+&lt;p&gt;, que levou a prata. O britânico Edward Clifton completou o pódio.&lt;/p&gt;
+&lt;p&gt;O Cowboy de Aço, apelido do canoísta brasileiro, que faz 41 anos no próximo dia 22 e é bicampeão paralímpico, perdeu parte dos movimentos das pernas depois de ser atropelado por um ônibus.&lt;/p&gt;
+&lt;p&gt;Mais dois brasileiros foram ao pódio em Brandemburgo.&lt;/p&gt;
+&lt;p&gt;Nos 200 m da classe KL1 (caiaque para atletas com deficiências severas nas pernas e no quadril), Luis Carlos Cardoso chegou em segundo, com tempo de 49s85, superado em quase 2 segundos pelo húngaro Peter Kiss, pentacampeão mundial e duas vezes medalhista de ouro paralímpico. O francês Remy Boulle levou o bronze.&lt;/p&gt;
+&lt;p&gt;Natural do Piauí, o canoísta, que era dançarino antes de uma infecção na medula o tornar cadeirante, foi prata nas Paralimpíadas de Tóquio, no Japão, e Paris, na França.&lt;/p&gt;
+&lt;p&gt;Nos 200 m da classe VL3 (canoa para atletas com grau moderado de comprometimento no tronco e nas pernas),&lt;/p&gt;
+&lt;p&gt;Giovane Vieira de Paula ficou com o bronze, concluindo a prova em 49s&lt;/p&gt;
+&lt;p&gt;. Ele ficou a menos de 15 centésimos do ucraniano Vladyslav Yepifanov (ouro). O britânico Stuart Wood terminou em segundo.&lt;/p&gt;
+&lt;p&gt;O paranaense, prata nos Jogos de Paris, teve a perna esquerda amputada devido a um acidente de trem.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/brasil-leva-dois-ouros-na-copa-do-mundo-de-canoagem-e-paracanoagem&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Brasil marcou presença duas vezes no topo do pódio na etapa de Brandemburgo, na Alemanha, da Copa do Mundo de canoagem e paracanoagem.
+baiano Isaqu...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-05-16 15:48:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-16 15:48:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-16 15:48:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-16 15:48:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/4FBCYWPQIXr4OPxcCZSUPQvzvtI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/16/isaquias-gabriel.jpeg?itok=a186YAve</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Criança atacada por onça passa por cirurgia e segue estável</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/crianca-atacada-por-onca-passa-por-cirurgia-e-segue-estavel</link>
+      <pubDate>Sat, 16 May 2026 19:58:37 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/crianca-atacada-por-onca-passa-por-cirurgia-e-segue-estavel#1003</guid>
+      <description>© fazendavoltadaserra/Divulgação
+, atacada por uma onça-pardana Chapada dos Veadeiros (GO), passou por procedimento cirúrgico e segue estável, acompa...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6XxrcIs74v6r1-l8tuKhPdsVj7M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/15/cachoeiradocordovil-home.jpg?itok=0GsZv40E&quot; alt=&quot;Criança atacada por onça passa por cirurgia e segue estável&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© fazendavoltadaserra/Divulgação&lt;/p&gt;
+&lt;p&gt;, atacada por uma onça-pardana Chapada dos Veadeiros (GO), passou por procedimento cirúrgico e segue estável, acompanhada pela equipe médica.&lt;/p&gt;
+&lt;p&gt;Ela foi transferida para o Hospital Regional da Asa Norte (HRAN), em Brasília, nessasexta-feira (15) demanhã, sendo atendida pela equipe de cirurgia plástica da unidade. Segundo informou hoje (16) a Secretaria de Saúde do Distrito Federal (SES-DF) à Agência Brasil, não há previsão de alta.&lt;/p&gt;
+&lt;p&gt;A criança foi ferida no rosto ao voltar datrilha de uma cachoeira no Santuário Volta da Serra.&lt;/p&gt;
+&lt;p&gt;Elaestava acompanhada dos pais e de um funcionário da Fazenda Volta da Serra.&lt;/p&gt;
+&lt;p&gt;&quot;Assim que a onça saltou sobre a criança, seus pais e o funcionário da fazenda interromperam o ataque, e o animal fugiu para a mata. A vítima, ferida no rosto, recebeu pronto atendimento e foi encaminhada ao Hospital Municipal de Alto Paraíso, com o apoio da equipe operacional do parque&quot;, informou a fazenda, em nota.&lt;/p&gt;
+&lt;p&gt;A médica que atendeu a criança solicitou atransferência da paciente &quot;para uma unidade hospitalar com suporte de maior complexidade&quot;. Assim, elafoi transferida de ambulância para o Hospital Regional da Asa Norte.&lt;/p&gt;
+&lt;p&gt;Após o ataque, a visitação ao local está suspensa para investigação do ocorrido.&lt;/p&gt;
+&lt;p&gt;INMET prevê chuva em grande parte do país no fim de semana&lt;/p&gt;
+&lt;p&gt;Tesouro Reserva: saiba como funciona a nova aplicação&lt;/p&gt;
+&lt;p&gt;Atleta tenta maior highline urbano do mundo, em ponte de Florianópolis&lt;/p&gt;
+&lt;p&gt;Alison dos Santos abre Diamond League vencendo recordista mundial&lt;/p&gt;
+&lt;p&gt;China diz que acordos firmados em visita de Trump são &quot;preliminares&quot;&lt;/p&gt;
+&lt;p&gt;Sabesp suspende obras que possam interferir em rede de gás&lt;/p&gt;
+&lt;p&gt;Ateliês de Nise da Silveira completam 80 anos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/crianca-atacada-por-onca-passa-por-cirurgia-e-segue-estavel&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© fazendavoltadaserra/Divulgação
+, atacada por uma onça-pardana Chapada dos Veadeiros (GO), passou por procedimento cirúrgico e segue estável, acompa...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-05-16 15:43:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-16 15:43:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-16 15:43:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-16 15:43:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/6XxrcIs74v6r1-l8tuKhPdsVj7M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/15/cachoeiradocordovil-home.jpg?itok=0GsZv40E</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Fundação Casa de Jorge Amado inicia comemorações de seus 40 anos</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/fundacao-casa-de-jorge-amado-inicia-comemoracoes-de-seus-40-anos</link>
-      <pubDate>Sat, 16 May 2026 18:54:33 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:58:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/fundacao-casa-de-jorge-amado-inicia-comemoracoes-de-seus-40-anos#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/fundacao-casa-de-jorge-amado-inicia-comemoracoes-de-seus-40-anos#1004</guid>
       <description>© Guilherme Weber de Lima/Fundaç
 Com programação especial e gratuita ao longo de 2026, a Fundação Casa de Jorge Amado, em Salvador, vem antecipando a...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZUIXPJaXwAt3ALUv8Lm8uVuQQOQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/12/guilherme_baudememorias_-_20241210_154707_0.jpg?itok=KtEL1MbG&quot; alt=&quot;Fundação Casa de Jorge Amado inicia comemorações de seus 40 anos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +241,7 @@ Com programação especial e gratuita ao longo de 2026, a Fundação Casa de Jor
 &lt;p&gt;Myriam Fraga é considerada uma das maiores escritoras e poetas brasileiras, tendo publicado 25 livros e também mantido uma intensa colaboração em revistas e jornais. Ela foi responsável pela colunaLinha D’Água, publicada pelo jornalA Tardeentre os anos de 1984 e 2004. Ela também integrou a Academia de Letras da Bahia.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/fundacao-casa-de-jorge-amado-inicia-comemoracoes-de-seus-40-anos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Guilherme Weber de Lima/Fundaç
 Com programação especial e gratuita ao longo de 2026, a Fundação Casa de Jorge Amado, em Salvador, vem antecipando a...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-05-16 13:27:00</wp:post_date>
       <wp:post_date_gmt>2026-05-16 13:27:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-16 13:27:00</wp:post_modified>
@@ -73,9 +267,9 @@ Com programação especial e gratuita ao longo de 2026, a Fundação Casa de Jor
     <item>
       <title>Rio, Petrobras e concessionária fecham acordo para baixar preço do gás</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/rio-petrobras-e-concessionaria-fecham-acordo-para-baixar-preco-do-gas</link>
-      <pubDate>Sat, 16 May 2026 18:54:33 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:58:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/rio-petrobras-e-concessionaria-fecham-acordo-para-baixar-preco-do-gas#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/rio-petrobras-e-concessionaria-fecham-acordo-para-baixar-preco-do-gas#1005</guid>
       <description>O governo do estado do Rio de Janeiro fechou um acordo com a Petrobras e com a Naturgy ─ concessionária de distribuição de gás ─ para baixar o preço ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/eTwVM5P7QUplQX4VkvBi64nWfP4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_5328.jpg?itok=rxWDKHQS&quot; alt=&quot;Rio, Petrobras e concessionária fecham acordo para baixar preço do gás&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O governo do estado do Rio de Janeiro fechou um acordo com a Petrobras e com a Naturgy ─ concessionária de distribuição de gás ─ para baixar o preço do gás natural veicular (GNV) em cerca de 6,5%. A parceria se estende para redução no custo do gás de cozinha e do combustível fornecido às indústrias.&lt;/p&gt;
@@ -94,7 +288,7 @@ Com programação especial e gratuita ao longo de 2026, a Fundação Casa de Jor
 &lt;p&gt;Apesar dessa pressão, o gás veicular ficou de fora do conjunto de aumentos no mês de abril, de acordo com a&lt;/p&gt;
 &lt;p&gt;, medida peloÍndice Nacional de Preços ao Consumidor Amplo (IPCA), calculado pelo Instituto Brasileiro de Geografia e Estatística (IBGE).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/rio-petrobras-e-concessionaria-fecham-acordo-para-baixar-preco-do-gas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O governo do estado do Rio de Janeiro fechou um acordo com a Petrobras e com a Naturgy ─ concessionária de distribuição de gás ─ para baixar o preço ...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-05-16 12:55:00</wp:post_date>
       <wp:post_date_gmt>2026-05-16 12:55:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-16 12:55:00</wp:post_modified>
@@ -120,9 +314,9 @@ Com programação especial e gratuita ao longo de 2026, a Fundação Casa de Jor
     <item>
       <title>EBC reforça aposta no futuro com Política de Inovação</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/ebc-reforca-aposta-no-futuro-com-politica-de-inovacao</link>
-      <pubDate>Sat, 16 May 2026 18:54:33 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:58:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/ebc-reforca-aposta-no-futuro-com-politica-de-inovacao#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/ebc-reforca-aposta-no-futuro-com-politica-de-inovacao#1006</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 Empresa Brasil de Comunicação (EBC)
 aprovou,na reunião da Diretoria Executiva desta sexta-feira (15), a sua Polític...</description>
@@ -136,16 +330,16 @@ aprovou,na reunião da Diretoria Executiva desta sexta-feira (15), a sua Políti
 &lt;p&gt;lidera a implantação da TV 3.0 no Brasil e precisa ser capaz de aprofundar a inovação dentro da empresa. Estamos vivendo um processo de transformação profundo na comunicação global e a empresa deve se atualizar à luz deste novo cenário hiperconectado e digitalizado. A aprovação da política de inovação e a criação do NIT é um passo fundamental nessa jornada, ajudando a potencializar ações que já são realizadas e coordenando novos projetos”, afirma a presidente Antonia Pellegrino.&lt;/p&gt;
 &lt;p&gt;A política estabelece como uma de suas diretrizes “promover ambiente e processos de fomento à cultura de inovação e ao desenvolvimento de projetos de ciência, tecnologia e informação na empresa, da ideação à execução e gestão, com alinhamento aos princípios e objetivos da presente política e aos objetivos institucionais”.&lt;/p&gt;
 &lt;p&gt;O objetivo é “modernizar o parque tecnológico da EBC, adaptando às transformações das atividades de comunicação”&lt;/p&gt;
-&lt;p&gt;STF mantém rejeição à revisão da vida toda do INSS&lt;/p&gt;
+&lt;p&gt;INMET prevê chuva em grande parte do país no fim de semana&lt;/p&gt;
 &lt;p&gt;Tesouro Reserva: saiba como funciona a nova aplicação&lt;/p&gt;
 &lt;p&gt;Atleta tenta maior highline urbano do mundo, em ponte de Florianópolis&lt;/p&gt;
-&lt;p&gt;Fundação Casa de Jorge Amado inicia comemorações de seus 40 anos&lt;/p&gt;
-&lt;p&gt;Rio, Petrobras e concessionária fecham acordo para baixar preço do gás&lt;/p&gt;
-&lt;p&gt;EBC reforça aposta no futuro com Política de Inovação&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/ebc-reforca-aposta-no-futuro-com-politica-de-inovacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Sabesp suspende obras que possam interferir em rede de gás&lt;/p&gt;
+&lt;p&gt;Ateliês de Nise da Silveira completam 80 anos&lt;/p&gt;
+&lt;p&gt;Brasil leva dois ouros na Copa do Mundo de canoagem e paracanoagem&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/ebc-reforca-aposta-no-futuro-com-politica-de-inovacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Empresa Brasil de Comunicação (EBC)
 aprovou,na reunião da Diretoria Executiva desta sexta-feira (15), a sua Polític...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-05-16 11:50:00</wp:post_date>
       <wp:post_date_gmt>2026-05-16 11:50:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-16 11:50:00</wp:post_modified>
@@ -171,9 +365,9 @@ aprovou,na reunião da Diretoria Executiva desta sexta-feira (15), a sua Políti
     <item>
       <title>INSS inicia mutirão de dois dias com quase 26 mil vagas de atendimento</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/inss-inicia-mutirao-de-dois-dias-com-quase-26-mil-vagas-de-atendimento</link>
-      <pubDate>Sat, 16 May 2026 18:54:33 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:58:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/inss-inicia-mutirao-de-dois-dias-com-quase-26-mil-vagas-de-atendimento#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/inss-inicia-mutirao-de-dois-dias-com-quase-26-mil-vagas-de-atendimento#1007</guid>
       <description>Instituto Nacional do Seguro Social
 (INSS) e o Ministério da Previdência Social iniciaram neste sábado (16) um mutirão de dois dias que oferece quase...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/HIabNYFkYlbYWam1RgtzXkuNUg4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/26/aed0d977-1d92-4c21-8c2f-a8806ca1fb8b.jpeg?itok=QX7COsYx&quot; alt=&quot;INSS inicia mutirão de dois dias com quase 26 mil vagas de atendimento&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -194,7 +388,7 @@ aprovou,na reunião da Diretoria Executiva desta sexta-feira (15), a sua Políti
 &lt;p&gt;• Alagoas (2.278): Arapiraca (732) e Maceió – Tabuleiro do Martins (1.546)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/inss-inicia-mutirao-de-dois-dias-com-quase-26-mil-vagas-de-atendimento&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Instituto Nacional do Seguro Social
 (INSS) e o Ministério da Previdência Social iniciaram neste sábado (16) um mutirão de dois dias que oferece quase...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-05-16 11:30:00</wp:post_date>
       <wp:post_date_gmt>2026-05-16 11:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-16 11:30:00</wp:post_modified>
@@ -220,9 +414,9 @@ aprovou,na reunião da Diretoria Executiva desta sexta-feira (15), a sua Políti
     <item>
       <title>Saiba como pedir reembolso de produtos Ypê suspensos pela Anvisa</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/saiba-como-pedir-reembolso-de-produtos-ype-suspensos-pela-anvisa</link>
-      <pubDate>Sat, 16 May 2026 18:54:33 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:58:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/saiba-como-pedir-reembolso-de-produtos-ype-suspensos-pela-anvisa#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/saiba-como-pedir-reembolso-de-produtos-ype-suspensos-pela-anvisa#1008</guid>
       <description>Com a decisão da Agência Nacional de Vigilância Sanitária (Anvisa) de
 da fabricação, distribuição e venda de lotes de produtos da marca Ypê, com fina...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ljE9-N7_EsygUX7SPiW0AoHC45E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/07/adobestock_1875928690_editorial_use_only.jpeg?itok=nBxEf7pg&quot; alt=&quot;Saiba como pedir reembolso de produtos Ypê suspensos pela Anvisa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -243,7 +437,7 @@ da fabricação, distribuição e venda de lotes de produtos da marca Ypê, com 
 &lt;p&gt;Lava Roupas Líquido Tixan Ypê Cuida das Roupas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/saiba-como-pedir-reembolso-de-produtos-ype-suspensos-pela-anvisa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Com a decisão da Agência Nacional de Vigilância Sanitária (Anvisa) de
 da fabricação, distribuição e venda de lotes de produtos da marca Ypê, com fina...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-05-16 10:54:00</wp:post_date>
       <wp:post_date_gmt>2026-05-16 10:54:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-16 10:54:00</wp:post_modified>
@@ -269,9 +463,9 @@ da fabricação, distribuição e venda de lotes de produtos da marca Ypê, com 
     <item>
       <title>Projeto pode reposicionar país no mercado de lúpulo</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/coppe-lidera-projeto-que-pode-reposicionar-pais-no-mercado-de-lupulo</link>
-      <pubDate>Sat, 16 May 2026 18:54:33 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 19:58:37 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/coppe-lidera-projeto-que-pode-reposicionar-pais-no-mercado-de-lupulo#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/coppe-lidera-projeto-que-pode-reposicionar-pais-no-mercado-de-lupulo#1009</guid>
       <description>© Reuters/Peter Gercke/Direitos reservados
 Pesquisadores do Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia (Coppe/UFRJ) est...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1uFZimQbCbI11gs9LMQvlZABc10=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2022-01-16t041047z_1642306244_dpaf220116x99x725993_rtrfipp_4_economy-colorful-fooddrink-customs-craft-lah-miscellaneous-puritylaw-r.jpg?itok=WXIV18tp&quot; alt=&quot;Projeto pode reposicionar país no mercado de lúpulo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -292,7 +486,7 @@ Pesquisadores do Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa e
 &lt;p&gt;Com manejo adequado e uso de tecnologias como suplementação luminosa, é possível alcançar até 2,5 safras por ano — um ganho expressivo de produtividade em relação aos países tradicionais produtores.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/coppe-lidera-projeto-que-pode-reposicionar-pais-no-mercado-de-lupulo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Peter Gercke/Direitos reservados
 Pesquisadores do Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia (Coppe/UFRJ) est...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-05-16 10:42:00</wp:post_date>
       <wp:post_date_gmt>2026-05-16 10:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-16 10:42:00</wp:post_modified>
@@ -313,204 +507,6 @@ Pesquisadores do Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa e
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/1uFZimQbCbI11gs9LMQvlZABc10=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2022-01-16t041047z_1642306244_dpaf220116x99x725993_rtrfipp_4_economy-colorful-fooddrink-customs-craft-lah-miscellaneous-puritylaw-r.jpg?itok=WXIV18tp</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>SP: Defesa Civil alerta para temporais isolados e queda de temperatura</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/sp-defesa-civil-alerta-para-temporais-isolados-e-queda-de-temperatura</link>
-      <pubDate>Sat, 16 May 2026 18:54:33 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/sp-defesa-civil-alerta-para-temporais-isolados-e-queda-de-temperatura#1006</guid>
-      <description>© Marcello Casal JrAgência Brasil
-Uma mudança nas condições do tempo em todo o estado de São Paulo deve provocar aumento das chuvas, temporais isolad...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kMEQM1gW3ozkwzZDzOTDpL56KFs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/sp21122000841.jpg?itok=SaHYvVfh&quot; alt=&quot;SP: Defesa Civil alerta para temporais isolados e queda de temperatura&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
-&lt;p&gt;Uma mudança nas condições do tempo em todo o estado de São Paulo deve provocar aumento das chuvas, temporais isolados e nova queda nas temperaturas. Essa mudança ocorrerá entre hoje (16) e a próxima segunda-feira (18), informou a Defesa Civil do estado.&lt;/p&gt;
-&lt;p&gt;Para este sábado(16), a previsão é de que um cavado meteorológico - correntes de vento que ajudam a formar as nuvens de tempestade – manterá as condições para pancadas isoladas de chuva em diferentes regiões do estado, com possibilidade de raios e ventos fortes.&lt;/p&gt;
-&lt;p&gt;Segundo a Defesa Civil, os modelos meteorológicos indicam acumulados moderados de precipitação, que devem ocorrer principalmente nas regiões oeste e leste do estado.&lt;/p&gt;
-&lt;p&gt;Para o domingo(17), o dia deverá ser marcado por nebulosidade variável e momentos de sol, com declínio das temperaturas. Há condições para pancadas de chuva fortes, com acumulados significativos de chuva, especialmente entre os municípios que fazem divisa com o estado do Paraná.&lt;/p&gt;
-&lt;p&gt;Na segunda-feira (18), a previsão é de maior volume de chuvas no litoral e na Grande São Paulo, que deve persistir ao longo do dia. Uma massa de ar frio deverá derrubar um pouco mais as temperaturas, principalmente as máximas. Segundo a Defesa Civil, o frio deverá permanecer por toda a semana, pelo dia todo.&lt;/p&gt;
-&lt;p&gt;STF mantém rejeição à revisão da vida toda do INSS&lt;/p&gt;
-&lt;p&gt;Tesouro Reserva: saiba como funciona a nova aplicação&lt;/p&gt;
-&lt;p&gt;Atleta tenta maior highline urbano do mundo, em ponte de Florianópolis&lt;/p&gt;
-&lt;p&gt;Fundação Casa de Jorge Amado inicia comemorações de seus 40 anos&lt;/p&gt;
-&lt;p&gt;Rio, Petrobras e concessionária fecham acordo para baixar preço do gás&lt;/p&gt;
-&lt;p&gt;EBC reforça aposta no futuro com Política de Inovação&lt;/p&gt;
-&lt;p&gt;INSS inicia mutirão de dois dias com quase 26 mil vagas de atendimento&lt;/p&gt;
-&lt;p&gt;Saiba como pedir reembolso de produtos Ypê suspensos pela Anvisa&lt;/p&gt;
-&lt;p&gt;Projeto pode reposicionar país no mercado de lúpulo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/sp-defesa-civil-alerta-para-temporais-isolados-e-queda-de-temperatura&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal JrAgência Brasil
-Uma mudança nas condições do tempo em todo o estado de São Paulo deve provocar aumento das chuvas, temporais isolad...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-05-16 10:26:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-16 10:26:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-16 10:26:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-16 10:26:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/kMEQM1gW3ozkwzZDzOTDpL56KFs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/sp21122000841.jpg?itok=SaHYvVfh</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>IA pode gerar mais fake news nas eleições, alertam especialistas</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/ia-pode-gerar-mais-fake-news-nas-eleicoes-alertam-especialistas</link>
-      <pubDate>Sat, 16 May 2026 18:54:33 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/ia-pode-gerar-mais-fake-news-nas-eleicoes-alertam-especialistas#1007</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-O uso da inteligência artificial (IA) na campanha eleitoral deste ano deve ser um
-ponto de especial atenção do minis...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZM2YR7bKXnF6pHfH_dH9qYIWd7U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/eleicoes-tse_mcamgo_abr_021020221818-5.jpg?itok=xOWeaq1i&quot; alt=&quot;IA pode gerar mais fake news nas eleições, alertam especialistas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O uso da inteligência artificial (IA) na campanha eleitoral deste ano deve ser um&lt;/p&gt;
-&lt;p&gt;ponto de especial atenção do ministro Nunes Marques&lt;/p&gt;
-&lt;p&gt;à frente do Tribunal Superior Eleitoral.&lt;/p&gt;
-&lt;p&gt;Para especialistas ouvidos pela&lt;/p&gt;
-&lt;p&gt;, o uso da tecnologia poderá transbordar até outubro e agravar a circulação de notícias falsas em contexto de grande polarização política e baixo letramento digital.&lt;/p&gt;
-&lt;p&gt;O advogado eleitoral Jonatas Moreth, mestre em Direito Constitucional,&lt;/p&gt;
-&lt;p&gt;avalia que a Justiça Eleitoral atua para coibir desvios já ocorridos em meio à práticas de manipulação que se aperfeiçoam.&lt;/p&gt;
-&lt;p&gt;“O processo eleitoral e o papel dos tribunais eleitorais se assemelham ao que ocorre no esporte com o doping e o antidoping. O doping sempre está um pouco à frente do antidoping. Ou seja, inventa-se uma droga que não é pega nos exames rotineiros, até que um procedimento consegue captar e passa a ser acrescido nos exames”, explica.&lt;/p&gt;
-&lt;p&gt;Para o professor Marcus Ianoni, do Departamento de Ciência Política da Universidade Federal Fluminense, a capacidade da Justiça Eleitoral em agir vai depender da disponibilidade de quadros técnicos qualificados.&lt;/p&gt;
-&lt;p&gt;“Eu fico com um pouco de dúvida se toda a burocracia que tem será suficiente para dar conta de tudo”&lt;/p&gt;
-&lt;p&gt;, pondera o acadêmico se referindo à possibilidade de aumento e sofisticação do uso da inteligência artificial para manipular a atenção dos eleitores e suas intenções de voto.&lt;/p&gt;
-&lt;p&gt;“Enfrentar os efeitos nocivos da inteligência artificial nas eleições” é uma das três prioridades que o ministro Nunes Marques terá à frente do TSE, informa a assessoria de imprensa de seu gabinete à&lt;/p&gt;
-&lt;p&gt;O presidente do TSE, ministro Nunes Marques, também quer&lt;/p&gt;
-&lt;p&gt;“privilegiar o debate e o direito de resposta de todos os envolvidos no processo eleitoral”&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/ia-pode-gerar-mais-fake-news-nas-eleicoes-alertam-especialistas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-O uso da inteligência artificial (IA) na campanha eleitoral deste ano deve ser um
-ponto de especial atenção do minis...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-05-16 10:15:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-16 10:15:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-16 10:15:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-16 10:15:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/ZM2YR7bKXnF6pHfH_dH9qYIWd7U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/eleicoes-tse_mcamgo_abr_021020221818-5.jpg?itok=xOWeaq1i</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Projeto mapeia fauna marinha da Bahia por meio do DNA ambiental</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/projeto-mapeia-fauna-marinha-da-bahia-por-meio-do-dna-ambiental</link>
-      <pubDate>Sat, 16 May 2026 18:54:33 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/projeto-mapeia-fauna-marinha-da-bahia-por-meio-do-dna-ambiental#1008</guid>
-      <description>Uma nova etapa do projeto Genômica da Biodiversidade Brasileira (GBB), desenvolvido pelo Instituto Tecnológico da Vale (ITV), busca identificar espéc...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mxGsAfs2vWqUD-dGQgGERMYq52E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/15/20260325_102047.jpg?itok=3lM0W95v&quot; alt=&quot;Projeto mapeia fauna marinha da Bahia por meio do DNA ambiental&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Uma nova etapa do projeto Genômica da Biodiversidade Brasileira (GBB), desenvolvido pelo Instituto Tecnológico da Vale (ITV), busca identificar espécies da fauna marinha a partir de amostras de água que são coletadas em reservas do sul da Bahia. A coordenação é do Centro&lt;/p&gt;
-&lt;p&gt;Tamar, do Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), emparceria com as reservas extrativistas (Resex) de Corumbau e Cassurubá.&lt;/p&gt;
-&lt;p&gt;Para esse trabalho, os pesquisadores utilizam uma nova técnica, mais moderna, chamada de DNA Ambiental&lt;/p&gt;
-&lt;p&gt;, que permite a identificação de múltiplas espécies simultaneamente, a partir de amostras ambientais que são colhidas, por exemplo, na água.&lt;/p&gt;
-&lt;p&gt;Segundo a coordenadora do GBB pelo ICMBio, Amely Branquinho Martins, atécnica de DNA Ambiental se baseia na coleta de amostras ambientais do solo, da água e do ar e na identificação de todas as espécies que passaram por aquele ambiente a partir do sequenciamento do DNA deixado na amostra.&lt;/p&gt;
-&lt;p&gt;“Todo animal que passa por um ambiente deixa pedacinhos de pelo, de escama, de fezes ou de urina que contém o seu DNA. Vários animais passando por aquele ambiente vão deixando rastros de sua passagem e, dentro desse rastro, temos as moléculas de DNA. Quando a gente pega essa amostra, sequenciamos todo o DNA [dessa amostra] e o comparamos com os bancos de dados de referência. E, a partir daí, conseguimos identificar as espécies”, detalhou a coordenadora do GBB.&lt;/p&gt;
-&lt;p&gt;Segundo Amely, essa técnica já vem sendo utilizada por outros países e agora o GBB pretende analisar a sua eficácia, em comparação aos métodos tradicionais, para o monitoramento de tipos da biodiversidade nas unidades de conservação federais.&lt;/p&gt;
-&lt;p&gt;No projeto-piloto que vem sendo desenvolvido no sul da Bahia foram coletadas amostras de água do mar em 20 pontos diferentes da Reserva Extrativista de Corumbau e em dez pontos nas porções estuarina e marinha da Reserva Extrativista de Cassurubá.&lt;/p&gt;
-&lt;p&gt;“A definição destes pontos pelas equipes envolvidas considerou as espécies de interesse e os locais de realização das atividades de pesca e extrativismo pelos beneficiários das RESEXs, as áreas relevantes para conservação das espécies ameaçadas, e a possível ocorrência de espécies exóticas invasoras”, explicou o analista ambiental do ICMBio Roberto Sforza.&lt;/p&gt;
-&lt;p&gt;As amostras foram coletadas no mês de março e já passaram por um processo de filtragem e conservação até serem transportadas para o laboratório do ITV, em Belém (PA), onde o DNA será extraído, analisado e sequenciado.&lt;/p&gt;
-&lt;p&gt;Além de identificar os tipos da fauna marinha presentes nessa região, a iniciativa quer contribuir para a detecção de espécies ameaçadas, exóticas e invasoras presentes nessas áreas protegidas.&lt;/p&gt;
-&lt;p&gt;Entre os animais que se pretende mapear nesta região estão os peixes e invertebrados de interesse social e econômico das populações beneficiárias das RESEXs, com especial atenção para espécies ameaçadas de extinção, como os budiões.&lt;/p&gt;
-&lt;p&gt;Segundo Sforza, também devem ser mapeados animais que são os principais alvos de pescaria como peixes recifais, camarões, moluscos e caranguejo-uçá, como também espécies exóticas invasoras, como o peixe-leão e o coral sol.&lt;/p&gt;
-&lt;p&gt;Uma das vantagens da utilização do DNA Ambiental é que ele permite a identificação de múltiplas espécies de forma simultânea, sem a necessidade da captura dos organismos.&lt;/p&gt;
-&lt;p&gt;“Por não necessitar isolar e capturar os organismos, essa abordagem é considerada uma alternativa não invasiva para estudos de biodiversidade. O eDNA&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/projeto-mapeia-fauna-marinha-da-bahia-por-meio-do-dna-ambiental&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Uma nova etapa do projeto Genômica da Biodiversidade Brasileira (GBB), desenvolvido pelo Instituto Tecnológico da Vale (ITV), busca identificar espéc...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-05-16 09:20:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-16 09:20:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-16 09:20:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-16 09:20:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/mxGsAfs2vWqUD-dGQgGERMYq52E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/15/20260325_102047.jpg?itok=3lM0W95v</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Negacionismo fez brasileiros &quot;perderem&quot; 3,4 anos de vida na pandemia</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/negacionismo-fez-brasileiros-perderem-34-anos-de-vida-na-pandemia</link>
-      <pubDate>Sat, 16 May 2026 18:54:33 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/negacionismo-fez-brasileiros-perderem-34-anos-de-vida-na-pandemia#1009</guid>
-      <description>© Alex Pazuello/Semcom/Prefeitura de Manaus
-A expectativa de vida da população brasileira caiu 3,4 anos durante a
-, após aumento de 27,6% na mortalid...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CEcHtQZSmt9M5AIlwadP6dlHo8c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/49897895673_3d18dff1bf_o.jpg?itok=65hDQBF2&quot; alt=&quot;Negacionismo fez brasileiros &quot;perderem&quot; 3,4 anos de vida na pandemia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Alex Pazuello/Semcom/Prefeitura de Manaus&lt;/p&gt;
-&lt;p&gt;A expectativa de vida da população brasileira caiu 3,4 anos durante a&lt;/p&gt;
-&lt;p&gt;, após aumento de 27,6% na mortalidade.&lt;/p&gt;
-&lt;p&gt;É o que mostra a análise nacional do Estudo Carga Global de Doenças, maior pesquisa mundial sobre o impacto das doenças e fatores de risco nas populações de mais de 200 países.&lt;/p&gt;
-&lt;p&gt;O documento está publicado na edição de maio da revista&lt;/p&gt;
-&lt;p&gt;The Lancet Regional Health – Americas&lt;/p&gt;
-&lt;p&gt;Para os pesquisadores que participaram do levantamento, esse retrocesso é resultado da postura negacionista do governo federal da época, sob comando do ex-presidente&lt;/p&gt;
-&lt;p&gt;&quot;As autoridades enfraqueceram as orientações científicas – rejeitando o distanciamento social, disseminando desinformação, promovendo medicamentos sem eficácia comprovada, atrasando a aquisição de vacinas, sob a justificativa de isso protegeria o país de um colapso econômico.&quot;&lt;/p&gt;
-&lt;p&gt;Apesar de a queda na expectativa de vida ter ocorridoem todo o país, há diferença significativa entre os números por unidades da Federação.&lt;/p&gt;
-&lt;p&gt;Os três estados com a maior redução ficam na região Norte:&lt;/p&gt;
-&lt;p&gt;Na outra ponta, com a menor redução, estão três estados da região Nordeste:&lt;/p&gt;
-&lt;p&gt;Rio Grande do Norte: 2,11 anos.&lt;/p&gt;
-&lt;p&gt;De acordo com o estudo, isso se deve ao fato de os governadores da região terem adotado com mais firmeza as medidas de contenção recomendadas por cientistas e autoridades sanitárias.&lt;/p&gt;
-&lt;p&gt;&quot;Na ausência de coordenação nacional, os governos estaduais do Nordeste formaram um consórcio com um comitê científico independente que implementou estratégias.”&lt;/p&gt;
-&lt;p&gt;O documento cita, por exemplo, o distanciamento social, o fechamento de escolas e comércios, a obrigatoriedade do uso de máscaras, políticas de proteção aos trabalhadores e sistemas de dados em tempo real.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/negacionismo-fez-brasileiros-perderem-34-anos-de-vida-na-pandemia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Alex Pazuello/Semcom/Prefeitura de Manaus
-A expectativa de vida da população brasileira caiu 3,4 anos durante a
-, após aumento de 27,6% na mortalid...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-05-16 08:50:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-16 08:50:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-16 08:50:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-16 08:50:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/CEcHtQZSmt9M5AIlwadP6dlHo8c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/49897895673_3d18dff1bf_o.jpg?itok=65hDQBF2</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
