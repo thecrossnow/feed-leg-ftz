@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Thu, 21 May 2026 13:58:20 +0000</pubDate>
+    <pubDate>Thu, 21 May 2026 16:38:50 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,203 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>TSE torna inelegível e anula votos recebidos por ex-deputado do Ceará</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/tse-torna-inelegivel-e-anula-votos-recebidos-por-ex-deputado-do-ceara</link>
+      <pubDate>Thu, 21 May 2026 16:38:50 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/tse-torna-inelegivel-e-anula-votos-recebidos-por-ex-deputado-do-ceara#1000</guid>
+      <description>© Vinicius Loures / Câmara dos Deputados
+O plenário do Tribunal Superior Eleitoral (TSE) decidiu nesta quinta-feira (21) anular os votos recebidos pe...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/TJSJaBfWg3wd2mLpThDkWl4u_jo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/21/img20230815151711763.jpg?itok=iOpB_jzn&quot; alt=&quot;TSE torna inelegível e anula votos recebidos por ex-deputado do Ceará&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Vinicius Loures / Câmara dos Deputados&lt;/p&gt;
+&lt;p&gt;O plenário do Tribunal Superior Eleitoral (TSE) decidiu nesta quinta-feira (21) anular os votos recebidos pelo ex-deputado federal Heitor Freire (União-CE) nas eleições 2022, determinando assim uma retotalização de votos no estado.&lt;/p&gt;
+&lt;p&gt;Pela decisão, que manteve a cassação, o ex-parlamentar fica também inelegível.&lt;/p&gt;
+&lt;p&gt;Ele foi condenado pela Justiça Eleitoral por gastos de campanha considerados ilícitos, em valores que chegam a R$ 1,6 milhão.&lt;/p&gt;
+&lt;p&gt;O TSE encerrou nesta quinta o julgamento de um recurso do Ministério Público Eleitoral (MPE) contra decisão do Tribunal Regional Eleitoral do Ceará (TRE-CE). Contrariando a jurisprudência, o TRE-CE tinha dado decisão para preservar os votos recebidos pelo ex-deputado no quociente eleitoral. Dessa forma, os votos continuaram a ser computados para seu partido.&lt;/p&gt;
+&lt;p&gt;Com a decisão de agora anular os votos recebidos por Freire, um novo cálculo do quociente eleitoral deve ser realizado para a bancada cearense. A depender do resultado, é possível que o União perca uma cadeira na Câmara, em favor de outro partido.&lt;/p&gt;
+&lt;p&gt;A cassação de Heitor Freire foi decidida em 2024 pelo TRE, pela não comprovação de R$ 618 mil em gastos de campanha, bem como pelo gasto de mais de R$ 1 milhão com serviços de advocacia e contabilidade, valor muito superior ao de outros candidatos do Ceará.&lt;/p&gt;
+&lt;p&gt;Ao longo do processo, a defesa do ex-deputado negou irregularidades e alegou que os serviços pagos com advogados e contadores teriam sido compartilhados com outros candidatos do partido.&lt;/p&gt;
+&lt;p&gt;Operação investiga fraudes em licitações e desvio de dinheiro no Ceará&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 18h30: Decreto regulamenta a retirada de conteúdos ilegais pelas plataformas digitais&lt;/p&gt;
+&lt;p&gt;Duas merendeiras do Amazonas ganham destaque em concurso nacional&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/tse-torna-inelegivel-e-anula-votos-recebidos-por-ex-deputado-do-ceara&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Vinicius Loures / Câmara dos Deputados
+O plenário do Tribunal Superior Eleitoral (TSE) decidiu nesta quinta-feira (21) anular os votos recebidos pe...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-05-21 12:12:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-21 12:12:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-21 12:12:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-21 12:12:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/TJSJaBfWg3wd2mLpThDkWl4u_jo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/21/img20230815151711763.jpg?itok=iOpB_jzn</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>STF forma maioria para tornar réus acusados de obstruir caso Marielle</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/stf-forma-maioria-para-tornar-reus-acusados-de-obstruir-caso-marielle</link>
+      <pubDate>Thu, 21 May 2026 16:38:50 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/stf-forma-maioria-para-tornar-reus-acusados-de-obstruir-caso-marielle#1001</guid>
+      <description>© Marcello Casal JrAgência Brasil
+A Primeira Turma do Supremo Tribunal Federal (STF) formou maioria na manhã desta quinta-feira (21) para tornar réus...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/oQJ-dblENzkf_WQyOsp5966VfFo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_abr_161019894.jpg?itok=qnCu8c9c&quot; alt=&quot;STF forma maioria para tornar réus acusados de obstruir caso Marielle&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
+&lt;p&gt;A Primeira Turma do Supremo Tribunal Federal (STF) formou maioria na manhã desta quinta-feira (21) para tornar réus três integrantes da Polícia Civil do Rio de Janeiro investigados por obstrução de Justiça e associação criminosa no caso do assassinato da vereadora Marielle Franco e do motorista Anderson Gomes, ocorrido em março de 2018.&lt;/p&gt;
+&lt;p&gt;Até o momento, votaram pela abertura de uma nova ação penal sobre o caso os ministros Alexandre de Moraes, relator, Cristiano Zanin e Flávio Dino, que votou nesta quinta formando a maioria.&lt;/p&gt;
+&lt;p&gt;Falta o voto apenas de Cármen Lúcia, que tem até sexta-feira (22) para votar na sessão virtual.&lt;/p&gt;
+&lt;p&gt;Entre os acusados está Rivaldo Barbosa, ex-chefe da Polícia Civil fluminense que já foi condenado, em fevereiro, a 18 anos de prisão por sua participação para atrapalhar a apuração do crime.&lt;/p&gt;
+&lt;p&gt;Os outros dois investigados, que agora devem se tornar réus, são o delegado Giniton Lages e o comissário de polícia Marco Antonio de Barros Pinto, conhecido como Marquinho HP.&lt;/p&gt;
+&lt;p&gt;Segundo denúncia da Procuradoria-Geral da República (PGR),os acusados cometeram atos para desaparecer com provas, incriminaram pessoas inocentes, usaram testemunhas falsas e realizaram diligências desnecessárias para “garantir a impunidade” dos mandantes e executores do assassinato.&lt;/p&gt;
+&lt;p&gt;Em fevereiro, os irmãos Domingos Brazão, conselheiro do Tribunal de Contas do Rio de Janeiro (TCE-RJ), e Chiquinho Brazão, ex-deputado federal,&lt;/p&gt;
+&lt;p&gt;foram sentenciados a 76 anos e três mesescomo mentores do crime&lt;/p&gt;
+&lt;p&gt;, cuja motivação foram disputas em torno da grilarem de terras na Zona Oeste do Rio de Janeiro, conforme os autos do processo.&lt;/p&gt;
+&lt;p&gt;Os irmãos Brazão foram condenados pelos crimes de organização criminosa, duplo homicídio e tentativa de homicídio contra Fernanda Chaves, assessora de Marielle, que sobreviveu ao atentado.&lt;/p&gt;
+&lt;p&gt;Antes do julgamento, a defesa de Rivaldo defendeu a rejeição da denúncia por falta de provas e disse que o ex-chefe da Polícia Civil do Rio foi acusado com base em inferências.&lt;/p&gt;
+&lt;p&gt;Os advogados de Giniton afirmaram que ele não tem foro privilegiado e não pode ser julgado pelo Supremo.&lt;/p&gt;
+&lt;p&gt;A defesa de Marco Antonio de Barros afirmou que nenhum elemento de prova foi produzido e que o trabalho da polícia resultou na&lt;/p&gt;
+&lt;p&gt;Operação investiga fraudes em licitações e desvio de dinheiro no Ceará&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/stf-forma-maioria-para-tornar-reus-acusados-de-obstruir-caso-marielle&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello Casal JrAgência Brasil
+A Primeira Turma do Supremo Tribunal Federal (STF) formou maioria na manhã desta quinta-feira (21) para tornar réus...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-05-21 10:42:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-21 10:42:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-21 10:42:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-21 10:42:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/oQJ-dblENzkf_WQyOsp5966VfFo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_abr_161019894.jpg?itok=qnCu8c9c</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Brasileiros com diabetes defendem uso de tecnologias no tratamento</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/brasileiros-com-diabetes-defendem-uso-de-tecnologias-tratamento</link>
+      <pubDate>Thu, 21 May 2026 16:38:50 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/brasileiros-com-diabetes-defendem-uso-de-tecnologias-tratamento#1002</guid>
+      <description>© Marcello Casal jr/Agência Brasil
+Sete emcada dez brasileiros com diabetes (70%) afirmam que a doença afeta de modo significativo o bem-estar emocio...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/RDrT1b24KePcWLK6rEb0rRfEbfs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/insulina_teste_05082110277.jpg?itok=GNA4R2Um&quot; alt=&quot;Brasileiros com diabetes defendem uso de tecnologias no tratamento&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello Casal jr/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Sete emcada dez brasileiros com diabetes (70%) afirmam que a doença afeta de modo significativo o bem-estar emocional. Setenta e oito por cento relatam ter ansiedade ou preocupação com o futuro, e dois em cada cinco pacientes se sentem sós ou isolados em função da doença.&lt;/p&gt;
+&lt;p&gt;Os dados são de pesquisa feita pelo Global Wellness Institute (GWI), em parceria com a Roche Diagnóstica, que explorou percepções sobre o diabetes, a vida com a doença e as ferramentas de manejo.&lt;/p&gt;
+&lt;p&gt;A pesquisa foi realizada em setembro de 2025, em nível global, com 4.326 pessoas com diabetes, com idade igual ou maior que 16 anos, das quais 20% no Brasil. O levantamento foi feito em 22 países&lt;/p&gt;
+&lt;p&gt;Além do Brasil, foram pesquisadas pessoas na Austrália, Áustria, Bélgica, Chile, Croácia, República Tcheca, Dinamarca, Alemanha, Hong Kong, Índia, Japão, Kuwait, Países Baixos, Polônia, Portugal, Romênia, Arábia Saudita, África do Sul, Espanha, Turquia e Reino Unido.&lt;/p&gt;
+&lt;p&gt;No grupo de pacientes com diabetes tipo 1, o estudo mostraque 77% afirmam ser afetados de modo significativo em seu bem-estar emocional.&lt;/p&gt;
+&lt;p&gt;O diabetes é causadopela produção insuficiente ou a má absorção de insulina, hormônio que regula a glicose no sangue e garante energia para o organismo. A doença pode causar o aumento da glicemia e as altas taxas podem levar a complicações no coração, nas artérias, nos olhos, nos rins e nos nervos. Em casos mais graves, pode levar à morte.&lt;/p&gt;
+&lt;p&gt;Já o Diabetes Melito tipo 1 (DM1) é uma doença crônica não transmissível, hereditária, caracterizada pela destruição das células do pâncreas responsáveis pela produção e secreção de insulina, o que resulta em deficiência na secreção desse hormônio no organismo.&lt;/p&gt;
+&lt;p&gt;O Brasil ocupa a 6ª posição mundial em casos de diabetes, de acordo com o Atlas Global do Diabetes 2025 da International Diabetes Federation (IDF), com um total de 16,6 milhões de adultos diagnosticados com a doença.&lt;/p&gt;
+&lt;p&gt;A pesquisa mostra ainda que para 56% dos entrevistados no Brasil, o diabetes limita a capacidade de passar o dia fora de casa; 46% afirmam ter dificuldades em situações comuns, como trânsito ou reuniões longas. Outros 55% dizem não acordar plenamente descansados, devido aos efeitos das variações glicêmicas durante a noite.&lt;/p&gt;
+&lt;p&gt;A maior parte dos pacientes diz que não se considera atendido pelo modelo atual de cuidado, apesar dos avanços registrados. Somente 35% se consideram muito confiantes no gerenciamento da própria condição, o que sinaliza a existência de problemas para o controle e previsibilidade da doença.&lt;/p&gt;
+&lt;p&gt;Em torno de 44% dos consultados defendem que tecnologias mais inteligentes, que possam prever mudanças nos níveis de glicose, deveriam ser priorizadas para prevenção de complicações.&lt;/p&gt;
+&lt;p&gt;Já 46% dos pacientes que usam medidores tradicionais, como os glicosímetros, ou testes de ponta de dedo, consideram que os sensores de monitoramento contínuo de glicose (CGM, do nome em inglês) deveriam ser adotados devido à capacidade de funcionarem como alertas preditivos.&lt;/p&gt;
+&lt;p&gt;Cinquenta e três por cento dos entrevistados apontam que a principal funcionalidade desejada em sensores com inteligência artificial (IA) é a capacidade de prever níveis futuros de glicose. Esse número sobe para 68% entre os pacientes com diabetes tipo 1.&lt;/p&gt;
+&lt;p&gt;Saber as tendências antecipadas dos níveis de glicose daria a 56% dos brasileiros consultados a sensação de estarem no controle da doença, enquanto 48% comentaram que a redução de surpresas de picos e quedas de glicose inesperadas aumentaria sua qualidade de vida.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/brasileiros-com-diabetes-defendem-uso-de-tecnologias-tratamento&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello Casal jr/Agência Brasil
+Sete emcada dez brasileiros com diabetes (70%) afirmam que a doença afeta de modo significativo o bem-estar emocio...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-05-21 10:30:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-21 10:30:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-21 10:30:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-21 10:30:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/RDrT1b24KePcWLK6rEb0rRfEbfs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/insulina_teste_05082110277.jpg?itok=GNA4R2Um</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Governo destina mais R$ 75,3 milhões para atingidos por chuvas em MG</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/governo-destina-mais-r-753-milhoes-para-atingidos-por-chuvas-em-mg</link>
+      <pubDate>Thu, 21 May 2026 16:38:50 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/governo-destina-mais-r-753-milhoes-para-atingidos-por-chuvas-em-mg#1003</guid>
+      <description>O governo federal destinou mais R$ 75,3 milhões para o pagamento do Auxílio Reconstrução a famílias de Juiz de Fora e Ubá,
+cidades mineiras afetadas ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/c1h3Hetp0dY2S80GUrD5H0hMrLw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/_rbr5563ta_47_1.jpg?itok=wO-eeAvA&quot; alt=&quot;Governo destina mais R$ 75,3 milhões para atingidos por chuvas em MG&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O governo federal destinou mais R$ 75,3 milhões para o pagamento do Auxílio Reconstrução a famílias de Juiz de Fora e Ubá,&lt;/p&gt;
+&lt;p&gt;cidades mineiras afetadas pelas chuvas&lt;/p&gt;
+&lt;p&gt;nº 1.361 foi publicada em edição extra do Diário Oficial da União, nesta quarta-feira (20).&lt;/p&gt;
+&lt;p&gt;O crédito extraordinário foi aberto em favor do Ministério da Integração e do Desenvolvimento Regional, responsável pela execução do benefício. As famílias receberão o valor de R$ 7,3 mil, mediante cadastro e verificação das informações.&lt;/p&gt;
+&lt;p&gt;De acordo com a pasta, até o momento, 3.099 famílias dos municípios de Juiz de Fora e Ubá já receberam o apoio financeiro, totalizando mais de R$ 22,5 milhões pagos&lt;/p&gt;
+&lt;p&gt;. O benefício é concedido em parcela única às famílias residentes em áreas efetivamente atingidas pelo desastre nas duas cidades, com registro de dano material ou perda de bens.&lt;/p&gt;
+&lt;p&gt;São consideradas áreas atingidas aquelas parcial ou integralmente inundadas ou danificadas por enxurradas ou deslizamentos de terra&lt;/p&gt;
+&lt;p&gt;. A concessão do auxílio depende da verificação das informações encaminhadas pelas prefeituras e da autodeclaração do responsável familiar.&lt;/p&gt;
+&lt;p&gt;O último pagamento do Auxílio Reconstrução ocorreu na terça-feira (19), quando 263 famílias mineiras receberam o benefício. De acordo com o Ministério da Integração e do Desenvolvimento Regional o próximo lote já está em processamento e a confirmação dos habilitados deverá ocorrer ainda esta semana.&lt;/p&gt;
+&lt;p&gt;O cadastro das famílias que têm direito ao benefício é feitopelas prefeituras de Juiz de Fora e Ubá, e o responsável familiar faz apenas a confirmação dos dados.&lt;/p&gt;
+&lt;p&gt;Para isso, é necessário acessar a&lt;/p&gt;
+&lt;p&gt;com a conta do Gov.br. Em caso de pendência, é necessário procurar a prefeitura para corrigir as informações e solicitar novo envio do cadastro.&lt;/p&gt;
+&lt;p&gt;O Auxílio Reconstrução é pago por família e em parcela única pela Caixa Econômica Federal, por meio de conta poupança social digital, de abertura automática em nome do beneficiário&lt;/p&gt;
+&lt;p&gt;, ou outra conta em nome do beneficiário na mesma instituição financeira, sem que o banco possa realizar descontos ou compensações de dívidas anteriores sobre esse valor. Apenas um integrante da família pode receber a quantia. O beneficiário não precisa procurar a agência bancária.&lt;/p&gt;
+&lt;p&gt;Além do Auxílio Reconstrução, outras frentes de apoio à população afetada incluem a Compra Assistida do Programa Minha Casa, Minha Vida,&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/governo-destina-mais-r-753-milhoes-para-atingidos-por-chuvas-em-mg&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O governo federal destinou mais R$ 75,3 milhões para o pagamento do Auxílio Reconstrução a famílias de Juiz de Fora e Ubá,
+cidades mineiras afetadas ...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-05-21 10:26:00</wp:post_date>
+      <wp:post_date_gmt>2026-05-21 10:26:00</wp:post_date_gmt>
+      <wp:post_modified>2026-05-21 10:26:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-05-21 10:26:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/c1h3Hetp0dY2S80GUrD5H0hMrLw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/23/_rbr5563ta_47_1.jpg?itok=wO-eeAvA</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>PF combate tráfico de pessoas e trabalho análogo à escravidão no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/pf-combate-trafico-de-pessoas-e-trabalho-analogo-escravidao-no-rio</link>
-      <pubDate>Thu, 21 May 2026 13:58:20 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 16:38:50 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/pf-combate-trafico-de-pessoas-e-trabalho-analogo-escravidao-no-rio#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/pf-combate-trafico-de-pessoas-e-trabalho-analogo-escravidao-no-rio#1004</guid>
       <description>A Operação Juro Zero, deflagrada pela Polícia Federal, nesta quinta-feira (21), investiga crimes de tráfico de pessoas e de trabalho análogo à escrav...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UdVzJTYtZlQ9mX4J0Pk55De2Ps4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/15/pf_e_policia_civil_apuram_assassinato_de_filho_de_cacique_no_parana.jpg?itok=G1JHKrZo&quot; alt=&quot;PF combate tráfico de pessoas e trabalho análogo à escravidão no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Operação Juro Zero, deflagrada pela Polícia Federal, nesta quinta-feira (21), investiga crimes de tráfico de pessoas e de trabalho análogo à escravidão, envolvendo cidadãos colombianos, em municípios da região sul do Rio de Janeiro.&lt;/p&gt;
@@ -36,16 +228,16 @@
 &lt;p&gt;Policiais federais cumprem mandados de busca e apreensão, nos municípios fluminenses de Pinheiral e de Resende, ambos expedidos pela 3ª Vara Federal de São João de Meriti.&lt;/p&gt;
 &lt;p&gt;As investigações apuram também a existência de outros cidadãos colombianos em situação semelhante, “inclusive residindo em condições incompatíveis com a dignidade humana”.&lt;/p&gt;
 &lt;p&gt;A PF acrescenta que as ações objetivam reunir mais provas que ajudem “na completa identificação da organização criminosa, bem como na individualização das condutas praticadas pelos investigados”.&lt;/p&gt;
-&lt;p&gt;Operação da PF combate crimes financeiros e de lavagem de dinheiro&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Operação da PF em São Paulo prende influenciadora Deolane Bezerra&lt;/p&gt;
+&lt;p&gt;Operação investiga fraudes em licitações e desvio de dinheiro no Ceará&lt;/p&gt;
+&lt;p&gt;Repórter Nacional 18h30: Decreto regulamenta a retirada de conteúdos ilegais pelas plataformas digitais&lt;/p&gt;
 &lt;p&gt;Duas merendeiras do Amazonas ganham destaque em concurso nacional&lt;/p&gt;
+&lt;p&gt;Integrantes da flotilha de ajuda à Palestina começam a ser libertados&lt;/p&gt;
+&lt;p&gt;Jogadores iranianos solicitam vistos para EUA e Canadá antes da Copa&lt;/p&gt;
+&lt;p&gt;TSE torna inelegível e anula votos recebidos por ex-deputado do Ceará&lt;/p&gt;
 &lt;p&gt;STF forma maioria para tornar réus acusados de obstruir caso Marielle&lt;/p&gt;
-&lt;p&gt;Brasileiros com diabetes defendem uso de tecnologias no tratamento&lt;/p&gt;
-&lt;p&gt;Governo destina mais R$ 75,3 milhões para atingidos por chuvas em MG&lt;/p&gt;
-&lt;p&gt;PF combate tráfico de pessoas e trabalho análogo à escravidão no Rio&lt;/p&gt;
-&lt;p&gt;Cuba condena acusações dos Estados Unidos contra Raúl Castro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/pf-combate-trafico-de-pessoas-e-trabalho-analogo-escravidao-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Brasileiros com diabetes defendem uso de tecnologias no tratamento&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-05/pf-combate-trafico-de-pessoas-e-trabalho-analogo-escravidao-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Operação Juro Zero, deflagrada pela Polícia Federal, nesta quinta-feira (21), investiga crimes de tráfico de pessoas e de trabalho análogo à escrav...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-05-21 09:57:00</wp:post_date>
       <wp:post_date_gmt>2026-05-21 09:57:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-21 09:57:00</wp:post_modified>
@@ -71,9 +263,9 @@
     <item>
       <title>IR: como declarar planos de saúde e dependentes sem cair na malha</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/ir-como-declarar-planos-de-saude-e-dependentes-sem-cair-na-malha</link>
-      <pubDate>Thu, 21 May 2026 13:58:20 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 16:38:50 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/ir-como-declarar-planos-de-saude-e-dependentes-sem-cair-na-malha#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/ir-como-declarar-planos-de-saude-e-dependentes-sem-cair-na-malha#1005</guid>
       <description>A declaração do Imposto de Renda envolve regras complexas sobre dependentes e plano de saúde, que geram dúvidas recorrentes entre os contribuintes.
 E...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/HiBrJ5xYAVOa6ThIgHhszMC3Guk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/17/toms1438.jpg?itok=8EcNv6CA&quot; alt=&quot;IR: como declarar planos de saúde e dependentes sem cair na malha&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -94,7 +286,7 @@ E...</description>
 &lt;p&gt;Dependentes com deficiência e o limite de idade&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/ir-como-declarar-planos-de-saude-e-dependentes-sem-cair-na-malha&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A declaração do Imposto de Renda envolve regras complexas sobre dependentes e plano de saúde, que geram dúvidas recorrentes entre os contribuintes.
 E...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-05-21 09:00:00</wp:post_date>
       <wp:post_date_gmt>2026-05-21 09:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-21 09:00:00</wp:post_modified>
@@ -120,13 +312,13 @@ E...</excerpt:encoded>
     <item>
       <title>Influenciadora Deolane Bezerra é presa em ação da Polícia Civil de SP</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/influenciadora-deolane-bezerra-e-presa-em-acao-da-policia-civil-de-sp</link>
-      <pubDate>Thu, 21 May 2026 13:58:20 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 16:38:50 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/influenciadora-deolane-bezerra-e-presa-em-acao-da-policia-civil-de-sp#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/influenciadora-deolane-bezerra-e-presa-em-acao-da-policia-civil-de-sp#1006</guid>
       <description>A influenciadora digital e advogada Deolane Bezerra foi presa na manhã desta quinta-feira (21), em Barueri, região metropolitana de São Paulo. Ela fo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WVIX9wOKBKovfly2e_HBzL9K96c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/24/snapinsta.app_414434116_884820093084745_7874690421721119456_n_1080.jpg?itok=at6BeaD6&quot; alt=&quot;Influenciadora Deolane Bezerra é presa em ação da Polícia Civil de SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A influenciadora digital e advogada Deolane Bezerra foi presa na manhã desta quinta-feira (21), em Barueri, região metropolitana de São Paulo. Ela foi detida numa operação conjunta do Ministério Público de São Paulo e da Polícia Civil.&lt;/p&gt;
-&lt;p&gt;Deolane foi detida em sua casa, uma mansão de luxo que fica em um condomínio famoso.&lt;/p&gt;
+&lt;p&gt;Deolane foi detida em sua casa, uma mansãoque fica em Alphaville, bairro que concentra condomínios luxuosos.&lt;/p&gt;
 &lt;p&gt;A Operação Vérnix investiga lavagem de dinheiro da facção Primeiro Comando da Capital (PCC). Marco Herbas Camacho, o Marcola, chefe do PCC, que está preso naPenitenciária Federal de Brasília, também é alvo da operação.&lt;/p&gt;
 &lt;p&gt;A ação é resultado de uma investigação que ocorre há anos e que identificou um esquema milionário ligado à cúpula do PCC.&lt;/p&gt;
 &lt;p&gt;Os policiais civis cumprem seis prisões mandados de preventivas, além do bloqueio de valores superiores a R$ 327 milhões e apreensão de 17 veículos de luxo e quatro imóveis.&lt;/p&gt;
@@ -141,7 +333,7 @@ E...</excerpt:encoded>
 &lt;p&gt;O forte engajamento na internet levou Deolane para a TV e para o universo publicitário. Ela participou de um&lt;/p&gt;
 &lt;p&gt;e teve presença constantes em programas de TV em vários canais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/influenciadora-deolane-bezerra-e-presa-em-acao-da-policia-civil-de-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A influenciadora digital e advogada Deolane Bezerra foi presa na manhã desta quinta-feira (21), em Barueri, região metropolitana de São Paulo. Ela fo...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-05-21 08:39:00</wp:post_date>
       <wp:post_date_gmt>2026-05-21 08:39:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-21 08:39:00</wp:post_modified>
@@ -167,9 +359,9 @@ E...</excerpt:encoded>
     <item>
       <title>Natureza é aposta para reduzir efeitos extremos do clima nas cidades</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/natureza-e-aposta-para-reduzir-efeitos-extremos-do-clima-nas-cidades</link>
-      <pubDate>Thu, 21 May 2026 13:58:20 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 16:38:50 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/natureza-e-aposta-para-reduzir-efeitos-extremos-do-clima-nas-cidades#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/natureza-e-aposta-para-reduzir-efeitos-extremos-do-clima-nas-cidades#1007</guid>
       <description>© Fernando Frazão/Agência Brasil
 A Organização Internacional para as Migrações (OIM) e a Fundação Grupo Boticário de Proteção à Natureza anunciaram u...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zmfIfIOVLMN-Wgo_7tXdAxY7-50=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/30/_d6a4197-2.jpg?itok=o8Vt856y&quot; alt=&quot;Natureza é aposta para reduzir efeitos extremos do clima nas cidades&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -190,7 +382,7 @@ A Organização Internacional para as Migrações (OIM) e a Fundação Grupo Bot
 &lt;p&gt;Outra frente é o curso gratuito “Adaptação baseada em Ecossistemas em Instrumentos de Política Pública Municipal”, elaborado em parceria com o Centro de Estudos em Sustentabilidade da Fundação Getulio Vargas, a agência alemã GIZ e o Ministério do Meio Ambiente e Mudança do Clima. O treinamento é oferecido de forma virtual pela Escola Nacional de Administração Pública.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-05/natureza-e-aposta-para-reduzir-efeitos-extremos-do-clima-nas-cidades&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 A Organização Internacional para as Migrações (OIM) e a Fundação Grupo Boticário de Proteção à Natureza anunciaram u...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-05-21 08:28:00</wp:post_date>
       <wp:post_date_gmt>2026-05-21 08:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-21 08:28:00</wp:post_modified>
@@ -216,9 +408,9 @@ A Organização Internacional para as Migrações (OIM) e a Fundação Grupo Bot
     <item>
       <title>Simpósio no Rio discute futuro da mídia sonora no Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/simposio-no-rio-discute-o-futuro-da-midia-sonora-o-brasil</link>
-      <pubDate>Thu, 21 May 2026 13:58:20 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 16:38:50 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/simposio-no-rio-discute-o-futuro-da-midia-sonora-o-brasil#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/simposio-no-rio-discute-o-futuro-da-midia-sonora-o-brasil#1008</guid>
       <description>Pesquisadores, profissionais da mídia, estudantes de comunicação e representantes da radiodifusão pública brasileira se reúnem, desde essa quarta-fei...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6Ndu7aacmxsYqyOwp1w_7Z-B1t0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/21/0g0a8157.jpg?itok=qUrR5inZ&quot; alt=&quot;Simpósio no Rio discute futuro da mídia sonora no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Pesquisadores, profissionais da mídia, estudantes de comunicação e representantes da radiodifusão pública brasileira se reúnem, desde essa quarta-feira (20), no Rio, no 7º Simpósio Nacional do Rádio, para discutir o presente e o futuro da mídia sonora no país. Com o tema “&lt;/p&gt;
@@ -235,9 +427,9 @@ A Organização Internacional para as Migrações (OIM) e a Fundação Grupo Bot
 &lt;p&gt;não é apenas uma emissora. Ela é companhia, serviço, socorro e pertencimento para quem vive distante dos grandes centros”, destacou.&lt;/p&gt;
 &lt;p&gt;A radialista também ressaltou o papel afetivo da emissora ao longo das décadas.&lt;/p&gt;
 &lt;p&gt;“O rádio chega, onde muitas vezes, o Estado não chega. Ele informa, acolhe, orienta e cria vínculos.”&lt;/p&gt;
-&lt;p&gt;Durante o debate sobre os 90 anos da Rádio Nacional, Mara Régia reforçou a dimensão histórica da emissora pública.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/simposio-no-rio-discute-o-futuro-da-midia-sonora-o-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Confira a transmissão desta quarta-feira:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/simposio-no-rio-discute-o-futuro-da-midia-sonora-o-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Pesquisadores, profissionais da mídia, estudantes de comunicação e representantes da radiodifusão pública brasileira se reúnem, desde essa quarta-fei...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-05-21 08:02:00</wp:post_date>
       <wp:post_date_gmt>2026-05-21 08:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-21 08:02:00</wp:post_modified>
@@ -263,9 +455,9 @@ A Organização Internacional para as Migrações (OIM) e a Fundação Grupo Bot
     <item>
       <title>Virada Cultural: Sesc tem programação com shows, teatro e dança</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/virada-cultural-sesc-tem-programacao-com-shows-teatro-e-danca</link>
-      <pubDate>Thu, 21 May 2026 13:58:20 +0000</pubDate>
+      <pubDate>Thu, 21 May 2026 16:38:50 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/virada-cultural-sesc-tem-programacao-com-shows-teatro-e-danca#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/virada-cultural-sesc-tem-programacao-com-shows-teatro-e-danca#1009</guid>
       <description>O Serviço Social do Comércio (Sesc) participará das atividades da
 , neste fim de semana. Nos dias 23 e 24 de maio, estão programadas atrações em dive...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/RnIclm_DQ1tSguHZmIdh1K-VxyE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/20/captura_de_tela_2026-05-20_104937_copy.jpg?itok=GuS7N4CA&quot; alt=&quot;Virada Cultural: Sesc tem programação com shows, teatro e dança&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -286,7 +478,7 @@ A Organização Internacional para as Migrações (OIM) e a Fundação Grupo Bot
 &lt;p&gt;, uma intervenção itinerante que une música, dança e participação do público em um desfile festivo.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-05/virada-cultural-sesc-tem-programacao-com-shows-teatro-e-danca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Serviço Social do Comércio (Sesc) participará das atividades da
 , neste fim de semana. Nos dias 23 e 24 de maio, estão programadas atrações em dive...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-05-21 07:29:00</wp:post_date>
       <wp:post_date_gmt>2026-05-21 07:29:00</wp:post_date_gmt>
       <wp:post_modified>2026-05-21 07:29:00</wp:post_modified>
@@ -307,200 +499,6 @@ A Organização Internacional para as Migrações (OIM) e a Fundação Grupo Bot
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/RnIclm_DQ1tSguHZmIdh1K-VxyE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/20/captura_de_tela_2026-05-20_104937_copy.jpg?itok=GuS7N4CA</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Caixa paga Bolsa Família a beneficiários com NIS de final 4</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-4</link>
-      <pubDate>Thu, 21 May 2026 13:58:20 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-4#1006</guid>
-      <description>A Caixa Econômica Federal paga nesta quinta-feira (21) a parcela de maio do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de f...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1gp3VkQcrnEn3QKld5k9diQoELg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53628083405_9eff29bda1_o.jpg?itok=zLeILNBR&quot; alt=&quot;Caixa paga Bolsa Família a beneficiários com NIS de final 4&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Caixa Econômica Federal paga nesta quinta-feira (21) a parcela de maio do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 4.&lt;/p&gt;
-&lt;p&gt;O valor mínimo corresponde a R$ 600, mas com os adicionais o valor médio do benefício sobe para R$ 678,01. Segundo o Ministério do Desenvolvimento e Assistência Social, neste mês o programa de transferência de renda do governo federal alcançará 19,08milhões de famílias, com gasto de R$ 12,9 bilhões.&lt;/p&gt;
-&lt;p&gt;Além do benefício mínimo, há o pagamento dos seguintes adicionais:&lt;/p&gt;
-&lt;p&gt;Benefício Variável Familiar Nutriz - paga seis parcelas de R$ 50 a mães de bebês de até seis meses de idade para garantir a alimentação da criança&lt;/p&gt;
-&lt;p&gt;Acréscimo de R$ 50 a gestantes e nutrizes (mães que amamentam)&lt;/p&gt;
-&lt;p&gt;Adicional de R$ 150porcada criança de até 6 anos&lt;/p&gt;
-&lt;p&gt;Adicional de R$ 150 porcada criança de até 6 anos&lt;/p&gt;
-&lt;p&gt;No modelo tradicional do Bolsa Família, o pagamento ocorre nos últimos dez dias úteis de cada mês.&lt;/p&gt;
-&lt;p&gt;O beneficiário poderá consultar informações sobre as datas de pagamento, o valor do benefício e a composição das parcelas no aplicativo&lt;/p&gt;
-&lt;p&gt;, usado para acompanhar as contas poupança digitais do banco.&lt;/p&gt;
-&lt;p&gt;Os beneficiários de 217 cidades de nove estados receberam o pagamento na segunda-feira (18), independentemente do NIS.&lt;/p&gt;
-&lt;p&gt;A medida beneficiou os moradores de 124 municípios do Rio Grande do Norte, que sofrem com a seca. Também foram beneficiadas cidades nos seguintes estados: Amazonas (3), Pará (1), Paraíba (31), Paraná (16), Pernambuco (27), Rio de Janeiro (3), Roraima (6)e Sergipe (6).&lt;/p&gt;
-&lt;p&gt;Essas localidades foram afetadas por chuvas ou por estiagens ou têm povos indígenas em situação de vulnerabilidade. A lista dos municípios com pagamento antecipado está&lt;/p&gt;
-&lt;p&gt;do Ministério do Desenvolvimento e Assistência Social.&lt;/p&gt;
-&lt;p&gt;Desde 2024, os beneficiários do Bolsa Família não têm mais o desconto do Seguro Defeso. A mudança foi estabelecida pela&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/caixa-paga-bolsa-familia-beneficiarios-com-nis-de-final-4&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Caixa Econômica Federal paga nesta quinta-feira (21) a parcela de maio do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de f...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-05-21 07:02:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-21 07:02:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-21 07:02:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-21 07:02:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/1gp3VkQcrnEn3QKld5k9diQoELg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/02/53628083405_9eff29bda1_o.jpg?itok=zLeILNBR</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Libertadores: Pedro decide e Flamengo está nas oitavas de final</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/libertadores-pedro-decide-e-flamengo-esta-nas-oitavas-de-final</link>
-      <pubDate>Thu, 21 May 2026 13:58:20 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/libertadores-pedro-decide-e-flamengo-esta-nas-oitavas-de-final#1007</guid>
-      <description>© REUTERS/Ricardo Moraes/Proibida reprodução
-O atacante Pedro marcou o gol davitória de 1 a 0 do Flamengo sobre o Estudiantes (Argentina), na noite d...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/C3MALpElvteLgDldmcOA5Anrx9Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/20/2026-05-21t020519z_1177434821_up1em5l05st2m_rtrmadp_3_soccer-libertadores-fla-esu.jpg?itok=v_e9A1Rs&quot; alt=&quot;Libertadores: Pedro decide e Flamengo está nas oitavas de final&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Ricardo Moraes/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;O atacante Pedro marcou o gol davitória de 1 a 0 do Flamengo sobre o Estudiantes (Argentina), na noite desta quarta-feira (20) no estádio do Maracanã.Com este resultado o time da Gávease garantiu, de forma antecipada, nas oitavas de final da Copa Libertadores da América. A&lt;/p&gt;
-&lt;p&gt;✔️ Vitória com gostinho de classificação para o&lt;/p&gt;
-&lt;p&gt;— CONMEBOL Libertadores (@LibertadoresBR)&lt;/p&gt;
-&lt;p&gt;Com os três pontos conquistados em casa, o Rubro-Negro da Gávea chegou ao total de dez, não podendo mais ser ultrapassado pelos argentinos, que ocupam a terceira posição do Grupo A com seis pontos. O detalhe é que o Flamengo ainda pode receber mais três pontos, referentes ao jogo diante do Independiente Medellín (Colômbia), que foi cancelado por causa de atos de vandalismo de torcedores da equipe colombiana.&lt;/p&gt;
-&lt;p&gt;A partida disputada nesta quarta no estádio do Maracanã foi marcada pelo equilíbrio. Apesar do apoio de sua apaixonada torcida, o time da Gávea encontrou muitas dificuldades de criar oportunidades de marcar diante de um Estudiantes que se arriscava muito aomarcar de forma adiantada.&lt;/p&gt;
-&lt;p&gt;🏆 O tetracampeão está nas Oitavas de 2026! 🔴⚫&lt;/p&gt;
-&lt;p&gt;— CONMEBOL Libertadores (@LibertadoresBR)&lt;/p&gt;
-&lt;p&gt;Com isso, as melhores oportunidades da equipe comandada pelo técnico português Leonardo surgiram apenas após o intervalo. E foi no segundo tempo, aos 19 minutos, que Pedro marcou o gol da vitória. O centroavante do Rubro-Negro aproveitou rebote dado pelo goleiro Muslera para dominar com a perna direita e chutar com a esquerda para o fundo do gol.&lt;/p&gt;
-&lt;p&gt;A partir daí o Flamengo melhorou ainda mais, e ficou muito perto de ampliar. Mas o placar permaneceu sem novas alterações até o apito final.&lt;/p&gt;
-&lt;p&gt;Quem ainda busca a presença nas oitavas de final da Libertadores é o Palmeiras, que, jogando em sua casa, foi superado pelo Cerro Porteño (Paraguai) pelo placar de 1 a 0. O único gol da partida foi marcado pelo atacante argentino Pablo Vegetti.&lt;/p&gt;
-&lt;p&gt;— CONMEBOL Libertadores (@LibertadoresBR)&lt;/p&gt;
-&lt;p&gt;Com o revés em casa o Verdão ocupa a vice-liderança do Grupo F com oito pontos. A liderança é dos paraguaios, que já conquistaram dez pontos.&lt;/p&gt;
-&lt;p&gt;Brasil perde quase R$ 100 bi devido ao preconceito com pessoas LGBT+&lt;/p&gt;
-&lt;p&gt;Repórter Nacional 7h30: Operação da PF em São Paulo prende influenciadora Deolane Bezerra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/libertadores-pedro-decide-e-flamengo-esta-nas-oitavas-de-final&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Ricardo Moraes/Proibida reprodução
-O atacante Pedro marcou o gol davitória de 1 a 0 do Flamengo sobre o Estudiantes (Argentina), na noite d...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-05-21 00:07:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-21 00:07:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-21 00:07:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-21 00:07:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/C3MALpElvteLgDldmcOA5Anrx9Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/20/2026-05-21t020519z_1177434821_up1em5l05st2m_rtrmadp_3_soccer-libertadores-fla-esu.jpg?itok=v_e9A1Rs</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Formação de professores a distância mostra desempenho 53,1% inferior</title>
-      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/formacao-de-professores-distancia-mostra-desempenho-531-inferior</link>
-      <pubDate>Thu, 21 May 2026 13:58:20 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/formacao-de-professores-distancia-mostra-desempenho-531-inferior#1008</guid>
-      <description>© Marcelo Camargo/Agência Brasil/Arquivo
-Dados divulgados pelo Ministério da Educação (MEC) nesta quarta-feira (20) mostram que53,1% dos concluintes ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WOEuQnR-B03MKMicb8pYf73Z79w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/fachada-ministerio_mcamgo_abr_100420231818-32.jpg?itok=6j4TfG7X&quot; alt=&quot;Formação de professores a distância mostra desempenho 53,1% inferior&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil/Arquivo&lt;/p&gt;
-&lt;p&gt;Dados divulgados pelo Ministério da Educação (MEC) nesta quarta-feira (20) mostram que53,1% dos concluintes de cursos de licenciaturas na modalidade de educação adistância (EaD), em 2025, tiveram desempenho insuficiente no Exame Nacional de Desempenho dos Estudantes (Enade) das Licenciaturas do ano passado.&lt;/p&gt;
-&lt;p&gt;Entre todos os formandos do ano passado, 40% estudaram em cursos presenciais e 60%, nos cursosde EAD.&lt;/p&gt;
-&lt;p&gt;O levantamento aponta que os concluintes decursos presenciais apresentaram desempenho significativamente superior ao observado na educação adistância. Segundo os dados oficiais,&lt;/p&gt;
-&lt;p&gt;73,9% deles foram avaliados como proficientes, ou seja, atingiram o nível considerado adequado de conhecimento ou habilidade naárea.&lt;/p&gt;
-&lt;p&gt;Em coletiva na sede do MEC, em Brasília, o ministro da Educação, Leonardo Barchini, destacou medidas regulatórias recentes adotadas pela pasta, entre elasa de que todos os cursos de licenciatura EaD atuais serão extintosaté maio de 2027.&lt;/p&gt;
-&lt;p&gt;“Aqueles alunos que estavam matriculados nesses cursos [100% EaD] não poderão migrar para outros. Mastodos os cursos estão migrando para uma situação de semi-presencialidade ou presencialidade.”&lt;/p&gt;
-&lt;p&gt;é um indicador de qualidade do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep),que avalia os cursos de graduação com base no desempenho dos alunosconcluintes no&lt;/p&gt;
-&lt;p&gt;Exame Nacional de Desempenho dos Estudantes (Enade) das Licenciaturas&lt;/p&gt;
-&lt;p&gt;. Ele é expresso em uma escala contínua e em faixas de 1 a 5&lt;/p&gt;
-&lt;p&gt;, onde 5 é a nota máxima de excelência.&lt;/p&gt;
-&lt;p&gt;mostram queno totalforam avaliados1.127 cursos EaD, sendo 3.420 presenciais e outros 401 com menos de dois alunos e, por isso, estes últimos não tiveram conceito Enade.&lt;/p&gt;
-&lt;p&gt;Entre os 4.547 cursos formação de professores efetivamente avaliados no Enade das Licenciaturas, 56,8% alcançaram desempenho demenos 60% na prova, nos conceitos 3, 4 e 5, sendo que aproximadamente 31,9% estão classificados com notas mais altas (4 e 5).&lt;/p&gt;
-&lt;p&gt;Por outro lado, pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), 1.730 cursos (35% dos 4.547 cursos) tiveram classificação 1 e 2. O rendimento corresponde a menos de 60% de estudantes proficientes.&lt;/p&gt;
-&lt;p&gt;Entre os cursos com conceito Enade, quando considerada a modalidade de ensino, dos 1.730 cursos das faixas mais baixas do indicador de qualidade, 682 cursos são adistância e 1.048 presenciais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/formacao-de-professores-distancia-mostra-desempenho-531-inferior&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil/Arquivo
-Dados divulgados pelo Ministério da Educação (MEC) nesta quarta-feira (20) mostram que53,1% dos concluintes ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-05-20 21:05:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-20 21:05:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-20 21:05:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-20 21:05:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/WOEuQnR-B03MKMicb8pYf73Z79w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/fachada-ministerio_mcamgo_abr_100420231818-32.jpg?itok=6j4TfG7X</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>CMN regulamenta linha emergencial para auxílio a companhias aéreas</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/cmn-regulamenta-linha-emergencial-para-auxilio-companhias-aereas</link>
-      <pubDate>Thu, 21 May 2026 13:58:20 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/cmn-regulamenta-linha-emergencial-para-auxilio-companhias-aereas#1009</guid>
-      <description>Uma das principais medidas de socorro ao setor aéreo anunciadas nas últimas semanas sairá do papel.
-O Conselho Monetário Nacional (CMN) aprovou nesta...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/lDN-cKKOQSWgP9rP2RLMnsWOE4w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_aeroporto_internacional_de_brasilia1912223003.jpg?itok=-yrpLmWa&quot; alt=&quot;CMN regulamenta linha emergencial para auxílio a companhias aéreas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Uma das principais medidas de socorro ao setor aéreo anunciadas nas últimas semanas sairá do papel.&lt;/p&gt;
-&lt;p&gt;O Conselho Monetário Nacional (CMN) aprovou nesta quarta-feira (20) resolução que regulamenta uma nova linha emergencial de crédito para empresas que operam voos domésticos regulares no Brasil.&lt;/p&gt;
-&lt;p&gt;A medida prevê até R$ 1 bilhão em financiamentos para reforçar o capital de giro das companhias diante da alta recente dos custos do setor, especialmente do querosene de aviação.&lt;/p&gt;
-&lt;p&gt;A nova linha foi autorizada pela&lt;/p&gt;
-&lt;p&gt;, publicada em abril deste ano, e agora passa a ter regras definidas para funcionamento.&lt;/p&gt;
-&lt;p&gt;Segundo o governo, o objetivo é garantir liquidez imediata às empresas e evitar impactos sobre a continuidade do transporte aéreo doméstico.&lt;/p&gt;
-&lt;p&gt;Os recursos poderão ser usados exclusivamente para capital de giro, ou seja, despesas operacionais do dia a dia das companhias aéreas, como pagamento de fornecedores, combustível, manutenção e folha salarial.&lt;/p&gt;
-&lt;p&gt;Poderão acessar o crédito apenas empresas que prestem serviços de transporte aéreo doméstico regular e sejam habilitadas pelo Ministério de Portos e Aeroportos.&lt;/p&gt;
-&lt;p&gt;Cada empresa poderá contratar um valor equivalente a até 1,6% do faturamento bruto anual registrado em 2025.&lt;/p&gt;
-&lt;p&gt;Mesmo assim, haverá um teto máximo de R$ 330 milhões por beneficiário.&lt;/p&gt;
-&lt;p&gt;Com o limite individual, o governo busca distribuir os recursos entre diferentes empresas do setor e evitar concentração excessiva da linha de financiamento.&lt;/p&gt;
-&lt;p&gt;Os financiamentos terão prazo de até seis meses para pagamento. O modelo aprovado prevê amortização em parcela única no vencimento final do contrato, ou seja, a empresa receberá o dinheiro agora e quitará todo o valor ao fim do prazo estabelecido.&lt;/p&gt;
-&lt;p&gt;A liberação dos recursos deverá ocorrer até 28 de junho de 2026.&lt;/p&gt;
-&lt;p&gt;Os encargos financeiros serão equivalentes a 100% da taxa média do Certificado de Depósito Interbancário (CDI), indicador que acompanha os juros praticados entre instituições financeiras.&lt;/p&gt;
-&lt;p&gt;Em caso de atraso no pagamento, haverá:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/cmn-regulamenta-linha-emergencial-para-auxilio-companhias-aereas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Uma das principais medidas de socorro ao setor aéreo anunciadas nas últimas semanas sairá do papel.
-O Conselho Monetário Nacional (CMN) aprovou nesta...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-05-20 20:50:00</wp:post_date>
-      <wp:post_date_gmt>2026-05-20 20:50:00</wp:post_date_gmt>
-      <wp:post_modified>2026-05-20 20:50:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-05-20 20:50:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/lDN-cKKOQSWgP9rP2RLMnsWOE4w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_aeroporto_internacional_de_brasilia1912223003.jpg?itok=-yrpLmWa</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
