@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 25/05/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 10:14 UTC</description>
-<lastBuildDate>Mon, 25 May 2026 10:14:25 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Mon, 25 May 2026 14:10:16 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Maio Amarelo: curso de pilotagem segura é estratégia para reduzir mortes de motociclistas no trânsito</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/maio-amarelo-curso-de-pilotagem-segura-e-estrategia-para-reduzir-mortes-de-motociclistas-no-transito</link>
+<guid isPermaLink="false">fortaleza-20260525-afbc80d5e184</guid>
+<pubDate>Mon, 25 May 2026 10:27:00 +0000</pubDate>
+<description>Maio Amarelo: curso de pilotagem segura é estratégia para reduzir mortes de motociclistas no trânsito - Segunda, 25 Maio 2026 10:27</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/Transito/cursopilotagem.jpeg" alt="Maio Amarelo: curso de pilotagem segura é estratégia para reduzir mortes de motociclistas no trânsit" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>Historicamente as principais vítimas fatais no trânsito de Fortaleza, os motociclistas podem participar gratuitamente de uma formação voltada para reforçar as habilidades de condução. A Autarquia Municipal de Trânsito e Cidadania (AMC) tem intensificado a realização do curso de pilotagem segura para este público durante a campanha do Maio Amarelo. A próxima turma já formada será realizada nesta terça-feira (26/05).</p>
+<p>A capacitação prepara os condutores de motocicletas, por meio de atividades teóricas e práticas, para lidar com situações adversas no trânsito, além de promover a conscientização sobre atitudes responsáveis nos deslocamentos, baseadas no respeito às normas de circulação.</p>
+<p>"Seja para a própria locomoção ou para quem utiliza a motocicleta como instrumento de trabalho, buscamos sensibilizar esses condutores sobre os desafios que o próprio veículo impõe. O motociclista está mais exposto e, consequentemente, mais vulnerável no trânsito. Por isso, atitudes responsáveis na condução e uso dos equipamentos de segurança podem fazer toda a diferença na preservação de vidas”, reforça Leonardo Leite, gerente de Educação para o Trânsito da AMC.</p>
+<p>Na etapa teórica, são abordados temas como direção defensiva, uso correto dos equipamentos de segurança e legislação de trânsito.<br/>Já na parte prática, os participantes realizam exercícios em um circuito montado na pista de treinamento da AMC, com foco em técnicas de frenagem, dicas de postura, condução segura e controle de pilotagem.</p>
+<p><strong>Inscrições gratuitas</strong></p>
+<p>Motociclistas interessados na formação gratuita, realizada de forma permanente, podem se inscrever pelo app AMC Trânsito ou pelo <a href="https://amctransito.com.br/">site da AMC</a>. As inscrições são recebidas pela Gerência de Educação para o Trânsito da AMC, responsável por agendar a capacitação, que tem como instrutores agentes de trânsito qualificados. As turmas têm até 15 participantes e são formadas conforme demanda.</p>
+<p><strong>Serviço</strong><br/>Curso de Pilotagem Segura para Motociclistas<br/>Data: terça-feira (26/05)<br/>Horário: 14h às 16h30<br/>Local: sede da AMC (Av. Desembargador Gonzaga, 1630 – Cidade dos Funcionários)<br/>Inscrições para novas turmas: app AMC Trânsito ou<a href="https://amctransito.com.br/"> site da AMC</a><br/><br/></p>
+<p> </p>
+<p> </p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/maio-amarelo-curso-de-pilotagem-segura-e-estrategia-para-reduzir-mortes-de-motociclistas-no-transito" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/Transito/cursopilotagem.jpeg" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/Transito/cursopilotagem.jpeg" type="image/jpeg" medium="image">
+<media:title>Maio Amarelo: curso de pilotagem segura é estratégia para reduzir mortes de motociclistas no trânsit</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
