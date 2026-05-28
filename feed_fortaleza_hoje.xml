@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 28/05/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 08:03 UTC</description>
-<lastBuildDate>Thu, 28 May 2026 08:03:59 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Thu, 28 May 2026 12:30:18 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Fortaleza realiza mutirão de saúde bucal para mais de 5 mil estudantes da rede pública de ensino</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/fortaleza-realiza-mutirao-de-saude-bucal-para-mais-de-5-mil-estudantes-da-rede-municipal</link>
+<guid isPermaLink="false">fortaleza-20260528-5a30d7bc379c</guid>
+<pubDate>Thu, 28 May 2026 08:59:00 +0000</pubDate>
+<description>Fortaleza realiza mutirão de saúde bucal para mais de 5 mil estudantes da rede pública de ensino - Quinta, 28 Maio 2026 08:59</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/SA%C3%9ADE.png" alt="Fortaleza realiza mutirão de saúde bucal para mais de 5 mil estudantes da rede pública de ensino" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Prefeitura de Fortaleza, por meio da Secretaria Municipal da Saúde, realiza nesta sexta-feira (29/05), o Dia B da Saúde Bucal, mobilização voltada à promoção da saúde bucal de estudantes da rede pública de ensino.</p>
+<p>A ação acontecerá em 86 escolas públicas da Capital, com a participação de 89 equipes de Saúde Bucal da Atenção Primária. A expectativa é atender cerca de 5.156 estudantes, contemplando aproximadamente 154 turmas ao longo do dia.</p>
+<p>Durante o mutirão, crianças e adolescentes terão acesso a procedimentos preventivos e educativos, como orientação em higiene bucal, escovação supervisionada, aplicação tópica de flúor e o Tratamento Restaurador Atraumático (ART), técnica utilizada no tratamento da cárie dentária de forma minimamente invasiva.</p>
+<p>A iniciativa integra a mobilização nacional promovida pelo Ministério da Saúde, dentro da Política Nacional de Saúde Bucal – Brasil Sorridente, e busca fortalecer ações de prevenção, promoção da saúde e ampliação do acesso ao cuidado odontológico entre o público infantojuvenil.</p>
+<p>A secretária municipal da Saúde, Riane Azevedo, destaca que a ação reforça o compromisso da gestão com o cuidado integral dos estudantes da rede pública.<br/><br/>“Levar os serviços de saúde para dentro das escolas é uma estratégia importante para ampliar o acesso ao cuidado e fortalecer a prevenção desde a infância. A saúde bucal influencia diretamente na qualidade de vida, no bem-estar e até no desempenho escolar das crianças e adolescentes”, afirma.</p>
+<p>Um dos principais procedimentos realizados durante a mobilização será o Tratamento Restaurador Atraumático (ART), técnica conservadora que auxilia no controle da cárie dentária sem a necessidade de equipamentos odontológicos complexos.</p>
+<p>O método contribui para um atendimento mais confortável, especialmente para o público infantil, além de ajudar na preservação da estrutura dentária.</p>
+<p>A mobilização também contará com o apoio das escolas, profissionais da Atenção Primária e Agentes Comunitários de Saúde (ACS), fortalecendo a integração entre saúde e educação nos territórios.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/fortaleza-realiza-mutirao-de-saude-bucal-para-mais-de-5-mil-estudantes-da-rede-municipal" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/SA%C3%9ADE.png" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/SA%C3%9ADE.png" type="image/jpeg" medium="image">
+<media:title>Fortaleza realiza mutirão de saúde bucal para mais de 5 mil estudantes da rede pública de ensino</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
