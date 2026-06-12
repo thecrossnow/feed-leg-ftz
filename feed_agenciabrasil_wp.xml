@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Fri, 12 Jun 2026 11:37:57 +0000</pubDate>
+    <pubDate>Fri, 12 Jun 2026 14:40:53 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,400 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Inflação de maio fica em 0,58%, influenciada por preço dos alimentos</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/inflacao-de-maio-fica-em-058-influenciada-por-preco-dos-alimentos</link>
+      <pubDate>Fri, 12 Jun 2026 14:40:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/inflacao-de-maio-fica-em-058-influenciada-por-preco-dos-alimentos#1000</guid>
+      <description>© REUTERS/Sergio Moraes/Proibida reprodução
+O preço dos alimentos pressionou o bolso dos brasileiros em maio e representou metade da
+, que variou 0,5...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YDsGZUG3tlufbE2V6TggMmrKEPU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2022-05-24t121313z_1_lynxnpei4n0kb_rtroptp_4_health-coronavirus-brazil.jpg?itok=bAiHHb3W&quot; alt=&quot;Inflação de maio fica em 0,58%, influenciada por preço dos alimentos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS/Sergio Moraes/Proibida reprodução&lt;/p&gt;
+&lt;p&gt;O preço dos alimentos pressionou o bolso dos brasileiros em maio e representou metade da&lt;/p&gt;
+&lt;p&gt;, que variou 0,58%, no mês passado.&lt;/p&gt;
+&lt;p&gt;Índice Nacional de Preços ao Consumidor Amplo (IPCA)&lt;/p&gt;
+&lt;p&gt;perdeu força em relação aos dois meses anteriores. Entretanto, fez com que o acumulado de 12 meses chegasse a 4,72%, saindo do limite de tolerância estipulado pelo governo.&lt;/p&gt;
+&lt;p&gt;Os dados foram divulgados nesta sexta-feira (12) pelo&lt;/p&gt;
+&lt;p&gt;Instituto Brasileiro de Geografia e Estatística (IBGE)&lt;/p&gt;
+&lt;p&gt;A meta de inflação estipulada pelo&lt;/p&gt;
+&lt;p&gt;Conselho Monetário Nacional (CMN)&lt;/p&gt;
+&lt;p&gt;é de 3%, com tolerância de 1,5 ponto percentual (p.p) para mais ou para menos, ou seja, um intervalo de 1,5% a 4,5%.&lt;/p&gt;
+&lt;p&gt;Desde o início de 2025, o período de avaliação da meta é referente aos 12 meses imediatamente passados e não apenas o alcançado no fim do ano (dezembro). O teto é descumpridose a inflação estourar o intervalo de tolerância por seis meses seguidos.&lt;/p&gt;
+&lt;p&gt;A última vez que o acumulado de 12 meses ficou fora do limite havia sido em outubro de 2025, quando marcou 4,68%.&lt;/p&gt;
+&lt;p&gt;Veja o comportamento da inflação mensal ao longo de 2026:&lt;/p&gt;
+&lt;p&gt;O IPCA de maio veio acima da estimativa do mercado.&lt;/p&gt;
+&lt;p&gt;da última segunda-feira (8), sondagem do&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/inflacao-de-maio-fica-em-058-influenciada-por-preco-dos-alimentos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS/Sergio Moraes/Proibida reprodução
+O preço dos alimentos pressionou o bolso dos brasileiros em maio e representou metade da
+, que variou 0,5...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-06-12 09:59:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-12 09:59:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-12 09:59:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-12 09:59:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/YDsGZUG3tlufbE2V6TggMmrKEPU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2022-05-24t121313z_1_lynxnpei4n0kb_rtroptp_4_health-coronavirus-brazil.jpg?itok=bAiHHb3W</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Trabalhadores denunciam contaminação com material radioativo no Ipen</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/trabalhadores-denunciam-contaminacao-com-material-radioativo-no-ipen</link>
+      <pubDate>Fri, 12 Jun 2026 14:40:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/trabalhadores-denunciam-contaminacao-com-material-radioativo-no-ipen#1001</guid>
+      <description>A Autoridade Nacional de Segurança Nuclear (ANSN) solicitou esclarecimentos após denúncia sobre possível contaminação por material radioativo no Inst...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dxbHNXB0Ku8fejoT85dgwbCZCPI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/12/image.jpg?itok=Lu2zjPhw&quot; alt=&quot;Trabalhadores denunciam contaminação com material radioativo no Ipen&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Autoridade Nacional de Segurança Nuclear (ANSN) solicitou esclarecimentos após denúncia sobre possível contaminação por material radioativo no Instituto de Pesquisas Energéticas e Nucleares (Ipen), localizado no campus da Universidade de São Paulo (USP), zona oeste da capital.&lt;/p&gt;
+&lt;p&gt;“Nesses casos, a ANSN adota procedimento regular de verificação técnica, solicitando os registros e informações necessários à adequada avaliação da situação reportada”, divulgou a autoridade nessa quinta-feira (11).&lt;/p&gt;
+&lt;p&gt;Os relatos de contaminação com material radioativo nas dependências do Ipen levaram o Sindicato dos Trabalhadores no Serviço Público Federal no Estado de São Paulo (Sindsef-SP) e a Associação dos Servidores do Ipen (Assipen) a solicitarposicionamento oficial e providências em relação à ocorrência.&lt;/p&gt;
+&lt;p&gt;O Ipen é uma autarquia vinculada à Secretaria de Ciência, Tecnologia e Inovação (SCTI) do Estado de São Paulo e gerida técnica e administrativamente pela Comissão Nacional de Energia Nuclear (CNEN), órgão do Ministério da Ciência, Tecnologia e Inovação (MCTI). Segundo as entidades de trabalhadores, a solicitação foi enviada às direções do Ipen e da CNEN.&lt;/p&gt;
+&lt;p&gt;Em nota, a Comissão Nacional de Energia Nuclear (CNEN) confirmou que o incidente consta em Relatório de Ocorrência Interna (ROI) nº 04/2026, de 29 de maio de 2026. O relatório segue para análise da Autoridade Nacional de Segurança Nuclear (ANSN). “O documento foi elaborado por profissionais habilitados em proteção radiológica, que analisaram detalhadamente o episódio envolvendo a presença de traços de tecnécio-99 durante a retirada de sensores biológicos de uma autoclave utilizada no processo produtivo do radiofármaco. Além disso, aponta as medições realizadas, os procedimentos adotados e os resultados obtidos”, informou a comissão.&lt;/p&gt;
+&lt;p&gt;Segundo a CNEN, o relatório descreve que o incidente envolveu dois trabalhadores - Indivíduos Ocupacionalmente Expostos (IOEs) — os quais foram submetidos a exames in vivo (Contador de Corpo Inteiro). “As contagens detectadas foram baixas e demonstraram que não houve contaminação interna. A contaminação ficou restrita à área controlada, do Centro de Radiofarmácia do Instituto”, diz a nota.&lt;/p&gt;
+&lt;p&gt;Informações divulgadas pelo Sindsef-SP dão conta de que a situação teria exigido procedimentos emergenciais de descontaminação radiológica, retenção de roupas utilizadas pelos trabalhadores envolvidos, inclusive terceirizados, e atuação da equipe de Proteção Radiológica para controle da situação.&lt;/p&gt;
+&lt;p&gt;“Consta tambémque parte dos procedimentos de descontaminação teria ocorrido em locais não destinados especificamente para esse tipo de atendimento, o que levanta preocupações sobre a adequação da infraestrutura disponível e o cumprimento dos protocolos de segurança exigidos para atividades que envolvem materiais radioativos”, diz nota do sindicato.&lt;/p&gt;
+&lt;p&gt;Diante da potencial gravidade do caso, a entidade solicita a divulgação de informações oficiais sobre a ocorrência, incluindo o material radioativo envolvido, o número de trabalhadores potencialmente atingidos, os níveis de contaminação detectados, os riscos à saúdee as medidas adotadas pela administração para contenção da ocorrência.&lt;/p&gt;
+&lt;p&gt;“Este não é, infelizmente, um caso isolado. Diversos outros casos e eventos, não diretamente ligados à contaminação por material radioativo, vêm ocorrendo por conta dos cortes no orçamento, da redução do quadro de pessoal e também de deficiências de gestão”, diz a entidade, ao lembrar de problemas ocorridos no Reator IEA-R1, como o incêndio da Sala de Controle, em março deste ano.&lt;/p&gt;
+&lt;p&gt;Os representantes dos trabalhadores ressaltam que já vinham denunciando o desmonte e sucateamento do Ipen, além de cobrar investimento em infraestrutura, concurso, contratação de servidorese a definição de uma verdadeira e soberana estratégia para o Programa Nuclear Brasileiro.&lt;/p&gt;
+&lt;p&gt;“O que vemos, ao contrário, é que os últimos governos, há mais de 15 anos, vêm, paulatina e continuamente, impondo a ideologia do neoliberalismo no Brasil. A política do ‘arcabouço fiscal’ é só o coroamento desse processo de desmonte do Estado”, acrescenta o Sindsef-SP.&lt;/p&gt;
+&lt;p&gt;Outro agravante, ainda segundo o sindicato, é que os servidores que trabalham com materiais ou substâncias radioativas estão com os seus exames médicos específicos atrasados em mais de um ano.&lt;/p&gt;
+&lt;p&gt;A USP informou, em nota, que apesar de estar localizado na Cidade Universitária, o Ipen é uma autarquia vinculada à Secretaria de Ciência, Tecnologia e Inovação (SCTI) de São Paulo e gerida técnica e administrativamente pela Comissão Nacional de Energia Nuclear (CNEN).&lt;/p&gt;
+&lt;p&gt;Lula anuncia ações de regularização fundiária para quilombolas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/trabalhadores-denunciam-contaminacao-com-material-radioativo-no-ipen&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Autoridade Nacional de Segurança Nuclear (ANSN) solicitou esclarecimentos após denúncia sobre possível contaminação por material radioativo no Inst...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-06-12 09:40:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-12 09:40:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-12 09:40:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-12 09:40:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/dxbHNXB0Ku8fejoT85dgwbCZCPI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/12/image.jpg?itok=Lu2zjPhw</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Ao negar extradição de Zambelli, Justiça italiana cita Moraes</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/ao-negar-extradicao-de-zambelli-justica-italiana-cita-moraes</link>
+      <pubDate>Fri, 12 Jun 2026 14:40:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/ao-negar-extradicao-de-zambelli-justica-italiana-cita-moraes#1002</guid>
+      <description>A Corte de Cassação de Roma, instância máxima de apelação da Justiça italiana, publicou a íntegra da decisão em que negou a extradição ao Brasil da e...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/lg3xBQbztG7c7kFLkQrqk4HIhe4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/23/lula1051-8.jpg?itok=0jRAEj6_&quot; alt=&quot;Ao negar extradição de Zambelli, Justiça italiana cita Moraes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Corte de Cassação de Roma, instância máxima de apelação da Justiça italiana, publicou a íntegra da decisão em que negou a extradição ao Brasil da ex-deputada Carla Zambelli, condenada a 10 anos de prisão pelo Supremo Tribunal Federal (STF).&lt;/p&gt;
+&lt;p&gt;A decisão italiana diz respeito ao pedido de extradição feito pelo Brasil relativo ao caso de invasão aos sistemas eletrônicos do Conselho Nacional de Justiça (CNJ), crime pelo qual foi considerada culpada pela Primeira Turma do Supremo, no ano passado.&lt;/p&gt;
+&lt;p&gt;Para a Justiça italiana, há “diversos elementos” que trazem dúvida sobre a imparcialidade do ministro Alexandre de Moraes, relator do caso no Supremo.&lt;/p&gt;
+&lt;p&gt;Isso porque ele ocupou diferentes papéis ao longo do processo, sendo, além de juiz, o prejudicado pelo ato considerado criminoso.&lt;/p&gt;
+&lt;p&gt;A decisão italiana afirma haver “insuficiência e ilogicidade da fundamentação em relaçãoao acúmulo das funções de vítima, juiz de primeira instância, juiz de segunda instância e juiz da execuçãona pessoa de M.A.D.M. [Ministro Alexandre de Moraes]”.&lt;/p&gt;
+&lt;p&gt;A Corte de Cassação concluiu que Moraes atuou, nesse caso específico, “em violação ao princípio da imparcialidade e da independência do juiz”.&lt;/p&gt;
+&lt;p&gt;Pouco antes da condenação se tornar definitiva, Zambelli fugiu, em julho do ano passado, para os Estados Unidos e em seguida para a Itália, país do qual possui cidadania.&lt;/p&gt;
+&lt;p&gt;Ela foi presa no país europeu para aguardar o julgamento&lt;/p&gt;
+&lt;p&gt;do pedido de extradição feito pelo Brasil, mas acabou solta em maio deste ano, depois da decisão que rejeitou o procedimento.&lt;/p&gt;
+&lt;p&gt;Há ainda, contudo, um segundo pedido de extradição em tramitação na Justiça italiana, ao aguardo de uma decisão da Corte de Cassação italiana.&lt;/p&gt;
+&lt;p&gt;Esse caso diz respeito a uma condenação da ex-deputada por porte ilegal de arma de fogo e constrangimento ilegal no episódio em que ela sacou um revólver e perseguiu um jornalista pelas ruas de São Paulo, em 2022.&lt;/p&gt;
+&lt;p&gt;Acionados, o Supremo Tribunal Federal ou o gabinete do ministro Alexandre de Moraes ainda não se manifestaram sobre a decisão da Justiça italiana.&lt;/p&gt;
+&lt;p&gt;Lula anuncia ações de regularização fundiária para quilombolas&lt;/p&gt;
+&lt;p&gt;Rádio Animada apresenta Adriana Partimpim&lt;/p&gt;
+&lt;p&gt;El Niño começa com chance de alta intensidade e eventos extremos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/ao-negar-extradicao-de-zambelli-justica-italiana-cita-moraes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Corte de Cassação de Roma, instância máxima de apelação da Justiça italiana, publicou a íntegra da decisão em que negou a extradição ao Brasil da e...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-06-12 09:31:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-12 09:31:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-12 09:31:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-12 09:31:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/lg3xBQbztG7c7kFLkQrqk4HIhe4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/23/lula1051-8.jpg?itok=0jRAEj6_</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Projeto de turismo em favelas do Rio prepara rota especial para a Copa</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/projeto-de-turismo-em-favelas-do-rio-prepara-rota-especial-para-copa</link>
+      <pubDate>Fri, 12 Jun 2026 14:40:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/projeto-de-turismo-em-favelas-do-rio-prepara-rota-especial-para-copa#1003</guid>
+      <description>© Fernando Frazão/Agência Brasil
+O clima de Copa do Mundo inspirou o projeto social Na Favela Turismo a criar uma rota temática que levará os visitan...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uRvm83df-SvkmRHJr3zPELKpOOc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1091141-ferfraz_abr_18092017__82t1373.jpg?itok=a4h354vf&quot; alt=&quot;Projeto de turismo em favelas do Rio prepara rota especial para a Copa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O clima de Copa do Mundo inspirou o projeto social Na Favela Turismo a criar uma rota temática que levará os visitantes da Rocinha e do Vidigal, no Rio de Janeiro, a lugares das comunidades onde a bola balança a rede.&lt;/p&gt;
+&lt;p&gt;Ao fim do passeio, os turistas ainda vão poder assistir aos jogos do Brasil na comunidade&lt;/p&gt;
+&lt;p&gt;A iniciativa, chamada de Copa na Favela, começa no próximo sábado (13) e é do empreendedor social Renan Monteiro. O objetivo é promover integração social e geração de renda a partir do turismo.&lt;/p&gt;
+&lt;p&gt;O projeto já chegou a receber mais de 40 mil visitantes em um mês e espera ter seu melhor resultado em agosto, quando o Hemisfério Norte estará em férias de verão.&lt;/p&gt;
+&lt;p&gt;“Dentro dessa rota, o turista que comprar o passeio vai fazer um tour pelas comunidades com um guia local, visitar os pontos esportivos, as quadras de futebol da Rocinha e do Vidigal, e assistirá também uma apresentação cultural do projeto Acorda Capoeira”, disse Renan Monteiro à&lt;/p&gt;
+&lt;p&gt;os turistas terão aula de “altinha”, lazer típico do Rio de Janeiro e&lt;/p&gt;
+&lt;p&gt;surgido nas décadas de 1950 e 1960&lt;/p&gt;
+&lt;p&gt;. Comum nas praias da cidade, ojogo coletivo consiste em manter a bola no ar sem usar as mãos, utilizando apenas partes do corpo, como pés, pernas, peito, cabeça e ombro.&lt;/p&gt;
+&lt;p&gt;Quem quiser, poderá participar ainda de uma “pelada” no Castelinho, na localidade de Paula Brito, na Rocinha. Na partida de futebol, os visitantes terão a oportunidade de confraternizar e tirar fotos com Josiel Dalto dos Santos, morador da comunidade e considerado sósia do jogador Vini Jr, da seleção brasileira.&lt;/p&gt;
+&lt;p&gt;No final do passeio, haverá um evento no Mirante da Rocinha, com roda de samba e telão para transmissão dos jogos do Brasil.&lt;/p&gt;
+&lt;p&gt;Os três jogos do país na primeira fase estão marcados para 13, 24 e 29 de junho.&lt;/p&gt;
+&lt;p&gt;“Esse tour vai ocorrer todos os dias que tiver jogo do Brasil”, informou Monteiro.&lt;/p&gt;
+&lt;p&gt;Caso o Brasil avance no torneio mundial, a Copa na Favela terá continuidade garantida, afirmou Renan Monteiro. “No final do tour, a ideia é que tenha ali uma celebração, uma troca entre turistas e comunidade, em um grande evento”.&lt;/p&gt;
+&lt;p&gt;O empreendedor social considera que, quando turistas e moradores compartilham experiências, são criadas conexões especiais e novas oportunidades para a comunidade. “O esporte e a cultura têm o poder de aproximar pessoas e promover inclusão social”, afirmou.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/projeto-de-turismo-em-favelas-do-rio-prepara-rota-especial-para-copa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+O clima de Copa do Mundo inspirou o projeto social Na Favela Turismo a criar uma rota temática que levará os visitan...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-06-12 09:10:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-12 09:10:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-12 09:10:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-12 09:10:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/uRvm83df-SvkmRHJr3zPELKpOOc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1091141-ferfraz_abr_18092017__82t1373.jpg?itok=a4h354vf</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Coreia do Sul vence República Tcheca de virada</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/coreia-do-sul-vence-republica-tcheca-de-virada</link>
+      <pubDate>Fri, 12 Jun 2026 14:40:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/coreia-do-sul-vence-republica-tcheca-de-virada#1004</guid>
+      <description>© REUTERS/Amanda Perobelli/ Proibido reprodução
+Em outros tempos, ninguém poderia apostar que uma seleção asiática mandasse numa partida de Copa do M...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/X5j0Y1eVhEyO8NLCpWNVOkn225A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/12/2026-06-12t104926z_1_lynxmpem5b0q9_rtroptp_4_soccer-worldcup-kor-cze.jpg?itok=8hceY9nD&quot; alt=&quot;Coreia do Sul vence República Tcheca de virada&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS/Amanda Perobelli/ Proibido reprodução&lt;/p&gt;
+&lt;p&gt;Em outros tempos, ninguém poderia apostar que uma seleção asiática mandasse numa partida de Copa do Mundo contra uma seleção europeia.&lt;/p&gt;
+&lt;p&gt;Mas, nesta Copa de 2026, a Coreia do Sul mostrou um futebol mais vistoso e eficiente do que a República Tcheca, em jogo válido pela primeira rodada do Grupo A, em Guadalajara, no México.&lt;/p&gt;
+&lt;p&gt;Aos 13 minutos do 1°tempo, Kan Lee chutou de fora da área e o goleiro Kovar espalmou a corner. Aos 38, o ídolo Son, jogador do Los Angeles F. C., dos Estados Unidos, teve a oportunidade de abrir o placar, estava livre, na meia lua da grande área, mas chutou para fora.&lt;/p&gt;
+&lt;p&gt;Os primeiros 45 minutos não foram generosos em emoção. Com mais posse de bola, a Coreia do Sulnão criava muitas chances. ARepública Tcheca, com jogadores mais altos, não conseguia sequer utilizar a bola aérea como arma de ataque. Assim, o 0 a 0 era mais do que justo.&lt;/p&gt;
+&lt;p&gt;Com trêsminutos do segundotempo, Jae Lee arriscou rasteiro e o goleiro Kovar defendeu em dois tempos. Aos dez, o sul-coreano Son novamente teve a bola do jogo nos pés. Frente a frente com o goleiro tcheco, ele tentou dar uma “cavadinha”, mas acertou o peito de Kovar e conseguiu só um escanteio.&lt;/p&gt;
+&lt;p&gt;Aos 13 minutos, a antiga máxima do futebol de “quem não faz, leva”, se concretizou. Numa jogada de lateral cobrado para a área, Krejci subiu sozinho e testou as redes do goleiro Seung Kim: 1 a 0 para a República Tcheca.&lt;/p&gt;
+&lt;p&gt;Aos 21 minutos, a Coreia do Sul chegou ao empate. In Hwang é lançado dentro da área, dá um drible no zagueiro tcheco e um leve toque para tirar do goleiro Kovar. Um gol de “cavadinha”, executada corretamente desta vez: 1 a 1.&lt;/p&gt;
+&lt;p&gt;Aos 31, a República Tcheca chegou ao segundo gol, com Soucek. Numa cobrança de falta para a área, ele cabeceou livre dentro da pequena área, mas a arbitragem marcouimpedimento e o gol foi corretamente anulado.&lt;/p&gt;
+&lt;p&gt;A Coreia do Sul reagiu imediatamente. Aos 34, cruzamento rasteiro para a área e o reserva Oh chegou com tudo para empurrar para as redes.Abola ainda bateu no goleiro Kovar, mas não teve jeito, era a virada: 2 a 1.&lt;/p&gt;
+&lt;p&gt;Aos 36, Hlozek teve a chance de empatar, em mais uma jogada de lateral cobrado para dentro da área, mas o goleiro Seung Kim fez uma bela defesa no pé da trave, impedindo um gol certo.Aos 48, Sadilek teve grande oportunidade, chutando rasteiro de dentro da áreae, novamente, o goleirosul-coreano salvou sua equipe, defendendo sem dar rebote.&lt;/p&gt;
+&lt;p&gt;Quando o árbitro egípcio apitou o fim do jogo, um alívio: a vitória por 2 a 1 fez os muitos torcedores sul-coreanos no estádio vibrarem. Na realidade, o placar premiou a seleção que mais buscou a vitória e mostrou melhor futebol. A República Tcheca, limitada à força e à altura dos seus jogadores, não teve técnica para conseguir sequer um empate na estreia.&lt;/p&gt;
+&lt;p&gt;Agora, México e Coreia do Sul lideram a chave A com 3 pontos e vão se enfrentar logo na segunda rodada, no dia 18 de junho, também em Guadalajara. Os tchecos terão que se recuperar na partida contra a África do Sul, na mesma data, em Atlanta, nos Estados Unidos.&lt;/p&gt;
+&lt;p&gt;Lula anuncia ações de regularização fundiária para quilombolas&lt;/p&gt;
+&lt;p&gt;Rádio Animada apresenta Adriana Partimpim&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/coreia-do-sul-vence-republica-tcheca-de-virada&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS/Amanda Perobelli/ Proibido reprodução
+Em outros tempos, ninguém poderia apostar que uma seleção asiática mandasse numa partida de Copa do M...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-06-12 09:05:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-12 09:05:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-12 09:05:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-12 09:05:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/X5j0Y1eVhEyO8NLCpWNVOkn225A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/12/2026-06-12t104926z_1_lynxmpem5b0q9_rtroptp_4_soccer-worldcup-kor-cze.jpg?itok=8hceY9nD</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Governo regulamenta adesão ao sistema nacional de igualdade racial</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/governo-regulamenta-adesao-ao-sistema-nacional-de-igualdade-racial</link>
+      <pubDate>Fri, 12 Jun 2026 14:40:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/governo-regulamenta-adesao-ao-sistema-nacional-de-igualdade-racial#1005</guid>
+      <description>atualizou diretrizes e ampliou formas de adesão ao
+Sistema Nacional de Promoção da Igualdade Racial (Sinapir)
+Portaria publicada nesta sexta-feira (1...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/U82PVDCKdamNzCldxLQWPLiw6yg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/25/_mg_3258.jpg?itok=08jC4RCh&quot; alt=&quot;Governo regulamenta adesão ao sistema nacional de igualdade racial&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;atualizou diretrizes e ampliou formas de adesão ao&lt;/p&gt;
+&lt;p&gt;Sistema Nacional de Promoção da Igualdade Racial (Sinapir)&lt;/p&gt;
+&lt;p&gt;Portaria publicada nesta sexta-feira (12)&lt;/p&gt;
+&lt;p&gt;para organização do sistema e prevê critérios para participação em políticasestratégicas da pasta&lt;/p&gt;
+&lt;p&gt;, no âmbito da cooperação entre União, estados, Distrito Federal e municípios.&lt;/p&gt;
+&lt;p&gt;, o Senapir é responsável, entre outros pontos, por organizar e&lt;/p&gt;
+&lt;p&gt;A adesão ao Sinapir continua sendo voluntária e pode ser feita por estados, o DF, municípios, consórcios públicos intermunicipais e associações municipalistas.&lt;/p&gt;
+&lt;p&gt;Os interessados devem formalizar a adesão por meio de solicitação ao Ministério da Igualdade Racial.&lt;/p&gt;
+&lt;p&gt;criação de um órgão específico;&lt;/p&gt;
+&lt;p&gt;instituição de conselho com participação da sociedade civil;&lt;/p&gt;
+&lt;p&gt;indicação de um gestor responsável pela política local.&lt;/p&gt;
+&lt;p&gt;Também devem ser apresentados atos normativos, registros de funcionamento do conselho, plano ou ações em andamento e informações sobre capacidade orçamentária.&lt;/p&gt;
+&lt;p&gt;O ministério terá prazo de até 30 dias para analisar o pedido. Em caso de aprovação, será firmado um Termo de Adesão e Compromisso entre a União e o ente federativo, com definição das responsabilidades de cada parte.&lt;/p&gt;
+&lt;p&gt;A portaria também amplia a possibilidade de adesão por meio de consórcios intermunicipais e associações municipalistas.&lt;/p&gt;
+&lt;p&gt;Nesses casos, é obrigatória a constituição de instâncias específicas, como o Conselho Intermunicipal de Promoção da Igualdade Racial e, quando aplicável, uma câmara temática dedicada ao tema.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/governo-regulamenta-adesao-ao-sistema-nacional-de-igualdade-racial&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>atualizou diretrizes e ampliou formas de adesão ao
+Sistema Nacional de Promoção da Igualdade Racial (Sinapir)
+Portaria publicada nesta sexta-feira (1...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-06-12 08:33:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-12 08:33:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-12 08:33:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-12 08:33:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/U82PVDCKdamNzCldxLQWPLiw6yg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/25/_mg_3258.jpg?itok=08jC4RCh</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Diagnosticar cardiopatias congênitas cedo aumenta qualidade de vida</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/diagnosticar-cardiopatias-congenitas-cedo-aumenta-qualidade-de-vida</link>
+      <pubDate>Fri, 12 Jun 2026 14:40:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/diagnosticar-cardiopatias-congenitas-cedo-aumenta-qualidade-de-vida#1006</guid>
+      <description>Cerca de 30 mil crianças com algum tipo de malformação no coração nascem no Brasil a cada ano, segundo o Ministério da Saúde.
+Nesta sexta-feira (12),...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6C7Yy3i7cInImUqzeK4iIB3yfJk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/19/adobestock_474741296.jpeg?itok=eHMVSdpf&quot; alt=&quot;Diagnosticar cardiopatias congênitas cedo aumenta qualidade de vida&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Cerca de 30 mil crianças com algum tipo de malformação no coração nascem no Brasil a cada ano, segundo o Ministério da Saúde.&lt;/p&gt;
+&lt;p&gt;Nesta sexta-feira (12), quando se celebra o Dia Nacional de Conscientização sobre a Cardiopatia Congênita&lt;/p&gt;
+&lt;p&gt;, a coordenadora da Divisão de Cardiologia da Criança e do Adolescente do Instituto Nacional de Cardiologia (INC), Renata Mattos, destaca que o acesso ao diagnóstico está aumentando no país.&lt;/p&gt;
+&lt;p&gt;“Aqui, na Região Sudeste, a gente tem mais acesso do que na Região Norte, por exemplo. Mas, de forma geral, a gente vê que o diagnóstico está sendo feito e o acesso ao tratamento está cada vez melhor”, avalia a cardiologista pediátrica, que é especialista em hemodinâmica de cardiopatias congênitas.&lt;/p&gt;
+&lt;p&gt;Considerada uma das principais causas de mortalidade infantil por malformações, a condição exige diagnóstico precoce e acompanhamento especializado para aumentar as chances de sobrevivência e a qualidade de vida dos pacientes.&lt;/p&gt;
+&lt;p&gt;A estimativa mundial é que em torno de 1% de todas as crianças nascidas vivas vão ter algum tipo de cardiopatia, sendo que, desse total, 30% precisam de atenção logo na primeira infância.&lt;/p&gt;
+&lt;p&gt;que o nome cardiopatia congênita engloba várias doenças, com diferentes níveis de gravidade.&lt;/p&gt;
+&lt;p&gt;“É qualquer malformação no coração da criança que acontece quando o bebê está se formando ainda dentro da barriga da mãe. Então, o coração se forma com algum tipo de estrutura errada”.&lt;/p&gt;
+&lt;p&gt;A cardiologista pediátrica explica que, quando o problema é detectado ainda dentro da barriga da mãe, durante a gestação, é possível que haja cirurgias para corrigi-lo em alguns casos. Entretanto, é raro que haja indicação para tal.&lt;/p&gt;
+&lt;p&gt;“Na grande maioria das vezes, quando a gente faz o diagnóstico ainda dentro da barriga, no feto, isso serve principalmente para a gente planejar como vai ser o fim da gestação, como vai ser o parto”.&lt;/p&gt;
+&lt;p&gt;Se, por exemplo, se detecta um tipo de cardiopatia que pode precisar de tratamento assim que o bebê nascer, esse parto precisa ocorrer em um lugar que tenha uma UTI, para que seja realizada uma cirurgia ou cateterismo. Já se for uma doença menos grave, a mãe pode seguir a gestação normalmente e ter o parto como estava planejado.&lt;/p&gt;
+&lt;p&gt;Em algumas doenças muito graves, se não houver tratamento nos primeiros dias de vida, o bebê pode não sobreviver. Já as cardiopatias menos graves podem apresentar sintomas ou alguma repercussão mais tarde.&lt;/p&gt;
+&lt;p&gt;Quando o bebê não é diagnosticado com uma cardiopatia grave ao nascer, as famílias devem prestar atenção a alguns sinais que podem indicar problemas cardíacos.&lt;/p&gt;
+&lt;p&gt;Durante o acompanhamento com o pediatra, é preciso ver se a criança está crescendo e ganhando peso dentro da curva esperada para ela.&lt;/p&gt;
+&lt;p&gt;“Se houver muita dificuldade de ganhar peso, tem que investigar se não é alguma coisa cardíaca”, indica a cardiologista.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/diagnosticar-cardiopatias-congenitas-cedo-aumenta-qualidade-de-vida&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Cerca de 30 mil crianças com algum tipo de malformação no coração nascem no Brasil a cada ano, segundo o Ministério da Saúde.
+Nesta sexta-feira (12),...</excerpt:encoded>
+      <wp:post_id>1006</wp:post_id>
+      <wp:post_date>2026-06-12 08:20:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-12 08:20:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-12 08:20:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-12 08:20:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/6C7Yy3i7cInImUqzeK4iIB3yfJk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/19/adobestock_474741296.jpeg?itok=eHMVSdpf</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Petrópolis, na região serrana do Rio, terá novo sinal de TV aberta</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/petropolis-na-regiao-serrana-do-rio-tera-novo-sinal-de-tv-aberta</link>
+      <pubDate>Fri, 12 Jun 2026 14:40:53 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/petropolis-na-regiao-serrana-do-rio-tera-novo-sinal-de-tv-aberta#1007</guid>
+      <description>O Ministério das Comunicações vai levar novo sinal de televisão aberta para o município de Petrópolis, na região serrana do Rio. O canal vai ampliar ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9JEEsCHBR6UUHpppE7gHOOOwOIY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/12/6dc10b90-019f-447e-8216-f00d05ce6f63.jpeg?itok=ILCLowzp&quot; alt=&quot;Petrópolis, na região serrana do Rio, terá novo sinal de TV aberta&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Ministério das Comunicações vai levar novo sinal de televisão aberta para o município de Petrópolis, na região serrana do Rio. O canal vai ampliar o acesso da população à informação, cultura e ao entretenimento. A autorização para a retransmissão de TV foi publicada nessa quinta-feira (11), no&lt;/p&gt;
+&lt;p&gt;Com a ação, o ministériopermite que sinais de emissoras geradoras de TV comercial ou educativa cheguem a localidades onde o sinal não alcançadiretamente ou chegacom baixa qualidade.&lt;/p&gt;
+&lt;p&gt;Para o início das transmissões, as emissoras precisam obter autorização de funcionamento das antenas junto à Agência Nacional de Telecomunicações (Anatel). Quando habilitadas, os moradores poderão assistir à programação pelo canal 38.&lt;/p&gt;
+&lt;p&gt;“O serviço de retransmissão de televisão ajuda a garantir que mais brasileiros tenham acesso à televisão com qualidade e menos interferências, principalmente em localidades mais remotas”, disseo ministro das Comunicações, Frederico de Siqueira Filho.&lt;/p&gt;
+&lt;p&gt;A ampliação da retransmissão de TV aberta faz parte da estratégia de fortalecimento da radiodifusão no país, garantindo que mais comunidades tenham acesso gratuito à informação, programação educativa e conteúdos culturais.&lt;/p&gt;
+&lt;p&gt;Brasil e UE assinam Parceria Digital nesta sexta-feira&lt;/p&gt;
+&lt;p&gt;Rádio Animada apresenta Adriana Partimpim&lt;/p&gt;
+&lt;p&gt;El Niño começa com chance de alta intensidade e eventos extremos&lt;/p&gt;
+&lt;p&gt;Irã diz que não chegou a conclusão sobre acordo com os Estados Unidos&lt;/p&gt;
+&lt;p&gt;Inflação de maio fica em 0,58%, influenciada por preço dos alimentos&lt;/p&gt;
+&lt;p&gt;Trabalhadores denunciam contaminação com material radioativo no Ipen&lt;/p&gt;
+&lt;p&gt;Ao negar extradição de Zambelli, Justiça italiana cita Moraes&lt;/p&gt;
+&lt;p&gt;Projeto de turismo em favelas do Rio prepara rota especial para a Copa&lt;/p&gt;
+&lt;p&gt;Coreia do Sul vence República Tcheca de virada&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/petropolis-na-regiao-serrana-do-rio-tera-novo-sinal-de-tv-aberta&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Ministério das Comunicações vai levar novo sinal de televisão aberta para o município de Petrópolis, na região serrana do Rio. O canal vai ampliar ...</excerpt:encoded>
+      <wp:post_id>1007</wp:post_id>
+      <wp:post_date>2026-06-12 08:08:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-12 08:08:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-12 08:08:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-12 08:08:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/9JEEsCHBR6UUHpppE7gHOOOwOIY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/12/6dc10b90-019f-447e-8216-f00d05ce6f63.jpeg?itok=ILCLowzp</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Revolução do Haiti: a história vetada pela Fifa em camisa da Copa</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/revolucao-do-haiti-historia-vetada-pela-fifa-em-camisa-da-copa</link>
-      <pubDate>Fri, 12 Jun 2026 11:37:57 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 14:40:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/revolucao-do-haiti-historia-vetada-pela-fifa-em-camisa-da-copa#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/revolucao-do-haiti-historia-vetada-pela-fifa-em-camisa-da-copa#1008</guid>
       <description>não exibirá mais na camisa a ilustração de um episódio emblemático da história moderna: a revolução que levou à abolição da escravidão e à independên...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/tFeUEJOGznPleOElXlDjhH17AgU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/11/divulgacao_saeta_fornecedora_de_material_esportivo_do_haiti_2.jpg?itok=eBjcdRrV&quot; alt=&quot;Revolução do Haiti: a história vetada pela Fifa em camisa da Copa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;não exibirá mais na camisa a ilustração de um episódio emblemático da história moderna: a revolução que levou à abolição da escravidão e à independência do país (1791–1804).&lt;/p&gt;
@@ -45,7 +434,7 @@
 &lt;p&gt;Ele lembra que não é a primeira vez que uma entidade esportiva censura imagens históricas de uma delegação haitiana.&lt;/p&gt;
 &lt;p&gt;Em fevereiro deste ano, nos Jogos de Inverno na Itália, o&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/revolucao-do-haiti-historia-vetada-pela-fifa-em-camisa-da-copa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>não exibirá mais na camisa a ilustração de um episódio emblemático da história moderna: a revolução que levou à abolição da escravidão e à independên...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-06-12 08:00:00</wp:post_date>
       <wp:post_date_gmt>2026-06-12 08:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-06-12 08:00:00</wp:post_modified>
@@ -71,9 +460,9 @@
     <item>
       <title>Inscrições para o Enem terminam nesta sexta na página do participante</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/inscricoes-para-o-enem-terminam-nesta-sexta-na-pagina-do-participante</link>
-      <pubDate>Fri, 12 Jun 2026 11:37:57 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 14:40:53 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/inscricoes-para-o-enem-terminam-nesta-sexta-na-pagina-do-participante#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/inscricoes-para-o-enem-terminam-nesta-sexta-na-pagina-do-participante#1009</guid>
       <description>Os interessados em participar do
 Exame Nacional do Ensino Médio (Enem) 2026
 devem se inscrever até as 23 horas e 59 minutos desta sexta-feira (12), n...</description>
@@ -96,7 +485,7 @@ devem se inscrever até as 23 horas e 59 minutos desta sexta-feira (12), n...</d
       <excerpt:encoded>Os interessados em participar do
 Exame Nacional do Ensino Médio (Enem) 2026
 devem se inscrever até as 23 horas e 59 minutos desta sexta-feira (12), n...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-06-12 07:30:00</wp:post_date>
       <wp:post_date_gmt>2026-06-12 07:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-06-12 07:30:00</wp:post_modified>
@@ -117,398 +506,6 @@ devem se inscrever até as 23 horas e 59 minutos desta sexta-feira (12), n...</e
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/Qe9Wpk_odKQUCXQNceIY7mv-XnE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/24/0d9a3073.jpg?itok=Vazq73Q5</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Morre Brito, titular do Brasil na conquista do tricampeonato no México</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/morre-brito-titular-do-brasil-na-conquista-do-tricampeonato-no-mexico</link>
-      <pubDate>Fri, 12 Jun 2026 11:37:57 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/morre-brito-titular-do-brasil-na-conquista-do-tricampeonato-no-mexico#1002</guid>
-      <description>Hércules Brito Ruas, o Brito, como era conhecido, morreu nessa quinta-feira (11), no Rio, aos 86 anos. Brito foi zagueiro da
-nas Copas do Mundo de 19...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Morre Brito, titular do Brasil na conquista do tricampeonato no México&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Hércules Brito Ruas, o Brito, como era conhecido, morreu nessa quinta-feira (11), no Rio, aos 86 anos. Brito foi zagueiro da&lt;/p&gt;
-&lt;p&gt;nas Copas do Mundo de 1966 e 1970.&lt;/p&gt;
-&lt;p&gt;A informação foi confirmada na página oficial do tricampeão do mundo nas redes sociais. Ele estava internado há pouco mais de uma semana, com um quadro de pneumonia.&lt;/p&gt;
-&lt;p&gt;Depois de uma temporada emprestado ao Internacional, assumiu a posição de titular em 1960, com a responsabilidade de substituir Bellini, que havia sido bicampeão mundial com a seleção brasileira.&lt;/p&gt;
-&lt;p&gt;Convocado para Copa do Mundo de 1970, no México, foi titular em todos os jogos da conquista do tricampeonato do Brasil.&lt;/p&gt;
-&lt;p&gt;Formou a defesa da eterna seleção do Tri ao lado do volante Piazza. Juntos, foram campeões com vitória por 4 a 1 sobre a Itália no Estádio Azteca, na cidade do México.&lt;/p&gt;
-&lt;p&gt;A histórica formação de que o zagueiro fez parte era formada por: Félix; Carlos Alberto, Brito, Everaldo e Piazza; Clodoaldo, Rivellino e Gerson; Jairzinho, Pelé e Tostão.&lt;/p&gt;
-&lt;p&gt;O Vasco das Gama prestou homenagem ao atleta que defendeu o clube por vários anos em sua página nas redes sociais.&lt;/p&gt;
-&lt;p&gt;Um post compartilhado por Vasco (@vascodagama)&lt;/p&gt;
-&lt;p&gt;“Com o mais profundo pesar, recebemos a notícia do falecimento de Brito, um dos maiores zagueiros da história do Vasco da Gama. Hércules Brito Ruas tinha 86 anos, era vascaíno de berço e foi revelado em São Januário.&lt;/p&gt;
-&lt;p&gt;De acordo com o clube, Brito disputou 405 jogos e marcou 11 gols, em duas passagens: 1957 e de 1959 até 1969. Conquistou o Torneio de Paris de 57 e o Rio São Paulo de 66.&lt;/p&gt;
-&lt;p&gt;“Suas atuações e seu porte físico o levaram para a Seleção Brasileira, a qual defendeu em duas Copas do Mundo: 1966 e 1970, de onde saiu com o Tri-Mundial&quot;, destacou a postagem do cruzmaltino.&lt;/p&gt;
-&lt;p&gt;Dados do PNAD apontam que saúde masculina piora após separação&lt;/p&gt;
-&lt;p&gt;Marco Mazzola volta ao Festa do Disco para falar sobre &quot;Gita&quot;, o disco mais vendido de Raul Seixas&lt;/p&gt;
-&lt;p&gt;Cabo Verde estreia em Copa do Mundo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/morre-brito-titular-do-brasil-na-conquista-do-tricampeonato-no-mexico&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Hércules Brito Ruas, o Brito, como era conhecido, morreu nessa quinta-feira (11), no Rio, aos 86 anos. Brito foi zagueiro da
-nas Copas do Mundo de 19...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
-      <wp:post_date>2026-06-12 07:13:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-12 07:13:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-12 07:13:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-12 07:13:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Salários diminuem pobreza em 22 regiões metropolitanas</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/salarios-diminuem-pobreza-em-22-regioes-metropolitanas</link>
-      <pubDate>Fri, 12 Jun 2026 11:37:57 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/salarios-diminuem-pobreza-em-22-regioes-metropolitanas#1003</guid>
-      <description>Entre 2021 e 2025, mais de 10 milhões de pessoas deixaram a condição de pobreza nas regiões metropolitanasdo país,. Os dados são do boletim
-, produzi...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iXUMelTEQ7Y2zJIaLRmc9mL_izk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/03/pib_06.jpg?itok=GStnB-Ss&quot; alt=&quot;Salários diminuem pobreza em 22 regiões metropolitanas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Entre 2021 e 2025, mais de 10 milhões de pessoas deixaram a condição de pobreza nas regiões metropolitanasdo país,. Os dados são do boletim&lt;/p&gt;
-&lt;p&gt;, produzido em parceria peloObservatório das Metrópoles, a Rede de Observatórios da Dívida Social na América Latina (RedODSAL) e a Pontifícia Universidade Católica do Rio Grande do Sul (PUC-RS).&lt;/p&gt;
-&lt;p&gt;Segundo o estudo, baseado em informaçõesdo Instituto Brasileiro de Geografia e Estatística (IBGE), a taxa de pobreza em 22 metrópoles brasileiras chegou a 18,4% em 2025, “alcançando, pelo terceiro ano consecutivo, o menor valor da série histórica [desde 2012]”.&lt;/p&gt;
-&lt;p&gt;“Foi uma redução significativa. Um patamar grande, apesar do nível de pobreza ainda se manter bastante alto no conjunto das metrópoles do Brasil”, afirma, em entrevistaà&lt;/p&gt;
-&lt;p&gt;o economista e sociólogo Marcelo Ribeiro, professor do Programa de Planejamento Urbano e Regional da Universidade Federal do Rio de Janeiro (UFRJ) e pesquisador do Observatório das Metrópoles.&lt;/p&gt;
-&lt;p&gt;Para o especialista, a redução observada da pobreza tem a ver com a remuneração do trabalho e foi beneficiada com a maior oferta de ocupações no país. “Está muito vinculada com o fato de as pessoas mais pobres terem aumentado o seu nível de renda a partir do rendimento do trabalho.”&lt;/p&gt;
-&lt;p&gt;Ele descarta que a melhoria tem a ver com os programas sociais de transferência de renda. Os valores pagos pelo Bolsa Família não sofrem alteração desde março de 2023.&lt;/p&gt;
-&lt;p&gt;Conforme o boletim Desigualdade nas Metrópoles, “a renda média domiciliar&lt;/p&gt;
-&lt;p&gt;do conjunto das metrópoles do país alcançou novo recorde em 2025”. O valor foi de R$ 2.766.&lt;/p&gt;
-&lt;p&gt;No ano passado, havianas regiões metropolitanas RM cerca 15,2 milhões de pessoas (15.188.817) em situação de pobreza – que contavam com até R$ 729 por mês (valor resultado da renda domiciliar mensal dividida pelo número de pessoas da família). O volume equivale ao total da população somada do Pará, da Paraíba e de Sergipe.&lt;/p&gt;
-&lt;p&gt;Desse universo, 2,6 milhões de pessoasestavam em condição de extrema pobreza: contavam com até R$ 229 por mês (renda familiar&lt;/p&gt;
-&lt;p&gt;mensal). O volume equivale ao total de habitantes de Fortaleza ou de Salvador.&lt;/p&gt;
-&lt;p&gt;O boletim destaca que “a taxa de extrema pobreza caiupara 3,2% no conjunto das metrópoles brasileiras. Esse nível só foi maior do que as taxas registradas em 2013 e 2014.&lt;/p&gt;
-&lt;p&gt;10% mais ricos ganham 16,1 vezes a mais que os 40% mais pobres&lt;/p&gt;
-&lt;p&gt;O boletimtambém avaliou a concentração de renda aferida pelo índice de Gini. Em 2025, o valor foi de 0,511 – conforme o indicador, quanto mais próximo de 1, maior o acumulo do rendimento em menor número de pessoas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/salarios-diminuem-pobreza-em-22-regioes-metropolitanas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Entre 2021 e 2025, mais de 10 milhões de pessoas deixaram a condição de pobreza nas regiões metropolitanasdo país,. Os dados são do boletim
-, produzi...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
-      <wp:post_date>2026-06-12 07:10:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-12 07:10:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-12 07:10:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-12 07:10:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/iXUMelTEQ7Y2zJIaLRmc9mL_izk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/03/pib_06.jpg?itok=GStnB-Ss</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Copa 2026 terá confrontos dos grupos B e D nesta sexta-feira</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/copa-2026-tera-confrontos-dos-grupos-b-e-d-nesta-sexta-feira</link>
-      <pubDate>Fri, 12 Jun 2026 11:37:57 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/copa-2026-tera-confrontos-dos-grupos-b-e-d-nesta-sexta-feira#1004</guid>
-      <description>© Reuters/Bernadett Szabo/Arquivo/Proibida reprodução
-Começa nesta sexta-feira (12) a primeira rodada dos grupos B e D da Copa do Mundo de 2026. O pr...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/c3lnHf3ztWQxvORE27tQ3VYRMVI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/11/2026-06-10t192531z_1905327315_up1em6a1hyg12_rtrmadp_3_soccer-worldcup-can-bih-preview.jpg?itok=ekhadOpj&quot; alt=&quot;Copa 2026 terá confrontos dos grupos B e D nesta sexta-feira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Reuters/Bernadett Szabo/Arquivo/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;Começa nesta sexta-feira (12) a primeira rodada dos grupos B e D da Copa do Mundo de 2026. O primeiro dos dois confrontos agendados são Canadá contra Bósnia e Herzegovina, às 16h; e Estados Unidos e Paraguai, às 22h.&lt;/p&gt;
-&lt;p&gt;A partida pelo Grupo B, entre as seleções canadense e a Bósnia, será no Toronto Stadium. Completam o grupo as equipes do Catar e da Suíça, que se enfrentarão no sábado (13), às 16h, na cidade de São Francisco (EUA).&lt;/p&gt;
-&lt;p&gt;Já a partida inaugural do Grupo D, hoje, será entre EUA e Paraguai, no Los Angeles Stadium. Austrália e Turquia completam o grupo, mas só se enfrentarão na madrugada entre sábado e domingo (14), à 1h, em Vancouver.&lt;/p&gt;
-&lt;p&gt;Das quatro equipes que compõem o Grupo B, o Canadá carrega a vantagem de jogar em casa, diante de sua torcida. A expectativa é que apresente um estilo de jogo vertical e rápido.&lt;/p&gt;
-&lt;p&gt;Sua adversária, a Bósnia, tem um estilo de jogo mais físico, perigoso em bolas longas e disputas aéreas.&lt;/p&gt;
-&lt;p&gt;No Grupo D, os EUA também têm a vantagem de jogar em casa, diante de sua torcida. A equipe costuma apresentar um jogo dinâmico e de transições rápidas executadas por um meio de campo criativo.&lt;/p&gt;
-&lt;p&gt;Do Paraguai, espera-se um esquema tático defensivo que apostará nos contra-ataques, explorando erros do adversário.&lt;/p&gt;
-&lt;p&gt;Dados do PNAD apontam que saúde masculina piora após separação&lt;/p&gt;
-&lt;p&gt;Marco Mazzola volta ao Festa do Disco para falar sobre &quot;Gita&quot;, o disco mais vendido de Raul Seixas&lt;/p&gt;
-&lt;p&gt;Cabo Verde estreia em Copa do Mundo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/copa-2026-tera-confrontos-dos-grupos-b-e-d-nesta-sexta-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Reuters/Bernadett Szabo/Arquivo/Proibida reprodução
-Começa nesta sexta-feira (12) a primeira rodada dos grupos B e D da Copa do Mundo de 2026. O pr...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-06-12 06:45:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-12 06:45:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-12 06:45:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-12 06:45:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/c3lnHf3ztWQxvORE27tQ3VYRMVI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/11/2026-06-10t192531z_1905327315_up1em6a1hyg12_rtrmadp_3_soccer-worldcup-can-bih-preview.jpg?itok=ekhadOpj</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Lula entrega 18 novos títulos de territórios quilombolas</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/lula-entrega-18-novos-titulos-de-territorios-quilombolas</link>
-      <pubDate>Fri, 12 Jun 2026 11:37:57 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/lula-entrega-18-novos-titulos-de-territorios-quilombolas#1005</guid>
-      <description>O presidente Luiz Inácio Lula da Silva participou nesta quinta-feira (11)
-, no Distrito Federal, de um encontro de mulheres quilombolas e
-entregou 18...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/U2EMGNZmIUfDD2fd8SDVEKJJf7I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/11/lula_encontro_quilombola.jpg?itok=Wz0rLb9w&quot; alt=&quot;Lula entrega 18 novos títulos de territórios quilombolas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O presidente Luiz Inácio Lula da Silva participou nesta quinta-feira (11)&lt;/p&gt;
-&lt;p&gt;, no Distrito Federal, de um encontro de mulheres quilombolas e&lt;/p&gt;
-&lt;p&gt;entregou 18 novos títulos de domínio para nove comunidades em seis estados&lt;/p&gt;
-&lt;p&gt;O evento é organizado pela Coordenação Nacional de Articulação das Comunidades Negras Rurais Quilombola (Conaq), reúne cerca de 500 mulheres. Na pauta do encontro, está a&lt;/p&gt;
-&lt;p&gt;luta por proteção territorial e por justiça climática&lt;/p&gt;
-&lt;p&gt;Os territórios quilombolas são espaçosrurais ou urbanos ocupados por comunidades negras, formadas por descendentes de pessoas escravizadas durante a colonização do Brasil.&lt;/p&gt;
-&lt;p&gt;As áreas entregues finalizam um longo processo de regularização, abrangendo 11,6 mil hectares e beneficiando 1.780 famílias&lt;/p&gt;
-&lt;p&gt;Em discurso, Lula lembrou que, historicamente, o Brasil não foi constituído para atender os mais vulneráveis.&lt;/p&gt;
-&lt;p&gt;&quot;Esse país, durante séculos e séculos, tratou o povo negro, o povo pobre, o povo trabalhador, o povo da periferia como se nós fôssemos uma população inexistente, como se não existíssemos&quot;, disse.&lt;/p&gt;
-&lt;p&gt;&quot;O fim da escravidão não foi feito para melhorar a vida do povo negro, porque largaram a população na rua, sem emprego, sem saúde, sem educação, sem-terra, sem nada. Largaram para que o povo negro fosse chamado de vagabundo e fosse culpado de todas as mazelas que aconteciam nesse país. Então, recuperar a história da igualdade [racial] é uma luta gigante&quot;, continuou.&lt;/p&gt;
-&lt;p&gt;Com a entrega dos títulos, segundo a ministra do Desenvolvimento Agrário e Agricultura Familiar, Fernanda Machiavelli, foi alcançada&lt;/p&gt;
-&lt;p&gt;a marca de 74 títulos emitidos na atual gestão de Lula, abrangendo uma área de 93 mil hectares e atendendo 8.317 famílias&lt;/p&gt;
-&lt;p&gt;volume representa cerca de 34% de todos os títulos quilombolas já emitidos pelo Instituto Nacional de Colonização e Reforma Agrária (Incra) na história do país&lt;/p&gt;
-&lt;p&gt;A ministra destacou sobre aimplementação de créditos para fomentar o desenvolvimento e a construção de moradias em uma das maiores comunidades quilombolas do país, o território Kalunga, entre o norte de Goiás e o sul do Tocantins.&lt;/p&gt;
-&lt;p&gt;&quot;Junto com os títulos, vem o desenvolvimento. Em várias comunidades quilombolas, também já chegaram os créditos do Incra. São créditos que têm fomentado a produção, apoiado as mulheres e permitido a construção e reforma de casas. Hoje, vamos liberar mais R$ 19 milhões em crédito habitação para 200 famílias da comunidade Kalunga&quot;, destacou.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/lula-entrega-18-novos-titulos-de-territorios-quilombolas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O presidente Luiz Inácio Lula da Silva participou nesta quinta-feira (11)
-, no Distrito Federal, de um encontro de mulheres quilombolas e
-entregou 18...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-06-11 23:03:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-11 23:03:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-11 23:03:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-11 23:03:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/U2EMGNZmIUfDD2fd8SDVEKJJf7I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/11/lula_encontro_quilombola.jpg?itok=Wz0rLb9w</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Brasil pede desculpas por discursos de ódio contra Dom e Bruno</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/brasil-pede-desculpas-por-discursos-de-odio-contra-dom-e-bruno</link>
-      <pubDate>Fri, 12 Jun 2026 11:37:57 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/brasil-pede-desculpas-por-discursos-de-odio-contra-dom-e-bruno#1006</guid>
-      <description>O governo do Brasil fez nesta quinta-feira (11) um pedido de desculpaspelos discursos difamatórios e de ódio proferidos contra o jornalista Dom Phill...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mRvfASj-WHmzMuleBpPgZSM2f_0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/11/sidonio_pedidos_de_desculpas.jpeg?itok=XPxPdpGH&quot; alt=&quot;Brasil pede desculpas por discursos de ódio contra Dom e Bruno&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O governo do Brasil fez nesta quinta-feira (11) um pedido de desculpaspelos discursos difamatórios e de ódio proferidos contra o jornalista Dom Phillips e o indigenista Bruno Pereirano contexto de seu desaparecimento e assassinato, em 2022.&lt;/p&gt;
-&lt;p&gt;A retratação foi apresentada pelo ministro da Secretaria de Comunicação Social da Presidência da República (Secom/PR), Sidônio Palmeira, emnome do Estado Brasileiro, às famílias dos dois defensores dos direitos indígenasdurante apremiação doConcurso Dom Phillips e Bruno Pereira de Jornalismo e Comunicação.&lt;/p&gt;
-&lt;p&gt;O pedido de desculpas faz parte do compromisso assumido pelo Brasil junto à ComissãoInteramericana de Direitos Humanos, da Organização dos Estados Americanos (OEA).&lt;/p&gt;
-&lt;p&gt;&quot;Dom Phillips e a Bruno Pereira realizavam um trabalho fundamental no Vale do Javari. O governo do Brasil trabalha para honrar esse esforço - ao combater o crime organizado na Amazônia e ao proteger defensores de direitos humanos, comunicadores e ambientalistas. Por isso, temos a tranquilidade e legitimidade de pedir desculpas pelos discursos difamatórios e de ódio que foram proferidos contra ambos no contexto do seu desaparecimento e morte em 2022&quot;, disse o ministro.&lt;/p&gt;
-&lt;p&gt;O ministro destacou que Bruno e Dom &quot;são exemplos de trabalho pelo povo brasileiro, de enfrentamento aos privilégios, às desigualdades e ao crime organizado, suas ramificações nas instituições e ligação com os poderosos&quot;.&lt;/p&gt;
-&lt;p&gt;&quot;Ninguém que esteja nessa agenda terá uma vida tranquila. E há gente disposta a colocar a vida em risco para impedir a exploração ilegal do país. Nosso papel é honrar essas pessoas e trabalhar pela sustentabilidade, dignidade, justiça e prosperidade compartilhada do povo do Brasil, em sua diversidade&quot;, afirmou.&lt;/p&gt;
-&lt;p&gt;Bruno e Dom foram mortos no dia 5 de junho de 2022, vítimas de uma emboscada, enquanto viajavam de barco pela região do Vale do Javari, no Amazonas, região que abriga a Terra Indígena Vale do Javari, a segunda maior do país, com mais de 8,5 milhões de hectares.&lt;/p&gt;
-&lt;p&gt;A dupla foi vista pela última vez enquanto se deslocava da comunidade São Rafael para a cidade de Atalaia do Norte (AM), onde se reuniria com lideranças indígenas e de comunidades ribeirinhas. Seus corpos foram resgatados dez dias depois. Eles estavam enterrados em uma área de mata fechada, a cerca de 3 quilômetros da calha do Rio Itacoaí.&lt;/p&gt;
-&lt;p&gt;Colaborador do jornal britânico&lt;/p&gt;
-&lt;p&gt;, Dom se dedicava à cobertura jornalística ambiental – incluindo os conflitos fundiários e a situação dos povos indígenas – e preparava um livro sobre a Amazônia.&lt;/p&gt;
-&lt;p&gt;Bruno Pereira já tinha ocupado a Coordenação-Geral de Índios Isolados e Recém Contatados da Fundação Nacional dos Povos Indígenas (Funai) antes de se licenciar do órgão, sem vencimentos, e passar a trabalhar para a União dos Povos Indígenas do Vale do Javari (Univaja). Por sua atuação em defesa das comunidades indígenas e da preservação do meio ambiente, recebeu diversas ameaças de morte.&lt;/p&gt;
-&lt;p&gt;De acordo com a denúncia do Ministério Público, Bruno e Dom foram mortos por contrariar os interesses da pesca ilegal na região, ao promoverem a educação ambiental em comunidades indígenas.&lt;/p&gt;
-&lt;p&gt;Em julho do ano passado, aJustiça Federal no Amazonas aceitou a denúncia do Ministério Público Federal (MPF) e&lt;/p&gt;
-&lt;p&gt;tornou réu Rubén Dario Villar, conhecido comoColômbia, apontado como mandante das mortes&lt;/p&gt;
-&lt;p&gt;e suspeito dechefiar uma quadrilha de pesca ilegal atuante no Vale do Javari.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/brasil-pede-desculpas-por-discursos-de-odio-contra-dom-e-bruno&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O governo do Brasil fez nesta quinta-feira (11) um pedido de desculpaspelos discursos difamatórios e de ódio proferidos contra o jornalista Dom Phill...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-06-11 22:49:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-11 22:49:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-11 22:49:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-11 22:49:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/mRvfASj-WHmzMuleBpPgZSM2f_0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/11/sidonio_pedidos_de_desculpas.jpeg?itok=XPxPdpGH</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Radioagência fica em 3º lugar no prêmio Dom Phillips e Bruno Pereira</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/radioagencia-fica-em-3o-lugar-no-premio-dom-phillips-e-bruno-pereira</link>
-      <pubDate>Fri, 12 Jun 2026 11:37:57 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/radioagencia-fica-em-3o-lugar-no-premio-dom-phillips-e-bruno-pereira#1007</guid>
-      <description>© Valter Campanato/Agência Brasil
-Crianças Sabidas – Série Trilhinhas Amazônicas
-, da Radioagência Nacional, ficou em terceiro lugar na categoriaInic...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/7ttpr-IhGRHAf9HqcvK7vccnvDI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/11/0d7a6726_copy_0.jpg?itok=RvmK5otU&quot; alt=&quot;Radioagência fica em 3º lugar no prêmio Dom Phillips e Bruno Pereira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Crianças Sabidas – Série Trilhinhas Amazônicas&lt;/p&gt;
-&lt;p&gt;, da Radioagência Nacional, ficou em terceiro lugar na categoriaIniciativa de educação midiática envolvendo a proteção do meio ambiente, povos indígenas ou comunidades tradicionais, do Concurso Dom Phillips e Bruno Pereira de Jornalismo e Comunicação em Defesa do Meio Ambiente e Direito dos Povos Indígenas e Comunidades Tradicionais.&lt;/p&gt;
-&lt;p&gt;Para Beatriz Arcoverde, gerente da&lt;/p&gt;
-&lt;p&gt;e editora do podcast, o prêmio reconhece um trabalho que é voltado às crianças, em uma ferramentaque tem um histórico de temas ligados à preservação do meio ambiente, à educação e também à questão indígena.&lt;/p&gt;
-&lt;p&gt;“A gente fala, nessa série, sobre as várias línguas indígenas, sobre como ensinar, como a educação pode trabalhar com isso nas línguas das crianças, no material didático. A gente fala também de iniciativas de jovens indígenas; sobre os herdeiros de Chico Mendes, que estão trabalhando na defesa da Amazônia. Então, esse prêmio é importante para mostrar que trabalhar com o meio ambiente, trabalhar com povos indígenas, com comunidades tradicionais, com direitos humanos, é dar oportunidade de conhecer o que está acontecendo no país. E dar oportunidade, principalmente, numa linguagem simples, para as crianças saberem”, acredita.&lt;/p&gt;
-&lt;p&gt;Em linguagem acessível voltada para as crianças, a produção explora a importância da Amazônia como reguladora do clima global, destacando a crise climática que já impacta diretamente a região, além de assuntos que estiveram em destaque durante a Conferência das Nações Unidas sobre as Mudanças Climáticas (COP30), que foi realizada em Belém (PA) no ano passado.&lt;/p&gt;
-&lt;p&gt;, do jornalista Rafael Cardoso e da fotojornalista Tânia Rêgo. O trabalho foi primeiramente adaptado como podcast, na série também chamada&lt;/p&gt;
-&lt;p&gt;, com sete episódios, e depois adaptado para o selo infantil da&lt;/p&gt;
-&lt;p&gt;Roteiro, apresentação e montagem são de Akemi Nitahara, com edição de Beatriz Arcoverde e participação, na apresentação, de Maria Eduarda Arcoverde, de 10 anos; e de Caetano Farias, de 12 anos.&lt;/p&gt;
-&lt;p&gt;Os dois pequenos apresentadores receberam o troféu, na cerimônia realizada nesta quinta-feira (11), no Palácio do Itamaraty, em Brasília.&lt;/p&gt;
-&lt;p&gt;Também presente, a fotojornalista da&lt;/p&gt;
-&lt;p&gt;, Tânia Rêgo, recebeu menção honrosa pelo conjunto das imagens da reportagem&lt;/p&gt;
-&lt;p&gt;Áreas de retomada guarani em MS enfrentam dificuldades e violência&lt;/p&gt;
-&lt;p&gt;.Ela destaca a importância da comunicação pública ao reportar os povos indígenas e suas comunidades.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/radioagencia-fica-em-3o-lugar-no-premio-dom-phillips-e-bruno-pereira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-Crianças Sabidas – Série Trilhinhas Amazônicas
-, da Radioagência Nacional, ficou em terceiro lugar na categoriaInic...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-06-11 22:22:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-11 22:22:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-11 22:22:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-11 22:22:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/7ttpr-IhGRHAf9HqcvK7vccnvDI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/11/0d7a6726_copy_0.jpg?itok=RvmK5otU</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Polícia Científica conclui laudo sobre explosão de gás em Jaguaré</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/policia-cientifica-conclui-laudo-sobre-explosao-de-gas-em-jaguare</link>
-      <pubDate>Fri, 12 Jun 2026 11:37:57 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/policia-cientifica-conclui-laudo-sobre-explosao-de-gas-em-jaguare#1008</guid>
-      <description>A Polícia Científica concluiu o laudo técnico sobre a
-no bairro do Jaguaré, na zona oeste da cidade de São Paulo, no último 11de maio, e que causou a...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dfxyEhrcnK7TWPvDETZA9--cwI0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/jaguare.jpg?itok=S2-C-rz-&quot; alt=&quot;Polícia Científica conclui laudo sobre explosão de gás em Jaguaré&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Polícia Científica concluiu o laudo técnico sobre a&lt;/p&gt;
-&lt;p&gt;no bairro do Jaguaré, na zona oeste da cidade de São Paulo, no último 11de maio, e que causou a morte de duas pessoas.&lt;/p&gt;
-&lt;p&gt;De acordo com o governo estadual, as equipes mapearam a área, examinaram tubulações e solo, além de itens dos moradores e dos trabalhadores afetados.&lt;/p&gt;
-&lt;p&gt;&quot;O trabalho pericial foi realizado por uma força-tarefa multidisciplinar de peritos criminais, com atuação no local para coleta, preservação, documentação e análise de vestígios materiais&quot;, informou.&lt;/p&gt;
-&lt;p&gt;O trabalho técnico analisouamostras de gás subterrâneo, exames geofísicos de eletrorresistividade e sísmica rasa.Também fizeram parte do laudo os exames necroscópicos realizados pelo Instituto Médico Legal.&lt;/p&gt;
-&lt;p&gt;&quot;A definição sobre eventuais responsabilidades caberá ao inquérito policial – a partir do conjunto de elementos apurados – que é conduzido pela 3ª Central Especializada de Repressão a Crimes e Ocorrências Diversas da Polícia Civil na capital&quot;, complementou o governo estadual.&lt;/p&gt;
-&lt;p&gt;A explosão afetou cerca de 800 moradias, das quais 302 casas e 488 apartamentos em condomínios, sendo que 66 ficaram completamente destruídas. Duas pessoas morreram, uma delas um trabalhador terceirizado a serviço da Sabesp. A companhia fazia uma obra no local.&lt;/p&gt;
-&lt;p&gt;As concessionárias - Sabesp e Comgás -&lt;/p&gt;
-&lt;p&gt;pagaram um auxílio àsfamílias que tiveram os imóveis afetados&lt;/p&gt;
-&lt;p&gt;e reformaram 45 imóveis com danos mais significativos, dos quais 39 já foram entregues.&lt;/p&gt;
-&lt;p&gt;A Agência Reguladora de Serviços Públicos do Estado de São Paulo (Arsesp) alterou parte dos protocolos para obras em subsolo em áreas com compartilhamento de infraestrutura e criou umgrupo técnico permanente voltado à prevenção de acidentes.&lt;/p&gt;
-&lt;p&gt;A explosão na Rua Doutor Benedito de Moraes Leme, no bairro do Jaguaré, ocorreupor volta das 16h10 do dia 11 de maio.A Companhia de Saneamento Básico do Estado de São Paulo (Sabesp) fazia uma obra no local.&lt;/p&gt;
-&lt;p&gt;Segundo informações da Defesa Civil, a explosão pode ter sidocausadapor um problema na tubulação de gás natural encanadoda Comgás atingida durante uma obra externa da Sabesp.&lt;/p&gt;
-&lt;p&gt;Dados do PNAD apontam que saúde masculina piora após separação&lt;/p&gt;
-&lt;p&gt;Marco Mazzola volta ao Festa do Disco para falar sobre &quot;Gita&quot;, o disco mais vendido de Raul Seixas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/policia-cientifica-conclui-laudo-sobre-explosao-de-gas-em-jaguare&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Polícia Científica concluiu o laudo técnico sobre a
-no bairro do Jaguaré, na zona oeste da cidade de São Paulo, no último 11de maio, e que causou a...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-06-11 21:57:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-11 21:57:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-11 21:57:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-11 21:57:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/dfxyEhrcnK7TWPvDETZA9--cwI0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/11/jaguare.jpg?itok=S2-C-rz-</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mega-Sena acumula e prêmio principal vai para R$ 12 milhões</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/mega-sena-acumula-e-premio-principal-vai-para-r-12-milhoes</link>
-      <pubDate>Fri, 12 Jun 2026 11:37:57 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/mega-sena-acumula-e-premio-principal-vai-para-r-12-milhoes#1009</guid>
-      <description>© Marcello Casal Jr/Agência Brasil/Arquivo
-Nenhum apostador acertou as seis dezenas do Concurso 3.017da Mega-Sena, realizado nestaquinta-feira (11).
-...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NI0hmU2ObG3i_RPjHekxclU6KSE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena-111220202168.jpg?itok=h3fJuH0H&quot; alt=&quot;Mega-Sena acumula e prêmio principal vai para R$ 12 milhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal Jr/Agência Brasil/Arquivo&lt;/p&gt;
-&lt;p&gt;Nenhum apostador acertou as seis dezenas do Concurso 3.017da Mega-Sena, realizado nestaquinta-feira (11).&lt;/p&gt;
-&lt;p&gt;O prêmio acumulou e está estimado em R$ 12milhões para o próximo sorteio.&lt;/p&gt;
-&lt;p&gt;Os números sorteados são:04 -06 -26 -28 -32 -45&lt;/p&gt;
-&lt;p&gt;36 apostas acertaram cinco dezenas e irão receber R$ 31.988,67 cada&lt;/p&gt;
-&lt;p&gt;2.575 apostas acertaram quatro dezenas e irão receber R$ 737,17 cada&lt;/p&gt;
-&lt;p&gt;Para o próximo concurso, as apostas podem ser feitas até as 20h (horário de Brasília) de sábado (13), em qualquer lotérica do país ou pela internet, no&lt;/p&gt;
-&lt;p&gt;A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;Dados do PNAD apontam que saúde masculina piora após separação&lt;/p&gt;
-&lt;p&gt;Marco Mazzola volta ao Festa do Disco para falar sobre &quot;Gita&quot;, o disco mais vendido de Raul Seixas&lt;/p&gt;
-&lt;p&gt;Cabo Verde estreia em Copa do Mundo&lt;/p&gt;
-&lt;p&gt;Governo regulamenta adesão ao sistema nacional de igualdade racial&lt;/p&gt;
-&lt;p&gt;Diagnosticar cardiopatias congênitas cedo aumenta qualidade de vida&lt;/p&gt;
-&lt;p&gt;Petrópolis, na região serrana do Rio, terá novo sinal de TV aberta&lt;/p&gt;
-&lt;p&gt;Revolução do Haiti: a história vetada pela Fifa em camisa da Copa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/mega-sena-acumula-e-premio-principal-vai-para-r-12-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal Jr/Agência Brasil/Arquivo
-Nenhum apostador acertou as seis dezenas do Concurso 3.017da Mega-Sena, realizado nestaquinta-feira (11).
-...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-06-11 21:31:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-11 21:31:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-11 21:31:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-11 21:31:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/NI0hmU2ObG3i_RPjHekxclU6KSE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena-111220202168.jpg?itok=h3fJuH0H</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
