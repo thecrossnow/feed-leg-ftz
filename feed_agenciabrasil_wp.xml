@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Thu, 18 Jun 2026 23:48:31 +0000</pubDate>
+    <pubDate>Fri, 19 Jun 2026 03:37:42 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,395 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Rio entra em alerta para ressaca e ondas de até 2,5 metros</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/rio-entra-em-alerta-para-ressaca-e-ondas-de-ate-25-metros</link>
+      <pubDate>Fri, 19 Jun 2026 03:37:42 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/rio-entra-em-alerta-para-ressaca-e-ondas-de-ate-25-metros#1000</guid>
+      <description>© Fernando Frazão/Agência Brasil
+O mar no litoral do Rio vai entrar em ressaca na madrugada desta sexta-feira (19), de acordo com alerta da Marinha d...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/SVijyRntpMuuSgGP5FdcKemE1Fg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/30/_d6a3842-2.jpg?itok=fXUl-Luj&quot; alt=&quot;Rio entra em alerta para ressaca e ondas de até 2,5 metros&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O mar no litoral do Rio vai entrar em ressaca na madrugada desta sexta-feira (19), de acordo com alerta da Marinha do Brasil. As ondas podem chegar a 2,5 metros de altura.&lt;/p&gt;
+&lt;p&gt;O mar deve ficar agitado até a madrugada de sábado (20), quando a ressaca começa a perder força.&lt;/p&gt;
+&lt;p&gt;Os banhistas devem evitar o mar, devido as valas e correntes marítimas que ainda permanecem nas praias cariocas.&lt;/p&gt;
+&lt;p&gt;&gt;&gt; Veja alertas doCentro de Operações da prefeitura do Rio aos banhistas:&lt;/p&gt;
+&lt;p&gt;Não permaneça em mirantes na orla ou em locais próximos ao mar;&lt;/p&gt;
+&lt;p&gt;Os frequentadores de praias devem seguir rigorosamente as orientações das equipes do Corpo de Bombeiros;&lt;/p&gt;
+&lt;p&gt;Pescadores devem evitar navegar enquanto a ressaca estiver ativa;&lt;/p&gt;
+&lt;p&gt;Evite pedalar de bicicleta na orla, caso as ondas alcancem ciclovia.&lt;/p&gt;
+&lt;p&gt;A previsão do tempo para esta sexta-feira (19), de acordo com o Sistema Alerta Rio, é deredução da nebulosidade e não há previsão de chuva&lt;/p&gt;
+&lt;p&gt;. Os ventos estarão moderados e as temperaturas em elevação, com a máxima de 29ºC.&lt;/p&gt;
+&lt;p&gt;Para sábado (20), a aproximação de uma frente fria vai influenciar o tempo na cidade do Rio. O céu ficaránublado a parcialmente nublado e há previsão de chuva fraca a moderada a partir do fim da noite. Durante o dia, a temperatura máxima chegará aos 32ºC.&lt;/p&gt;
+&lt;p&gt;Já para domingo (21), há previsão de chuva fraca a moderada. Os ventos estarão moderados. A temperatura máxima entrará em queda, chegando aos 27ºC.&lt;/p&gt;
+&lt;p&gt;Justiça de São Paulo aceita denúncia contra Deolane Bezerra e Marcola&lt;/p&gt;
+&lt;p&gt;Neymar de volta? Entenda o processo de recuperação do camisa dez da Seleção Brasileira&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/rio-entra-em-alerta-para-ressaca-e-ondas-de-ate-25-metros&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+O mar no litoral do Rio vai entrar em ressaca na madrugada desta sexta-feira (19), de acordo com alerta da Marinha d...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-06-18 22:21:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-18 22:21:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-18 22:21:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-18 22:21:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/SVijyRntpMuuSgGP5FdcKemE1Fg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/30/_d6a3842-2.jpg?itok=fXUl-Luj</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Conferência de Bonn tem avanços limitados e impasses para COP31</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/conferencia-de-bonn-tem-avancos-limitados-e-impasses-para-cop31</link>
+      <pubDate>Fri, 19 Jun 2026 03:37:42 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/conferencia-de-bonn-tem-avancos-limitados-e-impasses-para-cop31#1001</guid>
+      <description>© Lara Murillo/UN Climate Change
+As negociações realizadas na Conferência de Bonn sobre Mudanças Climáticas (SB64), na Alemanha, terminaram nesta qui...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hbebX4JlBfBj0z74UdEbP6_D7kY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/final_da_conferencia_de_bonn_sb64_das_nacoes_unidas_sobre_mudancas_climaticas._credito_lara_murillo.jpg?itok=U2dbM86a&quot; alt=&quot;Conferência de Bonn tem avanços limitados e impasses para COP31&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Lara Murillo/UN Climate Change&lt;/p&gt;
+&lt;p&gt;As negociações realizadas na Conferência de Bonn sobre Mudanças Climáticas (SB64), na Alemanha, terminaram nesta quinta-feira (18) com impasses e avanços limitados&lt;/p&gt;
+&lt;p&gt;A avaliação de instituições envolvidas no debate é de que temas centrais da agenda internacional permanecem sem solução e deverão voltar ao centro dos debates na 31ª Conferência das Nações Unidas sobre Mudanças Climáticas (COP31), marcada para novembro, na Turquia.&lt;/p&gt;
+&lt;p&gt;Em comunicado divulgado após o encerramento da SB64,&lt;/p&gt;
+&lt;p&gt;o secretário-executivo da Convenção-Quadro das Nações Unidas (UNFCCC), Simon Stiell, disse que as reuniões reforçaram a importância da cooperação internacional e da implementação dos compromissos assumidos no Acordo de Paris.&lt;/p&gt;
+&lt;p&gt;Segundo ele, os trabalhos técnicos realizados em Bonn criaram bases para que os países avancem nas negociações da próxima conferência do clima.&lt;/p&gt;
+&lt;p&gt;Para organizações da sociedade civil, porém, o balanço foi mais cauteloso ou crítico&lt;/p&gt;
+&lt;p&gt;. O Observatório do Clima (OC) classificou o resultado como decepcionante e avaliou que a conferência foi marcada por incertezas políticas e dificuldades para avançar em temas fundamentais.&lt;/p&gt;
+&lt;p&gt;&quot;Bonn naufragou. Os próprios negociadores, à noite, pareciam incrédulos diante da amplidão da falta de consenso entre eles mesmos em itens de agenda tão diversos quanto a meta global de adaptação, o programa de trabalho de mitigação e as sinergias entre as convenções do Rio&quot;, diz o texto do observatório.&lt;/p&gt;
+&lt;p&gt;A organização destacou que houve resistências dos negociadores inclusive para preservar compromissos previamente acordados e para adiar a publicação de documentos importantes sobre a crise climática.&lt;/p&gt;
+&lt;p&gt;&quot;Um desdobramento particularmente surreal foi a investida de alguns países em desenvolvimento contra a fundação do regime climático, a ciência. Puxados por China e Índia, membros do G77, o bloco das nações do Sul Global, vêm trabalhando para adiar a publicação do AR7, o próximo relatório do IPCC (o painel do clima da ONU)&quot;, diz outro trecho do OC.&lt;/p&gt;
+&lt;p&gt;Na mesma linha, aLACLIMA afirmou que os últimos dias da SB64 foram marcados por bloqueios sistêmicos e decisões adiadas. Segundo a organização, negociações sobre financiamento climático, agricultura, mitigação, adaptação e sinergias entre as Convenções do Rio ficaram sem consenso ou foram transferidas para a COP31.&lt;/p&gt;
+&lt;p&gt;A analista de políticas climáticas Marina Guião destacou os impasses em torno do financiamento público internacional.&lt;/p&gt;
+&lt;p&gt;“Houve um impasse se o tema terá um item de agenda e uma decisão na COP31 ou se seguirá apenas como um diálogo. Para preservar o mandato de Belém, o presidente da COP30 enviou uma carta ao secretário-executivo da UNFCCC reiterando a necessidade desse espaço estruturado”, disse.&lt;/p&gt;
+&lt;p&gt;A Climate Action Network (CAN) avaliou que&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/conferencia-de-bonn-tem-avancos-limitados-e-impasses-para-cop31&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Lara Murillo/UN Climate Change
+As negociações realizadas na Conferência de Bonn sobre Mudanças Climáticas (SB64), na Alemanha, terminaram nesta qui...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-06-18 22:04:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-18 22:04:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-18 22:04:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-18 22:04:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/hbebX4JlBfBj0z74UdEbP6_D7kY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/final_da_conferencia_de_bonn_sb64_das_nacoes_unidas_sobre_mudancas_climaticas._credito_lara_murillo.jpg?itok=U2dbM86a</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Veja os resultados dos jogos de quinta-feira (18) na Copa</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/veja-os-resultados-dos-jogos-de-quinta-feira-18-na-copa</link>
+      <pubDate>Fri, 19 Jun 2026 03:37:42 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/veja-os-resultados-dos-jogos-de-quinta-feira-18-na-copa#1002</guid>
+      <description>As partidas destaquinta-feira (18) abriram a segunda rodada da fase de grupos da Copa do Mundo 2026. Foram quatro partidas disputadas pelos grupos A ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iNTeG2c7qG5KTMEhHF_Q6QE4E4o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/canada_2.jpg?itok=ampX6ki6&quot; alt=&quot;Veja os resultados dos jogos de quinta-feira (18) na Copa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As partidas destaquinta-feira (18) abriram a segunda rodada da fase de grupos da Copa do Mundo 2026. Foram quatro partidas disputadas pelos grupos A e B.&lt;/p&gt;
+&lt;p&gt;&gt;&gt; Veja os resultados dos jogos de hoje:&lt;/p&gt;
+&lt;p&gt;África do Sul 1 x 1 República Tcheca(Grupo A)&lt;/p&gt;
+&lt;p&gt;A África do Sul e a República Tcheca terminaram em 1 a 1&lt;/p&gt;
+&lt;p&gt;.O atacante tcheco Michael Sadílek abriu o placar. Ele fez o gol mais rápido da Copa do Mundo de 2026nos primeiros seis minutos do jogo.Aos 60 minutos, os sul-africanos conseguiram fazer o gol de empate na marcação de um pênalti.&lt;/p&gt;
+&lt;p&gt;As duas seleções seguem com chances de classificação para a próxima rodada do torneio.&lt;/p&gt;
+&lt;p&gt;Suíça 4 x 1 Bósnia e Herzegovina(Grupo B)&lt;/p&gt;
+&lt;p&gt;A Suíça venceu a Bósnia por 4 a1&lt;/p&gt;
+&lt;p&gt;, com a ajuda de dois gols do reserva Johan Manzambi no segundo tempo, e assumiu a dianteira no Grupo B da Copa do Mundo nesta quinta-feira (18), no Estádio de Los Angeles. Com quatro pontos, os suecos precisam de apenas mais um para garantir vaga na próxima fase do Mundial.&lt;/p&gt;
+&lt;p&gt;Eles irão enfrentaro Canadá, em Vancouver, na quarta-feira (24). A Bósnia, com um ponto, joga contra o Catar em Seattle.&lt;/p&gt;
+&lt;p&gt;O Canadá (foto) conquistou a primeira vitória em uma Copa do Mundo&lt;/p&gt;
+&lt;p&gt;. Anfitriões do evento ao lado de Estados Unidos e México, os canadenses golearam o Catar por 6a 0 em Vancouver, pela segunda rodada do Grupo B.&lt;/p&gt;
+&lt;p&gt;O time da casa lidera a chave com os mesmos quatro pontos da Suíça, mas fica a frente no saldo de gols.&lt;/p&gt;
+&lt;p&gt;México x Coreia do Sul (Grupo A)&lt;/p&gt;
+&lt;p&gt;A última partida do dia é entre México e Coreia do Sul, às 22h (horário de Brasília), em Guadalajara, cidade mexicana.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/veja-os-resultados-dos-jogos-de-quinta-feira-18-na-copa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>As partidas destaquinta-feira (18) abriram a segunda rodada da fase de grupos da Copa do Mundo 2026. Foram quatro partidas disputadas pelos grupos A ...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-06-18 22:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-18 22:00:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-18 22:00:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-18 22:00:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/iNTeG2c7qG5KTMEhHF_Q6QE4E4o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/canada_2.jpg?itok=ampX6ki6</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Ancelotti admite mudanças contra Haiti e desconversa sobre Endrick</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ancelotti-admite-mudancas-contra-haiti-e-desconversa-sobre-endrick</link>
+      <pubDate>Fri, 19 Jun 2026 03:37:42 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ancelotti-admite-mudancas-contra-haiti-e-desconversa-sobre-endrick#1003</guid>
+      <description>O técnico Carlo Ancelotti admitiu, nesta quinta-feira (18), que deve fazer mudanças na seleção brasileira para o compromisso de sexta-feira (19), às ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hTM3gBEqEN604D2LWJSAd1XWCXo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/treino_da_selecao_brasileira.jpg?itok=NuaJsurS&quot; alt=&quot;Ancelotti admite mudanças contra Haiti e desconversa sobre Endrick&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O técnico Carlo Ancelotti admitiu, nesta quinta-feira (18), que deve fazer mudanças na seleção brasileira para o compromisso de sexta-feira (19), às 21h30 (horário de Brasília), contra o Haiti, na Filadélfia, pela segunda rodada do Grupo C da Copa do Mundo.&lt;/p&gt;
+&lt;p&gt;O treinador, porém, evitou confirmar quem pode sair ou entrar na equipe&lt;/p&gt;
+&lt;p&gt;em relação ao time do empate por 1 a 1 com Marrocos, no último sábado (13), em Nova Jersey.&lt;/p&gt;
+&lt;p&gt;&quot;Alguma mudança vamos fazer. Pode ser de alguns jogadores mais frescos que outros. Temos que melhorar no equilíbrio e na qualidade do jogo. Acho que temos qualidade para fazermos um jogo com mais entretenimento. Temos jogadores de qualidade, fortes, potentes. O pensamento comum é que podemos e temos que fazer melhor&quot;, afirmou o italiano, em entrevista coletiva no palco da partida desta sexta.&lt;/p&gt;
+&lt;p&gt;&quot;Na minha cabeça [o time] está definido. Vou comunicar a eles [jogadores] amanhã. Não tenho problema nenhum de passar a escalação, futebol não tem segredos, mas prefiro comunicar primeiro aos jogadores&quot;, completou o técnico brasileiro, ao ser indagado se poderia adiantar a formação.&lt;/p&gt;
+&lt;p&gt;Ao admitir que poderia mexer na equipe, Ancelotti não escapou de perguntas sobre Endrick.&lt;/p&gt;
+&lt;p&gt;A opção de não colocar o atacante na estreia contra Marrocos gerou críticas de torcedores e questionamentos sobre a intenção do italiano de realmente contar com o jovem, que completa 20 anos no próximo dia 21 de julho.&lt;/p&gt;
+&lt;p&gt;O treinador fez elogios ao jogador, mas desconversou sobre utilizá-lo diante do Haiti.&lt;/p&gt;
+&lt;p&gt;&quot;Pessoalmente, [considero Endrick] um talento extraordinário e o Brasil vai aproveitar suas qualidades nesta e na próxima Copa do Mundo. Ele é paciente. Não tem pressa. É muito maduro para a idade, o que é um aspecto importante. Tem a família perto dele. Isso é importante para um jovem&quot;, declarou o técnico.&lt;/p&gt;
+&lt;p&gt;&quot;[Vou utilizá-lo] No momento correto. Tem que esperar um pouco, mas será importante&quot;, resumiu.&lt;/p&gt;
+&lt;p&gt;Com base nos treinos da semana no Columbia Park, em Nova Jersey, o Brasil deve ir a campo com: Alisson; Danilo, Gabriel Magalhães, Marquinhos e Douglas Santos; Casemiro (Fabinho) e Bruno Guimarães; Luiz Henrique (Lucas Paquetá), Raphinha, Vinícius Júnior e Igor Thiago&lt;/p&gt;
+&lt;p&gt;Sobre o Haiti, Ancelotti pregou respeito ao adversário, que ocupa a 85ª posição no ranking da Federação Internacional de Futebol (Fifa). O Brasil iniciou a Copa em sexto. A diferença de 79 postos é a maior deste Mundial.&lt;/p&gt;
+&lt;p&gt;Os caribenhos vêm de derrota por 1 a 0 para a Escócia na estreia, sábado passado, em Boston.&lt;/p&gt;
+&lt;p&gt;&quot;O jogo contra a Escócia foi muito equilibrado e o Haiti mostrou qualidade. Uma equipe bem organizada, com jogadores de ataque bons e fortes. Temos de respeitar como todos os rivais. A Copa do Mundo já nos mostrou que não há partidas com resultados claros. São sempre jogos competitivos&quot;, concluiu.&lt;/p&gt;
+&lt;p&gt;Justiça de São Paulo aceita denúncia contra Deolane Bezerra e Marcola&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ancelotti-admite-mudancas-contra-haiti-e-desconversa-sobre-endrick&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O técnico Carlo Ancelotti admitiu, nesta quinta-feira (18), que deve fazer mudanças na seleção brasileira para o compromisso de sexta-feira (19), às ...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-06-18 21:46:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-18 21:46:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-18 21:46:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-18 21:46:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/hTM3gBEqEN604D2LWJSAd1XWCXo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/treino_da_selecao_brasileira.jpg?itok=NuaJsurS</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Mega-Sena acumula novamente e prêmio principal vai para R$ 42 milhões</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/mega-sena-acumula-novamente-e-premio-principal-vai-para-r-42-milhoes</link>
+      <pubDate>Fri, 19 Jun 2026 03:37:42 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/mega-sena-acumula-novamente-e-premio-principal-vai-para-r-42-milhoes#1004</guid>
+      <description>© Marcello Casal JrAgência Brasil
+Nenhum apostador acertou as seis dezenas do Concurso 3.020da Mega-Sena, realizado nestaquinta-feira (18).
+O prêmio ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/C-dZR6M5JIgwi220JAXqjmJmeiI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena-1112203503_0.jpg?itok=fOdsvsC1&quot; alt=&quot;Mega-Sena acumula novamente e prêmio principal vai para R$ 42 milhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
+&lt;p&gt;Nenhum apostador acertou as seis dezenas do Concurso 3.020da Mega-Sena, realizado nestaquinta-feira (18).&lt;/p&gt;
+&lt;p&gt;O prêmio acumulou e está estimado em R$ 42 milhões para o próximo sorteio.&lt;/p&gt;
+&lt;p&gt;Os números sorteados são:06 -09 -17 -27 -29 -45&lt;/p&gt;
+&lt;p&gt;59 apostas acertaram cinco dezenas e irão receber R$ 26.657,14 cada&lt;/p&gt;
+&lt;p&gt;4.314 apostas acertaram quatro dezenas e irão receber R$ 600,94 cada&lt;/p&gt;
+&lt;p&gt;Para o próximo concurso, as apostas podem ser feitas até as 20h (horário de Brasília) de sábado (20), em qualquer lotérica do país ou pela internet, no&lt;/p&gt;
+&lt;p&gt;A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
+&lt;p&gt;Justiça de São Paulo aceita denúncia contra Deolane Bezerra e Marcola&lt;/p&gt;
+&lt;p&gt;Neymar de volta? Entenda o processo de recuperação do camisa dez da Seleção Brasileira&lt;/p&gt;
+&lt;p&gt;Projeto social leva futebol e cidadania a 300 alunos em Cabo verde&lt;/p&gt;
+&lt;p&gt;Rio entra em alerta para ressaca e ondas de até 2,5 metros&lt;/p&gt;
+&lt;p&gt;Conferência de Bonn tem avanços limitados e impasses para COP31&lt;/p&gt;
+&lt;p&gt;Veja os resultados dos jogos de quinta-feira (18) na Copa&lt;/p&gt;
+&lt;p&gt;Ancelotti admite mudanças contra Haiti e desconversa sobre Endrick&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/mega-sena-acumula-novamente-e-premio-principal-vai-para-r-42-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello Casal JrAgência Brasil
+Nenhum apostador acertou as seis dezenas do Concurso 3.020da Mega-Sena, realizado nestaquinta-feira (18).
+O prêmio ...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-06-18 21:26:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-18 21:26:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-18 21:26:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-18 21:26:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/C-dZR6M5JIgwi220JAXqjmJmeiI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena-1112203503_0.jpg?itok=fOdsvsC1</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Canadá atropela Catar e vence pela primeira vez em uma Copa do Mundo</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/canada-atropela-catar-e-vence-pela-primeira-vez-em-uma-copa-do-mundo</link>
+      <pubDate>Fri, 19 Jun 2026 03:37:42 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/canada-atropela-catar-e-vence-pela-primeira-vez-em-uma-copa-do-mundo#1005</guid>
+      <description>O Canadá conquistou, nesta quinta-feira (18), a primeira vitória em uma Copa do Mundo. Anfitriões do evento ao lado de Estados Unidos e México, os ca...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LySh3tH27nBmzDwGnC9GcloJDK8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/2026-06-18t233450z_1639021472_up1em6i1ti016_rtrmadp_3_soccer-worldcup-can-qat.jpg?itok=fNMpDjyi&quot; alt=&quot;Canadá atropela Catar e vence pela primeira vez em uma Copa do Mundo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Canadá conquistou, nesta quinta-feira (18), a primeira vitória em uma Copa do Mundo. Anfitriões do evento ao lado de Estados Unidos e México, os canadenses golearam o Catar por 6a 0 em Vancouver, pela segunda rodada do Grupo B.&lt;/p&gt;
+&lt;p&gt;O time da casa lidera a chave com os mesmos quatro pontos da Suíça, mas fica a frente no saldo de gols. Mais cedo nesta quinta,&lt;/p&gt;
+&lt;p&gt;os alpinos fizeram 4 a 1 na Bósnia e Herzegovina&lt;/p&gt;
+&lt;p&gt;em Los Angeles. Cataris e bósnios seguem com o ponto somado na estreia.&lt;/p&gt;
+&lt;p&gt;O resultado, de quebra, deixa o Canadá mais perto da fase seguinte do Mundial. Além dos dois primeiros colocados do grupo, os oito melhores terceiros entre as 12 chaves também avançam.&lt;/p&gt;
+&lt;p&gt;O duelo também ficou marcado pela triste lesão de Ismail Koné. No segundo tempo, o canadense fraturou a perna esquerda após ser atingido pelo também volante Assim Madibo. O próprio jogador catari ficou em choque e sequer ofereceu resistência ao cartão vermelho que recebeu do árbitro chileno Cristián Garay.&lt;/p&gt;
+&lt;p&gt;As seleções definem o futuro na Copa na próxima quarta-feira (24).&lt;/p&gt;
+&lt;p&gt;O Canadá recebe a Suíça, novamente em Vancouver, enquanto o Catar vai para os Estados Unidos encarar a Bósnia em Seattle.&lt;/p&gt;
+&lt;p&gt;As duas partidas iniciam às 16h (horário de Brasília).&lt;/p&gt;
+&lt;p&gt;O Canadá foi a campo com duas trocas em relação ao time da estreia. Autor do gol do empate por 1 a 1 com a Bósnia e Herzegovina, em Toronto, Cyle Larin saiu jogando, assim como Ali Ahmed. Eles ficaram nos lugares do também atacante Tani Oluwaseyi e do meia Liam Millar.&lt;/p&gt;
+&lt;p&gt;O Catar repetiu a escalação que buscou a igualdade em 1 a 1 com a Suíça em Santa Clara, também em solo canadense.&lt;/p&gt;
+&lt;p&gt;E foi justamente Larin quem colocou o Canadá a frente. Aos 15 minutos, o lateral Alistair Johnston conseguiu o cruzamento pela direita, na linha de fundo. O atacante Jonathan David chutou de primeira, o goleiro Mahmoud Abunada deu rebote na pequena área e o camisa 9 dos anfitriões - que antes da Copa, não marcava gol pela seleção do país desde outubro de 2024 - mandou para as redes.&lt;/p&gt;
+&lt;p&gt;Pressionando e diminuindo os espaços para saída de jogo do Catar, o Canadá aumentou a vantagem aos 28. O atacante Tajon Buchanan chutou da entrada da área, a bola desviou no zagueiro Boualem Khoukhi e sobrou com David, que finalizou com liberdade, sem chances para o goleiro.&lt;/p&gt;
+&lt;p&gt;Dois minutos depois, Buchanan recebeu lançamento às costas da defesa e acabou derrubado por Homam Ahmed no limite da grande área. Inicialmente, o pênalti foi marcado, mas o árbitro de vídeo (VAR, na sigla em inglês) viu que o lance foi fora da área. O zagueiro, porém, não escapou de ser expulso, já que era o último homem da marcação e o atacante canadense ficaria sozinho contra Abunada.&lt;/p&gt;
+&lt;p&gt;O Canada aproveitou a superioridade numérica e chegou ao terceiro nos acréscimos. Aos 47, Buchanan cruzou pela esquerda, Larin cabeceou e obrigou Abunada uma grande defesa no ângulo esquerdo. O rebote, porém, sobrou com Davies, que completou para as redes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/canada-atropela-catar-e-vence-pela-primeira-vez-em-uma-copa-do-mundo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Canadá conquistou, nesta quinta-feira (18), a primeira vitória em uma Copa do Mundo. Anfitriões do evento ao lado de Estados Unidos e México, os ca...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-06-18 21:07:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-18 21:07:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-18 21:07:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-18 21:07:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/LySh3tH27nBmzDwGnC9GcloJDK8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/2026-06-18t233450z_1639021472_up1em6i1ti016_rtrmadp_3_soccer-worldcup-can-qat.jpg?itok=fNMpDjyi</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>STF mantém condenações dos cinco acusados pela morte de Marielle</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-mantem-condenacoes-dos-cinco-acusados-pela-morte-de-marielle</link>
+      <pubDate>Fri, 19 Jun 2026 03:37:42 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-mantem-condenacoes-dos-cinco-acusados-pela-morte-de-marielle#1006</guid>
+      <description>A Primeira Turma do Supremo Tribunal Federal (STF) formou nesta quinta-feira (18) maioria de votos para manter as condenações dos cinco acusados de p...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/fVmy8ladbZ60Pyctz187U_KoV9s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/26/22_0.jpg?itok=nTvWcKnL&quot; alt=&quot;STF mantém condenações dos cinco acusados pela morte de Marielle&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Primeira Turma do Supremo Tribunal Federal (STF) formou nesta quinta-feira (18) maioria de votos para manter as condenações dos cinco acusados de participação assassinato da vereadora Marielle Franco e do motorista Anderson Gomes,&lt;/p&gt;
+&lt;p&gt;Até o momento, o placar da votação está 3 votos a 0 contra os recursos apresentados pelas defesas dos acusados. A votação virtual será encerrada nesta sexta-feira (19). Falta o voto da ministra Cármen Lúcia.&lt;/p&gt;
+&lt;p&gt;Com o placar desfavorável, ficam mantidas as condenações de:&lt;/p&gt;
+&lt;p&gt;Domingos Brazão, conselheiro do Tribunal de Contas do Rio de Janeiro,&lt;/p&gt;
+&lt;p&gt;Chiquinho Brazão, ex-deputado federal,&lt;/p&gt;
+&lt;p&gt;Rivaldo Barbosa, ex-chefe da Polícia Civil do Rio de Janeiro,&lt;/p&gt;
+&lt;p&gt;Ronald de Paula,major da Polícia Militar e&lt;/p&gt;
+&lt;p&gt;Robson Calixto,ex-policial militar.&lt;/p&gt;
+&lt;p&gt;pela Primeira Turma da Corte. Os irmãos Domingos e Chiquinho Brazão foram condenados a 76 anos de prisão.&lt;/p&gt;
+&lt;p&gt;Rivaldo recebeu pena de 18 anos de prisão. Ronald vai cumprir 56 anos de prisão, e Robson Calixto foi condenado a 9 anos.&lt;/p&gt;
+&lt;p&gt;Todos já estão presos. Chiquinho Brazão está em prisão domiciliar por questões de saúde.&lt;/p&gt;
+&lt;p&gt;Justiça de São Paulo aceita denúncia contra Deolane Bezerra e Marcola&lt;/p&gt;
+&lt;p&gt;Neymar de volta? Entenda o processo de recuperação do camisa dez da Seleção Brasileira&lt;/p&gt;
+&lt;p&gt;Projeto social leva futebol e cidadania a 300 alunos em Cabo verde&lt;/p&gt;
+&lt;p&gt;Rio entra em alerta para ressaca e ondas de até 2,5 metros&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-mantem-condenacoes-dos-cinco-acusados-pela-morte-de-marielle&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Primeira Turma do Supremo Tribunal Federal (STF) formou nesta quinta-feira (18) maioria de votos para manter as condenações dos cinco acusados de p...</excerpt:encoded>
+      <wp:post_id>1006</wp:post_id>
+      <wp:post_date>2026-06-18 20:41:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-18 20:41:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-18 20:41:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-18 20:41:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/fVmy8ladbZ60Pyctz187U_KoV9s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/12/26/22_0.jpg?itok=nTvWcKnL</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Plataformas passam a exigir autorização para remunerar menores</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/plataformas-passam-exigir-autorizacao-para-remunerar-menores</link>
+      <pubDate>Fri, 19 Jun 2026 03:37:42 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/plataformas-passam-exigir-autorizacao-para-remunerar-menores#1007</guid>
+      <description>Crianças e adolescentes agora precisam de autorização judicial em casos de exposição comercial nas redes sociais, tanto em rede própria quanto em can...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/42b2o85oCiU7iVC9Fjj0RYrbjMo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/28/_mg_5832_0.jpg?itok=Kt4dGdra&quot; alt=&quot;Plataformas passam a exigir autorização para remunerar menores&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Crianças e adolescentes agora precisam de autorização judicial em casos de exposição comercial nas redes sociais, tanto em rede própria quanto em canais de adultos. A determinação começou a valer nesta semana e está prevista no&lt;/p&gt;
+&lt;p&gt;Estatuto Digitalda Criança e do Adolescente&lt;/p&gt;
+&lt;p&gt;A norma determina que, caso os chamados influenciadores mirins não tenham o alvará, os conteúdos devem ser suspensos imediatamente pelas plataformas digitais, enquanto a situação não for regularizada.&lt;/p&gt;
+&lt;p&gt;Além disso, as redes digitais, comoYouTube, Instagram, Facebook, TikTok, Twitch e Kwai,não podem monetizar (pagar por visualizações/anúncios) ou impulsionar conteúdos que explorem, de forma habitual, a imagem ou a rotina de crianças e adolescentes sem autorização judicial.&lt;/p&gt;
+&lt;p&gt;ECA Digital estar em vigor desde março&lt;/p&gt;
+&lt;p&gt;, a legislação deu três meses para a estas normas relacionadas às plataformas digitais começarem a valer.&lt;/p&gt;
+&lt;p&gt;O ECA digital também proíbe que os serviços de tecnologia da informação veiculem, monetizem ou impulsionem conteúdos que exponham crianças ou adolescentes a situações violadoras, erotizadas, vexatórias, degradantes ou publicidade vedada.&lt;/p&gt;
+&lt;p&gt;Na última sexta-feira (12),o Ministério da Justiça e Segurança Pública (MJSP)encaminhou um ofício às principais plataformas digitais com recomendações para adequação à nova legislação, na parte que trata das atividades artísticas online de crianças e adolescentes.&lt;/p&gt;
+&lt;p&gt;Entre as recomendações, está a de que as plataformas notifiquemtodos os perfis sobre a obrigatoriedade de autorização judicial para conteúdos remunerados e adotem meios de verificação dos que já possuem alvará para atividade artística de crianças e adolescentes.&lt;/p&gt;
+&lt;p&gt;Porém, nos primeiros meses de vigência da norma, admite-se, temporariamente, o comprovante de protocolo do requerimento para justificar a regularização em curso.&lt;/p&gt;
+&lt;p&gt;Instituído em abril deste ano para criar propostas deregularização e fiscalização da atividade artística de crianças e adolescentes em ambientes digitais, o Comitê Consultivoelaborou&lt;/p&gt;
+&lt;p&gt;paragarantir que a exposição virtual não prejudique o desenvolvimento do menor.&lt;/p&gt;
+&lt;p&gt;Além disso, na próxima terça-feira (23), o Comitê Consultivo apresenta uma&lt;/p&gt;
+&lt;p&gt;de alvarás será votada no plenário do Conselho Nacional de Justiça (CNJ).&lt;/p&gt;
+&lt;p&gt;A minuta de resolução prevê a criação do Banco Nacional de Alvarás para a Participação de Crianças e Adolescentes no Ambiente Digital (BNAD), gerido pelo próprio poder público para permitir a fiscalização pelas autoridades e o controle social.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/plataformas-passam-exigir-autorizacao-para-remunerar-menores&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Crianças e adolescentes agora precisam de autorização judicial em casos de exposição comercial nas redes sociais, tanto em rede própria quanto em can...</excerpt:encoded>
+      <wp:post_id>1007</wp:post_id>
+      <wp:post_date>2026-06-18 20:38:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-18 20:38:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-18 20:38:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-18 20:38:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/42b2o85oCiU7iVC9Fjj0RYrbjMo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/28/_mg_5832_0.jpg?itok=Kt4dGdra</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>PGR se manifesta contra suspensão da Lei da Dosimetria</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/pgr-se-manifesta-contra-suspensao-da-lei-da-dosimetria</link>
-      <pubDate>Thu, 18 Jun 2026 23:48:31 +0000</pubDate>
+      <pubDate>Fri, 19 Jun 2026 03:37:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/pgr-se-manifesta-contra-suspensao-da-lei-da-dosimetria#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/pgr-se-manifesta-contra-suspensao-da-lei-da-dosimetria#1008</guid>
       <description>A Procuradoria-Geral da República (PGR) enviou nesta quinta-feira (18) ao Supremo Tribunal Federal (STF) parecer contrário à suspensão da Lei da Dosi...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/AVdgN1CR4HOs-effDq-plj2LMvw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/04/19/53601013030_f55bff3da6_o.jpg?itok=-KHSpXWj&quot; alt=&quot;PGR se manifesta contra suspensão da Lei da Dosimetria&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Procuradoria-Geral da República (PGR) enviou nesta quinta-feira (18) ao Supremo Tribunal Federal (STF) parecer contrário à suspensão da Lei da Dosimetria, norma que permite a redução das penas dos condenados pelos atos golpistas de 8 de janeiro de 2023, entre eles, o ex-presidente Jair Bolsonaro.&lt;/p&gt;
@@ -39,13 +423,11 @@
 &lt;p&gt;a Advocacia-Geral da União (AGU) defendeu a inconstitucionalidade da lei&lt;/p&gt;
 &lt;p&gt;Para o órgão, os atentados contra a democracia devem receber a resposta firme diante da gravidade das condutas.&lt;/p&gt;
 &lt;p&gt;A data do julgamento ainda não foi marcada.&lt;/p&gt;
-&lt;p&gt;Partida da Copa é comandada por trio de arbitragem totalmente feminino&lt;/p&gt;
+&lt;p&gt;Justiça de São Paulo aceita denúncia contra Deolane Bezerra e Marcola&lt;/p&gt;
 &lt;p&gt;Neymar de volta? Entenda o processo de recuperação do camisa dez da Seleção Brasileira&lt;/p&gt;
-&lt;p&gt;Expectativa de vida e necessidade de renda mantêm idosos no mercado&lt;/p&gt;
-&lt;p&gt;PGR se manifesta contra suspensão da Lei da Dosimetria&lt;/p&gt;
-&lt;p&gt;Suíça deslancha no fim e vence Bósnia com 2 gols de jogador reserva&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/pgr-se-manifesta-contra-suspensao-da-lei-da-dosimetria&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Projeto social leva futebol e cidadania a 300 alunos em Cabo verde&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/pgr-se-manifesta-contra-suspensao-da-lei-da-dosimetria&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Procuradoria-Geral da República (PGR) enviou nesta quinta-feira (18) ao Supremo Tribunal Federal (STF) parecer contrário à suspensão da Lei da Dosi...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-06-18 19:53:00</wp:post_date>
       <wp:post_date_gmt>2026-06-18 19:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-06-18 19:53:00</wp:post_modified>
@@ -71,9 +453,9 @@
     <item>
       <title>STF decide anular absolvição do acusado de estuprar Mariana Ferrer</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-decide-anular-absolvicao-do-acusado-de-estuprar-mariana-ferrer</link>
-      <pubDate>Thu, 18 Jun 2026 23:48:31 +0000</pubDate>
+      <pubDate>Fri, 19 Jun 2026 03:37:42 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-decide-anular-absolvicao-do-acusado-de-estuprar-mariana-ferrer#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-decide-anular-absolvicao-do-acusado-de-estuprar-mariana-ferrer#1009</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 O Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (18) determinar a anulação do processo que abs...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PW3-jBkNYpWlDZVcp5EK1oLXoXU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11042023-pzzb9202.jpg?itok=_8J3lami&quot; alt=&quot;STF decide anular absolvição do acusado de estuprar Mariana Ferrer&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -94,7 +476,7 @@ O Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (18) determinar a an
 &lt;p&gt;A ministra Cármen Lúcia, única mulher na Corte, disse que o caso chama atenção pela &quot;conduta imoral e inconstitucional&quot; do juiz do caso.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/stf-decide-anular-absolvicao-do-acusado-de-estuprar-mariana-ferrer&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 O Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (18) determinar a anulação do processo que abs...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-06-18 19:04:00</wp:post_date>
       <wp:post_date_gmt>2026-06-18 19:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-06-18 19:04:00</wp:post_modified>
@@ -115,392 +497,6 @@ O Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (18) determinar a an
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/PW3-jBkNYpWlDZVcp5EK1oLXoXU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11042023-pzzb9202.jpg?itok=_8J3lami</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Fenômeno de planetas alinhados com a Lua pode ser observado a olho nu</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/fenomeno-de-planetas-alinhados-com-lua-pode-ser-observado-olho-nu</link>
-      <pubDate>Thu, 18 Jun 2026 23:48:31 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/fenomeno-de-planetas-alinhados-com-lua-pode-ser-observado-olho-nu#1002</guid>
-      <description>O alinhamento da Lua crescente com os planetas Vênus, Júpiter e Mercúrio visto a olho nu nesta quarta-feira (17),
-pode ser observado novamente nesta ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5E1S_b1cyZ-xfl7fLEWXvvOE5Aw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/_int0587.jpg.jpeg?itok=1-DEqSED&quot; alt=&quot;Fenômeno de planetas alinhados com a Lua pode ser observado a olho nu&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O alinhamento da Lua crescente com os planetas Vênus, Júpiter e Mercúrio visto a olho nu nesta quarta-feira (17),&lt;/p&gt;
-&lt;p&gt;pode ser observado novamente nesta quinta-feira (18), em diversas regiões do país&lt;/p&gt;
-&lt;p&gt;A contemplação do fenômeno a olho nu dispensa equipamentos como telescópios ou binóculos, mas exige céu limpo e horizonte desobstruído.&lt;/p&gt;
-&lt;p&gt;Os planetas seguem visíveis nos próximos dias, mas a Lua muda de posição a cada noite.&lt;/p&gt;
-&lt;p&gt;A observação dos corpos celestes visíveis a olho nu - Mercúrio, Vênus e Júpiter - se destacou pela sua estética e proximidade aparente com a Lua.&lt;/p&gt;
-&lt;p&gt;Como o alinhamento de planetas ocorre com certa regularidade, a astrônoma do Observatório Nacional Josina Nascimento disse que esse evento se tornou excepcional devido à forma como os astros se apresentaram visualmente.&lt;/p&gt;
-&lt;p&gt;“O que vimos ontem [quarta-feira] foi um fenômeno mais raro, porque os planetas apareceram alinhados, como sempre, mas aparentemente bem próximos e com a Lua fininha, aparentemente muito próxima de Vênus. É isso que tornou esse fenômeno raro”, explicou.&lt;/p&gt;
-&lt;p&gt;A astrônoma destaca ainda que “Vênus é o planeta mais brilhante do céu, seguido por Júpiter, e continuará visível após o pôr do sol até o mês de novembro”.&lt;/p&gt;
-&lt;p&gt;O alinhamento ocorre porque os planetas visíveis a olho nu Mercúrio, Vênus, Marte, Júpiter e Saturno têm seus planos de órbita quase no mesmo plano da órbita da Terra em torno do Sol.&lt;/p&gt;
-&lt;p&gt;E o mesmo para a Lua, cujo plano de órbita é inclinado em apenas 5 graus em relação ao da Terra.&lt;/p&gt;
-&lt;p&gt;Por estarem nesse mesmo plano, os planetas e a Lua percorrem no céu quase o mesmo caminho aparente que o Sol faz, chamado de eclíptica.&lt;/p&gt;
-&lt;p&gt;“Eles estarão sempre nesse caminho da eclíptica, que é também o mesmo caminho onde estão as constelações zodiacais”, explicou a astrônoma do Observatório Nacional.&lt;/p&gt;
-&lt;p&gt;Segundo Josina Nascimento, o fenômeno de aproximação aparente, de pelo menos dois planetas, acontece, em média, a cada 13 ou 15 meses.&lt;/p&gt;
-&lt;p&gt;E, em todos os meses a Lua passeia por perto de todos os planetas.&lt;/p&gt;
-&lt;p&gt;&quot;É interessante acompanhar, olhar para o céu todos os dias, observar onde está a Lua a cada dia e ver o caminho que ela percorre passando pelas constelações da faixa zodiacal perto dos planetas”, disse.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/fenomeno-de-planetas-alinhados-com-lua-pode-ser-observado-olho-nu&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O alinhamento da Lua crescente com os planetas Vênus, Júpiter e Mercúrio visto a olho nu nesta quarta-feira (17),
-pode ser observado novamente nesta ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
-      <wp:post_date>2026-06-18 18:47:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-18 18:47:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-18 18:47:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-18 18:47:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/5E1S_b1cyZ-xfl7fLEWXvvOE5Aw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/_int0587.jpg.jpeg?itok=1-DEqSED</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Programa de atenção domiciliar amplia cuidado aos idosos no país</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/programa-de-atencao-domiciliar-amplia-cuidado-aos-idosos-no-pais</link>
-      <pubDate>Thu, 18 Jun 2026 23:48:31 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/programa-de-atencao-domiciliar-amplia-cuidado-aos-idosos-no-pais#1003</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-O Ministério da Saúde lançou nesta quinta-feira (18), no Rio de Janeiro, o Programa de Atenção Domiciliar à Pessoa ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dU_0bfE4P6YrjQwCHbt-Ismpz0A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/raf05885.jpg?itok=Sl7GvHma&quot; alt=&quot;Programa de atenção domiciliar amplia cuidado aos idosos no país&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O Ministério da Saúde lançou nesta quinta-feira (18), no Rio de Janeiro, o Programa de Atenção Domiciliar à Pessoa Idosa (Padi Brasil). A previsão é investir R$ 500 milhões para estruturar e levar equipes multiprofissionais aos lares de idosos que têm limitações funcionais e não podem se deslocar até uma unidade de saúde.&lt;/p&gt;
-&lt;p&gt;As administrações municipais poderão solicitar a criação de novas equipes ou a ampliação das já existentes na atenção básica. Isso inclui o aumento da carga horária de atendimento e a contratação de novos profissionais, incluindo médicos especialistas.&lt;/p&gt;
-&lt;p&gt;Até o momento, 2.733 municípios solicitaram adesão ao Padi Brasil, totalizando o pedido de 3.677 equipes.&lt;/p&gt;
-&lt;p&gt;O repasse mensal para cada equipe poderá ter um incremento de até R$ 10 mil por meio do programa, alcançando o valor de até R$ 57,5 mil mensais, a depender da modalidade da equipe multiprofissional (Ampliada, Complementar ou Estratégica).&lt;/p&gt;
-&lt;p&gt;De acordo com o ministro da Saúde, Alexandre Padilha, esses grupos de trabalho são compostos por profissionais de saúde de diferentes áreas que atuam de forma integrada às equipes de Saúde da Família.&lt;/p&gt;
-&lt;p&gt;&quot;O idoso vai receber a visita de profissionais especializados com um olhar especial para as condições deles, que têm dificuldades de mobilidade e não conseguem fazer atividades físicas. Serão desde médicos, fisioterapeutas, enfermeiros, terapeutas ocupacionais até assistentes sociais&quot;, detalhou o ministro.&lt;/p&gt;
-&lt;p&gt;Segundoo ministro, cada município pode escolher a composição profissional ideal a partir de um cardápio oferecido pelo Ministério da Saúde.&lt;/p&gt;
-&lt;p&gt;O governo federal prevê investir R$ 163,2 milhões em 2026 e R$ 329,3 milhões em 2027.&lt;/p&gt;
-&lt;p&gt;Dados apresentados pelo Ministério da Saúde indicam que a expectativa de vida ao nascer no Brasil atingiu 76,6 anos em 2024. Atualmente, 80% da população idosa do país depende exclusivamente do Sistema Único de Saúde (SUS) para atendimentos médicos. Estima-se que existam cerca de 3 milhões de idosos acamados no território nacional acompanhados pela atenção primária.&lt;/p&gt;
-&lt;p&gt;Segundo o ministro da Saúde, o Padi Brasil se junta a outros programas já existentes para melhorar a qualidade de vida deste grupo da população.&lt;/p&gt;
-&lt;p&gt;&quot;Já temos o Farmácia Popular, que garante remédio para hipertensão, diabetes e as fraldas geriátricas. Também o Mais Especialistas, que está reduzindo o tempo de espera das pessoas para cirurgias e exames especializados. Estamos reorganizando o SUS para cuidar melhor dos idosos no nosso país&quot;, diz Padilha.&lt;/p&gt;
-&lt;p&gt;Caderneta Brasileira da Pessoa Idosa&lt;/p&gt;
-&lt;p&gt;é considerada uma ferramenta estratégica para monitorar as condições de saúde deste público. Ela está disponível em formato físico e digital, no aplicativo Meu SUS Digital.&lt;/p&gt;
-&lt;p&gt;O ministério também disponibiliza materiais educativos voltados a cuidadores, familiares e profissionais de saúde sobre prevenção de quedas e comunicação relacionada à demência.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/programa-de-atencao-domiciliar-amplia-cuidado-aos-idosos-no-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-O Ministério da Saúde lançou nesta quinta-feira (18), no Rio de Janeiro, o Programa de Atenção Domiciliar à Pessoa ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
-      <wp:post_date>2026-06-18 18:42:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-18 18:42:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-18 18:42:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-18 18:42:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/dU_0bfE4P6YrjQwCHbt-Ismpz0A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/raf05885.jpg?itok=Sl7GvHma</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Apuração da PF acusa Jaques Wagner de receber vantagens; senador nega</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/apuracao-da-pf-acusa-jaques-wagner-de-receber-vantagens-senador-nega</link>
-      <pubDate>Thu, 18 Jun 2026 23:48:31 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/apuracao-da-pf-acusa-jaques-wagner-de-receber-vantagens-senador-nega#1004</guid>
-      <description>A decisão do ministro André Mendonça, do Supremo Tribunal Federal, que autorizou a
-nona fase da Operação Compliance Zero
-deflagrada nesta quinta-feir...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/F2X597JOMkwez5XcUJrj-y8vidA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/20/lula8929-3.jpg?itok=bGbRXJ7N&quot; alt=&quot;Apuração da PF acusa Jaques Wagner de receber vantagens; senador nega&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A decisão do ministro André Mendonça, do Supremo Tribunal Federal, que autorizou a&lt;/p&gt;
-&lt;p&gt;nona fase da Operação Compliance Zero&lt;/p&gt;
-&lt;p&gt;deflagrada nesta quinta-feira (18) foi baseada em uma investigação da Polícia Federal. De acordo com a apuração policial, o senador Jaques Wagner (PT-BA) teria recebido um apartamento avaliado em R$ 2,45 milhões do banqueiro Augusto Ferreira Lima, ex-sócio do Banco Master.&lt;/p&gt;
-&lt;p&gt;Em entrevista à Band News, Wagner negou irregularidades e afirmou estar &quot;absolutamente tranquilo&quot; em relação à investigação.&lt;/p&gt;
-&lt;p&gt;“Até agora, não sou réu; não sou culpado; não sou nada. É uma investigação em cima do que eu imagino que a Polícia Federal encontrou em celulares [apreendidos] ou em alguma delação de alguém que eu desconheço”.&lt;/p&gt;
-&lt;p&gt;Em sua decisão, Mendonça afirma que a PF, ao pedir que o STF imponha restrições legais aos alvos da 9ª fase da operação, sustentou ter “elementos indicativos de recebimento de vantagens econômicas indevidas pelo parlamentar, direta ou indiretamente, por intermédio de familiares, pessoas de confiança e estruturas societárias vinculadas ao grupo econômico investigado”.&lt;/p&gt;
-&lt;p&gt;Os investigadores também dizemque “a possível relação ilícita” entre Wagner e Lima “seria antiga, próxima e marcada por elevado grau de confiança pessoal”. Fato que“teria criado ambiente propício à realização de tratativas reservadas em prol da defesa de interesses privados do Banco Master”.&lt;/p&gt;
-&lt;p&gt;Ainda de acordo com a Polícia Federal, o próprio senador teria escolhido um apartamento do residencial Poème Horto, construído em um bairro nobre de Salvador, o Horto Florestal. O documento afirma que Wagner encaminhou aLima dados do empreendimento e do corretor responsável pela venda da unidade.&lt;/p&gt;
-&lt;p&gt;De posse dos dados, Lima teria acionado Valério Marega Júnior, apontado como “operador financeiro” do Banco Master, a fim de tratar da compra do imóvel. A negociação foi efetivada com a participação de Daniel e David Lopes Monteiro, dupla que a PF afirma estar vinculada ao núcleo empresarial e jurídico-financeiro do Banco Master.&lt;/p&gt;
-&lt;p&gt;Wagner admitiu conhecer o banqueiro Augusto Lima há algum tempo, mas negou ter qualquer vínculo com o Banco Master ou com Daniel Vorcaro, com quem garante ter se encontrado apenas duas vezes.&lt;/p&gt;
-&lt;p&gt;O parlamentar também admitiu ter pedido a Lima que comprasse um apartamento do residencial Poème Horto, com a intenção de adquiri-lo em um segundo momento.&lt;/p&gt;
-&lt;p&gt;“Eu tinha interesse de dar, de ajudar a minha filha a comprar um apartamento destes. Como o Guga [Augusto Lima] é um investidor, disse a ele: “Você pode comprar? Depois eu vou recomprar. Porque o apartamento está em construção, não está pronto, e eu teria que vender o apartamento da minha filha para poder complementar e pagar o apartamento. Ou ela financiar”, contou Wagner, destacando não haver registros de transferência patrimonial para o seu nome.&lt;/p&gt;
-&lt;p&gt;A PF aponta que o senador teria recebido outras vantagens econômicas do banqueiro, incluindo o repasse de mais de R$ 5,5 milhões à BN Financeira, empresa administrada por parentes do político e que, para os investigadores, ocupa papel central no “eixo dos pagamentos supostamente destinados ao núcleo familiar de Jaques Wagner”.&lt;/p&gt;
-&lt;p&gt;Ainda entre as vantagens supostamente recebidas, a PF cita o uso gratuito de aeronaves custeadas por Lima e pelo Banco Master e o recebimento de ingressos para shows no exterior.&lt;/p&gt;
-&lt;p&gt;Parte dessas informações foram obtidas a partir dos dados extraídos de telefones celulares de Lima, apreendidos durante a primeira fase da Operação Compliance Zero, em 18 de novembro de 2025.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/apuracao-da-pf-acusa-jaques-wagner-de-receber-vantagens-senador-nega&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A decisão do ministro André Mendonça, do Supremo Tribunal Federal, que autorizou a
-nona fase da Operação Compliance Zero
-deflagrada nesta quinta-feir...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-06-18 18:39:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-18 18:39:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-18 18:39:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-18 18:39:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/F2X597JOMkwez5XcUJrj-y8vidA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/20/lula8929-3.jpg?itok=bGbRXJ7N</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Brasil sentiu menos o aumento do petróleo que outros países, diz Ineep</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-sentiu-menos-o-aumento-do-petroleo-que-outros-paises-diz-ineep</link>
-      <pubDate>Thu, 18 Jun 2026 23:48:31 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-sentiu-menos-o-aumento-do-petroleo-que-outros-paises-diz-ineep#1005</guid>
-      <description>Os preços da gasolina e do diesel subiram menos no Brasil do que a média internacional, após o conflito contra o Irã provocado pelos Estados Unidos e...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wEUMJ2AhU64CudFbgJLWuvQGXzQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/posto_de_gasolina_jfcrz_abr_0605223813.jpg?itok=wAhDrnJq&quot; alt=&quot;Brasil sentiu menos o aumento do petróleo que outros países, diz Ineep&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Os preços da gasolina e do diesel subiram menos no Brasil do que a média internacional, após o conflito contra o Irã provocado pelos Estados Unidos e por Israel. O levantamento comparativo foi elaborado peloInstituto de Estudos Estratégicos de Petróleo, Gás Natural e Biocombustíveis Zé Eduardo Dutra (Ineep) – um centro de estudos vinculado à Federação Única dos Petroleiros (FUP), que é filiada à Central Única dos Trabalhadores (CUT).&lt;/p&gt;
-&lt;p&gt;Entre 23 de fevereiro e 8 de junho, o percentual mundial médio de aumentofoi de 17,5% para a gasolina e de 23,3% para o diesel, enquanto, no Brasil, as altas foram de 4,9% e 13,6%, respectivamente.&lt;/p&gt;
-&lt;p&gt;No período, a pressão por aumento de preços de combustíveis no Brasil foi significativamente inferior à constadadanos Estados Unidos e na Argentina, por exemplo.&lt;/p&gt;
-&lt;p&gt;Nos EUA, principal economia mundial e maior consumidora de derivados de petróleo, a gasolina subiu 36,1%, e o diesel, 36,8%. Na Argentina, maior parceiro econômico do Brasil na América do Sul, os aumentos foram, respectivamente, de 21,1% e 23,7%.&lt;/p&gt;
-&lt;p&gt;a política de preços e subsídios do governo federal&lt;/p&gt;
-&lt;p&gt;favoreceu a estabilização do preço dos combustíveis no Brasil.&lt;/p&gt;
-&lt;p&gt;“As medidas emergenciais adotadas para conter os efeitos do choque do petróleo sobre os preços dos combustíveis foram muito importantes”, avalia nota à imprensa divulgada nesta quinta (18) na nova edição do Boletim de Preços dos Combustíveis, publicado pelo instituto.&lt;/p&gt;
-&lt;p&gt;O Ineep considera, no entanto, que as medidas são “insuficientes para enfrentar vulnerabilidades estruturais do setor.”&lt;/p&gt;
-&lt;p&gt;Para o centro de estudo, “a redução da exposição do mercado doméstico à volatilidade internacional depende de uma estratégia de longo prazo baseada no fortalecimento da Petrobras, na expansão da capacidade de refino e na recomposição de sua presença nos elos estratégicos da cadeia de abastecimento, especialmente na distribuição.”&lt;/p&gt;
-&lt;p&gt;O intervalo de tempo em que o Ineep observa a variação dos preços dos combustíveis inclui o início das operações aéreas contra o Irã e a morte de Ali Khamenei, líder religioso supremo do país. Cobre também os meses de paralisação da rota marítima no Estreito de Ormuz e o início das&lt;/p&gt;
-&lt;p&gt;negociações diplomáticas entre o Irã e os Estados Unidos para término do conflito&lt;/p&gt;
-&lt;p&gt;No período, o Ineep ainda verifica que o álcool (etanol hidratado) “apresentou queda expressiva, de 7,3%, refletindo o início da safra 2026/2027 e aumento da oferta, em intensidade ainda maior do que a observada em anos anteriores.”&lt;/p&gt;
-&lt;p&gt;Israel volta a bombardear Líbano após acordo de paz entre EUA e Irã&lt;/p&gt;
-&lt;p&gt;Neymar de volta? Entenda o processo de recuperação do camisa dez da Seleção Brasileira&lt;/p&gt;
-&lt;p&gt;Expectativa de vida e necessidade de renda mantêm idosos no mercado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/brasil-sentiu-menos-o-aumento-do-petroleo-que-outros-paises-diz-ineep&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Os preços da gasolina e do diesel subiram menos no Brasil do que a média internacional, após o conflito contra o Irã provocado pelos Estados Unidos e...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-06-18 18:34:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-18 18:34:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-18 18:34:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-18 18:34:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/wEUMJ2AhU64CudFbgJLWuvQGXzQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/posto_de_gasolina_jfcrz_abr_0605223813.jpg?itok=wAhDrnJq</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Cruzeiro feminino chega a sete desfalques pela mesma lesão</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/cruzeiro-feminino-chega-sete-desfalques-pela-mesma-lesao</link>
-      <pubDate>Thu, 18 Jun 2026 23:48:31 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/cruzeiro-feminino-chega-sete-desfalques-pela-mesma-lesao#1006</guid>
-      <description>A zagueira Paloma Maciel, que estava reunida com a seleção brasileira feminina em Itu, no interior paulista, retornou nesta quinta-feira (18) a Belo ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VlfpyJ2t19HTOkqfBLXWahsk_D4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/sel_fem_principal_treino_1_-_itu-27.jpg?itok=t15vVIlX&quot; alt=&quot;Cruzeiro feminino chega a sete desfalques pela mesma lesão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A zagueira Paloma Maciel, que estava reunida com a seleção brasileira feminina em Itu, no interior paulista, retornou nesta quinta-feira (18) a Belo Horizonte. A defensora do Cruzeiro, que desde segunda-feira (15) integrava uma semana de treinos para a Copa do Mundo do ano que vem, que será no Brasil, r&lt;/p&gt;
-&lt;p&gt;ompeu o ligamento cruzado anterior (LCA) do joelho direito, além de lesionar o menisco, durante atividade na última quarta-feira (17)&lt;/p&gt;
-&lt;p&gt;A jogadora de 26 anos de idade, que terá de passar por cirurgia, engrossa uma estatística delicada nas Cabulosas.&lt;/p&gt;
-&lt;p&gt;Com a zagueira, são agora sete atletas no departamento médico devido a lesões de LCA&lt;/p&gt;
-&lt;p&gt;, sendo que seis se contundiram ainda nesta temporada: a lateral Laura Felipe, a zagueira Tainara, a meia Gaby Soares e as atacantes Millene e Ravenna, além da própria Paloma Maciel.&lt;/p&gt;
-&lt;p&gt;A defensora, inclusive assumiu justamente o lugar de Ravenna na seleção que foi para Itu.&lt;/p&gt;
-&lt;p&gt;A atacante Fabiola Sandoval, por sua vez, rompeu o ligamento do joelho em julho de 2025.&lt;/p&gt;
-&lt;p&gt;Em novembro de 2023, o cirurgião Marco Demange, professor Livre-Docente do Departamento de Ortopedia e Traumatologia da Faculdade de Medicina da Universidade de São Paulo (FMUSP), explicou o que é a lesão de LCA em entrevista ao programa&lt;/p&gt;
-&lt;p&gt;&quot;O ligamento cruzado anterior é uma estrutura que funciona como uma corda que liga o osso da coxa, o fêmur, no principal osso da perna, que é a tíbia. Ele estabiliza a rotação [do joelho]. A gente entende que o risco do giro brusco [que leva ao rompimento] se dá por três fatores principais: quando o ambiente tem uma chance maior de travar o joelho; esportes em que a energia do trauma pode ser muito grande quando o indivíduo aterriza de maneira não ideal, e quando ocorrem descontroles inesperados do movimento, que é nos esportes de impacto, como futebol&quot;, disse o médico.&lt;/p&gt;
-&lt;p&gt;No fim de maio, durante entrevista coletiva, a gerente de Futebol Feminino do Cruzeiro, Luiza Parreiras, reconheceu que as sequenciais lesões de LCA sofridas por jogadoras do clube não são apenas uma coincidência.&lt;/p&gt;
-&lt;p&gt;&quot;A gente tem buscado nessas últimas semanas levantar todos os dados e informações que o Cruzeiro consegue ter, pensando em tecnologia e em toda essa estrutura. A gente precisa usufruir de tudo isso para chegar a uma conclusão do que está acontecendo. É buscar informações de GPS, controle de carga, sono, ciclo menstrual, percentual de gordura, hidratação pré e pós-jogo, o trabalho psicológico que é feito e força&quot;, disse Luiza.&lt;/p&gt;
-&lt;p&gt;No ano passado, a Federação Internacional de Futebol (Fifa) anunciou que financiaria um estudo junto à Universidade de Kingston,na Inglaterra, para entender se existe ligação entre as lesões de LCA e o ciclo menstrual. Artigos médicos mostram que a incidência desse tipo de contusão é duas a oito vezes maior em mulheres do que em homens.&lt;/p&gt;
-&lt;p&gt;Antes de Paloma, a atacante Dudinha havia rompido o ligamento cruzado do joelho direito no último dia 9 de junho, no segundo amistoso entre Brasil e Estados Unidos, realizado na Arena Castelão, em Fortaleza - as norte-americanas venceram por 1 a 0.&lt;/p&gt;
-&lt;p&gt;O Cruzeiro é o sétimo colocado do Campeonato Brasileiro Feminino&lt;/p&gt;
-&lt;p&gt;As Cabulosas voltam a campo no dia 24 de julho, às 21h30 (horário de Brasília), contra o São Paulo, na Arena do Jacaré, em Sete Lagoas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/cruzeiro-feminino-chega-sete-desfalques-pela-mesma-lesao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A zagueira Paloma Maciel, que estava reunida com a seleção brasileira feminina em Itu, no interior paulista, retornou nesta quinta-feira (18) a Belo ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-06-18 18:19:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-18 18:19:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-18 18:19:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-18 18:19:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/VlfpyJ2t19HTOkqfBLXWahsk_D4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/sel_fem_principal_treino_1_-_itu-27.jpg?itok=t15vVIlX</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Polícia confronta indígenas que buscam retomar território no MS</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/policia-confronta-indigenas-que-buscam-retomar-territorio-no-ms</link>
-      <pubDate>Thu, 18 Jun 2026 23:48:31 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/policia-confronta-indigenas-que-buscam-retomar-territorio-no-ms#1007</guid>
-      <description>Depois de retomarem a Fazenda Limoeiro, propriedade sobreposta ao Tekoha Tapy Kora, parte da Terra Indígena (TI) Iguatemipeguá II, no município de Am...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kgL2qaqciRbwjrNc7C4Re7CQy8A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/capa-site-ms-guarani-kaiowa-scaled.jpg?itok=Tbs-NRZh&quot; alt=&quot;Polícia confronta indígenas que buscam retomar território no MS&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Depois de retomarem a Fazenda Limoeiro, propriedade sobreposta ao Tekoha Tapy Kora, parte da Terra Indígena (TI) Iguatemipeguá II, no município de Amambai (MS), famílias Kaiowá e Guarani relataram que, entre 15h e 16h de ontem, batalhões da Polícia Militar (PM) foram ao território para realizar um despejo.&lt;/p&gt;
-&lt;p&gt;Segundo informações do Conselho Indigenista Missionário (Cimi), mais de dez viaturas policiais estavam nas proximidades, incluindo o Batalhão de Choque, e houve invasão das autoridades, o que provocou correria, disparo de bombas e tiros contra as famílias.&lt;/p&gt;
-&lt;p&gt;Vídeos disponibilizados nas redes sociais mostram a perseguição policial em território indígena.&lt;/p&gt;
-&lt;p&gt;Segundo o Cimi, as famílias permanecem no local e a Força Nacional atua como mediadora do diálogo entre indígenas, produtores rurais e a polícia.&lt;/p&gt;
-&lt;p&gt;O Tekoha é um território limítrofe à Reserva Limão Verde. Situação semelhante já havia acontecido em 26 de abril deste ano, quando um grupo de cinco indígenas foi preso após confronto com as autoridades.&lt;/p&gt;
-&lt;p&gt;O Cimi informa que o Relatório Circunstanciado de Identificação e Delimitação (RCID), referente à Fazenda Limoeiro, estabelecido pela Portaria 790 da Fundação Nacional dos Povos Indígenas (Funai), está em estudo para remarcação desde 2008.&lt;/p&gt;
-&lt;p&gt;Já a Reserva Limão Verde, uma das oito existentes em Mato Grosso do Sul, foi criada por um decreto estadual, em 1928, após solicitação do Serviço de Proteção ao Índio (SPI), com 2 mil hectares. Fazendas invadiram esta área reservada e os Kaiowá e Guarani ocupam, hoje em dia, 668 hectares.&lt;/p&gt;
-&lt;p&gt;A TI Iguatemipeguá 2 está inserida no Compromisso de Ajustamento de Conduta firmado entre o Ministério Público Federal (MPF) e a Funai em fevereiro de 2007.&lt;/p&gt;
-&lt;p&gt;“O acordo surgiu como resposta à morosidade da Funai na demarcação, à violência crescente na região e à grave situação humanitária vivida pelos indígenas, muitos vivendo em acampamentos na beira de rodovias”, explica o Cimi.&lt;/p&gt;
-&lt;p&gt;Em postagem em uma rede social da Abid (Articulação dos Povos Indígenas do Brasil), a Aty Guasu Guarani e Kaiowá disse repudiar a ação da Polícia Militar durante a retomada.&lt;/p&gt;
-&lt;p&gt;“Mais uma vez, o povo Guarani e Kaiowá foi alvo de violência, intimidação e violação de direitos fundamentais garantidos pela Constituição Federal, por tratados internacionais de direitos humanos e pela legislação que assegura os direitos originários dos povos indígenas sobre seus territórios tradicionais”.&lt;/p&gt;
-&lt;p&gt;A Aty Guasu pede ainda que as autoridades apurem as denúncias de violência, garantam a proteção das comunidades indígenas e adotem medidas concretas para assegurar os direitos territoriais do povo Guarani e Kaiowá.&lt;/p&gt;
-&lt;p&gt;O Ministério dos Povos Indígenas (MPI) informou que o Ministério da Justiça e Segurança Públicaautorizoua ampliação do efetivo da Força Nacional de Segurança Pública (FNSP) na região nesta quarta-feira (17).&lt;/p&gt;
-&lt;p&gt;Paralelamente, equipes da Funai foram designadas para acompanhar o caso&lt;/p&gt;
-&lt;p&gt;, prestando assistência direta aos indígenas detidos e monitorando o cumprimento dos parâmetros legais estabelecidos pelas instâncias superiores.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-06/policia-confronta-indigenas-que-buscam-retomar-territorio-no-ms&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Depois de retomarem a Fazenda Limoeiro, propriedade sobreposta ao Tekoha Tapy Kora, parte da Terra Indígena (TI) Iguatemipeguá II, no município de Am...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-06-18 18:10:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-18 18:10:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-18 18:10:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-18 18:10:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/kgL2qaqciRbwjrNc7C4Re7CQy8A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/capa-site-ms-guarani-kaiowa-scaled.jpg?itok=Tbs-NRZh</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>El Niño fará Brasil ter inverno com menos frio, prevê meteorologia</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/el-nino-fara-brasil-ter-inverno-com-menos-frio-preve-meteorologia</link>
-      <pubDate>Thu, 18 Jun 2026 23:48:31 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/el-nino-fara-brasil-ter-inverno-com-menos-frio-preve-meteorologia#1008</guid>
-      <description>O inverno no Hemisfério Sul começa exatamente às 5h25 do próximo domingo (21). A nova estação é conhecida pelas temperaturas frias, mas, este ano, te...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PIXMXAN40ltdEFmRilzjk5LZPEw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/pint4645.jpg?itok=kfmYwkCJ&quot; alt=&quot;El Niño fará Brasil ter inverno com menos frio, prevê meteorologia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O inverno no Hemisfério Sul começa exatamente às 5h25 do próximo domingo (21). A nova estação é conhecida pelas temperaturas frias, mas, este ano, terá um caráter um pouco diferente. Por causa do fenômeno El Niño, os brasileiros vão sentir menos o frio nos próximos três meses.&lt;/p&gt;
-&lt;p&gt;A previsão é da empresa de consultoria em meteorologia Nottus, que apresentou, nesta quinta-feira (18), um estudo sobre como o fenômeno climático vai impactar o país.&lt;/p&gt;
-&lt;p&gt;O El Niño se caracteriza quando acontece o aquecimento anormal da região equatorial do Oceano Pacífico.&lt;/p&gt;
-&lt;p&gt;A elevação da temperatura do mar 0,5 grauCelsius (C°) acima da média já caracteriza a condição.&lt;/p&gt;
-&lt;p&gt;A Agência dos Estados Unidos para Oceanos e Atmosfera (Noaa, na sigla em inglês)confirmou na última semana&lt;/p&gt;
-&lt;p&gt;No Brasil, a temporada será marcada pelaconcentração de chuva além no normal na Região Sul, enquanto as precipitações ficam mais curtas e menos intensas no Norte e Nordeste, favorecendo a chance de secas.&lt;/p&gt;
-&lt;p&gt;De acordo com o sócio-diretor e meteorologista da Nottus, Alexandre Nascimento,&lt;/p&gt;
-&lt;p&gt;o inverno deve começar com temperaturas mais baixas, mas, “os efeitos do El Niño devem frear as baixíssimas temperaturas neste ano, principalmente de agosto em diante”.&lt;/p&gt;
-&lt;p&gt;Isso acontece porque a combinação de períodos mais secos e ventos do Norte favorece a elevação gradual das temperaturas, especialmente na segunda metade do inverno. Com isso, “a percepção pode ser de um inverno mais ameno”.&lt;/p&gt;
-&lt;p&gt;Alexandre Nascimento pondera que isso não significa que não haverá frio na estação. “El Niño não tem frio? Tem, mas são eventos curtos, muito rápidos”, diz.&lt;/p&gt;
-&lt;p&gt;Ele aponta que algumas áreas da região central do país devem ter a presença dos veranicos, como são chamados os períodos de tempo seco e temperaturas atipicamente elevadas, que ocorrem no meio do outono ou inverno.&lt;/p&gt;
-&lt;p&gt;Ao destacar as principais características climatológicas dos próximos meses,&lt;/p&gt;
-&lt;p&gt;o estudo mostra que julho deve ser marcado pelovolume de chuva acima da média entre as regiões Sudeste e Centro-Oeste. No Sul, a chuva ganha força a partir das áreas do interior&lt;/p&gt;
-&lt;p&gt;Agosto deve ter maiores concentrações de chuva no extremo norte do país, além da faixa leste do Nordeste e Região Sul&lt;/p&gt;
-&lt;p&gt;, onde os volumes podem superar a média histórica.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/el-nino-fara-brasil-ter-inverno-com-menos-frio-preve-meteorologia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O inverno no Hemisfério Sul começa exatamente às 5h25 do próximo domingo (21). A nova estação é conhecida pelas temperaturas frias, mas, este ano, te...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-06-18 18:04:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-18 18:04:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-18 18:04:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-18 18:04:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/PIXMXAN40ltdEFmRilzjk5LZPEw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/pint4645.jpg?itok=kfmYwkCJ</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Delegado pede ao STF para ouvir Bolsonaro sobre arma apreendida</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/delegado-pede-ao-stf-para-ouvir-bolsonaro-sobre-arma-apreendida</link>
-      <pubDate>Thu, 18 Jun 2026 23:48:31 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/delegado-pede-ao-stf-para-ouvir-bolsonaro-sobre-arma-apreendida#1009</guid>
-      <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-A Polícia Civil do Distrito Federal (PCDF) solicitou nesta quinta-feira (17) autorização do ministro Alexa...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wyvnLG418Fl-ArJlCuGd3Pc4A54=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/14/14092025-pzzb3313.jpg?itok=-5nAcC6x&quot; alt=&quot;Delegado pede ao STF para ouvir Bolsonaro sobre arma apreendida&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fabio Rodrigues-Pozzebom/ Agência Brasil&lt;/p&gt;
-&lt;p&gt;A Polícia Civil do Distrito Federal (PCDF) solicitou nesta quinta-feira (17) autorização do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF),&lt;/p&gt;
-&lt;p&gt;para intimar e tomar o depoimento do ex-presidente Jair Bolsonaro&lt;/p&gt;
-&lt;p&gt;arma de fogo encontrada com um de seus seguranças&lt;/p&gt;
-&lt;p&gt;. O caso é investigado pela 17ª Delegacia de Polícia.&lt;/p&gt;
-&lt;p&gt;Em ofício enviado ao Supremo, o delegado Thiago Boing, responsável pela investigação, informou que tentou intimar Bolsonaro, mas foi impedido pela equipe de segurança do ex-presidente.&lt;/p&gt;
-&lt;p&gt;&quot;Esclarece-se que a tentativa de cumprimento da intimação pessoal restou infrutífera, uma vez que a equipe de escolta responsável não permitiu a efetivação do ato, impossibilitando a ciência pessoal do intimando&quot;, relatou o delegado.&lt;/p&gt;
-&lt;p&gt;ex-presidente está em prisão domiciliar&lt;/p&gt;
-&lt;p&gt;desde o dia 24 de março, quando deixou o Hospital DF Star, em Brasília, após ser internado para tratar um quadro de pneumonia bacteriana.&lt;/p&gt;
-&lt;p&gt;o depoimento de Bolsonaro está marcado para a próxima quarta-feira (24), às 15h, por videoconferência&lt;/p&gt;
-&lt;p&gt;A arma foi apreendida às 23h30 da segunda-feira (15), quando um Honda Civic foi parado em um ponto de bloqueio no Pistão Norte, em Taguatinga.&lt;/p&gt;
-&lt;p&gt;Na abordagem, o motorista se identificou como servidor do Gabinete de Segurança Institucional da Presidência da República (GSI) e disse que a arma pertencia ao ex-presidente.&lt;/p&gt;
-&lt;p&gt;Durante a blitz, também foi localizado um carregador sobressalente da pistola, modelo Glock 9 milímetros (mm). O motorista foi conduzido até uma delegacia, onde afirmou que a arma lhe foi entregue em razão de uma pane.&lt;/p&gt;
-&lt;p&gt;Em depoimento, ele relatou ainda que retirou a pistola no próprio dia 15 com a finalidade de fazer o reparo e que o armamento seria devolvido no dia seguinte.&lt;/p&gt;
-&lt;p&gt;Na quarta-feira (17), a defesa de Bolsonaro reconheceu que o ex-presidente é proprietário da arma&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/delegado-pede-ao-stf-para-ouvir-bolsonaro-sobre-arma-apreendida&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-A Polícia Civil do Distrito Federal (PCDF) solicitou nesta quinta-feira (17) autorização do ministro Alexa...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-06-18 17:33:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-18 17:33:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-18 17:33:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-18 17:33:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/wyvnLG418Fl-ArJlCuGd3Pc4A54=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/14/14092025-pzzb3313.jpg?itok=-5nAcC6x</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
