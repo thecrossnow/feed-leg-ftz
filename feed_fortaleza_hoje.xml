@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 27/06/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 11:36 UTC</description>
-<lastBuildDate>Sat, 27 Jun 2026 11:36:32 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Sat, 27 Jun 2026 13:48:35 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Fortaleza ganha novo Hospital Nossa Senhora da Conceição com 144 leitos e estrutura totalmente modernizada</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/fortaleza-ganha-novo-hospital-nossa-senhora-da-conceicao-com-144-leitos-e-estrutura-totalmente-modernizada</link>
+<guid isPermaLink="false">fortaleza-20260627-54082199a2f3</guid>
+<pubDate>Sat, 27 Jun 2026 10:00:00 +0000</pubDate>
+<description>Fortaleza ganha novo Hospital Nossa Senhora da Conceição com 144 leitos e estrutura totalmente modernizada - Sábado, 27 Junho 2026 10:00</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" alt="Fortaleza ganha novo Hospital Nossa Senhora da Conceição com 144 leitos e estrutura totalmente moder" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>O prefeito de Fortaleza, Evandro Leitão, ao lado do ministro da Saúde, Alexandre Padilha, e do governador do Ceará, Elmano de Freitas, inaugura, nesta segunda-feira (29/6), às 9h, o novo Hospital Nossa Senhora da Conceição (HNSC), equipamento histórico da Rede Municipal de Saúde.</p>
+<p>Com investimento de aproximadamente R$ 50 milhões, a unidade foi totalmente reformada e ampliada, passando a oferecer uma estrutura moderna e segura para a população de Fortaleza.</p>
+<p>O hospital contará com um total de 144 leitos. Em março de 2025, quando o hospital foi fechado para reforma, a estrutura estava completamente sucateada e contava com apenas oito leitos em funcionamento.</p>
+<p>A unidade também triplica sua capacidade cirúrgica, com novas salas de cirurgia, e amplia sua área construída de 5 mil m² para aproximadamente 8 mil m².</p>
+<p>O novo hospital fortalece a Rede Materno-Infantil de Fortaleza, ampliando a oferta de serviços para a população. A iniciativa integra o programa FORtaleCE, em parceria com o Governo do Estado, e o Programa Saúde que Cuida, vinculado ao Plano Fortaleza Inclusiva.</p>
+<p><strong>Serviço</strong><br/>Entrega do novo Hospital Nossa Senhora da Conceição (HNSC)<br/>Data: segunda-feira (29/06)<br/>Horário: 9h (Imprensa deve chegar às 8h para captação de imagens de apoio)<br/>Local: Rua 1092, ao lado do nº 06 (4ª Etapa) - Conjunto Ceará</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/fortaleza-ganha-novo-hospital-nossa-senhora-da-conceicao-com-144-leitos-e-estrutura-totalmente-modernizada" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" medium="image">
+<media:title>Fortaleza ganha novo Hospital Nossa Senhora da Conceição com 144 leitos e estrutura totalmente moder</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
