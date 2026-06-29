@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 29 Jun 2026 17:30:00 +0000</pubDate>
+    <pubDate>Mon, 29 Jun 2026 19:46:50 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,252 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Governo registra déficit primário de R$ 53,3 bi em maio</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/governo-registra-deficit-primario-de-r-533-bi-em-maio</link>
+      <pubDate>Mon, 29 Jun 2026 19:46:50 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/governo-registra-deficit-primario-de-r-533-bi-em-maio#1000</guid>
+      <description>© José Cruz/Agência Brasil/Arquivo
+As contas do Governo Central registraram déficit primário de R$ 53,3 bilhões em maio de 2026, informou o Tesouro N...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ArbrUsPPeNR0-6LyC5GvA9j9yYQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220049_1.jpg?itok=ZRCuUtTo&quot; alt=&quot;Governo registra déficit primário de R$ 53,3 bi em maio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© José Cruz/Agência Brasil/Arquivo&lt;/p&gt;
+&lt;p&gt;As contas do Governo Central registraram déficit primário de R$ 53,3 bilhões em maio de 2026, informou o Tesouro Nacional nesta segunda-feira (29).&lt;/p&gt;
+&lt;p&gt;O resultado considera as contas do Tesouro Nacional, Previdência Social e Banco Central e representa o pior desempenho para o mês desde 2024, em valores corrigidos pela inflação.&lt;/p&gt;
+&lt;p&gt;O déficit primário ocorre quando as despesas do governo superam as receitas, sem considerar os gastos com juros da dívida pública.&lt;/p&gt;
+&lt;p&gt;Em maio de 2025, o resultado negativo havia sido de R$ 40,2 bilhões&lt;/p&gt;
+&lt;p&gt;. A piora ocorreu porque os gastos avançaram em ritmo maior que a arrecadação.&lt;/p&gt;
+&lt;p&gt;•  Déficit em maio: R$ 53,3 bilhões&lt;/p&gt;
+&lt;p&gt;•  Receita líquida em maio: R$ 198 bilhões&lt;/p&gt;
+&lt;p&gt;•  Despesas em maio: R$ 251,2 bilhões&lt;/p&gt;
+&lt;p&gt;•  Alta das despesas (ante maio de 2025): 9,4% acima da inflação&lt;/p&gt;
+&lt;p&gt;•  Alta das receitas (ante maio de 2025): 5,5% acima da inflação&lt;/p&gt;
+&lt;p&gt;•  Déficit em 12 meses: R$ 142,3 bilhões (1,06% do PIB)&lt;/p&gt;
+&lt;p&gt;O aumento das despesas foi o principal fator para o resultado negativo. Segundo o Tesouro, os gastos cresceram mais rapidamente que a arrecadação, pressionados principalmente pelas despesas discricionárias (não obrigatórias), que incluem custeio da máquina pública e investimentos.&lt;/p&gt;
+&lt;p&gt;Entre os destaques de maio estão:&lt;/p&gt;
+&lt;p&gt;•  Despesas discricionárias: aumento real de R$ 16,7 bilhões;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/governo-registra-deficit-primario-de-r-533-bi-em-maio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© José Cruz/Agência Brasil/Arquivo
+As contas do Governo Central registraram déficit primário de R$ 53,3 bilhões em maio de 2026, informou o Tesouro N...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-06-29 15:09:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-29 15:09:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-29 15:09:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-29 15:09:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/ArbrUsPPeNR0-6LyC5GvA9j9yYQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220049_1.jpg?itok=ZRCuUtTo</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Torcedores se reúnem no centro de SP para assistir ao jogo do Brasil</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/torcedores-se-reunem-no-centro-de-sp-para-assistir-ao-jogo-do-brasil</link>
+      <pubDate>Mon, 29 Jun 2026 19:46:50 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/torcedores-se-reunem-no-centro-de-sp-para-assistir-ao-jogo-do-brasil#1001</guid>
+      <description>para enfrentar a seleção japonesa nesta tarde de segunda-feira (29) pela fase de mata-mata da Copa do Mundo, torcedores se reuniram para assistir à p...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/7UYAbV5tdnKuOGPfXnPAJ8HwqUw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/29/_int5818.jpg.jpeg?itok=-MW3Pm4K&quot; alt=&quot;Torcedores se reúnem no centro de SP para assistir ao jogo do Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;para enfrentar a seleção japonesa nesta tarde de segunda-feira (29) pela fase de mata-mata da Copa do Mundo, torcedores se reuniram para assistir à partida ao ar livre no Vale do Anhangabaú, na capital paulista.&lt;/p&gt;
+&lt;p&gt;Este foi o caso da atendente de padaria Mariana Freitas, 33 anos, de São Vicente, no litoral paulista, que foi com o marido e as filhas até o centro de São Paulo para ver o jogo em um telão. Vestidos com a camisa da seleção, eles apostam em uma vitória do Brasil contra o Japão por 2 a 0.&lt;/p&gt;
+&lt;p&gt;“Estou achando o máximo. Nós vamos ganhar e o Vini Jr vai fazer 2 a 0”, disse ela à reportagem. “Decidimos ver o jogo por aqui porque meu marido trabalha aqui [na capital], embora a gente more em São Vicente. Estamos aproveitando para poder assistir aqui”.&lt;/p&gt;
+&lt;p&gt;Para Mariana, o Brasil tem grandes chances de vencer esta Copa do Mundo.&lt;/p&gt;
+&lt;p&gt;“Os meninos da seleção são muito bons: Vini Jr, Endrick, Neymar. Estou criando bastante expectativa no Neymar”, falou.&lt;/p&gt;
+&lt;p&gt;O estagiário Pedro Jinno, brasileiro com ascendência japonesa, decidiu torcer pelo Brasil. Com a camisa da seleção e pela primeira vez assistindo a um jogo em uma&lt;/p&gt;
+&lt;p&gt;fan zone, ele aposta em uma vitória hoje por 2 a 1 para o Brasil.&lt;/p&gt;
+&lt;p&gt;“Vou torcer pelo Brasil. Sou brasileiro, cresci aqui, minha família e amigos são daqui. Sou quem sou porque sou brasileiro”, contou.&lt;/p&gt;
+&lt;p&gt;Apesar de avaliar como positivo o desempenho da seleção até agora, ele acha que o Brasil ganha a partida, mas dificilmente conquista o título. “Acho que a Espanha tem mais chance, mas torço muito para o Brasil”.&lt;/p&gt;
+&lt;p&gt;A Fan Zone Anhangabaú tem entrada gratuita e funciona de sexta-feira a domingo e também nas datas dos jogos da Seleção Brasileira de Futebol.&lt;/p&gt;
+&lt;p&gt;MEIs e misoginia estão entre os temas da semana no Congresso&lt;/p&gt;
+&lt;p&gt;Neymar de volta? Entenda o processo de recuperação do camisa dez da Seleção Brasileira&lt;/p&gt;
+&lt;p&gt;Repórter Brasil Tarde de 29 de junho de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Saiba quando o Brasil vai a campo pelas oitavas de final da Copa&lt;/p&gt;
+&lt;p&gt;Brasil derrota o Japão e vai às oitavas de final na Copa do Mundo 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/torcedores-se-reunem-no-centro-de-sp-para-assistir-ao-jogo-do-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>para enfrentar a seleção japonesa nesta tarde de segunda-feira (29) pela fase de mata-mata da Copa do Mundo, torcedores se reuniram para assistir à p...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-06-29 14:31:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-29 14:31:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-29 14:31:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-29 14:31:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/7UYAbV5tdnKuOGPfXnPAJ8HwqUw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/29/_int5818.jpg.jpeg?itok=-MW3Pm4K</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Reserva Ecológica do IBGE no DF passa a ter gestão apoiada pelo ICMBio</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/reserva-ecologica-do-ibge-no-df-passa-ter-gestao-apoiada-pelo-icmbio</link>
+      <pubDate>Mon, 29 Jun 2026 19:46:50 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/reserva-ecologica-do-ibge-no-df-passa-ter-gestao-apoiada-pelo-icmbio#1002</guid>
+      <description>A Reserva Ecológica do IBGE, também conhecida como Roncador, no Distrito Federal (DF), passa a fazer parte do Sistema Nacional de Unidades de Conserv...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/lJBrqYh7-J4NEXPXPpydsnQgdeY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_3669.jpeg?itok=VySfS2XR&quot; alt=&quot;Reserva Ecológica do IBGE no DF passa a ter gestão apoiada pelo ICMBio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Reserva Ecológica do IBGE, também conhecida como Roncador, no Distrito Federal (DF), passa a fazer parte do Sistema Nacional de Unidades de Conservação, o conjunto de áreas naturais protegidas no Brasil.&lt;/p&gt;
+&lt;p&gt;O anúncio foi feito nesta segunda-feira (29), em Brasília, em um evento em alusão aos 90 anos do Instituto Brasileiro de Geografia e Estatística (IBGE) e aos 50 anos da reserva, completados em dezembro de 2025.&lt;/p&gt;
+&lt;p&gt;A área de 1.391 hectares ─ equivalente a quase 1,4 mil campos de futebol ─ fica no centro-sul do Distrito Federal, a 25 km do centro de Brasília, ou seja, a cerca de meia hora de carro.&lt;/p&gt;
+&lt;p&gt;A região abriga mais de 4 mil espécies de plantas e animais. Além de ser destinada à preservação do Cerrado, a reserva destina-se à produção de informações geodésicas, cartográficas, geográficas, ecológicas e ambientais, com extensa base de dados científicos sobre o bioma, inventários da fauna e da flora e estudos ambientais de vulnerabilidade e risco ecológico&lt;/p&gt;
+&lt;p&gt;O espaço oferece a pesquisadores instalações como laboratórios, estação meteorológica, herbário e coleções zoológicas.&lt;/p&gt;
+&lt;p&gt;O responsável pela reserva, Mauro César Lambert de Brito Ribeiro, frisou que ao ser alçada a parte do Sistema Nacional de Unidades de Conservação, a área de preservação ganha mais força para enfrentar as dificuldades.&lt;/p&gt;
+&lt;p&gt;Ribeiro destaca que o Roncadoré uma unidade que está ficando cercada por áreas urbanas, e isso impõe novos desafios.&lt;/p&gt;
+&lt;p&gt;“Entrar para o Sistema Nacional de Unidades de Conservação é uma necessidade, muito mais que uma vaidade, para que a gente possa enfrentar, junto com a expertise do ICMBio [Instituto Chico Mendes de Conservação da Biodiversidade], os novos desafios que se impõem”, completou.&lt;/p&gt;
+&lt;p&gt;O presidente do ICMBio, Mauro Oliveira Pires, explicouque a Reserva Roncador passará a ser Estação Ecológica Roncador.&lt;/p&gt;
+&lt;p&gt;“Como parte do sistema nacional, terá que ter um plano de manejo, conselho, como outras estações federais, estaduais e municipais”, disse o presidente do órgão vinculado ao Ministério do Meio Ambiente e Mudança do Clima (MMA).&lt;/p&gt;
+&lt;p&gt;Segundo Pires, o ICMBio fará cogestão da área, respeitando iniciativas do IBGE.&lt;/p&gt;
+&lt;p&gt;O presidente do IBGE, Márcio Pochmann, apontou que a oficialização da reserva faz parte da agenda nacional de combate às mudanças climáticas.&lt;/p&gt;
+&lt;p&gt;“Esse espaço deverá ganhar maior dimensão, na medida em que nós queremos reforçar tudo o que é necessário, em relação aos desafios que o nosso país tem em relação à questão climática”.&lt;/p&gt;
+&lt;p&gt;Criada em 22 de dezembro de 1975, a Reserva Ecológica do IBGE foi incluída, em 1993, pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco) entre as Áreas Núcleo da Reserva da Biosfera do Cerrado.&lt;/p&gt;
+&lt;p&gt;Desde 2002, a região integrava a Área de Proteção Ambiental (APA) do Planalto Central.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-06/reserva-ecologica-do-ibge-no-df-passa-ter-gestao-apoiada-pelo-icmbio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Reserva Ecológica do IBGE, também conhecida como Roncador, no Distrito Federal (DF), passa a fazer parte do Sistema Nacional de Unidades de Conserv...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-06-29 13:36:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-29 13:36:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-29 13:36:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-29 13:36:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/lJBrqYh7-J4NEXPXPpydsnQgdeY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_3669.jpeg?itok=VySfS2XR</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>João Fonseca estreia em Wimbledon com 3 a 0 sobre Bautista Agut</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/joao-fonseca-estreia-em-wimbledon-com-3-0-sobre-bautista-agut</link>
+      <pubDate>Mon, 29 Jun 2026 19:46:50 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/joao-fonseca-estreia-em-wimbledon-com-3-0-sobre-bautista-agut#1003</guid>
+      <description>© REUTERS/Andrew Couldridge/Proibida reprodução
+Na estreia no torneio de Wimbledon, na Inglaterra, o brasileiro João Fonseca mostrou consistência e d...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wHLHYgQFe6vRTpuZrafoHVQUgWM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/29/2026-06-29t132253z_2135272677_up1em6t1163x3_rtrmadp_3_tennis-wimbledon.jpg?itok=icSwDSt1&quot; alt=&quot;João Fonseca estreia em Wimbledon com 3 a 0 sobre Bautista Agut&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS/Andrew Couldridge/Proibida reprodução&lt;/p&gt;
+&lt;p&gt;Na estreia no torneio de Wimbledon, na Inglaterra, o brasileiro João Fonseca mostrou consistência e derrotou o espanhol Roberto Bautista Agut por 3 sets a 0, parciais de 7-6 (7-4), 6-4 e 6-3, nesta segunda-feira (29). Agora, o tenista carioca aguarda pelo vencedor do duelo entre o holandês Jesper de Jong (número 73 do&lt;/p&gt;
+&lt;p&gt;) e o australiano Rinky Hijikata (82º) para saber quem será seu adversário na segunda rodada.&lt;/p&gt;
+&lt;p&gt;Bautista Agut, veterano de 38 anos e atual número 183 no&lt;/p&gt;
+&lt;p&gt;da Associação dos Tenistas Profissionais (ATP), tinha como destaque na carreira uma semifinal em Wimbledon em 2019. No primeiro&lt;/p&gt;
+&lt;p&gt;, por instantes, o espanhol pareceu retomar aquele nível e criou bastantes dificuldades para João Fonseca. A parcial só foi decidida no&lt;/p&gt;
+&lt;p&gt;, com o brasileiro fazendo 7-4 no game de desempate.&lt;/p&gt;
+&lt;p&gt;Na segunda e terceira parciais, o vigor físico de João prevaleceu, mesmo com o espanhol conseguindo quebrar seu serviço uma ou outra vez&lt;/p&gt;
+&lt;p&gt;Com um 6-4 no segundo set e um 6-3 no terceiro, João conquistou a vitória em duas horas e 27 minutos de jogo e evitou maiores desgastes.&lt;/p&gt;
+&lt;p&gt;no momento, entrou em Wimbledon como cabeça-de-chave 24. Nas estatísticas da partida, o brasileiro levou vantagem principalmente nos&lt;/p&gt;
+&lt;p&gt;(14 contra oito) e nos pontos vencidos no segundo serviço (20 contra 10, um aproveitamento de 71% contra apenas 36% de Bautista Agut).&lt;/p&gt;
+&lt;p&gt;Fonseca vem de sua melhor campanha em um Grand Slam, parando nas quartas de final em Roland Garros e tenta subir ainda mais em Wimbledon.&lt;/p&gt;
+&lt;p&gt;A outra brasileira que disputará a chave de simples nas quadras londrinas é Beatriz Haddad Maia. Na primeira rodada do torneio feminino, ela tem encontro marcado com a uzbeque Maria Timofeeva, número 95 do&lt;/p&gt;
+&lt;p&gt;da Associação Mundial das Tenistas (WTA). O jogo de Bia (atual número 134) está previsto para a manhã desta terça (30).&lt;/p&gt;
+&lt;p&gt;MEIs e misoginia estão entre os temas da semana no Congresso&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/joao-fonseca-estreia-em-wimbledon-com-3-0-sobre-bautista-agut&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS/Andrew Couldridge/Proibida reprodução
+Na estreia no torneio de Wimbledon, na Inglaterra, o brasileiro João Fonseca mostrou consistência e d...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-06-29 13:31:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-29 13:31:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-29 13:31:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-29 13:31:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/wHLHYgQFe6vRTpuZrafoHVQUgWM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/29/2026-06-29t132253z_2135272677_up1em6t1163x3_rtrmadp_3_tennis-wimbledon.jpg?itok=icSwDSt1</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Torcedor da seleção há 20 Copas, Seu Simão, 91 anos, aposta no hexa</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/torcedor-da-selecao-ha-20-copas-seu-simao-91-anos-aposta-no-hexa</link>
+      <pubDate>Mon, 29 Jun 2026 19:46:50 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/torcedor-da-selecao-ha-20-copas-seu-simao-91-anos-aposta-no-hexa#1004</guid>
+      <description>© Renato Ribeiro/Rádio Nacional
+Quando a Seleção Brasileira entrar em campo nesta segunda-feira (29) contra o Japão, abrindo o mata-mata da Copa do M...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kmOovwZSbIANrHjHVVC2Dd3t3zo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/29/simao_ribeiro_da_silva.jpg?itok=8cL9YrFe&quot; alt=&quot;Torcedor da seleção há 20 Copas, Seu Simão, 91 anos, aposta no hexa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Renato Ribeiro/Rádio Nacional&lt;/p&gt;
+&lt;p&gt;Quando a Seleção Brasileira entrar em campo nesta segunda-feira (29) contra o Japão, abrindo o mata-mata da Copa do Mundo, um torcedor especial estará sintonizado na TV. Aos 91 anos, o piauiense Simão Ribeiro da Silva — pioneiro da construção de Brasília, eletricista e diácono — se prepara para testemunhar a sua 20ª Copa do Mundo. Do rádio de válvula que anunciou a &quot;tragédia&quot; de 1950 ao &quot;cineminha&quot; que montou na rua para ver o tricampeonato em cores em 1970, Seu Simão atravessou quase um século de paixão pelo futebol e faz uma aposta otimista: o hexa vem.&lt;/p&gt;
+&lt;p&gt;&quot;Nós já tivemos Copa assim, a turma foi assim meio desacreditada e depois levantou a moral. Mas eu acho que eles estão escolhendo muito bem. Os caras estão bons. Primeiro, eles não devem nada a eles lá. Não vai ter para ninguém não. O hexa vem”, crava o torcedor, que hoje vive em Sobradinho (DF).&lt;/p&gt;
+&lt;p&gt;Pai de sete filhos, com mais de dez netos e vintebisnetos, ele nasceu emCristino Castro (PI). Seu Simão acompanhou não só a evolução dos times, mas da tecnologia para acompanhar e torcer pelo futebol brasileiro.Ele contaque as transmissões pelo rádio, nas décadas de 1950 e 1960, mexiam com a emoção e a imaginação.&lt;/p&gt;
+&lt;p&gt;“Tinha os locutores de rádio que começavam a badalar: bola passou para fulano, beltrano, passou para Jairzinho, Jairzinho fez isso e é gol! E aí aquela alegria de todo mundo. Agora não, você vê, não precisa ninguém nem falar nada. Naquele tempo era a sensação da voz, do som, era pelo ouvido que a gente vibrava, gritava, fazia festa”.&lt;/p&gt;
+&lt;p&gt;Foi pelo rádio, quando trabalhava nos garimpos no Piauí, que ele ouviu a derrota do Brasil para o Uruguai por 2 a 1, no Maracanã, no Rio de Janeiro, na final da Copa de1950.&lt;/p&gt;
+&lt;p&gt;“Eram aqueles radinhos de válvula, de capa de madeira. Não era todo mundo que tinha, a pessoa muitas vezes tinha um rádio numa loja, e aqueles que tinham também não gostava que ninguém ficasse lá escutando&quot;.&lt;/p&gt;
+&lt;p&gt;Ele lembra que foi uma &quot;calamidade&quot; para os torcedores que apostavam em uma vitória em casa.&lt;/p&gt;
+&lt;p&gt;Se hoje é praticamente inimaginável acompanhar a Copa do Mundo sem imagens em alta definição e cores vibrantes, no Mundial de 1970, também no México,Simão era um dos poucos que tinha televisãoemcores na cidade. Os amigos e vizinhos iam para a casa dele para assistiràspartidas.&lt;/p&gt;
+&lt;p&gt;E viram,pela primeira vez direto de uma TVacores, o tricampeonatomundial do Brasil com Pelé, Jairzinho e Tostão.&lt;/p&gt;
+&lt;p&gt;“Em 60, já era pela TV, mas quase ninguém tinha o aparelho. A TV também era preto e branco, ninguém via direito e as antenas não pegavam, era só a sombra muitas vezes. Quando pegava uma televisão limpinha, já era uma farra&quot;, lembra&lt;/p&gt;
+&lt;p&gt;Ele conta que no Mundial de 1970, faltava espaço em casa para ele poder sentar e assistir à partida.&lt;/p&gt;
+&lt;p&gt;&quot;No próximo jogo, botei a televisão lá fora de casa na rua, botamos uns bancos, cadeira, cada um trazia e sentava e fez um cineminha. E afinal foi fantástico, né? Fizeram a vibração só. Era farra mesmo”, relembra.&lt;/p&gt;
+&lt;p&gt;O Brasil é o maior campeão das histórias das Copas do Mundo da Fifa. Aúnica seleção pentacampeãergueu a taça em 1958, 1962, 1970, 1994 e 2002.&lt;/p&gt;
+&lt;p&gt;Ouça a reportagem completa na Radioagência Nacional&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/torcedor-da-selecao-ha-20-copas-seu-simao-91-anos-aposta-no-hexa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Renato Ribeiro/Rádio Nacional
+Quando a Seleção Brasileira entrar em campo nesta segunda-feira (29) contra o Japão, abrindo o mata-mata da Copa do M...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-06-29 13:31:00</wp:post_date>
+      <wp:post_date_gmt>2026-06-29 13:31:00</wp:post_date_gmt>
+      <wp:post_modified>2026-06-29 13:31:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-06-29 13:31:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/kmOovwZSbIANrHjHVVC2Dd3t3zo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/29/simao_ribeiro_da_silva.jpg?itok=8cL9YrFe</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Começa em SP audiência de tenente-coronel acusado de feminicídio de PM</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/comeca-em-sp-audiencia-de-tenente-coronel-acusado-de-matar-esposa-pm</link>
-      <pubDate>Mon, 29 Jun 2026 17:30:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:46:50 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/comeca-em-sp-audiencia-de-tenente-coronel-acusado-de-matar-esposa-pm#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/comeca-em-sp-audiencia-de-tenente-coronel-acusado-de-matar-esposa-pm#1005</guid>
       <description>© Gisele Alves Santana/Instagram
 Começou na manhã desta segunda-feira (29) a audiência de instrução do tenente-coronel da Polícia Militar Geraldo Lei...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wgl8UVPEO1a72Ua6PT-ehrrgpLs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/18/geraldo-leite-rosa-neto-762x429.jpg.jpg?itok=UFNr-lkn&quot; alt=&quot;Começa em SP audiência de tenente-coronel acusado de feminicídio de PM&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -41,13 +282,13 @@ Começou na manhã desta segunda-feira (29) a audiência de instrução do tenen
 &lt;p&gt;“Está se comprovando que, realmente, estamos diante de um feminicídio e não de um suicídio, tese desde o início aventada pela família.”&lt;/p&gt;
 &lt;p&gt;MEIs e misoginia estão entre os temas da semana no Congresso&lt;/p&gt;
 &lt;p&gt;Neymar de volta? Entenda o processo de recuperação do camisa dez da Seleção Brasileira&lt;/p&gt;
-&lt;p&gt;Reserva Ecológica do IBGE no DF passa a ter gestão apoiada pelo ICMBio&lt;/p&gt;
-&lt;p&gt;Torcedor da seleção há 20 Copas, Seu Simão, 91 anos, aposta no hexa&lt;/p&gt;
-&lt;p&gt;João Fonseca estreia em Wimbledon com 3 a 0 sobre Bautista Agut&lt;/p&gt;
-&lt;p&gt;Começa em SP audiência de tenente-coronel acusado de feminicídio de PM&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/comeca-em-sp-audiencia-de-tenente-coronel-acusado-de-matar-esposa-pm&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Repórter Brasil Tarde de 29 de junho de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Saiba quando o Brasil vai a campo pelas oitavas de final da Copa&lt;/p&gt;
+&lt;p&gt;Brasil derrota o Japão e vai às oitavas de final na Copa do Mundo 2026&lt;/p&gt;
+&lt;p&gt;Governo registra déficit primário de R$ 53,3 bi em maio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/comeca-em-sp-audiencia-de-tenente-coronel-acusado-de-matar-esposa-pm&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Gisele Alves Santana/Instagram
 Começou na manhã desta segunda-feira (29) a audiência de instrução do tenente-coronel da Polícia Militar Geraldo Lei...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-06-29 13:22:00</wp:post_date>
       <wp:post_date_gmt>2026-06-29 13:22:00</wp:post_date_gmt>
       <wp:post_modified>2026-06-29 13:22:00</wp:post_modified>
@@ -73,9 +314,9 @@ Começou na manhã desta segunda-feira (29) a audiência de instrução do tenen
     <item>
       <title>Apuração define o campeão do Festival de Parintins 2026 nesta segunda</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/apuracao-define-o-campeao-do-festival-de-parintins-2026-nesta-segunda</link>
-      <pubDate>Mon, 29 Jun 2026 17:30:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:46:50 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/apuracao-define-o-campeao-do-festival-de-parintins-2026-nesta-segunda#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/apuracao-define-o-campeao-do-festival-de-parintins-2026-nesta-segunda#1006</guid>
       <description>© Festival de Parintins/Divulgação
 O campeão do 59º Festival de Parintins será conhecido na tarde desta segunda-feira (29), a partir das 16h (horário...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/BNWq5HhX-OrNuIP2ycPZgOneV7U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/30/festival_de_parintins2025.jpg?itok=eRjghL2v&quot; alt=&quot;Apuração define o campeão do Festival de Parintins 2026 nesta segunda&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -87,15 +328,10 @@ O campeão do 59º Festival de Parintins será conhecido na tarde desta segunda-
 &lt;p&gt;A leitura das notas seguirá estritamente as regras do festival. A expectativaé de mais um capítulo histórico e de placar apertado para uma festa que, além da rivalidade, mobiliza milhares de apaixonados e fortalece a identidade cultural do Amazonas.&lt;/p&gt;
 &lt;p&gt;MEIs e misoginia estão entre os temas da semana no Congresso&lt;/p&gt;
 &lt;p&gt;Neymar de volta? Entenda o processo de recuperação do camisa dez da Seleção Brasileira&lt;/p&gt;
-&lt;p&gt;Reserva Ecológica do IBGE no DF passa a ter gestão apoiada pelo ICMBio&lt;/p&gt;
-&lt;p&gt;Torcedor da seleção há 20 Copas, Seu Simão, 91 anos, aposta no hexa&lt;/p&gt;
-&lt;p&gt;João Fonseca estreia em Wimbledon com 3 a 0 sobre Bautista Agut&lt;/p&gt;
-&lt;p&gt;Começa em SP audiência de tenente-coronel acusado de feminicídio de PM&lt;/p&gt;
-&lt;p&gt;Apuração define o campeão do Festival de Parintins 2026 nesta segunda&lt;/p&gt;
-&lt;p&gt;Após casos de sarampo, Ministério da Saúde recomenda vacinar bebês&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/apuracao-define-o-campeao-do-festival-de-parintins-2026-nesta-segunda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Repórter Brasil Tarde de 29 de junho de 2026; assista na íntegra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-06/apuracao-define-o-campeao-do-festival-de-parintins-2026-nesta-segunda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Festival de Parintins/Divulgação
 O campeão do 59º Festival de Parintins será conhecido na tarde desta segunda-feira (29), a partir das 16h (horário...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-06-29 13:21:00</wp:post_date>
       <wp:post_date_gmt>2026-06-29 13:21:00</wp:post_date_gmt>
       <wp:post_modified>2026-06-29 13:21:00</wp:post_modified>
@@ -121,9 +357,9 @@ O campeão do 59º Festival de Parintins será conhecido na tarde desta segunda-
     <item>
       <title>Após casos de sarampo, Ministério da Saúde recomenda vacinar bebês</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/apos-casos-de-sarampo-ministerio-da-saude-recomenda-vacinar-bebes</link>
-      <pubDate>Mon, 29 Jun 2026 17:30:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:46:50 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/apos-casos-de-sarampo-ministerio-da-saude-recomenda-vacinar-bebes#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/apos-casos-de-sarampo-ministerio-da-saude-recomenda-vacinar-bebes#1007</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O Ministério da Saúde reforçou a necessidade da aplicação da vacina contra o sarampo na capital paulista após três c...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/lQWvIpd9yNX8wS1DaZLC5_10NoI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/sarampo_301119img_29253825.jpg?itok=79pTZjGG&quot; alt=&quot;Após casos de sarampo, Ministério da Saúde recomenda vacinar bebês&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -140,11 +376,11 @@ O Ministério da Saúde reforçou a necessidade da aplicação da vacina contra 
 &lt;p&gt;sob supervisão de Odair Braz Junior&lt;/p&gt;
 &lt;p&gt;MEIs e misoginia estão entre os temas da semana no Congresso&lt;/p&gt;
 &lt;p&gt;Neymar de volta? Entenda o processo de recuperação do camisa dez da Seleção Brasileira&lt;/p&gt;
-&lt;p&gt;Reserva Ecológica do IBGE no DF passa a ter gestão apoiada pelo ICMBio&lt;/p&gt;
-&lt;p&gt;Torcedor da seleção há 20 Copas, Seu Simão, 91 anos, aposta no hexa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/apos-casos-de-sarampo-ministerio-da-saude-recomenda-vacinar-bebes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Repórter Brasil Tarde de 29 de junho de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Saiba quando o Brasil vai a campo pelas oitavas de final da Copa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-06/apos-casos-de-sarampo-ministerio-da-saude-recomenda-vacinar-bebes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O Ministério da Saúde reforçou a necessidade da aplicação da vacina contra o sarampo na capital paulista após três c...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-06-29 13:14:00</wp:post_date>
       <wp:post_date_gmt>2026-06-29 13:14:00</wp:post_date_gmt>
       <wp:post_modified>2026-06-29 13:14:00</wp:post_modified>
@@ -170,9 +406,9 @@ O Ministério da Saúde reforçou a necessidade da aplicação da vacina contra 
     <item>
       <title>MEC Livros oferece mais 7,8mil obras em inglês e espanhol</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-livro-oferece-mais-78-mil-obras-em-ingles-e-espanhol</link>
-      <pubDate>Mon, 29 Jun 2026 17:30:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:46:50 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-livro-oferece-mais-78-mil-obras-em-ingles-e-espanhol#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-livro-oferece-mais-78-mil-obras-em-ingles-e-espanhol#1008</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 O Ministério da Educação (MEC) ampliou o acervo do MEC Livros, com a disponibilização gratuita de 7.832 obras nas v...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_xaZmLKn3FMLNyHfEGIvc-HDAD0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/09/img_5016.jpg?itok=Hn3bYU-R&quot; alt=&quot;MEC Livros oferece mais 7,8mil obras em inglês e espanhol&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -190,10 +426,10 @@ O Ministério da Educação (MEC) ampliou o acervo do MEC Livros, com a disponib
 &lt;p&gt;a plataforma reúne mais de 212 mil usuários ativos em todo o país&lt;/p&gt;
 &lt;p&gt;MEIs e misoginia estão entre os temas da semana no Congresso&lt;/p&gt;
 &lt;p&gt;Neymar de volta? Entenda o processo de recuperação do camisa dez da Seleção Brasileira&lt;/p&gt;
-&lt;p&gt;Reserva Ecológica do IBGE no DF passa a ter gestão apoiada pelo ICMBio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-livro-oferece-mais-78-mil-obras-em-ingles-e-espanhol&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Repórter Brasil Tarde de 29 de junho de 2026; assista na íntegra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/mec-livro-oferece-mais-78-mil-obras-em-ingles-e-espanhol&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 O Ministério da Educação (MEC) ampliou o acervo do MEC Livros, com a disponibilização gratuita de 7.832 obras nas v...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-06-29 13:11:00</wp:post_date>
       <wp:post_date_gmt>2026-06-29 13:11:00</wp:post_date_gmt>
       <wp:post_modified>2026-06-29 13:11:00</wp:post_modified>
@@ -219,9 +455,9 @@ O Ministério da Educação (MEC) ampliou o acervo do MEC Livros, com a disponib
     <item>
       <title>Ancelotti repete time e Brasil está escalado para enfrentar o Japão</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ancelotti-repete-time-e-brasil-esta-escalado-para-enfrentar-o-japao</link>
-      <pubDate>Mon, 29 Jun 2026 17:30:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:46:50 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ancelotti-repete-time-e-brasil-esta-escalado-para-enfrentar-o-japao#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ancelotti-repete-time-e-brasil-esta-escalado-para-enfrentar-o-japao#1009</guid>
       <description>O Brasil está escalado para enfrentar o Japão pela fase 16 avos de final da Copa do Mundo.
 A bola rola em Houston, nos Estados Unidos, a partir das 1...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/r20smcW4TC8OKsUiWkYD1jiWJTg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/28/treino-selecao-brasileira-masculino-28062026.jpg?itok=cWrLGrpt&quot; alt=&quot;Ancelotti repete time e Brasil está escalado para enfrentar o Japão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -242,7 +478,7 @@ A bola rola em Houston, nos Estados Unidos, a partir das 1...</description>
 &lt;p&gt;Neymar de volta? Entenda o processo de recuperação do camisa dez da Seleção Brasileira&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-06/ancelotti-repete-time-e-brasil-esta-escalado-para-enfrentar-o-japao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Brasil está escalado para enfrentar o Japão pela fase 16 avos de final da Copa do Mundo.
 A bola rola em Houston, nos Estados Unidos, a partir das 1...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-06-29 13:05:00</wp:post_date>
       <wp:post_date_gmt>2026-06-29 13:05:00</wp:post_date_gmt>
       <wp:post_modified>2026-06-29 13:05:00</wp:post_modified>
@@ -263,255 +499,6 @@ A bola rola em Houston, nos Estados Unidos, a partir das 1...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/r20smcW4TC8OKsUiWkYD1jiWJTg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/28/treino-selecao-brasileira-masculino-28062026.jpg?itok=cWrLGrpt</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>PND 2026: professores podem se inscrever até sexta-feira (3)</title>
-      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/pnd-2026-professores-podem-se-inscrever-ate-sexta-feira-3</link>
-      <pubDate>Mon, 29 Jun 2026 17:30:00 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/pnd-2026-professores-podem-se-inscrever-ate-sexta-feira-3#1005</guid>
-      <description>As inscrições para a Prova Nacional Docente (PND) de 2026 estarão abertas até sexta-feira (3)
-,exclusivamente pela internet no
-do Instituto Nacional ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/py9biSTIeEJls2X_8lTgHkpZZIE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/26/toms9572.jpg?itok=ZY548qXA&quot; alt=&quot;PND 2026: professores podem se inscrever até sexta-feira (3)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;As inscrições para a Prova Nacional Docente (PND) de 2026 estarão abertas até sexta-feira (3)&lt;/p&gt;
-&lt;p&gt;,exclusivamente pela internet no&lt;/p&gt;
-&lt;p&gt;do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), responsável pela prova.&lt;/p&gt;
-&lt;p&gt;a PND foi criada peloMinistério da Educação (MEC) para avaliar o nível de conhecimento e a formação dos futuros professores das licenciaturas, além de auxiliar estados e municípios a selecionarem professores para as suas redes de ensino&lt;/p&gt;
-&lt;p&gt;foram contratados pelas redes de ensino por meio da nota obtida na prova de 2025.&lt;/p&gt;
-&lt;p&gt;Anualmente, podem participar da PND os estudantes concluintes de cursos de licenciaturas, inscritos no Exame Nacional de Desempenho dos Estudantes (Enade) das Licenciaturas, bem como os demais interessados em participar de concursosou processos seletivos simplificados promovidos pela União, estados, Distrito Federal e municípios.&lt;/p&gt;
-&lt;p&gt;aderiram voluntariamente à PND em 2026. O número representa uma participação de 96% das capitais e 85% dos estados brasileiros.&lt;/p&gt;
-&lt;p&gt;Em comparação com 2025, quando 1.508 municípios e 22 estados aderiram ao exame, houve um crescimento superior a 30%. Do total de entes que aderiram ao exame,615manifestaram interesse em utilizar os resultados da PNDem seus processos seletivosno ano de2026.&lt;/p&gt;
-&lt;p&gt;O candidato que desejar usar o nome social deve assinalar a opção formulário online durante o período de inscrições. É pré-requisito que oparticipante tenha o nome social cadastrado na Receita Federal.&lt;/p&gt;
-&lt;p&gt;Aquele participante que necessitar de atendimento especializado deverá, também no ato da inscrição, informar as condições que motivam o pedido e indicar os recursos de acessibilidade que necessita.&lt;/p&gt;
-&lt;p&gt;O atendimento especializado é destinado a pessoas com deficiência (PCD),com transtornos do neurodesenvolvimento, como Transtorno do Déficit de Atenção com Hiperatividade (TDAH), Transtorno do Espectro Autista (TEA); gestantes, lactantes, diabéticos, idosos ou com outras condições específicas.&lt;/p&gt;
-&lt;p&gt;O valor da taxa de inscrição será de R$ 85 para os candidatos não isentos e o pagamento poderá ser efetuado em qualquer banco, casa lotérica ou aplicativos bancários até 8 de julho.&lt;/p&gt;
-&lt;p&gt;Os participantes que solicitaram isenção da taxa de inscrição da prova podem consultar no&lt;/p&gt;
-&lt;p&gt;a resposta do Inep sobre os pedidos. Os participantes que conseguiram a isenção deverão realizar a inscrição normalmente até o prazo final. Já aqueles que tiverem o pedido negado após a análise dos recursos poderão efetuar a inscrição mediante pagamento da taxa correspondente.&lt;/p&gt;
-&lt;p&gt;As provas serão aplicadas no dia 20 de setembro em todos os estados e no Distrito Federal, nos municípios selecionados.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/pnd-2026-professores-podem-se-inscrever-ate-sexta-feira-3&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>As inscrições para a Prova Nacional Docente (PND) de 2026 estarão abertas até sexta-feira (3)
-,exclusivamente pela internet no
-do Instituto Nacional ...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-06-29 12:53:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-29 12:53:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-29 12:53:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-29 12:53:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/py9biSTIeEJls2X_8lTgHkpZZIE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/26/toms9572.jpg?itok=ZY548qXA</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Desenrola lança modalidades de crédito para estimular bons pagadores</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/desenrola-lanca-modalidades-de-credito-para-estimular-bons-pagadores</link>
-      <pubDate>Mon, 29 Jun 2026 17:30:00 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/desenrola-lanca-modalidades-de-credito-para-estimular-bons-pagadores#1006</guid>
-      <description>© Washington Costa/Ministério da Fazenda
-O governo federal anunciou nesta segunda-feira (29)modalidades de crédito dentro do programa
-voltadas a três...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qDU1IRmTd2xm1uEi1tZX6qhRUuQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/21/55284099217_86d7fe9192_o.jpg?itok=85j6jumc&quot; alt=&quot;Desenrola lança modalidades de crédito para estimular bons pagadores&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Washington Costa/Ministério da Fazenda&lt;/p&gt;
-&lt;p&gt;O governo federal anunciou nesta segunda-feira (29)modalidades de crédito dentro do programa&lt;/p&gt;
-&lt;p&gt;voltadas a três públicos: trabalhadores informais adimplentes, trabalhadores com carteira assinada e estudantes que mantêm os pagamentos do Fundo de Financiamento Estudantil (Fies) em dia.&lt;/p&gt;
-&lt;p&gt;O Desenrola Adimplentes é voltadoa trabalhadores informais que mantêm suas obrigações financeiras em dia. Já oFies Empreendedorprevênova linha de crédito para egressos adimplentes do financiamento estudantil. Enquanto isso, uma terceira modalidade oferece a possibilidade de uso do saldo do Fundo de Garantia do Tempo de Serviço (FGTS) como garantia em operações de crédito consignado privado para trabalhadores com carteira assinada.&lt;/p&gt;
-&lt;p&gt;Apresentadas por medida provisória, as iniciativastêm como objetivo prevenir a inadimplência, ampliar o acesso ao crédito em condições mais favoráveis e estimular o empreendedorismo.&lt;/p&gt;
-&lt;p&gt;As medidas beneficiam os seguintes grupos:&lt;/p&gt;
-&lt;p&gt;Trabalhadores informais adimplentes - bons pagadores, que poderão trocar dívidas com juros que, segundo o ministro da Fazendoa, Dario Durigan,podem sair de algo entre 6% e 12% ao mês, por uma nova linha de crédito com taxa de até 1,99% ao mês. O público-alvo são informais com operações de até R$ 15 mil.&lt;/p&gt;
-&lt;p&gt;Trabalhadores formais com carteira assinada, que passam a ter acesso a crédito consignado privado com garantia adicional do FGTS. Com isso, a taxa de juros dessas operações também fica limitada a até 1,99% ao mês.&lt;/p&gt;
-&lt;p&gt;Estudantes e ex-estudantes adimplentes do Fies, que ganharão acesso a uma linha especial de crédito para empreendedorismo. A modalidade poderá financiar até R$ 80 mil para pessoa física e até R$ 180 mil para pessoa jurídica, com condições mais favoráveis do que as linhas hoje disponíveis no mercado.&lt;/p&gt;
-&lt;p&gt;Dario Durigandestaca queinicialmente o Desenrola estava voltado à renegociação de dívidas de inadimplentes, mas que com as medidas anunciadas nesta segunda-feira passa a beneficiar também os adimplentes.&lt;/p&gt;
-&lt;p&gt;“Quando a gente está falando de um país que tem uma economia forte, uma economia organizada e que trouxe para o debate econômico do país a justiça social e a justiça tributária, nós temos que fazer com que os efeitos de uma economia forte cheguem às pessoas que mais precisam”, afirmou o ministro.&lt;/p&gt;
-&lt;p&gt;Segundo o ministro, a orientação do programa continua sendo estimular o pagamento das obrigações financeiras.&lt;/p&gt;
-&lt;p&gt;“O valor que a gente defende no Desenrola é o pagamento em dia das contas. Os depoimentos que a gente ouviu mostram isso: as pessoas querem pagar, mas não estavam conseguindo. Voltaram agora, com essa ajuda do governo, a poder pagar em dia”, acrescentou.&lt;/p&gt;
-&lt;p&gt;De acordo com o ministro, o crédito para os trabalhadores formais com FGTS como garantiajá está disponível na Caixa Econômica Federal e deverá ser expandida para outras instituições financeiras, inclusive o Banco do Brasil.&lt;/p&gt;
-&lt;p&gt;“O que estamos fazendo agora é permitir que, além do salário do empregado ser oferecido em garantia para os bancos, também o saldo do FGTS possa ser utilizado. Com isso, vamos limitar a taxa de juros que pode ser cobrada desse trabalhador a 1,99% ao mês”, disse.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/desenrola-lanca-modalidades-de-credito-para-estimular-bons-pagadores&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Washington Costa/Ministério da Fazenda
-O governo federal anunciou nesta segunda-feira (29)modalidades de crédito dentro do programa
-voltadas a três...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-06-29 12:42:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-29 12:42:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-29 12:42:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-29 12:42:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/qDU1IRmTd2xm1uEi1tZX6qhRUuQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/21/55284099217_86d7fe9192_o.jpg?itok=85j6jumc</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Pé-de-Meia 2026: pagamento da quarta parcela começa nesta segunda</title>
-      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/pe-de-meia-2026-pagamento-da-quarta-parcela-comeca-nesta-segunda</link>
-      <pubDate>Mon, 29 Jun 2026 17:30:00 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/pe-de-meia-2026-pagamento-da-quarta-parcela-comeca-nesta-segunda#1007</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-Os estudantes beneficiários do programa Pé-de-Meia de 2026que atingiram pelo menos 80% de frequência nas aulas em a...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/o7UdwADQLL5wLKdBmndQqSsezPU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7265.jpg_0.jpg?itok=v3JB0esW&quot; alt=&quot;Pé-de-Meia 2026: pagamento da quarta parcela começa nesta segunda&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Os estudantes beneficiários do programa Pé-de-Meia de 2026que atingiram pelo menos 80% de frequência nas aulas em abril deste ano começarão a receber a quarta parcela do incentivo frequência a partir desta segunda-feira (29).&lt;/p&gt;
-&lt;p&gt;Aparcela de R$ 200será depositada conforme o mês de nascimento dos estudantes beneficiáriosque cumprem os requisitos do Pé-de-Meia.&lt;/p&gt;
-&lt;p&gt;Ocalendário de pagamentos vai até6 de julho. Confira:&lt;/p&gt;
-&lt;p&gt;Nascidos em janeiro e fevereiro: recebem nesta segunda-feira (29);&lt;/p&gt;
-&lt;p&gt;Nascidos em março e abril: recebem nesta terça-feira (30)&lt;/p&gt;
-&lt;p&gt;Nascidos em maio e junho: recebem nesta quarta-feira (1ºdejulho)&lt;/p&gt;
-&lt;p&gt;Nascidos em julho e agosto: recebem nesta quinta-feira (2 dejulho)&lt;/p&gt;
-&lt;p&gt;Nascidos em setembro e outubro: recebem nesta sexta-feira (3 dejulho)&lt;/p&gt;
-&lt;p&gt;Nascidos em novembro e dezembro: recebem na próxima segunda-feira (6 de julho).&lt;/p&gt;
-&lt;p&gt;O Ministério da Educação (MEC) também poderá pagar as parcelas do incentivo matrícula de 2026 e do incentivo conclusão de 2025 aos estudantes que tiveram as informações sobre suas trajetórias escolares enviadas ou corrigidas pelas redes de ensino público onde estão matriculados.&lt;/p&gt;
-&lt;p&gt;O Pé-de-Meiafunciona como uma poupança para incentivar a permanência de jovens nos estudos até a conclusão do ensino médio.&lt;/p&gt;
-&lt;p&gt;Os beneficiados pela iniciativa federal podem consultar os dados sobre os pagamentos na página eletrônica do estudante dentro do&lt;/p&gt;
-&lt;p&gt;. É necessário fazer login na conta da plataforma Gov.br&lt;/p&gt;
-&lt;p&gt;A participação no programa, também chamado dePoupança do Ensino Médio, ocorre de forma automática para os estudantes que cumprem os requisitos estabelecidos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-06/pe-de-meia-2026-pagamento-da-quarta-parcela-comeca-nesta-segunda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-Os estudantes beneficiários do programa Pé-de-Meia de 2026que atingiram pelo menos 80% de frequência nas aulas em a...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-06-29 12:02:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-29 12:02:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-29 12:02:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-29 12:02:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/o7UdwADQLL5wLKdBmndQqSsezPU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7265.jpg_0.jpg?itok=v3JB0esW</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Novo terremoto de 4.6 atinge Venezuela cinco dias após tremor duplo</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/novo-terremoto-de-46-atinge-venezuela-cinco-dias-apos-tremor-duplo</link>
-      <pubDate>Mon, 29 Jun 2026 17:30:00 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/novo-terremoto-de-46-atinge-venezuela-cinco-dias-apos-tremor-duplo#1008</guid>
-      <description>© Reuters/Handout/Proibida reprodução
-Um novo terremoto foi registrado na Venezuela, nesta segunda-feira (29), de magnitude 4.6 da escala Ritcher, co...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/G5bGSQCHeVFYAE3Q58Iy3-TMzVk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/29/2026-06-29t031030z_939850558_rc2u1mamj370_rtrmadp_3_venezuela-quake.jpg?itok=xRtyf81s&quot; alt=&quot;Novo terremoto de 4.6 atinge Venezuela cinco dias após tremor duplo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Reuters/Handout/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;Um novo terremoto foi registrado na Venezuela, nesta segunda-feira (29), de magnitude 4.6 da escala Ritcher, com epicentro na cidade de Carabelleda, no estado La Guaira, o mais afetado pelo duplo terremoto&lt;/p&gt;
-&lt;p&gt;O tremor foi sentido também na capital, Caracas.&lt;/p&gt;
-&lt;p&gt;O presidente da Assembleia Nacional da Venezuela, Jorge Rodríguez, informou que o tremor desta segunda-feira foi uma “réplica de moderada intensidade”, mas que não foram registrados danos adicionais “em nenhuma parte do território nacional”.&lt;/p&gt;
-&lt;p&gt;O Serviço Geológico dos Estados Unidos (USGS) calculou que o tremor teve origem a 10 quilômetros (km) de profundidade da superfície e a 27 km do centro de Carabelleda.&lt;/p&gt;
-&lt;p&gt;O município de cerca de 50 mil habitantes, que fica a cerca de 40 kmde estrada de Caracas,&lt;/p&gt;
-&lt;p&gt;foi um dos gravemente afetados pelo duplo terremoto da semana passada&lt;/p&gt;
-&lt;p&gt;Na sexta-feira (29), outro tremor de magnitude 4.9 foi registrado no país&lt;/p&gt;
-&lt;p&gt;, que vem tendo sucessivos casos de “réplicas” do duplo terremoto da semana passada. As réplicas são tremores secundários que ocorrem em decorrência de um primeiro grande terremoto.&lt;/p&gt;
-&lt;p&gt;Agência estatal da Venezuela informou que foram, pelo menos, 430 tremores secundários registrados desde o terremoto duplo.&lt;/p&gt;
-&lt;p&gt;A professora de Direito da Universidade Central de Caracas (UCV) Tamara Ádrian, que vive em Caracas, disse à&lt;/p&gt;
-&lt;p&gt;que tem havido muitas réplicas nos últimos dias.&lt;/p&gt;
-&lt;p&gt;Como trabalha em um edifício com estrutura anti-sismica, do tipo japonesa, Ádrian sente até os menores terremotos.&lt;/p&gt;
-&lt;p&gt;“Trabalho nesse prédio há quase 30 anos e sinto pelo menos um ou dois tremores por semana. São sempre leves, mas sinto o movimento”, comentou, acrescentando que terremotos com a magnitude da semana passada são raros.&lt;/p&gt;
-&lt;p&gt;“Vivi o terremoto de 1967, que teve magnitude 6.1. Na Venezuela, há muitos tremores, mas os terremotos raramente ultrapassam 6 na escala Richter. Historicamente, porém, em Caracas, o intervalo entre esses terremotos maiores, segundo medições de sismólogos, tem sido de cerca de 50 anos”, disse.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-06/novo-terremoto-de-46-atinge-venezuela-cinco-dias-apos-tremor-duplo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Reuters/Handout/Proibida reprodução
-Um novo terremoto foi registrado na Venezuela, nesta segunda-feira (29), de magnitude 4.6 da escala Ritcher, co...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-06-29 11:42:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-29 11:42:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-29 11:42:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-29 11:42:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/G5bGSQCHeVFYAE3Q58Iy3-TMzVk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/29/2026-06-29t031030z_939850558_rc2u1mamj370_rtrmadp_3_venezuela-quake.jpg?itok=xRtyf81s</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mercado mantém em 5,33% projeção de inflação para 2026</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/mercado-mantem-projecao-de-inflacao-em-533-para-2026</link>
-      <pubDate>Mon, 29 Jun 2026 17:30:00 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/mercado-mantem-projecao-de-inflacao-em-533-para-2026#1009</guid>
-      <description>© Marcello Casal JrAgência Brasil
-O Índice Nacional de Preços ao Consumidor Amplo (IPCA) projetado pelo mercado financeiro se mantém em 5,33% para es...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/J1IMSI4e9fFQ0EVQOhjK-WtEYqQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco_central_mcajr_abr_0104222273_0.jpg?itok=g_ZaWJLk&quot; alt=&quot;Mercado mantém em 5,33% projeção de inflação para 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
-&lt;p&gt;O Índice Nacional de Preços ao Consumidor Amplo (IPCA) projetado pelo mercado financeiro se mantém em 5,33% para este ano, segundo o Boletim Focus divulgado nesta segunda-feira (29)pelo Banco Central (BC).&lt;/p&gt;
-&lt;p&gt;A estabilização do índice, que é referência oficial da inflação no país, ocorre após 15 meses de altas consecutivas, mas o percentual permanece acima da meta que deve ser perseguida pelo Banco Central, de 3%, com intervalo de tolerância entre 1,5% e 4,5%, conforme determinado pelo Conselho Monetário Nacional (CMN).&lt;/p&gt;
-&lt;p&gt;A projeção da inflação para 2027 permanece em uma trajetória de aumento, passando de 4,15% para 4,17%em relação à semana anterior. Já as estimativas para 2028 e 2029 se mantémestáveis em 3,7% e 3,5%, respectivamente.&lt;/p&gt;
-&lt;p&gt;Nesta semana, os analistas mantiveram em 14%a projeção da&lt;/p&gt;
-&lt;p&gt;para 2026,indicando mais um corte sobre a atual taxa de 14,25%estabelecida pelo Comitê de Política Monetária (Copom) do BC, no último dia 17.&lt;/p&gt;
-&lt;p&gt;A próxima reunião do Copom deve ocorrer nos dias 4 e 5 de agosto.&lt;/p&gt;
-&lt;p&gt;A previsão da Selic para 2027, em relação à última projeção, foi mantidaem 12% ao ano. Já para 2028, o indicativo subiu de 10,25% para 10,5% ao ano. Em 2029, a taxa deve ficar em 10% ao ano.&lt;/p&gt;
-&lt;p&gt;A estimativa média de Produto Interno Bruto (PIB) em 2026avançou de 1,98% para 1,99%, indicando avanço na economia brasileira.&lt;/p&gt;
-&lt;p&gt;Na projeção para 2027, o indicadorque resulta da soma dos bens e serviços produzidos no paíssofreu uma pequena redução de 1,7% para 1,68%. Para 2028 e 2029, o mercado financeiro manteve a estimativa do PIB em 2% para os dois anos.&lt;/p&gt;
-&lt;p&gt;A estimativa para a cotação do dólar em 2026 foi mantida no Boletim Focus desta semana em R$ 5,20. Para 2027, a projeção aumentou de R$ 5,27 para R$ 5,58 e a estimativa para 2028 cresceu de R$ 5,30 para R$ 5,35. A projeção para o câmbio em 2029 ficou estável em R$ 5,40.&lt;/p&gt;
-&lt;p&gt;MEIs e misoginia estão entre os temas da semana no Congresso&lt;/p&gt;
-&lt;p&gt;Neymar de volta? Entenda o processo de recuperação do camisa dez da Seleção Brasileira&lt;/p&gt;
-&lt;p&gt;Reserva Ecológica do IBGE no DF passa a ter gestão apoiada pelo ICMBio&lt;/p&gt;
-&lt;p&gt;Torcedor da seleção há 20 Copas, Seu Simão, 91 anos, aposta no hexa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-06/mercado-mantem-projecao-de-inflacao-em-533-para-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal JrAgência Brasil
-O Índice Nacional de Preços ao Consumidor Amplo (IPCA) projetado pelo mercado financeiro se mantém em 5,33% para es...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-06-29 11:08:00</wp:post_date>
-      <wp:post_date_gmt>2026-06-29 11:08:00</wp:post_date_gmt>
-      <wp:post_modified>2026-06-29 11:08:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-06-29 11:08:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/J1IMSI4e9fFQ0EVQOhjK-WtEYqQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco_central_mcajr_abr_0104222273_0.jpg?itok=g_ZaWJLk</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
