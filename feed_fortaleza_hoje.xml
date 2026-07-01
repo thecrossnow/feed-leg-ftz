@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 01/07/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 15:44 UTC</description>
-<lastBuildDate>Wed, 01 Jul 2026 15:44:11 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Wed, 01 Jul 2026 17:59:26 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>FORtaleCE: Prefeito Evandro Leitão assina autorização para obras da Área Funcional da Paupina, nesta quinta-feira (2/7)</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/fortalece-prefeito-evandro-leitao-assina-autorizacao-para-obras-da-area-funcional-da-paupina-nesta-quinta-feira-2-7</link>
+<guid isPermaLink="false">fortaleza-20260701-1fc5ef84ee76</guid>
+<pubDate>Wed, 01 Jul 2026 12:50:00 +0000</pubDate>
+<description>FORtaleCE: Prefeito Evandro Leitão assina autorização para obras da Área Funcional da Paupina, nesta quinta-feira (2/7) - Quarta, 01 Julho 2026 12:50</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" alt="FORtaleCE: Prefeito Evandro Leitão assina autorização para obras da Área Funcional da Paupina, nesta" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>O prefeito de Fortaleza, Evandro Leitão, autoriza, nesta quinta-feira (2/7), o início das obras de requalificação na Comunidade Danilo Pinto, no bairro Paupina. A intervenção conta com o apoio do Governo do Ceará e faz parte do programa Periferia Viva, do Ministério das Cidades, que visa a integração de políticas públicas, o fortalecimento da participação comunitária e o reconhecimento das periferias como territórios de potência.</p>
+<p>Nesta etapa, a área receberá diversas intervenções, como construção de passeios, bancos, reforma da quadra com construção de gradil e coberta, parquinho, academia ao ar livre e espaço multifuncional, além de arborização. O novo espaço vai beneficiar, diretamente, cerca de 27 mil pessoas que residem na Paupina, e demais comunidades vizinhas. A requalificação da área faz parte de um conjunto de ações na região com investimento previsto de R$ 103 milhões.</p>
+<p><strong>Serviço</strong><br/>Assinatura da Ordem de Serviço da Área Funcional da Paupina<br/>Data: 2/7 (quinta-feira)<br/>Horário: 17h<br/>Local: Rua Francisco Danilo Pinto, 433 – Paupina</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/fortalece-prefeito-evandro-leitao-assina-autorizacao-para-obras-da-area-funcional-da-paupina-nesta-quinta-feira-2-7" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" />
+<media:content url="https://www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" medium="image">
+<media:title>FORtaleCE: Prefeito Evandro Leitão assina autorização para obras da Área Funcional da Paupina, nesta</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
