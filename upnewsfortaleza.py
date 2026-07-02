@@ -18,8 +18,20 @@ def encodificar_url(url):
     try:
         if url.startswith('data:'):
             return url
-        # Retorna a URL decodificada (com espaços reais) para evitar a dupla codificação no WP Automatic
-        return unquote(url)
+        # Decodifica a URL para normalizar
+        url_decodificada = unquote(url)
+        
+        # Se for uma imagem do portal de Fortaleza, passa pelo CDN gratuito do WordPress (Jetpack)
+        # Isso contorna o bloqueio de User-Agent/IP/Referer do servidor da prefeitura
+        if 'fortaleza.ce.gov.br' in url_decodificada and any(ext in url_decodificada.lower() for ext in ['.jpg', '.jpeg', '.png', '.gif']):
+            url_clean = url_decodificada
+            if url_clean.startswith('https://'):
+                url_clean = url_clean[8:]
+            elif url_clean.startswith('http://'):
+                url_clean = url_clean[7:]
+            return f"https://i0.wp.com/{url_clean}"
+            
+        return url_decodificada
     except:
         return url
 
