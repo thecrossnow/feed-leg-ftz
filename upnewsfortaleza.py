@@ -12,7 +12,7 @@ import re
 import os
 import sys
 
-def extrair_conteudo_completo(url_noticia, headers):
+def extrair_conteudo_completo(url_noticia, headers, imagem_miniatura=None):
     """
     Acessa a URL individual da notícia e extrai:
     1. Conteúdo completo do artigo
@@ -47,10 +47,12 @@ def extrair_conteudo_completo(url_noticia, headers):
         ]
         
         conteudo_encontrado = False
+        container_conteudo_original = None
         
         for seletor in seletores_conteudo:
             container = soup.select_one(seletor)
             if container:
+                container_conteudo_original = container
                 # Fazer uma cópia para não modificar o original
                 conteudo = BeautifulSoup(str(container), 'html.parser')
                 
@@ -74,24 +76,61 @@ def extrair_conteudo_completo(url_noticia, headers):
                             elemento.decompose()
                             continue
                 
-                # Limpar atributos (manter estrutura)
+                # Limpar atributos (manter estrutura) e converter links relativos para absolutos
                 for tag in conteudo.find_all(True):
                     if tag.name == 'img':
-                        # Para imagens: manter src, alt e tornar responsiva
+                        # Suportar lazy load (buscar o link real em atributos de dados antes)
+                        possible_src_attrs = ['src', 'data-src', 'data-lazy-src', 'data-original', 'data-actual-src']
+                        src = None
+                        for attr in possible_src_attrs:
+                            val = tag.get(attr)
+                            if val and not val.startswith('data:'):
+                                src = val
+                                break
+                        if not src:
+                            src = tag.get('src')
+                            
+                        if src:
+                            src = src.strip().replace('\n', '').replace('\r', '')
+                            # Converter para absoluta se necessário
+                            if not src.startswith(('http://', 'https://', 'data:')):
+                                if src.startswith('//'):
+                                    src = 'https:' + src
+                                elif src.startswith('/'):
+                                    base_url = '/'.join(url_noticia.split('/')[:3])
+                                    src = base_url + src
+                                else:
+                                    src = urljoin(url_noticia, src)
+                            tag['src'] = src
+                            
+                        # Limpar outros atributos para não quebrar no WordPress
                         attrs = dict(tag.attrs)
                         for attr in list(attrs.keys()):
                             if attr not in ['src', 'alt', 'title']:
                                 del tag[attr]
-                        if 'style' not in tag.attrs:
-                            tag['style'] = 'max-width:100%; height:auto;'
+                        tag['style'] = 'max-width:100%; height:auto;'
+                        
                     elif tag.name == 'a':
-                        # Para links: manter apenas href
+                        # Converter link relativo para absoluto
+                        href = tag.get('href')
+                        if href:
+                            href = href.strip().replace('\n', '').replace('\r', '')
+                            if not href.startswith(('http://', 'https://', 'mailto:', 'tel:', 'javascript:', '#')):
+                                if href.startswith('//'):
+                                    href = 'https:' + href
+                                elif href.startswith('/'):
+                                    base_url = '/'.join(url_noticia.split('/')[:3])
+                                    href = base_url + href
+                                else:
+                                    href = urljoin(url_noticia, href)
+                            tag['href'] = href
+                            
                         attrs = dict(tag.attrs)
                         for attr in list(attrs.keys()):
                             if attr != 'href':
                                 del tag[attr]
                     else:
-                        # Para outras tags: remover atributos de estilo
+                        # Para outras tags: remover atributos de estilo e classe
                         if 'style' in tag.attrs:
                             del tag['style']
                         if 'class' in tag.attrs:
@@ -135,18 +174,33 @@ def extrair_conteudo_completo(url_noticia, headers):
                 imagem_destacada = meta_twitter['content']
                 print("    🖼️  Imagem via Twitter Card")
         
-        # Prioridade 3: Primeira imagem grande no conteúdo
+        # Prioridade 3: Primeira imagem no container do conteúdo principal
+        if not imagem_destacada and container_conteudo_original:
+            first_img = container_conteudo_original.find('img')
+            if first_img:
+                src = first_img.get('src') or first_img.get('data-src')
+                if src and not src.startswith('data:'):
+                    imagem_destacada = src
+                    print("    🖼️  Imagem via primeira <img> no container de conteúdo")
+        
+        # Prioridade 4: Primeira imagem em seletores comuns no conteúdo
         if not imagem_destacada:
-            img_tags = soup.select('figure img, .featured-image img, .post-thumbnail img, img.wp-post-image')
+            img_tags = soup.select('figure img, .featured-image img, .post-thumbnail img, img.wp-post-image, .itemFullText img, .com-content-article__body img')
             for img in img_tags:
                 src = img.get('src') or img.get('data-src')
                 if src and not src.startswith('data:'):  # Ignorar data URIs
                     imagem_destacada = src
-                    print("    🖼️  Imagem via tag <img> no conteúdo")
+                    print("    🖼️  Imagem via tag <img> no conteúdo (seletor amplo)")
                     break
+        
+        # Prioridade 5: Usar a miniatura da listagem como fallback final se não achou nada interno
+        if not imagem_destacada and imagem_miniatura:
+            imagem_destacada = imagem_miniatura
+            print("    🖼️  Imagem via miniatura da listagem (fallback)")
         
         # Converter URL relativa para absoluta se necessário
         if imagem_destacada:
+            imagem_destacada = imagem_destacada.strip().replace('\n', '').replace('\r', '')
             if not imagem_destacada.startswith(('http://', 'https://')):
                 if imagem_destacada.startswith('//'):
                     imagem_destacada = 'https:' + imagem_destacada
@@ -384,13 +438,29 @@ def criar_feed_fortaleza():
                             
                             # Imagem da página principal (miniatura)
                             imagem_miniatura = None
-                            img_tag = container.find('figure', class_='blog-item-small-image')
+                            img_container = (
+                                container.find('figure', class_='blog-item-small-image') or
+                                container.find('div', class_='blog-item-small-image') or
+                                container.find('div', class_='imagem') or
+                                container.find('figure')
+                            )
+                            img_tag = None
+                            if img_container:
+                                img_tag = img_container.find('img')
+                            if not img_tag:
+                                img_tag = container.find('img')
+                                
                             if img_tag:
-                                img = img_tag.find('img')
-                                if img and img.get('src'):
-                                    src = img['src']
+                                src = img_tag.get('src') or img_tag.get('data-src')
+                                if src and not src.startswith('data:'):
+                                    src = src.strip().replace('\n', '').replace('\r', '')
                                     if not src.startswith(('http://', 'https://')):
-                                        imagem_miniatura = urljoin(URL_BASE, src)
+                                        if src.startswith('//'):
+                                            imagem_miniatura = 'https:' + src
+                                        elif src.startswith('/'):
+                                            imagem_miniatura = URL_BASE + src
+                                        else:
+                                            imagem_miniatura = urljoin(URL_BASE, src)
                                     else:
                                         imagem_miniatura = src
                             
@@ -468,8 +538,8 @@ def criar_feed_fortaleza():
             if i > 1:
                 time.sleep(2)  # 2 segundos entre requisições
             
-            # Acessar a página individual da notícia
-            conteudo_extraido = extrair_conteudo_completo(noticia['link'], HEADERS)
+            # Acessar a página individual da notícia passando a miniatura
+            conteudo_extraido = extrair_conteudo_completo(noticia['link'], HEADERS, noticia['imagem_miniatura'])
             
             if conteudo_extraido:
                 # Usar título refinado se disponível
