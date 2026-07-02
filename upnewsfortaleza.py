@@ -7,10 +7,24 @@ from datetime import datetime, timezone, timedelta, date
 import html
 import hashlib
 import time
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, quote, unquote, urlunparse
 import re
 import os
 import sys
+
+def encodificar_url(url):
+    if not url:
+        return url
+    try:
+        if url.startswith('data:'):
+            return url
+        url_decodificada = unquote(url)
+        parts = urlparse(url_decodificada)
+        quoted_path = quote(parts.path, safe='/')
+        quoted_query = quote(parts.query, safe='=&')
+        return urlunparse((parts.scheme, parts.netloc, quoted_path, parts.params, quoted_query, parts.fragment))
+    except:
+        return url
 
 def extrair_conteudo_completo(url_noticia, headers, imagem_miniatura=None):
     """
@@ -76,7 +90,7 @@ def extrair_conteudo_completo(url_noticia, headers, imagem_miniatura=None):
                             elemento.decompose()
                             continue
                 
-                # Limpar atributos (manter estrutura) e converter links relativos para absolutos
+                # Limpar atributos (manter estrutura) e converter links relativos para absolutos codificados
                 for tag in conteudo.find_all(True):
                     if tag.name == 'img':
                         # Suportar lazy load (buscar o link real em atributos de dados antes)
@@ -101,7 +115,7 @@ def extrair_conteudo_completo(url_noticia, headers, imagem_miniatura=None):
                                     src = base_url + src
                                 else:
                                     src = urljoin(url_noticia, src)
-                            tag['src'] = src
+                            tag['src'] = encodificar_url(src)
                             
                         # Limpar outros atributos para não quebrar no WordPress
                         attrs = dict(tag.attrs)
@@ -123,7 +137,7 @@ def extrair_conteudo_completo(url_noticia, headers, imagem_miniatura=None):
                                     href = base_url + href
                                 else:
                                     href = urljoin(url_noticia, href)
-                            tag['href'] = href
+                            tag['href'] = encodificar_url(href)
                             
                         attrs = dict(tag.attrs)
                         for attr in list(attrs.keys()):
@@ -198,7 +212,7 @@ def extrair_conteudo_completo(url_noticia, headers, imagem_miniatura=None):
             imagem_destacada = imagem_miniatura
             print("    🖼️  Imagem via miniatura da listagem (fallback)")
         
-        # Converter URL relativa para absoluta se necessário
+        # Converter URL relativa para absoluta se necessário e codificar
         if imagem_destacada:
             imagem_destacada = imagem_destacada.strip().replace('\n', '').replace('\r', '')
             if not imagem_destacada.startswith(('http://', 'https://')):
@@ -209,6 +223,7 @@ def extrair_conteudo_completo(url_noticia, headers, imagem_miniatura=None):
                     imagem_destacada = base_url + imagem_destacada
                 else:
                     imagem_destacada = urljoin(url_noticia, imagem_destacada)
+            imagem_destacada = encodificar_url(imagem_destacada)
         
         # 3. TENTAR REFINAR O TÍTULO
         titulo_refinado = ""
@@ -463,6 +478,7 @@ def criar_feed_fortaleza():
                                             imagem_miniatura = urljoin(URL_BASE, src)
                                     else:
                                         imagem_miniatura = src
+                                    imagem_miniatura = encodificar_url(imagem_miniatura)
                             
                             noticias_hoje.append({
                                 'titulo': titulo,
