@@ -29,7 +29,7 @@ def encodificar_url(url):
                 url_clean = url_clean[8:]
             elif url_clean.startswith('http://'):
                 url_clean = url_clean[7:]
-            return f"https://i0.wp.com/{url_clean}"
+            return f"https://i0.wp.com:443/{url_clean}"
             
         return url_decodificada
     except:
