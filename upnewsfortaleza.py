@@ -18,11 +18,8 @@ def encodificar_url(url):
     try:
         if url.startswith('data:'):
             return url
-        url_decodificada = unquote(url)
-        parts = urlparse(url_decodificada)
-        quoted_path = quote(parts.path, safe='/')
-        quoted_query = quote(parts.query, safe='=&')
-        return urlunparse((parts.scheme, parts.netloc, quoted_path, parts.params, quoted_query, parts.fragment))
+        # Retorna a URL decodificada (com espaços reais) para evitar a dupla codificação no WP Automatic
+        return unquote(url)
     except:
         return url
 
