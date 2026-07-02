@@ -1,0 +1,32 @@
+name: 🔄 Trigger WP Automatic Cron
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  trigger_cron:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🌐 Executar requisição HTTP para o Cron
+        run: |
+          echo "Disparando o cron do WP Automatic..."
+          
+          # Executa o curl e captura apenas o código de status HTTP
+          STATUS=$(curl -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+               -H "Cache-Control: no-cache" \
+               -L -s -o /dev/null -w "%{http_code}" --max-time 180 \
+               "https://radar085.com.br/?wp_automatic=cron")
+          
+          echo "Código HTTP recebido: $STATUS"
+          
+          # 200 = Sucesso
+          # 503/504 = Servidor cortou a conexão HTTP por tempo, mas o processo continua rodando no PHP
+          if [ "$STATUS" -eq 200 ] || [ "$STATUS" -eq 503 ] || [ "$STATUS" -eq 504 ]; then
+            echo "✅ Cron disparado com sucesso! (HTTP Status: $STATUS)"
+            exit 0
+          else
+            echo "❌ Falha crítica ao acessar o site ou disparar o cron! (HTTP Status: $STATUS)"
+            exit 1
+          fi
