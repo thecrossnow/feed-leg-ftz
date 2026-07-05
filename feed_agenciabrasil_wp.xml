@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 05 Jul 2026 18:06:51 +0000</pubDate>
+    <pubDate>Sun, 05 Jul 2026 20:07:52 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,102 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Operação Lei Seca promove ações educativas durante jogo do Brasil</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/operacao-lei-seca-promove-acoes-educativas-durante-jogo-do-brasil</link>
+      <pubDate>Sun, 05 Jul 2026 20:07:52 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/operacao-lei-seca-promove-acoes-educativas-durante-jogo-do-brasil#1000</guid>
+      <description>A Operação Lei Seca ampliou as ações de educação para o trânsito e defiscalização, neste domingo (5), que vão ocorrer durante o jogo da seleção brasi...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dRnBB6qEoWQ22bxpev1YQXDaWVg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/05/lei_seca.jpg?itok=SE937Zj2&quot; alt=&quot;Operação Lei Seca promove ações educativas durante jogo do Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Operação Lei Seca ampliou as ações de educação para o trânsito e defiscalização, neste domingo (5), que vão ocorrer durante o jogo da seleção brasileira contra a Noruega na Copa do Mundo.&lt;/p&gt;
+&lt;p&gt;Os agentes estarão na capital e na Região Metropolitana do Rio de Janeiro. O reforço é em consequência da “expectativa de aumento na circulação de pessoas para acompanhar a partida”.&lt;/p&gt;
+&lt;p&gt;A FIFA Fan Fest, em Copacabana; a Festa do Alzirão, na Tijuca; e o Festival Cerveja Rio, no Aterro do Flamengo, receberão três equipes de educação para o trânsito. Enquanto as ações estiverem sendo feitas, os agentes distribuirão materiais informativos e serão promovidas ações de conscientização sobre os riscos da combinação de álcool com direção.&lt;/p&gt;
+&lt;p&gt;Cerca de 10 equipes de fiscalização estão mobilizadas em diferentes pontos da capital, da Região Metropolitana e do interior do Estado. O esquema faz parte do planejamento da Operação Lei Seca em datas de grande movimentação de pessoas. A intenção é prevenir a combinação de álcool e direção, para que a mobilização de torcedores possa ocorrer com um trânsito mais seguro.&lt;/p&gt;
+&lt;p&gt;“A Operação Lei Seca orienta os motoristas a planejarem o deslocamento com antecedência e, caso consumam bebida alcoólica, optem por transporte por aplicativo, táxi, transporte público ou por um motorista que não tenha ingerido álcool”, informou em nota.&lt;/p&gt;
+&lt;p&gt;Por mais ofensiva, Brasil deve entrar em campo com Gabriel Martinelli&lt;/p&gt;
+&lt;p&gt;Barracas da Praia do Futuro são reconhecidas como patrimônio&lt;/p&gt;
+&lt;p&gt;Operação Lei Seca promove ações educativas durante jogo do Brasil&lt;/p&gt;
+&lt;p&gt;PM reforça a segurança em pontos de concentração de torcedores no Rio&lt;/p&gt;
+&lt;p&gt;Mojtaba Khamenei, novo líder iraniano, não vai a funeral de seu pai&lt;/p&gt;
+&lt;p&gt;Ao menos oito pessoas, incluindo quatro crianças, foram baleadas em NY&lt;/p&gt;
+&lt;p&gt;Concerto de banda em igreja no Rio chama atenção para encontro mundial&lt;/p&gt;
+&lt;p&gt;Rio de Janeiro sedia encontro mundial de bandas sinfônicas em julho&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/operacao-lei-seca-promove-acoes-educativas-durante-jogo-do-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Operação Lei Seca ampliou as ações de educação para o trânsito e defiscalização, neste domingo (5), que vão ocorrer durante o jogo da seleção brasi...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-07-05 15:03:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-05 15:03:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-05 15:03:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-05 15:03:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/dRnBB6qEoWQ22bxpev1YQXDaWVg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/05/lei_seca.jpg?itok=SE937Zj2</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>PM reforça a segurança em pontos de concentração de torcedores no Rio</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/pm-reforca-seguranca-em-pontos-de-concentracao-de-torcedores-no-rio</link>
+      <pubDate>Sun, 05 Jul 2026 20:07:52 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/pm-reforca-seguranca-em-pontos-de-concentracao-de-torcedores-no-rio#1001</guid>
+      <description>A segurança dos torcedores do Rio de Janeiro durante o jogo da seleção brasileira contra a Noruegana Copa do Mundo, neste domingo (5), no estádio de ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ks6qpmnqosLupccqOVblOkcJd0M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/tmazs_copa_do_mundo_2022_arena_fifa_fan_festival20221205_0219.jpg?itok=ysj3n-sX&quot; alt=&quot;PM reforça a segurança em pontos de concentração de torcedores no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A segurança dos torcedores do Rio de Janeiro durante o jogo da seleção brasileira contra a Noruegana Copa do Mundo, neste domingo (5), no estádio de Nova Jersey, conta com forte esquema policial e tecnológico.&lt;/p&gt;
+&lt;p&gt;De acordo com o governo do estado,&lt;/p&gt;
+&lt;p&gt;os principais pontos de maior número de policiais são a Grande Tijuca, na zona norte; no Centro da cidade; e na Praia de Copacabana, na zona sul.&lt;/p&gt;
+&lt;p&gt;Na Grande Tijuca estarão mais de 240 policiais militaresdo 6º Batalhão da Polícia Militar, de unidades do Comando de Operações Especiais e do Comando de Policiamento Especializado. Esses agentes vão reforçar o policiamento nos eventos organizados nas ruas Jorge Rudge, Pereira Nunes e Zulmira, além do tradicional Alzirão, na rua Alzira Brandão, nos bairros de Vila Isabel e Tijuca. Esses locais costumam concentrargrande número de torcedores até mesmo após o fim das partidas, incluindo apresentações de grupos de pagode.&lt;/p&gt;
+&lt;p&gt;Já em Copacabana, a segurança das pessoas que vão assistir ao jogo transmitido na Fan Fest, na orla da praia, na altura da Avenida Princesa Isabel, será garantida por mais de 200 policiais militares. Lá, o policiamento reforçado conta ainda com mais de 20 viaturas incluindo patrulhamento com motocicletas.&lt;/p&gt;
+&lt;p&gt;Fora da capital, o planejamento da Secretaria de Estado de Polícia Militar inclui as unidades operacionais e especializadas em municípios da Baixada Fluminense, Região Metropolitana e Costa Verde.&lt;/p&gt;
+&lt;p&gt;Por mais ofensiva, Brasil deve entrar em campo com Gabriel Martinelli&lt;/p&gt;
+&lt;p&gt;Barracas da Praia do Futuro são reconhecidas como patrimônio&lt;/p&gt;
+&lt;p&gt;Operação Lei Seca promove ações educativas durante jogo do Brasil&lt;/p&gt;
+&lt;p&gt;PM reforça a segurança em pontos de concentração de torcedores no Rio&lt;/p&gt;
+&lt;p&gt;Mojtaba Khamenei, novo líder iraniano, não vai a funeral de seu pai&lt;/p&gt;
+&lt;p&gt;Ao menos oito pessoas, incluindo quatro crianças, foram baleadas em NY&lt;/p&gt;
+&lt;p&gt;Concerto de banda em igreja no Rio chama atenção para encontro mundial&lt;/p&gt;
+&lt;p&gt;Rio de Janeiro sedia encontro mundial de bandas sinfônicas em julho&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/pm-reforca-seguranca-em-pontos-de-concentracao-de-torcedores-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A segurança dos torcedores do Rio de Janeiro durante o jogo da seleção brasileira contra a Noruegana Copa do Mundo, neste domingo (5), no estádio de ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-07-05 14:41:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-05 14:41:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-05 14:41:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-05 14:41:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Ks6qpmnqosLupccqOVblOkcJd0M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/tmazs_copa_do_mundo_2022_arena_fifa_fan_festival20221205_0219.jpg?itok=ysj3n-sX</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Concerto de banda em igreja no Rio chama atenção para encontro mundial</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/concerto-de-banda-em-igreja-no-rio-chama-atencao-para-encontro-mundial</link>
-      <pubDate>Sun, 05 Jul 2026 18:06:51 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 20:07:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/concerto-de-banda-em-igreja-no-rio-chama-atencao-para-encontro-mundial#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/concerto-de-banda-em-igreja-no-rio-chama-atencao-para-encontro-mundial#1002</guid>
       <description>A Rio Brass Band é uma das bandas que vão participar da 21ª edição da Conferência Internacional da World Association for Symphonic Bands and Ensemble...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xUeLGhX5S8lHsNWbjYcYJv3UkK4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/05/concerto_da_rio_brass_band_na_igreja_sao_francisco_de_paula_no_centro_do_rio.jpg?itok=Nog-wHad&quot; alt=&quot;Concerto de banda em igreja no Rio chama atenção para encontro mundial&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Rio Brass Band é uma das bandas que vão participar da 21ª edição da Conferência Internacional da World Association for Symphonic Bands and Ensembles (WASBE) - ou Associação Mundial de Bandas e Conjuntos Sinfônicos, em português,Rio 2026.O festival vai reunir músicos de vários países entre os dias 20 e 25 de julho, no Rio de Janeiro, e dia 26 em Niterói.&lt;/p&gt;
@@ -45,7 +136,7 @@
 &lt;p&gt;Kenneth acrescentaque desde o início a banda tem integrantes dos Fuzileiros e dos Bombeiros, que são muito comprometidos com o grupo. “Gosto muito de uma palavra que o maestro Elias fala: nós somos um ato de resistência musical”, ressalta, destacando que mesmo em dias de jogos do Brasil, os músicos se reuniram e ensaiaram para o concerto da Igreja de São Francisco de Paula.&lt;/p&gt;
 &lt;p&gt;“É um amor muito grande à música”, pontuou.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/concerto-de-banda-em-igreja-no-rio-chama-atencao-para-encontro-mundial&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Rio Brass Band é uma das bandas que vão participar da 21ª edição da Conferência Internacional da World Association for Symphonic Bands and Ensemble...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-07-05 13:23:00</wp:post_date>
       <wp:post_date_gmt>2026-07-05 13:23:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-05 13:23:00</wp:post_modified>
@@ -71,9 +162,9 @@
     <item>
       <title>Rio de Janeiro sedia encontro mundial de bandas sinfônicas em julho</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/rio-de-janeiro-sedia-encontro-mundial-de-bandas-sinfonicas-em-julho</link>
-      <pubDate>Sun, 05 Jul 2026 18:06:51 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 20:07:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/rio-de-janeiro-sedia-encontro-mundial-de-bandas-sinfonicas-em-julho#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/rio-de-janeiro-sedia-encontro-mundial-de-bandas-sinfonicas-em-julho#1003</guid>
       <description>Pela primeira vez a América Latina vai receber uma edição da Conferência Internacional da
 World Association for Symphonic Bands and Ensembles
 -Associ...</description>
@@ -96,7 +187,7 @@ World Association for Symphonic Bands and Ensembles
       <excerpt:encoded>Pela primeira vez a América Latina vai receber uma edição da Conferência Internacional da
 World Association for Symphonic Bands and Ensembles
 -Associ...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-07-05 12:41:00</wp:post_date>
       <wp:post_date_gmt>2026-07-05 12:41:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-05 12:41:00</wp:post_modified>
@@ -122,9 +213,9 @@ World Association for Symphonic Bands and Ensembles
     <item>
       <title>Internado, cacique Raoni tem saúde estável e respira sem aparelhos</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/internado-cacique-raoni-tem-saude-estavel-e-respira-sem-aparelhos</link>
-      <pubDate>Sun, 05 Jul 2026 18:06:51 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 20:07:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/internado-cacique-raoni-tem-saude-estavel-e-respira-sem-aparelhos#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/internado-cacique-raoni-tem-saude-estavel-e-respira-sem-aparelhos#1004</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O líder indígena Raoni Metuktire, de 93 anos, continua internadona Unidade de Terapia Intensiva (UTI) do Hospital Sã...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/oMKAE_mhILAKP4xCH29khXRDQeo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1102224-df_img_2503.jpg?itok=Cp2WVaGl&quot; alt=&quot;Internado, cacique Raoni tem saúde estável e respira sem aparelhos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -136,16 +227,16 @@ O líder indígena Raoni Metuktire, de 93 anos, continua internadona Unidade de 
 &lt;p&gt;Segundo o boletim médico, divulgado na tarde deste sábado (4), na última terça-feira (30) apresentou hemorragia digestiva, já controlada.&lt;/p&gt;
 &lt;p&gt;Raoni chegou aSão Paulo após ser transferido do Hospital e Maternidade Dois Pinheiros, em Sinop, norte de Mato Grosso, onde estava sendo tratado desde o dia 14 de junho.&lt;/p&gt;
 &lt;p&gt;O tratamento está sendo acompanhado e conduzido pelo médicoFranz Robert Apodaca Torrez, que já vinha monitorando a evolução do caso em articulação equipe médica.&lt;/p&gt;
-&lt;p&gt;Radioagência segue regras do TSE durante período de defeso eleitoral&lt;/p&gt;
+&lt;p&gt;Por mais ofensiva, Brasil deve entrar em campo com Gabriel Martinelli&lt;/p&gt;
 &lt;p&gt;Barracas da Praia do Futuro são reconhecidas como patrimônio&lt;/p&gt;
+&lt;p&gt;Operação Lei Seca promove ações educativas durante jogo do Brasil&lt;/p&gt;
 &lt;p&gt;PM reforça a segurança em pontos de concentração de torcedores no Rio&lt;/p&gt;
 &lt;p&gt;Mojtaba Khamenei, novo líder iraniano, não vai a funeral de seu pai&lt;/p&gt;
 &lt;p&gt;Ao menos oito pessoas, incluindo quatro crianças, foram baleadas em NY&lt;/p&gt;
-&lt;p&gt;Concerto de banda em igreja no Rio chama atenção para encontro mundial&lt;/p&gt;
-&lt;p&gt;Rio de Janeiro sedia encontro mundial de bandas sinfônicas em julho&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/internado-cacique-raoni-tem-saude-estavel-e-respira-sem-aparelhos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Concerto de banda em igreja no Rio chama atenção para encontro mundial&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/internado-cacique-raoni-tem-saude-estavel-e-respira-sem-aparelhos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O líder indígena Raoni Metuktire, de 93 anos, continua internadona Unidade de Terapia Intensiva (UTI) do Hospital Sã...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-07-05 12:06:00</wp:post_date>
       <wp:post_date_gmt>2026-07-05 12:06:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-05 12:06:00</wp:post_modified>
@@ -171,9 +262,9 @@ O líder indígena Raoni Metuktire, de 93 anos, continua internadona Unidade de 
     <item>
       <title>China cria mecanismos financeiros na África para não depender de dólar</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/china-cria-mecanismos-financeiros-na-africa-para-nao-depender-de-dolar</link>
-      <pubDate>Sun, 05 Jul 2026 18:06:51 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 20:07:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/china-cria-mecanismos-financeiros-na-africa-para-nao-depender-de-dolar#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/china-cria-mecanismos-financeiros-na-africa-para-nao-depender-de-dolar#1005</guid>
       <description>© Valter Campanato/Agência Brasil/Arquivo
 A China vem ampliando a infraestrutura financeira na África para não depender do dólar, o que permite comer...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FK_Ld555uZXxFMjBIfEhtQlCMQo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221205.jpg?itok=MdcwUUjv&quot; alt=&quot;China cria mecanismos financeiros na África para não depender de dólar&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -194,7 +285,7 @@ A China vem ampliando a infraestrutura financeira na África para não depender 
 &lt;p&gt;“desdolarização” da economia mundial&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/china-cria-mecanismos-financeiros-na-africa-para-nao-depender-de-dolar&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil/Arquivo
 A China vem ampliando a infraestrutura financeira na África para não depender do dólar, o que permite comer...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-07-05 12:00:00</wp:post_date>
       <wp:post_date_gmt>2026-07-05 12:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-05 12:00:00</wp:post_modified>
@@ -220,9 +311,9 @@ A China vem ampliando a infraestrutura financeira na África para não depender 
     <item>
       <title>&quot;Um Defeito de Cor não é uma contra-história&quot;, diz Ana Maria Gonçalves</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/um-defeito-de-cor-nao-e-uma-contra-historia-diz-ana-maria-goncalves</link>
-      <pubDate>Sun, 05 Jul 2026 18:06:51 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 20:07:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/um-defeito-de-cor-nao-e-uma-contra-historia-diz-ana-maria-goncalves#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/um-defeito-de-cor-nao-e-uma-contra-historia-diz-ana-maria-goncalves#1006</guid>
       <description>© Valter Campanato/Agência Brasil
 A literatura produzida por autores negros ajuda a explicar a permanência histórica do racismo no Brasil e disputa o...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NqH9MeXVI3x9vlY5cGZyxIVD4HI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/04/0d7a7843.jpg.jpg?itok=qiU7Rcz9&quot; alt=&quot;&quot;Um Defeito de Cor não é uma contra-história&quot;, diz Ana Maria Gonçalves&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -243,7 +334,7 @@ A literatura produzida por autores negros ajuda a explicar a permanência histó
 &lt;p&gt;Desde que assumiu a cadeira 33 da ABL, como apenas a 13ª mulher e a primeira mulher preta a ser eleita para a academia, Ana Maria Gonçalves vem fazendo questão de repetir que não chegou sozinha a este lugar.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/um-defeito-de-cor-nao-e-uma-contra-historia-diz-ana-maria-goncalves&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 A literatura produzida por autores negros ajuda a explicar a permanência histórica do racismo no Brasil e disputa o...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-07-05 11:07:00</wp:post_date>
       <wp:post_date_gmt>2026-07-05 11:07:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-05 11:07:00</wp:post_modified>
@@ -269,9 +360,9 @@ A literatura produzida por autores negros ajuda a explicar a permanência histó
     <item>
       <title>Quatro em cada 10 brasileiros nunca ouviram falar em economia circular</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/quatro-em-cada-dez-brasileiros-nunca-ouviram-falar-em-economia-circular</link>
-      <pubDate>Sun, 05 Jul 2026 18:06:51 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 20:07:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/quatro-em-cada-dez-brasileiros-nunca-ouviram-falar-em-economia-circular#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/quatro-em-cada-dez-brasileiros-nunca-ouviram-falar-em-economia-circular#1007</guid>
       <description>Quatro em cada dez brasileiros (39%) nunca ouviram falar sobre o conceito de economia circular.
 Os dados constam de uma pesquisa encomendada pelo Mov...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Xkjujh1dmFAArCZz05s8rL7t5P0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_materiais_reciclaveis2807200517.jpg?itok=fRUycUHs&quot; alt=&quot;Quatro em cada 10 brasileiros nunca ouviram falar em economia circular&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -292,7 +383,7 @@ Os dados constam de uma pesquisa encomendada pelo Mov...</description>
 &lt;p&gt;A logística reversa, prática de devolver ao fabricante um produto após o fim de seu ciclo para reinserção na cadeia produtiva, também foi abordada no estudo.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/quatro-em-cada-dez-brasileiros-nunca-ouviram-falar-em-economia-circular&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Quatro em cada dez brasileiros (39%) nunca ouviram falar sobre o conceito de economia circular.
 Os dados constam de uma pesquisa encomendada pelo Mov...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-07-05 11:00:00</wp:post_date>
       <wp:post_date_gmt>2026-07-05 11:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-05 11:00:00</wp:post_modified>
@@ -318,9 +409,9 @@ Os dados constam de uma pesquisa encomendada pelo Mov...</excerpt:encoded>
     <item>
       <title>Atriz chilena Paulina Garcia será a homenageada no Bonito Cinesur</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/atriz-chilena-paulina-garcia-sera-homenageada-no-bonito-cinesur</link>
-      <pubDate>Sun, 05 Jul 2026 18:06:51 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 20:07:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/atriz-chilena-paulina-garcia-sera-homenageada-no-bonito-cinesur#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/atriz-chilena-paulina-garcia-sera-homenageada-no-bonito-cinesur#1008</guid>
       <description>Importante espaço de integração, exibição e debate do audiovisual sul-americano, o festival de cinema Bonito Cinesur chega à sua quarta edição aprese...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZudDd8iIYK6xqc9GyntAuEkWEgs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/05/paulina.jpg?itok=mC1EHwfc&quot; alt=&quot;Atriz chilena Paulina Garcia será a homenageada no Bonito Cinesur&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Importante espaço de integração, exibição e debate do audiovisual sul-americano, o festival de cinema Bonito Cinesur chega à sua quarta edição apresentando 32 produções cinematográficas, a partir do dia 24 de julho.&lt;/p&gt;
@@ -339,7 +430,7 @@ Os dados constam de uma pesquisa encomendada pelo Mov...</excerpt:encoded>
 &lt;p&gt;e a criação do Vídeo nas Aldeias,&lt;/p&gt;
 &lt;p&gt;projeto de capacitação audiovisual a serviço dos objetivos políticos e culturais dos índios&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/atriz-chilena-paulina-garcia-sera-homenageada-no-bonito-cinesur&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Importante espaço de integração, exibição e debate do audiovisual sul-americano, o festival de cinema Bonito Cinesur chega à sua quarta edição aprese...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-07-05 10:51:00</wp:post_date>
       <wp:post_date_gmt>2026-07-05 10:51:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-05 10:51:00</wp:post_modified>
@@ -365,9 +456,9 @@ Os dados constam de uma pesquisa encomendada pelo Mov...</excerpt:encoded>
     <item>
       <title>Brasil mira fim de tabus contra Noruega e europeus em Copas do Mundo</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-mira-fim-de-tabus-contra-noruega-e-europeus-em-copas-do-mundo</link>
-      <pubDate>Sun, 05 Jul 2026 18:06:51 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 20:07:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-mira-fim-de-tabus-contra-noruega-e-europeus-em-copas-do-mundo#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-mira-fim-de-tabus-contra-noruega-e-europeus-em-copas-do-mundo#1009</guid>
       <description>© Reuters/TROY TAORMINA/Proibida reprodução
 São Paulo - Além da classificação às quartas de final da Copa do Mundo, o Brasil mira o fim de dois tabus...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xBigCobbwT0DcxkkZOFfiQD22Oo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/05/selecao-brasil.jpg?itok=P-g_uSeY&quot; alt=&quot;Brasil mira fim de tabus contra Noruega e europeus em Copas do Mundo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -388,7 +479,7 @@ São Paulo - Além da classificação às quartas de final da Copa do Mundo, o B
 &lt;p&gt;Em 2018, na primeira Copa da &quot;era Tite&quot;, nova eliminação nas quartas de final, desta vez para a Bélgica, com derrota por 2 a 1 em Kazan (Rússia). O gol contra do volante Fernandinho e o chute de fora da área do atacante Romelu Lukaku complicaram a missão brasileira já no primeiro tempo. O meia Renato Augusto descontou na etapa final, mas foi insuficiente.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-mira-fim-de-tabus-contra-noruega-e-europeus-em-copas-do-mundo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/TROY TAORMINA/Proibida reprodução
 São Paulo - Além da classificação às quartas de final da Copa do Mundo, o Brasil mira o fim de dois tabus...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-07-05 09:58:00</wp:post_date>
       <wp:post_date_gmt>2026-07-05 09:58:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-05 09:58:00</wp:post_modified>
@@ -409,103 +500,6 @@ São Paulo - Além da classificação às quartas de final da Copa do Mundo, o B
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/xBigCobbwT0DcxkkZOFfiQD22Oo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/05/selecao-brasil.jpg?itok=P-g_uSeY</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Brasil enfrenta a Noruega hoje pelas oitavas de final da Copa do Mundo</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-enfrenta-noruega-hoje-pelas-oitavas-de-final-da-copa-do-mundo</link>
-      <pubDate>Sun, 05 Jul 2026 18:06:51 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-enfrenta-noruega-hoje-pelas-oitavas-de-final-da-copa-do-mundo#1008</guid>
-      <description>© Reuters/Phil Noble/Arquivo/Proibida reprodução
-Mais uma rodada das oitavas de final da Copa do Mundo 2026 acontece neste domingo (5), com a disputa...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/warOuAfHXp-677Uk_QMjpcGbNQw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/03/2026-06-29t192219z_204753080_up1em6t1ht6vg_rtrmadp_3_soccer-worldcup-bra-jpn.jpg?itok=H1UnC4KC&quot; alt=&quot;Brasil enfrenta a Noruega hoje pelas oitavas de final da Copa do Mundo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Reuters/Phil Noble/Arquivo/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;Mais uma rodada das oitavas de final da Copa do Mundo 2026 acontece neste domingo (5), com a disputa entre as seleções do Brasil e a da Noruega.&lt;/p&gt;
-&lt;p&gt;O jogo acontece às 17h (horário de Brasília), em Nova York, no estádio de New Jersey.&lt;/p&gt;
-&lt;p&gt;Também jogam hoje os times do México e da Inglaterra, na Cidade do México, às 21h.&lt;/p&gt;
-&lt;p&gt;Os vencedores avançam para as quartas de final e os derrotados deixam a competição. Em caso de empate no tempo regulamentar, haverá prorrogação de 30 minutos e, se necessário, disputa por pênaltis.&lt;/p&gt;
-&lt;p&gt;Os jogos das oitavas de final seguem até a próxima terça-feira (7). Na quinta-feira (9) começam as disputas pelas quartas de final.&lt;/p&gt;
-&lt;p&gt;⚽ Fique por dentro das partidas e resultados. Veja a tabela de pontos por grupos&lt;/p&gt;
-&lt;p&gt;Jogos deste domingo, 5 de julho&lt;/p&gt;
-&lt;p&gt;17h – Brasil x Noruega (Nova York/Nova Jersey)&lt;/p&gt;
-&lt;p&gt;21h – México x Inglaterra (Cidade do México)&lt;/p&gt;
-&lt;p&gt;Radioagência segue regras do TSE durante período de defeso eleitoral&lt;/p&gt;
-&lt;p&gt;Barracas da Praia do Futuro são reconhecidas como patrimônio&lt;/p&gt;
-&lt;p&gt;PM reforça a segurança em pontos de concentração de torcedores no Rio&lt;/p&gt;
-&lt;p&gt;Mojtaba Khamenei, novo líder iraniano, não vai a funeral de seu pai&lt;/p&gt;
-&lt;p&gt;Ao menos oito pessoas, incluindo quatro crianças, foram baleadas em NY&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-enfrenta-noruega-hoje-pelas-oitavas-de-final-da-copa-do-mundo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Reuters/Phil Noble/Arquivo/Proibida reprodução
-Mais uma rodada das oitavas de final da Copa do Mundo 2026 acontece neste domingo (5), com a disputa...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-07-05 09:02:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-05 09:02:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-05 09:02:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-05 09:02:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/warOuAfHXp-677Uk_QMjpcGbNQw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/03/2026-06-29t192219z_204753080_up1em6t1ht6vg_rtrmadp_3_soccer-worldcup-bra-jpn.jpg?itok=H1UnC4KC</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Veja os números da mega-sena sorteados neste sábado (4)</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/veja-os-numeros-da-mega-sena-sorteados-neste-sabado-4</link>
-      <pubDate>Sun, 05 Jul 2026 18:06:51 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/veja-os-numeros-da-mega-sena-sorteados-neste-sabado-4#1009</guid>
-      <description>© Marcello Casal JrAgência Brasil
-A Caixa Econômica Federal sorteou na noite deste sábado (4) os seis números do concurso 3.027 de Mega-Sena. São ele...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/bqwKDDFP3TdW0dpSmTWr31JWho8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena_mcajr_abr_2904223677.jpg?itok=rsiVHhgY&quot; alt=&quot;Veja os números da mega-sena sorteados neste sábado (4)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
-&lt;p&gt;A Caixa Econômica Federal sorteou na noite deste sábado (4) os seis números do concurso 3.027 de Mega-Sena. São eles:&lt;/p&gt;
-&lt;p&gt;Segundo a Caixa, ninguém acertou as seis dezenas que davam o direito ao prêmio deR$ 32.014.568,74.&lt;/p&gt;
-&lt;p&gt;44 apostas acertaram cinco números e cada uma vai receber R$ 45.413,55.&lt;/p&gt;
-&lt;p&gt;3.304 apostas acertaram quatro números e cada uma vai receber R$ 996,89.&lt;/p&gt;
-&lt;p&gt;Para o próximo concurso da Mega-Sena, a estimativa é de pagar um prêmio de R$ 38milhões.As apostas podem ser feitas até as 20h (horário de Brasília) de terça-feira (7), em qualquer lotérica do país ou pela internet,&lt;/p&gt;
-&lt;p&gt;Radioagência segue regras do TSE durante período de defeso eleitoral&lt;/p&gt;
-&lt;p&gt;Barracas da Praia do Futuro são reconhecidas como patrimônio&lt;/p&gt;
-&lt;p&gt;PM reforça a segurança em pontos de concentração de torcedores no Rio&lt;/p&gt;
-&lt;p&gt;Mojtaba Khamenei, novo líder iraniano, não vai a funeral de seu pai&lt;/p&gt;
-&lt;p&gt;Ao menos oito pessoas, incluindo quatro crianças, foram baleadas em NY&lt;/p&gt;
-&lt;p&gt;Concerto de banda em igreja no Rio chama atenção para encontro mundial&lt;/p&gt;
-&lt;p&gt;Rio de Janeiro sedia encontro mundial de bandas sinfônicas em julho&lt;/p&gt;
-&lt;p&gt;Após terremotos, Venezuela já tem quase 3 mil mortos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/veja-os-numeros-da-mega-sena-sorteados-neste-sabado-4&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal JrAgência Brasil
-A Caixa Econômica Federal sorteou na noite deste sábado (4) os seis números do concurso 3.027 de Mega-Sena. São ele...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-07-04 22:03:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-04 22:03:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-04 22:03:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-04 22:03:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/bqwKDDFP3TdW0dpSmTWr31JWho8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mega_sena_mcajr_abr_2904223677.jpg?itok=rsiVHhgY</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
