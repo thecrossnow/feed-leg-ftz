@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 06/07/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 08:23 UTC</description>
-<lastBuildDate>Mon, 06 Jul 2026 08:23:45 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>2 notícias publicadas hoje (2 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Mon, 06 Jul 2026 12:50:43 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Hepatites virais: diagnóstico precoce evita doenças crônicas</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/hepatites-virais-diagnostico-precoce-evita-doencas-cronicas</link>
+<guid isPermaLink="false">fortaleza-20260706-2949450121e4</guid>
+<pubDate>Mon, 06 Jul 2026 08:47:00 +0000</pubDate>
+<description>Hepatites virais: diagnóstico precoce evita doenças crônicas - Segunda, 06 Julho 2026 08:47</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Julho/1/06 07 2026 SMS IMG_0159.jpg" alt="Hepatites virais: diagnóstico precoce evita doenças crônicas" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Prefeitura de Fortaleza, por meio da Secretaria Municipal de Saúde (SMS), intensifica durante o mês de julho as ações da campanha Julho Amarelo, voltada à conscientização, prevenção e controle das hepatites virais. A iniciativa busca alertar a população sobre a importância do diagnóstico precoce, da vacinação e da adoção de medidas preventivas contra doenças que, na maioria dos casos, evoluem de forma silenciosa.</p>
+<p><strong>A doença</strong><br/><br/>As hepatites virais são inflamações no fígado causadas pelos vírus dos tipos A, B, C, D e E. Como normalmente não apresentam sintomas nas fases iniciais, muitas pessoas descobrem a doença apenas quando já há comprometimento do fígado. Quando surgem, os principais sinais incluem cansaço, febre, mal-estar, enjoos e icterícia, caracterizada pela coloração amarelada da pele e dos olhos.</p>
+<p>O diagnóstico é simples e pode ser realizado por meio de exames de sangue. Na capital, a testagem está disponível nos 134 postos de saúde. Em caso de resultado positivo, o exame laboratorial é solicitado, e sendo positivado o usuário é encaminhado ao Serviço de Assistência Especializado (SAE) e nos Centro de Testagem e Aconselhamento (CTA), onde recebe acompanhamento médico especializado e inicia o tratamento.</p>
+<p>De acordo com o assessor técnico da área IST/Aids e Hepatites Virais, Marcos Paiva, a prevenção continua sendo a principal forma de combate à doença. “Entre as recomendações estão o uso de preservativos durante as relações sexuais, não compartilhar objetos de uso pessoal, como lâminas de barbear, alicates de unha e escovas de dentes, além da vacinação contra as hepatites A e B, disponível gratuitamente pelo Sistema Único de Saúde (SUS)” destaca.</p>
+<p><strong>Formas de transmissão</strong><br/><br/>A hepatite B tem uma alta taxa de transmissão, principalmente por via sexual e por contato com sangue. A melhor forma de prevenção é a vacinação recomendada para todas as idades, associada ao uso de preservativos.</p>
+<p>Já a hepatite C é transmitida principalmente pelo contato com sangue. Não existe vacina, mas o tratamento disponível é eficaz. Também pode ocorrer a transmissão da mãe para o filho, chamada transmissão vertical, que ocorre durante o parto. A prevenção ocorre nas primeiras horas com a vacinação, além da administração de imunoglobina específica. Na gestação, todas as gestantes devem realizar os testes como forma de prevenção.</p>
+<p><strong>Dados</strong><br/><br/>Em 2026, de janeiro a junho, foram realizados aproximadamente 60 mil testes rápidos de hepatite B e C. Neste ano, foram registrados 59 casos de hepatite B, sendo 40 em homens e 19 em mulheres. No mesmo período, foram confirmados 61 casos de hepatite C, distribuídos entre homens e mulheres, 34 e 27 casos para cada sexo.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/hepatites-virais-diagnostico-precoce-evita-doencas-cronicas" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Julho/1/06 07 2026 SMS IMG_0159.jpg" type="image/jpeg" />
+<media:content url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Julho/1/06 07 2026 SMS IMG_0159.jpg" type="image/jpeg" medium="image">
+<media:title>Hepatites virais: diagnóstico precoce evita doenças crônicas</media:title>
+</media:content>
+</item>
+<item>
+<title>Férias escolares: IJF alerta para prevenção de acidentes e registra quedas como principal causa de atendimento infantil</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/ferias-escolares-ijf-alerta-para-prevencao-de-acidentes-e-registra-quedas-como-principal-causa-de-atendimento-infantil</link>
+<guid isPermaLink="false">fortaleza-20260706-e3d5eb2f69fd</guid>
+<pubDate>Mon, 06 Jul 2026 08:45:00 +0000</pubDate>
+<description>Férias escolares: IJF alerta para prevenção de acidentes e registra quedas como principal causa de atendimento infantil - Segunda, 06 Julho 2026 08:45</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/Saude/Pediatria IJF.png" alt="Férias escolares: IJF alerta para prevenção de acidentes e registra quedas como principal causa de a" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>Com a chegada das férias escolares, aumenta o tempo que crianças passam em casa, em áreas de lazer e brincadeiras ao ar livre. Embora o período seja marcado pela diversão, ele também exige atenção redobrada para prevenir acidentes domésticos e recreativos. Hospital de referência em urgência e emergência de trauma no Ceará, o Instituto Dr. José Frota (IJF) reforça os cuidados necessários para evitar ocorrências que podem resultar em lesões e internações.</p>
+<p>Uma das crianças internadas no IJF neste período é Lorenzo Gael Almeida, de três anos, vítima de queda na última semana. A mãe, Francisca Viviany Almeida, de 23 anos, conta que o acidente ocorreu enquanto estava brincando em um parquinho próximo de sua residência. “Ele caiu do balanço e a queda foi por cima do braço, que acabou tendo fratura, precisando passar por um procedimento cirúrgico para tratar a lesão”, explica a mãe. A jovem ressalta que o pequeno Lorenzo se recupera bem e que todo o internamento no hospital tem sido tranquilo. “Estamos recebendo todo suporte da equipe, que tem me acalmado bastante nesse momento”, finaliza.</p>
+<p><strong>Registro histórico</strong></p>
+<p>No mês de julho, período das férias escolares, as quedas seguem como a principal causa de atendimento entre crianças e adolescentes de até 14 anos no IJF. Em 2025, foram registrados 503 atendimentos relacionados a quedas. Em seguida, aparecem os casos de ingestão ou aspiração de corpo estranho, com 138 ocorrências, queimaduras, com 56 atendimentos, e acidentes com bicicletas, que somaram 27 casos.</p>
+<p>Na comparação ao ano anterior, no mesmo período, os atendimentos permaneceram na mesma média de atendimentos. As quedas lideraram com 495 registros, enquanto os casos de ingestão ou aspiração de corpo estranho aumentaram de 138 para 150 ocorrências. Os atendimentos por queimaduras somaram 50 acidentes, e os com bicicleta passaram foram 26 ocorrências.</p>
+<p><strong>Estrutura</strong></p>
+<p>Maior hospital de nível terciário de Fortaleza, o IJF possui 48 leitos pediátricos, divididos entre Emergência (7 leitos), Enfermaria Traumatológica (24 leitos), Centro de Tratamento de Queimados (7 leitos) e Unidade de Terapia Intensiva (10 leitos).</p>
+<p><strong>Prevenção</strong></p>
+<p>De acordo com a diretora médica do IJF, Ivna Barros, grande parte dos acidentes pode ser evitada com medidas simples, como a supervisão constante das crianças, a instalação de redes ou grades de proteção em janelas e escadas, o armazenamento de objetos pequenos, medicamentos e produtos de limpeza fora do alcance dos menores e o uso de equipamentos de proteção durante passeios de bicicleta por exemplo.</p>
+<p>“As férias escolares são um período em que as crianças passam mais tempo em casa e participam de atividades recreativas, o que aumenta a exposição a acidentes. Momentos de diversão também pedem cautela para evitar riscos para priorizar a proteção das crianças. Durante esse período é essencial se precaver para evitar lesões que possam comprometer a saúde da criança, que muitas vezes pode ser grave e resultar em internação hospitalar, realização de cirurgias e tempo de recuperação”, complementa.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/ferias-escolares-ijf-alerta-para-prevencao-de-acidentes-e-registra-quedas-como-principal-causa-de-atendimento-infantil" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/Saude/Pediatria IJF.png" type="image/jpeg" />
+<media:content url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/Saude/Pediatria IJF.png" type="image/jpeg" medium="image">
+<media:title>Férias escolares: IJF alerta para prevenção de acidentes e registra quedas como principal causa de a</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
