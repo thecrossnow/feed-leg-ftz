@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 08/07/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 11:07 UTC</description>
-<lastBuildDate>Wed, 08 Jul 2026 11:07:15 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Wed, 08 Jul 2026 14:20:07 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Prefeito Evandro Leitão entrega mais 10 leitos de UTI requalificados no IJF nesta quinta-feira (09/07)</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/prefeito-evandro-leitao-entrega-mais-10-leitos-de-uti-requalificados-no-ijf-nesta-quinta-feira-09-07</link>
+<guid isPermaLink="false">fortaleza-20260708-bf1d94eae0c6</guid>
+<pubDate>Wed, 08 Jul 2026 10:26:00 +0000</pubDate>
+<description>Prefeito Evandro Leitão entrega mais 10 leitos de UTI requalificados no IJF nesta quinta-feira (09/07) - Quarta, 08 Julho 2026 10:26</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" alt="Prefeito Evandro Leitão entrega mais 10 leitos de UTI requalificados no IJF nesta quinta-feira (09/0" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>O prefeito de Fortaleza, Evandro Leitão, entrega, nesta quinta-feira (09/07), às 9h, a entrega da requalificação de mais 10 leitos de Unidade de Terapia Intensiva (UTI) do Instituto Dr. José Frota (IJF), principal hospital da rede de urgência e emergência do Município.</p>
+<p>Com a entrega da UTI 7, destinada à Pediatria, o IJF conclui a requalificação dos 90 leitos de UTI da unidade. Além da modernização da estrutura, a atual gestão ampliou a capacidade de atendimento, passando de 60 para 90 leitos de UTI em julho de 2025. As intervenções, que somam investimentos superiores a R$ 8 milhões, destacam o comprometimento com a assistência aos pacientes, a qualificação das condições de trabalho das equipes de saúde e ampliam a capacidade de resposta do hospital.</p>
+<p>A obra integra o processo de modernização da estrutura hospitalar e faz parte do Programa Saúde que Cuida, vinculado ao Fortaleza Inclusiva.</p>
+<p><strong>Serviço</strong><br/>Entrega da requalificação de 10 leitos de UTI do Instituto Dr. José Frota (IJF)<br/>Data: quinta-feira (09/07)<br/>Horário: 9h<br/>Local: Instituto Dr. José Frota (IJF) (Rua Barão do Rio Branco, 1816 – Centro)</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/prefeito-evandro-leitao-entrega-mais-10-leitos-de-uti-requalificados-no-ijf-nesta-quinta-feira-09-07" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" />
+<media:content url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" medium="image">
+<media:title>Prefeito Evandro Leitão entrega mais 10 leitos de UTI requalificados no IJF nesta quinta-feira (09/0</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
