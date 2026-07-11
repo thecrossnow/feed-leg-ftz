@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 11 Jul 2026 16:46:09 +0000</pubDate>
+    <pubDate>Sat, 11 Jul 2026 17:47:48 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,103 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Defesa Civil alerta para temporal em Santa Catarina</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/defesa-civil-alerta-para-temporal-em-santa-catarina</link>
+      <pubDate>Sat, 11 Jul 2026 17:47:48 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/defesa-civil-alerta-para-temporal-em-santa-catarina#1000</guid>
+      <description>A Secretaria de Estado da Proteção e Defesa Civil emitiu alerta para a possibilidade de “temporal com raios, rajadas de vento, granizo e alagamentos”...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/rVAvg1Uc2tV6pt55MOWF-aWl2KQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/11/captura_de_tela_2026-07-11_as_14.00.33.jpg?itok=HEG4Os4r&quot; alt=&quot;Defesa Civil alerta para temporal em Santa Catarina&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Secretaria de Estado da Proteção e Defesa Civil emitiu alerta para a possibilidade de “temporal com raios, rajadas de vento, granizo e alagamentos” no início da tarde deste sábado (11) para as regiões do meio-oeste e planalto norte do Estado.&lt;/p&gt;
+&lt;p&gt;A orientação da Secretaria é que a população busque abrigo e se afaste de janelas e de objetos que possam ser arremessados. &quot;Todos devem evitar transitar e se abrigar-se próximo de árvores, placas, muros e postes de energia. E “em caso de chuva intensa com alagamentos, jamais atravesse ruas alagadas ou pontes e pontilhões submersos.”&lt;/p&gt;
+&lt;p&gt;Conforme comunicado, a forte chuva no estado decorre da “passagem de uma frente fria associada a um ciclone extratropical na costa da Região Sul do Brasil. Esse sistema meteorológico provoca muita instabilidade, gerando temporais com risco de chuva intensa, granizo e ventanias.”&lt;/p&gt;
+&lt;p&gt;O mal tempo é confirmado pelo Instituto Nacional de Meteorologia (Inmet) que coloca todo o mapa de Santa Catarina em área de “perigo”, juntamente com o norte do Rio Grande do Sul e o sul do Paraná.&lt;/p&gt;
+&lt;p&gt;Na capital Florianópolis, a segunda cidade mais populosa do estado, o Inmet informa que o tempo terá “muitas nuvens com pancadas de chuva e trovoadas”, com ventos fracos na direção sul-sudoeste.&lt;/p&gt;
+&lt;p&gt;Jorge Jesus assume Portugal e polemiza sobre Neymar: &quot;Está acabado&quot;&lt;/p&gt;
+&lt;p&gt;Entre o concreto e a lama, o mangue resiste em Vitória&lt;/p&gt;
+&lt;p&gt;Exposição O Tempo das Plantas propõe troca cultural e desaceleração&lt;/p&gt;
+&lt;p&gt;Defesa Civil alerta para temporal em Santa Catarina&lt;/p&gt;
+&lt;p&gt;Brasil ainda mede mal os impactos do racismo, diz especialista&lt;/p&gt;
+&lt;p&gt;Inverno pode trazer gatilhos para crises de asma e requer cuidados&lt;/p&gt;
+&lt;p&gt;EUA buscam compromisso do Irã para liberar Estreito de Ormuz&lt;/p&gt;
+&lt;p&gt;Flipelô divulga programação com mais de 500 escritores&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/defesa-civil-alerta-para-temporal-em-santa-catarina&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Secretaria de Estado da Proteção e Defesa Civil emitiu alerta para a possibilidade de “temporal com raios, rajadas de vento, granizo e alagamentos”...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-07-11 14:04:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-11 14:04:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-11 14:04:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-11 14:04:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/rVAvg1Uc2tV6pt55MOWF-aWl2KQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/11/captura_de_tela_2026-07-11_as_14.00.33.jpg?itok=HEG4Os4r</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Inverno pode trazer gatilhos para crises de asma e requer cuidados</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/inverno-pode-trazer-gatilhos-para-crises-de-asma-e-requer-cuidados</link>
+      <pubDate>Sat, 11 Jul 2026 17:47:48 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/inverno-pode-trazer-gatilhos-para-crises-de-asma-e-requer-cuidados#1001</guid>
+      <description>Janelas fechadas para se proteger do frio, viroses em alta e o contato com cobertores e casacos guardados são alguns dos gatilhos que podem complicar...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/-Cv6q6kLAEMaplzRWq5OzT9EVjo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/16/nariz01.jpg?itok=HENWxorK&quot; alt=&quot;Inverno pode trazer gatilhos para crises de asma e requer cuidados&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Janelas fechadas para se proteger do frio, viroses em alta e o contato com cobertores e casacos guardados são alguns dos gatilhos que podem complicar a vida das pessoas com asma no inverno, principalmentecrianças e adolescentes. Para prevenir crises e o agravamento do quadro, especialistas recomendam manter o tratamento em dia, para que a inflamação permaneça controlada.&lt;/p&gt;
+&lt;p&gt;O coordenador da Comissão Científica de Asma da Sociedade Brasileira de Pneumologia e Tisiologia (SBPT), Emilio Pizzichini, disse que, no inverno, não é o frio que agrava a asma.&lt;/p&gt;
+&lt;p&gt;Um dos principais fatores quepodem engatilhar crises é a maior circulação de vírus no ambiente, que pode acarretar infecções nas vias respiratórias e atacar uma asma que não esteja bem controlada&lt;/p&gt;
+&lt;p&gt;“Se a asma não está bem tratada, bem controlada, o resfriado ou a virose adicionam mais uma inflamação na via aérea da pessoa, nos brônquios, e ela pode ter uma crise”, disse à&lt;/p&gt;
+&lt;p&gt;Pizzichini observou que o uso da medicação para o tratamento adequado da asma deve ter atenção o ano inteiro, porque a maioria das asmas precisa ser tratada continuamente.&lt;/p&gt;
+&lt;p&gt;Vacinas contra viroses, como a Influenza (gripe), a Covid e o vírus sincicial respiratório (VSR), também previnem inflamações respiratórias mais graves&lt;/p&gt;
+&lt;p&gt;“Quando a pessoa usa a vacina, diminui o risco de ter um agravamento da inflamação da asma, ter uma crise e ser hospitalizada”.&lt;/p&gt;
+&lt;p&gt;Emilio Pizzichini descreveu que, no Brasil, existem cerca de 20 milhões de asmáticos que, normalmente, têm uma ou duas infecções respiratórias por ano.&lt;/p&gt;
+&lt;p&gt;“A gente não tem um número de especialistas suficiente para atender tudo isso. A infecção respiratória tem que ser tratada na atenção primária, porque as crianças, às vezes, não fazem testes respiratórios para saber se sintomas como o chiado são decorrentes da asma”.&lt;/p&gt;
+&lt;p&gt;Risco para crianças e adolescentes&lt;/p&gt;
+&lt;p&gt;Dados do Departamento de Informação e Informática do Sistema Único de Saúde (Datasus), levantados pela organização sem fins lucrativos Umane, mostram que&lt;/p&gt;
+&lt;p&gt;crianças e adolescentes de 0 a 14 anos responderam por 70,5% das internações por asma em julho de 2024&lt;/p&gt;
+&lt;p&gt;Naquele mês, houve 4.034 internações nessa faixa etária, quase o dobro das 2.108 contabilizadas em janeiro.&lt;/p&gt;
+&lt;p&gt;O Datasus revela ainda que, durante o ano de 2024, o Brasil registrou 52.087 internações por asma, sendo que crianças e adolescentes até 14 anos responderam por 73,7% do total.&lt;/p&gt;
+&lt;p&gt;A pneumologista Marcela Marques, do Atendimento Multiassistencial de Saúde da Umane, explicou alguns cuidados que podem minimizar as chances de uma crise de asma:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/inverno-pode-trazer-gatilhos-para-crises-de-asma-e-requer-cuidados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Janelas fechadas para se proteger do frio, viroses em alta e o contato com cobertores e casacos guardados são alguns dos gatilhos que podem complicar...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-07-11 13:34:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-11 13:34:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-11 13:34:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-11 13:34:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/-Cv6q6kLAEMaplzRWq5OzT9EVjo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/16/nariz01.jpg?itok=HENWxorK</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Flipelô divulga programação com mais de 500 escritores</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flipelo-divulga-programacao-com-mais-de-500-escritores</link>
-      <pubDate>Sat, 11 Jul 2026 16:46:09 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 17:47:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flipelo-divulga-programacao-com-mais-de-500-escritores#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flipelo-divulga-programacao-com-mais-de-500-escritores#1002</guid>
       <description>Os escritores Ana Maria Gonçalves, Itamar Vieira Júnior, Carla Madeira e Milton Hatoum são alguns dos nomes que estarão presentes na edição deste ano...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Z09pOsyi1Ek2KMwRRWwsbwa3T64=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/07/0g0a8119.jpg?itok=ffgTGyYy&quot; alt=&quot;Flipelô divulga programação com mais de 500 escritores&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Os escritores Ana Maria Gonçalves, Itamar Vieira Júnior, Carla Madeira e Milton Hatoum são alguns dos nomes que estarão presentes na edição deste ano da Festa Literária Internacional do Pelourinho (Flipelô), que acontecerá entre os dias 5 e 9 de agosto no Pelourinho, centro histórico de Salvador.&lt;/p&gt;
@@ -43,9 +135,9 @@
 &lt;p&gt;Ela foi responsável pela coluna Linha D’Água, publicada pelo jornal A Tarde entre os anos de 1984 e 2004 e também integrou a Academia de Letras da Bahia.&lt;/p&gt;
 &lt;p&gt;O evento também vai homenagear o pintor, gravador, ilustrador e cenógrafo baiano Calasans Neto. Suas ilustrações estão presentes nas obras de Myriam Fraga e também nos livros de Jorge Amado.&lt;/p&gt;
 &lt;p&gt;A programação completa da Flipelô pode ser acessada no&lt;/p&gt;
-&lt;p&gt;Jorge Jesus assume Portugal e polemiza sobre Neymar: &quot;Está acabado&quot;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flipelo-divulga-programacao-com-mais-de-500-escritores&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Novas regras apertam cerco contra propagandas enganosas de bets&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flipelo-divulga-programacao-com-mais-de-500-escritores&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os escritores Ana Maria Gonçalves, Itamar Vieira Júnior, Carla Madeira e Milton Hatoum são alguns dos nomes que estarão presentes na edição deste ano...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-07-11 13:00:00</wp:post_date>
       <wp:post_date_gmt>2026-07-11 13:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-11 13:00:00</wp:post_modified>
@@ -71,9 +163,9 @@
     <item>
       <title>Brasil ainda mede mal os impactos do racismo, diz especialista</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-ainda-mede-mal-os-impactos-do-racismo-diz-especialista</link>
-      <pubDate>Sat, 11 Jul 2026 16:46:09 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 17:47:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-ainda-mede-mal-os-impactos-do-racismo-diz-especialista#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-ainda-mede-mal-os-impactos-do-racismo-diz-especialista#1003</guid>
       <description>© Marcello Casal jr/Agência Brasil
 Apesar de haver inúmeros estudos sobre discriminação racial no Brasil, o país ainda tem dificuldades para entender...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Z_6hGm-ginEsmjAo9R54CHVXfSg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/negros_marcello_casal.jpg?itok=My5gx37p&quot; alt=&quot;Brasil ainda mede mal os impactos do racismo, diz especialista&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -94,7 +186,7 @@ Apesar de haver inúmeros estudos sobre discriminação racial no Brasil, o paí
 &lt;p&gt;:Há no Brasil diversos núcleos acadêmicos e de organizações da sociedade civil que fazem pesquisas sobre questões raciais. O Dara se propõe a se diferenciar de alguma forma?&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/brasil-ainda-mede-mal-os-impactos-do-racismo-diz-especialista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal jr/Agência Brasil
 Apesar de haver inúmeros estudos sobre discriminação racial no Brasil, o país ainda tem dificuldades para entender...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-07-11 13:00:00</wp:post_date>
       <wp:post_date_gmt>2026-07-11 13:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-11 13:00:00</wp:post_modified>
@@ -120,9 +212,9 @@ Apesar de haver inúmeros estudos sobre discriminação racial no Brasil, o paí
     <item>
       <title>Moraes manda soltar ex-prefeito de Belford Roxo, após prisão com fuzil</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/moraes-manda-soltar-ex-prefeito-de-belford-roxo-apos-prisao-com-fuzil</link>
-      <pubDate>Sat, 11 Jul 2026 16:46:09 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 17:47:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/moraes-manda-soltar-ex-prefeito-de-belford-roxo-apos-prisao-com-fuzil#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/moraes-manda-soltar-ex-prefeito-de-belford-roxo-apos-prisao-com-fuzil#1004</guid>
       <description>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou a soltura do ex-prefeito de Belford Roxo Márcio Canella (União Brasil),...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/IllQVl9RwKJiVZtciimUl8gLCxs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/09/172780496366fc36234d839_1727804963_3x2_lg.jpg?itok=Lo2bhY0Q&quot; alt=&quot;Moraes manda soltar ex-prefeito de Belford Roxo, após prisão com fuzil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou a soltura do ex-prefeito de Belford Roxo Márcio Canella (União Brasil), preso em flagrante durante uma operação da Polícia Federal (PF) no Rio de Janeiro.&lt;/p&gt;
@@ -141,7 +233,7 @@ Apesar de haver inúmeros estudos sobre discriminação racial no Brasil, o paí
 &lt;p&gt;De acordo com a Polícia Federal, Canella é investigado por suspeita de atuar como um dos elos políticos do esquema investigado.&lt;/p&gt;
 &lt;p&gt;Os investigados poderão responder por organização criminosa, lavagem de dinheiro, contratação direta ilegal e outros crimes que venham a ser identificados ao longo das apurações.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/moraes-manda-soltar-ex-prefeito-de-belford-roxo-apos-prisao-com-fuzil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou a soltura do ex-prefeito de Belford Roxo Márcio Canella (União Brasil),...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-07-11 12:27:00</wp:post_date>
       <wp:post_date_gmt>2026-07-11 12:27:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-11 12:27:00</wp:post_modified>
@@ -167,9 +259,9 @@ Apesar de haver inúmeros estudos sobre discriminação racial no Brasil, o paí
     <item>
       <title>Francy Baniwa: &quot;Quando um parente entra, estamos representados&quot;</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/francy-baniwa-quando-um-parente-entra-estamos-representados</link>
-      <pubDate>Sat, 11 Jul 2026 16:46:09 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 17:47:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/francy-baniwa-quando-um-parente-entra-estamos-representados#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/francy-baniwa-quando-um-parente-entra-estamos-representados#1005</guid>
       <description>Francineia Bitencourt Fontes é uma mulher de muitos primeiros. Mais conhecida como Francy Baniwa, ela foi a primeira mulher indígena a publicar um li...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/85_puvdSfrEO2Q5qEUgb9ym1fzc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/08/_int0775.jpg?itok=duWAOKBj&quot; alt=&quot;Francy Baniwa: &quot;Quando um parente entra, estamos representados&quot;&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Francineia Bitencourt Fontes é uma mulher de muitos primeiros. Mais conhecida como Francy Baniwa, ela foi a primeira mulher indígena a publicar um livro de antropologia no Brasil. Ela também foi a primeira mulher Baniwa a se tornar mestre e, mais recentemente, ela é a primeira mulher Baniwa a integrar o corpo docente da Universidade de São Paulo (USP).&lt;/p&gt;
@@ -188,7 +280,7 @@ Apesar de haver inúmeros estudos sobre discriminação racial no Brasil, o paí
 &lt;p&gt;Você foi nomeada professora da maior universidade da América Latina. Você foi também a primeira mulher Baniwa a se tornar mestre, a primeira Baniwa professora da USP. Primeira mulher indígena a publicar um livro de antropologia no Brasil. São muitos primeiros. Que significados isso traz para você e para seu povo?&lt;/p&gt;
 &lt;p&gt;: Acho que tem um significado único, não só para o meu povo Baniwa, mas para os povos indígenas. Eu acho que a ocupação do espaço vem dessa trajetória de muito silenciamento das vozes dessas mulheres. Por muito tempo, as pesquisas silenciaram esses conhecimentos, então acho que eu sou a voz desse conjunto de mulheres que, por muito tempo, estavam aí fazendo ciência, trazendo seus conhecimentos, mas através de outros, sabe? Então, acho que eu ser a primeira tem esse símbolo de muita resistência. Nós, como mulheres indígenas, estamos muito longe desses contextos de universidade. A gente veio das comunidades [para as universidades] muito maduras, já mães. Eu vim para a universidade já com dois filhos. Acho que isso significa muito dessa nossa caminhada de bagagem, mas também desse protagonismo porque a gente acabou dizendo: ‘nós somos capazes’. O que a gente ouvia muito é: ‘se você já tem filho, você já não pode ir para a universidade’. É como se a gente não tivesse o direito de estar na universidade. Então, acho que essa nossa presença de corpos, de vozes, de saberes, com filhos, traz muito dessa nossa determinação. Eu me vejo em muitas mulheres e eu tenho certeza que muitas mulheres se veem em mim também como uma mulher forte que superou muitos desafios e que passou por muita violência.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/francy-baniwa-quando-um-parente-entra-estamos-representados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Francineia Bitencourt Fontes é uma mulher de muitos primeiros. Mais conhecida como Francy Baniwa, ela foi a primeira mulher indígena a publicar um li...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-07-11 12:00:00</wp:post_date>
       <wp:post_date_gmt>2026-07-11 12:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-11 12:00:00</wp:post_modified>
@@ -214,9 +306,9 @@ Apesar de haver inúmeros estudos sobre discriminação racial no Brasil, o paí
     <item>
       <title>Morre Peppino di Capri, ícone da música italiana, aos 86 anos</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/morre-peppino-di-capri-icone-da-musica-italiana-aos-86-anos</link>
-      <pubDate>Sat, 11 Jul 2026 16:46:09 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 17:47:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/morre-peppino-di-capri-icone-da-musica-italiana-aos-86-anos#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/morre-peppino-di-capri-icone-da-musica-italiana-aos-86-anos#1006</guid>
       <description>© Instagram/peppinodicapri_official
 O cantor, pianista e compositor italiano Peppino di Capri, um dos maiores nomes da música italiana do século 20, ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FC9y06GTdoPG3mFVMkfyrpGVhjE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/11/saveclip.app_711269339_18358902877239559_2149887222761886369_n_1.jpg?itok=GUxsXNGK&quot; alt=&quot;Morre Peppino di Capri, ícone da música italiana, aos 86 anos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -237,7 +329,7 @@ O cantor, pianista e compositor italiano Peppino di Capri, um dos maiores nomes 
 &lt;p&gt;Após o fim do grupo, o cantor reformulou sua carreira ao misturar&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/morre-peppino-di-capri-icone-da-musica-italiana-aos-86-anos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Instagram/peppinodicapri_official
 O cantor, pianista e compositor italiano Peppino di Capri, um dos maiores nomes da música italiana do século 20, ...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-07-11 11:17:00</wp:post_date>
       <wp:post_date_gmt>2026-07-11 11:17:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-11 11:17:00</wp:post_modified>
@@ -263,9 +355,9 @@ O cantor, pianista e compositor italiano Peppino di Capri, um dos maiores nomes 
     <item>
       <title>Brasil perde por 3 a 0 para Tailândia na Liga das Nações de Vôlei</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-perde-por-3-0-para-tailandia-na-liga-das-nacoes-de-volei</link>
-      <pubDate>Sat, 11 Jul 2026 16:46:09 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 17:47:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-perde-por-3-0-para-tailandia-na-liga-das-nacoes-de-volei#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-perde-por-3-0-para-tailandia-na-liga-das-nacoes-de-volei#1007</guid>
       <description>A seleção feminina de vôlei perdeu para a Tailândia por 3 sets a 0 (25/15, 25/16 e 25/17). O jogo, válido pela terceira semana da Liga das Nações, oc...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/krPdjZx2wRcWc-DIeu0REvqNbys=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/11/media_113245027_112854038_compressed_cebfadf763.jpg?itok=hb7uIkqj&quot; alt=&quot;Brasil perde por 3 a 0 para Tailândia na Liga das Nações de Vôlei&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A seleção feminina de vôlei perdeu para a Tailândia por 3 sets a 0 (25/15, 25/16 e 25/17). O jogo, válido pela terceira semana da Liga das Nações, ocorreu na madrugada deste sábado (11/7) em Osaka, no Japão.&lt;/p&gt;
@@ -273,16 +365,10 @@ O cantor, pianista e compositor italiano Peppino di Capri, um dos maiores nomes 
 &lt;p&gt;Entram durante o jogo a libero Marcelle e a ponteira Maiara Basso. A aposta Kisy foi a maior pontuadora entre as brasileiras, com 11 pontos. A ponteira Rosamaria, em entrevista para a assessoria da Confederação Brasileira de vôlei, garantiu que o objetivo dessa partida era dar ritmo para todas as atletas.&lt;/p&gt;
 &lt;p&gt;&quot;Era importante enfrentar as dificuldades impostas pela Tailândia, elas têm um estilo de jogo muito diferente do brasileiro. Precisamos aprender com os erros e focar na sequência do torneio&quot;, comentou a atleta.&lt;/p&gt;
 &lt;p&gt;As brasileiras jogam novamente neste domingo (12/7), à 0h (horário de Brasília), contra os Estados Unidos.&lt;/p&gt;
-&lt;p&gt;Jorge Jesus assume Portugal e polemiza sobre Neymar: &quot;Está acabado&quot;&lt;/p&gt;
-&lt;p&gt;Entre o concreto e a lama, o mangue resiste em Vitória&lt;/p&gt;
-&lt;p&gt;EUA buscam compromisso do Irã para liberar Estreito de Ormuz&lt;/p&gt;
-&lt;p&gt;Flipelô divulga programação com mais de 500 escritores&lt;/p&gt;
-&lt;p&gt;Moraes manda soltar ex-prefeito de Belford Roxo, após prisão com fuzil&lt;/p&gt;
-&lt;p&gt;Francy Baniwa: &quot;Quando um parente entra, estamos representados&quot;&lt;/p&gt;
-&lt;p&gt;Morre Peppino di Capri, ícone da música italiana, aos 86 anos&lt;/p&gt;
-&lt;p&gt;Confira as principais datas do calendário eleitoral&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-perde-por-3-0-para-tailandia-na-liga-das-nacoes-de-volei&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Novas regras apertam cerco contra propagandas enganosas de bets&lt;/p&gt;
+&lt;p&gt;Entre o concreto e a lama, o mangue resiste em Vitória&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-perde-por-3-0-para-tailandia-na-liga-das-nacoes-de-volei&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A seleção feminina de vôlei perdeu para a Tailândia por 3 sets a 0 (25/15, 25/16 e 25/17). O jogo, válido pela terceira semana da Liga das Nações, oc...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-07-11 10:36:00</wp:post_date>
       <wp:post_date_gmt>2026-07-11 10:36:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-11 10:36:00</wp:post_modified>
@@ -308,9 +394,9 @@ O cantor, pianista e compositor italiano Peppino di Capri, um dos maiores nomes 
     <item>
       <title>Publicadas regras que restringem publicidade de bets no país</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicadas-regras-que-restringem-publicidade-de-bets-no-pais</link>
-      <pubDate>Sat, 11 Jul 2026 16:46:09 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 17:47:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicadas-regras-que-restringem-publicidade-de-bets-no-pais#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicadas-regras-que-restringem-publicidade-de-bets-no-pais#1008</guid>
       <description>Foram publicadas nesta sexta-feira (10) à noite as novas regras para a publicidade das plataformas de apostas esportivas, as chamadas bets.
 As medida...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QT4Ah6-ZbS0_eD8IpPEkN-iULOQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/uso_de_smartphone_e_celular050720211245.jpg?itok=FGmsv5_E&quot; alt=&quot;Publicadas regras que restringem publicidade de bets no país&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -331,7 +417,7 @@ As medida...</description>
 &lt;p&gt;• sugerir ganho fácil ou enriquecimento rápido;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/publicadas-regras-que-restringem-publicidade-de-bets-no-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Foram publicadas nesta sexta-feira (10) à noite as novas regras para a publicidade das plataformas de apostas esportivas, as chamadas bets.
 As medida...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-07-11 10:10:00</wp:post_date>
       <wp:post_date_gmt>2026-07-11 10:10:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-11 10:10:00</wp:post_modified>
@@ -357,9 +443,9 @@ As medida...</excerpt:encoded>
     <item>
       <title>Entenda o papel das escolas no combate à violência contra meninas</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/entenda-o-papel-das-escolas-no-combate-violencia-contra-meninas</link>
-      <pubDate>Sat, 11 Jul 2026 16:46:09 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 17:47:48 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/entenda-o-papel-das-escolas-no-combate-violencia-contra-meninas#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/entenda-o-papel-das-escolas-no-combate-violencia-contra-meninas#1009</guid>
       <description>O Colégio Cruzeiro, escola de elite do Rio de Janeiro, acionou a Polícia Civil por conta de lista de cunho sexual com nomes de estudantes, todas adol...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/eG7He4CToBmpa209XoTCeL0iVlQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/11/centro-patio-colegio-cruzeiro.jpg?itok=lexCKcry&quot; alt=&quot;Entenda o papel das escolas no combate à violência contra meninas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Colégio Cruzeiro, escola de elite do Rio de Janeiro, acionou a Polícia Civil por conta de lista de cunho sexual com nomes de estudantes, todas adolescentes, feita em plataforma&lt;/p&gt;
@@ -378,7 +464,7 @@ As medida...</excerpt:encoded>
 &lt;p&gt;“A nossa questão é o que os envolvidos têm que aprender sobre isso”, diz. “Pode-se trabalhar com eles formas de restauração, ou seja, que conhecimentos eles precisam ter para saber a gravidade do que eles fizeram”, diz Vinha.&lt;/p&gt;
 &lt;p&gt;Carreira destaca a importância de escolas discutirem questões que envolvam assimetrias de gênero, o que contribui para o combate a violência contra mulheres e contra pessoas LGBT.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/entenda-o-papel-das-escolas-no-combate-violencia-contra-meninas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Colégio Cruzeiro, escola de elite do Rio de Janeiro, acionou a Polícia Civil por conta de lista de cunho sexual com nomes de estudantes, todas adol...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-07-11 09:42:00</wp:post_date>
       <wp:post_date_gmt>2026-07-11 09:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-11 09:42:00</wp:post_modified>
@@ -399,106 +485,6 @@ As medida...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/eG7He4CToBmpa209XoTCeL0iVlQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/11/centro-patio-colegio-cruzeiro.jpg?itok=lexCKcry</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Sábado de Copa do Mundo tem duelo de artilheiros e Messi em campo</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/sabado-de-copa-do-mundo-tem-duelo-de-artilheiros-e-messi-em-campo</link>
-      <pubDate>Sat, 11 Jul 2026 16:46:09 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/sabado-de-copa-do-mundo-tem-duelo-de-artilheiros-e-messi-em-campo#1008</guid>
-      <description>© REUTERS/Dylan Martinez/Proibida reprodução
-De um lado da chave, França e Espanha; de outro uma incógnita.
-A dúvida será tirada neste sábado (11), c...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/RXBRVGxT3_TDu-6fQAW7A6AGY1E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/05/2026-07-05t215555z_1916869192_up1em751ox5op_rtrmadp_3_soccer-worldcup-bra-nor.jpg?itok=HaQkXjF6&quot; alt=&quot;Sábado de Copa do Mundo tem duelo de artilheiros e Messi em campo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Dylan Martinez/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;De um lado da chave, França e Espanha; de outro uma incógnita.&lt;/p&gt;
-&lt;p&gt;A dúvida será tirada neste sábado (11), com os dois últimos jogos da fase de quartas-de-final da Copa do Mundo de 2026.&lt;/p&gt;
-&lt;p&gt;A atual campeã, Argentina, enfrenta a Suíça; enquanto noruegueses e ingleses duelam pela outra vaga na semifinal.&lt;/p&gt;
-&lt;p&gt;Dois dos principais centroavantes do futebol mundial se enfrentam neste sábado. Haaland, pela Noruega, e Harry Kane, pela Inglaterra, prometem dar trabalho às defesas&lt;/p&gt;
-&lt;p&gt;. As duas seleções jogam às 18h (horário de Brasília), em Miami.&lt;/p&gt;
-&lt;p&gt;Algoz do Brasil nas oitavas-de-final, Haaland é o típico atacante camisa 9. Alto e forte, com boa presença de área e exímio finalizador.&lt;/p&gt;
-&lt;p&gt;Os mesmos adjetivos podem ser dispensados a Harry Kane. A maior esperança de gols dos ingleses há anos, ele tem em seus ombros a responsabilidade de tirar seu país de uma fila de seis décadas. Desde 1966 que a Inglaterra não sabe o que é ganhar uma Copa do Mundo.&lt;/p&gt;
-&lt;p&gt;Para ter noção da importância dos dois para suas seleções, basta ver a artilharia da Copa. Haaland tem 7 gols e é o vice-artilheiro até o momento. Logo atrás, vem Kane, com 6 gols.&lt;/p&gt;
-&lt;p&gt;Mas os dois times não têm estrelas solitárias. Do lado norueguês, o meia Odegaard e o atacante Antonio Nusa podem desequilibrar caso tenham espaço para jogar. Já a torcida inglesa conta com um bom desempenho do meia Bellingham e do atacante Saka para chegar à semifinal.&lt;/p&gt;
-&lt;p&gt;O termo provocativo foi cunhado por torcedores nas redes sociais após algumas decisões bastante discutíveis a favor dos atuais campeões mundiais. A Argentina não tem jogado bem nas partidas eliminatórias. Contra Cabo Verde e Egito, foram vitórias suadas, conquistadas nos últimos minutos.&lt;/p&gt;
-&lt;p&gt;Contra os egípcios, a classificação veio com polêmica. O Egito teve um gol anulado e a Argentina, por sua vez, teve um gol validado em uma jogada parecida com a invalidada pela arbitragem no gol egípcio. Com erro de arbitragem ou não, os atuais campeões transformaram um 2 a 0 contra em um 3 a 2 a favor e jogam hoje.&lt;/p&gt;
-&lt;p&gt;A Argentina conta, sempre, com a estrela de Lionel Messi para brilhar.&lt;/p&gt;
-&lt;p&gt;O grande garoto-propaganda desta Copa, Messi, que atualmente mora e joga em Miami, nos Estados Unidos, já tem 8 gols no torneio. Ele divide a artilharia com Mbappé, da França.&lt;/p&gt;
-&lt;p&gt;A Suíça entra em campo com uma missão indigesta, parar os atuais campeões mundiais. Os suíços, no entanto, têm mostrado resiliência ao longo do torneio e já fazem história. Igualaram o melhor desempenho do país em Copas. A última vez que tinha ido tão longe, havia sido em 1954, quando eram os anfitriões do torneio.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/sabado-de-copa-do-mundo-tem-duelo-de-artilheiros-e-messi-em-campo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Dylan Martinez/Proibida reprodução
-De um lado da chave, França e Espanha; de outro uma incógnita.
-A dúvida será tirada neste sábado (11), c...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-07-11 06:02:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-11 06:02:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-11 06:02:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-11 06:02:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/RXBRVGxT3_TDu-6fQAW7A6AGY1E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/05/2026-07-05t215555z_1916869192_up1em751ox5op_rtrmadp_3_soccer-worldcup-bra-nor.jpg?itok=HaQkXjF6</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mega-Sena sorteia prêmio de R$ 20 milhões neste sábado</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mega-sena-sorteia-premio-de-r-20-milhoes-neste-sabado</link>
-      <pubDate>Sat, 11 Jul 2026 16:46:09 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mega-sena-sorteia-premio-de-r-20-milhoes-neste-sabado#1009</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
-As seis dezenas do concurso 3.030 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NV7QxIdQy4qKznHljh79YdF_RP4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182547.jpg?itok=slhN8uJs&quot; alt=&quot;Mega-Sena sorteia prêmio de R$ 20 milhões neste sábado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil/ARQUIVO&lt;/p&gt;
-&lt;p&gt;As seis dezenas do concurso 3.030 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no Espaço da Sorte, localizado na Avenida Paulista, nº 750, em São Paulo.&lt;/p&gt;
-&lt;p&gt;O prêmio da faixa principal está estimado em R$ 20 milhões.&lt;/p&gt;
-&lt;p&gt;Por se tratar de um concurso com final zero, ele recebe um adicional das arrecadações dos cinco concursos anteriores, conforme regra da modalidade.&lt;/p&gt;
-&lt;p&gt;As apostas podem ser feitas até as 20h (horário de Brasília), nas lotéricas e pela internet,&lt;/p&gt;
-&lt;p&gt;O jogo simples, com seis números marcados, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;&gt;&gt;Siga o canal da Agência Brasil no WhatsApp&lt;/p&gt;
-&lt;p&gt;O sorteio terá transmissão ao vivo pelo&lt;/p&gt;
-&lt;p&gt;e no Facebook das Loterias Caixa.&lt;/p&gt;
-&lt;p&gt;Jorge Jesus assume Portugal e polemiza sobre Neymar: &quot;Está acabado&quot;&lt;/p&gt;
-&lt;p&gt;Entre o concreto e a lama, o mangue resiste em Vitória&lt;/p&gt;
-&lt;p&gt;EUA buscam compromisso do Irã para liberar Estreito de Ormuz&lt;/p&gt;
-&lt;p&gt;Flipelô divulga programação com mais de 500 escritores&lt;/p&gt;
-&lt;p&gt;Moraes manda soltar ex-prefeito de Belford Roxo, após prisão com fuzil&lt;/p&gt;
-&lt;p&gt;Francy Baniwa: &quot;Quando um parente entra, estamos representados&quot;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mega-sena-sorteia-premio-de-r-20-milhoes-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
-As seis dezenas do concurso 3.030 da Mega-Sena serão sorteadas, a partir das 21h (horário de Brasília), no ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-07-11 06:01:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-11 06:01:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-11 06:01:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-11 06:01:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/NV7QxIdQy4qKznHljh79YdF_RP4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182547.jpg?itok=slhN8uJs</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
