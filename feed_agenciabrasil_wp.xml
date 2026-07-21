@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Tue, 21 Jul 2026 12:24:15 +0000</pubDate>
+    <pubDate>Tue, 21 Jul 2026 14:58:11 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,15 +22,450 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Brasil tem quase 2 milhões de eleitores com deficiência, aponta TSE</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/brasil-tem-quase-2-milhoes-de-eleitores-com-deficiencia-aponta-tse</link>
+      <pubDate>Tue, 21 Jul 2026 14:58:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/brasil-tem-quase-2-milhoes-de-eleitores-com-deficiencia-aponta-tse#1000</guid>
+      <description>As eleições gerais deste ano contarão com o maior número de eleitoras e eleitores com deficiência aptos a votar.
+Dados do Tribunal Superior Eleitoral...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NZn9UJJWMbrFmdhwW6ABrsYblic=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/934063-bh_elei%C3%A7oes%202014_deficiente_1.jpg?itok=6hq5MMwg&quot; alt=&quot;Brasil tem quase 2 milhões de eleitores com deficiência, aponta TSE&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As eleições gerais deste ano contarão com o maior número de eleitoras e eleitores com deficiência aptos a votar.&lt;/p&gt;
+&lt;p&gt;Dados do Tribunal Superior Eleitoral revelam que&lt;/p&gt;
+&lt;p&gt;1.963.551pessoas têm algum tipo de deficiência&lt;/p&gt;
+&lt;p&gt;, um crescimento de 42,5% em relação a 2022, quando esse número era de 1.377.787 pessoas.&lt;/p&gt;
+&lt;p&gt;Os tipos de deficiência incluem pessoas com dificuldade de locomoção, deficiência visual, deficiência auditiva, deficiência física, intelectual ou outras condições que demandem adaptações no local de votação.&lt;/p&gt;
+&lt;p&gt;Entre os eleitores com deficiência aptos a votar nas Eleições 2026, 45,46% do total se enquadram na categoria “outros”.&lt;/p&gt;
+&lt;p&gt;Aproximadamente 617 mil pessoas declararam ter deficiência de locomoção;319 mil têm deficiência visual e mais de 182 mil têm deficiência auditiva.&lt;/p&gt;
+&lt;p&gt;Mais de 64 mil pessoas com deficiência informaram ter dificuldade para o exercício do voto.&lt;/p&gt;
+&lt;p&gt;Para acompanhar esse aumento, a Justiça Eleitoral ampliou a estrutura destinada a garantir o exercício do voto com autonomia e segurança.&lt;/p&gt;
+&lt;p&gt;O número de seções eleitorais principais com acessibilidade passou de 156.296 em 2022 para 223.587 este ano, um crescimento de 43%.&lt;/p&gt;
+&lt;p&gt;Quem necessita de um local de votação adaptado pode solicitar a transferência para uma seção eleitoral acessível&lt;/p&gt;
+&lt;p&gt;, instalada em locais com rampas, elevadores e trajetos livres de obstáculos físicos, por exemplo.&lt;/p&gt;
+&lt;p&gt;Para isso, é necessário atualizar o cadastro junto à Justiça Eleitoral, informando a condição de deficiência ou mobilidade reduzida.&lt;/p&gt;
+&lt;p&gt;O pedido pode ser feito pelos canais oficiais da Justiça Eleitoral ou presencialmente no cartório eleitoral.&lt;/p&gt;
+&lt;p&gt;O prazo para solicitar a transferência para uma seção acessível&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/brasil-tem-quase-2-milhoes-de-eleitores-com-deficiencia-aponta-tse&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>As eleições gerais deste ano contarão com o maior número de eleitoras e eleitores com deficiência aptos a votar.
+Dados do Tribunal Superior Eleitoral...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-07-21 11:15:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-21 11:15:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-21 11:15:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-21 11:15:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/NZn9UJJWMbrFmdhwW6ABrsYblic=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/934063-bh_elei%C3%A7oes%202014_deficiente_1.jpg?itok=6hq5MMwg</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Decreto autoriza atuação das Forças Armadas nas eleições de 2026</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/decreto-autoriza-atuacao-das-forcas-armadas-nas-eleicoes-de-2026</link>
+      <pubDate>Tue, 21 Jul 2026 14:58:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/decreto-autoriza-atuacao-das-forcas-armadas-nas-eleicoes-de-2026#1001</guid>
+      <description>publicou nesta terça-feira (21) autorização para uso das Forças Armadas durante as Eleições de 2026. A
+prevê a atuação militar durante a votação, apu...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/q-Fy8J5JdaILK5GZF7eIFuZt_nw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/27/eleicao_sp_30.jpg?itok=M8AcZW6C&quot; alt=&quot;Decreto autoriza atuação das Forças Armadas nas eleições de 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;publicou nesta terça-feira (21) autorização para uso das Forças Armadas durante as Eleições de 2026. A&lt;/p&gt;
+&lt;p&gt;prevê a atuação militar durante a votação, apuração e no apoio logístico durante o&lt;/p&gt;
+&lt;p&gt;De acordo com o texto, o uso das Forças Armadas ocorrerá conforme solicitação do&lt;/p&gt;
+&lt;p&gt;Tribunal Superior Eleitoral (TSE)&lt;/p&gt;
+&lt;p&gt;, que definirá as localidades e o período de atuação.&lt;/p&gt;
+&lt;p&gt;A autorização tem como base dispositivos da Constituição Federal, da Lei Complementar nº 97/1999, que trata das normas gerais para a organização, o preparo e o emprego das Forças Armadas, e do Código Eleitoral.&lt;/p&gt;
+&lt;p&gt;Em eleições anteriores, a presença das&lt;/p&gt;
+&lt;p&gt;foi solicitada pelo TSE para reforçar a segurança e dar suporte logístico em regiões consideradas estratégicas ou de difícil acesso.&lt;/p&gt;
+&lt;p&gt;Governo e setores atingidos por tarifas dos EUA discutem medidas&lt;/p&gt;
+&lt;p&gt;Gabriela Loran, Raquel Castanharo e estrelas de Wicked&lt;/p&gt;
+&lt;p&gt;Brasil tem quase 2 milhões de eleitores com deficiência, aponta TSE&lt;/p&gt;
+&lt;p&gt;Decreto autoriza atuação das Forças Armadas nas eleições de 2026&lt;/p&gt;
+&lt;p&gt;Partido Missão oficializa Renan Santos como candidato à Presidência&lt;/p&gt;
+&lt;p&gt;Ativista Angela Davis é destaque na programação do Sesc na Flip&lt;/p&gt;
+&lt;p&gt;Polícia deflagra operação contra roubo de medicamentos oncológicos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/decreto-autoriza-atuacao-das-forcas-armadas-nas-eleicoes-de-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>publicou nesta terça-feira (21) autorização para uso das Forças Armadas durante as Eleições de 2026. A
+prevê a atuação militar durante a votação, apu...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-07-21 11:14:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-21 11:14:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-21 11:14:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-21 11:14:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/q-Fy8J5JdaILK5GZF7eIFuZt_nw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/27/eleicao_sp_30.jpg?itok=M8AcZW6C</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Partido Missão oficializa Renan Santos como candidato à Presidência</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/partido-missao-oficializa-renan-santos-como-candidato-presidencia</link>
+      <pubDate>Tue, 21 Jul 2026 14:58:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/partido-missao-oficializa-renan-santos-como-candidato-presidencia#1002</guid>
+      <description>© Bartholomeu Ferreira da Cruz/ CNM
+Previstapara o dia 1º de agosto, a convenção nacional do partido Missão foi antecipada para esta segunda-feira (2...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/IMDXBf3iNym1CN_oY057ShGff88=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/21/renan-santos-cnm-1280x720.jpg_copy.jpg?itok=FTj9-z3L&quot; alt=&quot;Partido Missão oficializa Renan Santos como candidato à Presidência&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Bartholomeu Ferreira da Cruz/ CNM&lt;/p&gt;
+&lt;p&gt;Previstapara o dia 1º de agosto, a convenção nacional do partido Missão foi antecipada para esta segunda-feira (20), quando foi oficializada a candidatura de Renan Santos à Presidência da República.&lt;/p&gt;
+&lt;p&gt;A legenda foi registrada pelo Tribunal Superior Eleitoral (TSE) em novembro de 2025, na primeira eleição do partido, que tem sua origem no Movimento Brasil Livre (MBL), grupo que ganhou visibilidade durante a campanha pelo&lt;/p&gt;
+&lt;p&gt;contra a presidente Dilma Roussef (PT), a partir de 2015.&lt;/p&gt;
+&lt;p&gt;Apesar de ter antecipado a convenção nacional, o partido informou que fará um evento no dia 1º de agosto para divulgar o programa de governo para presidência da República.&lt;/p&gt;
+&lt;p&gt;Também nesta segunda-feira (20), o Partido Democrático Trabalhista (PDT) decidiu apoiar o presidente Luiz Inácio Lula da Silva na&lt;/p&gt;
+&lt;p&gt;campanha presidencial deste ano&lt;/p&gt;
+&lt;p&gt;, durante convenção nacional do partido,em Brasília.&lt;/p&gt;
+&lt;p&gt;A Agência Brasil vai acompanhar os resultados das convenções nacionais partidárias. As próximas convenções com datas marcadas são:&lt;/p&gt;
+&lt;p&gt;Partido Liberal (PL) – 25 de julho&lt;/p&gt;
+&lt;p&gt;Partido Social Democrático (PSD) – 26 de julho&lt;/p&gt;
+&lt;p&gt;Movimento Democrático Brasileiro (MDB) – 27 de julho&lt;/p&gt;
+&lt;p&gt;Partido Novo (Novo) – 27 de julho&lt;/p&gt;
+&lt;p&gt;Partido Comunista do Brasil (PCdoB) – 30 de julho&lt;/p&gt;
+&lt;p&gt;Partido Socialista dos Trabalhadores Unificado (PSTU) – 31 de julho&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/partido-missao-oficializa-renan-santos-como-candidato-presidencia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Bartholomeu Ferreira da Cruz/ CNM
+Previstapara o dia 1º de agosto, a convenção nacional do partido Missão foi antecipada para esta segunda-feira (2...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-07-21 11:08:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-21 11:08:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-21 11:08:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-21 11:08:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/IMDXBf3iNym1CN_oY057ShGff88=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/21/renan-santos-cnm-1280x720.jpg_copy.jpg?itok=FTj9-z3L</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Polícia deflagra operação contra roubo de medicamentos oncológicos</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/policia-deflagra-operacao-contra-roubo-de-medicamentos-oncologicos</link>
+      <pubDate>Tue, 21 Jul 2026 14:58:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/policia-deflagra-operacao-contra-roubo-de-medicamentos-oncologicos#1003</guid>
+      <description>Policiais civis do Rio de Janeiro deflagraram, nesta terça-feira (21), a Operação Metástasepara desarticular uma organização criminosa interestadual ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zqWGHKUdGvrI7JIA-YxpuUUfmKc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/21/xdrfc-preso-cancer-1.jpg.pagespeed.ic_.w2onoztdwn_copy.jpg?itok=Nxy9zBU3&quot; alt=&quot;Polícia deflagra operação contra roubo de medicamentos oncológicos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Policiais civis do Rio de Janeiro deflagraram, nesta terça-feira (21), a Operação Metástasepara desarticular uma organização criminosa interestadual especializada em roubos e distribuição de medicamentos oncológicos e imunossupressores.&lt;/p&gt;
+&lt;p&gt;As investigações revelaram que a quadrilha movimentou mais de R$ 33 milhões em apenas um ano e utilizava empresas de fachada para recolocar o material roubado no mercado.&lt;/p&gt;
+&lt;p&gt;Os agentes cumprem dezenas de mandados de busca e apreensão e de prisão contra integrantes e lideranças do grupo. As diligências ocorrem simultaneamente no Complexo da Maré, na zona norte do Rio, na Baixada Fluminense, além de endereços em São Paulo, Goiás e Pará, com o apoio das unidades policiais de cada estado.&lt;/p&gt;
+&lt;p&gt;Também foi pedido o bloqueio de R$ 30 milhões em contas bancárias, além do sequestro de imóveis, veículos de luxo e outros bens e valores utilizados pelo bando para ocultar o patrimônio.&lt;/p&gt;
+&lt;p&gt;Segundo a polícia, o trabalho investigativo identificou uma organização criminosa altamente sofisticada e violenta, especializada em roubos de cargas de medicamentos oncológicos e imunossupressores de alto valor de mercado, que seriam utilizados tanto na rede privada quanto na rede pública de saúde.&lt;/p&gt;
+&lt;p&gt;Os agentes constataram a participação do grupo em pelo menos 20 crimes semelhantes nos últimos seis meses, além da movimentação financeira superior a R$ 33 milhões no período de um ano, entre 2025 e 2026, por meio da utilização de empresas de fachada. As investigaçõesindicaram que o material roubado era reinserido em instituições públicas de saúde de todo o país por meio de processos licitatórios na modalidade de tomada de preços.&lt;/p&gt;
+&lt;p&gt;Os policiais identificaram diferentes núcleos, cada um responsável por uma etapa da operação: o núcleo dos que roubavam; o núcleo logístico-financeiro intermediário; o núcleo logístico-financeiro final; e o núcleo de suporte territorial.&lt;/p&gt;
+&lt;p&gt;A apuração revelou que o esquema ia muito além do roubo das cargas transportadas.&lt;/p&gt;
+&lt;p&gt;Após as ações criminosas, os medicamentos eram levados para áreas dominadas pelo Terceiro Comando Puro (TCP), no Complexo da Maré, onde ocorria o transbordo e a redistribuição da carga.&lt;/p&gt;
+&lt;p&gt;A facção criminosa atuava no suporte territorial, fornecendo apoio bélico e proteção ao núcleo de roubadores. Em seguida, um segundo núcleo era responsável pelo armazenamento, fracionamento e envio dos medicamentos roubados.&lt;/p&gt;
+&lt;p&gt;Para esconder a origem dos produtos e enviá-los aos receptadores finais em diversos estados do país, os integrantes utilizavam empresas de fachada, transportadoras,entregadores e &quot;laranjas&quot;. As equipesidentificaram membros do grupo responsáveis por aliciar funcionários de transportadoras para obter informações privilegiadas sobre rotas e cargas.&lt;/p&gt;
+&lt;p&gt;As investigações apontaram que cerca de 25 empresas de fachada, distribuídas entre os estados do Rio de Janeiro, São Paulo, Goiás e Pará, integravam a engrenagem financeira da organização criminosa e eram utilizadas para receptar os medicamentos roubados no estado do Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Segundo os agentes, os medicamentos eram revendidos tanto para hospitais privados quanto, em alguns casos, para instituições públicas de saúde, por meio de processos licitatórios na modalidade de tomada de preços.&lt;/p&gt;
+&lt;p&gt;Ao oferecer valores inferiores aos praticados pelo mercado regular, o grupo conseguia inserir produtos de origem criminosa na cadeia legítima de fornecimento. Os policiais também identificaram o líder da organização criminosa, um homem com longo histórico de envolvimento em roubos de cargas.&lt;/p&gt;
+&lt;p&gt;De acordo com as informações coletadas, o esquema representa uma grave ameaça não apenas ao patrimônio, mas também à saúde pública.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/policia-deflagra-operacao-contra-roubo-de-medicamentos-oncologicos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Policiais civis do Rio de Janeiro deflagraram, nesta terça-feira (21), a Operação Metástasepara desarticular uma organização criminosa interestadual ...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-07-21 10:41:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-21 10:41:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-21 10:41:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-21 10:41:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/zqWGHKUdGvrI7JIA-YxpuUUfmKc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/21/xdrfc-preso-cancer-1.jpg.pagespeed.ic_.w2onoztdwn_copy.jpg?itok=Nxy9zBU3</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Área queimada no Brasil fica 31% abaixo da média histórica em 2025</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/area-queimada-no-brasil-fica-31-abaixo-da-media-historica-em-2025</link>
+      <pubDate>Tue, 21 Jul 2026 14:58:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/area-queimada-no-brasil-fica-31-abaixo-da-media-historica-em-2025#1004</guid>
+      <description>© Fernando Frazão/Agência Brasil
+O Brasil registrou 12,7 milhões de hectares queimados em 2025, uma redução de 31% em relação à média histórica, que ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/rSxtmfffCoIWknzuyeB4j3wv5ak=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/31/dji_0259_0.jpg?itok=5jQbTbqR&quot; alt=&quot;Área queimada no Brasil fica 31% abaixo da média histórica em 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Brasil registrou 12,7 milhões de hectares queimados em 2025, uma redução de 31% em relação à média histórica, que é de 18,4 milhões de hectares anuais.&lt;/p&gt;
+&lt;p&gt;O resultado também corresponde a quase metade da área atingida em 2024.&lt;/p&gt;
+&lt;p&gt;Os dados fazem parte da segunda edição do&lt;/p&gt;
+&lt;p&gt;Relatório Anual do Fogo no Brasil&lt;/p&gt;
+&lt;p&gt;, divulgado pelo MapBiomas, que reúne informações sobre as áreas queimadas no país entre 1985 e 2025.&lt;/p&gt;
+&lt;p&gt;Segundo o levantamento, a área queimada no ano passado interrompeu uma sequência de expansão, com a queda na Amazônia como destaque e principal fator para a redução.&lt;/p&gt;
+&lt;p&gt;Depois de ter alcançado, em 2024, a maior área queimada da série histórica, com 15,8 milhões de hectares, o bioma registrou em 2025 a menor marca dos últimos 41 anos: 3,1 milhões de hectares.&lt;/p&gt;
+&lt;p&gt;Apesar disso, Amazônia e Cerrado continuam concentrando a maior parte das áreas queimadas no país. Juntos, os dois biomas respondem por 86% de toda a área atingida pelo fogo desde 1985.&lt;/p&gt;
+&lt;p&gt;O Cerrado permaneceu como o bioma mais afetado pelas queimadas em 2025, com 8,7 milhões de hectares queimados. O Pantanal apresentou a maior redução proporcional entre todos os biomas, com apenas 121 mil hectares queimados, uma queda de 85,6% em relação à média histórica. A Caatinga foi o único bioma que registrou área queimada acima da média no ano, com 505 mil hectares.&lt;/p&gt;
+&lt;p&gt;Segundo a diretora de Ciência do Instituto de Pesquisa Ambiental da Amazônia (Ipam) e coordenadora do MapBiomas Fogo, Ane Alencar, a série histórica permite compreender mudanças no comportamento das queimadas ao longo do tempo:&lt;/p&gt;
+&lt;p&gt;“Saber onde o fogo é recorrente, com que frequência ele retorna, qual é sua severidade potencial e quais áreas estão queimando mais ou menos é essencial para definir prioridades, orientar ações preventivas e implementar, de forma mais eficiente, a Política Nacional de Manejo Integrado do Fogo.”&lt;/p&gt;
+&lt;p&gt;O relatório também apresenta, pela primeira vez, indicadores sobre a severidade potencial das queimadas (baixa, moderada, alta, muito alta ou extrema) e o intervalo de retorno do fogo (número de anos entre as ocorrências em uma mesma área).&lt;/p&gt;
+&lt;p&gt;Quando considerado todo o país, 64% da área queimada teve severidade moderada ou baixa.&lt;/p&gt;
+&lt;p&gt;Porém, na análise específica por bioma, Mata Atlântica, Pampa e Pantanal, metade ou mais da metade da área queimada foi com severidade alta e muito alta.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/area-queimada-no-brasil-fica-31-abaixo-da-media-historica-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+O Brasil registrou 12,7 milhões de hectares queimados em 2025, uma redução de 31% em relação à média histórica, que ...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-07-21 10:40:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-21 10:40:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-21 10:40:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-21 10:40:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/rSxtmfffCoIWknzuyeB4j3wv5ak=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/31/dji_0259_0.jpg?itok=5jQbTbqR</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Governo destina R$ 547 milhões para ressarcir beneficiários do INSS</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-destina-r-547-milhoes-para-ressarcir-beneficiarios-do-inss</link>
+      <pubDate>Tue, 21 Jul 2026 14:58:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-destina-r-547-milhoes-para-ressarcir-beneficiarios-do-inss#1005</guid>
+      <description>© Marcelo Camargo/Agência Brasil
+O governo federal autorizou repasse de R$ 547 milhões para ressarcir beneficiários do
+Instituto Nacional do Seguro S...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xP5aRY7cK_PjGA3ITDAEM1bFqGg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/22/966946-07072015-dsc_5210bbn.jpg?itok=oAKqJlmt&quot; alt=&quot;Governo destina R$ 547 milhões para ressarcir beneficiários do INSS&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O governo federal autorizou repasse de R$ 547 milhões para ressarcir beneficiários do&lt;/p&gt;
+&lt;p&gt;Instituto Nacional do Seguro Social (INSS)&lt;/p&gt;
+&lt;p&gt;vítimas dedescontos indevidos. A&lt;/p&gt;
+&lt;p&gt;está publicada na edição desta terça-feira (21) do&lt;/p&gt;
+&lt;p&gt;De acordo com o texto, o crédito extraordinário será destinado ao programa Previdência Social: Promoção, Garantia de Direitos e Cidadania e serão executados pelo INSS.&lt;/p&gt;
+&lt;p&gt;descontados de forma irregular de beneficiários do Regime Geral de Previdência Social. Os recursos integram o orçamento da própria seguridade social.&lt;/p&gt;
+&lt;p&gt;O crédito extraordinário é um instrumento previsto na Constituição Federal para atender despesas urgentes e imprevisíveis. Nesses casos, os recursos podem ser liberados por medida provisória, com efeito imediato, antes da análise pelo Congresso Nacional.&lt;/p&gt;
+&lt;p&gt;A Medida Provisória nº 1.378 será encaminhada ao Congresso, que deverá apreciar o texto para conversão em lei.&lt;/p&gt;
+&lt;p&gt;MapBiomas: área queimada na Amazônia atinge menor nível da história&lt;/p&gt;
+&lt;p&gt;Gabriela Loran, Raquel Castanharo e estrelas de Wicked&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-destina-r-547-milhoes-para-ressarcir-beneficiarios-do-inss&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
+O governo federal autorizou repasse de R$ 547 milhões para ressarcir beneficiários do
+Instituto Nacional do Seguro S...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-07-21 10:36:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-21 10:36:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-21 10:36:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-21 10:36:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/xP5aRY7cK_PjGA3ITDAEM1bFqGg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/22/966946-07072015-dsc_5210bbn.jpg?itok=oAKqJlmt</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Flip celebra legado de Orides Fontela com lançamento de obras inéditas</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flip-celebra-legado-de-orides-fontela-com-lancamento-de-obras-ineditas</link>
+      <pubDate>Tue, 21 Jul 2026 14:58:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flip-celebra-legado-de-orides-fontela-com-lancamento-de-obras-ineditas#1006</guid>
+      <description>A 24ª edição Festa Literária Internacional de Paraty (Flip), que começa nesta quarta-feira (22) de 22 e vai até domingo (26), terá a filósofa e poeta...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/N7hHA9Pe9Rd0CyRr-ZeAQFk7thg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/21/orides_fontela_fritznagib_291-67a_fz.jpg?itok=nGAZ_93r&quot; alt=&quot;Flip celebra legado de Orides Fontela com lançamento de obras inéditas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A 24ª edição Festa Literária Internacional de Paraty (Flip), que começa nesta quarta-feira (22) de 22 e vai até domingo (26), terá a filósofa e poeta Orides Fontela como homenageada.&lt;/p&gt;
+&lt;p&gt;Para celebrar sua obra e seu legado, haverá três lançamentos no festival: um livro ilustrado para crianças e jovens, uma coletânea inédita de escritos críticos e entrevistas, além da nova edição – revista e ampliada – da biografia da poeta.&lt;/p&gt;
+&lt;p&gt;Autora de uma poesia concisa e reflexões profundas, Orides é reverenciada pela crítica e por diferentes gerações de escritores, mas ainda pouco conhecida pelo grande público.&lt;/p&gt;
+&lt;p&gt;Nascida em São João da Boa Vista (SP), a autora publicou cinco livros de poesia ao longo de sua carreira:&lt;/p&gt;
+&lt;p&gt;, ela ganhou o Prêmio Jabuti na categoria Poesia.&lt;/p&gt;
+&lt;p&gt;Com as novas publicações durante a Flip, a editora Hedra anunciou a intenção de promover novas formas de aproximação do público com Orides, revelando aspectos pouco conhecidos da vida, do pensamento e do processo de criação da autora.&lt;/p&gt;
+&lt;p&gt;Abrindo a agenda de lançamentos da editora, a obra infantojuvenil&lt;/p&gt;
+&lt;p&gt;reúne poemas selecionados por Augusto Massi, com ilustrações de Cynthia Cruttenden e posfácio de Odilon Moraes.&lt;/p&gt;
+&lt;p&gt;Conversas: Escritos e Entrevistas de Orides Fontela&lt;/p&gt;
+&lt;p&gt;, organizado por Ieda Lebensztayn, Mário Alex Rosa e Augusto Massi, reúne um conjunto de entrevistas, depoimentos e ensaios em que a poeta reflete sobre literatura, filosofia, linguagem e criação poética. O volume tem ainda um texto inédito da autora, além de entrevistas que nunca tinham sido publicadas em livro.&lt;/p&gt;
+&lt;p&gt;O terceiro lançamento é a edição revista e ampliada de&lt;/p&gt;
+&lt;p&gt;, uma biografia da poeta, elaborada pelo pesquisador e jornalista Gustavo de Castro. A publicação tem novo texto de apresentação, um capítulo inédito e um caderno iconográfico com fotografias e documentos.&lt;/p&gt;
+&lt;p&gt;Confira os eventos de lançamento&lt;/p&gt;
+&lt;p&gt;23/07 às 15h, na Casa Da Árvore - Lançamento de&lt;/p&gt;
+&lt;p&gt;Conversa com Augusto Massi, Cynthia Cruttenden | Mediação: Cristiane Tavares&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flip-celebra-legado-de-orides-fontela-com-lancamento-de-obras-ineditas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A 24ª edição Festa Literária Internacional de Paraty (Flip), que começa nesta quarta-feira (22) de 22 e vai até domingo (26), terá a filósofa e poeta...</excerpt:encoded>
+      <wp:post_id>1006</wp:post_id>
+      <wp:post_date>2026-07-21 09:48:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-21 09:48:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-21 09:48:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-21 09:48:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/N7hHA9Pe9Rd0CyRr-ZeAQFk7thg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/21/orides_fontela_fritznagib_291-67a_fz.jpg?itok=nGAZ_93r</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Ministério Público faz operação em SP contra PCC e tribunais do crimes</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/ministerio-publico-faz-operacao-em-sp-contra-pcc-e-tribunais-do-crimes</link>
+      <pubDate>Tue, 21 Jul 2026 14:58:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/ministerio-publico-faz-operacao-em-sp-contra-pcc-e-tribunais-do-crimes#1007</guid>
+      <description>Ministério Público de São Paulo
+Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO)
+, faz na manhã desta terça-feira (21) operação de bu...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/b-kb9Xji95p2Uh_qmSLlQU9ZNLw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/07/gaeco-sp_copy.jpg?itok=4lOS1C7_&quot; alt=&quot;Ministério Público faz operação em SP contra PCC e tribunais do crimes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Ministério Público de São Paulo&lt;/p&gt;
+&lt;p&gt;Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO)&lt;/p&gt;
+&lt;p&gt;, faz na manhã desta terça-feira (21) operação de busca e apreensão contra operadores financeiros que atuam para favorecer o&lt;/p&gt;
+&lt;p&gt;Primeiro Comando da Capital (PCC)&lt;/p&gt;
+&lt;p&gt;São cumpridos 18 mandados de prisão preventiva e de busca e apreensão. Ao todo, 57 policiais militares e 19 viaturas dão apoio à operação.Cerca de R$ 10 milhõesforam bloqueados.&lt;/p&gt;
+&lt;p&gt;Apósinvestigações, as autoridades constataram que os suspeitos fizeram transferências bancárias e usaramempresas e contas de terceiros para movimentarrecursos aintegrantes da facção criminosa.&lt;/p&gt;
+&lt;p&gt;O Ministério Público investiga também a participação dos suspeitos em reuniões conhecidas como “tribunais do crime”, feitaspelo PCC.&lt;/p&gt;
+&lt;p&gt;Já foram determinadas pela Justiça paulista o bloqueio de contas bancárias e aplicações financeiras, a apreensão de imóveis e veículos e ainda o sequestro de bens dos investigados.&lt;/p&gt;
+&lt;p&gt;Cineclube Afrodite leva programação gratuita a territórios de Alagoas&lt;/p&gt;
+&lt;p&gt;Gabriela Loran, Raquel Castanharo e estrelas de Wicked&lt;/p&gt;
+&lt;p&gt;Brasil tem quase 2 milhões de eleitores com deficiência, aponta TSE&lt;/p&gt;
+&lt;p&gt;Decreto autoriza atuação das Forças Armadas nas eleições de 2026&lt;/p&gt;
+&lt;p&gt;Partido Missão oficializa Renan Santos como candidato à Presidência&lt;/p&gt;
+&lt;p&gt;Ativista Angela Davis é destaque na programação do Sesc na Flip&lt;/p&gt;
+&lt;p&gt;Polícia deflagra operação contra roubo de medicamentos oncológicos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/ministerio-publico-faz-operacao-em-sp-contra-pcc-e-tribunais-do-crimes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Ministério Público de São Paulo
+Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO)
+, faz na manhã desta terça-feira (21) operação de bu...</excerpt:encoded>
+      <wp:post_id>1007</wp:post_id>
+      <wp:post_date>2026-07-21 09:03:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-21 09:03:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-21 09:03:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-21 09:03:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/b-kb9Xji95p2Uh_qmSLlQU9ZNLw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/07/gaeco-sp_copy.jpg?itok=4lOS1C7_</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Em convenção nacional, PDT oficializa apoio a Lula nas eleições</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/em-convencao-nacional-pdt-oficializa-apoio-lula-nas-eleicoes</link>
+      <pubDate>Tue, 21 Jul 2026 14:58:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/em-convencao-nacional-pdt-oficializa-apoio-lula-nas-eleicoes#1008</guid>
+      <description>© Fernando Frazão/Agência Brasil
+O Partido Democrático Trabalhista (PDT) decidiu apoiar o presidente Luiz Inácio Lula da Silva na campanha presidenci...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/RviR8q4ZfFChsuxmFuQZ0Jp-EKM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_1688.jpg?itok=wsKKq82Z&quot; alt=&quot;Em convenção nacional, PDT oficializa apoio a Lula nas eleições&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Partido Democrático Trabalhista (PDT) decidiu apoiar o presidente Luiz Inácio Lula da Silva na campanha presidencial deste ano. A decisão foi oficializada em convenção nacional do partido, na tarde desta segunda-feira (20), em Brasília.&lt;/p&gt;
+&lt;p&gt;O presidente nacional do PDT, Carlos Lupi, justificou a aliança com a luta dos partidos de esquerda e centro-esquerda contra a extrema direita. E, por isso, exaltou o apoio a Lula, do Partido dos Trabalhadores (PT).&lt;/p&gt;
+&lt;p&gt;A convenção do PDT teve a participação de Lula, que discursou aos presentes.&lt;/p&gt;
+&lt;p&gt;Lula deverá tentar a reeleição, mas oficialmente, ainda é pré-candidato. A convenção nacional do Partido dos Trabalhadores (PT) ocorrerá apenas no dia 2 de agosto.&lt;/p&gt;
+&lt;p&gt;vai acompanhar os resultados das convenções nacionais partidárias. As&lt;/p&gt;
+&lt;p&gt;Partido Liberal (PL) – 25 de julho;&lt;/p&gt;
+&lt;p&gt;Partido Social Democrático (PSD) – 26 de julho;&lt;/p&gt;
+&lt;p&gt;Movimento Democrático Brasileiro (MDB) – 27 de julho;&lt;/p&gt;
+&lt;p&gt;Partido Novo (Novo) – 27 de julho;&lt;/p&gt;
+&lt;p&gt;Partido Comunista do Brasil (PCdoB) – 30 de julho;&lt;/p&gt;
+&lt;p&gt;Partido Socialista dos Trabalhadores Unificado (PSTU) – 31 de julho;&lt;/p&gt;
+&lt;p&gt;Partido Verde (PV) – 31 de julho;&lt;/p&gt;
+&lt;p&gt;Partido da Causa Operária (PCO) – 1º de agosto;&lt;/p&gt;
+&lt;p&gt;Partido dos Trabalhadores (PT) – 2 de agosto; e&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/em-convencao-nacional-pdt-oficializa-apoio-lula-nas-eleicoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+O Partido Democrático Trabalhista (PDT) decidiu apoiar o presidente Luiz Inácio Lula da Silva na campanha presidenci...</excerpt:encoded>
+      <wp:post_id>1008</wp:post_id>
+      <wp:post_date>2026-07-21 08:57:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-21 08:57:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-21 08:57:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-21 08:57:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/RviR8q4ZfFChsuxmFuQZ0Jp-EKM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_1688.jpg?itok=wsKKq82Z</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>União terá de iniciar construção de centro de memória africana no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/uniao-tera-de-iniciar-construcao-de-centro-de-memoria-africana</link>
-      <pubDate>Tue, 21 Jul 2026 12:24:15 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:58:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/uniao-tera-de-iniciar-construcao-de-centro-de-memoria-africana#1000</guid>
-      <description>© João Paulo Engelbrecht/Divulgação Iphan
-A União terá de iniciar a execução das obras no Edifício Docas André Rebouças, na zona portuária do Rio de ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GAW6GTbuBKv_yDeHwdz_6r673p0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/cais_do_valongo_-_divulgacao_iphan.jpg?itok=XrSVH_pz&quot; alt=&quot;União terá de iniciar construção de centro de memória africana no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© João Paulo Engelbrecht/Divulgação Iphan&lt;/p&gt;
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/uniao-tera-de-iniciar-construcao-de-centro-de-memoria-africana#1009</guid>
+      <description>A União terá de iniciar a execução das obras no Edifício Docas André Rebouças, na zona portuária do Rio de Janeiro, para a instalação do Centro de In...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/4KjXZUv0egz1oldhgUNTAMtskLc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/21/rbr3187_1400x1050-1_copy.jpg?itok=oh7bkcAR&quot; alt=&quot;União terá de iniciar construção de centro de memória africana no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A União terá de iniciar a execução das obras no Edifício Docas André Rebouças, na zona portuária do Rio de Janeiro, para a instalação do Centro de Interpretação do&lt;/p&gt;
 &lt;p&gt;, dedicado à preservação da memória africana. A Justiça Federal determinou o início do cronograma, em caráter de urgência.&lt;/p&gt;
 &lt;p&gt;Os responsáveis pelo prédio têm prazo de 30 dias para assinar contrato e emitir o empenho orçamentário correspondente, sob pena de multa diária de R$ 10 mil.&lt;/p&gt;
@@ -42,12 +477,12 @@ A União terá de iniciar a execução das obras no Edifício Docas André Rebou
 &lt;p&gt;O local foi reconhecido pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco) como Patrimônio Mundial por ser um sítio de memória fundamental da diáspora africana e do tráfico transatlântico de escravizados.&lt;/p&gt;
 &lt;p&gt;Para procurador da República Sérgio Suiama, que acompanha o caso desde o início, a instalação do centro é uma obrigação assumida pelo Brasil junto à Unesco em 2017, cujo prazo se esgotou em 2019.&lt;/p&gt;
 &lt;p&gt;“É inadmissível que, transcorridos sete anos do título de patrimônio da humanidade, nem um único parafuso tenha sido colocado no edifício, apesar de todas as promessas feitas pelos presidentes do Iphan e da Fundação Cultural Palmares nos últimos quatro anos.”&lt;/p&gt;
-&lt;p&gt;Atlético (MG), Bahia e Santos voltam a campo após pausa da Copa&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 20 de julho de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Ministério Público faz operação em SP contra PCC e tribunais do crimes&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/uniao-tera-de-iniciar-construcao-de-centro-de-memoria-africana&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© João Paulo Engelbrecht/Divulgação Iphan
-A União terá de iniciar a execução das obras no Edifício Docas André Rebouças, na zona portuária do Rio de ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+&lt;p&gt;Cineclube Afrodite leva programação gratuita a territórios de Alagoas&lt;/p&gt;
+&lt;p&gt;Gabriela Loran, Raquel Castanharo e estrelas de Wicked&lt;/p&gt;
+&lt;p&gt;Brasil tem quase 2 milhões de eleitores com deficiência, aponta TSE&lt;/p&gt;
+&lt;p&gt;Decreto autoriza atuação das Forças Armadas nas eleições de 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/uniao-tera-de-iniciar-construcao-de-centro-de-memoria-africana&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A União terá de iniciar a execução das obras no Edifício Docas André Rebouças, na zona portuária do Rio de Janeiro, para a instalação do Centro de In...</excerpt:encoded>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-07-21 08:49:00</wp:post_date>
       <wp:post_date_gmt>2026-07-21 08:49:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-21 08:49:00</wp:post_modified>
@@ -67,436 +502,7 @@ A União terá de iniciar a execução das obras no Edifício Docas André Rebou
       <category domain="post_tag" nicename="ebc">EBC</category>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/GAW6GTbuBKv_yDeHwdz_6r673p0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/cais_do_valongo_-_divulgacao_iphan.jpg?itok=XrSVH_pz</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Justiça do Rio mantém condenação de homens que mataram músico</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/justica-do-rio-mantem-condenacao-de-homens-que-mataram-musico</link>
-      <pubDate>Tue, 21 Jul 2026 12:24:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/justica-do-rio-mantem-condenacao-de-homens-que-mataram-musico#1001</guid>
-      <description>manteve a condenação de Flávio Lima de Mello e de Pablo Francisco da Silva pelo latrocínio do publicitário, empresário e músico Sérgio José Coutinho ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/aB2MAe1eqDoqct2ayE2EiKwUy7M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/11/tj-rj-6-1.jpg?itok=ZbPL3T9e&quot; alt=&quot;Justiça do Rio mantém condenação de homens que mataram músico&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;manteve a condenação de Flávio Lima de Mello e de Pablo Francisco da Silva pelo latrocínio do publicitário, empresário e músico Sérgio José Coutinho Stamile, morto em agosto de 2021 no Parque Garota de Ipanema, no Arpoador, zona sul do Rio.&lt;/p&gt;
-&lt;p&gt;A desembargadora Maria Angélica Guerra Guedes, do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ), negou seguimento ao recurso especial apresentado por Flávio ao&lt;/p&gt;
-&lt;p&gt;Superior Tribunal de Justiça (STJ)&lt;/p&gt;
-&lt;p&gt;Flávio permanece condenado a 23 anos e 4 meses de prisão. Já Pablo teve o recurso parcialmente provido apenas para reduzir a pena de 27 anos, 2 meses e 20 dias para 26 anos e 3 meses de reclusão, também em regime fechado.&lt;/p&gt;
-&lt;p&gt;De acordo com a denúncia, os dois imobilizaram e asfixiaram o músico Sérgio Stamile durante luta corporal e, em seguida, fugiram levando os pertences da vítima.&lt;/p&gt;
-&lt;p&gt;Conhecido como &quot;Pirata do Arpoador&quot;, o músico, costumava frequentar sempre sozinho o local para meditar. Nesse dia do crime, ele foi para o Parque Garota de Ipanema à noite para meditar, e o parque estava praticamente deserto.&lt;/p&gt;
-&lt;p&gt;Atlético (MG), Bahia e Santos voltam a campo após pausa da Copa&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 20 de julho de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Ministério Público faz operação em SP contra PCC e tribunais do crimes&lt;/p&gt;
-&lt;p&gt;Em convenção nacional, PDT oficializa apoio a Lula nas eleições&lt;/p&gt;
-&lt;p&gt;União terá de iniciar construção de centro de memória africana no Rio&lt;/p&gt;
-&lt;p&gt;Número de mortos após terremotos na Venezuela sobe para 5.278&lt;/p&gt;
-&lt;p&gt;Justiça do Rio mantém condenação de homens que mataram músico&lt;/p&gt;
-&lt;p&gt;Modelo do Pix desafia controle financeiro dos EUA sobre o Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/justica-do-rio-mantem-condenacao-de-homens-que-mataram-musico&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>manteve a condenação de Flávio Lima de Mello e de Pablo Francisco da Silva pelo latrocínio do publicitário, empresário e músico Sérgio José Coutinho ...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
-      <wp:post_date>2026-07-21 08:38:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-21 08:38:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-21 08:38:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-21 08:38:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/aB2MAe1eqDoqct2ayE2EiKwUy7M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/11/tj-rj-6-1.jpg?itok=ZbPL3T9e</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Modelo do Pix desafia controle financeiro dos EUA sobre o Brasil</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/modelo-do-pix-desafia-controle-financeiro-dos-eua-sobre-o-brasil</link>
-      <pubDate>Tue, 21 Jul 2026 12:24:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/modelo-do-pix-desafia-controle-financeiro-dos-eua-sobre-o-brasil#1002</guid>
-      <description>O Pix brasileiro virou um dos alvos do governo dos Estados Unidos (EUA), entre outros motivos, por desafiar o controle financeiro de Washington sobre...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hOVaqSEKf0kfzYI9qhLH8_qUF5k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/_mg_8269.jpg?itok=NPtc1wBv&quot; alt=&quot;Modelo do Pix desafia controle financeiro dos EUA sobre o Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Pix brasileiro virou um dos alvos do governo dos Estados Unidos (EUA), entre outros motivos, por desafiar o controle financeiro de Washington sobre a infraestrutura brasileira de pagamentos eletrônicos. A avaliação é de especialistas em economia e relações internacionais consultados pela Agência Brasil.&lt;/p&gt;
-&lt;p&gt;A razão do governo de Donald Trump para incluir o Pix entre as justificativas para o&lt;/p&gt;
-&lt;p&gt;seria, em primeiro lugar,geopolítica, e não estritamente econômica motivada pela concorrência com empresas dos EUA como Visa, MasterCard ou Whatsapp Pay.&lt;/p&gt;
-&lt;p&gt;O professor de economia da Universidade Federal Rural do Rio de Janeiro (UFRRJ)Maicon Cláudio da Silvadestaca que o&lt;/p&gt;
-&lt;p&gt;ataque ao Pix tem relação direta com a perda de poder e controle dos EUA sobre o sistema financeiro do Brasil.&lt;/p&gt;
-&lt;p&gt;“Esse tipo de medida deixa evidente que os EUA não querem perder esse poder que eles têm hoje sobre o sistema financeiro em boa parte do mundo. Não à toa, a China não usa Visa e Mastercard. Ela tem sistemas próprios, e isso tem a ver com uma maior soberania e autonomia desse país”, disse.&lt;/p&gt;
-&lt;p&gt;Pix aumentou a bancarização da população brasileira, trazendo ganhos econômicos também para as empresas dos EUA.&lt;/p&gt;
-&lt;p&gt;“Movimentos econômicos que antes ocorriam só no dinheiro passaram a ocorrer via sistema financeiro, através do Pix. Isso facilita o acesso das pessoas a contas bancárias e, eventualmente, também a cartão de crédito”, explicou.&lt;/p&gt;
-&lt;p&gt;Em 2025, os cartões movimentaram R$ 4,5 trilhões na esteira da expansão do Pix. Um crescimento de 10,1%, segundo dados da Associação Brasileira das Empresas de Cartões de Crédito e Serviços (Abecs).&lt;/p&gt;
-&lt;p&gt;Como os EUA têm superávit comercial com o Brasil,&lt;/p&gt;
-&lt;p&gt;o tarifaço tende a prejudicar mais as empresas americanas&lt;/p&gt;
-&lt;p&gt;, observou o professor da UFRRJ. Nesse contexto, os interesses econômicos imediatos são deixados de lado.&lt;/p&gt;
-&lt;p&gt;“Do ponto de vista imediato, essas taxas acabam prejudicando mais os EUA. Por isso, essa é uma política econômica internacional focada em exercer poder por meio das sanções e tarifaços de maneira a pressionar os países a se submeterem aos EUA”, finalizou.&lt;/p&gt;
-&lt;p&gt;O professor de geopolítica da Escola Superior de Guerra (ESG)Ronaldo Carmonadestacou que&lt;/p&gt;
-&lt;p&gt;o Pix se tornou um instrumento de poder do Brasil, ampliando a soberania econômica e financeira do país.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/modelo-do-pix-desafia-controle-financeiro-dos-eua-sobre-o-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Pix brasileiro virou um dos alvos do governo dos Estados Unidos (EUA), entre outros motivos, por desafiar o controle financeiro de Washington sobre...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
-      <wp:post_date>2026-07-21 08:31:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-21 08:31:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-21 08:31:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-21 08:31:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/hOVaqSEKf0kfzYI9qhLH8_qUF5k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/_mg_8269.jpg?itok=NPtc1wBv</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Doméstica resgatada em Nova Iguaçu receberá indenização de R$ 645 mil</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/domestica-resgatada-em-nova-iguacu-recebera-indenizacao-de-r-645-mil</link>
-      <pubDate>Tue, 21 Jul 2026 12:24:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/domestica-resgatada-em-nova-iguacu-recebera-indenizacao-de-r-645-mil#1003</guid>
-      <description>© Fernando Frazão/Agência Brasil
-A doméstica de 69 anos encontrada em
-condições análogas à escravidão
-em Nova Iguaçu, no Rio de Janeiro, em julho des...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PRRPxdWChF23ciGeOzZjzV6AtY4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mprj_ffraz_abr_1510212158_1.jpg?itok=n5xK9ZoB&quot; alt=&quot;Doméstica resgatada em Nova Iguaçu receberá indenização de R$ 645 mil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
-&lt;p&gt;A doméstica de 69 anos encontrada em&lt;/p&gt;
-&lt;p&gt;condições análogas à escravidão&lt;/p&gt;
-&lt;p&gt;em Nova Iguaçu, no Rio de Janeiro, em julho deste ano, receberá R$ 645 mil de indenização.Avítima trabalhava na residência há 52 anos, período em que jamais recebeu qualquer remuneração pelos serviços prestados.&lt;/p&gt;
-&lt;p&gt;Após recebimento dadenúncia, o&lt;/p&gt;
-&lt;p&gt;Ministério Público do Trabalho do Rio de Janeiro&lt;/p&gt;
-&lt;p&gt;coordenou força-tarefa e resgatou a mulher. Além de todas as atividades domésticas da residência, a trabalhadora também foi responsável pelo cuidado do filho da empregadora quando criança e, posteriormente, passou a exercer a função de cuidadora da própria empregadora, atualmente com problemas de saúde.&lt;/p&gt;
-&lt;p&gt;Assim como em outros casos semelhantes, os empregadores alegaram que a trabalhadora era considerada &quot;parte da família&quot;. Entretanto, foi constatado que ela nunca teve carteira de trabalho assinada, não detinha plano de saúde, não concluiu os estudos e permaneceu durante décadas privada de direitos trabalhistas básicos.&lt;/p&gt;
-&lt;p&gt;Em audiência com os empregadores, foi acordado pagamento R$ 500 mil a título de verbas rescisórias e indenizatórias devidas à trabalhadora. Desse montante, R$ 60 mil foram repassados imediatamente, além do compromisso de pagamento de 60 parcelas mensais de R$ 5.239,65. O termo também prevê o recolhimento dos depósitos de FGTS referentes ao período de outubro de 2015 até a data do resgate.&lt;/p&gt;
-&lt;p&gt;Foi determinado ainda o pagamento de uma pensão mensal vitalícia correspondente a 75% do salário mínimo vigente, estimada em aproximadamente R$145 mil, considerando uma expectativa de vida de dez anos. Dessa forma, o valor total do acordo alcança cerca de R$ 645 mil.&lt;/p&gt;
-&lt;p&gt;Atlético (MG), Bahia e Santos voltam a campo após pausa da Copa&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 20 de julho de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Ministério Público faz operação em SP contra PCC e tribunais do crimes&lt;/p&gt;
-&lt;p&gt;Em convenção nacional, PDT oficializa apoio a Lula nas eleições&lt;/p&gt;
-&lt;p&gt;União terá de iniciar construção de centro de memória africana no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/domestica-resgatada-em-nova-iguacu-recebera-indenizacao-de-r-645-mil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fernando Frazão/Agência Brasil
-A doméstica de 69 anos encontrada em
-condições análogas à escravidão
-em Nova Iguaçu, no Rio de Janeiro, em julho des...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
-      <wp:post_date>2026-07-21 08:29:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-21 08:29:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-21 08:29:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-21 08:29:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/PRRPxdWChF23ciGeOzZjzV6AtY4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mprj_ffraz_abr_1510212158_1.jpg?itok=n5xK9ZoB</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Prouni recebe 529,7 mil inscrições para o segundo semestre de 2026</title>
-      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-recebe-5297-mil-inscricoes-para-o-segundo-semestre-de-2026</link>
-      <pubDate>Tue, 21 Jul 2026 12:24:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-recebe-5297-mil-inscricoes-para-o-segundo-semestre-de-2026#1004</guid>
-      <description>O Programa Universidade para Todos (Prouni) recebeu 529.786 inscrições para as vagas do segundo semestre de 2026, segundo balanço divulgado peloMinis...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xfXGqMUaoZd6pAzZtHl59nVjXvY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/24/0d9a2953.jpg?itok=DeUXMgsw&quot; alt=&quot;Prouni recebe 529,7 mil inscrições para o segundo semestre de 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Programa Universidade para Todos (Prouni) recebeu 529.786 inscrições para as vagas do segundo semestre de 2026, segundo balanço divulgado peloMinistério da Educação (MEC).&lt;/p&gt;
-&lt;p&gt;Ao todo, em 2026, 1.103.672 de estudantes fizeram mais de 2,12 milhões de inscrições no Prouni&lt;/p&gt;
-&lt;p&gt;, já que cada participante pôde selecionar até duas opções de curso, instituição e turno. Na edição do primeiro semestre, o programaregistrou 1.595.662 inscrições.&lt;/p&gt;
-&lt;p&gt;O programa federal oferece bolsas de estudo integrais – que cobrem 100% do valor da mensalidade – e parciais (50% do valor da mensalidade) em cursos de graduação e sequenciais de formação específica, em instituições privadas de ensino superior.&lt;/p&gt;
-&lt;p&gt;&gt;&gt;Confira o número de inscrições no segundo semestre por unidade da federação&lt;/p&gt;
-&lt;p&gt;Na última quarta-feira (15), o governofederal divulgou o resultado da primeira chamada do Prouni para o segundo semestre&lt;/p&gt;
-&lt;p&gt;Os inscritos podem consultar o resultado&lt;/p&gt;
-&lt;p&gt;no Portal Acesso Único ao Ensino Superior, na parte do Prouni&lt;/p&gt;
-&lt;p&gt;. É preciso fazerlogincom a conta da plataforma Gov.br.&lt;/p&gt;
-&lt;p&gt;O prazo para pré-selecionados na primeira chamada comprovarem as informações da inscrição diretamente na instituição privada de ensino superior&lt;/p&gt;
-&lt;p&gt;terminará nesta sexta-feira (24)&lt;/p&gt;
-&lt;p&gt;Neste segundo semestre do ano, o programa oferece471.304 bolsas de estudos parciais e integraisem 380 cursos de graduação de 879 instituições privadas de ensino superior&lt;/p&gt;
-&lt;p&gt;Do total de bolsas ofertadas,219.725 foramintegrais, e 251.579,parciais.&lt;/p&gt;
-&lt;p&gt;Os candidatos que não forem convocados na primeira chamada ainda poderão participar da segunda chamada ou manifestar interesse na lista de espera.&lt;/p&gt;
-&lt;p&gt;Aqueles que não forem pré-selecionados ou que tiverem a inscrição indeferida por não formação de turma poderão disputar as bolsas eventualmente não preenchidas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/prouni-recebe-5297-mil-inscricoes-para-o-segundo-semestre-de-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Programa Universidade para Todos (Prouni) recebeu 529.786 inscrições para as vagas do segundo semestre de 2026, segundo balanço divulgado peloMinis...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-07-21 07:50:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-21 07:50:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-21 07:50:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-21 07:50:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/xfXGqMUaoZd6pAzZtHl59nVjXvY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/24/0d9a2953.jpg?itok=DeUXMgsw</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Beneficiários com NIS de final 2 recebem Bolsa Família de julho</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/beneficiarios-com-nis-de-final-2-recebem-bolsa-familia-de-julho</link>
-      <pubDate>Tue, 21 Jul 2026 12:24:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/beneficiarios-com-nis-de-final-2-recebem-bolsa-familia-de-julho#1005</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-A Caixa Econômica Federal paga nesta terça-feira (21) a parcela de julho do Bolsa Família aos beneficiários com Núm...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9D8vazF_dWNGnCvoFkL0035XQ-E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/img_7625_1.jpg?itok=v_yccTNK&quot; alt=&quot;Beneficiários com NIS de final 2 recebem Bolsa Família de julho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;A Caixa Econômica Federal paga nesta terça-feira (21) a parcela de julho do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 2.Neste mês, o valor médio do benefício está em R$ 679,19.&lt;/p&gt;
-&lt;p&gt;Na segunda-feira (20), moradores de 175 municípios de seis estados receberam o crédito, independentemente do número final do NIS. O pagamento unificado foi para localidades em situação de emergência ou em estado de calamidade pública nos seguintes estados: Amazonas (três municípios), Paraíba (31), Paraná (8), Rio Grande do Norte (120), Roraima (6) e Sergipe (7).&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Veja a lista dos municípios com pagamento unificado&lt;/p&gt;
-&lt;p&gt;O valor mínimo do programa corresponde a R$ 600. Além do benefício mínimo, há o pagamento de três adicionais:&lt;/p&gt;
-&lt;p&gt;o Benefício Variável Familiar Nutriz paga seis parcelas de R$ 50 a mães de bebês de até seis meses de idade, para garantir a alimentação da criança;&lt;/p&gt;
-&lt;p&gt;o Bolsa Família também paga um acréscimo de R$ 50 a famílias com gestantes e filhos de 7 a 18 anos;&lt;/p&gt;
-&lt;p&gt;e mais R$ 150a famílias com crianças de até 6 anos.&lt;/p&gt;
-&lt;p&gt;No modelo tradicional do Bolsa Família, o pagamento ocorre nos últimos dez dias úteis de cada mês.&lt;/p&gt;
-&lt;p&gt;O beneficiário poderá consultar informações sobre as datas de pagamento, o valor do benefício e a composição das parcelas no aplicativo Caixa Tem&lt;/p&gt;
-&lt;p&gt;, usado para acompanhar as contas poupança digitais do banco.&lt;/p&gt;
-&lt;p&gt;Além do benefício integral, há o pagamento da regra de proteção. Em vigor desde junho de 2023, essa regra permite que famílias cujos membros consigam emprego e melhorem a renda recebam 50% do benefício a que teriam direito por até dois anos, desde que cada integrante receba o equivalente a até meio salário mínimo.&lt;/p&gt;
-&lt;p&gt;o tempo de permanência na regra de proteção foi reduzido de dois para um ano&lt;/p&gt;
-&lt;p&gt;. No entanto, quem entrou na regra até maio de 2025 continua a receber metade do benefício por dois anos.&lt;/p&gt;
-&lt;p&gt;Desde 2024, os beneficiários do Bolsa Família não têm mais o desconto do Seguro Defeso. A mudança foi estabelecida pela&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/beneficiarios-com-nis-de-final-2-recebem-bolsa-familia-de-julho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-A Caixa Econômica Federal paga nesta terça-feira (21) a parcela de julho do Bolsa Família aos beneficiários com Núm...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-07-21 07:20:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-21 07:20:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-21 07:20:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-21 07:20:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/9D8vazF_dWNGnCvoFkL0035XQ-E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/img_7625_1.jpg?itok=v_yccTNK</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Brasil enfrenta Japão nas quartas de final da Liga das Nações Feminina</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-enfrenta-japao-nas-quartas-de-final-da-liga-das-nacoes-feminina</link>
-      <pubDate>Tue, 21 Jul 2026 12:24:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-enfrenta-japao-nas-quartas-de-final-da-liga-das-nacoes-feminina#1006</guid>
-      <description>A seleção brasileira feminina de vôlei inicia na quarta-feira (22) a caminhada em busca do título inédito da Liga das Nações (VNL).
-Terceira colocada...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vrbcZuAY0GyhemnDdpzDXk-xwNY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/ana_cristina_ponteira_brasil_vence_polonia_liga_das_nacoes_2026.jpg?itok=HiunhyW8&quot; alt=&quot;Brasil enfrenta Japão nas quartas de final da Liga das Nações Feminina&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A seleção brasileira feminina de vôlei inicia na quarta-feira (22) a caminhada em busca do título inédito da Liga das Nações (VNL).&lt;/p&gt;
-&lt;p&gt;Terceira colocada na fase preliminar, a equipe comandada por José Roberto Guimarães enfrenta o Japão às 8h30 (horário de Brasília), em Macau, na China, por uma vaga nas semifinais.&lt;/p&gt;
-&lt;p&gt;A última fase da Liga das Nações (VNL) Feminina de Vôlei conta com oito seleções na disputa. Afinal da competição está prevista para domingo (26), com a decisão do título.&lt;/p&gt;
-&lt;p&gt;Além do confronto das brasileiras, as quartas de final da Liga das Nações terão os seguintes jogos:&lt;/p&gt;
-&lt;p&gt;22 de julho, às 5h – Itália x Holanda;&lt;/p&gt;
-&lt;p&gt;22 de julho, às 8h30 – Brasil x Japão;&lt;/p&gt;
-&lt;p&gt;23 de julho, às 5h – Turquia x Canadá;&lt;/p&gt;
-&lt;p&gt;23 de julho, às 8h30 – Estados Unidos x China.&lt;/p&gt;
-&lt;p&gt;Atlético (MG), Bahia e Santos voltam a campo após pausa da Copa&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 20 de julho de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Ministério Público faz operação em SP contra PCC e tribunais do crimes&lt;/p&gt;
-&lt;p&gt;Em convenção nacional, PDT oficializa apoio a Lula nas eleições&lt;/p&gt;
-&lt;p&gt;União terá de iniciar construção de centro de memória africana no Rio&lt;/p&gt;
-&lt;p&gt;Número de mortos após terremotos na Venezuela sobe para 5.278&lt;/p&gt;
-&lt;p&gt;Justiça do Rio mantém condenação de homens que mataram músico&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/brasil-enfrenta-japao-nas-quartas-de-final-da-liga-das-nacoes-feminina&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A seleção brasileira feminina de vôlei inicia na quarta-feira (22) a caminhada em busca do título inédito da Liga das Nações (VNL).
-Terceira colocada...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-07-21 06:19:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-21 06:19:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-21 06:19:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-21 06:19:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/vrbcZuAY0GyhemnDdpzDXk-xwNY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/ana_cristina_ponteira_brasil_vence_polonia_liga_das_nacoes_2026.jpg?itok=HiunhyW8</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Liga das Nações: seleção feminina pega Japão na quarta em 1º mata-mata</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/liga-das-nacoes-selecao-feminina-pega-japao-na-quarta-em-1o-mata-mata</link>
-      <pubDate>Tue, 21 Jul 2026 12:24:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/liga-das-nacoes-selecao-feminina-pega-japao-na-quarta-em-1o-mata-mata#1007</guid>
-      <description>A seleção brasileira feminina de vôlei volta à quadra na próxima quarta-feira (22) contra o Japão no primeiro três jogos eliminatórios (mata-mata) at...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/f0ZzRAc5sJBPGFHbw1LRQFleGVw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/08/brasil_3_x_1_japao_volei_fem_liga_das_nacoes_2026.jpg?itok=XIjDew4c&quot; alt=&quot;Liga das Nações: seleção feminina pega Japão na quarta em 1º mata-mata&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A seleção brasileira feminina de vôlei volta à quadra na próxima quarta-feira (22) contra o Japão no primeiro três jogos eliminatórios (mata-mata) até a conquista do título da Liga das Nações. Será o segundo confronto das equipes na competição: na fase classificatória, a&lt;/p&gt;
-&lt;p&gt;Amarelinha levou a melhor sobre as asiáticas&lt;/p&gt;
-&lt;p&gt;por 3 sets a 1. O duelo de quartas de final será em Macau (China), a partir das 8h30 (horário de Brasília). A seleção busca o título inédito no torneio.&lt;/p&gt;
-&lt;p&gt;Comandada pelo técnico José Roberto Guimarães, a seleção chega embalada ao mata-mata, com o terceiro lugar na fase classificatória (nove triunfos e três derrotas). Já as japonesas encerram na sexta posição (venceram oito e perderam quatro jogos). Se avançar, o Brasil enfrentará na semifinal o vencedor da outra partida, entre Itália (vice-líder da primeira fase) e Países Baixos (7º), também programada para quarta (22), a partir das 5h.&lt;/p&gt;
-&lt;p&gt;Um post compartilhado por Vôlei Brasil (@cbvolei)&lt;/p&gt;
-&lt;p&gt;Para a reta final da competição, a equipe brasileira terá de lidar com a ausência da central Julia Kudiess, que rompeu o ligamento cruzado anterior (LCA) do joelho esquerdo na vitória sobre os Estados Unidos, na última partida da primeira fase. A atleta passou por cirurgia na última quinta (16) e segue em processo de recuperação. Para a vaga de Kudiess, o técnico José Roberto convocou Larissa Besen (Osasco).&lt;/p&gt;
-&lt;p&gt;A sonhada taça da Liga das Nações&lt;/p&gt;
-&lt;p&gt;Atual vice-líder no ranking mundial, a seleção está empenhada em finalizar o torneio no topo do pódio, deixando para trás quatro vice-campeonatos. Nos dois últimos (2025 e 2022), o Brasil foi superado pela Itália, atual campeã e líder do ranking. Já em 2019 e 2021, o algoz foi os Estados Unidos.&lt;/p&gt;
-&lt;p&gt;Atlético (MG), Bahia e Santos voltam a campo após pausa da Copa&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 20 de julho de 2026; assista na íntegra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/liga-das-nacoes-selecao-feminina-pega-japao-na-quarta-em-1o-mata-mata&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A seleção brasileira feminina de vôlei volta à quadra na próxima quarta-feira (22) contra o Japão no primeiro três jogos eliminatórios (mata-mata) at...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-07-20 21:52:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-20 21:52:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-20 21:52:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-20 21:52:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/f0ZzRAc5sJBPGFHbw1LRQFleGVw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/08/brasil_3_x_1_japao_volei_fem_liga_das_nacoes_2026.jpg?itok=XIjDew4c</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Brasil envia 690 mil doses de vacinas em ajuda à Venezuela</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/brasil-envia-690-mil-doses-de-vacinas-em-ajuda-venezuela</link>
-      <pubDate>Tue, 21 Jul 2026 12:24:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/brasil-envia-690-mil-doses-de-vacinas-em-ajuda-venezuela#1008</guid>
-      <description>© Divulgação/Ministério da Saúde
-O Brasil enviou, nesta segunda-feira (20), mais4,5 toneladas de vacinas para aVenezuela, que sofreu terremotos no mê...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/IG5Y6UVAX2NCgELlfxpO8BulvME=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/vacinas_para_venezuela.jpeg?itok=0a_WaJjQ&quot; alt=&quot;Brasil envia 690 mil doses de vacinas em ajuda à Venezuela&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Divulgação/Ministério da Saúde&lt;/p&gt;
-&lt;p&gt;O Brasil enviou, nesta segunda-feira (20), mais4,5 toneladas de vacinas para aVenezuela, que sofreu terremotos no mês passado.&lt;/p&gt;
-&lt;p&gt;De acordo com o Ministério da Saúde, no total,&lt;/p&gt;
-&lt;p&gt;sendo 48 mil daBCG, 102 mil datríplice viral (contra osarampo,caxumbaerubéola)e 540 mil dapentavalente.As vacinas estão sendo levadas pelaForça Aérea Brasileira (FAB).&lt;/p&gt;
-&lt;p&gt;O governo brasileiro já destinou aproximadamente 16,5 toneladas de medicamentos&lt;/p&gt;
-&lt;p&gt;e insumos estratégicos, comoantibióticos, analgésicos, anti-inflamatórios, soluções injetáveis, seringas, luvas, máscaras, gazes, ataduras, dispositivos para infusão e outros materiais hospitalares, como ajuda humanitária aos venezuelanos.&lt;/p&gt;
-&lt;p&gt;Os terremotos que atingiram a Venezuela no final de junho já deixaram 4.829 mortos e mais de 16 milferidos&lt;/p&gt;
-&lt;p&gt;. Quase 18 mil pessoas estão sem casa, e mais de 128 mil famílias receberam algum tipo de atendimento.&lt;/p&gt;
-&lt;p&gt;O drama vivido no país vizinho motivou a solidariedade mundo afora.&lt;/p&gt;
-&lt;p&gt;Além do Brasil, países como Estados Unidos, China, México eReino Unido enviaram equipes de resgate, equipamentos, remédios e alimentos.&lt;/p&gt;
-&lt;p&gt;Atlético (MG), Bahia e Santos voltam a campo após pausa da Copa&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 20 de julho de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Em convenção nacional, PDT oficializa apoio a Lula nas eleições&lt;/p&gt;
-&lt;p&gt;União terá de iniciar construção de centro de memória africana no Rio&lt;/p&gt;
-&lt;p&gt;Número de mortos após terremotos na Venezuela sobe para 5.278&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/brasil-envia-690-mil-doses-de-vacinas-em-ajuda-venezuela&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Divulgação/Ministério da Saúde
-O Brasil enviou, nesta segunda-feira (20), mais4,5 toneladas de vacinas para aVenezuela, que sofreu terremotos no mê...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-07-20 21:15:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-20 21:15:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-20 21:15:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-20 21:15:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/IG5Y6UVAX2NCgELlfxpO8BulvME=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/vacinas_para_venezuela.jpeg?itok=0a_WaJjQ</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Flip: Angela Davis e Wole Soyinka são destaques na programação do Sesc</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flip-angela-davis-e-wole-soyinka-sao-destaques-na-programacao-do-sesc</link>
-      <pubDate>Tue, 21 Jul 2026 12:24:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flip-angela-davis-e-wole-soyinka-sao-destaques-na-programacao-do-sesc#1009</guid>
-      <description>Autores consagrados da literatura brasileira como Itamar Vieira Junior e Eliana Alves Cruz, e nomes relevantes do pensamento contemporâneo mundial co...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MIu-8MvyjBsnsMnIKtEA-BL5ZSI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/03/0g0a7212.jpg?itok=wx4rc56q&quot; alt=&quot;Flip: Angela Davis e Wole Soyinka são destaques na programação do Sesc&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Autores consagrados da literatura brasileira como Itamar Vieira Junior e Eliana Alves Cruz, e nomes relevantes do pensamento contemporâneo mundial como a autora e ativista Angela Davis e o Nobel de Literatura Wole Soyinka são destaques da programação do Sesc, de 23 a 26 de julho, na 24ª edição da Festa Literária Internacional de Paraty (Flip).&lt;/p&gt;
-&lt;p&gt;Ícone do movimento negro e de mulheres, a filósofa norte-americana Angela Davis participará do debate&lt;/p&gt;
-&lt;p&gt;América e África: uma conversa Atlântica&lt;/p&gt;
-&lt;p&gt;, junto ao vencedor do Nobel de Literatura, o nigeriano Wole Soyinka, primeiro escritor do continente africano a receber o prêmio, em 1986.&lt;/p&gt;
-&lt;p&gt;O encontro será realizado no Sesc Caborê, em uma tenda montada para receber 700 pessoas, no sábado (25), às 18h. Haverá transmissão em telões instalados na área externa da Casa Sesc.&lt;/p&gt;
-&lt;p&gt;Com o objetivo de valorizar a diversidade de vozes, expressões artísticas e regionalidades, a programação inclui ainda convidados como Socorro Acioli, Elisa Lucinda, Luiza Romão, Jamil Chade, Fabiana Cozza e Marcelino Freire em atividades abertas ao público. Especialmente para o público infantil, haverá narrações de histórias e mediação de leitura.&lt;/p&gt;
-&lt;p&gt;Serão realizados cafés literários,&lt;/p&gt;
-&lt;p&gt;, exposição, performances poéticas, rodas de conversa e oficinas ao longo do festival. As atividades são gratuitas e ocorrem em três espaços no Centro Histórico de Paraty - Sesc Santa Rita, Casa Edições Sesc e Casa Sesc –, além do Sesc Caboré, recém inaugurado na cidade.&lt;/p&gt;
-&lt;p&gt;A programação traz ainda uma série de atividades em homenagem aos 70 anos da publicação de&lt;/p&gt;
-&lt;p&gt;, obra-prima de João Guimarães Rosa, que segue conquistando gerações de leitores.&lt;/p&gt;
-&lt;p&gt;“Ao reunir autores, artistas e leitores, o Sesc contribui para o desenvolvimento dos territórios e demonstra que investir em cultura também é investir no desenvolvimento social e econômico do país”, afirmou Diana Abreu, Diretora de Saúde, Cultura, Lazer e Assistência do Departamento Nacional do Sesc.&lt;/p&gt;
-&lt;p&gt;Além de fortalecer a cidadania, incentivar a leitura e a formação de novos públicos, Diana ressalta que a cultura também movimenta o turismo, impulsiona a economia local e gera trabalho e renda.&lt;/p&gt;
-&lt;p&gt;No Sesc Santa Rita, o público poderá participar de atividades com a presença de autores como Eliana Alves Cruz, Marcelino Freire, Milena Martins Moura e Daniel Munduruku, primeiro escritor indígena a compor o acervo da Casa de Rui Barbosa que participa do encontro Cosmologias da Palavra ao lado de Jama Wapichana.&lt;/p&gt;
-&lt;p&gt;No local, a escritora Tati Bernardi comandará um&lt;/p&gt;
-&lt;p&gt;literário ao longo da Flip com os convidados Bruna Lombardi, Itamar Vieira Junior e Elisa Lucinda. Haverá também apresentação do espetáculo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/flip-angela-davis-e-wole-soyinka-sao-destaques-na-programacao-do-sesc&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Autores consagrados da literatura brasileira como Itamar Vieira Junior e Eliana Alves Cruz, e nomes relevantes do pensamento contemporâneo mundial co...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-07-20 20:56:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-20 20:56:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-20 20:56:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-20 20:56:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/MIu-8MvyjBsnsMnIKtEA-BL5ZSI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/03/0g0a7212.jpg?itok=wx4rc56q</wp:meta_value>
+        <wp:meta_value>https://imagens.ebc.com.br/4KjXZUv0egz1oldhgUNTAMtskLc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/21/rbr3187_1400x1050-1_copy.jpg?itok=oh7bkcAR</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
