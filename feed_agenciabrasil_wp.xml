@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 27 Jul 2026 16:09:31 +0000</pubDate>
+    <pubDate>Mon, 27 Jul 2026 18:19:09 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,158 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>MDB decide não entrar na corrida presidencial</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/mdb-decide-nao-entrar-na-corrida-presidencial</link>
+      <pubDate>Mon, 27 Jul 2026 18:19:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/mdb-decide-nao-entrar-na-corrida-presidencial#1000</guid>
+      <description>O Movimento Democrático Brasileiro (MDB) decidiu não lançar candidato à Presidência da República ou mesmo firmar coligações nacionais para as eleiçõe...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iV32NkXpy3TZbrtl2lPmAYhhI0E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/bandeira-mdb-e1542663046830.jpg?itok=gRqj8o_6&quot; alt=&quot;MDB decide não entrar na corrida presidencial&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Movimento Democrático Brasileiro (MDB) decidiu não lançar candidato à Presidência da República ou mesmo firmar coligações nacionais para as eleições deste ano.&lt;/p&gt;
+&lt;p&gt;A decisão foi formalizada em convenção nacional nesta segunda-feira (27).&lt;/p&gt;
+&lt;p&gt;O partido decidiu liberar seus diretórios estaduais para a formação de alianças no âmbito local.&lt;/p&gt;
+&lt;p&gt;A ideia, segundo o partido, é focar na eleição de governadores e deputados estaduais, além de fortalecer a bancada no Congresso Nacional, com senadores e deputados federais.&lt;/p&gt;
+&lt;p&gt;“A liberação nacional acaba unindo e pacificando, deixando o partido mais forte para que nos estados tenha um resultado bastante positivo”, disse o presidente nacional do MDB, Baleia Rossi, em declaração divulgada no&lt;/p&gt;
+&lt;p&gt;A convenção do MDB foi realizada de maneira virtual. Não houve encontro dos principais nomes do partido em um auditório. O mesmo modelo já havia sido adotado em 2022.&lt;/p&gt;
+&lt;p&gt;vai acompanhar os resultados das convenções nacionais partidárias. As próximas convenções com datas marcadas são:&lt;/p&gt;
+&lt;p&gt;Partido Comunista do Brasil (PCdoB) – 30 de julho&lt;/p&gt;
+&lt;p&gt;Partido Socialista dos Trabalhadores Unificado (PSTU) – 31 de julho&lt;/p&gt;
+&lt;p&gt;Partido Verde (PV) – 31 de julho&lt;/p&gt;
+&lt;p&gt;Partido da Causa Operária (PCO) – 1º de agosto&lt;/p&gt;
+&lt;p&gt;Partido dos Trabalhadores (PT) – 2 de agosto&lt;/p&gt;
+&lt;p&gt;Partido Socialista Brasileiro (PSB) – 2 de agosto&lt;/p&gt;
+&lt;p&gt;Clique aqui e veja as convenções nacionais que já ocorreram&lt;/p&gt;
+&lt;p&gt;Financiamentos do Move Brasil já podem ser fechados a partir de hoje&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/mdb-decide-nao-entrar-na-corrida-presidencial&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Movimento Democrático Brasileiro (MDB) decidiu não lançar candidato à Presidência da República ou mesmo firmar coligações nacionais para as eleiçõe...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-07-27 14:33:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-27 14:33:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-27 14:33:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-27 14:33:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/iV32NkXpy3TZbrtl2lPmAYhhI0E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/bandeira-mdb-e1542663046830.jpg?itok=gRqj8o_6</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>TSE terá outra reunião com embaixadores para explicar urna eletrônica</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/tse-tera-outra-reuniao-com-embaixadores-para-explicar-urna-eletronica</link>
+      <pubDate>Mon, 27 Jul 2026 18:19:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/tse-tera-outra-reuniao-com-embaixadores-para-explicar-urna-eletronica#1001</guid>
+      <description>O Tribunal Superior Eleitoral (TSE)
+marcou para o dia 17 de agosto uma segunda reunião com embaixadores
+, representantes diplomáticos e organismos in...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/B2AyE9Bxw7sC10YxGMmjPYBkE7g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/14/55194149201_5f9db1cf11_o.jpg?itok=vVH3PB_Q&quot; alt=&quot;TSE terá outra reunião com embaixadores para explicar urna eletrônica&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Tribunal Superior Eleitoral (TSE)&lt;/p&gt;
+&lt;p&gt;marcou para o dia 17 de agosto uma segunda reunião com embaixadores&lt;/p&gt;
+&lt;p&gt;, representantes diplomáticos e organismos internacionais, a fim de explicar o funcionamento da urna eletrônica brasileira, bem como do sistema eleitoral do país.&lt;/p&gt;
+&lt;p&gt;Segundo o tribunal, o encontro ocorrerá na sede do TSE e dará continuidade às ações de transparência voltadas à comunidade internacional.&lt;/p&gt;
+&lt;p&gt;Nela, o presidente da Corte, ministro Kássio Nunes Marques,&lt;/p&gt;
+&lt;p&gt;voltará a explicar o funcionamento das urnas eletrônicas&lt;/p&gt;
+&lt;p&gt;A manifestação veio após o senador Flávio Bolsonaro, candidato do PL à Presidência da República, ter adotado a mesma estratégia de seu pai, o ex-presidente Jair Bolsonaro, de divulgar, a embaixadores de outros países, informações falsas sobre a urna eletrônica, levantando questionamentos sobre a confiabilidade do sistema eleitoral brasileiro.&lt;/p&gt;
+&lt;p&gt;Flávio Bolsonaro disse, sem apresentar provas, que muitas das máquinas utilizadas nas eleições brasileiras seriam da Smartmatic, uma empresa associada ao sistema eleitoral venezuelano.&lt;/p&gt;
+&lt;p&gt;Em meio às declarações do pré-candidato, o&lt;/p&gt;
+&lt;p&gt;publicamente para reafirmar que a Smartmatic não forneceu urnas nem desenvolveu softwares para as eleições brasileiras.&lt;/p&gt;
+&lt;p&gt;O TSE reiterou que as urnas foram projetadas por servidores da Justiça Eleitoral e produzidas por empresas contratadas por licitação pública, destacando que a associação entre a Smartmatic e o sistema brasileiro de votação já havia sido desmentida diversas vezes nos últimos anos.&lt;/p&gt;
+&lt;p&gt;episódio foi visto por críticos e especialistas como uma retomada da estratégia adotada pelo ex-presidente Jair Bolsonaro&lt;/p&gt;
+&lt;p&gt;, que questionou reiteradamente a segurança das urnas eletrônicas e, em 2022, reuniu embaixadores para apresentar acusações posteriormente classificadas pela Justiça Eleitoral como infundadas.&lt;/p&gt;
+&lt;p&gt;Em nota, o TSE informou que as eleições brasileiras serão acompanhadas por diversos observadores internacionais. Entre eles, União Europeia, Organização dos Estados Americanos (OEA), Parlasul, Carter Center, Uniore e Rojae-CPLP.&lt;/p&gt;
+&lt;p&gt;Todos integrarão a Missão de Observadores Eleitorais para acompanhar o pleito de outubro.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/tse-tera-outra-reuniao-com-embaixadores-para-explicar-urna-eletronica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Tribunal Superior Eleitoral (TSE)
+marcou para o dia 17 de agosto uma segunda reunião com embaixadores
+, representantes diplomáticos e organismos in...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-07-27 12:54:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-27 12:54:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-27 12:54:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-27 12:54:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/B2AyE9Bxw7sC10YxGMmjPYBkE7g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/14/55194149201_5f9db1cf11_o.jpg?itok=vVH3PB_Q</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Risco de disseminação do ebola pelo mundo é baixo, diz Tedros Adhanom</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/risco-de-disseminacao-do-ebola-pelo-mundo-e-baixo-diz-tedros-adhanom</link>
+      <pubDate>Mon, 27 Jul 2026 18:19:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/risco-de-disseminacao-do-ebola-pelo-mundo-e-baixo-diz-tedros-adhanom#1002</guid>
+      <description>O diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, afirmou nesta segunda-feira (27)que
+é baixo o risco de disseminaçã...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cAqY4MiC9cdBz7ghvAIj0fiz0Tw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/toms3271.jpg?itok=S2tWRFNf&quot; alt=&quot;Risco de disseminação do ebola pelo mundo é baixo, diz Tedros Adhanom&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, afirmou nesta segunda-feira (27)que&lt;/p&gt;
+&lt;p&gt;é baixo o risco de disseminação do vírus ebolada Repúlica Democrática do Congo (RDC) para o resto do mundo&lt;/p&gt;
+&lt;p&gt;Um surto da doença assola o país africano há alguns meses&lt;/p&gt;
+&lt;p&gt;Mais de 3 mil casos da doença foram confirmados desde maio deste ano, quando o atual surto de ebola foi declarado. Cerca de 1,4 mil pessoas morreram. A maioria das vítimas foi observada na RDC, mas a doença também se espalhou para a vizinha Uganda.&lt;/p&gt;
+&lt;p&gt;“O risco para o resto do mundo ainda é baixo. Como o ebola é transmitido por contato intenso e não pelo ar, como a covid, não esperamos que se transforme em uma pandemia, pela própria natureza [do vírus]”, disse Ghebreyesus, em visita ao Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Ele lembra que, desde que o ebola foi descoberto, há 50 anos, houve apenas 30 casos fora das regiões de surto da doença, na África. O diretor da OMS ressalta, no entanto, que&lt;/p&gt;
+&lt;p&gt;o risco para os países da regiãoé alto, destacando o fato de a doença ter chegado a Uganda&lt;/p&gt;
+&lt;p&gt;“Estamos tentando conter [o surto] na RDC, mas a situação ainda é preocupante. O governo [congolês] está tentando o seu melhor. Os parceiros estão ajudando, mas precisamos fazer ainda mais”, afirmou. “Uganda está lidando com isso [a doença] e está com ela sob controle”.&lt;/p&gt;
+&lt;p&gt;Segundo ele, a resposta à doença está sendo dificultada pelo fato de a região focal do surto, no leste congolês, estar sofrendo com conflitos armados.&lt;/p&gt;
+&lt;p&gt;“Então, a resposta ao ebola é muito difícil. Além disso, por causa do conflito armado, há o deslocamento e milhões de pessoas estão em acampamentos”.&lt;/p&gt;
+&lt;p&gt;Tedros Adhanom Ghebreyesus foi homenageado nesta segunda-feira,na Fundação Oswaldo Cruz (Fiocruz), com um título de doutor honoris causa da instituição&lt;/p&gt;
+&lt;p&gt;“A Fiocruz é um líder em equidade sanitária e um líder na cooperação Sul-Sul. E também um farol de esperança não apenas para a América Latina, em termos de pesquisa e excelência científicas, como para o resto do mundo”, disse.&lt;/p&gt;
+&lt;p&gt;Tedros foi eleito diretor-geral da OMS em maio de 2017 e se tornou o primeiro africano a comandar a principal autoridade sanitária do planeta. Durante sua gestão, a OMS coordenou esforços internacionais de enfrentamento à pandemia de covid-19.&lt;/p&gt;
+&lt;p&gt;Nascido na Eritreia, ele é bacharel em biologia pela Universidade de Asmara, em seu país natal, mestre em imunologia e doenças infecciosas pela Universidade de Londres e PHD em saúde comunitária pela Universidade de Nottingham, também no Reino Unido.&lt;/p&gt;
+&lt;p&gt;De volta ao continente africano, ele foi ministro da saúde da Etiópia, entre 2005 e 2012, quando colaborou com a fundação de um sistema de saúde com cobertura universal. Entre 2012 e 2016, ocupou o Ministério de Relações Exteriores etíope.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/risco-de-disseminacao-do-ebola-pelo-mundo-e-baixo-diz-tedros-adhanom&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O diretor-geral da Organização Mundial da Saúde (OMS), Tedros Adhanom Ghebreyesus, afirmou nesta segunda-feira (27)que
+é baixo o risco de disseminaçã...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-07-27 12:42:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-27 12:42:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-27 12:42:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-27 12:42:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/cAqY4MiC9cdBz7ghvAIj0fiz0Tw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/toms3271.jpg?itok=S2tWRFNf</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Embaixador da Argentina no Brasil é convocado por Mauro Vieira</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/embaixador-da-argentina-no-brasil-e-convocado-por-mauro-vieira</link>
-      <pubDate>Mon, 27 Jul 2026 16:09:31 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 18:19:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/embaixador-da-argentina-no-brasil-e-convocado-por-mauro-vieira#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/embaixador-da-argentina-no-brasil-e-convocado-por-mauro-vieira#1003</guid>
       <description>O ministro das Relações Exteriores, Mauro Vieira, convocou, neste domingo (26), o embaixador da Argentina no país, Daniel Raimondi, e
 transmitiu ao d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CrchTMwlbXKn0r-TUQCR7Etvit8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/54139237252_171c64b206_o-architectural-scale-4_00x.jpg?itok=HYu0ypBu&quot; alt=&quot;Embaixador da Argentina no Brasil é convocado por Mauro Vieira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -42,12 +189,12 @@ transmitiu ao d...</description>
 &lt;p&gt;O presidente do Supremo Tribunal Federal (STF), Edson Fachin, divulgou neste sábado (25) nota oficial em que&lt;/p&gt;
 &lt;p&gt;classifica como “referência desrespeitosa” a declaração do presidente da Argentina, Javier Milei, sobre o ministro do STF Alexandre de Moraes&lt;/p&gt;
 &lt;p&gt;“Ao reafirmar a plena autonomia do Judiciário brasileiro, a Presidência do STF deplora manifestações incompatíveis com a civilidade que deve caracterizar as relações entre os Estados”, afirma Fachin, em nota.&lt;/p&gt;
-&lt;p&gt;Inmet emite novo alerta de tempestades para o Rio Grande do Sul&lt;/p&gt;
-&lt;p&gt;Rioprevidência: Justiça garante resgate de R$ 481,5 milhões de fundo&lt;/p&gt;
-&lt;p&gt;Risco de disseminação do Ebola pelo mundo é baixo, diz Tedros Adhanom&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/embaixador-da-argentina-no-brasil-e-convocado-por-mauro-vieira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Financiamentos do Move Brasil já podem ser fechados a partir de hoje&lt;/p&gt;
+&lt;p&gt;Repórter Brasil Tarde de 27 de julho de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;ADPF das favelas altera modelo de combate ao crime no Rio de Janeiro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/embaixador-da-argentina-no-brasil-e-convocado-por-mauro-vieira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro das Relações Exteriores, Mauro Vieira, convocou, neste domingo (26), o embaixador da Argentina no país, Daniel Raimondi, e
 transmitiu ao d...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-07-27 12:23:00</wp:post_date>
       <wp:post_date_gmt>2026-07-27 12:23:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-27 12:23:00</wp:post_modified>
@@ -73,9 +220,9 @@ transmitiu ao d...</excerpt:encoded>
     <item>
       <title>Chuvas no Rio Grande do Sul atingem mais de 59 mil pessoas</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/chuvas-no-rio-grande-do-sul-atingem-mais-de-59-mil-pessoas</link>
-      <pubDate>Mon, 27 Jul 2026 16:09:31 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 18:19:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/chuvas-no-rio-grande-do-sul-atingem-mais-de-59-mil-pessoas#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/chuvas-no-rio-grande-do-sul-atingem-mais-de-59-mil-pessoas#1004</guid>
       <description>O estado do Rio Grande do Sul foi fortemente atingido pelas chuvas no final de semana e segue contabilizando os danos.
 Até o momento, 59.967 pessoas ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wG_pqUa_3yX-gDApnHo7fZKMhNo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/30/whatsapp_image_2025-05-30_at_07.36.22_1.jpeg?itok=KBMvCge3&quot; alt=&quot;Chuvas no Rio Grande do Sul atingem mais de 59 mil pessoas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -93,10 +240,10 @@ Até o momento, 59.967 pessoas ...</description>
 &lt;p&gt;Além disso, o Instituto Nacional de Meteorologia (Inmet) emitiu alerta amarelo para tempestades em todo o estado.&lt;/p&gt;
 &lt;p&gt;As chuvas podem alcançar 20 a 30 milímetros por hora ou até 50 mm/dia, ventos intensos, entre 40 e 60 km/h, e queda de granizo.&lt;/p&gt;
 &lt;p&gt;Os moradores devem evitar áreas inundáveis, buscar abrigo ou permanecer em locais de segurança e garantir a segurança de animais domésticos. A Defesa Civil também aconselha não retornar para áreas evacuadas, manter-se informado sobre a evolução do evento e compartilhar informações com moradores próximos.&lt;/p&gt;
-&lt;p&gt;Inmet emite novo alerta de tempestades para o Rio Grande do Sul&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/chuvas-no-rio-grande-do-sul-atingem-mais-de-59-mil-pessoas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Financiamentos do Move Brasil já podem ser fechados a partir de hoje&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/chuvas-no-rio-grande-do-sul-atingem-mais-de-59-mil-pessoas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O estado do Rio Grande do Sul foi fortemente atingido pelas chuvas no final de semana e segue contabilizando os danos.
 Até o momento, 59.967 pessoas ...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-07-27 11:53:00</wp:post_date>
       <wp:post_date_gmt>2026-07-27 11:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-27 11:53:00</wp:post_modified>
@@ -122,9 +269,9 @@ Até o momento, 59.967 pessoas ...</excerpt:encoded>
     <item>
       <title>Coleta de dados do Censo Escolar se encerra na sexta-feira</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/coleta-de-dados-do-censo-escolar-se-encerra-na-sexta-feira</link>
-      <pubDate>Mon, 27 Jul 2026 16:09:31 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 18:19:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/coleta-de-dados-do-censo-escolar-se-encerra-na-sexta-feira#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/coleta-de-dados-do-censo-escolar-se-encerra-na-sexta-feira#1005</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 O período de coleta de dados da primeira etapa do Censo Escolar da Educação Básica 2026 termina nesta sexta-feira (...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/p0ShD0gDul6VFGvEsAYh86SA5lY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7264.jpg_0.jpg?itok=hoR4F59_&quot; alt=&quot;Coleta de dados do Censo Escolar se encerra na sexta-feira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -145,7 +292,7 @@ O período de coleta de dados da primeira etapa do Censo Escolar da Educação B
 &lt;p&gt;Nessa mesma data, tem início a segunda etapa do Censo Escolar da Educação Básica 2026, que trata da Situação do Aluno.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/coleta-de-dados-do-censo-escolar-se-encerra-na-sexta-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 O período de coleta de dados da primeira etapa do Censo Escolar da Educação Básica 2026 termina nesta sexta-feira (...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-07-27 11:44:00</wp:post_date>
       <wp:post_date_gmt>2026-07-27 11:44:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-27 11:44:00</wp:post_modified>
@@ -171,9 +318,9 @@ O período de coleta de dados da primeira etapa do Censo Escolar da Educação B
     <item>
       <title>Começa hoje financiamento de moto e bicicleta pelo Move Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/comeca-hoje-financiamento-de-moto-e-bicicleta-pelo-move-brasil</link>
-      <pubDate>Mon, 27 Jul 2026 16:09:31 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 18:19:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/comeca-hoje-financiamento-de-moto-e-bicicleta-pelo-move-brasil#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/comeca-hoje-financiamento-de-moto-e-bicicleta-pelo-move-brasil#1006</guid>
       <description>As agências bancárias e instituições financeiras credenciadas começam a ofertar nesta segunda-feira (27), as linhas de financiamento de moto, motonet...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/k38oq_fs1AOHYd63cvfyKcSiSt0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/23/0g0a2583.jpg?itok=fj3MKHbq&quot; alt=&quot;Começa hoje financiamento de moto e bicicleta pelo Move Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;As agências bancárias e instituições financeiras credenciadas começam a ofertar nesta segunda-feira (27), as linhas de financiamento de moto, motoneta, ciclomotor ou bicicleta elétrica produzidos no país, com condições facilitadas pelo programa Move Brasil.&lt;/p&gt;
@@ -184,15 +331,15 @@ O período de coleta de dados da primeira etapa do Censo Escolar da Educação B
 &lt;p&gt;De acordo com as regras do programa, o recurso é liberado diretamente ao fornecedor do bem.&lt;/p&gt;
 &lt;p&gt;A aprovação do financiamento é sujeita à análise de credito do banco ou instituição financeira, que define os documentos necessários para o pedido de financiamento.&lt;/p&gt;
 &lt;p&gt;Após a contratação, o trabalhador só começará a pagar as parcelas em 60 dias e o prazo para pagar o valor adquirido é até 4 anos, com juros de 0,99% ao mês para homens e 0,91% ao mês para mulheres.&lt;/p&gt;
-&lt;p&gt;Inmet emite novo alerta de tempestades para o Rio Grande do Sul&lt;/p&gt;
-&lt;p&gt;Rioprevidência: Justiça garante resgate de R$ 481,5 milhões de fundo&lt;/p&gt;
-&lt;p&gt;Risco de disseminação do Ebola pelo mundo é baixo, diz Tedros Adhanom&lt;/p&gt;
-&lt;p&gt;Embaixador da Argentina no Brasil é convocado por Mauro Vieira&lt;/p&gt;
-&lt;p&gt;Chuvas no Rio Grande do Sul atingem mais de 59 mil pessoas&lt;/p&gt;
-&lt;p&gt;Coleta de dados do Censo Escolar se encerra na sexta-feira&lt;/p&gt;
-&lt;p&gt;Começa hoje financiamento de moto e bicicleta pelo Move Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/comeca-hoje-financiamento-de-moto-e-bicicleta-pelo-move-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Financiamentos do Move Brasil já podem ser fechados a partir de hoje&lt;/p&gt;
+&lt;p&gt;Repórter Brasil Tarde de 27 de julho de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;ADPF das favelas altera modelo de combate ao crime no Rio de Janeiro&lt;/p&gt;
+&lt;p&gt;MDB decide não entrar na corrida presidencial&lt;/p&gt;
+&lt;p&gt;TSE terá outra reunião com embaixadores para explicar urna eletrônica&lt;/p&gt;
+&lt;p&gt;Risco de disseminação do ebola pelo mundo é baixo, diz Tedros Adhanom&lt;/p&gt;
+&lt;p&gt;Embaixador da Argentina no Brasil é convocado por Mauro Vieira&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/comeca-hoje-financiamento-de-moto-e-bicicleta-pelo-move-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>As agências bancárias e instituições financeiras credenciadas começam a ofertar nesta segunda-feira (27), as linhas de financiamento de moto, motonet...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-07-27 11:30:00</wp:post_date>
       <wp:post_date_gmt>2026-07-27 11:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-27 11:30:00</wp:post_modified>
@@ -218,9 +365,9 @@ O período de coleta de dados da primeira etapa do Censo Escolar da Educação B
     <item>
       <title>Durigan: dívida do Brasil é menor do que a de grandes economias</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/durigan-divida-do-brasil-e-menor-do-que-de-grandes-economias</link>
-      <pubDate>Mon, 27 Jul 2026 16:09:31 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 18:19:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/durigan-divida-do-brasil-e-menor-do-que-de-grandes-economias#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/durigan-divida-do-brasil-e-menor-do-que-de-grandes-economias#1007</guid>
       <description>O ministro da Fazenda, Dario Durigan, afirmou nesta segunda-feira (27) que a dívida pública brasileira continua elevada, mas está sob controle e em p...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QmxVbIbeqJRGm4X6CM1M1ntAtzI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/17/0d9a5358.jpg?itok=6Bq2q6-h&quot; alt=&quot;Durigan: dívida do Brasil é menor do que a de grandes economias&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O ministro da Fazenda, Dario Durigan, afirmou nesta segunda-feira (27) que a dívida pública brasileira continua elevada, mas está sob controle e em patamar inferior ao de diversas economias desenvolvidas.&lt;/p&gt;
@@ -231,7 +378,7 @@ O período de coleta de dados da primeira etapa do Censo Escolar da Educação B
 &lt;p&gt;“Quando você olha para os Estados Unidos, para os países da Europa, para a China, para o Japão, o endividamento é muito maior que o nosso”, afirmou. “Temos um endividamento alto [no Brasil] , mas ele está sob controle.”&lt;/p&gt;
 &lt;p&gt;O ministro explicou que mesmo as projeções “muito conservadoras” do Tesouro Nacional apontam que a dívida brasileira continuará crescendo até 2030, mas que a partir daí ela começará a reduzir em termos proporcionais ao PIB.&lt;/p&gt;
 &lt;p&gt;Para Durigan, o principal desafio é impedir que a dívida continue crescendo. Ele argumentou que, atualmente, o principal fator de pressão sobre o endividamento brasileiro são os juros pagos pelo governo para financiar a própria dívida – e pela população, que também acaba tendo de pagar taxas mais altas.&lt;/p&gt;
-&lt;p&gt;“O grande desafio é mostrar que, já que a gente não tem déficit primário.Oque explica hoje o endividamento são os juros no país. A quantidade que pagamosde juros para rolar a dívida do país faz com que a gente aumente a nossa dívida pública”, afirmou.&lt;/p&gt;
+&lt;p&gt;“O grande desafio é mostrar que, já que a gente não tem déficit primário, oque explica hoje o endividamento são os juros. A quantidade que pagamosde juros para rolar a dívida do país faz com que a gente aumente a nossa dívida pública”, afirmou.&lt;/p&gt;
 &lt;p&gt;O ministro defendeu que a redução desse custo depende da construção de confiança na condução da economia. Segundo ele, investidores precisam enxergar que o país tem condições de manter uma trajetória sustentável para as contas públicas ao longo do tempo.&lt;/p&gt;
 &lt;p&gt;“Mostrar que eu tenho uma trajetória sustentável no tempo dá tranquilidade para o investidor”, disse. “Dá tranquilidade para investidores e para os atores da economia do Brasil e do mundo, para que a gente diminua esse endividamento com o tempo.”&lt;/p&gt;
 &lt;p&gt;Durigan acrescentou que a credibilidade fiscal se torna ainda mais importante em um contexto internacional marcado por guerras, tensões geopolíticas e incertezas econômicas.&lt;/p&gt;
@@ -239,7 +386,7 @@ O período de coleta de dados da primeira etapa do Censo Escolar da Educação B
 &lt;p&gt;Segundo o ministro, preparar o país para um cenário global mais instável exige consolidação fiscal e capacidade de investimento em áreas estratégicas. “Preparar o país para o mundo de incerteza, para o mundo de conflito, é o que é mais importante. E essa preparação envolve consolidação fiscal”, disse.&lt;/p&gt;
 &lt;p&gt;Na avaliação de Durigan, o equilíbrio das contas públicas não deve ser visto apenas como resposta às expectativas do mercado financeiro, mas como instrumento para garantir crescimento sustentável, ampliar investimentos e melhorar as condições de vida da população.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/durigan-divida-do-brasil-e-menor-do-que-de-grandes-economias&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro da Fazenda, Dario Durigan, afirmou nesta segunda-feira (27) que a dívida pública brasileira continua elevada, mas está sob controle e em p...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-07-27 11:02:00</wp:post_date>
       <wp:post_date_gmt>2026-07-27 11:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-27 11:02:00</wp:post_modified>
@@ -265,9 +412,9 @@ O período de coleta de dados da primeira etapa do Censo Escolar da Educação B
     <item>
       <title>Tempestades e risco de inundações voltam ao Rio Grande do Sul</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/tempestades-e-risco-de-inundacoes-voltam-ao-rio-grande-do-sul</link>
-      <pubDate>Mon, 27 Jul 2026 16:09:31 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 18:19:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/tempestades-e-risco-de-inundacoes-voltam-ao-rio-grande-do-sul#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/tempestades-e-risco-de-inundacoes-voltam-ao-rio-grande-do-sul#1008</guid>
       <description>© @andreconceicaoz_ / @colli.agenciacriativa
 A Defesa Civil do Rio Grande do Sul prevê um cenário de elevado risco meteorológico e hidrológico até qu...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/nrJu0xeS4rkvjBSy_dYX-aIur7M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/01/whatsapp_image_2024-06-01_at_15.28.06.jpeg?itok=G87iRNjL&quot; alt=&quot;Tempestades e risco de inundações voltam ao Rio Grande do Sul&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -282,13 +429,13 @@ A Defesa Civil do Rio Grande do Sul prevê um cenário de elevado risco meteorol
 &lt;p&gt;Além das condições meteorológicas adversas, a Defesa Civil reforça o risco hidrológico para diversas bacias hidrográficas. A previsão de volumes elevados de chuva, somada aos níveis já elevados de alguns rios, aumenta a possibilidade de cheias, extravasamento de arroios e pequenos cursos d'água, alagamentos urbanos e inundações.&lt;/p&gt;
 &lt;p&gt;Os maiores riscos concentram-se nos rios Uruguai, Quaraí, Ibirapuitã, Santa Maria, Ibicuí, Jacuí e Sinos. Atualmente, os rios Uruguai, Jacuí e Sinos já apresentam pontos de monitoramento acima da cota de inundação, condição que pode persistir nos próximos dias.&lt;/p&gt;
 &lt;p&gt;A Defesa Civil também destaca a possibilidade de inundação em municípios localizados ao longo dos rios Ibirapuitã, em Alegrete; Santa Maria, em Dom Pedrito e Rosário do Sul; Ibicuí, em Manoel Viana; e Quaraí, no município de Quaraí.&lt;/p&gt;
-&lt;p&gt;Inmet emite novo alerta de tempestades para o Rio Grande do Sul&lt;/p&gt;
-&lt;p&gt;Rioprevidência: Justiça garante resgate de R$ 481,5 milhões de fundo&lt;/p&gt;
-&lt;p&gt;TSE terá outra reunião com embaixadores para explicar urna eletrônica&lt;/p&gt;
-&lt;p&gt;Risco de disseminação do ebola pelo mundo é baixo, diz Tedros Adhanom&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/tempestades-e-risco-de-inundacoes-voltam-ao-rio-grande-do-sul&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Financiamentos do Move Brasil já podem ser fechados a partir de hoje&lt;/p&gt;
+&lt;p&gt;Repórter Brasil Tarde de 27 de julho de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;ADPF das favelas altera modelo de combate ao crime no Rio de Janeiro&lt;/p&gt;
+&lt;p&gt;MDB decide não entrar na corrida presidencial&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/tempestades-e-risco-de-inundacoes-voltam-ao-rio-grande-do-sul&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© @andreconceicaoz_ / @colli.agenciacriativa
 A Defesa Civil do Rio Grande do Sul prevê um cenário de elevado risco meteorológico e hidrológico até qu...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-07-27 10:39:00</wp:post_date>
       <wp:post_date_gmt>2026-07-27 10:39:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-27 10:39:00</wp:post_modified>
@@ -314,9 +461,9 @@ A Defesa Civil do Rio Grande do Sul prevê um cenário de elevado risco meteorol
     <item>
       <title>Acordo Mercosul-China é tratado em conversa entre Lula e Xi Jinping</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/acordo-mercosul-china-e-tratado-em-conversa-entre-lula-e-xi-jinping</link>
-      <pubDate>Mon, 27 Jul 2026 16:09:31 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 18:19:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/acordo-mercosul-china-e-tratado-em-conversa-entre-lula-e-xi-jinping#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/acordo-mercosul-china-e-tratado-em-conversa-entre-lula-e-xi-jinping#1009</guid>
       <description>© REUTERS/Tingshu Wang/ Proibido reprodução
 Os presidentes do Brasil, Luiz Inácio Lula da Silva, e da China, Xi Jinping, conversaram na noite dedomin...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/i-g47N_RK1dDoVwxDiNAcqUv_p8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-27t090838z_1_lynxmpem6q0ke_rtroptp_4_china-brazil.jpg?itok=W9LXBlD3&quot; alt=&quot;Acordo Mercosul-China é tratado em conversa entre Lula e Xi Jinping&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -333,11 +480,11 @@ Os presidentes do Brasil, Luiz Inácio Lula da Silva, e da China, Xi Jinping, co
 &lt;p&gt;têm efeitos nefastos sobre a economia mundial.&lt;/p&gt;
 &lt;p&gt;Os líderes destacaram a relevância do Grupo de Amigos da Paz - iniciativa diplomática liderada pelos dois países na ONU, com o objetivo de buscar uma solução pacífica aos conflitos, por meio do diálogo entre países do Sul Global - para o fim da Guerra na Ucrânia.&lt;/p&gt;
 &lt;p&gt;Apesar de criticarem a incapacidade do Conselho de Segurança das Nações Unidas de responder adequadamente aos conflitos, os presidentes reiteraram o compromisso com a defesa do multilateralismo e a intenção de atuarem de forma coordenada nos fóruns internacionais.&lt;/p&gt;
-&lt;p&gt;Inmet emite novo alerta de tempestades para o Rio Grande do Sul&lt;/p&gt;
-&lt;p&gt;Rioprevidência: Justiça garante resgate de R$ 481,5 milhões de fundo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/acordo-mercosul-china-e-tratado-em-conversa-entre-lula-e-xi-jinping&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Financiamentos do Move Brasil já podem ser fechados a partir de hoje&lt;/p&gt;
+&lt;p&gt;Repórter Brasil Tarde de 27 de julho de 2026; assista na íntegra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/acordo-mercosul-china-e-tratado-em-conversa-entre-lula-e-xi-jinping&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Tingshu Wang/ Proibido reprodução
 Os presidentes do Brasil, Luiz Inácio Lula da Silva, e da China, Xi Jinping, conversaram na noite dedomin...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-07-27 10:16:00</wp:post_date>
       <wp:post_date_gmt>2026-07-27 10:16:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-27 10:16:00</wp:post_modified>
@@ -358,155 +505,6 @@ Os presidentes do Brasil, Luiz Inácio Lula da Silva, e da China, Xi Jinping, co
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/i-g47N_RK1dDoVwxDiNAcqUv_p8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-27t090838z_1_lynxmpem6q0ke_rtroptp_4_china-brazil.jpg?itok=W9LXBlD3</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mercado reduz para 5,12% expectativa de inflação em 2026</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/mercado-reduz-para-512-expectativa-de-inflacao-em-2026</link>
-      <pubDate>Mon, 27 Jul 2026 16:09:31 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/mercado-reduz-para-512-expectativa-de-inflacao-em-2026#1007</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-Pela quarta semana consecutiva, o mercado financeiro reduz as expectativas de inflação para 2026 no Brasil. De acor...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/IGMvG2APbIN67PbUzRHVljUWkl8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/img_7609_1.jpg?itok=XaswPuJg&quot; alt=&quot;Mercado reduz para 5,12% expectativa de inflação em 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Pela quarta semana consecutiva, o mercado financeiro reduz as expectativas de inflação para 2026 no Brasil. De acordo com o&lt;/p&gt;
-&lt;p&gt;, divulgado nesta segunda-feira (27) pelo&lt;/p&gt;
-&lt;p&gt;Índice Nacional de Preços ao Consumidor Amplo&lt;/p&gt;
-&lt;p&gt;(IPCA), a inflação oficial do país, deve fechar o ano em 5,12%.&lt;/p&gt;
-&lt;p&gt;Na semana passada, a inflação projetada para o ano estava em 5,15%. Há quatro semanas, as projeções para este índice estava em 5,33%.&lt;/p&gt;
-&lt;p&gt;Para os anos subsequentes (2027 e 2028), as expectativas inflacionárias do mercado financeiro são, respectivamente, de 4,22% e 3,80%.&lt;/p&gt;
-&lt;p&gt;Nos demais indicadores (PIB, Câmbio e Selic), as projeções do mercado se mantêm estáveis há, pelo menos, quatro semanas.&lt;/p&gt;
-&lt;p&gt;No caso do Produto Interno Bruto – soma de todos os bens e serviços produzidos no país –, as projeções do mercado financeiro permanecem em 1,99% em 2026. Para 2027 e 2028, o mercado projeta, para a economia, crescimentos de 1,60% e 2%, respectivamente&lt;/p&gt;
-&lt;p&gt;Segundo o Boletim Focus, as projeções para o câmbio ao final de 2026 estão estáveis há seis semanas, com cotação de R$ 5,20 para o dólar ao final do ano. Para os anos subsequentes, são esperadas cotações de R$ 5,28 em 2027; e de R$ 5,30 em 2028.&lt;/p&gt;
-&lt;p&gt;A projeção da taxa básica de juros (Selic) para 2026 se manteve em 14% pela quinta semana consecutiva.&lt;/p&gt;
-&lt;p&gt;A taxa atual, estabelecida pelo Comitê de Política Monetária (Copom) do BC em 17 de junho, é 14,25%. Com isso, há expectativa de, pelo menos, uma redução na atual taxa até o final de 2026.&lt;/p&gt;
-&lt;p&gt;A próxima reunião do Copom está prevista para os dias 4 e 5 de agosto.&lt;/p&gt;
-&lt;p&gt;As previsões da Selic para 2027 e 2028 se mantiveram estáveis, em 12% e 10,5%, respectivamente.&lt;/p&gt;
-&lt;p&gt;De junho de 2025 até março de 2026, a Selic estava em 15% ao ano – o maior nível desde julho de 2006, quando foi fixada em 15,25% ao ano.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/mercado-reduz-para-512-expectativa-de-inflacao-em-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-Pela quarta semana consecutiva, o mercado financeiro reduz as expectativas de inflação para 2026 no Brasil. De acor...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-07-27 09:40:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-27 09:40:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-27 09:40:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-27 09:40:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/IGMvG2APbIN67PbUzRHVljUWkl8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/img_7609_1.jpg?itok=XaswPuJg</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Caminhos da Reportagem destaca a vida e o legado de Tia Ciata</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/caminhos-da-reportagem-destaca-vida-e-o-legado-de-tia-ciata</link>
-      <pubDate>Mon, 27 Jul 2026 16:09:31 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/caminhos-da-reportagem-destaca-vida-e-o-legado-de-tia-ciata#1008</guid>
-      <description>Nova edição do programa premiado da TV Brasil vai ao ar na segunda-feira (27), às 23h
-apresenta, na segunda-feira (27), a edição
-Tia Ciata: a matriar...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VJhmkHia-ppiAuQkT--iayuWZwI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/tia-ciata.jpg?itok=RzE1SniU&quot; alt=&quot;Caminhos da Reportagem destaca a vida e o legado de Tia Ciata&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Nova edição do programa premiado da TV Brasil vai ao ar na segunda-feira (27), às 23h&lt;/p&gt;
-&lt;p&gt;apresenta, na segunda-feira (27), a edição&lt;/p&gt;
-&lt;p&gt;Tia Ciata: a matriarca do samba&lt;/p&gt;
-&lt;p&gt;quenarra a vida e o legadoda ialorixá referência na cultura negra do Brasil.&lt;/p&gt;
-&lt;p&gt;A atração vai ao ar às 23h, na TV Brasil&lt;/p&gt;
-&lt;p&gt;Empresa Brasil de Comunicação (EBC).&lt;/p&gt;
-&lt;p&gt;A vida e o legado de Hilária Batista de Almeida, a Tia Ciata, se entrelaçam à história do samba e da cultura negra no Brasil. Baiana do Recôncavo, Ciata faz parte de um coletivo de mulheres que migrou para o Rio de Janeiro, no final do século 19 e início do século 20, no movimento que mais tarde foi definido como “diáspora baiana”.&lt;/p&gt;
-&lt;p&gt;Na capital federal, Ciata vira referência religiosa, humanitária e cultural. Em 2026, mais de 100 anos após a sua morte, essa influência ainda reverbera.&lt;/p&gt;
-&lt;p&gt;tenta apontar e responder os pontos de interrogação a respeito de Tia Ciata.Uma dessas questões é a verdadeira imagem de Hilária. A historiadora e pesquisadora AngélicaFerrarez, que há anos se dedica ao estudo das “tias do samba”, defende que o retrato feito na Bahia pelo fotógrafo alemão RodolphoLindemannnão poderia ser de Ciata em função da data em que a foto foi tirada.&lt;/p&gt;
-&lt;p&gt;Hilária mudou-se para o Rio de Janeiro aos 22 anos, em 1876, onde viveu até sua morte, em 1924. A fotografia teria sido tirada quando ela já estava no Rio.&lt;/p&gt;
-&lt;p&gt;“A gente tem algumas imagens que fazem referência a Tia Ciata, mas infelizmente a gente ainda não tem o rosto, sabe? A foto que represente essa figura central na história do Brasil, na história do Rio de Janeiro, na história social do samba”, afirma Angélica.&lt;/p&gt;
-&lt;p&gt;Já a bisneta e presidente da Casa de Tia Ciata, Gracy Mary Moreira, argumenta que a bisavó viajava frequentemente para a Bahia por ser “mãe pequena” no terreiro de JoãoAlabá, famoso babalaô africano e fundador do primeiro terreiro de candomblé do Rio de Janeiro.&lt;/p&gt;
-&lt;p&gt;“Ela também cuidava de especiarias”, comenta. Gracy destaca ainda o processo para verificar sua hereditariedade a partir da famosa foto deLindemann. “O antropólogo forense fez essa pesquisa junto com outras imagens e com fotos também do meu pai e da minha irmã”, lembra.&lt;/p&gt;
-&lt;p&gt;O número de descendentes de Tia Ciata, bem como o patrimônio acumulado pela família, é outra brecha desse passado.&lt;/p&gt;
-&lt;p&gt;O inventário de Hilária, de posse do acervo do Tribunal de Justiça do Rio de Janeiro, menciona que quatro filhos repartiram a quantia de três contos de réis após o falecimento.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/caminhos-da-reportagem-destaca-vida-e-o-legado-de-tia-ciata&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Nova edição do programa premiado da TV Brasil vai ao ar na segunda-feira (27), às 23h
-apresenta, na segunda-feira (27), a edição
-Tia Ciata: a matriar...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-07-27 09:37:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-27 09:37:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-27 09:37:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-27 09:37:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/VJhmkHia-ppiAuQkT--iayuWZwI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/tia-ciata.jpg?itok=RzE1SniU</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Incêndios florestais ameaçam cidade histórica francesa de Bordeaux</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/incendios-florestais-ameacam-cidade-historica-francesa-de-bordeaux</link>
-      <pubDate>Mon, 27 Jul 2026 16:09:31 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/incendios-florestais-ameacam-cidade-historica-francesa-de-bordeaux#1009</guid>
-      <description>© REUTERS/Manon Cruz/ Proibido reprodução
-avançaram em direção aos arredores da histórica cidade francesa de Bordeaux, no coração da região vinícola ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iGNKhgGJyGQJ8B4q_bZ1bS3vbBA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-22t135353z_1_lynxmpem6l1cg_rtroptp_4_europe-weather-france-wildfire.jpg?itok=e9Ozj8Po&quot; alt=&quot;Incêndios florestais ameaçam cidade histórica francesa de Bordeaux&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Manon Cruz/ Proibido reprodução&lt;/p&gt;
-&lt;p&gt;avançaram em direção aos arredores da histórica cidade francesa de Bordeaux, no coração da região vinícola do país, enquanto França e Espanha lutam contra as chamas que já forçaram a retirada de centenas de milhares de pessoas de suas casas.&lt;/p&gt;
-&lt;p&gt;Cerca de 220 mil pessoas deixaram suas casasna França. Na Espanha, esse número passa dos 75 mil e outras 30 mil receberam ordem para permanecer em abrigos, informaram autoridades.&lt;/p&gt;
-&lt;p&gt;Na França, os incêndios devastaram a península de Cap Ferret, na costa atlântica –um destino turístico popular –e se espalharam pelas áreas ao redor de Bordeaux, onde os bombeiros tentavam impedir que as chamas atinjam a capital regional.&lt;/p&gt;
-&lt;p&gt;“Temos um incêndio que não está sob controle e que está se movendo na direção da área urbana”, disse o ministro do Interior, Laurent Nunez, à emissora France 2 nesse domingo. “A situação geral é muito desfavorável; estamos diante de uma situação sem precedentes.”&lt;/p&gt;
-&lt;p&gt;O prefeito de Bordeaux, Thomas Cazenave, disse que o incêndio estava a cerca de 15 quilômetros dos pontos de acesso à cidade.&lt;/p&gt;
-&lt;p&gt;Cazenave havia afirmado no início do domingo que não havia planos de evacuar Bordeaux, cuja área metropolitana conta com uma população de cerca de 850 mil habitantes. Nunez disse que as autoridades continuarão avaliando a situação com calma e realismo.&lt;/p&gt;
-&lt;p&gt;À medida que o incêndio avançava, a polícia foi de porta em porta durante a madrugada nos municípios de Marcheprime e Cestas para retirar os moradores de suas casas. As autoridades francesas divulgaram imagens que mostram policiais batendo nas portas no escuro e pedindo às pessoas que saíssem.&lt;/p&gt;
-&lt;p&gt;Na Espanha, o primeiro-ministro, Pedro Sánchez, visitou áreas atingidas pelo incêndio em Ávila, uma das três províncias do centro do país afetadas por grandes incêndios, ao lado de Madri e Toledo.&lt;/p&gt;
-&lt;p&gt;As chamas devastaram mais de 50 mil hectares de áreas rurais em Ávila, tornando-se o maior incêndio florestal da história recente da Espanha, segundo a ministra do Meio Ambiente, Sara Aagesen.&lt;/p&gt;
-&lt;p&gt;Um incêndio separado na província de Castellón, no Leste da Espanha, devastou mais de 4,3 milhectares, informaram as autoridades regionais.&lt;/p&gt;
-&lt;p&gt;“O incêndio está fora de controle, é muito difícil de extinguir do ponto de vista técnico, especialmente devido às condições climáticas adversas que persistirão ao longo do dia”, disse o governador regional de Valência, Juanfran Pérez, a jornalistas próximos ao local.&lt;/p&gt;
-&lt;p&gt;O incêndio florestal atingiu o parque natural da Sierra de Espadan, que abriga grandes florestas de pinheiros e sobreiros.&lt;/p&gt;
-&lt;p&gt;Os incêndios são os mais recentes desastres relacionados à seca prolongada e às sucessivas ondas de calor que, segundo cientistas, têm se intensificado devido às mudanças climáticas.&lt;/p&gt;
-&lt;p&gt;Tanto em Bordeaux quanto em Ávila, as temperaturas máximas em julho atingiram uma média de 32 graus Celsius, quase 6°C acima da média normal para o mês, de acordo com o Reuters Climate Monitor.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/incendios-florestais-ameacam-cidade-historica-francesa-de-bordeaux&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Manon Cruz/ Proibido reprodução
-avançaram em direção aos arredores da histórica cidade francesa de Bordeaux, no coração da região vinícola ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-07-27 08:49:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-27 08:49:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-27 08:49:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-27 08:49:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/iGNKhgGJyGQJ8B4q_bZ1bS3vbBA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-22t135353z_1_lynxmpem6l1cg_rtroptp_4_europe-weather-france-wildfire.jpg?itok=e9Ozj8Po</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
