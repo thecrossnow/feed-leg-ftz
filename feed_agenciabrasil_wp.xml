@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 29 Jul 2026 21:52:52 +0000</pubDate>
+    <pubDate>Wed, 29 Jul 2026 22:54:15 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,203 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Vento chega a 125 km/h e provoca ao menos duas mortes em São Paulo</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/vento-chega-125-kmh-e-causa-ao-menos-duas-mortes-em-sao-paulo</link>
+      <pubDate>Wed, 29 Jul 2026 22:54:15 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/vento-chega-125-kmh-e-causa-ao-menos-duas-mortes-em-sao-paulo#1000</guid>
+      <description>Os fortes ventos que atingiram nesta quarta-feira (29) o estado de São Paulo chegaram a 124,9 km/h e causaram, ao menos, duas mortes. De acordo com a...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Vento chega a 125 km/h e provoca ao menos duas mortes em São Paulo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Os fortes ventos que atingiram nesta quarta-feira (29) o estado de São Paulo chegaram a 124,9 km/h e causaram, ao menos, duas mortes. De acordo com a Defesa Civil estadual,&lt;/p&gt;
+&lt;p&gt;os óbitos foram registrados em Santos e em Cesário Lange&lt;/p&gt;
+&lt;p&gt;No início da tarde, o órgão emitiu alerta severo para rajadas de vento na capital paulista, Grande SP e para o litoral paulista.&lt;/p&gt;
+&lt;p&gt;A ventania foi mais acentuada nos municípios de Itaporanga e Itaí (124,9 km/h), Taquarituba (117 km/h), Arandu (113,1 km/h), Paranapanema (113 km/h) e Itanhaém (111 km/h). Santos registrou 83,7 km/h e Cesário Lange, 65,5 km/h.&lt;/p&gt;
+&lt;p&gt;Na capital paulista, foram registrados ventos de 75,3 km/h. Segundo o Corpo de Bombeiros, até as 17h21, foram efetuadas 39 chamadas sobre quedas de árvores. No Aeroporto de Congonhas e no Aeroporto Campo de Marte, a velocidade chegou a70 km/h.&lt;/p&gt;
+&lt;p&gt;O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta laranja para ventos costeiros fortes em todo o estado de São Paulo e para toda região do Rio de Janeiro ao sul de Cabo Frio&lt;/p&gt;
+&lt;p&gt;. São esperados ventos nas regiões litorâneas e movimentação de dunas de areia sobre construções na orla.&lt;/p&gt;
+&lt;p&gt;O alerta laranja é o grau intermediário dentre os três avisos emitidos pelo instituto: amarelo, para perigo potencial; laranja, para perigo; e vermelho, para grande perigo. O alerta é válido até o fim da noite desta quarta-feira.&lt;/p&gt;
+&lt;p&gt;Defesa diz que vídeo de IA não teve autorização de Jair Bolsonaro&lt;/p&gt;
+&lt;p&gt;Turista holandês morre após barco virar nas Cataratas do Iguaçu&lt;/p&gt;
+&lt;p&gt;Defesa Civil reconhece situação de emergência em duas cidades gaúchas&lt;/p&gt;
+&lt;p&gt;Força-tarefa resgata 89 pessoas em condições degradantes de trabalho&lt;/p&gt;
+&lt;p&gt;Brasil rejeita prorrogação de emergência nacional dos EUA&lt;/p&gt;
+&lt;p&gt;Vento chega a 125 km/h e provoca ao menos duas mortes em São Paulo&lt;/p&gt;
+&lt;p&gt;Dólar cai para R$ 5,10, após juros serem mantidos nos EUA&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/vento-chega-125-kmh-e-causa-ao-menos-duas-mortes-em-sao-paulo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Os fortes ventos que atingiram nesta quarta-feira (29) o estado de São Paulo chegaram a 124,9 km/h e causaram, ao menos, duas mortes. De acordo com a...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-07-29 18:56:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-29 18:56:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-29 18:56:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-29 18:56:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Dólar cai para R$ 5,10, após juros serem mantidos nos EUA</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-510-apos-juros-serem-mantidos-nos-eua</link>
+      <pubDate>Wed, 29 Jul 2026 22:54:15 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-510-apos-juros-serem-mantidos-nos-eua#1001</guid>
+      <description>© Valter Campanato/Agência Brasil
+O dólar fechou em queda, e a bolsa recuou nesta quarta-feira (29), em um pregão marcado pela decisão do Federal Res...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ABCzDV1BNGLK1WelR64FGvUJtDs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221211.jpg?itok=9aRcSX3F&quot; alt=&quot;Dólar cai para R$ 5,10, após juros serem mantidos nos EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O dólar fechou em queda, e a bolsa recuou nesta quarta-feira (29), em um pregão marcado pela decisão do Federal Reserve (Fed, Banco Central estadunidense) de manter os juros dos Estados Unidos entre 3,50% e 3,75%.&lt;/p&gt;
+&lt;p&gt;O mercado reagiu ao tom mais moderado adotado pelo presidente da instituição, Kevin Warsh, e à divisão entre os dirigentes da autoridade monetária estadunidense. Em contrapartida,&lt;/p&gt;
+&lt;p&gt;o petróleo subiu cerca de 7%, devido ao agravamento das tensões no Oriente Médio&lt;/p&gt;
+&lt;p&gt;Dólar à vista: R$ 5,108 (-0,27%);&lt;/p&gt;
+&lt;p&gt;Ibovespa: 173.885 pontos (-1,52%);&lt;/p&gt;
+&lt;p&gt;Petróleo tipo Brent: US$ 88,09 o barril (+7,32%);&lt;/p&gt;
+&lt;p&gt;Petróleo tipo WTI: US$ 84,46 o barril (+6,56%).&lt;/p&gt;
+&lt;p&gt;A moeda estadunidense passou boa parte do dia oscilando perto da estabilidade enquanto investidores aguardavam a decisão do Fed. Na mínima do dia, por volta das 16h20, chegou a R$ 5,09, antes de encerrar a R$ 5,018 (-0,27%).&lt;/p&gt;
+&lt;p&gt;Após a manutenção dos juros, conforme esperado, o dólar perdeu força globalmente e ampliou as perdas durante a entrevista coletiva de Warsh.&lt;/p&gt;
+&lt;p&gt;Embora tenha reafirmado o compromisso do banco central com a meta de inflação de 2%, o presidente do Fed também destacou sinais recentes considerados positivos para o comportamento dos preços, o que foi interpretado pelo mercado como um discurso menos duro.&lt;/p&gt;
+&lt;p&gt;A decisão, entretanto, foi dividida. Nove integrantes do Comitê Federal de Mercado Aberto (Fomc) votaram pela manutenção dos juros, enquanto Beth Hammack, Neel Kashkari e Lorie Logan defenderam uma alta de 0,25 ponto percentual. Mesmo assim, o mercado continuou precificando uma elevada probabilidade de aumento dos juros na reunião de setembro.&lt;/p&gt;
+&lt;p&gt;O câmbio também foi favorecido pelo maior apetite por operações de carry trade, favorecidas pela diferença de juros entre Brasil e Estados Unidos. Também contribuiu a valorização do petróleo, que melhora o fluxo de recursos para o Brasil, exportador do produto. Dados domésticos, como o resultado do Caged e o superávit da balança comercial, ficaram em segundo plano.&lt;/p&gt;
+&lt;p&gt;Na bolsa brasileira, o índice Ibovespa, da B3, encerrou o pregão em queda de 1,52%, pressionado principalmente pelo desempenho das ações de bancos.&lt;/p&gt;
+&lt;p&gt;O ambiente externo também pesou sobre os negócios. Apesar da manutenção dos juros pelo Fed, a divisão entre os dirigentes reforçou as incertezas sobre a trajetória da política monetária estadunidense. O aumento das tensões geopolíticas elevou a aversão ao risco nos mercados globais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-510-apos-juros-serem-mantidos-nos-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Valter Campanato/Agência Brasil
+O dólar fechou em queda, e a bolsa recuou nesta quarta-feira (29), em um pregão marcado pela decisão do Federal Res...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-07-29 18:53:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-29 18:53:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-29 18:53:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-29 18:53:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/ABCzDV1BNGLK1WelR64FGvUJtDs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221211.jpg?itok=9aRcSX3F</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Pensão alimentícia será recebida de forma automática, via pix</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pensao-alimenticia-sera-recebida-de-forma-automatica-pix</link>
+      <pubDate>Wed, 29 Jul 2026 22:54:15 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pensao-alimenticia-sera-recebida-de-forma-automatica-pix#1002</guid>
+      <description>O presidente Luiz Inácio Lula da Silva sancionou, nesta quarta-feira (29), duas leis de proteção e apoio às mulheres. A primeira prevê o pagamento au...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dOcvsX23Y4VFnKYS7sAJ6Z5D7tk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/09/captura_de_tela_2025-05-09_as_20.01.46_0.jpg?itok=DI1U7B_S&quot; alt=&quot;Pensão alimentícia será recebida de forma automática, via pix&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O presidente Luiz Inácio Lula da Silva sancionou, nesta quarta-feira (29), duas leis de proteção e apoio às mulheres. A primeira prevê o pagamento automático da pensão alimentícia por Pix, que ficou apelidado de Pix Pensão. A segunda lei determina a divulgação em larga escala do Ligue 180, o serviço telefônico de denúncias de violência contra a mulher.&lt;/p&gt;
+&lt;p&gt;determina que o pagamento mensal da pensão alimentícia seja depositado na conta da pessoa beneficiária&lt;/p&gt;
+&lt;p&gt;quando o desconto em folha não for possível. De acordo com o texto legal, o valor da pensão pode ser transferido pelo banco automaticamente da conta do devedor para a conta do credor.&lt;/p&gt;
+&lt;p&gt;“Esse é um projeto que as mães do Brasil abraçaram. Porque o que tem para a CLT, para o assalariado, agora terá para todo mundo com essa lei. Se [o homem] tem filho e deve pensão, tem que ter o depósito na conta da mãe todo mês”, disse a deputada Tábata Amaral (PSB-SP), relatora do projeto na Câmara e presente na cerimônia da sanção presidencial.&lt;/p&gt;
+&lt;p&gt;O serviço do Ligue 180, de acordo com a nova lei,&lt;/p&gt;
+&lt;p&gt;deve ser divulgado pelo governo federal em meios de comunicação de massa e locais públicos e privados de grande circulação de pessoas&lt;/p&gt;
+&lt;p&gt;, tais como escolas, casas de espetáculos e outros locais de diversão, órgãos públicos, hospitais e meios de transporte de massa.&lt;/p&gt;
+&lt;p&gt;Falar da importância do Ligue 180 é evitar que as mulheres cheguem a perder sua vida pelo simples fato de serem mulheres. Essa é uma maneira de ampliar e garantir que ele funcione”, disse a deputada Camila Jara (PT-MS), relatora do projeto e também presente à cerimônia.&lt;/p&gt;
+&lt;p&gt;“O que vocês estão fazendo é criar novos mecanismos para que a mulher fique mais exigente e protegida e os homens aprendam que é necessário ele criar juízo e não achar que a mulher é um objeto dele, que ele pode fazer o que quiser da mulher”&lt;/p&gt;
+&lt;p&gt;, afirmou o presidente Lula aoparabenizar o trabalho das relatoras dos dois projetos.&lt;/p&gt;
+&lt;p&gt;O presidente também assinou dois decretos relacionados ao Projeto Mulher Segura, que visa fortalecer a capacidade do Estado brasileiro de prevenir, monitorar e enfrentar a violência contra a mulher, regulamentando a alteração recente à Lei Maria da Penha que, dentre outras previsões, estabeleceu a possibilidade de monitoração eletrônica de agressores.&lt;/p&gt;
+&lt;p&gt;Defesa diz que vídeo de IA não teve autorização de Jair Bolsonaro&lt;/p&gt;
+&lt;p&gt;Turista holandês morre após barco virar nas Cataratas do Iguaçu&lt;/p&gt;
+&lt;p&gt;Defesa Civil reconhece situação de emergência em duas cidades gaúchas&lt;/p&gt;
+&lt;p&gt;Força-tarefa resgata 89 pessoas em condições degradantes de trabalho&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pensao-alimenticia-sera-recebida-de-forma-automatica-pix&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O presidente Luiz Inácio Lula da Silva sancionou, nesta quarta-feira (29), duas leis de proteção e apoio às mulheres. A primeira prevê o pagamento au...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-07-29 18:40:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-29 18:40:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-29 18:40:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-29 18:40:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/dOcvsX23Y4VFnKYS7sAJ6Z5D7tk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/09/captura_de_tela_2025-05-09_as_20.01.46_0.jpg?itok=DI1U7B_S</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Dívida Pública sobe 2,61% em junho e supera R$ 9,2 trilhões</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/divida-publica-sobe-261-em-junho-e-supera-r-92-trilhoes</link>
+      <pubDate>Wed, 29 Jul 2026 22:54:15 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/divida-publica-sobe-261-em-junho-e-supera-r-92-trilhoes#1003</guid>
+      <description>© José Cruz/Agência Brasil/Arquivo
+A emissão forte de títulos vinculados à Taxa Selic (juros básicos da economia)fez a Dívida Pública Federal (DPF) s...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Wzy0N04C3R-zfGZ0k4fQd_TxKDg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220046_1.jpg?itok=NbzJGgQz&quot; alt=&quot;Dívida Pública sobe 2,61% em junho e supera R$ 9,2 trilhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© José Cruz/Agência Brasil/Arquivo&lt;/p&gt;
+&lt;p&gt;A emissão forte de títulos vinculados à Taxa Selic (juros básicos da economia)fez a Dívida Pública Federal (DPF) subir em junho e superar R$ 9,2 trilhões.&lt;/p&gt;
+&lt;p&gt;Segundo números divulgados nesta quarta-feira (29) pelo Tesouro Nacional, a DPF passou de R$ 8,798 trilhões em maio para R$ 9,033 trilhões no mês passado, alta de 2,66%.&lt;/p&gt;
+&lt;p&gt;Em maio deste ano, o indicador havia superado a barreira de R$ 9 trilhões. Apesar da alta, a dívida pública está abaixo do previsto.&lt;/p&gt;
+&lt;p&gt;De acordo com o Plano Anual de Financiamento (PAF), apresentado em janeiro, o&lt;/p&gt;
+&lt;p&gt;deve encerrar 2026 entre R$ 9,7 trilhões e R$ 10,3 trilhões.&lt;/p&gt;
+&lt;p&gt;A Dívida Pública Mobiliária (em títulos) interna (DPMFi) avançou 2,72%, passando de R$ 8,962 trilhões em maio para R$ 8,921 trilhões em junho.&lt;/p&gt;
+&lt;p&gt;No mês passado, o Tesouro emitiu R$ 143,35 bilhões em títulos a mais do que resgatou, principalmente em papéis ligados à Selic. A alta foi reforçada pela apropriação de R$ 85,16 bilhões em juros.&lt;/p&gt;
+&lt;p&gt;Por meio da apropriação de juros, o governo reconhece, mês a mês, a correção dos juros que incide sobre os títulos e incorpora o valor ao estoque da dívida pública.&lt;/p&gt;
+&lt;p&gt;Com a Taxa Selic (juros básicos da economia) em 14,25% ao ano, a apropriação de juros pressiona o endividamento do governo.&lt;/p&gt;
+&lt;p&gt;No mês passado, o Tesouro emitiu R$ 149,49 bilhões em títulos da DPMFi. Desse total, R$ 102,57 corresponderam a títulos vinculados à Selic.&lt;/p&gt;
+&lt;p&gt;Os resgates em junho somaram apenas R$ 6,14 bilhões, baixo para os padrões do Tesouro Nacional, num mês quase sem vencimentos.&lt;/p&gt;
+&lt;p&gt;A Dívida Pública Federal externa (DPFe) subiu 2,12%, passando de R$ 340,49 bilhões em maio para R$ 347,71 bilhões em junho. O principal fator foi a alta de 2,37% do dólar no mês passado.&lt;/p&gt;
+&lt;p&gt;Após quedas nos últimos meses, o colchão da dívida pública (reserva financeira usada em momentos de turbulência ou de forte concentração de vencimentos) subiu. Essa reserva passou de R$ 1,211 trilhão em maio para R$ 1,346 trilhão em junho, o maior nível desde o início da série histórica, em 2015.&lt;/p&gt;
+&lt;p&gt;O principal motivo, segundo o Tesouro Nacional, foram as emissões superiores aos resgates no mês passado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/divida-publica-sobe-261-em-junho-e-supera-r-92-trilhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© José Cruz/Agência Brasil/Arquivo
+A emissão forte de títulos vinculados à Taxa Selic (juros básicos da economia)fez a Dívida Pública Federal (DPF) s...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-07-29 18:28:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-29 18:28:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-29 18:28:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-29 18:28:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Wzy0N04C3R-zfGZ0k4fQd_TxKDg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220046_1.jpg?itok=NbzJGgQz</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Ventania causa apagão e paralisa transportes no Rio de Janeiro</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/ventania-causa-apagao-e-paralisa-transportes-no-rio-de-janeiro</link>
-      <pubDate>Wed, 29 Jul 2026 21:52:52 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 22:54:15 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/ventania-causa-apagao-e-paralisa-transportes-no-rio-de-janeiro#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/ventania-causa-apagao-e-paralisa-transportes-no-rio-de-janeiro#1004</guid>
       <description>Diversos bairros do Rio de Janeiro ficaram sem luz na tarde desta quarta-feira (29), em meio a uma ventania que assola a cidade.
 O vento chegou a ser...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/B_KCixY1ZDTD7HcMjyQyN2My5X8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/29/whatsapp_image_2026-07-29_at_17.41.35.jpg?itok=1NMrFpQ1&quot; alt=&quot;Ventania causa apagão e paralisa transportes no Rio de Janeiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +239,7 @@ O vento chegou a ser...</description>
 &lt;p&gt;O prefeito, Eduardo Cavaliere, pediu, pelas redes sociais, que os moradores evitem deslocamentos pela cidade.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/ventania-causa-apagao-e-paralisa-transportes-no-rio-de-janeiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Diversos bairros do Rio de Janeiro ficaram sem luz na tarde desta quarta-feira (29), em meio a uma ventania que assola a cidade.
 O vento chegou a ser...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-07-29 18:14:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 18:14:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 18:14:00</wp:post_modified>
@@ -73,9 +265,9 @@ O vento chegou a ser...</excerpt:encoded>
     <item>
       <title>Novo sistema alfandegário agiliza desembarque de viajantes</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/novo-sistema-alfandegario-agiliza-desembarque-de-viajantes</link>
-      <pubDate>Wed, 29 Jul 2026 21:52:52 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 22:54:15 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/novo-sistema-alfandegario-agiliza-desembarque-de-viajantes#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/novo-sistema-alfandegario-agiliza-desembarque-de-viajantes#1005</guid>
       <description>© Fernando Frazão/Agência Brasil
 Quem chega ao Brasil de avião com bens que precisam ser declarados à Receita Federal poderá passar mais rapidamente ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QLuiQoG2Ldx5kIkD5rWxT_d2rz4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_3512_0.jpg?itok=_xHpssDC&quot; alt=&quot;Novo sistema alfandegário agiliza desembarque de viajantes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +288,7 @@ Quem chega ao Brasil de avião com bens que precisam ser declarados à Receita F
 &lt;p&gt;o sistema analisa automaticamente as informações com base em critérios de gerenciamento de risco;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/novo-sistema-alfandegario-agiliza-desembarque-de-viajantes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Quem chega ao Brasil de avião com bens que precisam ser declarados à Receita Federal poderá passar mais rapidamente ...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-07-29 17:48:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 17:48:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 17:48:00</wp:post_modified>
@@ -122,9 +314,9 @@ Quem chega ao Brasil de avião com bens que precisam ser declarados à Receita F
     <item>
       <title>Inscrições para Olimpíada de Eficiência Energética estão abertas</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-olimpiada-de-eficiencia-energetica-estao-abertas</link>
-      <pubDate>Wed, 29 Jul 2026 21:52:52 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 22:54:15 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-olimpiada-de-eficiencia-energetica-estao-abertas#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-olimpiada-de-eficiencia-energetica-estao-abertas#1006</guid>
       <description>As inscrições para a 5ª edição da Olimpíada Nacional de Eficiência Energética (ONEE) 2026 estão abertas até 15 de setembro.
 Podem participar alunos d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/XlBzLSv4c9YGbkE2kqQieQYpkKo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/08/9a042d67-46ff-4304-a894-d7ca586e4e7d.jpeg?itok=XR3wnPuC&quot; alt=&quot;Inscrições para Olimpíada de Eficiência Energética estão abertas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -141,11 +333,11 @@ Podem participar alunos d...</description>
 &lt;p&gt;Esta prova formal será disponibilizada no site e na plataforma oficial da Olimpíada. O resultado desta segunda fase definirá o campeão da edição deste ano.&lt;/p&gt;
 &lt;p&gt;Olimpíada de eficiência energética&lt;/p&gt;
 &lt;p&gt;Desde a primeira edição, a Olimpíada Nacional de Eficiência Energéticamobilizou mais de490 mil estudantes, 22 mil professores e 8 mil escolaspúblicas e privadas em todos os Estados do Brasil.&lt;/p&gt;
-&lt;p&gt;Anvisa autoriza cinco novas canetas para tratamento do diabetes&lt;/p&gt;
+&lt;p&gt;Defesa diz que vídeo de IA não teve autorização de Jair Bolsonaro&lt;/p&gt;
 &lt;p&gt;Turista holandês morre após barco virar nas Cataratas do Iguaçu&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/inscricoes-para-olimpiada-de-eficiencia-energetica-estao-abertas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>As inscrições para a 5ª edição da Olimpíada Nacional de Eficiência Energética (ONEE) 2026 estão abertas até 15 de setembro.
 Podem participar alunos d...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-07-29 17:34:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 17:34:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 17:34:00</wp:post_modified>
@@ -171,9 +363,9 @@ Podem participar alunos d...</excerpt:encoded>
     <item>
       <title>Mais de 50% das mulheres dizem ter sofrido violência de parceiros</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/mais-de-50-das-mulheres-declaram-ter-sofrido-violencia-de-parceiros</link>
-      <pubDate>Wed, 29 Jul 2026 21:52:52 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 22:54:15 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/mais-de-50-das-mulheres-declaram-ter-sofrido-violencia-de-parceiros#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/mais-de-50-das-mulheres-declaram-ter-sofrido-violencia-de-parceiros#1007</guid>
       <description>Mais da metade das brasileiras (54%) que já tiveram relacionamento com homens declararamter sofrido algum tipo de violência. No entanto, apenas 11% d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kCf8TB62hisurOgTlXVRtlUgBnQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/r-sentada-no-sofa_0.jpg?itok=5Rg5z5iu&quot; alt=&quot;Mais de 50% das mulheres dizem ter sofrido violência de parceiros&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Mais da metade das brasileiras (54%) que já tiveram relacionamento com homens declararamter sofrido algum tipo de violência. No entanto, apenas 11% dos homens que já tiveram relacionamento com mulheres admitem ter cometido agressões contra parceiras ou ex-parceiras.&lt;/p&gt;
@@ -192,7 +384,7 @@ Podem participar alunos d...</excerpt:encoded>
 &lt;p&gt;“Os dados mostram a Lei Maria da Penha como um mecanismo consolidado e reconhecido pela sociedade como essencial na proteção das mulheres. No entanto, o estudo também acende um alerta: a lei, isoladamente, não é vista como suficiente no enfrentamento à violência doméstica”, afirmou Maíra Saruê, diretora de pesquisa do Instituto Locomotiva.&lt;/p&gt;
 &lt;p&gt;A pesquisa conclui que, após 20 anos, a Lei Maria da Penha é amplamente difundida no Brasil e que praticamente toda a população conhece ou já ouviu falar dela.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/mais-de-50-das-mulheres-declaram-ter-sofrido-violencia-de-parceiros&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Mais da metade das brasileiras (54%) que já tiveram relacionamento com homens declararamter sofrido algum tipo de violência. No entanto, apenas 11% d...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-07-29 17:34:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 17:34:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 17:34:00</wp:post_modified>
@@ -218,9 +410,9 @@ Podem participar alunos d...</excerpt:encoded>
     <item>
       <title>Projeto busca restaurar 600 mil hectares de vegetação nativa no Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/projeto-busca-restaurar-600-mil-hectares-de-vegetacao-nativa-no-brasil</link>
-      <pubDate>Wed, 29 Jul 2026 21:52:52 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 22:54:15 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/projeto-busca-restaurar-600-mil-hectares-de-vegetacao-nativa-no-brasil#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/projeto-busca-restaurar-600-mil-hectares-de-vegetacao-nativa-no-brasil#1008</guid>
       <description>© Fernando Frazão/Agência Brasil
 Uma coalizão de organizações ambientais lança nesta semana o projeto Restaura Biomas, iniciativa para ampliar a recu...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/u-iygEWTJqhFEkIquD1gjJlJMJs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/31/dji_0255_0.jpg?itok=11aLljVr&quot; alt=&quot;Projeto busca restaurar 600 mil hectares de vegetação nativa no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -241,7 +433,7 @@ Uma coalizão de organizações ambientais lança nesta semana o projeto Restaur
 &lt;p&gt;O coordenador de Restauração Florestal da TNC Brasil, Julio Tymus, destacou que o projeto foi construído a partir de consultas com representantes da sociedade civil, governos e setor privado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/projeto-busca-restaurar-600-mil-hectares-de-vegetacao-nativa-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Uma coalizão de organizações ambientais lança nesta semana o projeto Restaura Biomas, iniciativa para ampliar a recu...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-07-29 16:54:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 16:54:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 16:54:00</wp:post_modified>
@@ -267,9 +459,9 @@ Uma coalizão de organizações ambientais lança nesta semana o projeto Restaur
     <item>
       <title>El Niño: investimentos para conter impactos climáticos somam R$ 1,3 bi</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/El-Nino-investimentos-para-conter-impactos-clim%C3%A1ticos-somam-1%2C3-bi</link>
-      <pubDate>Wed, 29 Jul 2026 21:52:52 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 22:54:15 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/El-Nino-investimentos-para-conter-impactos-clim%C3%A1ticos-somam-1%2C3-bi#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/El-Nino-investimentos-para-conter-impactos-clim%C3%A1ticos-somam-1%2C3-bi#1009</guid>
       <description>© Prefeitura de São Lourenço do Sul
 Estocagem de alimentos, monitoramento climático, fiscalização ambiental e combate a incêndios, são algumas das me...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/BzNNsZNJRV-aG_wuPZcnMpnyHdQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/dji_20250823104155_0142_d_881e7a_copy.jpg?itok=1Qt7lhn5&quot; alt=&quot;El Niño: investimentos para conter impactos climáticos somam R$ 1,3 bi&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -290,7 +482,7 @@ Estocagem de alimentos, monitoramento climático, fiscalização ambiental e com
 &lt;p&gt;, para minimizar os impactos da seca no Nordeste do país. São 12 milhões de pessoas beneficiadas com investimentos nos estados do Ceará, Pernambuco, Paraíba e Rio Grande do Norte.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/El-Nino-investimentos-para-conter-impactos-clim%C3%A1ticos-somam-1%2C3-bi&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Prefeitura de São Lourenço do Sul
 Estocagem de alimentos, monitoramento climático, fiscalização ambiental e combate a incêndios, são algumas das me...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-07-29 16:52:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 16:52:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 16:52:00</wp:post_modified>
@@ -311,198 +503,6 @@ Estocagem de alimentos, monitoramento climático, fiscalização ambiental e com
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/BzNNsZNJRV-aG_wuPZcnMpnyHdQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/dji_20250823104155_0142_d_881e7a_copy.jpg?itok=1Qt7lhn5</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Defesa diz que Bolsonaro não autorizou uso de vídeo de IA em convenção</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/defesa-diz-que-bolsonaro-nao-autorizou-uso-de-video-de-ia-em-convencao</link>
-      <pubDate>Wed, 29 Jul 2026 21:52:52 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/defesa-diz-que-bolsonaro-nao-autorizou-uso-de-video-de-ia-em-convencao#1006</guid>
-      <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-A defesa de Jair Bolsonaro afirmou nesta quarta-feira (29) ao Supremo Tribunal Federal (STF) que o ex-pres...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VOSEhSLfC-GWm2_wtALi_V4WDuA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11042023-pzzb9267.jpg?itok=1O4II4bb&quot; alt=&quot;Defesa diz que Bolsonaro não autorizou uso de vídeo de IA em convenção&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fabio Rodrigues-Pozzebom/ Agência Brasil&lt;/p&gt;
-&lt;p&gt;A defesa de Jair Bolsonaro afirmou nesta quarta-feira (29) ao Supremo Tribunal Federal (STF) que o ex-presidente não autorizou a utilização de sua imagem e voz para a produção do vídeo de inteligência artificial (IA)apresentado na convenção nacional do PL.&lt;/p&gt;
-&lt;p&gt;No último sábado (25), umvídeo apresentou a simulação de um pronunciamento de Bolsonaro em favor da candidatura de seu filho, o senador Flávio Bolsonaro, à Presidência da República.&lt;/p&gt;
-&lt;p&gt;A manifestação foi motivada por um&lt;/p&gt;
-&lt;p&gt;pedido de explicações solicitado pelo ministro Alexandre de Moraes&lt;/p&gt;
-&lt;p&gt;, relator do caso, que deu prazo de 48 horas para a defesa se manifestar. O ministro ressaltou que Bolsonaro está em prisão domiciliar, proibido de divulgar manifestaçõespolítico-eleitorais, inclusive por terceiros.&lt;/p&gt;
-&lt;p&gt;Além disso, o ministro pontuou que, se não houve autorização, o uso da IA de Bolsonaro pode ter reflexos na esfera eleitoral e ser caracterizada como divulgação de&lt;/p&gt;
-&lt;p&gt;, que ocorre pela criação de conteúdo artificial para associar voz ou imagem a candidato, sem autorização. A divulgação desse tipo de conteúdo foi proibida pelo Tribunal Superior Eleitoral (TSE).&lt;/p&gt;
-&lt;p&gt;Pelos advogados, Bolsonaro disse que Flávio foi impedido de visitá-lo após divulgar uma carta nas redes sociais. Por esse motivo, os advogados afirmaram que o ex-presidente não teria como autorizar a produção do vídeo de IA.&lt;/p&gt;
-&lt;p&gt;&quot;O peticionário encontra-se com o direito de visitas suspenso pelo prazo de trinta dias, enquanto seu filho Flávio Nantes Bolsonaro permanece impedido de visitá-lo pelo prazo de noventa dias, circunstância que, por si só, evidencia a inexistência de qualquer contato destinado à obtenção de autorização específica para a elaboração do referido material&quot;, argumentou a defesa.&lt;/p&gt;
-&lt;p&gt;A defesa também ressaltou que os filhos de Bolsonaro sempre utilizaram a imagem do pai, inclusive antes das proibições impostas por Moraes.&lt;/p&gt;
-&lt;p&gt;&quot;Seus filhos sempre utilizaram sua imagem pública no âmbito da atividade político-partidária, reproduzindo fotografias, gravações, pronunciamentos, discursos, entrevistas e demais manifestações públicas, prática notória, contínua e jamais objeto de qualquer oposição por parte do titular desse direito&quot;, completou a defesa.&lt;/p&gt;
-&lt;p&gt;Anvisa autoriza cinco novas canetas para tratamento do diabetes&lt;/p&gt;
-&lt;p&gt;Turista holandês morre após barco virar nas Cataratas do Iguaçu&lt;/p&gt;
-&lt;p&gt;Pensão alimentícia será recebida de forma automática, via pix&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/defesa-diz-que-bolsonaro-nao-autorizou-uso-de-video-de-ia-em-convencao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-A defesa de Jair Bolsonaro afirmou nesta quarta-feira (29) ao Supremo Tribunal Federal (STF) que o ex-pres...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-07-29 16:33:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-29 16:33:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-29 16:33:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-29 16:33:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/VOSEhSLfC-GWm2_wtALi_V4WDuA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11042023-pzzb9267.jpg?itok=1O4II4bb</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Grupo Arco-Íris denuncia apagamento LGBTI+ nos dados policiais do Rio</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/grupo-arco-iris-denuncia-apagamento-de-dados-lgbti-na-policia-do-rio</link>
-      <pubDate>Wed, 29 Jul 2026 21:52:52 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/grupo-arco-iris-denuncia-apagamento-de-dados-lgbti-na-policia-do-rio#1007</guid>
-      <description>O Grupo Arco-Íris de Cidadania LGBTI+ (GAI) enviou na terça-feira (28) um ofício à Secretaria de Estado de Polícia Civil do Rio de Janeiro cobrando u...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/-MgDcPBB0gt3BqX-5A0W1XRdG40=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/22/_int4574.jpg?itok=14gHvFhs&quot; alt=&quot;Grupo Arco-Íris denuncia apagamento LGBTI+ nos dados policiais do Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Grupo Arco-Íris de Cidadania LGBTI+ (GAI) enviou na terça-feira (28) um ofício à Secretaria de Estado de Polícia Civil do Rio de Janeiro cobrando uma explicação paraa ausência de dados oficiais do estadosobre crimes motivados por LGBTIfobia e discriminação por orientação sexual e identidade de gênero no Anuário Brasileiro de Segurança Pública 2026.&lt;/p&gt;
-&lt;p&gt;Outra representaçãoda ONG foi encaminhada ao Ministério Público do Estado do Rio de Janeiro (MPRJ), afirmando quea Lei prevê sanções administrativas aplicáveis a agentes públicos e estabelecimentos que pratiquem atos discriminatórios em razão da orientação sexual e da identidade de gênero.&lt;/p&gt;
-&lt;p&gt;Divulgado no último dia 23 de julho&lt;/p&gt;
-&lt;p&gt;, o anuário não contou com informações sobre racismo por homofobia ou transfobia, lesão corporal dolosa, homicídio doloso e estupro contra LGBTQIAPN+ no estado do Rio de Janeiro.&lt;/p&gt;
-&lt;p&gt;A unidade da federação é aúnicaem que não constana&lt;/p&gt;
-&lt;p&gt;nenhuma informação sobre esses crimes nos anos de 2024 e 2025&lt;/p&gt;
-&lt;p&gt;Mesmo com a ausência total de dados do Rio de Janeiro e com ausências parciais de outros estados,&lt;/p&gt;
-&lt;p&gt;o Brasil registrou um crescimento de 35,6% em casos de racismo por homofobia ou transfobia em 2025&lt;/p&gt;
-&lt;p&gt;A discriminação e a violência contra pessoas LGBTQIAPN+ foi tipificada como crime de racismo pelo Supremo Tribunal Federal (STF), em 2019, diante da ausência de leis específicas que punam essas condutas.&lt;/p&gt;
-&lt;p&gt;No ofício aos órgãos de segurança pública estaduais, oGAI pede “que sejam adotadas medidas administrativas voltadas à instituição de mecanismos permanentes de produção, consolidação e transparência dos dados relativos à violência contra pessoas LGBTI+, garantindo a publicidade dessas informações a sua utilização como instrumento de planejamento das políticas públicas de segurança”.&lt;/p&gt;
-&lt;p&gt;Já ao MP-RJ, a organização não governamental pede que, sefor o caso, sejaelaborado umTermo de Ajustamento de Conduta.&lt;/p&gt;
-&lt;p&gt;“Caso sejam constatadas irregularidades ou omissões, adote as medidas extrajudiciais e judiciais cabíveis, inclusive, se entender pertinente, a celebração de Termo de Ajustamento de Conduta (TAC) com os órgãos competentes, visando à implementação de mecanismos permanentes de coleta, consolidação e divulgação periódica dos dados, bem como de programas continuados de capacitação dos agentes de segurança pública”.&lt;/p&gt;
-&lt;p&gt;, opresidente do Grupo Arco-Íris de Cidadania LGBTI+, Cláudio Nascimento, disse ser inaceitável a ausência de dados, queinvisibiliza a violência contra essa população e dificultaa formulação de políticas para combatê-la.&lt;/p&gt;
-&lt;p&gt;Aportaria da Polícia Civil nº 57.417, de 8 de fevereiro de 2012, incluiu a opção homofobia no campo motivação presumida dos registros de ocorrênciaantes mesmo da decisão do Supremo Tribunal Federal (STF) que passou a considerar a LGBTIfobia como um crime de racismo.Segundo o Dôssie LGBT+, produzido pelo próprio ISP em 2018, a Portarianº 826, de 28 de novembro de 2017, adicionouainda as opções transfobia e lesbofobia.&lt;/p&gt;
-&lt;p&gt;“É obrigatório que o estado faça o registro de injuria racial, quando envolve a questão LGBTIfobia, e de crime de racismo também, quando se trata de LGBTIfobia. Não ter esses dados mostra uma total omissão da área de Segurança Pública com essa população. Não vamos admitir que a nossa população seja, de novo, escanteada, excluída e negligenciada pelo campo da Segurança Pública”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/grupo-arco-iris-denuncia-apagamento-de-dados-lgbti-na-policia-do-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Grupo Arco-Íris de Cidadania LGBTI+ (GAI) enviou na terça-feira (28) um ofício à Secretaria de Estado de Polícia Civil do Rio de Janeiro cobrando u...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-07-29 16:13:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-29 16:13:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-29 16:13:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-29 16:13:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/-MgDcPBB0gt3BqX-5A0W1XRdG40=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/22/_int4574.jpg?itok=14gHvFhs</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Brasil fecha o mês de junho com saldo positivo de 145.161 empregos</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/brasil-fecha-o-mes-de-junho-com-saldo-positivo-de-145161-empregos</link>
-      <pubDate>Wed, 29 Jul 2026 21:52:52 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/brasil-fecha-o-mes-de-junho-com-saldo-positivo-de-145161-empregos#1008</guid>
-      <description>© Marcello Casal JrAgência Brasil
-O Brasil fechou o mês de junho com saldo positivo de 145.161 empregos com carteira assinada, segundo o Novo Cadastr...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LJri3GhTJ72Wf7fM-fz7eZavuAc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/01_carteira_de_trabalho2.jpg?itok=GzY9W8yM&quot; alt=&quot;Brasil fecha o mês de junho com saldo positivo de 145.161 empregos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
-&lt;p&gt;O Brasil fechou o mês de junho com saldo positivo de 145.161 empregos com carteira assinada, segundo o Novo Cadastro Geral de Empregados e Desempregados (Novo Caged) divulgado nesta quarta-feira (29) pelo Ministério do Trabalho e Emprego (MTE).&lt;/p&gt;
-&lt;p&gt;O resultado de junho decorreu de 2.220.131 admissões e de 2.074.970 desligamentos.&lt;/p&gt;
-&lt;p&gt;O Caged é um indicador que mede a diferença entre contratações e demissões.&lt;/p&gt;
-&lt;p&gt;O estoque de empregos formais no mês passado foi de 48.032.308, o que representa uma variação de 0,30% em relação ao estoque do mês anterior. No acumulado dos últimos 12 meses, o saldo chega a 942.854 empregos.&lt;/p&gt;
-&lt;p&gt;Todos os cinco grandes agrupamentos apresentaram resultado positivo em junho.&lt;/p&gt;
-&lt;p&gt;O setor de Serviços fechou o mês com 74.514 postos e a Agropecuária registrou saldo de 22.898 vagas. O Comércio com 19.177, a Indústria ficou com 4.438 postos; a Construção Civil ficou com 14.136 vagas.&lt;/p&gt;
-&lt;p&gt;No mês passado, a região Sudeste veio na frente na geração de empregos com 70.383 postos&lt;/p&gt;
-&lt;p&gt;, um incremento de 0,29% em relação a maio; o Nordeste, com 34.433 postos (0,43%); Centro-Oeste, com 19.617 postos (0,46%); o Sul com 10.453 postos (0,12%) e o Norte, com 9.633 postos (0,40%).&lt;/p&gt;
-&lt;p&gt;Entre os estados da federação, 25 tiveram saldo positivo. Em números absolutos, o destaque ficou com São Paulo, com 34.981 postos; Minas Gerais, com 20.805; e Rio de Janeiro, com 16.856 vagas.&lt;/p&gt;
-&lt;p&gt;Os estados com menor saldo foram o Espírito Santo, que apresentou saldo negativo de 2.259 vagas; Tocantins, também com saldo negativo de 135 postos, e Rondônia, que gerou 108 postos de trabalho.&lt;/p&gt;
-&lt;p&gt;Proporcionalmente, o destaque ficou para o Amapá, que gerou 1.111 vagas; o Acre, com 980 postos e Mato Grosso, com 8.258 postos.&lt;/p&gt;
-&lt;p&gt;O salário médio real de admissão em junho foi de R$ 2.404,34. Comparado ao mês anterior, houve um aumento real de R$ 16,90 no salário médio de admissão.&lt;/p&gt;
-&lt;p&gt;Os jovens de 18 a 24 anos representaram 100.597 vagas nas contratações e os adolescentes até 17 anos, 24.833 vagas.&lt;/p&gt;
-&lt;p&gt;Para o grupo de 25 a 29 anos, o saldo foi de 13.007 vagas e o de 30 anos ou mais, 6.724.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/brasil-fecha-o-mes-de-junho-com-saldo-positivo-de-145161-empregos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal JrAgência Brasil
-O Brasil fechou o mês de junho com saldo positivo de 145.161 empregos com carteira assinada, segundo o Novo Cadastr...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-07-29 16:09:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-29 16:09:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-29 16:09:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-29 16:09:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/LJri3GhTJ72Wf7fM-fz7eZavuAc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/01_carteira_de_trabalho2.jpg?itok=GzY9W8yM</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Poesia na infância alimenta sensibilidade, diz escritor</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/poesia-na-infancia-alimenta-sensibilidade-diz-escritor</link>
-      <pubDate>Wed, 29 Jul 2026 21:52:52 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/poesia-na-infancia-alimenta-sensibilidade-diz-escritor#1009</guid>
-      <description>Com uma linguagem precisa, que transformou uma nuvem em &quot;a flor do céu&quot;, a poeta Orides Fontela teve parte de sua obra adaptada para a infâ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dbCOH2pQXWp36C5iBJQjEbewNSc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/28/0g0a4564.jpg?itok=KFDmPppE&quot; alt=&quot;Poesia na infância alimenta sensibilidade, diz escritor&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Com uma linguagem precisa, que transformou uma nuvem em &quot;a flor do céu&quot;, a poeta Orides Fontela teve parte de sua obra adaptada para a infância. Ao reunir literatura, arte e natureza,&lt;/p&gt;
-&lt;p&gt;(Editora Hedra) oferece às crianças possibilidades de contemplação e curiosidade,marcas dos poemas da autora.&lt;/p&gt;
-&lt;p&gt;Lançado neste mês de julho, o livro propõe uma aproximação das novas gerações à poesia de Orides.&lt;/p&gt;
-&lt;p&gt;Orides parte de elementos simples e cotidianos, como um pássaro, uma nuvem, uma flor, uma vaca, caleidoscópio, para refletir sobre o mundo, o tempo e a espera.&lt;/p&gt;
-&lt;p&gt;“Fico imaginando uma criança que se depara com os poemas da Orides, tão cheios de mistério e quase queimando na ponta da língua de tanta intensidade. É uma chance de acriança lembrar do susto e da beleza de ver o mundo por outra perspectiva”, disse o poeta e educador André Gravatá, em entrevista à&lt;/p&gt;
-&lt;p&gt;O poeta lembra da ocasião em que uma criança lhe contou sobre ter conversado com a água. “Ela estava escovando os dentes e decidiu se declarar dizendo ‘eu te amo’ para a água. O que é isso senão um poema vivido no corpo? Criança que lê poesia encontra alimento para nutrir sua sensibilidade, para continuar brincando, se espantando.”&lt;/p&gt;
-&lt;p&gt;Gravatáé autor de livros infantis como&lt;/p&gt;
-&lt;p&gt;Todo mundo rodopia enquanto rodopia o mundo&lt;/p&gt;
-&lt;p&gt;“Provocar a paixão pela literatura já na infância é fundamental”, disse o poeta.&lt;/p&gt;
-&lt;p&gt;André ressalta que as crianças amam ouvir poemas, ainda mais quando quem apresenta a poesia para elas têm paixão pelo que diz. “Poetas brincam com as palavras, assim como as crianças brincam com tudo que encontram, então elas sabem bem a essência do ofício de quem trama poemas”, concluiu.&lt;/p&gt;
-&lt;p&gt;foi celebrado em mesa de conversa com a presença do organizador Augusto Massi e da ilustradora Cynthia Cruttenden, na Casa da Árvore, durante a 24ªFesta Literária Internacional de Paraty (Flip), em que&lt;/p&gt;
-&lt;p&gt;Orides foi a autora homenageada&lt;/p&gt;
-&lt;p&gt;. A autora morreu em 1998, aos 58 anos, logo após o lançamento de&lt;/p&gt;
-&lt;p&gt;Para Massi, a poesia de Orides compartilha com a infância uma mesma postura diante do mundo: o olhar investigativo e a liberdade de interpretação.&lt;/p&gt;
-&lt;p&gt;“Tem espaço no livro, contrastes, exatamente para que a criança possa fazer perguntas. Outra coisa que a Orides ensina é realmente tecer considerações sobre as coisas, [como faz] ao descrever certos pássaros. O João de Barros que aparece e ela fala: ‘É o pássaro operário, é o pássaro trabalhador’”, disse, no evento.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/poesia-na-infancia-alimenta-sensibilidade-diz-escritor&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Com uma linguagem precisa, que transformou uma nuvem em &quot;a flor do céu&quot;, a poeta Orides Fontela teve parte de sua obra adaptada para a infâ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-07-29 15:56:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-29 15:56:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-29 15:56:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-29 15:56:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/dbCOH2pQXWp36C5iBJQjEbewNSc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/28/0g0a4564.jpg?itok=KFDmPppE</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
