@@ -332,8 +332,11 @@ def criar_feed_fortaleza():
         # Usar data atual
         HOJE = utc_agora.date()
         print(f"✅ Fuso correto: UTC {hora_utc:02d}:00 = Brasil {(hora_utc-3)%24:02d}:00")
+        
+    ONTEM = HOJE - timedelta(days=1)
+    DATAS_ALVO = [HOJE, ONTEM]
     
-    print(f"📅 Data de referência (Brasília): {HOJE.strftime('%d/%m/%Y')}")
+    print(f"📅 Data de referência (Brasília): {HOJE.strftime('%d/%m/%Y')} e {ONTEM.strftime('%d/%m/%Y')}")
     print(f"⏰ UTC atual: {utc_agora.strftime('%H:%M')}")
     print("-" * 60)
     
@@ -399,7 +402,7 @@ def criar_feed_fortaleza():
                     print("   ⚠️  Nenhuma notícia encontrada na página")
                     break
                 
-                encontrou_hoje = False
+                encontrou_alvo = False
                 
                 for container in containers:
                     try:
@@ -424,9 +427,9 @@ def criar_feed_fortaleza():
                             print(f"      ⚠️  Não consegui converter data")
                             continue
                         
-                        # Verificar se é de hoje
-                        if data_noticia == HOJE:
-                            encontrou_hoje = True
+                        # Verificar se é de hoje ou ontem
+                        if data_noticia in DATAS_ALVO:
+                            encontrou_alvo = True
                             
                             # Link
                             link_tag = container.find('a', class_='btn-reveal')
@@ -512,11 +515,11 @@ def criar_feed_fortaleza():
                         print(f"    ⚠️  Erro: {str(e)[:30]}")
                         continue
                 
-                print(f"   📊 Notícias de HOJE nesta página: {sum(1 for n in noticias_hoje if n.get('pagina') == pagina)}")
+                print(f"   📊 Notícias recentes nesta página: {sum(1 for n in noticias_hoje if n.get('pagina') == pagina)}")
                 
-                # Se não encontrou notícias de hoje E já viu algumas páginas, parar
-                if not encontrou_hoje and pagina >= 2:
-                    print("   ⏹️  Nenhuma notícia de hoje, parando busca")
+                # Se não encontrou notícias recentes E já viu algumas páginas, parar
+                if not encontrou_alvo and pagina >= 2:
+                    print("   ⏹️  Nenhuma notícia recente, parando busca")
                     break
                 
                 # Próxima página
@@ -548,7 +551,7 @@ def criar_feed_fortaleza():
         
         print("-" * 60)
         print(f"📈 Busca concluída: {pagina} página(s)")
-        print(f"🎯 Notícias de HOJE encontradas: {len(noticias_hoje)}")
+        print(f"🎯 Notícias recentes (hoje/ontem) encontradas: {len(noticias_hoje)}")
         
         # ================= 3. EXTRAIR CONTEÚDO COMPLETO =================
         print(f"\n📥 Extraindo conteúdo completo das notícias...")
@@ -609,7 +612,7 @@ def criar_feed_fortaleza():
         
         # ================= 4. VERIFICAR RESULTADO =================
         if len(noticias_com_conteudo) == 0:
-            print("\n📭 Nenhuma notícia encontrada para hoje")
+            print("\n📭 Nenhuma notícia encontrada para hoje/ontem")
             print("   Possíveis causas:")
             print("   1. Realmente não há notícias novas")
             print(f"   2. Data de referência: {HOJE.strftime('%d/%m/%Y')}")
@@ -620,9 +623,9 @@ def criar_feed_fortaleza():
             xml_vazio = f'''<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>Notícias Fortaleza - {HOJE.strftime("%d/%m/%Y")}</title>
+<title>Notícias Fortaleza - Recentes</title>
 <link>{URL_BASE}</link>
-<description>Sem notícias novas hoje. Última verificação: {utc_agora.strftime("%H:%M")} UTC</description>
+<description>Sem notícias recentes. Última verificação: {utc_agora.strftime("%H:%M")} UTC</description>
 <lastBuildDate>{utc_agora.strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>
 <ttl>30</ttl>
 </channel>
@@ -653,9 +656,9 @@ def criar_feed_fortaleza():
         xml_parts.append('<?xml version="1.0" encoding="UTF-8"?>')
         xml_parts.append('<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">')
         xml_parts.append('<channel>')
-        xml_parts.append(f'<title>Notícias Fortaleza - {HOJE.strftime("%d/%m/%Y")}</title>')
+        xml_parts.append(f'<title>Notícias Fortaleza - Recentes</title>')
         xml_parts.append(f'<link>{URL_BASE}</link>')
-        xml_parts.append(f'<description>{len(noticias_com_conteudo)} notícias publicadas hoje ({com_conteudo} com conteúdo completo)</description>')
+        xml_parts.append(f'<description>{len(noticias_com_conteudo)} notícias recentes ({com_conteudo} com conteúdo completo)</description>')
         xml_parts.append('<language>pt-br</language>')
         xml_parts.append(f'<lastBuildDate>{utc_agora.strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>')
         xml_parts.append('<ttl>60</ttl>')
