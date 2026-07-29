@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - 29/07/2026</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias novas hoje. Última verificação: 12:02 UTC</description>
-<lastBuildDate>Wed, 29 Jul 2026 12:02:44 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias publicadas hoje (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Wed, 29 Jul 2026 14:35:49 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Idosos são responsáveis por 45% dos casos de engasgo atendidos pelo Samu</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/idosos-sao-responsaveis-por-45-dos-casos-de-engasgo-atendidos-pelo-samu</link>
+<guid isPermaLink="false">fortaleza-20260729-0faf7b632656</guid>
+<pubDate>Wed, 29 Jul 2026 10:44:00 +0000</pubDate>
+<description>Idosos são responsáveis por 45% dos casos de engasgo atendidos pelo Samu - Quarta, 29 Julho 2026 10:44</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/SAÚDE.png" alt="Idosos são responsáveis por 45% dos casos de engasgo atendidos pelo Samu" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>Entre janeiro e junho deste ano, o Serviço de Atendimento Móvel de Urgência (Samu) de Fortaleza atendeu 135 ocorrências de engasgo, situação em que um alimento, líquido ou objeto obstrui a passagem de ar para os pulmões. Do total de atendimentos, 61 envolveram idosos, o que corresponde a 45% dos casos. O número reforça a importância dos cuidados preventivos nessa faixa etária.</p>
+<p>Mastigar bem os alimentos, ingerir líquidos com calma e evitar falar durante as refeições são medidas essenciais para reduzir o risco de obstrução das vias aéreas por corpo estranho (Ovace), popularmente conhecida como engasgo. Idosos com autonomia reduzida devem ser supervisionados durante as refeições, garantindo um suporte rápido e adequado em caso de acidentes com alimentos.</p>
+<p>O gerente do Samu Fortaleza, Cristiano Rôla, explica que o engasgo é um evento súbito, mas que, em determinados casos, exige atenção imediata. "O engasgo ocorre de forma súbita. A pessoa está bem e, de repente, passa a demonstrar sinais de aflição, não consegue tossir e apresenta coloração arroxeada. Caso a pessoa apresente esses sinais, é fundamental aplicar rapidamente a manobra de Heimlich, enquanto outra pessoa aciona o Samu pelo número 192", orienta.</p>
+<p>Cristiano reforça que os idosos demandam atenção redobrada. Alterações anatômicas e funcionais decorrentes do envelhecimento, além de outras fragilidades que podem surgir com a idade, aumentam o risco de engasgo nessa faixa etária. “Os idosos podem apresentar dificuldades na mastigação e na deglutição, o que pode aumentar as chances de obstrução das vias aéreas por corpo estranho”, explica.</p>
+<p><strong>Manobra de Heimlich</strong></p>
+<p>A técnica utilizada para desobstrução das vias aéreas em casos de engasgo passou por atualização neste ano, com o objetivo de aumentar sua eficácia. A mudança segue estudo realizado pela American Heart Association (AHA), organização responsável pela publicação de diretrizes sobre ressuscitação cardiopulmonar.</p>
+<p>Antes da atualização, a manobra de Heimlich era baseada principalmente em compressões na região abdominal. Com a nova orientação, a técnica passou a priorizar batidas nas costas.</p>
+<p><strong><a href="https://ms.dados.sms.fortaleza.ce.gov.br/IMG_0975.MP4">Assista ao vídeo sobre a manobra de Heimlich</a></strong></p>
+<p>Dos 135 atendimentos realizados pelo Samu, 61 foram com idosos; 20 com pessoas de 18 a 59 anos; 28 com pacientes de 1 a 17 anos; e 26 com crianças de até 11 meses de idade.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/idosos-sao-responsaveis-por-45-dos-casos-de-engasgo-atendidos-pelo-samu" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/SAÚDE.png" type="image/jpeg" />
+<media:content url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/SAÚDE.png" type="image/jpeg" medium="image">
+<media:title>Idosos são responsáveis por 45% dos casos de engasgo atendidos pelo Samu</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
