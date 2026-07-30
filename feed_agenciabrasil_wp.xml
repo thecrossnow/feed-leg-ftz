@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Thu, 30 Jul 2026 01:46:49 +0000</pubDate>
+    <pubDate>Thu, 30 Jul 2026 04:52:07 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,107 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Ventos provocam danos na Costa Verde e na região serrana do RJ</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/ventos-provocam-danos-na-costa-verde-e-na-regiao-serrana-do-rj</link>
+      <pubDate>Thu, 30 Jul 2026 04:52:07 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/ventos-provocam-danos-na-costa-verde-e-na-regiao-serrana-do-rj#1000</guid>
+      <description>A ventania que atingiu o município do Rio de Janeiro, com ventos que ultrapassaram 105 quilômetros por hora(km/h), também afetououtras cidades da reg...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Ventos provocam danos na Costa Verde e na região serrana do RJ&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A ventania que atingiu o município do Rio de Janeiro, com ventos que ultrapassaram 105 quilômetros por hora(km/h), também afetououtras cidades da região metropolitana, como a Costa Verde e a região serrana.&lt;/p&gt;
+&lt;p&gt;Em Angra dos Reis, na Costa Verde, a prefeitura informou que houve registro de rajadas de vento de até 104 km/h na tarde desta quarta-feira(29), que derrubaram árvores em diversos pontos da cidade e um veículo foi atingido pela queda.&lt;/p&gt;
+&lt;p&gt;Um pescador desapareceu na praia de Mambucaba, distrito de Angra dos Reis.&lt;/p&gt;
+&lt;p&gt;A embarcação em que ele estava virou e o homem foi arrastado. O Corpo de Bombeiros tenta localizar o pescador.&lt;/p&gt;
+&lt;p&gt;O município está em estado de alerta e o aviso meteorológico vale até as 23h59. Equipes da prefeitura trabalham paradesobstrução das vias e no atendimento às ocorrências.&lt;/p&gt;
+&lt;p&gt;Na cidade de Mangaratiba, a ventania causou danos à rede elétrica com diferentes bairros ficandosem energia. Moradores relataram ainda quedas de galhos de árvores.&lt;/p&gt;
+&lt;p&gt;Até o momento, não há informações sobre a quantidade de imóveis afetados ou previsão para a normalização do serviço.&lt;/p&gt;
+&lt;p&gt;As embarcações de pesca e as lanchas de turismo retornaram do mar, devido aos fortes ventosque atingiram mais de 90 km/h.&lt;/p&gt;
+&lt;p&gt;Em diferentes pontos de Itaguaí, moradores relataram quedas de árvores, destelhamentos e interrupções no fornecimento de luz.&lt;/p&gt;
+&lt;p&gt;As autoridades orientam a população a evitar áreas com risco de queda de árvores e fiação, além de acompanhar os comunicados oficiais sobre as condições do tempo.&lt;/p&gt;
+&lt;p&gt;PSB oficializa Alckmin como candidato à reeleição como vice-presidente&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 29 de julho de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Ventos provocam danos na Costa Verde e na região serrana do RJ&lt;/p&gt;
+&lt;p&gt;Rio Guaíba pode atingir cota de alerta até sexta-feira em Porto Alegre&lt;/p&gt;
+&lt;p&gt;TRE-SP multa Lula por propaganda eleitoral antecipada; cabe recurso&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/ventos-provocam-danos-na-costa-verde-e-na-regiao-serrana-do-rj&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A ventania que atingiu o município do Rio de Janeiro, com ventos que ultrapassaram 105 quilômetros por hora(km/h), também afetououtras cidades da reg...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-07-29 21:33:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-29 21:33:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-29 21:33:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-29 21:33:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Rio Guaíba pode atingir cota de alerta até sexta-feira em Porto Alegre</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/rio-guaiba-pode-atingir-cota-de-alerta-ate-sexta-feira-em-porto-alegre</link>
+      <pubDate>Thu, 30 Jul 2026 04:52:07 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/rio-guaiba-pode-atingir-cota-de-alerta-ate-sexta-feira-em-porto-alegre#1001</guid>
+      <description>© ARQUIVO/Gilvan Rocha/Agência Brasil
+O boletim de monitoramento e previsão hidrológica do Serviço Geológico do Brasil (SGB)indicaque o rio Guaíba po...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/d12OzdY8adg4pKrRaV91GBznv2g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/05/03/imagem_do_whatsapp_de_2024-05-03_as_15.37.59_59e3b9ea.jpg?itok=NARP2Q1B&quot; alt=&quot;Rio Guaíba pode atingir cota de alerta até sexta-feira em Porto Alegre&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© ARQUIVO/Gilvan Rocha/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O boletim de monitoramento e previsão hidrológica do Serviço Geológico do Brasil (SGB)indicaque o rio Guaíba pode atingir a cota de alerta (2,60m) em Porto Alegre até esta sexta-feira (31). Há ainda a possibilidade de o nível alcançar a cota de inundação de 3 metros.&lt;/p&gt;
+&lt;p&gt;Até agora, não existe previsão de um evento extremo nas proporções da enchente histórica de maio de 2024 para os próximos dias.&lt;/p&gt;
+&lt;p&gt;Segundo o boletim, aquantidade de chuva nas cabeceiras dos rios afluentes já está descendo em direção à região metropolitana, fazendo com que os níveis voltem a subir no Guaíba e no Delta do Jacuí.&lt;/p&gt;
+&lt;p&gt;As simulações nos rios Jacuí, dos Sinos e Gravataí indicam elevação dos níveis de água. No entanto, por dependerem da confirmação do volume de chuva previsto para os próximos dias, os níveis ainda são avaliados com cautela, por meio da análise dos boletins diários de monitoramento e previsão hidrológica.&lt;/p&gt;
+&lt;p&gt;Durante esse período em que os níveis estão elevados no Guaíba, o Serviço Geológico seguirá emitindo boletins diários com reavaliações das condições dos rios a partir dos novos dados observados e das atualizações das previsões meteorológicas, garantindo o acompanhamento da situação nas áreas monitoradas.&lt;/p&gt;
+&lt;p&gt;Os cenários previstos podem ser alterados a qualquer momento em função das novas chuvas previstas, que podem influenciar a evolução dos níveis do rio e das condições hidrológicas na bacia.&lt;/p&gt;
+&lt;p&gt;As previsões do Boletim de Monitoramento e Previsão Hidrológica da Bacia do Guaíba são elaboradas pelo Serviço Geológico do Brasil (SGB) em conjunto com o Grupo de Pesquisas em Hidrologia de Grande Escala do Instituto de Pesquisas Hidráulicas da Universidade Federal do Rio Grande do Sul (Ufrgs).&lt;/p&gt;
+&lt;p&gt;PSB oficializa Alckmin como candidato à reeleição como vice-presidente&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 29 de julho de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Ventos provocam danos na Costa Verde e na região serrana do RJ&lt;/p&gt;
+&lt;p&gt;Rio Guaíba pode atingir cota de alerta até sexta-feira em Porto Alegre&lt;/p&gt;
+&lt;p&gt;TRE-SP multa Lula por propaganda eleitoral antecipada; cabe recurso&lt;/p&gt;
+&lt;p&gt;PSB oficializa candidatura de Alckmin à Vice-Presidência da República&lt;/p&gt;
+&lt;p&gt;Rio de Janeiro tem duas mortes e um desaparecido depois de ventania&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/rio-guaiba-pode-atingir-cota-de-alerta-ate-sexta-feira-em-porto-alegre&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© ARQUIVO/Gilvan Rocha/Agência Brasil
+O boletim de monitoramento e previsão hidrológica do Serviço Geológico do Brasil (SGB)indicaque o rio Guaíba po...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-07-29 21:24:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-29 21:24:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-29 21:24:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-29 21:24:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/d12OzdY8adg4pKrRaV91GBznv2g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/05/03/imagem_do_whatsapp_de_2024-05-03_as_15.37.59_59e3b9ea.jpg?itok=NARP2Q1B</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>TRE-SP multa Lula por propaganda eleitoral antecipada; cabe recurso</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/tre-sp-multa-lula-por-propaganda-eleitoral-antecipada-cabe-recurso</link>
-      <pubDate>Thu, 30 Jul 2026 01:46:49 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 04:52:07 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/tre-sp-multa-lula-por-propaganda-eleitoral-antecipada-cabe-recurso#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/tre-sp-multa-lula-por-propaganda-eleitoral-antecipada-cabe-recurso#1002</guid>
       <description>O Tribunal Regional Eleitoral de São Paulo (TRE-SP) multouno valor de R$ 15 mil o presidente Luiz Inácio Lula da Silvapor campanha eleitoral antecipa...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yfq5ykf2gFKfcxfb67LHSyJbJrE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/29/tre_sp.jpeg?itok=JatgXN-7&quot; alt=&quot;TRE-SP multa Lula por propaganda eleitoral antecipada; cabe recurso&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Tribunal Regional Eleitoral de São Paulo (TRE-SP) multouno valor de R$ 15 mil o presidente Luiz Inácio Lula da Silvapor campanha eleitoral antecipada. Cabe recurso da decisão.&lt;/p&gt;
@@ -35,9 +131,15 @@
 &lt;p&gt;Na ação, a defesa de Lula argumentou que a manifestação tinha caráter institucional e sem conteúdo eleitoral, com a&quot;inexistência de pedido explícito de voto&quot;.&lt;/p&gt;
 &lt;p&gt;Simone Tebet e Marina Silva foram acionadas na representação, mas o juiz entendeu que não deveriam sofrer sanções, pois não têm responsabilidade pela declaração.&lt;/p&gt;
 &lt;p&gt;PSB oficializa Alckmin como candidato à reeleição como vice-presidente&lt;/p&gt;
-&lt;p&gt;Eleitores em situação de vulnerabilidade podem alterar local do voto&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/tre-sp-multa-lula-por-propaganda-eleitoral-antecipada-cabe-recurso&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Repórter Brasil de 29 de julho de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Ventos provocam danos na Costa Verde e na região serrana do RJ&lt;/p&gt;
+&lt;p&gt;Rio Guaíba pode atingir cota de alerta até sexta-feira em Porto Alegre&lt;/p&gt;
+&lt;p&gt;TRE-SP multa Lula por propaganda eleitoral antecipada; cabe recurso&lt;/p&gt;
+&lt;p&gt;PSB oficializa candidatura de Alckmin à Vice-Presidência da República&lt;/p&gt;
+&lt;p&gt;Rio de Janeiro tem duas mortes e um desaparecido depois de ventania&lt;/p&gt;
+&lt;p&gt;EBC lança convocatória do Prêmio TV Brasil Petrobras Para Elas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/tre-sp-multa-lula-por-propaganda-eleitoral-antecipada-cabe-recurso&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Tribunal Regional Eleitoral de São Paulo (TRE-SP) multouno valor de R$ 15 mil o presidente Luiz Inácio Lula da Silvapor campanha eleitoral antecipa...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-07-29 20:56:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 20:56:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 20:56:00</wp:post_modified>
@@ -63,9 +165,9 @@
     <item>
       <title>PSB oficializa candidatura de Alckmin à Vice-Presidência da República</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/psb-oficializa-candidatura-de-geraldo-alckmin-vice-presidencia</link>
-      <pubDate>Thu, 30 Jul 2026 01:46:49 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 04:52:07 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/psb-oficializa-candidatura-de-geraldo-alckmin-vice-presidencia#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/psb-oficializa-candidatura-de-geraldo-alckmin-vice-presidencia#1003</guid>
       <description>O Partido Socialista Brasileiro (PSB) oficializou o apoio de Luiz Inácio Lula da Silva à reeleição e a candidatura à reeleição de Geraldo Alckmin com...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qTrLI2WIRC9MV-vjgXSujTeC4lg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/17/54393707349_786d568f6f_o.jpg?itok=e7GOXeRw&quot; alt=&quot;PSB oficializa candidatura de Alckmin à Vice-Presidência da República&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Partido Socialista Brasileiro (PSB) oficializou o apoio de Luiz Inácio Lula da Silva à reeleição e a candidatura à reeleição de Geraldo Alckmin como vice-presidente.&lt;/p&gt;
@@ -84,7 +186,7 @@
 &lt;p&gt;Partido dos Trabalhadores (PT) – 2 de agosto&lt;/p&gt;
 &lt;p&gt;Partido Socialista Brasileiro (PSB) – 2 de agosto&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/psb-oficializa-candidatura-de-geraldo-alckmin-vice-presidencia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Partido Socialista Brasileiro (PSB) oficializou o apoio de Luiz Inácio Lula da Silva à reeleição e a candidatura à reeleição de Geraldo Alckmin com...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-07-29 20:51:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 20:51:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 20:51:00</wp:post_modified>
@@ -110,9 +212,9 @@
     <item>
       <title>Rio de Janeiro tem duas mortes e um desaparecido depois de ventania</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rio-de-janeiro-tem-duas-mortes-e-um-desaparecido-depois-de-ventania</link>
-      <pubDate>Thu, 30 Jul 2026 01:46:49 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 04:52:07 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rio-de-janeiro-tem-duas-mortes-e-um-desaparecido-depois-de-ventania#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rio-de-janeiro-tem-duas-mortes-e-um-desaparecido-depois-de-ventania#1004</guid>
       <description>Duas pessoas morreram com o desabamento de um muro em Santa Teresa, na região central da capital fluminense, depois da ventania que atingiu o estado ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UBlHJB2cbv6lJJhbNG0g7SuXH38=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/29/img_9430.jpg?itok=LtopfejQ&quot; alt=&quot;Rio de Janeiro tem duas mortes e um desaparecido depois de ventania&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Duas pessoas morreram com o desabamento de um muro em Santa Teresa, na região central da capital fluminense, depois da ventania que atingiu o estado do Rio de Janeiro na tarde desta quarta-feira (29).&lt;/p&gt;
@@ -131,7 +233,7 @@
 &lt;p&gt;Segundo a TrensRJ, que administra o sistema ferroviário da cidade, as operações continuam suspensas para realização de vistorias. O objetivo é garantir o retorno seguro da circulação dos trens.&lt;/p&gt;
 &lt;p&gt;A concessionária Metrô Rio disse que o funcionamento das três linhas na cidade foi interrompido às 16h40.Passageiros relataram nas redes sociais que ficaram presos dentro das composições. Horas depois, a empresa divulgou que a circulação das linhas 1, 2 e 4 estava em processo de normalização.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rio-de-janeiro-tem-duas-mortes-e-um-desaparecido-depois-de-ventania&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Duas pessoas morreram com o desabamento de um muro em Santa Teresa, na região central da capital fluminense, depois da ventania que atingiu o estado ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-07-29 20:35:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 20:35:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 20:35:00</wp:post_modified>
@@ -157,9 +259,9 @@
     <item>
       <title>EBC lança convocatória do Prêmio TV Brasil Petrobras Para Elas</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ebc-lanca-convocatoria-do-premio-tv-brasil-petrobras-para-elas</link>
-      <pubDate>Thu, 30 Jul 2026 01:46:49 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 04:52:07 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ebc-lanca-convocatoria-do-premio-tv-brasil-petrobras-para-elas#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ebc-lanca-convocatoria-do-premio-tv-brasil-petrobras-para-elas#1005</guid>
       <description>AEmpresa Brasil de Comunicação (EBC)lançou nesta terça-feira (28) a convocatória nacional para a primeira edição doPrêmio TV Brasil Petrobras Para El...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZEXo3CmUV6m_M7o5QEUR-yB4C0E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/29/premio_tv_brasil_petrobras_para_elas.png?itok=PF335W3M&quot; alt=&quot;EBC lança convocatória do Prêmio TV Brasil Petrobras Para Elas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;AEmpresa Brasil de Comunicação (EBC)lançou nesta terça-feira (28) a convocatória nacional para a primeira edição doPrêmio TV Brasil Petrobras Para Elas.&lt;/p&gt;
@@ -178,7 +280,7 @@
 &lt;p&gt;As demais categorias terão votação restrita ao júri técnico composto por representantes dos clubes participantes do Campeonato Brasileiro de Futebol Feminino A1 2026. São elas: Melhor Jogadora da Temporada em Competições Nacionais, Artilheira da Temporada em Competições Nacionais, Jogadora Revelação em Competições Nacionais, Melhor Treinadora ou Treinador em Competições Nacionais, Gol Mais Bonito em Competições Nacionais, Departamento de Futebol Feminino da Temporada e Seleção da Temporada, formada por 11 jogadoras distribuídas por posição.&lt;/p&gt;
 &lt;p&gt;Também está prevista a concessão do Prêmio Especial Futebol Feminino Contra o Feminicídio, voltado a reconhecer ações de clubes no enfrentamento à violência contra a mulher.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-07/ebc-lanca-convocatoria-do-premio-tv-brasil-petrobras-para-elas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>AEmpresa Brasil de Comunicação (EBC)lançou nesta terça-feira (28) a convocatória nacional para a primeira edição doPrêmio TV Brasil Petrobras Para El...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-07-29 20:28:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 20:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 20:28:00</wp:post_modified>
@@ -204,9 +306,9 @@
     <item>
       <title>Defesa Civil reconhece situação de emergência em duas cidades gaúchas</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/defesa-civil-reconhece-situacao-de-emergencia-em-duas-cidades-gauchas</link>
-      <pubDate>Thu, 30 Jul 2026 01:46:49 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 04:52:07 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/defesa-civil-reconhece-situacao-de-emergencia-em-duas-cidades-gauchas#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/defesa-civil-reconhece-situacao-de-emergencia-em-duas-cidades-gauchas#1006</guid>
       <description>© Prefeitura de São Sebastião do Caí
 A Defesa Civil Nacional, vinculada ao Ministério da Integração e do Desenvolvimento Regional, reconheceu a situa...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6AEu36VfVYrF1zn26pP11vUbXwk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/29/1_rio_cai-22835134.jpg?itok=7kUGf3SQ&quot; alt=&quot;Defesa Civil reconhece situação de emergência em duas cidades gaúchas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -222,12 +324,12 @@ A Defesa Civil Nacional, vinculada ao Ministério da Integração e do Desenvolv
 &lt;p&gt;Somente nesta terça-feira (28), 114 municípios foram atingidos por queda de granizo, vendaval, chuva intensa e um tornado.&lt;/p&gt;
 &lt;p&gt;Há previsão de mais tempestades no próximo fim de semana.&lt;/p&gt;
 &lt;p&gt;PSB oficializa Alckmin como candidato à reeleição como vice-presidente&lt;/p&gt;
-&lt;p&gt;Eleitores em situação de vulnerabilidade podem alterar local do voto&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 29 de julho de 2026; assista na íntegra&lt;/p&gt;
 &lt;p&gt;Ventos provocam danos na Costa Verde e na região serrana do RJ&lt;/p&gt;
 &lt;p&gt;Rio Guaíba pode atingir cota de alerta até sexta-feira em Porto Alegre&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/defesa-civil-reconhece-situacao-de-emergencia-em-duas-cidades-gauchas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Prefeitura de São Sebastião do Caí
 A Defesa Civil Nacional, vinculada ao Ministério da Integração e do Desenvolvimento Regional, reconheceu a situa...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-07-29 19:37:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 19:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 19:37:00</wp:post_modified>
@@ -251,58 +353,11 @@ A Defesa Civil Nacional, vinculada ao Ministério da Integração e do Desenvolv
       </wp:postmeta>
     </item>
     <item>
-      <title>Brasil rejeita prorrogação de emergência nacional dos EUA</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/brasil-rejeita-prorrogacao-de-emergencia-nacional-dos-eua</link>
-      <pubDate>Thu, 30 Jul 2026 01:46:49 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/brasil-rejeita-prorrogacao-de-emergencia-nacional-dos-eua#1005</guid>
-      <description>O governo brasileiro repudiou nesta terça-feira (29) a decisão dos Estados Unidos de prorrogar por mais um ano a declaração de emergência nacional em...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QaIwF0LC9wzQCAJsbSIz1F9oVv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/30/52135407906_56bdd43e2d_o.jpg?itok=B3rOceP5&quot; alt=&quot;Brasil rejeita prorrogação de emergência nacional dos EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O governo brasileiro repudiou nesta terça-feira (29) a decisão dos Estados Unidos de prorrogar por mais um ano a declaração de emergência nacional em relação ao Brasil.&lt;/p&gt;
-&lt;p&gt;Em nota divulgada pela Secretaria de Comunicação Social (Secom) da Presidência da República, o Executivo classificou como infundadas as justificativas apresentadas pela Casa Branca e reafirmou a soberania nacional e a independência entre os Poderes.&lt;/p&gt;
-&lt;p&gt;Segundo a manifestação oficial, a decisão estadunidense repete acusações sem respaldo nos fatos ao sustentar que o Brasil representa uma ameaça à segurança nacional, à política externa e à economia dos Estados Unidos.&lt;/p&gt;
-&lt;p&gt;Na nota, o governo brasileiro afirma que a declaração &quot;reitera argumentos infundados e inverídicos&quot; ao mencionar supostas violações à liberdade de expressão, aos direitos humanos e alegações de perseguição política a um ex-presidente brasileiro, sua família e apoiadores.&lt;/p&gt;
-&lt;p&gt;O Executivo também declarou que &quot;é inteiramente descabido caracterizar o Brasil como ameaça aos Estados Unidos, especialmente à luz dos históricos laços diplomáticos e da amizade que une os dois povos&quot;.&lt;/p&gt;
-&lt;p&gt;Ainda de acordo com a Secom, as acusações já foram amplamente rebatidas em reuniões entre autoridades dos dois países. O governo ressaltou que o Poder Judiciário brasileiro atua de forma independente e em conformidade com a Constituição Federal.&lt;/p&gt;
-&lt;p&gt;Casa Branca anunciou a prorrogação&lt;/p&gt;
-&lt;p&gt;, por mais um ano, da emergência nacional em relação ao Brasil, mantendo em vigor a ordem executiva assinada pelo presidente Donald Trump em 30 de julho de 2025.&lt;/p&gt;
-&lt;p&gt;Após a publicação no Federal Register, o diário oficial do governo estadunidense, e o encaminhamentoao Congresso dos Estados Unidos, a medida permanecerá em vigor pelo menos até 30 de julho de 2027.&lt;/p&gt;
-&lt;p&gt;Na justificativa, o governo estadunidense afirma que continuam existindo as condições que motivaram a edição da Ordem Executiva 14323.&lt;/p&gt;
-&lt;p&gt;Segundo essa ordem, políticas e ações adotadas pelo governo brasileiro representam uma ameaça à segurança nacional, à política externa e à economia dos Estados Unidos.&lt;/p&gt;
-&lt;p&gt;A Casa Branca também voltou a acusar autoridades brasileiras de restringirem a liberdade de expressão de cidadãos e empresas estadunidenses, de promoverem violações de direitos humanos e de adotarem medidas que afetariam interesses dos Estados Unidos.&lt;/p&gt;
-&lt;p&gt;O texto cita ainda decisões do Supremo Tribunal Federal (STF) relacionadas à remoção de conteúdos em plataformas digitais e à prisão de pessoas por manifestações, classificadas pelo governo estadunidense como atos de censura. O documento também repete a alegação de que um ex-presidente brasileiro, familiares e apoiadores estariam sendo alvo de perseguição política.&lt;/p&gt;
-&lt;p&gt;A renovação da emergência nacional ocorre após um ano de agravamento das tensões entre Brasília e Washington. Desde a edição da ordem executiva, em julho de 2025, a administração Trump adotou uma série de medidas contra o Brasil, incluindo a abertura de investigações comerciais, a imposição de tarifas sobre produtos brasileiros e críticas às decisões do STF sobre moderação de conteúdo em plataformas digitais e o julgamento do ex-presidente Jair Bolsonaro.&lt;/p&gt;
-&lt;p&gt;Em resposta, o governo brasileiro intensificou as negociações diplomáticas com autoridades estadunidenses e contestou as medidas na Organização Mundial do Comércio (OMC), sob o argumento de que as tarifas violam regras do comércio internacional. Integrantes do Executivo também têm reiterado que o Judiciário atua de forma independente, enquanto o STF sustenta que suas decisões seguem a Constituição e a legislação brasileira.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/brasil-rejeita-prorrogacao-de-emergencia-nacional-dos-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O governo brasileiro repudiou nesta terça-feira (29) a decisão dos Estados Unidos de prorrogar por mais um ano a declaração de emergência nacional em...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-07-29 19:23:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-29 19:23:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-29 19:23:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-29 19:23:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/QaIwF0LC9wzQCAJsbSIz1F9oVv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/30/52135407906_56bdd43e2d_o.jpg?itok=B3rOceP5</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
       <title>Força-tarefa resgata 89 pessoas em condições degradantes de trabalho</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/forca-tarefa-resgata-89-pessoas-em-condicoes-degradantes-de-trabalho</link>
-      <pubDate>Thu, 30 Jul 2026 01:46:49 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 04:52:07 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/forca-tarefa-resgata-89-pessoas-em-condicoes-degradantes-de-trabalho#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/forca-tarefa-resgata-89-pessoas-em-condicoes-degradantes-de-trabalho#1007</guid>
       <description>Força-tarefa coordenada pela Auditoria-Fiscal do Trabalho resgatou 89 trabalhadores em condições degradantes durante a colheita de café em três propr...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/nA_JyI59w7rRXBq6D9Ix2Yqfu5k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/31/mte.jpg?itok=liJ7JWdF&quot; alt=&quot;Força-tarefa resgata 89 pessoas em condições degradantes de trabalho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Força-tarefa coordenada pela Auditoria-Fiscal do Trabalho resgatou 89 trabalhadores em condições degradantes durante a colheita de café em três propriedades rurais localizadas nos municípios de Alto Caparaó, Mutum e Santana do Manhuaçu, na Zona da Mata mineira.&lt;/p&gt;
@@ -321,7 +376,7 @@ A Defesa Civil Nacional, vinculada ao Ministério da Integração e do Desenvolv
 &lt;p&gt;Até o momento, os trabalhadores receberam R$ 654.600,00 em verbas rescisórias. Faltam ainda ser quitados em torno de R$ 180.200,00.&lt;/p&gt;
 &lt;p&gt;Essa é a diferença que um dos empregadores questiona e que, agora, a força tarefa vai apurar de forma mais detalhada.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/forca-tarefa-resgata-89-pessoas-em-condicoes-degradantes-de-trabalho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Força-tarefa coordenada pela Auditoria-Fiscal do Trabalho resgatou 89 trabalhadores em condições degradantes durante a colheita de café em três propr...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-07-29 19:23:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 19:23:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 19:23:00</wp:post_modified>
@@ -345,11 +400,58 @@ A Defesa Civil Nacional, vinculada ao Ministério da Integração e do Desenvolv
       </wp:postmeta>
     </item>
     <item>
+      <title>Brasil rejeita prorrogação de emergência nacional dos EUA</title>
+      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/brasil-rejeita-prorrogacao-de-emergencia-nacional-dos-eua</link>
+      <pubDate>Thu, 30 Jul 2026 04:52:07 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/brasil-rejeita-prorrogacao-de-emergencia-nacional-dos-eua#1008</guid>
+      <description>O governo brasileiro repudiou nesta terça-feira (29) a decisão dos Estados Unidos de prorrogar por mais um ano a declaração de emergência nacional em...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QaIwF0LC9wzQCAJsbSIz1F9oVv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/30/52135407906_56bdd43e2d_o.jpg?itok=B3rOceP5&quot; alt=&quot;Brasil rejeita prorrogação de emergência nacional dos EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O governo brasileiro repudiou nesta terça-feira (29) a decisão dos Estados Unidos de prorrogar por mais um ano a declaração de emergência nacional em relação ao Brasil.&lt;/p&gt;
+&lt;p&gt;Em nota divulgada pela Secretaria de Comunicação Social (Secom) da Presidência da República, o Executivo classificou como infundadas as justificativas apresentadas pela Casa Branca e reafirmou a soberania nacional e a independência entre os Poderes.&lt;/p&gt;
+&lt;p&gt;Segundo a manifestação oficial, a decisão estadunidense repete acusações sem respaldo nos fatos ao sustentar que o Brasil representa uma ameaça à segurança nacional, à política externa e à economia dos Estados Unidos.&lt;/p&gt;
+&lt;p&gt;Na nota, o governo brasileiro afirma que a declaração &quot;reitera argumentos infundados e inverídicos&quot; ao mencionar supostas violações à liberdade de expressão, aos direitos humanos e alegações de perseguição política a um ex-presidente brasileiro, sua família e apoiadores.&lt;/p&gt;
+&lt;p&gt;O Executivo também declarou que &quot;é inteiramente descabido caracterizar o Brasil como ameaça aos Estados Unidos, especialmente à luz dos históricos laços diplomáticos e da amizade que une os dois povos&quot;.&lt;/p&gt;
+&lt;p&gt;Ainda de acordo com a Secom, as acusações já foram amplamente rebatidas em reuniões entre autoridades dos dois países. O governo ressaltou que o Poder Judiciário brasileiro atua de forma independente e em conformidade com a Constituição Federal.&lt;/p&gt;
+&lt;p&gt;Casa Branca anunciou a prorrogação&lt;/p&gt;
+&lt;p&gt;, por mais um ano, da emergência nacional em relação ao Brasil, mantendo em vigor a ordem executiva assinada pelo presidente Donald Trump em 30 de julho de 2025.&lt;/p&gt;
+&lt;p&gt;Após a publicação no Federal Register, o diário oficial do governo estadunidense, e o encaminhamentoao Congresso dos Estados Unidos, a medida permanecerá em vigor pelo menos até 30 de julho de 2027.&lt;/p&gt;
+&lt;p&gt;Na justificativa, o governo estadunidense afirma que continuam existindo as condições que motivaram a edição da Ordem Executiva 14323.&lt;/p&gt;
+&lt;p&gt;Segundo essa ordem, políticas e ações adotadas pelo governo brasileiro representam uma ameaça à segurança nacional, à política externa e à economia dos Estados Unidos.&lt;/p&gt;
+&lt;p&gt;A Casa Branca também voltou a acusar autoridades brasileiras de restringirem a liberdade de expressão de cidadãos e empresas estadunidenses, de promoverem violações de direitos humanos e de adotarem medidas que afetariam interesses dos Estados Unidos.&lt;/p&gt;
+&lt;p&gt;O texto cita ainda decisões do Supremo Tribunal Federal (STF) relacionadas à remoção de conteúdos em plataformas digitais e à prisão de pessoas por manifestações, classificadas pelo governo estadunidense como atos de censura. O documento também repete a alegação de que um ex-presidente brasileiro, familiares e apoiadores estariam sendo alvo de perseguição política.&lt;/p&gt;
+&lt;p&gt;A renovação da emergência nacional ocorre após um ano de agravamento das tensões entre Brasília e Washington. Desde a edição da ordem executiva, em julho de 2025, a administração Trump adotou uma série de medidas contra o Brasil, incluindo a abertura de investigações comerciais, a imposição de tarifas sobre produtos brasileiros e críticas às decisões do STF sobre moderação de conteúdo em plataformas digitais e o julgamento do ex-presidente Jair Bolsonaro.&lt;/p&gt;
+&lt;p&gt;Em resposta, o governo brasileiro intensificou as negociações diplomáticas com autoridades estadunidenses e contestou as medidas na Organização Mundial do Comércio (OMC), sob o argumento de que as tarifas violam regras do comércio internacional. Integrantes do Executivo também têm reiterado que o Judiciário atua de forma independente, enquanto o STF sustenta que suas decisões seguem a Constituição e a legislação brasileira.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-07/brasil-rejeita-prorrogacao-de-emergencia-nacional-dos-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O governo brasileiro repudiou nesta terça-feira (29) a decisão dos Estados Unidos de prorrogar por mais um ano a declaração de emergência nacional em...</excerpt:encoded>
+      <wp:post_id>1008</wp:post_id>
+      <wp:post_date>2026-07-29 19:23:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-29 19:23:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-29 19:23:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-29 19:23:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/QaIwF0LC9wzQCAJsbSIz1F9oVv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/30/52135407906_56bdd43e2d_o.jpg?itok=B3rOceP5</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Vento chega a 125 km/h e provoca ao menos duas mortes em São Paulo</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/vento-chega-125-kmh-e-causa-ao-menos-duas-mortes-em-sao-paulo</link>
-      <pubDate>Thu, 30 Jul 2026 01:46:49 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 04:52:07 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/vento-chega-125-kmh-e-causa-ao-menos-duas-mortes-em-sao-paulo#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/vento-chega-125-kmh-e-causa-ao-menos-duas-mortes-em-sao-paulo#1009</guid>
       <description>Os fortes ventos que atingiram nesta quarta-feira (29) o estado de São Paulo chegaram a 124,9 km/h e causaram, ao menos, duas mortes. De acordo com a...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/b73E__XHzlfGDgGUv8511YyNHTk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/29/ventos_grande-sao-paulo_litoral_credito_defesa-civil-856x481.png?itok=L9dXBlQQ&quot; alt=&quot;Vento chega a 125 km/h e provoca ao menos duas mortes em São Paulo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Os fortes ventos que atingiram nesta quarta-feira (29) o estado de São Paulo chegaram a 124,9 km/h e causaram, ao menos, duas mortes. De acordo com a Defesa Civil estadual,&lt;/p&gt;
@@ -361,14 +463,14 @@ A Defesa Civil Nacional, vinculada ao Ministério da Integração e do Desenvolv
 &lt;p&gt;. São esperados ventos nas regiões litorâneas e movimentação de dunas de areia sobre construções na orla.&lt;/p&gt;
 &lt;p&gt;O alerta laranja é o grau intermediário dentre os três avisos emitidos pelo instituto: amarelo, para perigo potencial; laranja, para perigo; e vermelho, para grande perigo. O alerta é válido até o fim da noite desta quarta-feira.&lt;/p&gt;
 &lt;p&gt;PSB oficializa Alckmin como candidato à reeleição como vice-presidente&lt;/p&gt;
-&lt;p&gt;Eleitores em situação de vulnerabilidade podem alterar local do voto&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 29 de julho de 2026; assista na íntegra&lt;/p&gt;
 &lt;p&gt;Ventos provocam danos na Costa Verde e na região serrana do RJ&lt;/p&gt;
 &lt;p&gt;Rio Guaíba pode atingir cota de alerta até sexta-feira em Porto Alegre&lt;/p&gt;
 &lt;p&gt;TRE-SP multa Lula por propaganda eleitoral antecipada; cabe recurso&lt;/p&gt;
 &lt;p&gt;PSB oficializa candidatura de Alckmin à Vice-Presidência da República&lt;/p&gt;
 &lt;p&gt;Rio de Janeiro tem duas mortes e um desaparecido depois de ventania&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/vento-chega-125-kmh-e-causa-ao-menos-duas-mortes-em-sao-paulo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os fortes ventos que atingiram nesta quarta-feira (29) o estado de São Paulo chegaram a 124,9 km/h e causaram, ao menos, duas mortes. De acordo com a...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-07-29 18:56:00</wp:post_date>
       <wp:post_date_gmt>2026-07-29 18:56:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-29 18:56:00</wp:post_modified>
@@ -389,102 +491,6 @@ A Defesa Civil Nacional, vinculada ao Ministério da Integração e do Desenvolv
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/b73E__XHzlfGDgGUv8511YyNHTk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/29/ventos_grande-sao-paulo_litoral_credito_defesa-civil-856x481.png?itok=L9dXBlQQ</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Dólar cai para R$ 5,10, após juros serem mantidos nos EUA</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-510-apos-juros-serem-mantidos-nos-eua</link>
-      <pubDate>Thu, 30 Jul 2026 01:46:49 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-510-apos-juros-serem-mantidos-nos-eua#1008</guid>
-      <description>© Valter Campanato/Agência Brasil
-O dólar fechou em queda, e a bolsa recuou nesta quarta-feira (29), em um pregão marcado pela decisão do Federal Res...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ABCzDV1BNGLK1WelR64FGvUJtDs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221211.jpg?itok=9aRcSX3F&quot; alt=&quot;Dólar cai para R$ 5,10, após juros serem mantidos nos EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O dólar fechou em queda, e a bolsa recuou nesta quarta-feira (29), em um pregão marcado pela decisão do Federal Reserve (Fed, Banco Central estadunidense) de manter os juros dos Estados Unidos entre 3,50% e 3,75%.&lt;/p&gt;
-&lt;p&gt;O mercado reagiu ao tom mais moderado adotado pelo presidente da instituição, Kevin Warsh, e à divisão entre os dirigentes da autoridade monetária estadunidense. Em contrapartida,&lt;/p&gt;
-&lt;p&gt;o petróleo subiu cerca de 7%, devido ao agravamento das tensões no Oriente Médio&lt;/p&gt;
-&lt;p&gt;Dólar à vista: R$ 5,108 (-0,27%);&lt;/p&gt;
-&lt;p&gt;Ibovespa: 173.885 pontos (-1,52%);&lt;/p&gt;
-&lt;p&gt;Petróleo tipo Brent: US$ 88,09 o barril (+7,32%);&lt;/p&gt;
-&lt;p&gt;Petróleo tipo WTI: US$ 84,46 o barril (+6,56%).&lt;/p&gt;
-&lt;p&gt;A moeda estadunidense passou boa parte do dia oscilando perto da estabilidade enquanto investidores aguardavam a decisão do Fed. Na mínima do dia, por volta das 16h20, chegou a R$ 5,09, antes de encerrar a R$ 5,018 (-0,27%).&lt;/p&gt;
-&lt;p&gt;Após a manutenção dos juros, conforme esperado, o dólar perdeu força globalmente e ampliou as perdas durante a entrevista coletiva de Warsh.&lt;/p&gt;
-&lt;p&gt;Embora tenha reafirmado o compromisso do banco central com a meta de inflação de 2%, o presidente do Fed também destacou sinais recentes considerados positivos para o comportamento dos preços, o que foi interpretado pelo mercado como um discurso menos duro.&lt;/p&gt;
-&lt;p&gt;A decisão, entretanto, foi dividida. Nove integrantes do Comitê Federal de Mercado Aberto (Fomc) votaram pela manutenção dos juros, enquanto Beth Hammack, Neel Kashkari e Lorie Logan defenderam uma alta de 0,25 ponto percentual. Mesmo assim, o mercado continuou precificando uma elevada probabilidade de aumento dos juros na reunião de setembro.&lt;/p&gt;
-&lt;p&gt;O câmbio também foi favorecido pelo maior apetite por operações de carry trade, favorecidas pela diferença de juros entre Brasil e Estados Unidos. Também contribuiu a valorização do petróleo, que melhora o fluxo de recursos para o Brasil, exportador do produto. Dados domésticos, como o resultado do Caged e o superávit da balança comercial, ficaram em segundo plano.&lt;/p&gt;
-&lt;p&gt;Na bolsa brasileira, o índice Ibovespa, da B3, encerrou o pregão em queda de 1,52%, pressionado principalmente pelo desempenho das ações de bancos.&lt;/p&gt;
-&lt;p&gt;O ambiente externo também pesou sobre os negócios. Apesar da manutenção dos juros pelo Fed, a divisão entre os dirigentes reforçou as incertezas sobre a trajetória da política monetária estadunidense. O aumento das tensões geopolíticas elevou a aversão ao risco nos mercados globais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/dolar-cai-para-r-510-apos-juros-serem-mantidos-nos-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-O dólar fechou em queda, e a bolsa recuou nesta quarta-feira (29), em um pregão marcado pela decisão do Federal Res...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-07-29 18:53:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-29 18:53:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-29 18:53:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-29 18:53:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/ABCzDV1BNGLK1WelR64FGvUJtDs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221211.jpg?itok=9aRcSX3F</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Pensão alimentícia será recebida de forma automática, via pix</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pensao-alimenticia-sera-recebida-de-forma-automatica-pix</link>
-      <pubDate>Thu, 30 Jul 2026 01:46:49 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pensao-alimenticia-sera-recebida-de-forma-automatica-pix#1009</guid>
-      <description>O presidente Luiz Inácio Lula da Silva sancionou, nesta quarta-feira (29), duas leis de proteção e apoio às mulheres. A primeira prevê o pagamento au...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/dOcvsX23Y4VFnKYS7sAJ6Z5D7tk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/09/captura_de_tela_2025-05-09_as_20.01.46_0.jpg?itok=DI1U7B_S&quot; alt=&quot;Pensão alimentícia será recebida de forma automática, via pix&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O presidente Luiz Inácio Lula da Silva sancionou, nesta quarta-feira (29), duas leis de proteção e apoio às mulheres. A primeira prevê o pagamento automático da pensão alimentícia por Pix, que ficou apelidado de Pix Pensão. A segunda lei determina a divulgação em larga escala do Ligue 180, o serviço telefônico de denúncias de violência contra a mulher.&lt;/p&gt;
-&lt;p&gt;determina que o pagamento mensal da pensão alimentícia seja depositado na conta da pessoa beneficiária&lt;/p&gt;
-&lt;p&gt;quando o desconto em folha não for possível. De acordo com o texto legal, o valor da pensão pode ser transferido pelo banco automaticamente da conta do devedor para a conta do credor.&lt;/p&gt;
-&lt;p&gt;“Esse é um projeto que as mães do Brasil abraçaram. Porque o que tem para a CLT, para o assalariado, agora terá para todo mundo com essa lei. Se [o homem] tem filho e deve pensão, tem que ter o depósito na conta da mãe todo mês”, disse a deputada Tábata Amaral (PSB-SP), relatora do projeto na Câmara e presente na cerimônia da sanção presidencial.&lt;/p&gt;
-&lt;p&gt;O serviço do Ligue 180, de acordo com a nova lei,&lt;/p&gt;
-&lt;p&gt;deve ser divulgado pelo governo federal em meios de comunicação de massa e locais públicos e privados de grande circulação de pessoas&lt;/p&gt;
-&lt;p&gt;, tais como escolas, casas de espetáculos e outros locais de diversão, órgãos públicos, hospitais e meios de transporte de massa.&lt;/p&gt;
-&lt;p&gt;Falar da importância do Ligue 180 é evitar que as mulheres cheguem a perder sua vida pelo simples fato de serem mulheres. Essa é uma maneira de ampliar e garantir que ele funcione”, disse a deputada Camila Jara (PT-MS), relatora do projeto e também presente à cerimônia.&lt;/p&gt;
-&lt;p&gt;“O que vocês estão fazendo é criar novos mecanismos para que a mulher fique mais exigente e protegida e os homens aprendam que é necessário ele criar juízo e não achar que a mulher é um objeto dele, que ele pode fazer o que quiser da mulher”&lt;/p&gt;
-&lt;p&gt;, afirmou o presidente Lula aoparabenizar o trabalho das relatoras dos dois projetos.&lt;/p&gt;
-&lt;p&gt;O presidente também assinou dois decretos relacionados ao Projeto Mulher Segura, que visa fortalecer a capacidade do Estado brasileiro de prevenir, monitorar e enfrentar a violência contra a mulher, regulamentando a alteração recente à Lei Maria da Penha que, dentre outras previsões, estabeleceu a possibilidade de monitoração eletrônica de agressores.&lt;/p&gt;
-&lt;p&gt;PSB oficializa Alckmin como candidato à reeleição como vice-presidente&lt;/p&gt;
-&lt;p&gt;Eleitores em situação de vulnerabilidade podem alterar local do voto&lt;/p&gt;
-&lt;p&gt;Ventos provocam danos na Costa Verde e na região serrana do RJ&lt;/p&gt;
-&lt;p&gt;Rio Guaíba pode atingir cota de alerta até sexta-feira em Porto Alegre&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pensao-alimenticia-sera-recebida-de-forma-automatica-pix&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O presidente Luiz Inácio Lula da Silva sancionou, nesta quarta-feira (29), duas leis de proteção e apoio às mulheres. A primeira prevê o pagamento au...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-07-29 18:40:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-29 18:40:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-29 18:40:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-29 18:40:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/dOcvsX23Y4VFnKYS7sAJ6Z5D7tk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/09/captura_de_tela_2025-05-09_as_20.01.46_0.jpg?itok=DI1U7B_S</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
