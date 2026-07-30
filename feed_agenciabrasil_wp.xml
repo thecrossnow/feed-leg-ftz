@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Thu, 30 Jul 2026 19:13:27 +0000</pubDate>
+    <pubDate>Thu, 30 Jul 2026 20:58:33 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,15 +22,305 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Governo Central tem déficit de R$ 48,2 bilhões em junho</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-central-tem-deficit-de-r-482-bilhoes-em-junho</link>
+      <pubDate>Thu, 30 Jul 2026 20:58:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-central-tem-deficit-de-r-482-bilhoes-em-junho#1000</guid>
+      <description>Os gastos com saúde e Previdência fizeram o Governo Central registrar déficit primário de R$ 48,2 bilhões em junho, segundo dados divulgados nesta qu...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/okx2Fhnzlsy7ZYX1XgW2TeLIxAA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_ja_1105.jpg?itok=vrOPagPg&quot; alt=&quot;Governo Central tem déficit de R$ 48,2 bilhões em junho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Os gastos com saúde e Previdência fizeram o Governo Central registrar déficit primário de R$ 48,2 bilhões em junho, segundo dados divulgados nesta quinta-feira (30) pelo Tesouro Nacional.&lt;/p&gt;
+&lt;p&gt;O resultado representa aumento em relação ao mesmo mês de 2025, quando o saldo negativo foi de R$ 44,2 bilhões, e é o maior déficit registrado para o mês desde 2023, em valores corrigidos pela inflação.&lt;/p&gt;
+&lt;p&gt;O Governo Central reúne as contas do Tesouro Nacional, da Previdência Social e do Banco Central. O resultado primário considera apenas receitas e despesas do governo, sem incluir os gastos com juros da dívida pública.&lt;/p&gt;
+&lt;p&gt;Nos últimos 12 meses, o déficit acumulado chegou a R$ 144,1 bilhões, o equivalente a 1,08% do Produto Interno Bruto (PIB).&lt;/p&gt;
+&lt;p&gt;O resultado de junho foi formado por:&lt;/p&gt;
+&lt;p&gt;Tesouro Nacional: déficit de R$ 2,45 bilhões;&lt;/p&gt;
+&lt;p&gt;Previdência Social: déficit de R$ 50,47 bilhões;&lt;/p&gt;
+&lt;p&gt;Banco Central: déficit de R$ 155 milhões.&lt;/p&gt;
+&lt;p&gt;O maior impacto negativo continuou vindo da Previdência Social, cujas despesas superaram as receitas do sistema.&lt;/p&gt;
+&lt;p&gt;O resultado primário mede a diferença entre tudo o que o governo arrecada e tudo o que gasta, sem considerar os juros da dívida pública.&lt;/p&gt;
+&lt;p&gt;Quando as receitas são maiores que as despesas, há superávit. Quando os gastos superam a arrecadação, há déficit.&lt;/p&gt;
+&lt;p&gt;Esse indicador é acompanhado de perto porque mostra a capacidade do governo de manter as contas públicas equilibradas.&lt;/p&gt;
+&lt;p&gt;Entre janeiro e junho, o Governo Central acumulou déficit de R$ 92,2 bilhões.&lt;/p&gt;
+&lt;p&gt;O resultado é superior ao déficit de R$ 11,3 bilhões observado no mesmo período de 2025.&lt;/p&gt;
+&lt;p&gt;No semestre, o saldo foi composto por:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-central-tem-deficit-de-r-482-bilhoes-em-junho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Os gastos com saúde e Previdência fizeram o Governo Central registrar déficit primário de R$ 48,2 bilhões em junho, segundo dados divulgados nesta qu...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-07-30 17:17:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-30 17:17:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-30 17:17:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-30 17:17:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/okx2Fhnzlsy7ZYX1XgW2TeLIxAA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_ja_1105.jpg?itok=vrOPagPg</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Eleições 2026: campanha Boto Fé no Voto quer combater desinformação</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/eleicoes-2026-campanha-boto-fe-no-voto-quer-combater-desinformacao</link>
+      <pubDate>Thu, 30 Jul 2026 20:58:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/eleicoes-2026-campanha-boto-fe-no-voto-quer-combater-desinformacao#1001</guid>
+      <description>Combater a circulação de mensagens falsas durante o
+, especialmente em comunidades de fé é o objetivo da campanha nacional Boto Fé no Voto, que será ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/53KyqGnEqDDrs_C6ZFthaWab1po=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/934123-belem_eleitores_1806.jpg?itok=xxAp3n5i&quot; alt=&quot;Eleições 2026: campanha Boto Fé no Voto quer combater desinformação&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Combater a circulação de mensagens falsas durante o&lt;/p&gt;
+&lt;p&gt;, especialmente em comunidades de fé é o objetivo da campanha nacional Boto Fé no Voto, que será lançada na noite desta quinta-feira(30), na&lt;/p&gt;
+&lt;p&gt;Por meio da iniciativa, organizações ecumênicas buscam fortalecer a circulação de informações confiáveis, incentivar o voto consciente e promover o compromisso com a verdade nas eleições deste ano.&lt;/p&gt;
+&lt;p&gt;A campanha é um chamado a igrejas, comunidades de fé, organizações civis, educadores, comunicadores e à população para refletirem sobre o papel da informação verídica na construção de uma democracia participativa e na defesa dos direitos humanos.&lt;/p&gt;
+&lt;p&gt;A diretora executiva da Coordenadoria Ecumênica de Serviço (Cese) e integrante da campanha Sônia Mota destaca que a iniciativa, sob o tema &quot;Eu escolho a verdade&quot;, parte do reconhecimento de que as comunidades de fé são espaços estratégicos para a circulação de informações confiáveis e para o fortalecimento da democracia.&lt;/p&gt;
+&lt;p&gt;“Partimos do entendimento de que fé e cidadania caminham juntas quando são vividas com responsabilidade, com compromisso, com verdade, com respeito ao próximo.”&lt;/p&gt;
+&lt;p&gt;atinge toda a sociedade e que igrejas e comunidades de fé também acabam sendo afetadas.&lt;/p&gt;
+&lt;p&gt;“Quando uma informação falsa circula, especialmente em ambientes onde existe confiança entre as pessoas, ela pode influenciar opiniões, provocar conflitos, reforçar preconceitos, comprometer o debate público e enfraquecer as instituições democráticas.&quot;&lt;/p&gt;
+&lt;p&gt;Segundo ela, quem compartilha uma notícia falsa acredita que possaestar fazendo o bem, sem perceber que está contribuindo para espalhar determinadoconteúdo enganoso. “A campanha quer contribuir para mudar essa realidade.”&lt;/p&gt;
+&lt;p&gt;Entre as atividades previstas estão:&lt;/p&gt;
+&lt;p&gt;produção de materiais educativos;&lt;/p&gt;
+&lt;p&gt;“O objetivo é criar espaços de conversa sobre democracia, participação cidadã, ética na comunicação e enfrentamento à desinformação”, completou Sônia.&lt;/p&gt;
+&lt;p&gt;O lançamento começa às 19h, é aberto ao público e contará com&lt;/p&gt;
+&lt;p&gt;pelas redes sociais das organizações parceiras, como Coletivo Bereia,Coletivo Novas Narrativas, Cáritas Brasileira, Fé no Clima/Iser, Diaconia, Frente de Evangélicos pelo Estado de Direito, Conselho Nacional Igrejas Cristãs (Conic), Igreja Episcopal Anglicana do Brasil, Misereor e a Cese.&lt;/p&gt;
+&lt;p&gt;Justiça boliviana emite nova ordem de prisão contra Evo Morales&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/eleicoes-2026-campanha-boto-fe-no-voto-quer-combater-desinformacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Combater a circulação de mensagens falsas durante o
+, especialmente em comunidades de fé é o objetivo da campanha nacional Boto Fé no Voto, que será ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-07-30 17:08:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-30 17:08:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-30 17:08:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-30 17:08:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/53KyqGnEqDDrs_C6ZFthaWab1po=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/934123-belem_eleitores_1806.jpg?itok=xxAp3n5i</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Federação do PT recorre ao TSE para retirar postagens de deep fake</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/federacao-do-pt-recorre-ao-tse-para-retirar-postagens-de-deep-fake</link>
+      <pubDate>Thu, 30 Jul 2026 20:58:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/federacao-do-pt-recorre-ao-tse-para-retirar-postagens-de-deep-fake#1002</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+A Federação Brasil da Esperança, formada pelo PT, PCdoB e PV, entrou nesta quinta-feira (30) com uma representação ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/rBS9Tw7Nl02RpZ8iCA-4FkNKDfQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/17/dji_20260716174112_0324_d.jpg?itok=FStwrgAD&quot; alt=&quot;Federação do PT recorre ao TSE para retirar postagens de deep fake&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;A Federação Brasil da Esperança, formada pelo PT, PCdoB e PV, entrou nesta quinta-feira (30) com uma representação no Tribunal Superior Eleitoral (TSE) para pedir a retirada de postagens de inteligência artificial ilegais contra o presidente Luiz Inácio Lula da Silva.&lt;/p&gt;
+&lt;p&gt;De acordo com a ação apresentada pelos partidos, há uma rede estruturada por parlamentares que apoiam o senador Flávio Bolsonaro (PL-RJ), pré-candidato à Presidência da República, para compartilhamento de&lt;/p&gt;
+&lt;p&gt;, que ocorre pela criação de conteúdo artificial para prejudicar candidatos.&lt;/p&gt;
+&lt;p&gt;A divulgação desse tipo de conteúdo é proibida pelo TSE.&lt;/p&gt;
+&lt;p&gt;&quot;O que se verifica, portanto, é que a conduta de parlamentares, com proeminente presença digital, publicarem tais conteúdos em suas páginas se traduz em um incentivo direto para a existência de perfis anônimos que possuem esse único objetivo de degradar a imagem de Lula e do Partido dos Trabalhadores. O conteúdo ofensivo acaba sendo legitimado e premiado com a reprodução em páginas oficiais de autoridades da República&quot;, argumentaram os partidos.&lt;/p&gt;
+&lt;p&gt;A ação no TSE cita postagens irregulares de 32 perfis nas redes sociais, que possuem 1,4 milhão de seguidores e 23,8 mil publicações.&lt;/p&gt;
+&lt;p&gt;No entendimento da federação, as postagens anônimas produzem &quot;percepção de rejeição generalizada ao pré-candidato (Lula) que não corresponde a um fenômeno espontâneo do debate público&quot;.&lt;/p&gt;
+&lt;p&gt;As legendas pedem que o TSE determine a retirada das postagens, que ocorreram principalmente nas plataformas Instagram e TikTok, e que os dados dos criadores dos perfis anônimos sejam mantidos para posterior identificação dos verdadeiros autores.&lt;/p&gt;
+&lt;p&gt;O relator da ação é o presidente do TSE, ministro Kassio Nunes Marques.&lt;/p&gt;
+&lt;p&gt;Justiça boliviana emite nova ordem de prisão contra Evo Morales&lt;/p&gt;
+&lt;p&gt;54% das mulheres já sofreram violência, revela pesquisa&lt;/p&gt;
+&lt;p&gt;SP inicia campanha de multivacinação na segunda-feira (3)&lt;/p&gt;
+&lt;p&gt;Governo Central tem déficit de R$ 48,2 bilhões em junho&lt;/p&gt;
+&lt;p&gt;Eleições 2026: campanha Boto Fé no Voto quer combater desinformação&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/federacao-do-pt-recorre-ao-tse-para-retirar-postagens-de-deep-fake&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+A Federação Brasil da Esperança, formada pelo PT, PCdoB e PV, entrou nesta quinta-feira (30) com uma representação ...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-07-30 17:01:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-30 17:01:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-30 17:01:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-30 17:01:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/rBS9Tw7Nl02RpZ8iCA-4FkNKDfQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/17/dji_20260716174112_0324_d.jpg?itok=FStwrgAD</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Defensoria do Rio faz campanha de paternidade no metrô</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/campanha-meu-tem-nome-oferecera-teste-de-paternidade-no-metro-do-rio</link>
+      <pubDate>Thu, 30 Jul 2026 20:58:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/campanha-meu-tem-nome-oferecera-teste-de-paternidade-no-metro-do-rio#1003</guid>
+      <description>O MetrôRio recebe nesta sexta-feira (31) a campanha “Meu Pai Tem Nome”, para realizar exames de DNA e orientação jurídica gratuita na estação de metr...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wx5MGlXjiVUnDkRKmhKWkpQ65nA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/5afa6c31e43c4cc49ab22594af4a4d32.jpg?itok=bh4cBiI0&quot; alt=&quot;Defensoria do Rio faz campanha de paternidade no metrô&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O MetrôRio recebe nesta sexta-feira (31) a campanha “Meu Pai Tem Nome”, para realizar exames de DNA e orientação jurídica gratuita na estação de metrô da Carioca, no centro da cidade.&lt;/p&gt;
+&lt;p&gt;A iniciativa é promovida pela Defensoria Pública do Estado do Rio de Janeiro (DPRJ), e os atendimentos vão acontecer das 9h às 15h, no mezanino do Acesso B (Avenida Chile) da estação por ordem de chegada.&lt;/p&gt;
+&lt;p&gt;“É importante também desmistificar o exame de DNA, porque muita gente, além de não conseguir ter recursos financeiros para pagar, pode deixar de fazer por medo. Então é importante dizer que esse exame é rápido, simples e praticamente indolor” informa a Defensora Pública, Larissa Davidovich.&lt;/p&gt;
+&lt;p&gt;Para participar, basta comparecer com a documentação necessária, e em caso de realização do exame, todos os participantes precisam estar presentes para a coleta do material genético. A campanha também vai oferecer atendimento especializado para pessoas que desejam realizar o reconhecimento voluntário de paternidade ou maternidade, seja por vínculo biológico ou socioafetivo.&lt;/p&gt;
+&lt;p&gt;Os resultados desta edição vão ser entregues no Dia D da campanha, 15 de agosto, no Estádio de São Januário.&lt;/p&gt;
+&lt;p&gt;Não é necessário nenhum tipo de inscrição prévia, basta levar a documentação necessária e realizar o cadastro junto a equipe da DPRJ no local. Os documentos necessários são:&lt;/p&gt;
+&lt;p&gt;Documento de identidade; CPF; Comprovante de residência atualizado.&lt;/p&gt;
+&lt;p&gt;Da pessoa que busca o reconhecimento:&lt;/p&gt;
+&lt;p&gt;Certidão de nascimento; Ou Declaração de Nascido Vivo (DNV), quando ainda não houver registro.&lt;/p&gt;
+&lt;p&gt;Quando aplicável: Certidão de óbito do suposto pai ou da suposta mãe.&lt;/p&gt;
+&lt;p&gt;A campanha que é promovida nacionalmente pelo Conselho Nacional das Defensoras e Defensores Públicos-Gerais (Condege), garante acesso gratuito ao reconhecimento da filiação, assegurando direitos como pensão alimentícia, herança, benefícios previdenciários, acesso ao histórico de saúde familiar e o fortalecimento dos vínculos familiares.&lt;/p&gt;
+&lt;p&gt;A iniciativa busca enfrentar uma realidade que ainda afeta milhares de brasileiros.&lt;/p&gt;
+&lt;p&gt;Em 2025, 173.112 crianças foram registradas sem o nome do pai na certidão de nascimento, o equivalente a 6,9% dos nascimentos registrados no país, segundo dados do Portal da Transparência do Registro Civil.&lt;/p&gt;
+&lt;p&gt;No Estado do Rio de Janeiro foram 12.883 registros, representando 7,77% dos nascimentos, um percentual superior à média nacional. Ao longo dos próximos meses, a campanha está percorrendo diferentes locais do estado, ampliando o acesso da população ao serviço.&lt;/p&gt;
+&lt;p&gt;As próximas etapas serão divulgadas pela Defensoria Pública.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/campanha-meu-tem-nome-oferecera-teste-de-paternidade-no-metro-do-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O MetrôRio recebe nesta sexta-feira (31) a campanha “Meu Pai Tem Nome”, para realizar exames de DNA e orientação jurídica gratuita na estação de metr...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-07-30 16:27:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-30 16:27:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-30 16:27:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-30 16:27:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/wx5MGlXjiVUnDkRKmhKWkpQ65nA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/5afa6c31e43c4cc49ab22594af4a4d32.jpg?itok=bh4cBiI0</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Plataforma estimula denúncias contra censuras a jornalistas</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/plataforma-estimula-denuncias-contra-censuras-jornalistas</link>
+      <pubDate>Thu, 30 Jul 2026 20:58:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/plataforma-estimula-denuncias-contra-censuras-jornalistas#1004</guid>
+      <description>O coletivo Direito à Comunicação e Democracia (Diracom) lançou, nesta quarta-feira (29), o
+Observatório De Olho na Censura
+, uma nova plataforma dedi...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/sU0A7kTcd6mdZkmJ54-9jufSUok=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/close-no-reporter-dando-uma-entrevista.jpg?itok=yeU-js35&quot; alt=&quot;Plataforma estimula denúncias contra censuras a jornalistas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O coletivo Direito à Comunicação e Democracia (Diracom) lançou, nesta quarta-feira (29), o&lt;/p&gt;
+&lt;p&gt;Observatório De Olho na Censura&lt;/p&gt;
+&lt;p&gt;, uma nova plataforma dedicada ao monitoramento, registro e análise de casos que afetam a liberdade de expressão, o direito à comunicação e o acesso à informação.&lt;/p&gt;
+&lt;p&gt;Na apresentação da iniciativa, em uma&lt;/p&gt;
+&lt;p&gt;, comunicadores argumentaram que há novas formas de violação de liberdade de imprensa.&lt;/p&gt;
+&lt;p&gt;egundo a jornalista Ramênia Vieira, integrante do Diracom, a censura ganhou nova característica nas democracias ao ser praticada por agentes públicos, por empresas privadas, por plataformas digitais, por grupos organizados ou por instituições que detêm poder para restringir a circulação da informação e limitar o debate público.&lt;/p&gt;
+&lt;p&gt;“As mídias tradicionais silenciam muitas vezes o debate público. Entendemos a censura como um conjunto de práticas que produz o silenciamento e restringe de forma indevida a circulação de informações, ideias e vozes na sociedade”, defende a jornalista.&lt;/p&gt;
+&lt;p&gt;Ramênia Vieiraexplica que qualquer pessoa que tenha vivenciado ou acompanhado um possível caso de censura poderá registrar sua denúncia.&lt;/p&gt;
+&lt;p&gt;As informações serão analisadas, sistematizadas e contribuirão para a produção de relatórios. estudos e ações de incidência em defesa do direito à comunicação.&lt;/p&gt;
+&lt;p&gt;“Quanto mais pessoas e organizações contribuírem, mais condições nós teremos de compreender esse fenômeno e de fortalecer a proteção da liberdade de expressão e da pluralidade de vozes no Brasil”, disse.&lt;/p&gt;
+&lt;p&gt;A presidente da Federação Nacional dos Jornalistas (Fenaj), Samira Castro, considerou que o lançamento do observatório pode ser um instrumento fundamental para que se possa garantir não apenas a defesa de uma categoria profissional, mas também de um direito humano, o de acesso à informação.&lt;/p&gt;
+&lt;p&gt;“A censura se manifesta de maneiras muito mais sofisticadas e menos visíveis para a sociedade como um todo”, aponta Samira Castro.&lt;/p&gt;
+&lt;p&gt;Para a presidente da Fenaj, ações judiciais intimidam profissionais e inviabilizam as investigações. “Nossos relatórios mostram que, depois de agressões físicas, o principal tipo de violação ao exercício do jornalismo no Brasil foi o assédio judicial”, diz Samira Castro.&lt;/p&gt;
+&lt;p&gt;O jornalista Leonardo Sakamoto, que participou da transmissão de lançamento, disse que produtores de conteúdos independentes são vulneráveis a diferentes esferas de censura. “É um jornalismo que bate de frente com o interesse econômico”, afirmou.&lt;/p&gt;
+&lt;p&gt;Sakamoto considera que, no interior do Brasil, poderes político e econômico muitas vezes são exercidos pela mesma pessoa ou grupos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/plataforma-estimula-denuncias-contra-censuras-jornalistas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O coletivo Direito à Comunicação e Democracia (Diracom) lançou, nesta quarta-feira (29), o
+Observatório De Olho na Censura
+, uma nova plataforma dedi...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-07-30 16:17:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-30 16:17:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-30 16:17:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-30 16:17:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/sU0A7kTcd6mdZkmJ54-9jufSUok=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/close-no-reporter-dando-uma-entrevista.jpg?itok=yeU-js35</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Desinformação sobre HIV dificulta tratamento e aumenta preconceito</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/desinformacao-sobre-hiv-dificulta-tratamento-e-aumenta-preconceito</link>
+      <pubDate>Thu, 30 Jul 2026 20:58:33 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/desinformacao-sobre-hiv-dificulta-tratamento-e-aumenta-preconceito#1005</guid>
+      <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
+A falha em combater o estigma social em torno do HIV pode causar cerca de 440 mil mortes evitáveis nesta d...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YUk7WbL0TRe8sQXr-XpN_Pg_Dlc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/01/pzzb3446.jpg?itok=LpGIS0-7&quot; alt=&quot;Desinformação sobre HIV dificulta tratamento e aumenta preconceito&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fabio Rodrigues-Pozzebom/ Agência Brasil&lt;/p&gt;
+&lt;p&gt;A falha em combater o estigma social em torno do HIV pode causar cerca de 440 mil mortes evitáveis nesta década, segundo projeção de umapesquisa internacional de opinião pública realizada pela iniciativa não governamental Tackle HIV.&lt;/p&gt;
+&lt;p&gt;“Esse estigma traz impactos enormes para a sociedade em geral: seja o medo de fazer o teste, o medo de tomar os medicamentos ou o medo criado pelo preconceito de conviver com pessoas que vivem com HIV”, conta o representante e um dos idealizadores do projeto, Gareth Thomas.&lt;/p&gt;
+&lt;p&gt;Segundo a plataforma, os avanços científicos são históricos, porém, o medo afasta as pessoas da testagem e do início do tratamento. Embora&lt;/p&gt;
+&lt;p&gt;novas infecções por HIV e mortes relacionadas à Aids tenham atingido os menores níveis globais em 2025&lt;/p&gt;
+&lt;p&gt;, para 21 países em três regiões, entre eles o Brasil, o número de casos aumentou.&lt;/p&gt;
+&lt;p&gt;De acordo com informações do Boletim Epidemiológico HIV e Aids 2025, que coleta dados do ano anterior, foram notificados 39.216 casos de infecção pelo HIV no país. A maioria, 38,4%, na região sudeste.&lt;/p&gt;
+&lt;p&gt;O Thomas acredita que a pesquisa é um trabalho importante para entender como diferentes lugares respondem a uma situação semelhante, e, a partir disso, pensar soluções para demandas locais.&lt;/p&gt;
+&lt;p&gt;“Toda vez que vamos a um novo país ou a uma nova região, fazemos uma pesquisa com os moradores locais para entender o trabalho que precisamos realizar ali, seja focado em uma determinada característica ou em um grupo específico”, conta ele, após desembarcar no Rio de Janeiro para a 26ª Conferência Internacional de Aids, maior evento global sobre a doença, sediado pela primeira vez no Brasil.&lt;/p&gt;
+&lt;p&gt;para 36% dos brasileiros entrevistados, homens héteros não correm risco de contrair o HIV, crença que se repete para 37% do grupo em relação a mulheres heterossexuais&lt;/p&gt;
+&lt;p&gt;. Responderam a questionários online 2.006 adultos brasileiros.&lt;/p&gt;
+&lt;p&gt;Apenas 48% dos entrevistados, um pouco menos da metade, já haviam feito o teste de HIV. Entre 40% que cogitaram fazer, a maioria rejeitou a ideia alegando que “não se consideram em risco”.&lt;/p&gt;
+&lt;p&gt;Outra constatação foi que19% ainda acreditam que quem vive com HIV não pode manter uma vida sexual ativa, enquantoapenas 29% sabiam que pessoas sob tratamento eficaz e com carga viral indetectável não transmitem o HIV em relações sexuais.&lt;/p&gt;
+&lt;p&gt;Alinhado à Agenda 2030 para o Desenvolvimento Sustentável da Organização das Nações Unidas, o Programa Conjunto das Nações Unidas para HIV/Aids prevê uma série de metas para os países visando a erradicação da Aids como ameaça de saúde pública.&lt;/p&gt;
+&lt;p&gt;Entre as etapas, estão as metas “95-95-95”, já alcançadas por países como Botsuana, Ruanda, República Unida da Tanzânia e Zimbábue. Isso significa que, nesses países, 95% das pessoas que vivem com HIV conhecem seu status sorológico; 95% das pessoas que sabem que vivem com HIV estão em tratamento antirretroviral; e 95% das pessoas em tratamento estão com a carga viral suprimida.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/desinformacao-sobre-hiv-dificulta-tratamento-e-aumenta-preconceito&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
+A falha em combater o estigma social em torno do HIV pode causar cerca de 440 mil mortes evitáveis nesta d...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-07-30 16:16:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-30 16:16:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-30 16:16:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-30 16:16:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/YUk7WbL0TRe8sQXr-XpN_Pg_Dlc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/01/pzzb3446.jpg?itok=LpGIS0-7</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Caixa paga Bolsa Família de julho a beneficiários com NIS de final 9</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/caixa-paga-bolsa-familia-de-julho-beneficiarios-com-nis-de-final-9</link>
-      <pubDate>Thu, 30 Jul 2026 19:13:27 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 20:58:33 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/caixa-paga-bolsa-familia-de-julho-beneficiarios-com-nis-de-final-9#1000</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-A Caixa Econômica Federal paga nesta quinta-feira (30) a parcela de julho do Bolsa Família aos beneficiários com Nú...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/IGMvG2APbIN67PbUzRHVljUWkl8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/img_7609_1.jpg?itok=XaswPuJg&quot; alt=&quot;Caixa paga Bolsa Família de julho a beneficiários com NIS de final 9&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/caixa-paga-bolsa-familia-de-julho-beneficiarios-com-nis-de-final-9#1006</guid>
+      <description>A Caixa Econômica Federal paga nesta quinta-feira (30) a parcela de julho do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/7ciJskPMa_HvPwPcMuS-6OU0oDQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/julho_2026.jpg?itok=lWY6h24B&quot; alt=&quot;Caixa paga Bolsa Família de julho a beneficiários com NIS de final 9&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Caixa Econômica Federal paga nesta quinta-feira (30) a parcela de julho do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 9.&lt;/p&gt;
 &lt;p&gt;Neste mês, o valor médio do benefício está em R$ 679,19&lt;/p&gt;
 &lt;p&gt;Os moradores de 175 municípios de seis estados receberam o crédito no último dia 20, independentemente do número final do NIS. O pagamento unificado beneficiou localidades em situação de emergência ou em estado de calamidade pública nos seguintes estados: Amazonas (três municípios), Paraíba (31), Paraná (8), Rio Grande do Norte (120), Roraima (6) e Sergipe (7).&lt;/p&gt;
@@ -44,10 +334,10 @@ A Caixa Econômica Federal paga nesta quinta-feira (30) a parcela de julho do Bo
 &lt;p&gt;Além do benefício integral, há o pagamento da regra de proteção. Em vigor desde junho de 2023,&lt;/p&gt;
 &lt;p&gt;essa regra permite que famílias cujos membros consigam emprego e melhorem a renda recebam 50% do benefício a que teriam direito por até dois anos, desde que cada integrante receba o equivalente a até meio salário mínimo&lt;/p&gt;
 &lt;p&gt;Desde junho do ano passado, o tempo de permanência na regra de proteção foi reduzido de dois para um ano&lt;/p&gt;
-&lt;p&gt;. No entanto, quem entrou na regra até maio de 2025 continua a receber metade do benefício por dois anos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/caixa-paga-bolsa-familia-de-julho-beneficiarios-com-nis-de-final-9&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-A Caixa Econômica Federal paga nesta quinta-feira (30) a parcela de julho do Bolsa Família aos beneficiários com Nú...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+&lt;p&gt;. No entanto, quem entrou na regra até maio de 2025 continua a receber metade do benefício por dois anos.&lt;/p&gt;
+&lt;p&gt;Desde 2024, os beneficiários do Bolsa Família não têm mais o desconto do Seguro Defeso. A mudança foi estabelecida pela&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/caixa-paga-bolsa-familia-de-julho-beneficiarios-com-nis-de-final-9&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Caixa Econômica Federal paga nesta quinta-feira (30) a parcela de julho do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de ...</excerpt:encoded>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-07-30 15:16:00</wp:post_date>
       <wp:post_date_gmt>2026-07-30 15:16:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-30 15:16:00</wp:post_modified>
@@ -67,15 +357,15 @@ A Caixa Econômica Federal paga nesta quinta-feira (30) a parcela de julho do Bo
       <category domain="post_tag" nicename="ebc">EBC</category>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/IGMvG2APbIN67PbUzRHVljUWkl8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/img_7609_1.jpg?itok=XaswPuJg</wp:meta_value>
+        <wp:meta_value>https://imagens.ebc.com.br/7ciJskPMa_HvPwPcMuS-6OU0oDQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/julho_2026.jpg?itok=lWY6h24B</wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
       <title>Governo libera gasoduto da Petrobras para baratear gás industrial</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-libera-gasoduto-da-petrobras-para-baratear-gas-industrial</link>
-      <pubDate>Thu, 30 Jul 2026 19:13:27 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 20:58:33 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-libera-gasoduto-da-petrobras-para-baratear-gas-industrial#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-libera-gasoduto-da-petrobras-para-baratear-gas-industrial#1007</guid>
       <description>© Steferson Faria/Agência Petrobras
 O Conselho Nacional de Política Energética (CNPE) aprovou, nesta quinta-feira (30), resolução que permite o uso d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/n1bh64mY8Y2sp6kPxvTBlGIs1iM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/gasoduto-foto-steferson-faria-agencia-petrobras.jpeg_copy.jpg?itok=i57Oz_8M&quot; alt=&quot;Governo libera gasoduto da Petrobras para baratear gás industrial&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -93,10 +383,10 @@ O Conselho Nacional de Política Energética (CNPE) aprovou, nesta quinta-feira 
 &lt;p&gt;“É importante que esse gás chegue para a indústria para a gente reverter essa tendência de queda da demanda. E não resta dúvida que essa é uma conta fácil. Mais gás no mercado, um gás mais barato, consequentemente, um aumento da competitividade na indústria”, afirmou.&lt;/p&gt;
 &lt;p&gt;O MME destacou ainda que a nova resolução responde a uma exigência da Lei n14.134 de 2021, que determina, em seu artigo 33, medidas para ampliar a oferta de gás natural no Brasil e reduzir “a concentração na oferta de gás natural”.&lt;/p&gt;
 &lt;p&gt;“Assim, o gás natural comercializado pela União será destinado prioritariamente aos segmentos industriais da indústria de base intensivos no uso do insumo, como as indústrias química, petroquímica, de fertilizantes e siderúrgica”, disse o ministério, em comunicado à imprensa.&lt;/p&gt;
-&lt;p&gt;CNPE aprova venda direta do gás natural da União, sem Petrobras&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-libera-gasoduto-da-petrobras-para-baratear-gas-industrial&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Justiça boliviana emite nova ordem de prisão contra Evo Morales&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/governo-libera-gasoduto-da-petrobras-para-baratear-gas-industrial&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Steferson Faria/Agência Petrobras
 O Conselho Nacional de Política Energética (CNPE) aprovou, nesta quinta-feira (30), resolução que permite o uso d...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-07-30 14:58:00</wp:post_date>
       <wp:post_date_gmt>2026-07-30 14:58:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-30 14:58:00</wp:post_modified>
@@ -122,9 +412,9 @@ O Conselho Nacional de Política Energética (CNPE) aprovou, nesta quinta-feira 
     <item>
       <title>Vendaval ainda causa danos a moradores do Rio de Janeiro</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/vendaval-ainda-causa-danos-moradores-do-rio-de-janeiro</link>
-      <pubDate>Thu, 30 Jul 2026 19:13:27 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 20:58:33 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/vendaval-ainda-causa-danos-moradores-do-rio-de-janeiro#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/vendaval-ainda-causa-danos-moradores-do-rio-de-janeiro#1008</guid>
       <description>Cerca de 320 mil clientes da Light, fornecedora de energia para a capital do Rio de Janeiro, estão sem o serviço por causa do vendaval que começou a ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/B_KCixY1ZDTD7HcMjyQyN2My5X8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/29/whatsapp_image_2026-07-29_at_17.41.35.jpg?itok=1NMrFpQ1&quot; alt=&quot;Vendaval ainda causa danos a moradores do Rio de Janeiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Cerca de 320 mil clientes da Light, fornecedora de energia para a capital do Rio de Janeiro, estão sem o serviço por causa do vendaval que começou a atingir a cidade por volta das 16h da quarta-feira (29).&lt;/p&gt;
@@ -143,7 +433,7 @@ O Conselho Nacional de Política Energética (CNPE) aprovou, nesta quinta-feira 
 &lt;p&gt;e vim para o trabalho presencial. A sorte é que eu trabalho na Glória bem perto, mas não pude trabalhar de casa. Me trouxe um prejuízo neste sentido”, disse.&lt;/p&gt;
 &lt;p&gt;Ana Letícia ainda vai avaliar se a queda da energia causou algum dano aos aparelhos eletrodomésticos da sua casa e se mostrou preocupada com um problema que já vinha enfrentando.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/vendaval-ainda-causa-danos-moradores-do-rio-de-janeiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Cerca de 320 mil clientes da Light, fornecedora de energia para a capital do Rio de Janeiro, estão sem o serviço por causa do vendaval que começou a ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-07-30 14:33:00</wp:post_date>
       <wp:post_date_gmt>2026-07-30 14:33:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-30 14:33:00</wp:post_modified>
@@ -169,9 +459,9 @@ O Conselho Nacional de Política Energética (CNPE) aprovou, nesta quinta-feira 
     <item>
       <title>Conheça os finalistas do 3° Prêmio Jabuti Acadêmico</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/conheca-os-finalistas-do-3deg-premio-jabuti-academico</link>
-      <pubDate>Thu, 30 Jul 2026 19:13:27 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 20:58:33 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/conheca-os-finalistas-do-3deg-premio-jabuti-academico#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/conheca-os-finalistas-do-3deg-premio-jabuti-academico#1009</guid>
       <description>Os finalistas da 3ª edição do Prêmio Jabuti Acadêmico foram anunciados, nesta semana, pela Câmara Brasileira do Livro (CBL).
 A lista contempla cinco ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yVyfdGRS742IHmBt9AaG4d4AxVc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/11/0g0a4162.jpg?itok=adyBZYM5&quot; alt=&quot;Conheça os finalistas do 3° Prêmio Jabuti Acadêmico&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -192,7 +482,7 @@ A lista contempla cinco ...</description>
 &lt;p&gt;Inteligência artificial e o novo superciclo de inovação: um guia para liderar estratégias que transformam negócios e a sociedade&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/conheca-os-finalistas-do-3deg-premio-jabuti-academico&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os finalistas da 3ª edição do Prêmio Jabuti Acadêmico foram anunciados, nesta semana, pela Câmara Brasileira do Livro (CBL).
 A lista contempla cinco ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-07-30 13:55:00</wp:post_date>
       <wp:post_date_gmt>2026-07-30 13:55:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-30 13:55:00</wp:post_modified>
@@ -213,300 +503,6 @@ A lista contempla cinco ...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/yVyfdGRS742IHmBt9AaG4d4AxVc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/11/0g0a4162.jpg?itok=adyBZYM5</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Lei destina parte do dinheiro de bets para fundo da Polícia Federal</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/lei-destina-parte-do-dinheiro-de-bets-para-fundo-da-policia-federal</link>
-      <pubDate>Thu, 30 Jul 2026 19:13:27 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/lei-destina-parte-do-dinheiro-de-bets-para-fundo-da-policia-federal#1004</guid>
-      <description>Lei sancionada nesta quinta-feira (30) destina parte da arrecadação de apostas de quota fixa, popularmente conhecidas como bets, ao Fundo para Aparel...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ie0gUbAxdEfO5Bj6vGfM5N4QfEo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/uso_de_smartphone_e_celular050720211238.jpg?itok=4dsQBzO5&quot; alt=&quot;Lei destina parte do dinheiro de bets para fundo da Polícia Federal&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Lei sancionada nesta quinta-feira (30) destina parte da arrecadação de apostas de quota fixa, popularmente conhecidas como bets, ao Fundo para Aparelhamento e Operacionalização das Atividades-fim da Polícia Federal (Funapol).&lt;/p&gt;
-&lt;p&gt;O Projeto de Lei de Conversão (PLV) nº 8 de 2026 tem origem na Medida Provisória (MP) nº 1.348 de 2026, aprovada pelo Senado no último dia 8.&lt;/p&gt;
-&lt;p&gt;O texto sancionado pelo presidente Luiz Inácio Lula da Silva destina 3% dos recursos obtidos pelo governo com bets para o fundo.&lt;/p&gt;
-&lt;p&gt;Os valores, que antes eram direcionados à seguridade social, passarão a cobrir gastos com saúde dos servidores da Polícia Federal (PF).&lt;/p&gt;
-&lt;p&gt;A destinação dos recursos das apostas será feitade forma gradual:&lt;/p&gt;
-&lt;p&gt;1% em 2026; 2% em 2027; e 3% a partir de 2028.&lt;/p&gt;
-&lt;p&gt;A normaautoriza ainda um repasse de até R$ 200 milhões feito pelo governo federal ao Funapol ainda em 2026, utilizando recursos livres do Tesouro Nacional.&lt;/p&gt;
-&lt;p&gt;Durante a cerimônia de sanção, no Palácio do Planalto, o relator da MP, deputado Aluisio Mendes (Republicanos-MA), avaliou que a iniciativa será de “grande alcance” para a segurança pública do país. “Sem dúvida nenhuma, um dos grandes problemas da sociedade no Brasil hoje é a segurança pública e o combate ao crime organizado.”&lt;/p&gt;
-&lt;p&gt;O diretor-geral da PF, Andrei Rodrigues, destacou que a medida alcança cerca de 30 mil famílias de servidores da corporação. “Investir naqueles que enfrentam diariamente desafios complexos, muitas vezes em situação de elevado risco e grande desgaste físico e emocional, é investir em um país mais justo e próspero.”&lt;/p&gt;
-&lt;p&gt;O Funapol foi criado pela Lei Complementar 89 de 1997, para financiar as atividades da PF, e permitia, originalmente, que um máximo de 30% fossem destinados a despesas com diárias. A Lei 14.369 de 2022 ampliou para 50% esse limite e incluiu outros tipos de despesas não diretamente relacionadas à atividade-fim, como parcelas de caráter indenizatório, com saúde desses servidores e com indenização por disponibilidade.&lt;/p&gt;
-&lt;p&gt;Com a nova lei, não há mais limite para as despesas desse tipo e são incluídas novas despesas adicionais: ressarcimento de gastos com saúde e retribuição por atividade extraordinária.&lt;/p&gt;
-&lt;p&gt;O texto permite ainda que o Ministério da Justiça e Segurança Pública estenda o custeio de gastos com saúde aos servidores da Polícia Rodoviária Federal e da Polícia Penal Federal. Já a retribuição por atividade extraordinária poderá ser criada para esses outros policiais por meio de lei.&lt;/p&gt;
-&lt;p&gt;*Com informações da Agência Senado&lt;/p&gt;
-&lt;p&gt;CNPE aprova venda direta do gás natural da União, sem Petrobras&lt;/p&gt;
-&lt;p&gt;Repórter Brasil Tarde de 30 de julho de 2026; assista na íntegra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/lei-destina-parte-do-dinheiro-de-bets-para-fundo-da-policia-federal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Lei sancionada nesta quinta-feira (30) destina parte da arrecadação de apostas de quota fixa, popularmente conhecidas como bets, ao Fundo para Aparel...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-07-30 13:54:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-30 13:54:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-30 13:54:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-30 13:54:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Ie0gUbAxdEfO5Bj6vGfM5N4QfEo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/uso_de_smartphone_e_celular050720211238.jpg?itok=4dsQBzO5</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Saiba como pedir ressarcimento por prejuízos com a falta de energia</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/saiba-como-pedir-ressarcimento-por-prejuizos-com-falta-de-energia</link>
-      <pubDate>Thu, 30 Jul 2026 19:13:27 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/saiba-como-pedir-ressarcimento-por-prejuizos-com-falta-de-energia#1005</guid>
-      <description>Consumidores que tiveram danos em equipamentoscausados pela
-provocada pelos fortes ventos dessa quarta-feira (29)podem requerer ressarcimento junto à...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Xv-UHeHxsYwkmrB3Lk0BA9XW88k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/18/whatsapp_image_2024-03-18_at_15.25.42.jpeg?itok=D-xtgPN9&quot; alt=&quot;Saiba como pedir ressarcimento por prejuízos com a falta de energia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Consumidores que tiveram danos em equipamentoscausados pela&lt;/p&gt;
-&lt;p&gt;provocada pelos fortes ventos dessa quarta-feira (29)podem requerer ressarcimento junto à concessionária&lt;/p&gt;
-&lt;p&gt;, conforme previsto no Código de Defesa do Consumidor e na regulamentação da Agência Nacional de Energia Elétrica (Aneel).&lt;/p&gt;
-&lt;p&gt;O alerta foi dado nesta quinta-feira (30) pela Secretaria de Estado de Defesa do Consumidor do Rio de Janeiro (SEDCON) e pelo Procon-RJ.&lt;/p&gt;
-&lt;p&gt;O primeiro passo é entrar em contato com a concessionária de energia elétrica responsável pela residência ou pelo comércio do consumidor e fazer registro da ocorrência. É importante guardar todos os protocolos de atendimento junto à concessionária.&lt;/p&gt;
-&lt;p&gt;“Ele [o consumidor] vai entrar em contato com a concessionária, informando a data e a hora aproximadas de quando ocorreu a oscilação ou interrupção da energia e quanto durou esse evento. Vai informar os equipamentos que foram danificados, com marca, modelo, tempo de uso”, detalhou à&lt;/p&gt;
-&lt;p&gt;o diretor jurídico do Procon-RJ, Silvio Romero.&lt;/p&gt;
-&lt;p&gt;A concessionária procederá à análise da reclamação para então responder ao consumidor.&lt;/p&gt;
-&lt;p&gt;Se não houverresposta ou caso a reclamação não seja aceita pela concessionária, Silvio Romero informou que o consumidor pode buscar os canais de atendimento da SEDCON ou do Procon-RJ e formalizar sua queixa&lt;/p&gt;
-&lt;p&gt;Após o registro do pedido, a concessionária deve realizar a verificação do equipamento em até um dia útil, quando se tratar de aparelhos utilizados para conservar alimentos perecíveis ou medicamentos, como geladeiras e freezers. Para os demais equipamentos, o prazo é de até dez dias.&lt;/p&gt;
-&lt;p&gt;Concluída a análise, a distribuidora deve informar o resultado ao consumidor em até 15 dias, quando a solicitação for feita nos primeiros 90 dias após o dano, ou em até 30 dias, nos demais casos.&lt;/p&gt;
-&lt;p&gt;Caso o pedido seja aceito, o ressarcimento deverá ser realizado em até 20 dias, por meio de conserto, substituição do equipamento ou pagamento da indenização&lt;/p&gt;
-&lt;p&gt;Romero reforçou que o ressarcimento pelo prejuízo sofrido pelo consumidor pode ocorrer de diferentes formas. A concessionária pode consertar o equipamento danificado, substituir por outro equivalente, pagar pelo conserto ou indenizar o consumidor.&lt;/p&gt;
-&lt;p&gt;O consumiror tem prazo de até cinco anos para solicitar o ressarcimento&lt;/p&gt;
-&lt;p&gt;. O diretor jurídico do Procon-RJ aconselhou, entretanto, que apesar desse prazo, o consumidor deve fazer isso o quanto antes, enquanto está de posse de todas as informações mais recentes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/saiba-como-pedir-ressarcimento-por-prejuizos-com-falta-de-energia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Consumidores que tiveram danos em equipamentoscausados pela
-provocada pelos fortes ventos dessa quarta-feira (29)podem requerer ressarcimento junto à...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-07-30 13:49:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-30 13:49:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-30 13:49:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-30 13:49:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Xv-UHeHxsYwkmrB3Lk0BA9XW88k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/18/whatsapp_image_2024-03-18_at_15.25.42.jpeg?itok=D-xtgPN9</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Polícia investiga morte de três eletrocutados após ventania no Rio</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/policia-investiga-morte-de-tres-eletrocutados-apos-ventania-no-rio</link>
-      <pubDate>Thu, 30 Jul 2026 19:13:27 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/policia-investiga-morte-de-tres-eletrocutados-apos-ventania-no-rio#1006</guid>
-      <description>© REUTERS/Pilar Olivares/ Proibido reprodução
-A Polícia Civil do Rio de Janeiro investiga se três mortes por descarga elétrica dentro de uma casa, na...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FK9PLFJRD0X09Q-UZPVkLrPObmE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/2026-07-30t133703z_1111853021_rc2aomao7y4m_rtrmadp_3_brazil-weather.jpg?itok=e3K3dMom&quot; alt=&quot;Polícia investiga morte de três eletrocutados após ventania no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Pilar Olivares/ Proibido reprodução&lt;/p&gt;
-&lt;p&gt;A Polícia Civil do Rio de Janeiro investiga se três mortes por descarga elétrica dentro de uma casa, na madrugada desta quinta-feira (30), têm relação com a&lt;/p&gt;
-&lt;p&gt;ventania que atingiu o estado na tarde de quarta-feira (29)&lt;/p&gt;
-&lt;p&gt;Uma mulher sobreviveu, e o quadro dela é grave&lt;/p&gt;
-&lt;p&gt;que Juadson Amorim da Silva, de 57 anos; Wagner Carvalho de Medeiros, de 41; e Marcos Antonio Vieira Filho, de 34, não resistiram à descarga elétrica.&lt;/p&gt;
-&lt;p&gt;Eles estavam em uma casa na Rua Maria da Fé, na Cidade de Deus, comunidade da Zona Sudoeste da cidade do Rio de Janeiro&lt;/p&gt;
-&lt;p&gt;A investigação é realizada pela 32ª Delegacia Policial, no bairro da Taquara, vizinho à Cidade de Deus.&lt;/p&gt;
-&lt;p&gt;“A perícia será realizada no local e outras diligências estão em andamento para apurar as circunstâncias das mortes”, diz a Polícia Civil.&lt;/p&gt;
-&lt;p&gt;O Corpo de Bombeiros informou que agentes do 12º Grupamento de Bombeiro Militar (GBM) foram acionados para uma ocorrência de choque elétrico. Quando os militares chegaram ao endereço, encontraram três corpos, que teriam sofrido uma descarga elétrica provocada por uma tomada no interior do imóvel.&lt;/p&gt;
-&lt;p&gt;a mulher foi socorrida por moradores e levada para a Unidade de Pronto Atendimento da Cidade de Deus, antes da chegada dos bombeiros&lt;/p&gt;
-&lt;p&gt;De acordo com a Secretaria Municipal de Saúde, a mulher deu entrada na unidade com queimaduras e foi transferida pela manhã para o Hospital do Andaraí, na Zona Norte. O hospital é referência no tratamento de vítimas de queimaduras.&lt;/p&gt;
-&lt;p&gt;“O estado de saúde é grave”, diz nota enviada à&lt;/p&gt;
-&lt;p&gt;A companhia Light, responsável pelo abastecimento da cidade, informou que se solidariza com as famílias das vítimas e que apura as circunstâncias do ocorrido.&lt;/p&gt;
-&lt;p&gt;A empresa comentou que, durantevendavais, árvores, galhos e outros objetos podem atingir a rede elétrica e provocar o rompimento de cabos. A concessionária ressalta que a população não deve se aproximar de postes, estruturas elétricas ou fios caídos.&lt;/p&gt;
-&lt;p&gt;“Caso encontre um cabo partido no chão, não toque, mantenha distância do local e acione imediatamente a concessionária por meio de seus canais oficiais de atendimento”, diz a nota.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/policia-investiga-morte-de-tres-eletrocutados-apos-ventania-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Pilar Olivares/ Proibido reprodução
-A Polícia Civil do Rio de Janeiro investiga se três mortes por descarga elétrica dentro de uma casa, na...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-07-30 12:50:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-30 12:50:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-30 12:50:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-30 12:50:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/FK9PLFJRD0X09Q-UZPVkLrPObmE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/2026-07-30t133703z_1111853021_rc2aomao7y4m_rtrmadp_3_brazil-weather.jpg?itok=e3K3dMom</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Arrecadação federal cresce 7,7% em junho e soma R$ 264,4 bilhões</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/arrecadacao-federal-cresce-77-em-junho-e-soma-r-2644-bilhoes</link>
-      <pubDate>Thu, 30 Jul 2026 19:13:27 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/arrecadacao-federal-cresce-77-em-junho-e-soma-r-2644-bilhoes#1007</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-A arrecadação das receitas federais alcançou R$ 264,4 bilhões em junho deste ano, com crescimento real de 7,7% em re...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WRnVcYCNOq2toW-jdJSroPChpH0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcam20022020-6.jpg?itok=w0uxFYzp&quot; alt=&quot;Arrecadação federal cresce 7,7% em junho e soma R$ 264,4 bilhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;A arrecadação das receitas federais alcançou R$ 264,4 bilhões em junho deste ano, com crescimento real de 7,7% em relação ao mesmo mês de 2025, já descontada a inflação.&lt;/p&gt;
-&lt;p&gt;No acumulado do primeiro semestre, as receitas somaram cerca de R$ 1,587 trilhão, avanço real de 6,6% na comparação com os seis primeiros meses do ano passado.&lt;/p&gt;
-&lt;p&gt;Segundo a Receita Federal, do total arrecadado em junho, R$ 255,3 bilhões correspondem às receitas administradas pela Receita Federal.&lt;/p&gt;
-&lt;p&gt;Entre os fatores que contribuíram para o resultado estão o&lt;/p&gt;
-&lt;p&gt;comportamento favorável dos principais indicadores econômicos que afetam a arrecadação, como a atividade econômica, a massa salarial e as importações.&lt;/p&gt;
-&lt;p&gt;• Arrecadação em junho: R$ 264,4 bilhões;&lt;/p&gt;
-&lt;p&gt;• Crescimento real sobre junho de 2025: 7,7%;&lt;/p&gt;
-&lt;p&gt;• Arrecadação acumulada de janeiro a junho: cerca de R$ 1,587 trilhão;&lt;/p&gt;
-&lt;p&gt;• Crescimento real no semestre: 6,6%;&lt;/p&gt;
-&lt;p&gt;• Receitas administradas pela Receita Federal em junho: R$ 255,3 bilhões.&lt;/p&gt;
-&lt;p&gt;Entre os tributos que mais contribuíram para o aumento da arrecadação estão o Imposto de Renda da Pessoa Jurídica (IRPJ) e a Contribuição Social sobre o Lucro Líquido (CSLL).&lt;/p&gt;
-&lt;p&gt;A arrecadação conjunta desses tributos somou R$ 33,2 bilhões em junho, com alta real de 20,4% em relação ao mesmo mês do ano passado.&lt;/p&gt;
-&lt;p&gt;A arrecadação previdenciária atingiu R$ 64,48 bilhões em junho, com crescimento real de 4,7% na comparação com o mesmo período de 2025.&lt;/p&gt;
-&lt;p&gt;De acordo com a Receita, o resultado foi favorecido pelo aumento real da massa salarial e pela redução da desoneração da folha de pagamento, com os efeitos da reoneração gradual das contribuições patronais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/arrecadacao-federal-cresce-77-em-junho-e-soma-r-2644-bilhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-A arrecadação das receitas federais alcançou R$ 264,4 bilhões em junho deste ano, com crescimento real de 7,7% em re...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-07-30 12:49:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-30 12:49:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-30 12:49:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-30 12:49:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/WRnVcYCNOq2toW-jdJSroPChpH0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcam20022020-6.jpg?itok=w0uxFYzp</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Meteorologistas dizem que não é possível associar ventanias ao El Niño</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/meteorologistas-dizem-que-nao-e-possivel-associar-ventanias-ao-el-nino</link>
-      <pubDate>Thu, 30 Jul 2026 19:13:27 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/meteorologistas-dizem-que-nao-e-possivel-associar-ventanias-ao-el-nino#1008</guid>
-      <description>Fortes ventos provocaram estragos e mortes nos estados do
-na tarde desta quarta-feira (30).
-Uma estação meteorológica da capital fluminense chegou a ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/B_KCixY1ZDTD7HcMjyQyN2My5X8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/29/whatsapp_image_2026-07-29_at_17.41.35.jpg?itok=1NMrFpQ1&quot; alt=&quot;Meteorologistas dizem que não é possível associar ventanias ao El Niño&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Fortes ventos provocaram estragos e mortes nos estados do&lt;/p&gt;
-&lt;p&gt;na tarde desta quarta-feira (30).&lt;/p&gt;
-&lt;p&gt;Uma estação meteorológica da capital fluminense chegou a registrar ventos de 105 km/h.&lt;/p&gt;
-&lt;p&gt;Segundo Suellen Araujo, do Instituto Nacional de Meteorologia (Inmet), o evento foi provocado pela formação de uma zona de baixa pressão atmosférica na região, associada ao deslocamento do ar nas camadas superiores da atmosfera, chamado de “escoamento”.&lt;/p&gt;
-&lt;p&gt;“A conjunção desses fatores auxiliou realmente na formação dessa instabilidade, que trouxe essas rajadas bem intensas. Inclusive, tivemos rajadas em torno de 100 km/h em ambos os estados”, explicou a meteorologista.&lt;/p&gt;
-&lt;p&gt;O coordenador geral de Operações e Modelagem do Centro Nacional de Monitoramento e Alerta de Desastres Naturais (Cemaden), Marcelo Seluchi, destaca que as rajadas de vento se formaram a partir de uma linha de estabilidade.&lt;/p&gt;
-&lt;p&gt;“É uma linha de tempestades alinhadas, como o nome indica, uma ao lado da outra, que se formaram sobre uma frente fria que estava na Região Sul do Brasil. Essa linha de tempestades formou o que se chama uma frente de rajada, que foi a ventania que nós sentimos ontem à tarde”, esclareceu.&lt;/p&gt;
-&lt;p&gt;Ele explica que a frente de rajada avança mais rápido que a linha de nuvens da tempestade e que a tempestade, em si, nem ocorreu.&lt;/p&gt;
-&lt;p&gt;“Aqui onde nós estamos, no Vale do Paraíba [em São José dos Campos-SP], choveu mais no final da tarde e início da noite. Choveu um pouco, que foi o que restou daquela linha de tempestades que foi dissipando conforme elas foram avançando para o norte. Elas começaram lá no Paraná, Santa Catarina, mas, avançando para o norte, elas foram dissipando”, disse Seluchi.&lt;/p&gt;
-&lt;p&gt;Tanto a meteorologista do Inmet quanto o coordenador do Cemaden avaliam que não é possível, ainda, associar o evento de quarta-feira ao El Niño, um&lt;/p&gt;
-&lt;p&gt;fenômeno recorrente que consiste no aquecimento das águas do Oceano Pacífico, de tempos em tempos, e que provoca alterações no clima global&lt;/p&gt;
-&lt;p&gt;Neste ano, espera-se um El Niño mais intenso. Segundo a Administração Atmosférica e Oceânica Nacional dos Estados Unidos (Noaa), há uma probabilidade grande de que nesta temporada o El Niño seja o mais forte dos últimos 76 anos.&lt;/p&gt;
-&lt;p&gt;“Teria que fazer uma avaliação um pouco mais minuciosa para poder verificar se [os ventos fortes de Rio e São Paulo] tem alguma coisa relacionada a esse fenômeno”, afirma Suellen Araujo.&lt;/p&gt;
-&lt;p&gt;Segundo Seluchi, é difícil estabelecer uma relação direta dos ventos fortes com o El Niño.&lt;/p&gt;
-&lt;p&gt;Ele esclarece, entretanto, que a linha de tempestades que provocou a ventaniase formoua partir de uma frente estacionária que estava sobre o sul do Brasil.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/meteorologistas-dizem-que-nao-e-possivel-associar-ventanias-ao-el-nino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Fortes ventos provocaram estragos e mortes nos estados do
-na tarde desta quarta-feira (30).
-Uma estação meteorológica da capital fluminense chegou a ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-07-30 12:22:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-30 12:22:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-30 12:22:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-30 12:22:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/B_KCixY1ZDTD7HcMjyQyN2My5X8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/29/whatsapp_image_2026-07-29_at_17.41.35.jpg?itok=1NMrFpQ1</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Bombeiros encontram corpo em barco que afundou com ventania em Paraty</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/bombeiros-encontram-corpo-em%20barc-%20que-afundou-com-ventania-em-paraty</link>
-      <pubDate>Thu, 30 Jul 2026 19:13:27 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/bombeiros-encontram-corpo-em%20barc-%20que-afundou-com-ventania-em-paraty#1009</guid>
-      <description>© dimitrisvetsikas1969/ Pixabay
-O Corpo de Bombeiros do Estado do Rio de Janeiro localizou, na manhã desta quinta-feira (30), o corpo de uma pessoa a...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/4yQ6jqJX1AZrfAdZfGSXO1xrB1g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/dimitrisvetsikas1969-tree-3191872.jpg?itok=0JnoeqFk&quot; alt=&quot;Bombeiros encontram corpo em barco que afundou com ventania em Paraty&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© dimitrisvetsikas1969/ Pixabay&lt;/p&gt;
-&lt;p&gt;O Corpo de Bombeiros do Estado do Rio de Janeiro localizou, na manhã desta quinta-feira (30), o corpo de uma pessoa ainda não identificada na região daPraia de Tarituba, em Paraty, no Sul Fluminense. As equipes trabalhavam nas buscas por um desaparecido após&lt;/p&gt;
-&lt;p&gt;a ventania que atingiu o estadona quarta-feira (29)&lt;/p&gt;
-&lt;p&gt;Os bombeiros iniciaram a varredurapor volta das 16h30, depois de receberem a informação de que um homem estava desaparecido no marcom o naufrágio de uma embarcação, no litoral entre Tarituba e Mambucaba, em Angra dos Reis. O corpo encontrado por mergulhadoresdentro desse barco, mas ainda é necessário aguardar a identificação para confirmar sua identidade.&lt;/p&gt;
-&lt;p&gt;Foram mobilizadas equipes dos quartéis de Paraty e Mambucaba, além de mergulhadores do Grupamento de Busca e Salvamento da Barra da Tijuca.&lt;/p&gt;
-&lt;p&gt;De acordo com o Corpo de Bombeiros, o corpo será encaminhado ao Instituto Médico Legal (IML)&lt;/p&gt;
-&lt;p&gt;, da Polícia Civil fluminense, para que seja feita a identificação da vítima.&lt;/p&gt;
-&lt;p&gt;Os ventos ultrapassaram os 100 quilômetros por hora eprovocarampelo menos duas mortes&lt;/p&gt;
-&lt;p&gt;As vítimas foram atingidas por um muro que desabou em Santa Teresa&lt;/p&gt;
-&lt;p&gt;, na zona sul da cidade do Rio de Janeiro. Outros quatro desabamentos foram registrados. No total, os bombeiros fizeram 31 salvamentos.&lt;/p&gt;
-&lt;p&gt;A ventania também deixou centenas de milhares de imóveis fornecimento de energia elétrica&lt;/p&gt;
-&lt;p&gt;. Até o fim da manhã desta quinta-feira (30), ainda havia mais de 400 mil sem luz no estado.&lt;/p&gt;
-&lt;p&gt;Entre a tarde de quarta-feira e a manhã desta quinta, a corporação registrou um total de 290 ocorrências relacionadas ao vendaval. A maior parte delas cerca de 150, foram cortes de árvores, mas houve também 50 combates a incêndios em vias públicas, principalmente por causa de postes de energia.&lt;/p&gt;
-&lt;p&gt;CNPE aprova venda direta do gás natural da União, sem Petrobras&lt;/p&gt;
-&lt;p&gt;Repórter Brasil Tarde de 30 de julho de 2026; assista na íntegra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/bombeiros-encontram-corpo-em%20barc-%20que-afundou-com-ventania-em-paraty&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© dimitrisvetsikas1969/ Pixabay
-O Corpo de Bombeiros do Estado do Rio de Janeiro localizou, na manhã desta quinta-feira (30), o corpo de uma pessoa a...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-07-30 12:18:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-30 12:18:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-30 12:18:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-30 12:18:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/4yQ6jqJX1AZrfAdZfGSXO1xrB1g=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/dimitrisvetsikas1969-tree-3191872.jpg?itok=0JnoeqFk</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
