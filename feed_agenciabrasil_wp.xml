@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Fri, 31 Jul 2026 19:12:54 +0000</pubDate>
+    <pubDate>Fri, 31 Jul 2026 20:56:17 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,256 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>PRTB lança Leonardo Avalanche candidato à Presidência da República</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/prtb-lanca-leonardo-avalanche-candidato-presidencia-da-republica</link>
+      <pubDate>Fri, 31 Jul 2026 20:56:17 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/prtb-lanca-leonardo-avalanche-candidato-presidencia-da-republica#1000</guid>
+      <description>O Partido Renovador Trabalhista Brasileiro (PRTB)
+oficializou a candidatura de Leonardo Avalanche à Presidência da República
+. A convenção nacional d...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qmcdZyNQh52d2gJzC4Nb_YN18Os=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/captura_de_tela_2026-07-31_as_17.19.23.jpg?itok=QwqC36m4&quot; alt=&quot;PRTB lança Leonardo Avalanche candidato à Presidência da República&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Partido Renovador Trabalhista Brasileiro (PRTB)&lt;/p&gt;
+&lt;p&gt;oficializou a candidatura de Leonardo Avalanche à Presidência da República&lt;/p&gt;
+&lt;p&gt;. A convenção nacional do partido foi em Goiânia, na quarta-feira (29). O partido não oficializou ainda o candidato a vice-presidente na chapa.&lt;/p&gt;
+&lt;p&gt;Avalanche é presidente nacional do partido. De Anápolis, Goiás, é analista de sistemas e bacharel em Direito.&lt;/p&gt;
+&lt;p&gt;É a primeira vez que o PRTB lança candidato à Presidência da República desde 2014, quando lançou Levy Fidelix.&lt;/p&gt;
+&lt;p&gt;vai acompanhar os resultados das convenções nacionais partidárias.&lt;/p&gt;
+&lt;p&gt;Nesta sexta-feira (31) estão marcadas convenções do Partido Socialista dos Trabalhadores Unificado (PSTU) e do Partido Verde (PV).&lt;/p&gt;
+&lt;p&gt;As próximas convenções com datas marcadas e divulgadas são:&lt;/p&gt;
+&lt;p&gt;Partido da Causa Operária (PCO) – 1º de agosto&lt;/p&gt;
+&lt;p&gt;Partido dos Trabalhadores (PT) – 2 de agosto&lt;/p&gt;
+&lt;p&gt;OMS divulga relatório de enfrentamento ao HIV, hepatites virais e ISTs&lt;/p&gt;
+&lt;p&gt;Seleções europeias ameaçam boicotar as Copas do Mundo&lt;/p&gt;
+&lt;p&gt;Estado de São Paulo teve 10% mais feminicídios no 1º semestre de 2026&lt;/p&gt;
+&lt;p&gt;Assessor de Infantino renuncia em protesto à venda de participações&lt;/p&gt;
+&lt;p&gt;Itália anuncia restrição temporária a viajantes vindos da Espanha&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/prtb-lanca-leonardo-avalanche-candidato-presidencia-da-republica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Partido Renovador Trabalhista Brasileiro (PRTB)
+oficializou a candidatura de Leonardo Avalanche à Presidência da República
+. A convenção nacional d...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-07-31 17:01:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-31 17:01:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-31 17:01:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-31 17:01:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/qmcdZyNQh52d2gJzC4Nb_YN18Os=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/captura_de_tela_2026-07-31_as_17.19.23.jpg?itok=QwqC36m4</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>PP decide ficar neutro na eleição presidencial</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pp-decide-ficar-neutro-na-eleicao-presidencial</link>
+      <pubDate>Fri, 31 Jul 2026 20:56:17 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pp-decide-ficar-neutro-na-eleicao-presidencial#1001</guid>
+      <description>O Partido Progressistas (PP) não fará convenção nacional.
+A decisão da direção nacional do partido foi divulgada nesta sexta-feira (31) em seu site o...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/eX6soPI91sw2ABzUho_H2epH8tg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/images.png?itok=xTTjjdTL&quot; alt=&quot;PP decide ficar neutro na eleição presidencial&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Partido Progressistas (PP) não fará convenção nacional.&lt;/p&gt;
+&lt;p&gt;A decisão da direção nacional do partido foi divulgada nesta sexta-feira (31) em seu site oficial. É nas convenções nacionais que os partidos definem seus candidatos aos cargos de presidente e vice-presidente da República, ou o apoio a candidato de outro partido. O PP, no entanto, decidiu manter a neutralidade no processo eleitoral.&lt;/p&gt;
+&lt;p&gt;“O Progressistas, após consulta aos seus diretórios estaduais, decidiu, por maioria, permanecer neutro no processo eleitoral. Diante disso, reiteramos a posição de não convocar Convenção Nacional. A decisão já foi comunicada e acatada pela nossa líder no Senado Federal, senadora Tereza Cristina”, afirmou o partido, em nota.&lt;/p&gt;
+&lt;p&gt;O Partido Liberal (PL)oficializou o senador Flávio Bolsonaro como candidato à presidência da República na última semana e esperava contar com a senadora Tereza Cristina (PP-MS) como sua candidata à vice-presidência.&lt;/p&gt;
+&lt;p&gt;Ela chegou a se reunir com o candidato do PL para tratar do assunto, mas a decisão do Progressistas afastou essa possibilidade.&lt;/p&gt;
+&lt;p&gt;OMS divulga relatório de enfrentamento ao HIV, hepatites virais e ISTs&lt;/p&gt;
+&lt;p&gt;Seleções europeias ameaçam boicotar as Copas do Mundo&lt;/p&gt;
+&lt;p&gt;Estado de São Paulo teve 10% mais feminicídios no 1º semestre de 2026&lt;/p&gt;
+&lt;p&gt;Assessor de Infantino renuncia em protesto à venda de participações&lt;/p&gt;
+&lt;p&gt;Itália anuncia restrição temporária a viajantes vindos da Espanha&lt;/p&gt;
+&lt;p&gt;PRTB lança Leonardo Avalanche candidato à Presidência da República&lt;/p&gt;
+&lt;p&gt;PP decide ficar neutro na eleição presidencial&lt;/p&gt;
+&lt;p&gt;SBPC promove Dia da Família na Ciência neste sábado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/pp-decide-ficar-neutro-na-eleicao-presidencial&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Partido Progressistas (PP) não fará convenção nacional.
+A decisão da direção nacional do partido foi divulgada nesta sexta-feira (31) em seu site o...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-07-31 16:44:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-31 16:44:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-31 16:44:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-31 16:44:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/eX6soPI91sw2ABzUho_H2epH8tg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/images.png?itok=xTTjjdTL</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>SBPC promove Dia da Família na Ciência neste sábado</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/SBPC-promove-dia-da-familia-na-ciencia-neste-sabado</link>
+      <pubDate>Fri, 31 Jul 2026 20:56:17 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/SBPC-promove-dia-da-familia-na-ciencia-neste-sabado#1002</guid>
+      <description>O último dia da 78ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência (SBPC), neste sábado (1º),
+será dedicado ao Dia da Família na C...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0duEkHN1o5Vmp7o2ozFvAw1kBtI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/29/toms3473.jpg?itok=ujcH_b3Q&quot; alt=&quot;SBPC promove Dia da Família na Ciência neste sábado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O último dia da 78ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência (SBPC), neste sábado (1º),&lt;/p&gt;
+&lt;p&gt;será dedicado ao Dia da Família na Ciência&lt;/p&gt;
+&lt;p&gt;. O evento acontece de 8h às 16h, no Campus Gragoatá da Universidade Federal Fluminense (UFF), em Niterói, Região Metropolitana do Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Crianças, jovens e adultos estão convidados a participar de uma programação gratuita nas tendas da SBPC Jovem e da ExpoT&amp;C, com experiências científicas, demonstrações, oficinas e atividades voltadas à popularização da ciência.&lt;/p&gt;
+&lt;p&gt;Além de conhecer experimentos e tecnologias desenvolvidas por instituições de ensino e pesquisa de todo o país, os visitantes poderão conversar com cientistas e participar de atividades que mostram, de forma prática e acessível, como a ciência está presente no cotidiano e contribui para o desenvolvimento da sociedade.&lt;/p&gt;
+&lt;p&gt;A programação de encerramento também inclui a cerimônia de entrega do Prêmio Leonard Rieser para jovens cientistas, seguida de conferência da historiadora Camila Perochena, em formato virtual.&lt;/p&gt;
+&lt;p&gt;A 78ª Reunião Anual da SBPC foi aberta no dia 28 de julho, reunindo pesquisadores, estudantes, gestores públicos e instituições de todo o país em uma programação com mais de 700 atividades científicas e culturais, cujo tema foi Ciência para todos: soberania, desenvolvimento e inclusão.&lt;/p&gt;
+&lt;p&gt;Em parceria com a UFF e a Prefeitura de Niterói, a reunião da SBPC marcou o retorno do evento ao estado do Rio de Janeiro depois de 32 anos.&lt;/p&gt;
+&lt;p&gt;Novas empresas passam a receber CNPJ com números e letras&lt;/p&gt;
+&lt;p&gt;Seleções europeias ameaçam boicotar as Copas do Mundo&lt;/p&gt;
+&lt;p&gt;Estado de São Paulo teve 10% mais feminicídios no 1º semestre de 2026&lt;/p&gt;
+&lt;p&gt;Assessor de Infantino renuncia em protesto à venda de participações&lt;/p&gt;
+&lt;p&gt;Itália anuncia restrição temporária a viajantes vindos da Espanha&lt;/p&gt;
+&lt;p&gt;PRTB lança Leonardo Avalanche candidato à Presidência da República&lt;/p&gt;
+&lt;p&gt;PP decide ficar neutro na eleição presidencial&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/SBPC-promove-dia-da-familia-na-ciencia-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O último dia da 78ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência (SBPC), neste sábado (1º),
+será dedicado ao Dia da Família na C...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-07-31 16:35:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-31 16:35:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-31 16:35:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-31 16:35:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/0duEkHN1o5Vmp7o2ozFvAw1kBtI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/29/toms3473.jpg?itok=ujcH_b3Q</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Mais de 100 mil clientes ainda estão sem energia após vendaval no Rio</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mais-de-100-mil-clientes-ainda-estao-sem-energia-apos-vendaval-no-rio</link>
+      <pubDate>Fri, 31 Jul 2026 20:56:17 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mais-de-100-mil-clientes-ainda-estao-sem-energia-apos-vendaval-no-rio#1003</guid>
+      <description>Dois dias após o vendaval que atingiu o estado do Rio de Janeirona quarta-feira (29),
+80 mil clientes continuavam sem o fornecimento de energia na ár...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5E1j_evMFtwZ2sc_ezoldo_a4mE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/_rbr2765.jpg?itok=d3IsaheK&quot; alt=&quot;Mais de 100 mil clientes ainda estão sem energia após vendaval no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Dois dias após o vendaval que atingiu o estado do Rio de Janeirona quarta-feira (29),&lt;/p&gt;
+&lt;p&gt;80 mil clientes continuavam sem o fornecimento de energia na área de concessão da Light na tarde desta sexta-feira (31)&lt;/p&gt;
+&lt;p&gt;A empresa é responsávelpelacapital emunicípios da Baixada Fluminense, Região Metropolitana, Vale do Paraíba, em outras regiões.&lt;/p&gt;
+&lt;p&gt;Já na área de concessão da Enel Rio, 25 mil clientes continuavam sem energia às 15hdesta sexta&lt;/p&gt;
+&lt;p&gt;.A concessionária atende a outras cidades da Região Metropolitana, à Região dos Lagos, à Região Serrana, ao SulFluminense, à Costa Verde, à Baixada Litorânea, ao Norte e ao Noroeste Fluminense.&lt;/p&gt;
+&lt;p&gt;Entre as cidades mais impactadas em sua rede estáParaty, onde fica a pousada danorte-americana Kristin Lena Muller. Elaenfrenta transtornos desde quarta-feira.&lt;/p&gt;
+&lt;p&gt;A Pousada Casa Ecológica Paraty, instalada no bairro Caborê, fica perto do Centro Histórico, o grande atrativo turístico da cidade. Lá, aenergia chegou a voltar em apenas uma fase ainda na quarta-feira, ficou oscilando, mas, sumiu desde quinta.&lt;/p&gt;
+&lt;p&gt;“Toda vez, eles mandam um aviso no telefone falando que a previsão é uma e, aí, mandam outra, mais para a frente, mais para a frente. Estão fazendo isso há dois dias, enrolando a gente com novas previsões. Agora, estão falando duas e pouca. Vamos ver o que vai acontecer”, reclamou em entrevista à&lt;/p&gt;
+&lt;p&gt;Enquanto isso, os prejuízos vão se avolumando.&lt;/p&gt;
+&lt;p&gt;“Já estragou tudo na geladeira. Não posso alugar assim. Fechei meu calendário. Imagina se alguém vem e não pode usar nada? A gente perde negócio, perde comida e não pode usar várias coisas na pousada para fazer manutenção.Não podemos lavar roupa. Está tudo parado” contou, acrescentando que a pousada tem capacidade para receber até 20 pessoas nos seis quartos de três bangalôs.&lt;/p&gt;
+&lt;p&gt;“Também pega muito mal para a cidade em geral, porque o cliente fica sabendo que pode chegar em Paraty e não ter infraestrutura básica que precisa É bem complicado”.&lt;/p&gt;
+&lt;p&gt;Lena apontou outra preocupação de quem é responsável porlocais de hospedagem na cidade. “Hoje em dia, se vê anúncios de pousadas com gerador, como se fosse um luxo ter luz. Agora, tem que ter gerador ou algum sistema próprio, porque não pode contar com um serviço básico de uma cidade”, pontuou.&lt;/p&gt;
+&lt;p&gt;A jornalista e publicitária Flávia Carrijo, que é vizinha de Lena, também não vê hora do fornecimento de energia voltar ao normal.&lt;/p&gt;
+&lt;p&gt;“Aqui, estamos sem luz há mais de 30 horas. Já perdemos tudo da geladeira e temos problemas para trabalhar online, banho frio etc. Teve muita árvore caída. A prefeitura foi até rápida na limpeza, mas a Enel não”, afirmou à&lt;/p&gt;
+&lt;p&gt;, confirmando também que as previsões de retorno não são cumpridas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/mais-de-100-mil-clientes-ainda-estao-sem-energia-apos-vendaval-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Dois dias após o vendaval que atingiu o estado do Rio de Janeirona quarta-feira (29),
+80 mil clientes continuavam sem o fornecimento de energia na ár...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-07-31 16:20:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-31 16:20:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-31 16:20:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-31 16:20:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/5E1j_evMFtwZ2sc_ezoldo_a4mE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/_rbr2765.jpg?itok=d3IsaheK</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>SP: alta de casos de sarampo aumenta preocupação dos serviços de saúde</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/sp-alta-de-casos-de-sarampo-aumenta-preocupacao-dos-servicos-de-saude</link>
+      <pubDate>Fri, 31 Jul 2026 20:56:17 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/sp-alta-de-casos-de-sarampo-aumenta-preocupacao-dos-servicos-de-saude#1004</guid>
+      <description>© Marcelo Camargo/Agência Brasil
+O aumento dos casos de sarampo no estado de São Paulo - 15 já foram confirmados este ano - levou a recomendação por ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/g6Ng9A6TjTzEehMKrvS1yCvz8uQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/sarampo_301119img_29213824.jpg?itok=adKSoFoc&quot; alt=&quot;SP: alta de casos de sarampo aumenta preocupação dos serviços de saúde&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O aumento dos casos de sarampo no estado de São Paulo - 15 já foram confirmados este ano - levou a recomendação por uma busca vacinal daqueles que não receberam imunização e por uma dose de reforço em crianças já vacinadas.&lt;/p&gt;
+&lt;p&gt;As cidades de São Paulo, Guarulhos e São Bernardo do Campo, todas na região metropolitana, já estavam em atenção no começo da semana, quando o Ministério da Saúde recomendou a extensão da imunização para o público entre 6 e 59 anos, dentro da campanha de multivacinação que inicia na próxima segunda-feira, 03, e vai até o dia 1º de setembro.&lt;/p&gt;
+&lt;p&gt;O governo estadual confirmou que esse grupo receberá imunização.&lt;/p&gt;
+&lt;p&gt;Em São Paulo a campanha ocorre em todos os 645 municípios. Além datríplice viral, que protege contra sarampo, caxumba e rubéola, podem ser atualizadas outras imunizações, dentro do calendário normal.&lt;/p&gt;
+&lt;p&gt;Além da vacina tríplice estão disponíveis imunizantes para: BCG; hepatite B; pentavalente; poliomielite inativada; rotavírus; pneumocócica 10-valente (conjugada); meningocócica C (conjugada); meningocócica ACWY (conjugada); influenza; Covid-19; febre amarela; varicela; DTP; hepatite A; e HPV.&lt;/p&gt;
+&lt;p&gt;Segundo a secretaria estadual de Saúde, dados preliminares de 2026 indicam cobertura de 77,5% para a primeira dose e de 65,5% para a segunda dose da tríplice viralno estado. A meta estabelecida pelo Ministério da Saúde e pela Organização Mundial de Saúde é 95% para cada uma das doses.&lt;/p&gt;
+&lt;p&gt;“A atualização da caderneta é fundamental para proteger crianças e adolescentes contra doenças imunopreveníveis. Diante do cenário do sarampo, a estratégia ampliada nos três municípios busca aumentar rapidamente a proteção da população e reduzir o risco de transmissão”, afirmou em nota Tatiana Lang, da secretaria estadual de Saúde.&lt;/p&gt;
+&lt;p&gt;Em 2025, a cobertura vacinal nacional alcançou 92,9% para a primeira dose (D1) da vacina tríplice viral e 78,3% para a segunda dose (D2). Nos municípios contemplados pela recomendação, Guarulhos registrou coberturas de 91,59% (D1) e 83,90% (D2), São Bernardo do Campo atingiu 90,84% (D1) e 83,62% (D2), e o município de São Paulo apresentou 90,79% (D1) e 83,63% (D2).&lt;/p&gt;
+&lt;p&gt;OMS divulga relatório de enfrentamento ao HIV, hepatites virais e ISTs&lt;/p&gt;
+&lt;p&gt;Seleções europeias ameaçam boicotar as Copas do Mundo&lt;/p&gt;
+&lt;p&gt;Estado de São Paulo teve 10% mais feminicídios no 1º semestre de 2026&lt;/p&gt;
+&lt;p&gt;Assessor de Infantino renuncia em protesto à venda de participações&lt;/p&gt;
+&lt;p&gt;Itália anuncia restrição temporária a viajantes vindos da Espanha&lt;/p&gt;
+&lt;p&gt;PRTB lança Leonardo Avalanche candidato à Presidência da República&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/sp-alta-de-casos-de-sarampo-aumenta-preocupacao-dos-servicos-de-saude&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
+O aumento dos casos de sarampo no estado de São Paulo - 15 já foram confirmados este ano - levou a recomendação por ...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-07-31 16:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-07-31 16:00:00</wp:post_date_gmt>
+      <wp:post_modified>2026-07-31 16:00:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-07-31 16:00:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/g6Ng9A6TjTzEehMKrvS1yCvz8uQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/sarampo_301119img_29213824.jpg?itok=adKSoFoc</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Enade 2026: divulgada resposta a pedido de atendimento especializado</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enade-2026-divulgada-resposta-pedido-de-atendimento-especializado</link>
-      <pubDate>Fri, 31 Jul 2026 19:12:54 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 20:56:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enade-2026-divulgada-resposta-pedido-de-atendimento-especializado#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enade-2026-divulgada-resposta-pedido-de-atendimento-especializado#1005</guid>
       <description>© Marcello Casal Jr/Agência Brasil/Arquivo
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), responsável pelo o Exame ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xNSoOU472EM_tHrXTNIobfZ4uVA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/unb_cotas_2.jpg?itok=46WRmlGr&quot; alt=&quot;Enade 2026: divulgada resposta a pedido de atendimento especializado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +292,7 @@ O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)
 &lt;p&gt;OMS divulga relatório de enfrentamento ao HIV, hepatites virais e ISTs&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/enade-2026-divulgada-resposta-pedido-de-atendimento-especializado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal Jr/Agência Brasil/Arquivo
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), responsável pelo o Exame ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-07-31 14:53:00</wp:post_date>
       <wp:post_date_gmt>2026-07-31 14:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-31 14:53:00</wp:post_modified>
@@ -73,9 +318,9 @@ O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)
     <item>
       <title>Festival gastronômico leva culinária de 60 países a SP neste sábado</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/festival-gastronomico-leva-culinaria-de-60-paises-sp-neste-sabado</link>
-      <pubDate>Fri, 31 Jul 2026 19:12:54 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 20:56:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/festival-gastronomico-leva-culinaria-de-60-paises-sp-neste-sabado#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/festival-gastronomico-leva-culinaria-de-60-paises-sp-neste-sabado#1006</guid>
       <description>O centro da cidade de São Paulo recebe neste sábado (1) e domingo (2) o Festival Comidas e Músicas do Mundo. Do Brasil ao Nepal, da América a Ásia, p...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/W_hDy-y6kc1GqCqwHKNT7PT-KOo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/whatsapp_image_2026-07-31_at_13.41.53.jpeg?itok=IkZJZDS1&quot; alt=&quot;Festival gastronômico leva culinária de 60 países a SP neste sábado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O centro da cidade de São Paulo recebe neste sábado (1) e domingo (2) o Festival Comidas e Músicas do Mundo. Do Brasil ao Nepal, da América a Ásia, passando por todos os continentes, o evento reúne mais de 400 pratos típicos na Praça Charles Miller, na Zona Oeste, em frente ao estádio do Pacaembu.&lt;/p&gt;
@@ -85,15 +330,16 @@ O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)
 &lt;p&gt;“O festival foi criado para aproximar culturas, despertar a curiosidade do público por sabores pouco conhecidos e mostrar que a gastronomia é uma das formas mais bonitas de conectar pessoas. Cada estande conta uma história, preserva tradições e convida o visitante a viver uma experiência única”, explica.&lt;/p&gt;
 &lt;p&gt;O festival começa às 11h e vai até 21h, na Praça Charles Miller, no Pacaembu, em São Paulo. A entrada é gratuita e é permitido levar seu animal de estimação.&lt;/p&gt;
 &lt;p&gt;*Estagiário da Agência Brasil sob supervisão de Odair Braz Junior&lt;/p&gt;
-&lt;p&gt;Município cearense sedia regata de jangadas neste fim de semana&lt;/p&gt;
-&lt;p&gt;Agência da ONU alerta que forte El Niño deve se intensificar em agosto&lt;/p&gt;
-&lt;p&gt;Reino Unido oferece ajuda à Espanha diante de crise migratória&lt;/p&gt;
-&lt;p&gt;Enade 2026: divulgada resposta a pedido de atendimento especializado&lt;/p&gt;
-&lt;p&gt;Festival gastronômico leva culinária de 60 países a SP neste sábado&lt;/p&gt;
-&lt;p&gt;Incêndios florestais diminuem perto de Bordeaux e Madri&lt;/p&gt;
-&lt;p&gt;Mortos durante entrada em massa em Ceuta, na Espanha, chega a 57&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/festival-gastronomico-leva-culinaria-de-60-paises-sp-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Novas empresas passam a receber CNPJ com números e letras&lt;/p&gt;
+&lt;p&gt;Seleções europeias ameaçam boicotar as Copas do Mundo&lt;/p&gt;
+&lt;p&gt;Estado de São Paulo teve 10% mais feminicídios no 1º semestre de 2026&lt;/p&gt;
+&lt;p&gt;Assessor de Infantino renuncia em protesto à venda de participações&lt;/p&gt;
+&lt;p&gt;Itália anuncia restrição temporária a viajantes vindos da Espanha&lt;/p&gt;
+&lt;p&gt;PRTB lança Leonardo Avalanche candidato à Presidência da República&lt;/p&gt;
+&lt;p&gt;PP decide ficar neutro na eleição presidencial&lt;/p&gt;
+&lt;p&gt;SBPC promove Dia da Família na Ciência neste sábado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/festival-gastronomico-leva-culinaria-de-60-paises-sp-neste-sabado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O centro da cidade de São Paulo recebe neste sábado (1) e domingo (2) o Festival Comidas e Músicas do Mundo. Do Brasil ao Nepal, da América a Ásia, p...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-07-31 14:30:00</wp:post_date>
       <wp:post_date_gmt>2026-07-31 14:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-31 14:30:00</wp:post_modified>
@@ -119,9 +365,9 @@ O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)
     <item>
       <title>Comunidades criam soluções para mitigar efeitos da crise climática</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/comunidades-criam-solucoes-para-mitigar-efeitos-da-crise-climatica</link>
-      <pubDate>Fri, 31 Jul 2026 19:12:54 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 20:56:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/comunidades-criam-solucoes-para-mitigar-efeitos-da-crise-climatica#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/comunidades-criam-solucoes-para-mitigar-efeitos-da-crise-climatica#1007</guid>
       <description>© REUTERS/Pilar Olivares/ Proibido reprodução
 As populações que mais sofrem com os eventos extremos da crise climática no Brasil são aquelas que enco...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/a9U13WBOSkAxbI8jx56k7o3E84c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/2026-07-30t112118z_76077535_rc29omarlq21_rtrmadp_3_brazil-weather.jpg?itok=XjAvdCQf&quot; alt=&quot;Comunidades criam soluções para mitigar efeitos da crise climática&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -142,7 +388,7 @@ As populações que mais sofrem com os eventos extremos da crise climática no B
 &lt;p&gt;A comunidade de Vila Arraes, em Recife (PE), elaborou um plano comunitário de contingência, adaptação e mitigação dos efeitos das chuvas, coordenado pelo Espaço GRIS Solidário, em parceria com a Universidade Federal de Pernambuco (UFPE). Houve ainda formações com a Defesa Civil sobre protocolos de emergência durante enchentes do Rio Capibaribe e riscos de eletrocussão.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/comunidades-criam-solucoes-para-mitigar-efeitos-da-crise-climatica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Pilar Olivares/ Proibido reprodução
 As populações que mais sofrem com os eventos extremos da crise climática no Brasil são aquelas que enco...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-07-31 12:56:00</wp:post_date>
       <wp:post_date_gmt>2026-07-31 12:56:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-31 12:56:00</wp:post_modified>
@@ -168,9 +414,9 @@ As populações que mais sofrem com os eventos extremos da crise climática no B
     <item>
       <title>Receita adia cronograma de destaque de impostos da reforma tributária</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-adia-cronograma-de-destaque-de-impostos-da-reforma-tributaria</link>
-      <pubDate>Fri, 31 Jul 2026 19:12:54 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 20:56:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-adia-cronograma-de-destaque-de-impostos-da-reforma-tributaria#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-adia-cronograma-de-destaque-de-impostos-da-reforma-tributaria#1008</guid>
       <description>© Marcelo Camargo/Agência Brasil
 A Receita Federal e o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) divulgaram nesta sexta-feira (31) um no...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CHv5QgVOukO3vAx5P2uH5X65MC8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcam20022020.jpg?itok=X8zaudZo&quot; alt=&quot;Receita adia cronograma de destaque de impostos da reforma tributária&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -191,7 +437,7 @@ A Receita Federal e o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) d
 &lt;p&gt;Nota Fiscal de Energia Elétrica Eletrônica (NF3-e)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/receita-adia-cronograma-de-destaque-de-impostos-da-reforma-tributaria&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 A Receita Federal e o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) divulgaram nesta sexta-feira (31) um no...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-07-31 12:52:00</wp:post_date>
       <wp:post_date_gmt>2026-07-31 12:52:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-31 12:52:00</wp:post_modified>
@@ -217,9 +463,9 @@ A Receita Federal e o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS) d
     <item>
       <title>Inscrições para a Seleção Petrobras Cultural terminam nesta sexta</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/inscricoes-para-selecao-petrobras-cultural-terminam-nesta-sexta</link>
-      <pubDate>Fri, 31 Jul 2026 19:12:54 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 20:56:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/inscricoes-para-selecao-petrobras-cultural-terminam-nesta-sexta#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-07/inscricoes-para-selecao-petrobras-cultural-terminam-nesta-sexta#1009</guid>
       <description>© Fernando Frazão/Agência Brasil
 Termina às 18h desta sexta-feira (31) o prazo de inscrições para a Seleção Petrobras Cultural 2026, que oferece
 11 m...</description>
@@ -242,7 +488,7 @@ Termina às 18h desta sexta-feira (31) o prazo de inscrições para a Seleção 
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Termina às 18h desta sexta-feira (31) o prazo de inscrições para a Seleção Petrobras Cultural 2026, que oferece
 11 m...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-07-31 12:38:00</wp:post_date>
       <wp:post_date_gmt>2026-07-31 12:38:00</wp:post_date_gmt>
       <wp:post_modified>2026-07-31 12:38:00</wp:post_modified>
@@ -263,247 +509,6 @@ Termina às 18h desta sexta-feira (31) o prazo de inscrições para a Seleção 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/fKLGIJxxhphK7C_A8TvGRIz1VzI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_1446_0.jpg?itok=3kB3K3zp</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Rio Guaíba se aproxima da cota de alerta em Porto Alegre</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rio-guaiba-se-aproxima-da-cota-de-alerta-em-porto-alegre</link>
-      <pubDate>Fri, 31 Jul 2026 19:12:54 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rio-guaiba-se-aproxima-da-cota-de-alerta-em-porto-alegre#1005</guid>
-      <description>O Rio Guaíba, no estado do Rio Grande do Sul, está em nível de atenção para possível inundação nos próximos dias e a poucos centímetros de alcançar o...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/whTP4x-vkzNUigK3_tXrh4UOVmU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/05/03/imagem_do_whatsapp_de_2024-05-03_as_15.37.58_0bb5ad90.jpg?itok=UXbl0v7k&quot; alt=&quot;Rio Guaíba se aproxima da cota de alerta em Porto Alegre&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Rio Guaíba, no estado do Rio Grande do Sul, está em nível de atenção para possível inundação nos próximos dias e a poucos centímetros de alcançar o nível de alerta, aponta nesta sexta-feira (31) omonitoramento da Defesa Civil de Porto Alegre.&lt;/p&gt;
-&lt;p&gt;Segundo o Centro de Monitoramento e Alertas (Cemadec) do órgão,o nível do Rio Guaíba entrou na cota de atenção na quarta-feira (29), após atingir 1,90 metro no ponto de monitoramento do Cais Mauá C6.&lt;/p&gt;
-&lt;p&gt;Desde então, o acúmulo de água segue aumentando. Até a última atualização, antes do fechamento desta matéria, o rio chegou a 2,54 metros.&lt;/p&gt;
-&lt;p&gt;Caso o rio acumleelevaçãoacima de 2,60 metros nas próximas horas, seráalcançada a cota de alerta para inundação&lt;/p&gt;
-&lt;p&gt;Neste cenário, algumas regiões do município de Porto Alegre podem apresentar impactos, como o Bairro Arquipélago, formado pelas ilhas da Pintada, Grande dos Marinheiros, Flores e Pavão. Também podem ocorrer danos nas áreas ribeirinhas das regiões Sul e Extremo Sul da capital.&lt;/p&gt;
-&lt;p&gt;Após a atualização dos modelos e a confirmação da elevação do nível do Guaíba,&lt;/p&gt;
-&lt;p&gt;a Defesa Civil elevou o aviso hidrológico para alerta nível laranja&lt;/p&gt;
-&lt;p&gt;. A vigência do aviso vaidas 15h de quinta-feira(30)até as 18h da próxima segunda-feira (3).&lt;/p&gt;
-&lt;p&gt;Há também alertas ativos em outras regiões do estado. Os rios Taquari, Caí, Gravataí e dos Sinos ultrapassaram a cota de inundação de seus respectivos pontos de monitoramento.&lt;/p&gt;
-&lt;p&gt;*Estagiárioda Agência Brasil sob supervisão de Odair Braz Junior.&lt;/p&gt;
-&lt;p&gt;Município cearense sedia regata de jangadas neste fim de semana&lt;/p&gt;
-&lt;p&gt;SP: alta de casos de sarampo aumenta preocupação dos serviços de saúde&lt;/p&gt;
-&lt;p&gt;Agência da ONU alerta que forte El Niño deve se intensificar em agosto&lt;/p&gt;
-&lt;p&gt;Reino Unido oferece ajuda à Espanha diante de crise migratória&lt;/p&gt;
-&lt;p&gt;Enade 2026: divulgada resposta a pedido de atendimento especializado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-07/rio-guaiba-se-aproxima-da-cota-de-alerta-em-porto-alegre&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Rio Guaíba, no estado do Rio Grande do Sul, está em nível de atenção para possível inundação nos próximos dias e a poucos centímetros de alcançar o...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-07-31 12:21:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-31 12:21:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-31 12:21:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-31 12:21:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/whTP4x-vkzNUigK3_tXrh4UOVmU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/05/03/imagem_do_whatsapp_de_2024-05-03_as_15.37.58_0bb5ad90.jpg?itok=UXbl0v7k</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Fies: pré-selecionados têm até terça para complementar informações</title>
-      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/fies-pre-selecionados-tem-ate-terca-para-complementar-informacoes</link>
-      <pubDate>Fri, 31 Jul 2026 19:12:54 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/fies-pre-selecionados-tem-ate-terca-para-complementar-informacoes#1006</guid>
-      <description>Os pré-selecionados no processo seletivo do Fundo de Financiamento Estudantil (Fies) para o segundo semestre devem complementar as informações de sua...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/rQmDuaR1ZRpPOIs_NeTcEcKw2jI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/24/0d9a2969.jpg?itok=1AOHZYIk&quot; alt=&quot;Fies: pré-selecionados têm até terça para complementar informações&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Os pré-selecionados no processo seletivo do Fundo de Financiamento Estudantil (Fies) para o segundo semestre devem complementar as informações de suas inscrições a partir desta sexta-feira (31). O prazo vai até as 23h59 da próxima segunda-feira, 4 de agosto.&lt;/p&gt;
-&lt;p&gt;O procedimento deve ser feito no&lt;/p&gt;
-&lt;p&gt;O Ministério da Educação (MEC) divulgou a&lt;/p&gt;
-&lt;p&gt;Portal Único de Acesso ao Ensino Superior&lt;/p&gt;
-&lt;p&gt;Em 2026, foram disponibilizadas 75,5 mil vagas, distribuídas em 1.274 instituições privadas de educação superiorpara ingresso em28.741 cursos e turnos.&lt;/p&gt;
-&lt;p&gt;Nesta edição, o processo seletivo do Fies registrou 315.431 inscrições, de 127.175 inscritos. O MEC explica que cada candidato pode escolher até três opções de curso.&lt;/p&gt;
-&lt;p&gt;Dos mais de 127 mil inscritos,as mulheres representam 67,5% (85.867 candidatas), eos homens correspondem a 32,5% (41.308 inscritos).&lt;/p&gt;
-&lt;p&gt;Autodeclaradaspretas e pardas correspondem a 55,5% do total feminino, enquanto, entre os homens, esse percentual chega a 60,5%.Ao todo, mais de 72 mil candidatos se autodeclaram pretos ou pardos, o equivalente a cerca de 57% do total.O processo seletivo também registrou a participação de 666 candidatos indígenas, 1.808 quilombolas e 5.248 pessoas com deficiência.&lt;/p&gt;
-&lt;p&gt;O processo seletivo doFiesinclui a reserva de 50% das vagas para estudantes com renda familiar por pessoa de até meiosaláriomínimoe com inscrição ativa no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico).&lt;/p&gt;
-&lt;p&gt;Os pré-selecionados que atendam às regras doFiesSocial poderãofinanciaraté 100% dos encargos educacionais, o que cobreintegralmenteosvaloresdas mensalidades.&lt;/p&gt;
-&lt;p&gt;Tanto noFiesquanto noFiesSocial, há a reserva de vagas para cotistascom os seguintes perfis: pessoas com deficiência (PCD), indígenas, quilombolas e autodeclaradospretos e pardos.&lt;/p&gt;
-&lt;p&gt;Os candidatos que não foram pré-selecionados na chamada única estão, automaticamente, na lista de espera para preenchimento das vagas não ocupadas, observada a ordem de classificação.&lt;/p&gt;
-&lt;p&gt;Nessa etapa, a pré-seleção ocorrerá de 7 de agosto a 24 de setembro.&lt;/p&gt;
-&lt;p&gt;O Fies realiza anualmente dois processos seletivos regulares, um para o primeiro semestre e outro para o segundo semestre, além de processos seletivos para vagas remanescentes.&lt;/p&gt;
-&lt;p&gt;Se ainda tiver dúvidas, o interessado pode entrar em contato com o MEC pelo telefone 0800-616161.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-07/fies-pre-selecionados-tem-ate-terca-para-complementar-informacoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Os pré-selecionados no processo seletivo do Fundo de Financiamento Estudantil (Fies) para o segundo semestre devem complementar as informações de sua...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-07-31 11:56:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-31 11:56:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-31 11:56:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-31 11:56:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/rQmDuaR1ZRpPOIs_NeTcEcKw2jI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/24/0d9a2969.jpg?itok=1AOHZYIk</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Plataforma oferece escuta em saúde mental para jovens no SUS Digital</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/plataforma-oferece-escuta-em-saude-mental-para-jovens-no-sus-digital</link>
-      <pubDate>Fri, 31 Jul 2026 19:12:54 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/plataforma-oferece-escuta-em-saude-mental-para-jovens-no-sus-digital#1007</guid>
-      <description>A plataforma Pode Falar, que oferece
-acolhimento, escuta qualificada e orientação em saúde mental para pessoas de 13 a 24 anos
-, está disponível no a...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_c_kqR3j8KahtzeMAvH91pHlAZs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/uso_de_smartphone_e_celular050720211243.jpg?itok=QQWaPNvY&quot; alt=&quot;Plataforma oferece escuta em saúde mental para jovens no SUS Digital&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A plataforma Pode Falar, que oferece&lt;/p&gt;
-&lt;p&gt;acolhimento, escuta qualificada e orientação em saúde mental para pessoas de 13 a 24 anos&lt;/p&gt;
-&lt;p&gt;, está disponível no aplicativo meu SUS Digital (disponível na&lt;/p&gt;
-&lt;p&gt;De acordo com o Ministério da Saúde, o serviçorealiza uma média de 1,1 mil atendimentos por mês atualmente. Com o acesso direto pelo aplicativo, a expectativa é alcançar cerca de 11 mil atendimentos mensais.&lt;/p&gt;
-&lt;p&gt;“A plataforma oferece um espaço seguro de escuta e orientação e contribui para reduzir barreiras de acesso, especialmente entre pessoas que ainda não procuraram atendimento presencial”, destacou a pasta.&lt;/p&gt;
-&lt;p&gt;O projeto é resultado de uma parceria com o Fundo das Nações Unidas para a Infância (Unicef) para fortalecer o cuidado em saúde mental no Sistema Único de Saúde (SUS).&lt;/p&gt;
-&lt;p&gt;Para acessar a plataforma, basta entrar no aplicativo Meu SUS Digital e selecionar a opção “Pode Falar”, na área de miniaplicativos&lt;/p&gt;
-&lt;p&gt;O usuário será direcionado para o Pode Falar, que funciona de segunda a sábado, das 8h às 22h (horário de Brasília). O atendimento pode ser anônimo, se assim for desejado.&lt;/p&gt;
-&lt;p&gt;O primeiro contato acontece por meio de um chatbot&lt;/p&gt;
-&lt;p&gt;. Nesse espaço, também são disponibilizados conteúdos simples e acessíveis sobre saúde mental, que ajudam o usuário a compreender melhor suas emoções.&lt;/p&gt;
-&lt;p&gt;A partir do desejo do usuário ou quando for identificada a necessidade de apoio mais direto, o sistema encaminha a conversa para o atendimento humano&lt;/p&gt;
-&lt;p&gt;O serviço conta ainda com recursos tecnológicos para identificar e priorizar situações de maior risco – uma ferramenta de inteligência artificial analisa as mensagens dos usuários que aguardam atendimento e, ao detectar indícios de risco elevado, envia um alerta imediato à equipe, para que esses casos tenham prioridade.&lt;/p&gt;
-&lt;p&gt;Os teleatendimentos, segundo o ministério, são realizados por estudantes de graduação e pós-graduação de diferentes áreas, como psicologia, medicina e educação&lt;/p&gt;
-&lt;p&gt;, que atuam sob a supervisão de professores, recebem formação contínua e seguem protocolos específicos para cada situação apresentada.&lt;/p&gt;
-&lt;p&gt;A pasta reforçou que, quando o sofrimento psíquico for persistente, prejudicar a rotina, os estudos, o trabalho ou as relações, ou em situações de crise, é importante buscar atendimento presencial.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/plataforma-oferece-escuta-em-saude-mental-para-jovens-no-sus-digital&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A plataforma Pode Falar, que oferece
-acolhimento, escuta qualificada e orientação em saúde mental para pessoas de 13 a 24 anos
-, está disponível no a...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-07-31 11:52:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-31 11:52:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-31 11:52:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-31 11:52:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/_c_kqR3j8KahtzeMAvH91pHlAZs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/uso_de_smartphone_e_celular050720211243.jpg?itok=QQWaPNvY</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Falsos anúncios sobre Desenrola Brasil enganam usuários nas redes</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/falsos-anuncios-sobre-desenrola-brasil-enganam-usuarios-nas-redes</link>
-      <pubDate>Fri, 31 Jul 2026 19:12:54 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/falsos-anuncios-sobre-desenrola-brasil-enganam-usuarios-nas-redes#1008</guid>
-      <description>544 falsos anúncios sobre o programa Desenrola Brasil, do governo federal, foram veiculados em redes sociais, para praticar golpes contra seus usuári...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Q2J-7m_h7ZGKo2OXW5fEAPwm5tg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/18/hack_copiar.jpg?itok=H4dEbiRg&quot; alt=&quot;Falsos anúncios sobre Desenrola Brasil enganam usuários nas redes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;544 falsos anúncios sobre o programa Desenrola Brasil, do governo federal, foram veiculados em redes sociais, para praticar golpes contra seus usuários. A constatação é de um levantamento do Laboratório de Estudos de Internet e Redes Sociais (Netlab), da Universidade Federal do Rio de Janeiro (UFRJ).&lt;/p&gt;
-&lt;p&gt;O estudo foi feito com as redes sociais mantidas pela empresa Meta (Instagram, Facebook, WhatsApp, Threads e Messenger) além da Audience Network, através da qual, segundo os pesquisadores, a empresa veicula anúncios em aplicativos de terceiros.&lt;/p&gt;
-&lt;p&gt;Os pesquisadores analisaram essas plataformas entre 1º de abril e 14 de junho deste ano e revelaram que as fraudes foram feitas por 48 páginas diferentes.&lt;/p&gt;
-&lt;p&gt;A maioria delas (34) usou o nome oficial do programa (Desenrola Brasil) para publicar 278 anúncios e enganar os usuários.&lt;/p&gt;
-&lt;p&gt;Outras 15 páginas usavam um programa governamental inexistente, que foi chamado de Libera Brasil, para publicar 264 anúncios. Uma das páginas misturava os dois nomes para praticar sua fraude.&lt;/p&gt;
-&lt;p&gt;O Desenrola Brasil foi um programa criado em 2023 com o objetivo de facilitar a renegociação de dívidas pelos consumidores. Em maio deste ano, o governo lançou uma segunda versão do programa.&lt;/p&gt;
-&lt;p&gt;Segundo o Netlab, os golpes que usam anúncios falsos sobre o programa começaram logo que a primeira versão foi lançada, em 2023. Em julho daquele ano, de acordo com o grupo de pesquisa, o&lt;/p&gt;
-&lt;p&gt;Ministério da Justiça determinou a retirada dos anúncios do ar e uma medida cautelar foi determinada, o que resultou em uma multa de R$ 9,3 milhões contra a Meta.&lt;/p&gt;
-&lt;p&gt;Os anúncios continuaram neste ano e, em maio, ganharam força, depois do lançamento da segunda versão do Desenrola Brasil, de acordo com o Netlab.&lt;/p&gt;
-&lt;p&gt;Os pesquisadores constataram que a maioria dos anúncios (72%) faz uso indevido do nome e da imagem do governo e/ou de marcas privadas como sites de notícias e bancos. Além disso,&lt;/p&gt;
-&lt;p&gt;que se passam por canais oficiais do governo e 38,1% apresentam conteúdo gerado por inteligência artificial.&lt;/p&gt;
-&lt;p&gt;“As pessoas não sabem que tantos anúncios fraudulentos estão circulando nas redes sociais sem nenhum tipo de fiscalização, de filtro ou de sistema de segurança. Então, isso torna cada vez mais perigoso, porque as pessoas veem anúncios legítimos e ilegítimos numa mesma plataforma, misturados. Para o usuário, é muito difícil diferenciar e, claro, isso torna as pessoas cada vez mais vulneráveis”, explica a diretora do Netlab, Marie Santini.&lt;/p&gt;
-&lt;p&gt;Ao atrair os usuários das redes sociais para seus&lt;/p&gt;
-&lt;p&gt;fraudulentos, os golpistas coletam dados sigilosos e pessoais além de direcionar a vítima para conversas de WhatsApp, onde outras etapas do golpe são conduzidas.&lt;/p&gt;
-&lt;p&gt;O estudo destaca que os anunciantes golpistas usam estratégias de manipulação comuns a esse tipo de anúncios fraudulentos relacionados a políticas públicas, como promessas de soluções financeiras irreais e falsa urgência para induzir cliques.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/falsos-anuncios-sobre-desenrola-brasil-enganam-usuarios-nas-redes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>544 falsos anúncios sobre o programa Desenrola Brasil, do governo federal, foram veiculados em redes sociais, para praticar golpes contra seus usuári...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-07-31 11:49:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-31 11:49:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-31 11:49:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-31 11:49:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Q2J-7m_h7ZGKo2OXW5fEAPwm5tg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/18/hack_copiar.jpg?itok=H4dEbiRg</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Inscrições para o Prêmio Brasil que Alimenta vão até 7 de agosto</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/inscricoes-para-o-premio-brasil-que-alimenta-vao-ate-7-de-agosto</link>
-      <pubDate>Fri, 31 Jul 2026 19:12:54 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/inscricoes-para-o-premio-brasil-que-alimenta-vao-ate-7-de-agosto#1009</guid>
-      <description>© Divulgação/Prefeitura de Goiânia
-As inscrições para o Prêmio Brasil que Alimenta, previstas para terminar nesta sexta-feira (31), foram prorrogadas...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Qi8TlMiXsJ8cV9c0ovetuuXI6PU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/49492381151_5dec16d138_b.jpg?itok=Cx5bY0nE&quot; alt=&quot;Inscrições para o Prêmio Brasil que Alimenta vão até 7 de agosto&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Divulgação/Prefeitura de Goiânia&lt;/p&gt;
-&lt;p&gt;As inscrições para o Prêmio Brasil que Alimenta, previstas para terminar nesta sexta-feira (31), foram prorrogadas até 7 de agosto. A iniciativa vai reconhecer ações sociais que contribuam para o combate à fome e segurança alimentar e nutricional e para garantia ao direito à alimentação.&lt;/p&gt;
-&lt;p&gt;Podem concorrer organizações populares de atuação territorial, da sociedade civil e de educação, ciência e conhecimento que atuam em todo o território nacional.&lt;/p&gt;
-&lt;p&gt;O projeto deveestar em pleno funcionamentohá, pelo menos, três anose funcionarconforme o&lt;/p&gt;
-&lt;p&gt;Guia Alimentar para População Brasileira&lt;/p&gt;
-&lt;p&gt;Serão premiadas 40 ações nas modalidades financeira e honorífica, sendo dividias em quatro categorias:&lt;/p&gt;
-&lt;p&gt;Redes Comunitárias, Solidariedade e Proteção Social;&lt;/p&gt;
-&lt;p&gt;Produção e Abastecimento – Agroecologia, Agricultura Familiar e Produção;&lt;/p&gt;
-&lt;p&gt;Promoção do Direito Humano à Alimentação Adequada e Fortalecimento do Sistema Nacional de Segurança Alimentar e Nutricional;&lt;/p&gt;
-&lt;p&gt;Em cada categoria, as primeiras cinco classificadas receberão de R$ 50 a R$ 20 mil, somando um total de R$ 700 mil em premiação financeira. As ações classificadas 6º e o 10º lugar serão reconhecidas com um certificado honorífico.&lt;/p&gt;
-&lt;p&gt;As organizações podem se inscrever em mais de uma categoria, mas só será premiada em uma delas.&lt;/p&gt;
-&lt;p&gt;Para se inscrever, é necessário acessar o&lt;/p&gt;
-&lt;p&gt;Portal de Compras do Governo Federal&lt;/p&gt;
-&lt;p&gt;, por meio de uma conta Gov.br, e ter cadastro no&lt;/p&gt;
-&lt;p&gt;Sistema de Cadastramento Unificado de Fornecedores (Sicaf)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-07/inscricoes-para-o-premio-brasil-que-alimenta-vao-ate-7-de-agosto&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Divulgação/Prefeitura de Goiânia
-As inscrições para o Prêmio Brasil que Alimenta, previstas para terminar nesta sexta-feira (31), foram prorrogadas...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-07-31 11:47:00</wp:post_date>
-      <wp:post_date_gmt>2026-07-31 11:47:00</wp:post_date_gmt>
-      <wp:post_modified>2026-07-31 11:47:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-07-31 11:47:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Qi8TlMiXsJ8cV9c0ovetuuXI6PU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/49492381151_5dec16d138_b.jpg?itok=Cx5bY0nE</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
