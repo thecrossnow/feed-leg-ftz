@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 02 Aug 2026 13:10:03 +0000</pubDate>
+    <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,21 +22,217 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>São Paulo vence Vitória e assume liderança do Brasileirão Feminino</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/sao-paulo-vence-vitoria-e-assume-lideranca-do-brasileirao-feminino</link>
+      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/sao-paulo-vence-vitoria-e-assume-lideranca-do-brasileirao-feminino#1000</guid>
+      <description>Em partida transmitida ao vivo pela TV Brasil, o São Paulo venceu o Vitória por 3 a 1, no Barradão, em Salvador
+. O duelo foi válido pela 14ª rodada ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9JICADvapkjqaic6hoO3Zzoe67s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/02/img_3916-jpg.jpeg?itok=6Y0cJWGa&quot; alt=&quot;São Paulo vence Vitória e assume liderança do Brasileirão Feminino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Em partida transmitida ao vivo pela TV Brasil, o São Paulo venceu o Vitória por 3 a 1, no Barradão, em Salvador&lt;/p&gt;
+&lt;p&gt;. O duelo foi válido pela 14ª rodada do Brasileirão Feminino, na noite desábado (1º).&lt;/p&gt;
+&lt;p&gt;O primeiro gol saiu aos oito minutos. Bia Menezes cobrou um escanteio, e Bruna Calderan balançou a rede. O segundo foi aos 29, quando a volante Vick Moura do Vitória desviou contra a própria meta. Já o terceiro saiu aos 36 minutos, após boa jogada de Aline Milene e a conclusão de Isa de cabeça.&lt;/p&gt;
+&lt;p&gt;No segundo tempo, a equipe da casa respondeu rápido. No primeiro minuto, Sheilinha, de cabeça, diminuiu. Mas o placar ficou assim: 3 a 1 para o São Paulo.&lt;/p&gt;
+&lt;p&gt;Com o resultado, as Soberanas assumem a liderança com 32 pontos&lt;/p&gt;
+&lt;p&gt;. O vice-líder Corinthians ainda visita o Flamengo nesta rodada na segunda-feira(3).&lt;/p&gt;
+&lt;p&gt;O Vitória segue na zona de rebaixamento com seis pontos em penúltimo lugar.&lt;/p&gt;
+&lt;p&gt;Pelo Brasileirão, as baianas voltam a jogar no próximo domingo (9) recebendo o Inter, em Salvador. No mesmo dia, o São Paulo vai receber o Bragantino.&lt;/p&gt;
+&lt;p&gt;TSE promove Semana da Urna para combater desinformação&lt;/p&gt;
+&lt;p&gt;Câmeras inteligentes auxiliam no combate ao desaparecimento de pessoas&lt;/p&gt;
+&lt;p&gt;Congresso volta do recesso sem previsão de plenário nesta semana&lt;/p&gt;
+&lt;p&gt;São Paulo vence Vitória e assume liderança do Brasileirão Feminino&lt;/p&gt;
+&lt;p&gt;Filme sobre a ditadura paraguaia vence Festival Bonito CineSur&lt;/p&gt;
+&lt;p&gt;Caminhadas buscam conscientizar população sobre lipedema&lt;/p&gt;
+&lt;p&gt;Amamentação reduz risco de doença cardíaca na mãe&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/sao-paulo-vence-vitoria-e-assume-lideranca-do-brasileirao-feminino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Em partida transmitida ao vivo pela TV Brasil, o São Paulo venceu o Vitória por 3 a 1, no Barradão, em Salvador
+. O duelo foi válido pela 14ª rodada ...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-02 11:11:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-02 11:11:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-02 11:11:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-02 11:11:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/9JICADvapkjqaic6hoO3Zzoe67s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/02/img_3916-jpg.jpeg?itok=6Y0cJWGa</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Filme sobre a ditadura paraguaia vence festival Bonito CineSur</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-sobre-ditadura-paraguaia-vence-festival-bonito-cinesur</link>
+      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-sobre-ditadura-paraguaia-vence-festival-bonito-cinesur#1001</guid>
+      <description>© Elaine Patricia Cruz/Agência Brasil
+foi escolhido pelo júri oficial como o grande vencedor da categoria de melhor longa sul-americano do festival d...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/lWbjHUyqQ8faWyyUF2HM_Seu_Ws=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/02/whatsapp_image_2026-08-02_at_00.15.15.jpeg?itok=mOBbTKYB&quot; alt=&quot;Filme sobre a ditadura paraguaia vence festival Bonito CineSur&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Elaine Patricia Cruz/Agência Brasil&lt;/p&gt;
+&lt;p&gt;foi escolhido pelo júri oficial como o grande vencedor da categoria de melhor longa sul-americano do festival de cinema Bonito CineSur. A cerimônia de encerramento do festival foi realizadana noite de sábado (1º) no Centro de Convenções, na cidade de Bonito (MS).&lt;/p&gt;
+&lt;p&gt;¿Quién Mató a Narciso? é um filme dirigido por Marcelo Martinessi e baseado no livro&lt;/p&gt;
+&lt;p&gt;, escrito pelo jornalista paraguaio Guido Rodríguez Alcalá.&lt;/p&gt;
+&lt;p&gt;é inspirado no assassinato do jovem Bernardo Aranda, em 1959, um locutor de rádio homossexual que amava o&lt;/p&gt;
+&lt;p&gt;e que foi queimado enquanto dormia. O crime jamais foi solucionado, mas, para a Comissão da Verdade e Justiça paraguaia, o assassinato pode ter sido tramado pelo governo militar.&lt;/p&gt;
+&lt;p&gt;Consideradoa ditadura mais longa da América do Sul, o governo militar comandado pelo general Alfredo Stroessner promoveu quase 20 mil prisões arbitrárias ou ilegais, 59 execuções, 336 desaparecimentos e torturou quase 19 milpessoas durante os 35 anos em que ele permaneceu no poder. Além disso, 3.470 pessoas precisaram ser exiladas, segundo&lt;/p&gt;
+&lt;p&gt;pela comissão. Entre os grupos que mais sofreram violações nesse período estavam os formados por pessoas LGBT+, como Aranda.&lt;/p&gt;
+&lt;p&gt;“De verdade, este prêmio proporciona um desfecho mais do que lindo”, disse o ator Diro Romero, que interpreta Narciso no cinema. “Todos queremos colaborar e continuar contando histórias. Valorizamos nossas narrativas e acreditamos que é preciso contá-las e mostrá-las ao mundo. Temos muito a contar, muitas mensagens a transmitir.”&lt;/p&gt;
+&lt;p&gt;que é preciso contar a história sobre as ditaduras sul-americanas para que elas jamais voltem a se repetir.&lt;/p&gt;
+&lt;p&gt;“Dizemos que a ditadura terminou há vários anos, mas não somente sentimos que há indícios de que ela segue entre nós, como também estamos começando a ter certos sinais no mundo para os quais temos que estar alertas. Então, este é o momento de abrir os olhos e nós, através do cinema, vamos fazer com que isso não chegue novamente no futuro”, destacou.&lt;/p&gt;
+&lt;p&gt;Outro grande premiado da noite pelo Bonito Cinesur foi o diretor colombiano Alejandro Calderón, que levou três estatuetas para casa.&lt;/p&gt;
+&lt;p&gt;O primeiro troféu conquistado por ele foi por&lt;/p&gt;
+&lt;p&gt;Hipopótamos, el Arca de Escobar&lt;/p&gt;
+&lt;p&gt;, selecionado como melhor curta-metragem de cinema ambiental escolhido pelo júri.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-sobre-ditadura-paraguaia-vence-festival-bonito-cinesur&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Elaine Patricia Cruz/Agência Brasil
+foi escolhido pelo júri oficial como o grande vencedor da categoria de melhor longa sul-americano do festival d...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-08-02 10:50:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-02 10:50:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-02 10:50:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-02 10:50:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/lWbjHUyqQ8faWyyUF2HM_Seu_Ws=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/02/whatsapp_image_2026-08-02_at_00.15.15.jpeg?itok=mOBbTKYB</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Caminhadas buscam conscientizar população sobre lipedema</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/caminhadas-buscam-conscientizar-populacao-sobre-lipedema</link>
+      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/caminhadas-buscam-conscientizar-populacao-sobre-lipedema#1002</guid>
+      <description>© Marcelo Camargo/ Agência Brasil
+Uma em cada 10 mulheres no Brasil sofre com um acúmulo excessivo de gordura nas extremidades do corpo, resultando e...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/fT57v_sun7UPUEqd6cXXjOIOv8I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/02/mcm_2416.jpg-1.jpg?itok=uPhQPGbK&quot; alt=&quot;Caminhadas buscam conscientizar população sobre lipedema&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/ Agência Brasil&lt;/p&gt;
+&lt;p&gt;Uma em cada 10 mulheres no Brasil sofre com um acúmulo excessivo de gordura nas extremidades do corpo, resultando em um aumento desproporcional do tecido adiposo sobretudo nos braços e nas pernas. O quadro, comumente confundido com celulite, é chamado lipedema e incomoda além da estética, já que pode causar dores, inchaço, sensibilidade e limitações físicas.&lt;/p&gt;
+&lt;p&gt;Neste domingo (2), pacientes, familiares e profissionais de saúde participam de caminhadas agendadas em um total de 26 cidades no Brasil e no exterior com o objetivo de ampliar a conscientização e o diagnóstico precoce da condição.&lt;/p&gt;
+&lt;p&gt;a cirurgiã vascular, angiologista e membro da Sociedade Brasileira de Angiologia e de Cirurgia Vascular Tatiana Losada detalhou que o lipedema é uma doença crônica do tecido adiposo, caracterizada pelo acúmulo exagerado de gordura, principalmente nas pernas, nos quadris e, em alguns casos, nos braços.&lt;/p&gt;
+&lt;p&gt;“Acomete quase exclusivamente mulheres e pode provocar dor, sensibilidade ao toque, sensação de peso, inchaço e facilidade para desenvolver hematomas”, disse, ao citar que a celulite, por sua vez, é uma alteração estética da superfície da pele, responsável pelo aspecto de casca de laranja e que, em geral, não provoca dor importante ou aumento desproporcional dos membros.&lt;/p&gt;
+&lt;p&gt;De acordo com a médica, no caso do lipedema, além das irregularidades na pele, costuma existir aumento simétrico e excessivo das pernas ou dos braços, dor ou sensibilidade ao toque, peso nas pernas, inchaço e hematomas frequentes. “&lt;/p&gt;
+&lt;p&gt;É comum também haver preservação dos pés e das mãos, formando uma espécie de garrote na região dos tornozelos ou punhos”.&lt;/p&gt;
+&lt;p&gt;Tatiana destacou ainda que, apesar das diferenças entre ambas as condições, somente uma avaliação médica pode confirmar o diagnóstico.&lt;/p&gt;
+&lt;p&gt;“O diagnóstico é predominantemente clínico, realizado por meio da história da paciente e do exame físico. Não existe, atualmente, um exame laboratorial ou de imagem que confirme o lipedema. Exames como&lt;/p&gt;
+&lt;p&gt;podem ser solicitados para avaliar a circulação e afastar outras condições.”&lt;/p&gt;
+&lt;p&gt;Apesar de ser considerado uma condição crônica, o lipedema, segundo ela, pode ser tratado e controlado. O tratamento, individualizado, pode envolver alimentação equilibrada, controle do peso, exercícios físicos, sobretudo fortalecimento muscular, fisioterapia, terapia compressiva e acompanhamento multiprofissional.&lt;/p&gt;
+&lt;p&gt;“Em pacientes selecionadas, pode ser realizada cirurgia. O objetivo é reduzir dor e inchaço, preservar a mobilidade e melhorar a qualidade de vida”, explicou.&lt;/p&gt;
+&lt;p&gt;As causas do lipedema, de acordo com a médica, ainda não foram completamente esclarecidas, mas há forte associação a fatores genéticos e hormonais. Por esse motivo, é comum encontrar diversas mulheres de uma mesma família com características semelhantes, mesmo que nunca tenham recebido o diagnóstico.&lt;/p&gt;
+&lt;p&gt;“Os sintomas também podem surgir ou se intensificar em períodos de mudanças hormonais, como adolescência, gravidez e menopausa. Ganho de peso, sedentarismo e alterações metabólicas não são considerados causas diretas do lipedema, mas podem agravar os sintomas, a inflamação, a sobrecarga articular e as limitações de mobilidade.”&lt;/p&gt;
+&lt;p&gt;Tatiana ressaltou que, diante de sinais de um possível lipedema, o paciente deve procurar um médico com experiência no diagnóstico da doença e não atribuir o quadro apenas ao excesso de peso.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/caminhadas-buscam-conscientizar-populacao-sobre-lipedema&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/ Agência Brasil
+Uma em cada 10 mulheres no Brasil sofre com um acúmulo excessivo de gordura nas extremidades do corpo, resultando e...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-08-02 10:05:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-02 10:05:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-02 10:05:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-02 10:05:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/fT57v_sun7UPUEqd6cXXjOIOv8I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/02/mcm_2416.jpg-1.jpg?itok=uPhQPGbK</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Amamentação reduz risco de doença cardíaca na mãe</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/amamentacao-reduz-risco-de-doenca-cardiaca-na-mae</link>
+      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/amamentacao-reduz-risco-de-doenca-cardiaca-na-mae#1003</guid>
+      <description>© Valter Campanato/Agência Brasil
+A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença cardiovascular em relação amulher que...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/C5pNOoi9Gm64Cb0muO2kG4fS9Hc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1035475-rj_vac_1541.jpg?itok=a4X641OP&quot; alt=&quot;Amamentação reduz risco de doença cardíaca na mãe&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
+&lt;p&gt;A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença cardiovascular em relação amulher que não amamenta, destaca a Sociedade Brasileira de Cardiologia (SBC).&lt;/p&gt;
+&lt;p&gt;A queda dos fatores de risco está ligada ao período de amamentação.&lt;/p&gt;
+&lt;p&gt;“As publicações giram em torno de 18 meses de amamentação. A mulher que amamenta por mais tempo tem também redução desses fatores de risco: 12% menos risco de acidente vascular cerebral (AVC), 14% menos risco de infarto. Viu-se que a amamentação traz essa proteção para a mulher”, destaca a vice-presidente do Departamento de Cardiologia da Mulher da SBC, Alexandra Oliveira de Mesquita.&lt;/p&gt;
+&lt;p&gt;A médica esclarece que isso não significa que a mulher que não amamenta tenha risco aumentado para esse tipo de doença.&lt;/p&gt;
+&lt;p&gt;Durante a gestação, a mulher sofre alterações hormonais, como altada resistência à insulina e elevação dos lipídios edo colesterol, principalmente do LDL (colesterol ruim).&lt;/p&gt;
+&lt;p&gt;Já nalactaçãoocorre um reset metabólico, uma espécie de reinicialização do organismo, pois a produção de leite atua na regulação do açúcar, aomelhorar o efeito sobre o metabolismo glicídico eaumentar a sensibilidade à insulina;usaglicose docorpo, reduzindo o risco de diabetes; e o alívio cardíaco, uma vez que reduz a pressão arterial e diminui a frequência cardíaca da mãe, permitindo que o coração trabalhe com menos esforço parabombeamento dosangue.&lt;/p&gt;
+&lt;p&gt;O período de lactação ativa a liberação de hormônios específicos, como a ocitocina, a prolactina, os glicocorticoides, a grelina e o hormônio do crescimento, que atuam como umaproteçãoao miocárdio contra possíveis lesões cardíacas.&lt;/p&gt;
+&lt;p&gt;Um dos principais destaques é a ocitocina. Conhecido como o “hormônio do amor”, a ocitocina protege o coração contra a falta de oxigênio por meio da ativação de receptores cerebrais e de uma via que envolve estruturas responsáveis pela geração de energia celular, oferecendo uma barreira extra de cardioproteção à mãe.&lt;/p&gt;
+&lt;p&gt;“Tudo isso promove uma melhora da função endotelial, que é a função da parede interior das artérias. Também a liberação de oxitocina, nessa fase de lactação, faz uma vasodilatação, melhorando a circulação dessa mãe. Então, as alterações hormonais produzidas durante a gestação ficam meio que &quot;resetadas&quot; na fase de lactação, que é o que vai causar realmente essa redução de riscos”, explicou a médica, acrescentando quea resistência à insulina, se não for controlada,pode evoluir para o diabetes.&lt;/p&gt;
+&lt;p&gt;A Sociedade Brasileira de Cardiologia aponta que, na gravidez, o corpo da mulher acumula naturalmente reservas de gordura. A lactação utilizaesses depósitos, o que reduz diretamente o risco de doenças cardíacas e um infarto.&lt;/p&gt;
+&lt;p&gt;Alexandra Mesquita cita que asdoenças cardiovasculares respondem por 33% damortalidade feminina, superior aos óbitos por câncer de mama.&lt;/p&gt;
+&lt;p&gt;“Ainda se pensa que a maior causa de mortalidade feminina é câncer de mama, mas a doença cardiovascular mata sete vezes mais que o câncer de mama”, disse.&lt;/p&gt;
+&lt;p&gt;A maior parte dos fatores de risco - diabetes, pressão alta e sedentarismo - é comum a homens e mulheres. No entanto, podem ser piores entre as mulheres.&lt;/p&gt;
+&lt;p&gt;Porém, há fatores de risco próprios do sexo feminino. Entre eles, por exemplo, a cardiologista citou a primeira menstruação precoce(9 ou 10 anos)ou tardia (15 e 16 anos); a menopausa precoce, com menos de 45 anos; endometriose; ovários policísticos; uso de anticoncepcional oral; alterações da gravidez, comohipertensão induzida pela gestação, diabete gestacional oubebê de baixo peso.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/amamentacao-reduz-risco-de-doenca-cardiaca-na-mae&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Valter Campanato/Agência Brasil
+A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença cardiovascular em relação amulher que...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-08-02 09:13:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-02 09:13:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-02 09:13:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-02 09:13:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/C5pNOoi9Gm64Cb0muO2kG4fS9Hc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1035475-rj_vac_1541.jpg?itok=a4X641OP</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Mulheres formam rede em defesa do clima e dos territórios</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/mulheres-formam-rede-em-defesa-do-clima-e-dos-territorios</link>
-      <pubDate>Sun, 02 Aug 2026 13:10:03 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/mulheres-formam-rede-em-defesa-do-clima-e-dos-territorios#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/mulheres-formam-rede-em-defesa-do-clima-e-dos-territorios#1004</guid>
       <description>Mulheres de diferentes lugares do Brasil se conectaram em uma rede de apoio e articulação que tem como principal elo a defesa ambiental e da justiça ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kQAudGPaBttBFguaEd1JQYqzsr0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/whatsapp_image_2026-07-31_at_14.49.58.jpeg?itok=jFoitqxA&quot; alt=&quot;Mulheres formam rede em defesa do clima e dos territórios&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Mulheres de diferentes lugares do Brasil se conectaram em uma rede de apoio e articulação que tem como principal elo a defesa ambiental e da justiça climática.&lt;/p&gt;
 &lt;p&gt;O Programa Defensoras por Defensoras, promovido pela rede ambiental Observatório do Clima, reúne histórias de vida ligadas pelos cuidados com as pessoas, o meio ambiente e a memória dos territórios.&lt;/p&gt;
 &lt;p&gt;São 36 mulheres que atuam na linha de frente do ativismo ambiental e climático e que juntas trocam vivência, compartilham desafios e passam por formações para o fortalecimento da luta em seus territórios.&lt;/p&gt;
-&lt;p&gt;A Pernambucana Sara Marques (foto de destaque) vive na comunidade Caranguejo Tabaiares, em Recife (PE), desde que nasceu. O local às margens de um braço do Rio Capiberibe, há algumas décadas, era uma região de pescadores e marisqueiras.&lt;/p&gt;
+&lt;p&gt;A Pernambucana Sarah Marques (foto de destaque) vive na comunidade Caranguejo Tabaiares, em Recife (PE), desde que nasceu. O local às margens de um braço do Rio Capiberibe, há algumas décadas, era uma região de pescadores e marisqueiras.&lt;/p&gt;
 &lt;p&gt;Hoje, totalmente integrado à área urbana, sofre os impactos de um crescimento desordenado que tornou o rio improdutivo e pressiona a população local para dar espaço a novos empreendimentos imobiliários.&lt;/p&gt;
-&lt;p&gt;“Eu tinha essa relação com a natureza, de saber que ia chover quando os caranguejos saíam do buraco, quando os aratus corriam [pequenos caranguejos], quando tinha peixe nos viveiros. Aqui a gente tinha uma cadeia de pescado. Então tinha camarão, siri, aratu, tinha cavalo marinho”, lembra Sara.&lt;/p&gt;
-&lt;p&gt;Antes mesmo de nascer, os avós da Sara já viviam ali e os pais se conheceram e construíram a casa onde ela nasceu também em Caranguejo Tabaiares. Mas com o tempo, tudo mudou.&lt;/p&gt;
-&lt;p&gt;“Então a gente diz que nós somos uma comunidade pesqueira descaracterizada. Você tem o rio canalizado, você tem uma ilha que não é mais ilha, agora é um istmo [faixa de terra que conecta duas áreas]. Você tem viveiros que antes eram bem cheios de espécies e que hoje produz, majoritariamente, só o camarão”, descreve Sara.&lt;/p&gt;
+&lt;p&gt;“Eu tinha essa relação com a natureza, de saber que ia chover quando os caranguejos saíam do buraco, quando os aratus corriam [pequenos caranguejos], quando tinha peixe nos viveiros. Aqui a gente tinha uma cadeia de pescado. Então tinha camarão, siri, aratu, tinha cavalo marinho”, lembra Sarah.&lt;/p&gt;
+&lt;p&gt;Antes mesmo de nascer, os avós da Sarah já viviam ali e os pais se conheceram e construíram a casa onde ela nasceu também em Caranguejo Tabaiares. Mas com o tempo, tudo mudou.&lt;/p&gt;
+&lt;p&gt;“Então a gente diz que nós somos uma comunidade pesqueira descaracterizada. Você tem o rio canalizado, você tem uma ilha que não é mais ilha, agora é um istmo [faixa de terra que conecta duas áreas]. Você tem viveiros que antes eram bem cheios de espécies e que hoje produz, majoritariamente, só o camarão”, descreve Sarah.&lt;/p&gt;
 &lt;p&gt;No outro extremo do Brasil, em Santa Catarina, Mirian Prochnow também sentiu despertar a vontade de lutar por um meio ambiente saudável para as próximas gerações quando percebeu que o pedaço de Mata Atlântica onde viveu a infância começou a desaparecer.&lt;/p&gt;
 &lt;p&gt;“Quando a gente se deparou com centenas de caminhões carregados de Mata Atlântica passando na frente de casa foi o momento em que eu com um grupo de amigos pensamos o que a gente pode fazer e decidimos 'vamos criar uma ONG e vamos salvar o planeta'”, relembra.&lt;/p&gt;
 &lt;p&gt;Do sonho de replantar as árvores e ver o rio vivo, nasceu, há 40 anos, a Associação de Preservação do Meio Ambiente e da Vida (Apremavi) e começou o trabalho de produção de mudas de espécies nativas para restauração.&lt;/p&gt;
@@ -45,7 +241,7 @@
 &lt;p&gt;Nascida em Jacareacanga, no Pará, já fora do contexto de aldeia,nunca deixou as lutas indígenas de seu território pra trás. Levou o ativismo para a vida universitária, onde começou a entender melhor as conexões entre a proteção da terra, os impactos das mudanças climáticas e como isso afeta de forma diferente cada pessoa.&lt;/p&gt;
 &lt;p&gt;“O que acontece no território não é algo isolado e a gente, enquanto pessoas que somos parte da solução, precisamos entender isso. Então, o casamento das causas, da universidade, do território, do movimento de mulheres e da juventude, resulta nesse boom no despertar do ativismo”, diz Val Munduruku.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/mulheres-formam-rede-em-defesa-do-clima-e-dos-territorios&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Mulheres de diferentes lugares do Brasil se conectaram em uma rede de apoio e articulação que tem como principal elo a defesa ambiental e da justiça ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-02 08:39:00</wp:post_date>
       <wp:post_date_gmt>2026-08-02 08:39:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-02 08:39:00</wp:post_modified>
@@ -71,9 +267,9 @@
     <item>
       <title>História do voto: mulheres do RN tiveram feitos inéditos</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/historia-do-voto-mulheres-do-rn-tiveram-feitos-ineditos</link>
-      <pubDate>Sun, 02 Aug 2026 13:10:03 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/historia-do-voto-mulheres-do-rn-tiveram-feitos-ineditos#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/historia-do-voto-mulheres-do-rn-tiveram-feitos-ineditos#1005</guid>
       <description>Cidadãs do Rio Grande do Norte têm uma representação singular na história do sufrágio feminino brasileiro. “Na luta pelo direito ao voto, o Rio Grand...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CtfmdIuOzO3GGrn1jhKrV9JDzD4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/br_rjanrio_q0_adm_cpa_vfe_fot_0011_tto_ref.jpg.jpg?itok=GKPizV4i&quot; alt=&quot;História do voto: mulheres do RN tiveram feitos inéditos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Cidadãs do Rio Grande do Norte têm uma representação singular na história do sufrágio feminino brasileiro. “Na luta pelo direito ao voto, o Rio Grande do Norte foi pioneiro no Brasil e na América do Sul”, destaca a professora Fernanda Abreu, da Universidade Estadual do Rio Grande do Norte (UERN).Uma lei estadual (nº 660), de 25 de outubro de 1927, aprovada pelo presidente do estado (como se chamava o governador), Juvenal Lamartine, garantiu o avanço inédito.&lt;/p&gt;
@@ -92,7 +288,7 @@
 &lt;p&gt;No caso do Rio Grande do Norte, as pesquisadoras identificam que&lt;/p&gt;
 &lt;p&gt;o ambiente institucional viabilizou as conquistas femininas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/historia-do-voto-mulheres-do-rn-tiveram-feitos-ineditos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Cidadãs do Rio Grande do Norte têm uma representação singular na história do sufrágio feminino brasileiro. “Na luta pelo direito ao voto, o Rio Grand...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-02 08:05:00</wp:post_date>
       <wp:post_date_gmt>2026-08-02 08:05:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-02 08:05:00</wp:post_modified>
@@ -118,9 +314,9 @@
     <item>
       <title>Conquista do voto feminino no Brasil resistiu à misoginia histórica</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/conquista-do-voto-feminino-no-brasil-resistiu-misoginia-historica</link>
-      <pubDate>Sun, 02 Aug 2026 13:10:03 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/conquista-do-voto-feminino-no-brasil-resistiu-misoginia-historica#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/conquista-do-voto-feminino-no-brasil-resistiu-misoginia-historica#1006</guid>
       <description>Os ataques ecoam pelo tempo. “Minha mulher não irá votar”, disse o senador constituinte Coelho e Campos, em 1891. No mesmo ano, outro parlamentar, Se...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/gls87ORCbeMP_fbv8AYGiEpZgYE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/imagem_materia.jpeg?itok=QAfTToPl&quot; alt=&quot;Conquista do voto feminino no Brasil resistiu à misoginia histórica&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Os ataques ecoam pelo tempo. “Minha mulher não irá votar”, disse o senador constituinte Coelho e Campos, em 1891. No mesmo ano, outro parlamentar, Serzedelo Corrêa, afirmou que jogar a mulher no meio das paixões e das lutas políticas é “tirar-lhe a santidade”.&lt;/p&gt;
@@ -139,7 +335,7 @@
 &lt;p&gt;Jornalista e doutoranda em história, Cibele é biógrafa da sufragista alagoana&lt;/p&gt;
 &lt;p&gt;. Almerinda foi uma das primeiras mulheres negras a atuar na política brasileira.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/conquista-do-voto-feminino-no-brasil-resistiu-misoginia-historica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os ataques ecoam pelo tempo. “Minha mulher não irá votar”, disse o senador constituinte Coelho e Campos, em 1891. No mesmo ano, outro parlamentar, Se...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-02 08:01:00</wp:post_date>
       <wp:post_date_gmt>2026-08-02 08:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-02 08:01:00</wp:post_modified>
@@ -165,9 +361,9 @@
     <item>
       <title>Fluminense e Vasco abrem oitavas de final da Copa do Brasil com 0 a 0</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-e-vasco-abrem-oitavas-de-final-da-copa-do-brasil-com-0-0</link>
-      <pubDate>Sun, 02 Aug 2026 13:10:03 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-e-vasco-abrem-oitavas-de-final-da-copa-do-brasil-com-0-0#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-e-vasco-abrem-oitavas-de-final-da-copa-do-brasil-com-0-0#1007</guid>
       <description>© LUCAS MERÇON / FLUMINENSE F.C.
 Fluminense e Vasco não saíram do 0 a 0 na partida de ida das oitavas de final da Copa do Brasil
 . O jogo ocorreu na ...</description>
@@ -181,16 +377,16 @@ Fluminense e Vasco não saíram do 0 a 0 na partida de ida das oitavas de final 
 &lt;p&gt;Às 19h30 deste sábado começou o jogo de ida de Atlético-MG e Juventude, em Belo Horizonte e, às 21h, tem Santos e Remo, Vila Belmiro.&lt;/p&gt;
 &lt;p&gt;TSE promove Semana da Urna para combater desinformação&lt;/p&gt;
 &lt;p&gt;Câmeras inteligentes auxiliam no combate ao desaparecimento de pessoas&lt;/p&gt;
+&lt;p&gt;Congresso volta do recesso sem previsão de plenário nesta semana&lt;/p&gt;
+&lt;p&gt;São Paulo vence Vitória e assume liderança do Brasileirão Feminino&lt;/p&gt;
+&lt;p&gt;Filme sobre a ditadura paraguaia vence festival Bonito CineSur&lt;/p&gt;
+&lt;p&gt;Caminhadas buscam conscientizar população sobre lipedema&lt;/p&gt;
 &lt;p&gt;Amamentação reduz risco de doença cardíaca na mãe&lt;/p&gt;
-&lt;p&gt;Mulheres formam rede em defesa do clima e dos territórios&lt;/p&gt;
-&lt;p&gt;História do voto: mulheres do RN tiveram feitos inéditos&lt;/p&gt;
-&lt;p&gt;Conquista do voto feminino no Brasil resistiu à misoginia histórica&lt;/p&gt;
-&lt;p&gt;Fluminense e Vasco abrem oitavas de final da Copa do Brasil com 0 a 0&lt;/p&gt;
-&lt;p&gt;Programa de renegociação de dívidas é prorrogado até 31 de agosto&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-e-vasco-abrem-oitavas-de-final-da-copa-do-brasil-com-0-0&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mulheres formam rede em defesa do clima e dos territórios&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-e-vasco-abrem-oitavas-de-final-da-copa-do-brasil-com-0-0&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© LUCAS MERÇON / FLUMINENSE F.C.
 Fluminense e Vasco não saíram do 0 a 0 na partida de ida das oitavas de final da Copa do Brasil
 . O jogo ocorreu na ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-01 19:49:00</wp:post_date>
       <wp:post_date_gmt>2026-08-01 19:49:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-01 19:49:00</wp:post_modified>
@@ -216,9 +412,9 @@ Fluminense e Vasco não saíram do 0 a 0 na partida de ida das oitavas de final 
     <item>
       <title>Programa de renegociação de dívidas é prorrogado até 31 de agosto</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto</link>
-      <pubDate>Sun, 02 Aug 2026 13:10:03 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto#1008</guid>
       <description>A prorrogação do programa de renegociação de dívidas bancárias, o Desenrola Brasil 2.0, foi oficializada neste sábado (1º), em portaria do Ministério...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wxSe7Vx9bP9idycSlXIn7GwYDVc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/23/toms2399.jpg?itok=HRGsHhCa&quot; alt=&quot;Programa de renegociação de dívidas é prorrogado até 31 de agosto&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A prorrogação do programa de renegociação de dívidas bancárias, o Desenrola Brasil 2.0, foi oficializada neste sábado (1º), em portaria do Ministério da Fazenda, publicada no&lt;/p&gt;
@@ -231,13 +427,13 @@ Fluminense e Vasco não saíram do 0 a 0 na partida de ida das oitavas de final 
 &lt;p&gt;que pretendem trocar de veículo por meio do Programa Move Brasil.&lt;/p&gt;
 &lt;p&gt;TSE promove Semana da Urna para combater desinformação&lt;/p&gt;
 &lt;p&gt;Câmeras inteligentes auxiliam no combate ao desaparecimento de pessoas&lt;/p&gt;
-&lt;p&gt;Amamentação reduz risco de doença cardíaca na mãe&lt;/p&gt;
-&lt;p&gt;Mulheres formam rede em defesa do clima e dos territórios&lt;/p&gt;
-&lt;p&gt;História do voto: mulheres do RN tiveram feitos inéditos&lt;/p&gt;
-&lt;p&gt;Conquista do voto feminino no Brasil resistiu à misoginia histórica&lt;/p&gt;
-&lt;p&gt;Fluminense e Vasco abrem oitavas de final da Copa do Brasil com 0 a 0&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Congresso volta do recesso sem previsão de plenário nesta semana&lt;/p&gt;
+&lt;p&gt;São Paulo vence Vitória e assume liderança do Brasileirão Feminino&lt;/p&gt;
+&lt;p&gt;Filme sobre a ditadura paraguaia vence festival Bonito CineSur&lt;/p&gt;
+&lt;p&gt;Caminhadas buscam conscientizar população sobre lipedema&lt;/p&gt;
+&lt;p&gt;Amamentação reduz risco de doença cardíaca na mãe&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A prorrogação do programa de renegociação de dívidas bancárias, o Desenrola Brasil 2.0, foi oficializada neste sábado (1º), em portaria do Ministério...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-01 19:08:00</wp:post_date>
       <wp:post_date_gmt>2026-08-01 19:08:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-01 19:08:00</wp:post_modified>
@@ -263,9 +459,9 @@ Fluminense e Vasco não saíram do 0 a 0 na partida de ida das oitavas de final 
     <item>
       <title>Cresce o número de estabelecimentos na cadeia produtiva da cachaça</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cresce-o-numero-de-estabelecimentos-na-cadeia-produtiva-da-cachaca</link>
-      <pubDate>Sun, 02 Aug 2026 13:10:03 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cresce-o-numero-de-estabelecimentos-na-cadeia-produtiva-da-cachaca#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cresce-o-numero-de-estabelecimentos-na-cadeia-produtiva-da-cachaca#1009</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O Brasil tinha 1.583 estabelecimentos registrados na cadeia produtiva de cachaça no ano passado, 272 a mais na compa...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9YYvBRxVzZ6xj-o4MzZ8xJMy3tY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11-09-2020_cachaca-2.jpg?itok=_TZK4Qmj&quot; alt=&quot;Cresce o número de estabelecimentos na cadeia produtiva da cachaça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -286,7 +482,7 @@ O Brasil tinha 1.583 estabelecimentos registrados na cadeia produtiva de cachaç
 &lt;p&gt;A nota do Ibrac assinala que “apesar do crescimento no número de estabelecimentos, produtos, marcas e exportações, o Anuário registra que o volume de produção declarado em 2025 foi de 234,48 milhões de litros, redução de 15,77% em relação ao ano anterior.”&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cresce-o-numero-de-estabelecimentos-na-cadeia-produtiva-da-cachaca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O Brasil tinha 1.583 estabelecimentos registrados na cadeia produtiva de cachaça no ano passado, 272 a mais na compa...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-01 18:33:00</wp:post_date>
       <wp:post_date_gmt>2026-08-01 18:33:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-01 18:33:00</wp:post_modified>
@@ -307,197 +503,6 @@ O Brasil tinha 1.583 estabelecimentos registrados na cadeia produtiva de cachaç
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/9YYvBRxVzZ6xj-o4MzZ8xJMy3tY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11-09-2020_cachaca-2.jpg?itok=_TZK4Qmj</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Justiça do Rio revoga prisão preventiva do rapper Oruam</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-do-rio-revoga-prisao-preventiva-do-rapper-oruam</link>
-      <pubDate>Sun, 02 Aug 2026 13:10:03 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-do-rio-revoga-prisao-preventiva-do-rapper-oruam#1006</guid>
-      <description>A Justiça do Rio de Janeiro revogou a prisão preventiva do rapper Mauro Davi dos Santos Nepomuceno, conhecido como Oruam.
-A decisão é da juíza Tula C...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Justiça do Rio revoga prisão preventiva do rapper Oruam&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Justiça do Rio de Janeiro revogou a prisão preventiva do rapper Mauro Davi dos Santos Nepomuceno, conhecido como Oruam.&lt;/p&gt;
-&lt;p&gt;A decisão é da juíza Tula Corrêa de Mello, da 3ª Vara Criminal da Capital, que desclassificou a acusação de tentativa de homicídio para lesão corporal leve.&lt;/p&gt;
-&lt;p&gt;O processo é referente ao episódio ocorrido em 22 de julho de 2025, quando o artista e outras pessoas foram denunciados por arremessar pedras contra policiais civis em frente à residência dele, no bairro do Joá, zona oeste do Rio de Janeiro. Na ocasião, os agentes cumpriam mandados de busca e apreensão contra um adolescente apontado pela polícia como escondido no imóvel.&lt;/p&gt;
-&lt;p&gt;Com a mudança na tipificação do crime, a magistrada determinou que o processo seja encaminhado a uma das varas criminais comuns da capital, já que a 3ª Vara Criminal tem competência para julgar crimes dolosos contra a vida.&lt;/p&gt;
-&lt;p&gt;Na decisão, a juíza entendeu que não há fundamento legal para a manutenção da prisão preventiva de Oruam, uma vez que os crimes remanescentes não admitem a medida cautelar.&lt;/p&gt;
-&lt;p&gt;Apesar da revogação da prisão, o rapper terá de cumprir medidas cautelares, entre elas comparecimento mensal em juízo, recolhimento domiciliar no período noturno, das 20h às 6h, e proibição de frequentar o Complexo do Alemão.&lt;/p&gt;
-&lt;p&gt;Os demais denunciados — Willyam Matheus Vianna Rodrigues Vieira, Pablo Ricardo de Paula Silva de Morais e Victor Hugo Vieira dos Santos — continuarão submetidos às medidas cautelares já impostas. Segundo a magistrada, não houve descumprimento das determinações judiciais nem fatos novos que justificassem a alteração dessas medidas.&lt;/p&gt;
-&lt;p&gt;TSE promove Semana da Urna para combater desinformação&lt;/p&gt;
-&lt;p&gt;Câmeras inteligentes auxiliam no combate ao desaparecimento de pessoas&lt;/p&gt;
-&lt;p&gt;Amamentação reduz risco de doença cardíaca na mãe&lt;/p&gt;
-&lt;p&gt;Mulheres formam rede em defesa do clima e dos territórios&lt;/p&gt;
-&lt;p&gt;História do voto: mulheres do RN tiveram feitos inéditos&lt;/p&gt;
-&lt;p&gt;Conquista do voto feminino no Brasil resistiu à misoginia histórica&lt;/p&gt;
-&lt;p&gt;Fluminense e Vasco abrem oitavas de final da Copa do Brasil com 0 a 0&lt;/p&gt;
-&lt;p&gt;Programa de renegociação de dívidas é prorrogado até 31 de agosto&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-do-rio-revoga-prisao-preventiva-do-rapper-oruam&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Justiça do Rio de Janeiro revogou a prisão preventiva do rapper Mauro Davi dos Santos Nepomuceno, conhecido como Oruam.
-A decisão é da juíza Tula C...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-08-01 18:12:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-01 18:12:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-01 18:12:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-01 18:12:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Cruzeiro vence Botafogo no Brasileirão Feminino</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-botafogo-no-brasileirao-feminino</link>
-      <pubDate>Sun, 02 Aug 2026 13:10:03 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-botafogo-no-brasileirao-feminino#1007</guid>
-      <description>O Cruzeiro venceu o Botafogo por 4 a 0 pela 14ª rodada do Brasileirão Feminino na tarde deste sábado (1º).
-Napartida, que foi transmitida ao vivo pel...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/p7S9h3xet3o2C4FtodMH6GQn8Yc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/01/55436142360_6b542f202e_o.jpg?itok=3Z78Fu3J&quot; alt=&quot;Cruzeiro vence Botafogo no Brasileirão Feminino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Cruzeiro venceu o Botafogo por 4 a 0 pela 14ª rodada do Brasileirão Feminino na tarde deste sábado (1º).&lt;/p&gt;
-&lt;p&gt;Napartida, que foi transmitida ao vivo pela&lt;/p&gt;
-&lt;p&gt;a artilheira Marília marcou 3 gols. O primeiro foi escorando para o fundo da rede aos cinco minutos da primeiro etapa, e com um chutaço no ângulo da entrada da área aos 44 minutos da etapa inicial. Aos 29 da etapa final, ela dominou na área e chutou de canhota para definir.&lt;/p&gt;
-&lt;p&gt;Dessa forma, a atleta do clube mineiro chegou aos 10 gols no torneio e disparou na liderança da tabela de artilheiras&lt;/p&gt;
-&lt;p&gt;. O outro gol do jogo saiu aos 23 minutos do segundo tempo, Letícia Ferreira ampliou de pênalti.&lt;/p&gt;
-&lt;p&gt;Com o resultado, o Cruzeiro chegou aos 24 pontos e, momentaneamente, ocupa o quinto lugar na tabela&lt;/p&gt;
-&lt;p&gt;. Mas ainda pode perder três posições até o final da rodada. O Botafogo continua na lanterna da classificação com apenas cinco pontos.&lt;/p&gt;
-&lt;p&gt;O Cruzeiro volta a jogar pelo Brasileiro no domingo (9) contra o Grêmio em Porto Alegre.&lt;/p&gt;
-&lt;p&gt;Já o Botafogo tem o clássico com o Fluminense na sexta-feira (7), no estádio Nilton Santos.&lt;/p&gt;
-&lt;p&gt;transmite ao vivo mais uma partida. Vitória e São Paulo duelam em Salvador a partir das 21h.&lt;/p&gt;
-&lt;p&gt;TSE promove Semana da Urna para combater desinformação&lt;/p&gt;
-&lt;p&gt;Câmeras inteligentes auxiliam no combate ao desaparecimento de pessoas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-botafogo-no-brasileirao-feminino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Cruzeiro venceu o Botafogo por 4 a 0 pela 14ª rodada do Brasileirão Feminino na tarde deste sábado (1º).
-Napartida, que foi transmitida ao vivo pel...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-08-01 17:53:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-01 17:53:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-01 17:53:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-01 17:53:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/p7S9h3xet3o2C4FtodMH6GQn8Yc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/01/55436142360_6b542f202e_o.jpg?itok=3Z78Fu3J</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Participação feminina na direção de filmes permanece abaixo de 20%</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/participacao-feminina-na-direcao-de-filmes-permanece-abaixo-de-20</link>
-      <pubDate>Sun, 02 Aug 2026 13:10:03 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/participacao-feminina-na-direcao-de-filmes-permanece-abaixo-de-20#1008</guid>
-      <description>Embora ainda sejam a maioria entre os que se formam em cursos audiovisuais, as mulheres não encontram representação em cargos de liderança das obras ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/p5LhYiNTX3dUp922eC9ruI92RgI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/01/fotos-2026-07-26-parte1-43-1.jpg?itok=9Em0tKFC&quot; alt=&quot;Participação feminina na direção de filmes permanece abaixo de 20%&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Embora ainda sejam a maioria entre os que se formam em cursos audiovisuais, as mulheres não encontram representação em cargos de liderança das obras cinematográficas produzidas no Brasil.&lt;/p&gt;
-&lt;p&gt;E esse cenário só será alterado por meio de políticas públicas, defende Minom Pinho, produtora de cinema e audiovisual, diretora da Associação Paulista de Cineastas (Apaci) e coordenadora e idealizadora do Festival Internacional de Mulheres no Cinema (FIM Cine).&lt;/p&gt;
-&lt;p&gt;“As grandes mudanças se fazem com política pública”, ressalta. “E para você alcançar a política pública, você tem que ter indicador e indutor. O que significa isso? Por exemplo, estipular que o número de mulheres em roteiro e direção em longas-metragens deve bater 30% até 2030. A gente vai ter que entender que é preciso estabelecer metas mais claras porque o cinema é uma zona de resistência muito grande”.&lt;/p&gt;
-&lt;p&gt;durante a realização do festival de cinema Bonito CineSur,&lt;/p&gt;
-&lt;p&gt;Minom destacou que há anos a participação de mulheres em cargos de liderança no cinema e no audiovisual brasileiro não chega a ultrapassar 20%, mesmo as mulheres tendo maior formação que os homens e conseguindoatrair grandes públicos aos cinemas brasileiros.&lt;/p&gt;
-&lt;p&gt;A produtora asseguraque não há número que justifique o não crescimento daparticipação feminina em cargos de liderança.&lt;/p&gt;
-&lt;p&gt;“Ninguém pode alegar que as mulheres não têm competência. Elas estão fazendo um milagre. Foi dado a elas 20% [de cargos de liderança] nos filmes, mas elas estão pegando 44% do mercado. Isso quer dizer que elas estão fazendo muito com a pior situação possível”, enfatiza.&lt;/p&gt;
-&lt;p&gt;Por isso, defende, é importante estabelecer políticas públicas que estipulem metas para o aumento dessa participação. “Meu sonho é a gente chegar em equidade nos próximos 10 anos. Meu sonho é que a gente saia desse atual patamar”.&lt;/p&gt;
-&lt;p&gt;Anuário Estatístico do Audiovisual Brasileiro de 2024&lt;/p&gt;
-&lt;p&gt;, do Observatório Brasileiro do Cinema e do Audiovisual (OCA) – e publicado pela Agência Nacional de Cinema (Ancine), mostram que&lt;/p&gt;
-&lt;p&gt;apesar de asmulheres serem maioria nas atividades de exibição (58%) e distribuição (54%), elas representam apenas 17% da direção de séries e filmes brasileiros.&lt;/p&gt;
-&lt;p&gt;O anuário também apontaque, enquanto 231 longas-metragens brasileiros produzidos em 2023 foram dirigidos exclusivamente por homens, apenas 52 foram feitos por mulheres. No caso dos roteiros, o domínio também era dos homens: 165 contra 41.&lt;/p&gt;
-&lt;p&gt;Enquanto isso, as mulheres eram maioria na direção de arte (99 contra 57) e na produção-executiva (110 contra 66).&lt;/p&gt;
-&lt;p&gt;“Esse é o lugar que a sociedade convencionou que é o nosso lugar, o lugar das mulheres. Temos aí a direção de arte ou figurino, por exemplo, porque ‘arte é coisa de mulher’. Isso é um estereótipo absurdo. Temos sim excelentes diretoras de arte. Mas o número de diretoras de filmes precisa crescer”, apontaMinom.&lt;/p&gt;
-&lt;p&gt;A produtora destaca que o cinema precisa de mais mulheres na condução das narrativas. &quot;A gente quer estar em todos os lugares. Mas quando você tem uma ideia, escreve essa história e tem uma mulher dirigindo essas histórias e escolhendo as imagens que vão configurar naquela peça ou naquela obra audiovisual, isso faz muita diferença&quot;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/participacao-feminina-na-direcao-de-filmes-permanece-abaixo-de-20&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Embora ainda sejam a maioria entre os que se formam em cursos audiovisuais, as mulheres não encontram representação em cargos de liderança das obras ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-08-01 17:43:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-01 17:43:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-01 17:43:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-01 17:43:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/p5LhYiNTX3dUp922eC9ruI92RgI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/01/fotos-2026-07-26-parte1-43-1.jpg?itok=9Em0tKFC</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Documentário colombiano chama atenção para preservação dos páramos</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/documentario-colombiano-chama-atencao-para-preservacao-dos-paramos</link>
-      <pubDate>Sun, 02 Aug 2026 13:10:03 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/documentario-colombiano-chama-atencao-para-preservacao-dos-paramos#1009</guid>
-      <description>Sistemas em constante ameaça e fundamentais para o abastecimento de rios, os páramos são tema abordado no documentário
-, do cineasta colombiano Aleja...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FH1GsUiVOkkYyg6xK11b65i5p0U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/01/fotos-2026-07-30-parte5-21.jpg?itok=itNlZlGd&quot; alt=&quot;Documentário colombiano chama atenção para preservação dos páramos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Sistemas em constante ameaça e fundamentais para o abastecimento de rios, os páramos são tema abordado no documentário&lt;/p&gt;
-&lt;p&gt;, do cineasta colombiano Alejandro Calderón.&lt;/p&gt;
-&lt;p&gt;Exibida no festival de Bonito CineSur, em Bonito (MS), a produção reúne especialistas para explicar a formação desses ecossistemas e sua importância para o ciclo hídrico.&lt;/p&gt;
-&lt;p&gt;Os páramos são ecossistemas de montanhaformados por um terreno encharcado, musgos e arbustos e se encontram na região da Cordilheira dos Andes.&lt;/p&gt;
-&lt;p&gt;Neste ecossistema, os solos em geral são recentes, de origem glacial e vulcânica, e muitos ainda estão em formação&lt;/p&gt;
-&lt;p&gt;. Por sua característica, estes solos costumam reter muita água e, por isso, eles são de importância vital, já que fornecem recursos hídricos e água limpa para lugares mais baixos.&lt;/p&gt;
-&lt;p&gt;&quot;Sãoencontradosapenas nos Andes tropicais,especificamente na Colômbia, na Venezuela e no Equador, bem como em uma pequena parte do Peru e na região de fronteira entre o Panamá e a Costa Rica. A maior parte desses ecossistemas está localizada na Colômbia, em altitudes que variam de 3 mila 5 mil metros acima do nível do mar”, explicou o cineasta colombiano.&lt;/p&gt;
-&lt;p&gt;Este ecossistema, ressaltou Calderón, é composto por inúmeras lagoas, que atuam “como o principal ponto de processamento da água proveniente dos Andes, abastecendo os rios que correm em direção ao mar, à Amazônia e ao Orinoco [um dos rios mais longos e importantes da América do Sul]”.&lt;/p&gt;
-&lt;p&gt;Em seu mais recente documentário, Calderón apresentaespecialistas que falam sobre a importância dospáramospara o abastecimento e regulação do clima do planeta e destacam as diversas ameaças, com destruição davegetação local e reduçãoda capacidade do solo em reter a água.&lt;/p&gt;
-&lt;p&gt;“Há muitas questões envolvidas como a mineração, a monocultura e a pecuária”, disse o diretor.&lt;/p&gt;
-&lt;p&gt;“O filme aborda todos esses aspectos, concentrando-se fortemente no manejo da terra e do solo, na história de nossa relação com a terra e na forma como temos utilizado o solo”.&lt;/p&gt;
-&lt;p&gt;, Calderóndestacou que estas mesmas ameaças também constituem um problema a outros ecossistemas como a Amazônia, e que é preciso haver uma discussão mundial sobre os usos do solo. O diretor destaca que mudar as práticas de uso da terra,algo também ligado a fatores políticos e econômicos,é fundamental.&lt;/p&gt;
-&lt;p&gt;&quot;Se continuarmos consumindo da maneira como temos feito no último século, o planeta simplesmente não vai aguentar. Em outras palavras, a menos que mudemos os hábitos que cada um de nós temos em casa, não conseguiremos resolver nada&quot;, destacou.&lt;/p&gt;
-&lt;p&gt;Para ele, a solução para o que acontece atualmente nos páramos andinos precisa ser discutida de forma conjunta. “A solução proposta no documentário é reunir todas as partes interessadas no conflito como comunidades camponesas e indígenas, pecuaristas e proprietários de terras, para chegar a um consenso. Acreditamos que esse é um caminho, talvez o único, para resolver esses problemas”, afirmou o cineasta.&lt;/p&gt;
-&lt;p&gt;*A repórter viajou a convite do Bonito CineSur&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/documentario-colombiano-chama-atencao-para-preservacao-dos-paramos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Sistemas em constante ameaça e fundamentais para o abastecimento de rios, os páramos são tema abordado no documentário
-, do cineasta colombiano Aleja...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-01 17:07:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-01 17:07:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-01 17:07:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-01 17:07:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/FH1GsUiVOkkYyg6xK11b65i5p0U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/01/fotos-2026-07-30-parte5-21.jpg?itok=itNlZlGd</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
