@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+    <pubDate>Sun, 02 Aug 2026 15:55:18 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,60 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Congresso volta do recesso sem previsão de plenário nesta semana</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/congresso-volta-do-recesso-sem-previsao-de-plenario-nesta-semana</link>
+      <pubDate>Sun, 02 Aug 2026 15:55:18 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/congresso-volta-do-recesso-sem-previsao-de-plenario-nesta-semana#1000</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+O Congresso Nacional retoma formalmente, nesta segunda-feira (3), os trabalhos após duas semanas de recesso parlame...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zLTXb0ZO31Oqa4gXtVl9ABubLzQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/22/dji_20260621150420_0090_d.jpg?itok=nkdGMyhi&quot; alt=&quot;Congresso volta do recesso sem previsão de plenário nesta semana&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Congresso Nacional retoma formalmente, nesta segunda-feira (3), os trabalhos após duas semanas de recesso parlamentar sem previsão de sessão plenária deliberativa tanto na Câmara dos Deputados, quanto no Senado Federal.&lt;/p&gt;
+&lt;p&gt;Em meio à campanha eleitoral de 2026, os presidentes das Casas acordaram limitar os trabalhos legislativos em duas semanas de “esforço concentrado”.&lt;/p&gt;
+&lt;p&gt;A primeira semana será entre os dias 10 e 14 de agosto, e a segunda entre os dias 31 de agosto e 3 de setembro.&lt;/p&gt;
+&lt;p&gt;expectativa é que votações nos plenários da Câmara e do Senado ocorram apenas nessas duas semanas até as eleições gerais de outubro. Historicamente, o semestre de eleições é mais esvaziado no Congresso.&lt;/p&gt;
+&lt;p&gt;Entre os projetos que não foram votados no primeiro semestre, e que podem entrar nos debates a partir de agosto, está a&lt;/p&gt;
+&lt;p&gt;Proposta de Emenda à Constituição (PEC) do fim da escala 6x1&lt;/p&gt;
+&lt;p&gt;, que segue travada na mesa do presidente do Senado, Davi Alcolumbre (União-AP).&lt;/p&gt;
+&lt;p&gt;Apesar da pressão do governo, que deseja votar o tema antes da eleição, não há indicativo de Alcolumbre quando o tema será encaminhado para Comissão de Constituição e Justiça (CCJ).&lt;/p&gt;
+&lt;p&gt;A oposição defende a votação de uma PEC alternativa, mantendo a possibilidade de escala 6x1&lt;/p&gt;
+&lt;p&gt;Outro projeto que o governo gostaria de ver votado é a&lt;/p&gt;
+&lt;p&gt;PEC da Segurança Pública, votada na Câmara&lt;/p&gt;
+&lt;p&gt;, e que aguarda deliberação no Senado. O presidente Luiz Inácio Lula da Silva tem cobrado Alcolumbre, publicamente, para colocar o tema em votação.&lt;/p&gt;
+&lt;p&gt;No Senado, há ainda a expectativa de se votar o&lt;/p&gt;
+&lt;p&gt;projeto de lei de regulação da exploração dos minerais críticos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/congresso-volta-do-recesso-sem-previsao-de-plenario-nesta-semana&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+O Congresso Nacional retoma formalmente, nesta segunda-feira (3), os trabalhos após duas semanas de recesso parlame...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-02 11:31:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-02 11:31:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-02 11:31:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-02 11:31:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/zLTXb0ZO31Oqa4gXtVl9ABubLzQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/22/dji_20260621150420_0090_d.jpg?itok=nkdGMyhi</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>São Paulo vence Vitória e assume liderança do Brasileirão Feminino</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/sao-paulo-vence-vitoria-e-assume-lideranca-do-brasileirao-feminino</link>
-      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:55:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/sao-paulo-vence-vitoria-e-assume-lideranca-do-brasileirao-feminino#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/sao-paulo-vence-vitoria-e-assume-lideranca-do-brasileirao-feminino#1001</guid>
       <description>Em partida transmitida ao vivo pela TV Brasil, o São Paulo venceu o Vitória por 3 a 1, no Barradão, em Salvador
 . O duelo foi válido pela 14ª rodada ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9JICADvapkjqaic6hoO3Zzoe67s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/02/img_3916-jpg.jpeg?itok=6Y0cJWGa&quot; alt=&quot;São Paulo vence Vitória e assume liderança do Brasileirão Feminino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -39,15 +88,10 @@
 &lt;p&gt;O Vitória segue na zona de rebaixamento com seis pontos em penúltimo lugar.&lt;/p&gt;
 &lt;p&gt;Pelo Brasileirão, as baianas voltam a jogar no próximo domingo (9) recebendo o Inter, em Salvador. No mesmo dia, o São Paulo vai receber o Bragantino.&lt;/p&gt;
 &lt;p&gt;TSE promove Semana da Urna para combater desinformação&lt;/p&gt;
-&lt;p&gt;Câmeras inteligentes auxiliam no combate ao desaparecimento de pessoas&lt;/p&gt;
-&lt;p&gt;Congresso volta do recesso sem previsão de plenário nesta semana&lt;/p&gt;
-&lt;p&gt;São Paulo vence Vitória e assume liderança do Brasileirão Feminino&lt;/p&gt;
-&lt;p&gt;Filme sobre a ditadura paraguaia vence Festival Bonito CineSur&lt;/p&gt;
-&lt;p&gt;Caminhadas buscam conscientizar população sobre lipedema&lt;/p&gt;
-&lt;p&gt;Amamentação reduz risco de doença cardíaca na mãe&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/sao-paulo-vence-vitoria-e-assume-lideranca-do-brasileirao-feminino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Câmeras inteligentes auxiliam no combate ao desaparecimento de pessoas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/sao-paulo-vence-vitoria-e-assume-lideranca-do-brasileirao-feminino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Em partida transmitida ao vivo pela TV Brasil, o São Paulo venceu o Vitória por 3 a 1, no Barradão, em Salvador
 . O duelo foi válido pela 14ª rodada ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-08-02 11:11:00</wp:post_date>
       <wp:post_date_gmt>2026-08-02 11:11:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-02 11:11:00</wp:post_modified>
@@ -73,15 +117,15 @@
     <item>
       <title>Filme sobre a ditadura paraguaia vence festival Bonito CineSur</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-sobre-ditadura-paraguaia-vence-festival-bonito-cinesur</link>
-      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:55:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-sobre-ditadura-paraguaia-vence-festival-bonito-cinesur#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-sobre-ditadura-paraguaia-vence-festival-bonito-cinesur#1002</guid>
       <description>© Elaine Patricia Cruz/Agência Brasil
 foi escolhido pelo júri oficial como o grande vencedor da categoria de melhor longa sul-americano do festival d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/lWbjHUyqQ8faWyyUF2HM_Seu_Ws=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/02/whatsapp_image_2026-08-02_at_00.15.15.jpeg?itok=mOBbTKYB&quot; alt=&quot;Filme sobre a ditadura paraguaia vence festival Bonito CineSur&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;© Elaine Patricia Cruz/Agência Brasil&lt;/p&gt;
 &lt;p&gt;foi escolhido pelo júri oficial como o grande vencedor da categoria de melhor longa sul-americano do festival de cinema Bonito CineSur. A cerimônia de encerramento do festival foi realizadana noite de sábado (1º) no Centro de Convenções, na cidade de Bonito (MS).&lt;/p&gt;
-&lt;p&gt;¿Quién Mató a Narciso? é um filme dirigido por Marcelo Martinessi e baseado no livro&lt;/p&gt;
+&lt;p&gt;é um filme dirigido por Marcelo Martinessi e baseado no livro&lt;/p&gt;
 &lt;p&gt;, escrito pelo jornalista paraguaio Guido Rodríguez Alcalá.&lt;/p&gt;
 &lt;p&gt;é inspirado no assassinato do jovem Bernardo Aranda, em 1959, um locutor de rádio homossexual que amava o&lt;/p&gt;
 &lt;p&gt;e que foi queimado enquanto dormia. O crime jamais foi solucionado, mas, para a Comissão da Verdade e Justiça paraguaia, o assassinato pode ter sido tramado pelo governo militar.&lt;/p&gt;
@@ -96,7 +140,7 @@ foi escolhido pelo júri oficial como o grande vencedor da categoria de melhor l
 &lt;p&gt;, selecionado como melhor curta-metragem de cinema ambiental escolhido pelo júri.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-sobre-ditadura-paraguaia-vence-festival-bonito-cinesur&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Elaine Patricia Cruz/Agência Brasil
 foi escolhido pelo júri oficial como o grande vencedor da categoria de melhor longa sul-americano do festival d...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-02 10:50:00</wp:post_date>
       <wp:post_date_gmt>2026-08-02 10:50:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-02 10:50:00</wp:post_modified>
@@ -122,9 +166,9 @@ foi escolhido pelo júri oficial como o grande vencedor da categoria de melhor l
     <item>
       <title>Caminhadas buscam conscientizar população sobre lipedema</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/caminhadas-buscam-conscientizar-populacao-sobre-lipedema</link>
-      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:55:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/caminhadas-buscam-conscientizar-populacao-sobre-lipedema#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/caminhadas-buscam-conscientizar-populacao-sobre-lipedema#1003</guid>
       <description>© Marcelo Camargo/ Agência Brasil
 Uma em cada 10 mulheres no Brasil sofre com um acúmulo excessivo de gordura nas extremidades do corpo, resultando e...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/fT57v_sun7UPUEqd6cXXjOIOv8I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/02/mcm_2416.jpg-1.jpg?itok=uPhQPGbK&quot; alt=&quot;Caminhadas buscam conscientizar população sobre lipedema&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -145,7 +189,7 @@ Uma em cada 10 mulheres no Brasil sofre com um acúmulo excessivo de gordura nas
 &lt;p&gt;Tatiana ressaltou que, diante de sinais de um possível lipedema, o paciente deve procurar um médico com experiência no diagnóstico da doença e não atribuir o quadro apenas ao excesso de peso.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/caminhadas-buscam-conscientizar-populacao-sobre-lipedema&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/ Agência Brasil
 Uma em cada 10 mulheres no Brasil sofre com um acúmulo excessivo de gordura nas extremidades do corpo, resultando e...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-02 10:05:00</wp:post_date>
       <wp:post_date_gmt>2026-08-02 10:05:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-02 10:05:00</wp:post_modified>
@@ -171,9 +215,9 @@ Uma em cada 10 mulheres no Brasil sofre com um acúmulo excessivo de gordura nas
     <item>
       <title>Amamentação reduz risco de doença cardíaca na mãe</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/amamentacao-reduz-risco-de-doenca-cardiaca-na-mae</link>
-      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:55:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/amamentacao-reduz-risco-de-doenca-cardiaca-na-mae#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/amamentacao-reduz-risco-de-doenca-cardiaca-na-mae#1004</guid>
       <description>© Valter Campanato/Agência Brasil
 A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença cardiovascular em relação amulher que...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/C5pNOoi9Gm64Cb0muO2kG4fS9Hc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1035475-rj_vac_1541.jpg?itok=a4X641OP&quot; alt=&quot;Amamentação reduz risco de doença cardíaca na mãe&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -194,7 +238,7 @@ A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença
 &lt;p&gt;Porém, há fatores de risco próprios do sexo feminino. Entre eles, por exemplo, a cardiologista citou a primeira menstruação precoce(9 ou 10 anos)ou tardia (15 e 16 anos); a menopausa precoce, com menos de 45 anos; endometriose; ovários policísticos; uso de anticoncepcional oral; alterações da gravidez, comohipertensão induzida pela gestação, diabete gestacional oubebê de baixo peso.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/amamentacao-reduz-risco-de-doenca-cardiaca-na-mae&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença cardiovascular em relação amulher que...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-02 09:13:00</wp:post_date>
       <wp:post_date_gmt>2026-08-02 09:13:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-02 09:13:00</wp:post_modified>
@@ -220,9 +264,9 @@ A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença
     <item>
       <title>Mulheres formam rede em defesa do clima e dos territórios</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/mulheres-formam-rede-em-defesa-do-clima-e-dos-territorios</link>
-      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:55:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/mulheres-formam-rede-em-defesa-do-clima-e-dos-territorios#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/mulheres-formam-rede-em-defesa-do-clima-e-dos-territorios#1005</guid>
       <description>Mulheres de diferentes lugares do Brasil se conectaram em uma rede de apoio e articulação que tem como principal elo a defesa ambiental e da justiça ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kQAudGPaBttBFguaEd1JQYqzsr0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/whatsapp_image_2026-07-31_at_14.49.58.jpeg?itok=jFoitqxA&quot; alt=&quot;Mulheres formam rede em defesa do clima e dos territórios&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Mulheres de diferentes lugares do Brasil se conectaram em uma rede de apoio e articulação que tem como principal elo a defesa ambiental e da justiça climática.&lt;/p&gt;
@@ -241,7 +285,7 @@ A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença
 &lt;p&gt;Nascida em Jacareacanga, no Pará, já fora do contexto de aldeia,nunca deixou as lutas indígenas de seu território pra trás. Levou o ativismo para a vida universitária, onde começou a entender melhor as conexões entre a proteção da terra, os impactos das mudanças climáticas e como isso afeta de forma diferente cada pessoa.&lt;/p&gt;
 &lt;p&gt;“O que acontece no território não é algo isolado e a gente, enquanto pessoas que somos parte da solução, precisamos entender isso. Então, o casamento das causas, da universidade, do território, do movimento de mulheres e da juventude, resulta nesse boom no despertar do ativismo”, diz Val Munduruku.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-07/mulheres-formam-rede-em-defesa-do-clima-e-dos-territorios&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Mulheres de diferentes lugares do Brasil se conectaram em uma rede de apoio e articulação que tem como principal elo a defesa ambiental e da justiça ...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-02 08:39:00</wp:post_date>
       <wp:post_date_gmt>2026-08-02 08:39:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-02 08:39:00</wp:post_modified>
@@ -267,9 +311,9 @@ A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença
     <item>
       <title>História do voto: mulheres do RN tiveram feitos inéditos</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/historia-do-voto-mulheres-do-rn-tiveram-feitos-ineditos</link>
-      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:55:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/historia-do-voto-mulheres-do-rn-tiveram-feitos-ineditos#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/historia-do-voto-mulheres-do-rn-tiveram-feitos-ineditos#1006</guid>
       <description>Cidadãs do Rio Grande do Norte têm uma representação singular na história do sufrágio feminino brasileiro. “Na luta pelo direito ao voto, o Rio Grand...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CtfmdIuOzO3GGrn1jhKrV9JDzD4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/br_rjanrio_q0_adm_cpa_vfe_fot_0011_tto_ref.jpg.jpg?itok=GKPizV4i&quot; alt=&quot;História do voto: mulheres do RN tiveram feitos inéditos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Cidadãs do Rio Grande do Norte têm uma representação singular na história do sufrágio feminino brasileiro. “Na luta pelo direito ao voto, o Rio Grande do Norte foi pioneiro no Brasil e na América do Sul”, destaca a professora Fernanda Abreu, da Universidade Estadual do Rio Grande do Norte (UERN).Uma lei estadual (nº 660), de 25 de outubro de 1927, aprovada pelo presidente do estado (como se chamava o governador), Juvenal Lamartine, garantiu o avanço inédito.&lt;/p&gt;
@@ -288,7 +332,7 @@ A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença
 &lt;p&gt;No caso do Rio Grande do Norte, as pesquisadoras identificam que&lt;/p&gt;
 &lt;p&gt;o ambiente institucional viabilizou as conquistas femininas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/historia-do-voto-mulheres-do-rn-tiveram-feitos-ineditos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Cidadãs do Rio Grande do Norte têm uma representação singular na história do sufrágio feminino brasileiro. “Na luta pelo direito ao voto, o Rio Grand...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-02 08:05:00</wp:post_date>
       <wp:post_date_gmt>2026-08-02 08:05:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-02 08:05:00</wp:post_modified>
@@ -314,9 +358,9 @@ A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença
     <item>
       <title>Conquista do voto feminino no Brasil resistiu à misoginia histórica</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/conquista-do-voto-feminino-no-brasil-resistiu-misoginia-historica</link>
-      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:55:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/conquista-do-voto-feminino-no-brasil-resistiu-misoginia-historica#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/conquista-do-voto-feminino-no-brasil-resistiu-misoginia-historica#1007</guid>
       <description>Os ataques ecoam pelo tempo. “Minha mulher não irá votar”, disse o senador constituinte Coelho e Campos, em 1891. No mesmo ano, outro parlamentar, Se...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/gls87ORCbeMP_fbv8AYGiEpZgYE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/imagem_materia.jpeg?itok=QAfTToPl&quot; alt=&quot;Conquista do voto feminino no Brasil resistiu à misoginia histórica&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Os ataques ecoam pelo tempo. “Minha mulher não irá votar”, disse o senador constituinte Coelho e Campos, em 1891. No mesmo ano, outro parlamentar, Serzedelo Corrêa, afirmou que jogar a mulher no meio das paixões e das lutas políticas é “tirar-lhe a santidade”.&lt;/p&gt;
@@ -335,7 +379,7 @@ A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença
 &lt;p&gt;Jornalista e doutoranda em história, Cibele é biógrafa da sufragista alagoana&lt;/p&gt;
 &lt;p&gt;. Almerinda foi uma das primeiras mulheres negras a atuar na política brasileira.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-07/conquista-do-voto-feminino-no-brasil-resistiu-misoginia-historica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os ataques ecoam pelo tempo. “Minha mulher não irá votar”, disse o senador constituinte Coelho e Campos, em 1891. No mesmo ano, outro parlamentar, Se...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-02 08:01:00</wp:post_date>
       <wp:post_date_gmt>2026-08-02 08:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-02 08:01:00</wp:post_modified>
@@ -361,9 +405,9 @@ A amamentação reduz em cerca de 11% a chancede a mulher desenvolver umadoença
     <item>
       <title>Fluminense e Vasco abrem oitavas de final da Copa do Brasil com 0 a 0</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-e-vasco-abrem-oitavas-de-final-da-copa-do-brasil-com-0-0</link>
-      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:55:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-e-vasco-abrem-oitavas-de-final-da-copa-do-brasil-com-0-0#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-e-vasco-abrem-oitavas-de-final-da-copa-do-brasil-com-0-0#1008</guid>
       <description>© LUCAS MERÇON / FLUMINENSE F.C.
 Fluminense e Vasco não saíram do 0 a 0 na partida de ida das oitavas de final da Copa do Brasil
 . O jogo ocorreu na ...</description>
@@ -377,16 +421,16 @@ Fluminense e Vasco não saíram do 0 a 0 na partida de ida das oitavas de final 
 &lt;p&gt;Às 19h30 deste sábado começou o jogo de ida de Atlético-MG e Juventude, em Belo Horizonte e, às 21h, tem Santos e Remo, Vila Belmiro.&lt;/p&gt;
 &lt;p&gt;TSE promove Semana da Urna para combater desinformação&lt;/p&gt;
 &lt;p&gt;Câmeras inteligentes auxiliam no combate ao desaparecimento de pessoas&lt;/p&gt;
+&lt;p&gt;Brasil é quarto país que mais ampliou turismo internacional, diz OCDE&lt;/p&gt;
+&lt;p&gt;No Bonito CineSur, Paulo Betti defende regulamentação de streamings&lt;/p&gt;
 &lt;p&gt;Congresso volta do recesso sem previsão de plenário nesta semana&lt;/p&gt;
 &lt;p&gt;São Paulo vence Vitória e assume liderança do Brasileirão Feminino&lt;/p&gt;
 &lt;p&gt;Filme sobre a ditadura paraguaia vence festival Bonito CineSur&lt;/p&gt;
-&lt;p&gt;Caminhadas buscam conscientizar população sobre lipedema&lt;/p&gt;
-&lt;p&gt;Amamentação reduz risco de doença cardíaca na mãe&lt;/p&gt;
-&lt;p&gt;Mulheres formam rede em defesa do clima e dos territórios&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-e-vasco-abrem-oitavas-de-final-da-copa-do-brasil-com-0-0&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Caminhadas buscam conscientizar população sobre lipedema&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-e-vasco-abrem-oitavas-de-final-da-copa-do-brasil-com-0-0&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© LUCAS MERÇON / FLUMINENSE F.C.
 Fluminense e Vasco não saíram do 0 a 0 na partida de ida das oitavas de final da Copa do Brasil
 . O jogo ocorreu na ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-01 19:49:00</wp:post_date>
       <wp:post_date_gmt>2026-08-01 19:49:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-01 19:49:00</wp:post_modified>
@@ -412,9 +456,9 @@ Fluminense e Vasco não saíram do 0 a 0 na partida de ida das oitavas de final 
     <item>
       <title>Programa de renegociação de dívidas é prorrogado até 31 de agosto</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto</link>
-      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:55:18 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto#1009</guid>
       <description>A prorrogação do programa de renegociação de dívidas bancárias, o Desenrola Brasil 2.0, foi oficializada neste sábado (1º), em portaria do Ministério...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wxSe7Vx9bP9idycSlXIn7GwYDVc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/23/toms2399.jpg?itok=HRGsHhCa&quot; alt=&quot;Programa de renegociação de dívidas é prorrogado até 31 de agosto&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A prorrogação do programa de renegociação de dívidas bancárias, o Desenrola Brasil 2.0, foi oficializada neste sábado (1º), em portaria do Ministério da Fazenda, publicada no&lt;/p&gt;
@@ -427,13 +471,13 @@ Fluminense e Vasco não saíram do 0 a 0 na partida de ida das oitavas de final 
 &lt;p&gt;que pretendem trocar de veículo por meio do Programa Move Brasil.&lt;/p&gt;
 &lt;p&gt;TSE promove Semana da Urna para combater desinformação&lt;/p&gt;
 &lt;p&gt;Câmeras inteligentes auxiliam no combate ao desaparecimento de pessoas&lt;/p&gt;
+&lt;p&gt;Brasil é quarto país que mais ampliou turismo internacional, diz OCDE&lt;/p&gt;
+&lt;p&gt;No Bonito CineSur, Paulo Betti defende regulamentação de streamings&lt;/p&gt;
 &lt;p&gt;Congresso volta do recesso sem previsão de plenário nesta semana&lt;/p&gt;
 &lt;p&gt;São Paulo vence Vitória e assume liderança do Brasileirão Feminino&lt;/p&gt;
-&lt;p&gt;Filme sobre a ditadura paraguaia vence festival Bonito CineSur&lt;/p&gt;
-&lt;p&gt;Caminhadas buscam conscientizar população sobre lipedema&lt;/p&gt;
-&lt;p&gt;Amamentação reduz risco de doença cardíaca na mãe&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Filme sobre a ditadura paraguaia vence festival Bonito CineSur&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/programa-de-renegociacao-de-dividas-e-prorrogado-ate-31-de-agosto&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A prorrogação do programa de renegociação de dívidas bancárias, o Desenrola Brasil 2.0, foi oficializada neste sábado (1º), em portaria do Ministério...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-01 19:08:00</wp:post_date>
       <wp:post_date_gmt>2026-08-01 19:08:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-01 19:08:00</wp:post_modified>
@@ -454,55 +498,6 @@ Fluminense e Vasco não saíram do 0 a 0 na partida de ida das oitavas de final 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/wxSe7Vx9bP9idycSlXIn7GwYDVc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/23/toms2399.jpg?itok=HRGsHhCa</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Cresce o número de estabelecimentos na cadeia produtiva da cachaça</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cresce-o-numero-de-estabelecimentos-na-cadeia-produtiva-da-cachaca</link>
-      <pubDate>Sun, 02 Aug 2026 14:55:31 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cresce-o-numero-de-estabelecimentos-na-cadeia-produtiva-da-cachaca#1009</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-O Brasil tinha 1.583 estabelecimentos registrados na cadeia produtiva de cachaça no ano passado, 272 a mais na compa...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9YYvBRxVzZ6xj-o4MzZ8xJMy3tY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11-09-2020_cachaca-2.jpg?itok=_TZK4Qmj&quot; alt=&quot;Cresce o número de estabelecimentos na cadeia produtiva da cachaça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O Brasil tinha 1.583 estabelecimentos registrados na cadeia produtiva de cachaça no ano passado, 272 a mais na comparação com 2024 – o crescimento de 21% é o maior desde 2018.&lt;/p&gt;
-&lt;p&gt;O número engloba quem produz a bebida; padroniza cor, aroma e paladar; envasa as garrafas e/ou vende no atacado. Desde 2018, o número de estabelecimentos cresceu 61%&lt;/p&gt;
-&lt;p&gt;Os dados são do Anuário da Cachaça publicado pelo Ministério da Agricultura e Pecuária (Mapa), com a elaboração da Secretaria de Defesa Agropecuária..&lt;/p&gt;
-&lt;p&gt;O maior número de estabelecimentos estava na Região Sudeste (961), puxado por Minas Gerais (564) e por São Paulo (230).&lt;/p&gt;
-&lt;p&gt;Mais de 62% dos fabricantes, padronizadores, envasadores e atacadistas atuavam naquele estado. A Região Sul tinha 277 estabelecimentos – puxada pelo Rio Grande do Sul (230). No Nordeste, funcionavam 211 estabelecimentos; no Centro-Oeste, 70; e no Norte, 19.&lt;/p&gt;
-&lt;p&gt;Em 844 municípios brasileiros, havia ao menos um estabelecimento da cadeia produtiva da aguardente brasileira registrada pelo Mapa.&lt;/p&gt;
-&lt;p&gt;Entre essas cidades, Salinas (MG) era o município que tinha mais estabelecimentos da cadeia produtiva da cachaça (27).&lt;/p&gt;
-&lt;p&gt;A cidade no norte de Minas era seguida de perto por Alto Rio Doce, na Zona da Mata mineira, com 25 estabelecimentos; e por Viçosa do Ceará, no topo da Serra da Ibiapaba, no noroeste cearense, com 24 estabelecimentos.&lt;/p&gt;
-&lt;p&gt;Em todo o país, a produção de cachaça manteve (em média) 6.232 postos de trabalho em 2025 – 4,4% do total dos empregos na indústria de fabricação de bebidas.&lt;/p&gt;
-&lt;p&gt;O Anuário da Cachaça ainda destaca a venda da bebida para o mercado internacional (76 países).&lt;/p&gt;
-&lt;p&gt;Em 2025, as exportações foram de quase 8 milhões de litros – um crescimento de 19,4% sobre o volume exportado em 2024. O faturamento superou os 17 milhões.&lt;/p&gt;
-&lt;p&gt;Em valores pagos, os Estados Unidos foram no ano passado o maior comprador. Enquanto o Paraguai foi o país que consumiu o maior volume (1,34 milhão de litros).&lt;/p&gt;
-&lt;p&gt;Para o presidente do Instituto Brasileiro da Cachaça (Ibrac), Vicente Bastos, a exportação da bebida “continua em um patamar pouco expressivo, especialmente quando consideramos o tamanho do setor e o mercado internacional de destilados”, conforme declara em nota à imprensa.&lt;/p&gt;
-&lt;p&gt;A nota do Ibrac assinala que “apesar do crescimento no número de estabelecimentos, produtos, marcas e exportações, o Anuário registra que o volume de produção declarado em 2025 foi de 234,48 milhões de litros, redução de 15,77% em relação ao ano anterior.”&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/cresce-o-numero-de-estabelecimentos-na-cadeia-produtiva-da-cachaca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-O Brasil tinha 1.583 estabelecimentos registrados na cadeia produtiva de cachaça no ano passado, 272 a mais na compa...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-01 18:33:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-01 18:33:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-01 18:33:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-01 18:33:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/9YYvBRxVzZ6xj-o4MzZ8xJMy3tY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11-09-2020_cachaca-2.jpg?itok=_TZK4Qmj</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
