@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - Recentes</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias recentes. Última verificação: 11:27 UTC</description>
-<lastBuildDate>Mon, 03 Aug 2026 11:27:13 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>2 notícias recentes (2 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Mon, 03 Aug 2026 14:44:24 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>VetMóvel leva atendimento veterinário gratuito ao Centro e Presidente Kennedy</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/vetmovel-leva-atendimento-veterinario-gratuito-ao-centro-e-presidente-kennedy</link>
+<guid isPermaLink="false">fortaleza-20260803-b18fe61b6c02</guid>
+<pubDate>Mon, 03 Aug 2026 09:42:00 +0000</pubDate>
+<description>VetMóvel leva atendimento veterinário gratuito ao Centro e Presidente Kennedy - Segunda, 03 Agosto 2026 09:42</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Agosto/03 08 2026 SMPA.JPG" alt="VetMóvel leva atendimento veterinário gratuito ao Centro e Presidente Kennedy" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Prefeitura de Fortaleza, por meio da Secretaria Municipal da Proteção Animal (SMPA), inicia na próxima terça-feira (4/8) os atendimentos do VetMóvel no Mercado São Sebastião, no Centro, e no Shopping RioMar Kennedy, no bairro Presidente Kennedy. Os serviços seguem até o dia 15 de agosto, oferecendo gratuitamente consultas veterinárias, vacinação antirrábica, exames mediante avaliação profissional e castrações para cães e gatos.</p>
+<p>O VetMóvel é um serviço itinerante da SMPA que percorre diferentes bairros da capital, aproximando o atendimento veterinário da população e ampliando o acesso aos cuidados básicos com os animais de estimação. <br/>Entre janeiro de 2025 e junho de 2026, o programa realizou cerca de 31 mil atendimentos veterinários e mais de 17 mil castrações.</p>
+<p>Os atendimentos acontecem de terça-feira a sábado, das 7h às 16h. Diariamente, são disponibilizadas 40 fichas para consultas clínicas e vacinação antirrábica, sendo 20 no período da manhã e 20 no período da tarde.</p>
+<p>Para receber os serviços, os tutores devem apresentar RG, CPF e comprovante de residência em Fortaleza. Os cães devem estar utilizando guia e coleira, além de focinheira quando necessário. Já os gatos precisam ser transportados em caixas apropriadas, garantindo a segurança dos animais e dos tutores.</p>
+<p>Além das consultas clínicas, o VetMóvel realiza exames mediante avaliação e solicitação do médico-veterinário durante o atendimento. Entre eles estão os testes para Vírus da Imunodeficiência Felina (FIV), Vírus da Leucemia Felina (FeLV), leishmaniose, cinomose, entre outros.</p>
+<p><strong>Castração</strong></p>
+<p>As castrações devem ser agendadas previamente pela Central 156 (opção 6) ou pelo site vetmovelfortaleza.com.br. Após o cadastro, a equipe da SMPA entra em contato com os tutores para informar a data, o horário da cirurgia e os cuidados pré-operatórios.</p>
+<p>A população também pode acompanhar a situação do cadastro e esclarecer dúvidas pelos números (85) 9 9165-7839 e (85) 9 9224-7488.</p>
+<p><strong>Vacinação</strong></p>
+<p>A vacina antirrábica é destinada a cães e gatos a partir dos quatro meses de idade e deve ser aplicada anualmente.<br/><br/>Cadelas não podem estar prenhas, lactantes ou no cio no momento da vacinação. Gatas não podem estar prenhas ou lactantes, mas podem estar no cio.</p>
+<p>É recomendado que os tutores apresentem o cartão de vacinação do animal durante o atendimento. Caso não possuam o documento, um novo cartão será fornecido no local.</p>
+<p><strong>Serviço</strong></p>
+<p><span><strong>VetMóvel – Mercado São Sebastião</strong></span><br/>Atendimento: terça-feira a sábado<br/>Período: 4 a 15 de agosto de 2026<br/>Horário: das 7h às 16h<br/>Local: Mercado São Sebastião (Rua General Clarindo de Queiroz, 1745 - Centro)</p>
+<p><strong><span>VetMóvel – Shopping RioMar Kennedy</span></strong><br/>Atendimento: terça-feira a sábado<br/>Período: 4 a 15 de agosto de 2026<br/>Horário: das 7h às 16h<br/>Local: Shopping RioMar Kennedy (Av. Sargento Hermínio Sampaio, 3100 - Presidente Kennedy)</p>
+<p>Mais informações sobre castrações, consultas clínicas e vacinação antirrábica: (85) 9 9165-7839 (WhatsApp) e (85) 9 9224-7488.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/vetmovel-leva-atendimento-veterinario-gratuito-ao-centro-e-presidente-kennedy" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Agosto/03 08 2026 SMPA.JPG" type="image/jpeg" />
+<media:content url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Agosto/03 08 2026 SMPA.JPG" type="image/jpeg" medium="image">
+<media:title>VetMóvel leva atendimento veterinário gratuito ao Centro e Presidente Kennedy</media:title>
+</media:content>
+</item>
+<item>
+<title>Vila das Artes abre inscrições para minicurso sobre cartografia, território e memória</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/vila-das-artes-abre-inscricoes-para-minicurso-sobre-cartografia-territorio-e-memoria</link>
+<guid isPermaLink="false">fortaleza-20260803-5c63f6956cbf</guid>
+<pubDate>Mon, 03 Aug 2026 09:13:00 +0000</pubDate>
+<description>Vila das Artes abre inscrições para minicurso sobre cartografia, território e memória - Segunda, 03 Agosto 2026 09:13</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Agosto/03 08 2026 Secultfor.jpg" alt="Vila das Artes abre inscrições para minicurso sobre cartografia, território e memória" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Escola Pública de Artes Visuais da Vila das Artes está com inscrições abertas para o minicurso “Cartografias insurgentes e poéticas”, ministrado pela arquiteta, artista e pesquisadora maranhense Laíse Frasão. A formação é gratuita, será realizada de forma remota de 10 e 14 de agosto de 2026, das 18h às 21h, e oferece 20 vagas para pessoas a partir de 18 anos.</p>
+<p>As inscrições podem ser realizadas de 31 de julho a 6 de agosto, por meio de<a href="https://forms.gle/5KCwNhvNuXe3rUcy5"><strong> formulário on-line</strong></a>. O resultado será divulgado em 7 de agosto, mesma data em que as pessoas selecionadas receberão as orientações de acesso ao Google Meet por e-mail.</p>
+<p><strong>Sobre a formação</strong></p>
+<p>Com carga horária de 15 horas-aula, o minicurso propõe um panorama de experimentações cartográficas insurgentes, reunindo referências nacionais e internacionais nos campos da cartografia social, cultural, colaborativa e afetiva. A formação aborda metodologias, dispositivos e práticas artísticas que utilizam a cartografia como ferramenta para a construção de narrativas sobre território, memória, identidade e pertencimento.</p>
+<p>Ao longo dos encontros, as pessoas participantes serão convidadas a refletir sobre processos criativos de mapeamento e suas relações com diferentes contextos sociais, culturais e espaciais, explorando abordagens críticas e poéticas voltadas à leitura e à representação dos territórios.</p>
+<p><strong>Sobre Laíse Frasão</strong></p>
+<p>Laíse Frasão desenvolve uma prática transdisciplinar que articula arte, arquitetura, patrimônio cultural, território e poesia. É autora de obras instaladas em instituições públicas, como o painel artístico do auditório do Edifício-Sede do Tribunal de Contas da União (TCU), em Brasília, e uma escultura que integra o acervo permanente do Ministério das Relações Exteriores.</p>
+<p>Graduada em Arquitetura e Urbanismo e em Teoria, Crítica e História da Arte pela Universidade de Brasília (UnB), possui mestrado pela UnB e pela Universidade de Jaén, na Espanha, onde recebeu o Prêmio Melhor Estudante/Talento de Mestrado 2022/2023.</p>
+<p>Atualmente, é doutoranda na Universidade Estadual do Maranhão (UEMA) e realiza estágio-sanduíche na Universidade Nacional Autônoma do México (UNAM), desenvolvendo pesquisas sobre decolonialidade, território, cultura popular, gênero, desigualdades e processos poéticos contemporâneos.</p>
+<p><strong>Serviço</strong><br/>Minicurso: Cartografias insurgentes e poéticas (via Google Meet), com Laíse Frasão<br/><a href="https://forms.gle/5KCwNhvNuXe3rUcy5"><strong>Inscreva-se até 6 de agosto de 2026</strong></a><br/>Período: 10 a 14 de agosto de 2026<br/>Horário: 18h às 21h<br/>Vagas: 20<br/>Faixa etária: a partir de 18 anos<br/>Resultado e envio das orientações: 7 de agosto de 202</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/vila-das-artes-abre-inscricoes-para-minicurso-sobre-cartografia-territorio-e-memoria" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Agosto/03 08 2026 Secultfor.jpg" type="image/jpeg" />
+<media:content url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Agosto/03 08 2026 Secultfor.jpg" type="image/jpeg" medium="image">
+<media:title>Vila das Artes abre inscrições para minicurso sobre cartografia, território e memória</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
