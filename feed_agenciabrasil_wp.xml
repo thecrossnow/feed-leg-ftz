@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 08 Aug 2026 11:21:09 +0000</pubDate>
+    <pubDate>Sat, 08 Aug 2026 12:31:34 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,60 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Partidos têm até o dia 15 para registrarem candidaturas nos tribunais</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/partidos-tem-ate-o-dia-15-para-registrarem-candidaturas-nos-tribunais</link>
+      <pubDate>Sat, 08 Aug 2026 12:31:34 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/partidos-tem-ate-o-dia-15-para-registrarem-candidaturas-nos-tribunais#1000</guid>
+      <description>© Valter Campanato/ Agência Brasil
+Termina às 19h do dia 15 de agosto o prazo para os partidos registrarem as candidaturas para as eleições deste ano...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/fGM3zrxftGDChaLc1JN6Gh7EsXI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/07/0d7a8531.jpg?itok=5wJrKc-x&quot; alt=&quot;Partidos têm até o dia 15 para registrarem candidaturas nos tribunais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Valter Campanato/ Agência Brasil&lt;/p&gt;
+&lt;p&gt;Termina às 19h do dia 15 de agosto o prazo para os partidos registrarem as candidaturas para as eleições deste ano. Com o fim das convenções partidárias, cujo prazo para realização terminou na quarta-feira (5), agora os partidos devem registrar os candidatos nos tribunais eleitorais.&lt;/p&gt;
+&lt;p&gt;Para candidatos a presidente e a vice-presidente da República, as solicitações serão feitas no Tribunal Superior Eleitoral (TSE); para senador, deputado federal, governador e vice-governador, deputado distrital e deputado estadual, nos tribunais regionais eleitorais.&lt;/p&gt;
+&lt;p&gt;Dos 30 partidos registrados no TSE, 13 têm candidatos à Presidência da República. Os demais anunciaram apoio a candidatos de legendas diferentes à sua ou declararam neutralidade na corrida presidencial.&lt;/p&gt;
+&lt;p&gt;A decisão pela neutralidade é um sinal de que o partido volta seus esforços para os estados, em um trabalho para ter bancadas significativas nas assembleias legislativas, na Câmara dos Deputados e no Senado.&lt;/p&gt;
+&lt;p&gt;Candidatos a presidente da República confirmados nas convenções nacionais:&lt;/p&gt;
+&lt;p&gt;Wilson Grassi Júnior (Democrata)&lt;/p&gt;
+&lt;p&gt;Essas candidaturas, no entanto, precisam ser confirmadas com o registro junto ao TSE.&lt;/p&gt;
+&lt;p&gt;Após registrado, o candidato aparece no sistema do tribunal eleitoral, que pode ser consultado por qualquer cidadão. No sistema&lt;/p&gt;
+&lt;p&gt;é possível encontrar informações detalhadas sobre todos os candidatos que pediram registro à Justiça Eleitoral, entre as quais as suas contas eleitorais e as dos partidos políticos.&lt;/p&gt;
+&lt;p&gt;Dia da AME reforça importância do diagnóstico precoce&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 7 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Partidos têm até o dia 15 para registrarem candidaturas nos tribunais&lt;/p&gt;
+&lt;p&gt;AGU se reúne com Discord e cobra proteção de crianças na plataforma&lt;/p&gt;
+&lt;p&gt;Familiares celebram legado de primeira medalha paralímpica do Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/partidos-tem-ate-o-dia-15-para-registrarem-candidaturas-nos-tribunais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Valter Campanato/ Agência Brasil
+Termina às 19h do dia 15 de agosto o prazo para os partidos registrarem as candidaturas para as eleições deste ano...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-08 08:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-08 08:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-08 08:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-08 08:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/fGM3zrxftGDChaLc1JN6Gh7EsXI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/07/0d7a8531.jpg?itok=5wJrKc-x</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>AGU se reúne com Discord e cobra proteção de crianças na plataforma</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/agu-se-reune-com-discord-e-cobra-protecao-de-criancas-na-plataformas</link>
-      <pubDate>Sat, 08 Aug 2026 11:21:09 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 12:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/agu-se-reune-com-discord-e-cobra-protecao-de-criancas-na-plataformas#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/agu-se-reune-com-discord-e-cobra-protecao-de-criancas-na-plataformas#1001</guid>
       <description>A Advocacia-Geral da União (AGU) informou nesta sexta-feira (7) que se reuniu com representantes da rede social Discord para tratar de falhas intensi...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/aP3blS0Pr9CSGdD35ux2uecWfGM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/01/28/_mg_5839_0.jpg?itok=FTl9Oc3l&quot; alt=&quot;AGU se reúne com Discord e cobra proteção de crianças na plataforma&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Advocacia-Geral da União (AGU) informou nesta sexta-feira (7) que se reuniu com representantes da rede social Discord para tratar de falhas intensificadas na verificação de idade e proteção de crianças e adolescentes que utilizam a plataforma.&lt;/p&gt;
@@ -37,7 +86,7 @@
 &lt;p&gt;os representantes do Discord manifestaram disposição para cumprir as exigências legais e corrigir as falhas identificadas.&lt;/p&gt;
 &lt;p&gt;A AGU avalia propor a assinatura de Termo de Ajustamento de Conduta (TAC) para assegurar o cumprimento das regras.&lt;/p&gt;
 &lt;p&gt;Em caso de descumprimento, o órgão estuda entrar com uma ação judicial contra a plataforma.&lt;/p&gt;
-&lt;p&gt;E-Título serve como documento para votar; conheça outras funções úteis&lt;/p&gt;
+&lt;p&gt;Dia da AME reforça importância do diagnóstico precoce&lt;/p&gt;
 &lt;p&gt;Repórter Brasil de 7 de agosto de 2026; assista na íntegra&lt;/p&gt;
 &lt;p&gt;Partidos têm até o dia 15 para registrarem candidaturas nos tribunais&lt;/p&gt;
 &lt;p&gt;AGU se reúne com Discord e cobra proteção de crianças na plataforma&lt;/p&gt;
@@ -45,7 +94,7 @@
 &lt;p&gt;Senado dos EUA confirma novo embaixador para o Brasil&lt;/p&gt;
 &lt;p&gt;PMs detêm motorista de ônibus em SP após desentendimento no trânsito&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/agu-se-reune-com-discord-e-cobra-protecao-de-criancas-na-plataformas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Advocacia-Geral da União (AGU) informou nesta sexta-feira (7) que se reuniu com representantes da rede social Discord para tratar de falhas intensi...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-08-07 21:41:00</wp:post_date>
       <wp:post_date_gmt>2026-08-07 21:41:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-07 21:41:00</wp:post_modified>
@@ -71,9 +120,9 @@
     <item>
       <title>Familiares celebram legado de primeira medalha paralímpica do Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/familiares-celebram-legado-de-primeira-medalha-paralimpica-do-brasil</link>
-      <pubDate>Sat, 08 Aug 2026 11:21:09 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 12:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/familiares-celebram-legado-de-primeira-medalha-paralimpica-do-brasil#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/familiares-celebram-legado-de-primeira-medalha-paralimpica-do-brasil#1002</guid>
       <description>O Brasil encerrou a Paralimpíada de Paris (França), em 2024, entre as cinco potências do esporte adaptado pela primeira vez. O país já foi 462 vezes ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/w4VXRMXtv5nSrgiS4VwxDuEqMoM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/07/1medalha.toronto76-acabral_11.jpg?itok=XABjBUJP&quot; alt=&quot;Familiares celebram legado de primeira medalha paralímpica do Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Brasil encerrou a Paralimpíada de Paris (França), em 2024, entre as cinco potências do esporte adaptado pela primeira vez. O país já foi 462 vezes no pódio no maior evento paradesportivo do planeta.&lt;/p&gt;
@@ -92,7 +141,7 @@
 &lt;p&gt;[quando todos os pinos são derrubados em uma única jogada]. Então, ele já tinha certa prática para segurar a bola. Mas o Luiz Carlos foi de primeira&quot;&quot;, contou Paulo Robson.&lt;/p&gt;
 &lt;p&gt;A história brasileira no movimento paralímpico mudou significativamente desde a medalha histórica de 1976. O Comitê Paralímpico Brasileiro (CPB) foi criado em 1995. Três anos depois, a entidade foi incluída no Sistema Nacional do Desporto por meio da Lei 9.615, conhecida como Lei Pelé.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/familiares-celebram-legado-de-primeira-medalha-paralimpica-do-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Brasil encerrou a Paralimpíada de Paris (França), em 2024, entre as cinco potências do esporte adaptado pela primeira vez. O país já foi 462 vezes ...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-07 19:50:00</wp:post_date>
       <wp:post_date_gmt>2026-08-07 19:50:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-07 19:50:00</wp:post_modified>
@@ -118,9 +167,9 @@
     <item>
       <title>PMs detêm motorista de ônibus em SP após desentendimento no trânsito</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pms-detem-motorista-de-onibus-em-sp-apos-desentendimento-no-transito</link>
-      <pubDate>Sat, 08 Aug 2026 11:21:09 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 12:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pms-detem-motorista-de-onibus-em-sp-apos-desentendimento-no-transito#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pms-detem-motorista-de-onibus-em-sp-apos-desentendimento-no-transito#1003</guid>
       <description>Um motorista de ônibus foi retirado à força do veículo e detido por dois policiais militares após um desentendimento no trânsito na capital paulista....</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2eCywkBKVjiHKCaf3FuSpbIbUMQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/28/pmsp2_copiar.jpg?itok=2oNd6Mrc&quot; alt=&quot;PMs detêm motorista de ônibus em SP após desentendimento no trânsito&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Um motorista de ônibus foi retirado à força do veículo e detido por dois policiais militares após um desentendimento no trânsito na capital paulista. Segundo o motorista, o desentendimento teve início quando ele buzinou pedindo passagem à viatura da PM, que trafegava lentamente na faixa exclusiva de ônibus.&lt;/p&gt;
@@ -135,11 +184,11 @@
 &lt;p&gt;Em nota, a Secretaria de Segurança Pública (SSP) do estado de São Paulo disse que a Polícia Militar está apurando as circunstâncias dos fatos. &quot;A corporação não compactua com desvios de conduta e adota as medidas cabíveis sempre que constatadas irregularidades&quot;, diz o texto.&lt;/p&gt;
 &lt;p&gt;A SSP informou ainda que a Polícia Civil devera instaurar inquérito no 40º Distrito Policial (Vila Santa Maria) sobre o caso e solicitar as imagens das câmeras corporais dos policiais para auxiliar no esclarecimento dos fatos.&lt;/p&gt;
 &lt;p&gt;Matéria ampliada às 19h23 para incluir a manifestação daSecretaria de Segurança Pública.&lt;/p&gt;
-&lt;p&gt;E-Título serve como documento para votar; conheça outras funções úteis&lt;/p&gt;
-&lt;p&gt;Temporais no RS: uma pessoa morreu e 2.300 estão desabrigadas&lt;/p&gt;
+&lt;p&gt;Dia da AME reforça importância do diagnóstico precoce&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 7 de agosto de 2026; assista na íntegra&lt;/p&gt;
 &lt;p&gt;Partidos têm até o dia 15 para registrarem candidaturas nos tribunais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pms-detem-motorista-de-onibus-em-sp-apos-desentendimento-no-transito&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Um motorista de ônibus foi retirado à força do veículo e detido por dois policiais militares após um desentendimento no trânsito na capital paulista....</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-07 18:53:00</wp:post_date>
       <wp:post_date_gmt>2026-08-07 18:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-07 18:53:00</wp:post_modified>
@@ -165,9 +214,9 @@
     <item>
       <title>Desmatamento na Amazônia cai 36,87% no último ano</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/desmatamento-na-amazonia-cai-3687-no-ultimo-ano</link>
-      <pubDate>Sat, 08 Aug 2026 11:21:09 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 12:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/desmatamento-na-amazonia-cai-3687-no-ultimo-ano#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/desmatamento-na-amazonia-cai-3687-no-ultimo-ano#1004</guid>
       <description>O desmatamento na Amazônia teve queda de 36,87% entre agosto de 2025 e julho de 2026. Foram 2.874,38 km² de área sob alerta.
 É o menor valor desde 20...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/AHScjTtJ2PIh3tOSme5FELQqq6o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/28/br-319e.jpeg?itok=GRG7xAnQ&quot; alt=&quot;Desmatamento na Amazônia cai 36,87% no último ano&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -188,7 +237,7 @@
 &lt;p&gt;No recorte por biomas, a queda mais expressiva no desmatamento ocorreu no Pantanal. Em 2025, foi 65,4% menor do que no ano anterior. Em seguida, o Pampa, com uma redução de 41,7%.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/desmatamento-na-amazonia-cai-3687-no-ultimo-ano&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O desmatamento na Amazônia teve queda de 36,87% entre agosto de 2025 e julho de 2026. Foram 2.874,38 km² de área sob alerta.
 É o menor valor desde 20...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-07 18:45:00</wp:post_date>
       <wp:post_date_gmt>2026-08-07 18:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-07 18:45:00</wp:post_modified>
@@ -214,9 +263,9 @@
     <item>
       <title>OAB/DF lança &quot;violentômetro&quot; sobre estágios da agressão a mulheres</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/oabdf-lanca-violentometro-sobre-estagios-da-agressao-mulheres</link>
-      <pubDate>Sat, 08 Aug 2026 11:21:09 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 12:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/oabdf-lanca-violentometro-sobre-estagios-da-agressao-mulheres#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/oabdf-lanca-violentometro-sobre-estagios-da-agressao-mulheres#1005</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 A Seccional do Distrito Federal da Ordem dos Advogados do Brasil (OAB-DF) lançou nesta sexta-feira (7) o
 ,...</description>
@@ -239,7 +288,7 @@ A Seccional do Distrito Federal da Ordem dos Advogados do Brasil (OAB-DF) lanço
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 A Seccional do Distrito Federal da Ordem dos Advogados do Brasil (OAB-DF) lançou nesta sexta-feira (7) o
 ,...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-07 18:22:00</wp:post_date>
       <wp:post_date_gmt>2026-08-07 18:22:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-07 18:22:00</wp:post_modified>
@@ -265,9 +314,9 @@ A Seccional do Distrito Federal da Ordem dos Advogados do Brasil (OAB-DF) lanço
     <item>
       <title>STM determina perda de patente de militar acusado de transmitir HIV</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stm-determina-perda-de-patente-de-militar-acusado-de-transmitir-hiv</link>
-      <pubDate>Sat, 08 Aug 2026 11:21:09 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 12:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stm-determina-perda-de-patente-de-militar-acusado-de-transmitir-hiv#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stm-determina-perda-de-patente-de-militar-acusado-de-transmitir-hiv#1006</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 O Superior Tribunal Militar (STM) determinou a perda da patente de um segundo-tenente reformado do Exército acusado...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kisneuEclFfsRt0aW0w921IAABU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20231102_125012.jpg?itok=dsSZwZ-4&quot; alt=&quot;STM determina perda de patente de militar acusado de transmitir HIV&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -279,8 +328,8 @@ O Superior Tribunal Militar (STM) determinou a perda da patente de um segundo-te
 &lt;p&gt;A partir do voto relator, ministro José Barroso Filho, o plenário do STM concordou com os argumentos da acusação e entendeu que o militar violou os princípios éticos e morais da corporação, além de comprometer o decoro da classe e a imagem do Exército.&lt;/p&gt;
 &lt;p&gt;Na defesa apresentada ao tribunal, os advogados do militar afirmaram que a conduta diz respeito à vida privada do acusado e não tem relação com a função no Exército.&lt;/p&gt;
 &lt;p&gt;Além do processo no âmbito militar, o militar também foi condenado pela Justiça comum a seis anos de prisão por lesão corporal gravíssima.&lt;/p&gt;
-&lt;p&gt;E-Título serve como documento para votar; conheça outras funções úteis&lt;/p&gt;
-&lt;p&gt;Temporais no RS: uma pessoa morreu e 2.300 estão desabrigadas&lt;/p&gt;
+&lt;p&gt;Dia da AME reforça importância do diagnóstico precoce&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 7 de agosto de 2026; assista na íntegra&lt;/p&gt;
 &lt;p&gt;Partidos têm até o dia 15 para registrarem candidaturas nos tribunais&lt;/p&gt;
 &lt;p&gt;AGU se reúne com Discord e cobra proteção de crianças na plataforma&lt;/p&gt;
 &lt;p&gt;Familiares celebram legado de primeira medalha paralímpica do Brasil&lt;/p&gt;
@@ -288,7 +337,7 @@ O Superior Tribunal Militar (STM) determinou a perda da patente de um segundo-te
 &lt;p&gt;PMs detêm motorista de ônibus em SP após desentendimento no trânsito&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stm-determina-perda-de-patente-de-militar-acusado-de-transmitir-hiv&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 O Superior Tribunal Militar (STM) determinou a perda da patente de um segundo-tenente reformado do Exército acusado...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-07 18:11:00</wp:post_date>
       <wp:post_date_gmt>2026-08-07 18:11:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-07 18:11:00</wp:post_modified>
@@ -314,9 +363,9 @@ O Superior Tribunal Militar (STM) determinou a perda da patente de um segundo-te
     <item>
       <title>STF julga recursos contra partes da decisão que anulou marco temporal</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stf-julga-recursos-contra-partes-da-decisao-que-anulou-marco-temporal</link>
-      <pubDate>Sat, 08 Aug 2026 11:21:09 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 12:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stf-julga-recursos-contra-partes-da-decisao-que-anulou-marco-temporal#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stf-julga-recursos-contra-partes-da-decisao-que-anulou-marco-temporal#1007</guid>
       <description>O Supremo Tribunal Federal (STF) começou a julgar nesta sexta-feira (7) os recursos que constestam a decisão da Corte que reconheceu a inconstitucion...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5jQKKjYeWOpjHdf59DUqg3-MCr8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_4883.jpg?itok=ahc1D5zf&quot; alt=&quot;STF julga recursos contra partes da decisão que anulou marco temporal&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Supremo Tribunal Federal (STF) começou a julgar nesta sexta-feira (7) os recursos que constestam a decisão da Corte que reconheceu a inconstitucionalidade do marco temporal para demarcação de terras indígenas.&lt;/p&gt;
@@ -335,7 +384,7 @@ O Superior Tribunal Militar (STM) determinou a perda da patente de um segundo-te
 &lt;p&gt;E-Título serve como documento para votar; conheça outras funções úteis&lt;/p&gt;
 &lt;p&gt;Repórter Brasil de 7 de agosto de 2026; assista na íntegra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/stf-julga-recursos-contra-partes-da-decisao-que-anulou-marco-temporal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Supremo Tribunal Federal (STF) começou a julgar nesta sexta-feira (7) os recursos que constestam a decisão da Corte que reconheceu a inconstitucion...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-07 17:32:00</wp:post_date>
       <wp:post_date_gmt>2026-08-07 17:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-07 17:32:00</wp:post_modified>
@@ -361,9 +410,9 @@ O Superior Tribunal Militar (STM) determinou a perda da patente de um segundo-te
     <item>
       <title>Ventania no Rio adia Botafogo x Fluminense pelo Brasileirão Feminino</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ventania-no-rio-adia-botafogo-x-fluminense-pelo-brasileirao-feminino</link>
-      <pubDate>Sat, 08 Aug 2026 11:21:09 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 12:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ventania-no-rio-adia-botafogo-x-fluminense-pelo-brasileirao-feminino#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ventania-no-rio-adia-botafogo-x-fluminense-pelo-brasileirao-feminino#1008</guid>
       <description>© Reuters/Pilar Olivares/Direitos Reservados
 A Confederação Brasileira de Futebol (CBF) anunciou o adiamento da partida entre Botafogo e Fluminense, ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/IAbxn8J_uvXnYG6ZDa1Z7hp0Z9k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2021-06-09t195730z_322778497_rc23xn99f6x6_rtrmadp_3_soccer-copa-america.jpg?itok=sHXpOdJZ&quot; alt=&quot;Ventania no Rio adia Botafogo x Fluminense pelo Brasileirão Feminino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -384,7 +433,7 @@ A Confederação Brasileira de Futebol (CBF) anunciou o adiamento da partida ent
 &lt;p&gt;AGU se reúne com Discord e cobra proteção de crianças na plataforma&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ventania-no-rio-adia-botafogo-x-fluminense-pelo-brasileirao-feminino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Pilar Olivares/Direitos Reservados
 A Confederação Brasileira de Futebol (CBF) anunciou o adiamento da partida entre Botafogo e Fluminense, ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-07 16:02:00</wp:post_date>
       <wp:post_date_gmt>2026-08-07 16:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-07 16:02:00</wp:post_modified>
@@ -410,9 +459,9 @@ A Confederação Brasileira de Futebol (CBF) anunciou o adiamento da partida ent
     <item>
       <title>Candidatos do Encceja 2026 podem consultar o cartão de inscrição</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/candidatos-do-encceja-2026-podem-consultar-o-cartao-de-inscricao</link>
-      <pubDate>Sat, 08 Aug 2026 11:21:09 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 12:31:34 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/candidatos-do-encceja-2026-podem-consultar-o-cartao-de-inscricao#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/candidatos-do-encceja-2026-podem-consultar-o-cartao-de-inscricao#1009</guid>
       <description>Os candidatos do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 já podemconsultar o local onde farão a prova, no...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/bKZcEfPbMTh_BhZfpwNGgXbcM08=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/16/toms0126.jpg?itok=Eg0SCTX7&quot; alt=&quot;Candidatos do Encceja 2026 podem consultar o cartão de inscrição&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Os candidatos do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 já podemconsultar o local onde farão a prova, no próximo dia 23, no&lt;/p&gt;
@@ -431,7 +480,7 @@ A Confederação Brasileira de Futebol (CBF) anunciou o adiamento da partida ent
 &lt;p&gt;Exame de certificação de conclusão&lt;/p&gt;
 &lt;p&gt;Realizado pelo Inep desde 2002, o&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/candidatos-do-encceja-2026-podem-consultar-o-cartao-de-inscricao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os candidatos do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 já podemconsultar o local onde farão a prova, no...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-07 15:57:00</wp:post_date>
       <wp:post_date_gmt>2026-08-07 15:57:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-07 15:57:00</wp:post_modified>
@@ -452,55 +501,6 @@ A Confederação Brasileira de Futebol (CBF) anunciou o adiamento da partida ent
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/bKZcEfPbMTh_BhZfpwNGgXbcM08=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/16/toms0126.jpg?itok=Eg0SCTX7</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>TSE cria conselho para monitorar desinformação e IA nas eleições</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-cria-conselho-para-monitorar-desinformacao-e-ia-nas-eleicoes</link>
-      <pubDate>Sat, 08 Aug 2026 11:21:09 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-cria-conselho-para-monitorar-desinformacao-e-ia-nas-eleicoes#1009</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-O Tribunal Superior Eleitoral (TSE) criou nesta sexta-feira (7) o Conselho Consultivo sobre Integridade Informaciona...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/-pc2f_7PYY8YWaKNU0MhJV0Vxdc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/predio-tse_mcamgo_abr_22062023-6.jpg?itok=uiHXLMal&quot; alt=&quot;TSE cria conselho para monitorar desinformação e IA nas eleições&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O Tribunal Superior Eleitoral (TSE) criou nesta sexta-feira (7) o Conselho Consultivo sobre Integridade Informacional para&lt;/p&gt;
-&lt;p&gt;monitorar o uso indevido da inteligência artificial e a difusão de desinformação durante a campanha eleitoral&lt;/p&gt;
-&lt;p&gt;O grupo será responsável pelo assessoramento do presidente do TSE, ministro Kassio Nunes Marques, nas ações para manter a normalidade do processo eleitoral.&lt;/p&gt;
-&lt;p&gt;Profissionais de diversas áreas vão participar do grupo, entre eles especialistas em tecnologia da informação, segurança pública, relações internacionais e saúde pública. Os nomes dos participantes ainda não foram escolhidos pelo TSE.&lt;/p&gt;
-&lt;p&gt;O conselho está previsto para funcionar até 31 de dezembro.&lt;/p&gt;
-&lt;p&gt;TSE aprovou regras sobre o uso de inteligência artificial&lt;/p&gt;
-&lt;p&gt;durante as eleições gerais de outubro.&lt;/p&gt;
-&lt;p&gt;As normas valem para candidatos e partidos.&lt;/p&gt;
-&lt;p&gt;Os ministros proibiram que provedores de IA permitam, ainda que solicitado pelos usuários, sugestões de candidatos para votar.&lt;/p&gt;
-&lt;p&gt;O objetivo é evitar a interferência de algoritmos na livre escolha dos eleitores.&lt;/p&gt;
-&lt;p&gt;Para combater a misoginia digital, o TSE proibiu postagens nas redes sociais com montagens envolvendo candidatas e fotos e vídeos com nudez e pornografia.&lt;/p&gt;
-&lt;p&gt;A Corte eleitoral também reafirmou que os provedores de internet poderão ser responsabilizados pela Justiça se não retirarem perfis falsos e postagens ilegais de seus usuários.&lt;/p&gt;
-&lt;p&gt;O primeiro turno das eleições será realizado no dia 4 de outubro&lt;/p&gt;
-&lt;p&gt;, quando serão eleitos deputados federais, estaduais, distritais, governadores, senadores e o presidente da República.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/tse-cria-conselho-para-monitorar-desinformacao-e-ia-nas-eleicoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-O Tribunal Superior Eleitoral (TSE) criou nesta sexta-feira (7) o Conselho Consultivo sobre Integridade Informaciona...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-07 15:37:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-07 15:37:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-07 15:37:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-07 15:37:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/-pc2f_7PYY8YWaKNU0MhJV0Vxdc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/predio-tse_mcamgo_abr_22062023-6.jpg?itok=uiHXLMal</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
