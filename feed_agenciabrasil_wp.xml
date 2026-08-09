@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 09 Aug 2026 10:24:29 +0000</pubDate>
+    <pubDate>Sun, 09 Aug 2026 11:21:56 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,60 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Rádio Nacional homenageia Dia Internacional dos Povos Indígenas</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas</link>
+      <pubDate>Sun, 09 Aug 2026 11:21:56 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas#1000</guid>
+      <description>Para celebrar o Dia Internacional dos Povos Indígenas, comemorado em 9 de agosto, o programa
+leva ao ar neste domingo (9), às 9h, presta uma homenage...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/-BUrfHPXCQwIlm2l4P8P9arqdK8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/17/_mg_9044.jpg?itok=geBoqprO&quot; alt=&quot;Rádio Nacional homenageia Dia Internacional dos Povos Indígenas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Para celebrar o Dia Internacional dos Povos Indígenas, comemorado em 9 de agosto, o programa&lt;/p&gt;
+&lt;p&gt;leva ao ar neste domingo (9), às 9h, presta uma homenagem às raízes e à espiritualidade dos povos originários da Amazônia.&lt;/p&gt;
+&lt;p&gt;Apresentada por Mara Régia, a edição conta a trajetória de Dona Raimunda,&lt;/p&gt;
+&lt;p&gt;personagem de profunda devoção popular nos seringais do Acre&lt;/p&gt;
+&lt;p&gt;, reconhecida por suas origens indígenas e reverenciada como símbolo de proteção às mulheres vítimas de violência.&lt;/p&gt;
+&lt;p&gt;Um dos destaques do programa é o lançamento do livro&lt;/p&gt;
+&lt;p&gt;Espaços de Peregrinação: a devoção nas estradas da seringa&lt;/p&gt;
+&lt;p&gt;, obra que reúne histórias e memórias construídas a partir da convivência com as comunidades da Reserva Extrativista Chico Mendes.&lt;/p&gt;
+&lt;p&gt;O tema reforça a importância da preservação das tradições culturais e religiosas presentes nos territórios amazônicos.&lt;/p&gt;
+&lt;p&gt;A atração também aborda outras iniciativas relacionadas ao Dia Internacional dos Povos Indígenas, ampliando o debate sobre a valorização dos saberes, da cultura e da contribuição dos povos originários para a proteção da Amazônia.&lt;/p&gt;
+&lt;p&gt;abre espaço para discussões com lideranças rurais da Amazônia, como ribeirinhos, pescadores, seringueiros, quebradeiras de coco babaçu, trabalhadores extrativistas, indígenas, além de associações de jovens e de mulheres&lt;/p&gt;
+&lt;p&gt;. Apresentado e produzido por Mara Régia, a atração radiofônica também divulga dicas para preservação do meio ambiente.&lt;/p&gt;
+&lt;p&gt;vai ao ar aos domingos, às 9h, pela&lt;/p&gt;
+&lt;p&gt;Rádio Nacional do Alto Solimões&lt;/p&gt;
+&lt;p&gt;e emissoras parceiras que retransmitem a programação.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Para celebrar o Dia Internacional dos Povos Indígenas, comemorado em 9 de agosto, o programa
+leva ao ar neste domingo (9), às 9h, presta uma homenage...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-09 07:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-09 07:00:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-09 07:00:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-09 07:00:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/-BUrfHPXCQwIlm2l4P8P9arqdK8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/17/_mg_9044.jpg?itok=geBoqprO</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lorrane-oliveira-e-caio-souza-sao-ouro-no-brasileiro-de-ginastica</link>
-      <pubDate>Sun, 09 Aug 2026 10:24:29 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 11:21:56 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lorrane-oliveira-e-caio-souza-sao-ouro-no-brasileiro-de-ginastica#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lorrane-oliveira-e-caio-souza-sao-ouro-no-brasileiro-de-ginastica#1001</guid>
       <description>© Reprodução Instagram/CBGinastica
 Os primeiros vencedores do Campeonato Brasileiro de Ginástica Artística foram conhecidos neste sábado (8), diante ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_3-465x_TFwFSEqPramIsUCMmFU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/lorrane_flavia_saraiva_sofia_brasieliro_ginastica_artistica_2026.jpg?itok=rSiz4ior&quot; alt=&quot;Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +96,7 @@ Os primeiros vencedores do Campeonato Brasileiro de Ginástica Artística foram 
 &lt;p&gt;Novo presidente da Colômbia quer combater o crime &quot;sem tréguas&quot;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lorrane-oliveira-e-caio-souza-sao-ouro-no-brasileiro-de-ginastica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reprodução Instagram/CBGinastica
 Os primeiros vencedores do Campeonato Brasileiro de Ginástica Artística foram conhecidos neste sábado (8), diante ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-08-08 19:53:00</wp:post_date>
       <wp:post_date_gmt>2026-08-08 19:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-08 19:53:00</wp:post_modified>
@@ -73,9 +122,9 @@ Os primeiros vencedores do Campeonato Brasileiro de Ginástica Artística foram 
     <item>
       <title>Colombianas que morreram na queda de helicóptero eram avó, mãe e filha</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/colombianas-que-morreram-na-queda-de-helicoptero-eram-avo-mae-e-filha</link>
-      <pubDate>Sun, 09 Aug 2026 10:24:29 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 11:21:56 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/colombianas-que-morreram-na-queda-de-helicoptero-eram-avo-mae-e-filha#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/colombianas-que-morreram-na-queda-de-helicoptero-eram-avo-mae-e-filha#1002</guid>
       <description>Em nota divulgada no Instagram, o Sistema Alerta Rio informouque as três turistas colombianas da mesma família que morreram na queda de um helicópter...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Xr5pzF4e2tLo5ZfM2luxsQU4yf0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/img-20260808-wa0028.jpg?itok=GmCCJC_9&quot; alt=&quot;Colombianas que morreram na queda de helicóptero eram avó, mãe e filha&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Em nota divulgada no Instagram, o Sistema Alerta Rio informouque as três turistas colombianas da mesma família que morreram na queda de um helicóptero, na manhã deste sábado (8) no Rio,, eram avó, mãe e filha. O piloto da aeronave também não resistiu ao acidente. O ponto da queda fica em uma área de mata íngreme, de difícil acesso.&lt;/p&gt;
@@ -85,15 +134,16 @@ Os primeiros vencedores do Campeonato Brasileiro de Ginástica Artística foram 
 &lt;p&gt;A empresa oferece diferentes opções de voos panorâmicos pelo Rio de Janeiro, incluindo passeios que podem chegar a uma hora de duração e custar mais de R$ 1,3 mil por pessoa.&lt;/p&gt;
 &lt;p&gt;O helicóptero, modelo Robinson R44, de prefixo PP-MFS, caiu em área de mata fechada e de difícil acesso.&lt;/p&gt;
 &lt;p&gt;As circunstâncias e as causas da queda serãoinvestigadas.&lt;/p&gt;
+&lt;p&gt;Pais debatem na internet desafios de criar filhos mais responsáveis&lt;/p&gt;
 &lt;p&gt;Repórter Brasil de 8 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Dia dos pais: combate à misoginia começa pelo exemplo em casa&lt;/p&gt;
 &lt;p&gt;Rádio Nacional homenageia Dia Internacional dos Povos Indígenas&lt;/p&gt;
 &lt;p&gt;Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica&lt;/p&gt;
 &lt;p&gt;Colombianas que morreram na queda de helicóptero eram avó, mãe e filha&lt;/p&gt;
 &lt;p&gt;Mega-Sena sorteia prêmio acumulado de R$ 165 milhões neste domingo&lt;/p&gt;
-&lt;p&gt;Novo presidente da Colômbia quer combater o crime &quot;sem tréguas&quot;&lt;/p&gt;
-&lt;p&gt;Teerã diz que reabrirá Ormuz quando Estados Unidos aceitarem condições&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/colombianas-que-morreram-na-queda-de-helicoptero-eram-avo-mae-e-filha&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Novo presidente da Colômbia quer combater o crime &quot;sem tréguas&quot;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/colombianas-que-morreram-na-queda-de-helicoptero-eram-avo-mae-e-filha&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Em nota divulgada no Instagram, o Sistema Alerta Rio informouque as três turistas colombianas da mesma família que morreram na queda de um helicópter...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-08 18:48:00</wp:post_date>
       <wp:post_date_gmt>2026-08-08 18:48:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-08 18:48:00</wp:post_modified>
@@ -119,9 +169,9 @@ Os primeiros vencedores do Campeonato Brasileiro de Ginástica Artística foram 
     <item>
       <title>Mega-Sena sorteia prêmio acumulado de R$ 165 milhões neste domingo</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-165-milhoes-neste-domingo-0</link>
-      <pubDate>Sun, 09 Aug 2026 10:24:29 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 11:21:56 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-165-milhoes-neste-domingo-0#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-165-milhoes-neste-domingo-0#1003</guid>
       <description>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
 A Mega-Sena sorteia neste domingo (9) prêmio estimado em R$ 165 milhões.
 As seis dezenas do concurso 3.042 ...</description>
@@ -137,7 +187,7 @@ As seis dezenas do concurso 3.042 ...</description>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
 A Mega-Sena sorteia neste domingo (9) prêmio estimado em R$ 165 milhões.
 As seis dezenas do concurso 3.042 ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-08 17:02:00</wp:post_date>
       <wp:post_date_gmt>2026-08-08 17:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-08 17:02:00</wp:post_modified>
@@ -163,9 +213,9 @@ As seis dezenas do concurso 3.042 ...</excerpt:encoded>
     <item>
       <title>Cientistas recorrem aos tubarões para melhorar previsão sobre furacões</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/cientistas-recorrem-aos-tubaroes-para-melhorar-previsao-sobre-furacoes</link>
-      <pubDate>Sun, 09 Aug 2026 10:24:29 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 11:21:56 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/cientistas-recorrem-aos-tubaroes-para-melhorar-previsao-sobre-furacoes#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/cientistas-recorrem-aos-tubaroes-para-melhorar-previsao-sobre-furacoes#1004</guid>
       <description>aos predadores arrastados por tornados da série
 , há muito tempo o cinema retrata os tubarões como fontes de medo no verão. Mas quando um tubarão atr...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/4b4SqmORN6AXbjJjEpCCSwQIPqg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/idalia_-_reuters-_julio_cesar_chavez.jpg?itok=MyJ6QTCg&quot; alt=&quot;Cientistas recorrem aos tubarões para melhorar previsão sobre furacões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -186,7 +236,7 @@ As seis dezenas do concurso 3.042 ...</excerpt:encoded>
 &lt;p&gt;“Essa é a parte da coluna d’água que realmente determina a intensidade dos furacões — uma camada mista mais quente significa furacões mais fortes —, pois retém o calor que alimenta os furacões”, acrescentou Carlisle.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/cientistas-recorrem-aos-tubaroes-para-melhorar-previsao-sobre-furacoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>aos predadores arrastados por tornados da série
 , há muito tempo o cinema retrata os tubarões como fontes de medo no verão. Mas quando um tubarão atr...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-08 16:21:00</wp:post_date>
       <wp:post_date_gmt>2026-08-08 16:21:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-08 16:21:00</wp:post_modified>
@@ -212,9 +262,9 @@ As seis dezenas do concurso 3.042 ...</excerpt:encoded>
     <item>
       <title>Tenista Bia Haddad anuncia pausa na carreira neste segundo semestre</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/tenista-bia-haddad-anuncia-pausa-na-carreira-neste-segundo-semestre</link>
-      <pubDate>Sun, 09 Aug 2026 10:24:29 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 11:21:56 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/tenista-bia-haddad-anuncia-pausa-na-carreira-neste-segundo-semestre#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/tenista-bia-haddad-anuncia-pausa-na-carreira-neste-segundo-semestre#1005</guid>
       <description>A tenista brasileira Beatriz Haddad Maia recorreu às redes sociais para anunciar uma pausa na carreira até o fim deste ano. Em vídeo publicado na noi...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QacKtc42YIIMxS7jPQOZ-9So5jM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/09/pint4107.jpg?itok=Pm47ILnG&quot; alt=&quot;Tenista Bia Haddad anuncia pausa na carreira neste segundo semestre&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A tenista brasileira Beatriz Haddad Maia recorreu às redes sociais para anunciar uma pausa na carreira até o fim deste ano. Em vídeo publicado na noite de sexta-feira (7), a atleta revelou que tomou a decisão após meses de reflexão e agradeceu o apoio da torcida e da família. O objetivo, segundo ela, é proteger o ranking por seis meses, a partir da última partida – derrota na estreia do Torneio de Wimbledon – como previsto no regulamento da Women’s Tennis Association (WTA).&lt;/p&gt;
@@ -232,7 +282,7 @@ As seis dezenas do concurso 3.042 ...</excerpt:encoded>
 &lt;p&gt;Novo presidente da Colômbia quer combater o crime &quot;sem tréguas&quot;&lt;/p&gt;
 &lt;p&gt;Teerã diz que reabrirá Ormuz quando Estados Unidos aceitarem condições&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/tenista-bia-haddad-anuncia-pausa-na-carreira-neste-segundo-semestre&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A tenista brasileira Beatriz Haddad Maia recorreu às redes sociais para anunciar uma pausa na carreira até o fim deste ano. Em vídeo publicado na noi...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-08 16:15:00</wp:post_date>
       <wp:post_date_gmt>2026-08-08 16:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-08 16:15:00</wp:post_modified>
@@ -258,9 +308,9 @@ As seis dezenas do concurso 3.042 ...</excerpt:encoded>
     <item>
       <title>Criatividade de ambulantes é tema de exposição fotográfica no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/criatividade-de-ambulantes-e-tema-de-exposicao-fotografica-no-rio</link>
-      <pubDate>Sun, 09 Aug 2026 10:24:29 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 11:21:56 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/criatividade-de-ambulantes-e-tema-de-exposicao-fotografica-no-rio#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/criatividade-de-ambulantes-e-tema-de-exposicao-fotografica-no-rio#1006</guid>
       <description>© Fernando Frazão/Agência Brasil
 A criatividade e a força de trabalhadores ambulantes das praias do Rio de Janeiro são retratados em uma exposição fo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xJQh-97CqtyjTzcIUCoHD5m5OFw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/04/_d6a4659.jpg?itok=KqYc3DRW&quot; alt=&quot;Criatividade de ambulantes é tema de exposição fotográfica no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -281,7 +331,7 @@ A criatividade e a força de trabalhadores ambulantes das praias do Rio de Janei
 &lt;p&gt;Em conversas com os ambulantes das areias, Rogério Reis contou que ouviu relatos preocupados de que possa haver uma tentativa de privatização desse negócio, que ocorre em condições precárias. Ambulantes manifestaram ao fotógrafo o temor de que, algum dia, o mercado das areias seja ocupado por empresas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/criatividade-de-ambulantes-e-tema-de-exposicao-fotografica-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 A criatividade e a força de trabalhadores ambulantes das praias do Rio de Janeiro são retratados em uma exposição fo...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-08 15:31:00</wp:post_date>
       <wp:post_date_gmt>2026-08-08 15:31:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-08 15:31:00</wp:post_modified>
@@ -307,9 +357,9 @@ A criatividade e a força de trabalhadores ambulantes das praias do Rio de Janei
     <item>
       <title>Paulistanos enfrentam filas para tomar vacina contra sarampo</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/paulistanos-enfrentam-filas-para-tomar-vacina-contra-sarampo</link>
-      <pubDate>Sun, 09 Aug 2026 10:24:29 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 11:21:56 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/paulistanos-enfrentam-filas-para-tomar-vacina-contra-sarampo#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/paulistanos-enfrentam-filas-para-tomar-vacina-contra-sarampo#1007</guid>
       <description>© Bruno Bocchini/Agência Brasil
 Os paulistanos que buscaram se imunizar contra o sarampo neste sábado (8), na capital paulista, encontraram filas gra...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wWqZXDBV90b4-bP4UXu18Eyh57k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/posto_agua_rasa2.jpg?itok=YYULpYPd&quot; alt=&quot;Paulistanos enfrentam filas para tomar vacina contra sarampo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -330,7 +380,7 @@ Os paulistanos que buscaram se imunizar contra o sarampo neste sábado (8), na c
 &lt;p&gt;A Secretaria estadual convoca moradores da capital paulista, de Guarulhos e de São Bernardo do Campo – com idadea partir de 6 meses até 59 anos – para tomar a vacina contra a doença,independentemente do histórico vacinal, desde que não apresentem contraindicações.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/paulistanos-enfrentam-filas-para-tomar-vacina-contra-sarampo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Bruno Bocchini/Agência Brasil
 Os paulistanos que buscaram se imunizar contra o sarampo neste sábado (8), na capital paulista, encontraram filas gra...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-08 15:11:00</wp:post_date>
       <wp:post_date_gmt>2026-08-08 15:11:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-08 15:11:00</wp:post_modified>
@@ -356,9 +406,9 @@ Os paulistanos que buscaram se imunizar contra o sarampo neste sábado (8), na c
     <item>
       <title>Grande Muralha Verde restaura 1,66 milhão de hectares na África</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/grande-muralha-verde-restaura-166-milhao-de-hectares</link>
-      <pubDate>Sun, 09 Aug 2026 10:24:29 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 11:21:56 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/grande-muralha-verde-restaura-166-milhao-de-hectares#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/grande-muralha-verde-restaura-166-milhao-de-hectares#1008</guid>
       <description>Cerca de 1,66 milhão de hectares estão em processo de restauração no Sahel, região africana entre o deserto do Saara e a savana do Sudão. O resultado...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/bn7LiAChtoO8JIk2NB6hn7s133M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/mulheres_beneficiadas_pelos_processos_de_restauracao_da_terra_em_burkina_faso.jpg?itok=Dv4p0iMk&quot; alt=&quot;Grande Muralha Verde restaura 1,66 milhão de hectares na África&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Cerca de 1,66 milhão de hectares estão em processo de restauração no Sahel, região africana entre o deserto do Saara e a savana do Sudão. O resultado representa a principal conquista da iniciativa Acelerador da Grande Muralha Verde, que completou cinco anos e teve relatório apresentado nesta semana pela&lt;/p&gt;
@@ -377,7 +427,7 @@ Os paulistanos que buscaram se imunizar contra o sarampo neste sábado (8), na c
 &lt;p&gt;O Acelerador foi lançado após a Cúpula One Planet, em 2021, quando parceiros técnicos e financeiros anunciaram mais de US$ 19 bilhões em compromissos para a Grande Muralha Verde.&lt;/p&gt;
 &lt;p&gt;A iniciativa passou a funcionar como uma estrutura para coordenar os esforços, acompanhar os recursos e fortalecer a capacidade dos países de demonstrar os resultados obtidos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/grande-muralha-verde-restaura-166-milhao-de-hectares&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Cerca de 1,66 milhão de hectares estão em processo de restauração no Sahel, região africana entre o deserto do Saara e a savana do Sudão. O resultado...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-08 14:52:00</wp:post_date>
       <wp:post_date_gmt>2026-08-08 14:52:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-08 14:52:00</wp:post_modified>
@@ -403,9 +453,9 @@ Os paulistanos que buscaram se imunizar contra o sarampo neste sábado (8), na c
     <item>
       <title>Lula quer mostrar a Trump números de queda do desmatamento na Amazônia</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-quer-mostrar-trump-numeros-de-queda-do-desmatamento-na-amazonia</link>
-      <pubDate>Sun, 09 Aug 2026 10:24:29 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 11:21:56 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-quer-mostrar-trump-numeros-de-queda-do-desmatamento-na-amazonia#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-quer-mostrar-trump-numeros-de-queda-do-desmatamento-na-amazonia#1009</guid>
       <description>© REUTERS/Adriano Machado/Proibida reprodução
 O presidente Luiz Inácio Lula da Silva disse, neste sábado (8) em São Paulo, que vai enviar ao presiden...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/G69Iji0yCYGksOnfXMzjdeH5b0s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/05/2026-07-31t030944z_575812914_rc26jma8ll9l_rtrmadp_3_brazil-election-lula.jpg?itok=pTiFuUGv&quot; alt=&quot;Lula quer mostrar a Trump números de queda do desmatamento na Amazônia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -424,7 +474,7 @@ O presidente Luiz Inácio Lula da Silva disse, neste sábado (8) em São Paulo, 
 &lt;p&gt;Teerã diz que reabrirá Ormuz quando Estados Unidos aceitarem condições&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-quer-mostrar-trump-numeros-de-queda-do-desmatamento-na-amazonia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Adriano Machado/Proibida reprodução
 O presidente Luiz Inácio Lula da Silva disse, neste sábado (8) em São Paulo, que vai enviar ao presiden...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-08 14:46:00</wp:post_date>
       <wp:post_date_gmt>2026-08-08 14:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-08 14:46:00</wp:post_modified>
@@ -445,55 +495,6 @@ O presidente Luiz Inácio Lula da Silva disse, neste sábado (8) em São Paulo, 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/G69Iji0yCYGksOnfXMzjdeH5b0s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/05/2026-07-31t030944z_575812914_rc26jma8ll9l_rtrmadp_3_brazil-election-lula.jpg?itok=pTiFuUGv</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Agosto terá dois eclipses; saiba como assistir aos fenômenos</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/agosto-tera-dois-eclipses-saiba-como-assistir-aos-fenomenos</link>
-      <pubDate>Sun, 09 Aug 2026 10:24:29 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/agosto-tera-dois-eclipses-saiba-como-assistir-aos-fenomenos#1009</guid>
-      <description>© Fernando Frazão/Agência Brasil
-O mês de agosto traz dois fenômenos astronômicos que podem ser vistos a olho nu de diversas partes do mundo. Um ecli...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WobHMaRzns20nr7YhDNx1M9Jl4Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1098823-ffraz_abr_112320175541_1.jpg?itok=SRsFiUWb&quot; alt=&quot;Agosto terá dois eclipses; saiba como assistir aos fenômenos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O mês de agosto traz dois fenômenos astronômicos que podem ser vistos a olho nu de diversas partes do mundo. Um eclipse solar total no hemisfério norte, e um eclipse lunar quase completo para alguns países das Américas, Europa e África, entre eles, o Brasil.&lt;/p&gt;
-&lt;p&gt;O eclipse lunar está previsto para a madrugada do dia 28 de agosto, com início às 23h30 (horário de Brasília)do dia 27 e com auge previsto para 1h do dia 28.&lt;/p&gt;
-&lt;p&gt;Será possível avistar o fenômeno de todos os estados do país, e a previsão é de que até 95% da lua fique avermelhada.&lt;/p&gt;
-&lt;p&gt;Josina Nascimento, astrônoma do Observatório Nacional, explica que o plano de órbita da Lua em volta da Terra é inclinado a 5 graus, e o eclipse acontece quando esses dois corpos celestes se alinham diretamente com o Sol.&lt;/p&gt;
-&lt;p&gt;“Na Lua cheia você tem, nessa ordem, o Sol, a Terra e a Lua. E aí, o Sol batendo na Terra forma essa sombra no espaço, e quando a Lua entra nessa sombra, é que acontece o eclipse”, explicou.&lt;/p&gt;
-&lt;p&gt;Já o eclipse solar, previsto para o dia 12, poderá ser observado na sua totalidade por países como Espanha, Portugal, Rússia, Islândia e Groenlândia. E parcialmente em outras áreas do hemisfério norte, e também no norte do continente africano.&lt;/p&gt;
-&lt;p&gt;“Já aqui você tem Sol, Lua e Terra, e a sombra da Lua vai fazer um caminho pela Terra. Só quem está neste caminho é que vê o eclipse do Sol. Esse caminho é um caminho de 300 quilômetros de largura”, disse.&lt;/p&gt;
-&lt;p&gt;Para assistir ao eclipse lunar que vai passar pelo Brasil não é preciso nenhum tipo de óculos ou técnica especial. Basta escolher um lugar aberto, com uma visão limpa para a lua e de preferência com pouca interferência de luz artificial.&lt;/p&gt;
-&lt;p&gt;Já para o eclipse solar, só é possível fazer a observação com óculos especiais certificados com a norma ISO 12312-2, ou máscaras com vidro de soldador número 14.&lt;/p&gt;
-&lt;p&gt;Olhar diretamente sem proteção traz riscos sérios à visão e pode causar cegueira.&lt;/p&gt;
-&lt;p&gt;O eclipse solar total é resultado de uma coincidência cósmica, já que embora o Sol seja cerca de 400 vezes maior que a Lua, também está 400 vezes mais distante, o que faz com que o Sol e a Lua pareçam ter praticamente o mesmo tamanho.&lt;/p&gt;
-&lt;p&gt;Um eclipse solar acontece sempre na Lua Nova, bloqueando pelo menos parte da luz e criando a projeção de uma sombra. A pesquisadora do Observatório Nacional conta que, diferentemente do eclipse lunar, que fica visível para todos na metade da Terra onde é noite, o solar tem uma distância mais reduzida.&lt;/p&gt;
-&lt;p&gt;Fora do ponto que ele abrange, mesmo sendo total, ele se torna um eclipse anular, o que significa que a Lua não cobre o Sol por completo criando um anel de luz em volta.&lt;/p&gt;
-&lt;p&gt;O eclipse lunar só acontece durante a Lua Cheia, e pode vir de três formas diferentes: total, parcial e penumbral. Quando a luz do Sol bate na Terra, cria dois tipos de sombras, a umbra (sombra mais escura) e a penumbra (uma sombra mais branda).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/agosto-tera-dois-eclipses-saiba-como-assistir-aos-fenomenos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fernando Frazão/Agência Brasil
-O mês de agosto traz dois fenômenos astronômicos que podem ser vistos a olho nu de diversas partes do mundo. Um ecli...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-08 14:43:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-08 14:43:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-08 14:43:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-08 14:43:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/WobHMaRzns20nr7YhDNx1M9Jl4Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1098823-ffraz_abr_112320175541_1.jpg?itok=SRsFiUWb</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
