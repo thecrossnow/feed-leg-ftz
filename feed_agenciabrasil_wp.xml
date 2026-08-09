@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
+    <pubDate>Sun, 09 Aug 2026 18:28:11 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,30 +22,76 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Avanço da IA corrói financiamento do jornalismo profissional no Brasil</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil</link>
+      <pubDate>Sun, 09 Aug 2026 18:28:11 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil#1000</guid>
+      <description>© REUTERS/Dado Ruvic/Ilustração/Proibida reprodução
+O avanço da Inteligência Artificial (IA) por meio dos resumos que buscadores oferecem na internet...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/allVjcdM20PQKavpVjlyheEun0E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/07/captura_de_tela_2026-08-07_as_16.57.38.jpg?itok=U_XCtK3c&quot; alt=&quot;Avanço da IA corrói financiamento do jornalismo profissional no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS/Dado Ruvic/Ilustração/Proibida reprodução&lt;/p&gt;
+&lt;p&gt;O avanço da Inteligência Artificial (IA) por meio dos resumos que buscadores oferecem na internet vem derrubando o tráfego direto de internautas em&lt;/p&gt;
+&lt;p&gt;jornalísticos, prejudicando o financiamento do jornalismo profissional no Brasil.Isso ocorre porque parte dos usuários tem deixado de clicar nos&lt;/p&gt;
+&lt;p&gt;, restringindo a pesquisa aos resumos das IAs.&lt;/p&gt;
+&lt;p&gt;Essa mudança vem ganhando força, principalmente, a partir de maio de 2024 com o AI Overviews do Google (resumos gerados por IA, em português). Segundo especialistas,&lt;/p&gt;
+&lt;p&gt;a novidade tem ainda o potencial de prejudicar a integridade da informação que circula no país em meio àproliferação das&lt;/p&gt;
+&lt;p&gt;impulsionadas pelas mesmas plataformas por trás das IAs que dominam o mercado.&lt;/p&gt;
+&lt;p&gt;projeto de lei(PL 2338 de 2023)&lt;/p&gt;
+&lt;p&gt;em tramitação na Câmara, o Marco Regulatório da IA,&lt;/p&gt;
+&lt;p&gt;prevê que as plataformas digitais paguem pelos direitos autorais das obras e reportagens usadas pela tecnologia&lt;/p&gt;
+&lt;p&gt;, o que poderia fortalecer o jornalismo profissional frente àcrise no setor.&lt;/p&gt;
+&lt;p&gt;o tema não avançou no último semestre&lt;/p&gt;
+&lt;p&gt;, apesar da prioridade anunciada ao projeto pelo presidente da Câmara, deputado Hugo Motta (Republicanos-PB).&lt;/p&gt;
+&lt;p&gt;A Associação de Jornalismo Digital (Ajor), que presta assessoria a 152 veículos&lt;/p&gt;
+&lt;p&gt;no Brasil, aponta que um de cada quatro desses portais de notícias perdeu, em 2025, mais de 20% da audiência.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS/Dado Ruvic/Ilustração/Proibida reprodução
+O avanço da Inteligência Artificial (IA) por meio dos resumos que buscadores oferecem na internet...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-09 14:30:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-09 14:30:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-09 14:30:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-09 14:30:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/allVjcdM20PQKavpVjlyheEun0E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/07/captura_de_tela_2026-08-07_as_16.57.38.jpg?itok=U_XCtK3c</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo</link>
-      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 18:28:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo#1001</guid>
       <description>Com possibilidade de rajadas de vento pontuais com até 75,9 quilômetros por hora (km/h), a Defesa Civil emitiu um alerta neste domingo (9) para a pop...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/afkSyIoW62BPWhnlksfGfdWuqtY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/07/img_9632.jpg?itok=8GduIvgz&quot; alt=&quot;Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Com possibilidade de rajadas de vento pontuais com até 75,9 quilômetros por hora (km/h), a Defesa Civil emitiu um alerta neste domingo (9) para a população da cidade do Rio de Janeiro.&lt;/p&gt;
 &lt;p&gt;A previsão meteorológica para a capital carioca é de céu parcialmente nublado passando a nublado ao longo do dia, com chuvas fracas e isoladas nos períodos da tarde e noite.&lt;/p&gt;
 &lt;p&gt;A aproximação e passagem de uma nova frente fria vai influenciar o tempo no Rio.&lt;/p&gt;
 &lt;p&gt;A temperatura máxima prevista é de 35 graus Celsius (°C), e deverá cair a partir de segunda-feira (10).&lt;/p&gt;
-&lt;p&gt;A recomendação das autoridades é para que as pessoas evitem se abrigar em baixo de árvores ou coberturas metálicas durante possíveis vendavais&lt;/p&gt;
+&lt;p&gt;A recomendação das autoridades é para que as pessoas evitem se abrigar embaixo de árvores ou coberturas metálicas durante possíveis vendavais&lt;/p&gt;
 &lt;p&gt;e que não estacionem em locais próximos a torres de transmissão.&lt;/p&gt;
 &lt;p&gt;Outra orientação é no sentido de evitar permanecer em lugares altos e sem proteção, ou se deslocar durante as rajadas de vento.&lt;/p&gt;
 &lt;p&gt;Dentro de casa, a Defesa Civil recomenda que a população feche portas e janelas, além de persianas e cortinas para prevenir que estilhaços se espalhem em caso de quebra de vidro pela ventania.&lt;/p&gt;
 &lt;p&gt;Objetos em locais altos também podem cair com os ventos.&lt;/p&gt;
 &lt;p&gt;Se houver falta de energia elétrica, é preciso ter cuidado com uso de velas para se evitar incêndios.&lt;/p&gt;
-&lt;p&gt;Na relação entre pais e filhos, exemplo é lição silenciosa e constante&lt;/p&gt;
-&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
-&lt;p&gt;Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo&lt;/p&gt;
-&lt;p&gt;Justiça abriu as urnas diante da população, diz Nunes Marques&lt;/p&gt;
-&lt;p&gt;Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Bahia e Vasco se enfrentam pela 22ª rodada do Campeonato Brasileiro&lt;/p&gt;
+&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Com possibilidade de rajadas de vento pontuais com até 75,9 quilômetros por hora (km/h), a Defesa Civil emitiu um alerta neste domingo (9) para a pop...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-08-09 13:32:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 13:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 13:32:00</wp:post_modified>
@@ -71,9 +117,9 @@
     <item>
       <title>Justiça abriu as urnas diante da população, diz Nunes Marques</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques</link>
-      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 18:28:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques#1002</guid>
       <description>O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, voltou a defender a confiabilidade do sistema eletrônico de votação do Brasi...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MGjLzds4IA26sdUaIK_bH27KykQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/09/55452956875_b67ec180a2_o.jpg?itok=e2zD3o0U&quot; alt=&quot;Justiça abriu as urnas diante da população, diz Nunes Marques&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, voltou a defender a confiabilidade do sistema eletrônico de votação do Brasil e destacou as iniciativas da Justiça para fortalecer o processo democrático.&lt;/p&gt;
@@ -92,7 +138,7 @@
 &lt;p&gt;O primeiro turno do será realizado no dia 4 de outubro,&lt;/p&gt;
 &lt;p&gt;quando serão eleitos deputados federais, estaduais, distritais, governadores, senadores e o presidente da República.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, voltou a defender a confiabilidade do sistema eletrônico de votação do Brasi...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-09 12:45:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 12:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 12:45:00</wp:post_modified>
@@ -118,9 +164,9 @@
     <item>
       <title>Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena</link>
-      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 18:28:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena#1003</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as seis dezenas da Mega-Sena e vai recebe...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZknnHaJ1JX0ZFgm3I3cbvuQ5tQg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182751.jpg?itok=QnjfS3G4&quot; alt=&quot;Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -131,17 +177,17 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
 &lt;p&gt;Outras 13.158 apostas acertaram quatro dezenas sorteadas e receberão R$ 706,56 cada.&lt;/p&gt;
 &lt;p&gt;O próximo sorteio da Mega-Sena será na terça-feira (11) e tem prêmio estimado em R$ 3,5 milhões.A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
 &lt;p&gt;Clique aqui e saiba mais sobre os sorteios da Caixa&lt;/p&gt;
-&lt;p&gt;Na relação entre pais e filhos, exemplo é lição silenciosa e constante&lt;/p&gt;
+&lt;p&gt;Vítimas colombianas de acidente com helicóptero eram da mesma família&lt;/p&gt;
 &lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
+&lt;p&gt;Tufão Dolphin atinge costa leste da China&lt;/p&gt;
+&lt;p&gt;Em meio à crise, Fifa alerta para tentativas de minar Gianni Infantino&lt;/p&gt;
+&lt;p&gt;Avanço da IA corrói financiamento do jornalismo profissional no Brasil&lt;/p&gt;
 &lt;p&gt;Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo&lt;/p&gt;
 &lt;p&gt;Justiça abriu as urnas diante da população, diz Nunes Marques&lt;/p&gt;
-&lt;p&gt;Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena&lt;/p&gt;
-&lt;p&gt;Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades&lt;/p&gt;
-&lt;p&gt;Redes sociais ajudam a despertar interesse por livros, diz escritora&lt;/p&gt;
-&lt;p&gt;Jovens negrosdo Rio e da Bahiarecebem bolsa para estudar no exterior&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as seis dezenas da Mega-Sena e vai recebe...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-09 12:30:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 12:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 12:30:00</wp:post_modified>
@@ -167,9 +213,9 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
     <item>
       <title>Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades</link>
-      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 18:28:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades#1004</guid>
       <description>A Defesa Civil do Rio Grande do Sul atualizou para 2.686 o número de pessoas desalojadas no estado em decorrência de uma linha de instabilidade assoc...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zmw2gWjsPvRQhN-r_1j-mfAQLuM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/08/captura_de_tela_2025-11-08_as_17.15.18.jpg?itok=pD1v7f5t&quot; alt=&quot;Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Defesa Civil do Rio Grande do Sul atualizou para 2.686 o número de pessoas desalojadas no estado em decorrência de uma linha de instabilidade associada à uma frente fria, que causou fortes tempestades na região,&lt;/p&gt;
@@ -183,9 +229,12 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
 &lt;p&gt;Entre as localidades mais atingidas, está o município de Minas do Leão, com 500 desalojados, ou seja, pessoas que tiveram que sair de suas casas para a casa de amigos ou parentes. Apenas uma pessoa, em Montenegro, ficou desabrigada e necessitou de acolhimento pelo poder público.&lt;/p&gt;
 &lt;p&gt;Em Novo Hamburgo, são 480 desalojados, seguido de Sapiranga, com 360.&lt;/p&gt;
 &lt;p&gt;Na relação entre pais e filhos, exemplo é lição silenciosa e constante&lt;/p&gt;
-&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
+&lt;p&gt;Tufão Dolphin atinge costa leste da China&lt;/p&gt;
+&lt;p&gt;Em meio à crise, Fifa alerta para tentativas de minar Gianni Infantino&lt;/p&gt;
+&lt;p&gt;Avanço da IA corrói financiamento do jornalismo profissional no Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Defesa Civil do Rio Grande do Sul atualizou para 2.686 o número de pessoas desalojadas no estado em decorrência de uma linha de instabilidade assoc...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-09 11:49:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 11:49:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 11:49:00</wp:post_modified>
@@ -211,9 +260,9 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
     <item>
       <title>Redes sociais ajudam a despertar interesse por livros, diz escritora</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/redes-sociais-ajudam-despertar-interesse-por-livros-diz-escritora</link>
-      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 18:28:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/redes-sociais-ajudam-despertar-interesse-por-livros-diz-escritora#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/redes-sociais-ajudam-despertar-interesse-por-livros-diz-escritora#1005</guid>
       <description>Centenas de pessoas se reuniram no histórico Largo do Pelourinho, em Salvador, em pleno sábado à noite, para ouvir uma das autoras mais lidas do país...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1F6iDnaNZiNGGfybt6BOPX8U7O0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/09/0g0a8699.jpg?itok=Ylz5vJpd&quot; alt=&quot;Redes sociais ajudam a despertar interesse por livros, diz escritora&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Centenas de pessoas se reuniram no histórico Largo do Pelourinho, em Salvador, em pleno sábado à noite, para ouvir uma das autoras mais lidas do país. Convidada da Festa Literária Internacional do Pelourinho (Flipelô), a escritora mineira Carla Madeira — voz por trás de obras como&lt;/p&gt;
@@ -232,7 +281,7 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
 &lt;p&gt;A obra aborda a história de uma mãe que denuncia seu próprio filho à polícia e foi escrita no momento em que Carla Madeira vivenciava três lutos em sequência: a morte de sua mãe, de seu psicanalista e de sua sócia.&lt;/p&gt;
 &lt;p&gt;começou muito caoticamente. Não tem nada a ver com essa história, com esse luto, eu não faço autoficção. Mas nesse período eu comecei a ler e comecei a querer uma linguagem para dar conta do real. Acho que toda emoção está no corpo. Todo corpo afetado, perturbado, ele quer buscar retornar um estado de equilíbrio, de regularidade. Então, qual é o recurso que ele tem? A linguagem. A gente vai lá na linguagem para reorganizar o corpo”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/redes-sociais-ajudam-despertar-interesse-por-livros-diz-escritora&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Centenas de pessoas se reuniram no histórico Largo do Pelourinho, em Salvador, em pleno sábado à noite, para ouvir uma das autoras mais lidas do país...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-09 11:35:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 11:35:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 11:35:00</wp:post_modified>
@@ -258,9 +307,9 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
     <item>
       <title>Jovens negrosdo Rio e da Bahiarecebem bolsa para estudar no exterior</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior</link>
-      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 18:28:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior#1006</guid>
       <description>Estudar no exterior é a vontade de muitas pessoas ao longo da vida. Cursar a graduação em outro país permite não só acessar ambientes de excelência a...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/o6c539PGgOz9QsI6HnAqmwLo2uU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/06/whatsapp_image_2026-08-06_at_17.22.07_1.jpeg?itok=LwNVKWYI&quot; alt=&quot;Jovens negrosdo Rio e da Bahiarecebem bolsa para estudar no exterior&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Estudar no exterior é a vontade de muitas pessoas ao longo da vida. Cursar a graduação em outro país permite não só acessar ambientes de excelência acadêmica global, mas também construir conexões culturais. Mas se o processo de aprovação já apresenta desafios robustos, fica ainda mais difícil ter os recursos necessários para permanecer nesses espaços.&lt;/p&gt;
@@ -279,7 +328,7 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
 &lt;p&gt;Sem recursos financeiros para contratar um cuidador e diante do alto custo dos remédios, Caio precisou começar a trabalhar em 2022 para ajudar no sustento da casa.&lt;/p&gt;
 &lt;p&gt;Essa nova rotina prejudicou a entrada no ensino superior. Apesar das dificuldades, ele conta que busca não se limitar. Essa determinação é o impulso para procurar alternativas internacionais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Estudar no exterior é a vontade de muitas pessoas ao longo da vida. Cursar a graduação em outro país permite não só acessar ambientes de excelência a...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-09 10:45:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 10:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 10:45:00</wp:post_modified>
@@ -305,9 +354,9 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
     <item>
       <title>Pais estão menos presentes na criação de filhos, aponta estudo</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pais-estao-menos-presentes-na-criacao-de-filhos-aponta-estudo</link>
-      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 18:28:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pais-estao-menos-presentes-na-criacao-de-filhos-aponta-estudo#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pais-estao-menos-presentes-na-criacao-de-filhos-aponta-estudo#1007</guid>
       <description>Metade dos brasileiros acredita que os pais da atualidade estão menos presentes na criação dos filhos do que os das gerações anteriores. Em contrapar...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YomPbuoR4_cVWUiipR2NotyVHAI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/193222-3.jpg?itok=O7qwGE9l&quot; alt=&quot;Pais estão menos presentes na criação de filhos, aponta estudo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Metade dos brasileiros acredita que os pais da atualidade estão menos presentes na criação dos filhos do que os das gerações anteriores. Em contrapartida, oito em cada dez brasileiros consideram alta ou muito alta a importância dos pais na vida dos filhos.&lt;/p&gt;
@@ -322,11 +371,11 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
 &lt;p&gt;&quot;O brasileiro já consolidou a ideia de que o bom pai é aquele presente no dia a dia, deixando para trás a figura do mero provedor financeiro. O desafio agora está na prática&quot;, avalia Marcelo Tokarski, CEO da Nexus.&lt;/p&gt;
 &lt;p&gt;&quot;O fato de metade da população enxergar os pais de hoje como menos participativos do que os do passado mostra que o discurso avançou mais rápido do que a mudança real de comportamento dentro de casa”, acrescenta.&lt;/p&gt;
 &lt;p&gt;* Estagiário sob supervisão de Odair Braz Junior&lt;/p&gt;
-&lt;p&gt;Na relação entre pais e filhos, exemplo é lição silenciosa e constante&lt;/p&gt;
+&lt;p&gt;Bahia e Vasco se enfrentam pela 22ª rodada do Campeonato Brasileiro&lt;/p&gt;
 &lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
-&lt;p&gt;Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pais-estao-menos-presentes-na-criacao-de-filhos-aponta-estudo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Em meio à crise, Fifa alerta para tentativas de minar Gianni Infantino&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pais-estao-menos-presentes-na-criacao-de-filhos-aponta-estudo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Metade dos brasileiros acredita que os pais da atualidade estão menos presentes na criação dos filhos do que os das gerações anteriores. Em contrapar...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-09 09:46:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 09:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 09:46:00</wp:post_modified>
@@ -352,9 +401,9 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
     <item>
       <title>Polícia registrou 783 mil atendimentos especializados à mulher em 2025</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/policia-registrou-783-mil-atendimentos-especializados-mulher-em-2025</link>
-      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 18:28:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/policia-registrou-783-mil-atendimentos-especializados-mulher-em-2025#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/policia-registrou-783-mil-atendimentos-especializados-mulher-em-2025#1008</guid>
       <description>As unidades especializadas no Atendimento à Mulher da Polícia Civil de todo o país realizaram 782.474 atendimentos no ano de 2025, incluindo ocorrênc...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/nQQxVAGOTVrnTh1jH_UfRV7bKxA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/912291-agencia%20brasil_ligue%20180_5457.jpg?itok=qnpVUicq&quot; alt=&quot;Polícia registrou 783 mil atendimentos especializados à mulher em 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;As unidades especializadas no Atendimento à Mulher da Polícia Civil de todo o país realizaram 782.474 atendimentos no ano de 2025, incluindo ocorrências de ameaça, lesão corporal, injúria, importunação sexual, estupro e feminicídio, entre outras.&lt;/p&gt;
@@ -373,7 +422,7 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
 &lt;p&gt;O diagnóstico, contudo. aponta desafios, como o fato de 80% dessas unidades ainda não funcionarem24 horas.&lt;/p&gt;
 &lt;p&gt;Entre as principais carências, o estudo identificou ainda a insuficiência de recursos de investigação, mencionada por 57% das unidades, a falta de viaturas, citada por 46%, e a falta de material de menor potencial ofensivo (40%).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/policia-registrou-783-mil-atendimentos-especializados-mulher-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>As unidades especializadas no Atendimento à Mulher da Polícia Civil de todo o país realizaram 782.474 atendimentos no ano de 2025, incluindo ocorrênc...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-09 08:40:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 08:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 08:40:00</wp:post_modified>
@@ -399,9 +448,9 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
     <item>
       <title>Dia dos pais: combate à misoginia começa pelo exemplo em casa</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/dia-dos-pais-combate-misoginia-comeca-pelo-exemplo-em-casa</link>
-      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 18:28:11 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/dia-dos-pais-combate-misoginia-comeca-pelo-exemplo-em-casa#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/dia-dos-pais-combate-misoginia-comeca-pelo-exemplo-em-casa#1009</guid>
       <description>Do gol a gol para o pique-pega. Do esconde-esconde ao skate, depois para o balançoe, em seguida, para a queimada. “Samuca, vem almoçar!”, alguém grit...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LQfE0QKQdIUefjMF1qieY1JIfRA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/papicast_-_integrantes.png?itok=I59pw11b&quot; alt=&quot;Dia dos pais: combate à misoginia começa pelo exemplo em casa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Do gol a gol para o pique-pega. Do esconde-esconde ao skate, depois para o balançoe, em seguida, para a queimada. “Samuca, vem almoçar!”, alguém grita. “Só mais um pouco”, responde o menino, de 8 anos. Mais corrida, pique-bandeirinha e começa tudo de novo. O menino não se cansa, enquanto vive a pureza e a velocidade da infância. Só parou um dia das férias para levar um papo mais sério com o pai.&lt;/p&gt;
@@ -420,7 +469,7 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
 &lt;p&gt;Para Bárbara, é muito importante que os homens saibam, na vida adulta, identificar e falar sobre as suas dores para que possam transmitir as melhores mensagens aos filhos, de forma que estejam abertos ao diálogo, à transparência e à conexão.&lt;/p&gt;
 &lt;p&gt;“É importante observar que garotos em idade de adolescência têm as próprias dores e, eventualmente, relatam algum tipo de negligência afetiva ou social por não se sentirem compreendidos”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/dia-dos-pais-combate-misoginia-comeca-pelo-exemplo-em-casa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Do gol a gol para o pique-pega. Do esconde-esconde ao skate, depois para o balançoe, em seguida, para a queimada. “Samuca, vem almoçar!”, alguém grit...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-09 08:12:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 08:12:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 08:12:00</wp:post_modified>
@@ -441,55 +490,6 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/LQfE0QKQdIUefjMF1qieY1JIfRA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/papicast_-_integrantes.png?itok=I59pw11b</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Rádio Nacional homenageia Dia Internacional dos Povos Indígenas</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas</link>
-      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas#1009</guid>
-      <description>Para celebrar o Dia Internacional dos Povos Indígenas, comemorado em 9 de agosto, o programa
-leva ao ar neste domingo (9), às 9h, presta uma homenage...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/-BUrfHPXCQwIlm2l4P8P9arqdK8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/17/_mg_9044.jpg?itok=geBoqprO&quot; alt=&quot;Rádio Nacional homenageia Dia Internacional dos Povos Indígenas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Para celebrar o Dia Internacional dos Povos Indígenas, comemorado em 9 de agosto, o programa&lt;/p&gt;
-&lt;p&gt;leva ao ar neste domingo (9), às 9h, presta uma homenagem às raízes e à espiritualidade dos povos originários da Amazônia.&lt;/p&gt;
-&lt;p&gt;Apresentada por Mara Régia, a edição conta a trajetória de Dona Raimunda,&lt;/p&gt;
-&lt;p&gt;personagem de profunda devoção popular nos seringais do Acre&lt;/p&gt;
-&lt;p&gt;, reconhecida por suas origens indígenas e reverenciada como símbolo de proteção às mulheres vítimas de violência.&lt;/p&gt;
-&lt;p&gt;Um dos destaques do programa é o lançamento do livro&lt;/p&gt;
-&lt;p&gt;Espaços de Peregrinação: a devoção nas estradas da seringa&lt;/p&gt;
-&lt;p&gt;, obra que reúne histórias e memórias construídas a partir da convivência com as comunidades da Reserva Extrativista Chico Mendes.&lt;/p&gt;
-&lt;p&gt;O tema reforça a importância da preservação das tradições culturais e religiosas presentes nos territórios amazônicos.&lt;/p&gt;
-&lt;p&gt;A atração também aborda outras iniciativas relacionadas ao Dia Internacional dos Povos Indígenas, ampliando o debate sobre a valorização dos saberes, da cultura e da contribuição dos povos originários para a proteção da Amazônia.&lt;/p&gt;
-&lt;p&gt;abre espaço para discussões com lideranças rurais da Amazônia, como ribeirinhos, pescadores, seringueiros, quebradeiras de coco babaçu, trabalhadores extrativistas, indígenas, além de associações de jovens e de mulheres&lt;/p&gt;
-&lt;p&gt;. Apresentado e produzido por Mara Régia, a atração radiofônica também divulga dicas para preservação do meio ambiente.&lt;/p&gt;
-&lt;p&gt;vai ao ar aos domingos, às 9h, pela&lt;/p&gt;
-&lt;p&gt;Rádio Nacional do Alto Solimões&lt;/p&gt;
-&lt;p&gt;e emissoras parceiras que retransmitem a programação.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Para celebrar o Dia Internacional dos Povos Indígenas, comemorado em 9 de agosto, o programa
-leva ao ar neste domingo (9), às 9h, presta uma homenage...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-09 07:00:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-09 07:00:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-09 07:00:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-09 07:00:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/-BUrfHPXCQwIlm2l4P8P9arqdK8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/17/_mg_9044.jpg?itok=geBoqprO</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
