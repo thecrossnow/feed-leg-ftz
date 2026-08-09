@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 09 Aug 2026 16:24:46 +0000</pubDate>
+    <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,105 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo</link>
+      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo#1000</guid>
+      <description>Com possibilidade de rajadas de vento pontuais com até 75,9 quilômetros por hora (km/h), a Defesa Civil emitiu um alerta neste domingo (9) para a pop...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/afkSyIoW62BPWhnlksfGfdWuqtY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/07/img_9632.jpg?itok=8GduIvgz&quot; alt=&quot;Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Com possibilidade de rajadas de vento pontuais com até 75,9 quilômetros por hora (km/h), a Defesa Civil emitiu um alerta neste domingo (9) para a população da cidade do Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;A previsão meteorológica para a capital carioca é de céu parcialmente nublado passando a nublado ao longo do dia, com chuvas fracas e isoladas nos períodos da tarde e noite.&lt;/p&gt;
+&lt;p&gt;A aproximação e passagem de uma nova frente fria vai influenciar o tempo no Rio.&lt;/p&gt;
+&lt;p&gt;A temperatura máxima prevista é de 35 graus Celsius (°C), e deverá cair a partir de segunda-feira (10).&lt;/p&gt;
+&lt;p&gt;A recomendação das autoridades é para que as pessoas evitem se abrigar em baixo de árvores ou coberturas metálicas durante possíveis vendavais&lt;/p&gt;
+&lt;p&gt;e que não estacionem em locais próximos a torres de transmissão.&lt;/p&gt;
+&lt;p&gt;Outra orientação é no sentido de evitar permanecer em lugares altos e sem proteção, ou se deslocar durante as rajadas de vento.&lt;/p&gt;
+&lt;p&gt;Dentro de casa, a Defesa Civil recomenda que a população feche portas e janelas, além de persianas e cortinas para prevenir que estilhaços se espalhem em caso de quebra de vidro pela ventania.&lt;/p&gt;
+&lt;p&gt;Objetos em locais altos também podem cair com os ventos.&lt;/p&gt;
+&lt;p&gt;Se houver falta de energia elétrica, é preciso ter cuidado com uso de velas para se evitar incêndios.&lt;/p&gt;
+&lt;p&gt;Na relação entre pais e filhos, exemplo é lição silenciosa e constante&lt;/p&gt;
+&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
+&lt;p&gt;Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo&lt;/p&gt;
+&lt;p&gt;Justiça abriu as urnas diante da população, diz Nunes Marques&lt;/p&gt;
+&lt;p&gt;Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Com possibilidade de rajadas de vento pontuais com até 75,9 quilômetros por hora (km/h), a Defesa Civil emitiu um alerta neste domingo (9) para a pop...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-09 13:32:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-09 13:32:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-09 13:32:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-09 13:32:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/afkSyIoW62BPWhnlksfGfdWuqtY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/07/img_9632.jpg?itok=8GduIvgz</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Justiça abriu as urnas diante da população, diz Nunes Marques</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques</link>
+      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques#1001</guid>
+      <description>O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, voltou a defender a confiabilidade do sistema eletrônico de votação do Brasi...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MGjLzds4IA26sdUaIK_bH27KykQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/09/55452956875_b67ec180a2_o.jpg?itok=e2zD3o0U&quot; alt=&quot;Justiça abriu as urnas diante da população, diz Nunes Marques&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, voltou a defender a confiabilidade do sistema eletrônico de votação do Brasil e destacou as iniciativas da Justiça para fortalecer o processo democrático.&lt;/p&gt;
+&lt;p&gt;O ministro discursou na abertura da Corrida pela Democracia, realizada pelo TSE no Autódromo Internacional Nelson Piquet, em Brasília, neste domingo (9). Ele citou o esforço do órgão em demonstrar como funciona a urna eletrônica por dentro, por meio de demonstrações públicas de desmonte do equipamento.&lt;/p&gt;
+&lt;p&gt;&quot;Durante toda essa semana, não só o TSE, como os 27 TREs [Tribunais Regionais Eleitorais], se empenharam, não só no desmonte de urnas, mas também na tentativa de dar transparência de como funciona todo o nosso processo de votação. Fizemos exposições, votações simuladas em&lt;/p&gt;
+&lt;p&gt;, escolas públicas, logradouros e eventos como a Rio Innovation Week&quot;, disse o ministro.&lt;/p&gt;
+&lt;p&gt;&quot;A Justiça Eleitoral abriu urnas diante da população de diversos estados para mostrar o que existe por trás do equipamento e explicar o caminho do voto. O TSE promoveu visitas ao Museu do Voto, exposições, simulações de votação, além de ações de acessibilidade e de combate à desinformação&quot;, acrescentou.&lt;/p&gt;
+&lt;p&gt;O evento deste domingo marcou o encerramento da Semana Nacional do Sistema Eletrônico de Votação&lt;/p&gt;
+&lt;p&gt;, que realizou ações para aproximar a sociedade da Justiça Eleitoral e ampliar o conhecimento sobre o funcionamento, a transparência, a segurança e a auditabilidade do processo eleitoral brasileiro.&lt;/p&gt;
+&lt;p&gt;No início da semana passada, com a retomada das sessões presenciais do TSE, Nunes Marques&lt;/p&gt;
+&lt;p&gt;já havia classificado a urna eletrônica brasileira&lt;/p&gt;
+&lt;p&gt;como &quot;patrimônio da democracia&quot;.&lt;/p&gt;
+&lt;p&gt;Na última sexta-feira (7), o TSE também instituiu o Conselho Consultivo sobre Integridade Informacional, com o&lt;/p&gt;
+&lt;p&gt;objetivo de monitorar o uso indevido&lt;/p&gt;
+&lt;p&gt;da inteligência artificial e a difusão de desinformação durante a campanha eleitoral. O grupo será responsável pelo assessoramento do presidente do tribunal nas ações para manter a normalidade do processo eleitoral.&lt;/p&gt;
+&lt;p&gt;O primeiro turno do será realizado no dia 4 de outubro,&lt;/p&gt;
+&lt;p&gt;quando serão eleitos deputados federais, estaduais, distritais, governadores, senadores e o presidente da República.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, voltou a defender a confiabilidade do sistema eletrônico de votação do Brasi...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-08-09 12:45:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-09 12:45:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-09 12:45:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-09 12:45:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/MGjLzds4IA26sdUaIK_bH27KykQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/09/55452956875_b67ec180a2_o.jpg?itok=e2zD3o0U</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena</link>
-      <pubDate>Sun, 09 Aug 2026 16:24:46 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena#1002</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as seis dezenas da Mega-Sena e vai recebe...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZknnHaJ1JX0ZFgm3I3cbvuQ5tQg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182751.jpg?itok=QnjfS3G4&quot; alt=&quot;Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -37,17 +131,17 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
 &lt;p&gt;Outras 13.158 apostas acertaram quatro dezenas sorteadas e receberão R$ 706,56 cada.&lt;/p&gt;
 &lt;p&gt;O próximo sorteio da Mega-Sena será na terça-feira (11) e tem prêmio estimado em R$ 3,5 milhões.A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
 &lt;p&gt;Clique aqui e saiba mais sobre os sorteios da Caixa&lt;/p&gt;
-&lt;p&gt;Busca pela demarcação de territórios marca luta indígena no Brasil&lt;/p&gt;
+&lt;p&gt;Na relação entre pais e filhos, exemplo é lição silenciosa e constante&lt;/p&gt;
 &lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
+&lt;p&gt;Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo&lt;/p&gt;
 &lt;p&gt;Justiça abriu as urnas diante da população, diz Nunes Marques&lt;/p&gt;
 &lt;p&gt;Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena&lt;/p&gt;
 &lt;p&gt;Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades&lt;/p&gt;
 &lt;p&gt;Redes sociais ajudam a despertar interesse por livros, diz escritora&lt;/p&gt;
-&lt;p&gt;Jovens negrosdo Rio e da Bahiarecebem bolsa para estudar no exterior&lt;/p&gt;
-&lt;p&gt;Pais estão menos presentes na criação de filhos, aponta estudo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Jovens negrosdo Rio e da Bahiarecebem bolsa para estudar no exterior&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as seis dezenas da Mega-Sena e vai recebe...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-09 12:30:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 12:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 12:30:00</wp:post_modified>
@@ -73,9 +167,9 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
     <item>
       <title>Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades</link>
-      <pubDate>Sun, 09 Aug 2026 16:24:46 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades#1003</guid>
       <description>A Defesa Civil do Rio Grande do Sul atualizou para 2.686 o número de pessoas desalojadas no estado em decorrência de uma linha de instabilidade assoc...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zmw2gWjsPvRQhN-r_1j-mfAQLuM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/08/captura_de_tela_2025-11-08_as_17.15.18.jpg?itok=pD1v7f5t&quot; alt=&quot;Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Defesa Civil do Rio Grande do Sul atualizou para 2.686 o número de pessoas desalojadas no estado em decorrência de uma linha de instabilidade associada à uma frente fria, que causou fortes tempestades na região,&lt;/p&gt;
@@ -88,13 +182,10 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
 &lt;p&gt;Um militar também foi atingido por um estilhaço enquanto estava dentro da viatura em atendimento, no município de Osório. E, em Dom Feliciano, outras três pessoas teriam sofrido ferimentos leves.&lt;/p&gt;
 &lt;p&gt;Entre as localidades mais atingidas, está o município de Minas do Leão, com 500 desalojados, ou seja, pessoas que tiveram que sair de suas casas para a casa de amigos ou parentes. Apenas uma pessoa, em Montenegro, ficou desabrigada e necessitou de acolhimento pelo poder público.&lt;/p&gt;
 &lt;p&gt;Em Novo Hamburgo, são 480 desalojados, seguido de Sapiranga, com 360.&lt;/p&gt;
-&lt;p&gt;Eleitores que moram no exterior podem solicitar voto em trânsito&lt;/p&gt;
-&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
-&lt;p&gt;Justiça abriu as urnas diante da população, diz Nunes Marques&lt;/p&gt;
-&lt;p&gt;Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena&lt;/p&gt;
-&lt;p&gt;Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Na relação entre pais e filhos, exemplo é lição silenciosa e constante&lt;/p&gt;
+&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Defesa Civil do Rio Grande do Sul atualizou para 2.686 o número de pessoas desalojadas no estado em decorrência de uma linha de instabilidade assoc...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-09 11:49:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 11:49:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 11:49:00</wp:post_modified>
@@ -120,15 +211,14 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
     <item>
       <title>Redes sociais ajudam a despertar interesse por livros, diz escritora</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/redes-sociais-ajudam-despertar-interesse-por-livros-diz-escritora</link>
-      <pubDate>Sun, 09 Aug 2026 16:24:46 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/redes-sociais-ajudam-despertar-interesse-por-livros-diz-escritora#1002</guid>
-      <description>, a escritora mineira Carla Madeira diz que “livro é uma ocasião de conversar”.
-Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópi...</description>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/redes-sociais-ajudam-despertar-interesse-por-livros-diz-escritora#1004</guid>
+      <description>Centenas de pessoas se reuniram no histórico Largo do Pelourinho, em Salvador, em pleno sábado à noite, para ouvir uma das autoras mais lidas do país...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1F6iDnaNZiNGGfybt6BOPX8U7O0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/09/0g0a8699.jpg?itok=Ylz5vJpd&quot; alt=&quot;Redes sociais ajudam a despertar interesse por livros, diz escritora&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;, a escritora mineira Carla Madeira diz que “livro é uma ocasião de conversar”.&lt;/p&gt;
-&lt;p&gt;Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópias vendidas, ela esteve em Salvador, na noite deste sábado (8), para falar a um grande público que se formou no Largo do Pelourinho, durante a programação da Festa Literária Internacional do Pelourinho (Flipelô).&lt;/p&gt;
-&lt;p&gt;ela celebrou o fato de mais brasileiros estarem lendo e também comentando sobre livros, em geral – principalmente por meio das redes sociais e clubes de leitura.&lt;/p&gt;
+&lt;p&gt;Centenas de pessoas se reuniram no histórico Largo do Pelourinho, em Salvador, em pleno sábado à noite, para ouvir uma das autoras mais lidas do país. Convidada da Festa Literária Internacional do Pelourinho (Flipelô), a escritora mineira Carla Madeira — voz por trás de obras como&lt;/p&gt;
+&lt;p&gt;— defendeu que “livro é uma ocasião de conversar”.&lt;/p&gt;
+&lt;p&gt;Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópias vendidas, ela celebrou o fato de mais brasileiros estarem lendo e o crescente hábito de debater obras em clubes de leitura e nas redes sociais.&lt;/p&gt;
 &lt;p&gt;“As pessoas estão descobrindo que é legal conversar sobre o que elas leem, concordar, discordar, discutir, entrar com outras vozes, cruzar livros, cruzar informações, criticar, aplaudir, está tudo valendo. E isso é maravilhoso porque é um exercício de troca e tem uma riqueza de ampliar a consciência”, reforçou.&lt;/p&gt;
 &lt;p&gt;Para ela, a ampliação dos clubes de livros e de festivais de literatura ajuda a aumentar o interesse pela leitura.&lt;/p&gt;
 &lt;p&gt;“Isso está sendo festejado, está sendo ampliado. E as redes sociais têm um papel superimportante nisso”, completou.&lt;/p&gt;
@@ -141,9 +231,8 @@ Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópi...</de
 &lt;p&gt;Durante a mesa na Flipelô, que atraiu um grande público para o Largo do Pelourinho, a escritora mineira contou que seu novo livro&lt;/p&gt;
 &lt;p&gt;A obra aborda a história de uma mãe que denuncia seu próprio filho à polícia e foi escrita no momento em que Carla Madeira vivenciava três lutos em sequência: a morte de sua mãe, de seu psicanalista e de sua sócia.&lt;/p&gt;
 &lt;p&gt;começou muito caoticamente. Não tem nada a ver com essa história, com esse luto, eu não faço autoficção. Mas nesse período eu comecei a ler e comecei a querer uma linguagem para dar conta do real. Acho que toda emoção está no corpo. Todo corpo afetado, perturbado, ele quer buscar retornar um estado de equilíbrio, de regularidade. Então, qual é o recurso que ele tem? A linguagem. A gente vai lá na linguagem para reorganizar o corpo”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/redes-sociais-ajudam-despertar-interesse-por-livros-diz-escritora&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>, a escritora mineira Carla Madeira diz que “livro é uma ocasião de conversar”.
-Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópi...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <excerpt:encoded>Centenas de pessoas se reuniram no histórico Largo do Pelourinho, em Salvador, em pleno sábado à noite, para ouvir uma das autoras mais lidas do país...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-09 11:35:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 11:35:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 11:35:00</wp:post_modified>
@@ -169,9 +258,9 @@ Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópi...</ex
     <item>
       <title>Jovens negrosdo Rio e da Bahiarecebem bolsa para estudar no exterior</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior</link>
-      <pubDate>Sun, 09 Aug 2026 16:24:46 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior#1005</guid>
       <description>Estudar no exterior é a vontade de muitas pessoas ao longo da vida. Cursar a graduação em outro país permite não só acessar ambientes de excelência a...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/o6c539PGgOz9QsI6HnAqmwLo2uU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/06/whatsapp_image_2026-08-06_at_17.22.07_1.jpeg?itok=LwNVKWYI&quot; alt=&quot;Jovens negrosdo Rio e da Bahiarecebem bolsa para estudar no exterior&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Estudar no exterior é a vontade de muitas pessoas ao longo da vida. Cursar a graduação em outro país permite não só acessar ambientes de excelência acadêmica global, mas também construir conexões culturais. Mas se o processo de aprovação já apresenta desafios robustos, fica ainda mais difícil ter os recursos necessários para permanecer nesses espaços.&lt;/p&gt;
@@ -190,7 +279,7 @@ Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópi...</ex
 &lt;p&gt;Sem recursos financeiros para contratar um cuidador e diante do alto custo dos remédios, Caio precisou começar a trabalhar em 2022 para ajudar no sustento da casa.&lt;/p&gt;
 &lt;p&gt;Essa nova rotina prejudicou a entrada no ensino superior. Apesar das dificuldades, ele conta que busca não se limitar. Essa determinação é o impulso para procurar alternativas internacionais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/jovens-negros-do-rio-e-da-bahia-recebem-bolsa-para-estudar-no-exterior&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Estudar no exterior é a vontade de muitas pessoas ao longo da vida. Cursar a graduação em outro país permite não só acessar ambientes de excelência a...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-09 10:45:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 10:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 10:45:00</wp:post_modified>
@@ -216,9 +305,9 @@ Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópi...</ex
     <item>
       <title>Pais estão menos presentes na criação de filhos, aponta estudo</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pais-estao-menos-presentes-na-criacao-de-filhos-aponta-estudo</link>
-      <pubDate>Sun, 09 Aug 2026 16:24:46 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pais-estao-menos-presentes-na-criacao-de-filhos-aponta-estudo#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pais-estao-menos-presentes-na-criacao-de-filhos-aponta-estudo#1006</guid>
       <description>Metade dos brasileiros acredita que os pais da atualidade estão menos presentes na criação dos filhos do que os das gerações anteriores. Em contrapar...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YomPbuoR4_cVWUiipR2NotyVHAI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/193222-3.jpg?itok=O7qwGE9l&quot; alt=&quot;Pais estão menos presentes na criação de filhos, aponta estudo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Metade dos brasileiros acredita que os pais da atualidade estão menos presentes na criação dos filhos do que os das gerações anteriores. Em contrapartida, oito em cada dez brasileiros consideram alta ou muito alta a importância dos pais na vida dos filhos.&lt;/p&gt;
@@ -233,11 +322,11 @@ Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópi...</ex
 &lt;p&gt;&quot;O brasileiro já consolidou a ideia de que o bom pai é aquele presente no dia a dia, deixando para trás a figura do mero provedor financeiro. O desafio agora está na prática&quot;, avalia Marcelo Tokarski, CEO da Nexus.&lt;/p&gt;
 &lt;p&gt;&quot;O fato de metade da população enxergar os pais de hoje como menos participativos do que os do passado mostra que o discurso avançou mais rápido do que a mudança real de comportamento dentro de casa”, acrescenta.&lt;/p&gt;
 &lt;p&gt;* Estagiário sob supervisão de Odair Braz Junior&lt;/p&gt;
-&lt;p&gt;Eleitores que moram no exterior podem solicitar voto em trânsito&lt;/p&gt;
+&lt;p&gt;Na relação entre pais e filhos, exemplo é lição silenciosa e constante&lt;/p&gt;
 &lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
-&lt;p&gt;Justiça abriu as urnas diante da população, diz Nunes Marques&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pais-estao-menos-presentes-na-criacao-de-filhos-aponta-estudo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pais-estao-menos-presentes-na-criacao-de-filhos-aponta-estudo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Metade dos brasileiros acredita que os pais da atualidade estão menos presentes na criação dos filhos do que os das gerações anteriores. Em contrapar...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-09 09:46:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 09:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 09:46:00</wp:post_modified>
@@ -263,9 +352,9 @@ Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópi...</ex
     <item>
       <title>Polícia registrou 783 mil atendimentos especializados à mulher em 2025</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/policia-registrou-783-mil-atendimentos-especializados-mulher-em-2025</link>
-      <pubDate>Sun, 09 Aug 2026 16:24:46 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/policia-registrou-783-mil-atendimentos-especializados-mulher-em-2025#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/policia-registrou-783-mil-atendimentos-especializados-mulher-em-2025#1007</guid>
       <description>As unidades especializadas no Atendimento à Mulher da Polícia Civil de todo o país realizaram 782.474 atendimentos no ano de 2025, incluindo ocorrênc...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/nQQxVAGOTVrnTh1jH_UfRV7bKxA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/912291-agencia%20brasil_ligue%20180_5457.jpg?itok=qnpVUicq&quot; alt=&quot;Polícia registrou 783 mil atendimentos especializados à mulher em 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;As unidades especializadas no Atendimento à Mulher da Polícia Civil de todo o país realizaram 782.474 atendimentos no ano de 2025, incluindo ocorrências de ameaça, lesão corporal, injúria, importunação sexual, estupro e feminicídio, entre outras.&lt;/p&gt;
@@ -284,7 +373,7 @@ Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópi...</ex
 &lt;p&gt;O diagnóstico, contudo. aponta desafios, como o fato de 80% dessas unidades ainda não funcionarem24 horas.&lt;/p&gt;
 &lt;p&gt;Entre as principais carências, o estudo identificou ainda a insuficiência de recursos de investigação, mencionada por 57% das unidades, a falta de viaturas, citada por 46%, e a falta de material de menor potencial ofensivo (40%).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/policia-registrou-783-mil-atendimentos-especializados-mulher-em-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>As unidades especializadas no Atendimento à Mulher da Polícia Civil de todo o país realizaram 782.474 atendimentos no ano de 2025, incluindo ocorrênc...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-09 08:40:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 08:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 08:40:00</wp:post_modified>
@@ -310,9 +399,9 @@ Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópi...</ex
     <item>
       <title>Dia dos pais: combate à misoginia começa pelo exemplo em casa</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/dia-dos-pais-combate-misoginia-comeca-pelo-exemplo-em-casa</link>
-      <pubDate>Sun, 09 Aug 2026 16:24:46 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/dia-dos-pais-combate-misoginia-comeca-pelo-exemplo-em-casa#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/dia-dos-pais-combate-misoginia-comeca-pelo-exemplo-em-casa#1008</guid>
       <description>Do gol a gol para o pique-pega. Do esconde-esconde ao skate, depois para o balançoe, em seguida, para a queimada. “Samuca, vem almoçar!”, alguém grit...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LQfE0QKQdIUefjMF1qieY1JIfRA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/papicast_-_integrantes.png?itok=I59pw11b&quot; alt=&quot;Dia dos pais: combate à misoginia começa pelo exemplo em casa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Do gol a gol para o pique-pega. Do esconde-esconde ao skate, depois para o balançoe, em seguida, para a queimada. “Samuca, vem almoçar!”, alguém grita. “Só mais um pouco”, responde o menino, de 8 anos. Mais corrida, pique-bandeirinha e começa tudo de novo. O menino não se cansa, enquanto vive a pureza e a velocidade da infância. Só parou um dia das férias para levar um papo mais sério com o pai.&lt;/p&gt;
@@ -331,7 +420,7 @@ Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópi...</ex
 &lt;p&gt;Para Bárbara, é muito importante que os homens saibam, na vida adulta, identificar e falar sobre as suas dores para que possam transmitir as melhores mensagens aos filhos, de forma que estejam abertos ao diálogo, à transparência e à conexão.&lt;/p&gt;
 &lt;p&gt;“É importante observar que garotos em idade de adolescência têm as próprias dores e, eventualmente, relatam algum tipo de negligência afetiva ou social por não se sentirem compreendidos”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/dia-dos-pais-combate-misoginia-comeca-pelo-exemplo-em-casa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Do gol a gol para o pique-pega. Do esconde-esconde ao skate, depois para o balançoe, em seguida, para a queimada. “Samuca, vem almoçar!”, alguém grit...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-09 08:12:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 08:12:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 08:12:00</wp:post_modified>
@@ -357,9 +446,9 @@ Escritora de ficção mais lida do Brasil, com mais de 1 milhão de cópi...</ex
     <item>
       <title>Rádio Nacional homenageia Dia Internacional dos Povos Indígenas</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas</link>
-      <pubDate>Sun, 09 Aug 2026 16:24:46 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas#1009</guid>
       <description>Para celebrar o Dia Internacional dos Povos Indígenas, comemorado em 9 de agosto, o programa
 leva ao ar neste domingo (9), às 9h, presta uma homenage...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/-BUrfHPXCQwIlm2l4P8P9arqdK8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/17/_mg_9044.jpg?itok=geBoqprO&quot; alt=&quot;Rádio Nacional homenageia Dia Internacional dos Povos Indígenas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -380,7 +469,7 @@ leva ao ar neste domingo (9), às 9h, presta uma homenage...</description>
 &lt;p&gt;e emissoras parceiras que retransmitem a programação.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/radio-nacional-homenageia-dia-internacional-dos-povos-indigenas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Para celebrar o Dia Internacional dos Povos Indígenas, comemorado em 9 de agosto, o programa
 leva ao ar neste domingo (9), às 9h, presta uma homenage...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-09 07:00:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 07:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 07:00:00</wp:post_modified>
@@ -401,102 +490,6 @@ leva ao ar neste domingo (9), às 9h, presta uma homenage...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/-BUrfHPXCQwIlm2l4P8P9arqdK8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/17/_mg_9044.jpg?itok=geBoqprO</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lorrane-oliveira-e-caio-souza-sao-ouro-no-brasileiro-de-ginastica</link>
-      <pubDate>Sun, 09 Aug 2026 16:24:46 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lorrane-oliveira-e-caio-souza-sao-ouro-no-brasileiro-de-ginastica#1008</guid>
-      <description>© Reprodução Instagram/CBGinastica
-Os primeiros vencedores do Campeonato Brasileiro de Ginástica Artística foram conhecidos neste sábado (8), diante ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_3-465x_TFwFSEqPramIsUCMmFU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/lorrane_flavia_saraiva_sofia_brasieliro_ginastica_artistica_2026.jpg?itok=rSiz4ior&quot; alt=&quot;Lorrane Oliveira e Caio Souza são ouro no Brasileiro de Ginástica&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Reprodução Instagram/CBGinastica&lt;/p&gt;
-&lt;p&gt;Os primeiros vencedores do Campeonato Brasileiro de Ginástica Artística foram conhecidos neste sábado (8), diante do lotado Ginásio Nilson Nelson, em Brasília (DF). A carioca Lorrane Oliveira (Flamengo) faturou a medalha de ouro nas barras assimétricas ao somar 13.700 pontos. A companheira de clube Flávia Saraiva (13.466) foi prata e a paulista Sophia Weisberg (13.400 ), do Pinheiros, completou o pódio com o bronze. A competição termina neste domingo (9), com as últimas finais masculinas (salto, paralelasebarra) e femininas (traveesolo).&lt;/p&gt;
-&lt;p&gt;&quot;Estou muito feliz, estava parada com uma lesão no ombro. Só tenho a agradecer à minha equipe, meu trabalho foi feito, a cada dia fui melhorando e a medalha veio&quot;, disseLorraneem depoimento à emissora Sportv.&lt;/p&gt;
-&lt;p&gt;Um post compartilhado por Conf. Brasileira de Ginástica (@cbginastica)&lt;/p&gt;
-&lt;p&gt;No salto feminino, quem brilhou com a medalha de ouro foi Nicole Bello (Flamengo), que logo na primeira tentativa chegou a 13.300 pontos. Em seguida, executou um salto ainda mais complexo e conseguiu 13.200. Duas ginastas do Grêmio Náutico União também subiram ao pódio: Francine Oliveira (12.799) conquistou a prata e Clara Stecca (12.783 o bronze.&lt;/p&gt;
-&lt;p&gt;Quem também comemorou neste sábado (8) foi o ginasta Caio Souza (Minas Tênis Clube - MTC) que arrebatou o público ao executar uma difícil série nas argolas. Nascido em Volta Redonda (RJ), Caio fez valer seu favoritismo e faturou o ouro ao totalizar 13.600 pontos. Também subiram ao pódio Juliano Oliva (13.200), atleta do Grêmio Náutico União, com a prata, e Gustavo Pereira (12.733), do MTC, com o bronze.&lt;/p&gt;
-&lt;p&gt;Um post compartilhado por Conf. Brasileira de Ginástica (@cbginastica)&lt;/p&gt;
-&lt;p&gt;Na final do solo,Yuri Guimarães, atleta da Associação de Ginástica Di Thiene de Pais (Agith), foi campeão brasileiro pela terceira vez na carreira. Ele somou 13.700 pontos, 200 a mais que João Perdigão (Pinheiros), que ficou como a prata. O ginasta Tomas Florencio(13.300), do AGITH, levou o bronze.&lt;/p&gt;
-&lt;p&gt;Na disputa do cavalo, o campeão foi Johnny Oshiro (Agith). Último a competir entre os finalistas, Oshiro faturou ouro com soma total de13.600 pontos, após uma apresentação com alto grau de dificuldade dos movimentos. Já os ginastas Diogo Rodrigos (Pinheiros) e Vitaliy Guimarães (MTC) empataram com 13.330 pontos e ambos ficaram com a prata.&lt;/p&gt;
-&lt;p&gt;Eleitores que moram no exterior podem solicitar voto em trânsito&lt;/p&gt;
-&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
-&lt;p&gt;Justiça abriu as urnas diante da população, diz Nunes Marques&lt;/p&gt;
-&lt;p&gt;Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena&lt;/p&gt;
-&lt;p&gt;Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades&lt;/p&gt;
-&lt;p&gt;Redes sociais ajudam a despertar interesse por livros, diz escritora&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lorrane-oliveira-e-caio-souza-sao-ouro-no-brasileiro-de-ginastica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Reprodução Instagram/CBGinastica
-Os primeiros vencedores do Campeonato Brasileiro de Ginástica Artística foram conhecidos neste sábado (8), diante ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-08-08 19:53:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-08 19:53:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-08 19:53:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-08 19:53:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/_3-465x_TFwFSEqPramIsUCMmFU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/lorrane_flavia_saraiva_sofia_brasieliro_ginastica_artistica_2026.jpg?itok=rSiz4ior</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Colombianas que morreram na queda de helicóptero eram avó, mãe e filha</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/colombianas-que-morreram-na-queda-de-helicoptero-eram-avo-mae-e-filha</link>
-      <pubDate>Sun, 09 Aug 2026 16:24:46 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/colombianas-que-morreram-na-queda-de-helicoptero-eram-avo-mae-e-filha#1009</guid>
-      <description>Em nota divulgada no Instagram, o Sistema Alerta Rio informouque as três turistas colombianas da mesma família que morreram na queda de um helicópter...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Xr5pzF4e2tLo5ZfM2luxsQU4yf0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/img-20260808-wa0028.jpg?itok=GmCCJC_9&quot; alt=&quot;Colombianas que morreram na queda de helicóptero eram avó, mãe e filha&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Em nota divulgada no Instagram, o Sistema Alerta Rio informouque as três turistas colombianas da mesma família que morreram na queda de um helicóptero, na manhã deste sábado (8) no Rio,, eram avó, mãe e filha. O piloto da aeronave também não resistiu ao acidente. O ponto da queda fica em uma área de mata íngreme, de difícil acesso.&lt;/p&gt;
-&lt;p&gt;As vítimas faziamum passeio panorâmico na modalidade “doors off”, em que o helicóptero voa sem as portas.&lt;/p&gt;
-&lt;p&gt;O passeio foicontratado com a empresa Voos Rio Panorâmico (VRP). Segundo o comprovante de pagamento, as turistas desembolsaram R$ 2.550 pelo voo.&lt;/p&gt;
-&lt;p&gt;A duração aproximada seria de 20 minutos e incluía o sobrevoo de pontos turísticos da cidade, entre eles a Floresta da Tijuca,a região onde ocorreu a queda.&lt;/p&gt;
-&lt;p&gt;A empresa oferece diferentes opções de voos panorâmicos pelo Rio de Janeiro, incluindo passeios que podem chegar a uma hora de duração e custar mais de R$ 1,3 mil por pessoa.&lt;/p&gt;
-&lt;p&gt;O helicóptero, modelo Robinson R44, de prefixo PP-MFS, caiu em área de mata fechada e de difícil acesso.&lt;/p&gt;
-&lt;p&gt;As circunstâncias e as causas da queda serãoinvestigadas.&lt;/p&gt;
-&lt;p&gt;Eleitores que moram no exterior podem solicitar voto em trânsito&lt;/p&gt;
-&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
-&lt;p&gt;Justiça abriu as urnas diante da população, diz Nunes Marques&lt;/p&gt;
-&lt;p&gt;Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena&lt;/p&gt;
-&lt;p&gt;Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades&lt;/p&gt;
-&lt;p&gt;Redes sociais ajudam a despertar interesse por livros, diz escritora&lt;/p&gt;
-&lt;p&gt;Jovens negrosdo Rio e da Bahiarecebem bolsa para estudar no exterior&lt;/p&gt;
-&lt;p&gt;Pais estão menos presentes na criação de filhos, aponta estudo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/colombianas-que-morreram-na-queda-de-helicoptero-eram-avo-mae-e-filha&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Em nota divulgada no Instagram, o Sistema Alerta Rio informouque as três turistas colombianas da mesma família que morreram na queda de um helicópter...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-08 18:48:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-08 18:48:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-08 18:48:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-08 18:48:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Xr5pzF4e2tLo5ZfM2luxsQU4yf0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/img-20260808-wa0028.jpg?itok=GmCCJC_9</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
