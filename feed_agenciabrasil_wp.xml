@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 10 Aug 2026 15:52:28 +0000</pubDate>
+    <pubDate>Mon, 10 Aug 2026 16:44:29 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,58 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Forte terremoto deixa pelo menos 20 mortos na Colômbia</title>
+      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/forte-terremoto-deixa-pelo-menos-20-mortos-na-colombia</link>
+      <pubDate>Mon, 10 Aug 2026 16:44:29 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/forte-terremoto-deixa-pelo-menos-20-mortos-na-colombia#1000</guid>
+      <description>Pelo menos 20 pessoas morreram noterremoto no oeste da Colômbia, nesta segunda-feira (10), que derrubou prédios e deixou pessoas presas nos escombros...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Forte terremoto deixa pelo menos 20 mortos na Colômbia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Pelo menos 20 pessoas morreram noterremoto no oeste da Colômbia, nesta segunda-feira (10), que derrubou prédios e deixou pessoas presas nos escombros, segundo autoridades.&lt;/p&gt;
+&lt;p&gt;Na cidade de Pereira, 18 pessoas morreram e outras ficaram soterradas em prédios que desabaram, afirmou o prefeito Mauricio Salazar à Rádio Caracol.&lt;/p&gt;
+&lt;p&gt;Duas pessoas morreram na cidade de Manizales, segundo o prefeito Jorge Eduardo Rojas em entrevista à Blu Radio, enquanto Alejandro Eder, prefeito de Cali, uma das maiores cidades da Colômbia, afirmou que relatos preliminares indicavam o desabamento de pelo menos 20 estruturas no local, com pessoas soterradas.&lt;/p&gt;
+&lt;p&gt;Segundo ele, Cali solicitou o envio de socorristas de Bogotá e Medellín para auxiliar nos esforços de resgate.&lt;/p&gt;
+&lt;p&gt;O epicentro do terremoto foi próximo a San José del Palmar, em Chocó, uma província pouco povoada na costa do Pacífico colombiano.&lt;/p&gt;
+&lt;p&gt;A governadora de Chocó, Nubia Carolina Córdoba, relatou feridos e danos significativos em Quibdó, a capital da província, e alertou os moradores sobre possíveis réplicas.&lt;/p&gt;
+&lt;p&gt;Na província vizinha de Risaralda, o governador Juan Diego Patiño informou que Pereira, uma importante cidade da região cafeeira da Colômbia, também sofreu danos graves em algumas edificações.&lt;/p&gt;
+&lt;p&gt;A autoridade de aviação civil da Colômbia comunicou a suspensão de voos nos aeroportos de Pereira, Manizales, Quibdó, Armenia, Cartago e Buenaventura, enquanto inspetores verificavam a existência de danos estruturais.&lt;/p&gt;
+&lt;p&gt;A agência de gestão de desastres do país informou ter recebido relatos de nove departamentos e de todas as 32 capitais departamentais onde o tremor foi sentido, provocando retiradas e os primeiros relatos de danos.&lt;/p&gt;
+&lt;p&gt;O serviço geológico da Colômbia revisou a magnitude do terremoto para 7,4 e informou que ele ocorreu a uma profundidade de 96 km. O sistema de alerta de tsunamis dos EUA afirmou que não havia ameaça de tsunami.&lt;/p&gt;
+&lt;p&gt;Testemunhas da Reuters no Estado fronteiriço venezuelano de Táchira e na cidade de Barquisimeto, no centro-oeste do país, relataram que o terremoto foi sentido nessas regiões.&lt;/p&gt;
+&lt;p&gt;A Venezuela foi atingida por dois terremotos devastadores em junho, que mataram mais de 6.000 pessoas, principalmente no litoral próximo à capital, Caracas.&lt;/p&gt;
+&lt;p&gt;Mercado financeiro revê para 5,02% expectativa de inflação&lt;/p&gt;
+&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
+&lt;p&gt;Forte terremoto deixa pelo menos 20 mortos na Colômbia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/forte-terremoto-deixa-pelo-menos-20-mortos-na-colombia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Pelo menos 20 pessoas morreram noterremoto no oeste da Colômbia, nesta segunda-feira (10), que derrubou prédios e deixou pessoas presas nos escombros...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-10 13:04:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-10 13:04:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-10 13:04:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-10 13:04:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Prouni 2026: pré-selecionado deve comprovar informação até sexta-feira</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-2026-pre-selecionado-deve-comprovar-informacao-ate-sexta-feira</link>
-      <pubDate>Mon, 10 Aug 2026 15:52:28 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 16:44:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-2026-pre-selecionado-deve-comprovar-informacao-ate-sexta-feira#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-2026-pre-selecionado-deve-comprovar-informacao-ate-sexta-feira#1001</guid>
       <description>O prazo para que os estudantes pré-selecionados na segunda chamada do
 Programa Universidade para Todos (Prouni)
 , referente ao segundo semestre de 20...</description>
@@ -49,7 +96,7 @@ Programa Universidade para Todos (Prouni)
       <excerpt:encoded>O prazo para que os estudantes pré-selecionados na segunda chamada do
 Programa Universidade para Todos (Prouni)
 , referente ao segundo semestre de 20...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-08-10 11:47:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 11:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 11:47:00</wp:post_modified>
@@ -75,9 +122,9 @@ Programa Universidade para Todos (Prouni)
     <item>
       <title>Desenrola Adimplentes começa a operar nesta segunda-feira</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desenrola-adimplentes-comeca-operar-nesta-segunda-feira</link>
-      <pubDate>Mon, 10 Aug 2026 15:52:28 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 16:44:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desenrola-adimplentes-comeca-operar-nesta-segunda-feira#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desenrola-adimplentes-comeca-operar-nesta-segunda-feira#1002</guid>
       <description>© José Cruz/Agência Brasil/Arquivo
 Começa nesta segunda-feira (10) a operação do Desenrola Adimplentes, modalidade do programa Desenrola voltada a tr...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ybvsEizsRx48_5NYTX82taeJvNo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220041_1.jpg?itok=-1jG6u6H&quot; alt=&quot;Desenrola Adimplentes começa a operar nesta segunda-feira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -94,11 +141,11 @@ Começa nesta segunda-feira (10) a operação do Desenrola Adimplentes, modalida
 &lt;p&gt;Segundo a pasta, a renegociação é feita exclusivamente nas instituições financeiras, sem intermediação de sites específicos do governo ou envio de links por SMS e aplicativos.&lt;/p&gt;
 &lt;p&gt;Levantamento do NetLab/UFRJ identificou 544 anúncios fraudulentos nas plataformas da Meta entre abril e junho, dos quais 38% utilizavam inteligência artificial e 72% exploravam indevidamente a imagem do governo e de marcas conhecidas para conferir aparência de legitimidade às fraudes.&lt;/p&gt;
 &lt;p&gt;Todas as informações oficiais sobre o programa estão disponíveis nos canais do Ministério da Fazenda.&lt;/p&gt;
-&lt;p&gt;PM amplia combate a roubos de veículos e cargas no Rio&lt;/p&gt;
+&lt;p&gt;Mercado financeiro revê para 5,02% expectativa de inflação&lt;/p&gt;
 &lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desenrola-adimplentes-comeca-operar-nesta-segunda-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© José Cruz/Agência Brasil/Arquivo
 Começa nesta segunda-feira (10) a operação do Desenrola Adimplentes, modalidade do programa Desenrola voltada a tr...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-10 11:25:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 11:25:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 11:25:00</wp:post_modified>
@@ -124,9 +171,9 @@ Começa nesta segunda-feira (10) a operação do Desenrola Adimplentes, modalida
     <item>
       <title>Anvisa libera venda de medicamentos por plataformas como iFood e Rapp</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-libera-venda-de-medicamentos-por-plataformas-como-ifood-e-rapp</link>
-      <pubDate>Mon, 10 Aug 2026 15:52:28 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 16:44:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-libera-venda-de-medicamentos-por-plataformas-como-ifood-e-rapp#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-libera-venda-de-medicamentos-por-plataformas-como-ifood-e-rapp#1003</guid>
       <description>A Agência Nacional de Vigilância Sanitária (Anvisa) revogou nesta segunda-feira (10) uma série de resoluções e medidas preventivas que proibiam a com...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cIHkQSTIDhZVLUF9-VaIw3DnQ3s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/31/pint8161.jpg?itok=jZ0RpHWh&quot; alt=&quot;Anvisa libera venda de medicamentos por plataformas como iFood e Rapp&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) revogou nesta segunda-feira (10) uma série de resoluções e medidas preventivas que proibiam a comercialização e a propaganda de medicamentos nas plataformas iFood, Rappi, Mercado Livre, Submarino e Americanas.&lt;/p&gt;
@@ -134,10 +181,16 @@ Começa nesta segunda-feira (10) a operação do Desenrola Adimplentes, modalida
 &lt;p&gt;Em nota, a agência destacou que as revogações não isentam essasempresas de cumprir integralmente a regulamentação sanitária aplicável e também não implicam autorização automática de comercialização de produtos farmacêuticos.&lt;/p&gt;
 &lt;p&gt;No comunicado, a Anvisa destacou que a aplicação da&lt;/p&gt;
 &lt;p&gt;, que passou a permitir que farmácias e drogarias regularmente licenciadas contratem canais digitais e plataformas de comércio eletrônico para logística e entrega de medicamentos aos consumidores, depende de regulamentação específica a ser editada pela própria agência.&lt;/p&gt;
-&lt;p&gt;PM amplia combate a roubos de veículos e cargas no Rio&lt;/p&gt;
-&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-libera-venda-de-medicamentos-por-plataformas-como-ifood-e-rapp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Prefeito do Rio cobra fiscalização da Anac sobre voos panorâmicos&lt;/p&gt;
+&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
+&lt;p&gt;Forte terremoto deixa pelo menos 20 mortos na Colômbia&lt;/p&gt;
+&lt;p&gt;Prouni 2026: pré-selecionado deve comprovar informação até sexta-feira&lt;/p&gt;
+&lt;p&gt;Desenrola Adimplentes começa a operar nesta segunda-feira&lt;/p&gt;
+&lt;p&gt;Anvisa libera venda de medicamentos por plataformas como iFood e Rapp&lt;/p&gt;
+&lt;p&gt;SUS inclui novo teste para rastreamento de câncer colorretal&lt;/p&gt;
+&lt;p&gt;Tempestades causadas por tufão Dolphin atingem leste da China&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-libera-venda-de-medicamentos-por-plataformas-como-ifood-e-rapp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Agência Nacional de Vigilância Sanitária (Anvisa) revogou nesta segunda-feira (10) uma série de resoluções e medidas preventivas que proibiam a com...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-10 11:18:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 11:18:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 11:18:00</wp:post_modified>
@@ -163,9 +216,9 @@ Começa nesta segunda-feira (10) a operação do Desenrola Adimplentes, modalida
     <item>
       <title>SUS inclui novo teste para rastreamento de câncer colorretal</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-inclui-novo-teste-para-rastreamento-de-cancer-colorretal</link>
-      <pubDate>Mon, 10 Aug 2026 15:52:28 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 16:44:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-inclui-novo-teste-para-rastreamento-de-cancer-colorretal#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-inclui-novo-teste-para-rastreamento-de-cancer-colorretal#1004</guid>
       <description>inclui a partir desta segunda-feira (10) o teste imunoquímico fecal (FIT, na sigla em inglês) na tabela de procedimentos disponíveis aos pacientes da...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iy8MZo5Ed_y7L3nGnY3VN_wR4Gg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/adobestock_1890775616.jpeg?itok=S1kjSdhU&quot; alt=&quot;SUS inclui novo teste para rastreamento de câncer colorretal&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;inclui a partir desta segunda-feira (10) o teste imunoquímico fecal (FIT, na sigla em inglês) na tabela de procedimentos disponíveis aos pacientes da rede.&lt;/p&gt;
@@ -182,9 +235,9 @@ Começa nesta segunda-feira (10) a operação do Desenrola Adimplentes, modalida
 &lt;p&gt;não precisa de dieta restritiva antes da coleta;&lt;/p&gt;
 &lt;p&gt;pode ser feito com apenas uma amostra;&lt;/p&gt;
 &lt;p&gt;Mesmo assim, segundo o ministério, a colonoscopia é a principal forma de avaliar o intestino, porque permite visualizar diretamente o cólon e o reto, além de retirar pólipos durante o procedimento, evitando que algumas lesões evoluam para câncer.&lt;/p&gt;
-&lt;p&gt;TCU abre consulta pública sobre preço e qualidade de combustíveis&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-inclui-novo-teste-para-rastreamento-de-cancer-colorretal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mercado financeiro revê para 5,02% expectativa de inflação&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-inclui-novo-teste-para-rastreamento-de-cancer-colorretal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>inclui a partir desta segunda-feira (10) o teste imunoquímico fecal (FIT, na sigla em inglês) na tabela de procedimentos disponíveis aos pacientes da...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-10 11:04:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 11:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 11:04:00</wp:post_modified>
@@ -210,9 +263,9 @@ Começa nesta segunda-feira (10) a operação do Desenrola Adimplentes, modalida
     <item>
       <title>Tempestades causadas por tufão Dolphin atingem leste da China</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/tempestades-causadas-por-tufao-dolphin-atingem-leste-da-china</link>
-      <pubDate>Mon, 10 Aug 2026 15:52:28 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 16:44:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/tempestades-causadas-por-tufao-dolphin-atingem-leste-da-china#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/tempestades-causadas-por-tufao-dolphin-atingem-leste-da-china#1005</guid>
       <description>© : SleepdeeplyGG/X/via REUTERS/Proibida Reprodução
 Chuvas torrenciais e tempestades na esteira do tufão Dolphin inundaram várias províncias no leste...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9z1YuVivMq2QCy5Jb0WyusIfkhA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/2026-08-08t150828z_1_lynxmpem7709j_rtroptp_4_asia-weather-japan-typhoon.jpg?itok=DajBAM1J&quot; alt=&quot;Tempestades causadas por tufão Dolphin atingem leste da China&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -233,7 +286,7 @@ Chuvas torrenciais e tempestades na esteira do tufão Dolphin inundaram várias 
 &lt;p&gt;É proibida a reprodução deste conteúdo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/tempestades-causadas-por-tufao-dolphin-atingem-leste-da-china&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© : SleepdeeplyGG/X/via REUTERS/Proibida Reprodução
 Chuvas torrenciais e tempestades na esteira do tufão Dolphin inundaram várias províncias no leste...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-10 11:01:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 11:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 11:01:00</wp:post_modified>
@@ -259,9 +312,9 @@ Chuvas torrenciais e tempestades na esteira do tufão Dolphin inundaram várias 
     <item>
       <title>Consulta pública avalia inclusão no SUS de remédio para hipertensão</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/consulta-publica-avalia-inclusao-no-sus-de-remedio-para-hipertensao</link>
-      <pubDate>Mon, 10 Aug 2026 15:52:28 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 16:44:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/consulta-publica-avalia-inclusao-no-sus-de-remedio-para-hipertensao#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/consulta-publica-avalia-inclusao-no-sus-de-remedio-para-hipertensao#1006</guid>
       <description>© Fernando Frazão/Agência Brasil
 A Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec) abriu consulta pública para a...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/lNZn6wq3kcLwzPS3xWeBLWODARU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/24/_d6a2761.jpg?itok=xlaD1qaP&quot; alt=&quot;Consulta pública avalia inclusão no SUS de remédio para hipertensão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -274,15 +327,15 @@ A Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúd
 &lt;p&gt;Na HAP, ocorre aumento da pressão nos vasos sanguíneos que levam o sangue do coração para os pulmões. Com isso, o lado direito do coração precisa fazer mais esforço para bombear o sangue.&lt;/p&gt;
 &lt;p&gt;Ao longo do tempo, esse esforço pode sobrecarregar o coração e causar sintomas como falta de ar, cansaço, tontura, dor no peito, desmaios e dificuldade para realizar atividades habituais.&lt;/p&gt;
 &lt;p&gt;Em casos mais graves, a doença pode evoluir para insuficiência cardíaca, levar ao funcionamento insuficiente do coração e morte.&lt;/p&gt;
-&lt;p&gt;PM amplia combate a roubos de veículos e cargas no Rio&lt;/p&gt;
+&lt;p&gt;Mercado financeiro revê para 5,02% expectativa de inflação&lt;/p&gt;
 &lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
+&lt;p&gt;Forte terremoto deixa pelo menos 20 mortos na Colômbia&lt;/p&gt;
 &lt;p&gt;Prouni 2026: pré-selecionado deve comprovar informação até sexta-feira&lt;/p&gt;
 &lt;p&gt;Desenrola Adimplentes começa a operar nesta segunda-feira&lt;/p&gt;
-&lt;p&gt;Anvisa libera venda de medicamentos por plataformas como iFood e Rapp&lt;/p&gt;
-&lt;p&gt;SUS inclui novo teste para rastreamento de câncer colorretal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/consulta-publica-avalia-inclusao-no-sus-de-remedio-para-hipertensao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Anvisa libera venda de medicamentos por plataformas como iFood e Rapp&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/consulta-publica-avalia-inclusao-no-sus-de-remedio-para-hipertensao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 A Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec) abriu consulta pública para a...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-10 10:18:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 10:18:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 10:18:00</wp:post_modified>
@@ -308,9 +361,9 @@ A Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúd
     <item>
       <title>Região Centro-Oeste tem alerta laranja de perigo para baixa umidade</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/regiao-centro-oeste-tem-alerta-laranja-de-perigo-para-baixa-umidade</link>
-      <pubDate>Mon, 10 Aug 2026 15:52:28 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 16:44:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/regiao-centro-oeste-tem-alerta-laranja-de-perigo-para-baixa-umidade#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/regiao-centro-oeste-tem-alerta-laranja-de-perigo-para-baixa-umidade#1007</guid>
       <description>© Marcello Casal JrAgência Brasil
 A Região Centro-Oeste amanheceu nesta segunda-feira (10) com alerta laranja de perigo para variação da umidade rela...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/G72KXDZdsUH_TJOPQO8iv-031xk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/seca_mcajr_abr2807221096.jpg?itok=pqEcqBGW&quot; alt=&quot;Região Centro-Oeste tem alerta laranja de perigo para baixa umidade&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -331,7 +384,7 @@ A Região Centro-Oeste amanheceu nesta segunda-feira (10) com alerta laranja de 
 &lt;p&gt;A mínima prevista é de 21°C em Teresina, e a máximapode chegar a 37°C.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/regiao-centro-oeste-tem-alerta-laranja-de-perigo-para-baixa-umidade&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 A Região Centro-Oeste amanheceu nesta segunda-feira (10) com alerta laranja de perigo para variação da umidade rela...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-10 09:44:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 09:44:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 09:44:00</wp:post_modified>
@@ -357,9 +410,9 @@ A Região Centro-Oeste amanheceu nesta segunda-feira (10) com alerta laranja de 
     <item>
       <title>Expectativa do mercado para inflação de 2026 cai para 5,02%</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/expectativa-do-mercado-para-inflacao-de-2026-cai-para-502</link>
-      <pubDate>Mon, 10 Aug 2026 15:52:28 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 16:44:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/expectativa-do-mercado-para-inflacao-de-2026-cai-para-502#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/expectativa-do-mercado-para-inflacao-de-2026-cai-para-502#1008</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 Pela sexta semana consecutiva, o mercado financeiro revê para baixo as expectativas que tem para a inflação em 2026...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1NJn9G2PoYXBvGMCP58KdHAie8c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20231025_150203.jpg?itok=GOvom9QM&quot; alt=&quot;Expectativa do mercado para inflação de 2026 cai para 5,02%&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -380,7 +433,7 @@ Pela sexta semana consecutiva, o mercado financeiro revê para baixo as expectat
 &lt;p&gt;taxa Selic foi reduzida em 0,25 ponto percentual, passando de 14,25% para 14% ao ano.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/expectativa-do-mercado-para-inflacao-de-2026-cai-para-502&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Pela sexta semana consecutiva, o mercado financeiro revê para baixo as expectativas que tem para a inflação em 2026...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-10 09:42:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 09:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 09:42:00</wp:post_modified>
@@ -406,9 +459,9 @@ Pela sexta semana consecutiva, o mercado financeiro revê para baixo as expectat
     <item>
       <title>Prazo para solicitação de voto em trânsito vai até dia 20 deste mês</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/prazo-para-solicitacao-de-voto-em-transito-vai-ate-dia-20-deste-mes</link>
-      <pubDate>Mon, 10 Aug 2026 15:52:28 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 16:44:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/prazo-para-solicitacao-de-voto-em-transito-vai-ate-dia-20-deste-mes#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/prazo-para-solicitacao-de-voto-em-transito-vai-ate-dia-20-deste-mes#1009</guid>
       <description>© Marcelo Camargo/Agência Brasil
 Vai até o dia 20 deste mêso prazo para o eleitor solicitar a habilitação para votar em trânsito nas eleições de outu...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/88ax7ZZEtSKCcQtDNHCAOfgOvis=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/predio-tse_mcamgo_abr_22062023-5.jpg?itok=smL4v_WI&quot; alt=&quot;Prazo para solicitação de voto em trânsito vai até dia 20 deste mês&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -429,7 +482,7 @@ Vai até o dia 20 deste mêso prazo para o eleitor solicitar a habilitação par
 &lt;p&gt;O eleitor com documento registrado no Brasil não poderá votar em trânsito se estiver fora do país no dia da votação.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/prazo-para-solicitacao-de-voto-em-transito-vai-ate-dia-20-deste-mes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 Vai até o dia 20 deste mêso prazo para o eleitor solicitar a habilitação para votar em trânsito nas eleições de outu...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-10 09:19:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 09:19:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 09:19:00</wp:post_modified>
@@ -450,55 +503,6 @@ Vai até o dia 20 deste mêso prazo para o eleitor solicitar a habilitação par
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/88ax7ZZEtSKCcQtDNHCAOfgOvis=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/predio-tse_mcamgo_abr_22062023-5.jpg?itok=smL4v_WI</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Relógio da longevidade é tema do Caminhos da Reportagem</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/relogio-da-longevidade-e-tema-do-caminhos-da-reportagem</link>
-      <pubDate>Mon, 10 Aug 2026 15:52:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/relogio-da-longevidade-e-tema-do-caminhos-da-reportagem#1009</guid>
-      <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-A desigualdade social é uma das marcas do Brasil,característica que também se reflete na velhice. Seis de ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Mf2WhDk1Zb84vsjJoC2GnIAmluQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/05/pzzb4201.jpg?itok=hMWO3_aN&quot; alt=&quot;Relógio da longevidade é tema do Caminhos da Reportagem&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fabio Rodrigues-Pozzebom/ Agência Brasil&lt;/p&gt;
-&lt;p&gt;A desigualdade social é uma das marcas do Brasil,característica que também se reflete na velhice. Seis de cada 10 brasileiros com 60 anos ou mais vivem de benefícios do Instituto Nacional do Seguro Social (INSS). Quem não faz parte desse bolo são servidores públicos vinculados a regimes específicos e gente que complementa a renda com previdência privada ou que ainda trabalha.&lt;/p&gt;
-&lt;p&gt;O relógio financeiro da longevidade&lt;/p&gt;
-&lt;p&gt;” vai ar ao ar nesta segunda (10), às 23h, na&lt;/p&gt;
-&lt;p&gt;O teto pago pela previdência pública atualmente é R$ 8.475,55. Mas a maioria dos aposentados recebe, em média, R$ 3.207,05. Os dados são do Ministério da Previdência.&lt;/p&gt;
-&lt;p&gt;“No mesmo país ondetemos grupos sociais que estão chegando facilmente aos 80 anos com um acúmulo de poupanças – poupança de saúde, de segurança e financeira –,temos também um grupo que não está chegando com nada disso”, diz o secretário Nacional dos Direitos da Pessoa Idosa, Alexandre da Silva.&lt;/p&gt;
-&lt;p&gt;Especialista em Finanças e CEO do Movimento Black Money, Nina Silva lembra que “trabalhadores pretos e pardos recebem cerca de 40% a 45% a menos que trabalhadores brancos. Como a aposentadoria é reflexo do histórico contributivo, essa massa chega à velhice com benefícios no piso mínimo”.&lt;/p&gt;
-&lt;p&gt;A própria Nina ajuda a responder: “gerar capital dentro da comunidade tem impacto direto na base da pirâmide social. Nosso trabalho é quebrar o ciclo da pobreza intergeracional”, explica.&lt;/p&gt;
-&lt;p&gt;Mas há muitos outros pontos importantes nessa discussão: ampliar a educação financeira de idosos, diminuir o número de golpes e controlar a violência patrimonial (tomar ou destruir bens, dinheiro ou documentos de uma pessoa), que explodiu no ano passado.&lt;/p&gt;
-&lt;p&gt;“Em 2025,tivemos mais de 59 mil denúncias de violações de direitos humanos em questão patrimonial envolvendo a pessoa idosa. Neste ano, nós já temos mais de 19 mil denúncias desse tipo”, conta a coordenadora-geral do Disque 100, Franciely Almeida.&lt;/p&gt;
-&lt;p&gt;É o caso da mãe do servidor público Flávio Amorim. Professora aposentada, ela foi alvo da filha, irmã de Flávio, enquanto enfrentava um aneurisma e um glaucoma que a deixaramcega de um olho.&lt;/p&gt;
-&lt;p&gt;“Ela começou a morar com a minha mãe e passou a ter acesso ao celular que tinha a conta do banco. Fez cinco empréstimos consignados. Ao todo, um rombo de R$ 370 mil”, revela Flávio.&lt;/p&gt;
-&lt;p&gt;Casos como esses têm se espalhado pelo país. Para entender o perfil de vítimas e agressores e apontar como se prevenir de fraudes e solucionar o problema, a equipe do&lt;/p&gt;
-&lt;p&gt;conversou com outras vítimas, policiais, defensores públicos e educadores financeiros.&lt;/p&gt;
-&lt;p&gt;Prefeito do Rio cobra fiscalização da Anac sobre voos panorâmicos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/relogio-da-longevidade-e-tema-do-caminhos-da-reportagem&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-A desigualdade social é uma das marcas do Brasil,característica que também se reflete na velhice. Seis de ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-10 07:32:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-10 07:32:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-10 07:32:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-10 07:32:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Mf2WhDk1Zb84vsjJoC2GnIAmluQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/05/pzzb4201.jpg?itok=hMWO3_aN</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
