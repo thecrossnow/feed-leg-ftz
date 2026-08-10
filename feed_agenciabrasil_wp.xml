@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 10 Aug 2026 19:49:13 +0000</pubDate>
+    <pubDate>Mon, 10 Aug 2026 20:33:17 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,105 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Banco Central estuda interligar Pix com sistemas de outros países</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/banco-central-estuda-interligar-pix-com-sistemas-de-outros-paises</link>
+      <pubDate>Mon, 10 Aug 2026 20:33:17 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/banco-central-estuda-interligar-pix-com-sistemas-de-outros-paises#1000</guid>
+      <description>O Banco Central (BC) do Brasil estuda interligar o Pix com sistemas de pagamentos de outros países e commecanismos multilaterais globais de pagamento...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/P-zCx90jaTHdMHRK9alpvPk78mM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/_mg_8276.jpg?itok=6_otKxR4&quot; alt=&quot;Banco Central estuda interligar Pix com sistemas de outros países&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Banco Central (BC) do Brasil estuda interligar o Pix com sistemas de pagamentos de outros países e commecanismos multilaterais globais de pagamentos instantâneos. A autoridade monetária argumenta que a medida tem o potencial de diminuir tarifas e ampliar o acesso a transações internacionais.&lt;/p&gt;
+&lt;p&gt;“Estão em discussão tanto interligações bilaterais como a participação em&lt;/p&gt;
+&lt;p&gt;multilaterais. Essas interligações permitiriam a realização de remessas internacionais e de transações de compra com disponibilização dos recursos em moeda local em poucos segundos”, diz o BC.&lt;/p&gt;
+&lt;p&gt;A agenda de novos produtos e funcionalidades do Pix foi divulgada, nesta segunda-feira (10), no&lt;/p&gt;
+&lt;p&gt;Relatório de Gestão do Pix 2023-2025&lt;/p&gt;
+&lt;p&gt;. O BC informou ainda que monitora os modelos de transações internacionais, com o uso do Pix, que vêm sendo implementadas por empresas nacionais e estrangeiras.&lt;/p&gt;
+&lt;p&gt;Outras inovações previstas pelo Banco Central para o Pix são a possibilidade de realizar transaçõespor aproximação&lt;/p&gt;
+&lt;p&gt;, sem internet, e o uso do Pix automático em substituição ao débito em conta.&lt;/p&gt;
+&lt;p&gt;Tambémvem sendo estudada pelo BC&lt;/p&gt;
+&lt;p&gt;a integração do Pix ao mercado de crédito&lt;/p&gt;
+&lt;p&gt;com objetivo de permitir a utilização dos “fluxos futuros de Pix” como garantias para financiamentos.&lt;/p&gt;
+&lt;p&gt;“Como resultado esperado, a solução pode contribuir para a melhoria da qualidade das garantias e para a redução do custo do crédito, especialmente para empresas com forte uso do Pix”, diz o documento.&lt;/p&gt;
+&lt;p&gt;O Banco Central tem identificado o uso abusivo de mensagens nas transações de Pix para ofensas, ameaças ou intimidações “frequentemente associadas a transferências de valor irrisório”.&lt;/p&gt;
+&lt;p&gt;Originalmente, as mensagens foram pensadas para registrar informações sobre as transações.&lt;/p&gt;
+&lt;p&gt;Com o uso distorcido por parte dos usuários, o BC criou um grupo de trabalho para discutir alternativas para o campo das mensagens do Pix.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/banco-central-estuda-interligar-pix-com-sistemas-de-outros-paises&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Banco Central (BC) do Brasil estuda interligar o Pix com sistemas de pagamentos de outros países e commecanismos multilaterais globais de pagamento...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-10 16:47:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-10 16:47:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-10 16:47:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-10 16:47:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/P-zCx90jaTHdMHRK9alpvPk78mM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/_mg_8276.jpg?itok=6_otKxR4</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>PF e CGU apuram aplicação de servidores de Maceió no Master</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pf-e-cgu-apuram-aplicacao-de-servidores-de-maceio-no-master</link>
+      <pubDate>Mon, 10 Aug 2026 20:33:17 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pf-e-cgu-apuram-aplicacao-de-servidores-de-maceio-no-master#1001</guid>
+      <description>A Polícia Federal (PF) e a Controladoria-Geral da União (CGU) realizaram, nesta segunda-feira (10), uma operação para aprofundar as investigações sob...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zu38l6f6fdJUTZcxg0LrCDKRZmw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/13/policiafederal_copiar.jpg?itok=s96Yt1Ee&quot; alt=&quot;PF e CGU apuram aplicação de servidores de Maceió no Master&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Polícia Federal (PF) e a Controladoria-Geral da União (CGU) realizaram, nesta segunda-feira (10), uma operação para aprofundar as investigações sobre supostas irregularidades na aplicação de R$ 97 milhões do Instituto de Previdência dos Servidores Públicos de Maceió (Iprev) em operações financeiras do Banco Master.&lt;/p&gt;
+&lt;p&gt;Pertencente ao ex-banqueiro Daniel Vorcaro, o Master foi liquidado extrajudicialmente em novembro de 2025, por determinação do Banco Central (BC), que ao anunciar a medida, informou que o Master havia violado às normas do Sistema Financeiro Nacional e sofria com uma grave crise de liquidez.&lt;/p&gt;
+&lt;p&gt;Oito mandados de busca e apreensão expedidos pelo ministro André Mendonça, do Supremo Tribunal Federal (STF), foram cumpridos em cidades de Alagoas e São Paulo.&lt;/p&gt;
+&lt;p&gt;- João Felipe Alves Borges, atual secretário de Fazenda de Maceió, Borges integrava o Conselho de Administração do Iprev à época dos fatos investigados.&lt;/p&gt;
+&lt;p&gt;- Ronnie REYNER Teixeira Mota, ex-diretor-presidente do Iprev;&lt;/p&gt;
+&lt;p&gt;- Gustavo Antônio Rodrigues de Souza, ex-coordenador-geral de Investimentos do Iprev;&lt;/p&gt;
+&lt;p&gt;- Renan Foglia Calamia, dirigente da empresa de consultoria Crédito &amp; Mercado;&lt;/p&gt;
+&lt;p&gt;- Marília Alexandre de Lima Alves, integrante da Secretaria Municipal da Fazenda;&lt;/p&gt;
+&lt;p&gt;- Marcelo Brasileiro Santos, membro do Comitê de Investimentos do Iprev.&lt;/p&gt;
+&lt;p&gt;Mendonça autorizou os agentes federais a apreenderem computadores, discos rígidos, pendrives e outras mídias; telefones pessoais ou corporativos; documentos físicos, agendas, anotações, contratos, comprovantes financeiros e outros elementos probatórios em endereços residenciais e comerciais ligados aos seis investigados e também nas sedes do Iprev e da Crédito &amp; Mercado de Valores Mobiliários LTDA.&lt;/p&gt;
+&lt;p&gt;Segundo a PF, a empresa de consultoria foi contratada pelo Iprev e teria participado da condução do credenciamento, da elaboração e da validação de análises e da formação documental das operações junto ao Master, caracterizando a “terceirização indevida da competência administrativa” do instituto de previdência.&lt;/p&gt;
+&lt;p&gt;Além de autorizar as buscas e apreensões, Mendonça decretou a indisponibilidade dos bens móveis e imóveis, bem como de valores de Borges, Mota, Souza, Calamia, Alves e de Santos, até o limite global de R$ 97 mil.&lt;/p&gt;
+&lt;p&gt;Segundo a PF, as suspeitas de possível gestão fraudulenta recaem sobre duas aplicações de recursos do Iprev em letras financeiras emitidas pelo Master.&lt;/p&gt;
+&lt;p&gt;Em dezembro de 2023, o instituto aplicou R$ 97 mil. Em maio de 2024, mais R$ 17 mil.&lt;/p&gt;
+&lt;p&gt;As investigações buscam esclarecer as circunstâncias do processo de credenciamento, de cotação, de análise de risco, de governança e de tomada de decisão que antecederam os investimentos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pf-e-cgu-apuram-aplicacao-de-servidores-de-maceio-no-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Polícia Federal (PF) e a Controladoria-Geral da União (CGU) realizaram, nesta segunda-feira (10), uma operação para aprofundar as investigações sob...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-08-10 16:34:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-10 16:34:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-10 16:34:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-10 16:34:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/zu38l6f6fdJUTZcxg0LrCDKRZmw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/13/policiafederal_copiar.jpg?itok=s96Yt1Ee</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Lula lamenta terremoto na Colômbia: “Brasil permanece à disposição”</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/lula-lamenta-terremoto-na-colombia-brasil-permanece-disposicao</link>
-      <pubDate>Mon, 10 Aug 2026 19:49:13 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 20:33:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/lula-lamenta-terremoto-na-colombia-brasil-permanece-disposicao#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/lula-lamenta-terremoto-na-colombia-brasil-permanece-disposicao#1002</guid>
       <description>© REUTERS/Camilo Rodriguez/Proibida Reprodução
 O presidente Luiz Inácio Lula da Silva lamentou o terremoto de magnitude 7,4 registrado nesta segunda-...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/i0MLx3JglqGOVRiQ3nO6VOzFLQ0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/10/2026-08-10t163258z_689024089_rc2rvmatq6oq_rtrmadp_3_colombia-quake.jpg?itok=CY-rQQJH&quot; alt=&quot;Lula lamenta terremoto na Colômbia: “Brasil permanece à disposição”&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -36,17 +130,17 @@ O presidente Luiz Inácio Lula da Silva lamentou o terremoto de magnitude 7,4 re
 &lt;p&gt;“Em nome do povo brasileiro, manifesto minha solidariedade ao povo colombiano, especialmente às famílias das vítimas e a todos os afetados pelos tremores. O Brasil permanece à disposição da Colômbia para prestar o apoio necessário”, escreveu.&lt;/p&gt;
 &lt;p&gt;Também em nota, o Ministério das Relações Exteriores informou que o Brasil acompanha, com atenção, os esforços de busca e de assistência às populações afetadas pelo terremoto e manifesta disposição de colaborar, na medida de suas capacidades, com as autoridades colombianas nas ações de resposta à emergência.&lt;/p&gt;
 &lt;p&gt;Ainda segundo o Itamaraty, não foram identificados brasileiros entre as vítimas do tremor. O plantão consular da Embaixada do Brasil em Bogotá pode ser contatado por meio do telefone+57 3108096169e o plantão consular em Brasília, pelo telefone+55 (61) 98260-0610.&lt;/p&gt;
-&lt;p&gt;Umidade do ar varia entre 20% e 12% na região central do país&lt;/p&gt;
-&lt;p&gt;Anvisa manda apreender seis marcas de sal sem registro no país&lt;/p&gt;
+&lt;p&gt;Resumos feitos por IA diminuem audiência de sites jornalísticos&lt;/p&gt;
+&lt;p&gt;Repórter Brasil Tarde de 10 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Consulta pública sobre educação a distância vai até sexta-feira&lt;/p&gt;
+&lt;p&gt;Banco Central estuda interligar Pix com sistemas de outros países&lt;/p&gt;
+&lt;p&gt;PF e CGU apuram aplicação de servidores de Maceió no Master&lt;/p&gt;
 &lt;p&gt;Terremoto: Colômbia declara emergência; número de mortos passa de 100&lt;/p&gt;
 &lt;p&gt;Desenrola Adimplentes começa a operar nesta terça-feira&lt;/p&gt;
-&lt;p&gt;Lula lamenta terremoto na Colômbia: “Brasil permanece à disposição”&lt;/p&gt;
-&lt;p&gt;Estações do Metrô de São Paulo recebem campanha de vacinação&lt;/p&gt;
-&lt;p&gt;Jornalistas indígenas lançam manual inédito de comunicação&lt;/p&gt;
-&lt;p&gt;Adesivo eleitoral pode levar à perda da cobertura de seguro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/lula-lamenta-terremoto-na-colombia-brasil-permanece-disposicao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Lula lamenta terremoto na Colômbia: “Brasil permanece à disposição”&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/lula-lamenta-terremoto-na-colombia-brasil-permanece-disposicao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Camilo Rodriguez/Proibida Reprodução
 O presidente Luiz Inácio Lula da Silva lamentou o terremoto de magnitude 7,4 registrado nesta segunda-...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-10 15:16:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 15:16:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 15:16:00</wp:post_modified>
@@ -72,9 +166,9 @@ O presidente Luiz Inácio Lula da Silva lamentou o terremoto de magnitude 7,4 re
     <item>
       <title>Estações do Metrô de São Paulo recebem campanha de vacinação</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/estacoes-do-metro-de-sao-paulo-recebem-campanha-de-vacinacao</link>
-      <pubDate>Mon, 10 Aug 2026 19:49:13 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 20:33:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/estacoes-do-metro-de-sao-paulo-recebem-campanha-de-vacinacao#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/estacoes-do-metro-de-sao-paulo-recebem-campanha-de-vacinacao#1003</guid>
       <description>Passageiros do Metrô de São Paulo que estiverem passando pelas estações Corinthians-Itaquera, São Mateus, Vila Prudente, Tucuruvi e Vila Matilde pode...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/YUbXQj4n5P3kZUn9QalHfKYXbmo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/08/42a671ea-5780-422b-9c81-6e85c69ec453.jpeg?itok=_WQ7zBkp&quot; alt=&quot;Estações do Metrô de São Paulo recebem campanha de vacinação&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Passageiros do Metrô de São Paulo que estiverem passando pelas estações Corinthians-Itaquera, São Mateus, Vila Prudente, Tucuruvi e Vila Matilde podem aproveitar para tomar a vacina tríplice viral contra sarampo, caxumba e rubéola (SCR)a partir desta segunda-feira (10)até28 de agosto.&lt;/p&gt;
@@ -83,16 +177,16 @@ O presidente Luiz Inácio Lula da Silva lamentou o terremoto de magnitude 7,4 re
 &lt;p&gt;Na estação Tucuruvi (Linha 1-Azul), as doses serão aplicadas de 10 a 14 e de 17 a 21 de agosto, das 10h às 16h. Na estação Vila Matilde (Linha 3-Vermelha), a vacinação será nos dias 27 e 28 de agosto, das 10h às 16h.&lt;/p&gt;
 &lt;p&gt;Segundo a secretaria, a vacinação na Estação Tucuruvi é considerada a mais a importante por estar na zona Norte, área da cidade que registra casos recentes de sarampo.&lt;/p&gt;
 &lt;p&gt;“Essa nova etapa da campanha de vacinação dá acesso à imunização durante os deslocamentos diários e contribui para ampliar a cobertura vacinal na cidade. A vacinação é a principal forma de prevenção contra o sarampo, doença de alta transmissibilidade que pode causar complicações graves.”&lt;/p&gt;
-&lt;p&gt;Terremoto de magnitude 7,4 deixa ao menos 20 mortos na Colômbia&lt;/p&gt;
-&lt;p&gt;Anvisa manda apreender seis marcas de sal sem registro no país&lt;/p&gt;
+&lt;p&gt;Resumos feitos por IA diminuem audiência de sites jornalísticos&lt;/p&gt;
+&lt;p&gt;Repórter Brasil Tarde de 10 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Consulta pública sobre educação a distância vai até sexta-feira&lt;/p&gt;
+&lt;p&gt;Banco Central estuda interligar Pix com sistemas de outros países&lt;/p&gt;
+&lt;p&gt;PF e CGU apuram aplicação de servidores de Maceió no Master&lt;/p&gt;
 &lt;p&gt;Terremoto: Colômbia declara emergência; número de mortos passa de 100&lt;/p&gt;
 &lt;p&gt;Desenrola Adimplentes começa a operar nesta terça-feira&lt;/p&gt;
-&lt;p&gt;Lula lamenta terremoto na Colômbia: “Brasil permanece à disposição”&lt;/p&gt;
-&lt;p&gt;Estações do Metrô de São Paulo recebem campanha de vacinação&lt;/p&gt;
-&lt;p&gt;Jornalistas indígenas lançam manual inédito de comunicação&lt;/p&gt;
-&lt;p&gt;Adesivo eleitoral pode levar à perda da cobertura de seguro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/estacoes-do-metro-de-sao-paulo-recebem-campanha-de-vacinacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Lula lamenta terremoto na Colômbia: “Brasil permanece à disposição”&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/estacoes-do-metro-de-sao-paulo-recebem-campanha-de-vacinacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Passageiros do Metrô de São Paulo que estiverem passando pelas estações Corinthians-Itaquera, São Mateus, Vila Prudente, Tucuruvi e Vila Matilde pode...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-10 14:29:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 14:29:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 14:29:00</wp:post_modified>
@@ -118,9 +212,9 @@ O presidente Luiz Inácio Lula da Silva lamentou o terremoto de magnitude 7,4 re
     <item>
       <title>Jornalistas indígenas lançam manual inédito de comunicação</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/jornalistas-indigenas-lancam-manual-inedito-de-comunicacao</link>
-      <pubDate>Mon, 10 Aug 2026 19:49:13 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 20:33:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/jornalistas-indigenas-lancam-manual-inedito-de-comunicacao#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/jornalistas-indigenas-lancam-manual-inedito-de-comunicacao#1004</guid>
       <description>O manual de jornalismo indígena
 foi lançado nesta segunda-feira (10), na Câmara dos Deputados, em Brasília.
 A ferramenta é inédita e traz termos, ori...</description>
@@ -139,11 +233,11 @@ A ferramenta é inédita e traz termos, ori...</description>
 &lt;p&gt;“Essa é uma grande oportunidade que a gente oferece para os currículos, para as ementas dos cursos de jornalismo, que inclua esse manual como uma ferramenta pedagógica de redação antirracista para falar de povos indígenas e de outros povos e comunidades tradicionais.&quot;&lt;/p&gt;
 &lt;p&gt;Samela Sateré Mawé é assessora de comunicação da Articulação dos Povos Indígenas do Brasil (Apib) e acredita que a ferramenta também servirá para estimular a chegada de mais indígenas a ocuparem os espaços de comunicação das entidades representativas e dos canais de comunicação de todo o país.&lt;/p&gt;
 &lt;p&gt;“Esse manual é uma porta que vai se abrir para dentro do movimento indígena que vai se abrir para os jornalistas indígenas ocupando esses espaços, porque ninguém melhor que a gente para falar sobre a gente”, conclui Samela.&lt;/p&gt;
-&lt;p&gt;Umidade do ar varia entre 20% e 12% na região central do país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/jornalistas-indigenas-lancam-manual-inedito-de-comunicacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Resumos feitos por IA diminuem audiência de sites jornalísticos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/jornalistas-indigenas-lancam-manual-inedito-de-comunicacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O manual de jornalismo indígena
 foi lançado nesta segunda-feira (10), na Câmara dos Deputados, em Brasília.
 A ferramenta é inédita e traz termos, ori...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-10 14:28:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 14:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 14:28:00</wp:post_modified>
@@ -169,9 +263,9 @@ A ferramenta é inédita e traz termos, ori...</excerpt:encoded>
     <item>
       <title>Adesivo eleitoral pode levar à perda da cobertura de seguro</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/adesivo-eleitoral-pode-levar-perda-da-cobertura-de-seguro</link>
-      <pubDate>Mon, 10 Aug 2026 19:49:13 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 20:33:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/adesivo-eleitoral-pode-levar-perda-da-cobertura-de-seguro#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/adesivo-eleitoral-pode-levar-perda-da-cobertura-de-seguro#1005</guid>
       <description>Motoristas que pretendem adesivar veículos com propaganda eleitoral ou utilizá-los em atividades de campanha nas eleições 2026 devem informar previam...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CrPHGn5F2w1ZNhlXXXmoM4PVNxk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/31/0d4a6372.jpg?itok=s6T6aH40&quot; alt=&quot;Adesivo eleitoral pode levar à perda da cobertura de seguro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Motoristas que pretendem adesivar veículos com propaganda eleitoral ou utilizá-los em atividades de campanha nas eleições 2026 devem informar previamente a seguradora para evitar problemas em caso de sinistro.&lt;/p&gt;
@@ -187,10 +281,10 @@ A ferramenta é inédita e traz termos, ori...</excerpt:encoded>
 &lt;p&gt;Solicitar um endosso para registrar formalmente a alteração na apólice, quando necessário&lt;/p&gt;
 &lt;p&gt;Verificar se o envelopamento exige atualização do registro do veículo junto ao Detran&lt;/p&gt;
 &lt;p&gt;Conferir quais danos e situações estão excluídos da cobertura contratada&lt;/p&gt;
-&lt;p&gt;Umidade do ar varia entre 20% e 12% na região central do país&lt;/p&gt;
-&lt;p&gt;Anvisa manda apreender seis marcas de sal sem registro no país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/adesivo-eleitoral-pode-levar-perda-da-cobertura-de-seguro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Resumos feitos por IA diminuem audiência de sites jornalísticos&lt;/p&gt;
+&lt;p&gt;Repórter Brasil Tarde de 10 de agosto de 2026; assista na íntegra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/adesivo-eleitoral-pode-levar-perda-da-cobertura-de-seguro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Motoristas que pretendem adesivar veículos com propaganda eleitoral ou utilizá-los em atividades de campanha nas eleições 2026 devem informar previam...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-10 14:15:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 14:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 14:15:00</wp:post_modified>
@@ -216,9 +310,9 @@ A ferramenta é inédita e traz termos, ori...</excerpt:encoded>
     <item>
       <title>Alunos do Prouni podem solicitar bolsa permanência de R$ 700 por mês</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/alunos-do-prouni-podem-solicitar-bolsa-permanencia-de-r-700-por-mes</link>
-      <pubDate>Mon, 10 Aug 2026 19:49:13 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 20:33:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/alunos-do-prouni-podem-solicitar-bolsa-permanencia-de-r-700-por-mes#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/alunos-do-prouni-podem-solicitar-bolsa-permanencia-de-r-700-por-mes#1006</guid>
       <description>Os estudantes beneficiários de bolsa integral do Programa Universidade para Todos matriculados em cursos superiores presenciais integrais podem solic...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/pyQYUl_Br3_nsD2e6wjG7CtJu9U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/24/0d9a2961.jpg?itok=AWaOtSbF&quot; alt=&quot;Alunos do Prouni podem solicitar bolsa permanência de R$ 700 por mês&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Os estudantes beneficiários de bolsa integral do Programa Universidade para Todos matriculados em cursos superiores presenciais integrais podem solicitar a Bolsa Permanência Prouni concedida pelo Ministério da Educação (MEC).&lt;/p&gt;
@@ -237,7 +331,7 @@ A ferramenta é inédita e traz termos, ori...</excerpt:encoded>
 &lt;p&gt;A seleção ocorre mensalmente, no primeiro dia do mês, condicionada à disponibilidade orçamentária da Secretaria de Educação Superior (Sesu). Nos casos em que o número de candidatos supere os recursos disponíveis, a priorização observa o processo seletivo de ingresso (do mais antigo ao mais recente) e a média obtida nas notas do Exame Nacional do Ensino Médio (Enem).&lt;/p&gt;
 &lt;p&gt;O valor da Bolsa Permanência é depositado mensalmente em conta corrente bancária individual do estudante no Banco do Brasil ou na Caixa Econômica Federal.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/alunos-do-prouni-podem-solicitar-bolsa-permanencia-de-r-700-por-mes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os estudantes beneficiários de bolsa integral do Programa Universidade para Todos matriculados em cursos superiores presenciais integrais podem solic...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-10 14:12:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 14:12:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 14:12:00</wp:post_modified>
@@ -263,9 +357,9 @@ A ferramenta é inédita e traz termos, ori...</excerpt:encoded>
     <item>
       <title>Forte terremoto deixa pelo menos 20 mortos na Colômbia</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/forte-terremoto-deixa-pelo-menos-20-mortos-na-colombia</link>
-      <pubDate>Mon, 10 Aug 2026 19:49:13 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 20:33:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/forte-terremoto-deixa-pelo-menos-20-mortos-na-colombia#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/forte-terremoto-deixa-pelo-menos-20-mortos-na-colombia#1007</guid>
       <description>© REUTERS/Camilo Rodriguez/Proibida Reprodução
 Pelo menos 20 pessoas morreram noterremoto no oeste da Colômbia, nesta segunda-feira (10), que derrubo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/JrZkVG6FW4evuFjEEdOveoBN3rU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/10/2026-08-10t163303z_2056752472_rc2rvmapc1bn_rtrmadp_3_colombia-quake.jpg?itok=joeH2duR&quot; alt=&quot;Forte terremoto deixa pelo menos 20 mortos na Colômbia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -283,10 +377,10 @@ Pelo menos 20 pessoas morreram noterremoto no oeste da Colômbia, nesta segunda-
 &lt;p&gt;Testemunhas da Reuters no Estado fronteiriço venezuelano de Táchira e na cidade de Barquisimeto, no centro-oeste do país, relataram que o terremoto foi sentido nessas regiões.&lt;/p&gt;
 &lt;p&gt;A Venezuela foi atingida por dois terremotos devastadores em junho, que mataram mais de 6.000 pessoas, principalmente no litoral próximo à capital, Caracas.&lt;/p&gt;
 &lt;p&gt;Saiba mais no Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
-&lt;p&gt;Umidade do ar varia entre 20% e 12% na região central do país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/forte-terremoto-deixa-pelo-menos-20-mortos-na-colombia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Resumos feitos por IA diminuem audiência de sites jornalísticos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/forte-terremoto-deixa-pelo-menos-20-mortos-na-colombia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Camilo Rodriguez/Proibida Reprodução
 Pelo menos 20 pessoas morreram noterremoto no oeste da Colômbia, nesta segunda-feira (10), que derrubo...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-10 13:04:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 13:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 13:04:00</wp:post_modified>
@@ -312,9 +406,9 @@ Pelo menos 20 pessoas morreram noterremoto no oeste da Colômbia, nesta segunda-
     <item>
       <title>Prouni 2026: pré-selecionado deve comprovar informação até sexta-feira</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-2026-pre-selecionado-deve-comprovar-informacao-ate-sexta-feira</link>
-      <pubDate>Mon, 10 Aug 2026 19:49:13 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 20:33:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-2026-pre-selecionado-deve-comprovar-informacao-ate-sexta-feira#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/prouni-2026-pre-selecionado-deve-comprovar-informacao-ate-sexta-feira#1008</guid>
       <description>O prazo para que os estudantes pré-selecionados na segunda chamada do
 Programa Universidade para Todos (Prouni)
 , referente ao segundo semestre de 20...</description>
@@ -337,7 +431,7 @@ Programa Universidade para Todos (Prouni)
       <excerpt:encoded>O prazo para que os estudantes pré-selecionados na segunda chamada do
 Programa Universidade para Todos (Prouni)
 , referente ao segundo semestre de 20...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-10 11:47:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 11:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 11:47:00</wp:post_modified>
@@ -363,9 +457,9 @@ Programa Universidade para Todos (Prouni)
     <item>
       <title>Desenrola Adimplentes começa a operar nesta terça-feira</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desenrola-adimplentes-comeca-operar-nesta-ter%C3%A7a-feira</link>
-      <pubDate>Mon, 10 Aug 2026 19:49:13 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 20:33:17 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desenrola-adimplentes-comeca-operar-nesta-ter%C3%A7a-feira#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desenrola-adimplentes-comeca-operar-nesta-ter%C3%A7a-feira#1009</guid>
       <description>© José Cruz/Agência Brasil/Arquivo
 Começa nesta terça-feira (11) a operação do Desenrola Adimplentes, modalidade do programa Desenrola voltada a trab...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ybvsEizsRx48_5NYTX82taeJvNo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220041_1.jpg?itok=-1jG6u6H&quot; alt=&quot;Desenrola Adimplentes começa a operar nesta terça-feira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -383,10 +477,10 @@ Começa nesta terça-feira (11) a operação do Desenrola Adimplentes, modalidad
 &lt;p&gt;Levantamento do NetLab/UFRJ identificou 544 anúncios fraudulentos nas plataformas da Meta entre abril e junho, dos quais 38% utilizavam inteligência artificial e 72% exploravam indevidamente a imagem do governo e de marcas conhecidas para conferir aparência de legitimidade às fraudes.&lt;/p&gt;
 &lt;p&gt;Todas as informações oficiais sobre o programa estão disponíveis nos canais do Ministério da Fazenda.&lt;/p&gt;
 &lt;p&gt;*Matéria e título alterados às 16h05 para corrigir a data de início do programa&lt;/p&gt;
-&lt;p&gt;Umidade do ar varia entre 20% e 12% na região central do país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desenrola-adimplentes-comeca-operar-nesta-ter%C3%A7a-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Resumos feitos por IA diminuem audiência de sites jornalísticos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/desenrola-adimplentes-comeca-operar-nesta-ter%C3%A7a-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© José Cruz/Agência Brasil/Arquivo
 Começa nesta terça-feira (11) a operação do Desenrola Adimplentes, modalidade do programa Desenrola voltada a trab...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-10 11:25:00</wp:post_date>
       <wp:post_date_gmt>2026-08-10 11:25:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-10 11:25:00</wp:post_modified>
@@ -407,92 +501,6 @@ Começa nesta terça-feira (11) a operação do Desenrola Adimplentes, modalidad
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/ybvsEizsRx48_5NYTX82taeJvNo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220041_1.jpg?itok=-1jG6u6H</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Anvisa libera venda de medicamentos por plataformas como iFood e Rapp</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-libera-venda-de-medicamentos-por-plataformas-como-ifood-e-rapp</link>
-      <pubDate>Mon, 10 Aug 2026 19:49:13 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-libera-venda-de-medicamentos-por-plataformas-como-ifood-e-rapp#1008</guid>
-      <description>A Agência Nacional de Vigilância Sanitária (Anvisa) revogou nesta segunda-feira (10) uma série de resoluções e medidas preventivas que proibiam a com...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cIHkQSTIDhZVLUF9-VaIw3DnQ3s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/31/pint8161.jpg?itok=jZ0RpHWh&quot; alt=&quot;Anvisa libera venda de medicamentos por plataformas como iFood e Rapp&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) revogou nesta segunda-feira (10) uma série de resoluções e medidas preventivas que proibiam a comercialização e a propaganda de medicamentos nas plataformas iFood, Rappi, Mercado Livre, Submarino e Americanas.&lt;/p&gt;
-&lt;p&gt;Na última quinta-feira (6), a Anvisa já havia revogado a proibição da comercialização e da propaganda de medicamentos na plataforma Shopee.&lt;/p&gt;
-&lt;p&gt;Em nota, a agência destacou que as revogações não isentam essasempresas de cumprir integralmente a regulamentação sanitária aplicável e também não implicam autorização automática de comercialização de produtos farmacêuticos.&lt;/p&gt;
-&lt;p&gt;No comunicado, a Anvisa destacou que a aplicação da&lt;/p&gt;
-&lt;p&gt;, que passou a permitir que farmácias e drogarias regularmente licenciadas contratem canais digitais e plataformas de comércio eletrônico para logística e entrega de medicamentos aos consumidores, depende de regulamentação específica a ser editada pela própria agência.&lt;/p&gt;
-&lt;p&gt;Umidade do ar varia entre 20% e 12% na região central do país&lt;/p&gt;
-&lt;p&gt;Anvisa manda apreender seis marcas de sal sem registro no país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-libera-venda-de-medicamentos-por-plataformas-como-ifood-e-rapp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Agência Nacional de Vigilância Sanitária (Anvisa) revogou nesta segunda-feira (10) uma série de resoluções e medidas preventivas que proibiam a com...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-08-10 11:18:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-10 11:18:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-10 11:18:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-10 11:18:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/cIHkQSTIDhZVLUF9-VaIw3DnQ3s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/31/pint8161.jpg?itok=jZ0RpHWh</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>SUS inclui novo teste para rastreamento de câncer colorretal</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-inclui-novo-teste-para-rastreamento-de-cancer-colorretal</link>
-      <pubDate>Mon, 10 Aug 2026 19:49:13 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-inclui-novo-teste-para-rastreamento-de-cancer-colorretal#1009</guid>
-      <description>inclui a partir desta segunda-feira (10) o teste imunoquímico fecal (FIT, na sigla em inglês) na tabela de procedimentos disponíveis aos pacientes da...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iy8MZo5Ed_y7L3nGnY3VN_wR4Gg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/adobestock_1890775616.jpeg?itok=S1kjSdhU&quot; alt=&quot;SUS inclui novo teste para rastreamento de câncer colorretal&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;inclui a partir desta segunda-feira (10) o teste imunoquímico fecal (FIT, na sigla em inglês) na tabela de procedimentos disponíveis aos pacientes da rede.&lt;/p&gt;
-&lt;p&gt;destaca que o exame que pesquisa sangue oculto nas fezes será destinado exclusivamente ao rastreamento bienal de&lt;/p&gt;
-&lt;p&gt;colorretal em homens e mulheres assintomáticos, com idade entre 50 e 75 anos.&lt;/p&gt;
-&lt;p&gt;O texto reforça que o procedimento não se destina à investigação diagnóstica de indivíduos sintomáticos ou com suspeita clínica de câncer.&lt;/p&gt;
-&lt;p&gt;Em maio, o ministério já havia anunciado a inclusão do teste em um novo protocolo para rastreamento do câncer colorretal. Dados da pasta indicam que o FIT apresenta sensibilidade entre 85% e 92% para identificar possíveis alterações.&lt;/p&gt;
-&lt;p&gt;Além disso, o procedimento pode ampliar o acesso de mais de 40 milhões de brasileiros à prevenção e à detecção precoce da doença. Atualmente, o câncer colorretal é o segundo tipo de câncer mais frequente no Brasil, excluindo os tumores de pele não melanoma.&lt;/p&gt;
-&lt;p&gt;A estimativa do Instituto Nacional de Câncer (Inca) para cada ano do triênio 2026-2028 é de 53,8 mil novos casos de câncer colorretal no Brasil.&lt;/p&gt;
-&lt;p&gt;O FIT é um exame de fezes que detecta pequenas quantidades de sangue oculto, invisíveis a olho nu, que podem ser sinal de pólipos, lesões pré-cancerígenas ou câncer no intestino.&lt;/p&gt;
-&lt;p&gt;Diferentemente dos exames antigos de sangue oculto nas fezes, o FIT usa anticorpos específicos para identificar sangue humano, o que aumenta a precisão do teste.&lt;/p&gt;
-&lt;p&gt;O paciente recebe um kit para coleta em casa. Depois, o material é enviado para análise laboratorial. Caso o resultado detecte sangue oculto, o paciente será encaminhado para exames complementares.&lt;/p&gt;
-&lt;p&gt;Entre as principais vantagens do exame FIT listadas pela pasta estão:&lt;/p&gt;
-&lt;p&gt;não precisa de dieta restritiva antes da coleta;&lt;/p&gt;
-&lt;p&gt;pode ser feito com apenas uma amostra;&lt;/p&gt;
-&lt;p&gt;Mesmo assim, segundo o ministério, a colonoscopia é a principal forma de avaliar o intestino, porque permite visualizar diretamente o cólon e o reto, além de retirar pólipos durante o procedimento, evitando que algumas lesões evoluam para câncer.&lt;/p&gt;
-&lt;p&gt;Umidade do ar varia entre 20% e 12% na região central do país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/sus-inclui-novo-teste-para-rastreamento-de-cancer-colorretal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>inclui a partir desta segunda-feira (10) o teste imunoquímico fecal (FIT, na sigla em inglês) na tabela de procedimentos disponíveis aos pacientes da...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-10 11:04:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-10 11:04:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-10 11:04:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-10 11:04:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/iy8MZo5Ed_y7L3nGnY3VN_wR4Gg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/adobestock_1890775616.jpeg?itok=S1kjSdhU</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
