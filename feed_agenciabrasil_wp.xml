@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 10 Aug 2026 09:09:46 +0000</pubDate>
+    <pubDate>Mon, 10 Aug 2026 11:00:24 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,60 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Declaração do imposto sobre imóveis rurais pode ser feita por internet</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/declaracao-do-imposto-sobre-imoveis-rurais-pode-ser-feita-por-internet</link>
+      <pubDate>Mon, 10 Aug 2026 11:00:24 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/declaracao-do-imposto-sobre-imoveis-rurais-pode-ser-feita-por-internet#1000</guid>
+      <description>A Receita Federal disponibiliza a partir desta segunda-feira (10) a versão web do serviço Minhas Declarações do ITR, que
+permite preencher, transmiti...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/sseB47Lt-iHXUMxRHUclsdujkxs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/50927545386_dc142e1f64_k.jpg?itok=dTmeUs55&quot; alt=&quot;Declaração do imposto sobre imóveis rurais pode ser feita por internet&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Receita Federal disponibiliza a partir desta segunda-feira (10) a versão web do serviço Minhas Declarações do ITR, que&lt;/p&gt;
+&lt;p&gt;permite preencher, transmitir, retificar e consultar online a Declaração do Imposto sobre a Propriedade Territorial Rural (DITR)&lt;/p&gt;
+&lt;p&gt;, sem necessidade de instalar programas no computador.&lt;/p&gt;
+&lt;p&gt;Portal de Serviços da Receita Federal&lt;/p&gt;
+&lt;p&gt;com conta gov.br nível prata ou ouro.&lt;/p&gt;
+&lt;p&gt;O uso da plataforma será obrigatório para pessoas jurídicas e físicas proprietárias de imóveis rurais com área superior a 100 hectares.&lt;/p&gt;
+&lt;p&gt;Proprietários de áreas de até 100 hectares também poderão apresentar a declaração por meio do Programa Gerador da Declaração (PGD ITR 2026).&lt;/p&gt;
+&lt;p&gt;A DITR é o documento usado para informar à Receita Federal os dados cadastrais do imóvel rural e de seu titular, as áreas do imóvel e outras informações necessárias para a apuração do Imposto sobre a Propriedade Territorial Rural (ITR).&lt;/p&gt;
+&lt;p&gt;Devem apresentar a declaração os proprietários, usufrutuários, titulares do domínio útil ou detentores de imóveis rurais, pessoas físicas ou jurídicas. Em situações específicas, a obrigação também alcança condôminos, compossuidores e inventariantes.&lt;/p&gt;
+&lt;p&gt;ambiente digital reúne, em um único local, declarações, recibos e documentos relacionados ao ITR, além de oferecer recursos como pré-preenchimento de dados cadastrais e acesso por dispositivos móveis&lt;/p&gt;
+&lt;p&gt;A entrega da DITR fora do prazo está sujeita à Multa por Atraso na Entrega da Declaração (Maed).&lt;/p&gt;
+&lt;p&gt;Jornalistas indígenas lançam manual para qualificar a imprensa&lt;/p&gt;
+&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
+&lt;p&gt;Relógio da longevidade é tema do Caminhos da Reportagem&lt;/p&gt;
+&lt;p&gt;Declaração do imposto sobre imóveis rurais pode ser feita por internet&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/declaracao-do-imposto-sobre-imoveis-rurais-pode-ser-feita-por-internet&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Receita Federal disponibiliza a partir desta segunda-feira (10) a versão web do serviço Minhas Declarações do ITR, que
+permite preencher, transmiti...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-10 07:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-10 07:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-10 07:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-10 07:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/sseB47Lt-iHXUMxRHUclsdujkxs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/50927545386_dc142e1f64_k.jpg?itok=dTmeUs55</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/flavia-saraiva-fatura-ouro-na-trave-e-no-solo-no-campeonato-brasileiro</link>
-      <pubDate>Mon, 10 Aug 2026 09:09:46 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:00:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/flavia-saraiva-fatura-ouro-na-trave-e-no-solo-no-campeonato-brasileiro#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/flavia-saraiva-fatura-ouro-na-trave-e-no-solo-no-campeonato-brasileiro#1001</guid>
       <description>© Melogym/CBG/Direitos Reservados
 A carioca Flávia Saraiva arrebatou o público do Ginásio Nilson Nelson, em Brasília, neste domingo (9), último dia d...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qieLcwM-HQyYN2ybEvphfTtfwtU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/09/flavia_saraiva_campea_brasileiro_ginastica_2028.jpg?itok=q1mQlbAu&quot; alt=&quot;Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -40,14 +89,14 @@ A carioca Flávia Saraiva arrebatou o público do Ginásio Nilson Nelson, em Bra
 &lt;p&gt;Um post compartilhado por Conf. Brasileira de Ginástica (@cbginastica)&lt;/p&gt;
 &lt;p&gt;Um dia após levar o ouro nas argolas, Caio Souza (Minas Tênis Clube – MTC) sobrou nas barras assimétricas. Nascido em Volta Redonda (RJ), o ginasta foi campeão com nota 13.966. Em segundo lugar, com a prata, ficou Dreick Goulart (13.133), do Grêmio Náutico União. O ginasta Johnny Oshiro (12.466), da Associação de Ginástica Di Thiene de Pais (Agith), levou o bronze, um dia após ter sido campeão no cavalo.&lt;/p&gt;
 &lt;p&gt;Colega de Oshiro no Agith, Yuri Guimarães faturou o segundo ouro no Brasileirão nas finais de aparelhos – o primeiro foi obtido o sábado (8), na final do solo. Hoje Yuri foi campeão no salto, com média 14.133. Também subiram ao pódio João Perdigão, do Pinheiros, que levou a prata, e Christian Dorneles com o bronze.&lt;/p&gt;
-&lt;p&gt;TSE promove Corrida pela Democracia em Brasília&lt;/p&gt;
+&lt;p&gt;Jornalistas indígenas lançam manual para qualificar a imprensa&lt;/p&gt;
 &lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
-&lt;p&gt;Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro&lt;/p&gt;
-&lt;p&gt;Projeto aproxima comunidades de equipamentos culturais em Salvador&lt;/p&gt;
-&lt;p&gt;Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/flavia-saraiva-fatura-ouro-na-trave-e-no-solo-no-campeonato-brasileiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Relógio da longevidade é tema do Caminhos da Reportagem&lt;/p&gt;
+&lt;p&gt;Declaração do imposto sobre imóveis rurais pode ser feita por internet&lt;/p&gt;
+&lt;p&gt;Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/flavia-saraiva-fatura-ouro-na-trave-e-no-solo-no-campeonato-brasileiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Melogym/CBG/Direitos Reservados
 A carioca Flávia Saraiva arrebatou o público do Ginásio Nilson Nelson, em Brasília, neste domingo (9), último dia d...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-08-09 20:21:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 20:21:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 20:21:00</wp:post_modified>
@@ -73,9 +122,9 @@ A carioca Flávia Saraiva arrebatou o público do Ginásio Nilson Nelson, em Bra
     <item>
       <title>Projeto aproxima comunidades de equipamentos culturais em Salvador</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/projeto-aproxima-comunidades-de-equipamentos-culturais-em-salvador</link>
-      <pubDate>Mon, 10 Aug 2026 09:09:46 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:00:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/projeto-aproxima-comunidades-de-equipamentos-culturais-em-salvador#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/projeto-aproxima-comunidades-de-equipamentos-culturais-em-salvador#1002</guid>
       <description>Alguns moradores da comunidade de Águas Claras, em Salvador, visitaram o centro histórico da cidade, no sábado (8), e a Festa Literária Internacional...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Projeto aproxima comunidades de equipamentos culturais em Salvador&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Alguns moradores da comunidade de Águas Claras, em Salvador, visitaram o centro histórico da cidade, no sábado (8), e a Festa Literária Internacional do Pelourinho (Flipelô) pela primeira vez.&lt;/p&gt;
@@ -94,7 +143,7 @@ A carioca Flávia Saraiva arrebatou o público do Ginásio Nilson Nelson, em Bra
 &lt;p&gt;“Tenho visto uma certa mudança no comportamento da própria comunidade. Primeiro sobre a autoestima da comunidade em relação à cidade. Agora ela já começa a ter mais coragem e confiança para poder expor o que acontece de bom por lá”.&lt;/p&gt;
 &lt;p&gt;Apesar das muitas ações sociais e culturais sendo desenvolvidas no bairro – como uma biblioteca comunitária –, Aline defende que ainda é preciso criar políticas públicas para ampliar o acesso das comunidades à cultura. “Precisamos pensar em iniciativas que valorizem ou que deem vazão ao que acontece na comunidade”, ressaltou.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/projeto-aproxima-comunidades-de-equipamentos-culturais-em-salvador&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Alguns moradores da comunidade de Águas Claras, em Salvador, visitaram o centro histórico da cidade, no sábado (8), e a Festa Literária Internacional...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-09 17:46:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 17:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 17:46:00</wp:post_modified>
@@ -120,9 +169,9 @@ A carioca Flávia Saraiva arrebatou o público do Ginásio Nilson Nelson, em Bra
     <item>
       <title>Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/rayssa-leal-e-campea-da-etapa-carioca-da-liga-internacional-de-skate</link>
-      <pubDate>Mon, 10 Aug 2026 09:09:46 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:00:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/rayssa-leal-e-campea-da-etapa-carioca-da-liga-internacional-de-skate#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/rayssa-leal-e-campea-da-etapa-carioca-da-liga-internacional-de-skate#1003</guid>
       <description>Duas vezes medalhista olímpica, a maranhense Rayssa Leal deu show no lotado Ginásio do Maracanãzinho, no Rio de Janeiro, que pela primeira vez na his...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ILMNIE780m9H-uMuK1n0PNDOkO8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/09/rayssa_campea_sls_rj_2026_etapa_0.jpg?itok=MyPHg-OR&quot; alt=&quot;Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Duas vezes medalhista olímpica, a maranhense Rayssa Leal deu show no lotado Ginásio do Maracanãzinho, no Rio de Janeiro, que pela primeira vez na história foi palco de uma etapa da Street League Skateborading (SLS), a Liga Internacional da modalidade. Mesmo com dores após ter sofrido uma queda na véspera do evento, Rayssa cravou somatório de 20.9, deixando para trás por apenas 0.02 de vantagem a japonesa Momiji Nishiya - ouro olímpico em Tóquio 2020-, segunda colocada com total 20.7. A espanhola Daniela Terol (17.7) completou o pódio na terceira posição. A paulista Gabriela Mazetto (14.8) terminou na quarta posição.&lt;/p&gt;
@@ -133,15 +182,15 @@ A carioca Flávia Saraiva arrebatou o público do Ginásio Nilson Nelson, em Bra
 &lt;p&gt;Ao todo cinco brasileiros disputaram a final masculina da etapa carioca da SLS, que reuniu 10 atletas. Paulista de Santo André, Giovanni Vianna chegou a liderar a penúltima rodada ao receber notas 9.1 e 9.2 em duas manobras perto da perfeição. No entanto, o canadense Cordano Russel anotou9.3 na rodada derradeira e levou o título com somatório 27.9. Já Giovanni desperdiçou a última chancee foi vice-campeão ao totalizar 26.9. O conterrâneo Wallace Gabriel (24.5) assegurou a terceira posição no pódio.&lt;/p&gt;
 &lt;p&gt;Um post compartilhado por Street League Skateboarding (@sls)&lt;/p&gt;
 &lt;p&gt;Nascido em Osasco (SP), Abner Pietro (22.6) terminou na quinta posição. Campeão mundial de skate street em 2021, o cearense Lucas Rabelo (15.9) ficou em sétimo lugar e o paulista Ivan Monteiro (7.0) na 10ª posição.&lt;/p&gt;
-&lt;p&gt;TSE promove Corrida pela Democracia em Brasília&lt;/p&gt;
+&lt;p&gt;Vítimas colombianas de acidente com helicóptero eram da mesma família&lt;/p&gt;
 &lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
+&lt;p&gt;Relógio da longevidade é tema do Caminhos da Reportagem&lt;/p&gt;
+&lt;p&gt;Declaração do imposto sobre imóveis rurais pode ser feita por internet&lt;/p&gt;
 &lt;p&gt;Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro&lt;/p&gt;
 &lt;p&gt;Projeto aproxima comunidades de equipamentos culturais em Salvador&lt;/p&gt;
-&lt;p&gt;Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street&lt;/p&gt;
-&lt;p&gt;Queixas sexuais na menopausa têm tratamento, diz especialista&lt;/p&gt;
-&lt;p&gt;Memória é fundamental na literatura, diz escritor Milton Hatoum&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/rayssa-leal-e-campea-da-etapa-carioca-da-liga-internacional-de-skate&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/rayssa-leal-e-campea-da-etapa-carioca-da-liga-internacional-de-skate&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Duas vezes medalhista olímpica, a maranhense Rayssa Leal deu show no lotado Ginásio do Maracanãzinho, no Rio de Janeiro, que pela primeira vez na his...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-09 17:40:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 17:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 17:40:00</wp:post_modified>
@@ -167,9 +216,9 @@ A carioca Flávia Saraiva arrebatou o público do Ginásio Nilson Nelson, em Bra
     <item>
       <title>Queixas sexuais na menopausa têm tratamento, diz especialista</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/queixas-sexuais-na-menopausa-tem-tratamento-diz-especialista</link>
-      <pubDate>Mon, 10 Aug 2026 09:09:46 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:00:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/queixas-sexuais-na-menopausa-tem-tratamento-diz-especialista#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/queixas-sexuais-na-menopausa-tem-tratamento-diz-especialista#1004</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 Queixas como secura vaginal, dor durante a relação e perda do desejo sexual não devem ser encaradas como c...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Mf2WhDk1Zb84vsjJoC2GnIAmluQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/05/pzzb4201.jpg?itok=hMWO3_aN&quot; alt=&quot;Queixas sexuais na menopausa têm tratamento, diz especialista&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -183,14 +232,14 @@ Queixas como secura vaginal, dor durante a relação e perda do desejo sexual n�
 &lt;p&gt;Jussimara admitiu que queixas femininas, como secura vaginal, dor durante as relações, podem também ser decorrentes de alguma doença. A dor na relação, por exemplo, pode ser sentida profundamente na pelve, como resultado de endometriose ou aderências, doença inflamatória pélvica. Há também dores sentidas quase no assoalho pélvico.&lt;/p&gt;
 &lt;p&gt;&quot;Essa mulher que sente dorvai contrair totalmente o corpo inteiro e, muito mais, os músculos do assoalho pélvico. Toda mulher que tem dor sexual tem o componente da dor e o componente da contratura muscular. Por isso, é importante um trabalho multidisciplinar”, sugeriu a ginecologista.&lt;/p&gt;
 &lt;p&gt;No entender da especialista, a longevidade feminina não pode ser discutida sem falar de menopausa e sexualidade. No Brasil, cerca de 30 milhões de mulheres estão nessa faixa e dados nacionais apontam que 82% têm sintomas que impactam qualidade de vida.&lt;/p&gt;
-&lt;p&gt;TSE promove Corrida pela Democracia em Brasília&lt;/p&gt;
+&lt;p&gt;Jornalistas indígenas lançam manual para qualificar a imprensa&lt;/p&gt;
 &lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
-&lt;p&gt;Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro&lt;/p&gt;
-&lt;p&gt;Projeto aproxima comunidades de equipamentos culturais em Salvador&lt;/p&gt;
-&lt;p&gt;Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/queixas-sexuais-na-menopausa-tem-tratamento-diz-especialista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Relógio da longevidade é tema do Caminhos da Reportagem&lt;/p&gt;
+&lt;p&gt;Declaração do imposto sobre imóveis rurais pode ser feita por internet&lt;/p&gt;
+&lt;p&gt;Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/queixas-sexuais-na-menopausa-tem-tratamento-diz-especialista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 Queixas como secura vaginal, dor durante a relação e perda do desejo sexual não devem ser encaradas como c...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-09 16:23:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 16:23:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 16:23:00</wp:post_modified>
@@ -216,9 +265,9 @@ Queixas como secura vaginal, dor durante a relação e perda do desejo sexual n�
     <item>
       <title>Memória é fundamental na literatura, diz escritor Milton Hatoum</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/memoria-e-fundamental-na-literatura-diz-escritor-milton-hatoum</link>
-      <pubDate>Mon, 10 Aug 2026 09:09:46 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:00:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/memoria-e-fundamental-na-literatura-diz-escritor-milton-hatoum#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/memoria-e-fundamental-na-literatura-diz-escritor-milton-hatoum#1005</guid>
       <description>, a memória vem sendo um objeto de investigação do escritor manauara Milton Hatoum. Com
 , publicado no final do ano passado e que encerra sua trilogi...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/nEhf-MlOzheAVJ4mzRKIW9IrWT4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/09/0g0a8208.jpg?itok=mmlbWPfl&quot; alt=&quot;Memória é fundamental na literatura, diz escritor Milton Hatoum&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -239,7 +288,7 @@ Queixas como secura vaginal, dor durante a relação e perda do desejo sexual n�
 &lt;p&gt;“Foi também uma vingança. Quem da minha geração participou do movimento estudantil ou participou ativamente da luta contra a ditadura, quem não perdeu amigos ou não teve um amigo preso, foi submetido à tortura”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/memoria-e-fundamental-na-literatura-diz-escritor-milton-hatoum&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>, a memória vem sendo um objeto de investigação do escritor manauara Milton Hatoum. Com
 , publicado no final do ano passado e que encerra sua trilogi...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-09 16:14:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 16:14:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 16:14:00</wp:post_modified>
@@ -265,9 +314,9 @@ Queixas como secura vaginal, dor durante a relação e perda do desejo sexual n�
     <item>
       <title>Avanço da IA corrói financiamento do jornalismo profissional no Brasil</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil</link>
-      <pubDate>Mon, 10 Aug 2026 09:09:46 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:00:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil#1006</guid>
       <description>© REUTERS/Dado Ruvic/Ilustração/Proibida reprodução
 O avanço da Inteligência Artificial (IA) por meio dos resumos que buscadores oferecem na internet...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/allVjcdM20PQKavpVjlyheEun0E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/07/captura_de_tela_2026-08-07_as_16.57.38.jpg?itok=U_XCtK3c&quot; alt=&quot;Avanço da IA corrói financiamento do jornalismo profissional no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -288,7 +337,7 @@ O avanço da Inteligência Artificial (IA) por meio dos resumos que buscadores o
 &lt;p&gt;no Brasil, aponta que um de cada quatro desses portais de notícias perdeu, em 2025, mais de 20% da audiência.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/avanco-da-ia-corroi-financiamento-do-jornalismo-profissional-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Dado Ruvic/Ilustração/Proibida reprodução
 O avanço da Inteligência Artificial (IA) por meio dos resumos que buscadores oferecem na internet...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-09 14:30:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 14:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 14:30:00</wp:post_modified>
@@ -314,9 +363,9 @@ O avanço da Inteligência Artificial (IA) por meio dos resumos que buscadores o
     <item>
       <title>Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo</link>
-      <pubDate>Mon, 10 Aug 2026 09:09:46 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:00:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo#1007</guid>
       <description>Com possibilidade de rajadas de vento pontuais com até 75,9 quilômetros por hora (km/h), a Defesa Civil emitiu um alerta neste domingo (9) para a pop...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/afkSyIoW62BPWhnlksfGfdWuqtY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/07/img_9632.jpg?itok=8GduIvgz&quot; alt=&quot;Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Com possibilidade de rajadas de vento pontuais com até 75,9 quilômetros por hora (km/h), a Defesa Civil emitiu um alerta neste domingo (9) para a população da cidade do Rio de Janeiro.&lt;/p&gt;
@@ -329,13 +378,13 @@ O avanço da Inteligência Artificial (IA) por meio dos resumos que buscadores o
 &lt;p&gt;Dentro de casa, a Defesa Civil recomenda que a população feche portas e janelas, além de persianas e cortinas para prevenir que estilhaços se espalhem em caso de quebra de vidro pela ventania.&lt;/p&gt;
 &lt;p&gt;Objetos em locais altos também podem cair com os ventos.&lt;/p&gt;
 &lt;p&gt;Se houver falta de energia elétrica, é preciso ter cuidado com uso de velas para se evitar incêndios.&lt;/p&gt;
-&lt;p&gt;TSE promove Corrida pela Democracia em Brasília&lt;/p&gt;
+&lt;p&gt;Jornalistas indígenas lançam manual para qualificar a imprensa&lt;/p&gt;
 &lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
-&lt;p&gt;Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro&lt;/p&gt;
-&lt;p&gt;Projeto aproxima comunidades de equipamentos culturais em Salvador&lt;/p&gt;
-&lt;p&gt;Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Relógio da longevidade é tema do Caminhos da Reportagem&lt;/p&gt;
+&lt;p&gt;Declaração do imposto sobre imóveis rurais pode ser feita por internet&lt;/p&gt;
+&lt;p&gt;Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-de-janeiro-tem-alerta-para-ventos-de-ate-75-kmh-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Com possibilidade de rajadas de vento pontuais com até 75,9 quilômetros por hora (km/h), a Defesa Civil emitiu um alerta neste domingo (9) para a pop...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-09 13:32:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 13:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 13:32:00</wp:post_modified>
@@ -361,9 +410,9 @@ O avanço da Inteligência Artificial (IA) por meio dos resumos que buscadores o
     <item>
       <title>Justiça abriu as urnas diante da população, diz Nunes Marques</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques</link>
-      <pubDate>Mon, 10 Aug 2026 09:09:46 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:00:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques#1008</guid>
       <description>O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, voltou a defender a confiabilidade do sistema eletrônico de votação do Brasi...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MGjLzds4IA26sdUaIK_bH27KykQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/09/55452956875_b67ec180a2_o.jpg?itok=e2zD3o0U&quot; alt=&quot;Justiça abriu as urnas diante da população, diz Nunes Marques&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, voltou a defender a confiabilidade do sistema eletrônico de votação do Brasil e destacou as iniciativas da Justiça para fortalecer o processo democrático.&lt;/p&gt;
@@ -382,7 +431,7 @@ O avanço da Inteligência Artificial (IA) por meio dos resumos que buscadores o
 &lt;p&gt;O primeiro turno do será realizado no dia 4 de outubro,&lt;/p&gt;
 &lt;p&gt;quando serão eleitos deputados federais, estaduais, distritais, governadores, senadores e o presidente da República.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-abriu-urnas-diante-da-populacao-diz-nunes-marques&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, voltou a defender a confiabilidade do sistema eletrônico de votação do Brasi...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-09 12:45:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 12:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 12:45:00</wp:post_modified>
@@ -408,9 +457,9 @@ O avanço da Inteligência Artificial (IA) por meio dos resumos que buscadores o
     <item>
       <title>Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena</link>
-      <pubDate>Mon, 10 Aug 2026 09:09:46 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:00:24 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena#1009</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as seis dezenas da Mega-Sena e vai recebe...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZknnHaJ1JX0ZFgm3I3cbvuQ5tQg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182751.jpg?itok=QnjfS3G4&quot; alt=&quot;Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -421,17 +470,17 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
 &lt;p&gt;Outras 13.158 apostas acertaram quatro dezenas sorteadas e receberão R$ 706,56 cada.&lt;/p&gt;
 &lt;p&gt;O próximo sorteio da Mega-Sena será na terça-feira (11) e tem prêmio estimado em R$ 3,5 milhões.A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
 &lt;p&gt;Clique aqui e saiba mais sobre os sorteios da Caixa&lt;/p&gt;
-&lt;p&gt;TSE promove Corrida pela Democracia em Brasília&lt;/p&gt;
+&lt;p&gt;Jornalistas indígenas lançam manual para qualificar a imprensa&lt;/p&gt;
 &lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
+&lt;p&gt;Relógio da longevidade é tema do Caminhos da Reportagem&lt;/p&gt;
+&lt;p&gt;Declaração do imposto sobre imóveis rurais pode ser feita por internet&lt;/p&gt;
 &lt;p&gt;Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro&lt;/p&gt;
 &lt;p&gt;Projeto aproxima comunidades de equipamentos culturais em Salvador&lt;/p&gt;
 &lt;p&gt;Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street&lt;/p&gt;
-&lt;p&gt;Queixas sexuais na menopausa têm tratamento, diz especialista&lt;/p&gt;
-&lt;p&gt;Memória é fundamental na literatura, diz escritor Milton Hatoum&lt;/p&gt;
-&lt;p&gt;Tufão Dolphin atinge costa leste da China&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Queixas sexuais na menopausa têm tratamento, diz especialista&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/bolao-de-fortaleza-leva-premio-de-r-164-milhoes-da-mega-sena&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as seis dezenas da Mega-Sena e vai recebe...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-09 12:30:00</wp:post_date>
       <wp:post_date_gmt>2026-08-09 12:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-09 12:30:00</wp:post_modified>
@@ -452,53 +501,6 @@ Uma aposta de um bolão com 100 cotas feita em Aldeota, Fortaleza, acertou as se
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/ZknnHaJ1JX0ZFgm3I3cbvuQ5tQg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182751.jpg?itok=QnjfS3G4</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades</link>
-      <pubDate>Mon, 10 Aug 2026 09:09:46 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades#1009</guid>
-      <description>A Defesa Civil do Rio Grande do Sul atualizou para 2.686 o número de pessoas desalojadas no estado em decorrência de uma linha de instabilidade assoc...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zmw2gWjsPvRQhN-r_1j-mfAQLuM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/08/captura_de_tela_2025-11-08_as_17.15.18.jpg?itok=pD1v7f5t&quot; alt=&quot;Rio Grande do Sul contabiliza 2,6 mil desalojados após tempestades&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Defesa Civil do Rio Grande do Sul atualizou para 2.686 o número de pessoas desalojadas no estado em decorrência de uma linha de instabilidade associada à uma frente fria, que causou fortes tempestades na região,&lt;/p&gt;
-&lt;p&gt;com estragos registrados em 117 municípios, incluindo destelhamentos, quedas de árvores e de postes de energia.&lt;/p&gt;
-&lt;p&gt;Em novo balanço divulgado na manhã deste domingo (9), a Defesa Civil informou que os danos foram causados por fortes chuvas e ventos formados pela frente fria, e&lt;/p&gt;
-&lt;p&gt;– um outro fenômeno meteorológico que se formou entre a Argentina e o Uruguai, mas que se deslocou pelo oceano, trazendo ventos à costa gaúcha, sem maiores impactos sobre o continente.&lt;/p&gt;
-&lt;p&gt;foram reportados um óbito e cinco feridos&lt;/p&gt;
-&lt;p&gt;desde a última sexta-feira (7), quando as tempestades castigaram mais o estado. A vítima foi um homem que se acidentou na rodovia estadual RS-124, no município de Montenegro, enquanto trafegava de moto. Não há informações complementares sobre identificação da vítima.&lt;/p&gt;
-&lt;p&gt;Dos cinco feridos, um é do município de Novo Hamburgo. Ele se enroscou em fios enquanto estava em trânsito, durante o vendaval. Segundo informações da Defesa Civil, o estado de saúde dele exige mais atenção.&lt;/p&gt;
-&lt;p&gt;Um militar também foi atingido por um estilhaço enquanto estava dentro da viatura em atendimento, no município de Osório. E, em Dom Feliciano, outras três pessoas teriam sofrido ferimentos leves.&lt;/p&gt;
-&lt;p&gt;Entre as localidades mais atingidas, está o município de Minas do Leão, com 500 desalojados, ou seja, pessoas que tiveram que sair de suas casas para a casa de amigos ou parentes. Apenas uma pessoa, em Montenegro, ficou desabrigada e necessitou de acolhimento pelo poder público.&lt;/p&gt;
-&lt;p&gt;Em Novo Hamburgo, são 480 desalojados, seguido de Sapiranga, com 360.&lt;/p&gt;
-&lt;p&gt;TSE promove Corrida pela Democracia em Brasília&lt;/p&gt;
-&lt;p&gt;Santa Maria de Jetibá se destaca com produção de 14 bi de ovos por ano&lt;/p&gt;
-&lt;p&gt;Flávia Saraiva fatura ouro na trave e no solo no Campeonato Brasileiro&lt;/p&gt;
-&lt;p&gt;Projeto aproxima comunidades de equipamentos culturais em Salvador&lt;/p&gt;
-&lt;p&gt;Rayssa é campeã da etapa carioca da Liga Internacional de Skate Street&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/rio-grande-do-sul-contabiliza-26-mil-desalojados-apos-tempestades&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Defesa Civil do Rio Grande do Sul atualizou para 2.686 o número de pessoas desalojadas no estado em decorrência de uma linha de instabilidade assoc...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-09 11:49:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-09 11:49:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-09 11:49:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-09 11:49:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/zmw2gWjsPvRQhN-r_1j-mfAQLuM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/08/captura_de_tela_2025-11-08_as_17.15.18.jpg?itok=pD1v7f5t</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
