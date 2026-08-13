@@ -6,13 +6,13 @@
     <description>Notícias Oficiais da Câmara Municipal de Fortaleza</description>
     <language>pt-br</language>
     <generator>GitHub Actions com Imagens</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 16:49:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 17:52:17 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://thecrossnow.github.io/feed-leg-ftz/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pequeno Expediente destaca marca 112 mil exames de imagem realizados pelo IJF</title>
       <link>https://www.cmfor.ce.gov.br/2026/08/13/pequeno-expediente-destaca-marca-112-mil-exames-de-imagem-realizados-pelo-ijf/</link>
-      <guid>cmfor-img-4cc7dd261366aef1be699f44f9da109e</guid>
+      <guid>cmfor-img-d561c87e628406dc1f1e5044a5a3fef2</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/IMG_7903.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/IMG_7903.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Pequeno Expediente destaca marca 112 mil exames de imagem realizados pelo IJF</media:title>
@@ -129,22 +129,22 @@
     <item>
       <title>Câmara de Fortaleza promove ação de saúde voltada ao bem-estar dos homens</title>
       <link>https://www.cmfor.ce.gov.br/2026/08/13/camara-de-fortaleza-promove-acao-de-saude-voltada-ao-bem-estar-dos-homens/</link>
-      <guid>cmfor-img-d35a01a834cdc5bccc3b80ae26fd3d1c</guid>
+      <guid>cmfor-img-fc94621971dfbda15ad73cc1fb582eab</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/IMG_7917.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/IMG_7917.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Câmara de Fortaleza promove ação de saúde voltada ao bem-estar dos homens</media:title>
-        <media:description type="plain">A Câmara de Fortaleza (CMFor) promove, nesta quinta-feira (13), uma ação especial de promoção da saúde do homem, com atividades voltadas à prevenção, avaliação física e adoção de hábitos saudáveis. A </media:description>
+        <media:description type="plain">A Câmara de Fortaleza (CMFor) realizou, nesta quinta-feira (13), uma ação especial de promoção da saúde do homem, com atividades voltadas à prevenção, avaliação física e adoção de hábitos saudáveis. A</media:description>
         <media:thumbnail url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/IMG_7917.jpg" />
       </media:content>
       <pubDate>Thu, 13 Aug 2026 12:33:14 +0000</pubDate>
-      <description>A Câmara de Fortaleza (CMFor) promove, nesta quinta-feira (13), uma ação especial de promoção da saúde do homem, com atividades voltadas à prevenção, avaliação física e adoção de hábitos saudáveis. A programação ocorreu pela manhã e deve seguir à tar...</description>
+      <description>A Câmara de Fortaleza (CMFor) realizou, nesta quinta-feira (13), uma ação especial de promoção da saúde do homem, com atividades voltadas à prevenção, avaliação física e adoção de hábitos saudáveis. A programação ocorreu durante todo o dia, no Centro...</description>
       <content:encoded><![CDATA[<p><img src="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/IMG_7917.jpg" alt="Câmara de Fortaleza promove ação de saúde voltada ao bem-estar dos homens" style="max-width: 100%; height: auto; margin-bottom: 20px;" /></p>
 
-<p class="has-medium-font-size">A Câmara de Fortaleza (CMFor) promove, nesta quinta-feira (13), uma ação especial de promoção da saúde do homem, com atividades voltadas à prevenção, avaliação física e adoção de hábitos saudáveis. A programação ocorreu pela manhã e deve seguir à tarde, no Centro de Promoção à Saúde do Servidor (CPSS), na sede da CMFor. </p>
+<p class="has-medium-font-size">A Câmara de Fortaleza (CMFor) realizou, nesta quinta-feira (13), uma ação especial de promoção da saúde do homem, com atividades voltadas à prevenção, avaliação física e adoção de hábitos saudáveis. A programação ocorreu durante todo o dia, no Centro de Promoção à Saúde do Servidor (CPSS), na sede da CMFor. </p>
 
 
 
-<p class="has-medium-font-size">A iniciativa reúne profissionais de diferentes áreas da saúde, com atendimento de enfermagem, fisioterapia, orientação de nutricionista e educador físico. À tarde, a programação inclui sessões de liberação miofascial com a equipe de fisioterapia.</p>
+<p class="has-medium-font-size">A iniciativa reuniu profissionais de diferentes áreas da saúde, com atendimento de enfermagem, fisioterapia, orientação de nutricionista e educador físico. À tarde, a programação incluiu sessões de liberação miofascial com a equipe de fisioterapia.</p>
 
 
 
@@ -188,7 +188,7 @@
 
 
 
-<p class="has-medium-font-size">As atividades de saúde são alusivas ao Dia dos Pais, comemorado no último domingo (9). A ação é voltada para homens, funcionários e servidores da Casa, e deve prosseguir à tarde com a equipe de fisioterapia.</p>
+<p class="has-medium-font-size">As atividades de saúde são alusivas ao Dia dos Pais, comemorado no último domingo (9). A ação é voltada para homens, funcionários e servidores da Casa.</p>
 
 
 
@@ -208,7 +208,7 @@
     <item>
       <title>Parceria entre Câmara e Enel transforma resíduos recicláveis em desconto na conta de energia</title>
       <link>https://www.cmfor.ce.gov.br/2026/08/13/parceria-entre-camara-e-enel-transforma-residuos-reciclaveis-em-desconto-na-conta-de-energia/</link>
-      <guid>cmfor-img-9d2f90b4e88e583444e020904c2888e5</guid>
+      <guid>cmfor-img-6f2439d7648cfb3a7c1bfcf1beffe4cc</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-14-at-16.20.35.jpeg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-14-at-16.20.35.jpeg" medium="image" type="image/jpeg">
         <media:title type="plain">Parceria entre Câmara e Enel transforma resíduos recicláveis em desconto na conta de energia</media:title>
@@ -305,7 +305,7 @@ de educação ambiental.</p>
     <item>
       <title>Segurança alimentar e investimento nas escolas são prioridades dos jovens vereadores do Distrito 5</title>
       <link>https://www.cmfor.ce.gov.br/2026/08/13/seguranca-alimentar-e-investimento-nas-escolas-sao-prioridades-dos-jovens-vereadores-do-distrito-5/</link>
-      <guid>cmfor-img-b2eba74ff345954f5a818814d9169367</guid>
+      <guid>cmfor-img-7ca49d45598bfb3c65d249fa3baa9f10</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-11-at-12.57.55-1.jpeg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-11-at-12.57.55-1.jpeg" medium="image" type="image/jpeg">
         <media:title type="plain">Segurança alimentar e investimento nas escolas são prioridades dos jovens vereadores do Distrito 5</media:title>
@@ -394,7 +394,7 @@ de educação ambiental.</p>
     <item>
       <title>CMFor homenageia os analistas de planejamento e gestão da Prefeitura de Fortaleza</title>
       <link>https://www.cmfor.ce.gov.br/2026/08/12/cmfor-homenageia-os-analistas-de-planejamento-e-gestao-da-prefeitura-de-fortaleza/</link>
-      <guid>cmfor-img-2342fa6c54129cedad46f3ede386e042</guid>
+      <guid>cmfor-img-07823a27ab8b5f9cfb72e9138bacae94</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/12.08.2026-Sessão-Solene-em-Homenagem-aos-Analistas-de-Planejamento-e-Gestão-da-Prefeitura-Municipal-de-Fortaleza.-Foto-André-Lima-1.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/12.08.2026-Sessão-Solene-em-Homenagem-aos-Analistas-de-Planejamento-e-Gestão-da-Prefeitura-Municipal-de-Fortaleza.-Foto-André-Lima-1.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">CMFor homenageia os analistas de planejamento e gestão da Prefeitura de Fortaleza</media:title>
@@ -471,7 +471,7 @@ de educação ambiental.</p>
     <item>
       <title>PCCS e investimentos na Guarda Municipal ganham destaque no Pequeno Expediente</title>
       <link>https://www.cmfor.ce.gov.br/2026/08/12/pccs-e-investimentos-na-guarda-municipal-ganham-destaque-no-pequeno-expediente/</link>
-      <guid>cmfor-img-5b2c1180945e4dac4e78aae45ee18acc</guid>
+      <guid>cmfor-img-15330dd83b66536f9a8509497fc8ada0</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/IMG_7736.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/IMG_7736.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">PCCS e investimentos na Guarda Municipal ganham destaque no Pequeno Expediente</media:title>
@@ -606,7 +606,7 @@ de educação ambiental.</p>
     <item>
       <title>Câmara de Leitura abre inscrições para encontro que une literatura e cinema</title>
       <link>https://www.cmfor.ce.gov.br/2026/08/12/camara-de-leitura-abre-inscricoes-para-encontro-que-une-literatura-e-cinema/</link>
-      <guid>cmfor-img-63cfdf907d7908381e6d3f75316337c7</guid>
+      <guid>cmfor-img-4123a55d78422d011223d411ef417a85</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/05/Câmara-de-leitura-Edição-de-maio-32.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/05/Câmara-de-leitura-Edição-de-maio-32.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Câmara de Leitura abre inscrições para encontro que une literatura e cinema</media:title>
@@ -647,7 +647,7 @@ de educação ambiental.</p>
     <item>
       <title>CMFor entrega o Título de Cidadão de Fortaleza a Franzé Carneiro</title>
       <link>https://www.cmfor.ce.gov.br/2026/08/11/cmfor-entrega-o-titulo-de-cidadao-de-fortaleza-a-franze-carneiro/</link>
-      <guid>cmfor-img-62e29fc1a445a46531bdbe9200eaa1fb</guid>
+      <guid>cmfor-img-1098fad33821178c8b34182b83162252</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/11..08.2026-Sessão-Solene-de-Entrega-do-Título-de-Cidadão-de-Fortaleza-a-Francisco-José-Magalhães.-Foto-André-Lima-1.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/11..08.2026-Sessão-Solene-de-Entrega-do-Título-de-Cidadão-de-Fortaleza-a-Francisco-José-Magalhães.-Foto-André-Lima-1.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">CMFor entrega o Título de Cidadão de Fortaleza a Franzé Carneiro</media:title>
@@ -728,7 +728,7 @@ de educação ambiental.</p>
     <item>
       <title>Projeto &amp;#8220;EDHAL nas Escolas&amp;#8221; leva educação em direitos humanos para a rede municipal de Fortaleza</title>
       <link>https://www.cmfor.ce.gov.br/2026/08/11/projeto-edhal-nas-escolas-leva-educacao-em-direitos-humanos-para-a-rede-municipal-de-fortaleza/</link>
-      <guid>cmfor-img-7904f7263a4b0361058202ca1ce800bb</guid>
+      <guid>cmfor-img-f4504859c32a66946af58cdd109a1274</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-18-at-09.34.32.jpeg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-18-at-09.34.32.jpeg" medium="image" type="image/jpeg">
         <media:title type="plain">Projeto &amp;#8220;EDHAL nas Escolas&amp;#8221; leva educação em direitos humanos para a rede municipal de F</media:title>
@@ -833,7 +833,7 @@ de educação ambiental.</p>
     <item>
       <title>Vereadores defendem vacinação prioritária para trabalhadores por aplicativo e melhorias no Passaré</title>
       <link>https://www.cmfor.ce.gov.br/2026/08/11/vereadores-defendem-vacinacao-prioritaria-para-trabalhadores-por-aplicativo-e-melhorias-no-passare/</link>
-      <guid>cmfor-img-9820cb92f474ec53738ecee2ea4a6acf</guid>
+      <guid>cmfor-img-d1f4dbb0144016d1871d3da087e98e02</guid>
       <enclosure url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/11.08.2026-61º-Ordinaria-da-2-legislativa-da-20-legislatura-Larissa-Nobre-11-scaled.jpg" type="image/jpeg" length="100000" />
       <media:content url="https://www.cmfor.ce.gov.br:8080/wp-content/uploads/2026/08/11.08.2026-61º-Ordinaria-da-2-legislativa-da-20-legislatura-Larissa-Nobre-11-scaled.jpg" medium="image" type="image/jpeg">
         <media:title type="plain">Vereadores defendem vacinação prioritária para trabalhadores por aplicativo e melhorias no Passaré</media:title>
