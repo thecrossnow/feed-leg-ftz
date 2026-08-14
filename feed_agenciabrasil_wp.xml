@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Fri, 14 Aug 2026 18:42:24 +0000</pubDate>
+    <pubDate>Fri, 14 Aug 2026 19:42:27 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,107 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>OEA enviará missão internacional para acompanhar eleições no Brasil</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/oea-enviara-missao-internacional-para-acompanhar-eleicoes-no-brasil</link>
+      <pubDate>Fri, 14 Aug 2026 19:42:27 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/oea-enviara-missao-internacional-para-acompanhar-eleicoes-no-brasil#1000</guid>
+      <description>© Valter Campanato/ Agência Brasil
+A Organização dos Estados Americanos (OEA) informou que enviará observadores internacionais para acompanhar o anda...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/2hJe-tuKIrKphSmwEL3IBfdYFts=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/07/0d7a8493.jpg?itok=IuNcUgKj&quot; alt=&quot;OEA enviará missão internacional para acompanhar eleições no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Valter Campanato/ Agência Brasil&lt;/p&gt;
+&lt;p&gt;A Organização dos Estados Americanos (OEA) informou que enviará observadores internacionais para acompanhar o andamento das eleições gerais de outubro. Os&lt;/p&gt;
+&lt;p&gt;membros da entidade percorrerão locais de votação e terão reuniões com autoridades brasileiras&lt;/p&gt;
+&lt;p&gt;durante o primeiro e segundo turnos da eleição.&lt;/p&gt;
+&lt;p&gt;O acordo que permitirá o ingresso dos observadores no Brasil foi assinado nesta quinta-feira (13) pelo secretário-geral da OAB, Albert Ramdim, e o representante do Brasil na organização, Benoni Belli.&lt;/p&gt;
+&lt;p&gt;O envio de representantes de missões internacionais para acompanhar o processo eleitoral brasileiro é uma medida de praxe e ocorre no âmbito de acordos de cooperação internacional.&lt;/p&gt;
+&lt;p&gt;Autoridades brasileiras também são enviadas ao exterior para acompanhar os pleitos internacionais.&lt;/p&gt;
+&lt;p&gt;Será a quinta vez que a OEA enviará ao país seus representantes. O trabalho de observação é feito desde as eleições presidenciais de 2018.&lt;/p&gt;
+&lt;p&gt;Na última eleição presidencial, em 2022, a OEA concluiu que as eleições ocorreram com ordem e normalidade.&lt;/p&gt;
+&lt;p&gt;Além da OEA, já confirmaram que enviarão observadores internacionais a União Europeia, o Parlamento do Mercosul (Parlasul), a União Interamericana de Organismos Eleitorais (Uniore), a Liga dos Estados Árabes e a Rede dos Órgãos Jurisdicionais de Administração Eleitoral da Comunidade dos Países de Língua Portuguesa (Rojae-CPLP).&lt;/p&gt;
+&lt;p&gt;Brasil inicia processo de reciprocidade contra tarifas dos EUA&lt;/p&gt;
+&lt;p&gt;UFRJ revoga honraria a ex-embaixador dos EUA Lincoln Gordon&lt;/p&gt;
+&lt;p&gt;Justiça da França barra veto a uso de redes sociais por adolescentes&lt;/p&gt;
+&lt;p&gt;Missão pede investigação sobre filiação falsa de Flávio ao partido&lt;/p&gt;
+&lt;p&gt;OEA enviará missão internacional para acompanhar eleições no Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/oea-enviara-missao-internacional-para-acompanhar-eleicoes-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Valter Campanato/ Agência Brasil
+A Organização dos Estados Americanos (OEA) informou que enviará observadores internacionais para acompanhar o anda...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-14 15:25:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-14 15:25:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-14 15:25:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-14 15:25:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/2hJe-tuKIrKphSmwEL3IBfdYFts=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/07/0d7a8493.jpg?itok=IuNcUgKj</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Na era da IA, inclusão digital deve ser crítica, defende educadora</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/na-era-da-ia-inclusao-digital-deve-ser-critica-defende-educadora</link>
+      <pubDate>Fri, 14 Aug 2026 19:42:27 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/na-era-da-ia-inclusao-digital-deve-ser-critica-defende-educadora#1001</guid>
+      <description>O crescente uso de tecnologias como a internet, com destaque para a inteligência artificial (IA), deve ser acompanhado de pensamento críticoe não ape...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Be4eUz8xoJeXS9Bx7zl8vFE7808=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rvrsa_abr_22081921127.jpg?itok=g2MZIE9O&quot; alt=&quot;Na era da IA, inclusão digital deve ser crítica, defende educadora&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O crescente uso de tecnologias como a internet, com destaque para a inteligência artificial (IA), deve ser acompanhado de pensamento críticoe não apenas entregá-las nas mãos de estudantes e professores.&lt;/p&gt;
+&lt;p&gt;A avaliação é da educadora Daniela Costa, consultora da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco) para o Brasil.&lt;/p&gt;
+&lt;p&gt;“Até um determinado momento, a gente pensava em inclusão digital. Agora, a gente acrescentou duas palavrinhas: tem que ser uma educação, uma inclusão digital significativa e crítica”.&lt;/p&gt;
+&lt;p&gt;Daniela Costa é coordenadora da&lt;/p&gt;
+&lt;p&gt;, desenvolvida pelo Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação (Cetic.br), uma organização sem fins lucrativos.&lt;/p&gt;
+&lt;p&gt;“Não dá mais para pensar só em entregar as tecnologias nas escolas, a gente precisa pensar em objetivos, motivos, riscos, oportunidades, o que fazer com as tecnologias e como educar os alunos para um uso mais crítico”, defendeu.&lt;/p&gt;
+&lt;p&gt;A especialista participou do 4º Encontro de Educadores do Século XXI - Inteligência Artificial e o Futuro da Educação, realizado nesta sexta-feira (14), no Rio de Janeiro. O evento é organizado pela Federação das Indústrias do Estado do Rio de Janeiro (Firjan).&lt;/p&gt;
+&lt;p&gt;Para abordar o tema, a consultora da Unesco apresentou dados que refletem avanços e preocupações sobre a relação entre estudantes com o ensino.&lt;/p&gt;
+&lt;p&gt;Pelo lado do avanço, ela mostrou que, na China, gravações de aulas de alta qualidade distribuídas a 100 milhões de estudantes rurais melhoraram os resultados deles em 32%.&lt;/p&gt;
+&lt;p&gt;Além disso, diminuíram a desigualdade salarial entre populações urbanas e rurais em 38%.&lt;/p&gt;
+&lt;p&gt;Entre as preocupações, ela citou que a “simples proximidade” de um aparelho celular era capaz de distrair os estudantes e provocar um impacto negativo na aprendizagem em 14 países.&lt;/p&gt;
+&lt;p&gt;Para a professora, existe uma correlação negativa entre o excesso de uso de tecnologias digitais e a aprendizagem dos estudantes.&lt;/p&gt;
+&lt;p&gt;“Eu estou em aula, os meus alunos pegam o celular e pronto, acabou. Eles não têm mais atenção”.&lt;/p&gt;
+&lt;p&gt;Lei Federal 15.100, de janeiro de 2025&lt;/p&gt;
+&lt;p&gt;, que proíbe uso de celular durante a aula, recreio ou intervalos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/na-era-da-ia-inclusao-digital-deve-ser-critica-defende-educadora&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O crescente uso de tecnologias como a internet, com destaque para a inteligência artificial (IA), deve ser acompanhado de pensamento críticoe não ape...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-08-14 15:09:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-14 15:09:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-14 15:09:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-14 15:09:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Be4eUz8xoJeXS9Bx7zl8vFE7808=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rvrsa_abr_22081921127.jpg?itok=g2MZIE9O</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Durigan rebate críticas de inércia sobre crise do BRB</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-rebate-criticas-de-inercia-sobre-crise-do-brb</link>
-      <pubDate>Fri, 14 Aug 2026 18:42:24 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 19:42:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-rebate-criticas-de-inercia-sobre-crise-do-brb#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-rebate-criticas-de-inercia-sobre-crise-do-brb#1002</guid>
       <description>© Lula Marques/ Agência Brasil.
 O ministro da Fazenda, Dario Durigan, rebateu, nesta sexta-feira (14), as acusações de que governo federal está inert...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5b8uHiFhIuGHWNJzzsSmuuazjQ4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/12/0d9a7586.jpg?itok=gqeuvk4H&quot; alt=&quot;Durigan rebate críticas de inércia sobre crise do BRB&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -38,16 +134,16 @@ O ministro da Fazenda, Dario Durigan, rebateu, nesta sexta-feira (14), as acusa�
 &lt;p&gt;O objetivo é estruturar a extensão de garantias mais seguras às instituições privadas participantes.&lt;/p&gt;
 &lt;p&gt;“Não havendo a possibilidade de aval da União e também para não ficar sem resposta, levei, em reunião, a possibilidade que foi colocada no acordo, trazida por nós. E houve reuniões para tratar como estender as garantias com mais segurança para os bancos privados.”&lt;/p&gt;
 &lt;p&gt;Brasil inicia processo de reciprocidade contra tarifas dos EUA&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 13 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;UFRJ revoga honraria a ex-embaixador dos EUA Lincoln Gordon&lt;/p&gt;
+&lt;p&gt;Justiça da França barra veto a uso de redes sociais por adolescentes&lt;/p&gt;
+&lt;p&gt;Missão pede investigação sobre filiação falsa de Flávio ao partido&lt;/p&gt;
 &lt;p&gt;OEA enviará missão internacional para acompanhar eleições no Brasil&lt;/p&gt;
 &lt;p&gt;Na era da IA, inclusão digital deve ser crítica, defende educadora&lt;/p&gt;
 &lt;p&gt;Grupo de direitos humanos pede à WTA que revogue testes de gênero&lt;/p&gt;
-&lt;p&gt;Durigan rebate críticas de inércia sobre crise do BRB&lt;/p&gt;
-&lt;p&gt;Lula diz que só acatará indicação de embaixador dos EUA após eleições&lt;/p&gt;
-&lt;p&gt;Alcolumbre destrava PEC do fim da 6x1 após conversas com Lula&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-rebate-criticas-de-inercia-sobre-crise-do-brb&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Durigan rebate críticas de inércia sobre crise do BRB&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/durigan-rebate-criticas-de-inercia-sobre-crise-do-brb&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Lula Marques/ Agência Brasil.
 O ministro da Fazenda, Dario Durigan, rebateu, nesta sexta-feira (14), as acusações de que governo federal está inert...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-14 15:00:00</wp:post_date>
       <wp:post_date_gmt>2026-08-14 15:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-14 15:00:00</wp:post_modified>
@@ -73,9 +169,9 @@ O ministro da Fazenda, Dario Durigan, rebateu, nesta sexta-feira (14), as acusa�
     <item>
       <title>Lula diz que só acatará indicação de embaixador dos EUA após eleições</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-diz-que-so-acatara-indicacao-de-embaixador-dos-eua-apos-eleicoes</link>
-      <pubDate>Fri, 14 Aug 2026 18:42:24 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 19:42:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-diz-que-so-acatara-indicacao-de-embaixador-dos-eua-apos-eleicoes#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/lula-diz-que-so-acatara-indicacao-de-embaixador-dos-eua-apos-eleicoes#1003</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira (14) que o governo brasileiro só concederá o
 ao indic...</description>
@@ -98,7 +194,7 @@ ao indic...</description>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira (14) que o governo brasileiro só concederá o
 ao indic...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-14 14:58:00</wp:post_date>
       <wp:post_date_gmt>2026-08-14 14:58:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-14 14:58:00</wp:post_modified>
@@ -124,9 +220,9 @@ ao indic...</excerpt:encoded>
     <item>
       <title>Alcolumbre destrava PEC do fim da 6x1 após conversas com Lula</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/alcolumbre-destrava-pec-do-fim-da-6x1-apos-conversas-com-lula</link>
-      <pubDate>Fri, 14 Aug 2026 18:42:24 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 19:42:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/alcolumbre-destrava-pec-do-fim-da-6x1-apos-conversas-com-lula#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/alcolumbre-destrava-pec-do-fim-da-6x1-apos-conversas-com-lula#1004</guid>
       <description>A proposta de emenda à Constituição (PEC) que acaba com a escala 6x1 foi despachada, nesta sexta-feira (14), pelo presidente do Senado, Davi Alcolumb...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hP5LdAejUW_S2djgoyL7GQHzJKA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/21/0d9a9675.jpg?itok=5cEPS7DZ&quot; alt=&quot;Alcolumbre destrava PEC do fim da 6x1 após conversas com Lula&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A proposta de emenda à Constituição (PEC) que acaba com a escala 6x1 foi despachada, nesta sexta-feira (14), pelo presidente do Senado, Davi Alcolumbre (União-AP), para análise da Comissão de Constituição e Justiça (CCJ),&lt;/p&gt;
@@ -145,7 +241,7 @@ ao indic...</excerpt:encoded>
 &lt;p&gt;MDB e o PT voltaram a pressionar Alcolumbre para que liberasse a PEC da escala 6x1 para análise&lt;/p&gt;
 &lt;p&gt;Em nota, a bancada do MDB no Senado pediu a liberação para as comissões da PEC do fim da 6x1, do PL dos minerais críticos e a PEC da Segurança Pública.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/alcolumbre-destrava-pec-do-fim-da-6x1-apos-conversas-com-lula&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A proposta de emenda à Constituição (PEC) que acaba com a escala 6x1 foi despachada, nesta sexta-feira (14), pelo presidente do Senado, Davi Alcolumb...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-14 14:34:00</wp:post_date>
       <wp:post_date_gmt>2026-08-14 14:34:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-14 14:34:00</wp:post_modified>
@@ -171,9 +267,9 @@ ao indic...</excerpt:encoded>
     <item>
       <title>BC decreta liquidação extrajudicial de instituições do Grupo Simpala</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bc-decreta-liquidacao-extrajudicial-de-consorcio-e-financeira</link>
-      <pubDate>Fri, 14 Aug 2026 18:42:24 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 19:42:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bc-decreta-liquidacao-extrajudicial-de-consorcio-e-financeira#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bc-decreta-liquidacao-extrajudicial-de-consorcio-e-financeira#1005</guid>
       <description>© Marcello Casal JrAgência Brasil
 O Banco Central (BC) decretou nesta sexta-feira (14) a liquidação extrajudicial de duas empresas do Grupo Simpala. ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/J_BJ-RTBPCNL_iw_XHX-VT4aO5U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco_central_mcajr_abr_0104222276.jpg?itok=Wr5HSnOr&quot; alt=&quot;BC decreta liquidação extrajudicial de instituições do Grupo Simpala&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -187,14 +283,14 @@ O Banco Central (BC) decretou nesta sexta-feira (14) a liquidação extrajudicia
 &lt;p&gt;, o Grupo Simpala ainda não se pronunciou sobre a decisão do Banco Central.&lt;/p&gt;
 &lt;p&gt;Brasil inicia processo de reciprocidade contra tarifas dos EUA&lt;/p&gt;
 &lt;p&gt;Repórter Brasil Tarde de 14 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Justiça da França barra veto a uso de redes sociais por adolescentes&lt;/p&gt;
+&lt;p&gt;Missão pede investigação sobre filiação falsa de Flávio ao partido&lt;/p&gt;
 &lt;p&gt;OEA enviará missão internacional para acompanhar eleições no Brasil&lt;/p&gt;
 &lt;p&gt;Na era da IA, inclusão digital deve ser crítica, defende educadora&lt;/p&gt;
-&lt;p&gt;Grupo de direitos humanos pede à WTA que revogue testes de gênero&lt;/p&gt;
-&lt;p&gt;Durigan rebate críticas de inércia sobre crise do BRB&lt;/p&gt;
-&lt;p&gt;Lula diz que só acatará indicação de embaixador dos EUA após eleições&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bc-decreta-liquidacao-extrajudicial-de-consorcio-e-financeira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Durigan rebate críticas de inércia sobre crise do BRB&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bc-decreta-liquidacao-extrajudicial-de-consorcio-e-financeira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 O Banco Central (BC) decretou nesta sexta-feira (14) a liquidação extrajudicial de duas empresas do Grupo Simpala. ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-14 13:50:00</wp:post_date>
       <wp:post_date_gmt>2026-08-14 13:50:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-14 13:50:00</wp:post_modified>
@@ -220,9 +316,9 @@ O Banco Central (BC) decretou nesta sexta-feira (14) a liquidação extrajudicia
     <item>
       <title>Governo ouvirá empresários para decidir se aplicará lei contra EUA</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-ouvira-empresarios-para-decidir-se-aplicara-lei-contra-eua</link>
-      <pubDate>Fri, 14 Aug 2026 18:42:24 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 19:42:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-ouvira-empresarios-para-decidir-se-aplicara-lei-contra-eua#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-ouvira-empresarios-para-decidir-se-aplicara-lei-contra-eua#1006</guid>
       <description>© Washington Costa/Ministério da Fazenda
 O ministro da Fazenda, Dario Durigan, disse nesta sexta-feira (14) que ouvirá os empresários brasileiros e e...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qDU1IRmTd2xm1uEi1tZX6qhRUuQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/21/55284099217_86d7fe9192_o.jpg?itok=85j6jumc&quot; alt=&quot;Governo ouvirá empresários para decidir se aplicará lei contra EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -243,7 +339,7 @@ O ministro da Fazenda, Dario Durigan, disse nesta sexta-feira (14) que ouvirá o
 &lt;p&gt;Essas contramedidas devem ser, na medida do possível, aplicadas na mesma proporção do prejuízo econômico causado por outro país ou bloco econômico ao Brasil.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/governo-ouvira-empresarios-para-decidir-se-aplicara-lei-contra-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Washington Costa/Ministério da Fazenda
 O ministro da Fazenda, Dario Durigan, disse nesta sexta-feira (14) que ouvirá os empresários brasileiros e e...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-14 13:28:00</wp:post_date>
       <wp:post_date_gmt>2026-08-14 13:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-14 13:28:00</wp:post_modified>
@@ -269,9 +365,9 @@ O ministro da Fazenda, Dario Durigan, disse nesta sexta-feira (14) que ouvirá o
     <item>
       <title>Fazenda libera empréstimo com aval da União de R$ 12,9 bilhões</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fazenda-libera-emprestimo-com-aval-da-uniao-de-r-129-bilhoes</link>
-      <pubDate>Fri, 14 Aug 2026 18:42:24 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 19:42:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fazenda-libera-emprestimo-com-aval-da-uniao-de-r-129-bilhoes#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fazenda-libera-emprestimo-com-aval-da-uniao-de-r-129-bilhoes#1007</guid>
       <description>O Ministério da Fazenda autorizou, nesta sexta-feira (14), cinco operações de crédito, com garantias da União, a cinco estados: São Paulo, Piauí, Mar...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QmxVbIbeqJRGm4X6CM1M1ntAtzI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/17/0d9a5358.jpg?itok=6Bq2q6-h&quot; alt=&quot;Fazenda libera empréstimo com aval da União de R$ 12,9 bilhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Ministério da Fazenda autorizou, nesta sexta-feira (14), cinco operações de crédito, com garantias da União, a cinco estados: São Paulo, Piauí, Maranhão, Pernambuco e Rondônia.&lt;/p&gt;
@@ -290,7 +386,7 @@ O ministro da Fazenda, Dario Durigan, disse nesta sexta-feira (14) que ouvirá o
 &lt;p&gt;“A economia brasileira cresce acima das expectativas justamente porque estados e municípios possuem condições de investimento”,disse o ministro da Fazenda, Dario Durigan.&lt;/p&gt;
 &lt;p&gt;No balanço feito pelo ministro, a União já deu garantias a operações de crédito na marca de R$ 270 bilhões, desde 2023.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fazenda-libera-emprestimo-com-aval-da-uniao-de-r-129-bilhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Ministério da Fazenda autorizou, nesta sexta-feira (14), cinco operações de crédito, com garantias da União, a cinco estados: São Paulo, Piauí, Mar...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-14 12:37:00</wp:post_date>
       <wp:post_date_gmt>2026-08-14 12:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-14 12:37:00</wp:post_modified>
@@ -316,9 +412,9 @@ O ministro da Fazenda, Dario Durigan, disse nesta sexta-feira (14) que ouvirá o
     <item>
       <title>Enade divulga resultado de recurso sobre atendimento especializado</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/enade-divulga-resultado-de-recurso-sobre-atendimento-especializado</link>
-      <pubDate>Fri, 14 Aug 2026 18:42:24 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 19:42:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/enade-divulga-resultado-de-recurso-sobre-atendimento-especializado#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/enade-divulga-resultado-de-recurso-sobre-atendimento-especializado#1008</guid>
       <description>O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) divulga nesta sexta-feira (14) o resultado final dos recursos contra ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3N4BatCODB_a1e3mFqH6lg0O4G0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/antcrz_20181125_2109.jpg?itok=wjetDLSh&quot; alt=&quot;Enade divulga resultado de recurso sobre atendimento especializado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) divulga nesta sexta-feira (14) o resultado final dos recursos contra o indeferimento do pedido de atendimento especializado no dia de aplicação das provas do Exame Nacional de Desempenho dos Estudantes (Enade) 2026 para cursos de bacharelado e tecnologia.&lt;/p&gt;
@@ -334,10 +430,10 @@ O ministro da Fazenda, Dario Durigan, disse nesta sexta-feira (14) que ouvirá o
 &lt;p&gt;Os candidatos também devem responder ao Questionário do Estudante. As informações servem para caracterizar o perfil dos participantes e o contexto de sua formação de nível superior.&lt;/p&gt;
 &lt;p&gt;O Exame Nacional de Desempenho dos Estudantes (Enade) avalia o rendimento dos estudantes ao fim dos cursos de graduação com o objetivo de verificar a aprendizagem dos conteúdos previstos nas diretrizes curriculares do curso, além do desenvolvimento de competências e habilidades necessárias à formação geral e profissional.&lt;/p&gt;
 &lt;p&gt;Os resultados do Enade e as respostas dos candidatos ao Questionário do Estudante são utilizados na composição dos Indicadores de Qualidade da Educação Superior dos cursos e das instituições de ensino.&lt;/p&gt;
-&lt;p&gt;TSE se une à plataforma Kwai para dar informações sobre as eleições&lt;/p&gt;
-&lt;p&gt;Ex-governador Cláudio Castro é alvo da 2ª fase da Operação Sem Refino&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/enade-divulga-resultado-de-recurso-sobre-atendimento-especializado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Brasil inicia processo de reciprocidade contra tarifas dos EUA&lt;/p&gt;
+&lt;p&gt;UFRJ revoga honraria a ex-embaixador dos EUA Lincoln Gordon&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/enade-divulga-resultado-de-recurso-sobre-atendimento-especializado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) divulga nesta sexta-feira (14) o resultado final dos recursos contra ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-14 11:07:00</wp:post_date>
       <wp:post_date_gmt>2026-08-14 11:07:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-14 11:07:00</wp:post_modified>
@@ -363,9 +459,9 @@ O ministro da Fazenda, Dario Durigan, disse nesta sexta-feira (14) que ouvirá o
     <item>
       <title>Cláudio Castro é alvo da segunda fase da Operação Sem Refino</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/claudio-castro-e-alvo-da-segunda-fase-da-operacao-sem-refino</link>
-      <pubDate>Fri, 14 Aug 2026 18:42:24 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 19:42:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/claudio-castro-e-alvo-da-segunda-fase-da-operacao-sem-refino#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/claudio-castro-e-alvo-da-segunda-fase-da-operacao-sem-refino#1009</guid>
       <description>A Polícia Federal deflagrou nesta sexta-feira (14) a segunda fase da Operação Sem Refino, que tem como um dos alvos o ex-governador do Rio de Janeiro...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/B_hfZfsXKo9XduS9lqNoKaIkc_s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/policia-federal-andrea-neves.jpg?itok=4lKEzs0W&quot; alt=&quot;Cláudio Castro é alvo da segunda fase da Operação Sem Refino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Polícia Federal deflagrou nesta sexta-feira (14) a segunda fase da Operação Sem Refino, que tem como um dos alvos o ex-governador do Rio de Janeiro Cláudio Castro. Nesta etapa, estão sendo apuradas fraudes na concessão de licenças ambientais para uma refinaria, além de indícios de lavagem de dinheiro relacionada ao esquema investigado.&lt;/p&gt;
@@ -375,15 +471,15 @@ O ministro da Fazenda, Dario Durigan, disse nesta sexta-feira (14) que ouvirá o
 &lt;p&gt;“A defesa ainda desconhece o conteúdo integral da denúncia e dos elementos que fundamentaram a operação e aguarda que os advogados tenham acesso aos autos para se manifestar de forma mais detalhada.” A nota diz ainda que todos os atos praticados por Castro durante sua gestão “seguiram critérios técnicos, jurídicos e administrativos previstos na legislação”.&lt;/p&gt;
 &lt;p&gt;Saiba mais no Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
 &lt;p&gt;Brasil inicia processo de reciprocidade contra tarifas dos EUA&lt;/p&gt;
-&lt;p&gt;Repórter Brasil Tarde de 14 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;UFRJ revoga honraria a ex-embaixador dos EUA Lincoln Gordon&lt;/p&gt;
+&lt;p&gt;Justiça da França barra veto a uso de redes sociais por adolescentes&lt;/p&gt;
+&lt;p&gt;Missão pede investigação sobre filiação falsa de Flávio ao partido&lt;/p&gt;
 &lt;p&gt;OEA enviará missão internacional para acompanhar eleições no Brasil&lt;/p&gt;
 &lt;p&gt;Na era da IA, inclusão digital deve ser crítica, defende educadora&lt;/p&gt;
 &lt;p&gt;Grupo de direitos humanos pede à WTA que revogue testes de gênero&lt;/p&gt;
-&lt;p&gt;Durigan rebate críticas de inércia sobre crise do BRB&lt;/p&gt;
-&lt;p&gt;Lula diz que só acatará indicação de embaixador dos EUA após eleições&lt;/p&gt;
-&lt;p&gt;Alcolumbre destrava PEC do fim da 6x1 após conversas com Lula&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/claudio-castro-e-alvo-da-segunda-fase-da-operacao-sem-refino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Durigan rebate críticas de inércia sobre crise do BRB&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/claudio-castro-e-alvo-da-segunda-fase-da-operacao-sem-refino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Polícia Federal deflagrou nesta sexta-feira (14) a segunda fase da Operação Sem Refino, que tem como um dos alvos o ex-governador do Rio de Janeiro...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-14 11:06:00</wp:post_date>
       <wp:post_date_gmt>2026-08-14 11:06:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-14 11:06:00</wp:post_modified>
@@ -404,102 +500,6 @@ O ministro da Fazenda, Dario Durigan, disse nesta sexta-feira (14) que ouvirá o
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/B_hfZfsXKo9XduS9lqNoKaIkc_s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/policia-federal-andrea-neves.jpg?itok=4lKEzs0W</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Erupção do Etna prolonga fechamento de aeroporto na Sicília</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/erupcao-do-etna-prolonga-fechamento-de-aeroporto-na-sicilia</link>
-      <pubDate>Fri, 14 Aug 2026 18:42:24 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/erupcao-do-etna-prolonga-fechamento-de-aeroporto-na-sicilia#1008</guid>
-      <description>© REUTERS/Giuseppe di Stefano/proibida a reprodução
-Os voos no aeroporto de Catânia, na Sicília, permanecerão suspensos até o início da manhã deste s...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/g6JHSiRmF7Pw-EOqavRUrYYmQTo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/02/2025-06-02t120422z_16860422_rc29uearojan_rtrmadp_3_italy-volcano-etna.jpg?itok=nfFJnp19&quot; alt=&quot;Erupção do Etna prolonga fechamento de aeroporto na Sicília&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Giuseppe di Stefano/proibida a reprodução&lt;/p&gt;
-&lt;p&gt;Os voos no aeroporto de Catânia, na Sicília, permanecerão suspensos até o início da manhã deste sábado (15) devido às cinzas resultantes da atividade vulcânica do Monte Etna, que forçou o cancelamento ou o redirecionamento de centenas de voos na última semana.&lt;/p&gt;
-&lt;p&gt;Todas as chegadas ao aeroporto, o quinto mais movimentado da Itália em tráfego de passageiros, ficarão suspensas até as 2h da manhã do dia 15 de agosto, informou a operadora do aeroporto, a SAC, em comunicado divulgado ontem.&lt;/p&gt;
-&lt;p&gt;Os passageiros foram orientados a verificar o status de seus voos junto às respectivas companhias aéreas antes de se dirigirem ao aeroporto.&lt;/p&gt;
-&lt;p&gt;As restrições prolongadas ocorrem no auge da temporada de férias de verão, afetando milhares de passageiros, e têm exercido pressão adicional sobre outros aeroportos da Sicília.&lt;/p&gt;
-&lt;p&gt;O Monte Etna, o vulcão mais alto e mais ativo da Europa, frequentemente interrompe as operações no aeroporto de Catânia, cuja operadora iniciou a venda de uma participação de pelo menos 51% em maio.&lt;/p&gt;
-&lt;p&gt;A cinza vulcânica é considerada um dos riscos mais graves para a aviação, pois pode danificar os sistemas das aeronaves e causar falhas nos motores a jato.&lt;/p&gt;
-&lt;p&gt;Em 1982, um Boeing 747 da British Airways perdeu temporariamente a potência em todos os quatro motores, após voar por uma nuvem de cinzas do Monte Galunggung, na Indonésia, antes que a tripulação conseguisse reiniciá-los com segurança.&lt;/p&gt;
-&lt;p&gt;A interrupção atual é a mais grave a afetar o aeroporto de Catânia em pelo menos duas décadas, segundo fontes da SAC citadas pela agência de notícias italiana Ansa.&lt;/p&gt;
-&lt;p&gt;Entre 6 e 12 de agosto, cerca de 630 voos foram desviados para outros aeroportos, enquanto mais de um terço dos 1.974 voos programados em Catânia foram cancelados.&lt;/p&gt;
-&lt;p&gt;* É proibida a reprodução deste conteúdo.&lt;/p&gt;
-&lt;p&gt;Brasil inicia processo de reciprocidade contra tarifas dos EUA&lt;/p&gt;
-&lt;p&gt;Ex-governador Cláudio Castro é alvo da 2ª fase da Operação Sem Refino&lt;/p&gt;
-&lt;p&gt;OEA enviará missão internacional para acompanhar eleições no Brasil&lt;/p&gt;
-&lt;p&gt;Na era da IA, inclusão digital deve ser crítica, defende educadora&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/erupcao-do-etna-prolonga-fechamento-de-aeroporto-na-sicilia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Giuseppe di Stefano/proibida a reprodução
-Os voos no aeroporto de Catânia, na Sicília, permanecerão suspensos até o início da manhã deste s...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-08-14 10:49:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-14 10:49:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-14 10:49:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-14 10:49:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/g6JHSiRmF7Pw-EOqavRUrYYmQTo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/02/2025-06-02t120422z_16860422_rc29uearojan_rtrmadp_3_italy-volcano-etna.jpg?itok=nfFJnp19</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Estudante deve comprovar até hoje informações de inscrição no Prouni</title>
-      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/estudante-deve-comprovar-ate-hoje-informacoes-de-inscricao-no-prouni</link>
-      <pubDate>Fri, 14 Aug 2026 18:42:24 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/estudante-deve-comprovar-ate-hoje-informacoes-de-inscricao-no-prouni#1009</guid>
-      <description>Os estudantes que foram pré-selecionados na segunda chamada do Programa Universidade para Todos (Prouni), do segundo semestre de 2026, devem ficar at...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/EJLyxuAPsOQJDt5I5LKi_Jm8j4s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230627_123618_0.jpg?itok=hQB1f7KK&quot; alt=&quot;Estudante deve comprovar até hoje informações de inscrição no Prouni&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Os estudantes que foram pré-selecionados na segunda chamada do Programa Universidade para Todos (Prouni), do segundo semestre de 2026, devem ficar atentos ao prazo final para comprovar as informações da inscrição. Até esta sexta-feira (14), a documentação pode ser entregue presencialmente no local de oferta docurso ou encaminhada virtualmente para a instituição privada de ensino superior onde foi pré-selecionado.&lt;/p&gt;
-&lt;p&gt;A lista dos pré-selecionados neste processo seletivo está disponível no&lt;/p&gt;
-&lt;p&gt;Portal Único de Acesso ao Ensino Superior,&lt;/p&gt;
-&lt;p&gt;O Prouni oferece bolsas de estudo integrais (que custeiam 100% do valor da mensalidade) e bolsas parciais (50% do valor da mensalidade) em cursos de graduação e sequenciais de formação específica, em faculdades privadas.&lt;/p&gt;
-&lt;p&gt;A documentação comprobatória exigida para esta fase do Prouni está descrita no&lt;/p&gt;
-&lt;p&gt;-informações socioeconômicas pessoais e dos componentes do grupo familiar do estudante.&lt;/p&gt;
-&lt;p&gt;A faculdade privada onde o candidato foi pré-selecionado poderá escolher se a documentação poderá ser entregue presencialmente ou online.&lt;/p&gt;
-&lt;p&gt;Nesse caso, a instituição deverá disponibilizar em suas páginas eletrônicas na internet campo específico para o encaminhamento do material.&lt;/p&gt;
-&lt;p&gt;No momento em que receber os documentos dos candidatos à bolsa, a instituição deverá emitir um documento que confirme a entrega.&lt;/p&gt;
-&lt;p&gt;A instituição ainda poderá solicitar documentos complementares, quando necessário.&lt;/p&gt;
-&lt;p&gt;Os candidatos que, até o momento, não foram pré-selecionados em nenhuma das duas chamadas do Prouni do segundo semestre terão nova oportunidade por meio da lista de espera.&lt;/p&gt;
-&lt;p&gt;Para participar dessa etapa, será necessário manifestar interesse nos dias 26 e 27 de agosto.&lt;/p&gt;
-&lt;p&gt;A divulgação do resultado da lista de espera será no dia 1° de setembro e a comprovação das informações de inscrição dos pré-selecionados deverá ser feita entre 1° e 14 de setembro.&lt;/p&gt;
-&lt;p&gt;Neste segundo semestre, o programa federal oferece 471.304 bolsas de estudos parciais e integraisem 380 cursos de graduação de 879 instituições privadas de ensino superior.&lt;/p&gt;
-&lt;p&gt;Do total de bolsas ofertadas,219.725 foramintegrais e 251.579parciais (50% do valor do curso).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/estudante-deve-comprovar-ate-hoje-informacoes-de-inscricao-no-prouni&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Os estudantes que foram pré-selecionados na segunda chamada do Programa Universidade para Todos (Prouni), do segundo semestre de 2026, devem ficar at...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-14 10:25:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-14 10:25:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-14 10:25:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-14 10:25:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/EJLyxuAPsOQJDt5I5LKi_Jm8j4s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230627_123618_0.jpg?itok=hQB1f7KK</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
