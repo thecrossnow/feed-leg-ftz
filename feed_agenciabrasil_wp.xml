@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 16 Aug 2026 14:14:48 +0000</pubDate>
+    <pubDate>Sun, 16 Aug 2026 15:13:40 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,102 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Oito pessoas morrem em tombamento de ônibus em Petrópolis</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/oito-pessoas-morrem-em-tombamento-de-onibus-em-petropolis</link>
+      <pubDate>Sun, 16 Aug 2026 15:13:40 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/oito-pessoas-morrem-em-tombamento-de-onibus-em-petropolis#1000</guid>
+      <description>O tombamento de um ônibus no Km 91 da BR-040, em Petrópolis, no Rio de Janeiro, deixou oito mortos na madrugada deste domingo (16), segundo a Polícia...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/lzIi0su2klfVK_52J4RHz4YgZP8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/16/sem_titulo.jpg?itok=vnFI61Ym&quot; alt=&quot;Oito pessoas morrem em tombamento de ônibus em Petrópolis&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O tombamento de um ônibus no Km 91 da BR-040, em Petrópolis, no Rio de Janeiro, deixou oito mortos na madrugada deste domingo (16), segundo a Polícia Rodoviária Federal.&lt;/p&gt;
+&lt;p&gt;O coletivo da empresa Estrela Guia Turismo saiu de Belo Horizonte e tinha como destino o bairro de Copacabana, na zona sul do Rio de Janeiro. O veículotransportava 47 pessoas e tombou por volta das 4h30.&lt;/p&gt;
+&lt;p&gt;As vítimas foram encaminhadas para o Hospital Santa Teresa, em Petrópolis, e também Adão Pereira Nunes e Getúlio Vargas, em Duque de Caxias.&lt;/p&gt;
+&lt;p&gt;O incidenteimpactou o fluxo de veículos na rodovia, que só teve a pista liberada pouco depois das 7h da manhã.&lt;/p&gt;
+&lt;p&gt;TSE encerra prazo e registra 13 candidatos à Presidência&lt;/p&gt;
+&lt;p&gt;Brasília tem sua primeira Virada Cultural neste fim de semana&lt;/p&gt;
+&lt;p&gt;Mega-sena acumula para R$ 45 milhões; confira os números&lt;/p&gt;
+&lt;p&gt;Terremoto na Indonésia forçou 5 mil pessoas a deixarem suas casas&lt;/p&gt;
+&lt;p&gt;Oito pessoas morrem em tombamento de ônibus em Petrópolis&lt;/p&gt;
+&lt;p&gt;Projeto mapeia caminhos para economia verde no Nordeste&lt;/p&gt;
+&lt;p&gt;Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino&lt;/p&gt;
+&lt;p&gt;Ondas da Rádio Nacional transmitem partida entre Vasco e Santos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/oito-pessoas-morrem-em-tombamento-de-onibus-em-petropolis&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O tombamento de um ônibus no Km 91 da BR-040, em Petrópolis, no Rio de Janeiro, deixou oito mortos na madrugada deste domingo (16), segundo a Polícia...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-16 11:15:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-16 11:15:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-16 11:15:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-16 11:15:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/lzIi0su2klfVK_52J4RHz4YgZP8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/16/sem_titulo.jpg?itok=vnFI61Ym</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Projeto mapeia caminhos para economia verde no Nordeste</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/projeto-mapeia-caminhos-para-economia-verde-no-nordeste</link>
+      <pubDate>Sun, 16 Aug 2026 15:13:40 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/projeto-mapeia-caminhos-para-economia-verde-no-nordeste#1001</guid>
+      <description>Um projeto começou a percorrer os nove estados do Nordeste para mapear oportunidades econômicas, setores produtivos, capacidades e competências capaz...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FmLaioS8iduYm1mE2EOfOw6EdhQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/03/eolicaariversianipac.jpeg?itok=4gqwv86n&quot; alt=&quot;Projeto mapeia caminhos para economia verde no Nordeste&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Um projeto começou a percorrer os nove estados do Nordeste para mapear oportunidades econômicas, setores produtivos, capacidades e competências capazes de contribuir para a transição da região para uma economia de baixo carbono.A iniciativa, chamada Futuros Verdes no Nordeste, reúne o Instituto Clima e Sociedade (iCS) e o Centro de Estudos e Sistemas Avançados de Recife (CESAR).&lt;/p&gt;
+&lt;p&gt;A proposta é ouvir especialistas e representantes do setor produtivo para transformar o conhecimento sobre sustentabilidade em orientações estratégicas que considerem a diversidade dos territórios nordestinos. O mapeamento também pretende identificar as necessidades de formação e capacitação de profissionais diante das novas exigências impostas pelas mudanças climáticas e pela transformação dos modelos produtivos.&lt;/p&gt;
+&lt;p&gt;Para Diogo Araújo, biólogo, analista do CESAR e um dos coordenadores do projeto, a transição para uma economia de baixo carbono não acontece de forma automática.&lt;/p&gt;
+&lt;p&gt;&quot;As oportunidades não se distribuem automaticamente e também não vai ter uma transformação de forma tão natural e tão automática [...]. Então é por isso que o Futuros Verdes no Nordeste nasce. Para compreender essa complexidade.&quot;&lt;/p&gt;
+&lt;p&gt;A região reúne, ao mesmo tempo, alguns dos principais desafios provocados pelas mudanças climáticas e um conjunto de potencialidades para o desenvolvimento de alternativas produtivas mais sustentáveis.&lt;/p&gt;
+&lt;p&gt;Segundo o Painel Intergovernamental sobre Mudanças Climáticas (IPCC), a caatinga é um dos biomas mais ameaçados pela desertificação em todo o mundo.&lt;/p&gt;
+&lt;p&gt;Em 2025, segundo o Mapbiomas, três dos cinco estados que mais desmataram estavam no Nordeste: Maranhão, Piauí e Bahia.&lt;/p&gt;
+&lt;p&gt;Quatro das sete cidades brasileiras mais ameaçadas pela elevação do nível do mar também estão na região, segundo a Climate Central: Recife, São Luís, Fortaleza e Salvador.&lt;/p&gt;
+&lt;p&gt;Por outro lado, 92% de toda a energia eólica produzida no país vem do Nordeste. A região também abriga cinco das 10 maiores usinas solares e tem no turismo uma importante fonte de geração de recursos.&lt;/p&gt;
+&lt;p&gt;Para o gerente de Recursos Naturais da Confederação Nacional da Indústria (CNI), Mário Cardoso, as oportunidades podem ser ainda mais amplas.&lt;/p&gt;
+&lt;p&gt;“Você tem potencialidade na bioeconomia, na biodiversidade da caatinga, na questão de biomassa e energia renovável, tanto com etanol quanto energia solar, as energias renováveis, solar e eólica, tudo isso você tem potencialidade&quot;, lista Mario Cardoso, Gerente de Recursos Naturais da Confederação Nacional da Indústria (CNI). Mas ele emenda uma questão: &quot;Agora, como transformar essa potencialidade em desenvolvimento?&lt;/p&gt;
+&lt;p&gt;Para o especialista, a resposta é complexa e envolve, entre outros fatores, cadeia de produção, demanda do setor produtivo, potencial de mercado, viabilidade técnica e capacidade de implementação.&lt;/p&gt;
+&lt;p&gt;“Tem locais que têm vocação para a produção de energia eólica? Tem. Mas ele também depende da linha de transmissão. Potencial, por si só, não gera desenvolvimento. Tem toda uma estratégia por trás, uma condição, uma infraestrutura, uma regulação, tudo o que suporte esse potencial. Não tem resposta simples, não tem solução de prateleira.”&lt;/p&gt;
+&lt;p&gt;A capacidade de implementação passa também pela formação de profissionais habilitados às novas demandas. Nicolis Amaral, do Instituto Clima e Sociedade (iCS), acredita que é preciso fazer ajustes na formação dos profissionais que vão encarar os desafios impostos pelas mudanças climáticas.&lt;/p&gt;
+&lt;p&gt;“As profissões começam a se transformar por demanda” explica a ativista que se formou como engenheira química, mas que apresenta sua própria transição de carreira como um exemplo das mudanças que precisam ser feitas:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/projeto-mapeia-caminhos-para-economia-verde-no-nordeste&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Um projeto começou a percorrer os nove estados do Nordeste para mapear oportunidades econômicas, setores produtivos, capacidades e competências capaz...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-08-16 11:14:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-16 11:14:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-16 11:14:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-16 11:14:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/FmLaioS8iduYm1mE2EOfOw6EdhQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/08/03/eolicaariversianipac.jpeg?itok=4gqwv86n</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-bahia-se-classificam-quartas-do-brasileirao-feminino</link>
-      <pubDate>Sun, 16 Aug 2026 14:14:48 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 15:13:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-bahia-se-classificam-quartas-do-brasileirao-feminino#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-bahia-se-classificam-quartas-do-brasileirao-feminino#1002</guid>
       <description>O funil está ficando cada vez mais estreito na Série A1 (primeira divisão) do Campeonato Brasileiro Feminino de futebol. A três jogos do fim da 16ª e...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/I7kBzDM5eHXingiORVqFCoA6CqU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/16/55466426284_9e130d19cd_o.jpg?itok=x5PwvjEB&quot; alt=&quot;Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O funil está ficando cada vez mais estreito na Série A1 (primeira divisão) do Campeonato Brasileiro Feminino de futebol. A três jogos do fim da 16ª e penúltima rodada,&lt;/p&gt;
@@ -45,7 +136,7 @@
 &lt;p&gt;Um resultado que ajudou o Flamengo foi a derrota do Grêmio para o Atlético-MG na Arena MRV, em Belo Horizonte, por 2 a 0, na última sexta-feira (14). As atacantes Anny Marabá e Amália marcaram para as Vingadoras no duelo, transmitido ao vivo pela&lt;/p&gt;
 &lt;p&gt;O triunfo afastou de vez qualquer risco de rebaixamento das atleticanas, que foram a 16 pontos. O resultado ainda cravou as mineiras no 13º lugar, independentemente do que ocorrer nos próximos jogos da primeira fase.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ferroviaria-e-bahia-se-classificam-quartas-do-brasileirao-feminino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O funil está ficando cada vez mais estreito na Série A1 (primeira divisão) do Campeonato Brasileiro Feminino de futebol. A três jogos do fim da 16ª e...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-16 10:22:00</wp:post_date>
       <wp:post_date_gmt>2026-08-16 10:22:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-16 10:22:00</wp:post_modified>
@@ -71,9 +162,9 @@
     <item>
       <title>Ondas da Rádio Nacional transmitem partida entre Vasco e Santos</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ondas-da-radio-nacional-transmitem-partida-entre-vasco-e-santos</link>
-      <pubDate>Sun, 16 Aug 2026 14:14:48 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 15:13:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ondas-da-radio-nacional-transmitem-partida-entre-vasco-e-santos#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ondas-da-radio-nacional-transmitem-partida-entre-vasco-e-santos#1003</guid>
       <description>Neste domingo (16), aRádio Nacionaltransmite as emoções doconfronto entre Vascoe Santospela 23ª rodada do Campeonato BrasileiroMasculino 2026.Abola r...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_Mi9OE1c977QAkW7QikFDCzkkog=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/14/vascoxsantos-1250x856-1.jpg?itok=GVHsP221&quot; alt=&quot;Ondas da Rádio Nacional transmitem partida entre Vasco e Santos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Neste domingo (16), aRádio Nacionaltransmite as emoções doconfronto entre Vascoe Santospela 23ª rodada do Campeonato BrasileiroMasculino 2026.Abola rola no Estadio São Januário, no Rio de Janeiro, às16h,mas as ondas daNacionalentram no ar a partir das 15h30 com todas as informaçõesdo duelo.&lt;/p&gt;
@@ -92,7 +183,7 @@
 &lt;p&gt;Esporte que é paixão do povo brasileiro, o futebol é um dos destaques da programação daRádio Nacional, emissora pública referência em transmissões de partidas no país há décadas.&lt;/p&gt;
 &lt;p&gt;Os jogos das principais competições e as notícias mais importantes têm espaço nas jornadas esportivas diárias.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/ondas-da-radio-nacional-transmitem-partida-entre-vasco-e-santos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Neste domingo (16), aRádio Nacionaltransmite as emoções doconfronto entre Vascoe Santospela 23ª rodada do Campeonato BrasileiroMasculino 2026.Abola r...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-16 09:34:00</wp:post_date>
       <wp:post_date_gmt>2026-08-16 09:34:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-16 09:34:00</wp:post_modified>
@@ -118,9 +209,9 @@
     <item>
       <title>Veja as agendas dos candidatos à presidência para este domingo (16)</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agendas-dos-candidatos-presidencia-para-este-domingo-16</link>
-      <pubDate>Sun, 16 Aug 2026 14:14:48 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 15:13:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agendas-dos-candidatos-presidencia-para-este-domingo-16#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agendas-dos-candidatos-presidencia-para-este-domingo-16#1004</guid>
       <description>As campanhas eleitorais para a Presidência da República começam neste domingo (16), dia em que os candidatos e candidtas estão autorizados a iniciar ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Veja as agendas dos candidatos à presidência para este domingo (16)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;As campanhas eleitorais para a Presidência da República começam neste domingo (16), dia em que os candidatos e candidtas estão autorizados a iniciar oficialmente a propaganda eleitoral nas ruas e na internet. Os presidenciáveis programaram atos de lançamento em diferentes regiões do país, geralmente escolhendo locais associados à sua trajetória política ou às bases eleitorais de suas candidaturas.&lt;/p&gt;
@@ -139,7 +230,7 @@
 &lt;p&gt;Local: Bairro São João Batista, em Santa Luzia – Região Metropolitana de Belo Horizonte&lt;/p&gt;
 &lt;p&gt;Atividade: Evento para lançamento de campanha na Praça da Estaçãozinha, com políticos locais e filiados do partido. Antes, falará com jornalistas na Rua do Comércio, nº 86&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-agendas-dos-candidatos-presidencia-para-este-domingo-16&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>As campanhas eleitorais para a Presidência da República começam neste domingo (16), dia em que os candidatos e candidtas estão autorizados a iniciar ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-16 09:21:00</wp:post_date>
       <wp:post_date_gmt>2026-08-16 09:21:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-16 09:21:00</wp:post_modified>
@@ -165,9 +256,9 @@
     <item>
       <title>Da Amazônia à Europa, seca avança e movimenta debates na COP17</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/da-amazonia-europa-seca-avanca-e-movimenta-debates-na-cop17</link>
-      <pubDate>Sun, 16 Aug 2026 14:14:48 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 15:13:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/da-amazonia-europa-seca-avanca-e-movimenta-debates-na-cop17#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/da-amazonia-europa-seca-avanca-e-movimenta-debates-na-cop17#1005</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 A seca deixou de ser um problema apenas das regiões áridas do planeta e passou a atingir lugaresantes considerados ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/RoWZuY2Jwe4Sp3VYCxrghbxxhmM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/54_retro_2023_seca_no_amazonas.jpg?itok=goOm7IgK&quot; alt=&quot;Da Amazônia à Europa, seca avança e movimenta debates na COP17&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -188,7 +279,7 @@ A seca deixou de ser um problema apenas das regiões áridas do planeta e passou
 &lt;p&gt;&quot;O que observamos em todo o país é uma tendência de ressecamento. Vemos a diminuiçãodos totais de chuvase o aumento datemperatura. Há um risco de que o desequilíbrio entre precipitação e evaporação leve a situações de agravamento das secas&quot;, analisa Marengo.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/da-amazonia-europa-seca-avanca-e-movimenta-debates-na-cop17&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 A seca deixou de ser um problema apenas das regiões áridas do planeta e passou a atingir lugaresantes considerados ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-16 08:57:00</wp:post_date>
       <wp:post_date_gmt>2026-08-16 08:57:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-16 08:57:00</wp:post_modified>
@@ -214,9 +305,9 @@ A seca deixou de ser um problema apenas das regiões áridas do planeta e passou
     <item>
       <title>Campanha eleitoral nas ruas e propaganda virtual começam neste domingo</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/campanha-eleitoral-nas-ruas-e-propaganda-virtual-comecam-neste-domingo</link>
-      <pubDate>Sun, 16 Aug 2026 14:14:48 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 15:13:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/campanha-eleitoral-nas-ruas-e-propaganda-virtual-comecam-neste-domingo#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/campanha-eleitoral-nas-ruas-e-propaganda-virtual-comecam-neste-domingo#1006</guid>
       <description>© Fernando Frazão/Agência Brasil
 está liberada a partir deste domingo (16). Os candidatos e candidatas podem participar de carreatas, passeatas e pan...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MQ5Jne2oSiNWQK3yk_Vu7YHWSFU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/03/_d6a3997.jpg?itok=uQBPGTuA&quot; alt=&quot;Campanha eleitoral nas ruas e propaganda virtual começam neste domingo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -232,12 +323,12 @@ está liberada a partir deste domingo (16). Os candidatos e candidatas podem par
 &lt;p&gt;Veja a seguir, em ordem alfabética, os nomes dos candidatos ao cargo de presidente da República e seus perfis na página do TSE:&lt;/p&gt;
 &lt;p&gt;TSE encerra prazo e registra 13 candidatos à Presidência&lt;/p&gt;
 &lt;p&gt;Brasília tem sua primeira Virada Cultural neste fim de semana&lt;/p&gt;
-&lt;p&gt;Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino&lt;/p&gt;
-&lt;p&gt;Ondas da Rádio Nacional transmitem partida entre Vasco e Santos&lt;/p&gt;
-&lt;p&gt;Veja as agendas dos candidatos à presidência para este domingo (16)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/campanha-eleitoral-nas-ruas-e-propaganda-virtual-comecam-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mega-sena acumula para R$ 45 milhões; confira os números&lt;/p&gt;
+&lt;p&gt;Terremoto na Indonésia forçou 5 mil pessoas a deixarem suas casas&lt;/p&gt;
+&lt;p&gt;Oito pessoas morrem em tombamento de ônibus em Petrópolis&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/campanha-eleitoral-nas-ruas-e-propaganda-virtual-comecam-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 está liberada a partir deste domingo (16). Os candidatos e candidatas podem participar de carreatas, passeatas e pan...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-16 08:00:00</wp:post_date>
       <wp:post_date_gmt>2026-08-16 08:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-16 08:00:00</wp:post_modified>
@@ -263,9 +354,9 @@ está liberada a partir deste domingo (16). Os candidatos e candidatas podem par
     <item>
       <title>Fluminense encerra jejum e bate Palmeiras de virada no Brasileirão</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-encerra-jejum-e-bate-palmeiras-de-virada-no-brasileirao</link>
-      <pubDate>Sun, 16 Aug 2026 14:14:48 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 15:13:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-encerra-jejum-e-bate-palmeiras-de-virada-no-brasileirao#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-encerra-jejum-e-bate-palmeiras-de-virada-no-brasileirao#1007</guid>
       <description>encerroujejum de oito jogos sem vencer e, de quebra, atrapalhou os planos do
 , que podia disparar na liderança do Campeonato Brasileiro. Neste sábado...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3qIqko2-qfvRmGxi9dEILEsrMB0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/15/55466580825_39efa67b7f_o.jpg?itok=v5ztl96a&quot; alt=&quot;Fluminense encerra jejum e bate Palmeiras de virada no Brasileirão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -281,12 +372,12 @@ está liberada a partir deste domingo (16). Os candidatos e candidatas podem par
 &lt;p&gt;Nos acréscimos, o Fluminense decretou a virada. Aos 46 minutos, Guga foi lançado na direita por Martinelli e cruzou praticamente em cima da linha. O próprio volante entrou na área para escorar e Cano surgiu no meio da finalização para, de cabeça, tirar do alcance de Carlos Miguel e dar a vitória aos donos da casa.&lt;/p&gt;
 &lt;p&gt;TSE encerra prazo e registra 13 candidatos à Presidência&lt;/p&gt;
 &lt;p&gt;Brasília tem sua primeira Virada Cultural neste fim de semana&lt;/p&gt;
-&lt;p&gt;Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino&lt;/p&gt;
-&lt;p&gt;Ondas da Rádio Nacional transmitem partida entre Vasco e Santos&lt;/p&gt;
-&lt;p&gt;Veja as agendas dos candidatos à presidência para este domingo (16)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-encerra-jejum-e-bate-palmeiras-de-virada-no-brasileirao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mega-sena acumula para R$ 45 milhões; confira os números&lt;/p&gt;
+&lt;p&gt;Terremoto na Indonésia forçou 5 mil pessoas a deixarem suas casas&lt;/p&gt;
+&lt;p&gt;Oito pessoas morrem em tombamento de ônibus em Petrópolis&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-encerra-jejum-e-bate-palmeiras-de-virada-no-brasileirao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>encerroujejum de oito jogos sem vencer e, de quebra, atrapalhou os planos do
 , que podia disparar na liderança do Campeonato Brasileiro. Neste sábado...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-15 19:08:00</wp:post_date>
       <wp:post_date_gmt>2026-08-15 19:08:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-15 19:08:00</wp:post_modified>
@@ -312,9 +403,9 @@ está liberada a partir deste domingo (16). Os candidatos e candidatas podem par
     <item>
       <title>Brasileirão Feminino A3: Juventude-SE sai na frente da Portuguesa-AP</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-a3-juventude-se-sai-na-frente-da-portuguesa-ap</link>
-      <pubDate>Sun, 16 Aug 2026 14:14:48 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 15:13:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-a3-juventude-se-sai-na-frente-da-portuguesa-ap#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-a3-juventude-se-sai-na-frente-da-portuguesa-ap#1008</guid>
       <description>© Flávio Ribeiro - @clikesportivo/Juventude-SE
 O Juventude-SE saiu na frente da Portuguesa-AP no confronto pelas semifinais da Série A3 (terceira div...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/RM-CDR4fP-A-6RT97jtHaw8M9Jw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/15/img_8238.jpg.jpeg?itok=MOnBVJFh&quot; alt=&quot;Brasileirão Feminino A3: Juventude-SE sai na frente da Portuguesa-AP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -335,7 +426,7 @@ O Juventude-SE saiu na frente da Portuguesa-AP no confronto pelas semifinais da 
 &lt;p&gt;TSE encerra prazo e registra 13 candidatos à Presidência&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasileirao-feminino-a3-juventude-se-sai-na-frente-da-portuguesa-ap&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Flávio Ribeiro - @clikesportivo/Juventude-SE
 O Juventude-SE saiu na frente da Portuguesa-AP no confronto pelas semifinais da Série A3 (terceira div...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-15 18:55:00</wp:post_date>
       <wp:post_date_gmt>2026-08-15 18:55:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-15 18:55:00</wp:post_modified>
@@ -361,9 +452,9 @@ O Juventude-SE saiu na frente da Portuguesa-AP no confronto pelas semifinais da 
     <item>
       <title>Publicação lembra 50 anos do atentado à sede da ABI na ditadura</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/publicacao-lembra-50-anos-do-atentado-sede-da-abi-na-ditadura</link>
-      <pubDate>Sun, 16 Aug 2026 14:14:48 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 15:13:40 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/publicacao-lembra-50-anos-do-atentado-sede-da-abi-na-ditadura#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/publicacao-lembra-50-anos-do-atentado-sede-da-abi-na-ditadura#1009</guid>
       <description>Na próxima quarta-feira (19), um dos atentados que tentaram calar vozes democráticas que lutavam contra a
 (1964-1985) completa 50 anos: a explosão da...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/AxLxo967P_fMiV6ra7S08TP0HNo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/15/sem_titulo_0.jpg?itok=V6-V_o8J&quot; alt=&quot;Publicação lembra 50 anos do atentado à sede da ABI na ditadura&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -384,7 +475,7 @@ O Juventude-SE saiu na frente da Portuguesa-AP no confronto pelas semifinais da 
 &lt;p&gt;“Ao defender a liberdade de imprensa, os direitos humanos e a livre manifestação do pensamento, tornou-se também alvo da intolerância de grupos radicais de extrema-direita, contrários aos incipientes movimentos de abertura política – a chamada ‘distensão’ do regime ditatorial”, explica o atual presidente da ABI, Octávio Costa.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/publicacao-lembra-50-anos-do-atentado-sede-da-abi-na-ditadura&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Na próxima quarta-feira (19), um dos atentados que tentaram calar vozes democráticas que lutavam contra a
 (1964-1985) completa 50 anos: a explosão da...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-15 18:40:00</wp:post_date>
       <wp:post_date_gmt>2026-08-15 18:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-15 18:40:00</wp:post_modified>
@@ -405,102 +496,6 @@ O Juventude-SE saiu na frente da Portuguesa-AP no confronto pelas semifinais da 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/AxLxo967P_fMiV6ra7S08TP0HNo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/15/sem_titulo_0.jpg?itok=V6-V_o8J</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Show exclusivo resgata clássicos do cancioneiro nacional na TV Brasil</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/show-exclusivo-resgata-classicos-do-cancioneiro-nacional-na-tv-brasil</link>
-      <pubDate>Sun, 16 Aug 2026 14:14:48 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/show-exclusivo-resgata-classicos-do-cancioneiro-nacional-na-tv-brasil#1008</guid>
-      <description>O flautistaRafael Becke o pianistaFelipe Montanaroapresentam o show inédito
-com um repertório repleto de composições de grandes nomes da música nacio...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/imCJnetgo-Mc6V1UhUo_Y4A3sX0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/13/cena-musical-flautista-rafael-beck-e-pianista-felipe-montanaro-03-credito-andre-telles-espaco-cultural-bndes.jpg?itok=3sq6nwA1&quot; alt=&quot;Show exclusivo resgata clássicos do cancioneiro nacional na TV Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O flautistaRafael Becke o pianistaFelipe Montanaroapresentam o show inédito&lt;/p&gt;
-&lt;p&gt;com um repertório repleto de composições de grandes nomes da música nacional neste sábado (15), às 23h59, no programa&lt;/p&gt;
-&lt;p&gt;A produção, realizada pela emissora pública, celebra sucessos de personalidades como Dominguinhos, Tom Jobim, Hermeto Pascoal, Jacob do Bandolim, João Bosco, Chico Buarque, Djavan, Ivan Lins e Guilherme Arantes, entre outros.&lt;/p&gt;
-&lt;p&gt;A performance exclusiva combina clássicos do repertório nacional como os hits&lt;/p&gt;
-&lt;p&gt;. O espetáculo inclui, ainda, obras autorais do duo:&lt;/p&gt;
-&lt;p&gt;Rafael Beck toca flauta transversal e piano elétrico. Já Felipe Montanaro mostra seu talento no piano e na sanfona. Eles começaram a tocar juntos em 2023 e, desde então, têm destaque como representantes da nova geração da música instrumental brasileira. Com arranjos inovadores e interpretações que unem técnica e sensibilidade, os artistas conquistaram reconhecimento no país e no exterior.&lt;/p&gt;
-&lt;p&gt;O show gravado no palco doEspaço Cultural do BNDES, no Rio de Janeiro, pode ser acompanhado no app&lt;/p&gt;
-&lt;p&gt;. A produção apresentada pela jornalista e cantoraBia Aparecidatem direção deWaldecir de Oliveira.&lt;/p&gt;
-&lt;p&gt;reúne os depoimentos dos convidados e de bastidores das gravações. A sequência traz performances de nomes comoÁurea Martins, Cristóvão Bastos, Lula Queiroga e Marcos Sacramento, entre outros astros do cancioneiro do país.&lt;/p&gt;
-&lt;p&gt;que traz para o público performances inéditas da música nacional. Desde 2017, os shows são gravados no Espaço Cultural BNDES.&lt;/p&gt;
-&lt;p&gt;A produção com janela semanal traz espetáculos que revelam e celebram a diversidade e a riqueza da sonoridade brasileira. Na nova leva de episódios, a atração exibe performances exclusivas de personalidades de vários gêneros.&lt;/p&gt;
-&lt;p&gt;&quot;Estou muito feliz em celebrar a estreia de uma nova temporada do&lt;/p&gt;
-&lt;p&gt;. É muito especial apresentar um programa que acredita na força e na diversidade da música nacional e abre espaço, de forma democrática, para diferentes sons, sotaques, histórias e gerações&quot;, conta Bia Aparecida.&lt;/p&gt;
-&lt;p&gt;A apresentadora considera a música uma das maiores riquezas culturais do país. &quot;Ela é sofisticada, inventiva e profundamente conectada com quem somos. Os convidados mostram a grandeza e a diversidade desse cenário. O programa&lt;/p&gt;
-&lt;p&gt;é esse lugar de encontro, descoberta e celebração da nossa cultura e estou bem animada para dividir essa nova temporada com o público&quot;, completa.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/show-exclusivo-resgata-classicos-do-cancioneiro-nacional-na-tv-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O flautistaRafael Becke o pianistaFelipe Montanaroapresentam o show inédito
-com um repertório repleto de composições de grandes nomes da música nacio...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-08-15 18:28:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-15 18:28:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-15 18:28:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-15 18:28:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/imCJnetgo-Mc6V1UhUo_Y4A3sX0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/13/cena-musical-flautista-rafael-beck-e-pianista-felipe-montanaro-03-credito-andre-telles-espaco-cultural-bndes.jpg?itok=3sq6nwA1</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-38-milhoes-neste-domingo</link>
-      <pubDate>Sun, 16 Aug 2026 14:14:48 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-38-milhoes-neste-domingo#1009</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
-A Mega-Sena sorteia neste domingo (16) prêmio estimado em R$ 38 milhões.As seis dezenas do concurso 3.045se...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uGWKQSevZCX_pTs3UH-Oh-oPDv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182658.jpg?itok=s-3aV28q&quot; alt=&quot;Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil/ARQUIVO&lt;/p&gt;
-&lt;p&gt;A Mega-Sena sorteia neste domingo (16) prêmio estimado em R$ 38 milhões.As seis dezenas do concurso 3.045serão sorteadas a partir das 11h (horário de Brasília) no Espaço da Sorte, em São Paulo.&lt;/p&gt;
-&lt;p&gt;As apostas podem ser feitas até às 22h (horário de Brasília) de hoje(15) em casas lotéricas credenciadas pela Caixa em todo o país ou pela internet. A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;No último concurso, foram sorteados os números04,15,17,40,55 e58e&lt;/p&gt;
-&lt;p&gt;nenhum apostador acertou as seis dezenas&lt;/p&gt;
-&lt;p&gt;TSE encerra prazo e registra 13 candidatos à Presidência&lt;/p&gt;
-&lt;p&gt;Brasília tem sua primeira Virada Cultural neste fim de semana&lt;/p&gt;
-&lt;p&gt;Ferroviária e Bahia se classificam às quartas do Brasileirão Feminino&lt;/p&gt;
-&lt;p&gt;Ondas da Rádio Nacional transmitem partida entre Vasco e Santos&lt;/p&gt;
-&lt;p&gt;Veja as agendas dos candidatos à presidência para este domingo (16)&lt;/p&gt;
-&lt;p&gt;Da Amazônia à Europa, seca avança e movimenta debates na COP17&lt;/p&gt;
-&lt;p&gt;Campanha eleitoral nas ruas e propaganda virtual começam neste domingo&lt;/p&gt;
-&lt;p&gt;Fluminense encerra jejum e bate Palmeiras de virada no Brasileirão&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-38-milhoes-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil/ARQUIVO
-A Mega-Sena sorteia neste domingo (16) prêmio estimado em R$ 38 milhões.As seis dezenas do concurso 3.045se...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-15 17:45:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-15 17:45:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-15 17:45:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-15 17:45:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/uGWKQSevZCX_pTs3UH-Oh-oPDv4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230622_182658.jpg?itok=s-3aV28q</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
