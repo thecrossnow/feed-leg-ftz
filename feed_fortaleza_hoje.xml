@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - Recentes</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias recentes. Última verificação: 13:40 UTC</description>
-<lastBuildDate>Mon, 17 Aug 2026 13:40:45 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias recentes (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Mon, 17 Aug 2026 14:30:09 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Prefeitura abre pré-inscrições para a primeira Cuidoteca Comunitária do Brasil</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/prefeitura-abre-pre-inscricoes-para-a-primeira-cuidoteca-comunitaria-do-brasil</link>
+<guid isPermaLink="false">fortaleza-20260817-d21613936e1e</guid>
+<pubDate>Mon, 17 Aug 2026 10:34:00 +0000</pubDate>
+<description>Prefeitura abre pré-inscrições para a primeira Cuidoteca Comunitária do Brasil - Segunda, 17 Agosto 2026 10:34</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Agosto/2/17 08 2026 Cuidoteca DSC00996.JPG" alt="Prefeitura abre pré-inscrições para a primeira Cuidoteca Comunitária do Brasil" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Pefeitura de Fortaleza abre, entre os dias 24 e 28 de agosto, as pré-inscrições para a Cuidoteca Comunitária, primeira do país, que integra o Complexo Intergeracional Fortaleza Inclusiva (Cifi), no bairro Serrinha. O cadastro poderá ser realizado presencialmente, no CRAS Serrinha (Rua Inácio Parente, 100) ou pelo <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScIb6ygwEetkBXbWak2CLCn33uZUZYQ68cXvbiQGUN9t7JjQA/viewform?pli=1&amp;pli=1">formulário on-line</a></strong>. Serão realizadas duas turmas de segunda a sexta-feira, sendo uma de 13h às 17h e outra de 17h às 22h.</p>
+<p>A Cuidoteca oferece um espaço gratuito, seguro e acolhedor onde as crianças podem permanecer enquanto suas mães, pais ou responsáveis trabalham, estudam, participam de cursos de qualificação profissional ou acessam serviços e programas públicos. Podem participar crianças de 3 a 12 anos, com ou sem deficiência, pertencentes a famílias em situação de vulnerabilidade social.</p>
+<p>Terão prioridade famílias inscritas no Cadastro Único (CadÚnico); famílias monoparentais, especialmente as chefiadas por mulheres; famílias em situação de vulnerabilidade social; trabalhadoras e trabalhadores sem rede de apoio para o cuidado das crianças; crianças com deficiência e suas famílias.</p>
+<p>No espaço, as crianças terão acesso a atividades artísticas e criativas, leitura e contação de histórias, jogos educativos e brincadeiras, espaços de convivência e socialização acompanhadas por profissionais.</p>
+<p><strong>Cuidoteca Comunitária</strong></p>
+<p>Mais do que um espaço de cuidado, a Cuidoteca promove o brincar, a convivência, a inclusão e o desenvolvimento infantil, contribuindo para o fortalecimento das famílias e da comunidade. Para as crianças, incentiva a convivência respeitosa e inclusiva. Já para as famílias, apoia mães, pais e responsáveis no cuidado das crianças, amplia as oportunidades de estudo, trabalho e qualificação profissional, facilita o acesso aos serviços e benefícios socioassistenciais, contribui para reduzir a sobrecarga dos cuidados e fortalece a autonomia e a inclusão social das famílias.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/prefeitura-abre-pre-inscricoes-para-a-primeira-cuidoteca-comunitaria-do-brasil" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Agosto/2/17 08 2026 Cuidoteca DSC00996.JPG" type="image/jpeg" />
+<media:content url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Agosto/2/17 08 2026 Cuidoteca DSC00996.JPG" type="image/jpeg" medium="image">
+<media:title>Prefeitura abre pré-inscrições para a primeira Cuidoteca Comunitária do Brasil</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
