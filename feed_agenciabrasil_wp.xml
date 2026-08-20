@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Thu, 20 Aug 2026 04:29:22 +0000</pubDate>
+    <pubDate>Thu, 20 Aug 2026 05:22:47 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,57 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Explosão deixa quatro feridos em prédio de Copacabana</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/explosao-deixa-quatro-feridos-em-predio-de-copacabana</link>
+      <pubDate>Thu, 20 Aug 2026 05:22:47 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/explosao-deixa-quatro-feridos-em-predio-de-copacabana#1000</guid>
+      <description>O Corpo de Bombeiros foi acionado no final da tarde desta quarta-feira (19) após uma explosão em um prédio residencial na Rua Sá Ferreira, 44, em Cop...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Explosão deixa quatro feridos em prédio de Copacabana&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Corpo de Bombeiros foi acionado no final da tarde desta quarta-feira (19) após uma explosão em um prédio residencial na Rua Sá Ferreira, 44, em Copacabana, zona sul do Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Equipes do Quartel de Copacabana foram mobilizadas para o local e realizaram a retirada dos moradores do prédio, que possui 13 pavimentos, além do subsolo.&lt;/p&gt;
+&lt;p&gt;Quatro pessoas foram socorridas pela corporação, com ferimentos leves e moderados. Duas vítimas precisaram ser encaminhadas para o Hospital Municipal Miguel Couto, na Gávea, zona sul do Rio.&lt;/p&gt;
+&lt;p&gt;A Defesa Civil do município foi acionada e, após uma avaliação estrutural, verificou que o prédio não corre risco de desabar. Parte da garagem e os dois apartamentos que sofreram abalos com a explosãoforam interditados.&lt;/p&gt;
+&lt;p&gt;O tenente-coronel Fábio Contreras, porta-voz da corporação disse que “os bombeiros tiveram de promover a evacuação de toda a edificação, num total de 150 apartamentos, para que pudesse ter certeza que o prédio não tinha risco de colapso estrutural. Equipes da Defesa Civil foram acionadas, fizeram a avaliação e logo depois liberaram o local com algumas interdições parciais. Nos dois apartamentos que sofreram os abalos no segundo andar e também em parte da garagem do prédio&quot;, explicou.&lt;/p&gt;
+&lt;p&gt;As causas da explosão serão apuradas pela Polícia Civil.&lt;/p&gt;
+&lt;p&gt;STF decide que Lei Maria da Penha vale fora do ambiente doméstico&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 19 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Explosão deixa quatro feridos em prédio de Copacabana&lt;/p&gt;
+&lt;p&gt;Palmeiras vence Cerro Porteño fora e vai às quartas da Libertadores&lt;/p&gt;
+&lt;p&gt;TSE recebe mais de mil denúncias nos primeiros dias de campanha&lt;/p&gt;
+&lt;p&gt;Fazenda analisa mudanças em crédito a motoristas de aplicativos&lt;/p&gt;
+&lt;p&gt;Bancários farão paralisação de 24 horas nesta quinta-feira&lt;/p&gt;
+&lt;p&gt;Seleção feminina de futebol é convocada para a Copa do Mundo sub-20&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/explosao-deixa-quatro-feridos-em-predio-de-copacabana&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Corpo de Bombeiros foi acionado no final da tarde desta quarta-feira (19) após uma explosão em um prédio residencial na Rua Sá Ferreira, 44, em Cop...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-19 22:21:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-19 22:21:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-19 22:21:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-19 22:21:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Palmeiras vence Cerro Porteño fora e vai às quartas da Libertadores</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/palmeiras-vence-cerro-porteno-fora-e-vai-quartas-da-libertadores</link>
-      <pubDate>Thu, 20 Aug 2026 04:29:22 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 05:22:47 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/palmeiras-vence-cerro-porteno-fora-e-vai-quartas-da-libertadores#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/palmeiras-vence-cerro-porteno-fora-e-vai-quartas-da-libertadores#1001</guid>
       <description>O Palmeiras está nas quartas de final da Libertadores. Nesta quarta-feira (19), o Verdão venceu o Cerro Porteño por 1 a 0 no La Nueva Olla, em Assunç...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Kg8PRdEvhjTiX_YlvYu1JmU9J3o=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/19/palmeiras_libertadores.jpg?itok=w2bmwowS&quot; alt=&quot;Palmeiras vence Cerro Porteño fora e vai às quartas da Libertadores&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Palmeiras está nas quartas de final da Libertadores. Nesta quarta-feira (19), o Verdão venceu o Cerro Porteño por 1 a 0 no La Nueva Olla, em Assunção (Paraguai), na partida de volta do confronto pelas oitavas de final.&lt;/p&gt;
@@ -45,7 +91,7 @@
 &lt;p&gt;O Boca Juniors (Argentina) será o adversário das quartas.&lt;/p&gt;
 &lt;p&gt;STF decide que Lei Maria da Penha vale fora do ambiente doméstico&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/palmeiras-vence-cerro-porteno-fora-e-vai-quartas-da-libertadores&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Palmeiras está nas quartas de final da Libertadores. Nesta quarta-feira (19), o Verdão venceu o Cerro Porteño por 1 a 0 no La Nueva Olla, em Assunç...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-08-19 21:46:00</wp:post_date>
       <wp:post_date_gmt>2026-08-19 21:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-19 21:46:00</wp:post_modified>
@@ -71,9 +117,9 @@
     <item>
       <title>TSE recebe mais de mil denúncias nos primeiros dias de campanha</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-recebe-mais-de-mil-denuncias-nos-primeiros-dias-de-campanha</link>
-      <pubDate>Thu, 20 Aug 2026 04:29:22 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 05:22:47 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-recebe-mais-de-mil-denuncias-nos-primeiros-dias-de-campanha#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-recebe-mais-de-mil-denuncias-nos-primeiros-dias-de-campanha#1002</guid>
       <description>© Foto Paulo Pinto/Agencia Brasil
 A Justiça Eleitoral recebeu nos primeiros dias da campanha eleitoral 1.103 denúncias de irregularidades na propagan...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DgzUki6_YNAgVl_ZqYF5pOx3rtE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/06/_pin0304.jpg?itok=Da1v6VZG&quot; alt=&quot;TSE recebe mais de mil denúncias nos primeiros dias de campanha&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -94,7 +140,7 @@ A Justiça Eleitoral recebeu nos primeiros dias da campanha eleitoral 1.103 den�
 &lt;p&gt;O primeiro turno será realizado no dia 4 de outubro, quando serão eleitos deputados federais, estaduais, distritais, governadores, senadores e o presidente da República.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-recebe-mais-de-mil-denuncias-nos-primeiros-dias-de-campanha&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Foto Paulo Pinto/Agencia Brasil
 A Justiça Eleitoral recebeu nos primeiros dias da campanha eleitoral 1.103 denúncias de irregularidades na propagan...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-19 21:08:00</wp:post_date>
       <wp:post_date_gmt>2026-08-19 21:08:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-19 21:08:00</wp:post_modified>
@@ -120,9 +166,9 @@ A Justiça Eleitoral recebeu nos primeiros dias da campanha eleitoral 1.103 den�
     <item>
       <title>Fazenda analisa mudanças em crédito a motoristas de aplicativos</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fazenda-analisa-mudancas-em-credito-motoristas-de-aplicativos</link>
-      <pubDate>Thu, 20 Aug 2026 04:29:22 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 05:22:47 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fazenda-analisa-mudancas-em-credito-motoristas-de-aplicativos#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fazenda-analisa-mudancas-em-credito-motoristas-de-aplicativos#1003</guid>
       <description>Em vigor desde 27 de julho, o Programa Move Brasil, destinado a motoristas de aplicativo e taxistas, poderá mudar para aumentar a adesão, disse nesta...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/flgiRYYIZzhoybBgyMsBuyskrus=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_2501.jpg?itok=QvwhOIx-&quot; alt=&quot;Fazenda analisa mudanças em crédito a motoristas de aplicativos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Em vigor desde 27 de julho, o Programa Move Brasil, destinado a motoristas de aplicativo e taxistas, poderá mudar para aumentar a adesão, disse nesta quarta-feira (19) o ministro da Fazenda, Dario Durigan.&lt;/p&gt;
@@ -141,7 +187,7 @@ A Justiça Eleitoral recebeu nos primeiros dias da campanha eleitoral 1.103 den�
 &lt;p&gt;Durante a reunião com Lula, os ministros também analisaram o desempenho de outros programas de crédito lançados recentemente pelo governo.&lt;/p&gt;
 &lt;p&gt;Entre os temas discutidos estavam linhas de crédito para caminhões e ônibus, financiamento de motocicletas, Programa Desenrola e medidas de apoio a trabalhadores e empresas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fazenda-analisa-mudancas-em-credito-motoristas-de-aplicativos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Em vigor desde 27 de julho, o Programa Move Brasil, destinado a motoristas de aplicativo e taxistas, poderá mudar para aumentar a adesão, disse nesta...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-19 21:00:00</wp:post_date>
       <wp:post_date_gmt>2026-08-19 21:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-19 21:00:00</wp:post_modified>
@@ -167,9 +213,9 @@ A Justiça Eleitoral recebeu nos primeiros dias da campanha eleitoral 1.103 den�
     <item>
       <title>Bancários farão paralisação de 24 horas nesta quinta-feira</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bancarios-farao-paralisacao-de-24-horas-nesta-quinta-feira</link>
-      <pubDate>Thu, 20 Aug 2026 04:29:22 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 05:22:47 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bancarios-farao-paralisacao-de-24-horas-nesta-quinta-feira#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bancarios-farao-paralisacao-de-24-horas-nesta-quinta-feira#1004</guid>
       <description>Bancários de todo o país farão uma paralisação de 24 horas nesta quinta-feira (20), em meio às negociações da campanha salarial de 2026. A categoria ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Nkf3P3-vdT9LQjquMeqH5njORKQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/xxatende_1.jpg?itok=9M4cJdl1&quot; alt=&quot;Bancários farão paralisação de 24 horas nesta quinta-feira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Bancários de todo o país farão uma paralisação de 24 horas nesta quinta-feira (20), em meio às negociações da campanha salarial de 2026. A categoria cobra reajuste dos salários e benefícios, aumento do piso e mudanças na participação nos lucros e resultados (PLR).&lt;/p&gt;
@@ -188,7 +234,7 @@ A Justiça Eleitoral recebeu nos primeiros dias da campanha eleitoral 1.103 den�
 &lt;p&gt;STF decide que Lei Maria da Penha vale fora do ambiente doméstico&lt;/p&gt;
 &lt;p&gt;Repórter Brasil de 19 de agosto de 2026; assista na íntegra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/bancarios-farao-paralisacao-de-24-horas-nesta-quinta-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Bancários de todo o país farão uma paralisação de 24 horas nesta quinta-feira (20), em meio às negociações da campanha salarial de 2026. A categoria ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-19 20:53:00</wp:post_date>
       <wp:post_date_gmt>2026-08-19 20:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-19 20:53:00</wp:post_modified>
@@ -214,9 +260,9 @@ A Justiça Eleitoral recebeu nos primeiros dias da campanha eleitoral 1.103 den�
     <item>
       <title>Seleção feminina de futebol é convocada para a Copa do Mundo sub-20</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/selecao-feminina-de-futebol-e-convocada-para-copa-do-mundo-sub-20</link>
-      <pubDate>Thu, 20 Aug 2026 04:29:22 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 05:22:47 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/selecao-feminina-de-futebol-e-convocada-para-copa-do-mundo-sub-20#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/selecao-feminina-de-futebol-e-convocada-para-copa-do-mundo-sub-20#1005</guid>
       <description>A seleção feminina está convocada para a disputa da Copa do Mundo sub-20, que será realizada entre os dias 5 e 27 de setembro, na Polônia.
 A técnica ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/X0Abxnmb3g7zUyLo2wicdQRLWJ4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/19/sub-20_feminina_0.jpeg?itok=rBk4embA&quot; alt=&quot;Seleção feminina de futebol é convocada para a Copa do Mundo sub-20&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -237,7 +283,7 @@ A técnica ...</description>
 &lt;p&gt;. O Brasil se classificou com a conquista do Campeonato Sul-Americano da categoria, em fevereiro, no Paraguai.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/selecao-feminina-de-futebol-e-convocada-para-copa-do-mundo-sub-20&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A seleção feminina está convocada para a disputa da Copa do Mundo sub-20, que será realizada entre os dias 5 e 27 de setembro, na Polônia.
 A técnica ...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-19 20:47:00</wp:post_date>
       <wp:post_date_gmt>2026-08-19 20:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-19 20:47:00</wp:post_modified>
@@ -263,9 +309,9 @@ A técnica ...</excerpt:encoded>
     <item>
       <title>Luis Felipe Salomão toma posse na presidência do STJ</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/luis-felipe-salomao-toma-posse-na-presidencia-do-stj</link>
-      <pubDate>Thu, 20 Aug 2026 04:29:22 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 05:22:47 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/luis-felipe-salomao-toma-posse-na-presidencia-do-stj#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/luis-felipe-salomao-toma-posse-na-presidencia-do-stj#1006</guid>
       <description>O ministro Luis Felipe Salomão tomou posse nesta quarta-feira (19) no cargo de presidente do Superior Tribunal de Justiça (STJ).
 Salomão cumprirá man...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Luis Felipe Salomão toma posse na presidência do STJ&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -286,7 +332,7 @@ Salomão cumprirá man...</description>
 &lt;p&gt;Seleção feminina de futebol é convocada para a Copa do Mundo sub-20&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/luis-felipe-salomao-toma-posse-na-presidencia-do-stj&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro Luis Felipe Salomão tomou posse nesta quarta-feira (19) no cargo de presidente do Superior Tribunal de Justiça (STJ).
 Salomão cumprirá man...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-19 20:42:00</wp:post_date>
       <wp:post_date_gmt>2026-08-19 20:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-19 20:42:00</wp:post_modified>
@@ -312,9 +358,9 @@ Salomão cumprirá man...</excerpt:encoded>
     <item>
       <title>Correios entregam no Brasil compras feitas em sites do Paraguai</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/correios-entregam-no-brasil-compras-feitas-em-sites-do-paraguai</link>
-      <pubDate>Thu, 20 Aug 2026 04:29:22 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 05:22:47 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/correios-entregam-no-brasil-compras-feitas-em-sites-do-paraguai#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/correios-entregam-no-brasil-compras-feitas-em-sites-do-paraguai#1007</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 Os Correiosiniciaram nesta semanauma modalidade de entrega terrestre chamada Correios Packet, permitindo q...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/d1WY4qb11rzWIB2z1BLtCO6gJW0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/29/pzzb6168.jpg?itok=4Vz4whMJ&quot; alt=&quot;Correios entregam no Brasil compras feitas em sites do Paraguai&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -335,7 +381,7 @@ Os Correiosiniciaram nesta semanauma modalidade de entrega terrestre chamada Cor
 &lt;p&gt;Repórter Brasil de 19 de agosto de 2026; assista na íntegra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/correios-entregam-no-brasil-compras-feitas-em-sites-do-paraguai&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 Os Correiosiniciaram nesta semanauma modalidade de entrega terrestre chamada Correios Packet, permitindo q...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-19 20:41:00</wp:post_date>
       <wp:post_date_gmt>2026-08-19 20:41:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-19 20:41:00</wp:post_modified>
@@ -361,9 +407,9 @@ Os Correiosiniciaram nesta semanauma modalidade de entrega terrestre chamada Cor
     <item>
       <title>Confira como foi a quarta-feira dos candidatos a presidente</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-como-foi-quarta-feira-dos-candidatos-presidente</link>
-      <pubDate>Thu, 20 Aug 2026 04:29:22 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 05:22:47 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-como-foi-quarta-feira-dos-candidatos-presidente#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-como-foi-quarta-feira-dos-candidatos-presidente#1008</guid>
       <description>&gt;&gt; Confira como foi a agenda de campanha dos candidatos àPresidência da República nesta quarta-feira (19):
 O candidato Hertz Dias esteve em Jui...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL&quot; alt=&quot;Confira como foi a quarta-feira dos candidatos a presidente&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -384,7 +430,7 @@ O candidato Hertz Dias esteve em Jui...</description>
 &lt;p&gt;Durante o evento, o candidato disse que as condições das estradas não acompanharam o aumento do volume de cargas transportado, o que tem prejudicado a competitividade do país. Caiado propõe a ampliação da malha ferroviária e de hidrovias.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-como-foi-quarta-feira-dos-candidatos-presidente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>&gt;&gt; Confira como foi a agenda de campanha dos candidatos àPresidência da República nesta quarta-feira (19):
 O candidato Hertz Dias esteve em Jui...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-19 20:21:00</wp:post_date>
       <wp:post_date_gmt>2026-08-19 20:21:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-19 20:21:00</wp:post_modified>
@@ -410,9 +456,9 @@ O candidato Hertz Dias esteve em Jui...</excerpt:encoded>
     <item>
       <title>Lésbicas cobram saúde integral, trabalho digno e fim de violências</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/lesbicas-cobram-saude-integral-trabalho-digno-e-fim-de-violencias</link>
-      <pubDate>Thu, 20 Aug 2026 04:29:22 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 05:22:47 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/lesbicas-cobram-saude-integral-trabalho-digno-e-fim-de-violencias#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/lesbicas-cobram-saude-integral-trabalho-digno-e-fim-de-violencias#1009</guid>
       <description>© Fernando Frazão/Agência Brasil
 Praticamente oito em cada dez mulheres lésbicas enfrentam diversos tipos de violência cotidianamente, como mostra o
 ...</description>
@@ -435,7 +481,7 @@ Praticamente oito em cada dez mulheres lésbicas enfrentam diversos tipos de vio
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Praticamente oito em cada dez mulheres lésbicas enfrentam diversos tipos de violência cotidianamente, como mostra o
 ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-19 20:19:00</wp:post_date>
       <wp:post_date_gmt>2026-08-19 20:19:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-19 20:19:00</wp:post_modified>
@@ -456,57 +502,6 @@ Praticamente oito em cada dez mulheres lésbicas enfrentam diversos tipos de vio
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/TVOPOmeK74NC-VUADAoty6fMa2E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/capa_ffraz_abr20180829_1469_0.jpg?itok=A_LXu5Gh</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Dólar cai para R$ 5,17 após anúncio de recompra de títulos nos EUA</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/dolar-cai-para-r-517-apos-anuncio-de-recompra-de-titulos-nos-eua</link>
-      <pubDate>Thu, 20 Aug 2026 04:29:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/dolar-cai-para-r-517-apos-anuncio-de-recompra-de-titulos-nos-eua#1009</guid>
-      <description>© Valter Campanato/Agência Brasil
-A futura intervenção do governo estadunidense no mercado de títulos públicos do país trouxe alívio global.
-O dólar ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ABCzDV1BNGLK1WelR64FGvUJtDs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221211.jpg?itok=9aRcSX3F&quot; alt=&quot;Dólar cai para R$ 5,17 após anúncio de recompra de títulos nos EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;A futura intervenção do governo estadunidense no mercado de títulos públicos do país trouxe alívio global.&lt;/p&gt;
-&lt;p&gt;O dólar fechou em forte queda, e a bolsa avançou quase 1%.&lt;/p&gt;
-&lt;p&gt;Os mercados foram beneficiados pelo anúncio do Tesouro dos Estados Unidos de que pretende ampliar as operações de recompra de títulos de longo prazo, movimento que reduziu a pressão sobre os juros dos Treasuries (títulos do Tesouro estadunidense) e aumentou o apetite global por ativos de risco.&lt;/p&gt;
-&lt;p&gt;Ibovespa: 167.830,27 pontos (+0,9%)&lt;/p&gt;
-&lt;p&gt;A moeda estadunidense recuou 0,86% no mercado à vista e encerrou o pregão pela primeira vez abaixo de R$ 5,20 após três sessões. Durante a manhã, por volta das 10h30, chegou a R$ 5,15.&lt;/p&gt;
-&lt;p&gt;Na véspera, o dólar comercial tinha fechado a R$ 5,22, no maior valor desde 30 de março, quando tinha encerrado a R$ 5,24. Apesar da queda no pregão, o dólar ainda acumula alta de 1,83% na semana e de 2,09% em agosto. Em julho, a moeda havia registrado queda de 1,79%.&lt;/p&gt;
-&lt;p&gt;O movimento acompanhou a desvalorização do dólar no exterior depois que o Tesouro dos Estados Unidos anunciou que poderá dobrar o volume de algumas operações de recompra de títulos com vencimentos entre 10 e 30 anos.&lt;/p&gt;
-&lt;p&gt;As operações, previstas entre 9 de setembro e 4 de novembro, terão volume de pelo menos US$ 4 bilhões por operação, ante US$ 2 bilhões anteriormente.&lt;/p&gt;
-&lt;p&gt;A medida ajudou a aliviar a pressão sobre o mercado de renda fixa dos Estados Unidos e de outros países desenvolvidos. Com a redução dos rendimentos dos Treasuries de longo prazo, parte dos recursos globais passou a buscar ativos considerados mais arriscados, incluindo mercados emergentes.&lt;/p&gt;
-&lt;p&gt;O índice DXY, que mede o desempenho do dólar diante de uma cesta de seis moedas fortes, recuava 0,87% no fim da tarde, aos 98,793 pontos.&lt;/p&gt;
-&lt;p&gt;O Ibovespa avançou 0,90%, aos 167.830,27 pontos, interrompendo uma sequência de 11 pregões consecutivos de queda, a mais longa desde 2023.&lt;/p&gt;
-&lt;p&gt;O índice chegou a superar os 170 mil pontos durante o dia, atingindo máxima de 170.340,60 pontos, mas perdeu força ao longo da sessão. A mínima foi de 166.334,73 pontos.&lt;/p&gt;
-&lt;p&gt;A alta foi sustentada principalmente por ações de grande peso no índice, incluindo petroleiras, mineradoras e empresas do setor bancário.&lt;/p&gt;
-&lt;p&gt;Nos 11 pregões anteriores, o Ibovespa havia acumulado perda de 6,55%.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/dolar-cai-para-r-517-apos-anuncio-de-recompra-de-titulos-nos-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-A futura intervenção do governo estadunidense no mercado de títulos públicos do país trouxe alívio global.
-O dólar ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-19 20:13:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-19 20:13:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-19 20:13:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-19 20:13:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/ABCzDV1BNGLK1WelR64FGvUJtDs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dolar_moeda_0803221211.jpg?itok=9aRcSX3F</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
