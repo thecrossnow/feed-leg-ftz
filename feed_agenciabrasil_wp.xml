@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 22 Aug 2026 22:13:26 +0000</pubDate>
+    <pubDate>Sat, 22 Aug 2026 23:13:01 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,104 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao</link>
+      <pubDate>Sat, 22 Aug 2026 23:13:01 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao#1000</guid>
+      <description>O Campeonato Mundial de Rúgbi em cadeira de rodas segue em disputa no Centro de Treinamento Paralímpico, em São Paulo. Mas a participação da seleção ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/g-wF3chW3tfQMvFzHC4Jv1M8qAI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/campeonato_mundial_de_rugbi_em_cadeira_de_rodas.jpg?itok=N6VvP4nc&quot; alt=&quot;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Campeonato Mundial de Rúgbi em cadeira de rodas segue em disputa no Centro de Treinamento Paralímpico, em São Paulo. Mas a participação da seleção da casa já foi encerrada. Neste sábado (22), o Brasil derrotou a Nova Zelândia por 53 a 37 e concluiu a competição na 11ª colocação, igualando sua melhor campanha, registrada na última edição, em 2022, na Dinamarca.&lt;/p&gt;
+&lt;p&gt;&quot;A gente tira de aprendizado que, ao longo do campeonato, os jogadores foram evoluindo e isso que importa. A gente tem um grupo forte, isso é muito importante&quot;, disse Julio Braz, um dos principais atletas da seleção brasileira, em declaração divulgada pelo CPB (Comitê Paralímpico Brasileiro).&lt;/p&gt;
+&lt;p&gt;Além do triunfo deste sábado, o Brasil teve outras duas vitórias na fase de grupos da competição, as quais, no entanto, não foram suficientes para a classificação à etapa de mata-mata. A equipe da casa derrotou o Canadá por 49 a 48 e a própria Nova Zelândia por 58 a 44.&lt;/p&gt;
+&lt;p&gt;A grande decisão do campeonato - realizado pela primeira vez na história na América do Sul - será disputada neste domingo (23), às 16h30, entre Austrália e Estados Unidos.&lt;/p&gt;
+&lt;p&gt;SP: atletas e pesquisadoras debatem sobre Copa do Mundo Feminina 2027&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 21 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;
+&lt;p&gt;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&lt;/p&gt;
+&lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;
+&lt;p&gt;Peixe antes desprezado melhora renda de mulheres da pesca no Rio&lt;/p&gt;
+&lt;p&gt;Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia&lt;/p&gt;
+&lt;p&gt;Morre veterinária atacada por cachorro no canil do Senado Federal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Campeonato Mundial de Rúgbi em cadeira de rodas segue em disputa no Centro de Treinamento Paralímpico, em São Paulo. Mas a participação da seleção ...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-22 18:59:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-22 18:59:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-22 18:59:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-22 18:59:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/g-wF3chW3tfQMvFzHC4Jv1M8qAI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/campeonato_mundial_de_rugbi_em_cadeira_de_rodas.jpg?itok=N6VvP4nc</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao</link>
+      <pubDate>Sat, 22 Aug 2026 23:13:01 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao#1001</guid>
+      <description>© Marcelo Gonçalves/Fluminense F.C
+Há nove dias, o Fluminense demitia o técnico argentino Luis Zubeldía em meio a uma crise de resultados, com oito p...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mdTlUz_I3_5ImNIkTvyuLWGzrnI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/fluminense_vira_sobre_o_remo_e_se_mantem_firme_no_g-4_do_brasileirao.jpg?itok=iOcptsB0&quot; alt=&quot;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Gonçalves/Fluminense F.C&lt;/p&gt;
+&lt;p&gt;Há nove dias, o Fluminense demitia o técnico argentino Luis Zubeldía em meio a uma crise de resultados, com oito partidas sem vitória e uma eliminação na Copa do Brasil. Agora comandado interinamente pelo auxiliar fixo Marcão, o Tricolor parece outro time.&lt;/p&gt;
+&lt;p&gt;Neste sábado (22), diante de pouco mais de 30 mil pessoas, derrotou o Remo por 2 a 1, de virada, no Maracanã, chegando a três jogos sem perder, com uma classificação às quartas de final da Libertadores no meio do caminho&lt;/p&gt;
+&lt;p&gt;. No Brasileirão, o clube das Laranjeiras mantém a quarta posição, agora com 41 pontos. Já o Remo, com 23, amarga mais uma rodada na zona de rebaixamento.&lt;/p&gt;
+&lt;p&gt;O primeiro tempo foi de domínio da posse pelo Fluminense, mas maior efetividade da equipe paraense. Os visitantes abriram o placar aos 31 minutos, quando Marcelinho foi até a linha de fundo pela direita e cruzou para Jajá, livre por trás da marcação tricolor, completar de primeira para as redes.&lt;/p&gt;
+&lt;p&gt;O Fluminense não se desesperou e, após a volta dos vestiários, pressionou o adversário até empatar.&lt;/p&gt;
+&lt;p&gt;Aos 20 minutos do segundo tempo, Soteldo cruzou da esquerda e Hulk cabeceou. A bola bateu no travessão, quicou fora do gol mas pegou um efeito que a fez pular para dentro da meta defendida por Marcelo Rangel.&lt;/p&gt;
+&lt;p&gt;Aos 37 minutos veio a virada. Após cobrança curta de escanteio pela direita, Riquelme Felipe cruzou na cabeça do colombiano Serna, que havia entrado no lugar de Canobbio. O forte desvio dele venceu o goleiro adversário para dar o triunfo ao Tricolor.&lt;/p&gt;
+&lt;p&gt;Na próxima rodada, o Fluminense visita o Athletico Paranaense, em Curitiba, no domingo (30). Já o Remo recebe o Coritiba no dia seguinte.&lt;/p&gt;
+&lt;p&gt;SP: atletas e pesquisadoras debatem sobre Copa do Mundo Feminina 2027&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 21 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;
+&lt;p&gt;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&lt;/p&gt;
+&lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;
+&lt;p&gt;Peixe antes desprezado melhora renda de mulheres da pesca no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Gonçalves/Fluminense F.C
+Há nove dias, o Fluminense demitia o técnico argentino Luis Zubeldía em meio a uma crise de resultados, com oito p...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-08-22 18:43:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-22 18:43:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-22 18:43:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-22 18:43:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/mdTlUz_I3_5ImNIkTvyuLWGzrnI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/fluminense_vira_sobre_o_remo_e_se_mantem_firme_no_g-4_do_brasileirao.jpg?itok=iOcptsB0</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Peixe antes desprezado melhora renda de mulheres da pesca no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio</link>
-      <pubDate>Sat, 22 Aug 2026 22:13:26 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 23:13:01 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio#1002</guid>
       <description>© Rodrigo Campanário/Divulgação
 Uma culinária criativa pode movimentar a economia de uma comunidade.
 É o que reflete a experiência de mulheres da
@@ -51,7 +144,7 @@ Ass...</description>
 Uma culinária criativa pode movimentar a economia de uma comunidade.
 É o que reflete a experiência de mulheres da
 Ass...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-22 16:59:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 16:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 16:59:00</wp:post_modified>
@@ -77,9 +170,9 @@ Ass...</excerpt:encoded>
     <item>
       <title>Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia</link>
-      <pubDate>Sat, 22 Aug 2026 22:13:26 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 23:13:01 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia#1003</guid>
       <description>© Hustai National Park/Divulgação
 No Parque Nacional Hustai, na Mongólia, 354 cavalos selvagens takhi correm livres por morros e estepes. O animal ch...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/7bXQ3s57vn4nER2gKInActz9p64=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/dsc_0075_65_1_65_1_85-830x553.jpg?itok=GKrS7qEs&quot; alt=&quot;Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -100,7 +193,7 @@ No Parque Nacional Hustai, na Mongólia, 354 cavalos selvagens takhi correm livr
 &lt;p&gt;O processo de adaptação funcionou. A população cresceu e passou a se reproduzir livremente nas estepes. Além dos mais de 300 animais que vivem no parque nacional, há duas populações reintroduzidas em outras áreas protegidas da Mongólia, elevando o total do país a cerca de 800 animais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Hustai National Park/Divulgação
 No Parque Nacional Hustai, na Mongólia, 354 cavalos selvagens takhi correm livres por morros e estepes. O animal ch...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-22 16:46:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 16:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 16:46:00</wp:post_modified>
@@ -126,9 +219,9 @@ No Parque Nacional Hustai, na Mongólia, 354 cavalos selvagens takhi correm livr
     <item>
       <title>Morre veterinária atacada por cachorro no canil do Senado Federal</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal</link>
-      <pubDate>Sat, 22 Aug 2026 22:13:26 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 23:13:01 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal#1004</guid>
       <description>A veterinária Vitória Valle de Oliveira Pinha, de 36 anos, morreu, neste sábado (22), quatro dias depois de ser atacada por um cachorro pastor-belga ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/StETh6eZWsvFj0HwWX5V9OEHcss=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/vitoria_valle_de_oliveira.jpg?itok=Q_6lT9LH&quot; alt=&quot;Morre veterinária atacada por cachorro no canil do Senado Federal&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A veterinária Vitória Valle de Oliveira Pinha, de 36 anos, morreu, neste sábado (22), quatro dias depois de ser atacada por um cachorro pastor-belga no canil do Senado Federal, em Brasília (DF). A informação foi confirmada no final da manhã, em nota, pela assessoria de comunicação da Casa Legislativa.&lt;/p&gt;
@@ -143,11 +236,11 @@ No Parque Nacional Hustai, na Mongólia, 354 cavalos selvagens takhi correm livr
 &lt;p&gt;“Neste momento de dor, o Sindilegis expressa solidariedade à família, aos amigos e aos colegas de trabalho e coloca-se à disposição da família”.&lt;/p&gt;
 &lt;p&gt;SP: atletas e pesquisadoras debatem sobre Copa do Mundo Feminina 2027&lt;/p&gt;
 &lt;p&gt;Repórter Brasil de 21 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;
 &lt;p&gt;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&lt;/p&gt;
-&lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;
-&lt;p&gt;Peixe antes desprezado melhora renda de mulheres da pesca no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A veterinária Vitória Valle de Oliveira Pinha, de 36 anos, morreu, neste sábado (22), quatro dias depois de ser atacada por um cachorro pastor-belga ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-22 15:53:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 15:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 15:53:00</wp:post_modified>
@@ -173,9 +266,9 @@ No Parque Nacional Hustai, na Mongólia, 354 cavalos selvagens takhi correm livr
     <item>
       <title>Campanha convoca familiares de desaparecidos para coleta de DNA</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna</link>
-      <pubDate>Sat, 22 Aug 2026 22:13:26 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 23:13:01 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna#1005</guid>
       <description>A partir de segunda-feira (24), terá início uma força-tarefa em todo o país para convocar familiares de pessoas desaparecidas para coleta de DNA.
 Ao ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3gROaA4g1a1jIioN8ja9Wvq2Mls=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/30/ato_desaparecidos_01_0.jpg?itok=g-ivTqJ6&quot; alt=&quot;Campanha convoca familiares de desaparecidos para coleta de DNA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -189,14 +282,14 @@ Ao ...</description>
 &lt;p&gt;A coordenação da campanha explica que, caso ocorra resultado positivo da comparação do perfil genético, a instituição responsável entrará em contato com o familiar doador.&lt;/p&gt;
 &lt;p&gt;SP: atletas e pesquisadoras debatem sobre Copa do Mundo Feminina 2027&lt;/p&gt;
 &lt;p&gt;Repórter Brasil de 21 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;
 &lt;p&gt;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&lt;/p&gt;
 &lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;
 &lt;p&gt;Peixe antes desprezado melhora renda de mulheres da pesca no Rio&lt;/p&gt;
-&lt;p&gt;Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia&lt;/p&gt;
-&lt;p&gt;Morre veterinária atacada por cachorro no canil do Senado Federal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A partir de segunda-feira (24), terá início uma força-tarefa em todo o país para convocar familiares de pessoas desaparecidas para coleta de DNA.
 Ao ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-22 14:57:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 14:57:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 14:57:00</wp:post_modified>
@@ -222,9 +315,9 @@ Ao ...</excerpt:encoded>
     <item>
       <title>Lando Norris faz a pole do GP da Holanda; Bortoleto larga em nono</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-faz-pole-do-gp-da-holanda-bortoleto-larga-em-nono</link>
-      <pubDate>Sat, 22 Aug 2026 22:13:26 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 23:13:01 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-faz-pole-do-gp-da-holanda-bortoleto-larga-em-nono#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-faz-pole-do-gp-da-holanda-bortoleto-larga-em-nono#1006</guid>
       <description>© Reuters/Jakub Porzycki/Proibida reprodução
 No fim de semana de retorno da Fórmula 1 após quase um mês de pausa, o britânico Lando Norris, atual det...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cbypM_tahEOXbC9oyb55cwTJ25U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/2026-08-22t152441z_1682718825_up1em8m16e3tq_rtrmadp_3_motor-f1-netherlands.jpg?itok=wNtTDPy2&quot; alt=&quot;Lando Norris faz a pole do GP da Holanda; Bortoleto larga em nono&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -238,14 +331,14 @@ No fim de semana de retorno da Fórmula 1 após quase um mês de pausa, o britâ
 &lt;p&gt;O GP da Holanda tem largada marcada para as 10h deste domingo, no horário de Brasília.&lt;/p&gt;
 &lt;p&gt;SP: atletas e pesquisadoras debatem sobre Copa do Mundo Feminina 2027&lt;/p&gt;
 &lt;p&gt;Repórter Brasil de 21 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;
 &lt;p&gt;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&lt;/p&gt;
 &lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;
 &lt;p&gt;Peixe antes desprezado melhora renda de mulheres da pesca no Rio&lt;/p&gt;
-&lt;p&gt;Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia&lt;/p&gt;
-&lt;p&gt;Morre veterinária atacada por cachorro no canil do Senado Federal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-faz-pole-do-gp-da-holanda-bortoleto-larga-em-nono&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-faz-pole-do-gp-da-holanda-bortoleto-larga-em-nono&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Jakub Porzycki/Proibida reprodução
 No fim de semana de retorno da Fórmula 1 após quase um mês de pausa, o britânico Lando Norris, atual det...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-22 14:18:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 14:18:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 14:18:00</wp:post_modified>
@@ -271,9 +364,9 @@ No fim de semana de retorno da Fórmula 1 após quase um mês de pausa, o britâ
     <item>
       <title>Juventude-SE bate Portuguesa-AP de novo e está na final do Feminino A3</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3</link>
-      <pubDate>Sat, 22 Aug 2026 22:13:26 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 23:13:01 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3#1007</guid>
       <description>Em partida que teve transmissão ao vivo da
 , o Juventude de Estância, em Sergipe, derrotou a Portuguesa do Amapá por 1 a 0 na Arena Batistão, em Arac...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/X6Gvib3fF5Vh3yqZG5UUVCzvcl0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/juventude-se_bate_portuguesa-ap_de_novo_e_esta_na_final_do_feminino_a3.jpg?itok=trWUkUG1&quot; alt=&quot;Juventude-SE bate Portuguesa-AP de novo e está na final do Feminino A3&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -285,15 +378,15 @@ No fim de semana de retorno da Fórmula 1 após quase um mês de pausa, o britâ
 &lt;p&gt;Na outra semifinal, o Planalto, da cidade de Aparecida de Goiânia, fez 2 a 0 no jogo de ida contra o Realidade Jovem. O duelo decisivo acontece às 11h deste domingo (23), com transmissão da TV Brasil, diretamente de São José do Rio Preto.&lt;/p&gt;
 &lt;p&gt;SP: atletas e pesquisadoras debatem sobre Copa do Mundo Feminina 2027&lt;/p&gt;
 &lt;p&gt;Repórter Brasil de 21 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;
 &lt;p&gt;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&lt;/p&gt;
 &lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;
 &lt;p&gt;Peixe antes desprezado melhora renda de mulheres da pesca no Rio&lt;/p&gt;
 &lt;p&gt;Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia&lt;/p&gt;
-&lt;p&gt;Morre veterinária atacada por cachorro no canil do Senado Federal&lt;/p&gt;
-&lt;p&gt;Tunísia: 13 estão desaparecidos após naufrágio de barco de migrantes&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Morre veterinária atacada por cachorro no canil do Senado Federal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Em partida que teve transmissão ao vivo da
 , o Juventude de Estância, em Sergipe, derrotou a Portuguesa do Amapá por 1 a 0 na Arena Batistão, em Arac...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-22 14:17:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 14:17:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 14:17:00</wp:post_modified>
@@ -319,9 +412,9 @@ No fim de semana de retorno da Fórmula 1 após quase um mês de pausa, o britâ
     <item>
       <title>Dia D atualiza vacinação infantil e reforça alerta contra sarampo</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-atualiza-vacinacao-infantil-e-reforca-alerta-contra-sarampo</link>
-      <pubDate>Sat, 22 Aug 2026 22:13:26 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 23:13:01 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-atualiza-vacinacao-infantil-e-reforca-alerta-contra-sarampo#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-atualiza-vacinacao-infantil-e-reforca-alerta-contra-sarampo#1008</guid>
       <description>© Marcelo Camargo/Agência Brasil
 Foi sem medo de agulha que o estudante Noam Medeiros, de 10 anos, levantou a camisa e ofereceu o braço para as duas ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8odLsJRhnDzEuBPaO3DU46Ll9Eg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/dia-d-vacinacao-mc_abr_22082026-18.jpg?itok=TZXSGbHv&quot; alt=&quot;Dia D atualiza vacinação infantil e reforça alerta contra sarampo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -342,7 +435,7 @@ Foi sem medo de agulha que o estudante Noam Medeiros, de 10 anos, levantou a cam
 &lt;p&gt;A preocupação de evitar um mal maior levou também ao posto de saúde a aposentada Lúcia Araújo, de 91 anos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/dia-d-atualiza-vacinacao-infantil-e-reforca-alerta-contra-sarampo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 Foi sem medo de agulha que o estudante Noam Medeiros, de 10 anos, levantou a camisa e ofereceu o braço para as duas ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-22 13:43:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 13:43:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 13:43:00</wp:post_modified>
@@ -368,9 +461,9 @@ Foi sem medo de agulha que o estudante Noam Medeiros, de 10 anos, levantou a cam
     <item>
       <title>Mega-Sena sorteia prêmio acumulado de R$ 58 milhões neste domingo</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-58-milhoes-neste-domingo</link>
-      <pubDate>Sat, 22 Aug 2026 22:13:26 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 23:13:01 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-58-milhoes-neste-domingo#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-58-milhoes-neste-domingo#1009</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 A Mega-Sena sorteia neste domingo (23) prêmio estimado em R$ 58 milhões.
 As seis dezenas do concurso 3.048 serão so...</description>
@@ -384,16 +477,16 @@ As seis dezenas do concurso 3.048 serão so...</description>
 &lt;p&gt;nenhum apostador acertou as seis dezenas&lt;/p&gt;
 &lt;p&gt;SP: atletas e pesquisadoras debatem sobre Copa do Mundo Feminina 2027&lt;/p&gt;
 &lt;p&gt;Repórter Brasil de 21 de agosto de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;
 &lt;p&gt;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&lt;/p&gt;
 &lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;
 &lt;p&gt;Peixe antes desprezado melhora renda de mulheres da pesca no Rio&lt;/p&gt;
 &lt;p&gt;Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia&lt;/p&gt;
-&lt;p&gt;Morre veterinária atacada por cachorro no canil do Senado Federal&lt;/p&gt;
-&lt;p&gt;Tunísia: 13 estão desaparecidos após naufrágio de barco de migrantes&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-58-milhoes-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Morre veterinária atacada por cachorro no canil do Senado Federal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-sorteia-premio-acumulado-de-r-58-milhoes-neste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 A Mega-Sena sorteia neste domingo (23) prêmio estimado em R$ 58 milhões.
 As seis dezenas do concurso 3.048 serão so...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-22 12:30:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 12:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 12:30:00</wp:post_modified>
@@ -414,100 +507,6 @@ As seis dezenas do concurso 3.048 serão so...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/qlJ94GwNbRF2xuzfFwvLnu3lWIM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/raf09161.jpg?itok=LaQEIg98</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Engenharia social responde por 40% das fraudes financeiras no Brasil</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/engenharia-social-responde-por-40-das-fraudes-financeiras-no-brasil</link>
-      <pubDate>Sat, 22 Aug 2026 22:13:26 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/engenharia-social-responde-por-40-das-fraudes-financeiras-no-brasil#1008</guid>
-      <description>Golpes baseados em engenharia social respondem por 40% dos indícios de fraudes financeiras registrados no Brasil. A estratégia inclui falsos call cen...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/41VxNO8uFw3kNzCvXElxb8ET3fU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/close-up-do-programador-segurando-o-telefone.jpg?itok=fA9Rm7gT&quot; alt=&quot;Engenharia social responde por 40% das fraudes financeiras no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Golpes baseados em engenharia social respondem por 40% dos indícios de fraudes financeiras registrados no Brasil. A estratégia inclui falsos call centers, criminosos que se passam por funcionários de bancos e até falsas operações policiais para convencer vítimas a fornecer dados ou realizar transferências.&lt;/p&gt;
-&lt;p&gt;Segundo pesquisa da recente Quod, datatech especializada em inteligência de dados para o mercado de crédito,&lt;/p&gt;
-&lt;p&gt;no primeiro semestre de 2026, foram registrados mais de 9 milhões de indícios de fraude&lt;/p&gt;
-&lt;p&gt;, entre casos suspeitos e confirmados, alta de 10,26% em relação ao segundo semestre de 2025. A engenharia social representou mais de 3,6 milhões dessas ocorrências.&lt;/p&gt;
-&lt;p&gt;De acordo com a Quod, o celular foi o principal canal usado nos golpes, presente em 78% dos casos. O Pix aparece como meio de movimentação em 85% das ocorrências.&lt;/p&gt;
-&lt;p&gt;A engenharia social explora a confiança e as emoções da vítima, em vez de depender de uma invasão aos sistemas bancários. Os criminosos criam situações de urgência, medo ou falsa autoridade para induzir decisões rápidas.&lt;/p&gt;
-&lt;p&gt;No golpe do falso call center, por exemplo, o criminoso afirma ter identificado uma transação suspeita e orienta a vítima a realizar procedimentos para supostamente proteger a conta. Em falsas operações policiais, o golpista usa a autoridade para intimidar o alvo e exigir movimentações financeiras.&lt;/p&gt;
-&lt;p&gt;Os ataques também podem combinar ligações, WhatsApp, SMS e e-mails durante dias ou semanas antes da tentativa de transferência.&lt;/p&gt;
-&lt;p&gt;A inteligência artificial tornou as abordagens ainda mais convincentes, com clonagem de voz, imagens e produção de documentos falsificados.&lt;/p&gt;
-&lt;p&gt;Para José Oliveira, diretor de Tecnologia da Certta, empresa de verificação inteligente que unifica soluções antifraude em uma única plataforma, a engenharia social atinge uma camada diferente da segurança tradicional.&lt;/p&gt;
-&lt;p&gt;“A IA antifraude não foi desenhada para combater engenharia social, ela foi desenhada para combater fraude. São camadas diferentes de um mesmo problema, onde engenharia social ataca a decisão humana, a fraude ataca o sistema, o documento, a identidade”, diz.&lt;/p&gt;
-&lt;p&gt;O combate às fraudes ganhou novos mecanismos em 2026.&lt;/p&gt;
-&lt;p&gt;A Resolução 501 do Banco Central&lt;/p&gt;
-&lt;p&gt;ampliou o compartilhamento de informações sobre indícios de fraude entre instituições financeiras, enquanto o Registro Unificado de Fraudes (Rufra) concentra dados para identificar padrões e apoiar ações preventivas.&lt;/p&gt;
-&lt;p&gt;As instituições também utilizam inteligência artificial (IA) e biometria comportamental para analisar fatores como dispositivo, horário, localização e histórico de transações.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/engenharia-social-responde-por-40-das-fraudes-financeiras-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Golpes baseados em engenharia social respondem por 40% dos indícios de fraudes financeiras registrados no Brasil. A estratégia inclui falsos call cen...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-08-22 11:44:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-22 11:44:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-22 11:44:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-22 11:44:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/41VxNO8uFw3kNzCvXElxb8ET3fU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/close-up-do-programador-segurando-o-telefone.jpg?itok=fA9Rm7gT</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Canetas emagrecedoras: uso sem supervisão pode causar perda muscular</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/canetas-emagrecedoras-uso-sem-supervisao-pode-causar-perda-muscular</link>
-      <pubDate>Sat, 22 Aug 2026 22:13:26 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/canetas-emagrecedoras-uso-sem-supervisao-pode-causar-perda-muscular#1009</guid>
-      <description>O uso de medicamentos popularmente conhecidos como canetas emagrecedoras tem se mostrado eficaz no combate à obesidade, mas também é associado a caso...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vsEW3TLejDvr_x5syOzy4iWdR70=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/04/saxenda-canetas-848x477.jpg?itok=biKL3Vxx&quot; alt=&quot;Canetas emagrecedoras: uso sem supervisão pode causar perda muscular&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O uso de medicamentos popularmente conhecidos como canetas emagrecedoras tem se mostrado eficaz no combate à obesidade, mas também é associado a casos de deficiência de vitaminas e perda de massa muscular, sobretudo quando não há mudançade hábitos relacionados à alimentação e atividade física.&lt;/p&gt;
-&lt;p&gt;, o endocrinologista membro da Sociedade Brasileira de Endocrinologia e Metabologia (SBEM) e coordenador do Departamento de Farmacoterapia da Associação Brasileira para o Estudo da Obesidade e Síndrome Metabólica (Abeso), Marcio Mancini, explica que esse tipo de medicamento - da classe dos agonistas do receptor GLP 1 - pode causar deficiência de micronutrientes e perda excessiva de massa muscular se não houver um acompanhamento adequado.&lt;/p&gt;
-&lt;p&gt;Segundo ele, o forte efeito de redução do apetite e de atraso do esvaziamento do estômago fazem com que os pacientes, muitas vezes, reduzam drasticamente a ingestão de alimentos, o que pode levar a um consumo insuficiente de proteínas e vitaminas.&lt;/p&gt;
-&lt;p&gt;“Quando o tratamento é iniciado, é preciso dar prioridade à densidade nutricional. O foco principal não deve ser apenas reduzir o tamanho das porções, mas garantir que as pequenas refeições sejam ricas em nutrientes.&quot;&lt;/p&gt;
-&lt;p&gt;O médico sugeremetas de proteína de aproximadamente 1,2 grama/quilo/dia para indivíduos jovens e saudáveis, e de 1,5 grama/quilo/dia para idosos ou pessoas em risco de sarcopenia (perda de massa muscular.&lt;/p&gt;
-&lt;p&gt;De acordo com o especialista, também é essencial fazero acompanhamento da quantidade de massa magra, o que pode ser feito por meio de exames como a bioimpedância, em consultório, e densitometria de corpo inteiro, no em laboratório. Outra estratégia é testar a função muscular por meio de testes de força de preensão manual (&lt;/p&gt;
-&lt;p&gt;) para evitar que a perda de músculo ultrapasse 25% de todo o peso perdido.&lt;/p&gt;
-&lt;p&gt;Mancini destaca que as queixas mais comuns associadas ao uso de canetas emagrecedoras sem supervisão adequada incluem queda e afinamento de cabelo e sintomas gastrointestinais persistentes, como náusea, constipação, flatulência e sensação de estufamento mais intensos que o normal.&lt;/p&gt;
-&lt;p&gt;Para evitar tais situações, o endocrinologista lista algumas estratégias comportamentais e dietéticas:&lt;/p&gt;
-&lt;p&gt;fazer consumo fracionado das refeições (pequenas, frequentes e densas em nutrientes ao longo do dia);&lt;/p&gt;
-&lt;p&gt;consumir alimentos ricos em proteína logo no início da refeição, momento em que a sensação de saciedade precoce ainda é menos pronunciada;&lt;/p&gt;
-&lt;p&gt;evitar alimentos muito gordurosos, que costumam provocar náuseas;&lt;/p&gt;
-&lt;p&gt;aumentar o consumo de fibras e líquidos para combater diretamente os efeitos colaterais gastrointestinais.&lt;/p&gt;
-&lt;p&gt;Já os sinais de alerta a serem monitorados por quem utiliza esse tipo de medicação, no intuito de evitar a desnutrição incluem:&lt;/p&gt;
-&lt;p&gt;diminuição da força física ou da mobilidade no dia a dia, que pode indicar desenvolvimento de sarcopenia (especialmente perigosa em idosos);&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/canetas-emagrecedoras-uso-sem-supervisao-pode-causar-perda-muscular&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O uso de medicamentos popularmente conhecidos como canetas emagrecedoras tem se mostrado eficaz no combate à obesidade, mas também é associado a caso...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-22 11:13:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-22 11:13:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-22 11:13:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-22 11:13:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/vsEW3TLejDvr_x5syOzy4iWdR70=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/04/saxenda-canetas-848x477.jpg?itok=biKL3Vxx</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
