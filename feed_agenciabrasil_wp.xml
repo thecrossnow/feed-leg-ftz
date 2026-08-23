@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 23 Aug 2026 21:13:44 +0000</pubDate>
+    <pubDate>Sun, 23 Aug 2026 22:13:21 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,57 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Planalto volta a vencer Realidade Jovem e vai à final da A3</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/planalto-volta-vencer-realidade-jovem-e-vai-final-da-a3</link>
+      <pubDate>Sun, 23 Aug 2026 22:13:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/planalto-volta-vencer-realidade-jovem-e-vai-final-da-a3#1000</guid>
+      <description>Em confronto que teve transmissão ao vivo da TV Brasil neste domingo (23), o Planalto, de Aparecida de Goiânia, derrotou o Realidade Jovem por 2 a 1,...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/M6Uuk-e2pSrfWG27ZF36m2rb4cQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/planalto_volta_a_vencer_realidade_jovem_e_vai_a_final_da_a3.jpg?itok=Y13HKPxQ&quot; alt=&quot;Planalto volta a vencer Realidade Jovem e vai à final da A3&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Em confronto que teve transmissão ao vivo da TV Brasil neste domingo (23), o Planalto, de Aparecida de Goiânia, derrotou o Realidade Jovem por 2 a 1, em São José do Rio Preto e confirmou classificação à final do Brasileirão Feminino A3.&lt;/p&gt;
+&lt;p&gt;A equipe já havia vencido o primeiro jogo por 2 a 0. O adversário na final será o Juventude, da cidade sergipana de Estância, que eliminou a Portuguesa no sábado. As quatro equipes alcançaram o acesso à Série A2 do ano que vem.&lt;/p&gt;
+&lt;p&gt;Jogando com a vantagem, o Planalto adotou uma postura reativa e, no contra ataque, abriu o placar com Mayara, aos 36 minutos da primeira etapa.&lt;/p&gt;
+&lt;p&gt;Precisando de três gols para ter chances de avançar, o Realidade Jovem se lançou ao ataque e conseguiu o empate aos cinco minutos do segundo tempo, com Rayssa.&lt;/p&gt;
+&lt;p&gt;Depois de batalhar pela virada durante o segundo tempo, o time da casa acabou sofrendo o segundo gol no fim, acabando com qualquer chance de vitória. Aos 40 minutos, Vanuza driblou a goleira Isa e definiu o placar do jogo.&lt;/p&gt;
+&lt;p&gt;As datas e horários da final entre Planalto e Juventude ainda não foram definidos.&lt;/p&gt;
+&lt;p&gt;Terromoto atinge o Japão e deixa pelo menos 10 pessoas feridas&lt;/p&gt;
+&lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;
+&lt;p&gt;Veja como foi o domingo (23) dos candidatos a presidente&lt;/p&gt;
+&lt;p&gt;Planalto volta a vencer Realidade Jovem e vai à final da A3&lt;/p&gt;
+&lt;p&gt;Degradação da terra e clima extremo ameaçam nômades na Mongólia&lt;/p&gt;
+&lt;p&gt;Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado&lt;/p&gt;
+&lt;p&gt;Jovens eleitores quilombolas defendem voto em defesa de ideais&lt;/p&gt;
+&lt;p&gt;ONS suspende geração excedente de energia pela segunda vez no ano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/planalto-volta-vencer-realidade-jovem-e-vai-final-da-a3&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Em confronto que teve transmissão ao vivo da TV Brasil neste domingo (23), o Planalto, de Aparecida de Goiânia, derrotou o Realidade Jovem por 2 a 1,...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-23 17:40:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-23 17:40:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-23 17:40:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-23 17:40:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/M6Uuk-e2pSrfWG27ZF36m2rb4cQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/planalto_volta_a_vencer_realidade_jovem_e_vai_a_final_da_a3.jpg?itok=Y13HKPxQ</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Degradação da terra e clima extremo ameaçam nômades na Mongólia</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/degradacao-da-terra-e-clima-extremo-ameacam-nomades-na-mongolia</link>
-      <pubDate>Sun, 23 Aug 2026 21:13:44 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 22:13:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/degradacao-da-terra-e-clima-extremo-ameacam-nomades-na-mongolia#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/degradacao-da-terra-e-clima-extremo-ameacam-nomades-na-mongolia#1001</guid>
       <description>© Rafael Cardoso/Agência Brasil
 O nômade Batchuluun Maamun, de 57 anos, cresceu nas estepes da Mongólia sempre atento aos sinais da natureza e do céu...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vMijIuZdlcpnv4V5jHDUG1qrmyQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/nas_estepes_da_mongolia_futuro_da_terra_depende_de_nomades_e_cientistas03.jpg?itok=sUvetFhX&quot; alt=&quot;Degradação da terra e clima extremo ameaçam nômades na Mongólia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +93,7 @@ O nômade Batchuluun Maamun, de 57 anos, cresceu nas estepes da Mongólia sempre
 &lt;p&gt;Esse número já chegou a ser de 71 milhões antes do dzud de 2023, quando milhões morreram pelo frio.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/degradacao-da-terra-e-clima-extremo-ameacam-nomades-na-mongolia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafael Cardoso/Agência Brasil
 O nômade Batchuluun Maamun, de 57 anos, cresceu nas estepes da Mongólia sempre atento aos sinais da natureza e do céu...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-08-23 17:31:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 17:31:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 17:31:00</wp:post_modified>
@@ -73,9 +119,9 @@ O nômade Batchuluun Maamun, de 57 anos, cresceu nas estepes da Mongólia sempre
     <item>
       <title>Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-de-grace-passo-ganha-kikito-no-festival-de-cinema-de-gramado</link>
-      <pubDate>Sun, 23 Aug 2026 21:13:44 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 22:13:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-de-grace-passo-ganha-kikito-no-festival-de-cinema-de-gramado#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-de-grace-passo-ganha-kikito-no-festival-de-cinema-de-gramado#1002</guid>
       <description>© Frame Nosso segredo/Trailer oficial Youtube
 , com direção de Grace Passô foi o vencedor do prêmio Kikito de Melhor Longa-Metragem Brasileiro.
 O lon...</description>
@@ -89,16 +135,11 @@ O lon...</description>
 &lt;p&gt;“Eu tenho a dimensão do que significa fazer um festival, então obrigada por terem nos recebido tão bem. Esse filme conta a história de uma família. Então, sejam bem-vindas, bem-vindes, bem-vindos a essa casa, a essa família”, afirmou a diretora.&lt;/p&gt;
 &lt;p&gt;O longa é uma produção da EntreFilmes em coprodução com a Globo Filmes, Desvia Filmes, Quarta-Feira Filmes, Foi Bonita a Festa e Grãos da Imagem. “Nosso Segredo” com distribuição da Vitrine Filmes.&lt;/p&gt;
 &lt;p&gt;Terromoto atinge o Japão e deixa pelo menos 10 pessoas feridas&lt;/p&gt;
-&lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;
-&lt;p&gt;Planalto volta a vencer Realidade Jovem e vai à final da A3&lt;/p&gt;
-&lt;p&gt;Degradação da terra e clima extremo ameaçam nômades na Mongólia&lt;/p&gt;
-&lt;p&gt;Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado&lt;/p&gt;
-&lt;p&gt;Jovens eleitores quilombolas defendem voto em defesa de ideais&lt;/p&gt;
-&lt;p&gt;ONS suspende geração excedente de energia pela segunda vez no ano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-de-grace-passo-ganha-kikito-no-festival-de-cinema-de-gramado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-de-grace-passo-ganha-kikito-no-festival-de-cinema-de-gramado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Frame Nosso segredo/Trailer oficial Youtube
 , com direção de Grace Passô foi o vencedor do prêmio Kikito de Melhor Longa-Metragem Brasileiro.
 O lon...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-23 17:15:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 17:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 17:15:00</wp:post_modified>
@@ -124,9 +165,9 @@ O lon...</excerpt:encoded>
     <item>
       <title>Jovens eleitores quilombolas defendem voto em defesa de ideais</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/jovens-eleitores-quilombolas-defendem-voto-em-defesa-de-ideais</link>
-      <pubDate>Sun, 23 Aug 2026 21:13:44 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 22:13:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/jovens-eleitores-quilombolas-defendem-voto-em-defesa-de-ideais#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/jovens-eleitores-quilombolas-defendem-voto-em-defesa-de-ideais#1003</guid>
       <description>No próximo dia 4 de outubro, o agricultor Joaquim Moreira, de 87 anos, pessoa mais velha da comunidade quilombola de Antinha de Baixo, em Santo Antôn...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/a3CxQNUpozqNrUi4Mmi4Q1sq1z8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/thauany_e_o_avo_vao_votar_no_dia_4.jpeg?itok=ulloAfJu&quot; alt=&quot;Jovens eleitores quilombolas defendem voto em defesa de ideais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;No próximo dia 4 de outubro, o agricultor Joaquim Moreira, de 87 anos, pessoa mais velha da comunidade quilombola de Antinha de Baixo, em Santo Antônio do Descoberto (GO), fará o caminho até a escola em que vai votar em uma companhia especial.&lt;/p&gt;
@@ -145,7 +186,7 @@ O lon...</excerpt:encoded>
 &lt;p&gt;A representante da entidade ressalta ainda que a população quilombola tem entendido que deve exigir dos governantes comprometimento com a proteção das pessoas e avanço das titulações de territórios quilombolas pelo país. Para isso, o engajamento dos mais jovens torna-se um caminho essencial.&lt;/p&gt;
 &lt;p&gt;Bia Nunes defende mais campanhas por parte do Estado brasileiro para o estímulo de eleitores e candidatos quilombolas. Inclusive, ainda há um contexto de vulnerabilidade, formado por pressões e ameaças de violências. “Eu mesmo sou uma pessoa que estou no programa de proteção porque, no ano de 2020, eu sofri uma ameaça contra a minha vida (quando era candidata)”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/jovens-eleitores-quilombolas-defendem-voto-em-defesa-de-ideais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>No próximo dia 4 de outubro, o agricultor Joaquim Moreira, de 87 anos, pessoa mais velha da comunidade quilombola de Antinha de Baixo, em Santo Antôn...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-23 16:56:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 16:56:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 16:56:00</wp:post_modified>
@@ -171,9 +212,9 @@ O lon...</excerpt:encoded>
     <item>
       <title>ONS suspende geração excedente de energia pela segunda vez no ano</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ons-suspende-geracao-excedente-de-energia-pela-segunda-vez-no-ano</link>
-      <pubDate>Sun, 23 Aug 2026 21:13:44 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 22:13:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ons-suspende-geracao-excedente-de-energia-pela-segunda-vez-no-ano#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ons-suspende-geracao-excedente-de-energia-pela-segunda-vez-no-ano#1004</guid>
       <description>© Marcello Casal jr/Agência Brasil
 Pela segunda vez no ano, o Operador Nacional do Sistema Elétrico (ONS)
 para reduzir a geração de energia diante do...</description>
@@ -196,7 +237,7 @@ para reduzir a geração de energia diante do...</description>
       <excerpt:encoded>© Marcello Casal jr/Agência Brasil
 Pela segunda vez no ano, o Operador Nacional do Sistema Elétrico (ONS)
 para reduzir a geração de energia diante do...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-23 16:27:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 16:27:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 16:27:00</wp:post_modified>
@@ -222,9 +263,9 @@ para reduzir a geração de energia diante do...</excerpt:encoded>
     <item>
       <title>Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-vence-gp-da-holanda-e-conquista-2a-vitoria-seguida-na-f1</link>
-      <pubDate>Sun, 23 Aug 2026 21:13:44 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 22:13:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-vence-gp-da-holanda-e-conquista-2a-vitoria-seguida-na-f1#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-vence-gp-da-holanda-e-conquista-2a-vitoria-seguida-na-f1#1005</guid>
       <description>© Reuters/Jakub Porzycki/Proibida reprodução
 Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 1, o inglês Lando Norris, ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/KnJZeJTehyyovur-6kRY7--X6l8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/2026-08-23t155644z_1394015340_up1em8n17jm4l_rtrmadp_3_motor-f1-netherlands.jpg?itok=FCKzfHmZ&quot; alt=&quot;Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -235,16 +276,10 @@ Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 
 &lt;p&gt;Um dos destaques da prova foi a pista molhada pela chuva que caiu antes da corrida. Ela teve papel determinante na rodada de Bortoleto e na batida do holandês Max Verstappen, que acabou abandonando. Esta foi a despedida do circuito de Zandvoort, que não fará parte do calendário a partir de 2027.&lt;/p&gt;
 &lt;p&gt;Com os resultados, Norris subiu da quinta para a quarta posição no Mundial de pilotos, com 159 pontos, atrás de Antonelli (242), George Russell e Lewis Hamilton, da Ferrari (ambos com 183 pontos). A próxima etapa será o GP da Itália, entre os dias 4 e 6 de setembro.&lt;/p&gt;
 &lt;p&gt;Terromoto atinge o Japão e deixa pelo menos 10 pessoas feridas&lt;/p&gt;
-&lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;
-&lt;p&gt;Planalto volta a vencer Realidade Jovem e vai à final da A3&lt;/p&gt;
-&lt;p&gt;Degradação da terra e clima extremo ameaçam nômades na Mongólia&lt;/p&gt;
-&lt;p&gt;Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado&lt;/p&gt;
-&lt;p&gt;Jovens eleitores quilombolas defendem voto em defesa de ideais&lt;/p&gt;
-&lt;p&gt;ONS suspende geração excedente de energia pela segunda vez no ano&lt;/p&gt;
-&lt;p&gt;Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-vence-gp-da-holanda-e-conquista-2a-vitoria-seguida-na-f1&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-vence-gp-da-holanda-e-conquista-2a-vitoria-seguida-na-f1&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Jakub Porzycki/Proibida reprodução
 Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 1, o inglês Lando Norris, ...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-23 16:01:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 16:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 16:01:00</wp:post_modified>
@@ -270,9 +305,9 @@ Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 
     <item>
       <title>Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-flamengo-e-palmeiras-agradece-no-brasileirao</link>
-      <pubDate>Sun, 23 Aug 2026 21:13:44 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 22:13:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-flamengo-e-palmeiras-agradece-no-brasileirao#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-flamengo-e-palmeiras-agradece-no-brasileirao#1006</guid>
       <description>Na Libertadores deu Flamengo, mas neste sábado (22) o Cruzeiro deu o troco e derrotou a equipe carioca por 2 a 1 pela 24ª rodada do Campeonato Brasil...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9wTFOds-1tdOCC4WNsuFjqba5rk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/cruzeiro_vence_flamengo_e_palmeiras_agradece_no_brasileirao.jpg?itok=c_sATjhy&quot; alt=&quot;Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Na Libertadores deu Flamengo, mas neste sábado (22) o Cruzeiro deu o troco e derrotou a equipe carioca por 2 a 1 pela 24ª rodada do Campeonato Brasileiro, no Mineirão.&lt;/p&gt;
@@ -285,13 +320,9 @@ Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 
 &lt;p&gt;O próximo compromisso do Cruzeiro é no próximo sábado, diante do Vasco, em São Januário, enquanto o Flamengo faz o clássico com o Botafogo no dia seguinte, no Maracanã.&lt;/p&gt;
 &lt;p&gt;No outro duelo da noite de sábado, Internacional e Atlético-MG ficaram no 0 a 0, no Beira-Rio. O Galo ocupa momentaneamente a sétima colocação, com 33 pontos, enquanto o Colorado está à beira da zona de rebaixamento, com 25 pontos, em 16º.&lt;/p&gt;
 &lt;p&gt;Terromoto atinge o Japão e deixa pelo menos 10 pessoas feridas&lt;/p&gt;
-&lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;
-&lt;p&gt;Planalto volta a vencer Realidade Jovem e vai à final da A3&lt;/p&gt;
-&lt;p&gt;Degradação da terra e clima extremo ameaçam nômades na Mongólia&lt;/p&gt;
-&lt;p&gt;Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado&lt;/p&gt;
-&lt;p&gt;Jovens eleitores quilombolas defendem voto em defesa de ideais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-flamengo-e-palmeiras-agradece-no-brasileirao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-flamengo-e-palmeiras-agradece-no-brasileirao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Na Libertadores deu Flamengo, mas neste sábado (22) o Cruzeiro deu o troco e derrotou a equipe carioca por 2 a 1 pela 24ª rodada do Campeonato Brasil...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-23 16:01:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 16:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 16:01:00</wp:post_modified>
@@ -317,9 +348,9 @@ Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 
     <item>
       <title>Fim da 1ª fase do Brasileirão A1: Fla goleia Galo e passa em 5º lugar</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fim-da-1a-fase-do-brasileirao-a1-fla-goleia-galo-e-passa-em-5o-lugar</link>
-      <pubDate>Sun, 23 Aug 2026 21:13:44 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 22:13:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fim-da-1a-fase-do-brasileirao-a1-fla-goleia-galo-e-passa-em-5o-lugar#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fim-da-1a-fase-do-brasileirao-a1-fla-goleia-galo-e-passa-em-5o-lugar#1007</guid>
       <description>Em duelo que teve transmissão ao vivo da TV Brasil, o Flamengo goleou o Atlético-MG por 4 a 1 neste sábado (22), no estádio Luso-Brasileiro, e se cla...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DYUGkie4Em48by6fv-Dlj3Qxusw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/fim_da_1a_fase_do_brasileirao_a1_fla_goleia_galo_e_passa_em_5o_lugar.jpg?itok=NA3IFJvM&quot; alt=&quot;Fim da 1ª fase do Brasileirão A1: Fla goleia Galo e passa em 5º lugar&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Em duelo que teve transmissão ao vivo da TV Brasil, o Flamengo goleou o Atlético-MG por 4 a 1 neste sábado (22), no estádio Luso-Brasileiro, e se classificou às quartas de final do Campeonato Brasileiro Feminino A1 na 5ª posição.&lt;/p&gt;
@@ -334,11 +365,11 @@ Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 
 &lt;p&gt;O Corinthians (2º) enfrenta o Cruzeiro (7º), o Palmeiras (3º) mede forças com o Bahia (6º) e a Ferroviária (4ª) será a adversária do Flamengo (5º). Daqui em diante, todos os confrontos serão em dois jogos, com a primeira partida na casa do time de pior campanha e o duelo de volta com o mando da equipe que realizou campanha melhor.&lt;/p&gt;
 &lt;p&gt;Terromoto atinge o Japão e deixa pelo menos 10 pessoas feridas&lt;/p&gt;
 &lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;
+&lt;p&gt;Veja como foi o domingo (23) dos candidatos a presidente&lt;/p&gt;
 &lt;p&gt;Planalto volta a vencer Realidade Jovem e vai à final da A3&lt;/p&gt;
-&lt;p&gt;Degradação da terra e clima extremo ameaçam nômades na Mongólia&lt;/p&gt;
-&lt;p&gt;Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fim-da-1a-fase-do-brasileirao-a1-fla-goleia-galo-e-passa-em-5o-lugar&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Degradação da terra e clima extremo ameaçam nômades na Mongólia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fim-da-1a-fase-do-brasileirao-a1-fla-goleia-galo-e-passa-em-5o-lugar&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Em duelo que teve transmissão ao vivo da TV Brasil, o Flamengo goleou o Atlético-MG por 4 a 1 neste sábado (22), no estádio Luso-Brasileiro, e se cla...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-23 15:56:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 15:56:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 15:56:00</wp:post_modified>
@@ -364,9 +395,9 @@ Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 
     <item>
       <title>Vasco e Minas Brasília garantem vaga na Série A1 em 2027</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/vasco-e-minas-brasilia-garantem-vaga-na-serie-a1-em-2027</link>
-      <pubDate>Sun, 23 Aug 2026 21:13:44 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 22:13:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/vasco-e-minas-brasilia-garantem-vaga-na-serie-a1-em-2027#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/vasco-e-minas-brasilia-garantem-vaga-na-serie-a1-em-2027#1008</guid>
       <description>© Dikran Sahagian/Vasco da Gama
 Ao mesmo tempo em que o Brasileirão Feminino A1 fechou sua primeira fase, definindo os classificados ao mata-mata e V...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VmjYRRGD8tqa4BqsvY5fmJ04iB4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/vasco_e_minas_brasilia_garantem_vaga_na_serie_a1_em_2027.jpg?itok=56DH8jZB&quot; alt=&quot;Vasco e Minas Brasília garantem vaga na Série A1 em 2027&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -380,14 +411,14 @@ Ao mesmo tempo em que o Brasileirão Feminino A1 fechou sua primeira fase, defin
 &lt;p&gt;Neste domingo, as outras duas vagas saírão dos confrontos entre Itabirito e Sport (0 a 0 no jogo de ida), em Sete Lagoas, em Minas Gerais e Atlético-PI contra 3B da Amazônia, em Teresina, depois da vitória do clube piauiense fora de casa por 2 a 0.&lt;/p&gt;
 &lt;p&gt;Terromoto atinge o Japão e deixa pelo menos 10 pessoas feridas&lt;/p&gt;
 &lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;
+&lt;p&gt;Veja como foi o domingo (23) dos candidatos a presidente&lt;/p&gt;
 &lt;p&gt;Planalto volta a vencer Realidade Jovem e vai à final da A3&lt;/p&gt;
 &lt;p&gt;Degradação da terra e clima extremo ameaçam nômades na Mongólia&lt;/p&gt;
 &lt;p&gt;Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado&lt;/p&gt;
-&lt;p&gt;Jovens eleitores quilombolas defendem voto em defesa de ideais&lt;/p&gt;
-&lt;p&gt;ONS suspende geração excedente de energia pela segunda vez no ano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/vasco-e-minas-brasilia-garantem-vaga-na-serie-a1-em-2027&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Jovens eleitores quilombolas defendem voto em defesa de ideais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/vasco-e-minas-brasilia-garantem-vaga-na-serie-a1-em-2027&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Dikran Sahagian/Vasco da Gama
 Ao mesmo tempo em que o Brasileirão Feminino A1 fechou sua primeira fase, definindo os classificados ao mata-mata e V...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-23 15:56:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 15:56:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 15:56:00</wp:post_modified>
@@ -413,9 +444,9 @@ Ao mesmo tempo em que o Brasileirão Feminino A1 fechou sua primeira fase, defin
     <item>
       <title>Opção pelo Simples Nacional para 2027 é antecipada para setembro</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/opcao-pelo-simples-nacional-para-2027-e-antecipada-para-setembro</link>
-      <pubDate>Sun, 23 Aug 2026 21:13:44 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 22:13:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/opcao-pelo-simples-nacional-para-2027-e-antecipada-para-setembro#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/opcao-pelo-simples-nacional-para-2027-e-antecipada-para-setembro#1009</guid>
       <description>© Marcello Casal JrAgência Brasil
 As micro e pequenas empresas devem estar atentas. Com as novas regras estabelecidas pelo Comitê Gestor do Simples N...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9hFIx1HQ2bI3MuzrKlxLJVnAq_0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/simples_nacional_2101220209.jpg?itok=aWwLYeiP&quot; alt=&quot;Opção pelo Simples Nacional para 2027 é antecipada para setembro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -436,7 +467,7 @@ As micro e pequenas empresas devem estar atentas. Com as novas regras estabeleci
 &lt;p&gt;A decisão poderá ser revista em março de 2027, com efeitos para o segundo semestre.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/opcao-pelo-simples-nacional-para-2027-e-antecipada-para-setembro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 As micro e pequenas empresas devem estar atentas. Com as novas regras estabelecidas pelo Comitê Gestor do Simples N...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-23 15:40:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 15:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 15:40:00</wp:post_modified>
@@ -457,53 +488,6 @@ As micro e pequenas empresas devem estar atentas. Com as novas regras estabeleci
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/9hFIx1HQ2bI3MuzrKlxLJVnAq_0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/simples_nacional_2101220209.jpg?itok=aWwLYeiP</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Dino anula emendas indicadas por dirigentes partidários sem mandato</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/dino-anula-emendas-indicadas-por-dirigentes-partidarios-sem-mandato</link>
-      <pubDate>Sun, 23 Aug 2026 21:13:44 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/dino-anula-emendas-indicadas-por-dirigentes-partidarios-sem-mandato#1009</guid>
-      <description>O ministro do Supremo Tribunal Federal (STF) Flávio Dino determinou neste domingo (23) a nulidade de emendas parlamentares indicadas por dirigentes p...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/w4rPIWA4fdhmfrfcvs6EfaB_bPE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/09/54776974910_27f774db1d_o.jpg?itok=duUdnejI&quot; alt=&quot;Dino anula emendas indicadas por dirigentes partidários sem mandato&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O ministro do Supremo Tribunal Federal (STF) Flávio Dino determinou neste domingo (23) a nulidade de emendas parlamentares indicadas por dirigentes partidários sem mandato no Congresso e por ex-parlamentares.&lt;/p&gt;
-&lt;p&gt;A decisão estabelece que essas indicações não podem ser utilizadas como fundamento para a execução de despesas públicas.&lt;/p&gt;
-&lt;p&gt;Dino determinou que os presidentes da Câmara dos Deputados, Hugo Motta, e do Senado, Davi Alcolumbre, comuniquem imediatamente as áreas técnicas das duas Casas sobre a decisão.&lt;/p&gt;
-&lt;p&gt;A determinação alcança presidentes de partidos que não sejam deputados ou senadores e também pessoas que exerceram mandato parlamentar, mas não ocupam atualmente cargo eletivo.&lt;/p&gt;
-&lt;p&gt;Segundo Dino, dirigentes partidários sem mandato não têm competência para indicar, distribuir ou alocar emendas parlamentares.&lt;/p&gt;
-&lt;p&gt;O ministro também determinou que eventuais indicações feitas por essas pessoas não sejam consideradas nos procedimentos administrativos de execução do Orçamento.&lt;/p&gt;
-&lt;p&gt;A decisão estabelece ainda que documentos que atribuam a presidentes de partidos ou ex-parlamentares a autoria, titularidade ou poder de indicação sobre emendas sejam considerados juridicamente inválidos.&lt;/p&gt;
-&lt;p&gt;A determinação inclui documentos como ofícios, planilhas, tabelas, expedientes, comunicações e solicitações encaminhadas às áreas responsáveis pela execução das despesas.&lt;/p&gt;
-&lt;p&gt;O ministro afirmou que eventual descumprimento da ordem deverá resultar na apuração de responsabilidade disciplinar, sem prejuízo de possíveis consequências nas esferas civil e penal.&lt;/p&gt;
-&lt;p&gt;A decisão faz parte de uma série de medidas adotadas por Dino para ampliar o controle sobre a indicação e a execução de emendas parlamentares. O tema ganhou destaque no STF diante de questionamentos sobre a transparência na destinação de recursos públicos e sobre a participação de pessoas sem mandato nos processos de indicação.&lt;/p&gt;
-&lt;p&gt;Em julho, o ministro criticou o que classificou como “terceirização de emendas” e determinou que o Congresso apresentasse esclarecimentos sobre possíveis irregularidades na distribuição de recursos do Orçamento federal.&lt;/p&gt;
-&lt;p&gt;Na avaliação do magistrado, a indicação de emendas deve estar vinculada aos parlamentares que efetivamente possuem mandato e competência constitucional para participar do processo orçamentário.&lt;/p&gt;
-&lt;p&gt;A nova decisão ocorre poucos dias&lt;/p&gt;
-&lt;p&gt;após Dino determinar o bloqueio&lt;/p&gt;
-&lt;p&gt;de R$ 119 milhões em bens do presidente do PL, Valdemar Costa Neto, e de R$ 6 milhões do ex-deputado e ex-presidente da Câmara Eduardo Cunha.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/dino-anula-emendas-indicadas-por-dirigentes-partidarios-sem-mandato&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O ministro do Supremo Tribunal Federal (STF) Flávio Dino determinou neste domingo (23) a nulidade de emendas parlamentares indicadas por dirigentes p...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-23 15:32:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-23 15:32:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-23 15:32:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-23 15:32:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/w4rPIWA4fdhmfrfcvs6EfaB_bPE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/09/54776974910_27f774db1d_o.jpg?itok=duUdnejI</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
