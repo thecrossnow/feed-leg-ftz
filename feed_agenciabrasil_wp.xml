@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sun, 23 Aug 2026 13:26:07 +0000</pubDate>
+    <pubDate>Sun, 23 Aug 2026 14:15:31 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,154 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Pix enfrenta instabilidade na manhã deste domingo</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pix-enfrenta-instabilidade-na-manha-deste-domingo</link>
+      <pubDate>Sun, 23 Aug 2026 14:15:31 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pix-enfrenta-instabilidade-na-manha-deste-domingo#1000</guid>
+      <description>O sistema de pagamentos instantâneos Pix apresentou instabilidade na manhã deste domingo (23), provocando falhas em diversos bancos e gerando milhare...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hOVaqSEKf0kfzYI9qhLH8_qUF5k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/_mg_8269.jpg?itok=NPtc1wBv&quot; alt=&quot;Pix enfrenta instabilidade na manhã deste domingo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O sistema de pagamentos instantâneos Pix apresentou instabilidade na manhã deste domingo (23), provocando falhas em diversos bancos e gerando milhares de reclamações de usuários em todo o país.&lt;/p&gt;
+&lt;p&gt;O problema afetou transferências e pagamentos em tempo real, com impacto imediato sobre consumidores e empresas.&lt;/p&gt;
+&lt;p&gt;, que monitora interrupções em serviços digitais, o problema começou às 6h50.&lt;/p&gt;
+&lt;p&gt;Em cerca de três horas, foram registradas 13.861 ocorrências.&lt;/p&gt;
+&lt;p&gt;O pico de reclamações ocorreu às 8h05, com 2.405 de queixas apenas naquele minuto. Às 9h50, o total de reclamações havia caído para 178, o que indica diminuição das falhas e retomada gradual da normalização.&lt;/p&gt;
+&lt;p&gt;O que se sabe sobre a instabilidade do Pix&lt;/p&gt;
+&lt;p&gt;Horário da falha: início às 6h50, com pico às 8h05;&lt;/p&gt;
+&lt;p&gt;Reclamações registradas: 13.861 em cerca de três horas;&lt;/p&gt;
+&lt;p&gt;Diminuição significativa das ocorrências a partir das 8h50;&lt;/p&gt;
+&lt;p&gt;Abrangência: problema nacional;&lt;/p&gt;
+&lt;p&gt;Procurado pela reportagem, o Banco Central (BC) ainda não se manifestou.&lt;/p&gt;
+&lt;p&gt;O DownDetector apontou aumento simultâneo de reclamações em ao menos 12 instituições financeiras, reforçando a suspeita de falha no sistema central. Entre os bancos citados pelos usuários estão:&lt;/p&gt;
+&lt;p&gt;Além das transferências entre pessoas físicas, comerciantes relataram dificuldades para receber pagamentos e até problemas na recarga de equipamentos de cartão que dependem do Pix. Como principal meio de pagamento eletrônico do país, qualquer instabilidade no sistema gera efeitos imediatos sobre o comércio e os serviços.&lt;/p&gt;
+&lt;p&gt;Receita libera consulta do 4º lote de restituição do IR nesta segunda&lt;/p&gt;
+&lt;p&gt;Cinco décadas sem JK e as marcas de uma trajetória histórica&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/pix-enfrenta-instabilidade-na-manha-deste-domingo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O sistema de pagamentos instantâneos Pix apresentou instabilidade na manhã deste domingo (23), provocando falhas em diversos bancos e gerando milhare...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-23 10:30:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-23 10:30:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-23 10:30:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-23 10:30:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/hOVaqSEKf0kfzYI9qhLH8_qUF5k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/_mg_8269.jpg?itok=NPtc1wBv</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Justiça mantém prisão de seguranças investigados por morte de ciclista</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-mantem-prisao-de-segurancas-investigados-por-morte-de-ciclista</link>
+      <pubDate>Sun, 23 Aug 2026 14:15:31 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-mantem-prisao-de-segurancas-investigados-por-morte-de-ciclista#1001</guid>
+      <description>A Justiça do Rio manteve a prisão temporária dos seguranças Davi Santos Machado e Jorge Luiz Machado Dias, investigados pela morte
+por espancamento d...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Mh6ZRwMDK4tHhJTg7joEURdcaAs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/segurancas_de_rua_sao_presos_por_agredir_ciclista_ate_a_morte_no_rio.jpg?itok=QUMIMZsp&quot; alt=&quot;Justiça mantém prisão de seguranças investigados por morte de ciclista&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Justiça do Rio manteve a prisão temporária dos seguranças Davi Santos Machado e Jorge Luiz Machado Dias, investigados pela morte&lt;/p&gt;
+&lt;p&gt;por espancamento de Cláudio Rafael Landeiro&lt;/p&gt;
+&lt;p&gt;no dia 11 de agosto, em Copacabana. Ele foi confundido com um ladrão de bicicleta.&lt;/p&gt;
+&lt;p&gt;Na audiência de custódia, neste sábado (22), o juiz Rafael de Almeida Rezende considerou que os&lt;/p&gt;
+&lt;p&gt;foram regularmente expedidos e permanecem dentro do prazo de validade.&lt;/p&gt;
+&lt;p&gt;De acordo com o magistrado, “não há notícia de alteração das decisões que determinaram as prisões e permanecem válidos os fundamentos que levaram à decretação das prisões temporárias”.&lt;/p&gt;
+&lt;p&gt;Na decisão, o juiz escreveu ainda que “eventuais pedidos da defesa deverão ser apresentados ao juízo natural responsável pelo caso”.&lt;/p&gt;
+&lt;p&gt;No caso de Davi Santos Machado, o segurança que estava com um porrete na mão, a defesa também pediu o sigilo de seus dados sensíveis. O pedido foi indeferido pelo juiz, que “considerou que não constavam dados sensíveis nos autos e destacou que o próprio custodiado não soube informar seu endereço e telefone atuais”.&lt;/p&gt;
+&lt;p&gt;Cláudio Rafael Landeiro Moreira, 37 anos, foi espancado até a morte na Rua Felipe de Oliveira, em Copacabana, após ter saído de casa, em Botafogo, às 22h30, para um passeio de bicicleta, como fazia habitualmente.&lt;/p&gt;
+&lt;p&gt;Além dos dois seguranças, também participaram do espancamento os entregadores por aplicativo Felipe Eduardo dos Santos Silva e Ailton José da Silva. Os dois também estão presos e serão levados a audiência de custódia neste domingo (23).&lt;/p&gt;
+&lt;p&gt;Está sendo investigado ainda pela polícia, um quinto homem, que aparece nas imagens das câmeras de segurança, desferindo um chute na cabeça da vítima. Este ainda não foi identificado e está foragido.&lt;/p&gt;
+&lt;p&gt;Receita libera consulta do 4º lote de restituição do IR nesta segunda&lt;/p&gt;
+&lt;p&gt;Cinco décadas sem JK e as marcas de uma trajetória histórica&lt;/p&gt;
+&lt;p&gt;Apostadores de bet em periferias buscam ajuda após vida virar pesadelo&lt;/p&gt;
+&lt;p&gt;Pix enfrenta instabilidade na manhã deste domingo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-mantem-prisao-de-segurancas-investigados-por-morte-de-ciclista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Justiça do Rio manteve a prisão temporária dos seguranças Davi Santos Machado e Jorge Luiz Machado Dias, investigados pela morte
+por espancamento d...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-08-23 10:23:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-23 10:23:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-23 10:23:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-23 10:23:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Mh6ZRwMDK4tHhJTg7joEURdcaAs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/segurancas_de_rua_sao_presos_por_agredir_ciclista_ate_a_morte_no_rio.jpg?itok=QUMIMZsp</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Novos editais fortalecem Pontões e Pontos de Cultura no Rio</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/novos-editais-fortalecem-pontoes-e-pontos-de-cultura-no-rio</link>
+      <pubDate>Sun, 23 Aug 2026 14:15:31 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/novos-editais-fortalecem-pontoes-e-pontos-de-cultura-no-rio#1002</guid>
+      <description>O governo fluminense está com inscrições abertas para editais destinados à seleção de dois Pontões de Cultura e 44 Pontos de Cultura, que atuarão no ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/TSyXJkW8H--Z7hEvWEdtSKx1ww0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/946096-exposicao_carnaval_4341.jpg?itok=2axd5Rv5&quot; alt=&quot;Novos editais fortalecem Pontões e Pontos de Cultura no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O governo fluminense está com inscrições abertas para editais destinados à seleção de dois Pontões de Cultura e 44 Pontos de Cultura, que atuarão no desenvolvimento de ações visando fortalecer a Política Nacional de Cultura Viva (PNCV), com recursos da Política Nacional Aldir Blanc (PNAB) no total de R$ 13,6 milhões.&lt;/p&gt;
+&lt;p&gt;As inscrições podem ser feitas pela&lt;/p&gt;
+&lt;p&gt;A iniciativa busca fortalecer a mobilização, a troca de experiências, a capacitação e a articulação entre diferentes Pontos de Cultura em todo o território fluminense, segundo informou a assessoria de imprensa da Secretaria de Estado de Cultura e Economia Criativa do Rio de Janeiro (SececRJ).&lt;/p&gt;
+&lt;p&gt;As inscrições do edital de Pontões de Cultura podem ser realizadas até 9 de setembro. Ao todo, serão selecionados dois projetos, cada um com repasse R$ 800 mil por ano, em parcela única anual, durante três anos, entre 2026 e 2028. O investimento total será de R$ 4,8 milhões, com execução prevista para 36 meses.&lt;/p&gt;
+&lt;p&gt;Para o edital de Pontos de Cultura&lt;/p&gt;
+&lt;p&gt;, as inscrições permanecem abertas até o dia 10 de setembro.&lt;/p&gt;
+&lt;p&gt;Cada projeto selecionado receberá R$ 200 mil, em parcela única. Ao todo, o edital prevê investimento de R$ 8,8 milhões.&lt;/p&gt;
+&lt;p&gt;Podem participar dos editais pessoas jurídicas sem fins lucrativos, com Cadastro Nacional de Pessoa Jurídica (CNPJ), certificadas pelo Ministério da Cultura como Ponto ou Pontão de Cultura. As instituições deverão comprovar, também, o mínimo de três anos de existência jurídica e de atuação cultural. Pessoas físicas, coletivos informais ou instituições com fins lucrativos não poderão participar das seleções.&lt;/p&gt;
+&lt;p&gt;Pontos de Cultura são grupos, coletivos ou organizações da sociedade civil reconhecidos por desenvolver e articular atividades culturais em suas comunidades. Já os Pontões de Cultura atuam na articulação, formação, mobilização e integração de redes de Pontos de Cultura, promovendo o intercâmbio de experiências e o fortalecimento das ações desenvolvidas nos territórios. Ambos são instrumentos da Política Nacional de Cultura Viva, previstos na Lei nº 13.018/2014, segundo informação do Ministério da Cultura (MinC).&lt;/p&gt;
+&lt;p&gt;Para os Pontões de Cultura, o edital está dividido em duas categorias: uma vaga para Pontão de Cultura – Economia Criativa e uma vaga para Pontão de Cultura – Cultura Popular.&lt;/p&gt;
+&lt;p&gt;Os projetos concorrentes deverão desenvolver atividades capazes de ampliar a integração entre os Pontos de Cultura e contribuir para o fortalecimento da política cultural no estado do Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;Já os projetos do edital Pontos de Cultura deverão desenvolver ações estruturadas em três metas obrigatórias. São elas: Formação e Educação Cultural; Mostra Artística/Cultural; e Registro e Divulgação.&lt;/p&gt;
+&lt;p&gt;As obrigações contemplam o desenvolvimento de oficinas,&lt;/p&gt;
+&lt;p&gt;, cursos, festivais, exposições, divulgação das ações realizadas, entre outras atividades.&lt;/p&gt;
+&lt;p&gt;A valorização da descentralização e da regionalização das ações culturais são critérios previstos nos dois editais. Será dada pontuação favorável para propostas que desenvolvam atividades em territórios considerados de maior vulnerabilidade social, incluindo periferias, regiões com menor Índice de Desenvolvimento Humano (IDH), territórios quilombolas e indígenas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/novos-editais-fortalecem-pontoes-e-pontos-de-cultura-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O governo fluminense está com inscrições abertas para editais destinados à seleção de dois Pontões de Cultura e 44 Pontos de Cultura, que atuarão no ...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-08-23 10:12:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-23 10:12:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-23 10:12:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-23 10:12:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/TSyXJkW8H--Z7hEvWEdtSKx1ww0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/946096-exposicao_carnaval_4341.jpg?itok=2axd5Rv5</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Conheça as atribuições do presidente e do vice-presidente da República</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/conheca-as-atribuicoes-do-presidente-e-vice-da-republica</link>
-      <pubDate>Sun, 23 Aug 2026 13:26:07 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 14:15:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/conheca-as-atribuicoes-do-presidente-e-vice-da-republica#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/conheca-as-atribuicoes-do-presidente-e-vice-da-republica#1003</guid>
       <description>O Brasil se prepara para ir às urnas e, mais uma vez, escolher pela via democrática aqueles que ocuparão os maiores cargos do Poder Executivo – tanto...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/X-3sB8rDIgo3-FrLqdST09u8B3Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/fachada_do_palacio_do_planalto_antcrz_abr_2709221136.jpg?itok=NVaW4Guh&quot; alt=&quot;Conheça as atribuições do presidente e do vice-presidente da República&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Brasil se prepara para ir às urnas e, mais uma vez, escolher pela via democrática aqueles que ocuparão os maiores cargos do Poder Executivo – tanto no âmbito federal quanto no estadual. O futuro do país será definido a partir do voto de cada cidadão.&lt;/p&gt;
@@ -45,7 +188,7 @@
 &lt;p&gt;Se, no primeiro turno, o candidato obtiver maioria absoluta dos votos, ele é eleito sem necessidade de segundo turno. Caso contrário, será feita uma nova votação com os dois candidatos maisbem colocados.&lt;/p&gt;
 &lt;p&gt;O vice-presidente é eleito com o presidente que, com ele, integrou a chapa vencedora do pleito.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/conheca-as-atribuicoes-do-presidente-e-vice-da-republica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Brasil se prepara para ir às urnas e, mais uma vez, escolher pela via democrática aqueles que ocuparão os maiores cargos do Poder Executivo – tanto...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-23 08:32:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 08:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 08:32:00</wp:post_modified>
@@ -71,9 +214,9 @@
     <item>
       <title>Veja como foi o sábado (22) dos candidatos a presidente</title>
       <link>https://agenciabrasil.ebc.com.br/eleicoes-2020/noticia/2026-08/veja-como-foi-o-sabado-22-dos-candidatos-presidente</link>
-      <pubDate>Sun, 23 Aug 2026 13:26:07 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 14:15:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/eleicoes-2020/noticia/2026-08/veja-como-foi-o-sabado-22-dos-candidatos-presidente#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/eleicoes-2020/noticia/2026-08/veja-como-foi-o-sabado-22-dos-candidatos-presidente#1004</guid>
       <description>© Ricardo Stuckert/PT e Vittor Sales/PL
 A agenda dos candidatos à Presidência da República neste sábado (22) teve como destaque os compromissos de ca...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NORFL8NwybhoW7-z5uKRYiZKZWY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/montagem_lula_e_flavio.jpg?itok=QmQcdkXj&quot; alt=&quot;Veja como foi o sábado (22) dos candidatos a presidente&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -94,7 +237,7 @@ A agenda dos candidatos à Presidência da República neste sábado (22) teve co
 &lt;p&gt;O candidato Ronaldo Caiado participou de eventos em Araçatuba e em Campinas. Em meio à campanha, conversou com jornalistas. O candidato afirmou que o Brasil precisa ampliar os investimentos em logística para reduzir custos e aumentar a competitividade da economia, especialmente do agronegócio.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/eleicoes-2020/noticia/2026-08/veja-como-foi-o-sabado-22-dos-candidatos-presidente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Ricardo Stuckert/PT e Vittor Sales/PL
 A agenda dos candidatos à Presidência da República neste sábado (22) teve como destaque os compromissos de ca...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-22 19:54:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 19:54:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 19:54:00</wp:post_modified>
@@ -120,25 +263,25 @@ A agenda dos candidatos à Presidência da República neste sábado (22) teve co
     <item>
       <title>Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao</link>
-      <pubDate>Sun, 23 Aug 2026 13:26:07 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 14:15:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao#1005</guid>
       <description>O Campeonato Mundial de Rúgbi em cadeira de rodas segue em disputa no Centro de Treinamento Paralímpico, em São Paulo. Mas a participação da seleção ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/g-wF3chW3tfQMvFzHC4Jv1M8qAI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/campeonato_mundial_de_rugbi_em_cadeira_de_rodas.jpg?itok=N6VvP4nc&quot; alt=&quot;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Campeonato Mundial de Rúgbi em cadeira de rodas segue em disputa no Centro de Treinamento Paralímpico, em São Paulo. Mas a participação da seleção da casa já foi encerrada. Neste sábado (22), o Brasil derrotou a Nova Zelândia por 53 a 37 e concluiu a competição na 11ª colocação, igualando sua melhor campanha, registrada na última edição, em 2022, na Dinamarca.&lt;/p&gt;
 &lt;p&gt;&quot;A gente tira de aprendizado que, ao longo do campeonato, os jogadores foram evoluindo e isso que importa. A gente tem um grupo forte, isso é muito importante&quot;, disse Julio Braz, um dos principais atletas da seleção brasileira, em declaração divulgada pelo CPB (Comitê Paralímpico Brasileiro).&lt;/p&gt;
 &lt;p&gt;Além do triunfo deste sábado, o Brasil teve outras duas vitórias na fase de grupos da competição, as quais, no entanto, não foram suficientes para a classificação à etapa de mata-mata. A equipe da casa derrotou o Canadá por 49 a 48 e a própria Nova Zelândia por 58 a 44.&lt;/p&gt;
 &lt;p&gt;A grande decisão do campeonato - realizado pela primeira vez na história na América do Sul - será disputada neste domingo (23), às 16h30, entre Austrália e Estados Unidos.&lt;/p&gt;
-&lt;p&gt;STF retoma análise de mudanças na Lei da Ficha Limpa em 11 de setembro&lt;/p&gt;
+&lt;p&gt;Receita libera consulta do 4º lote de restituição do IR nesta segunda&lt;/p&gt;
 &lt;p&gt;Cinco décadas sem JK e as marcas de uma trajetória histórica&lt;/p&gt;
+&lt;p&gt;Apostadores de bet em periferias buscam ajuda após vida virar pesadelo&lt;/p&gt;
+&lt;p&gt;Pix enfrenta instabilidade na manhã deste domingo&lt;/p&gt;
+&lt;p&gt;Justiça mantém prisão de seguranças investigados por morte de ciclista&lt;/p&gt;
 &lt;p&gt;Novos editais fortalecem Pontões e Pontos de Cultura no Rio&lt;/p&gt;
 &lt;p&gt;Conheça as atribuições do presidente e do vice-presidente da República&lt;/p&gt;
-&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&lt;/p&gt;
-&lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;
-&lt;p&gt;Peixe antes desprezado melhora renda de mulheres da pesca no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/brasil-fecha-mundial-de-rugbi-em-cadeira-de-rodas-na-11a-posicao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Campeonato Mundial de Rúgbi em cadeira de rodas segue em disputa no Centro de Treinamento Paralímpico, em São Paulo. Mas a participação da seleção ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-22 18:59:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 18:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 18:59:00</wp:post_modified>
@@ -164,9 +307,9 @@ A agenda dos candidatos à Presidência da República neste sábado (22) teve co
     <item>
       <title>Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao</link>
-      <pubDate>Sun, 23 Aug 2026 13:26:07 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 14:15:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao#1006</guid>
       <description>© Marcelo Gonçalves/Fluminense F.C
 Há nove dias, o Fluminense demitia o técnico argentino Luis Zubeldía em meio a uma crise de resultados, com oito p...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mdTlUz_I3_5ImNIkTvyuLWGzrnI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/fluminense_vira_sobre_o_remo_e_se_mantem_firme_no_g-4_do_brasileirao.jpg?itok=iOcptsB0&quot; alt=&quot;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -179,15 +322,15 @@ Há nove dias, o Fluminense demitia o técnico argentino Luis Zubeldía em meio 
 &lt;p&gt;Aos 20 minutos do segundo tempo, Soteldo cruzou da esquerda e Hulk cabeceou. A bola bateu no travessão, quicou fora do gol mas pegou um efeito que a fez pular para dentro da meta defendida por Marcelo Rangel.&lt;/p&gt;
 &lt;p&gt;Aos 37 minutos veio a virada. Após cobrança curta de escanteio pela direita, Riquelme Felipe cruzou na cabeça do colombiano Serna, que havia entrado no lugar de Canobbio. O forte desvio dele venceu o goleiro adversário para dar o triunfo ao Tricolor.&lt;/p&gt;
 &lt;p&gt;Na próxima rodada, o Fluminense visita o Athletico Paranaense, em Curitiba, no domingo (30). Já o Remo recebe o Coritiba no dia seguinte.&lt;/p&gt;
-&lt;p&gt;STF retoma análise de mudanças na Lei da Ficha Limpa em 11 de setembro&lt;/p&gt;
+&lt;p&gt;Receita libera consulta do 4º lote de restituição do IR nesta segunda&lt;/p&gt;
 &lt;p&gt;Cinco décadas sem JK e as marcas de uma trajetória histórica&lt;/p&gt;
-&lt;p&gt;Conheça as atribuições do presidente e do vice-presidente da República&lt;/p&gt;
-&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&lt;/p&gt;
-&lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Apostadores de bet em periferias buscam ajuda após vida virar pesadelo&lt;/p&gt;
+&lt;p&gt;Pix enfrenta instabilidade na manhã deste domingo&lt;/p&gt;
+&lt;p&gt;Justiça mantém prisão de seguranças investigados por morte de ciclista&lt;/p&gt;
+&lt;p&gt;Novos editais fortalecem Pontões e Pontos de Cultura no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fluminense-vira-sobre-o-remo-e-se-mantem-firme-no-g-4-do-brasileirao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Gonçalves/Fluminense F.C
 Há nove dias, o Fluminense demitia o técnico argentino Luis Zubeldía em meio a uma crise de resultados, com oito p...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-22 18:43:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 18:43:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 18:43:00</wp:post_modified>
@@ -213,9 +356,9 @@ Há nove dias, o Fluminense demitia o técnico argentino Luis Zubeldía em meio 
     <item>
       <title>Peixe antes desprezado melhora renda de mulheres da pesca no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio</link>
-      <pubDate>Sun, 23 Aug 2026 13:26:07 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 14:15:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/peixe-antes-desprezado-melhora-renda-de-mulheres-da-pesca-no-rio#1007</guid>
       <description>© Rodrigo Campanário/Divulgação
 Uma culinária criativa pode movimentar a economia de uma comunidade.
 É o que reflete a experiência de mulheres da
@@ -240,7 +383,7 @@ Ass...</description>
 Uma culinária criativa pode movimentar a economia de uma comunidade.
 É o que reflete a experiência de mulheres da
 Ass...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-22 16:59:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 16:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 16:59:00</wp:post_modified>
@@ -266,9 +409,9 @@ Ass...</excerpt:encoded>
     <item>
       <title>Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia</link>
-      <pubDate>Sun, 23 Aug 2026 13:26:07 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 14:15:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia#1008</guid>
       <description>© Hustai National Park/Divulgação
 No Parque Nacional Hustai, na Mongólia, 354 cavalos selvagens takhi correm livres por morros e estepes. O animal ch...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/7bXQ3s57vn4nER2gKInActz9p64=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/dsc_0075_65_1_65_1_85-830x553.jpg?itok=GKrS7qEs&quot; alt=&quot;Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -289,7 +432,7 @@ No Parque Nacional Hustai, na Mongólia, 354 cavalos selvagens takhi correm livr
 &lt;p&gt;O processo de adaptação funcionou. A população cresceu e passou a se reproduzir livremente nas estepes. Além dos mais de 300 animais que vivem no parque nacional, há duas populações reintroduzidas em outras áreas protegidas da Mongólia, elevando o total do país a cerca de 800 animais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/takhi-o-cavalo-selvagem-que-virou-simbolo-de-restauracao-na-mongolia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Hustai National Park/Divulgação
 No Parque Nacional Hustai, na Mongólia, 354 cavalos selvagens takhi correm livres por morros e estepes. O animal ch...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-22 16:46:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 16:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 16:46:00</wp:post_modified>
@@ -315,9 +458,9 @@ No Parque Nacional Hustai, na Mongólia, 354 cavalos selvagens takhi correm livr
     <item>
       <title>Morre veterinária atacada por cachorro no canil do Senado Federal</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal</link>
-      <pubDate>Sun, 23 Aug 2026 13:26:07 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 14:15:31 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal#1009</guid>
       <description>A veterinária Vitória Valle de Oliveira Pinha, de 36 anos, morreu, neste sábado (22), quatro dias depois de ser atacada por um cachorro pastor-belga ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/StETh6eZWsvFj0HwWX5V9OEHcss=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/vitoria_valle_de_oliveira.jpg?itok=Q_6lT9LH&quot; alt=&quot;Morre veterinária atacada por cachorro no canil do Senado Federal&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A veterinária Vitória Valle de Oliveira Pinha, de 36 anos, morreu, neste sábado (22), quatro dias depois de ser atacada por um cachorro pastor-belga no canil do Senado Federal, em Brasília (DF). A informação foi confirmada no final da manhã, em nota, pela assessoria de comunicação da Casa Legislativa.&lt;/p&gt;
@@ -330,13 +473,13 @@ No Parque Nacional Hustai, na Mongólia, 354 cavalos selvagens takhi correm livr
 &lt;p&gt;Segundo o site do Senado, o serviço de Cinotecnia tem a finalidade de treinar as equipes da Polícia Legislativa, com o auxílio de cães especializados, para as “atividades de patrulha e policiamento, detecção de substâncias ilícitas, explosivos e armas de fogo, intervenção em distúrbios civis, suporte em busca e apreensão e outras medidas”.&lt;/p&gt;
 &lt;p&gt;O Sindicato dos Servidores do Poder Legislativo Federal e do Tribunal de Contas da União (Sindilegis) manifestou profundo pesar após a confirmação da morte da veterinária durante o exercício de suas atividades profissionais.&lt;/p&gt;
 &lt;p&gt;“Neste momento de dor, o Sindilegis expressa solidariedade à família, aos amigos e aos colegas de trabalho e coloca-se à disposição da família”.&lt;/p&gt;
-&lt;p&gt;STF retoma análise de mudanças na Lei da Ficha Limpa em 11 de setembro&lt;/p&gt;
+&lt;p&gt;Receita libera consulta do 4º lote de restituição do IR nesta segunda&lt;/p&gt;
 &lt;p&gt;Cinco décadas sem JK e as marcas de uma trajetória histórica&lt;/p&gt;
-&lt;p&gt;Novos editais fortalecem Pontões e Pontos de Cultura no Rio&lt;/p&gt;
-&lt;p&gt;Conheça as atribuições do presidente e do vice-presidente da República&lt;/p&gt;
-&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Apostadores de bet em periferias buscam ajuda após vida virar pesadelo&lt;/p&gt;
+&lt;p&gt;Pix enfrenta instabilidade na manhã deste domingo&lt;/p&gt;
+&lt;p&gt;Justiça mantém prisão de seguranças investigados por morte de ciclista&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado-federal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A veterinária Vitória Valle de Oliveira Pinha, de 36 anos, morreu, neste sábado (22), quatro dias depois de ser atacada por um cachorro pastor-belga ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-22 15:53:00</wp:post_date>
       <wp:post_date_gmt>2026-08-22 15:53:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-22 15:53:00</wp:post_modified>
@@ -357,152 +500,6 @@ No Parque Nacional Hustai, na Mongólia, 354 cavalos selvagens takhi correm livr
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/StETh6eZWsvFj0HwWX5V9OEHcss=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/vitoria_valle_de_oliveira.jpg?itok=Q_6lT9LH</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Campanha convoca familiares de desaparecidos para coleta de DNA</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna</link>
-      <pubDate>Sun, 23 Aug 2026 13:26:07 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna#1007</guid>
-      <description>A partir de segunda-feira (24), terá início uma força-tarefa em todo o país para convocar familiares de pessoas desaparecidas para coleta de DNA.
-Ao ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3gROaA4g1a1jIioN8ja9Wvq2Mls=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/30/ato_desaparecidos_01_0.jpg?itok=g-ivTqJ6&quot; alt=&quot;Campanha convoca familiares de desaparecidos para coleta de DNA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A partir de segunda-feira (24), terá início uma força-tarefa em todo o país para convocar familiares de pessoas desaparecidas para coleta de DNA.&lt;/p&gt;
-&lt;p&gt;Ao todo, 334 pontos nas 27 unidades da Federação estão disponíveis para receber os interessados.&lt;/p&gt;
-&lt;p&gt;É a quarta edição de uma mobilização especial organizada pelo governo federal, em parceria com as secretarias de segurança pública. A campanha vai até sexta (28).&lt;/p&gt;
-&lt;p&gt;A coleta de DNA de familiares de desaparecidos torna possível o cruzamento com perfis genéticos de pessoas encontradas vivas e falecidas com identidade desconhecida nos bancos estaduais, distrital e nacional.&lt;/p&gt;
-&lt;p&gt;Os familiares interessados em participar devem apresentar um documento de identificação e as informações do Boletim de Ocorrência do desaparecimento (número, estado de registro, delegacia).&lt;/p&gt;
-&lt;p&gt;De acordo com o governo, a campanha é &quot;uma ferramenta a mais para localização de pessoas desaparecidas, e uma chance para famílias que ainda não tenham doado o seu material genético”, explicou o Ministério da Justiça em nota.&lt;/p&gt;
-&lt;p&gt;O ministério ressalta que, preferencialmente, devem comparecer aos pontos de coleta familiares de primeiro grau da pessoa desaparecida, tais como pai, mãe, irmãos ou filhos.&lt;/p&gt;
-&lt;p&gt;A coordenação da campanha explica que, caso ocorra resultado positivo da comparação do perfil genético, a instituição responsável entrará em contato com o familiar doador.&lt;/p&gt;
-&lt;p&gt;STF retoma análise de mudanças na Lei da Ficha Limpa em 11 de setembro&lt;/p&gt;
-&lt;p&gt;Cinco décadas sem JK e as marcas de uma trajetória histórica&lt;/p&gt;
-&lt;p&gt;Conheça as atribuições do presidente e do vice-presidente da República&lt;/p&gt;
-&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&lt;/p&gt;
-&lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;
-&lt;p&gt;Peixe antes desprezado melhora renda de mulheres da pesca no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/campanha-convoca-familiares-de-desaparecidos-para-coleta-de-dna&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A partir de segunda-feira (24), terá início uma força-tarefa em todo o país para convocar familiares de pessoas desaparecidas para coleta de DNA.
-Ao ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-08-22 14:57:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-22 14:57:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-22 14:57:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-22 14:57:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/3gROaA4g1a1jIioN8ja9Wvq2Mls=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/08/30/ato_desaparecidos_01_0.jpg?itok=g-ivTqJ6</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Lando Norris faz a pole do GP da Holanda; Bortoleto larga em nono</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-faz-pole-do-gp-da-holanda-bortoleto-larga-em-nono</link>
-      <pubDate>Sun, 23 Aug 2026 13:26:07 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-faz-pole-do-gp-da-holanda-bortoleto-larga-em-nono#1008</guid>
-      <description>© Reuters/Jakub Porzycki/Proibida reprodução
-No fim de semana de retorno da Fórmula 1 após quase um mês de pausa, o britânico Lando Norris, atual det...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cbypM_tahEOXbC9oyb55cwTJ25U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/2026-08-22t152441z_1682718825_up1em8m16e3tq_rtrmadp_3_motor-f1-netherlands.jpg?itok=wNtTDPy2&quot; alt=&quot;Lando Norris faz a pole do GP da Holanda; Bortoleto larga em nono&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Reuters/Jakub Porzycki/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;No fim de semana de retorno da Fórmula 1 após quase um mês de pausa, o britânico Lando Norris, atual detentor do título de campeão mundial e vencedor do GP mais recente, na Hungria, mostrou que quer se recuperar na classificação da temporada 2026&lt;/p&gt;
-&lt;p&gt;. O piloto da McLaren - atual quinto colocado na tabela - fez a pole position no circuito de Zandvoort, na Holanda, neste sábado (22). O brasileiro Gabriel Bortoleto, da Audi, vai largar na nona posição.&lt;/p&gt;
-&lt;p&gt;Antes do treino oficial, outro britânico, George Russell, da Mercedes, venceu a corrida sprint, seguido por Charles Leclerc, da Ferrari, e Lando Norris. Bortoleto fechou no nono lugar, uma posição abaixo da zona de pontuação da prova sprint.&lt;/p&gt;
-&lt;p&gt;Pouco depois, na classificação para o GP de domingo, Norris registrou o tempo de 1min11s63, ficando à frente de Russell (1min11s265) e do líder da temporada, Kimi Antonelli (1min11s296), ambos da Mercedes. Bortoleto fez o tempo de 1min12s079.&lt;/p&gt;
-&lt;p&gt;Após se sagrar campeão no ano passado, Norris vem tendo dificuldades em 2026, tendo subido ao pódio apenas três vezes em onze provas.&lt;/p&gt;
-&lt;p&gt;A única vitória até o momento foi justamente na última corrida, no circuito de Hungaroring, em Budapeste.&lt;/p&gt;
-&lt;p&gt;O GP da Holanda tem largada marcada para as 10h deste domingo, no horário de Brasília.&lt;/p&gt;
-&lt;p&gt;STF retoma análise de mudanças na Lei da Ficha Limpa em 11 de setembro&lt;/p&gt;
-&lt;p&gt;Cinco décadas sem JK e as marcas de uma trajetória histórica&lt;/p&gt;
-&lt;p&gt;Conheça as atribuições do presidente e do vice-presidente da República&lt;/p&gt;
-&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&lt;/p&gt;
-&lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;
-&lt;p&gt;Peixe antes desprezado melhora renda de mulheres da pesca no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-faz-pole-do-gp-da-holanda-bortoleto-larga-em-nono&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Reuters/Jakub Porzycki/Proibida reprodução
-No fim de semana de retorno da Fórmula 1 após quase um mês de pausa, o britânico Lando Norris, atual det...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-08-22 14:18:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-22 14:18:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-22 14:18:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-22 14:18:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/cbypM_tahEOXbC9oyb55cwTJ25U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/2026-08-22t152441z_1682718825_up1em8m16e3tq_rtrmadp_3_motor-f1-netherlands.jpg?itok=wNtTDPy2</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Juventude-SE bate Portuguesa-AP de novo e está na final do Feminino A3</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3</link>
-      <pubDate>Sun, 23 Aug 2026 13:26:07 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3#1009</guid>
-      <description>Em partida que teve transmissão ao vivo da
-, o Juventude de Estância, em Sergipe, derrotou a Portuguesa do Amapá por 1 a 0 na Arena Batistão, em Arac...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/X6Gvib3fF5Vh3yqZG5UUVCzvcl0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/juventude-se_bate_portuguesa-ap_de_novo_e_esta_na_final_do_feminino_a3.jpg?itok=trWUkUG1&quot; alt=&quot;Juventude-SE bate Portuguesa-AP de novo e está na final do Feminino A3&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Em partida que teve transmissão ao vivo da&lt;/p&gt;
-&lt;p&gt;, o Juventude de Estância, em Sergipe, derrotou a Portuguesa do Amapá por 1 a 0 na Arena Batistão, em Aracaju, na noite desta sexta-feira (21) e carimbou vaga na decisão do Campeonato Brasileiro Feminino A3. As duas equipes já tinham o acesso à série A2 garantido.&lt;/p&gt;
-&lt;p&gt;O time sergipano, que havia vencido o jogo de ida por 2 a 0, fora de casa, aguarda pelo vencedor do confronto entre Planalto, de Goiás, e Realidade Jovem, de São Paulo, para saber quem enfrentará na final.&lt;/p&gt;
-&lt;p&gt;O triunfo do Juventude e, consequentemente, a classificação à decisão, foram sacramentados aos 13 minutos do segundo tempo. Laureen completou cruzamento pela direita e marcou o gol do jogo. A camisa 7 do time sergipano é também a artilheira da competição, com 11 gols marcados.&lt;/p&gt;
-&lt;p&gt;A noite foi de festa em Aracaju, já que o Juventude se tornou a primeira equipe do estado a alcançar uma final de um campeonato nacional. O time faz campanha irretocável, com 11 vitórias e um empate em doze partidas disputadas.&lt;/p&gt;
-&lt;p&gt;Na outra semifinal, o Planalto, da cidade de Aparecida de Goiânia, fez 2 a 0 no jogo de ida contra o Realidade Jovem. O duelo decisivo acontece às 11h deste domingo (23), com transmissão da TV Brasil, diretamente de São José do Rio Preto.&lt;/p&gt;
-&lt;p&gt;STF retoma análise de mudanças na Lei da Ficha Limpa em 11 de setembro&lt;/p&gt;
-&lt;p&gt;Cinco décadas sem JK e as marcas de uma trajetória histórica&lt;/p&gt;
-&lt;p&gt;Conheça as atribuições do presidente e do vice-presidente da República&lt;/p&gt;
-&lt;p&gt;Veja como foi o sábado (22) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Brasil fecha Mundial de Rúgbi em cadeira de rodas na 11ª posição&lt;/p&gt;
-&lt;p&gt;Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão&lt;/p&gt;
-&lt;p&gt;Peixe antes desprezado melhora renda de mulheres da pesca no Rio&lt;/p&gt;
-&lt;p&gt;Takhi, o cavalo selvagem que virou símbolo de restauração na Mongólia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/juventude-se-bate-portuguesa-ap-de-novo-e-esta-na-final-do-feminino-a3&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Em partida que teve transmissão ao vivo da
-, o Juventude de Estância, em Sergipe, derrotou a Portuguesa do Amapá por 1 a 0 na Arena Batistão, em Arac...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-22 14:17:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-22 14:17:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-22 14:17:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-22 14:17:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/X6Gvib3fF5Vh3yqZG5UUVCzvcl0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/22/juventude-se_bate_portuguesa-ap_de_novo_e_esta_na_final_do_feminino_a3.jpg?itok=trWUkUG1</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
