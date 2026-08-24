@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 24 Aug 2026 03:47:06 +0000</pubDate>
+    <pubDate>Mon, 24 Aug 2026 04:36:51 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,58 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Veja como foi o domingo (23) dos candidatos a presidente</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-o-domingo-23-dos-candidatos-presidente</link>
+      <pubDate>Mon, 24 Aug 2026 04:36:51 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-o-domingo-23-dos-candidatos-presidente#1000</guid>
+      <description>Três candidatos à Presidência da República participam neste domingo (23) do primeiro debate presidencial das eleições de 2026, promovido pelo Grupo B...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mHxHjf7pDxiKyHWFE1hh6tGdJMg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/18/banner_agenda_-_1170x700.png?itok=t-rMkLxv&quot; alt=&quot;Veja como foi o domingo (23) dos candidatos a presidente&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Três candidatos à Presidência da República participam neste domingo (23) do primeiro debate presidencial das eleições de 2026, promovido pelo Grupo Bandeirantes de Comunicação.&lt;/p&gt;
+&lt;p&gt;Outros compromissos do diaforam atos políticos e religiosos, entrevista coletiva e estudos. Quatro candidatos não tiveram agenda pública neste domingo.&lt;/p&gt;
+&lt;p&gt;&gt;&gt; Veja como foi o dia dos presidenciáveis:&lt;/p&gt;
+&lt;p&gt;Participa às 20h do debate presidencial na Band TV, em São Paulo.&lt;/p&gt;
+&lt;p&gt;Fará um react do debate na Band em uma live no canal do Poder Popular no YouTube.&lt;/p&gt;
+&lt;p&gt;Durante a atividade, que celebrou os 13 anos da Ocupação Esperança, organizada pelo movimento Luta Popular, em Osasco (SP), neste domingo (23), o candidato defendeu a implementação de um amplo plano nacional de obras públicas voltado à geração de empregos e à garantia de direitos sociais. Segundo Dias, esse programa incluiria a construção de moradias populares, escolas, hospitais, creches, equipamentos urbanos e obras de saneamento básico.&lt;/p&gt;
+&lt;p&gt;Participa às 20h do debate presidencial na Band TV, em São Paulo.&lt;/p&gt;
+&lt;p&gt;Participou da Missa da Penha, no Rio de Janeiro, às 6h20. Zema desistiu de participar do debate da Band, diante da ausência de outros candidatos.&lt;/p&gt;
+&lt;p&gt;Participa às 20h do debate presidencial na Band TV, em São Paulo.&lt;/p&gt;
+&lt;p&gt;Participou de entrevista coletiva na Ocupação Mulher Preta Simoa, em Fortaleza e às 18h de um Ato Político Cultural, no Parque Raquel de Queiroz.&lt;/p&gt;
+&lt;p&gt;Estudo, detalhamento e definição de conjunto de propostas suplementares ao plano de governo.&lt;/p&gt;
+&lt;p&gt;não tiveram atos públicos de campanha neste domingo.&lt;/p&gt;
+&lt;p&gt;Após decisão do Tribunal Superior Eleitoral (TSE), o candidato&lt;/p&gt;
+&lt;p&gt;está proibido de fazer campanha eleitoral, comparecer a debates e participar do horário eleitoral no rádio e na TV.&lt;/p&gt;
+&lt;p&gt;*Colaboraram Alana Gandra (Rio de Janeiro) e Flávia Albuquerque (São Paulo)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-o-domingo-23-dos-candidatos-presidente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Três candidatos à Presidência da República participam neste domingo (23) do primeiro debate presidencial das eleições de 2026, promovido pelo Grupo B...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-23 18:12:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-23 18:12:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-23 18:12:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-23 18:12:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/mHxHjf7pDxiKyHWFE1hh6tGdJMg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/18/banner_agenda_-_1170x700.png?itok=t-rMkLxv</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Planalto volta a vencer Realidade Jovem e vai à final da A3</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/planalto-volta-vencer-realidade-jovem-e-vai-final-da-a3</link>
-      <pubDate>Mon, 24 Aug 2026 03:47:06 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 04:36:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/planalto-volta-vencer-realidade-jovem-e-vai-final-da-a3#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/planalto-volta-vencer-realidade-jovem-e-vai-final-da-a3#1001</guid>
       <description>Em confronto que teve transmissão ao vivo da TV Brasil neste domingo (23), o Planalto, de Aparecida de Goiânia, derrotou o Realidade Jovem por 2 a 1,...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/M6Uuk-e2pSrfWG27ZF36m2rb4cQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/planalto_volta_a_vencer_realidade_jovem_e_vai_a_final_da_a3.jpg?itok=Y13HKPxQ&quot; alt=&quot;Planalto volta a vencer Realidade Jovem e vai à final da A3&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Em confronto que teve transmissão ao vivo da TV Brasil neste domingo (23), o Planalto, de Aparecida de Goiânia, derrotou o Realidade Jovem por 2 a 1, em São José do Rio Preto e confirmou classificação à final do Brasileirão Feminino A3.&lt;/p&gt;
@@ -44,7 +91,7 @@
 &lt;p&gt;Jovens eleitores quilombolas defendem voto em defesa de ideais&lt;/p&gt;
 &lt;p&gt;ONS suspende geração excedente de energia pela segunda vez no ano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/planalto-volta-vencer-realidade-jovem-e-vai-final-da-a3&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Em confronto que teve transmissão ao vivo da TV Brasil neste domingo (23), o Planalto, de Aparecida de Goiânia, derrotou o Realidade Jovem por 2 a 1,...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-08-23 17:40:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 17:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 17:40:00</wp:post_modified>
@@ -70,9 +117,9 @@
     <item>
       <title>Degradação da terra e clima extremo ameaçam nômades na Mongólia</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/degradacao-da-terra-e-clima-extremo-ameacam-nomades-na-mongolia</link>
-      <pubDate>Mon, 24 Aug 2026 03:47:06 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 04:36:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/degradacao-da-terra-e-clima-extremo-ameacam-nomades-na-mongolia#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/degradacao-da-terra-e-clima-extremo-ameacam-nomades-na-mongolia#1002</guid>
       <description>© Rafael Cardoso/Agência Brasil
 O nômade Batchuluun Maamun, de 57 anos, cresceu nas estepes da Mongólia sempre atento aos sinais da natureza e do céu...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vMijIuZdlcpnv4V5jHDUG1qrmyQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/nas_estepes_da_mongolia_futuro_da_terra_depende_de_nomades_e_cientistas03.jpg?itok=sUvetFhX&quot; alt=&quot;Degradação da terra e clima extremo ameaçam nômades na Mongólia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -93,7 +140,7 @@ O nômade Batchuluun Maamun, de 57 anos, cresceu nas estepes da Mongólia sempre
 &lt;p&gt;Esse número já chegou a ser de 71 milhões antes do dzud de 2023, quando milhões morreram pelo frio.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/degradacao-da-terra-e-clima-extremo-ameacam-nomades-na-mongolia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafael Cardoso/Agência Brasil
 O nômade Batchuluun Maamun, de 57 anos, cresceu nas estepes da Mongólia sempre atento aos sinais da natureza e do céu...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-08-23 17:31:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 17:31:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 17:31:00</wp:post_modified>
@@ -119,9 +166,9 @@ O nômade Batchuluun Maamun, de 57 anos, cresceu nas estepes da Mongólia sempre
     <item>
       <title>Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-de-grace-passo-ganha-kikito-no-festival-de-cinema-de-gramado</link>
-      <pubDate>Mon, 24 Aug 2026 03:47:06 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 04:36:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-de-grace-passo-ganha-kikito-no-festival-de-cinema-de-gramado#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-de-grace-passo-ganha-kikito-no-festival-de-cinema-de-gramado#1003</guid>
       <description>© Frame Nosso segredo/Trailer oficial Youtube
 , com direção de Grace Passô foi o vencedor do prêmio Kikito de Melhor Longa-Metragem Brasileiro.
 O lon...</description>
@@ -135,11 +182,16 @@ O lon...</description>
 &lt;p&gt;“Eu tenho a dimensão do que significa fazer um festival, então obrigada por terem nos recebido tão bem. Esse filme conta a história de uma família. Então, sejam bem-vindas, bem-vindes, bem-vindos a essa casa, a essa família”, afirmou a diretora.&lt;/p&gt;
 &lt;p&gt;O longa é uma produção da EntreFilmes em coprodução com a Globo Filmes, Desvia Filmes, Quarta-Feira Filmes, Foi Bonita a Festa e Grãos da Imagem. “Nosso Segredo” com distribuição da Vitrine Filmes.&lt;/p&gt;
 &lt;p&gt;Terromoto atinge o Japão e deixa pelo menos 10 pessoas feridas&lt;/p&gt;
-&lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-de-grace-passo-ganha-kikito-no-festival-de-cinema-de-gramado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;
+&lt;p&gt;Veja como foi o domingo (23) dos candidatos a presidente&lt;/p&gt;
+&lt;p&gt;Planalto volta a vencer Realidade Jovem e vai à final da A3&lt;/p&gt;
+&lt;p&gt;Degradação da terra e clima extremo ameaçam nômades na Mongólia&lt;/p&gt;
+&lt;p&gt;Filme de Grace Passô ganha Kikito no Festival de Cinema de Gramado&lt;/p&gt;
+&lt;p&gt;Jovens eleitores quilombolas defendem voto em defesa de ideais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-08/filme-de-grace-passo-ganha-kikito-no-festival-de-cinema-de-gramado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Frame Nosso segredo/Trailer oficial Youtube
 , com direção de Grace Passô foi o vencedor do prêmio Kikito de Melhor Longa-Metragem Brasileiro.
 O lon...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-23 17:15:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 17:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 17:15:00</wp:post_modified>
@@ -165,9 +217,9 @@ O lon...</excerpt:encoded>
     <item>
       <title>Jovens eleitores quilombolas defendem voto em defesa de ideais</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/jovens-eleitores-quilombolas-defendem-voto-em-defesa-de-ideais</link>
-      <pubDate>Mon, 24 Aug 2026 03:47:06 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 04:36:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/jovens-eleitores-quilombolas-defendem-voto-em-defesa-de-ideais#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/jovens-eleitores-quilombolas-defendem-voto-em-defesa-de-ideais#1004</guid>
       <description>No próximo dia 4 de outubro, o agricultor Joaquim Moreira, de 87 anos, pessoa mais velha da comunidade quilombola de Antinha de Baixo, em Santo Antôn...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/a3CxQNUpozqNrUi4Mmi4Q1sq1z8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/thauany_e_o_avo_vao_votar_no_dia_4.jpeg?itok=ulloAfJu&quot; alt=&quot;Jovens eleitores quilombolas defendem voto em defesa de ideais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;No próximo dia 4 de outubro, o agricultor Joaquim Moreira, de 87 anos, pessoa mais velha da comunidade quilombola de Antinha de Baixo, em Santo Antônio do Descoberto (GO), fará o caminho até a escola em que vai votar em uma companhia especial.&lt;/p&gt;
@@ -186,7 +238,7 @@ O lon...</excerpt:encoded>
 &lt;p&gt;A representante da entidade ressalta ainda que a população quilombola tem entendido que deve exigir dos governantes comprometimento com a proteção das pessoas e avanço das titulações de territórios quilombolas pelo país. Para isso, o engajamento dos mais jovens torna-se um caminho essencial.&lt;/p&gt;
 &lt;p&gt;Bia Nunes defende mais campanhas por parte do Estado brasileiro para o estímulo de eleitores e candidatos quilombolas. Inclusive, ainda há um contexto de vulnerabilidade, formado por pressões e ameaças de violências. “Eu mesmo sou uma pessoa que estou no programa de proteção porque, no ano de 2020, eu sofri uma ameaça contra a minha vida (quando era candidata)”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/jovens-eleitores-quilombolas-defendem-voto-em-defesa-de-ideais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>No próximo dia 4 de outubro, o agricultor Joaquim Moreira, de 87 anos, pessoa mais velha da comunidade quilombola de Antinha de Baixo, em Santo Antôn...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-23 16:56:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 16:56:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 16:56:00</wp:post_modified>
@@ -212,9 +264,9 @@ O lon...</excerpt:encoded>
     <item>
       <title>ONS suspende geração excedente de energia pela segunda vez no ano</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ons-suspende-geracao-excedente-de-energia-pela-segunda-vez-no-ano</link>
-      <pubDate>Mon, 24 Aug 2026 03:47:06 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 04:36:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ons-suspende-geracao-excedente-de-energia-pela-segunda-vez-no-ano#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/ons-suspende-geracao-excedente-de-energia-pela-segunda-vez-no-ano#1005</guid>
       <description>© Marcello Casal jr/Agência Brasil
 Pela segunda vez no ano, o Operador Nacional do Sistema Elétrico (ONS)
 para reduzir a geração de energia diante do...</description>
@@ -237,7 +289,7 @@ para reduzir a geração de energia diante do...</description>
       <excerpt:encoded>© Marcello Casal jr/Agência Brasil
 Pela segunda vez no ano, o Operador Nacional do Sistema Elétrico (ONS)
 para reduzir a geração de energia diante do...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-23 16:27:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 16:27:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 16:27:00</wp:post_modified>
@@ -263,9 +315,9 @@ para reduzir a geração de energia diante do...</excerpt:encoded>
     <item>
       <title>Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-vence-gp-da-holanda-e-conquista-2a-vitoria-seguida-na-f1</link>
-      <pubDate>Mon, 24 Aug 2026 03:47:06 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 04:36:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-vence-gp-da-holanda-e-conquista-2a-vitoria-seguida-na-f1#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-vence-gp-da-holanda-e-conquista-2a-vitoria-seguida-na-f1#1006</guid>
       <description>© Reuters/Jakub Porzycki/Proibida reprodução
 Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 1, o inglês Lando Norris, ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/KnJZeJTehyyovur-6kRY7--X6l8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/2026-08-23t155644z_1394015340_up1em8n17jm4l_rtrmadp_3_motor-f1-netherlands.jpg?itok=FCKzfHmZ&quot; alt=&quot;Lando Norris vence GP da Holanda e conquista 2ª vitória seguida na F1&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -279,7 +331,7 @@ Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 
 &lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/lando-norris-vence-gp-da-holanda-e-conquista-2a-vitoria-seguida-na-f1&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Jakub Porzycki/Proibida reprodução
 Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 1, o inglês Lando Norris, ...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-23 16:01:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 16:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 16:01:00</wp:post_modified>
@@ -305,9 +357,9 @@ Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 
     <item>
       <title>Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-flamengo-e-palmeiras-agradece-no-brasileirao</link>
-      <pubDate>Mon, 24 Aug 2026 03:47:06 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 04:36:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-flamengo-e-palmeiras-agradece-no-brasileirao#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-flamengo-e-palmeiras-agradece-no-brasileirao#1007</guid>
       <description>Na Libertadores deu Flamengo, mas neste sábado (22) o Cruzeiro deu o troco e derrotou a equipe carioca por 2 a 1 pela 24ª rodada do Campeonato Brasil...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9wTFOds-1tdOCC4WNsuFjqba5rk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/cruzeiro_vence_flamengo_e_palmeiras_agradece_no_brasileirao.jpg?itok=c_sATjhy&quot; alt=&quot;Cruzeiro vence Flamengo e Palmeiras agradece no Brasileirão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Na Libertadores deu Flamengo, mas neste sábado (22) o Cruzeiro deu o troco e derrotou a equipe carioca por 2 a 1 pela 24ª rodada do Campeonato Brasileiro, no Mineirão.&lt;/p&gt;
@@ -322,7 +374,7 @@ Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 
 &lt;p&gt;Terromoto atinge o Japão e deixa pelo menos 10 pessoas feridas&lt;/p&gt;
 &lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-vence-flamengo-e-palmeiras-agradece-no-brasileirao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Na Libertadores deu Flamengo, mas neste sábado (22) o Cruzeiro deu o troco e derrotou a equipe carioca por 2 a 1 pela 24ª rodada do Campeonato Brasil...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-23 16:01:00</wp:post_date>
       <wp:post_date_gmt>2026-08-23 16:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-23 16:01:00</wp:post_modified>
@@ -346,56 +398,9 @@ Depois de não vencer nenhuma das dez primeiras provas da temporada da Fórmula 
       </wp:postmeta>
     </item>
     <item>
-      <title>Fim da 1ª fase do Brasileirão A1: Fla goleia Galo e passa em 5º lugar</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fim-da-1a-fase-do-brasileirao-a1-fla-goleia-galo-e-passa-em-5o-lugar</link>
-      <pubDate>Mon, 24 Aug 2026 03:47:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fim-da-1a-fase-do-brasileirao-a1-fla-goleia-galo-e-passa-em-5o-lugar#1007</guid>
-      <description>Em duelo que teve transmissão ao vivo da TV Brasil, o Flamengo goleou o Atlético-MG por 4 a 1 neste sábado (22), no estádio Luso-Brasileiro, e se cla...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DYUGkie4Em48by6fv-Dlj3Qxusw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/fim_da_1a_fase_do_brasileirao_a1_fla_goleia_galo_e_passa_em_5o_lugar.jpg?itok=NA3IFJvM&quot; alt=&quot;Fim da 1ª fase do Brasileirão A1: Fla goleia Galo e passa em 5º lugar&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Em duelo que teve transmissão ao vivo da TV Brasil, o Flamengo goleou o Atlético-MG por 4 a 1 neste sábado (22), no estádio Luso-Brasileiro, e se classificou às quartas de final do Campeonato Brasileiro Feminino A1 na 5ª posição.&lt;/p&gt;
-&lt;p&gt;As adversárias das Meninas da Gávea na próxima fase serão as Guerreiras Grenás da Ferroviária. A equipe mineira, que já estava eliminada, fechou a competição na 13ª posição.&lt;/p&gt;
-&lt;p&gt;O destaque da partida foi a meio-campo Djeni, que marcou os dois primeiros gols do Rubro-Negro. Kaylane fez o terceiro ainda no primeiro tempo e Fernanda, no segundo tempo, ampliou para o Flamengo. No fim, um gol contra de Núbia diminuiu o placar para o Galo.&lt;/p&gt;
-&lt;p&gt;O adversário do Fla na próxima fase, a Ferroviária, já estava classificado, mas teve papel decisivo na última rodada ao eliminar qualquer chance de classificação do Fluminense com um gol de falta de Micaelly, aos 47 minutos do segundo tempo, empatando o duelo em 1 a 1.&lt;/p&gt;
-&lt;p&gt;A vitória fora de casa - alcançada com um gol de Sochor no primeiro tempo - estava classificando a equipe tricolor, que terminou na 11ª colocação, com 26 pontos .&lt;/p&gt;
-&lt;p&gt;Quem também não conseguiu a classificação às quartas de final foi o Internacional. A vitória por 3 a 1 sobre o Corinthians, fora de casa, não foi suficiente, já que o rival Grêmio venceu o Botafogo por 1 a 0 e levou a oitava e última vaga no desempate pelo saldo de gols (sete contra quatro).&lt;/p&gt;
-&lt;p&gt;Ambas as equipes somaram 27 pontos. A derrota das Brabas as tirou da primeira posição, já que o São Paulo venceu o Mixto por 1 a 0 e somou 41 pontos ao fim da primeira fase, três a mais que o Timão.&lt;/p&gt;
-&lt;p&gt;O Botafogo terminou na última posição, com apenas cinco pontos somados e foi rebaixado à Série A2 junto com o Vitória, derrotado pelo Santos em casa por 2 a 1. A equipe baiana fez os mesmos sete pontos que o América-MG, que mesmo com a derrota para o Bragantino por 2 a 1, escapou da degola por ter um saldo de gols melhor que o do Vitória.&lt;/p&gt;
-&lt;p&gt;Os duelos da próxima fase, que ainda não têm data definida, estão confirmados: o São Paulo, que fez a melhor campanha da fase inicial, encara o Grêmio, que terminou em oitavo.&lt;/p&gt;
-&lt;p&gt;O Corinthians (2º) enfrenta o Cruzeiro (7º), o Palmeiras (3º) mede forças com o Bahia (6º) e a Ferroviária (4ª) será a adversária do Flamengo (5º). Daqui em diante, todos os confrontos serão em dois jogos, com a primeira partida na casa do time de pior campanha e o duelo de volta com o mando da equipe que realizou campanha melhor.&lt;/p&gt;
-&lt;p&gt;Terromoto atinge o Japão e deixa pelo menos 10 pessoas feridas&lt;/p&gt;
-&lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;
-&lt;p&gt;Veja como foi o domingo (23) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Planalto volta a vencer Realidade Jovem e vai à final da A3&lt;/p&gt;
-&lt;p&gt;Degradação da terra e clima extremo ameaçam nômades na Mongólia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fim-da-1a-fase-do-brasileirao-a1-fla-goleia-galo-e-passa-em-5o-lugar&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Em duelo que teve transmissão ao vivo da TV Brasil, o Flamengo goleou o Atlético-MG por 4 a 1 neste sábado (22), no estádio Luso-Brasileiro, e se cla...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-08-23 15:56:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-23 15:56:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-23 15:56:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-23 15:56:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/DYUGkie4Em48by6fv-Dlj3Qxusw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/fim_da_1a_fase_do_brasileirao_a1_fla_goleia_galo_e_passa_em_5o_lugar.jpg?itok=NA3IFJvM</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
       <title>Vasco e Minas Brasília garantem vaga na Série A1 em 2027</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/vasco-e-minas-brasilia-garantem-vaga-na-serie-a1-em-2027</link>
-      <pubDate>Mon, 24 Aug 2026 03:47:06 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 04:36:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
       <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/vasco-e-minas-brasilia-garantem-vaga-na-serie-a1-em-2027#1008</guid>
       <description>© Dikran Sahagian/Vasco da Gama
@@ -442,36 +447,34 @@ Ao mesmo tempo em que o Brasileirão Feminino A1 fechou sua primeira fase, defin
       </wp:postmeta>
     </item>
     <item>
-      <title>Opção pelo Simples Nacional para 2027 é antecipada para setembro</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/opcao-pelo-simples-nacional-para-2027-e-antecipada-para-setembro</link>
-      <pubDate>Mon, 24 Aug 2026 03:47:06 +0000</pubDate>
+      <title>Fim da 1ª fase do Brasileirão A1: Fla goleia Galo e passa em 5º lugar</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fim-da-1a-fase-do-brasileirao-a1-fla-goleia-galo-e-passa-em-5o-lugar</link>
+      <pubDate>Mon, 24 Aug 2026 04:36:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/opcao-pelo-simples-nacional-para-2027-e-antecipada-para-setembro#1009</guid>
-      <description>© Marcello Casal JrAgência Brasil
-As micro e pequenas empresas devem estar atentas. Com as novas regras estabelecidas pelo Comitê Gestor do Simples N...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/9hFIx1HQ2bI3MuzrKlxLJVnAq_0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/simples_nacional_2101220209.jpg?itok=aWwLYeiP&quot; alt=&quot;Opção pelo Simples Nacional para 2027 é antecipada para setembro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
-&lt;p&gt;As micro e pequenas empresas devem estar atentas. Com as novas regras estabelecidas pelo Comitê Gestor do Simples Nacional (CGSN), o calendário de adesão ao Simples Nacional foi antecipado em quatro meses.&lt;/p&gt;
-&lt;p&gt;As empresas que desejarem ingressar no regime em 2027 deverão fazer o pedido de 1º a 30 de setembro de 2026. Até então, a opção pelo Simples era realizada em janeiro de cada ano.&lt;/p&gt;
-&lt;p&gt;A alteração foi regulamentada por&lt;/p&gt;
-&lt;p&gt;doComitê Gestor do Simples Nacional(CGSN), editada em abril. As normas incorporaram ao regime simplificado o Imposto sobre Bens e Serviços (IBS) e a Contribuição sobre Bens e Serviços (CBS), tributos criados pela reforma tributária sobre o consumo.&lt;/p&gt;
-&lt;p&gt;A nova regra vale para empresas que ainda não são optantes pelo Simples Nacional e querem utilizar o regime a partir de janeiro de 2027.&lt;/p&gt;
-&lt;p&gt;1º a 30 de setembro de 2026: período para solicitar a opção pelo Simples Nacional para 2027;&lt;/p&gt;
-&lt;p&gt;1º de janeiro de 2027: início dos efeitos da opção;&lt;/p&gt;
-&lt;p&gt;até 30 de novembro de 2026: prazo para desistir da opção feita em setembro;&lt;/p&gt;
-&lt;p&gt;1º a 31 de março de 2027: nova oportunidade para escolher o recolhimento do IBS e da CBS pelo regime regular, com efeitos no segundo semestre.&lt;/p&gt;
-&lt;p&gt;Criada por causa da transição para o novo sistema tributário, a alteração busca dar mais previsibilidade às empresas antes do início do ano-calendário.&lt;/p&gt;
-&lt;p&gt;Outra mudança envolve a forma de recolhimento do IBS e da CBS. A empresa poderá permanecer no Simples Nacional e, simultaneamente, optar pelo recolhimento desses dois tributos pelo regime regular.&lt;/p&gt;
-&lt;p&gt;Para o primeiro semestre de 2027, a escolha deverá ser feita em setembro de 2026 e terá validade de janeiro a junho.&lt;/p&gt;
-&lt;p&gt;Quem não fizer a opção pelo regime regular nesse período permanecerá, no primeiro semestre, com IBS e CBS dentro da sistemática do Simples.&lt;/p&gt;
-&lt;p&gt;A decisão poderá ser revista em março de 2027, com efeitos para o segundo semestre.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/opcao-pelo-simples-nacional-para-2027-e-antecipada-para-setembro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal JrAgência Brasil
-As micro e pequenas empresas devem estar atentas. Com as novas regras estabelecidas pelo Comitê Gestor do Simples N...</excerpt:encoded>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fim-da-1a-fase-do-brasileirao-a1-fla-goleia-galo-e-passa-em-5o-lugar#1009</guid>
+      <description>Em duelo que teve transmissão ao vivo da TV Brasil, o Flamengo goleou o Atlético-MG por 4 a 1 neste sábado (22), no estádio Luso-Brasileiro, e se cla...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DYUGkie4Em48by6fv-Dlj3Qxusw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/fim_da_1a_fase_do_brasileirao_a1_fla_goleia_galo_e_passa_em_5o_lugar.jpg?itok=NA3IFJvM&quot; alt=&quot;Fim da 1ª fase do Brasileirão A1: Fla goleia Galo e passa em 5º lugar&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Em duelo que teve transmissão ao vivo da TV Brasil, o Flamengo goleou o Atlético-MG por 4 a 1 neste sábado (22), no estádio Luso-Brasileiro, e se classificou às quartas de final do Campeonato Brasileiro Feminino A1 na 5ª posição.&lt;/p&gt;
+&lt;p&gt;As adversárias das Meninas da Gávea na próxima fase serão as Guerreiras Grenás da Ferroviária. A equipe mineira, que já estava eliminada, fechou a competição na 13ª posição.&lt;/p&gt;
+&lt;p&gt;O destaque da partida foi a meio-campo Djeni, que marcou os dois primeiros gols do Rubro-Negro. Kaylane fez o terceiro ainda no primeiro tempo e Fernanda, no segundo tempo, ampliou para o Flamengo. No fim, um gol contra de Núbia diminuiu o placar para o Galo.&lt;/p&gt;
+&lt;p&gt;O adversário do Fla na próxima fase, a Ferroviária, já estava classificado, mas teve papel decisivo na última rodada ao eliminar qualquer chance de classificação do Fluminense com um gol de falta de Micaelly, aos 47 minutos do segundo tempo, empatando o duelo em 1 a 1.&lt;/p&gt;
+&lt;p&gt;A vitória fora de casa - alcançada com um gol de Sochor no primeiro tempo - estava classificando a equipe tricolor, que terminou na 11ª colocação, com 26 pontos .&lt;/p&gt;
+&lt;p&gt;Quem também não conseguiu a classificação às quartas de final foi o Internacional. A vitória por 3 a 1 sobre o Corinthians, fora de casa, não foi suficiente, já que o rival Grêmio venceu o Botafogo por 1 a 0 e levou a oitava e última vaga no desempate pelo saldo de gols (sete contra quatro).&lt;/p&gt;
+&lt;p&gt;Ambas as equipes somaram 27 pontos. A derrota das Brabas as tirou da primeira posição, já que o São Paulo venceu o Mixto por 1 a 0 e somou 41 pontos ao fim da primeira fase, três a mais que o Timão.&lt;/p&gt;
+&lt;p&gt;O Botafogo terminou na última posição, com apenas cinco pontos somados e foi rebaixado à Série A2 junto com o Vitória, derrotado pelo Santos em casa por 2 a 1. A equipe baiana fez os mesmos sete pontos que o América-MG, que mesmo com a derrota para o Bragantino por 2 a 1, escapou da degola por ter um saldo de gols melhor que o do Vitória.&lt;/p&gt;
+&lt;p&gt;Os duelos da próxima fase, que ainda não têm data definida, estão confirmados: o São Paulo, que fez a melhor campanha da fase inicial, encara o Grêmio, que terminou em oitavo.&lt;/p&gt;
+&lt;p&gt;O Corinthians (2º) enfrenta o Cruzeiro (7º), o Palmeiras (3º) mede forças com o Bahia (6º) e a Ferroviária (4ª) será a adversária do Flamengo (5º). Daqui em diante, todos os confrontos serão em dois jogos, com a primeira partida na casa do time de pior campanha e o duelo de volta com o mando da equipe que realizou campanha melhor.&lt;/p&gt;
+&lt;p&gt;Terromoto atinge o Japão e deixa pelo menos 10 pessoas feridas&lt;/p&gt;
+&lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;
+&lt;p&gt;Veja como foi o domingo (23) dos candidatos a presidente&lt;/p&gt;
+&lt;p&gt;Planalto volta a vencer Realidade Jovem e vai à final da A3&lt;/p&gt;
+&lt;p&gt;Degradação da terra e clima extremo ameaçam nômades na Mongólia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/fim-da-1a-fase-do-brasileirao-a1-fla-goleia-galo-e-passa-em-5o-lugar&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Em duelo que teve transmissão ao vivo da TV Brasil, o Flamengo goleou o Atlético-MG por 4 a 1 neste sábado (22), no estádio Luso-Brasileiro, e se cla...</excerpt:encoded>
       <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-23 15:40:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-23 15:40:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-23 15:40:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-23 15:40:00</wp:post_modified_gmt>
+      <wp:post_date>2026-08-23 15:56:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-23 15:56:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-23 15:56:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-23 15:56:00</wp:post_modified_gmt>
       <wp:comment_status>closed</wp:comment_status>
       <wp:ping_status>closed</wp:ping_status>
       <wp:status>publish</wp:status>
@@ -487,7 +490,7 @@ As micro e pequenas empresas devem estar atentas. Com as novas regras estabeleci
       <category domain="post_tag" nicename="ebc">EBC</category>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/9hFIx1HQ2bI3MuzrKlxLJVnAq_0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/simples_nacional_2101220209.jpg?itok=aWwLYeiP</wp:meta_value>
+        <wp:meta_value>https://imagens.ebc.com.br/DYUGkie4Em48by6fv-Dlj3Qxusw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/fim_da_1a_fase_do_brasileirao_a1_fla_goleia_galo_e_passa_em_5o_lugar.jpg?itok=NA3IFJvM</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
