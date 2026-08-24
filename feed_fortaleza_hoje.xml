@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - Recentes</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias recentes. Última verificação: 11:30 UTC</description>
-<lastBuildDate>Mon, 24 Aug 2026 11:30:42 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias recentes (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Mon, 24 Aug 2026 12:54:28 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Prefeitura leva vacinação e serviços de saúde aos trabalhadores por aplicativo em Fortaleza</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/prefeitura-leva-vacinacao-e-servicos-de-saude-aos-trabalhadores-por-aplicativo-em-fortaleza</link>
+<guid isPermaLink="false">fortaleza-20260824-ec97fdac96da</guid>
+<pubDate>Mon, 24 Aug 2026 08:18:00 +0000</pubDate>
+<description>Prefeitura leva vacinação e serviços de saúde aos trabalhadores por aplicativo em Fortaleza - Segunda, 24 Agosto 2026 08:18</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Agosto/3/24 08 2026 Paradinha.jpeg" alt="Prefeitura leva vacinação e serviços de saúde aos trabalhadores por aplicativo em Fortaleza" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>A Prefeitura de Fortaleza realiza, por meio da Secretaria Municipal da Saúde (SMS) e da Empresa de Transporte Urbano de Fortaleza (Etufor), na terça e quarta-feira (25 e 26/08), ações de promoção da saúde e prevenção de acidentes de trânsito nas Paradinhas. A iniciativa é voltada a motoristas, motociclistas, ciclistas e entregadores que utilizam plataformas digitais. As atividades acontecem das 14h às 17h, com programação específica em cada local.</p>
+<p>Na terça-feira, a mobilização ocorre na Paradinha do Bairro de Fátima, sob o viaduto das avenidas Pontes Vieira e 13 de Maio. Já na quarta-feira, será a vez da Paradinha do Papicu, localizada no viaduto da Avenida Engenheiro Santana Júnior com Avenida Santos Dumont.</p>
+<p>A ação conta ainda com a participação da Autarquia Municipal de Trânsito (AMC), da Escola de Saúde Pública de Fortaleza (EspFOR), do aplicativo 99 e da sociedade civil, em uma atuação integrada para promoção da saúde e prevenção de acidentes.</p>
+<p><strong>Serviços</strong><br/><br/>A programação reúne serviços de saúde, vacinação, orientações de prevenção de Infecções Sexualmente Transmissíveis (ISTs), saúde bucal, bem-estar (postura, ergonomia, alongamentos e outros) e segurança no trânsito. A iniciativa busca aproximar os serviços públicos dos trabalhadores durante a rotina profissional, ampliando o acesso à informação e às ações de prevenção.</p>
+<p>Segundo Larissa Dall’Olio, gerente da Saúde do Trabalhador, a iniciativa amplia a presença da saúde no cotidiano dos profissionais que passam grande parte do dia nas ruas. “A Paradinha da Saúde é uma estratégia de cuidado que vai até o trabalhador, considerando a dinâmica e os desafios de quem trabalha diariamente no trânsito. Ao oferecer vacinação, orientações e ações de prevenção nesses espaços, conseguimos facilitar o acesso aos serviços e fortalecer a promoção da saúde e da segurança no trabalho”, destaca.</p>
+<p>De acordo com o presidente da Etufor, George Dantas, as duas Paradinhas de Fortaleza registram, juntas, mais de 7,5 mil utilizações mensais por trabalhadores que circulam pela Capital e pela Região Metropolitana. “As Paradinhas já se consolidaram como pontos de apoio essenciais, com grande fluxo e convivência entre os usuários. Ao levar vacinas e serviços de saúde a esses espaços, a Prefeitura reforça a atenção a essa categoria e à saúde coletiva, ouvindo e atendendo esses profissionais que estão em contato diário com a população”, destaca.</p>
+<p><strong>Paradinhas</strong></p>
+<p>As Paradinhas foram implantadas com objetivo de oferecer melhores condições de trabalho, conforto e bem-estar aos profissionais que atuam diariamente no transporte e na entrega por aplicativos em Fortaleza. Já são duas unidades em funcionamento na capital, e a terceira, no bairro Antônio Bezerra, está em obras, com previsão de entrega até novembro de 2026.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/prefeitura-leva-vacinacao-e-servicos-de-saude-aos-trabalhadores-por-aplicativo-em-fortaleza" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Agosto/3/24 08 2026 Paradinha.jpeg" type="image/jpeg" />
+<media:content url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Agosto/3/24 08 2026 Paradinha.jpeg" type="image/jpeg" medium="image">
+<media:title>Prefeitura leva vacinação e serviços de saúde aos trabalhadores por aplicativo em Fortaleza</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
