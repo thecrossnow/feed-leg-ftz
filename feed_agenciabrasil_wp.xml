@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 24 Aug 2026 16:26:28 +0000</pubDate>
+    <pubDate>Mon, 24 Aug 2026 17:23:51 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,162 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Fiocruz lança carta aos candidatos com temas prioritários da saúde</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/fiocruz-lanca-carta-aos-candidatos-com-temas-prioritarios-da-saude</link>
+      <pubDate>Mon, 24 Aug 2026 17:23:51 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/fiocruz-lanca-carta-aos-candidatos-com-temas-prioritarios-da-saude#1000</guid>
+      <description>© Rodrigo Méxas/ Fiocruz Imagens
+Fundação Oswaldo Cruz (Fiocruz)
+divulgou nesta segunda-feira (24) uma
+a cargos eletivos em 2026 com contribuições pa...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/JlppRwvxN-UFQDi2tN4VuxassE0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/28/486e5eb1803e4b8207221f00bf60d54ac246cf30.jpg?itok=S7P3Fc-t&quot; alt=&quot;Fiocruz lança carta aos candidatos com temas prioritários da saúde&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rodrigo Méxas/ Fiocruz Imagens&lt;/p&gt;
+&lt;p&gt;Fundação Oswaldo Cruz (Fiocruz)&lt;/p&gt;
+&lt;p&gt;divulgou nesta segunda-feira (24) uma&lt;/p&gt;
+&lt;p&gt;a cargos eletivos em 2026 com contribuições para o debate sobre saúde e ciência.&lt;/p&gt;
+&lt;p&gt;A entidade, que tem entre as suas atribuições a produção de vacinas e medicamentos, aponta temas prioritários para orientar as discussões epropostas de campanha.&lt;/p&gt;
+&lt;p&gt;Entre os desafios em saúde citados pela Fiocruz estãoa desigualdade no acesso a serviços entre as regiões, as mudanças climáticas, a violência e a desinformação.&lt;/p&gt;
+&lt;p&gt;“Priorizar a saúde exige um olhar que transcende hospitais e medicamentos. Implica reconhecer que as condições de saúde são produzidas nas relações entre políticas públicas, formas de organização da vida social, produção do conhecimento, trabalho, ambiente e democracia”, aponta a entidade.&lt;/p&gt;
+&lt;p&gt;No documento, a entidade lista sete prioridades como um “convite ao diálogo” e contribuição ao debate público sobre os rumos do país nas&lt;/p&gt;
+&lt;p&gt;“O objetivo é oferecer prioridades para o país, dialogando com a sociedade, com as candidaturas e com as equipes que irão formular propostas para os próximos anos.”&lt;/p&gt;
+&lt;p&gt;Os sete pontos prioritários são:&lt;/p&gt;
+&lt;p&gt;• fortalecer o Sistema Único de Saúde (SUS) e melhorar o cuidado em todo o país;&lt;/p&gt;
+&lt;p&gt;• valorizar quem trabalha na saúde;&lt;/p&gt;
+&lt;p&gt;• produzir mais ciência, vacinas, medicamentos e tecnologias no Brasil;&lt;/p&gt;
+&lt;p&gt;• reduzir desigualdades e proteger as populações em maior situação de vulnerabilidade;&lt;/p&gt;
+&lt;p&gt;• preparar o país para os impactos da crise climática e novas emergências em saúde ou pandemias;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/fiocruz-lanca-carta-aos-candidatos-com-temas-prioritarios-da-saude&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rodrigo Méxas/ Fiocruz Imagens
+Fundação Oswaldo Cruz (Fiocruz)
+divulgou nesta segunda-feira (24) uma
+a cargos eletivos em 2026 com contribuições pa...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-24 13:44:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-24 13:44:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-24 13:44:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-24 13:44:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/JlppRwvxN-UFQDi2tN4VuxassE0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/28/486e5eb1803e4b8207221f00bf60d54ac246cf30.jpg?itok=S7P3Fc-t</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Anvisa e Roche cancelam registro de Elevidys para doença rara</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-e-roche-cancelam-registro-de-elevidys-para-doenca-rara</link>
+      <pubDate>Mon, 24 Aug 2026 17:23:51 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-e-roche-cancelam-registro-de-elevidys-para-doenca-rara#1001</guid>
+      <description>© Matheus Brasil/Ministério da Saúde
+A Agência Nacional de Vigilância Sanitária (Anvisa) e a empresa Roche comunicaram nesta segunda-feira (24)o canc...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0J1GnBBUE4nA-nTF81hen-gxxNE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/24/captura_de_tela_2026-08-24_133043_copy.jpg?itok=1jeXlazK&quot; alt=&quot;Anvisa e Roche cancelam registro de Elevidys para doença rara&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Matheus Brasil/Ministério da Saúde&lt;/p&gt;
+&lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) e a empresa Roche comunicaram nesta segunda-feira (24)o cancelamento do registro condicional do medicamento Elevidys® (delandistrogeno moxeparvoveque), a pedido da farmacêutica. O registro condicional é uma autorização temporária de uso ou comercialização de um produto no país.&lt;/p&gt;
+&lt;p&gt;A medida foipublicada no Diário Oficial da União&lt;/p&gt;
+&lt;p&gt;A interrupção foi adotada após o entendimento de que os dados disponíveis até este momento sobre o Elevidys disponibilizados pela empresa fabricante não atendem aos requisitos de regulação necessários para manutenção do registro condicional no país&lt;/p&gt;
+&lt;p&gt;A Anvisa esclarece que o cancelamento do registro não altera as obrigações da empresa relacionadas ao acompanhamento dos pacientes previamente expostos ao medicamento nos estudos clínicos e também nos programas existentes, incluindo os pacientes infantis brasileiros que receberam Elevidys® entre dezembro de 2024 e julho de 2025.&lt;/p&gt;
+&lt;p&gt;O medicamento Elevidys é indicado para pacientes com Distrofia Muscular de Duchenne (DMD)&lt;/p&gt;
+&lt;p&gt;. A doença genética rara compromete progressivamente a musculatura – o que causa perda de massa muscular e fraqueza – devido ao impedimento da produção adequada de distrofina, proteína considerada essencial para o funcionamento dos músculos.&lt;/p&gt;
+&lt;p&gt;O medicamento Elevidys® obteve registro condicional no Brasil em dezembro de 2024, em caráter excepcional, com exigência de apresentação posterior de dados complementares sobre eficácia e segurança no uso&lt;/p&gt;
+&lt;p&gt;No país, o Elevidys foi autorizado para tratamento da Distrofia Muscular de Duchenne (DMD) e em pacientes deambuladores, ou seja, em crianças que ainda mantêm a capacidade de andar de forma independente ou com auxílio, com idade entre 4 e 7 anos, e que atendiam a critérios clínicos e laboratoriais específicos à época.&lt;/p&gt;
+&lt;p&gt;Em julho de 2025, a comercialização do produto no Brasil foi suspensa pela agência reguladora por meio da Resolução (RE) 2.813/2025, no aguardo de novos estudos e respostas da farmacêutica para avaliar se os benefícios da medicação. A medida foi tomada em razão de relatos de casos fatais de insuficiência hepática aguda em pacientes tratados com o produto nos Estados Unidos.&lt;/p&gt;
+&lt;p&gt;Em junho deste ano, em uma audiência pública na Comissão de Defesa dos Direitos das Pessoas com Deficiência da Câmara dos Deputados foram relatados estes alertas graves de segurança do produto.&lt;/p&gt;
+&lt;p&gt;Desde a suspensão, a Anvisa diz terencaminhado uma série de exigências formais à empresa responsável pelo medicamento. Entre elas, estão a apresentação de dados consolidados de segurança, com foco em insuficiência hepática aguda.&lt;/p&gt;
+&lt;p&gt;Segundo a Anvisa, nesse período, a Roche apresentou informações complementares e manteve interação contínua com a Anvisa no contexto das obrigações regulatórias associadas ao registro condicional.&lt;/p&gt;
+&lt;p&gt;Em nota, a Roche diz que segue empenhada com o programa clínico do Elevidys® e com a apresentação das evidências necessárias.&lt;/p&gt;
+&lt;p&gt;As duas partes também reafirmaram o compromisso com a saúde da população e decisões regulatórias fundamentadas nas melhores evidências científicas disponíveis, especialmente, de terapias avançadas para o tratar doenças graves e raras.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-08/anvisa-e-roche-cancelam-registro-de-elevidys-para-doenca-rara&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Matheus Brasil/Ministério da Saúde
+A Agência Nacional de Vigilância Sanitária (Anvisa) e a empresa Roche comunicaram nesta segunda-feira (24)o canc...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-08-24 13:34:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-24 13:34:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-24 13:34:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-24 13:34:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/0J1GnBBUE4nA-nTF81hen-gxxNE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/24/captura_de_tela_2026-08-24_133043_copy.jpg?itok=1jeXlazK</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Irã anuncia descoberta de mais de 212 bilhões de metros cúbicos de gás</title>
+      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ira-anuncia-descoberta-de-mais-de-212-bilhoes-de-metros-cubicos-de-gas</link>
+      <pubDate>Mon, 24 Aug 2026 17:23:51 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ira-anuncia-descoberta-de-mais-de-212-bilhoes-de-metros-cubicos-de-gas#1002</guid>
+      <description>© Stringer/Reuters/ Proibido reprodução
+O Irã descobriu mais de 7,5 trilhões de pés cúbicos (212,4 bilhões de metros cúbicos) de gás em um campo no s...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/OmJcikkJTd0pw88iGst5MMgiKk8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/24/1787551913453_bn-uc506-2ypjy-gr-20170702085936-jpg_copy.jpg?itok=9uJ4d-Z9&quot; alt=&quot;Irã anuncia descoberta de mais de 212 bilhões de metros cúbicos de gás&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Stringer/Reuters/ Proibido reprodução&lt;/p&gt;
+&lt;p&gt;O Irã descobriu mais de 7,5 trilhões de pés cúbicos (212,4 bilhões de metros cúbicos) de gás em um campo no sul da província de Fars, segundo o ministro do Petróleo, Mohsen Paknejad, citado pela mídia estatal nesse domingo (23).&lt;/p&gt;
+&lt;p&gt;Considerando uma taxa de recuperação estimada, Paknejad afirmou que seria possível extrair cerca de 5,7bilhões de pés cúbicos de gás desse campo.&lt;/p&gt;
+&lt;p&gt;O Irã estimou sua produção pré-guerra em cerca de 650 milhões de metros cúbicos (mcm) por dia, o que equivale a cerca de 8,4 trilhões de pés cúbicos por ano.&lt;/p&gt;
+&lt;p&gt;Teerã, que vem realizando reparos em sua infraestrutura energética danificada durante a guerra com Israel e os Estados Unidos, enfrenta agora sanções planejadas pelo governo norte-americanoque podem sobrecarregar ainda mais sua economia.&lt;/p&gt;
+&lt;p&gt;Em julho, uma alta autoridade do governo afirmou que o Irã esperava restaurar cerca de 100 mcm por dia de capacidade de produção de gás natural “nos próximos meses”, depois que greves reduziram a produção em cerca de 230 mcm por dia desde o início da guerra, no final de fevereiro.&lt;/p&gt;
+&lt;p&gt;Paknejad afirmou que o gás descoberto é“doce”, o que significava que reduziria tanto os custos de desenvolvimento quanto os de operação.&lt;/p&gt;
+&lt;p&gt;* É proibida a reprodução deste conteúdo.&lt;/p&gt;
+&lt;p&gt;Plano de Augusto Cury reúne propostas para 18 áreas&lt;/p&gt;
+&lt;p&gt;Cristovão Bastos e Rogério Caetano no Cena Musical&lt;/p&gt;
+&lt;p&gt;TRE-SP nega recurso de Marçal e mantém inelegibilidade&lt;/p&gt;
+&lt;p&gt;Fiocruz lança carta aos candidatos com temas prioritários da saúde&lt;/p&gt;
+&lt;p&gt;Anvisa e Roche cancelam registro de Elevidys para doença rara&lt;/p&gt;
+&lt;p&gt;Irã anuncia descoberta de mais de 212 bilhões de metros cúbicos de gás&lt;/p&gt;
+&lt;p&gt;Conselho aprova pedido de recuperação extrajudicial da Braskem&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ira-anuncia-descoberta-de-mais-de-212-bilhoes-de-metros-cubicos-de-gas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Stringer/Reuters/ Proibido reprodução
+O Irã descobriu mais de 7,5 trilhões de pés cúbicos (212,4 bilhões de metros cúbicos) de gás em um campo no s...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-08-24 12:55:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-24 12:55:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-24 12:55:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-24 12:55:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/OmJcikkJTd0pw88iGst5MMgiKk8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/24/1787551913453_bn-uc506-2ypjy-gr-20170702085936-jpg_copy.jpg?itok=9uJ4d-Z9</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Conselho aprova pedido de recuperação extrajudicial da Braskem</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/conselho-aprova-pedido-de-recuperacao-extrajudicial-da-braskem</link>
-      <pubDate>Mon, 24 Aug 2026 16:26:28 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/conselho-aprova-pedido-de-recuperacao-extrajudicial-da-braskem#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/conselho-aprova-pedido-de-recuperacao-extrajudicial-da-braskem#1003</guid>
       <description>O Conselho de Administração da petroquímica Braskem aprovou, nesta segunda-feira (24), o ajuizamento de um pedido de recuperação extrajudicial.
 Em no...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/XE-otgnvrTGcRHZMTs4ahGKHNPI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_ja03083.jpg?itok=oSGJmelP&quot; alt=&quot;Conselho aprova pedido de recuperação extrajudicial da Braskem&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -38,16 +189,16 @@ Em no...</description>
 &lt;p&gt;[interessados], as quais permanecem vigentes e seguem sendo cumpridas normalmente, nos termos dos respectivos contratos”, assegura o diretor financeiro e de relações com investidores da Braskem, Carlos Augusto Machado Pereira Brandão, em comunicado ao mercado.&lt;/p&gt;
 &lt;p&gt;O pedido de recuperação extrajudicial, que ainda será protocolado, faz parte de um projeto de reestruturação que a companhia vem negociando com credores e investidores.&lt;/p&gt;
 &lt;p&gt;Em junho deste ano, a Braskem já tinha pedido proteção financeira judicial. A solicitação foi acolhida pela 2ª Vara de Falências e Recuperações Judiciais da Comarca da Capital do Estado de São Paulo, que suspendeu por 60 dias a execução de dívidas. O prazo terminaria amanhã (25).&lt;/p&gt;
-&lt;p&gt;Frio intenso no Sul e calor seco no Centro do Brasil&lt;/p&gt;
+&lt;p&gt;Plano de Augusto Cury reúne propostas para 18 áreas&lt;/p&gt;
+&lt;p&gt;Cristovão Bastos e Rogério Caetano no Cena Musical&lt;/p&gt;
+&lt;p&gt;TRE-SP nega recurso de Marçal e mantém inelegibilidade&lt;/p&gt;
+&lt;p&gt;Fiocruz lança carta aos candidatos com temas prioritários da saúde&lt;/p&gt;
+&lt;p&gt;Anvisa e Roche cancelam registro de Elevidys para doença rara&lt;/p&gt;
 &lt;p&gt;Irã anuncia descoberta de mais de 212 bilhões de metros cúbicos de gás&lt;/p&gt;
-&lt;p&gt;Conselho aprova pedido de recuperação extrajudicial da Braskem&lt;/p&gt;
-&lt;p&gt;Indonésia: número de mortos no terremoto chega a 100&lt;/p&gt;
-&lt;p&gt;Mercado reduz projeção para crescimento da economia em 2026&lt;/p&gt;
-&lt;p&gt;Frio perde intensidade no Sul e seca persiste no centro do país&lt;/p&gt;
-&lt;p&gt;Confira a agenda dos candidatos à Presidência nesta segunda-feira (24)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/conselho-aprova-pedido-de-recuperacao-extrajudicial-da-braskem&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Conselho aprova pedido de recuperação extrajudicial da Braskem&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/conselho-aprova-pedido-de-recuperacao-extrajudicial-da-braskem&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Conselho de Administração da petroquímica Braskem aprovou, nesta segunda-feira (24), o ajuizamento de um pedido de recuperação extrajudicial.
 Em no...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-08-24 11:15:00</wp:post_date>
       <wp:post_date_gmt>2026-08-24 11:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-24 11:15:00</wp:post_modified>
@@ -73,9 +224,9 @@ Em no...</excerpt:encoded>
     <item>
       <title>Indonésia: número de mortos no terremoto chega a 100</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100</link>
-      <pubDate>Mon, 24 Aug 2026 16:26:28 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100#1004</guid>
       <description>© REUTERS/Willy Kurniawan/Proibida reprodução
 O número de mortos no terremoto que atingiu o leste da Indonésia no último dia15chegou a 100 nestasegun...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/rM8yiYiCqll2tQKgYWf_68qFZO0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/15/whatsapp_image_2026-08-15_at_11.24.44.jpeg?itok=R4Ycks05&quot; alt=&quot;Indonésia: número de mortos no terremoto chega a 100&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -88,15 +239,15 @@ O número de mortos no terremoto que atingiu o leste da Indonésia no último di
 &lt;p&gt;A Indonésia, um arquipélago com 290 milhões de habitantes, está localizada no “Anel de Fogo do Pacífico”, uma áreasismicamente ativa onde as placas tectônicas se encontram e terremotos e erupções vulcânicas são frequentes.&lt;/p&gt;
 &lt;p&gt;* É proibida a reprodução deste conteúdo.&lt;/p&gt;
 &lt;p&gt;Matéria alterada para correção de informação no título. São 100 mortos e não 100 mil.&lt;/p&gt;
-&lt;p&gt;Frio intenso no Sul e calor seco no Centro do Brasil&lt;/p&gt;
-&lt;p&gt;Hongshan: o povo que pode ser a origem da China&lt;/p&gt;
-&lt;p&gt;Irã anuncia descoberta de mais de 212 bilhões de metros cúbicos de gás&lt;/p&gt;
-&lt;p&gt;Conselho aprova pedido de recuperação extrajudicial da Braskem&lt;/p&gt;
-&lt;p&gt;Indonésia: número de mortos no terremoto chega a 100&lt;/p&gt;
-&lt;p&gt;Mercado reduz projeção para crescimento da economia em 2026&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Plano de Augusto Cury reúne propostas para 18 áreas&lt;/p&gt;
+&lt;p&gt;Cristovão Bastos e Rogério Caetano no Cena Musical&lt;/p&gt;
+&lt;p&gt;TRE-SP nega recurso de Marçal e mantém inelegibilidade&lt;/p&gt;
+&lt;p&gt;Fiocruz lança carta aos candidatos com temas prioritários da saúde&lt;/p&gt;
+&lt;p&gt;Anvisa e Roche cancelam registro de Elevidys para doença rara&lt;/p&gt;
+&lt;p&gt;Irã anuncia descoberta de mais de 212 bilhões de metros cúbicos de gás&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Willy Kurniawan/Proibida reprodução
 O número de mortos no terremoto que atingiu o leste da Indonésia no último dia15chegou a 100 nestasegun...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-24 09:55:00</wp:post_date>
       <wp:post_date_gmt>2026-08-24 09:55:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-24 09:55:00</wp:post_modified>
@@ -122,9 +273,9 @@ O número de mortos no terremoto que atingiu o leste da Indonésia no último di
     <item>
       <title>Mercado reduz projeção para crescimento da economia em 2026</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mercado-reduz-projecao-para-crescimento-da-economia-em-2026</link>
-      <pubDate>Mon, 24 Aug 2026 16:26:28 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mercado-reduz-projecao-para-crescimento-da-economia-em-2026#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mercado-reduz-projecao-para-crescimento-da-economia-em-2026#1005</guid>
       <description>© Marcello Casal Jr/Agência Brasil/Arquivo
 Analistas do mercado financeiro reduziram de 1,98% para 1,95% a projeção de crescimento da economia brasil...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MiwCXKe3onh83GFYfido4E-4psk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/economia_ilustracao-2.jpg?itok=6PhQkWkC&quot; alt=&quot;Mercado reduz projeção para crescimento da economia em 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -145,7 +296,7 @@ Analistas do mercado financeiro reduziram de 1,98% para 1,95% a projeção de cr
 &lt;p&gt;O Boletim Focus reúne semanalmente as expectativas de instituições financeiras para os principais indicadores da economia brasileira e serve como referência para o acompanhamento do cenário econômico pelo Banco Central.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/mercado-reduz-projecao-para-crescimento-da-economia-em-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal Jr/Agência Brasil/Arquivo
 Analistas do mercado financeiro reduziram de 1,98% para 1,95% a projeção de crescimento da economia brasil...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-24 09:51:00</wp:post_date>
       <wp:post_date_gmt>2026-08-24 09:51:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-24 09:51:00</wp:post_modified>
@@ -171,9 +322,9 @@ Analistas do mercado financeiro reduziram de 1,98% para 1,95% a projeção de cr
     <item>
       <title>Frio perde intensidade no Sul e seca persiste no centro do país</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/frio-perde-intensidade-no-sul-e-seca-persiste-no-centro-do-pais</link>
-      <pubDate>Mon, 24 Aug 2026 16:26:28 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/frio-perde-intensidade-no-sul-e-seca-persiste-no-centro-do-pais#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/frio-perde-intensidade-no-sul-e-seca-persiste-no-centro-do-pais#1006</guid>
       <description>Após a passagem de uma frente fria associada a um ciclone extratropical, o frio começa a perde intensidade nesta segunda-feira (24), na Região Sul do...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/x8pXgJKlztMzr9XsjidF7Gm6grY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/29/pint1035.jpg?itok=lZu2Y93d&quot; alt=&quot;Frio perde intensidade no Sul e seca persiste no centro do país&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Após a passagem de uma frente fria associada a um ciclone extratropical, o frio começa a perde intensidade nesta segunda-feira (24), na Região Sul do país. Oaviso laranja de perigo para baixa umidade relativa do ar, de até 12%, permanece ativo para uma área que alcança 11 estados:Piauí,Maranhão,Pernambuco,Bahia, Tocantins,Pará,Minas Gerais,Mato Grosso,Mato Grosso do Sul,Goiás eSão Paulo&lt;/p&gt;
@@ -192,7 +343,7 @@ Analistas do mercado financeiro reduziram de 1,98% para 1,95% a projeção de cr
 &lt;p&gt;. No centro e noroeste de Minas Gerais, o céu fica com poucas nuvens.&lt;/p&gt;
 &lt;p&gt;A temperatura mínima nas capitais é de 14°C em São Paulo e a máxima de 32°C em Belo Horizonte.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/frio-perde-intensidade-no-sul-e-seca-persiste-no-centro-do-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Após a passagem de uma frente fria associada a um ciclone extratropical, o frio começa a perde intensidade nesta segunda-feira (24), na Região Sul do...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-24 09:13:00</wp:post_date>
       <wp:post_date_gmt>2026-08-24 09:13:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-24 09:13:00</wp:post_modified>
@@ -218,9 +369,9 @@ Analistas do mercado financeiro reduziram de 1,98% para 1,95% a projeção de cr
     <item>
       <title>Confira a agenda dos candidatos à Presidência nesta segunda-feira (24)</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-segunda-feira-24</link>
-      <pubDate>Mon, 24 Aug 2026 16:26:28 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-segunda-feira-24#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-segunda-feira-24#1007</guid>
       <description>A agenda dos candidatos à Presidência da República nesta segunda-feira (24) inclui sabatinas e entrevistas à imprensa, além de atividades de preparaç...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mHxHjf7pDxiKyHWFE1hh6tGdJMg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/18/banner_agenda_-_1170x700.png?itok=t-rMkLxv&quot; alt=&quot;Confira a agenda dos candidatos à Presidência nesta segunda-feira (24)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A agenda dos candidatos à Presidência da República nesta segunda-feira (24) inclui sabatinas e entrevistas à imprensa, além de atividades de preparação para a campanha. Também estão previstas ações de comunicação e&lt;/p&gt;
@@ -239,7 +390,7 @@ Analistas do mercado financeiro reduziram de 1,98% para 1,95% a projeção de cr
 &lt;p&gt;Após decisão do Tribunal Superior Eleitoral (TSE), o candidato&lt;/p&gt;
 &lt;p&gt;está proibido de fazer campanha eleitoral, comparecer a debates e participar do horário eleitoral no rádio e na TV.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-candidatos-presidencia-nesta-segunda-feira-24&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A agenda dos candidatos à Presidência da República nesta segunda-feira (24) inclui sabatinas e entrevistas à imprensa, além de atividades de preparaç...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-24 09:11:00</wp:post_date>
       <wp:post_date_gmt>2026-08-24 09:11:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-24 09:11:00</wp:post_modified>
@@ -265,9 +416,9 @@ Analistas do mercado financeiro reduziram de 1,98% para 1,95% a projeção de cr
     <item>
       <title>COP17 entra em semana decisiva com missão de destravar financiamento</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cop17-entra-em-semana-decisiva-com-missao-de-destravar-financiamento</link>
-      <pubDate>Mon, 24 Aug 2026 16:26:28 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cop17-entra-em-semana-decisiva-com-missao-de-destravar-financiamento#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cop17-entra-em-semana-decisiva-com-missao-de-destravar-financiamento#1008</guid>
       <description>17ª Conferência das Nações Unidas de Combate à Desertificação (COP17)
 entrou na última e decisiva semana de negociações em Ulaanbaatar, capital da Mo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UjViVSZfb6gWcuZroFh494HL5c8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/24/55484710735_cbb91e9342_k.jpg?itok=4C61d3mc&quot; alt=&quot;COP17 entra em semana decisiva com missão de destravar financiamento&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -288,7 +439,7 @@ entrou na última e decisiva semana de negociações em Ulaanbaatar, capital da 
 &lt;p&gt;A especialista em sustentabilidade no Mecanismo Global da UNCCD Sarah Toumiafirmou que empresas começam a enxergar que também sentirão os impactos ambientais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/cop17-entra-em-semana-decisiva-com-missao-de-destravar-financiamento&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>17ª Conferência das Nações Unidas de Combate à Desertificação (COP17)
 entrou na última e decisiva semana de negociações em Ulaanbaatar, capital da Mo...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-24 09:03:00</wp:post_date>
       <wp:post_date_gmt>2026-08-24 09:03:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-24 09:03:00</wp:post_modified>
@@ -314,9 +465,9 @@ entrou na última e decisiva semana de negociações em Ulaanbaatar, capital da 
     <item>
       <title>Saiba quais são as atribuições dos governadores e vice-governadores</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/saiba-quais-sao-atribuicoes-dos-governadores-e-vice-governadores</link>
-      <pubDate>Mon, 24 Aug 2026 16:26:28 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 17:23:51 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/saiba-quais-sao-atribuicoes-dos-governadores-e-vice-governadores#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/saiba-quais-sao-atribuicoes-dos-governadores-e-vice-governadores#1009</guid>
       <description>Nas eleições de 2026, os brasileiros vão escolher osgovernadores e vice-governadores das 27 unidades federativas. Conhecer as atribuições desses carg...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL&quot; alt=&quot;Saiba quais são as atribuições dos governadores e vice-governadores&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Nas eleições de 2026, os brasileiros vão escolher osgovernadores e vice-governadores das 27 unidades federativas. Conhecer as atribuições desses cargos é importante para entender as responsabilidades dos futuros ocupantes do Poder Executivo estadual.&lt;/p&gt;
@@ -335,7 +486,7 @@ entrou na última e decisiva semana de negociações em Ulaanbaatar, capital da 
 &lt;p&gt;Nas próximas eleições serão escolhidas 27 chapas para governador e vice-governador dos estados e do Distrito Federal.&lt;/p&gt;
 &lt;p&gt;O primeiro turno está marcado para 4 de outubro. Se houver segundo turno, será em 25 de outubro.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/saiba-quais-sao-atribuicoes-dos-governadores-e-vice-governadores&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Nas eleições de 2026, os brasileiros vão escolher osgovernadores e vice-governadores das 27 unidades federativas. Conhecer as atribuições desses carg...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-24 09:00:00</wp:post_date>
       <wp:post_date_gmt>2026-08-24 09:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-24 09:00:00</wp:post_modified>
@@ -356,152 +507,6 @@ entrou na última e decisiva semana de negociações em Ulaanbaatar, capital da 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Justiça mantém prisão de entregadores envolvidos na morte de ciclista</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-mantem-prisao-de-entregadores-envolvidos-na-morte-de-ciclista</link>
-      <pubDate>Mon, 24 Aug 2026 16:26:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-mantem-prisao-de-entregadores-envolvidos-na-morte-de-ciclista#1007</guid>
-      <description>A Justiça do Rio manteve neste domingo (23), em audiência de custódia, a prisão temporária dos entregadores por aplicativo Felipe Eduardo dos Santos ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Mh6ZRwMDK4tHhJTg7joEURdcaAs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/segurancas_de_rua_sao_presos_por_agredir_ciclista_ate_a_morte_no_rio.jpg?itok=QUMIMZsp&quot; alt=&quot;Justiça mantém prisão de entregadores envolvidos na morte de ciclista&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Justiça do Rio manteve neste domingo (23), em audiência de custódia, a prisão temporária dos entregadores por aplicativo Felipe Eduardo dos Santos Silva, 23 anos e de Ailton José da Silva, de 24 anos, envolvidos na morte do ciclista Cláudio Rafael Landeiro Moreira, 37 anos, em Copacabana, zona sul do Rio.&lt;/p&gt;
-&lt;p&gt;Ele foiespancado até a morte por ter sido confundido com um ladrão de bicicleta.&lt;/p&gt;
-&lt;p&gt;A audiência de Felipe Silva foi conduzida pela juíza Laura Noal Garcia. Na decisão, a magistrada escreveu que “o mandado de prisão foi regularmente expedido, permanecia válido e não tinha sido revogado pelo juízo responsável pela investigação”. Com isso, determinou a comunicação da prisão à1ªVara Criminal da Capital.&lt;/p&gt;
-&lt;p&gt;No caso do outro entregador, Ailton da Silva, a sessão foi presidida pelo juiz Rafael de Almeida Rezende. Na decisão, o magistrado disseque “a prisão temporária foi decretada por 30 dias e o mandado também estava dentro do prazo de validade”. O juiz determinou que o cumprimento da prisão temporária fosse comunicado ao juízo natural do processo.&lt;/p&gt;
-&lt;p&gt;Os seguranças de rua, Davi Santos Machado e Jorge Luiz Ricardo Dias, também tiveram as prisões temporárias mantidasem audiência de custódianosábado (22).&lt;/p&gt;
-&lt;p&gt;A morte de Cláudio Landeiro, por espancamento, ocorreu na madrugada do dia 12 deste mês, após sessão de espancamento com porrete e chutes nas costas e na cabeça. A vítima saiu de casa, em Botafogo, por volta de 22h30, pedalando a bicicleta da irmã. Antes das 23h, chegou àRua Barata Ribeiro, em Copacabana. Parou a bicicleta e entrou numa loja de conveniência para pedir um cigarro.&lt;/p&gt;
-&lt;p&gt;Saiu e ficou parado na esquina, quando apareceu o segurança de ruaDavi Santos Machado com um porrete na mão, iniciando um interrogatório. Perguntou se a bike era de Cláudio. A vítima disse que não. Mas por sofrer de problemas psicológicos, não conseguiu completar a frase e dizer que a bike não era dele, mas de sua irmã, que mora com ele.&lt;/p&gt;
-&lt;p&gt;Dali em diante foi só sofrimento. Teve a bicicleta tomada à força pelo outro segurança, Jorge Luiz Dias. Ao tentarimpedir que a bike fosse levada, tomou a primeira paulada desferida por Davi Machado.&lt;/p&gt;
-&lt;p&gt;Sem a bicicleta, a vítima saiu andando e sentou na portaria de um prédio na Rua Felipe de Oliveira, paralela àBarata Ribeiro.&lt;/p&gt;
-&lt;p&gt;Ali foi cercado por Davi edois entregadores. Em seis minutos de gravação de uma das câmeras de segurança da rua, a vítima levou 57 golpes de porrete desferidos pelo segurança, a maioria na cabeça. Ainda levou chutes na cabeça e nas costas.&lt;/p&gt;
-&lt;p&gt;Depois, os agressores foram embora, deixando a vítima caída no chão, sem forças para levantar.&lt;/p&gt;
-&lt;p&gt;Cerca de 30 minutos depois, chegouuma ambulância dos bombeiros e levouCláudio Rafael para o Hospital Miguel Couto. Na madrugada do dia 12,ele não resistiuaos ferimentos e morreu.&lt;/p&gt;
-&lt;p&gt;Em depoimento à polícia, o segurança Davi Machado não soube explicar por que agiu com tantaviolência e disse “não ter certeza se a bicicleta usada pela vítima era furtada”. Ele ainda filmou com o celular a vítima caída no chão. Um dos entregadores fez o mesmo e distribuiu as imagens para outros colegase moradores do bairro.&lt;/p&gt;
-&lt;p&gt;O segurança Jorge Luiz não participou da sessão de espancamento, mas também não acionou os bombeiros para socorrer a vítima que estava caída no chão.&lt;/p&gt;
-&lt;p&gt;A polícia procura um quinto homem que parou no local, quando Cláudio estava apanhando e desferiu um chute na cabeça da vítima. Ele ainda não foi identificado e permanece foragido.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/justica-mantem-prisao-de-entregadores-envolvidos-na-morte-de-ciclista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Justiça do Rio manteve neste domingo (23), em audiência de custódia, a prisão temporária dos entregadores por aplicativo Felipe Eduardo dos Santos ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-08-24 08:28:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-24 08:28:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-24 08:28:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-24 08:28:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Mh6ZRwMDK4tHhJTg7joEURdcaAs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/segurancas_de_rua_sao_presos_por_agredir_ciclista_ate_a_morte_no_rio.jpg?itok=QUMIMZsp</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Beneficiários com NIS de final 5 recebem Bolsa Família de agosto</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/beneficiarios-com-nis-de-final-5-recebem-bolsa-familia-de-agosto</link>
-      <pubDate>Mon, 24 Aug 2026 16:26:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/beneficiarios-com-nis-de-final-5-recebem-bolsa-familia-de-agosto#1008</guid>
-      <description>A Caixa Econômica Federal paga nesta segunda-feira (24) a parcela de agosto do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) d...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qIRlNfucS2sTBis_THvM2qhzgqw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/whatsapp_image_2026-08-21_at_20.30.10.jpeg?itok=KAK2ZgLs&quot; alt=&quot;Beneficiários com NIS de final 5 recebem Bolsa Família de agosto&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Caixa Econômica Federal paga nesta segunda-feira (24) a parcela de agosto do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 5. Neste mês, 19,3 milhões de família serão beneficiadas, com o valor médio do benefício em R$ 678,35.&lt;/p&gt;
-&lt;p&gt;Os moradores de 186 municípios de sete estados receberam o crédito no último dia 18, independentemente do número final do NIS.&lt;/p&gt;
-&lt;p&gt;O pagamento unificado beneficiou localidades em situação de emergência ou em estado de calamidade pública nos seguintes estados: Amazonas (trêsmunicípios), Bahia (15), Paraíba (31), Paraná (cinco), Rio Grande do Norte (122), Roraima (seis) e Sergipe (quatro).&lt;/p&gt;
-&lt;p&gt;A lista dos municípios com pagamento unificado está disponível&lt;/p&gt;
-&lt;p&gt;O valor mínimo corresponde a R$ 600. Além do benefício mínimo, há o pagamento de três adicionais&lt;/p&gt;
-&lt;p&gt;. O Benefício Variável Familiar Nutriz paga seis parcelas de R$ 50 a mães de bebês de até 6 meses de idade, para garantir a alimentação da criança. O Bolsa Família também paga um acréscimo de R$ 50 a famílias com gestantes e filhos de 7 a 18 anos e outro, de R$ 150, a famílias com crianças de até 6 anos.&lt;/p&gt;
-&lt;p&gt;No modelo tradicional do Bolsa Família, o pagamento ocorre nos últimos dez dias úteis de cada mês.&lt;/p&gt;
-&lt;p&gt;O beneficiário poderá consultar informações sobre as datas de pagamento, o valor do benefício e a composição das parcelas no aplicativo Caixa Tem, usado para acompanhar as contas poupança digitais do banco.&lt;/p&gt;
-&lt;p&gt;Além do benefício integral, há o pagamento da regra de proteção. Em vigor desde junho de 2023, essa regra permite que famílias cujos membros consigam emprego e melhorem a renda recebam 50% do benefício a que teriam direito por até dois anos, desde que cada integrante receba o equivalente a até meio salário mínimo.&lt;/p&gt;
-&lt;p&gt;Desde junho do ano passado, o tempo de permanência na regra de proteção&lt;/p&gt;
-&lt;p&gt;de dois para um ano. No entanto, quem entrou na regra até maio de 2025 continua a receber metade do benefício por dois anos.&lt;/p&gt;
-&lt;p&gt;Os beneficiários do Bolsa Família não têm mais o desconto do Seguro Defeso desde 2024,. A mudança foi estabelecida pela&lt;/p&gt;
-&lt;p&gt;, que resgatou o Programa Bolsa Família (PBF). O Seguro Defeso é pago a pessoas que sobrevivem exclusivamente da pesca artesanal e que não podem exercer a atividade durante o período da piracema (reprodução dos peixes).&lt;/p&gt;
-&lt;p&gt;Frio intenso no Sul e calor seco no Centro do Brasil&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/beneficiarios-com-nis-de-final-5-recebem-bolsa-familia-de-agosto&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Caixa Econômica Federal paga nesta segunda-feira (24) a parcela de agosto do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) d...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-08-24 08:05:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-24 08:05:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-24 08:05:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-24 08:05:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/qIRlNfucS2sTBis_THvM2qhzgqw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/whatsapp_image_2026-08-21_at_20.30.10.jpeg?itok=KAK2ZgLs</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Saiba mais sobre acordo para facilitar comércio eletrônico no Mercosul</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/saiba-mais-sobre-acordo-para-facilitar-comercio-eletronico-no-mercosul</link>
-      <pubDate>Mon, 24 Aug 2026 16:26:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/saiba-mais-sobre-acordo-para-facilitar-comercio-eletronico-no-mercosul#1009</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-O Brasil promulgou, nesta segunda-feira (24), o
-Acordo sobre Comércio Eletrônico do Mercosul
-, assinado em 2021 pel...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hrRzDF8OiRNOKPi4QqPjlqYJSLc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/16/_raf1449.jpg?itok=FQ2mexdW&quot; alt=&quot;Saiba mais sobre acordo para facilitar comércio eletrônico no Mercosul&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O Brasil promulgou, nesta segunda-feira (24), o&lt;/p&gt;
-&lt;p&gt;Acordo sobre Comércio Eletrônico do Mercosul&lt;/p&gt;
-&lt;p&gt;, assinado em 2021 pelos países integrantes do bloco.Entre os principais pontos está a proibição da cobrança de direitos alfandegários sobre transaçõeseletrônicas entre pessoas doBrasil, Argentina, Paraguai e Uruguai. Proteção de dados pessoais e cooperação em segurança cibernética também estão entre ospontos abordados.&lt;/p&gt;
-&lt;p&gt;O Decreto nº 13.104, publicado no&lt;/p&gt;
-&lt;p&gt;, incorpora às leis brasileiras normas voltadas ao desenvolvimento e à regulamentação do comércio digital no&lt;/p&gt;
-&lt;p&gt;. A norma tem o propósito de reduzir barreiras às transações virtuais.&lt;/p&gt;
-&lt;p&gt;O texto também prevê que os governos adotem medidas para facilitar o comércio digital, ampliar a transparência regulatória e evitar normas que imponham restrições indevidas às atividades eletrônicas. O acordo estabelece ainda o reconhecimento da validade jurídica das assinaturas eletrônicas dos países do bloco, com o objetivo de facilitar negócios e operações transfronteiriças.&lt;/p&gt;
-&lt;p&gt;De acordo com o decreto, os países se comprometem a manter legislações e medidas administrativas para resguardar informações pessoais dos usuários do comércio eletrônico, além de trocar experiências e informações sobre proteção de dados.&lt;/p&gt;
-&lt;p&gt;No campo da circulação de dados, o acordo determina que os países permitam a transferência transfronteiriça de informações necessárias para atividades comerciais, respeitadas as regras de proteção de dados pessoais.&lt;/p&gt;
-&lt;p&gt;A publicação também veda, em regra, a exigência de que empresas estrangeiras mantenham servidores ou instalações de armazenamento de dados em determinado território como condição para operar em nível local.&lt;/p&gt;
-&lt;p&gt;O acordo orienta os países a adotarem medidas para proteger consumidores contra mensagens eletrônicas enviadas sem consentimento, exigindo mecanismos que permitam ao usuário interromper o recebimento dessas comunicações.&lt;/p&gt;
-&lt;p&gt;As partes também assumiramcompromissos de cooperação em áreas como:&lt;/p&gt;
-&lt;p&gt;comércio digital para micro, pequenas e médias empresas;&lt;/p&gt;
-&lt;p&gt;compartilhamento de informações sobre regulamentação e estatísticas do setor.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/saiba-mais-sobre-acordo-para-facilitar-comercio-eletronico-no-mercosul&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-O Brasil promulgou, nesta segunda-feira (24), o
-Acordo sobre Comércio Eletrônico do Mercosul
-, assinado em 2021 pel...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-24 07:53:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-24 07:53:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-24 07:53:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-24 07:53:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/hrRzDF8OiRNOKPi4QqPjlqYJSLc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/16/_raf1449.jpg?itok=FQ2mexdW</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
