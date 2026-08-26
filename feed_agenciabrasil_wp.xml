@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 13:47:28 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,207 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Prévia da inflação fica em -0,40%, a menor desde agosto de 2022</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/previa-da-inflacao-fica-em-040-menor-desde-agosto-de-2022</link>
+      <pubDate>Wed, 26 Aug 2026 13:47:28 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/previa-da-inflacao-fica-em-040-menor-desde-agosto-de-2022#1000</guid>
+      <description>© Marcelo Camargo/Agência Brasil
+O desconto do Bônus de Itaipu na conta de luz e os preços dos alimentos ajudaram a jogar a prévia da inflação de ago...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/KB8UteEIrhhd4z7YMadXEMzEKZc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1016075-28042016-capa-img_1454a-.jpg?itok=_AX71av1&quot; alt=&quot;Prévia da inflação fica em -0,40%, a menor desde agosto de 2022&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O desconto do Bônus de Itaipu na conta de luz e os preços dos alimentos ajudaram a jogar a prévia da inflação de agosto para baixo e fazer o índice fechar o mês em -0,40%, a menor desde agosto de 2022, quando marcou -0,73%.&lt;/p&gt;
+&lt;p&gt;Os dados fazem parte do Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15),&lt;/p&gt;
+&lt;p&gt;divulgado nesta quarta-feira (26) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).&lt;/p&gt;
+&lt;p&gt;Em julho o indicador tinha marcado 0,06%. Com o resultado de agosto, o IPCA-15 acumula 4,24% em 12 meses.&lt;/p&gt;
+&lt;p&gt;Dos nove grupos de produtos e serviços apurados pelo IBGE, cinco apresentaram deflação no mês:&lt;/p&gt;
+&lt;p&gt;Alimentação e bebidas: -0,57% (impacto de -0,12 ponto percentual)&lt;/p&gt;
+&lt;p&gt;Artigos de residência: 0,04% (0 p.p.)&lt;/p&gt;
+&lt;p&gt;Saúde e cuidados pessoais: 0,40% (0,05 p.p.)&lt;/p&gt;
+&lt;p&gt;Despesas pessoais: 0,66% (0,07 p.p.)&lt;/p&gt;
+&lt;p&gt;O preço da energia elétrica residencial foi o subitem que mais puxou a prévia da inflação para baixo, recuando 6,25% (-0,26 p.p.). A explicação está no Bônus de Itaipu, desconto que consumidores receberam na conta de luz.&lt;/p&gt;
+&lt;p&gt;O grupo alimentação e bebidas (-0,57%) foi influenciado pela alimentação no domicílio, que ficou 0,97% mais barata.&lt;/p&gt;
+&lt;p&gt;Veja os alimentos que mais caíram de preço:&lt;/p&gt;
+&lt;p&gt;A deflação no grupo transportes foi puxada principalmente pelo preço da passagem aérea, que recuou 13,30% no mês. Os combustíveis também contribuíram (-1,43%). Foram registradas quedas no etanol (-3,63%), na gasolina (-1,23%) e no óleo diesel (-0,71%).&lt;/p&gt;
+&lt;p&gt;O IPCA-15 tem basicamente a mesma metodologia do IPCA, a chamada inflação oficial, que serve de base para a política de meta de inflação do governo: 3% no acumulado em 12 meses, com margem de tolerância de 1,5 p.p. para mais ou para menos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/previa-da-inflacao-fica-em-040-menor-desde-agosto-de-2022&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
+O desconto do Bônus de Itaipu na conta de luz e os preços dos alimentos ajudaram a jogar a prévia da inflação de ago...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-26 10:01:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-26 10:01:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-26 10:01:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-26 10:01:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/KB8UteEIrhhd4z7YMadXEMzEKZc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1016075-28042016-capa-img_1454a-.jpg?itok=_AX71av1</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Anvisa atualiza regras de segurança sanitária para aviões e aeroportos</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/anvisa-atualiza-regras-de-seguranca-sanitaria-para-avioes-e-aeroportos</link>
+      <pubDate>Wed, 26 Aug 2026 13:47:28 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/anvisa-atualiza-regras-de-seguranca-sanitaria-para-avioes-e-aeroportos#1001</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+Agência Nacional de Vigilância Sanitária (Anvisa)
+atualizou regras de segurança sanitária para aviões e aeroportos ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zTWBe1hhUlVrZ4G3-wArRLN402A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/12/img_3623.jpg?itok=PD34A04B&quot; alt=&quot;Anvisa atualiza regras de segurança sanitária para aviões e aeroportos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Agência Nacional de Vigilância Sanitária (Anvisa)&lt;/p&gt;
+&lt;p&gt;atualizou regras de segurança sanitária para aviões e aeroportos no Brasil.&lt;/p&gt;
+&lt;p&gt;publicada nesta quarta-feira (26) prevê medidas relacionadas à qualidade da água, limpeza, ao gerenciamento de resíduos, controle de pragas e atendimento de saúde em aeroportos. Cada área deverá ter plano de gestão específico.&lt;/p&gt;
+&lt;p&gt;O textosubstitui regulamentação vigente desde 2002e busca adequar os procedimentos sanitários do setor aeroportuário às exigências atuais de vigilância em saúde. A Resolução nº 1.038 entra em vigor em 150 dias.&lt;/p&gt;
+&lt;p&gt;Entre as principais novidades está a obrigatoriedade da implantação de sistemas de gestão da qualidadevoltados à segurança sanitária. A exigência valerá para aeroportos das classes III e IV – como o de Guarulhos, Brasília e o Galeão, por exemplo – e para empresas de transporte regular de passageiros que operem aeronaves com banheiros ou instalações hidráulicas.&lt;/p&gt;
+&lt;p&gt;O Sistemade Gestão da Qualidade deverá conter:&lt;/p&gt;
+&lt;p&gt;políticas de segurança sanitária;&lt;/p&gt;
+&lt;p&gt;capacitação periódica de trabalhadores.&lt;/p&gt;
+&lt;p&gt;As organizaçõesterão prazo de 24 meses para implementar integralmente as medidas, sendo que as áreas de gestão documental e treinamento deverão estar estruturadas em até 12 meses.&lt;/p&gt;
+&lt;p&gt;limpeza e desinfecção do terminal;&lt;/p&gt;
+&lt;p&gt;gerenciamento de resíduos sólidos;&lt;/p&gt;
+&lt;p&gt;manutenção da qualidade da água consumida a bordo;&lt;/p&gt;
+&lt;p&gt;controle sanitário dos alimentos servidos durante os voos;&lt;/p&gt;
+&lt;p&gt;limpeza e desinfecção das aeronaves;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/anvisa-atualiza-regras-de-seguranca-sanitaria-para-avioes-e-aeroportos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+Agência Nacional de Vigilância Sanitária (Anvisa)
+atualizou regras de segurança sanitária para aviões e aeroportos ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-08-26 09:37:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-26 09:37:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-26 09:37:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-26 09:37:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/zTWBe1hhUlVrZ4G3-wArRLN402A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/12/img_3623.jpg?itok=PD34A04B</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Centro-Oeste tem três alertas ativos para chuvas e baixa umidade</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/centro-oeste-tem-tres-alertas-ativos-para-chuvas-e-baixa-umidade</link>
+      <pubDate>Wed, 26 Aug 2026 13:47:28 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/centro-oeste-tem-tres-alertas-ativos-para-chuvas-e-baixa-umidade#1002</guid>
+      <description>O Centro-Oeste, Sudeste e norte da Região Sul permanecem nesta quarta-feira (26) com alerta amarelo de perigo potencial para chuvas e trovoadas, info...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/gr_OAXM7_vu-WH0BCRltiNF5vFw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/05/0d9a9896_0.jpg?itok=heDF-jqL&quot; alt=&quot;Centro-Oeste tem três alertas ativos para chuvas e baixa umidade&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Centro-Oeste, Sudeste e norte da Região Sul permanecem nesta quarta-feira (26) com alerta amarelo de perigo potencial para chuvas e trovoadas, informa o Instituto Nacional de Meteorologia (Inmet).&lt;/p&gt;
+&lt;p&gt;Pode ocorrer tempestades especialmente no Mato Grosso do Sul, Paraná, São Paulo, Rio de Janeiro, Minas Gerais e Espírito Santo.&lt;/p&gt;
+&lt;p&gt;No Centro-Oeste do país há três alertas ativos. Um deles é amarelo de perigo potencial para tempestade no centro-sul do Mato Grosso do Sul, incluindo a capital Campo Grande.&lt;/p&gt;
+&lt;p&gt;Os outros dois avisos são para baixa umidade do ar, sendo um laranja de perigo no leste e nordeste de Mato Grosso, noroeste e norte de Goiás e outro amarelo de perigo potencial nas demais áreas de Mato Grosso e Goiás, e no Distrito Federal.&lt;/p&gt;
+&lt;p&gt;A temperatura mínima prevista é de 19 graus Celsius (°C) em Campo Grande e Brasília. A máxima chega a 39°C em Cuiabá.&lt;/p&gt;
+&lt;p&gt;Na Região Norte, o aviso laranja de perigo para baixa umidade do ar chega ao centro-sul de Tocantins, incluindo a capital Palmas. Há previsão de pancada de chuva isolada no norte do Amazonas e do Pará e em Roraima.&lt;/p&gt;
+&lt;p&gt;Já no Acre, Rondônia e demais áreas do Amazonas e no Amapá pode ocorrer chuva isolada.&lt;/p&gt;
+&lt;p&gt;Os termômetros nas capitais marcam mínima de 22°C em Palmas e a máxima chega a 38°C em Porto Velho.&lt;/p&gt;
+&lt;p&gt;No Nordeste brasileiro, o dia é de poucas nuvens, com alerta laranja de perigo para baixa umidade do ar no extremo sul do Maranhão, sul do Piauí e noroeste da Bahia. A umidade melhora em direção ao centro do Maranhão, grande parte do Piauí, centro-sul do Ceará, oeste do Rio Grande do Norte, da Paraíba e de Pernambuco, e para as regiões norte e central da Bahia, onde o aviso é amarelo de perigo potencial.&lt;/p&gt;
+&lt;p&gt;Há possibilidade de chuva isolada no leste de Sergipe, Alagoas, Pernambuco, Paraíba e Rio Grande do Norte. No litoral da Bahia, a chuva isolada pode ocorrer durante a noite.&lt;/p&gt;
+&lt;p&gt;A temperatura entre as capitais será de 19°C a mínima, e 37°C a máxima, ambas em Teresina.&lt;/p&gt;
+&lt;p&gt;No Sudeste instabilidades provocam chuvas isoladas em São Paulo, Rio de Janeiro, triângulo mineiro e sul de Minas Gerais, pela manhã.&lt;/p&gt;
+&lt;p&gt;Durante a tarde, nessas regiões podem ocorrer chuvas mais intensas com trovoadas, inclusive no Espírito Santo. Durante a noite pode chover em todas as capitais da região.&lt;/p&gt;
+&lt;p&gt;A temperatura mínima será de 15°C em São Paulo, e a máxima pode chegar a 30°C em Belo Horizonte.&lt;/p&gt;
+&lt;p&gt;A Região Sul também está sob o alerta amarelo de perigo potencial para chuvas e trovoadas principalmente no Paraná e no centro-norte de Santa Catarina. No extremo sul do Rio Grande do Sul, divisa com o Uruguai, a nebulosidade aumenta com possibilidade de chuva isolada. Nas demais áreas o dia será de sol e poucas nuvens.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-08/centro-oeste-tem-tres-alertas-ativos-para-chuvas-e-baixa-umidade&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Centro-Oeste, Sudeste e norte da Região Sul permanecem nesta quarta-feira (26) com alerta amarelo de perigo potencial para chuvas e trovoadas, info...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-08-26 09:17:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-26 09:17:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-26 09:17:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-26 09:17:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/gr_OAXM7_vu-WH0BCRltiNF5vFw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/05/0d9a9896_0.jpg?itok=heDF-jqL</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-nascidos-em-maio-e-junho-recebem-parcela-nesta-quarta</link>
+      <pubDate>Wed, 26 Aug 2026 13:47:28 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-nascidos-em-maio-e-junho-recebem-parcela-nesta-quarta#1003</guid>
+      <description>© Joel Rodrigues/Agência Brasíli
+Os beneficiários do programa Pé-de-Meia de 2026 que nasceram em maio e junho recebem nesta quarta-feira (26) mais um...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Tu1V3PVwCTgF2vCrYqQkUgWInB4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/30087074745_a7beeefb44_o.jpg?itok=OJ84O_Is&quot; alt=&quot;Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Joel Rodrigues/Agência Brasíli&lt;/p&gt;
+&lt;p&gt;Os beneficiários do programa Pé-de-Meia de 2026 que nasceram em maio e junho recebem nesta quarta-feira (26) mais uma parcela do incentivo à frequência escolar. Para os estudantes do ensino médio regular, é a quinta parcela.&lt;/p&gt;
+&lt;p&gt;Os estudantes do ensino médio da educação de jovens e adultos (EJA) que são beneficiários do programa também recebem a parcela pela aprovação de ciclos de formação e conclusão desta etapa final da educação básica.&lt;/p&gt;
+&lt;p&gt;Na modalidade da EJA, os pagamentos do incentivo ocorrem de forma diferenciada da dos estudantes do ensino médio regular.&lt;/p&gt;
+&lt;p&gt;Enquanto no ensino médio EJA o estudante recebe até quatro parcelas do incentivo frequência no valor de R$ 225 cada, totalizando até oito parcelas de frequência por ano; no ensino médio regular os estudantes recebem até nove parcelas de frequência por ano, cada uma delas no valor de R$ 200.&lt;/p&gt;
+&lt;p&gt;Nas duas situações, é preciso atingir, pelo menos, 80% de frequência nas aulas.&lt;/p&gt;
+&lt;p&gt;O Pé-de-Meia funciona como uma poupança para incentivar a permanência de jovens nos estudos até a conclusão do ensino médio.&lt;/p&gt;
+&lt;p&gt;Confira o calendário de pagamentos emagosto:&lt;/p&gt;
+&lt;p&gt;nascidos em janeiro e fevereiro:&lt;/p&gt;
+&lt;p&gt;nascidos em setembro e outubro:&lt;/p&gt;
+&lt;p&gt;nascidos em novembro e dezembro:&lt;/p&gt;
+&lt;p&gt;Neste período, também poderão ser pagas parcelas de matrículade2026 e frequências de meses anteriores para estudantes que tenham informações enviadas ou corrigidas pelas redes de ensino.&lt;/p&gt;
+&lt;p&gt;A participação no Pé-de-Meia ocorre de forma automática para os estudantes que cumprem os requisitos estabelecidos. Entre eles, estar matriculado na rede pública de educação e com inscrições ativas no Cadastro Único de Programas Sociais do governo federal (CadÚnico).&lt;/p&gt;
+&lt;p&gt;O Ministério da Educação (MEC) é o responsável por verificar se o jovem pode participar do programa federal a partir dos dados do CadÚnico. Além disso, é preciso atender aos critérios abaixo:&lt;/p&gt;
+&lt;p&gt;Afamíliadoestudantetercadastro ativo noCadÚnico até a data-base de 7 de agosto de 2026;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/pe-de-meia-nascidos-em-maio-e-junho-recebem-parcela-nesta-quarta&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Joel Rodrigues/Agência Brasíli
+Os beneficiários do programa Pé-de-Meia de 2026 que nasceram em maio e junho recebem nesta quarta-feira (26) mais um...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-08-26 09:05:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-26 09:05:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-26 09:05:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-26 09:05:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Tu1V3PVwCTgF2vCrYqQkUgWInB4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/30087074745_a7beeefb44_o.jpg?itok=OJ84O_Is</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Confira a agenda dos presidenciáveis nesta quarta-feira (26)</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-presidenciaveis-nesta-quarta-feira-26</link>
-      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 13:47:28 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-presidenciaveis-nesta-quarta-feira-26#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-presidenciaveis-nesta-quarta-feira-26#1004</guid>
       <description>A agenda dos candidatos à Presidência da República nesta quarta-feira (26) inclui sabatinas, entrevistas à imprensa e visitas a unidades de saúde e i...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mHxHjf7pDxiKyHWFE1hh6tGdJMg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/18/banner_agenda_-_1170x700.png?itok=t-rMkLxv&quot; alt=&quot;Confira a agenda dos presidenciáveis nesta quarta-feira (26)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A agenda dos candidatos à Presidência da República nesta quarta-feira (26) inclui sabatinas, entrevistas à imprensa e visitas a unidades de saúde e instituições. Também estão previstas caminhadas e encontros com moradores e empresários.&lt;/p&gt;
@@ -45,7 +241,7 @@
 &lt;p&gt;Concede entrevista ao portal Sputnik Brasil&lt;/p&gt;
 &lt;p&gt;não tem agenda pública de campanha nesta quarta.O candidato&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-presidenciaveis-nesta-quarta-feira-26&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A agenda dos candidatos à Presidência da República nesta quarta-feira (26) inclui sabatinas, entrevistas à imprensa e visitas a unidades de saúde e i...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-26 08:59:00</wp:post_date>
       <wp:post_date_gmt>2026-08-26 08:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-26 08:59:00</wp:post_modified>
@@ -71,9 +267,9 @@
     <item>
       <title>Pelo menos 14 bebês morrem em incêndio em hospital no Paquistão</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/pelo-menos-14-bebes-morrem-em-incendio-em-hospital-no-paquistao</link>
-      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 13:47:28 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/pelo-menos-14-bebes-morrem-em-incendio-em-hospital-no-paquistao#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/pelo-menos-14-bebes-morrem-em-incendio-em-hospital-no-paquistao#1005</guid>
       <description>© Reuters/Akhtar Soomro/Proibida reprodução
 Pelo menos 14 bebês morreram em um incêndio em um hospital público na capital do Paquistão, Islamabad, ne...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/EmGNFy0tFVJtWZPHdJf4W-q4r70=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/26/2026-08-26t051601z_1832815228_rc246nas5h60_rtrmadp_3_pakistan-fire.jpg?itok=9Z0sDBFi&quot; alt=&quot;Pelo menos 14 bebês morrem em incêndio em hospital no Paquistão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -94,7 +290,7 @@ Pelo menos 14 bebês morreram em um incêndio em um hospital público na capital
 &lt;p&gt;O Instituto de Ciências Médicas do Paquistão, para onde o ex-primeiro-ministro Imran Khan foi levado brevemente para um exame médico na semana passada, está localizado no centro de Islamabad e é um dos principais hospitais públicos da cidade, que tem cerca de 1,1 milhão de habitantes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/pelo-menos-14-bebes-morrem-em-incendio-em-hospital-no-paquistao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Akhtar Soomro/Proibida reprodução
 Pelo menos 14 bebês morreram em um incêndio em um hospital público na capital do Paquistão, Islamabad, ne...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-26 08:55:00</wp:post_date>
       <wp:post_date_gmt>2026-08-26 08:55:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-26 08:55:00</wp:post_modified>
@@ -120,9 +316,9 @@ Pelo menos 14 bebês morreram em um incêndio em um hospital público na capital
     <item>
       <title>Candidaturas negras avançam e se aproximam de perfil racial do país</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-negras-avancam-e-se-aproximam-de-perfil-racial-do-pais</link>
-      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 13:47:28 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-negras-avancam-e-se-aproximam-de-perfil-racial-do-pais#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-negras-avancam-e-se-aproximam-de-perfil-racial-do-pais#1006</guid>
       <description>Levantamento feito a partir do total de candidaturas para as
 identificou ligeira mudança nos perfis raciais dos candidatos. O número de participantes...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FNAZoOqE8WV73OuC48WpooXbUYQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/26/_rbr2308.jpg?itok=eiB2QsDl&quot; alt=&quot;Candidaturas negras avançam e se aproximam de perfil racial do país&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -143,7 +339,7 @@ identificou ligeira mudança nos perfis raciais dos candidatos. O número de par
 &lt;p&gt;A participação de mulheres cresceu apenas 1%. A de mulheres negras avançou menos, somente 0,5%. Entre as 7.116 mulheres candidatas, 3.719, ou 52,2%, são negras. Desse total, 2.485 são pardas e 1.234, pretas. As mulheres negras representam 18,2% de todas as candidaturas, ante 17,3% em 2022. Já a participação dos homens negros recuou de 32,3% para 31,7%.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-negras-avancam-e-se-aproximam-de-perfil-racial-do-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Levantamento feito a partir do total de candidaturas para as
 identificou ligeira mudança nos perfis raciais dos candidatos. O número de participantes...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-26 08:31:00</wp:post_date>
       <wp:post_date_gmt>2026-08-26 08:31:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-26 08:31:00</wp:post_modified>
@@ -169,9 +365,9 @@ identificou ligeira mudança nos perfis raciais dos candidatos. O número de par
     <item>
       <title>Olimpíada de educação financeira tem última semana de inscrições</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes</link>
-      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 13:47:28 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes#1007</guid>
       <description>As inscrições para participação na Olimpíada do Tesouro Direto de Educação Financeira (Olitef) entram em sua última semana e estão abertas até o dia ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yQL7HqwvGP-XF2uu2gAnh2x-wKY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/19/olimpiada_do_tesouro_direto.jpg?itok=mn6HeDKY&quot; alt=&quot;Olimpíada de educação financeira tem última semana de inscrições&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;As inscrições para participação na Olimpíada do Tesouro Direto de Educação Financeira (Olitef) entram em sua última semana e estão abertas até o dia 1º de setembro. Dezessetemil escolas, entre públicas e particulares, participarão da edição 2026.&lt;/p&gt;
@@ -181,16 +377,16 @@ identificou ligeira mudança nos perfis raciais dos candidatos. O número de par
 &lt;p&gt;e as regras estão disponíveis também no&lt;/p&gt;
 &lt;p&gt;Os participantes podem receber prêmios em títulos do tesouro, com valor financeirode acordo com seu desempenho.&lt;/p&gt;
 &lt;p&gt;Professores também são premiados. Além dessa premiação, as escolas concorrem a valores de até R$ 100 mil para melhoria da infraestrutura escolar, visando àimplementação de laboratórios de informática, robótica ou ciências e bibliotecas digitais.&lt;/p&gt;
-&lt;p&gt;Corte de cargos em comissão no RJ já ultrapassa marca dos seis mil&lt;/p&gt;
-&lt;p&gt;Uso de carro particular em campanha pode resultar em perda do seguro&lt;/p&gt;
+&lt;p&gt;Empresas afetadas por tarifas dos EUA têm benefício prorrogado&lt;/p&gt;
+&lt;p&gt;Caio Blat, Gottsha e os perigos do vício em telas no Sem Censura&lt;/p&gt;
+&lt;p&gt;Prévia da inflação fica em -0,40%, a menor desde agosto de 2022&lt;/p&gt;
+&lt;p&gt;Mais de 300 turistas estão desaparecidos no Nepal após cheias&lt;/p&gt;
+&lt;p&gt;Anvisa atualiza regras de segurança sanitária para aviões e aeroportos&lt;/p&gt;
 &lt;p&gt;Centro-Oeste tem três alertas ativos para chuvas e baixa umidade&lt;/p&gt;
 &lt;p&gt;Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta&lt;/p&gt;
-&lt;p&gt;Confira a agenda dos presidenciáveis nesta quarta-feira (26)&lt;/p&gt;
-&lt;p&gt;Pelo menos 14 bebês morrem em incêndio em hospital no Paquistão&lt;/p&gt;
-&lt;p&gt;Candidaturas negras avançam e se aproximam de perfil racial do país&lt;/p&gt;
-&lt;p&gt;Estados Unidos suspendem pedidos de visto a imigrantes&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Confira a agenda dos presidenciáveis nesta quarta-feira (26)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>As inscrições para participação na Olimpíada do Tesouro Direto de Educação Financeira (Olitef) entram em sua última semana e estão abertas até o dia ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-26 08:02:00</wp:post_date>
       <wp:post_date_gmt>2026-08-26 08:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-26 08:02:00</wp:post_modified>
@@ -216,9 +412,9 @@ identificou ligeira mudança nos perfis raciais dos candidatos. O número de par
     <item>
       <title>Búzios inaugura Banco Vermelho em memória a vítimas de feminicídio</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/buzios-inaugura-banco-vermelho-em-memoria-vitimas-de-feminicidio</link>
-      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 13:47:28 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/buzios-inaugura-banco-vermelho-em-memoria-vitimas-de-feminicidio#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/buzios-inaugura-banco-vermelho-em-memoria-vitimas-de-feminicidio#1008</guid>
       <description>A Secretaria Municipal da Mulher de Búzios, na Região dos Lagos, no Rio de Janeiro, promoveunessa terça-feira (25), na Praça dos Ossos, a ação “Búzio...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/emFjcr2GAGc9k8QJijrmW8ufW_U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/14/praiadosossos-final.jpg?itok=nZnz9cbA&quot; alt=&quot;Búzios inaugura Banco Vermelho em memória a vítimas de feminicídio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Secretaria Municipal da Mulher de Búzios, na Região dos Lagos, no Rio de Janeiro, promoveunessa terça-feira (25), na Praça dos Ossos, a ação “Búzios por Elas”. A finalidade é aproximar a rede municipal de proteção da população, ampliando o acesso a informações sobre os serviços de atendimento e orientação às mulheres.&lt;/p&gt;
@@ -231,13 +427,13 @@ identificou ligeira mudança nos perfis raciais dos candidatos. O número de par
 &lt;p&gt;Doca foi condenado a uma pena leve, de apenas dois anos de reclusão, obtendo o benefício de cumprir a pena em liberdade.&lt;/p&gt;
 &lt;p&gt;Houve um clamor público e indignação com o resultado do julgamento, mobilizando movimentos feministas pelo país. O famoso lema &quot;quem ama não mata&quot; nasceu dessa mobilização e mudou para sempre o debate sobre a violência contra a mulher no Brasil.&lt;/p&gt;
 &lt;p&gt;Devido à forte pressão social, o julgamento foi anulado e revisto em um novo julgamento, onde Doca Street foi condenado a 15 anos de prisão por homicídio qualificado.&lt;/p&gt;
-&lt;p&gt;Corte de cargos em comissão no RJ já ultrapassa marca dos seis mil&lt;/p&gt;
-&lt;p&gt;Uso de carro particular em campanha pode resultar em perda do seguro&lt;/p&gt;
-&lt;p&gt;Centro-Oeste tem três alertas ativos para chuvas e baixa umidade&lt;/p&gt;
-&lt;p&gt;Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta&lt;/p&gt;
-&lt;p&gt;Confira a agenda dos presidenciáveis nesta quarta-feira (26)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/buzios-inaugura-banco-vermelho-em-memoria-vitimas-de-feminicidio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Empresas afetadas por tarifas dos EUA têm benefício prorrogado&lt;/p&gt;
+&lt;p&gt;Caio Blat, Gottsha e os perigos do vício em telas no Sem Censura&lt;/p&gt;
+&lt;p&gt;Estiagem: Defesa Civil reconhece emergência em cidades do Nordeste&lt;/p&gt;
+&lt;p&gt;Prévia da inflação fica em -0,40%, a menor desde agosto de 2022&lt;/p&gt;
+&lt;p&gt;Mais de 300 turistas estão desaparecidos no Nepal após cheias&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/buzios-inaugura-banco-vermelho-em-memoria-vitimas-de-feminicidio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Secretaria Municipal da Mulher de Búzios, na Região dos Lagos, no Rio de Janeiro, promoveunessa terça-feira (25), na Praça dos Ossos, a ação “Búzio...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-26 07:28:00</wp:post_date>
       <wp:post_date_gmt>2026-08-26 07:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-26 07:28:00</wp:post_modified>
@@ -263,9 +459,9 @@ identificou ligeira mudança nos perfis raciais dos candidatos. O número de par
     <item>
       <title>Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/caixa-paga-bolsa-familia-de-agosto-beneficiarios-com-nis-de-final-7</link>
-      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 13:47:28 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/caixa-paga-bolsa-familia-de-agosto-beneficiarios-com-nis-de-final-7#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/caixa-paga-bolsa-familia-de-agosto-beneficiarios-com-nis-de-final-7#1009</guid>
       <description>A Caixa Econômica Federal paga nesta quarta-feira (26) a parcela de agosto do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qIRlNfucS2sTBis_THvM2qhzgqw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/whatsapp_image_2026-08-21_at_20.30.10.jpeg?itok=KAK2ZgLs&quot; alt=&quot;Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Caixa Econômica Federal paga nesta quarta-feira (26) a parcela de agosto do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 7.&lt;/p&gt;
@@ -281,10 +477,10 @@ identificou ligeira mudança nos perfis raciais dos candidatos. O número de par
 &lt;p&gt;.No entanto, quem entrou na regra até maio de 2025 continua a receber metade do benefício por dois anos.&lt;/p&gt;
 &lt;p&gt;Desde 2024, os beneficiários do Bolsa Família não têm mais o desconto do Seguro Defeso. A mudança foi estabelecida pela&lt;/p&gt;
 &lt;p&gt;, que resgatou o Programa Bolsa Família (PBF). O Seguro Defeso é pago a pessoas que sobrevivem exclusivamente da pesca artesanal e que não podem exercer a atividade durante o período da piracema (reprodução dos peixes).&lt;/p&gt;
-&lt;p&gt;Corte de cargos em comissão no RJ já ultrapassa marca dos seis mil&lt;/p&gt;
-&lt;p&gt;Uso de carro particular em campanha pode resultar em perda do seguro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/caixa-paga-bolsa-familia-de-agosto-beneficiarios-com-nis-de-final-7&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Empresas afetadas por tarifas dos EUA têm benefício prorrogado&lt;/p&gt;
+&lt;p&gt;Caio Blat, Gottsha e os perigos do vício em telas no Sem Censura&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/caixa-paga-bolsa-familia-de-agosto-beneficiarios-com-nis-de-final-7&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Caixa Econômica Federal paga nesta quarta-feira (26) a parcela de agosto do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-26 07:02:00</wp:post_date>
       <wp:post_date_gmt>2026-08-26 07:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-26 07:02:00</wp:post_modified>
@@ -305,200 +501,6 @@ identificou ligeira mudança nos perfis raciais dos candidatos. O número de par
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/qIRlNfucS2sTBis_THvM2qhzgqw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/whatsapp_image_2026-08-21_at_20.30.10.jpeg?itok=KAK2ZgLs</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>PM ocupa cinco comunidades do Complexo de Israel, no Rio</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pm-ocupa-cinco-comunidades-do-complexo-de-israel-no-rio</link>
-      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pm-ocupa-cinco-comunidades-do-complexo-de-israel-no-rio#1006</guid>
-      <description>A Polícia Militar (PM) está ocupando, por prazo indeterminado, cinco comunidades que compõem o Complexo de Israel, na zona norte do Rio. Mais de 220 ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DUZyKhR9zTxyh918dLxxKFEilsM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/13/pmrj-2jan2024-848x477.jpg?itok=ZOooiyit&quot; alt=&quot;PM ocupa cinco comunidades do Complexo de Israel, no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Polícia Militar (PM) está ocupando, por prazo indeterminado, cinco comunidades que compõem o Complexo de Israel, na zona norte do Rio. Mais de 220 homens da corporação vão patrulhar durante 24 horas as comunidades Cinco Bocas, Cidade Alta, Pica-Pau, Vigário Geral e Parada de Lucas.&lt;/p&gt;
-&lt;p&gt;A área é comandada por Álvaro Malaquias Santos Rosa, o Peixão, uma das principais lideranças do Terceiro Comando Puro (TCP).&lt;/p&gt;
-&lt;p&gt;A corporação participa da ocupação com agentes do Comando de Operações Especiais (COE), como o Batalhão de Operações Policiais Especiais (Bope), do Choque, do Batalhão de Ações com Cães, do 1º Comando de Policiamento de Área (1º CPA), do Batalhão de Policiamento em Vias Expressas (BPVE), do Batalhão de Rondas Especiais e Controle de Multidão (RECOM) e do Batalhão Tático de Motociclistas (BTM).&lt;/p&gt;
-&lt;p&gt;“Estamos fazendo o policiamento preventivo e ostensivo, junto ao setor de inteligência”, disseo porta-voz da corporação, major Maicon Pereira, acrescentando que a troca de turno dos militares é feita no próprio local da ocupação. &quot;Fazemos varreduras com o Batalhão de Ações com Cães, o Bope e o Choque”.&lt;/p&gt;
-&lt;p&gt;As principais vias expressas da cidade, como as Linhas Vermelha e Amarela, além da Avenida Brasil, serão fechadas imediatamente em caso de confronto com criminosos.&lt;/p&gt;
-&lt;p&gt;O traficante Peixão age com mão de ferro nas comunidades, impõe ditadura fundamentalista violenta e perseguição religiosa no Complexo de Israel. Eleutiliza uma fachada religiosa para justificar o controle territorial e o domínio social pela força.&lt;/p&gt;
-&lt;p&gt;Nessa terça-feira (25), as polícias Civil e Militar realizaram uma operação contra narcotraficantes da facção criminosa Terceiro Comando Puro (TCP) que atuam no Complexo de Israel. A ação é resultado de investigações conduzidas pela 38ª delegacia policial (Brás de Pina) e teve como objetivo cumprir dezenas de mandados de prisão contra criminosos envolvidos em diferentes delitos.&lt;/p&gt;
-&lt;p&gt;Ao todo, oito criminosos foram presos,entre elesLuana Rosa de Araújo, apontada como braço direito de Peixão.&lt;/p&gt;
-&lt;p&gt;As equipes encontraram um imóvel utilizado como casamata pelos traficantes, com seteiras reforçadas. Também foram apreendidos celulares e aparelhos eletrônicos, que passarão por perícia.&lt;/p&gt;
-&lt;p&gt;Nas ações, cinco criminosos foram presos. No âmbito da mesma ação, agentes também fizeramdiligências para verificar informações de inteligência na comunidade Buraco do Boi, em Nova Iguaçu, na Baixada Fluminense. Durante a ação, três criminosos foram presos, e o gerente do tráfico de drogas da região foi neutralizado ao atacar os policiais. Além disso, foram apreendidos dois fuzis, grande quantidade de drogas e veículos roubados.&lt;/p&gt;
-&lt;p&gt;Fila de espera por benefícios do INSS teve redução de 59%&lt;/p&gt;
-&lt;p&gt;Uso de carro particular em campanha pode resultar em perda do seguro&lt;/p&gt;
-&lt;p&gt;Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta&lt;/p&gt;
-&lt;p&gt;Confira a agenda dos presidenciáveis nesta quarta-feira (26)&lt;/p&gt;
-&lt;p&gt;Pelo menos 14 bebês morrem em incêndio em hospital no Paquistão&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pm-ocupa-cinco-comunidades-do-complexo-de-israel-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Polícia Militar (PM) está ocupando, por prazo indeterminado, cinco comunidades que compõem o Complexo de Israel, na zona norte do Rio. Mais de 220 ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-08-26 06:45:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-26 06:45:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-26 06:45:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-26 06:45:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/DUZyKhR9zTxyh918dLxxKFEilsM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/13/pmrj-2jan2024-848x477.jpg?itok=ZOooiyit</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mendonça propõe tese para julgamento sobre deep fake no TSE</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/mendonca-propoe-tese-para-julgamento-sobre-deep-fake-no-tse</link>
-      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/mendonca-propoe-tese-para-julgamento-sobre-deep-fake-no-tse#1007</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), propôs nesta terça-feira (25) uma tese jurídica pa...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vV4uiZXVSxrvj_LLytZrfqqH0As=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/17/dji_20260716174410_0332_d.jpg?itok=1PBsy9Xl&quot; alt=&quot;Mendonça propõe tese para julgamento sobre deep fake no TSE&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), propôs nesta terça-feira (25) uma tese jurídica para balizar os julgamentos sobre uso ilegal de&lt;/p&gt;
-&lt;p&gt;nas redes sociais durante a campanha eleitoral.&lt;/p&gt;
-&lt;p&gt;ocorrem pela criação de conteúdo artificial para prejudicar candidatos. A divulgação desse tipo de conteúdo é proibida pelo TSE.&lt;/p&gt;
-&lt;p&gt;é preciso diferenciar o conteúdo sintético produzido por IA, que tem regras estabelecidas pela Corte, e casos de&lt;/p&gt;
-&lt;p&gt;, para garantir a segurança jurídica das decisões&lt;/p&gt;
-&lt;p&gt;o conteúdo sintético de áudio, vídeo ou combinação de ambos que, mediante criação, substituição ou alteração digital de imagem ou voz, apresente grau de realismo ou verossimilhança objetivamente apto a produzir falsa percepção de autenticidade quanto a manifestação, comportamento, fato ou circunstância representados&quot;, propôs o ministro.&lt;/p&gt;
-&lt;p&gt;A proposta foi apresentada pelo ministro em uma decisão em que determinou a remoção de umvídeo com imagens do candidato à Presidência da República Flávio Bolsonaro (PL). Na ação, a campanha do candidatoargumentouque as cenas eramfalsas e foram produzidas por inteligência artificial (IA). No processo,o ministro diz que&lt;/p&gt;
-&lt;p&gt;a suspensãoé necessária por não apresentar registros reais do candidato.&lt;/p&gt;
-&lt;p&gt;Na semana passada, os ministros do TSE começaram a discutir combate às&lt;/p&gt;
-&lt;p&gt;na campanha. A reunião foi convocada pelo presidente do TSE, Kassio Nunes Marques, para que os ministros possam definir como será a atuação do tribunal nessa questão.&lt;/p&gt;
-&lt;p&gt;O encontro ocorreu a portas fechadas e não houve declarações oficiais. A expectativa é que a deliberação sobre o tema seja colocada em prática nas próximas sessões, quando o TSE vai decidir os primeiros casos envolvendo&lt;/p&gt;
-&lt;p&gt;Em março deste ano, o TSE aprovou regras sobre utilização de inteligência artificial durante as eleições gerais de outubro. As normas valem para candidatos e partidos. Os ministros proibiram que provedores de IA permitam, ainda que solicitado pelos usuários, sugestões de candidatos para votar.&lt;/p&gt;
-&lt;p&gt;O objetivo é evitar a interferência de algoritmos na livre escolha dos eleitores.&lt;/p&gt;
-&lt;p&gt;Para combater a misoginia digital, o TSE proibiu postagens nas redes sociais com montagens envolvendo candidatas e fotos e vídeos com nudez e pornografia. A Corte Eleitoral também reafirmou que os provedores de internet poderão ser responsabilizados pela Justiça se não retirarem perfis falsos e postagens ilegais de seus usuários.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/mendonca-propoe-tese-para-julgamento-sobre-deep-fake-no-tse&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), propôs nesta terça-feira (25) uma tese jurídica pa...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-08-25 21:44:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-25 21:44:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-25 21:44:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-25 21:44:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/vV4uiZXVSxrvj_LLytZrfqqH0As=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/17/dji_20260716174410_0332_d.jpg?itok=1PBsy9Xl</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mega-Sena acumula para R$ 25 milhões; confira os números sorteados</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-25-milhoes-confira-os-numeros-sorteados</link>
-      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-25-milhoes-confira-os-numeros-sorteados#1008</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-Nenhum apostador acertou as seis dezenas do Concurso 3.049da Mega-Sena, realizado nestaterça-feira (25).
-O prêmio ac...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FHmy3erv9J18ISJ-_eyiD5qmOhw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcamg_abr_08052019_8678_1.jpg?itok=TnVYABtq&quot; alt=&quot;Mega-Sena acumula para R$ 25 milhões; confira os números sorteados&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Nenhum apostador acertou as seis dezenas do Concurso 3.049da Mega-Sena, realizado nestaterça-feira (25).&lt;/p&gt;
-&lt;p&gt;O prêmio acumulou e está estimado em R$ 25 milhões para o próximo sorteio.&lt;/p&gt;
-&lt;p&gt;Os números sorteados são:06 -13 -36 -43 -53 -55&lt;/p&gt;
-&lt;p&gt;22 apostas acertaram cinco dezenas e irão receber R$41.986,04 cada&lt;/p&gt;
-&lt;p&gt;1.567 apostas acertaram quatro dezenas e irão receber R$971,64 cada&lt;/p&gt;
-&lt;p&gt;Para o próximo concurso, as apostas podem ser feitas até as 20h (horário de Brasília) de quinta-feira (27), em qualquer lotérica do país ou pela internet, no&lt;/p&gt;
-&lt;p&gt;A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;Corte de cargos em comissão no RJ já ultrapassa marca dos seis mil&lt;/p&gt;
-&lt;p&gt;Uso de carro particular em campanha pode resultar em perda do seguro&lt;/p&gt;
-&lt;p&gt;Centro-Oeste tem três alertas ativos para chuvas e baixa umidade&lt;/p&gt;
-&lt;p&gt;Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta&lt;/p&gt;
-&lt;p&gt;Confira a agenda dos presidenciáveis nesta quarta-feira (26)&lt;/p&gt;
-&lt;p&gt;Pelo menos 14 bebês morrem em incêndio em hospital no Paquistão&lt;/p&gt;
-&lt;p&gt;Candidaturas negras avançam e se aproximam de perfil racial do país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-25-milhoes-confira-os-numeros-sorteados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-Nenhum apostador acertou as seis dezenas do Concurso 3.049da Mega-Sena, realizado nestaterça-feira (25).
-O prêmio ac...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-08-25 21:32:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-25 21:32:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-25 21:32:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-25 21:32:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/FHmy3erv9J18ISJ-_eyiD5qmOhw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcamg_abr_08052019_8678_1.jpg?itok=TnVYABtq</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Veja como foi a terça-feira (25) dos candidatos a presidente</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-terca-feira-25-dos-candidatos-presidente</link>
-      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-terca-feira-25-dos-candidatos-presidente#1009</guid>
-      <description>A agenda dos candidatos à Presidência da República nesta terça-feira (25) incluiu sabatinas, entrevistas à imprensa e participação em fóruns e evento...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL&quot; alt=&quot;Veja como foi a terça-feira (25) dos candidatos a presidente&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A agenda dos candidatos à Presidência da República nesta terça-feira (25) incluiu sabatinas, entrevistas à imprensa e participação em fóruns e eventos de campanha.&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Veja como foi a terça-feira (25) dos presidenciáveis:&lt;/p&gt;
-&lt;p&gt;O candidato Flávio Bolsonaro cumpriu agenda de campanha em Maceió, onde teve reunião com empresários do setor produtivoe participou de uma carreata.&lt;/p&gt;
-&lt;p&gt;Ele disse que, se eleito, pretende investir no Nordeste para ampliar a produçãode alimentos, como ocorreu no Centro-oeste.&lt;/p&gt;
-&lt;p&gt;“Podemos trazer água de verdade para o povo nordestino e também para o nosso agro para que possa prosperar. Olhar para o Nordeste para que, no futuro, seja o maior produtor de alimentos do mundo”, disse.&lt;/p&gt;
-&lt;p&gt;Flávio Bolsonaro participou tambémda Convenção dos Ministros das Assembleias de Deus.&lt;/p&gt;
-&lt;p&gt;O candidato Hertz Dias concedeuentrevista ao Monitor Mercantil. Ele defendeu mais direitos aostrabalhadores de aplicativos.&lt;/p&gt;
-&lt;p&gt;&quot;Milhões de pessoas dependem dos aplicativos para sobreviver, mas trabalham sem direitos, sem proteção social e submetidas a algoritmos que determinam sua renda sem qualquer transparência&quot;, disse.&lt;/p&gt;
-&lt;p&gt;Na parte da tarde,o candidato e apoiadoresfizerampanfletagem no Vale do Anhangabaú, no centro de São Paulo.&lt;/p&gt;
-&lt;p&gt;Luiz Inácio Lula da Silva não teveagenda de campanha.&lt;/p&gt;
-&lt;p&gt;Nas redes sociais, ele reiterou o posicionamento favorável ao fim da escala 6 por 1, que está sob análise do Senado.&lt;/p&gt;
-&lt;p&gt;“Vamos acabar com essa jornada escrava de trabalho”, disse, em vídeo.&lt;/p&gt;
-&lt;p&gt;O candidato Renan Santoscriticou o modelo atual das emendas parlamentares, ao participar de evento daAssociação Brasileira da Infraestrutura e Indústrias de Base (Abdib),na capital paulista.&lt;/p&gt;
-&lt;p&gt;Ele defendeu a regulamentação e um sistema defiscalização por meio de um Procurador-Geral da República independente.&lt;/p&gt;
-&lt;p&gt;“O Congresso Nacional não se importa com projeto, com nenhum tema nacional, só se importa com emenda”, disse&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-terca-feira-25-dos-candidatos-presidente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A agenda dos candidatos à Presidência da República nesta terça-feira (25) incluiu sabatinas, entrevistas à imprensa e participação em fóruns e evento...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-25 21:04:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-25 21:04:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-25 21:04:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-25 21:04:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
