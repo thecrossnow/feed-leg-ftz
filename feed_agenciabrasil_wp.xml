@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 26 Aug 2026 11:21:19 +0000</pubDate>
+    <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,203 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Confira a agenda dos presidenciáveis nesta quarta-feira (26)</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-presidenciaveis-nesta-quarta-feira-26</link>
+      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-presidenciaveis-nesta-quarta-feira-26#1000</guid>
+      <description>A agenda dos candidatos à Presidência da República nesta quarta-feira (26) inclui sabatinas, entrevistas à imprensa e visitas a unidades de saúde e i...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mHxHjf7pDxiKyHWFE1hh6tGdJMg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/18/banner_agenda_-_1170x700.png?itok=t-rMkLxv&quot; alt=&quot;Confira a agenda dos presidenciáveis nesta quarta-feira (26)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A agenda dos candidatos à Presidência da República nesta quarta-feira (26) inclui sabatinas, entrevistas à imprensa e visitas a unidades de saúde e instituições. Também estão previstas caminhadas e encontros com moradores e empresários.&lt;/p&gt;
+&lt;p&gt;Os concorrentes ao Palácio do Planalto participam ainda de panfletagens e ações de campanha em comunidades e universidades.&lt;/p&gt;
+&lt;p&gt;Concede entrevista para a TV Globo em São Paulo (SP) e para o podcast A Arte da Guerra.&lt;/p&gt;
+&lt;p&gt;Participa de motociata no centro de Arapiraca (AL), seguida de comício. Também participa de encontro com representantes do setor produtivo do Agreste e do Sertão.&lt;/p&gt;
+&lt;p&gt;Participa de Sabatina na TV Globo.&lt;/p&gt;
+&lt;p&gt;Visita o Hospital Regional de Teófilo Otoni (MG) e conversa com moradores. Também concede entrevista ao vivo para as rádios Teófilo Otoni e 98FM.&lt;/p&gt;
+&lt;p&gt;Participa de sabatina dos veículos O Globo, Valor Econômico e CBN, no Rio de Janeiro. À tarde, visita o santuário da Penha, no Rio de Janeiro (RJ).&lt;/p&gt;
+&lt;p&gt;No início da tarde, concede entrevista nos estúdios da&lt;/p&gt;
+&lt;p&gt;em São Paulo. Em seguida se reúne com militantes em Minas Gerais e, à noite, produz conteúdo para as redes sociais.&lt;/p&gt;
+&lt;p&gt;Em Maceió, participa de sabatina do DCE da Universidade Federal de Alagoas (Ufal). À tarde, participa de panfletagem e caminhada na comunidade do Vergel e de caminhada na Nova Orla.&lt;/p&gt;
+&lt;p&gt;Concede entrevistas ao programa&lt;/p&gt;
+&lt;p&gt;, da Rádio Mix FM Volta Redonda e à TV Globo/SP.&lt;/p&gt;
+&lt;p&gt;Em Montes Claros (MG), visita o Colégio Batista, faz caminhada pelo Mercado Central e participa de almoço com empresários.&lt;/p&gt;
+&lt;p&gt;Concede entrevista ao portal Sputnik Brasil&lt;/p&gt;
+&lt;p&gt;não tem agenda pública de campanha nesta quarta.O candidato&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/confira-agenda-dos-presidenciaveis-nesta-quarta-feira-26&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A agenda dos candidatos à Presidência da República nesta quarta-feira (26) inclui sabatinas, entrevistas à imprensa e visitas a unidades de saúde e i...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-08-26 08:59:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-26 08:59:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-26 08:59:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-26 08:59:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/mHxHjf7pDxiKyHWFE1hh6tGdJMg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/18/banner_agenda_-_1170x700.png?itok=t-rMkLxv</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Pelo menos 14 bebês morrem em incêndio em hospital no Paquistão</title>
+      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/pelo-menos-14-bebes-morrem-em-incendio-em-hospital-no-paquistao</link>
+      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/pelo-menos-14-bebes-morrem-em-incendio-em-hospital-no-paquistao#1001</guid>
+      <description>© Reuters/Akhtar Soomro/Proibida reprodução
+Pelo menos 14 bebês morreram em um incêndio em um hospital público na capital do Paquistão, Islamabad, ne...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/EmGNFy0tFVJtWZPHdJf4W-q4r70=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/26/2026-08-26t051601z_1832815228_rc246nas5h60_rtrmadp_3_pakistan-fire.jpg?itok=9Z0sDBFi&quot; alt=&quot;Pelo menos 14 bebês morrem em incêndio em hospital no Paquistão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Reuters/Akhtar Soomro/Proibida reprodução&lt;/p&gt;
+&lt;p&gt;Pelo menos 14 bebês morreram em um incêndio em um hospital público na capital do Paquistão, Islamabad, nesta quarta-feira (26(, informou o primeiro-ministro, Shehbaz Sharif. Oministro da Saúde, Mustafa Kamal, atribuiu a tragédia a uma explosão na ala de neonatologia.&lt;/p&gt;
+&lt;p&gt;O incêndio começou por volta das 7h (horário local) no Instituto de Ciências Médicas do Paquistão, no terceiro andar da ala de saúde materno-infantil, informou a emissora Geo TV, que estimou o número de mortos em cerca de 15.&lt;/p&gt;
+&lt;p&gt;“O incêndio começou após explosão em um aparelho de ar-condicionado”, disseKamal, à Geo TV, acrescentando que a grande quantidade de oxigênio na ala contribuiu para a propagação do fogo.&lt;/p&gt;
+&lt;p&gt;O incidente está entre os incêndios hospitalares mais mortais dos últimos anos no país, onde a assistência médica pública é subsidiada, mas as instalações carecem de recursos e estão sobrecarregadas.&lt;/p&gt;
+&lt;p&gt;Órgãos de fiscalização têm criticado frequentemente as instalações estatais por má gestão.&lt;/p&gt;
+&lt;p&gt;Imagens de televisão mostraram uma ala destruída e enegrecida, com equipamentos espalhados e fumaça ainda subindo. Havia 16 recém-nascidos na ala quando o incêndio começou, um dos quais foi resgatado, acrescentoua Geo TV.&lt;/p&gt;
+&lt;p&gt;A ala foi posteriormente isolada, disse uma testemunha da Reuters.&lt;/p&gt;
+&lt;p&gt;As imagens mostravam mulheres devastadas pela dor, sentadas no chão do lado de fora do hospital. Uma delas era Javeria, que perdeu seu recém-nascido no incêndio.&lt;/p&gt;
+&lt;p&gt;“Era uma ala de ginecologia, não havia médico, nem enfermeira”, disse ela, acrescentando que os corpos das crianças foram levados “em caixas” e que as mulheres não puderam vê-los.&lt;/p&gt;
+&lt;p&gt;“Não é a vontade de Deus, eu não aceito isso”, afirmou.&lt;/p&gt;
+&lt;p&gt;Kamal negou as acusações de que não havia funcionários ou médicos presentes no momento do incêndio.&lt;/p&gt;
+&lt;p&gt;O primeiro-ministro Shehbaz Sharif suspendeu o secretário de Saúde por causa do incidente, informou seu gabinete, horas depois de ter determinadouma investigação.&lt;/p&gt;
+&lt;p&gt;O prédio que abrigava a enfermaria “não tinha segurança contra incêndio, nem saídas adequadas. Todas as portas estavam fechadas; apenas umaestava abertapara que pudéssemos visitar nossos filhos”, disse Mudasir, que também perdeu seu filho. Javeria e Mudasir forneceram apenas seus primeiros nomes.&lt;/p&gt;
+&lt;p&gt;O Instituto de Ciências Médicas do Paquistão, para onde o ex-primeiro-ministro Imran Khan foi levado brevemente para um exame médico na semana passada, está localizado no centro de Islamabad e é um dos principais hospitais públicos da cidade, que tem cerca de 1,1 milhão de habitantes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/pelo-menos-14-bebes-morrem-em-incendio-em-hospital-no-paquistao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Reuters/Akhtar Soomro/Proibida reprodução
+Pelo menos 14 bebês morreram em um incêndio em um hospital público na capital do Paquistão, Islamabad, ne...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-08-26 08:55:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-26 08:55:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-26 08:55:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-26 08:55:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/EmGNFy0tFVJtWZPHdJf4W-q4r70=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/26/2026-08-26t051601z_1832815228_rc246nas5h60_rtrmadp_3_pakistan-fire.jpg?itok=9Z0sDBFi</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Candidaturas negras avançam e se aproximam de perfil racial do país</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-negras-avancam-e-se-aproximam-de-perfil-racial-do-pais</link>
+      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-negras-avancam-e-se-aproximam-de-perfil-racial-do-pais#1002</guid>
+      <description>Levantamento feito a partir do total de candidaturas para as
+identificou ligeira mudança nos perfis raciais dos candidatos. O número de participantes...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FNAZoOqE8WV73OuC48WpooXbUYQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/26/_rbr2308.jpg?itok=eiB2QsDl&quot; alt=&quot;Candidaturas negras avançam e se aproximam de perfil racial do país&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Levantamento feito a partir do total de candidaturas para as&lt;/p&gt;
+&lt;p&gt;identificou ligeira mudança nos perfis raciais dos candidatos. O número de participantes negros – pretos e pardos – chegou a 49,8% do total. Na população, este grupo representa 55,5% dos brasileiros.&lt;/p&gt;
+&lt;p&gt;Instituto de Estudos Socioeconômicos (Inesc)&lt;/p&gt;
+&lt;p&gt;Tribunal Superior Eleitoral (TSE)&lt;/p&gt;
+&lt;p&gt;e identificou que, entre os 20.448 nomes válidos identificados até 16 de agosto, 10.191 autodeclararam-se pretos ou pardos.&lt;/p&gt;
+&lt;p&gt;Do total de candidatos este ano, 2.789 são pessoas pretas (13,6% do total) e 7.402 pardas (36,2%). Na população, são 10,2% de pessoas pretas e 45,3% de pardos. Em 2022, quando ocorreu a primeira edição da pesquisa, as candidaturas de pessoas negras correspondiam a 35,5%.&lt;/p&gt;
+&lt;p&gt;Sobre a autoidentificação e migração de brancos para o grupo de pessoas negras, 338 mudaram a indicação para pardo e seis para preto. Na direita, 11,2% de brancos mudaram para pardos; no centro, 11,6%; e na esquerda, 11,7%.&lt;/p&gt;
+&lt;p&gt;De acordo com a assessora do Inesc Carmela Zigoni, os participantes podem estar ampliando sua plataforma na pauta racial, que tradicionalmente é mais pautada na esquerda, para conquistar mais eleitores negros e/ou interessados nesses debates.&lt;/p&gt;
+&lt;p&gt;Mas é importante ressaltar que o cenário de recursos piorou para esse grupo, pois o TSE alterou a norma e mudou adistribuição proporcional para a cota. “Se antes um partido tinha 50% de candidaturas negras, ele deveria repassar 50% para elas, e agora mesmo com 50% de candidaturas, o percentual é 30% do recurso.&quot;&lt;/p&gt;
+&lt;p&gt;Emenda Constitucional nº 133, de 2024&lt;/p&gt;
+&lt;p&gt;alterou a distribuição de recursos destinados a essas candidaturas. Por isso, Carmela Zigoniressalta que a presença nas listas partidárias deve ser analisada junto com o acesso efetivo a financiamento, estrutura de campanha e tempo de propaganda. Nesse contexto, ela destaca ainda ser fundamental a atuação de bancas de heteroidentificação para evitar fraudes nas cotas raciais.&lt;/p&gt;
+&lt;p&gt;Os resultados integrais serão divulgados no final de setembro, porém os dados parciais indicam que o avanço em gênero não seguiu proporção equivalente e, quando o gênero entra na conta, a diferença ainda é sentida.&lt;/p&gt;
+&lt;p&gt;Os homens brancos continuam sendo o maior grupo isolado, com 6.688 candidaturas, ou 32,7% do total. Em seguida aparecem homens pardos, com 4.917 (24,1%); mulheres brancas, com 3.271 (16%); e mulheres pardas, com 2.485 (12,2%).&lt;/p&gt;
+&lt;p&gt;Segundo o estudo as mulheres pretas somam 1.234 candidaturas, equivalentes a 6% do total, enquanto os homens pretos são 1.555, ou 7,6%.&lt;/p&gt;
+&lt;p&gt;A participação de mulheres cresceu apenas 1%. A de mulheres negras avançou menos, somente 0,5%. Entre as 7.116 mulheres candidatas, 3.719, ou 52,2%, são negras. Desse total, 2.485 são pardas e 1.234, pretas. As mulheres negras representam 18,2% de todas as candidaturas, ante 17,3% em 2022. Já a participação dos homens negros recuou de 32,3% para 31,7%.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/candidaturas-negras-avancam-e-se-aproximam-de-perfil-racial-do-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Levantamento feito a partir do total de candidaturas para as
+identificou ligeira mudança nos perfis raciais dos candidatos. O número de participantes...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-08-26 08:31:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-26 08:31:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-26 08:31:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-26 08:31:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/FNAZoOqE8WV73OuC48WpooXbUYQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/26/_rbr2308.jpg?itok=eiB2QsDl</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Olimpíada de educação financeira tem última semana de inscrições</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes</link>
+      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes#1003</guid>
+      <description>As inscrições para participação na Olimpíada do Tesouro Direto de Educação Financeira (Olitef) entram em sua última semana e estão abertas até o dia ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yQL7HqwvGP-XF2uu2gAnh2x-wKY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/19/olimpiada_do_tesouro_direto.jpg?itok=mn6HeDKY&quot; alt=&quot;Olimpíada de educação financeira tem última semana de inscrições&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As inscrições para participação na Olimpíada do Tesouro Direto de Educação Financeira (Olitef) entram em sua última semana e estão abertas até o dia 1º de setembro. Dezessetemil escolas, entre públicas e particulares, participarão da edição 2026.&lt;/p&gt;
+&lt;p&gt;As inscrições são gratuitas e podem ser feitas por estudantes do ensino fundamental (6º ao 9º ano) e médio (1º ao 3º ano) no&lt;/p&gt;
+&lt;p&gt;Seu formato é semelhante ao de outras competições estudantis, como a Olimpíada Brasileira de Matemática das Escolas Públicas (Obmep), com provas feitaspelos estudantes em suas instituições de ensino e conteúdo adaptado àetapa de ensino que estão cursando.&lt;/p&gt;
+&lt;p&gt;No caso da Olitef,a participação pode ser feita com provas presenciais ou&lt;/p&gt;
+&lt;p&gt;e as regras estão disponíveis também no&lt;/p&gt;
+&lt;p&gt;Os participantes podem receber prêmios em títulos do tesouro, com valor financeirode acordo com seu desempenho.&lt;/p&gt;
+&lt;p&gt;Professores também são premiados. Além dessa premiação, as escolas concorrem a valores de até R$ 100 mil para melhoria da infraestrutura escolar, visando àimplementação de laboratórios de informática, robótica ou ciências e bibliotecas digitais.&lt;/p&gt;
+&lt;p&gt;Corte de cargos em comissão no RJ já ultrapassa marca dos seis mil&lt;/p&gt;
+&lt;p&gt;Uso de carro particular em campanha pode resultar em perda do seguro&lt;/p&gt;
+&lt;p&gt;Centro-Oeste tem três alertas ativos para chuvas e baixa umidade&lt;/p&gt;
+&lt;p&gt;Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta&lt;/p&gt;
+&lt;p&gt;Confira a agenda dos presidenciáveis nesta quarta-feira (26)&lt;/p&gt;
+&lt;p&gt;Pelo menos 14 bebês morrem em incêndio em hospital no Paquistão&lt;/p&gt;
+&lt;p&gt;Candidaturas negras avançam e se aproximam de perfil racial do país&lt;/p&gt;
+&lt;p&gt;Estados Unidos suspendem pedidos de visto a imigrantes&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-08/olimpiada-de-educacao-financeira-tem-ultima-semana-de-inscricoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>As inscrições para participação na Olimpíada do Tesouro Direto de Educação Financeira (Olitef) entram em sua última semana e estão abertas até o dia ...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-08-26 08:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-08-26 08:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-08-26 08:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-08-26 08:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/yQL7HqwvGP-XF2uu2gAnh2x-wKY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/02/19/olimpiada_do_tesouro_direto.jpg?itok=mn6HeDKY</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Búzios inaugura Banco Vermelho em memória a vítimas de feminicídio</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/buzios-inaugura-banco-vermelho-em-memoria-vitimas-de-feminicidio</link>
-      <pubDate>Wed, 26 Aug 2026 11:21:19 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/buzios-inaugura-banco-vermelho-em-memoria-vitimas-de-feminicidio#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/buzios-inaugura-banco-vermelho-em-memoria-vitimas-de-feminicidio#1004</guid>
       <description>A Secretaria Municipal da Mulher de Búzios, na Região dos Lagos, no Rio de Janeiro, promoveunessa terça-feira (25), na Praça dos Ossos, a ação “Búzio...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/emFjcr2GAGc9k8QJijrmW8ufW_U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/14/praiadosossos-final.jpg?itok=nZnz9cbA&quot; alt=&quot;Búzios inaugura Banco Vermelho em memória a vítimas de feminicídio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Secretaria Municipal da Mulher de Búzios, na Região dos Lagos, no Rio de Janeiro, promoveunessa terça-feira (25), na Praça dos Ossos, a ação “Búzios por Elas”. A finalidade é aproximar a rede municipal de proteção da população, ampliando o acesso a informações sobre os serviços de atendimento e orientação às mulheres.&lt;/p&gt;
@@ -39,13 +231,13 @@
 &lt;p&gt;Doca foi condenado a uma pena leve, de apenas dois anos de reclusão, obtendo o benefício de cumprir a pena em liberdade.&lt;/p&gt;
 &lt;p&gt;Houve um clamor público e indignação com o resultado do julgamento, mobilizando movimentos feministas pelo país. O famoso lema &quot;quem ama não mata&quot; nasceu dessa mobilização e mudou para sempre o debate sobre a violência contra a mulher no Brasil.&lt;/p&gt;
 &lt;p&gt;Devido à forte pressão social, o julgamento foi anulado e revisto em um novo julgamento, onde Doca Street foi condenado a 15 anos de prisão por homicídio qualificado.&lt;/p&gt;
-&lt;p&gt;Anvisa aprova novo medicamento para tratar linfoma folicular&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 25 de agosto de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Olimpíada de educação financeira tem última semana de inscrições&lt;/p&gt;
-&lt;p&gt;Búzios inaugura Banco Vermelho em memória a vítimas de feminicídio&lt;/p&gt;
-&lt;p&gt;Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/buzios-inaugura-banco-vermelho-em-memoria-vitimas-de-feminicidio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Corte de cargos em comissão no RJ já ultrapassa marca dos seis mil&lt;/p&gt;
+&lt;p&gt;Uso de carro particular em campanha pode resultar em perda do seguro&lt;/p&gt;
+&lt;p&gt;Centro-Oeste tem três alertas ativos para chuvas e baixa umidade&lt;/p&gt;
+&lt;p&gt;Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta&lt;/p&gt;
+&lt;p&gt;Confira a agenda dos presidenciáveis nesta quarta-feira (26)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/buzios-inaugura-banco-vermelho-em-memoria-vitimas-de-feminicidio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Secretaria Municipal da Mulher de Búzios, na Região dos Lagos, no Rio de Janeiro, promoveunessa terça-feira (25), na Praça dos Ossos, a ação “Búzio...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-08-26 07:28:00</wp:post_date>
       <wp:post_date_gmt>2026-08-26 07:28:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-26 07:28:00</wp:post_modified>
@@ -71,9 +263,9 @@
     <item>
       <title>Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/caixa-paga-bolsa-familia-de-agosto-beneficiarios-com-nis-de-final-7</link>
-      <pubDate>Wed, 26 Aug 2026 11:21:19 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/caixa-paga-bolsa-familia-de-agosto-beneficiarios-com-nis-de-final-7#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/caixa-paga-bolsa-familia-de-agosto-beneficiarios-com-nis-de-final-7#1005</guid>
       <description>A Caixa Econômica Federal paga nesta quarta-feira (26) a parcela de agosto do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qIRlNfucS2sTBis_THvM2qhzgqw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/whatsapp_image_2026-08-21_at_20.30.10.jpeg?itok=KAK2ZgLs&quot; alt=&quot;Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Caixa Econômica Federal paga nesta quarta-feira (26) a parcela de agosto do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de final 7.&lt;/p&gt;
@@ -89,10 +281,10 @@
 &lt;p&gt;.No entanto, quem entrou na regra até maio de 2025 continua a receber metade do benefício por dois anos.&lt;/p&gt;
 &lt;p&gt;Desde 2024, os beneficiários do Bolsa Família não têm mais o desconto do Seguro Defeso. A mudança foi estabelecida pela&lt;/p&gt;
 &lt;p&gt;, que resgatou o Programa Bolsa Família (PBF). O Seguro Defeso é pago a pessoas que sobrevivem exclusivamente da pesca artesanal e que não podem exercer a atividade durante o período da piracema (reprodução dos peixes).&lt;/p&gt;
-&lt;p&gt;Anvisa aprova novo medicamento para tratar linfoma folicular&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 25 de agosto de 2026; assista na íntegra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/caixa-paga-bolsa-familia-de-agosto-beneficiarios-com-nis-de-final-7&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Corte de cargos em comissão no RJ já ultrapassa marca dos seis mil&lt;/p&gt;
+&lt;p&gt;Uso de carro particular em campanha pode resultar em perda do seguro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-08/caixa-paga-bolsa-familia-de-agosto-beneficiarios-com-nis-de-final-7&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Caixa Econômica Federal paga nesta quarta-feira (26) a parcela de agosto do Bolsa Família aos beneficiários com Número de Inscrição Social (NIS) de...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-08-26 07:02:00</wp:post_date>
       <wp:post_date_gmt>2026-08-26 07:02:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-26 07:02:00</wp:post_modified>
@@ -118,9 +310,9 @@
     <item>
       <title>PM ocupa cinco comunidades do Complexo de Israel, no Rio</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pm-ocupa-cinco-comunidades-do-complexo-de-israel-no-rio</link>
-      <pubDate>Wed, 26 Aug 2026 11:21:19 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pm-ocupa-cinco-comunidades-do-complexo-de-israel-no-rio#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pm-ocupa-cinco-comunidades-do-complexo-de-israel-no-rio#1006</guid>
       <description>A Polícia Militar (PM) está ocupando, por prazo indeterminado, cinco comunidades que compõem o Complexo de Israel, na zona norte do Rio. Mais de 220 ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DUZyKhR9zTxyh918dLxxKFEilsM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/13/pmrj-2jan2024-848x477.jpg?itok=ZOooiyit&quot; alt=&quot;PM ocupa cinco comunidades do Complexo de Israel, no Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Polícia Militar (PM) está ocupando, por prazo indeterminado, cinco comunidades que compõem o Complexo de Israel, na zona norte do Rio. Mais de 220 homens da corporação vão patrulhar durante 24 horas as comunidades Cinco Bocas, Cidade Alta, Pica-Pau, Vigário Geral e Parada de Lucas.&lt;/p&gt;
@@ -133,13 +325,13 @@
 &lt;p&gt;Ao todo, oito criminosos foram presos,entre elesLuana Rosa de Araújo, apontada como braço direito de Peixão.&lt;/p&gt;
 &lt;p&gt;As equipes encontraram um imóvel utilizado como casamata pelos traficantes, com seteiras reforçadas. Também foram apreendidos celulares e aparelhos eletrônicos, que passarão por perícia.&lt;/p&gt;
 &lt;p&gt;Nas ações, cinco criminosos foram presos. No âmbito da mesma ação, agentes também fizeramdiligências para verificar informações de inteligência na comunidade Buraco do Boi, em Nova Iguaçu, na Baixada Fluminense. Durante a ação, três criminosos foram presos, e o gerente do tráfico de drogas da região foi neutralizado ao atacar os policiais. Além disso, foram apreendidos dois fuzis, grande quantidade de drogas e veículos roubados.&lt;/p&gt;
-&lt;p&gt;Anvisa aprova novo medicamento para tratar linfoma folicular&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 25 de agosto de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Olimpíada de educação financeira tem última semana de inscrições&lt;/p&gt;
-&lt;p&gt;Búzios inaugura Banco Vermelho em memória a vítimas de feminicídio&lt;/p&gt;
-&lt;p&gt;Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pm-ocupa-cinco-comunidades-do-complexo-de-israel-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Fila de espera por benefícios do INSS teve redução de 59%&lt;/p&gt;
+&lt;p&gt;Uso de carro particular em campanha pode resultar em perda do seguro&lt;/p&gt;
+&lt;p&gt;Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta&lt;/p&gt;
+&lt;p&gt;Confira a agenda dos presidenciáveis nesta quarta-feira (26)&lt;/p&gt;
+&lt;p&gt;Pelo menos 14 bebês morrem em incêndio em hospital no Paquistão&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/pm-ocupa-cinco-comunidades-do-complexo-de-israel-no-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Polícia Militar (PM) está ocupando, por prazo indeterminado, cinco comunidades que compõem o Complexo de Israel, na zona norte do Rio. Mais de 220 ...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-08-26 06:45:00</wp:post_date>
       <wp:post_date_gmt>2026-08-26 06:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-26 06:45:00</wp:post_modified>
@@ -165,9 +357,9 @@
     <item>
       <title>Mendonça propõe tese para julgamento sobre deep fake no TSE</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/mendonca-propoe-tese-para-julgamento-sobre-deep-fake-no-tse</link>
-      <pubDate>Wed, 26 Aug 2026 11:21:19 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/mendonca-propoe-tese-para-julgamento-sobre-deep-fake-no-tse#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/mendonca-propoe-tese-para-julgamento-sobre-deep-fake-no-tse#1007</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), propôs nesta terça-feira (25) uma tese jurídica pa...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vV4uiZXVSxrvj_LLytZrfqqH0As=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/17/dji_20260716174410_0332_d.jpg?itok=1PBsy9Xl&quot; alt=&quot;Mendonça propõe tese para julgamento sobre deep fake no TSE&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -188,7 +380,7 @@ O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), propôs nesta
 &lt;p&gt;Para combater a misoginia digital, o TSE proibiu postagens nas redes sociais com montagens envolvendo candidatas e fotos e vídeos com nudez e pornografia. A Corte Eleitoral também reafirmou que os provedores de internet poderão ser responsabilizados pela Justiça se não retirarem perfis falsos e postagens ilegais de seus usuários.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/mendonca-propoe-tese-para-julgamento-sobre-deep-fake-no-tse&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), propôs nesta terça-feira (25) uma tese jurídica pa...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-08-25 21:44:00</wp:post_date>
       <wp:post_date_gmt>2026-08-25 21:44:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-25 21:44:00</wp:post_modified>
@@ -214,9 +406,9 @@ O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), propôs nesta
     <item>
       <title>Mega-Sena acumula para R$ 25 milhões; confira os números sorteados</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-25-milhoes-confira-os-numeros-sorteados</link>
-      <pubDate>Wed, 26 Aug 2026 11:21:19 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-25-milhoes-confira-os-numeros-sorteados#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-25-milhoes-confira-os-numeros-sorteados#1008</guid>
       <description>© Marcelo Camargo/Agência Brasil
 Nenhum apostador acertou as seis dezenas do Concurso 3.049da Mega-Sena, realizado nestaterça-feira (25).
 O prêmio ac...</description>
@@ -229,17 +421,17 @@ O prêmio ac...</description>
 &lt;p&gt;1.567 apostas acertaram quatro dezenas e irão receber R$971,64 cada&lt;/p&gt;
 &lt;p&gt;Para o próximo concurso, as apostas podem ser feitas até as 20h (horário de Brasília) de quinta-feira (27), em qualquer lotérica do país ou pela internet, no&lt;/p&gt;
 &lt;p&gt;A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;Anvisa aprova novo medicamento para tratar linfoma folicular&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 25 de agosto de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Búzios inaugura Banco Vermelho em memória a vítimas de feminicídio&lt;/p&gt;
-&lt;p&gt;Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7&lt;/p&gt;
-&lt;p&gt;PM ocupa cinco comunidades do Complexo de Israel, no Rio&lt;/p&gt;
-&lt;p&gt;Mendonça propõe tese para julgamento sobre deep fake no TSE&lt;/p&gt;
-&lt;p&gt;Mega-Sena acumula para R$ 25 milhões; confira os números sorteados&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-25-milhoes-confira-os-numeros-sorteados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Corte de cargos em comissão no RJ já ultrapassa marca dos seis mil&lt;/p&gt;
+&lt;p&gt;Uso de carro particular em campanha pode resultar em perda do seguro&lt;/p&gt;
+&lt;p&gt;Centro-Oeste tem três alertas ativos para chuvas e baixa umidade&lt;/p&gt;
+&lt;p&gt;Pé-de-Meia: nascidos em maio e junho recebem parcela nesta quarta&lt;/p&gt;
+&lt;p&gt;Confira a agenda dos presidenciáveis nesta quarta-feira (26)&lt;/p&gt;
+&lt;p&gt;Pelo menos 14 bebês morrem em incêndio em hospital no Paquistão&lt;/p&gt;
+&lt;p&gt;Candidaturas negras avançam e se aproximam de perfil racial do país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-25-milhoes-confira-os-numeros-sorteados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 Nenhum apostador acertou as seis dezenas do Concurso 3.049da Mega-Sena, realizado nestaterça-feira (25).
 O prêmio ac...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-08-25 21:32:00</wp:post_date>
       <wp:post_date_gmt>2026-08-25 21:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-25 21:32:00</wp:post_modified>
@@ -265,9 +457,9 @@ O prêmio ac...</excerpt:encoded>
     <item>
       <title>Veja como foi a terça-feira (25) dos candidatos a presidente</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-terca-feira-25-dos-candidatos-presidente</link>
-      <pubDate>Wed, 26 Aug 2026 11:21:19 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 12:35:52 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-terca-feira-25-dos-candidatos-presidente#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-terca-feira-25-dos-candidatos-presidente#1009</guid>
       <description>A agenda dos candidatos à Presidência da República nesta terça-feira (25) incluiu sabatinas, entrevistas à imprensa e participação em fóruns e evento...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL&quot; alt=&quot;Veja como foi a terça-feira (25) dos candidatos a presidente&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A agenda dos candidatos à Presidência da República nesta terça-feira (25) incluiu sabatinas, entrevistas à imprensa e participação em fóruns e eventos de campanha.&lt;/p&gt;
@@ -286,7 +478,7 @@ O prêmio ac...</excerpt:encoded>
 &lt;p&gt;Ele defendeu a regulamentação e um sistema defiscalização por meio de um Procurador-Geral da República independente.&lt;/p&gt;
 &lt;p&gt;“O Congresso Nacional não se importa com projeto, com nenhum tema nacional, só se importa com emenda”, disse&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-terca-feira-25-dos-candidatos-presidente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A agenda dos candidatos à Presidência da República nesta terça-feira (25) incluiu sabatinas, entrevistas à imprensa e participação em fóruns e evento...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-08-25 21:04:00</wp:post_date>
       <wp:post_date_gmt>2026-08-25 21:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-08-25 21:04:00</wp:post_modified>
@@ -307,198 +499,6 @@ O prêmio ac...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Beleza nos céus, halo solar não é sinal de chuva, diz especialista</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/beleza-nos-ceus-halo-solar-nao-e-sinal-de-chuva-diz-especialista</link>
-      <pubDate>Wed, 26 Aug 2026 11:21:19 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/beleza-nos-ceus-halo-solar-nao-e-sinal-de-chuva-diz-especialista#1006</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-Os mais românticos podem ter aproveitado a cena para dizer que o amor estava no ar.
-Mas, de verdade, o halo solar q...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/OVFCGFF0gGSn0Y69ZSUSS4Zvs_Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/25/img_9701.jpg-3-3.jpg?itok=h3zfINa3&quot; alt=&quot;Beleza nos céus, halo solar não é sinal de chuva, diz especialista&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Os mais românticos podem ter aproveitado a cena para dizer que o amor estava no ar.&lt;/p&gt;
-&lt;p&gt;Mas, de verdade, o halo solar que apareceu nesta terça (25) para moradores de cidades principalmente do Centro-Oeste, incluindo Brasília (DF), é um fenômeno comum parecido com um arco-íris e não representa previsão chuva por aí.&lt;/p&gt;
-&lt;p&gt;“É muito bonito de se visualizar. O halo solar é um fenômeno óptico, atmosférico, que forma um anel luminoso e colorido ao redor do Sol”, explica a meteorologista Andrea Ramos, que atua como consultora em Brasília.&lt;/p&gt;
-&lt;p&gt;A especialista destaca que o halo não traz consigo um perigo porque se trata de um fenômeno físico comum e natural, sem relação com temperaturas solares ou radiações nocivas.&lt;/p&gt;
-&lt;p&gt;“Não é alerta de chuva. Na sabedoria popular, o halo costuma indicar condição de instabilidade ou mesmo a frente fria, mas não tem nada a ver”, afirma.&lt;/p&gt;
-&lt;p&gt;No entanto, a meteorologista acrescenta que as pessoas devem ter cuidado ao olhar diretamente para o Sol sem proteção porque poderia causar danos à retina. “Essa é a única preocupação realmente. É um fenômeno muito bonito”.&lt;/p&gt;
-&lt;p&gt;A especialista explica que isso ocorre quando a luz solar passa por “cirrostratus”, que são as nuvens altas e finas (de cinco a 10 quilômetros de altura) que formam um véu esbranquiçado e transparente.&lt;/p&gt;
-&lt;p&gt;A formação ocorre porque essas nuvens contêm minúsculos cristais de gelo com formato hexagonal. “Esses cristais funcionam como pequenos prismas. A luz entra, ocorre a refração, e se divide em cores do espectro visível”, ressalta a meteorologista.&lt;/p&gt;
-&lt;p&gt;Anvisa aprova novo medicamento para tratar linfoma folicular&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 25 de agosto de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Olimpíada de educação financeira tem última semana de inscrições&lt;/p&gt;
-&lt;p&gt;Búzios inaugura Banco Vermelho em memória a vítimas de feminicídio&lt;/p&gt;
-&lt;p&gt;Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7&lt;/p&gt;
-&lt;p&gt;PM ocupa cinco comunidades do Complexo de Israel, no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/beleza-nos-ceus-halo-solar-nao-e-sinal-de-chuva-diz-especialista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-Os mais românticos podem ter aproveitado a cena para dizer que o amor estava no ar.
-Mas, de verdade, o halo solar q...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-08-25 20:20:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-25 20:20:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-25 20:20:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-25 20:20:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/OVFCGFF0gGSn0Y69ZSUSS4Zvs_Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/25/img_9701.jpg-3-3.jpg?itok=h3zfINa3</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Rio exonera 6,1 mil comissionados e prevê economia de R$ 221 milhões</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/rio-exonera-61-mil-comissionados-e-preve-economia-de-r-221-milhoes</link>
-      <pubDate>Wed, 26 Aug 2026 11:21:19 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/rio-exonera-61-mil-comissionados-e-preve-economia-de-r-221-milhoes#1007</guid>
-      <description>A atual gestão do governo do Estado do Rio de Janeiro cortou mais de 6 mil cargos em comissão em todos os órgãos da administração, de um total de 14....</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/sVjQwdyGU4w4r2m8Q2I588E1agw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/24/ricardo-couto-de-castro.jpg?itok=fOniMsxA&quot; alt=&quot;Rio exonera 6,1 mil comissionados e prevê economia de R$ 221 milhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A atual gestão do governo do Estado do Rio de Janeiro cortou mais de 6 mil cargos em comissão em todos os órgãos da administração, de um total de 14.340 comissionados existentes em março de 2026. A projeção é que a medida gere uma economia de R$ 221 milhões até dezembro.&lt;/p&gt;
-&lt;p&gt;Grande parte dos servidores exonerados sequer tinha senhas de acesso aos sistemas do Estado, como o SEI, sendo considerados funcionários fantasmas. Os comissionados fantasmas apareciam apenas uma vez por mês para assinar a folha de ponto.&lt;/p&gt;
-&lt;p&gt;Até o dia 21 de agosto, já foram exonerados 6.145 servidores comissionados, enquanto as nomeações somam 2.496. A economia considera apenas os cargos que continuam vagos.&lt;/p&gt;
-&lt;p&gt;Há previsão de novasexonerações conforme os trabalhos de auditoria em andamento no Gabinete de Segurança Institucional e na Controladoria Geral do Estado forem concluídos.&lt;/p&gt;
-&lt;p&gt;As nomeações do primeiro escalão realizadas desde março são compostas, em sua maioria, por servidores de carreira. Em todos os níveis, os escolhidos passam por avaliação do Gabinete de Segurança Institucional (GSI). As decisões têm como premissa fundamental a preservação do erário e a aplicação responsável e eficiente dos recursos públicos baseada em eficiência, transparência e resultados.&lt;/p&gt;
-&lt;p&gt;Atualmente, a estrutura do governo conta com 28 secretarias. Em março, eram 32.&lt;/p&gt;
-&lt;p&gt;Para reduzir o número de pastas, o governo optou pela fusão de algumas secretarias.&lt;/p&gt;
-&lt;p&gt;A gestão interina do desembargador Ricardo Couto teve início no dia 23 de março de 2026. Ele assumiu o cargo após o governadorCláudio Castro renunciar para disputar uma vaga no Senado Federal.&lt;/p&gt;
-&lt;p&gt;No dia 24 de março, o Tribunal Superior Eleitoral (TSE) tornou o ex-governador Cláudio Castro inelegível. No dia 2 de junho, o plenário do TSE julgou os recursos e manteve a condenação por 5 votos a 2. Com a decisão, Castro ficou inelegível por oito anos, contados a partir da eleição de 2022, tornando-se inelegívelaté 2030.&lt;/p&gt;
-&lt;p&gt;Anvisa aprova novo medicamento para tratar linfoma folicular&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 25 de agosto de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Olimpíada de educação financeira tem última semana de inscrições&lt;/p&gt;
-&lt;p&gt;Búzios inaugura Banco Vermelho em memória a vítimas de feminicídio&lt;/p&gt;
-&lt;p&gt;Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7&lt;/p&gt;
-&lt;p&gt;PM ocupa cinco comunidades do Complexo de Israel, no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/rio-exonera-61-mil-comissionados-e-preve-economia-de-r-221-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A atual gestão do governo do Estado do Rio de Janeiro cortou mais de 6 mil cargos em comissão em todos os órgãos da administração, de um total de 14....</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-08-25 20:20:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-25 20:20:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-25 20:20:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-25 20:20:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/sVjQwdyGU4w4r2m8Q2I588E1agw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/24/ricardo-couto-de-castro.jpg?itok=fOniMsxA</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Presidente do TSE conclama eleitores a comparecerem às urnas</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/presidente-do-tse-conclama-eleitores-comparecerem-urnas</link>
-      <pubDate>Wed, 26 Aug 2026 11:21:19 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/presidente-do-tse-conclama-eleitores-comparecerem-urnas#1008</guid>
-      <description>O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, conclamou nesta terça-feira (25) os eleitores a comparecem às urnas...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zM4JZGHb4z0OCzLLGrDWp2B-700=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/17/tse_lanca_campanha_para_estimular_participacao_da_populacao_nas_eleicoes02.jpg?itok=IYvVdg7J&quot; alt=&quot;Presidente do TSE conclama eleitores a comparecerem às urnas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, conclamou nesta terça-feira (25) os eleitores a comparecem às urnas nas eleições de outubro.&lt;/p&gt;
-&lt;p&gt;Durante a abertura da sessão de julgamentos desta noite, Kassio lembrou que faltam menos de 40 dias para o pleito e convidou os eleitores a exercerem &quot;com orgulho&quot; o direito de votar.&lt;/p&gt;
-&lt;p&gt;&quot;Conclamo toda sociedade a se preparar para o pleito de outubro. Compareçam às urnas, exerçam com o orgulho o direito de escolher nossos representantes e continuem a ser a força viva da integridade da nossa democracia&quot;, afirmou.&lt;/p&gt;
-&lt;p&gt;O presidente também informou que o TSE realizou no último domingo (23) uma&lt;/p&gt;
-&lt;p&gt;Para o ministro, a simulação confirmou que o sistema eletrônico de votação é seguro e transparente.&lt;/p&gt;
-&lt;p&gt;&quot;O grande protagonista da festa da democracia é o povo, e o motor da nossa atuação é a soberania do voto. Mais do que testar tecnologias e procedimentos operacionais, essa simulação real serviu para reafirmar o compromisso: a Justiça Eleitoral está onde a população está&quot;, completou.&lt;/p&gt;
-&lt;p&gt;O primeiro turno será realizado no dia 4 de outubro, quando serão&lt;/p&gt;
-&lt;p&gt;O segundo turno está marcado para o dia 25 e pode ocorrer na disputa para os cargos de governador e presidente. Os eleitores voltarão às urnas se nenhum dos candidatos obtiver mais de 50% dos votos válidos, excluindo brancos e nulos, no primeiro turno.&lt;/p&gt;
-&lt;p&gt;De acordo com o TSE, 158 milhões eleitores estarão aptos a exercerem o direito de votar.&lt;/p&gt;
-&lt;p&gt;Anvisa aprova novo medicamento para tratar linfoma folicular&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 25 de agosto de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Olimpíada de educação financeira tem última semana de inscrições&lt;/p&gt;
-&lt;p&gt;Búzios inaugura Banco Vermelho em memória a vítimas de feminicídio&lt;/p&gt;
-&lt;p&gt;Caixa paga Bolsa Família de agosto a beneficiários com NIS de final 7&lt;/p&gt;
-&lt;p&gt;PM ocupa cinco comunidades do Complexo de Israel, no Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/presidente-do-tse-conclama-eleitores-comparecerem-urnas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, conclamou nesta terça-feira (25) os eleitores a comparecem às urnas...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-08-25 20:11:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-25 20:11:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-25 20:11:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-25 20:11:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/zM4JZGHb4z0OCzLLGrDWp2B-700=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/17/tse_lanca_campanha_para_estimular_participacao_da_populacao_nas_eleicoes02.jpg?itok=IYvVdg7J</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Fila de espera do INSS cai para 1,2 milhão de requerimentos</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fila-de-espera-do-inss-cai-para-12-milhao-de-requerimentos</link>
-      <pubDate>Wed, 26 Aug 2026 11:21:19 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fila-de-espera-do-inss-cai-para-12-milhao-de-requerimentos#1009</guid>
-      <description>A fila de pedidos de análise de benefícios do Instituto Nacional do Seguro Social (INSS) que caiu para 1,282 milhão de requerimentos, segundo dados p...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/HIabNYFkYlbYWam1RgtzXkuNUg4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/26/aed0d977-1d92-4c21-8c2f-a8806ca1fb8b.jpeg?itok=QX7COsYx&quot; alt=&quot;Fila de espera do INSS cai para 1,2 milhão de requerimentos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A fila de pedidos de análise de benefícios do Instituto Nacional do Seguro Social (INSS) que caiu para 1,282 milhão de requerimentos, segundo dados parciais até 24 de agosto.&lt;/p&gt;
-&lt;p&gt;É o menor patamar da série histórica iniciada em janeiro de 2023.&lt;/p&gt;
-&lt;p&gt;O número representa uma redução de 59% em relação a janeiro, quando havia 3,073 milhões de requerimentos pendentes.&lt;/p&gt;
-&lt;p&gt;Os dados foram apresentados pelo diretor de Benefícios do INSS, Leonardo Bittencourt, durante reunião do Conselho Nacional de Previdência Social (CNPS).&lt;/p&gt;
-&lt;p&gt;Entre os processos que aguardam há mais de 45 dias, a redução foi ainda maior. Atualmente, são 261 mil requerimentos, contra 1,882 milhão em janeiro, queda de 86%.&lt;/p&gt;
-&lt;p&gt;O total de requerimentos não representa o número de pessoas porque, em tese, um segurado pode abrir mais de um pedido de análise no INSS.&lt;/p&gt;
-&lt;p&gt;• Fila total: 1,282 milhão de processos;&lt;/p&gt;
-&lt;p&gt;• Requerimentos de mais de 45 dias: 261 mil;&lt;/p&gt;
-&lt;p&gt;• Queda nessa parcela desde janeiro: 86%.&lt;/p&gt;
-&lt;p&gt;A redução da fila ocorre ao mesmo tempo em que o INSS registra um recorde na concessão de benefícios.&lt;/p&gt;
-&lt;p&gt;De janeiro a julho de 2026, o instituto concedeu, em média, 730 mil benefícios por mês. O número é 67% superior à média registrada no mesmo período de 2022, quando foram concedidos 438 mil benefícios mensais.&lt;/p&gt;
-&lt;p&gt;Em 2025, a média mensal entre janeiro e julho havia sido de 641 mil benefícios.&lt;/p&gt;
-&lt;p&gt;O aumento nas concessões está relacionado às medidas adotadas para acelerar a análise dos pedidos e reduzir o estoque de processos pendentes.&lt;/p&gt;
-&lt;p&gt;O tempo médio para a análise de um benefício pelo INSS está atualmente em 35 dias. O prazo varia de acordo com o tipo de pedido.&lt;/p&gt;
-&lt;p&gt;• Salário-maternidade: 11 dias;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-08/fila-de-espera-do-inss-cai-para-12-milhao-de-requerimentos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A fila de pedidos de análise de benefícios do Instituto Nacional do Seguro Social (INSS) que caiu para 1,282 milhão de requerimentos, segundo dados p...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-08-25 20:11:00</wp:post_date>
-      <wp:post_date_gmt>2026-08-25 20:11:00</wp:post_date_gmt>
-      <wp:post_modified>2026-08-25 20:11:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-08-25 20:11:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/HIabNYFkYlbYWam1RgtzXkuNUg4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/26/aed0d977-1d92-4c21-8c2f-a8806ca1fb8b.jpeg?itok=QX7COsYx</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
