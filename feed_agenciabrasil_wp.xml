@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 02 Sep 2026 21:28:38 +0000</pubDate>
+    <pubDate>Wed, 02 Sep 2026 23:44:13 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,248 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Bolsa dispara 3% e atinge o maior nível desde maio</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bolsa-dispara-3-e-atinge-o-maior-nivel-desde-maio</link>
+      <pubDate>Wed, 02 Sep 2026 23:44:13 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bolsa-dispara-3-e-atinge-o-maior-nivel-desde-maio#1000</guid>
+      <description>© REUTERS/Amanda Perobelli/Direitos Reservados
+Num dia marcado pela escalada das tensões entre Estados Unidos e Irãe pelo cenário eleitoral no Brasil...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cauHduw3id-MLAHy8ymvhaNMdVU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2021-10-19t202053z_1211697182_rc25dq9bcpf7_rtrmadp_3_brazil-economy.jpg?itok=nMj2Rg2d&quot; alt=&quot;Bolsa dispara 3% e atinge o maior nível desde maio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© REUTERS/Amanda Perobelli/Direitos Reservados&lt;/p&gt;
+&lt;p&gt;Num dia marcado pela escalada das tensões entre Estados Unidos e Irãe pelo cenário eleitoral no Brasil,&lt;/p&gt;
+&lt;p&gt;a bolsa disparou mais de 3% e atingiu o nível mais alto desde maio&lt;/p&gt;
+&lt;p&gt;O dólar caiu pela terceira vez seguida e encerrou no menor valor em três semanas.&lt;/p&gt;
+&lt;p&gt;Principal índice da B3, o Ibovespa disparou 3,05% nesta quarta-feira (2), aos 185.205,09 pontos. O indicador subiu pela 11ª vez seguida.&lt;/p&gt;
+&lt;p&gt;o dólar comercial caiu 0,91%, a R$ 5,106&lt;/p&gt;
+&lt;p&gt;, no terceiro pregão seguido de queda. No exterior, o petróleo avançou diante da escalada das tensões entre Estados Unidos e Irã.&lt;/p&gt;
+&lt;p&gt;Ibovespa: 185.205,09 pontos (+3,05%);&lt;/p&gt;
+&lt;p&gt;Dólar comercial: R$ 5,106 (-0,91%);&lt;/p&gt;
+&lt;p&gt;Petróleo tipo WTI: US$ 91,01 (+0,88%);&lt;/p&gt;
+&lt;p&gt;Petróleo tipo Brent: US$ 95,63 (+1,04%).&lt;/p&gt;
+&lt;p&gt;O Ibovespa teve a maior valorização percentual em um único dia desde março e chegou a 186.028,06 pontos na máxima&lt;/p&gt;
+&lt;p&gt;, nível não alcançado desde 6 de maio. Na mínima, o índice marcou 179.733,57 pontos.&lt;/p&gt;
+&lt;p&gt;Além do cenário eleitoral, o desempenho foi sustentado pelo fluxo de investidores estrangeiros para ações brasileiras. Depois de uma forte saída de capital externo nas primeiras semanas de agosto, os estrangeiros voltaram a comprar ativos locais nos últimos pregões do mês passado.&lt;/p&gt;
+&lt;p&gt;O dólar à vista fechou em R$ 5,106, com queda de 0,91%&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bolsa-dispara-3-e-atinge-o-maior-nivel-desde-maio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© REUTERS/Amanda Perobelli/Direitos Reservados
+Num dia marcado pela escalada das tensões entre Estados Unidos e Irãe pelo cenário eleitoral no Brasil...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-09-02 19:54:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-02 19:54:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-02 19:54:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-02 19:54:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/cauHduw3id-MLAHy8ymvhaNMdVU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2021-10-19t202053z_1211697182_rc25dq9bcpf7_rtrmadp_3_brazil-economy.jpg?itok=nMj2Rg2d</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Mendonça confirma depoimento de Vorcaro em seu gabinete</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-confirma-depoimento-de-vorcaro-em-seu-gabinete</link>
+      <pubDate>Wed, 02 Sep 2026 23:44:13 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-confirma-depoimento-de-vorcaro-em-seu-gabinete#1001</guid>
+      <description>O gabinete do ministro do Supremo Tribunal Federal (STF) André Mendonça confirmou, em nota, quecolheu depoimento de Daniel Vorcaro no própriogabinete...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZksmSnw6HqnlDm1c7pF-FM1CLLU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/52734946769_e09c8ea6de_o.jpg?itok=79694ivk&quot; alt=&quot;Mendonça confirma depoimento de Vorcaro em seu gabinete&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O gabinete do ministro do Supremo Tribunal Federal (STF) André Mendonça confirmou, em nota, quecolheu depoimento de Daniel Vorcaro no própriogabinete. O texto não informa quando ocorreu a reunião, mas destaca que se deu após o dono do Banco Masterrelatar intimidações sofridas e pedir para ser ouvido com urgência.&lt;/p&gt;
+&lt;p&gt;O depoimento foi acompanhado por um representante do Ministério Público (MP), mas não havia ninguém da Polícia Federal (PF) presente. Mendonça é o relator do processo que investiga as fraudes do Master e na nota divulgadao ministro defendeo procedimento adotado.&lt;/p&gt;
+&lt;p&gt;“A presença de representante do Ministério Público em audiências dessa natureza é exigência legal, e foi observada. Quanto à Polícia Federal, as normas do Conselho Nacional de Justiça consagram, como garantia de incolumidade física e psicológica do depoente, o afastamento da equipe policial responsável pela investigação nos atos em que ele é ouvido”, explicou o ministro na nota.&lt;/p&gt;
+&lt;p&gt;“Tratando-se de depoimento motivado por relato de graves intimidações, a não convocação de agentes policiais seguiu essa mesma diretriz de proteção, e não qualquer escolha de conveniência do gabinete”, acrescentou.&lt;/p&gt;
+&lt;p&gt;A existência desse depoimento foi revelada pelo jornal O Globo na manhã desta quarta-feira (2), e confirmada posteriormente pelo gabinete do ministro.&lt;/p&gt;
+&lt;p&gt;De acordo com a equipe de Mendonça, Vorcaro não tratou do ministro Alexandre de Moraes, colega de Mendonça no STF, no depoimento.&lt;/p&gt;
+&lt;p&gt;“O conteúdo da audiência é resguardado por sigilo legal. Registre-se, apenas, que a informação de que teriam sido abordados temas relacionados ao ministro Alexandre de Moraes não procede”.&lt;/p&gt;
+&lt;p&gt;Nessa terça-feira (1º), Mendonça tornou públicas as apurações da PF sobre&lt;/p&gt;
+&lt;p&gt;conversas de Vorcaro e seus aliados com Alexandre de Moraes&lt;/p&gt;
+&lt;p&gt;. As citações ao nome de Moraes foram captadas a partir da quebra de sigilo do celular do ex-banqueiro, alvo da Operação Compliance Zero, que investiga fraudes financeiras no Banco Master.&lt;/p&gt;
+&lt;p&gt;Em uma das mensagens recuperadas, Vorcaro diz ao contato atribuído a Moraes que “estava tentando antecipar os investigadores”. A conversa teria ocorrido no dia 17 de novembro de 2025.&lt;/p&gt;
+&lt;p&gt;Ainda na noite de ontem (1º), o procurador-geral da República, Paulo Gonet,&lt;/p&gt;
+&lt;p&gt;defendeu a nulidade da investigação da PF&lt;/p&gt;
+&lt;p&gt;. Para Gonet, Mendonça investigou Moraes ilegalmente, sem autorização do plenário do STF, ao determinar o aprofundamento da investigação sobre o caso Master para esmiuçar as conversas envolvendo Moraes e o ex-banqueiro.&lt;/p&gt;
+&lt;p&gt;Presidenciáveis fazem campanha eleitoral pelo país&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-confirma-depoimento-de-vorcaro-em-seu-gabinete&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O gabinete do ministro do Supremo Tribunal Federal (STF) André Mendonça confirmou, em nota, quecolheu depoimento de Daniel Vorcaro no própriogabinete...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-09-02 19:30:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-02 19:30:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-02 19:30:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-02 19:30:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/ZksmSnw6HqnlDm1c7pF-FM1CLLU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/52734946769_e09c8ea6de_o.jpg?itok=79694ivk</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>CCJ do Senado aprova texto-base da PEC da Segurança Pública</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-texto-base-da-pec-da-seguranca-publica</link>
+      <pubDate>Wed, 02 Sep 2026 23:44:13 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-texto-base-da-pec-da-seguranca-publica#1002</guid>
+      <description>O texto-base da Proposta de Emenda à Constituição (PEC) nº 18/2025, conhecida como PEC da Segurança Pública, foi aprovado em votação simbólica na Com...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Rze9nev2rTcypUl5LSC_yT0YTrM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/02/55504631161_13e358598c_o.jpg?itok=Qy1ZQWHm&quot; alt=&quot;CCJ do Senado aprova texto-base da PEC da Segurança Pública&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O texto-base da Proposta de Emenda à Constituição (PEC) nº 18/2025, conhecida como PEC da Segurança Pública, foi aprovado em votação simbólica na Comissão de Constituição e Justiça (CCJ) do Senado Federal, na tarde desta quarta-feira (2). De autoria do Poder Executivo, a proposta endurece regras para chefes de facções criminosas&lt;/p&gt;
+&lt;p&gt;e estabelece novo pacto federativo entre União, estados e municípios para o enfrentamento ao crime organizado no Brasil. O textojá passou na Câmara dos Deputados, na forma de um substitutivo.&lt;/p&gt;
+&lt;p&gt;&quot;A proposta nasceu de um diagnóstico que já não pode mais ser ignorado: a criminalidade organizada deixou de ser um problema estadual isolado e assumiu dimensão nacional e até internacional&quot;, destacou o relator da proposta, o senador Rogério Carvalho (PT-SE).&lt;/p&gt;
+&lt;p&gt;Segundo ele, as facções que ameaçam a segurança nas cidades foram gestadas no interior de presídios estaduais e se enraizaram em territórios vulnerabilizados, aproveitando-se de um modelo constitucional de segurança pública descentralizado, no qual cada estado conduzia sua própria política, sem mecanismos efetivos de governança ou diálogo interfederativo.&lt;/p&gt;
+&lt;p&gt;Como um dos destaques apresentados na CCJ não foi analisado durante a reunião, por conta do início da sessão no plenário do Senado, o colegiado deverá retomar a votação em outro momento para concluir a análise do projeto.&lt;/p&gt;
+&lt;p&gt;De acordo com o líder do governo no Congresso, senador Randolfe Rodrigues (PT-AP), a PEC da Segurança Pública só deve ser votada em plenário no próximo esforço concentrado, previsto para a segunda semana de outubro, após o 1º turno das eleições.&lt;/p&gt;
+&lt;p&gt;No parecer, Carvalho rejeitou a maior das emendas apresentadas.&lt;/p&gt;
+&lt;p&gt;Entre as que foram acolhidas estão emendas que impedem a inserção, naConstituição Federal, daprevisão de arrecadação de recursos de empresas de apostas digitais, as bets.&lt;/p&gt;
+&lt;p&gt;O dispositivo tinha sido incluído no texto da PEC por deputados durante a tramitação. Pelo texto vindo da Câmara, 30% da arrecadação das apostas de quota fixa, depois de determinadas deduções, seria uma das fontes de recursos do Fundo Nacional de Segurança Pública (FNSP) e do Fundo Penitenciário Nacional (Funpen).&lt;/p&gt;
+&lt;p&gt;O trecho foi apelidado de &quot;constitucionalização das bets&quot;.&lt;/p&gt;
+&lt;p&gt;Na versão aprovada pelos senadores, no entanto, o dispositivo foi retirado, passando para uma definição por meio de lei ordinária, e não previsão constitucional.&lt;/p&gt;
+&lt;p&gt;Entre as emendas rejeitadas estavam uma que cria, na Constituição, um Sistema Nacional de Antecedentes Criminais (SINAC) e outra que retirava a competência do Tribunal do Júri para julgar determinados homicídios praticados por integrantes de organizações criminosas ultraviolentas. Segundo o relator, o sistema de antecedentes poderia ser criado por lei ordinária, enquanto eventual questionamento sobre a constitucionalidade da regra relativa ao Tribunal do Júri deveria ser resolvido pelo Supremo Tribunal Federal (STF).&lt;/p&gt;
+&lt;p&gt;Uma emenda que incluía os agentes de trânsito entre os órgãos de segurança pública previstos na Constituição também foi rejeitada por tratar de tema que, na avaliação de Rogério Carvalho, foge do foco da PEC e já é objeto de outra proposta em tramitação no Senado.&lt;/p&gt;
+&lt;p&gt;Também foi rejeitada uma emenda que alterava a base de cálculo dos recursos destinados FNSP e ao Funpen, além de antecipar a entrada em vigor da nova regra.&lt;/p&gt;
+&lt;p&gt;O texto-base da PEC aprovada no Senado propõe, entre outras medidas, a constitucionalização do Sistema Único de Segurança Pública (Susp), alterando o artigo 144 da Consituição.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-texto-base-da-pec-da-seguranca-publica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O texto-base da Proposta de Emenda à Constituição (PEC) nº 18/2025, conhecida como PEC da Segurança Pública, foi aprovado em votação simbólica na Com...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-09-02 18:55:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-02 18:55:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-02 18:55:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-02 18:55:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Rze9nev2rTcypUl5LSC_yT0YTrM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/02/55504631161_13e358598c_o.jpg?itok=Qy1ZQWHm</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Censo Escolar 2026: dados da 1ª etapa podem ser conferidos até dia 11</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-2026-gestor-checa-informacoes-da-1a-etapa-ate-dia-11</link>
+      <pubDate>Wed, 02 Sep 2026 23:44:13 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-2026-gestor-checa-informacoes-da-1a-etapa-ate-dia-11#1003</guid>
+      <description>Escolas das redes de ensino municipais, estaduais e do Distrito Federal poderão conferir, até 11 de setembro, as informações prestadas na primeira et...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ojoJFQ8QpGU0ciZZb9XN34hq1-M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/05/toms0716.jpg?itok=CFRj9vgX&quot; alt=&quot;Censo Escolar 2026: dados da 1ª etapa podem ser conferidos até dia 11&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Escolas das redes de ensino municipais, estaduais e do Distrito Federal poderão conferir, até 11 de setembro, as informações prestadas na primeira etapa do Censo Escolar da Educação Básica 2026 — Matrícula Inicial.&lt;/p&gt;
+&lt;p&gt;Pela primeira vez, os relatórios com os dados declarados durante o período oficial de coleta podem ser consultados no&lt;/p&gt;
+&lt;p&gt;do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep).&lt;/p&gt;
+&lt;p&gt;A consulta permite que os responsáveis identifiquem possíveis inconsistências dos dados declarados antes da abertura do período oficial de retificação.&lt;/p&gt;
+&lt;p&gt;O Censo Escolar, coordenado pelo Inep, abrange as diferentes etapas e modalidades da educação básica e da educação profissional, incluindo educação infantil, ensino fundamental, ensino médio, educação de jovens e adultos (EJA) e educação profissional.&lt;/p&gt;
+&lt;p&gt;Até o dia 11, o Sistema Educacenso estará disponível exclusivamente para leitura. Portanto, os gestores de ensino e os responsáveis nas escolas não poderão editar ou alterar as informações declaradas.&lt;/p&gt;
+&lt;p&gt;Após a publicação dos dados preliminares do Censo Escolar 2026 no Diário Oficial da União (DOU), prevista para a segunda quinzena de setembro, a funcionalidade de edição será aberta para retificação de eventuais inconsistências identificadas nos dados informados.&lt;/p&gt;
+&lt;p&gt;, o período de conferência e retificação dos dados terá duração de 30 dias. O procedimento deverá ser feito no mesmo Sistema EducaCenso, do Inep.&lt;/p&gt;
+&lt;p&gt;O cronograma também prevê queno dia 11 de dezembrodeverá ocorrer o envio dos dados finais homologados ao Fundo Nacional de Desenvolvimento da Educação (FNDE).&lt;/p&gt;
+&lt;p&gt;As informações são usadas no cálculo dos coeficientes de distribuição do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb).&lt;/p&gt;
+&lt;p&gt;A divulgação dos resultados finais da primeira etapa, das sinopses estatísticas e dos demais estatísticas da Educação Básica está programada para 1º de fevereiro de 2027.&lt;/p&gt;
+&lt;p&gt;Em 1º de fevereiro de 2027tem início a segunda etapa do Censo Escolar da Educação Básica 2026, que trata da situação do aluno.&lt;/p&gt;
+&lt;p&gt;Nesta fase, o diretor ou responsável pela escola deverá coletar as informações sobre rendimento e movimento escolar daqueles estudantes que foram declarados na primeira etapa, incluindo dados de aprovação, reprovação, abandono e transferência.&lt;/p&gt;
+&lt;p&gt;O período de coleta termina no dia12 de março de 2027.&lt;/p&gt;
+&lt;p&gt;As taxas preliminares de rendimento escolar e os relatórios por escola estarão disponíveis para conferência a partir de 1º de abril de 2027.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-2026-gestor-checa-informacoes-da-1a-etapa-ate-dia-11&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Escolas das redes de ensino municipais, estaduais e do Distrito Federal poderão conferir, até 11 de setembro, as informações prestadas na primeira et...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-09-02 18:22:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-02 18:22:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-02 18:22:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-02 18:22:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/ojoJFQ8QpGU0ciZZb9XN34hq1-M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/05/toms0716.jpg?itok=CFRj9vgX</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Fiocruz vai iniciar testes da primeira vacina RNAm contra a covid-19</title>
+      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/fiocruz-vai-iniciar-testes-da-primeira-vacina-rnam-contra-covid-19</link>
+      <pubDate>Wed, 02 Sep 2026 23:44:13 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/fiocruz-vai-iniciar-testes-da-primeira-vacina-rnam-contra-covid-19#1004</guid>
+      <description>A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou a Fundação Oswaldo Cruz (Fiocruz) a iniciar os estudos clínicos da vacina de RNA mensag...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1f-MINd9gezsDypudijwNKyFsYI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/02/vacina_bernardoportella_m.jpg?itok=p8W_06JN&quot; alt=&quot;Fiocruz vai iniciar testes da primeira vacina RNAm contra a covid-19&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou a Fundação Oswaldo Cruz (Fiocruz) a iniciar os estudos clínicos da vacina de RNA mensageiro (RNAm) contra a covid-19. A vacina é a primeira produzida com esta tecnologia no país.&lt;/p&gt;
+&lt;p&gt;O imunizante foi totalmente desenvolvido na plataforma RNAm da Fiocruz. O estudo de Fase 1 tem o objetivo de avaliar a segurança e a imunogenicidade do reforço vacinal com a vacina COVID19 (RNAm) da Biomanguinhos/Fiocruz em participantes adultos sadios.&lt;/p&gt;
+&lt;p&gt;A vacina do Instituto de Tecnologia em Imunobiológicos passou pelo estágio pré-clínico, que mostrou eficácia na proteção contra a doença. Também foram realizados estudos toxicológicos e de escalonamento.&lt;/p&gt;
+&lt;p&gt;O recrutamento dos participantes para a Fase 1 do estudo clínico está previsto para começar no primeiro trimestre de 2027.&lt;/p&gt;
+&lt;p&gt;Serão incluídos no estudo 90 participantes saudáveis entre 18 e 59 anos.&lt;/p&gt;
+&lt;p&gt;As pessoas serão recrutadas nos centros Unidade de Ensaios Clínicos para Imunobiológicos e Policlínica Lincoln de Freitas Filho, no Rio de Janeiro (RJ).&lt;/p&gt;
+&lt;p&gt;O período de inclusão desse grupo no estudo deverá ser de seis meses. Após a inclusão, cada participante será acompanhado por mais seis meses.&lt;/p&gt;
+&lt;p&gt;Na primeira fase, são testadas a segurança e a imunogenicidade do reforço da vacina. O estudo clínico vai avaliar o uso do imunizante como dose de reforço, como consta atualmente no calendário do Programa Nacional de Imunizações (PNI).&lt;/p&gt;
+&lt;p&gt;Presidenciáveis fazem campanha eleitoral pelo país&lt;/p&gt;
+&lt;p&gt;Anvisa suspende fabricação de produtos da Unilever em Vinhedo (SP)&lt;/p&gt;
+&lt;p&gt;Discord terá dez dias para apresentar proposta de proteção a usuários&lt;/p&gt;
+&lt;p&gt;Aquecimento além de 1,5°C ameaça saúde, agricultura e economia&lt;/p&gt;
+&lt;p&gt;Mesmo com nota 10, Medina é vice-campeão da etapa de Fiji da WSL&lt;/p&gt;
+&lt;p&gt;Bolsa dispara 3% e atinge o maior nível desde maio&lt;/p&gt;
+&lt;p&gt;Mendonça confirma depoimento de Vorcaro em seu gabinete&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/fiocruz-vai-iniciar-testes-da-primeira-vacina-rnam-contra-covid-19&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou a Fundação Oswaldo Cruz (Fiocruz) a iniciar os estudos clínicos da vacina de RNA mensag...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-09-02 18:17:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-02 18:17:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-02 18:17:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-02 18:17:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/1f-MINd9gezsDypudijwNKyFsYI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/02/vacina_bernardoportella_m.jpg?itok=p8W_06JN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Professores de escolas particulares do Rio fazem greve de 24 horas</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-de-escolas-particulares-no-rio-fazem-greve-de-24-horas</link>
-      <pubDate>Wed, 02 Sep 2026 21:28:38 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 23:44:13 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-de-escolas-particulares-no-rio-fazem-greve-de-24-horas#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-de-escolas-particulares-no-rio-fazem-greve-de-24-horas#1005</guid>
       <description>© Fernando Frazão/Agência Brasil
 Professores de escolas particulares do Rio de Janeiro cruzaram os braços nesta quarta-feira (2) em reivindicação por...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ANx0m1XFWSzwiYYmODy9n7fblAg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/02/_d6a2842_1.jpg?itok=DS_ZDRpp&quot; alt=&quot;Professores de escolas particulares do Rio fazem greve de 24 horas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -43,11 +280,11 @@ Professores de escolas particulares do Rio de Janeiro cruzaram os braços nesta 
 &lt;p&gt;&quot;A gente vem solicitando que o patronato aceite que a gente inclua uma cláusula para remuneração por essa hora-atividade fora de sala de aula, porque o professor tem trabalhado demais sem receber nada&quot;, diz.&lt;/p&gt;
 &lt;p&gt;&quot;O professor está trabalhando na escala 7 por 0, porque ele trabalha todos os dias, ele tem fichas, tem trabalhos para corrigir, ele tem uma série de coisas para fazer todos os dias, mesmo fora de sala de aula e não tem intervalo&quot;, acrescenta. &quot;A quantidade de professores que estão afastados por questões mentais é muito grande&quot;.&lt;/p&gt;
 &lt;p&gt;entrou em contato com o Sindicato dos Estabelecimentos de Ensino no Rio de Janeiro (SinepeRio) que optou por não se manifestar, neste momento, sobre o tema.&lt;/p&gt;
-&lt;p&gt;Copa do Brasil segue definindo semifinalistas nesta quarta-feira&lt;/p&gt;
+&lt;p&gt;Presidenciáveis fazem campanha eleitoral pelo país&lt;/p&gt;
 &lt;p&gt;Anvisa suspende fabricação de produtos da Unilever em Vinhedo (SP)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-de-escolas-particulares-no-rio-fazem-greve-de-24-horas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Professores de escolas particulares do Rio de Janeiro cruzaram os braços nesta quarta-feira (2) em reivindicação por...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-09-02 17:38:00</wp:post_date>
       <wp:post_date_gmt>2026-09-02 17:38:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-02 17:38:00</wp:post_modified>
@@ -71,62 +308,13 @@ Professores de escolas particulares do Rio de Janeiro cruzaram os braços nesta 
       </wp:postmeta>
     </item>
     <item>
-      <title>BB passa a usar tecnologia de origem verificada em ligações</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bb-passa-usar-tecnologia-de-origem-verificada-em-ligacoes</link>
-      <pubDate>Wed, 02 Sep 2026 21:28:38 +0000</pubDate>
+      <title>Sistema prisional transfere bilhões em custos para famílias de presos</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/sistema-prisional-transfere-bilhoes-em-custos-para-familias-de-presos</link>
+      <pubDate>Wed, 02 Sep 2026 23:44:13 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bb-passa-usar-tecnologia-de-origem-verificada-em-ligacoes#1001</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-Os clientes do Banco do Brasil (BB) contam com um novo recurso de segurança para evitar falsas ligações telefônicas....</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/f2nCSp4KNv2SpmoNjgS4as8RqIo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco-do-brasil_mcamgo_abr_280620211818-7.jpg?itok=qGp5lUQ0&quot; alt=&quot;BB passa a usar tecnologia de origem verificada em ligações&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Os clientes do Banco do Brasil (BB) contam com um novo recurso de segurança para evitar falsas ligações telefônicas.&lt;/p&gt;
-&lt;p&gt;O banco passou a utilizar a tecnologia de origem verificada para identificar chamadas telefônicas feitas pela instituição.&lt;/p&gt;
-&lt;p&gt;O recurso, com validação da Agência Nacional de Telecomunicações (Anatel) e das operadoras, permite que clientes reconheçam, na tela do celular, que determinada ligação foi realmente originada pelo banco.&lt;/p&gt;
-&lt;p&gt;A solução é aplicada às chamadas pelo número 4003-3001, usado por agências, escritórios de negócios, Serviço de Atendimento ao Consumidor (SAC), centrais de relacionamento e outras áreas de atendimento do BB.&lt;/p&gt;
-&lt;p&gt;Desenvolvida pela Agência Nacional de Telecomunicações (Anatel), a tecnologia valida, em tempo real, a autenticidade dos números usados em ligações telefônicas.&lt;/p&gt;
-&lt;p&gt;O sistema usa uma assinatura digital associada ao número do banco. Antes de a chamada chegar ao cliente, a operadora verifica essa assinatura. Quando a autenticação é concluída, o celular pode exibir uma identificação indicando que a ligação foi feita pelo Banco do Brasil.&lt;/p&gt;
-&lt;p&gt;A iniciativa busca contribuir para o combate a fraudes telefônicas e às chamadas automatizadas indevidas, conhecidas como&lt;/p&gt;
-&lt;p&gt;O telefone continua sendo um dos principais canais de relacionamento entre o banco e seus clientes.&lt;/p&gt;
-&lt;p&gt;em 2025 foram registradas, em média, 2,3 milhões de chamadas receptivas por mês&lt;/p&gt;
-&lt;p&gt;, feitas por clientes ao banco. Além disso, o BB fez 1,5 milhão de chamadas ativas mensais a clientes.&lt;/p&gt;
-&lt;p&gt;Durante os testes da tecnologia de origem verificada, a identificação das chamadas contribuiu para um aumento de aproximadamente 30% na taxa de atendimento.&lt;/p&gt;
-&lt;p&gt;O recurso é gratuito e não exige a instalação de aplicativos. Para o funcionamento completo da tecnologia, o&lt;/p&gt;
-&lt;p&gt;BB recomenda que o celular esteja conectado a uma rede 4G ou 5G&lt;/p&gt;
-&lt;p&gt;A forma como as informações aparecem na tela pode variar conforme o modelo do aparelho e a operadora utilizada pelo cliente.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bb-passa-usar-tecnologia-de-origem-verificada-em-ligacoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-Os clientes do Banco do Brasil (BB) contam com um novo recurso de segurança para evitar falsas ligações telefônicas....</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
-      <wp:post_date>2026-09-02 17:20:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-02 17:20:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-02 17:20:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-02 17:20:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/f2nCSp4KNv2SpmoNjgS4as8RqIo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco-do-brasil_mcamgo_abr_280620211818-7.jpg?itok=qGp5lUQ0</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Sistema carcerário transfere bilhões em custos para famílias de presos</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/sistema-carcerario-transfere-bilhoes-em-custos-para-familias-de-presos</link>
-      <pubDate>Wed, 02 Sep 2026 21:28:38 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/sistema-carcerario-transfere-bilhoes-em-custos-para-familias-de-presos#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/sistema-prisional-transfere-bilhoes-em-custos-para-familias-de-presos#1006</guid>
       <description>A compra de suprimentos básicos de higiene e alimentação, que deveriam ser fornecidos pelo Estado nos presídios, faz com que famílias gastem, em médi...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qKjiNo33aRbh41QKsorn91rrbqE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/905163-prisao_roberto%20jeferson_.jpg?itok=GpKJ3u1E&quot; alt=&quot;Sistema carcerário transfere bilhões em custos para famílias de presos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qKjiNo33aRbh41QKsorn91rrbqE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/905163-prisao_roberto%20jeferson_.jpg?itok=GpKJ3u1E&quot; alt=&quot;Sistema prisional transfere bilhões em custos para famílias de presos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A compra de suprimentos básicos de higiene e alimentação, que deveriam ser fornecidos pelo Estado nos presídios, faz com que famílias gastem, em média, cerca de 70% de um salário mínimo quando visitam detentos uma vez por semana no Brasil.&lt;/p&gt;
 &lt;p&gt;Ao todo, esse gasto chega a somarR$ 4,33 bilhões por ano&lt;/p&gt;
 &lt;p&gt;A pena sem sentença: famílias, gênero e a expansão silenciosa do poder punitivo&lt;/p&gt;
@@ -141,9 +329,9 @@ Os clientes do Banco do Brasil (BB) contam com um novo recurso de segurança par
 &lt;p&gt;O estudo reúne dados de 2.706 entrevistas, com nível de confiança de 95% e margem de erro de 3%&lt;/p&gt;
 &lt;p&gt;Esses custos se tornam ainda mais pesados se contexualizados com a situação das mulheres negras no mercado de trabalho. Segundo o Instituto Brasileiro de Geografia e Estatística, elas chegam ter menos que a metade da renda dos homens brancos. Além disso, estão mais frequentemente no trabalho informal e sofrem mais com o desemprego.&lt;/p&gt;
 &lt;p&gt;Entre os 25 e os 29 anos, a taxa de desocupação de mulheres negras chega a 10,3%, quase o dobro da observada entre mulheres brancas e 2,8 vezes a dos homens brancos&lt;/p&gt;
-&lt;p&gt;Na gíria utilizada dentro das prisões, as &quot;cunhadas&quot;, como são chamadas as esposas e companheiras das pessoas privadas de liberdade, acabam organizando suas vidas em função das visitas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/sistema-carcerario-transfere-bilhoes-em-custos-para-familias-de-presos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Na gíria utilizada dentro das prisões, as &quot;cunhadas&quot;, como são chamadas as esposas e companheiras das pessoas privadas de liberdade, acabam organizando suas vidas em função das visitas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/sistema-prisional-transfere-bilhoes-em-custos-para-familias-de-presos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A compra de suprimentos básicos de higiene e alimentação, que deveriam ser fornecidos pelo Estado nos presídios, faz com que famílias gastem, em médi...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-09-02 17:20:00</wp:post_date>
       <wp:post_date_gmt>2026-09-02 17:20:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-02 17:20:00</wp:post_modified>
@@ -167,11 +355,60 @@ Os clientes do Banco do Brasil (BB) contam com um novo recurso de segurança par
       </wp:postmeta>
     </item>
     <item>
+      <title>BB passa a usar tecnologia de origem verificada em ligações</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bb-passa-usar-tecnologia-de-origem-verificada-em-ligacoes</link>
+      <pubDate>Wed, 02 Sep 2026 23:44:13 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bb-passa-usar-tecnologia-de-origem-verificada-em-ligacoes#1007</guid>
+      <description>© Marcelo Camargo/Agência Brasil
+Os clientes do Banco do Brasil (BB) contam com um novo recurso de segurança para evitar falsas ligações telefônicas....</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/f2nCSp4KNv2SpmoNjgS4as8RqIo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco-do-brasil_mcamgo_abr_280620211818-7.jpg?itok=qGp5lUQ0&quot; alt=&quot;BB passa a usar tecnologia de origem verificada em ligações&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Os clientes do Banco do Brasil (BB) contam com um novo recurso de segurança para evitar falsas ligações telefônicas.&lt;/p&gt;
+&lt;p&gt;O banco passou a utilizar a tecnologia de origem verificada para identificar chamadas telefônicas feitas pela instituição.&lt;/p&gt;
+&lt;p&gt;O recurso, com validação da Agência Nacional de Telecomunicações (Anatel) e das operadoras, permite que clientes reconheçam, na tela do celular, que determinada ligação foi realmente originada pelo banco.&lt;/p&gt;
+&lt;p&gt;A solução é aplicada às chamadas pelo número 4003-3001, usado por agências, escritórios de negócios, Serviço de Atendimento ao Consumidor (SAC), centrais de relacionamento e outras áreas de atendimento do BB.&lt;/p&gt;
+&lt;p&gt;Desenvolvida pela Agência Nacional de Telecomunicações (Anatel), a tecnologia valida, em tempo real, a autenticidade dos números usados em ligações telefônicas.&lt;/p&gt;
+&lt;p&gt;O sistema usa uma assinatura digital associada ao número do banco. Antes de a chamada chegar ao cliente, a operadora verifica essa assinatura. Quando a autenticação é concluída, o celular pode exibir uma identificação indicando que a ligação foi feita pelo Banco do Brasil.&lt;/p&gt;
+&lt;p&gt;A iniciativa busca contribuir para o combate a fraudes telefônicas e às chamadas automatizadas indevidas, conhecidas como&lt;/p&gt;
+&lt;p&gt;O telefone continua sendo um dos principais canais de relacionamento entre o banco e seus clientes.&lt;/p&gt;
+&lt;p&gt;em 2025 foram registradas, em média, 2,3 milhões de chamadas receptivas por mês&lt;/p&gt;
+&lt;p&gt;, feitas por clientes ao banco. Além disso, o BB fez 1,5 milhão de chamadas ativas mensais a clientes.&lt;/p&gt;
+&lt;p&gt;Durante os testes da tecnologia de origem verificada, a identificação das chamadas contribuiu para um aumento de aproximadamente 30% na taxa de atendimento.&lt;/p&gt;
+&lt;p&gt;O recurso é gratuito e não exige a instalação de aplicativos. Para o funcionamento completo da tecnologia, o&lt;/p&gt;
+&lt;p&gt;BB recomenda que o celular esteja conectado a uma rede 4G ou 5G&lt;/p&gt;
+&lt;p&gt;A forma como as informações aparecem na tela pode variar conforme o modelo do aparelho e a operadora utilizada pelo cliente.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bb-passa-usar-tecnologia-de-origem-verificada-em-ligacoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
+Os clientes do Banco do Brasil (BB) contam com um novo recurso de segurança para evitar falsas ligações telefônicas....</excerpt:encoded>
+      <wp:post_id>1007</wp:post_id>
+      <wp:post_date>2026-09-02 17:20:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-02 17:20:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-02 17:20:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-02 17:20:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/f2nCSp4KNv2SpmoNjgS4as8RqIo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/banco-do-brasil_mcamgo_abr_280620211818-7.jpg?itok=qGp5lUQ0</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Escala 6x1: 67% apontam que jornada piora saúde mental, diz pesquisa</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/escala-6x1-67-apontam-que-jornada-piora-saude-mental-diz-pesquisa</link>
-      <pubDate>Wed, 02 Sep 2026 21:28:38 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 23:44:13 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/escala-6x1-67-apontam-que-jornada-piora-saude-mental-diz-pesquisa#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/escala-6x1-67-apontam-que-jornada-piora-saude-mental-diz-pesquisa#1008</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 Trabalhar seis dias seguidos e descansar apenas um proporciona piora da saúde mental para 67% dos brasilei...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/-X_VcQvs_rHP-9CF7qlCMmpc_YQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/05/pzzb4056.jpg?itok=5WhJ6Ct2&quot; alt=&quot;Escala 6x1: 67% apontam que jornada piora saúde mental, diz pesquisa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -188,11 +425,11 @@ Trabalhar seis dias seguidos e descansar apenas um proporciona piora da saúde m
 &lt;p&gt;O sentimento de que vivem cada vez mais cansadas é citado por 83% das pessoas. O levantamento de quem atua na escala 6x1 é de sacrificar saúde e lazer em nome da renda para 85%. Entre as mulheres, o percentual chega a 89%.&lt;/p&gt;
 &lt;p&gt;A PEC 221 de 2019, que tramita no Congresso Nacioanl, prevê a obrigatoriedade de descanso remunerado de dois dias por semana, sem diminuição salarial. A proposta reduz a atual jornada de trabalho de 44 para 40 horas semanais, com uma regra de transição de 14 meses.&lt;/p&gt;
 &lt;p&gt;Nas discussões no Congresso, os parlamentares destacam que estudos sobre o fim da escala 6x1 divergem sobre os impactos para a inflação e o Produto Interno Bruto (PIB, soma de bens e serviços produzidos no país).&lt;/p&gt;
-&lt;p&gt;Trégua entre EUA e Irã é interrompida por nova onda de ataques&lt;/p&gt;
+&lt;p&gt;Presidenciáveis fazem campanha eleitoral pelo país&lt;/p&gt;
 &lt;p&gt;Anvisa suspende fabricação de produtos da Unilever em Vinhedo (SP)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/escala-6x1-67-apontam-que-jornada-piora-saude-mental-diz-pesquisa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 Trabalhar seis dias seguidos e descansar apenas um proporciona piora da saúde mental para 67% dos brasilei...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-09-02 17:19:00</wp:post_date>
       <wp:post_date_gmt>2026-09-02 17:19:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-02 17:19:00</wp:post_modified>
@@ -218,9 +455,9 @@ Trabalhar seis dias seguidos e descansar apenas um proporciona piora da saúde m
     <item>
       <title>CBL: Bienal do Livro de São Paulo terá maior edição de sua história</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/cbl-bienal-do-livro-de-sao-paulo-tera-maior-edicao-de-sua-historia</link>
-      <pubDate>Wed, 02 Sep 2026 21:28:38 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 23:44:13 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/cbl-bienal-do-livro-de-sao-paulo-tera-maior-edicao-de-sua-historia#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/cbl-bienal-do-livro-de-sao-paulo-tera-maior-edicao-de-sua-historia#1009</guid>
       <description>A 28ª Bienal Internacional do Livro de São Paulo, que acontece de 4 a13 de setembro,no Distrito Anhembi, terá a participação de 350 autores nacionais...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/r-yuZcMPLLKCm1i7GMtDRuvvEqE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/02/novo-projeto-98.jpg?itok=f25DEDyl&quot; alt=&quot;CBL: Bienal do Livro de São Paulo terá maior edição de sua história&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A 28ª Bienal Internacional do Livro de São Paulo, que acontece de 4 a13 de setembro,no Distrito Anhembi, terá a participação de 350 autores nacionais e internacionais, 269 expositores e onze espaços culturais.&lt;/p&gt;
@@ -239,7 +476,7 @@ Trabalhar seis dias seguidos e descansar apenas um proporciona piora da saúde m
 &lt;p&gt;(Pallas Editora). A obra tem origem em um diálogo entre Conceição e Eliana, gravado ao longo de dois dias na Kaza 123, quilombo urbano no Rio de Janeiro, e terá uma versão em documentário, com direção de Estevão.&lt;/p&gt;
 &lt;p&gt;Autores contemporâneos reconhecidos também marcam presença, incluindo Bethania Pires Amaro, Itamar Vieira Jr., Aline Bei, Socorro Acioli, Giovana Madalosso, Jefferson Tenório.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/cbl-bienal-do-livro-de-sao-paulo-tera-maior-edicao-de-sua-historia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A 28ª Bienal Internacional do Livro de São Paulo, que acontece de 4 a13 de setembro,no Distrito Anhembi, terá a participação de 350 autores nacionais...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-09-02 17:07:00</wp:post_date>
       <wp:post_date_gmt>2026-09-02 17:07:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-02 17:07:00</wp:post_modified>
@@ -260,249 +497,6 @@ Trabalhar seis dias seguidos e descansar apenas um proporciona piora da saúde m
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/r-yuZcMPLLKCm1i7GMtDRuvvEqE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/02/novo-projeto-98.jpg?itok=f25DEDyl</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Seleção brasileira terá 1ª convocação pós-Copa em 9 de setembro</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/selecao-brasileira-tera-1a-convocacao-pos-copa-em-9-de-setembro</link>
-      <pubDate>Wed, 02 Sep 2026 21:28:38 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/selecao-brasileira-tera-1a-convocacao-pos-copa-em-9-de-setembro#1005</guid>
-      <description>© REUTERS/Pilar Olivares/Proibida reprodução
-A primeira convocação da seleção brasileira pós-Copa do Mundo está programada para a próxima quarta-feir...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/3pc7i_pl7Z79ltMXH1pTMlyp5ag=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/ancelotti_penultima_convocacao_brasil_2026.jpg?itok=-Gy2y1Bh&quot; alt=&quot;Seleção brasileira terá 1ª convocação pós-Copa em 9 de setembro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Pilar Olivares/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;A primeira convocação da seleção brasileira pós-Copa do Mundo está programada para a próxima quarta-feira (9), a partir das 15h (horário de Brasília). A data foi confirmada hoje pela CBF. O técnico italiano Carlo Ancelotti anunciará os 26 jogadores que enfrentarão Austrália e Índia em três amistosos fora do país na próxima Data Fifa (entre 21 de setembro e 6 de outubro). Os jogos serão os primeiros do ciclo de preparação para o Mundial de 2030, com sedes em Espanha, Portugal, Marrocos, Uruguai, Argentina e Paraguai.&lt;/p&gt;
-&lt;p&gt;Ancelotti divulgará a lista de convocados na sede da CBF, no Rio de Janeiro, com&lt;/p&gt;
-&lt;p&gt;na CBF TV, no YouTube. É grande a expectativa em torno da primeira lista do técnico italiano após a&lt;/p&gt;
-&lt;p&gt;eliminação precoce do Brasil para a Noruega,&lt;/p&gt;
-&lt;p&gt;nas oitavas de final do Mundial deste ano. Além de acompanhar os jogos no país, o treinador passou a última semana na Europa, acompanhando jogos com atletas brasileiros que defendem clubes franceses e ingleses.&lt;/p&gt;
-&lt;p&gt;Na próxima quarta-feira, 9 de Setembro, às 15h (de Brasília), teremos a divulgação dos 26 nomes que disputarão os três amistosos que fazem parte da agenda da Seleção nos meses de setembro e outubro.&lt;/p&gt;
-&lt;p&gt;O Brasil enfrentará a Austrália duas vezes na casa dos adversários. O primeiro confronto será em 25 de setembro (uma sexta-feira), às 7h (horário de Brasília), no estádio Queensland Country Bank, em Townsville. Quatro dias depois, as duas seleções voltam a duelar, no mesmo horário, no estádio Suncorp, em Brisbane. Já a partida contra a Índia está programada para 3 de outubro (um sábado), às 11h, no estádio Salt Lake, em Calcutá.&lt;/p&gt;
-&lt;p&gt;Copa do Brasil segue definindo semifinalistas nesta quarta-feira&lt;/p&gt;
-&lt;p&gt;Anvisa suspende fabricação de produtos da Unilever em Vinhedo (SP)&lt;/p&gt;
-&lt;p&gt;Professores de escolas particulares do Rio fazem greve de 24 horas&lt;/p&gt;
-&lt;p&gt;Sistema carcerário transfere bilhões em custos para famílias de presos&lt;/p&gt;
-&lt;p&gt;BB passa a usar tecnologia de origem verificada em ligações&lt;/p&gt;
-&lt;p&gt;Escala 6x1: 67% apontam que jornada piora saúde mental, diz pesquisa&lt;/p&gt;
-&lt;p&gt;CBL: Bienal do Livro de São Paulo terá maior edição de sua história&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/selecao-brasileira-tera-1a-convocacao-pos-copa-em-9-de-setembro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Pilar Olivares/Proibida reprodução
-A primeira convocação da seleção brasileira pós-Copa do Mundo está programada para a próxima quarta-feir...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-09-02 16:55:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-02 16:55:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-02 16:55:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-02 16:55:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/3pc7i_pl7Z79ltMXH1pTMlyp5ag=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/16/ancelotti_penultima_convocacao_brasil_2026.jpg?itok=-Gy2y1Bh</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Rodrigo Pacheco, ex-presidente do Senado, será ministro do TCU</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rodrigo-pacheco-ex-presidente-do-senado-sera-ministro-do-tcu</link>
-      <pubDate>Wed, 02 Sep 2026 21:28:38 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rodrigo-pacheco-ex-presidente-do-senado-sera-ministro-do-tcu#1006</guid>
-      <description>O plenário da Câmara dos Deputados aprovou nesta quarta-feira (2) a indicação do senador Rodrigo Pacheco (PSB-MG) para o cargo de ministro do Tribuna...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/xN5afnpD9QwggMWDCwd30L9L54c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/07/09/img_0711.jpg?itok=sE_5nGJ3&quot; alt=&quot;Rodrigo Pacheco, ex-presidente do Senado, será ministro do TCU&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O plenário da Câmara dos Deputados aprovou nesta quarta-feira (2) a indicação do senador Rodrigo Pacheco (PSB-MG) para o cargo de ministro do Tribunal de Contas da União (TCU).&lt;/p&gt;
-&lt;p&gt;Foram 404 votos a favor e 61 contrários à indicação, além de uma abstenção.&lt;/p&gt;
-&lt;p&gt;Pacheco foi indicado para substituir Bruno Dantas, que&lt;/p&gt;
-&lt;p&gt;na noite de terça-feira (1º) pelo Senado, a indicação segue agora para promulgação pelo Congresso Nacional.&lt;/p&gt;
-&lt;p&gt;O TCU é um órgão de controle externo da administração pública federal. Apesar do nome &quot;Tribunal&quot;, não integra o Poder Judiciário. Funciona como órgão auxiliar do Congresso Nacional na fiscalização da aplicação dos recursos públicos federais.&lt;/p&gt;
-&lt;p&gt;O projeto de decreto legislativo que indicou o nome de Pacheco ao cargo (PDL 995/2026) foi apresentado pelo presidente do Senado, Davi Alcolumbre (União-AP), com apoio de outros 20 senadores e senadoras da base governista e da oposição.&lt;/p&gt;
-&lt;p&gt;Pacheco foi deputado federal, de 2015 a 2018, e presidiu o Senado por duas vezes, nos biênios de 2021-2022 e 2023-2024.&lt;/p&gt;
-&lt;p&gt;Nascido em 1976 e natural de Porto Velho, é bacharel em direito pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG) e especialista em direito penal econômico internacional. Advogado criminalista, também foi conselheiro da Ordem dos Advogados do Brasil (OAB).&lt;/p&gt;
-&lt;p&gt;Pacheco presidiu o Senado durante a Comissão Parlamentar de Inquérito (CPI) da covid-19, durante a segunda e mais letal onda da pandemia, que incluiu crise de oxigênio em Manaus e a aceleração da vacinação.&lt;/p&gt;
-&lt;p&gt;No Congresso, foi autor de propostas como o marco regulatório da inteligência artificial (PL 2338/23), a atualização do Código Civil (PL 4/25), a criação da Sociedade Anônima do Futebol (PL 5516/19) e o Programa de Pleno Pagamento de Dívida dos Estados (PLP 121/24).&lt;/p&gt;
-&lt;p&gt;Trégua entre EUA e Irã é interrompida por nova onda de ataques&lt;/p&gt;
-&lt;p&gt;Anvisa suspende fabricação de produtos da Unilever em Vinhedo (SP)&lt;/p&gt;
-&lt;p&gt;Fiocruz vai iniciar testes da primeira vacina RNAm contra a covid-19&lt;/p&gt;
-&lt;p&gt;Professores de escolas particulares do Rio fazem greve de 24 horas&lt;/p&gt;
-&lt;p&gt;BB passa a usar tecnologia de origem verificada em ligações&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/rodrigo-pacheco-ex-presidente-do-senado-sera-ministro-do-tcu&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O plenário da Câmara dos Deputados aprovou nesta quarta-feira (2) a indicação do senador Rodrigo Pacheco (PSB-MG) para o cargo de ministro do Tribuna...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-09-02 16:18:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-02 16:18:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-02 16:18:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-02 16:18:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/xN5afnpD9QwggMWDCwd30L9L54c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/07/09/img_0711.jpg?itok=sE_5nGJ3</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Prouni: candidatos já podem consultar selecionados em lista de espera</title>
-      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prouni-candidatos-ja-podem-consultar-selecionados-em-lista-de-espera</link>
-      <pubDate>Wed, 02 Sep 2026 21:28:38 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prouni-candidatos-ja-podem-consultar-selecionados-em-lista-de-espera#1007</guid>
-      <description>Os participantes do processo seletivo do Programa Universidade para Todos (Prouni) para o segundo semestre de 2026 já podem consultar o resultado da ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/EJLyxuAPsOQJDt5I5LKi_Jm8j4s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230627_123618_0.jpg?itok=hQB1f7KK&quot; alt=&quot;Prouni: candidatos já podem consultar selecionados em lista de espera&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Os participantes do processo seletivo do Programa Universidade para Todos (Prouni) para o segundo semestre de 2026 já podem consultar o resultado da lista de espera. Para saber se foi selecionado, o estudante que manifestou interesse nesta fase do programa deve acessar o&lt;/p&gt;
-&lt;p&gt;A lista de espera é a última etapa no preenchimento das vagas não ocupadas ao longo da primeira e da segunda chamadas do programa. Os selecionados têm até 14 de setembro para entregar a documentação comprobatória junto às instituições de ensino superior.&lt;/p&gt;
-&lt;p&gt;A comprovação dos dados deve ser realizadadiretamente na instituição privada para a qual o estudante foi pré-selecionado.&lt;/p&gt;
-&lt;p&gt;Cada faculdade define o formato de recebimento dos documentos, que pode ser presencial ou por meio de plataforma online.&lt;/p&gt;
-&lt;p&gt;Confira a lista de documentos necessários:&lt;/p&gt;
-&lt;p&gt;Comprovante de residência atualizado;&lt;/p&gt;
-&lt;p&gt;Comprovantes de rendimento bruto mensal de todos os integrantes do grupo familiar;&lt;/p&gt;
-&lt;p&gt;Comprovante de conclusão do ensino médio em escola da rede pública ou em instituição privada, conforme declarado na inscrição.&lt;/p&gt;
-&lt;p&gt;Criado em 2005, o programa oferece bolsas de estudo, parciais e integrais, a estudantes de baixa renda que tenham concluído o ensino médio preferencialmente em instituiçõespúblicas, ou em colégios privados na condição de bolsista.&lt;/p&gt;
-&lt;p&gt;Os processos seletivos ocorrem duas vezes ao ano, com oportunidades para ingresso no primeiro e no segundo semestre letivos.&lt;/p&gt;
-&lt;p&gt;A classificação para a seleção das bolsas do Prouni considera as notas obtidas pelos candidatosno Exame Nacional do Ensino Médio (Enem).&lt;/p&gt;
-&lt;p&gt;Trégua entre EUA e Irã é interrompida por nova onda de ataques&lt;/p&gt;
-&lt;p&gt;Anvisa suspende fabricação de produtos da Unilever em Vinhedo (SP)&lt;/p&gt;
-&lt;p&gt;Professores de escolas particulares do Rio fazem greve de 24 horas&lt;/p&gt;
-&lt;p&gt;BB passa a usar tecnologia de origem verificada em ligações&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/prouni-candidatos-ja-podem-consultar-selecionados-em-lista-de-espera&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Os participantes do processo seletivo do Programa Universidade para Todos (Prouni) para o segundo semestre de 2026 já podem consultar o resultado da ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-09-02 16:03:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-02 16:03:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-02 16:03:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-02 16:03:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/EJLyxuAPsOQJDt5I5LKi_Jm8j4s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/20230627_123618_0.jpg?itok=hQB1f7KK</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>CCJ do Senado aprova PEC que acaba com jornada 6x1</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-pec-que-acaba-com-jornada-6x1</link>
-      <pubDate>Wed, 02 Sep 2026 21:28:38 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-pec-que-acaba-com-jornada-6x1#1008</guid>
-      <description>© Geraldo Magela/Agência Senado
-A Comissão de Constituição e Justiça (CCJ) do Senado
-aprovou, nesta quarta-feira (2), por votação simbólica, a propos...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/5ek6-ghzusc9ts3bDsnJx5F-iYs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/02/55504323450_3fbe09217a_3k.jpg?itok=KBHV4flf&quot; alt=&quot;CCJ do Senado aprova PEC que acaba com jornada 6x1&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Geraldo Magela/Agência Senado&lt;/p&gt;
-&lt;p&gt;A Comissão de Constituição e Justiça (CCJ) do Senado&lt;/p&gt;
-&lt;p&gt;aprovou, nesta quarta-feira (2), por votação simbólica, a proposta de emenda à Constituição (PEC) que&lt;/p&gt;
-&lt;p&gt;põe fim à jornada de seis dias de trabalho por um de descanso (6x1)&lt;/p&gt;
-&lt;p&gt;. A matéria ainda precisa passar pelo plenário da Casa, em dois turnos de votação.&lt;/p&gt;
-&lt;p&gt;prevê a obrigatoriedade de descanso remunerado de dois dias por semana, sem redução salarial, e reduz a atual jornada de trabalho de 44 para 40 horas semanais, com uma regra de transição de 14 meses.&lt;/p&gt;
-&lt;p&gt;Dos 27 senadores presentes na comissão, apenas quatro registraram votos contrários: o líder da oposição Rogério Marinho (PL-RN), Hamilton Mourão (Republicanos-RS), Tereza Cristina (PP-MS) e Jaime Bagattoli (PL-RO).&lt;/p&gt;
-&lt;p&gt;, incluindo propostas para manter a possibilidade de escalas de 6x1 ou jornadas superiores a 40 horas.&lt;/p&gt;
-&lt;p&gt;“Até porque todas as emendas que foram apresentadas, as 36 emendas, nenhuma pede mais benefício para o trabalhador”, justificou o relator.&lt;/p&gt;
-&lt;p&gt;A PEC foi criticada pelo líder da oposição Rogério Marinho, que reclamou do pouco tempo para debater o tema e destacou que a proposta traria inflação para a economia.&lt;/p&gt;
-&lt;p&gt;“Nós vamos gerar, sem dúvida nenhuma, inflação, desemprego e informalidade em nome da perpetuação do projeto de poder”, disse o parlamentar potiguar.&lt;/p&gt;
-&lt;p&gt;divergem sobre os impactos para a inflação e o Produto Interno Bruto (PIB, soma de bens e serviços produzidos no país).&lt;/p&gt;
-&lt;p&gt;Rogério Marinho defendeu uma outra PEC, a que cria um regime trabalhista por hora trabalhada, e defendeu as negociações individuais entre patrões e empregados para definição da escala de trabalho.&lt;/p&gt;
-&lt;p&gt;“Esse projeto vai na contramão da necessidade de darmos competitividade à população, ao país e à sociedade brasileira”, criticou.&lt;/p&gt;
-&lt;p&gt;O líder da oposição ainda apresentou um destaque para limitar o descanso remunerado dos trabalhados à apenas um dia na semana. Porém, o destaque foi rejeitado pela CCJ.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-pec-que-acaba-com-jornada-6x1&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Geraldo Magela/Agência Senado
-A Comissão de Constituição e Justiça (CCJ) do Senado
-aprovou, nesta quarta-feira (2), por votação simbólica, a propos...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-09-02 15:56:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-02 15:56:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-02 15:56:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-02 15:56:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/5ek6-ghzusc9ts3bDsnJx5F-iYs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/02/55504323450_3fbe09217a_3k.jpg?itok=KBHV4flf</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Pesquisa mostra que celular impulsiona a leitura digital no Brasil</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisa-mostra-que-celular-impulsiona-leitura-digital-no-brasil</link>
-      <pubDate>Wed, 02 Sep 2026 21:28:38 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisa-mostra-que-celular-impulsiona-leitura-digital-no-brasil#1009</guid>
-      <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-O Brasil tem cerca de 94 milhões de leitores digitais. Consumidores que, nos últimos 12 meses, usaram algu...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/l-6VHKLAia6yO9GOGF4GtO72Sg0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/02/pzzb5438.jpg?itok=zPSwRI3B&quot; alt=&quot;Pesquisa mostra que celular impulsiona a leitura digital no Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fabio Rodrigues-Pozzebom/ Agência Brasil&lt;/p&gt;
-&lt;p&gt;O Brasil tem cerca de 94 milhões de leitores digitais. Consumidores que, nos últimos 12 meses, usaram algum dispositivo eletrônico, como celular, notebook ou aparelho de leitura, para acessar notícias, livros, audiolivros, pdfs, textos informativos, quadrinhos e mangás.&lt;/p&gt;
-&lt;p&gt;A constatação é de um levantamentoque busca traçar o perfil e os hábitos dos leitores, identificando o tipo de conteúdo que consomem, como o acessam, com que frequência, por quais motivos, como se inteiram das novidades, entre outras informações relevantes para o aprimoramento de políticas públicas e de estratégias de mercado.&lt;/p&gt;
-&lt;p&gt;Realizada pela Nielsen BookData, multinacional especializada em pesquisas sobre o mercado editorial, a pesquisa&lt;/p&gt;
-&lt;p&gt;Perfil e Hábito do Leitor Digital Brasileiro&lt;/p&gt;
-&lt;p&gt;aponta que o universo de leitores digitais é composto por perfis como o da técnica de enfermagem e cuidadora Maria das Neves de Araújo Alves, de 60 anos.&lt;/p&gt;
-&lt;p&gt;Moradora de Valparaíso de Goiás, no Entorno do Distrito Federal, e empregada em Brasília, Nevinha passa ao menos três horas diárias dentro de ônibus, se deslocando entre sua casa e o trabalho. Parte do tempo, ela dedica à leitura de romances e livros de ação.&lt;/p&gt;
-&lt;p&gt;“Prefiro ler no telefone porque ele está sempre comigo e posso ler no ônibus, no posto de saúde, em quase todo lugar”, contou Nevinha à&lt;/p&gt;
-&lt;p&gt;Nevinha explica que mantém o hábito hápelo menos quatro anos, já tendo perdido a conta de quantos livros e textos leu.&lt;/p&gt;
-&lt;p&gt;“Termino um livro, começo outro. Não sou boa para guardar nomes, então, não sei citar nenhum, mas gosto de livros com romance e ação que escolho na própria plataforma. Leio o resumo e pego os que acho curiosos. Alguns eu leio até o fim, mesmo não gostando da história. Outros me emocionam, eu pareço viver a trama. Parece que conheci as personagens de verdade”, acrescentou Nevinha.&lt;/p&gt;
-&lt;p&gt;Ao escolher a plataforma gratuita que utiliza, a leitora levou em conta o fato dedispensar downloads - o que a ajuda a economizar dados móveis e espaço de armazenamento no aparelho.&lt;/p&gt;
-&lt;p&gt;Para a cuidadora, o suporte eletrônico eliminou barreiras práticas, substituindo as publicações em papel.&lt;/p&gt;
-&lt;p&gt;“O livro se torna mais difícil para mim, porque é mais um peso para eu carregar na bolsa, no ônibus. E eu teria que ou comprá-lo ou ir a uma biblioteca – e não há nenhuma perto de onde eu moro”, refletiu Nevinha.&lt;/p&gt;
-&lt;p&gt;Divulgada nesta quarta-feira (2), a pesquisa da Nielsen BookData aponta que os conteúdos digitais que os entrevistados mais acessaram nos 12 meses que antecederam a pesquisa, feita entre 1º e 11 de junho deste ano, foram notícias e livros digitais, seguidos por artigos em blogs ou sites especializados e audiolivros.&lt;/p&gt;
-&lt;p&gt;O levantamento também revela uma dinâmica muito específica sobre o consumo cultural no país.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisa-mostra-que-celular-impulsiona-leitura-digital-no-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-O Brasil tem cerca de 94 milhões de leitores digitais. Consumidores que, nos últimos 12 meses, usaram algu...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-09-02 15:43:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-02 15:43:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-02 15:43:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-02 15:43:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/l-6VHKLAia6yO9GOGF4GtO72Sg0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/02/pzzb5438.jpg?itok=zPSwRI3B</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
