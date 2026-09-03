@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Thu, 03 Sep 2026 19:32:28 +0000</pubDate>
+    <pubDate>Thu, 03 Sep 2026 22:05:09 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,448 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>BC proíbe publicidade em comprovantes do Pix a partir de março de 2027</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-proibe-publicidade-em-comprovantes-do-pix-partir-de-marco-de-2027</link>
+      <pubDate>Thu, 03 Sep 2026 22:05:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-proibe-publicidade-em-comprovantes-do-pix-partir-de-marco-de-2027#1000</guid>
+      <description>Os comprovantes de pagamento do Pix não poderão incluir publicidade, ofertas comerciais, links externos nem qualquer conteúdo não relacionado à trans...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/hOVaqSEKf0kfzYI9qhLH8_qUF5k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/_mg_8269.jpg?itok=NPtc1wBv&quot; alt=&quot;BC proíbe publicidade em comprovantes do Pix a partir de março de 2027&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Os comprovantes de pagamento do Pix não poderão incluir publicidade, ofertas comerciais, links externos nem qualquer conteúdo não relacionado à transação, decidiu o Banco Central (BC). A mudança foi publicada nesta quinta-feira (3) e faz parte de uma atualização das regras de experiência e segurança do sistema.&lt;/p&gt;
+&lt;p&gt;A nova norma começa a valer em 1º de março de 2027&lt;/p&gt;
+&lt;p&gt;. Segundo o BC, o objetivo é garantir que o comprovante tenha a função de apenas registrar e demonstrar a operação realizada. A autoridade monetária pretende reduzir o risco de que o documento seja usado para aplicar golpes.&lt;/p&gt;
+&lt;p&gt;A atualização também modifica a forma como o usuário poderá contestar transações suspeitas pelo Mecanismo Especial de Devolução (MED).&lt;/p&gt;
+&lt;p&gt;A partir de março de 2027, os comprovantes emitidos pelas instituições que oferecem o Pix não poderão conter:&lt;/p&gt;
+&lt;p&gt;outros conteúdos que não estejam relacionados à transação.&lt;/p&gt;
+&lt;p&gt;Na prática, o documento deverá ficar restrito às informações necessárias para identificar e comprovar o pagamento.&lt;/p&gt;
+&lt;p&gt;Para o BC, a retirada de links e conteúdos comerciais também diminui a possibilidade de o comprovante ser transformado em um caminho para páginas fraudulentas&lt;/p&gt;
+&lt;p&gt;Outra parte importante da atualização envolve o MED, mecanismo usado para contestar transações do Pix relacionadas a suspeitas de fraude ou golpe.&lt;/p&gt;
+&lt;p&gt;A ferramenta está disponível nos aplicativos das instituições que oferecem o Pix desde outubro de 2025. Com as novas regras, o BC quer tornar o processo mais fácil de entender e fornecer mais informações para que os bancos possam analisar cada ocorrência.&lt;/p&gt;
+&lt;p&gt;As telas exibidas aos usuários deverão apresentar situações em linguagem mais próxima do cotidiano, permitindo que o correntista identifique com maior facilidade o tipo de golpe sofrido.&lt;/p&gt;
+&lt;p&gt;explicar em detalhes o que aconteceu;&lt;/p&gt;
+&lt;p&gt;contextualizar a transação contestada;&lt;/p&gt;
+&lt;p&gt;anexar comprovantes que ajudem na análise.&lt;/p&gt;
+&lt;p&gt;Essas informações poderão ser utilizadas tanto pela instituição financeira da vítima quanto pelo banco ou instituição que recebeu os recursos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-proibe-publicidade-em-comprovantes-do-pix-partir-de-marco-de-2027&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Os comprovantes de pagamento do Pix não poderão incluir publicidade, ofertas comerciais, links externos nem qualquer conteúdo não relacionado à trans...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-09-03 18:21:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-03 18:21:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-03 18:21:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-03 18:21:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/hOVaqSEKf0kfzYI9qhLH8_qUF5k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/_mg_8269.jpg?itok=NPtc1wBv</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>UE suspende carnes do Brasil; entenda impacto e próximos passos</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ue-suspende-carnes-do-brasil-entenda-impacto-e-proximos-passos</link>
+      <pubDate>Thu, 03 Sep 2026 22:05:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ue-suspende-carnes-do-brasil-entenda-impacto-e-proximos-passos#1001</guid>
+      <description>começou nesta quinta-feira (3) a
+de produtos de origem animal do Brasil em seus 27 países-membros. A medida atinge carnes bovina, de frango e suína, ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/va3DEyul4y8PYN-4htlpt6XdIhM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/50127400817_bb7167c933_o_0.jpg?itok=73YojJW5&quot; alt=&quot;UE suspende carnes do Brasil; entenda impacto e próximos passos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;começou nesta quinta-feira (3) a&lt;/p&gt;
+&lt;p&gt;de produtos de origem animal do Brasil em seus 27 países-membros. A medida atinge carnes bovina, de frango e suína, além de mel, pescados e ovos, e pode afetar até US$ 2 bilhões por ano em exportações brasileiras.&lt;/p&gt;
+&lt;p&gt;O bloqueio, porém, não é necessariamente definitivo: o Brasil tenta comprovar que atende às exigências europeias. Além disso, uma auditoria da UE avalia as cadeias de frango e mel no país.&lt;/p&gt;
+&lt;p&gt;A restrição ocorre porque o bloco considera insuficientes os mecanismos brasileiros de controle do uso de antimicrobianos na produção animal. A União Europeia não identificou casos decontaminaçãoou irregularidades sanitárias em lotes brasileiros.&lt;/p&gt;
+&lt;p&gt;A partir desta quinta-feira, novas cargas dos produtos afetados não podem entrar no mercado dos 27 países da União Europeia.&lt;/p&gt;
+&lt;p&gt;A medida atinge principalmente os segmentos de carne bovina e de frango, que têm participação relevante nas exportações brasileiras para o mercado europeu.&lt;/p&gt;
+&lt;p&gt;A União Europeia detém regras próprias para o uso de antimicrobianos na criação de animais.&lt;/p&gt;
+&lt;p&gt;Esses medicamentos podem ser usados para tratar infecções, mas o bloco proíbe oemprego para estimular o crescimento dos animais. Também não permite que sejam utilizados em animais antimicrobianos reservados ao tratamento de infecções em seres humanos.&lt;/p&gt;
+&lt;p&gt;A avaliação europeia é de que o sistema brasileiro de controle dessas substâncias não oferece garantias suficientes para comprovar o cumprimento das regras.&lt;/p&gt;
+&lt;p&gt;O governo brasileiro, por sua vez, contesta esse entendimento e afirma que a legislação nacional já restringe o uso de antimicrobianos como promotores de crescimento, seguindo referências internacionais.&lt;/p&gt;
+&lt;p&gt;Não. Essa é uma das principais dúvidas provocadas pela decisão.&lt;/p&gt;
+&lt;p&gt;O bloqueio europeu não foi anunciado após a identificação de contaminação ou de um problema sanitário específico em carnes brasileiras. A questão está relacionada aos mecanismos de controle e rastreabilidade do uso de antimicrobianos.&lt;/p&gt;
+&lt;p&gt;Dessa forma, a medida não significa que a carne brasileira tenha sido considerada imprópria para consumo.&lt;/p&gt;
+&lt;p&gt;O Brasil exporta produtos de origem animal para dezenas de países e continua autorizado a vender para outros mercados que mantenham a habilitação dos produtos brasileiros.&lt;/p&gt;
+&lt;p&gt;O impacto potencial estimado chega a US$ 2 bilhões por ano considerando os produtos afetados.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ue-suspende-carnes-do-brasil-entenda-impacto-e-proximos-passos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>começou nesta quinta-feira (3) a
+de produtos de origem animal do Brasil em seus 27 países-membros. A medida atinge carnes bovina, de frango e suína, ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-09-03 18:08:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-03 18:08:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-03 18:08:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-03 18:08:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/va3DEyul4y8PYN-4htlpt6XdIhM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/50127400817_bb7167c933_o_0.jpg?itok=73YojJW5</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>São Paulo reúne especialistas em saúde mental e trabalho</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/sao-paulo-reune-especialistas-em-saude-mental-e-trabalho</link>
+      <pubDate>Thu, 03 Sep 2026 22:05:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/sao-paulo-reune-especialistas-em-saude-mental-e-trabalho#1002</guid>
+      <description>© Mind Summit/Arquivo/Divulgação
+A edição deste ano do Mind Summit, na capital paulista, nos dias 16 e 17 de setembro,
+dará ênfase a temas como o bur...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GeX4y38OV3MUmA3e7WzRoD1ZSfI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/03/whatsapp_image_2026-09-03_at_10.28.46.jpeg?itok=0BiRyZfC&quot; alt=&quot;São Paulo reúne especialistas em saúde mental e trabalho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Mind Summit/Arquivo/Divulgação&lt;/p&gt;
+&lt;p&gt;A edição deste ano do Mind Summit, na capital paulista, nos dias 16 e 17 de setembro,&lt;/p&gt;
+&lt;p&gt;dará ênfase a temas como o burnout&lt;/p&gt;
+&lt;p&gt;. Focado em saúde mental no mundo do trabalho, também inclui na programação, de modo inédito, treinamentos na área ao longo dos dois dias.&lt;/p&gt;
+&lt;p&gt;O principal mote da edição é evidenciar a indissociabilidade entre bem-estar mental e as atividades laborais.&lt;/p&gt;
+&lt;p&gt;A psicóloga e economista Adriana Drulla, curadora do evento, explica que “um equívoco de gestores, bastante comum, e que começa a ser desfeito na contemporaneidade, é propor que subordinados busquem atenuar emoções como o estresse usando soluções passageiras, caso das zonas de lazer com mesas de pingue-pongue e fliperamas”.&lt;/p&gt;
+&lt;p&gt;Nessas situações, pondera, os gestores transferem aos empregados e às empregadas a responsabilidade por resolver algo que, na realidade, é de âmbito organizacional e social.&lt;/p&gt;
+&lt;p&gt;“Isso faz com que as medidas sejam infrutíferas, por ignorar a esfera coletiva e não modificar a raiz dos adoecimentos, que são o fluxo acelerado e a divisão de trabalho e a dinâmica das relações nos mais diversos níveis de hierarquia”, diz.&lt;/p&gt;
+&lt;p&gt;&quot;Todo o evento [Mind Summit] está construído em torno da tese de que se deve pensar na infraestrutura de performance. Se você quer ter um negócio que performa bem, dá mais lucro, você precisa olhar para esse indicador&quot;, avalia a curadora.&lt;/p&gt;
+&lt;p&gt;Um dos workshops oferecidos instruirá profissionais a melhorar o desenho do trabalho em suas organizações, pensando no manejo de demandas e em consolidar rituais de gestão.&lt;/p&gt;
+&lt;p&gt;&quot;É um olhar extremamente novo para um tema que é falado há muito tempo, mas visto sob o ponto de vista de benefício. Se você fala em bem-estar no trabalho, no que você pensa? Psicólogo, flexibilidade de&lt;/p&gt;
+&lt;p&gt;[técnicas que condicionam a mente a privilegiar o momento presente], mesa de pingue-pongue&quot;, esclarece Adriana Drulla.&lt;/p&gt;
+&lt;p&gt;&quot;Com exceção da flexibilidade de home office, nenhum desses fatores têm a ver com o modo como o trabalho é desenhado em si, e é isso que produz o estresse crônico. Como a gente trabalha o estresse crônico na fonte? A gente vai trazer para a prática, ensinando a esses gestores, habilidades de gestão e outras, como se ter conversas difíceis, dar um feedback&quot;, esclarece.&lt;/p&gt;
+&lt;p&gt;Adriana Drulla ressalta ainda que comprovações científicas como as que serão apresentadas durante o evento&lt;/p&gt;
+&lt;p&gt;ajudam a convencer gestores mais resistentes a promover as mudanças necessárias no ambiente de trabalho&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/sao-paulo-reune-especialistas-em-saude-mental-e-trabalho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Mind Summit/Arquivo/Divulgação
+A edição deste ano do Mind Summit, na capital paulista, nos dias 16 e 17 de setembro,
+dará ênfase a temas como o bur...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-09-03 18:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-03 18:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-03 18:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-03 18:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/GeX4y38OV3MUmA3e7WzRoD1ZSfI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/03/whatsapp_image_2026-09-03_at_10.28.46.jpeg?itok=0BiRyZfC</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Mineradoras elogiam, mas municípios criticam PL de minerais críticos</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/mineradoras-elogiam-mas-municipios-criticam-pl-de-minerais-criticos</link>
+      <pubDate>Thu, 03 Sep 2026 22:05:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/mineradoras-elogiam-mas-municipios-criticam-pl-de-minerais-criticos#1003</guid>
+      <description>O projeto de lei (PL) que cria a Política Nacional de Minerais Críticos e Estratégicos, aprovado nessa quarta-feira (2) no Senado, foi elogiado pelas...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/MhtnszQnH6prhZtMueJgCoA_jgo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/06/0d9a7008.jpg?itok=iaBw6IKn&quot; alt=&quot;Mineradoras elogiam, mas municípios criticam PL de minerais críticos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O projeto de lei (PL) que cria a Política Nacional de Minerais Críticos e Estratégicos, aprovado nessa quarta-feira (2) no Senado, foi elogiado pelas mineradoras que atuam no Brasil, mas criticado por municípios que sediam atividades de mineração no país. O texto prevê até R$ 7 bilhões em incentivos governamentais para projetos relacionados a esses minerais.&lt;/p&gt;
+&lt;p&gt;Entre as novidades, está a criação de um fundo para financiar projetos por meio de contribuições privadas e aporte de R$ 2 bilhões da União; o estabelecimento de um conselho, com maioria de representantes do governo, para homologar mudanças no controle societário de empresas do setor e determinadas operações internacionais; e um programa de benefícios fiscais de até R$ 5 bilhões.&lt;/p&gt;
+&lt;p&gt;O PL 2780 de 2024, relatado pelo senador Eduardo Braga (MDB-AM), foi aprovado sem alterações de mérito em relação ao texto da Câmara e segue agora para sanção presidencial.&lt;/p&gt;
+&lt;p&gt;Aprovado em votação simbólica, o texto era uma das prioridades do governo, que sustenta que a matéria contribui para desenvolver a economia dos minerais críticos no Brasil. O PL teve apoio também da oposição, como expressou a líder do PP no Senado, Tereza Cristina (MS).&lt;/p&gt;
+&lt;p&gt;“Esse projeto não é um projeto de governo, isso é um projeto de Estado. É um projeto que, com certeza, poderá trazer prosperidade e muitas oportunidades para os brasileiros”, disse a senadora da oposição.&lt;/p&gt;
+&lt;p&gt;Por meio de nota, o Instituto Brasileiro de Mineração (Ibram), que representa as empresas do setor, disse que o PL é um avanço e informou que espera contribuir com o governo na regulamentação do tema.&lt;/p&gt;
+&lt;p&gt;“O projeto oferece uma base positiva para financiamento, industrialização, tecnologia e inserção internacional da indústria da mineração brasileira”, disse o diretor-presidente do Ibram, Pablo Cesário.&lt;/p&gt;
+&lt;p&gt;A Associação Brasileira dos Municípios Mineradores (AMIG Brasil), que reúne municípios produtores de minérios, também reconheceu avanços no projeto, mas criticou a falta de garantia de que os investimentos previstos permaneçam nos territórios onde ocorre a mineração.&lt;/p&gt;
+&lt;p&gt;Segundo a entidade, a proposta pode repetir um modelo histórico da mineração brasileira, no qual os municípios ficam com os impactos da atividade, enquanto investimentos, empregos qualificados e etapas de maior valor agregado são concentrados em outras regiões.&lt;/p&gt;
+&lt;p&gt;“Não podemos aceitar que o minério seja retirado do município, que os impactos ambientais, sociais e sobre a infraestrutura permaneçam no território e que os investimentos capazes de gerar tecnologia, empregos qualificados e novas atividades econômicas sejam levados para outros lugares”, defendeu a AMIG Brasil.&lt;/p&gt;
+&lt;p&gt;O professor de geografia da Universidade Federal de Juiz de Fora (UFJF), Bruno Milanez, avaliou à Agência Brasil que são insuficientes os incentivos previstos no texto para industrializar as terras raras no Brasil.&lt;/p&gt;
+&lt;p&gt;“O PL é um pacote de bondades para o setor mineral com uma série de novas fontes de financiamento, subsídios e estímulos creditícios. E, apesar da discussão sobre industrialização, os instrumentos para levar à transformação mineral são insuficientes”, comentou o especialista no tema.&lt;/p&gt;
+&lt;p&gt;O engenheiro Bruno Milanez argumenta que os recursos previstos no PL podem ser usados tanto para lavra quanto para beneficiamento dos minerais, o que pode reduzir o financiamento da industrialização. A lavra corresponde à extração do minério, enquanto o beneficiamento envolve etapas de tratamento e concentração do material extraído, antes de processos industriais de transformação.&lt;/p&gt;
+&lt;p&gt;Fundo Garantidor e Incentivos Fiscais&lt;/p&gt;
+&lt;p&gt;O PL 2780 cria o Fundo Garantidor da Atividade Mineral para viabilizar projetos de minerais críticos ou estratégicos, com aporte de R$ 2 bilhões da União e contribuições obrigatórias das empresas do setor, em valores ainda a serem definidos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/mineradoras-elogiam-mas-municipios-criticam-pl-de-minerais-criticos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O projeto de lei (PL) que cria a Política Nacional de Minerais Críticos e Estratégicos, aprovado nessa quarta-feira (2) no Senado, foi elogiado pelas...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-09-03 17:50:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-03 17:50:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-03 17:50:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-03 17:50:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/MhtnszQnH6prhZtMueJgCoA_jgo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/06/0d9a7008.jpg?itok=iaBw6IKn</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Inep divulga gabarito oficial do Encceja 2026; saiba como conferir</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/inep-divulga-gabarito-oficial-do-encceja-2026-saiba-como-conferir</link>
+      <pubDate>Thu, 03 Sep 2026 22:05:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/inep-divulga-gabarito-oficial-do-encceja-2026-saiba-como-conferir#1004</guid>
+      <description>Os participantes do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 já podem consultar os gabaritos oficiais das ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/c5JGN1UkwzUKjV8laHE7eneigS4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/encceja.jpeg?itok=X40CN0fK&quot; alt=&quot;Inep divulga gabarito oficial do Encceja 2026; saiba como conferir&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Os participantes do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 já podem consultar os gabaritos oficiais das provas objetivas, divulgados nesta quarta-feira (3) pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep).&lt;/p&gt;
+&lt;p&gt;Os inscritos podem acessá-los no portal do Inep, na parte de&lt;/p&gt;
+&lt;p&gt;. As listas de respostas certas das provas aplicadas em 23 de agosto estão organizadas por área de conhecimento.&lt;/p&gt;
+&lt;p&gt;Em busca do certificado de conclusão doensino fundamental, os participantesrealizaram provas das seguintes áreas: ciências naturais; matemática; língua portuguesa; língua estrangeira moderna; artes; educação física; história e geografia.&lt;/p&gt;
+&lt;p&gt;Já no caso do ensino médio, as áreas avaliadas foram: ciências da natureza e suas tecnologias; matemática e suas tecnologias; e linguagens, códigos e suas tecnologias; bem como ciências humanas e suas tecnologias.&lt;/p&gt;
+&lt;p&gt;Além das questões objetivas, os participantes tiveram de escrever uma redação.&lt;/p&gt;
+&lt;p&gt;O Inep divulgará os resultados individuais em 14 de dezembro.&lt;/p&gt;
+&lt;p&gt;As provas do Encceja Nacional avaliam competências, habilidades e saberes desenvolvidos no processo escolar ou extraescolar.&lt;/p&gt;
+&lt;p&gt;Os resultados do exame podem ser utilizados pelas secretarias de Educação e pelos institutos federais que aderem ao Encceja como referência nos processos de certificação de conclusão do ensino fundamental e do ensino médio, conforme os critérios estabelecidos pela instituição certificadora.&lt;/p&gt;
+&lt;p&gt;O exame também produz informações que podem ser utilizadas em estudos e análises sobre a educação de jovens e adultos.&lt;/p&gt;
+&lt;p&gt;Copa do Brasil define último semifinalista nesta quinta-feira&lt;/p&gt;
+&lt;p&gt;Desigualdades raciais persistem em todos os níveis de ensino&lt;/p&gt;
+&lt;p&gt;Fila de espera por perícia do INSS é zerada em agosto&lt;/p&gt;
+&lt;p&gt;Caixa passa a oferecer modalidade de Pix parcelado&lt;/p&gt;
+&lt;p&gt;BC proíbe publicidade em comprovantes do Pix a partir de março de 2027&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/inep-divulga-gabarito-oficial-do-encceja-2026-saiba-como-conferir&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Os participantes do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2026 já podem consultar os gabaritos oficiais das ...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-09-03 17:26:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-03 17:26:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-03 17:26:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-03 17:26:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/c5JGN1UkwzUKjV8laHE7eneigS4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/encceja.jpeg?itok=X40CN0fK</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>MP da &quot;taxa das blusinhas&quot; é aprovada na Câmara e vai ao Senado</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/mp-da-taxa-das-blusinhas-e-aprovada-na-camara-e-vai-ao-senado</link>
+      <pubDate>Thu, 03 Sep 2026 22:05:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/mp-da-taxa-das-blusinhas-e-aprovada-na-camara-e-vai-ao-senado#1005</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+aprovou, nesta quinta-feira (3), em votação simbólica, a
+Medida Provisória (MP) da chamada &quot;taxa das blusinhas...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LWSpcBdAwShx44WC7jCu38aS-LU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/01/imagem_do_whatsapp_de_2024-06-01_as_16.55.52_b4540200.jpg?itok=VvmkR04i&quot; alt=&quot;MP da &quot;taxa das blusinhas&quot; é aprovada na Câmara e vai ao Senado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;aprovou, nesta quinta-feira (3), em votação simbólica, a&lt;/p&gt;
+&lt;p&gt;Medida Provisória (MP) da chamada &quot;taxa das blusinhas&quot;&lt;/p&gt;
+&lt;p&gt;. O texto zeraa alíquota do Imposto de Importação, atualmente de 20%, para compras internacionais de até US$ 50(cerca de R$ 257) feitas pela internet e enviadas ao país por meio de remessas postais.&lt;/p&gt;
+&lt;p&gt;O texto segue agora para o Senado e precisa ser aprovado nas duas Casas até 8 de setembro para não perder a validade.&lt;/p&gt;
+&lt;p&gt;Segundo opresidente da Câmara, Hugo Motta (Republicanos-PB), as compras de até 50 dólares representam alternativa importante de consumo, especialmente para a população de menor renda.&lt;/p&gt;
+&lt;p&gt;&quot;São brasileiros que enfrentam diariamente a pressão sobre o orçamento doméstico e encontram nesse comércio uma forma de adquirir produtos do cotidiano a preços mais acessíveis&quot;, destacou o parlamentar ao final da votação.&lt;/p&gt;
+&lt;p&gt;De acordo com Motta, as preocupações da indústria e do varejo nacionais,&lt;/p&gt;
+&lt;p&gt;setores que são contrários ao fim da taxa&lt;/p&gt;
+&lt;p&gt;, serão debatidas para conciliar a proteção do poder de compra das famílias e manter a competitividade da produção brasileira.&lt;/p&gt;
+&lt;p&gt;Durante a tramitação, o texto foi modificado pela relatora na comissão especial mista, a senadora Leila Barros (PDT-DF).&lt;/p&gt;
+&lt;p&gt;Uma das novidades introduzidas na medida é a emenda que zera o imposto de importação de medicamentos que não tenham similar no Brasil.&lt;/p&gt;
+&lt;p&gt;O texto aprovado pela Câmara também prevê uma redução de 60% para 30% da alíquota de importação para compras de até US$ 3 mil por remessas postais vindas do exterior.&lt;/p&gt;
+&lt;p&gt;Outro ponto incluído é a previsão de avaliação periódica, pelo Ministério da Fazenda, dos efeitos econômicos da isenção tarifária.&lt;/p&gt;
+&lt;p&gt;Parlamentares da oposição criticaram o teor da medida por dar vantagem a empresas estrangeiras em detrimento da indústria nacional.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/mp-da-taxa-das-blusinhas-e-aprovada-na-camara-e-vai-ao-senado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+aprovou, nesta quinta-feira (3), em votação simbólica, a
+Medida Provisória (MP) da chamada &quot;taxa das blusinhas...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-09-03 17:24:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-03 17:24:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-03 17:24:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-03 17:24:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/LWSpcBdAwShx44WC7jCu38aS-LU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/01/imagem_do_whatsapp_de_2024-06-01_as_16.55.52_b4540200.jpg?itok=VvmkR04i</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Fifa abre inscrições para voluntários na Copa do Mundo Feminina 2027</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/fifa-abre-inscricoes-para-voluntarios-na-copa-do-mundo-feminina-2027</link>
+      <pubDate>Thu, 03 Sep 2026 22:05:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/fifa-abre-inscricoes-para-voluntarios-na-copa-do-mundo-feminina-2027#1006</guid>
+      <description>© Thais Magalhães/CBF/Direitos Reservados
+A Fifa iniciou nesta quinta-feira (3) as inscrições para vagas de voluntários na Copa do Mundo de futebol f...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cj3KdO8NsjWwaMjx50FYR7r-LUA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/52779701775_8a213a3c95_o.jpg?itok=rsq3iG0r&quot; alt=&quot;Fifa abre inscrições para voluntários na Copa do Mundo Feminina 2027&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Thais Magalhães/CBF/Direitos Reservados&lt;/p&gt;
+&lt;p&gt;A Fifa iniciou nesta quinta-feira (3) as inscrições para vagas de voluntários na Copa do Mundo de futebol feminino no Brasil, a primeira da América do Sul, que começa em 24 de junho de 2027. Há seis mil postos nas áreas de mídia, gestão de competições, cerimônias, tecnologia, transporte e operações de mão de obra. Não é exigida experiência prévia dos interessados.&lt;/p&gt;
+&lt;p&gt;Os selecionados serão distribuídos pelas cidades-sede do Mundial (Belo Horizonte, Brasília, Fortaleza, Porto Alegre, Recife, Rio de Janeiro, Salvador e São Paulo). Os voluntários desempenharão mais de 30 funções nos locais oficiais, entre eles, estádios, hotéis, centros de treinamento e aeroportos.&lt;/p&gt;
+&lt;p&gt;Os interessados devem efetuar a inscrição no site&lt;/p&gt;
+&lt;p&gt;https://www.fifa.com/pt/tournaments/womens/womensworldcup/brazil-2027/volunteers&lt;/p&gt;
+&lt;p&gt;“Os voluntários desfrutam de uma experiência única e passam a fazer parte da equipe por trás de um dos maiores eventos esportivos do planeta. Durante todo o torneio, os voluntários da Fifa vão contar com o apoio de uma equipe experiente e receber um uniforme completo, presentes, tudo em reconhecimento a contribuição deles. É uma oportunidade, com certeza, de fazer contatos, conhecer pessoas de todo o mundo e aprender ou desenvolver novas habilidades. É uma experiência realmente valiosa e rende memórias para toda vida”, detalhou Aline Pellegrino, diretora executiva de Legado e Relações Institucionais da Copa Feminina no Brasil.&lt;/p&gt;
+&lt;p&gt;Um post compartilhado por FIFA Volunteer (@fifavolunteer)&lt;/p&gt;
+&lt;p&gt;Para se candidatar é necessário:&lt;/p&gt;
+&lt;p&gt;Ter pelo menos 18 anos no momento da inscrição;&lt;/p&gt;
+&lt;p&gt;Ser cidadão brasileiro ou estar legalmente autorizado a entrar no Brasil durante a competição;&lt;/p&gt;
+&lt;p&gt;Estar disponível para se comprometer com um número mínimo de turnos de voluntários durante o período operacional do torneio, em junho e julho de 2027;&lt;/p&gt;
+&lt;p&gt;Ter domínio de português ou inglês.&lt;/p&gt;
+&lt;p&gt;Segundo Aline Pelegrino, o domínio de outros idiomaspode ser um diferencial no processo de seleção.&lt;/p&gt;
+&lt;p&gt;O Mundial de futebol masculino no Brasil em 2014 contou com a participação de 13 mil voluntários.&lt;/p&gt;
+&lt;p&gt;Faltam 294 dias para a abertura do Mundial Feminino (de 24 de junho a 25 de julho de 2027). Além do Brasil - classificado por ser o país-sede -, a competição reunirá outras 31 nações. Comandada pelo técnico Arthur Elias, a seleção brasileira busca o título mundial inédito.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/fifa-abre-inscricoes-para-voluntarios-na-copa-do-mundo-feminina-2027&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Thais Magalhães/CBF/Direitos Reservados
+A Fifa iniciou nesta quinta-feira (3) as inscrições para vagas de voluntários na Copa do Mundo de futebol f...</excerpt:encoded>
+      <wp:post_id>1006</wp:post_id>
+      <wp:post_date>2026-09-03 17:13:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-03 17:13:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-03 17:13:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-03 17:13:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/cj3KdO8NsjWwaMjx50FYR7r-LUA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/52779701775_8a213a3c95_o.jpg?itok=rsq3iG0r</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Enem PPL abre inscrições em 5 de outubro</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enem-ppl-abre-inscricoes-em-5-de-outubro</link>
+      <pubDate>Thu, 03 Sep 2026 22:05:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enem-ppl-abre-inscricoes-em-5-de-outubro#1007</guid>
+      <description>As inscrições no Exame Nacional do Ensino Médio de 2026 de pessoas privadas de liberdade ou sob medida socioeducativa que inclua privação de liberdad...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/bEoBKIU1b0eOYO4b4PDWEJEhjXw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/up_ag_41826_a5dd9c62-9b2b-8a06-6e3a-a606630b9a30.jpg?itok=xYyQV9U9&quot; alt=&quot;Enem PPL abre inscrições em 5 de outubro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As inscrições no Exame Nacional do Ensino Médio de 2026 de pessoas privadas de liberdade ou sob medida socioeducativa que inclua privação de liberdade (Enem PPL) começam em 5 de outubro e devem ser feitas por intermédio do responsável pedagógico da unidade.&lt;/p&gt;
+&lt;p&gt;O período de inscrições seguirá até 23 de outubro.&lt;/p&gt;
+&lt;p&gt;As regras do Enem PPL 2026 estão no&lt;/p&gt;
+&lt;p&gt;do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) publicado em 26 de agosto.&lt;/p&gt;
+&lt;p&gt;O responsável pedagógico da unidade prisional e ou socioeducativa deve indicar a pretensão do participante, quando for o caso, de utilizar os resultados do Enem PPL para obter a certificação de conclusão do ensino médio e a instituição certificadora para pleitear o certificado de conclusão do ensino médio ou a Declaração Parcial de Proficiência.&lt;/p&gt;
+&lt;p&gt;Podem pleitear os candidatos com 18 anos de idade completos até o primeiro dia de realização das provas e não ser concluinte ou egresso do ensino médio.&lt;/p&gt;
+&lt;p&gt;De 5 a 23 de outubro também podem ser feitas as solicitações de atendimento especializado.&lt;/p&gt;
+&lt;p&gt;O responsável pedagógico deverá informar a condição do candidato que motiva o pedido&lt;/p&gt;
+&lt;p&gt;, como baixa visão, cegueira, deficiência física, deficiência auditiva, surdez, deficiência intelectual, Transtorno do Déficit de Atenção com Hiperatividade (TDAH), Transtorno do Espectro Autista (TEA), diabetes, fibromialgia, estar gestante, lactante ou ser idoso.&lt;/p&gt;
+&lt;p&gt;De acordo com o cronograma do Inep, o resultado da solicitação de atendimento especializado sairá em 30 de outubro. Os candidatos com o pedido negado para atendimento especializado podem entrar com recurso de 2 a 6 de novembro.&lt;/p&gt;
+&lt;p&gt;O resultado final do recurso será divulgado em 13 de novembro.&lt;/p&gt;
+&lt;p&gt;O Inpe esclarece que o inscrito no Enem PPL na condição de treineiro deve estar ciente, por intermédio do responsável pedagógico, de que sua participação&lt;/p&gt;
+&lt;p&gt;tem o objetivo de autoavaliação&lt;/p&gt;
+&lt;p&gt;. Portanto, independentemente do resultado obtido, o treineiro não pode se inscrever nos programas de acesso ao ensino superior, como o Sistema de Seleção Unificada (Sisu), o Programa Universidade para Todos (Prouni) e o Fundo de Financiamento Estudantil (Fies).&lt;/p&gt;
+&lt;p&gt;As provas do Enem PPL serão realizadas em unidades prisionais e socioeducativas indicadas pelos respectivos órgãos de administração dos estabelecimentos de cada estado e do Distrito Federal.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/enem-ppl-abre-inscricoes-em-5-de-outubro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>As inscrições no Exame Nacional do Ensino Médio de 2026 de pessoas privadas de liberdade ou sob medida socioeducativa que inclua privação de liberdad...</excerpt:encoded>
+      <wp:post_id>1007</wp:post_id>
+      <wp:post_date>2026-09-03 16:58:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-03 16:58:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-03 16:58:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-03 16:58:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/bEoBKIU1b0eOYO4b4PDWEJEhjXw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/up_ag_41826_a5dd9c62-9b2b-8a06-6e3a-a606630b9a30.jpg?itok=xYyQV9U9</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Reino Unido anuncia 400 mi de libras para Fundo Florestas Tropicais</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/reino-unido-anuncia-ps400-milhoes-para-fundo-florestas-tropicais</link>
+      <pubDate>Thu, 03 Sep 2026 22:05:09 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/reino-unido-anuncia-ps400-milhoes-para-fundo-florestas-tropicais#1008</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+O Reino Unido anunciou a intenção de investir 400 milhões de libras no Fundo Florestas Tropicais para Sempre (TFFF,...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8_rmxFprUPgE8iv6ER-1Xena91w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/29/dji_20260514133612_0223_d_55279773377_o.jpg?itok=7x5soZU_&quot; alt=&quot;Reino Unido anuncia 400 mi de libras para Fundo Florestas Tropicais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Reino Unido anunciou a intenção de investir 400 milhões de libras no Fundo Florestas Tropicais para Sempre (TFFF, na sigla em inglês),&lt;/p&gt;
+&lt;p&gt;iniciativa lançada pelo Brasil na 30ª Conferência das Nações Unidas sobre Mudanças Climáticas (COP30) em novembro do ano passado, em Belém.&lt;/p&gt;
+&lt;p&gt;O aporte será realizado na forma de empréstimo e ainda depende da conclusão da estrutura de governança,das regras operacionais do fundo e de processos de análise, alémde outras condições estabelecidas pelo governo britânico.&lt;/p&gt;
+&lt;p&gt;Segundo o governo do Reino Unido, a opção pelo empréstimo, em vez de uma doação, busca ampliar o volume de financiamento climático disponível sem aumentar o custo para os contribuintes.&lt;/p&gt;
+&lt;p&gt;A modalidade também está alinhada a uma nova estratégia de financiamento climático do país, que pretende atuar mais como investidor do que como doador.&lt;/p&gt;
+&lt;p&gt;Os investidores que compram os títulos emitidos pelo TFFF recebem juros fixos e estáveis. A decisão britânica está condicionada, entre outros pontos, à definição do tamanho final do fundo, dos mecanismos de crédito, da estrutura financeira e dos termos do empréstimo. O governo também pretende participar dos mecanismos de supervisão do fundo.&lt;/p&gt;
+&lt;p&gt;No TFFF, países que conseguirem recuperar e manter suas florestas de pé serão recompensados financeiramente por esse esforço.Eles só receberão os valores após verificação por imagens de satélite que confirmem níveis de desmatamento abaixo de limites pré-definidos.&lt;/p&gt;
+&lt;p&gt;O fundo também prevê um protagonismo das populações indígenas e povos e comunidades tradicionais, que desempenham papel direto na proteção das florestas. O mecanismo propõe destinar pelo menos 20% dos pagamentos nacionais a essas populações.&lt;/p&gt;
+&lt;p&gt;Para o diretor-executivo do WWF-Brasil, Mauricio Voivodic, a adesão britânica ocorre em um momento importante para ampliar a iniciativa.&lt;/p&gt;
+&lt;p&gt;“É muito significativo ver o Reino Unido se somar ao TFFF neste momento decisivo. Este compromisso reforça uma mudança necessária na forma como o mundo reconhece e financia a conservação das florestas tropicais: valorizando quem as protege e garantindo recursos de longo prazo para que essa proteção seja efetiva”, analisa Mauricio.&lt;/p&gt;
+&lt;p&gt;A expectativa é que o anúncio inspire novas adesões pelo mundo.&lt;/p&gt;
+&lt;p&gt;“Esperamos que o compromisso do Reino Unido seja um estímulo para que outros países avancem também e ajudem a levar essa solução à escala que a crise exige”, disse.&lt;/p&gt;
+&lt;p&gt;Copa do Brasil define último semifinalista nesta quinta-feira&lt;/p&gt;
+&lt;p&gt;Desigualdades raciais persistem em todos os níveis de ensino&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/reino-unido-anuncia-ps400-milhoes-para-fundo-florestas-tropicais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+O Reino Unido anunciou a intenção de investir 400 milhões de libras no Fundo Florestas Tropicais para Sempre (TFFF,...</excerpt:encoded>
+      <wp:post_id>1008</wp:post_id>
+      <wp:post_date>2026-09-03 16:50:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-03 16:50:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-03 16:50:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-03 16:50:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/8_rmxFprUPgE8iv6ER-1Xena91w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/29/dji_20260514133612_0223_d_55279773377_o.jpg?itok=7x5soZU_</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Lavagem de Madeleine exalta cultura afro-brasileira em Paris</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/lavagem-de-madeleine-exalta-cultura-afro-brasileira-em-paris</link>
-      <pubDate>Thu, 03 Sep 2026 19:32:28 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 22:05:09 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/lavagem-de-madeleine-exalta-cultura-afro-brasileira-em-paris#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/lavagem-de-madeleine-exalta-cultura-afro-brasileira-em-paris#1009</guid>
       <description>© Ulysses Venturin/Lavagem de Madeleine
 Cerca de 60 mil pessoas devem participar este ano da 25ª edição da
 na Europa. Brasileiros, franceses e turist...</description>
@@ -49,7 +486,7 @@ na Europa. Brasileiros, franceses e turist...</description>
       <excerpt:encoded>© Ulysses Venturin/Lavagem de Madeleine
 Cerca de 60 mil pessoas devem participar este ano da 25ª edição da
 na Europa. Brasileiros, franceses e turist...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-09-03 15:05:00</wp:post_date>
       <wp:post_date_gmt>2026-09-03 15:05:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-03 15:05:00</wp:post_modified>
@@ -70,426 +507,6 @@ na Europa. Brasileiros, franceses e turist...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/KSfAR1NwlPxonhia5BDxFwwHShg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/03/065b69f5-195d-4bca-9c77-af3d3b5ef9a7.jpg?itok=Hf_94_xa</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>MPSP faz operação para aprofundar investigações da Operação Ícaro</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mpsp-faz-operacao-para-aprofundar-investigacoes-da-operacao-icaro</link>
-      <pubDate>Thu, 03 Sep 2026 19:32:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mpsp-faz-operacao-para-aprofundar-investigacoes-da-operacao-icaro#1001</guid>
-      <description>O Ministério Público do Estado de São Paulo (MPSP) deflagrou, na manhã desta quinta-feira (3), ação para aprofundar a investigação de uma organização...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zIOuNIQNOJWi1LIT0szkwjG7d3Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/08/predio-mp_sp_widelg.jpg?itok=SvS-QPxw&quot; alt=&quot;MPSP faz operação para aprofundar investigações da Operação Ícaro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Ministério Público do Estado de São Paulo (MPSP) deflagrou, na manhã desta quinta-feira (3), ação para aprofundar a investigação de uma organização criminosa suspeita de atuar no âmbito da Secretaria da Fazenda e Planejamento do Estado. A ação é um desdobramento da Operação Ícaro, realizada em agosto de 2025.&lt;/p&gt;
-&lt;p&gt;Foram cumpridos dois mandados de prisão preventiva e realizadas buscas em 47 endereços residenciais, profissionais e empresariais, na capital paulista, na região metropolitana de São Paulo, no interior paulista e no estado de Mato Grosso do Sul.&lt;/p&gt;
-&lt;p&gt;Um dos alvos das prisões preventivas foi o suposto líderdo núcleo privado da organizaçãoque, segundo as apurações, teria repassado aproximadamente R$ 13,6 milhões ao então delegado regional tributário do Butantã entre 2021 e agosto de 2025. Outro alvo atuava na cúpula da estrutura fazendária paulista até maio de 2026.&lt;/p&gt;
-&lt;p&gt;Segundo o MPSP, são apurados possíveis crimes de organização criminosa, corrupção ativa, corrupção passiva e lavagem de dinheiro relacionados a procedimentos de ressarcimento do ICMS - o Imposto sobre Circulação de Mercadorias e Serviços - retido por substituição tributária (ICMS-ST) e de aproveitamento de crédito acumulado.&lt;/p&gt;
-&lt;p&gt;As investigações mostraram que o grupo teria transformado um mecanismo tributário legítimo em mercado clandestino, com a negociação de créditos dos contribuintes e de atos administrativos necessários para o reconhecimento e a liberação desses créditos. Os favorecidos ganharam entre 1% e 10% dos créditos fiscais nos episódios investigados.&lt;/p&gt;
-&lt;p&gt;No esquema, profissionais particulares captariam contribuintes de grande porte e negociariam facilidades, repassando parte dos honorários a agentes públicos que eram os facilitadores da fraude. A função dos agentes públicos era a de interferir na fiscalização e na tramitação dos procedimentos para acelerá-los ou deferi-los.&lt;/p&gt;
-&lt;p&gt;As diligências realizadas pelo Grupo de Atuação Especial de Repressão à Formação de Cartel e à Lavagem de Dinheiro e de Recuperação de Ativos Financeiros (Gedec) do MPSP, que contou com o apoio de unidades do Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) e da Polícia Militar, tiveram o objetivo de obter novas provas (documentos, registros financeiros e dispositivos eletrônicos) para dar continuidade às investigações.&lt;/p&gt;
-&lt;p&gt;Saiba mais detalhes no Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
-&lt;p&gt;Festival Internacional de Dança do Recife tem mais de 30 atividades&lt;/p&gt;
-&lt;p&gt;Operação mira esquema de propina na Secretaria da Fazenda de São Paulo&lt;/p&gt;
-&lt;p&gt;Lavagem de Madeleine exalta cultura afro-brasileira em Paris&lt;/p&gt;
-&lt;p&gt;MPSP faz operação para aprofundar investigações da Operação Ícaro&lt;/p&gt;
-&lt;p&gt;Nepal: número de mortos sobe para 1.280&lt;/p&gt;
-&lt;p&gt;Mendonça diz que deixará sociedade no Instituto Iter&lt;/p&gt;
-&lt;p&gt;Em áudio, Nikolas pede ajuda a Vorcaro para liberar ativo de minério&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mpsp-faz-operacao-para-aprofundar-investigacoes-da-operacao-icaro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Ministério Público do Estado de São Paulo (MPSP) deflagrou, na manhã desta quinta-feira (3), ação para aprofundar a investigação de uma organização...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
-      <wp:post_date>2026-09-03 13:21:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 13:21:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 13:21:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 13:21:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/zIOuNIQNOJWi1LIT0szkwjG7d3Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/11/08/predio-mp_sp_widelg.jpg?itok=SvS-QPxw</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mendonça diz que deixará sociedade no Instituto Iter</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-diz-que-deixara-sociedade-no-instituto-iter</link>
-      <pubDate>Thu, 03 Sep 2026 19:32:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-diz-que-deixara-sociedade-no-instituto-iter#1002</guid>
-      <description>O ministro André Mendonça, do Supremo Tribunal Federal (STF), anunciou nesta quinta-feira (3) que vai deixar a sociedade no Instituto Iter, instituiç...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/V12EIX644ihCGO52J51ievJuk_I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/52441529977_f3565b5d7d_o.jpg?itok=rlgK9Uj5&quot; alt=&quot;Mendonça diz que deixará sociedade no Instituto Iter&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O ministro André Mendonça, do Supremo Tribunal Federal (STF), anunciou nesta quinta-feira (3) que vai deixar a sociedade no Instituto Iter, instituição de ensino privada que oferece cursos de capacitação e pós-graduação executiva.&lt;/p&gt;
-&lt;p&gt;Em nota, Mendonça afirmaque nunca recebeu lucros advindos do instituto que ajudou a fundar, em novembro de 2023, quase dois anos após ele ter tomado posse como ministro da mais alta Corte de justiça do país.&lt;/p&gt;
-&lt;p&gt;Mendonça disse que cederá suas cotas, bem como as de sua esposa, Janei Mendonça, de maneira que eventuais valores decorrentes da participação do casal na empresa sejam destinados para fins sociais e educacionais.&lt;/p&gt;
-&lt;p&gt;Ainda segundo Mendonça, o Iter será transformado em entidade sem finslucrativos, “reforçando sua vocação exclusivamente educacional e social”, à qual “o ministro permanecerá prestando serviços exclusivamente acadêmicos, na qualidade de professor”. No site do Iter, Mendonçaé apontado como professor do curso&lt;/p&gt;
-&lt;p&gt;De acordo com o ministro, a decisão de transformar o Iter em entidade sem fins lucrativos foi tomada em conjunto com o presidente do instituto, Victor Godoy Veiga.&lt;/p&gt;
-&lt;p&gt;Mendonça e Veiga foram ministros de Estado durante o governo de Jair Bolsonaro. O primeiro comandou o Ministério da Justiça e Segurança Pública entre abril de 2020 e março de 2021. Veiga chefiou o Ministério da Educação de março a 2022 e janeiro 2023.&lt;/p&gt;
-&lt;p&gt;A Revista Fórum noticiou, esta manhã, em seu site, que, desde que foi fundado, o Iter firmou ao menos 55 contratos com órgãos públicos de 14 unidades federativas. Somados, os contratos envolvem valores da ordem de R$ 10,8 milhões. De acordo com a apuração do jornalista Plínio Teodoro, da Fórum, 54 desses contratos foram formalizados porcontratação direta, sem licitação.&lt;/p&gt;
-&lt;p&gt;A reportagem da Agência Brasil entrou em contato com o Instituto Iter e aguarda uma resposta.&lt;/p&gt;
-&lt;p&gt;Festival Internacional de Dança do Recife tem mais de 30 atividades&lt;/p&gt;
-&lt;p&gt;Operação mira esquema de propina na Secretaria da Fazenda de São Paulo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-diz-que-deixara-sociedade-no-instituto-iter&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O ministro André Mendonça, do Supremo Tribunal Federal (STF), anunciou nesta quinta-feira (3) que vai deixar a sociedade no Instituto Iter, instituiç...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
-      <wp:post_date>2026-09-03 12:48:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 12:48:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 12:48:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 12:48:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/V12EIX644ihCGO52J51ievJuk_I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/52441529977_f3565b5d7d_o.jpg?itok=rlgK9Uj5</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Em áudio, Nikolas pede ajuda a Vorcaro para liberar ativo de minério</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/em-audio-nikolas-pede-ajuda-vorcaro-para-liberar-ativo-de-minerio</link>
-      <pubDate>Thu, 03 Sep 2026 19:32:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/em-audio-nikolas-pede-ajuda-vorcaro-para-liberar-ativo-de-minerio#1003</guid>
-      <description>© Montagem Kayo Magalhães/Câmara dos Deputados e Banco Master/Divulgação
-Áudios revelados pela jornalista Juliana Dal Piva, do portal ICL, revelam qu...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/EtIhi6PsQ6KPlpd1-NqgOlTmzYQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/03/vorca-2-scaled-e1767922829627-1024x688-1.jpg?itok=52JKa4Np&quot; alt=&quot;Em áudio, Nikolas pede ajuda a Vorcaro para liberar ativo de minério&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Montagem Kayo Magalhães/Câmara dos Deputados e Banco Master/Divulgação&lt;/p&gt;
-&lt;p&gt;Áudios revelados pela jornalista Juliana Dal Piva, do portal ICL, revelam que o deputado federal Nikolas Ferreira (PL-MG) manteve contato com Daniel Vorcaro, dono do Banco Master e preso devido a fraudes no sistema bancário.&lt;/p&gt;
-&lt;p&gt;No áudio, do dia 30 de março de 2025, Nikolasliga para Vorcaro e solicitauma ajuda para seu ex-assessorThiago Rodrigues de Faria. O deputado pede que o banqueiro auxilie na liberação de “um ativo de minério”.&lt;/p&gt;
-&lt;p&gt;Na conversa, Nikolas detalha o assunto a Vorcaro:&lt;/p&gt;
-&lt;p&gt;“Ei Dani, tudo bom? Como você está? Como estão as coisas aí? Desculpa te incomodar num domingo aí, é jogo rápido, também não quero tomar muito seu tempo. É o seguinte, meu amigo, meu advogado, enfim, irmão meu aqui, comentou comigo e falou daqui do seu nome. Eu falei: ‘não conheço o Dani, enfim, não tenho a proximidade assim, até mesmo a que eu queria ter, enfim, de conversar e trocar ideia, mas eu o conheço.’ Ele falou: ‘cara, tô com um ativo minerário lá, inclusive já passou pela ficha técnica, o pessoal técnico dele, enfim, tá pendente lá, tem algumas pessoas que sabem disso lá na empresa.’ E eu falei: ‘não, ué, eu posso dar um toque nele’. Então assim, não sei nem do que se trata, mas enfim como é uma pessoa, enfim, que eu confio totalmente, tô passando aí pra você, pra se for do teu interesse, passar o contato dele aqui pra vocês tocarem isso, beleza? No mais, qualquer coisa tô aqui à disposição”, disse em mensagem de áudio o político do PL.&lt;/p&gt;
-&lt;p&gt;Segundo a reportagem do ICL, Vorcaro enviou na sequência um áudio de visualização única. Nikolas agradece e Vorcaro manda mensagem: “amém, irmão. Estamos na guerra juntos”. O ex-banqueiro finaliza dizendo para o deputado que Thiago pode procurá-lo.&lt;/p&gt;
-&lt;p&gt;O contato entre Vorcaro e Nikolas continuou no dia seguinte, 1º de abril, quando o político avisa ao banqueiro que Thiago estará em Brasília. No dia 2, Vorcaro responde com “deixa comigo”.&lt;/p&gt;
-&lt;p&gt;Em outro áudio, o deputado federal pede desculpas a Vorcaro por ter criticado publicamente um evento do Banco Master em Londres, em 2024, que reuniu ministros do Superior Tribunal de Justiça (STJ), Supremo Tribunal Federal (STF) e Tribunal Superior Eleitoral (TSE).&lt;/p&gt;
-&lt;p&gt;Nikolas disse que “não fazia ideia que era este o banco do Dani, senão, obviamente eu não teria postado, já teria conversado anteriormente”. O político termina a conversa nesse mesmo áudio falando “depois vamos marcar da gente se encontrar também, tá bem? Um abraço, lindão”.&lt;/p&gt;
-&lt;p&gt;deputado Nikolas Ferreirahavia usado, durante 10 dias, em outubro de 2022, um avião que pertencia a Vorcaro&lt;/p&gt;
-&lt;p&gt;. O político, nessa época, fazia campanha pela reeleição do ex-presidente Jair Bolsonaro.&lt;/p&gt;
-&lt;p&gt;Na oportunidade, Nikolas informou que não sabia quem era o proprietário do avião e que só depois da utilização da aeronave é que descobriu que pertencia ao ex-banqueiro.&lt;/p&gt;
-&lt;p&gt;Em mensagens reveladas hoje pelo portal ICL, Daniel Vorcaro confirma em conversa com o empresário Flávio Carneiro, em abril de 2024, que bancou todos os voos utilizados por Nikolas Ferreira.&lt;/p&gt;
-&lt;p&gt;“Esse Nikolas eu banquei todos os voos dele”, afirmou o banqueiro a Carneiro. Vorcaroameaça expor o deputado federal em uma mensagem com erros de grafia:“Vouch (sic) mandar soltsr isso” [“Vou mandar soltar isso”]. Nas mensagens Vorcaro não esclarece quantos voos pagou nem o período dessas viagens.&lt;/p&gt;
-&lt;p&gt;procurou a assessoria do deputado e, se houver resposta, o texto será atualizado.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/em-audio-nikolas-pede-ajuda-vorcaro-para-liberar-ativo-de-minerio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Montagem Kayo Magalhães/Câmara dos Deputados e Banco Master/Divulgação
-Áudios revelados pela jornalista Juliana Dal Piva, do portal ICL, revelam qu...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
-      <wp:post_date>2026-09-03 12:46:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 12:46:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 12:46:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 12:46:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/EtIhi6PsQ6KPlpd1-NqgOlTmzYQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/03/vorca-2-scaled-e1767922829627-1024x688-1.jpg?itok=52JKa4Np</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>MP denuncia envolvidos em lavagem de dinheiro por meio de bets</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mp-denuncia-envolvidos-em-lavagem-de-dinheiro-por-meio-de-bets</link>
-      <pubDate>Thu, 03 Sep 2026 19:32:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mp-denuncia-envolvidos-em-lavagem-de-dinheiro-por-meio-de-bets#1004</guid>
-      <description>© Fernando Frazão/Agência Brasil
-O Ministério Público do Rio de Janeiro (MPRJ) denunciou oito pessoas por envolvimento em um esquema de lavagem de di...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PRRPxdWChF23ciGeOzZjzV6AtY4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mprj_ffraz_abr_1510212158_1.jpg?itok=n5xK9ZoB&quot; alt=&quot;MP denuncia envolvidos em lavagem de dinheiro por meio de bets&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O Ministério Público do Rio de Janeiro (MPRJ) denunciou oito pessoas por envolvimento em um esquema de lavagem de dinheiro do jogo do bicho por meio de empresas de apostas esportivas&lt;/p&gt;
-&lt;p&gt;As investigações do Núcleo de Combate aos Crimes Cibernéticos do Grupo de Atuação Especializada de Combate ao Crime Organizado do Ministério Público (Gaeco) mostramque os denunciados Flavio da Silva Santos, Vinicius Pereira Drumond, Alexandre Vinicius da Costa Guedes, Jorge Roberto de Oliveira Figueiredo, João Eric Lourenço da Silva, Ana Paula Batista Vitorino, João Victor de Araujo Souza e Lucas Pastore Laporte de Souza dissimularam e ocultaram ilicitamente pelo menos R$ 5,2 milhões.&lt;/p&gt;
-&lt;p&gt;A Coordenadoria de Segurança e Inteligência (CSI) cumpriu mandados de busca e apreensão em endereços na Barra da Tijuca, Freguesia, Botafogo e centrodoRio, além dos estados do Paraná e de Goiás.&lt;/p&gt;
-&lt;p&gt;A pedido do MPRJ, a Justiça também determinou a suspensão das atividades e dos cadastros nacionais de Pessoas Jurídicas (CNPJs) das empresas JRF Eagle Participações e Invectry Participações. As buscasfora do Rio de Janeiro contaram com o apoio dos ministérios públicos do Paraná e de Goiás. A denúncia foi recebida pela 2ª Vara Especializada em Organização Criminosa do Rio.&lt;/p&gt;
-&lt;p&gt;De acordo com a denúncia, recursos provenientes da contravenção eram inseridos na economia formal por meio da casa de apostas Rio Jogos, operada pela LemaAdministração e Participações S/A. Para viabilizar o esquema, o grupo utilizava diferentes empresas, entre elas a JRF Eagle Participações e a Invectry Participações, além de pessoas apontadas como laranjas.&lt;/p&gt;
-&lt;p&gt;O rastreamento financeiro identificou que, em 6 de maio de 2024, a Lemarecebeu dois aportes de R$ 2,5 milhões cada, um proveniente de João Eric e outro da Apoio Consultoria Financeira, de titularidade dos denunciados Ana Paula e João Victor. No mesmo dia, a Lematransferiu R$ 5,2 milhões à Loteria do Estado do Rio de Janeiro (Loterj) como pagamento da outorga necessária à exploração de apostas de cota fixa.&lt;/p&gt;
-&lt;p&gt;Festival Internacional de Dança do Recife tem mais de 30 atividades&lt;/p&gt;
-&lt;p&gt;Operação mira esquema de propina na Secretaria da Fazenda de São Paulo&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mp-denuncia-envolvidos-em-lavagem-de-dinheiro-por-meio-de-bets&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fernando Frazão/Agência Brasil
-O Ministério Público do Rio de Janeiro (MPRJ) denunciou oito pessoas por envolvimento em um esquema de lavagem de di...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-09-03 09:02:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 09:02:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 09:02:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 09:02:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/PRRPxdWChF23ciGeOzZjzV6AtY4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mprj_ffraz_abr_1510212158_1.jpg?itok=n5xK9ZoB</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>ONU prevê El Niño &quot;muito forte&quot; com duração até fevereiro de 2027</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/onu-preve-el-nino-muito-forte-com-duracao-ate-fevereiro-de-2027</link>
-      <pubDate>Thu, 03 Sep 2026 19:32:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/onu-preve-el-nino-muito-forte-com-duracao-ate-fevereiro-de-2027#1005</guid>
-      <description>© Frame/Reuters/ Proibido reprodução
-O fenômeno El Niño está &quot;firmemente estabelecido&quot; e deverá aumentar seus efeitosainda mais nos próximo...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Qe4eM7NcwE7qlkd4nDHnKOIfaxo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-22t212133z_1_lop011722072026rp1_rtrmadp_baseimage-960x540_latam-weather-el-nino.jpg?itok=_YmAyIP3&quot; alt=&quot;ONU prevê El Niño &quot;muito forte&quot; com duração até fevereiro de 2027&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Frame/Reuters/ Proibido reprodução&lt;/p&gt;
-&lt;p&gt;O fenômeno El Niño está &quot;firmemente estabelecido&quot; e deverá aumentar seus efeitosainda mais nos próximos meses, atingindo intensidade &quot;muito forte&quot; com probabilidade &quot;próxima dos 100%&quot; de durar até fevereiro de 2027, alertou hoje (3) a Organização Meteorológica Mundial.&lt;/p&gt;
-&lt;p&gt;&quot;O El Niño estabeleceu-se firmemente e irá se intensificar, tornando-se um fenômeno muito forte nos próximos meses, com repercussões significativas nos padrões de temperatura e precipitação, bem como nos riscos associados de inundações, secas e calor extremo&quot;, alerta nova atualização da Organização Meteorológica Mundial (OMM).&lt;/p&gt;
-&lt;p&gt;Além disso, a organização destacaque as últimas previsões sazonais dos centros de produção globais da OMM indicam&quot;probabilidade excepcionalmente elevada&quot;, de quase 100%, de que o El Niño persista até fevereiro de 2027.&lt;/p&gt;
-&lt;p&gt;O secretário-geral da ONU, António Guterres, alertou para a intensificação nos próximos meses do fenômeno El Niño, realçando que o mundo vive uma situação de “alto risco&quot; com eventos climáticos extremos.&lt;/p&gt;
-&lt;p&gt;&quot;A ciência é inequívoca: o planeta está a entrar em águas desconhecidas, e essas águas estão a aquecer,disse Guterres em comunicado.&lt;/p&gt;
-&lt;p&gt;As temperaturas da superfície do mar estão atingemníveis recordes, os termômetros continuam a subirem zona de alto risco, onde os eventos climáticos extremos estão se tornando a nova normalidade,&lt;/p&gt;
-&lt;p&gt;António Guterres lembrouque este evento excepcional do El Niño exige preparação e resposta adequadas.&lt;/p&gt;
-&lt;p&gt;“Não há tempo a perder. Está em curso uma corrida contra o tempo entre os riscos crescentes e a nossa determinação em agir contra as alterações climáticas e proteger as pessoas. É uma corrida que devemos ganhar&quot;, disse.&lt;/p&gt;
-&lt;p&gt;O El Niño é um fenômeno natural que se repete a cada dois a sete anos. As águas superficiais do Pacífico equatorial central e oriental começam a aquecer na primavera, levando a grandes alterações nos padrões de vento, pressão e precipitação em todo o mundo nos meses seguintes.&lt;/p&gt;
-&lt;p&gt;As temperaturas da superfície do mar nesta zona do Pacífico equatorial já estão significativamente acima da média e continuam a subir.&lt;/p&gt;
-&lt;p&gt;As temperaturas estiveram, em média, 1,5 graus acima do normal entre maio e julho de 2026, passando para dois graus acima do normal em julho, segundo a OMM, que citaainda leituras de 2,2 graus a 2,6 graus acima da média entre o final de julho e meados de agosto, &quot;o que demonstra o contínuo fortalecimento do fenômeno&quot;.&lt;/p&gt;
-&lt;p&gt;Abaixo da superfície do oceano, as temperaturasestiveram ainda mais de 0,8 graus acima da média em algumas áreas durante julho e o início de agosto.&lt;/p&gt;
-&lt;p&gt;Embora cada El Niño seja diferente, o fenômeno causou ou intensificou historicamente secas e riscos de incêndio em partes da Amazónia, América Central, Indonésia e Austrália, interrompeu a monção na Índia e trouxe chuvas torrenciais para a África Oriental.&lt;/p&gt;
-&lt;p&gt;O evento climáticosoma-se às alteraçõescausadas pelas atividades humanas, exacerbando os eventosextremos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/onu-preve-el-nino-muito-forte-com-duracao-ate-fevereiro-de-2027&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Frame/Reuters/ Proibido reprodução
-O fenômeno El Niño está &quot;firmemente estabelecido&quot; e deverá aumentar seus efeitosainda mais nos próximo...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-09-03 08:42:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 08:42:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 08:42:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 08:42:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Qe4eM7NcwE7qlkd4nDHnKOIfaxo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/2026-07-22t212133z_1_lop011722072026rp1_rtrmadp_baseimage-960x540_latam-weather-el-nino.jpg?itok=_YmAyIP3</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Confira a agenda dos presidenciáveis nesta quinta-feira (3)</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-quinta-feira-3</link>
-      <pubDate>Thu, 03 Sep 2026 19:32:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-quinta-feira-3#1006</guid>
-      <description>A agenda dos presidenciáveis inclui entrevistas e sabatinas em veículos de comunicação, encontros com lideranças religiosas, visitas a instituições e...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mHxHjf7pDxiKyHWFE1hh6tGdJMg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/18/banner_agenda_-_1170x700.png?itok=t-rMkLxv&quot; alt=&quot;Confira a agenda dos presidenciáveis nesta quinta-feira (3)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A agenda dos presidenciáveis inclui entrevistas e sabatinas em veículos de comunicação, encontros com lideranças religiosas, visitas a instituições e obras sociais. Também estão previstas panfletagem e apresentação de programa eleitoral, além de atividades partidárias.&lt;/p&gt;
-&lt;p&gt;Clariana Barão (Democracia Cristã)&lt;/p&gt;
-&lt;p&gt;Concede entrevista para o canal Leo Dias&lt;/p&gt;
-&lt;p&gt;Cumpre agenda da secretaria-geral do PCB em Lisboa.&lt;/p&gt;
-&lt;p&gt;Faz transmissão ao vivo pelas redes sociais, às 19h.&lt;/p&gt;
-&lt;p&gt;Em Aracaju (SE), participa de panfletagem no Calçadão da rua João Pessoa e de conversa de apresentação do Programa Eleitoraldo PSTU na sede do Sindipetro.&lt;/p&gt;
-&lt;p&gt;Concede entrevista para CNN Brasil, às 21h&lt;/p&gt;
-&lt;p&gt;Participa de sabatina no programa Jornal da Manhã, da Jovem Pan, das 8h às 9h.&lt;/p&gt;
-&lt;p&gt;Concede entrevista para o jornal O Estado de S. Paulo. À tarde, visita a obra social DomBosco, em São Paulo (SP).&lt;/p&gt;
-&lt;p&gt;Pela manhã, visita o Hospital e Centro de Reabilitação da Fauna Silvestre e o Hospital Veterinário Anclivepa, ambos em Taguatinga (DF). À tarde, participa de protesto pacífico contra a suspensão de seus canais digitais de campanha.&lt;/p&gt;
-&lt;p&gt;Participa de reunião na Assembleia de Deus de São Paulo (SP). À noite, participa de evento para casais da Igreja Carvalhos de Justiça, em Ribeirão Preto (SP).&lt;/p&gt;
-&lt;p&gt;não tem agenda pública de campanha nesta quinta-feira.&lt;/p&gt;
-&lt;p&gt;não divulgaram a agenda até o momento desta publicação.&lt;/p&gt;
-&lt;p&gt;A ordem de apresentação da cobertura da agenda dos candidatos a presidente segue rodízio diário em ordem alfabética.&lt;/p&gt;
-&lt;p&gt;Festival Internacional de Dança do Recife tem mais de 30 atividades&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-quinta-feira-3&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A agenda dos presidenciáveis inclui entrevistas e sabatinas em veículos de comunicação, encontros com lideranças religiosas, visitas a instituições e...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-09-03 08:30:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 08:30:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 08:30:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 08:30:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/mHxHjf7pDxiKyHWFE1hh6tGdJMg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/18/banner_agenda_-_1170x700.png?itok=t-rMkLxv</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Procurador defende asfixia financeira no combate ao crime organizado</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/procurador-defende-asfixia-financeira-no-combate-ao-crime-organizado</link>
-      <pubDate>Thu, 03 Sep 2026 19:32:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/procurador-defende-asfixia-financeira-no-combate-ao-crime-organizado#1007</guid>
-      <description>O procurador-geral de Justiça do Rio, Antônio José Campos Moreira, disse nessa quarta-feira (2), durante encontro com empresários promovido pelo Grup...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jBLd_N7_jirmahqymFu_QhkNX9A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/30/image_870x_69c546590ce10.jpg?itok=m_cGWZ8c&quot; alt=&quot;Procurador defende asfixia financeira no combate ao crime organizado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O procurador-geral de Justiça do Rio, Antônio José Campos Moreira, disse nessa quarta-feira (2), durante encontro com empresários promovido pelo Grupo de Líderes Empresariais (Lide), que é preciso identificar o crime como atividade empresarial, que concorre com todos.&lt;/p&gt;
-&lt;p&gt;Ao abordar os reflexos da criminalidade na ordem econômica e financeira, o procurador afirmou que o enfrentamento às organizações criminosas deve avançar sobre seu patrimônio e seus fluxos financeiros, com prioridade para a investigação patrimonial e a recuperação de ativos.&lt;/p&gt;
-&lt;p&gt;&quot;Prender, ainda que prender lideranças, não é suficiente&quot;. disse Antônio José durante o debate. “Investigar, processar, condenar e prender permanece indispensável, mas precisa ser acompanhado de estratégias capazes de atingir a estrutura econômica das organizações criminosas”.&lt;/p&gt;
-&lt;p&gt;O procurador-geral de Justiça explicou que o Ministério Público do Rio de Janeiro (MPRJ) vem direcionando sua atuação para a investigação patrimonial e a recuperação de ativos, com o objetivo de asfixiar financeiramente esses grupos.&lt;/p&gt;
-&lt;p&gt;&quot;A investigação patrimonial e a recuperação de ativos são, para nós, o norte do enfrentamento da criminalidade organizada&quot;.&lt;/p&gt;
-&lt;p&gt;Antônio José afirmou ainda que a expansão das facções criminosas ultrapassou os limites da segurança pública.&lt;/p&gt;
-&lt;p&gt;&quot;O Rio de Janeiro é um estado fatiado, dividido e dominado territorialmente por facções criminosas. É um problema de segurança pública, mas que transcende, que ultrapassa a segurança pública. É um problema de soberania&quot;, acrescentou.&lt;/p&gt;
-&lt;p&gt;Para ele, o domínio territorial permitiu às organizações criminosas diversificar suas fontes de receita e avançar sobre atividades econômicas lícitas.&lt;/p&gt;
-&lt;p&gt;Na sua opinião,o tráfico de drogas tornou-se uma atividade econômica secundária no Rio diante da diversificação dos negócios controlados pelas facções.&lt;/p&gt;
-&lt;p&gt;&quot;Os impactos econômicos e financeiros são enormes. São tributos que o Estado e os municípios deixam de arrecadar. São empresários que poderiam estar empreendendo,trabalhando&quot;.&lt;/p&gt;
-&lt;p&gt;Festival Internacional de Dança do Recife tem mais de 30 atividades&lt;/p&gt;
-&lt;p&gt;Operação mira esquema de propina na Secretaria da Fazenda de São Paulo&lt;/p&gt;
-&lt;p&gt;Lavagem de Madeleine exalta cultura afro-brasileira em Paris&lt;/p&gt;
-&lt;p&gt;MPSP faz operação para aprofundar investigações da Operação Ícaro&lt;/p&gt;
-&lt;p&gt;Nepal: número de mortos sobe para 1.280&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/procurador-defende-asfixia-financeira-no-combate-ao-crime-organizado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O procurador-geral de Justiça do Rio, Antônio José Campos Moreira, disse nessa quarta-feira (2), durante encontro com empresários promovido pelo Grup...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-09-03 08:17:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 08:17:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 08:17:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 08:17:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/jBLd_N7_jirmahqymFu_QhkNX9A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/30/image_870x_69c546590ce10.jpg?itok=m_cGWZ8c</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Frente fria leva chuva ao Sudeste e parte do Centro-Oeste</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/frente-fria-leva-chuva-ao-sudeste-e-parte-do-centro-oeste</link>
-      <pubDate>Thu, 03 Sep 2026 19:32:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/frente-fria-leva-chuva-ao-sudeste-e-parte-do-centro-oeste#1008</guid>
-      <description>A passagem de uma frente fria entre o Espírito Santo e o sul da Bahia leva umidade para a região, provocando chuvas intensas até o norte de Minas Ger...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/TNGiXsJyeA3ehMTP7z1fMxOyssA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/31/pint8327.jpg?itok=54MQ5ahS&quot; alt=&quot;Frente fria leva chuva ao Sudeste e parte do Centro-Oeste&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A passagem de uma frente fria entre o Espírito Santo e o sul da Bahia leva umidade para a região, provocando chuvas intensas até o norte de Minas Gerais. Também hápossibilidade de chuva no sul do Pará, Tocantins, Mato Grosso, Goiás e Distrito Federal, informa o Instituto Nacional de Meteorologia (Inmet).&lt;/p&gt;
-&lt;p&gt;Um aviso amarelo de perigo potencial para baixa umidade do ar vale para Mato Grosso do Sul, Goiás, Distrito Federal e sudeste de Mato Grosso.&lt;/p&gt;
-&lt;p&gt;Entre as capitais da região Centro-Oeste, a temperatura máxima será de 37°C em Cuiabá e mínima de 16°C em Campo Grande.&lt;/p&gt;
-&lt;p&gt;No Nordeste, são esperadas chuvas isoladas no centro-sul da Bahia e demais áreas, exceto no norte do estado, onde o tempo fica estável, mas com muitas nuvens.&lt;/p&gt;
-&lt;p&gt;No sul do Maranhão e do Piauí e no litoral leste entre Sergipe, Alagoas, Pernambuco, Paraíba e Rio Grande do Norte também deve chover de forma isolada.&lt;/p&gt;
-&lt;p&gt;Nas capitais, a temperatura mínima será de 21°C em Maceió, Em Teresina, onde não há previsão de chuva, a máxima deve chegar a 41°C.&lt;/p&gt;
-&lt;p&gt;No Norte do Brasil, o céu será de muitas nuvens em toda a região, com previsão de pancadas de chuva no centro-oeste e norte do Amazonas e chuva isolada no sul do Tocantins e do Pará.&lt;/p&gt;
-&lt;p&gt;Entre as capitais, a temperatura mínima será de 23°C em Rio Branco e a máxima prevista é de 38°C em Porto Velho e em Palmas.&lt;/p&gt;
-&lt;p&gt;No Sul do país, outro sistema de baixa pressão deve passar pelosul do estado do Rio Grande do Sul e contribuir para a ocorrência de chuva e possibilidade de queda de granizo no sudeste gaúcho. Há possibilidade de formação de geada em alguns pontos do centro-sul e dos Campos Gerais, no Paraná.&lt;/p&gt;
-&lt;p&gt;Um aviso amarelo de perigo potencial alerta para tempestades no centro-sul do Rio Grande do Sul, incluindo a capital Porto Alegre.&lt;/p&gt;
-&lt;p&gt;Nas capitais da região, a temperatura mínima será de 7°C em Curitiba e a máxima chega a 25°C em Porto Alegre.&lt;/p&gt;
-&lt;p&gt;No Sudeste, áreas de instabilidade provocam pancadas de chuva isoladas no Espírito Santo e no norte e nordeste de Minas Gerais. No centro-norte mineiro também há possibilidade de chuva.&lt;/p&gt;
-&lt;p&gt;Na Serra da Mantiqueira, pode haver formação de geada durante a madrugada e ao amanhecer.&lt;/p&gt;
-&lt;p&gt;A temperatura mínima entre as capitais da região será de 12°C em Belo Horizonte e a máxima de 31°C em Vitória.&lt;/p&gt;
-&lt;p&gt;Festival Internacional de Dança do Recife tem mais de 30 atividades&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/frente-fria-leva-chuva-ao-sudeste-e-parte-do-centro-oeste&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A passagem de uma frente fria entre o Espírito Santo e o sul da Bahia leva umidade para a região, provocando chuvas intensas até o norte de Minas Ger...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-09-03 08:05:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 08:05:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 08:05:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 08:05:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/TNGiXsJyeA3ehMTP7z1fMxOyssA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/31/pint8327.jpg?itok=54MQ5ahS</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Em 5 anos, furto de fios de cobre no Rio deu prejuízo de R$ 69 milhões</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/em-5-anos-furto-de-fios-de-cobre-no-rio-deu-prejuizo-de-r-69-milhoes</link>
-      <pubDate>Thu, 03 Sep 2026 19:32:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/em-5-anos-furto-de-fios-de-cobre-no-rio-deu-prejuizo-de-r-69-milhoes#1009</guid>
-      <description>© Marcello Casal JrAgência Brasil
-Operação conjunta dasForças de Segurança e a Prefeitura Municipal do Rio de Janeiro, com foco em ferros-velhos, bus...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NfJCusa6Nt14kPMwGezmKKZhfjM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rede_eletrica_mcajr_abr2807221091.jpg?itok=mPN3ZU3a&quot; alt=&quot;Em 5 anos, furto de fios de cobre no Rio deu prejuízo de R$ 69 milhões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
-&lt;p&gt;Operação conjunta dasForças de Segurança e a Prefeitura Municipal do Rio de Janeiro, com foco em ferros-velhos, busca reduzir furtos de fios de cobre na cidade, que provocaram prejuízo superior a R$ 69 milhões aos cofres públicos municipais nos últimos cinco anos - entre 2021 e 2025.&lt;/p&gt;
-&lt;p&gt;A primeira ação operacional do Núcleo Integrado de Combate a Furtos e Receptação de Cabos e fiação de cobre foi realizada nessa quarta-feira (2).&lt;/p&gt;
-&lt;p&gt;A Companhia de Engenharia de Tráfego (CET-Rio), responsável pela instalação dos sinais de trânsito na cidade, registrou furto de quase 500 quilômetros (km)de cabos de semáforo no Rio, gerando prejuízo de R$ 27 milhões.&lt;/p&gt;
-&lt;p&gt;A RioLuz, responsável pela iluminação pública, teve prejuízo de R$ 42 milhões, com mais de 1,8 km de cabos de cobre furtados da rede elétrica.&lt;/p&gt;
-&lt;p&gt;Os agentes públicos estiveram na Rua Alzira Valdetaro, no bairro do Sampaio, zona norte, onde dois ferros-velhos foram desapropriados e terão a área usada no planejamento urbano para a instalação de políticas públicas mais eficientes, com foco na regularização ambiental e urbanística.&lt;/p&gt;
-&lt;p&gt;A ação visa reduzir o furto de equipamentos, como material de cobre usadonos sinais de trânsito, placas de sinalização e fiação da iluminação e da rede elétrica, que provoca vários transtornos na capital.&lt;/p&gt;
-&lt;p&gt;“O combate também foca no receptador, para desestruturar essa cadeia logística criminosa”, disse o secretário municipal de Ordem Pública, Marcus Belchior.&lt;/p&gt;
-&lt;p&gt;Os agentes também atuaram na Avenida Marechal Rondon, sob o Viaduto Armando Coelho de Freitas, no mesmo bairro, onde foi feitaa demolição de uma estrutura que vinha sendo utilizada ilegalmente como ferro-velho.&lt;/p&gt;
-&lt;p&gt;“A região do Grande Méier vem sofrendo com o furto de cabos, problema que afeta não só o trânsito, mas toda a população. Não há manutenção que dê jeito nisso enquanto ferros-velhos clandestinos estiverem abertos para receptação ilegal.&lt;/p&gt;
-&lt;p&gt;Segundo o subprefeito da zona norte, Douglas Araújo, essa rede criminosa causa prejuízo de milhões aos cofres públicos anualmente”.&lt;/p&gt;
-&lt;p&gt;Festival Internacional de Dança do Recife tem mais de 30 atividades&lt;/p&gt;
-&lt;p&gt;Operação mira esquema de propina na Secretaria da Fazenda de São Paulo&lt;/p&gt;
-&lt;p&gt;Lavagem de Madeleine exalta cultura afro-brasileira em Paris&lt;/p&gt;
-&lt;p&gt;MPSP faz operação para aprofundar investigações da Operação Ícaro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/em-5-anos-furto-de-fios-de-cobre-no-rio-deu-prejuizo-de-r-69-milhoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal JrAgência Brasil
-Operação conjunta dasForças de Segurança e a Prefeitura Municipal do Rio de Janeiro, com foco em ferros-velhos, bus...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-09-03 07:48:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 07:48:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 07:48:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 07:48:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/NfJCusa6Nt14kPMwGezmKKZhfjM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rede_eletrica_mcajr_abr2807221091.jpg?itok=mPN3ZU3a</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
