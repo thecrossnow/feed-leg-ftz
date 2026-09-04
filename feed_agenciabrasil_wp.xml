@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Fri, 04 Sep 2026 10:17:06 +0000</pubDate>
+    <pubDate>Fri, 04 Sep 2026 14:39:54 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,416 +22,38 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
-      <title>Moraes encaminha a Fachin pedido de investigação contra Mendonça</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-encaminha-fachin-pedido-de-investigacao-contra-mendonca</link>
-      <pubDate>Fri, 04 Sep 2026 10:17:06 +0000</pubDate>
+      <title>Fazenda autoriza crédito de US$ 1 bilhão do BID para Eco Invest Brasil</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-autoriza-credito-de-us-1-bilhao-do-bid-para-eco-invest-brasil</link>
+      <pubDate>Fri, 04 Sep 2026 14:39:54 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-encaminha-fachin-pedido-de-investigacao-contra-mendonca#1000</guid>
-      <description>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), retirou nesta quinta-feira (3) o sigilo de decisão que aponta supostas irregularid...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wmp0Q3YLydxnYujOq9RFO5w3bpY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/07/55367429687_67831ee575_o.jpg?itok=Am-_6A1x&quot; alt=&quot;Moraes encaminha a Fachin pedido de investigação contra Mendonça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), retirou nesta quinta-feira (3) o sigilo de decisão que aponta supostas irregularidades na atuação do ministro André Mendonça na relatoria de processos relacionados às operações Sem Desconto e Compliance Zero.&lt;/p&gt;
-&lt;p&gt;Moraes encaminhou a decisão e os relatórios de inteligência da Polícia Federal que a fundamentam ao presidente da Corte, ministro Edson Fachin.&lt;/p&gt;
-&lt;p&gt;A decisão foi tomada no âmbito do Inquérito 4.781, instaurado em 2019 para apurar notícias fraudulentas, denunciações caluniosas, ameaças e outras infrações contra integrantes do Supremo, além de possíveis esquemas de financiamento e divulgação de&lt;/p&gt;
-&lt;p&gt;Na decisão, Moraes determinou que o conjunto de documentos seja encaminhado a Fachin “para as providências que entender necessárias”. Também determinou que a Procuradoria-Geral da República seja comunicada.&lt;/p&gt;
-&lt;p&gt;Bienal do Livro de São Paulo deve receber mais de 700 mil pessoas&lt;/p&gt;
-&lt;p&gt;Rádio MEC apresenta tributo ao compositor Francisco Mignone&lt;/p&gt;
-&lt;p&gt;Estado e governo federal se unem para retomar territórios no Rio&lt;/p&gt;
-&lt;p&gt;TRE-RJ vai oferecer transporte gratuito na eleição em 3 localidades&lt;/p&gt;
-&lt;p&gt;Moraes encaminha a Fachin pedido de investigação contra Mendonça&lt;/p&gt;
-&lt;p&gt;Veja como foi a quinta-feira (3) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Mega-Sena acumula para R$ 48 milhões; confira os números sorteados&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-encaminha-fachin-pedido-de-investigacao-contra-mendonca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), retirou nesta quinta-feira (3) o sigilo de decisão que aponta supostas irregularid...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
-      <wp:post_date>2026-09-03 21:34:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 21:34:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 21:34:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 21:34:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/wmp0Q3YLydxnYujOq9RFO5w3bpY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/07/55367429687_67831ee575_o.jpg?itok=Am-_6A1x</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mega-Sena acumula para R$ 48 milhões; confira os números sorteados</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-48-milhoes-confira-os-numeros-sorteados</link>
-      <pubDate>Fri, 04 Sep 2026 10:17:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-48-milhoes-confira-os-numeros-sorteados#1001</guid>
-      <description>© Marcelo Camargo/Agência Brasil
-Nenhum apostador acertou as seis dezenas do Concurso 3.053da Mega-Sena, realizado nestaquinta-feira (3).
-O prêmio ac...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/eaq4pCwPiYFX28fNjurwQSR142w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcamg_abr_08052019_8614_1.jpg?itok=uZbHSt8t&quot; alt=&quot;Mega-Sena acumula para R$ 48 milhões; confira os números sorteados&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Nenhum apostador acertou as seis dezenas do Concurso 3.053da Mega-Sena, realizado nestaquinta-feira (3).&lt;/p&gt;
-&lt;p&gt;O prêmio acumulou e está estimado em R$ 48milhões para o próximo sorteio.&lt;/p&gt;
-&lt;p&gt;Os números sorteados são:01 -13 -25 -35 -39 -51&lt;/p&gt;
-&lt;p&gt;50 apostas acertaram cinco dezenas e irão receberR$36.500,74 cada&lt;/p&gt;
-&lt;p&gt;3.297apostas acertaram quatro dezenas e irão receberR$912,43 cada&lt;/p&gt;
-&lt;p&gt;O próximo concurso acontece domingo (6), às 11h. As apostas podem ser feitas até as 22h (horário de Brasília) de sábado (5), em qualquer lotérica do país ou pela internet, no&lt;/p&gt;
-&lt;p&gt;A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
-&lt;p&gt;Bienal do Livro de São Paulo deve receber mais de 700 mil pessoas&lt;/p&gt;
-&lt;p&gt;Rádio MEC apresenta tributo ao compositor Francisco Mignone&lt;/p&gt;
-&lt;p&gt;Estado e governo federal se unem para retomar territórios no Rio&lt;/p&gt;
-&lt;p&gt;TRE-RJ vai oferecer transporte gratuito na eleição em 3 localidades&lt;/p&gt;
-&lt;p&gt;Moraes encaminha a Fachin pedido de investigação contra Mendonça&lt;/p&gt;
-&lt;p&gt;Veja como foi a quinta-feira (3) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Mega-Sena acumula para R$ 48 milhões; confira os números sorteados&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-48-milhoes-confira-os-numeros-sorteados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
-Nenhum apostador acertou as seis dezenas do Concurso 3.053da Mega-Sena, realizado nestaquinta-feira (3).
-O prêmio ac...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
-      <wp:post_date>2026-09-03 21:28:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 21:28:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 21:28:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 21:28:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/eaq4pCwPiYFX28fNjurwQSR142w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcamg_abr_08052019_8614_1.jpg?itok=uZbHSt8t</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>TRE indefere candidatura de José Roberto Arruda ao governo do DF</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tre-indefere-candidatura-de-jose-roberto-arruda-ao-governo-do-df</link>
-      <pubDate>Fri, 04 Sep 2026 10:17:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tre-indefere-candidatura-de-jose-roberto-arruda-ao-governo-do-df#1002</guid>
-      <description>O Tribunal Regional Eleitoral do Distrito Federal (TRE-DF) decidiu nesta quinta-feira (3) indeferir o registro da candidatura do ex-governador José R...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/KJeagyUu73P4KdJHpZdoxIlFZV8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/51956331751_4c83025604_o.jpg?itok=GkXtQw1A&quot; alt=&quot;TRE indefere candidatura de José Roberto Arruda ao governo do DF&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Tribunal Regional Eleitoral do Distrito Federal (TRE-DF) decidiu nesta quinta-feira (3) indeferir o registro da candidatura do ex-governador José Roberto Arruda (PSD) ao cargo de governador do Distrito Federal.&lt;/p&gt;
-&lt;p&gt;foi condenado por improbidade administrativa&lt;/p&gt;
-&lt;p&gt;em um dos processos da Operação Caixa de Pandora e está impedido de concorrer pela Lei da Ficha Limpa.&lt;/p&gt;
-&lt;p&gt;Segundo o relator, desembargador Guilherme Pupe, até a decisão do TSE, o candidato pode continuar a campanha eleitoral.&lt;/p&gt;
-&lt;p&gt;“Enquanto perdurar essa condição, ficam lhe asseguradas as práticas de atos relativos à campanha, inclusive propaganda e utilização de horário eleitoral”, decidiu.&lt;/p&gt;
-&lt;p&gt;Nas redes sociais, Arruda diz que respeita a decisão do TRE, mas irá recorrer ao Tribunal Superior Eleitoral (TSE).&lt;/p&gt;
-&lt;p&gt;“A decisão do TRE não encerra a nossa caminhada. Vamos recorrer ao TSE e seguir em frente. Não vou abaixar a cabeça nem abandonar Brasília”, disse.&lt;/p&gt;
-&lt;p&gt;Bienal do Livro de São Paulo deve receber mais de 700 mil pessoas&lt;/p&gt;
-&lt;p&gt;Rádio MEC apresenta tributo ao compositor Francisco Mignone&lt;/p&gt;
-&lt;p&gt;Estado e governo federal se unem para retomar territórios no Rio&lt;/p&gt;
-&lt;p&gt;TRE-RJ vai oferecer transporte gratuito na eleição em 3 localidades&lt;/p&gt;
-&lt;p&gt;Moraes encaminha a Fachin pedido de investigação contra Mendonça&lt;/p&gt;
-&lt;p&gt;Veja como foi a quinta-feira (3) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Mega-Sena acumula para R$ 48 milhões; confira os números sorteados&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tre-indefere-candidatura-de-jose-roberto-arruda-ao-governo-do-df&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Tribunal Regional Eleitoral do Distrito Federal (TRE-DF) decidiu nesta quinta-feira (3) indeferir o registro da candidatura do ex-governador José R...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
-      <wp:post_date>2026-09-03 21:05:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 21:05:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 21:05:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 21:05:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/KJeagyUu73P4KdJHpZdoxIlFZV8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/51956331751_4c83025604_o.jpg?itok=GkXtQw1A</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Inpe inicia operação de modelo próprio de previsão do tempo</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inpe-inicia-operacao-de-modelo-proprio-de-previsao-do-tempo</link>
-      <pubDate>Fri, 04 Sep 2026 10:17:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inpe-inicia-operacao-de-modelo-proprio-de-previsao-do-tempo#1003</guid>
-      <description>O Instituto Nacional de Pesquisas Espaciais (Inpe), unidade vinculada ao Ministério da Ciência, Tecnologia e Inovação (MCTI), começou aoperar ummodel...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WG4XdfAW24vkg4XIY3x34ZYy9NE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/pint4623.jpg?itok=QxXW5bDC&quot; alt=&quot;Inpe inicia operação de modelo próprio de previsão do tempo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Instituto Nacional de Pesquisas Espaciais (Inpe), unidade vinculada ao Ministério da Ciência, Tecnologia e Inovação (MCTI), começou aoperar ummodelo computacional próprio de previsão do tempo.&lt;/p&gt;
-&lt;p&gt;O Modelo para Previsões de Oceano, Terra e Atmosfera (Monan), desenvolvido nos últimos três anos, está rodando no supercomputador Jaci, instalado no centro de dados do Inpeem Cachoeira Paulista (SP).&lt;/p&gt;
-&lt;p&gt;Segundo o ministério, com o novo modelo, a acuidade das previsões meteorológicas brasileiras passa agora a estar no mesmo patamar de precisão de órgãos de referência dos Estados Unidos e da Europa.&lt;/p&gt;
-&lt;p&gt;Um modelo de previsão do tempo é um programa computacional que simula o comportamento futuro da atmosfera utilizando equações físicas e dados coletados por satélites, radares e estações meteorológicas. Quanto mais moderno o modelo e mais potente a estrutura de processamento, mais refinados e detalhados são os resultados obtidos.&lt;/p&gt;
-&lt;p&gt;O modelo brasileiro opera com cobertura global e resolução de dez quilômetros, com duas atualizações diárias.&lt;/p&gt;
-&lt;p&gt;Segundo o MCTI, o Monan gera previsões do tempo altamente confiáveis com até 11 dias de antecedência.&lt;/p&gt;
-&lt;p&gt;A pasta destaca que o novo modelo irá garantir alertas antecipados de desastres, aumentando a rapidez no monitoramento de tempestades, frentes frias e secas severas.&lt;/p&gt;
-&lt;p&gt;O Monan deverá também ajudar no planejamento de plantios e colheitas, mitigando os prejuízos das oscilações do clima tropical; e gerar estimativas mais detalhadas do volume de chuvas nas bacias hidrográficas.&lt;/p&gt;
-&lt;p&gt;&quot;Não estamos apenas trocando computadores ou atualizando softwares. Estamos garantindo que o Brasil tenha soberania sobre os seus próprios dados climáticos, utilizando um modelo concebido para as especificidades tropicais da América do Sul. Isso se traduz em decisões públicas mais rápidas, proteção de vidas e apoio direto ao desenvolvimento econômico&quot;, destacou a ministra da Ciência, Tecnologia e Inovação, Luciana Santos.&lt;/p&gt;
-&lt;p&gt;De acordo com o ministério, as etapas seguintes de desenvolvimento do sistema incluirão um modelo regional para a América do Sul, capaz de captar o comportamento do tempo em recortes de apenas cinco quilômetros, além de ferramentas específicas para previsões de curtíssimo prazo, chamadas de nowcasting e válidas para até seis horas.&lt;/p&gt;
-&lt;p&gt;Bienal do Livro de São Paulo deve receber mais de 700 mil pessoas&lt;/p&gt;
-&lt;p&gt;Rádio MEC apresenta tributo ao compositor Francisco Mignone&lt;/p&gt;
-&lt;p&gt;Estado e governo federal se unem para retomar territórios no Rio&lt;/p&gt;
-&lt;p&gt;TRE-RJ vai oferecer transporte gratuito na eleição em 3 localidades&lt;/p&gt;
-&lt;p&gt;Moraes encaminha a Fachin pedido de investigação contra Mendonça&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inpe-inicia-operacao-de-modelo-proprio-de-previsao-do-tempo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Instituto Nacional de Pesquisas Espaciais (Inpe), unidade vinculada ao Ministério da Ciência, Tecnologia e Inovação (MCTI), começou aoperar ummodel...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
-      <wp:post_date>2026-09-03 20:25:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 20:25:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 20:25:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 20:25:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/WG4XdfAW24vkg4XIY3x34ZYy9NE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/14/pint4623.jpg?itok=QxXW5bDC</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Professores têm 8 mil vagas gratuitas para pós-graduação</title>
-      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-tem-8-mil-vagas-gratuitas-para-pos-graduacao</link>
-      <pubDate>Fri, 04 Sep 2026 10:17:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-tem-8-mil-vagas-gratuitas-para-pos-graduacao#1004</guid>
-      <description>daredepúblicade todo o país têm à disposição mais de 8 mil vagas em cursos de pós-graduação presenciais e gratuitos.
-e a Coordenação de Aperfeiçoamen...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/a3yJOipwwu5JmGk-TV99s4di76A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/05/toms0722.jpg?itok=ouxRcI6w&quot; alt=&quot;Professores têm 8 mil vagas gratuitas para pós-graduação&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;daredepúblicade todo o país têm à disposição mais de 8 mil vagas em cursos de pós-graduação presenciais e gratuitos.&lt;/p&gt;
-&lt;p&gt;e a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) divulgaram, de forma unificada, nesta quarta-feira (3), os processos seletivos no&lt;/p&gt;
-&lt;p&gt;PortalFormação Mais Professores&lt;/p&gt;
-&lt;p&gt;A divulgação nacional busca ampliar o alcance das informações sobre cursos depós-graduaçãodestinados a qualificar os professores em exercício na educação básica pública.&lt;/p&gt;
-&lt;p&gt;Nos editais publicados principalmente deagosto asetembro, foram disponibilizadas cerca de 7 mil vagas de mestrado e doutoradonas seguintes áreas:&lt;/p&gt;
-&lt;p&gt;O MEC comunica que, em breve, será publicado um novo edital do Programa de Mestrado Profissional em Educação Inclusiva em Rede Nacional (ProfEI) com a previsão de oferta de700 vagas aos docentes.&lt;/p&gt;
-&lt;p&gt;Também estão previstas oportunidades relacionadas à educaçãoprofissional e tecnológica por meio do Programa de Pós-Graduação em Educação Profissional e Tecnológica (PROF-EPT)edo Programa de Pós-Graduação em Ciência, Cultura e Educação Digital (ProfEDigital), ainda sem númerode vagas.&lt;/p&gt;
-&lt;p&gt;Bienal do Livro de São Paulo deve receber mais de 700 mil pessoas&lt;/p&gt;
-&lt;p&gt;Rádio MEC apresenta tributo ao compositor Francisco Mignone&lt;/p&gt;
-&lt;p&gt;Estado e governo federal se unem para retomar territórios no Rio&lt;/p&gt;
-&lt;p&gt;TRE-RJ vai oferecer transporte gratuito na eleição em 3 localidades&lt;/p&gt;
-&lt;p&gt;Moraes encaminha a Fachin pedido de investigação contra Mendonça&lt;/p&gt;
-&lt;p&gt;Veja como foi a quinta-feira (3) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Mega-Sena acumula para R$ 48 milhões; confira os números sorteados&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/professores-tem-8-mil-vagas-gratuitas-para-pos-graduacao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>daredepúblicade todo o país têm à disposição mais de 8 mil vagas em cursos de pós-graduação presenciais e gratuitos.
-e a Coordenação de Aperfeiçoamen...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-09-03 19:56:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 19:56:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 19:56:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 19:56:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/a3yJOipwwu5JmGk-TV99s4di76A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/05/toms0722.jpg?itok=ouxRcI6w</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>STF decide limitar gratuidade em ações na Justiça do Trabalho</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-decide-limitar-gratuidade-em-acoes-na-justica-do-trabalho</link>
-      <pubDate>Fri, 04 Sep 2026 10:17:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-decide-limitar-gratuidade-em-acoes-na-justica-do-trabalho#1005</guid>
-      <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-O plenário do Supremo Tribunal Federal (STF) decidiu, nesta quinta-feira (3), que a gratuidade em processo...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CVbVO4P_K_SZTrTjL4IwkKs2G18=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11042023-pzzb9229.jpg?itok=VgIY16Ly&quot; alt=&quot;STF decide limitar gratuidade em ações na Justiça do Trabalho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fabio Rodrigues-Pozzebom/ Agência Brasil&lt;/p&gt;
-&lt;p&gt;O plenário do Supremo Tribunal Federal (STF) decidiu, nesta quinta-feira (3), que a gratuidade em processos trabalhistas só poderá ser concedida mediante comprovação de renda.&lt;/p&gt;
-&lt;p&gt;A decisão contraria a prática adotada pelo Tribunal Superior do Trabalho (TST). Para o TST, bastava a apresentação da declaração de hipossuficiência econômica para obtenção da assistência judiciária gratuita.&lt;/p&gt;
-&lt;p&gt;Na decisão, ficou definido que a gratuidade judicial será dada a todos que comprovarem renda de até R$ 5 mil.&lt;/p&gt;
-&lt;p&gt;O processo foi relatado pelo presidente da Corte, ministro Edson Fachin. O relator, junto com a ministra Carmen Lúcia, foram votos vencidos no processo.&lt;/p&gt;
-&lt;p&gt;“Mesmo que na hipótese da presunção relativa [de hipossuficiência], os magistrados indefiram o benefício da gratuidade de justiça caso constate patrimônio ou renda familiar incompatível com tal presunção, sempre respeitado o juízo de proporcionalidade e análise dos interesses envolvidos no caso concreto”, disse Fachin.&lt;/p&gt;
-&lt;p&gt;Uma sugestão do ministro Flávio Dino garantiu aplicação da presunção de hipossuficiência aos assistidos por defensor público.&lt;/p&gt;
-&lt;p&gt;A ação da Confederação Nacional do Sistema Financeiro (Consif) questionava a presunção de veracidade da declaração de hipossuficiência. Para a entidade, esse entendimento fere o dispositivo da Constituição que garante a gratuidade apenas aos que comprovarem a insuficiência de recursos.&lt;/p&gt;
-&lt;p&gt;Bienal do Livro de São Paulo deve receber mais de 700 mil pessoas&lt;/p&gt;
-&lt;p&gt;Rádio MEC apresenta tributo ao compositor Francisco Mignone&lt;/p&gt;
-&lt;p&gt;Estado e governo federal se unem para retomar territórios no Rio&lt;/p&gt;
-&lt;p&gt;TRE-RJ vai oferecer transporte gratuito na eleição em 3 localidades&lt;/p&gt;
-&lt;p&gt;Moraes encaminha a Fachin pedido de investigação contra Mendonça&lt;/p&gt;
-&lt;p&gt;Veja como foi a quinta-feira (3) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Mega-Sena acumula para R$ 48 milhões; confira os números sorteados&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-decide-limitar-gratuidade-em-acoes-na-justica-do-trabalho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
-O plenário do Supremo Tribunal Federal (STF) decidiu, nesta quinta-feira (3), que a gratuidade em processo...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-09-03 19:56:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 19:56:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 19:56:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 19:56:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/CVbVO4P_K_SZTrTjL4IwkKs2G18=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11042023-pzzb9229.jpg?itok=VgIY16Ly</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Veja como foi a quinta-feira (3) dos candidatos a presidente</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quinta-feira-3-dos-candidatos-presidente</link>
-      <pubDate>Fri, 04 Sep 2026 10:17:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quinta-feira-3-dos-candidatos-presidente#1006</guid>
-      <description>A agenda dos presidenciáveis nesta quinta-feira (3) teve entrevistas e sabatinas em veículos de comunicação, encontros com lideranças religiosas, vis...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL&quot; alt=&quot;Veja como foi a quinta-feira (3) dos candidatos a presidente&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A agenda dos presidenciáveis nesta quinta-feira (3) teve entrevistas e sabatinas em veículos de comunicação, encontros com lideranças religiosas, visitas a instituições e obras sociais.&lt;/p&gt;
-&lt;p&gt;&gt;&gt; Veja como foi o dia dos candidatos&lt;/p&gt;
-&lt;p&gt;A candidata Samara Martins não teve agenda pública de campanha&lt;/p&gt;
-&lt;p&gt;O candidato Wilson Grassi cumpriu agenda de campanha no Distrito Federal. Elevisitou um centro de reabilitação que recebe animais resgatados.&lt;/p&gt;
-&lt;p&gt;Ele disse que, se eleito, a proteção da faunaserá uma dasprioridades.&lt;/p&gt;
-&lt;p&gt;“Nós vamos colocar a proteção dos animais silvestres na primeira linha, e não só isso, por exemplo, proteger as áreas de preservação ambiental, fiscalizar as invasões irregular, o uso irregular desses animais, o tráfico de animais silvestres”, disse.&lt;/p&gt;
-&lt;p&gt;O candidato Augusto Curyparticipou de uma reunião com líderes da Assembleia de Deus de São Paulo. Após o encontro, em entrevista à imprensa, ele defendeu o combate ao feminicídio.&lt;/p&gt;
-&lt;p&gt;“As mulheres não podem sofrer mais essas atrocidades.Não pode. As mulheres têm que ser protegidas e valorizadas”, disse.&lt;/p&gt;
-&lt;p&gt;À noite, o candidatoparticipou de um evento para casais na Igreja Carvalhos de Justiça, em Ribeirão Preto (SP).&lt;/p&gt;
-&lt;p&gt;Clariana Barão (Democracia Cristã)&lt;/p&gt;
-&lt;p&gt;A candidata Clariana Barão concedeu entrevistas ao canal Leo Dias e aoprograma Com Brasil Debate, da emissora Com Brasil TV.&lt;/p&gt;
-&lt;p&gt;Ela defendeu o rastreamento de movimentações financeiras para combatero crime organizado.&lt;/p&gt;
-&lt;p&gt;“Nós temos ferramentas suficientes para encontrar o dinheiro, rastrear e sufocar o dinheiro do crime organizado, mas não é feito. E quando é feito, é de uma maneira muito seletiva”, disse.&lt;/p&gt;
-&lt;p&gt;O candidato Edmilson Costa cumpriuagenda da secretaria-geral do PCB em Lisboa.&lt;/p&gt;
-&lt;p&gt;O candidato Flávio Bolsonaro feztransmissão ao vivo pelas redes sociais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quinta-feira-3-dos-candidatos-presidente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A agenda dos presidenciáveis nesta quinta-feira (3) teve entrevistas e sabatinas em veículos de comunicação, encontros com lideranças religiosas, vis...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-09-03 19:54:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 19:54:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 19:54:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 19:54:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Dupla de Luisa Stefani vence estreia e avança à 2ª rodada do US Open</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/dupla-de-luisa-stefani-vence-estreia-e-avanca-no-us-open</link>
-      <pubDate>Fri, 04 Sep 2026 10:17:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/dupla-de-luisa-stefani-vence-estreia-e-avanca-no-us-open#1007</guid>
-      <description>© Jimmie 48 Photography/WTA/Direitos Reservados
-A tenista brasileira Luisa Stefani venceu com tranquilidade a estreia nas duplas femininas do US Open...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GW7bcmhQmQxS8Vfw6p5kmvwFNGY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/11/stefani_duplas_wta_1000_de_doha_2026.jpg?itok=Il7RKZH1&quot; alt=&quot;Dupla de Luisa Stefani vence estreia e avança à 2ª rodada do US Open&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Jimmie 48 Photography/WTA/Direitos Reservados&lt;/p&gt;
-&lt;p&gt;A tenista brasileira Luisa Stefani venceu com tranquilidade a estreia nas duplas femininas do US Open, em Nova York (Estados Unidos), jogando ao lado da canadense Gabriela Dabrowski. Elas avançaram à segunda rodada nesta quinta-feira (3) após derrotarem a parceria da russa Irina Khromacheva com a tcheca-moldava Anastasia Detiuc por 2 sets a 0, com parciais de 6/1 e 6/3.&lt;/p&gt;
-&lt;p&gt;As adversárias na próxima rodada serão as vencedoras do duelo entre a dupla da italiana Sara Errani com a austríaca Lilli Tagger contra as norte-americanas Anicka Penickova e Kristina Penickova. A partida será nesta sexta-feira (4), em horário ainda a ser definido.&lt;/p&gt;
-&lt;p&gt;Gabriela Dabrowski &amp; Luisa Stefani confirm their place at the WTA Finals Indian Wells!&lt;/p&gt;
-&lt;p&gt;Becoming champions in Dubai, Strasbourg &amp; Eastbourne, as well as finalists at Wimbledon, gets them a place on the&lt;/p&gt;
-&lt;p&gt;Antes mesmo da estreia em Nova York,a parceria Brasil-Canadá comemorou a classificação antecipada para o WTA Finals, competição com as oito melhores duplas da temporada, entre os dias 8 e 15 de novembro em Indian Wells, na Califórnia (EUA). Stefani e Dabrowski formam a segunda melhor dupla do ano com três títulos (&lt;/p&gt;
-&lt;p&gt;) e WTA 250 de Eastbourne) e classificação à final de Wimbledon e às semifinais do Aberto da Austrália e de Roland Garros.&lt;/p&gt;
-&lt;p&gt;No ano passado, Stefani foi vice-campeã do WTA Finals na Arábia Saudita quando jogava em parceria com ahúngara Timea Babos.&lt;/p&gt;
-&lt;p&gt;Primeira brasileira a estrear nesta quinta (3) no US Open foi Laura Pigossi em parceria com a húngara Panna Udvardy. No entanto, elas se despediram precocemente do torneio, ao serem superadas por 2 sets a 0 (6/3 e 6/0).&lt;/p&gt;
-&lt;p&gt;Cinco brasileiros entram em quadra nesta sexta (4) para a primeira rodada das duplas masculinas – os horários seguem indefinidos. Ao lado do taiwanês Ray Ho, o gaúcho Marcelo Demoliner encara os norte-americanos Jackson Withrow e Nathaniel Lammons.&lt;/p&gt;
-&lt;p&gt;A dupla 100% brasileira formada por Rafael Matos e Orlando Luz terá pela frente os norte-americanos Nikita Samuel Filin e Brandon Carpico.&lt;/p&gt;
-&lt;p&gt;Ex-parciero de Rafael Matos nas quadras, o mineiro Marcelo Melo competirá no US Open ao lado do australiano John Peers. Eles medirão forças com a dupla do sérvio Miomir Kecmanovic com o australiano James Duckworth.&lt;/p&gt;
-&lt;p&gt;Por fim, a parceria do carioca Fernando Romboli com o francês Térence Atmane encara os alemães Kevin Krawietz e Tim Puetz.&lt;/p&gt;
-&lt;p&gt;Bienal do Livro de São Paulo deve receber mais de 700 mil pessoas&lt;/p&gt;
-&lt;p&gt;Rádio MEC apresenta tributo ao compositor Francisco Mignone&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/dupla-de-luisa-stefani-vence-estreia-e-avanca-no-us-open&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Jimmie 48 Photography/WTA/Direitos Reservados
-A tenista brasileira Luisa Stefani venceu com tranquilidade a estreia nas duplas femininas do US Open...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-09-03 19:30:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 19:30:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 19:30:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 19:30:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/GW7bcmhQmQxS8Vfw6p5kmvwFNGY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/11/stefani_duplas_wta_1000_de_doha_2026.jpg?itok=Il7RKZH1</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Senado aprova MP da &quot;taxa das blusinhas&quot; e isenção se torna definitiva</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-aprova-mp-da-taxa-das-blusinhas-e-isencao-se-torna-definitiva</link>
-      <pubDate>Fri, 04 Sep 2026 10:17:06 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-aprova-mp-da-taxa-das-blusinhas-e-isencao-se-torna-definitiva#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-autoriza-credito-de-us-1-bilhao-do-bid-para-eco-invest-brasil#1000</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
-, o plenário do Senado Federal também aprovou, nesta quinta-feira (3), em votação simbólica, a medida provisória (M...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DV2cHMVXLsCPu8SMUZidBgoxLi8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/01/imagem_do_whatsapp_de_2024-06-01_as_16.55.51_d697879b.jpg?itok=UoYS-UBL&quot; alt=&quot;Senado aprova MP da &quot;taxa das blusinhas&quot; e isenção se torna definitiva&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+O Brasil está autorizado a contratar crédito externo de até US$ 1 bilhão com o
+Banco Interamericano de Desenvolvime...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8_rmxFprUPgE8iv6ER-1Xena91w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/29/dji_20260514133612_0223_d_55279773377_o.jpg?itok=7x5soZU_&quot; alt=&quot;Fazenda autoriza crédito de US$ 1 bilhão do BID para Eco Invest Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;, o plenário do Senado Federal também aprovou, nesta quinta-feira (3), em votação simbólica, a medida provisória (MP) da chamada &quot;taxa das blusinhas&quot;.&lt;/p&gt;
-&lt;p&gt;O texto zera o imposto de 20% sobre compras internacionais de até 50 dólares (cerca de R$ 257) feitas pela internet por meio de remessas postais. A versão definitiva da medida, agora convertida em lei, segue agora para sanção presidencial.&lt;/p&gt;
-&lt;p&gt;Durante a tramitação, o texto foi modificado pela relatora na comissão especial mista, a senadora Leila do Vôlei (PDT-DF).&lt;/p&gt;
-&lt;p&gt;Uma das novidades introduzidas na medida é uma emenda que zera o imposto de importação de medicamentos que não têm versão similar no Brasil.&lt;/p&gt;
-&lt;p&gt;&quot;Nós sabemos quesão muitos os brasileiros que utilizam essas compras de pequeno valor. São pessoas que procuram um produto mais barato. São famílias que precisam fazer o orçamento caber no final do mês. São trabalhadores que pesquisam preço, comparam alternativas e encontram no comércio eletrônico uma maneira de ampliar seu poder de compra&quot;, afirmou a senadora ao comentar a aprovação da MP na tribuna.&lt;/p&gt;
-&lt;p&gt;A MP aprovada prevêredução de 60% para 30% da alíquota de importação para compras de até US$ 3 mil por remessas postais vindas do exterior.&lt;/p&gt;
-&lt;p&gt;previsão de avaliações periódicas, a serem feitas pelo Ministério da Fazenda, para analisar os efeitos econômicos da isenção tarifária.&lt;/p&gt;
-&lt;p&gt;O objetivo, segundo a relatora, é acompanhar possíveis efeitos sobre emprego, renda, preços e impactos sobre a indústria nacional. A primeira avaliação ocorrerá daqui a três meses, e as demais, a cada seis meses.&lt;/p&gt;
-&lt;p&gt;A nova lei ainda determina uma avaliação anual da isenção tributária.&lt;/p&gt;
-&lt;p&gt;Com isso, será possível acompanhar na prática se a mudança está beneficiando o consumidor sem provocar desequilíbrios relevantes para trabalhadores e empresas brasileiras.&lt;/p&gt;
-&lt;p&gt;Outro ponto da MP estabelece exigências de conformidade das plataformas digitais e de operadores logísticos.&lt;/p&gt;
-&lt;p&gt;O texto determina mecanismos de identificação de indícios de subfaturamento, fracionamento artificial de remessas e ocultação de remetentes, além de exigir rastreabilidade dos vendedores, monitoramento de operações suspeitas, manutenção de registros e cooperação com a Receita Federal.&lt;/p&gt;
-&lt;p&gt;Parlamentares da oposição criticaram o teor da medida, ao defenderem que ela dá vantagem a empresas estrangeiras em detrimento da indústria nacional.&lt;/p&gt;
-&lt;p&gt;&quot;O exato benefício fiscal que está sendo dado para o mesmíssimo produto com o mesmíssimo preço precisa ser dado para o brasileiro, para quem produz aqui, para quem ainda acredita no Brasil&quot;, afirmou o deputado federal Gilson Marques (Novo-SC).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-aprova-mp-da-taxa-das-blusinhas-e-isencao-se-torna-definitiva&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;O Brasil está autorizado a contratar crédito externo de até US$ 1 bilhão com o&lt;/p&gt;
+&lt;p&gt;Banco Interamericano de Desenvolvimento (BID)&lt;/p&gt;
+&lt;p&gt;parainvestir em uma das principais iniciativas de aceleração e transição ecológica sustentável nos próximos anos, o&lt;/p&gt;
+&lt;p&gt;publicado nesta sexta-feira (4),a contratação foi aprovada após manifestações favoráveis da Secretaria do Tesouro Nacional e da Procuradoria-Geral da Fazenda Nacional (PGFN).&lt;/p&gt;
+&lt;p&gt;A autorização tem como base o Artigo 40 da Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000), além de resoluções anteriores do&lt;/p&gt;
+&lt;p&gt;integra a estratégia do governo federal para ampliar a atração de investimentos privados estrangeiros, com foco em mecanismos de proteção cambial e no aperfeiçoamento de condições institucionais e regulatórias voltadas ao ambiente de negócios brasileiro.&lt;/p&gt;
+&lt;p&gt;Com a autorização, a União poderá formalizar a operação de crédito com o BID, instituição financeira multilateral que atua no financiamento de projetos de desenvolvimento econômico e social na América Latina e no Caribe.&lt;/p&gt;
+&lt;p&gt;Coordenado pelos Ministérios da Fazenda e do Meio Ambiente e Mudança do Clima, o programa integra o Plano de Transformação Ecológica – Novo Brasil.&lt;/p&gt;
+&lt;p&gt;Um dos principais mecanismos foi a introdução do hedge (proteção) cambial, que reduziu riscos para investidores e ampliou a participação de capital estrangeiro.&lt;/p&gt;
+&lt;p&gt;O principal instrumento do Eco Invest Brasil é a combinação de recursos públicos e privados num modelo de financiamento misto (&lt;/p&gt;
+&lt;p&gt;Por meio do capital catalítico, o governo e instituições financeiras privadas aportam recursos de forma filantrópica, com maior tolerância a riscos de mercado.&lt;/p&gt;
+&lt;p&gt;Nesse sistema, o capital catalítico considera não sóo retorno de mercado, mas também o retorno social dos projetos. Esse dinheiro consegue alavancar recursos para investimentos convencionais.&lt;/p&gt;
+&lt;p&gt;Na área de economia circular, as iniciativas previstas no Eco Invest Brasil têm potencial de impactar positivamente mais de 2 milhões de pessoas nas Regiões Nordeste, Sudeste e Sul.&lt;/p&gt;
+&lt;p&gt;No eixo de transição energética, entre os projetos está a construção de uma biorrefinaria no interior da Bahia, com capacidade para produzir mais de 20 mil barris de óleo vegetal destinados à produção de SAF e diesel renovável, compatíveis com a frota aérea atual.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-autoriza-credito-de-us-1-bilhao-do-bid-para-eco-invest-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-, o plenário do Senado Federal também aprovou, nesta quinta-feira (3), em votação simbólica, a medida provisória (M...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-09-03 19:19:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 19:19:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 19:19:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 19:19:00</wp:post_modified_gmt>
+O Brasil está autorizado a contratar crédito externo de até US$ 1 bilhão com o
+Banco Interamericano de Desenvolvime...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-09-04 10:32:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-04 10:32:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-04 10:32:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-04 10:32:00</wp:post_modified_gmt>
       <wp:comment_status>closed</wp:comment_status>
       <wp:ping_status>closed</wp:ping_status>
       <wp:status>publish</wp:status>
@@ -447,40 +69,38 @@ A tenista brasileira Luisa Stefani venceu com tranquilidade a estreia nas duplas
       <category domain="post_tag" nicename="ebc">EBC</category>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/DV2cHMVXLsCPu8SMUZidBgoxLi8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/06/01/imagem_do_whatsapp_de_2024-06-01_as_16.55.51_d697879b.jpg?itok=UoYS-UBL</wp:meta_value>
+        <wp:meta_value>https://imagens.ebc.com.br/8_rmxFprUPgE8iv6ER-1Xena91w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/29/dji_20260514133612_0223_d_55279773377_o.jpg?itok=7x5soZU_</wp:meta_value>
       </wp:postmeta>
     </item>
     <item>
-      <title>Alcolumbre diz que Senado vota fim da escala 6x1 após as eleições</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/alcolumbre-diz-que-senado-vota-fim-da-escala-6x1-apos-eleicoes</link>
-      <pubDate>Fri, 04 Sep 2026 10:17:06 +0000</pubDate>
+      <title>Apenas 1 em cada 5 motociclistas de app tem cobertura previdenciária</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/apenas-1-em-cada-5-motociclistas-de-app-tem-cobertura-previdenciaria</link>
+      <pubDate>Fri, 04 Sep 2026 14:39:54 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/alcolumbre-diz-que-senado-vota-fim-da-escala-6x1-apos-eleicoes#1009</guid>
-      <description>O presidente do Senado Federal, Davi Alcolumbre (União-AP), afirmou nesta quinta-feira (3) que a Proposta de Emenda Constitucional (PEC) que prevê o
-...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/TFHzk6YTgsnmVn3JES8XAWzeLm8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/11/55457836981_665bb866e8_o.jpg?itok=cludDtxa&quot; alt=&quot;Alcolumbre diz que Senado vota fim da escala 6x1 após as eleições&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O presidente do Senado Federal, Davi Alcolumbre (União-AP), afirmou nesta quinta-feira (3) que a Proposta de Emenda Constitucional (PEC) que prevê o&lt;/p&gt;
-&lt;p&gt;e a redução da jornada de trabalho de 44 para 40 horas semanais será votada após as&lt;/p&gt;
-&lt;p&gt;A declaração ocorreudurante sessão deliberativa no plenário da Casa, em resposta a um apelo feito pelo&lt;/p&gt;
-&lt;p&gt;, que anunciou a aposentadoria e cumpre oúltimo mandato parlamentar no Congresso Nacional.&lt;/p&gt;
-&lt;p&gt;Em discurso na tribuna, o senador gaúcho lembrou de sua trajetória política e destacou ter lutado, como constituinte, pela redução da jornada de trabalho de 48 para 44 horas semanais, incluída na&lt;/p&gt;
-&lt;p&gt;&quot;Não podemos mais esperar. Por que esperar? Vamos resolver, como na Constituinte de 1988, [quando] alcançamos as 44 horas semanais [de jornada máxima semanal de trabalho]. Foi um passo gigantesco para a época e hoje, quase quatro décadas depois, estamos diante de uma nova oportunidade histórica.&quot;&lt;/p&gt;
-&lt;p&gt;O senador apelou aos parlamentares que o momento é agora. &quot;Chegou a hora de eu ir pra casa, mas eu queria muito, faltam três meses [para o fim do mandato], ir para casa e depois para a porta de fábrica e dizer a todos: 'temos agora as 40 horas semanais para toda nossa gente'&quot;, acrescentou Paim.&lt;/p&gt;
-&lt;p&gt;Em seguida, após deixar a tribuna e cumprimentar Alcolumbre, o presidente do Senado se manifestou sobre a votação da PEC.&lt;/p&gt;
-&lt;p&gt;&quot;Quero aproveitar essa oportunidade que o senador Paulo Paim está aqui na mesa e veio me dar um abraço, para dizer para vossa excelência e para o Brasil, que vossa excelência estará aqui votando, após as eleições, o fim da escala 6x1 no plenário do Senado Federal.&quot;&lt;/p&gt;
-&lt;p&gt;Nessa quarta-feira (2), sem ter garantia sobre os votos necessários para aprovar a PEC, e sob obstrução da oposição, a base do governo no Senado decidiu não arriscar&lt;/p&gt;
-&lt;p&gt;apreciação do texto em plenário&lt;/p&gt;
-&lt;p&gt;, processo que exige49 votos em dois turnos.&lt;/p&gt;
-&lt;p&gt;O texto passou apenas pela Comissão de Constituição e Justiça (CCJ)&lt;/p&gt;
-&lt;p&gt;. A previsão é que o novo esforço concentrado de votação legislativa ocorra na segunda semana de outubro. O primeiroturno está marcado para 4 de outubro e um eventual segundoturno, para 25 de outubro.&lt;/p&gt;
-&lt;p&gt;Bienal do Livro de São Paulo deve receber mais de 700 mil pessoas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/alcolumbre-diz-que-senado-vota-fim-da-escala-6x1-apos-eleicoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O presidente do Senado Federal, Davi Alcolumbre (União-AP), afirmou nesta quinta-feira (3) que a Proposta de Emenda Constitucional (PEC) que prevê o
-...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-09-03 19:06:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-03 19:06:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-03 19:06:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-03 19:06:00</wp:post_modified_gmt>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/apenas-1-em-cada-5-motociclistas-de-app-tem-cobertura-previdenciaria#1001</guid>
+      <description>O Brasil tem cerca de 405 mil pessoas que trabalham como motociclistas de aplicativos, como os de transporte de passageiros e entrega de comida e pro...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/w5S3AXd460dG5U8F2XsGXFw2br0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_2670.jpg?itok=mUAbxSRj&quot; alt=&quot;Apenas 1 em cada 5 motociclistas de app tem cobertura previdenciária&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O Brasil tem cerca de 405 mil pessoas que trabalham como motociclistas de aplicativos, como os de transporte de passageiros e entrega de comida e produtos. Desses, apenas 79 mil têm cobertura previdenciária, o que representa 19,4%, equivalente a um em cada cinco.&lt;/p&gt;
+&lt;p&gt;Para efeito de comparação, quando se leva em conta todas as pessoas ocupadas no setor privado no país, o índice de cobertura previdenciária é de 62,4%. Considerando todos os motociclistas do país, plataformizados ou não, o índice de cobertura é 31%.&lt;/p&gt;
+&lt;p&gt;Ao contribuir para institutos de previdência, o trabalhador adquire garantias, como aposentadoria, benefício por incapacidade e pensão por morte.&lt;/p&gt;
+&lt;p&gt;Os dados fazem parte de um módulo especial sobre trabalho por meio de plataformas digitais da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua, divulgada nesta sexta-feira (4) pelo Instituto Brasileiro de Geografia e Estatística (&lt;/p&gt;
+&lt;p&gt;O instituto coletou informações em 2025 para medir o contingente de trabalhadores por aplicativo no país, classificados como “plataformizados”.&lt;/p&gt;
+&lt;p&gt;Brasil tem 2 milhões de pessoas que trabalham por meio de aplicativos&lt;/p&gt;
+&lt;p&gt;O analista da pesquisa, Gustavo Geaquinto Fontes, aponta que a “pequena parcela dos condutores plataformizados” protegidos pela previdência contrasta com o perfil da atividade.&lt;/p&gt;
+&lt;p&gt;“Eles podem estar expostos a acidentes e outros riscos relacionados à ocupação”, diz.&lt;/p&gt;
+&lt;p&gt;O levantamento do IBGE aponta que, de 2024 para 2025, houve aumento de 15,4% no número de motociclistas plataformizados.&lt;/p&gt;
+&lt;p&gt;Já no período de 2022 (primeiro ano da pesquisa) a 2025, o número praticamente dobrou, indo de 211 mil para 405 mil pessoas.&lt;/p&gt;
+&lt;p&gt;A pesquisa é considerada pelo IBGE como experimental, ou seja, em fase de teste e sob avaliação. Em 2023 não houve coleta de informações.&lt;/p&gt;
+&lt;p&gt;O levantamento detalha que os motociclistas de apps receberam, em média, R$ 2.221 mensais. Esse valor é o que foi efetivamente “retirado”, conforme explica o IBGE. O cálculo desconta, por exemplo, o gasto com combustível.&lt;/p&gt;
+&lt;p&gt;Os motociclistas plataformizados tinham jornada semanal de 44,9 horas, enquanto os não relacionados a app trabalhavam 41,1 horas.&lt;/p&gt;
+&lt;p&gt;O rendimento médio por hora dos plataformizados (R$ 11,4) era 12,9% superior ao rendimento dos não plataformizados (10,1).&lt;/p&gt;
+&lt;p&gt;A Pnad traz também dados de motoristas de aplicativos. Em 2025 eram 905 mil pessoas, contingente que cresceu 9,8% na comparação com o ano anterior. Em três anos, o incremento foi de 26% (eram de 718 mil).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/apenas-1-em-cada-5-motociclistas-de-app-tem-cobertura-previdenciaria&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O Brasil tem cerca de 405 mil pessoas que trabalham como motociclistas de aplicativos, como os de transporte de passageiros e entrega de comida e pro...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-09-04 10:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-04 10:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-04 10:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-04 10:02:00</wp:post_modified_gmt>
       <wp:comment_status>closed</wp:comment_status>
       <wp:ping_status>closed</wp:ping_status>
       <wp:status>publish</wp:status>
@@ -496,7 +116,388 @@ A tenista brasileira Luisa Stefani venceu com tranquilidade a estreia nas duplas
       <category domain="post_tag" nicename="ebc">EBC</category>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/TFHzk6YTgsnmVn3JES8XAWzeLm8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/11/55457836981_665bb866e8_o.jpg?itok=cludDtxa</wp:meta_value>
+        <wp:meta_value>https://imagens.ebc.com.br/w5S3AXd460dG5U8F2XsGXFw2br0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/img_2670.jpg?itok=mUAbxSRj</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Brasil tem 2 milhões de pessoas que trabalham por meio de aplicativos</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-tem-2-milhoes-de-pessoas-que-trabalham-por-meio-de-aplicativos</link>
+      <pubDate>Fri, 04 Sep 2026 14:39:54 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-tem-2-milhoes-de-pessoas-que-trabalham-por-meio-de-aplicativos#1002</guid>
+      <description>Cerca de 2 milhões de pessoas trabalharam por meio de aplicativos (apps) no país em 2025. A imensa maioria deles por conta própria, com jornadas sema...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cIHkQSTIDhZVLUF9-VaIw3DnQ3s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/31/pint8161.jpg?itok=jZ0RpHWh&quot; alt=&quot;Brasil tem 2 milhões de pessoas que trabalham por meio de aplicativos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Cerca de 2 milhões de pessoas trabalharam por meio de aplicativos (apps) no país em 2025. A imensa maioria deles por conta própria, com jornadas semanais mais longas que os demais ocupados no setor privado e ganhando menos por hora trabalhada.&lt;/p&gt;
+&lt;p&gt;A constatação faz parte de uma edição sobre trabalho por meio de plataformas digitais da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua, divulgada nesta sexta-feira (4) pelo Instituto Brasileiro de Geografia e Estatística (&lt;/p&gt;
+&lt;p&gt;O IBGE buscou informações de pessoas com 14 anos ou mais que utilizam os aplicativos para realizar serviços de transporte e entregas.&lt;/p&gt;
+&lt;p&gt;O instituto classifica esses trabalhadores como “plataformizados”.&lt;/p&gt;
+&lt;p&gt;A pesquisa revela que o contingente de 1,959 milhão de trabalhadores por apps representavam 1,9% do total de ocupados no país.&lt;/p&gt;
+&lt;p&gt;Cerca de 1,2 milhão de trabalhadores plataformizados utilizam apps de transporte de passageiros. Isso representa praticamente seis em cada dez plataformizados (58,9%).&lt;/p&gt;
+&lt;p&gt;Desses, 1,1 milhão utilizam as plataformas como Uber e 99, enquanto 232 mil utilizam apps de táxi exclusivamente.&lt;/p&gt;
+&lt;p&gt;Um em cada cinco (19,2%) dos plataformizados tinha ocupação como entregadores de apps de comida, produtos, etc. Eram 376 mil pessoas que faziam entregas para plataformas como Rappi, iFood, Zé Delivery, entre outros.&lt;/p&gt;
+&lt;p&gt;O IBGE mapeou ainda a categoria apps de prestação de serviços gerais ou profissionais, que inclui profissões como designers, tradutores e até telemedicina, quando o médico usa a plataforma digital para captar pacientes e realizar consultas, por exemplo. Em 2025 eram 313 mil pessoas nessa categoria (16% dos plataformizados).&lt;/p&gt;
+&lt;p&gt;A Pnad revela que a atividade econômica classificada como transporte, armazenagem e correios é a que tem maior participação de plataformizados, 75%. Ou seja, de cada quatro trabalhadores desse setor, três utilizam os apps.&lt;/p&gt;
+&lt;p&gt;O IBGE detalha que a Pnad sobre trabalho por plataforma ainda é experimental, ou seja, em fase de teste e sob avaliação. O&lt;/p&gt;
+&lt;p&gt;já foi realizado em 2022 e 2024.&lt;/p&gt;
+&lt;p&gt;Diferentemente de 2025, as edições anteriores buscaram informação apenas dos trabalhadores que tinham os apps como ocupação principal, ou seja, a pesquisa deixou de fora aquelas que usavam os aplicativos como renda complementar. Por isso, o número de 2 milhões de plataformizados em 2025 não pode ser comparado com anos anteriores.&lt;/p&gt;
+&lt;p&gt;Ao se levar em consideração apenas os trabalhadores que tinham nos apps a ocupação principal, o número de 2025 chega a 1,8 milhão. Esse dado pode ser comparado com as Pnad anteriores.&lt;/p&gt;
+&lt;p&gt;Trabalhadores que tinham os apps como ocupação principal:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-tem-2-milhoes-de-pessoas-que-trabalham-por-meio-de-aplicativos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Cerca de 2 milhões de pessoas trabalharam por meio de aplicativos (apps) no país em 2025. A imensa maioria deles por conta própria, com jornadas sema...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-09-04 10:01:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-04 10:01:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-04 10:01:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-04 10:01:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/cIHkQSTIDhZVLUF9-VaIw3DnQ3s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/03/31/pint8161.jpg?itok=jZ0RpHWh</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Inmet alerta para tempestades no Sudeste e Sul do país</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inmet-alerta-para-tempestades-no-sudeste-e-sul-do-pais</link>
+      <pubDate>Fri, 04 Sep 2026 14:39:54 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inmet-alerta-para-tempestades-no-sudeste-e-sul-do-pais#1003</guid>
+      <description>© Fernando Frazão/Agência Brasil
+Nesta sexta-feira (4), um aviso amarelo de perigo potencial para tempestades está ativo para região que vai do centr...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/F0d-gECIKQshIdGkwBfijgRERi8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/22/temporalrj_19.jpg?itok=Dj9zF0Mp&quot; alt=&quot;Inmet alerta para tempestades no Sudeste e Sul do país&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Nesta sexta-feira (4), um aviso amarelo de perigo potencial para tempestades está ativo para região que vai do centro-sul de São Paulo, ao extremo norte do Rio Grande do Sul, passando pelo Paraná e Santa Catarina, informa o Instituto Nacional de Meteorologia (Inmet).&lt;/p&gt;
+&lt;p&gt;Na Região Sul, o dia começa com possibilidade de chuva isolada no Paraná, em Santa Catarina e no norte e leste do Rio Grande do Sul, incluindo todas as capitais&lt;/p&gt;
+&lt;p&gt;. Conforme vai chegando anoite, a instabilidade aumenta na região com pancadas de chuva e trovoadas isoladas, alcançando também o norte do Rio Grande do Sul.&lt;/p&gt;
+&lt;p&gt;A temperatura mínima na região, entre as capitais, será de 12°C em Porto Alegre e a máxima de 23°C em Curitiba.&lt;/p&gt;
+&lt;p&gt;No Sudeste, o dia terá poucas nuvens em Minas Gerais e no oeste do Rio de Janeiro e do Espírito Santo&lt;/p&gt;
+&lt;p&gt;. Haverá muitas nuvens nas demais áreas, com possibilidade de chuvas isoladas no centro-sul, oeste e leste de São Paulo, incluindo a capital. Pode haver pancadas de chuva com trovoadas isoladas na divisa de São Paulo com o Paraná.&lt;/p&gt;
+&lt;p&gt;Entre as capitais, os termômetros devem marcar mínima de 13°C em Belo Horizonte e máxima de 32°C no Rio de Janeiro.&lt;/p&gt;
+&lt;p&gt;No Centro-Oeste, pode chover de forma isolada demanhã no norte de Mato Grosso e de Goiás, no Distrito Federal e no centro-sul de Mato Grosso do Sul.&lt;/p&gt;
+&lt;p&gt;A partir da tarde, as pancadas de chuva ficam mais intensas e podem vir acompanhadas de trovoadas isoladas no centro-sul deMato Grosso do Sul.&lt;/p&gt;
+&lt;p&gt;Há aviso amarelo de perigo potencial para baixa umidade do ar no norte de Mato Grosso do Sul, oeste, centro-sul e leste de Mato Grosso, Goiás e Distrito Federal.&lt;/p&gt;
+&lt;p&gt;Na região, as temperaturas entre as capitais variam de 19°C em Campo Grande a 37°C em Cuiabá.&lt;/p&gt;
+&lt;p&gt;O Nortetem previsão de pancadas de chuva com trovoadas isoladas no oeste e noroeste do Amazona&lt;/p&gt;
+&lt;p&gt;s. As pancadas de chuvas podem ocorrer com menos intensidade no sudeste do Pará e no centro-oeste doTocantins. No Acre, centro-norte de Rondônia, sudoeste do Pará, sul e sudeste do Amazonas e no centro-sul de Tocantins, as chuvas devem ocorrerde forma isolada.&lt;/p&gt;
+&lt;p&gt;Nas capitais, a temperatura máxima chega a 38°C em Porto Velho e a mínima a 22°C em Rio Branco.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inmet-alerta-para-tempestades-no-sudeste-e-sul-do-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+Nesta sexta-feira (4), um aviso amarelo de perigo potencial para tempestades está ativo para região que vai do centr...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-09-04 08:38:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-04 08:38:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-04 08:38:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-04 08:38:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/F0d-gECIKQshIdGkwBfijgRERi8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/22/temporalrj_19.jpg?itok=Dj9zF0Mp</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Movimento Alcoólicos Anônimos no Rio comemora 79 anos</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/alcoolicos-anonimos-no-rio-comemora-79-anos</link>
+      <pubDate>Fri, 04 Sep 2026 14:39:54 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/alcoolicos-anonimos-no-rio-comemora-79-anos#1004</guid>
+      <description>O movimento Alcoólicos Anônimos (A.A.) está comemorando 79 anos no Brasil com reunião inédita, com tradução em libras nesta sexta-feira (4), às 17h30...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jvpKc6r8MvgcG2Ku1ZOfl37EJT0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/30/garrafas_de_bebidas02.jpg?itok=rAOUddEH&quot; alt=&quot;Movimento Alcoólicos Anônimos no Rio comemora 79 anos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O movimento Alcoólicos Anônimos (A.A.) está comemorando 79 anos no Brasil com reunião inédita, com tradução em libras nesta sexta-feira (4), às 17h30, no grupo Posto 11, no Leblon, zona sul do Rio. O encontro será aberto ao público e uma oportunidade para acolher deficientes auditivos que enfrentam problemas com álcool.&lt;/p&gt;
+&lt;p&gt;&quot;Celebraremos uma história construída por milhares de vidas que encontraram, em Alcoólicos Anônimos, um caminho de recuperação, esperança e uma nova maneira de viver&quot;.&lt;/p&gt;
+&lt;p&gt;Só no primeiro semestre de 2026, houve crescimento de 97% nos atendimentos feitospela Linha de Ajuda (21 2253-3377) em relação ao mesmo período do ano passado, passando de 1.521 em 2025 para cerca de 3 mil em 2026.&lt;/p&gt;
+&lt;p&gt;do aplicativo AARJ subiu 38% entre janeiro e junho deste ano, fechando o semestre com 97.340.&lt;/p&gt;
+&lt;p&gt;O movimento dos Alcoólicos Anônimos nasceu em 1935, na cidade de Akron, Ohio (EUA), após o encontro entre um corretor de Nova York (Bill W.) e um cirurgião local (Dr. Bob S.), ambos com histórico de alcoolismo grave.&lt;/p&gt;
+&lt;p&gt;No Brasil, a primeira reunião ocorreu no Rio de Janeiro, em 5 de setembro de 1947, impulsionada por pioneiros e relatos de visitantes estrangeiros. N&lt;/p&gt;
+&lt;p&gt;o estado do Rio, o A.A. conta hoje com centenas de grupos ativos de apoio presencial e virtual.&lt;/p&gt;
+&lt;p&gt;Neste sábado, (5), aniversário de 79 anos de Alcoólicos Anônimos no Brasil, haverá uma&lt;/p&gt;
+&lt;p&gt;comemorativa, das 11h às 12h30, transmitida no canal oficial do Escritório de Serviços Locais de Alcoólicos Anônimos do RJ (ESL RJ) no YouTube.&lt;/p&gt;
+&lt;p&gt;“O Escritório do A.A. no Rio vem realizando algumas ações para garantir mais acessibilidade a pessoas com deficiência. Estamos avançando ano a ano e atualmente nossos eventos online contam com intérpretes de libras, diz o diretor do ESL RJ (o nome não é divulgado devido à política de privacidade do A.A.).&lt;/p&gt;
+&lt;p&gt;Pela Linha de Ajuda, é possível saber quais grupos têm acessibilidade para cadeirantes.&lt;/p&gt;
+&lt;p&gt;C.S, homem, morador da Rocinha, 54 anos e há 20 anos abstinente: “Percebi que minha vida não tinha progresso. O álcool afetou a minha memória e tinha dificuldade para parar de beber. Cheguei à irmandade aos 34 anos, depois de ir a vários lugares sem sucesso. Não estaria vivo sem a ajuda de Alcoólicos Anônimos, que foi fundamental na minha recuperação. Na verdade, continua sendo. Vou às reuniões de 3 a 4 vezes na semana e levo a mensagem de recuperação de A.A. a quem precisa, o que é muito gratificante”.&lt;/p&gt;
+&lt;p&gt;C.D, homem, 65 anos, de São Gonçalo, região metropolitana do Rio, está há 34 anos e seis meses em abstinência: “Comecei a beber aos 15 anos, logo após o falecimento da minha mãe. Mas foi em 1992 que cheguei a Alcoólicos Anônimos e, desde então, participo continuamente. A.A. faz parte da minha família e uma das coisas mais importantes para mim. Devo a minha vida a Alcoólicos Anônimos e procuro praticar esse programa de recuperação com persistência todos os dias. A minha sobriedade depende doprograma”.&lt;/p&gt;
+&lt;p&gt;A.D, mulher, 27 anos, moradora da capital e há oitoanos sem beber: “Comecei a consumir álcool aos 12 anos e desde o primeiro gole, percebi que meu padrão de consumo era diferente dos meus amigos. Lidava frequentemente com &quot;apagões&quot; (perdasde memória), comportamentos desmoralizantes e, por vezes, agressivos. Minha interação com o álcool me levou ao fundo do poço. Ingressei em Alcoólicos Anônimos aos 19 anos, no final do meu primeiro ano de faculdade, e não hesito em afirmar que essa irmandade salvou minha vida”.&lt;/p&gt;
+&lt;p&gt;A jovem conta ainda que, “na verdade, o A.A. me presenteou com nova vida. Hoje, tenho dignidade, tomo decisões conscientese faço projetos a longo prazo, mas todos os dias lembro que o mais vital é evitar o primeiro gole. Apenas assim posso alcançar todas as outras conquistas. Vivo um dia de cada vez, sem consumir álcool - a filosofia do ‘só por hoje’ também se aplica a diversas áreas da minha vida”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/alcoolicos-anonimos-no-rio-comemora-79-anos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O movimento Alcoólicos Anônimos (A.A.) está comemorando 79 anos no Brasil com reunião inédita, com tradução em libras nesta sexta-feira (4), às 17h30...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-09-04 08:28:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-04 08:28:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-04 08:28:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-04 08:28:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/jvpKc6r8MvgcG2Ku1ZOfl37EJT0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/09/30/garrafas_de_bebidas02.jpg?itok=rAOUddEH</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Trens e metrô terão operação especial durante o Rock in Rio</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/trens-e-metro-terao-operacao-especial-durante-o-rock-rio</link>
+      <pubDate>Fri, 04 Sep 2026 14:39:54 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/trens-e-metro-terao-operacao-especial-durante-o-rock-rio#1005</guid>
+      <description>© Fernando Frazão/Agência Brasil
+Os trens urbanos do Rio e a concessionária MetrôRio vão funcionar 24 horas, com programação especial para facilitar ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZwXZ0OX50ARaiOTAOw0L-hXiZo0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/ffraz_abr_290420193989.jpg?itok=UwbRshLy&quot; alt=&quot;Trens e metrô terão operação especial durante o Rock in Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Os trens urbanos do Rio e a concessionária MetrôRio vão funcionar 24 horas, com programação especial para facilitar a ida e o retorno para casa dos passageiros que vão participar da abertura do Rock in Rio, que tem início nesta sexta-feira (4).&lt;/p&gt;
+&lt;p&gt;A Secretaria de Transporte e Mobilidade Urbana (Setram) orienta os passageiros que vão ao Rock in Rio a planejarem com antecedência seus deslocamentos. Durante os dias do festival, que será realizado, entre os dias 4 e 7 de setembro e, na segunda fase, de 11 a 13 deste mês&lt;/p&gt;
+&lt;p&gt;Pela primeira vez, as estações Central do Brasil, Madureira e Deodoro ficarão abertas durante toda a madrugada, com viagens extras de hora em hora. A finalidade é facilitar a integração com o sistema do metrô (Central do Brasil) e BRT (Deodoro e Madureira) que atendem aos moradores e visitantes da cidade.&lt;/p&gt;
+&lt;p&gt;Haverá oferta de trens extras para o retorno do evento, com partidas de Deodoro com destino à Centrale da Central do Brasil com destino a Santa Cruz, Japeri, Saracuruna e Belford Roxo. As viagens serão realizadas de hora em hora durante a madrugada.&lt;/p&gt;
+&lt;p&gt;O Tribunal de Justiça do Rio estará presente em todos os dias do Rock in Rio para garantir o acesso à Justiça e assegurar os direitos do público. A expectativa é de que cerca de 100 mil pessoas passem pela Cidade do Rock diariamente.&lt;/p&gt;
+&lt;p&gt;O Juizado Especial do Torcedor e dos Grandes Eventos funcionará durante todo o festival, oferecendo atendimento ao público para situações como furto de celular, problemas relacionados a ingressos, conflitos com a organização do evento, questões de consumo e casos de violência.&lt;/p&gt;
+&lt;p&gt;O posto de atendimento ficará instalado na Arena Carioca 1, junto aos demais órgãos públicos, e funcionará das 14h até o encerramento das atividades do dia. O espaço contará ainda com área de acolhimento destinada a vítimas de violência de gênero.&lt;/p&gt;
+&lt;p&gt;Nos casos de prisão em flagrante, as audiências de custódia serão realizadas no próprio posto do juizado. A equipe contará diariamente com dois magistrados, um em cada turno, além de um juiz coordenador.&lt;/p&gt;
+&lt;p&gt;Escolas do Grupo Especial escolhem sambas-enredo do Carnaval 2007&lt;/p&gt;
+&lt;p&gt;Astrologia, autoconhecimento e emoções são temas do Sem Censura&lt;/p&gt;
+&lt;p&gt;Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes&lt;/p&gt;
+&lt;p&gt;Fazenda autoriza crédito de US$ 1 bilhão do BID para Eco Invest Brasil&lt;/p&gt;
+&lt;p&gt;Apenas 1 em cada 5 motociclistas de app tem cobertura previdenciária&lt;/p&gt;
+&lt;p&gt;Brasil tem 2 milhões de pessoas que trabalham por meio de aplicativos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/trens-e-metro-terao-operacao-especial-durante-o-rock-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+Os trens urbanos do Rio e a concessionária MetrôRio vão funcionar 24 horas, com programação especial para facilitar ...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-09-04 08:28:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-04 08:28:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-04 08:28:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-04 08:28:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/ZwXZ0OX50ARaiOTAOw0L-hXiZo0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/ffraz_abr_290420193989.jpg?itok=UwbRshLy</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Confira a agenda dos presidenciáveis nesta sexta-feira (4)</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-sexta-feira-4</link>
+      <pubDate>Fri, 04 Sep 2026 14:39:54 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-sexta-feira-4#1006</guid>
+      <description>A agenda dos presidenciáveis nesta sexta-feira (4) inclui caminhadas, comícios e eventos de campanha, além de entrevistas a emissoras de rádio e veíc...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/mHxHjf7pDxiKyHWFE1hh6tGdJMg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/18/banner_agenda_-_1170x700.png?itok=t-rMkLxv&quot; alt=&quot;Confira a agenda dos presidenciáveis nesta sexta-feira (4)&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A agenda dos presidenciáveis nesta sexta-feira (4) inclui caminhadas, comícios e eventos de campanha, além de entrevistas a emissoras de rádio e veículos de imprensa.&lt;/p&gt;
+&lt;p&gt;Também estão previstas visitas a instituições e espaços de inovação, encontros com empresários e representantes do setor produtivo, panfletagem e atividades de apresentação de programas eleitorais.&lt;/p&gt;
+&lt;p&gt;Cumpre agenda da secretaria-geral do PCB em Lisboa.&lt;/p&gt;
+&lt;p&gt;Em São Carlos (SP), visita o Hub de Inovação ONOVOLAB e faz comício em frente ao Mercado Municipal.&lt;/p&gt;
+&lt;p&gt;Em Alagoinhas (BA), concede entrevistas à 93FM e à Rádio Ouro Negro FM e faz panfletagem na Central de Abastecimento. À noite, participa de conversa de apresentação do programa do PSTU.&lt;/p&gt;
+&lt;p&gt;Participa de caminhada em Juazeiro do Norte (CE), com saída da avenida Castelo Branco.&lt;/p&gt;
+&lt;p&gt;Participa de evento de campanha no Teatro Guararapes,em Olinda (PE).&lt;/p&gt;
+&lt;p&gt;Concede entrevista para o jornal Estadão. Participa de encontro com representantes da União Santa Ifigênia, representação institucional do setor produtivo, em São Paulo (SP).&lt;/p&gt;
+&lt;p&gt;Participa de sabatina para Uol e Folha de S.Paulo. Visita o escritório de engenharia do Google no instituto de pesquisas tecnológicas (IPT), em São Paulo (SP). À noite, participa de sabatina para o programa Veja em Foco, da Veja.&lt;/p&gt;
+&lt;p&gt;Em São José do Rio Preto (SP), participa de almoço com grupo de empresáriose de visita à Fundação Faculdade Regional de Medicina. Também visita o Mercado Municipal e o Calçadão da cidade. À noite, participa de evento da Educational School.&lt;/p&gt;
+&lt;p&gt;não têm agenda pública de campanha nesta sexta.&lt;/p&gt;
+&lt;p&gt;Clariana Barão (Democracia Cristã)&lt;/p&gt;
+&lt;p&gt;não divulgaram a agenda de campanha até o momento desta publicação.&lt;/p&gt;
+&lt;p&gt;A ordem de apresentação da cobertura da agenda dos candidatos a presidente segue rodízio diário em ordem alfabética.&lt;/p&gt;
+&lt;p&gt;Escolas do Grupo Especial escolhem sambas-enredo do Carnaval 2007&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-sexta-feira-4&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A agenda dos presidenciáveis nesta sexta-feira (4) inclui caminhadas, comícios e eventos de campanha, além de entrevistas a emissoras de rádio e veíc...</excerpt:encoded>
+      <wp:post_id>1006</wp:post_id>
+      <wp:post_date>2026-09-04 08:13:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-04 08:13:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-04 08:13:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-04 08:13:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/mHxHjf7pDxiKyHWFE1hh6tGdJMg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/18/banner_agenda_-_1170x700.png?itok=t-rMkLxv</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Escolas do Grupo Especial começam a escolher sambas-enredo</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/escolas-do-grupo-especial-comecam-escolher-sambas-enredo</link>
+      <pubDate>Fri, 04 Sep 2026 14:39:54 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/escolas-do-grupo-especial-comecam-escolher-sambas-enredo#1007</guid>
+      <description>As 12 escolas de samba do Grupo Especial começam a definir nesta sexta-feira (4) os sambas-enredo que vão levar para a Avenida Marquês de Sapucaí no ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6inNOZoLA8HkCtmfGvzL0SCgsP0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/19/55096347216_54572f35f6_o.jpg?itok=thIEZAo7&quot; alt=&quot;Escolas do Grupo Especial começam a escolher sambas-enredo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As 12 escolas de samba do Grupo Especial começam a definir nesta sexta-feira (4) os sambas-enredo que vão levar para a Avenida Marquês de Sapucaí no Carnaval de 2027. A Portela dá a largada, com a escolha do samba nesta sexta-feira (4), a partir das 21h, na quadra da escola, prestando homenagem ao compositor Monarco, baluarte da escola de Madureira.&lt;/p&gt;
+&lt;p&gt;No sábado (6), duas escolas farão a seleção final dos sambas-enredo: a Estação Primeira de Mangueira e a Mocidade Independente de Padre Miguel. A Mangueira vai levar para a Avenida o enredo: “Oyá por Nós”, desenvolvido pelo carnavalesco Sidnei França.O tema aborda a ancestralidade, a força e a cultura afro-brasileira ligadas à divindade Oyá (Iansã), orixá dos ventos, das tempestades, dos raios e do fogo na mitologia iorubá e nas religiões afro-brasileiras.&lt;/p&gt;
+&lt;p&gt;A Mocidade Independente de Padre Miguel apresentará o enredo&quot;Latinamente Independente – Nosso norte é o Sul em Remanifesto”. O enredorepresenta um manifesto político, artístico e cultural pelo protagonismo da América Latina. Baseia-se na famosa obra&quot;América Invertida&quot;(1943), do artista uruguaio Joaquín Torres García, que desenhou o mapa do continente com o Sul para cima.&lt;/p&gt;
+&lt;p&gt;É a primeira vez que as disputas chegam à casa de milhares de brasileiros simultaneamente. As finais, antes transmitidas de maneira avulsa por parte das escolas, também estão sendo projetadas de forma pione&lt;/p&gt;
+&lt;p&gt;ira. A iniciativa é da Liga Independente das Escolas de Samba do Rio de Janeiro (Liesa). A disputa dos sambas será transmitida noYouTube.&lt;/p&gt;
+&lt;p&gt;“É muito significativo ver que a Rio Carnaval TV já está conseguindo levar a experiência das quadras para pessoas que estão em outros estados e até fora do país, diz Gabriel David, presidente da Liesa.&lt;/p&gt;
+&lt;p&gt;Segundo ele, as escolas estão sempre de portas abertas e lotadas recebendo suas comunidades e os apaixonados, de perto ou de longe. &quot;Agora, elas também dão as boas-vindas a uma legião de espectadores virtuais”.&lt;/p&gt;
+&lt;p&gt;A sequência de finais dos sambas-enredo prossegue na semana que vem, com Beija-Flor (10 de setembro), Vila Isabel (11), Salgueiro e Unidos da Tijuca (12).&lt;/p&gt;
+&lt;p&gt;Depois, vêm Imperatriz Leopoldinense e União de Maricá (18), Viradouro (19) e Grande Rio (20), encerrando o calendário.&lt;/p&gt;
+&lt;p&gt;Mangueira e Mocidade – Sábado, 05/09&lt;/p&gt;
+&lt;p&gt;Beija-Flor – Quinta-feira, 10/09&lt;/p&gt;
+&lt;p&gt;Vila Isabel – Sexta-feira,11/09&lt;/p&gt;
+&lt;p&gt;Salgueiro e Unidos da Tijuca – Sábado, 12/09&lt;/p&gt;
+&lt;p&gt;Imperatriz e Maricá – Sexta-feira, 18/09&lt;/p&gt;
+&lt;p&gt;O desfile oficial das escolas da Liga Independente das Escolas de Samba (Liesa) na Marquês de Sapucaí será nos dias 7, 8 e 9 de fevereiro de 2027, com a apresentação de quatro escolas por noite. Veja a ordem do desfile:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/escolas-do-grupo-especial-comecam-escolher-sambas-enredo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>As 12 escolas de samba do Grupo Especial começam a definir nesta sexta-feira (4) os sambas-enredo que vão levar para a Avenida Marquês de Sapucaí no ...</excerpt:encoded>
+      <wp:post_id>1007</wp:post_id>
+      <wp:post_date>2026-09-04 08:02:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-04 08:02:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-04 08:02:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-04 08:02:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/6inNOZoLA8HkCtmfGvzL0SCgsP0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/19/55096347216_54572f35f6_o.jpg?itok=thIEZAo7</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Seca na Amazônia atingiu 38% das áreas habitadas no último El Niño</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/seca-na-amazonia-atingiu-38-das-areas-habitadas-no-ultimo-el-nino</link>
+      <pubDate>Fri, 04 Sep 2026 14:39:54 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/seca-na-amazonia-atingiu-38-das-areas-habitadas-no-ultimo-el-nino#1008</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+Mais de um terço (38%) das ocupações humanas existentes na Amazônia tiveramaltaexposição aos efeitos do El Niño de ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/RoWZuY2Jwe4Sp3VYCxrghbxxhmM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/54_retro_2023_seca_no_amazonas.jpg?itok=goOm7IgK&quot; alt=&quot;Seca na Amazônia atingiu 38% das áreas habitadas no último El Niño&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Mais de um terço (38%) das ocupações humanas existentes na Amazônia tiveramaltaexposição aos efeitos do El Niño de 2024, segundo um estudo divulgado nesta sexta-feira (4) pelo Mapbiomas. Entre as 5.673 localidades habitadasna região, 2.172 sofreram de forma intensa com o fenômeno.&lt;/p&gt;
+&lt;p&gt;O El Niño se caracteriza pelo aquecimento das águas superficiais do Oceano Pacífico Tropical e provoca alteração na circulação atmosférica, tornando os volumes de chuvas irregulares.&lt;/p&gt;
+&lt;p&gt;Na Amazônia, ele causa seca e aumento na temperatura.&lt;/p&gt;
+&lt;p&gt;Diante da previsão meteorológica de que o fenônemo será especialmente forte neste ano ─ um&quot;Super El Niño&quot; ─&lt;/p&gt;
+&lt;p&gt;,os pesquisadorescruzaram dados sobre a chuvae a superfície de água sobre a terra para mostrar como a Amazônia foi afetada na última ocorrência do evento climático.&lt;/p&gt;
+&lt;p&gt;No período entre setembro e novembro de 2024, a superfície de água na Amazônia ficou 1,9 milhão de hectares abaixo da média histórica dos anos de 1985 a2025. O volume de chuva também foi inferior, ficando 27% abaixo da média.&lt;/p&gt;
+&lt;p&gt;A temperatura máxima média durante esses três meses também teve uma alta significativa, 2,6ºC acima do que é historicamente observado no mesmo período.&lt;/p&gt;
+&lt;p&gt;“Menos chuva e temperaturas mais elevadas aumentam a demanda evaporativa na atmosfera, favorecendo a perda de água do solo e o estresse hídrico da vegetação”, aponta o pesquisador do Instituto do Homem e Meio Ambiente da Amazônia (Imazon), Bruno Ferreira, da equipe da Amazônia do MapBiomas.&lt;/p&gt;
+&lt;p&gt;O estudo também observou os efeitos do fenômeno sobre diferentes tipos de ocupação humana, como núcleos urbanos, rurais, territórios indígenas, quilombolas, assentamentos e outras categorias.&lt;/p&gt;
+&lt;p&gt;De acordo com os pesquisadores, as populações desses lugares foram fortemente atingidas pelos efeitos do El Niño, já que&lt;/p&gt;
+&lt;p&gt;93% dos locais analisados, 5.273 localidades, ficam a uma distância de até 5 quilômetros das áreas que sofreram redução da superfície de água&lt;/p&gt;
+&lt;p&gt;“A seca também se manifesta na redução dos níveis dos rios, com consequências para o transporte, o acesso à água, a pesca e outras atividades que dependem dos sistemas fluviais&quot;, destaca Bruno Ferreira.&lt;/p&gt;
+&lt;p&gt;Os dados de cobertura e uso da terra complementam os fatores de exposição do bioma, já que&lt;/p&gt;
+&lt;p&gt;ao longo dos 41 anos da série histórica do estudo sobre o tema, foram perdidos 3,9 milhões de hectares de vegetação nativa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/seca-na-amazonia-atingiu-38-das-areas-habitadas-no-ultimo-el-nino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+Mais de um terço (38%) das ocupações humanas existentes na Amazônia tiveramaltaexposição aos efeitos do El Niño de ...</excerpt:encoded>
+      <wp:post_id>1008</wp:post_id>
+      <wp:post_date>2026-09-04 07:40:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-04 07:40:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-04 07:40:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-04 07:40:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/RoWZuY2Jwe4Sp3VYCxrghbxxhmM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/54_retro_2023_seca_no_amazonas.jpg?itok=goOm7IgK</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Bancos não terão atendimento presencial no feriado da Independência</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bancos-nao-terao-atendimento-presencial-no-feriado-da-independencia</link>
+      <pubDate>Fri, 04 Sep 2026 14:39:54 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bancos-nao-terao-atendimento-presencial-no-feriado-da-independencia#1009</guid>
+      <description>As agências bancárias estarão fechadas na próxima segunda-feira (7), feriado da Independência. De acordo com a Federação Brasileira de Bancos (Febrab...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wWDau0FcOoT_bnOAYd652LlLLxY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/_mg_8274.jpg?itok=XSGCF7OS&quot; alt=&quot;Bancos não terão atendimento presencial no feriado da Independência&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As agências bancárias estarão fechadas na próxima segunda-feira (7), feriado da Independência. De acordo com a Federação Brasileira de Bancos (Febraban), o atendimento presencial ao público segue normalmente na terça-feira (8) nas localidades onde não haja feriado estadual ou municipal ou ponto facultativo.&lt;/p&gt;
+&lt;p&gt;A instituição esclarece que as operações financeiras podem ser realizadas com total segurança e conveniência pelos canais digitais dos bancos. Além disso, os clientes podem recorrer ao suporte por telefone e aos correspondentes bancários.&lt;/p&gt;
+&lt;p&gt;As salas de autoatendimento poderão estar disponíveis em algumas localidades, a critério de cada instituição.&lt;/p&gt;
+&lt;p&gt;As compensações bancárias não serão efetivadas durante o dia 7 de setembro, incluindo a TED. Já o PIX, que funciona 24 horas todos os dias úteis e feriados, poderá ser feito normalmente.&lt;/p&gt;
+&lt;p&gt;Boletos de cobrança e contas de consumo - água, energia, telefone, entre outros - com vencimento no feriado poderão ser pagos, sem acréscimo, no próximo dia útil. Boletos bancários de clientes cadastrados como sacados eletrônicos podem ser pagos via Débito Direto Autorizado.&lt;/p&gt;
+&lt;p&gt;“No caso dos tributos e impostos, caso vençam nos dias em que não há compensação bancária, é necessário que o pagamento seja antecipado, para evitar a incidência de juros e multa, lembrando que o sábado não é considerado dia útil e, por essa razão, não há liquidação financeira”, alertou a Febraban.&lt;/p&gt;
+&lt;p&gt;Escolas do Grupo Especial escolhem sambas-enredo do Carnaval 2007&lt;/p&gt;
+&lt;p&gt;Astrologia, autoconhecimento e emoções são temas do Sem Censura&lt;/p&gt;
+&lt;p&gt;Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes&lt;/p&gt;
+&lt;p&gt;Fazenda autoriza crédito de US$ 1 bilhão do BID para Eco Invest Brasil&lt;/p&gt;
+&lt;p&gt;Apenas 1 em cada 5 motociclistas de app tem cobertura previdenciária&lt;/p&gt;
+&lt;p&gt;Brasil tem 2 milhões de pessoas que trabalham por meio de aplicativos&lt;/p&gt;
+&lt;p&gt;Pelo menos 37 pessoas morrem em incidente com gasoduto na Nigéria&lt;/p&gt;
+&lt;p&gt;Nove dias após desastre, duas pessoas são resgatadas com vida no Nepal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bancos-nao-terao-atendimento-presencial-no-feriado-da-independencia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>As agências bancárias estarão fechadas na próxima segunda-feira (7), feriado da Independência. De acordo com a Federação Brasileira de Bancos (Febrab...</excerpt:encoded>
+      <wp:post_id>1009</wp:post_id>
+      <wp:post_date>2026-09-04 07:22:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-04 07:22:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-04 07:22:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-04 07:22:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/wWDau0FcOoT_bnOAYd652LlLLxY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/20/_mg_8274.jpg?itok=XSGCF7OS</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
