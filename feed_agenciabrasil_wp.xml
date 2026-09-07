@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Mon, 07 Sep 2026 16:58:28 +0000</pubDate>
+    <pubDate>Mon, 07 Sep 2026 20:22:19 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,209 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Rio de Janeiro tem aviso de ressaca; ciclovia Tim Maia é fechada</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/rio-de-janeiro-tem-aviso-de-ressaca-ciclovia-tim-maia-e-fechada</link>
+      <pubDate>Mon, 07 Sep 2026 20:22:19 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/rio-de-janeiro-tem-aviso-de-ressaca-ciclovia-tim-maia-e-fechada#1000</guid>
+      <description>© Fernando Frazão/Agência Brasil
+O Rio de Janeiro segue com aviso de ressaca no mar.
+De acordo com a Marinha do Brasil, até o final da tarde desta se...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/h35VbDZ739avKf5Txj-j1hWNPj0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1014913-_dsc508721.04.2016_.jpg?itok=gqRfVw7A&quot; alt=&quot;Rio de Janeiro tem aviso de ressaca; ciclovia Tim Maia é fechada&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Rio de Janeiro segue com aviso de ressaca no mar.&lt;/p&gt;
+&lt;p&gt;De acordo com a Marinha do Brasil, até o final da tarde desta segunda-feira (7), as ondas podem chegar a até 2,5 metros de altura.&lt;/p&gt;
+&lt;p&gt;Por isso, a Prefeitura da capital interditou a ciclovia Tim Maia no trecho entre a praia de São Conrado e a passarela metálica do Vidigal.&lt;/p&gt;
+&lt;p&gt;A medida não afeta o tráfego na Avenida Niemeyer, paralela à ciclovia.&lt;/p&gt;
+&lt;p&gt;Como a estrutura para ciclistas fica rente ao mar, sempre que são verificadas condições adversas mais intensas, a via é fechada pela Prefeitura. Em 2016, poucos meses após ser inaugurada,&lt;/p&gt;
+&lt;p&gt;durante um temporal matando duas pessoas.&lt;/p&gt;
+&lt;p&gt;A Marinha também emitiu as seguintes orientações durante o período de ressaca:&lt;/p&gt;
+&lt;p&gt;evite banho de mar e a prática de esportes aquáticos em áreas com condições de ressaca;&lt;/p&gt;
+&lt;p&gt;não permaneça em mirantes na orla ou em locais próximos ao mar durante o período do aviso;&lt;/p&gt;
+&lt;p&gt;os frequentadores de praias devem seguir rigorosamente as orientações das equipes do Corpo de Bombeiros;&lt;/p&gt;
+&lt;p&gt;pescadores devem evitar navegar enquanto a ressaca estiver ativa;&lt;/p&gt;
+&lt;p&gt;evite pedalar de bicicleta na orla se as ondas estiverem alcançando a ciclovia;&lt;/p&gt;
+&lt;p&gt;em caso de acidentes no mar, não tente resgatar vítimas por conta própria. Acione imediatamente o Corpo de Bombeiros pelo telefone 193.&lt;/p&gt;
+&lt;p&gt;O tempo permanece instável na cidade do Rio de Janeiro nesta segunda-feira devido ao transporte de umidade do oceano para o continente. O céu está encoberto e chove de forma fraca a moderada em locais isolados ao longo do dia.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/rio-de-janeiro-tem-aviso-de-ressaca-ciclovia-tim-maia-e-fechada&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+O Rio de Janeiro segue com aviso de ressaca no mar.
+De acordo com a Marinha do Brasil, até o final da tarde desta se...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-09-07 15:09:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-07 15:09:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-07 15:09:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-07 15:09:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/h35VbDZ739avKf5Txj-j1hWNPj0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1014913-_dsc508721.04.2016_.jpg?itok=gqRfVw7A</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Grito dos Excluídos tem atos em defesa por moradia e contra violência</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/grito-dos-excluidos-tem-atos-em-defesa-por-moradia-e-contra-violencia</link>
+      <pubDate>Mon, 07 Sep 2026 20:22:19 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/grito-dos-excluidos-tem-atos-em-defesa-por-moradia-e-contra-violencia#1001</guid>
+      <description>Movimentos sociaisrealizaram nesta segunda-feira(7) a 32ªedição do Grito dos Excluídos. Houve marchas e atos em mais de 50 cidades, em todas as regiõ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ttwT4pCRgyVfEkiFKoa0RGRsgyA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/_int4888.jpg?itok=YTUQPg7Y&quot; alt=&quot;Grito dos Excluídos tem atos em defesa por moradia e contra violência&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Movimentos sociaisrealizaram nesta segunda-feira(7) a 32ªedição do Grito dos Excluídos. Houve marchas e atos em mais de 50 cidades, em todas as regiões do país, segundo os organizadores.&lt;/p&gt;
+&lt;p&gt;Faixas, bandeiras e gritos de guerra ajudaram a expor o lema da edição, “Na defesa da Terra, da Paz e da Moradia, erguemos a voz: Mulheres Vivas e Soberania!”&lt;/p&gt;
+&lt;p&gt;Os manifestantes reivindicarammoradia digna; reforma agrária; educação pública de qualidade; defesa do Sistema Único de Saúde (SUS); enfrentamento do feminicídio e de todas as formas de violência contra as mulheres e o combate ao racismo e à LGBTfobia, além do fim da escala de trabalho 6x1.&lt;/p&gt;
+&lt;p&gt;Na capital paulista, os manifestantes percorreram asruas do centro e terminou com umamissa na Catedral da Sé, dedicada à população em situação de rua. Antes da caminhada, foi realizado um café da manhã comunitário.&lt;/p&gt;
+&lt;p&gt;Para a ativista Miriam Hermogenes, da Central dos Movimentos Populares, uma das organizadoras do ato, defende que a liberdade será plena quando não houver mais pessoas em situação de rua no país.&lt;/p&gt;
+&lt;p&gt;“Agente faz uso desse dia para dizer: Olha, não temos liberdade ainda, temos que avançar muito para ser um país, uma sociedade em liberdade”, afirmou à Agência Brasil.&lt;/p&gt;
+&lt;p&gt;O coordenador do cursinho Educafro, Frei David Santos, pediu a defesa da democracia para que não hajainterferência econômica nas eleições. “É importante estarmos juntos, hoje, pela Democracia”, disse.&lt;/p&gt;
+&lt;p&gt;Deuza Cordeiro de Lima foi à manifestação para protestar contra a violência policial. O filho dela, Thiago, foi assassinado em janeiro de 2023, na região central da capital. “Vim como em outros anos denunciar a violência. Meu filho foi morto pela polícia, e seus assassinos estão livres. Ele era inocente, mais um de tantos, e não vou ficar quieta”, disse.&lt;/p&gt;
+&lt;p&gt;Célia Souza e amigos participaram do ato e defenderam moradia digna para todos.&lt;/p&gt;
+&lt;p&gt;Eu vim hoje pela luta. Por moradia, que é algo cuja importância é a mais básica, da qual não podemos abrir mão”, disse Célia Souza.&lt;/p&gt;
+&lt;p&gt;No Rio de Janeiro, o ato cruzoua Avenida Presidente Vargas, uma das principais do centro da cidade, e teve início após o&lt;/p&gt;
+&lt;p&gt;Um dos diferenciais do ato foi um grupo de ativistas que levou o teatro para a manifestação. No meio da marcha, eles encenavam esquetes com defesa à soberania nacional e à democracia.A ação foi conduzida pela Escola de Teatro Popular, que se identifica como um movimento de teatro político e educação popular.&lt;/p&gt;
+&lt;p&gt;Um dos coordenadores do grupo é o pesquisador teatral e dramaturgo Julian Boal, filho de Augusto Boal (1931-2009), fundador do Teatro do Oprimido,metodologia teatral criada com a ideia central de transformar o espectador em participante ativo, capaz de discutir e ensaiar formas de enfrentar situações de opressão na vida real.&lt;/p&gt;
+&lt;p&gt;Julian Boal explicou que a presença noGrito dos Excluídos foi uma forma de levar mais pessoas à manifestação.Ele contou que a encenação retratou que a participação democrática não se encerra com as eleições.&lt;/p&gt;
+&lt;p&gt;“O que a nossa cena tentou fazer é recolocar a questão de qual é o peso das instituições. Tentar discutir que dentro das instituições a gente pode fazer muita coisa, mas que o nosso todo é muito maior do que aquelas eleições podem colocar”, completou.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/grito-dos-excluidos-tem-atos-em-defesa-por-moradia-e-contra-violencia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Movimentos sociaisrealizaram nesta segunda-feira(7) a 32ªedição do Grito dos Excluídos. Houve marchas e atos em mais de 50 cidades, em todas as regiõ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-09-07 15:08:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-07 15:08:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-07 15:08:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-07 15:08:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/ttwT4pCRgyVfEkiFKoa0RGRsgyA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/_int4888.jpg?itok=YTUQPg7Y</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Tradicional desfile cívico-militar é realizado no Rio de Janeiro</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tradicional-desfile-civico-militar-e-realizado-no-rio-de-janeiro</link>
+      <pubDate>Mon, 07 Sep 2026 20:22:19 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tradicional-desfile-civico-militar-e-realizado-no-rio-de-janeiro#1002</guid>
+      <description>© Fernando Frazão/Agência Brasil
+No Rio de Janeiro, o tradicional desfile cívico-militar do Dia da Independência percorreu um trecho da Avenida Presi...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vJ1MabFGusi_tSM4Qn2lzeiYHag=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/_d6a4751.jpg?itok=Hm8guGvY&quot; alt=&quot;Tradicional desfile cívico-militar é realizado no Rio de Janeiro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Fernando Frazão/Agência Brasil&lt;/p&gt;
+&lt;p&gt;No Rio de Janeiro, o tradicional desfile cívico-militar do Dia da Independência percorreu um trecho da Avenida Presidente Vargas, em frente ao Palácio Duque de Caxias, sede do Comando Militar do Leste. Apesar do tempo chuvoso, milhares de pessoas assistiram ao desfile, empunhando bandeirinhas do Brasil.&lt;/p&gt;
+&lt;p&gt;A cerimônia começou com a revista da tropa por comandantes das três forças militares, seguido pela chegada do fogo simbólico da pátria. A&lt;/p&gt;
+&lt;p&gt;tocha foi levada pelo atleta do pentatlo Douglas Castro, acompanhado de outros esportistas militares e usada para acender uma pira em frente ao palácio.&lt;/p&gt;
+&lt;p&gt;Em seguida, a banda do primeiro batalhão de guarda do Exército executou o Hino da Independência e a Salva de Gala.&lt;/p&gt;
+&lt;p&gt;O cortejo foi puxado por batedores dos Fuzileiros Navais, da Polícia do Exército e da Polícia da Aeronáutica, em motocicletas. Uma unidade de cavalaria exibiu todas as bandeiras que o Brasil já teve ao longo de sua história.&lt;/p&gt;
+&lt;p&gt;Mais de 6 mil militares e agentes de forças de segurança federais, estaduais e municipais participaram do desfile. Também estavam representadas organizações sociais, como a Cruz Vermelha e os Escoteiros, entidades beneficentes e escolas.&lt;/p&gt;
+&lt;p&gt;Um dos destaques foram os conjuntos exclusivo de mulheres que atuam em diversos grupamentos da Marinha, do Exército e da Aeronáutica. Também desfilaram militares que integram as Forças de Paz das Nações Unidas.&lt;/p&gt;
+&lt;p&gt;Mais de 180 viaturas também foram empregadas no desfile, incluindo tanques blindados só Exército, embarcações da Marinha do tipo anfíbio, que podem transitar na terra e na água e caminhões de resgate do Corpo de Bombeiros.&lt;/p&gt;
+&lt;p&gt;Veja como foi o desfile na reportagem do Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
+&lt;p&gt;Brasileirão encerra 26ª rodada nesta segunda com Vitória e Grêmio&lt;/p&gt;
+&lt;p&gt;Brasil no centro: IBGE disponibiliza série inédita de mapas-múndi&lt;/p&gt;
+&lt;p&gt;Coreia do Norte e Rússia inauguram primeira ponte para ligar os países&lt;/p&gt;
+&lt;p&gt;Rio de Janeiro tem aviso de ressaca; ciclovia Tim Maia é fechada&lt;/p&gt;
+&lt;p&gt;Grito dos Excluídos tem atos em defesa por moradia e contra violência&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tradicional-desfile-civico-militar-e-realizado-no-rio-de-janeiro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Fernando Frazão/Agência Brasil
+No Rio de Janeiro, o tradicional desfile cívico-militar do Dia da Independência percorreu um trecho da Avenida Presi...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-09-07 14:52:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-07 14:52:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-07 14:52:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-07 14:52:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/vJ1MabFGusi_tSM4Qn2lzeiYHag=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/_d6a4751.jpg?itok=Hm8guGvY</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Vasco e Atlético-PI decidem vaga para final do Brasileirão Feminino A2</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-atletico-pi-decidem-vaga-para-final-do-brasileirao-feminino-a2</link>
+      <pubDate>Mon, 07 Sep 2026 20:22:19 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-atletico-pi-decidem-vaga-para-final-do-brasileirao-feminino-a2#1003</guid>
+      <description>© Dikran Sahagian/Vasco da Gama
+transmite, nesta segunda-feira (7), a partir das 21h15, a partida de volta da semifinal do
+, direto do Estádio Luso B...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VmjYRRGD8tqa4BqsvY5fmJ04iB4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/vasco_e_minas_brasilia_garantem_vaga_na_serie_a1_em_2027.jpg?itok=56DH8jZB&quot; alt=&quot;Vasco e Atlético-PI decidem vaga para final do Brasileirão Feminino A2&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Dikran Sahagian/Vasco da Gama&lt;/p&gt;
+&lt;p&gt;transmite, nesta segunda-feira (7), a partir das 21h15, a partida de volta da semifinal do&lt;/p&gt;
+&lt;p&gt;, direto do Estádio Luso Brasileiro, no Rio de Janeiro. A equipe campeã garante vaga nafinal da competição.&lt;/p&gt;
+&lt;p&gt;As Meninas da Colina chegam com ampla vantagem após vencerem o jogo de ida por 4 a 1, na última sexta-feira (28), no Estádio Lindolfo Monteiro, em Teresina.&lt;/p&gt;
+&lt;p&gt;Já o Atlético Piauiense tem pela frente uma missão desafiadora fora de casa: para se classificar diretamente no tempo normal, precisará vencer por quatro ou mais gols de diferença.&lt;/p&gt;
+&lt;p&gt;Caso a equipe piauiense vença por três gols de vantagem, a vaga na final será disputada nos pênaltis.&lt;/p&gt;
+&lt;p&gt;Com as vagas na elite do Brasileirão Feminino Série A1 de 2027 já asseguradas ao chegarem à semifinal, agora as equipes miram o título nacional da Série A2. Do outro lado da chave, Minas Brasília e Itabirito duelam pela segunda vaga na grande final.&lt;/p&gt;
+&lt;p&gt;A transmissão integra a estratégia da&lt;/p&gt;
+&lt;p&gt;de ampliar a visibilidade das competições femininas. Além da Série A2, a emissora exibe jogos das Séries A1 e A3 do Brasileirão Feminino, a grande final da competição sub-17 e as partidas da Liga de Basquete Feminino (LBF).&lt;/p&gt;
+&lt;p&gt;A equipe de profissionais que comanda as transmissões do Brasileirão Feminino conta com o narrador Thiago Julianelli e um time de mulheres formado pelas comentaristas Brenda Balbi e Rachel Motta e as repórteres Marília Arrigoni e Verônica Dalcanal.&lt;/p&gt;
+&lt;p&gt;As competições ganham ainda mais visibilidade por meio da parceria com os canais que formam a Rede Nacional de Comunicação Pública (RNCP), que podem retransmitir a programação da&lt;/p&gt;
+&lt;p&gt;Aproveite o clima de decisão e ajude a escolher a vencedora da&lt;/p&gt;
+&lt;p&gt;do Prêmio TV Brasil Petrobras Para Elas.&lt;/p&gt;
+&lt;p&gt;A premiação criada pela TV Brasil e pela Petrobras vai reconhecer ainda atletas, treinadores e treinadoras, dirigentes, departamentos de futebol feminino e clubes que se destacarem ao longo da temporada de 2026.&lt;/p&gt;
+&lt;p&gt;A votação da categoria com voto popular já está aberta, é gratuita e tem votos ilimitados! Acesse&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/vasco-e-atletico-pi-decidem-vaga-para-final-do-brasileirao-feminino-a2&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Dikran Sahagian/Vasco da Gama
+transmite, nesta segunda-feira (7), a partir das 21h15, a partida de volta da semifinal do
+, direto do Estádio Luso B...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-09-07 14:03:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-07 14:03:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-07 14:03:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-07 14:03:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/VmjYRRGD8tqa4BqsvY5fmJ04iB4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/23/vasco_e_minas_brasilia_garantem_vaga_na_serie_a1_em_2027.jpg?itok=56DH8jZB</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Equipes de resgate do Nepal buscam 900 trabalhadores de hidrelétricas</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/equipes-de-resgate-do-nepal-buscam-900-trabalhadores-de-hidreletricas</link>
-      <pubDate>Mon, 07 Sep 2026 16:58:28 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 20:22:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/equipes-de-resgate-do-nepal-buscam-900-trabalhadores-de-hidreletricas#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/equipes-de-resgate-do-nepal-buscam-900-trabalhadores-de-hidreletricas#1004</guid>
       <description>© Nepal Army/ Reuters/ Proibido reprodução
 Equipes de resgate nepalesas procuram, nesta segunda-feira (7), mais de 100 trabalhadores de usinas hidrel...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/tVgV7HI4Sgc7jxnTyPQzofRoxmU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/04/2026-09-04t111329z_1_lynxmpem830w4_rtroptp_4_nepal-floods-survivor.jpg?itok=SUNPi4I6&quot; alt=&quot;Equipes de resgate do Nepal buscam 900 trabalhadores de hidrelétricas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +245,7 @@ Equipes de resgate nepalesas procuram, nesta segunda-feira (7), mais de 100 trab
 &lt;p&gt;Autoridades chinesas informaram no domingo (6) que equipes de resgate haviam recuperado mais 12 corpos, enquanto continuavam as buscas por centenas de pessoas ainda desaparecidas no Tibete&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/equipes-de-resgate-do-nepal-buscam-900-trabalhadores-de-hidreletricas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Nepal Army/ Reuters/ Proibido reprodução
 Equipes de resgate nepalesas procuram, nesta segunda-feira (7), mais de 100 trabalhadores de usinas hidrel...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-09-07 12:32:00</wp:post_date>
       <wp:post_date_gmt>2026-09-07 12:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-07 12:32:00</wp:post_modified>
@@ -73,9 +271,9 @@ Equipes de resgate nepalesas procuram, nesta segunda-feira (7), mais de 100 trab
     <item>
       <title>Exposição no CCBB do Rio traz a força da arte de mulheres da Amazônia</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/exposicao-no-ccbb-do-rio-traz-forca-da-arte-de-mulheres-da-amazonia</link>
-      <pubDate>Mon, 07 Sep 2026 16:58:28 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 20:22:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/exposicao-no-ccbb-do-rio-traz-forca-da-arte-de-mulheres-da-amazonia#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/exposicao-no-ccbb-do-rio-traz-forca-da-arte-de-mulheres-da-amazonia#1005</guid>
       <description>, queficaaberta ao público até 16 de novembro de 2026, no Centro Cultural Banco do Brasil Rio de Janeiro (CCBB RJ), na região central da cidade, most...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Kam2l94xC9D9gGsTVnJsM4J2iyQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/01/toms4259.jpg?itok=gcWXRxI-&quot; alt=&quot;Exposição no CCBB do Rio traz a força da arte de mulheres da Amazônia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;, queficaaberta ao público até 16 de novembro de 2026, no Centro Cultural Banco do Brasil Rio de Janeiro (CCBB RJ), na região central da cidade, mostra a força da arte contemporânea em 80 obras de 21 de mulheres protagonistas e pioneiras de diferentes gerações dos estados do Pará, Acre e Amazonas, incluindo a Ilha de Marajó.&lt;/p&gt;
@@ -94,7 +292,7 @@ Equipes de resgate nepalesas procuram, nesta segunda-feira (7), mais de 100 trab
 &lt;p&gt;Para a curadora, a mostra traz ancestralidade, biografia, território feminino e ineditismo com a inclusão de três obras da Pinacoteca do Estado do Amazonas,em Manaus. Pela primeira vezas obras estão sendo expostas no Brasil.&lt;/p&gt;
 &lt;p&gt;“São obras de duas mulheres pioneiras: a Rita Loureiro, pintora que desde a década de 60, 70 comprovou que existia uma profissão de pintura em Manaus;eMaria Auxiliadora Zuazo, gravurista que também tem obras da década de 70.”&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/exposicao-no-ccbb-do-rio-traz-forca-da-arte-de-mulheres-da-amazonia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>, queficaaberta ao público até 16 de novembro de 2026, no Centro Cultural Banco do Brasil Rio de Janeiro (CCBB RJ), na região central da cidade, most...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-09-07 12:30:00</wp:post_date>
       <wp:post_date_gmt>2026-09-07 12:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-07 12:30:00</wp:post_modified>
@@ -120,9 +318,9 @@ Equipes de resgate nepalesas procuram, nesta segunda-feira (7), mais de 100 trab
     <item>
       <title>Ambulantes &quot;desfilam&quot; no 7 de Setembro em busca de sustento</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/ambulantes-desfilam-no-7-de-setembro-em-busca-de-sustento</link>
-      <pubDate>Mon, 07 Sep 2026 16:58:28 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 20:22:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/ambulantes-desfilam-no-7-de-setembro-em-busca-de-sustento#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/ambulantes-desfilam-no-7-de-setembro-em-busca-de-sustento#1006</guid>
       <description>Equilibrar 30 quilos de balões e algodões-doces coloridos sobre o ombro esquerdo, em uma caminhada apressada, foi o &quot;desfile&quot; do Palhaço Bo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vvM2ptJ_EX2-o-gea-M7Wvrsmck=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/whatsapp_image_2026-09-07_at_09.35.13_1_0.jpeg?itok=ODkbBxkl&quot; alt=&quot;Ambulantes &quot;desfilam&quot; no 7 de Setembro em busca de sustento&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Equilibrar 30 quilos de balões e algodões-doces coloridos sobre o ombro esquerdo, em uma caminhada apressada, foi o &quot;desfile&quot; do Palhaço Bolinha, o autônomo Renato Siqueira, de 53 anos, às margens da área do desfile de 7 de Setembro deste ano, em Brasília (DF).&lt;/p&gt;
@@ -139,9 +337,9 @@ Equipes de resgate nepalesas procuram, nesta segunda-feira (7), mais de 100 trab
 &lt;p&gt;Aliás a palavra &quot;continuar&quot; faz parte dessa rotina. Ele foi direto do trabalho na portaria para o comércio informal na Esplanada dos Ministérios. Não há muito tempo para se divertir. A prioridade é levar sustento para os dois filhos em casa.&lt;/p&gt;
 &lt;p&gt;Sob o sol de Brasília, o paraibano Reinivaldo Garcia, de Brejo da Cruz, de 54 anos, vendia bonés e chapéus ao público, a R$ 20.&lt;/p&gt;
 &lt;p&gt;&quot;Só pude estudar até a 3ª série do primário. Não consegui estudar mais porque precisava trabalhar. Eu digo aos meus dois filhos que eles precisam estudar sempre para não ficar nesse sol como eu Tem que ser independente, né?&quot;&lt;/p&gt;
-&lt;p&gt;Acidente com avião cargueiro da Amazon em Miami deixa 5 mortos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/ambulantes-desfilam-no-7-de-setembro-em-busca-de-sustento&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Brasileirão encerra 26ª rodada nesta segunda com Vitória e Grêmio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/ambulantes-desfilam-no-7-de-setembro-em-busca-de-sustento&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Equilibrar 30 quilos de balões e algodões-doces coloridos sobre o ombro esquerdo, em uma caminhada apressada, foi o &quot;desfile&quot; do Palhaço Bo...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-09-07 11:33:00</wp:post_date>
       <wp:post_date_gmt>2026-09-07 11:33:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-07 11:33:00</wp:post_modified>
@@ -167,9 +365,9 @@ Equipes de resgate nepalesas procuram, nesta segunda-feira (7), mais de 100 trab
     <item>
       <title>Justiça Federal paralisa atividade de mina de lítio em Minas Gerais</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-federal-paralisa-atividade-de-mina-de-litio-em-minas-gerais</link>
-      <pubDate>Mon, 07 Sep 2026 16:58:28 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 20:22:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-federal-paralisa-atividade-de-mina-de-litio-em-minas-gerais#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-federal-paralisa-atividade-de-mina-de-litio-em-minas-gerais#1007</guid>
       <description>Justiça Federal em Minas Gerais
 determinou a suspensão das licenças ambientais e a consequente paralisação das atividades no complexo minerário Grota...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/-H8bDLd8wbu3tNRH6G_dy1P8NTA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/mglit-mg-litio-848x477.jpg?itok=0aEawWPm&quot; alt=&quot;Justiça Federal paralisa atividade de mina de lítio em Minas Gerais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -190,7 +388,7 @@ determinou a suspensão das licenças ambientais e a consequente paralisação d
 &lt;p&gt;O magistrado responsável escreveu que a mineração no local sem a devida consulta às comunidades impactadas “representa uma lesão diária, cumulativa e crônica à integridade física e sociocultural do grupo tradicional, justificando a imediata paralisação corretiva”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-federal-paralisa-atividade-de-mina-de-litio-em-minas-gerais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Justiça Federal em Minas Gerais
 determinou a suspensão das licenças ambientais e a consequente paralisação das atividades no complexo minerário Grota...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-09-07 11:25:00</wp:post_date>
       <wp:post_date_gmt>2026-09-07 11:25:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-07 11:25:00</wp:post_modified>
@@ -216,15 +414,15 @@ determinou a suspensão das licenças ambientais e a consequente paralisação d
     <item>
       <title>Fachin aguarda explicações de ministros para decidir sobre crise</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-aguarda-explicacoes-de-ministros-para-decidir-sobre-crise</link>
-      <pubDate>Mon, 07 Sep 2026 16:58:28 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 20:22:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-aguarda-explicacoes-de-ministros-para-decidir-sobre-crise#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-aguarda-explicacoes-de-ministros-para-decidir-sobre-crise#1008</guid>
       <description>O ministro Edson Fachin, presidente do Supremo Tribunal Federal (STF), aguarda as explicações dos ministros André Mendonça e Alexandre de Moraes, tam...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/AlX9vWil1_65mCLPkDUsuDKBRVs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/03/55157256334_6416585a1d_o.jpg?itok=cE5uduWx&quot; alt=&quot;Fachin aguarda explicações de ministros para decidir sobre crise&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O ministro Edson Fachin, presidente do Supremo Tribunal Federal (STF), aguarda as explicações dos ministros André Mendonça e Alexandre de Moraes, também do Supremo,para decidir se leva a crise dos dois para julgamento no plenário, em sessão aberta ou fechada.&lt;/p&gt;
 &lt;p&gt;A crise ganhou, na última semana, gravidade sem precedentes na história recente do STF, com a divulgação recíproca de relatórios comprometedores e pedidos mútuos de investigações.&lt;/p&gt;
 &lt;p&gt;No desdobramento mais recente, Mendonça liberou para julgamento em plenário o relatório da Polícia Federal (PF) que indica relação de proximidade entre Moraes e oex-banqueiro Daniel Vorcaro, antigo dono do Banco Master e suspeito de praticar fraudes financeiras bilionárias e corromper autoridades públicas.&lt;/p&gt;
-&lt;p&gt;Antes de decidir, porém, ele deve aguardar até a próxima sexta-feira (11), quando vence o prazo de cinco dias que deu para que Moraes e Mendonça se manifestem.&lt;/p&gt;
+&lt;p&gt;Antes de decidir, porém, Fachindeve aguardar até a próxima sexta-feira (11), quando vence o prazo de cinco dias que deu para que Moraes e Mendonça se manifestem.&lt;/p&gt;
 &lt;p&gt;Como alternativa, é possível que o presidente do Supremo convoque uma reunião reservada em seu gabinete para que todos os ministros decidam como conduzir a crise interna.&lt;/p&gt;
 &lt;p&gt;Essa foi a solução dada quando veio à tona uma suposta ligação entre Vorcaro e o ministro Dias Toffoli, em fevereiro deste ano. Na ocasião, a relatoria do caso Master foi transferida de Toffoli para Mendonça.&lt;/p&gt;
 &lt;p&gt;A diferença da crise atual é que Fachin decidiu concentrar em um processo próprio, de sua relatoria, os documentos e pedidos referentes ao caso.&lt;/p&gt;
@@ -234,10 +432,10 @@ determinou a suspensão das licenças ambientais e a consequente paralisação d
 &lt;p&gt;Outro pedido feito a Fachin, desta vez por Alexandre de Moraes, é para que o próprio Mendonça seja investigado por abuso de autoridade, improbidade administrativa e crime de responsabilidade.&lt;/p&gt;
 &lt;p&gt;Para embasar seu pedido, Moraes apresentou um relatório de inteligência da PFsegundo o qual Mendonça poderia direcionar as investigações do caso Master, de modo a atingir desafetos políticos. O documento, contudo, não é assinado e traz na capa a advertência de se tratar de conjecturas “sem valor probatório”.&lt;/p&gt;
 &lt;p&gt;O Regimento Interno do Supremo prevê que somente o plenário tem a competência para processar e julgar membros da própria Corte, mas não traz detalhes sobre os procedimentos a serem adotados.&lt;/p&gt;
-&lt;p&gt;Acidente com avião cargueiro da Amazon em Miami deixa 5 mortos&lt;/p&gt;
-&lt;p&gt;Exposição em Brasília reúne equipamentos militares&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-aguarda-explicacoes-de-ministros-para-decidir-sobre-crise&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Saiba mais sobre a crise no STF no Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
+&lt;p&gt;Brasileirão encerra 26ª rodada nesta segunda com Vitória e Grêmio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/fachin-aguarda-explicacoes-de-ministros-para-decidir-sobre-crise&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro Edson Fachin, presidente do Supremo Tribunal Federal (STF), aguarda as explicações dos ministros André Mendonça e Alexandre de Moraes, tam...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-09-07 10:45:00</wp:post_date>
       <wp:post_date_gmt>2026-09-07 10:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-07 10:45:00</wp:post_modified>
@@ -263,9 +461,9 @@ determinou a suspensão das licenças ambientais e a consequente paralisação d
     <item>
       <title>Começa o desfile cívico-militar do Dia da Independência em Brasília</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/comeca-o-desfile-civico-militar-do-dia-da-independencia-em-brasilia</link>
-      <pubDate>Mon, 07 Sep 2026 16:58:28 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 20:22:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/comeca-o-desfile-civico-militar-do-dia-da-independencia-em-brasilia#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/comeca-o-desfile-civico-militar-do-dia-da-independencia-em-brasilia#1009</guid>
       <description>Começou pouco depois das 9h desta segunda-feira (7) o desfile cívico-militar do Dia da Independência, na Esplanada dos Ministérios, no centro de Bras...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/WszjUXP43gfIrWN5IR4_L_AMR4c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/whatsapp_image_2026-09-07_at_09.35.13_1.jpeg?itok=BlYwciJc&quot; alt=&quot;Começa o desfile cívico-militar do Dia da Independência em Brasília&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Começou pouco depois das 9h desta segunda-feira (7) o desfile cívico-militar do Dia da Independência, na Esplanada dos Ministérios, no centro de Brasília.&lt;/p&gt;
@@ -277,14 +475,14 @@ determinou a suspensão das licenças ambientais e a consequente paralisação d
 &lt;p&gt;O público começou a chegar ao local antes das 6h30, em meio aos preparativos e ensaios dos participantes do desfile. As arquibancadas cobertas já estavam cheias minutos antes do evento ter início.&lt;/p&gt;
 &lt;p&gt;O tempo ameno na capital federal, com céu bastante nublado, ajuda os que acompanham as apresentações próximo às grades de segurança.&lt;/p&gt;
 &lt;p&gt;O desfile cívico-militar tem encerramento previsto para as 11h.&lt;/p&gt;
-&lt;p&gt;Acidente com avião cargueiro da Amazon em Miami deixa 5 mortos&lt;/p&gt;
-&lt;p&gt;Exposição em Brasília reúne equipamentos militares&lt;/p&gt;
-&lt;p&gt;Equipes de resgate do Nepal buscam 900 trabalhadores de hidrelétricas&lt;/p&gt;
-&lt;p&gt;Exposição no CCBB do Rio traz a força da arte de mulheres da Amazônia&lt;/p&gt;
-&lt;p&gt;Ambulantes &quot;desfilam&quot; no 7 de Setembro em busca de sustento&lt;/p&gt;
-&lt;p&gt;Justiça Federal paralisa atividade de mina de lítio em Minas Gerais&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/comeca-o-desfile-civico-militar-do-dia-da-independencia-em-brasilia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Brasileirão encerra 26ª rodada nesta segunda com Vitória e Grêmio&lt;/p&gt;
+&lt;p&gt;Brasil no centro: IBGE disponibiliza série inédita de mapas-múndi&lt;/p&gt;
+&lt;p&gt;Coreia do Norte e Rússia inauguram primeira ponte para ligar os países&lt;/p&gt;
+&lt;p&gt;Rio de Janeiro tem aviso de ressaca; ciclovia Tim Maia é fechada&lt;/p&gt;
+&lt;p&gt;Grito dos Excluídos tem atos em defesa por moradia e contra violência&lt;/p&gt;
+&lt;p&gt;Tradicional desfile cívico-militar é realizado no Rio de Janeiro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/comeca-o-desfile-civico-militar-do-dia-da-independencia-em-brasilia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Começou pouco depois das 9h desta segunda-feira (7) o desfile cívico-militar do Dia da Independência, na Esplanada dos Ministérios, no centro de Bras...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-09-07 09:36:00</wp:post_date>
       <wp:post_date_gmt>2026-09-07 09:36:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-07 09:36:00</wp:post_modified>
@@ -305,204 +503,6 @@ determinou a suspensão das licenças ambientais e a consequente paralisação d
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/WszjUXP43gfIrWN5IR4_L_AMR4c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/whatsapp_image_2026-09-07_at_09.35.13_1.jpeg?itok=BlYwciJc</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Convivência da cidade e vida selvagem é tema do Caminhos da Reportagem</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/convivencia-da-cidade-e-vida-selvagem-e-tema-do-caminhos-da-reportagem</link>
-      <pubDate>Mon, 07 Sep 2026 16:58:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/convivencia-da-cidade-e-vida-selvagem-e-tema-do-caminhos-da-reportagem#1006</guid>
-      <description>O episódio “Cidade Selvagem, Fauna Urbana”, do programa
-, vai ao ar nesta segunda-feira (7), às 23h30, na
-,com uma análise sobre a vida silvestre que...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zooJn4RpsuFAcThGQ3T6f5MIasY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/foto-4-onca-raoni-cemacas-.jpg?itok=JpXmeuKE&quot; alt=&quot;Convivência da cidade e vida selvagem é tema do Caminhos da Reportagem&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O episódio “Cidade Selvagem, Fauna Urbana”, do programa&lt;/p&gt;
-&lt;p&gt;, vai ao ar nesta segunda-feira (7), às 23h30, na&lt;/p&gt;
-&lt;p&gt;,com uma análise sobre a vida silvestre que ainda resiste, adaptando-se aos impactos da expansão urbana da cidade de São Paulo (SP). A premiada atração da emissora pública mostra algumas das iniciativas para recuperação e preservação da fauna e flora nativas na maior metrópole da América Latina.&lt;/p&gt;
-&lt;p&gt;Apesar da prevalência já estabelecida da espécie humana ter transformado profundamente a paisagem, a capital paulista ainda abriga vida selvagem sob o asfalto e acima dos prédios, sendo que registros históricos e os nomes próprios de alguns lugares mantêm viva a memória da fauna nativa.&lt;/p&gt;
-&lt;p&gt;Os povos originários davam nomes para as áreas usando os animais como referência: M'Boi Mirim significa cobra pequena (como a Dormideira,&lt;/p&gt;
-&lt;p&gt;); o Rio Tamanduateí rememora o tamanduá-bandeira (&lt;/p&gt;
-&lt;p&gt;); o Tatuapé, o caminho do tatu (&lt;/p&gt;
-&lt;p&gt;mostra que essa relação ancestral com a fauna é preservada na Terra Indígena Jaraguá, onde 45 famílias Guarani mantêm relação sustentável com o território e forte vínculo espiritual com os animais&lt;/p&gt;
-&lt;p&gt;. Liderança tradicional da Tekoa Yvy Porã, Márcio Mendonça Boggarim, ou Guarani Karaí Werá Mirim, em tupi-guarani, destaca a relevância das abelhas nativas sem ferrão para a cultura local:&lt;/p&gt;
-&lt;p&gt;&quot;Todos os animais, para nós Guarani, são considerados sagrados. O Guarani se fortalece mentalmente por meiodessas espécies nativas, principalmente a Jataí [&lt;/p&gt;
-&lt;p&gt;]. A gente utiliza a cera, a própolis e o mel para fazer batismo e curar pessoas doentes&quot;, afirma.&lt;/p&gt;
-&lt;p&gt;Outro entrevistado é o ornitólogo Luís Fábio Silveira, diretor do Museu de Zoologia da Universidade de São Paulo (MZUSP), que comenta que a região era marcada por uma transição geográfica singular:&lt;/p&gt;
-&lt;p&gt;&quot;Tinha essa mescla de Mata Atlântica com campos naturais, tanto que a cidade, antes de chamar São Paulo, se chamava São Paulo dos Campos de Piratininga”, informa.&lt;/p&gt;
-&lt;p&gt;A degradação histórica das matas também motivou iniciativas privadas de restauração. No extremo sul da cidade, dentro da APA Capivari-Monos, Jayme Roso reconstruiu, na década de 1960, uma área desmatada que deu origem à Reserva Particular do Patrimônio Natural (RPPN) Sítio Curucutu.&lt;/p&gt;
-&lt;p&gt;&quot;Quando eu cheguei aqui não tinha nada. Acredito que tenha plantado umas 650 mil mudas&quot;, ilustra.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/convivencia-da-cidade-e-vida-selvagem-e-tema-do-caminhos-da-reportagem&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O episódio “Cidade Selvagem, Fauna Urbana”, do programa
-, vai ao ar nesta segunda-feira (7), às 23h30, na
-,com uma análise sobre a vida silvestre que...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-09-07 08:54:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-07 08:54:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-07 08:54:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-07 08:54:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/zooJn4RpsuFAcThGQ3T6f5MIasY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/foto-4-onca-raoni-cemacas-.jpg?itok=JpXmeuKE</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Rádio Nacional celebra 90 anos com transmissões de momentos marcantes</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/radio-nacional-celebra-90-anos-com-transmissoes-de-momentos-marcantes</link>
-      <pubDate>Mon, 07 Sep 2026 16:58:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/radio-nacional-celebra-90-anos-com-transmissoes-de-momentos-marcantes#1007</guid>
-      <description>) completa nove décadas de existência no sábado (12)
-faz 90 anos, programas da emissora vão abrir espaço para reviver momentos marcantes de suas traj...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/pi2vxzQg9Oq8rtophlLMItrLzWE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/nacional90.jpg?itok=UbLvLfF7&quot; alt=&quot;Rádio Nacional celebra 90 anos com transmissões de momentos marcantes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;) completa nove décadas de existência no sábado (12)&lt;/p&gt;
-&lt;p&gt;faz 90 anos, programas da emissora vão abrir espaço para reviver momentos marcantes de suas trajetórias.&lt;/p&gt;
-&lt;p&gt;De 7 a 11 de setembro, as atrações apresentam edições especiais com memórias, entrevistas, quadros e registros que reforçam a conexão histórica e afetiva com o público brasileiro.&lt;/p&gt;
-&lt;p&gt;O veículo também prepara uma programação especial em rede, específica para o sábado (12), dia do aniversário.&lt;/p&gt;
-&lt;p&gt;nasceu em 12 de setembro de 1936 e hoje integra o conglomerado de mídia da&lt;/p&gt;
-&lt;p&gt;As edições temáticas com os melhores momentos serão pauta dos seguintes programas durante a semana:&lt;/p&gt;
-&lt;p&gt;Rádio Nacional de Brasília AM 980Khz:&lt;/p&gt;
-&lt;p&gt;, de segunda a sexta-feira, às 15h;&lt;/p&gt;
-&lt;p&gt;, de segunda a sexta-feira, à 0h&lt;/p&gt;
-&lt;p&gt;, de segunda a sexta-feira, às 17h&lt;/p&gt;
-&lt;p&gt;Rádio Nacional de Brasília FM 96,1 MHz:&lt;/p&gt;
-&lt;p&gt;, de segunda a sexta-feira, às 15h&lt;/p&gt;
-&lt;p&gt;Rádio Nacional da Amazônia OC 11.780KHz | AM 6.180KHz&lt;/p&gt;
-&lt;p&gt;, de segunda a domingo, das 10h às 12h;&lt;/p&gt;
-&lt;p&gt;, de segunda a sexta-feira, às 12h30&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/radio-nacional-celebra-90-anos-com-transmissoes-de-momentos-marcantes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>) completa nove décadas de existência no sábado (12)
-faz 90 anos, programas da emissora vão abrir espaço para reviver momentos marcantes de suas traj...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-09-07 08:43:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-07 08:43:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-07 08:43:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-07 08:43:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/pi2vxzQg9Oq8rtophlLMItrLzWE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/nacional90.jpg?itok=UbLvLfF7</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Desfile de 7 de Setembro homenageia pioneiras do futebol feminino</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/desfile-de-7-de-setembro-homenageia-pioneiras-do-futebol-feminino</link>
-      <pubDate>Mon, 07 Sep 2026 16:58:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/desfile-de-7-de-setembro-homenageia-pioneiras-do-futebol-feminino#1008</guid>
-      <description>© Fabio Rodrigues-Pozzebom/Agência Brasil
-As atletas pioneiras do futebol feminino brasileiro serão homenageadas durante o
-, nesta segunda-feira, em ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GJbK79EkMbk957QyMk4SEi3JACQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/pzzb5950.jpg?itok=FYb0fY-A&quot; alt=&quot;Desfile de 7 de Setembro homenageia pioneiras do futebol feminino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Fabio Rodrigues-Pozzebom/Agência Brasil&lt;/p&gt;
-&lt;p&gt;As atletas pioneiras do futebol feminino brasileiro serão homenageadas durante o&lt;/p&gt;
-&lt;p&gt;, nesta segunda-feira, em Brasília. Um grupo de jogadoras que atuaram na seleção brasileira entre as décadas de 1980 e 1990 desfilará pela Esplanada dos Ministérios, em carro aberto.&lt;/p&gt;
-&lt;p&gt;trajetória da modalidade no Brasil&lt;/p&gt;
-&lt;p&gt;Copa do Mundo de Futebol Feminino&lt;/p&gt;
-&lt;p&gt;Onze ex-jogadoras foram convidadas a participar da festividade.&lt;/p&gt;
-&lt;p&gt;Tricampeã mundial e técnica da Seleção Brasileira Feminina de Fut7 desde 2019, a baiana Dilma Mendes representará a geração de mulheres que enfrentou o preconceito e a falta de apoio anterior à regulamentação da prática – que só deixou de ser legalmente proibida para mulheres em 1979. Dilma foi eleita três vezes a melhor treinadora do mundo de futebol 7 (também conhecido como society).&lt;/p&gt;
-&lt;p&gt;A primeira geração pós-profissionalização será representada por cinco ex-atletas que participaram da Copa do Mundo Experimental de Futebol Feminino, em 1988, na China. OBrasil terminou em terceiro lugar. São elas:&lt;/p&gt;
-&lt;p&gt;Lucilene de Souza Marinho, a Cebola;&lt;/p&gt;
-&lt;p&gt;Mariléia dos Santos, a Michael Jackson;&lt;/p&gt;
-&lt;p&gt;O segundo grupo é formado por atletas cuja presença em campo avança pela década de 1990:&lt;/p&gt;
-&lt;p&gt;Lunalva Torres de Almeida, a Nalvinha;&lt;/p&gt;
-&lt;p&gt;Elissandra Regina Cavalcanti (Nenê);&lt;/p&gt;
-&lt;p&gt;Miraildes Maciel Mota, a Formiga, atleta que disputou sete edições da Copa da Fifa, entre 1995 e 2019.&lt;/p&gt;
-&lt;p&gt;“Como capitã da primeira Seleção Brasileira feminina, de 1988, sinto-me honrada de estar aqui, com outras pioneiras”, disse Marisa, que além de ganhar a medalha de bronze junto com a equipe de 1988, participou da Copa do Mundo Feminina de 1991.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/desfile-de-7-de-setembro-homenageia-pioneiras-do-futebol-feminino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Fabio Rodrigues-Pozzebom/Agência Brasil
-As atletas pioneiras do futebol feminino brasileiro serão homenageadas durante o
-, nesta segunda-feira, em ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-09-07 08:26:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-07 08:26:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-07 08:26:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-07 08:26:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/GJbK79EkMbk957QyMk4SEi3JACQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/pzzb5950.jpg?itok=FYb0fY-A</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Público madruga para assistir ao desfile na Esplanada dos Ministérios</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/publico-madruga-para-assistir-ao-desfile-na-esplanada-dos-ministerios</link>
-      <pubDate>Mon, 07 Sep 2026 16:58:28 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/publico-madruga-para-assistir-ao-desfile-na-esplanada-dos-ministerios#1009</guid>
-      <description>Quando o relógio despertou nesta madrugada, às 3h da manhã, a aposentada tocantinense Maria de Fátima Barbosa, de 71 anos, levantou imediatamente, ta...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/IQ24HYuz5pr2Qxx-GyVrngbnaxs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/whatsapp_image_2026-09-07_at_07.22.21.jpeg?itok=5RBDDQsc&quot; alt=&quot;Público madruga para assistir ao desfile na Esplanada dos Ministérios&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Quando o relógio despertou nesta madrugada, às 3h da manhã, a aposentada tocantinense Maria de Fátima Barbosa, de 71 anos, levantou imediatamente, tamanha era a ansiedade pelo desfile de 7 de Setembro, na Esplanada dos Ministérios, em Brasília. Ela está hospedada na casa de uma amiga no Recanto das Emas, a 30 quilômetros do centro da capital. No entanto, a viagem dela veio de muito mais longe.&lt;/p&gt;
-&lt;p&gt;Moradora de Tocantinópolis, Maria de Fátima pegou uma van até Araguaína (TO)a mais de duas horas de distância de casa, madrugou na rodoviária para cedinho encarar mais mil quilômetros até a capital do país. Foram mais de 15 horas de viagem&lt;/p&gt;
-&lt;p&gt;. Chegou no sábado (6) e descansou um pouco para assistir ao nascer do sol de dentro do ônibus.&lt;/p&gt;
-&lt;p&gt;“Enquanto eu viver, eu venho para esse desfile”, afirmou, ansiosa também por ouvir as mensagens no desfile sobre o passado de escravização e opressão no Brasil&lt;/p&gt;
-&lt;p&gt;Maria de Fátima morou em Brasília nos anos 1980 quando foi doméstica. Voltou para o Tocantins para recomeçar. Foi quebradeira de coco. Depois, continuou em empregos precários, inclusive catou latinhas para cumprir o sonho de comprar um sax para tocar. Conseguiu estudar e se formou no ano passado em licenciatura de educação no campo. “Vir para o desfile me faz lembrar o quanto eu sou brasileira. É muito lindo isso aqui”.&lt;/p&gt;
-&lt;p&gt;Brasilienses que moram na periferia da capitaltambém madrugaram para chegar cedo à Esplanada. Entre eles, o casal, Jorge Fernandes, de 55 anos, que é pintor de casa, e Adabel Daiane, de 42, dona de casa.&lt;/p&gt;
-&lt;p&gt;Eles foram acordados por Maria Alice, de 8, que antes das 4h pediu para vir logo ao desfile. Pegaram um ônibus de Sobradinho 2.&lt;/p&gt;
-&lt;p&gt;“Como era a primeira vez, nem dormi direito”. A mãeentende que é algo que ficará para a história. “Assim, a gente constrói memórias para ela. E de patriotismo.”O pai, que já foi soldado do Exército, diz que nunca deixou de vir.&lt;/p&gt;
-&lt;p&gt;Outro ex-militar, Maurício Batista, de 33, colocou a bandeira do Brasil sobre a camisa, como faz a cada ano. “Eu fico emocionado mesmo.”&lt;/p&gt;
-&lt;p&gt;Também estava sensibilizada a família do paratleta dos 100 metros rasos, Leonardo Carvalho, da Associação de Pais e Amigos dos Excepcionais (Apae), que deve desfilar nesta manhã.&lt;/p&gt;
-&lt;p&gt;Preocupado com o horário, acordou antes das 4h da manhã. Ao chegar à rodoviária, viu a luz do amanhecer e correu. Não era novidade para quem redescobriu a vida em velocidade. “Faço 100 metros em menos de 12 segundos. Vou correr porque está chegando a hora”, disse àreportagem da&lt;/p&gt;
-&lt;p&gt;A mãe, Maura, e toda a família que o acompanhava, sorriu com a pressa do rapaz. “Ele ama estar aqui e o esporte. Ele fica ansioso e a gente na torcida por tudo dar certo na vida dele”. O desfile ainda não tinha começado, mas eles já chamavam o momento de “inesquecível”.&lt;/p&gt;
-&lt;p&gt;Acidente com avião cargueiro da Amazon em Miami deixa 5 mortos&lt;/p&gt;
-&lt;p&gt;Exposição em Brasília reúne equipamentos militares&lt;/p&gt;
-&lt;p&gt;Equipes de resgate do Nepal buscam 900 trabalhadores de hidrelétricas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/publico-madruga-para-assistir-ao-desfile-na-esplanada-dos-ministerios&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Quando o relógio despertou nesta madrugada, às 3h da manhã, a aposentada tocantinense Maria de Fátima Barbosa, de 71 anos, levantou imediatamente, ta...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-09-07 08:19:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-07 08:19:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-07 08:19:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-07 08:19:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/IQ24HYuz5pr2Qxx-GyVrngbnaxs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/07/whatsapp_image_2026-09-07_at_07.22.21.jpeg?itok=5RBDDQsc</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
