@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 12 Sep 2026 11:51:22 +0000</pubDate>
+    <pubDate>Sat, 12 Sep 2026 14:45:04 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,162 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Bancários rejeitam proposta da Caixa e mantêm greve nacional</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bancarios-rejeitam-proposta-da-caixa-e-mantem-greve-nacional</link>
+      <pubDate>Sat, 12 Sep 2026 14:45:04 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bancarios-rejeitam-proposta-da-caixa-e-mantem-greve-nacional#1000</guid>
+      <description>© Valter Campanato/Agência Brasil
+rejeitaram a proposta final apresentada pelo banco e
+decidiram manter a greve nacional
+, iniciada na quinta-feira (...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/KwJaQXMEV5gc3j887iPXCaWNXTY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/0d7a9977.jpg?itok=699aMfng&quot; alt=&quot;Bancários rejeitam proposta da Caixa e mantêm greve nacional&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
+&lt;p&gt;rejeitaram a proposta final apresentada pelo banco e&lt;/p&gt;
+&lt;p&gt;decidiram manter a greve nacional&lt;/p&gt;
+&lt;p&gt;, iniciada na quinta-feira (10). A paralisação segue por tempo indeterminado, enquanto as entidades sindicais buscam retomar as negociações&lt;/p&gt;
+&lt;p&gt;Na base do Sindicato dos Bancários de São Paulo, Osasco e Região, 68% dos trabalhadores votaram contra a proposta em assembleia encerrada às 23h desta sexta-feira (11).&lt;/p&gt;
+&lt;p&gt;O principal ponto de divergência é o Saúde Caixa, plano de assistência médica dos funcionários. A proposta apresentada pela instituição previa mudanças no modelo de custeio e nas regras de coparticipação.&lt;/p&gt;
+&lt;p&gt;Antes da votação, a Caixa afirmou que a proposta era final e indicou que poderia recorrer à Justiça do Trabalho caso fosse rejeitada.&lt;/p&gt;
+&lt;p&gt;O banco deve avaliar o ingresso de um dissídio coletivo, instrumento utilizado para que a Justiça do Trabalho estabeleça condições para solucionar o impasse entre empregados e instituição.&lt;/p&gt;
+&lt;p&gt;Apesar da rejeição, a Caixa afirmou que mantém o diálogo aberto com as entidades representativas dos trabalhadores e que pretende buscar um entendimento.&lt;/p&gt;
+&lt;p&gt;A paralisação começouna quinta-feira (10), depois que os trabalhadores rejeitaram uma proposta anterior para a renovação do Acordo Coletivo de Trabalho (ACT).&lt;/p&gt;
+&lt;p&gt;Confederação Nacional dos Trabalhadores do Ramo Financeiro (Contraf-CUT)&lt;/p&gt;
+&lt;p&gt;, mais de 90% das bases sindicais haviam rejeitado o texto anterior apresentado pela Caixa.&lt;/p&gt;
+&lt;p&gt;Em São Paulo, Paraná e outras regiões, agências amanheceram fechadas no início da greve. Os caixas eletrônicos continuaram disponíveis.&lt;/p&gt;
+&lt;p&gt;Entre os principais pontos oferecidos pela Caixa estavam:&lt;/p&gt;
+&lt;p&gt;prêmio de R$ 3 mil por empregado;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bancarios-rejeitam-proposta-da-caixa-e-mantem-greve-nacional&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Valter Campanato/Agência Brasil
+rejeitaram a proposta final apresentada pelo banco e
+decidiram manter a greve nacional
+, iniciada na quinta-feira (...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-09-12 10:36:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-12 10:36:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-12 10:36:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-12 10:36:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/KwJaQXMEV5gc3j887iPXCaWNXTY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/0d7a9977.jpg?itok=699aMfng</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Gilmar reforça a Fachin pedido de acesso integral a celular de Vorcaro</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/gilmar-reforca-fachin-pedido-de-acesso-integral-celular-de-vorcaro</link>
+      <pubDate>Sat, 12 Sep 2026 14:45:04 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/gilmar-reforca-fachin-pedido-de-acesso-integral-celular-de-vorcaro#1001</guid>
+      <description>, pediu ao presidente da Corte, Edson Fachin, que adote medidas para garantir aos ministros que participarão do julgamento de terça-feira (15) acesso...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/fPeMYN4fOVJRO4JNclp4FC26J3A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/55343677090_75e4858f0b_o.jpg?itok=S_F0PsGU&quot; alt=&quot;Gilmar reforça a Fachin pedido de acesso integral a celular de Vorcaro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;, pediu ao presidente da Corte, Edson Fachin, que adote medidas para garantir aos ministros que participarão do julgamento de terça-feira (15) acesso à íntegra dos dados extraídos do celular do ex-banqueiro&lt;/p&gt;
+&lt;p&gt;Em ofício encaminhado neste sábado (12), Gilmar reforçou um&lt;/p&gt;
+&lt;p&gt;pedido apresentado pelo ministro Cristiano Zanin&lt;/p&gt;
+&lt;p&gt;e defendeu que, se o relator do caso, André Mendonça, não disponibilizaros arquivos, a própria&lt;/p&gt;
+&lt;p&gt;seja acionada com urgência para fornecer cópias do material aos gabinetes dos ministros.&lt;/p&gt;
+&lt;p&gt;O pedido envolve a mídia extraída do celular de Vorcaro, que permanece sob custódia da Polícia Federal para preservação da cadeia deprovas.&lt;/p&gt;
+&lt;p&gt;O julgamento está relacionado à análise de um relatório da PF elaborado a partir do conteúdo do aparelho de Vorcaro. O documento identificou&lt;/p&gt;
+&lt;p&gt;mensagens trocadas entre o ex-banqueiro e o ministro Alexandre de Moraes&lt;/p&gt;
+&lt;p&gt;A Corte deverá avaliar questões relacionadas à validade do relatório e à possibilidade de investigação envolvendo Moraes no caso Master.&lt;/p&gt;
+&lt;p&gt;Gilmar argumentou que o acesso ao material deve ser assegurado de forma igualitária aos ministros que participarão da análise.&lt;/p&gt;
+&lt;p&gt;Segundo o decano, o fato de uma cópia da mídia estar disponível ao gabinete de Mendonça, sem que o mesmo conteúdo seja distribuídoaos demais integrantes do colegiado, comprometeria a paridade interna do tribunal.&lt;/p&gt;
+&lt;p&gt;“Tal providência é necessária para que seja assegurado a todos os Ministros o conhecimento de todas as informações relevantes para o julgamento.”&lt;/p&gt;
+&lt;p&gt;O ministro afirmou ainda que o compartilhamento integral permitiria que cada integrante do STF formasse sua convicção jurídica com base no conjunto completo das informações, e não em “sínteses parciais” do conteúdo.&lt;/p&gt;
+&lt;p&gt;Mendonça informou a Zanin que o aparelho físico original não está sob sua posse e permanece armazenado pela PF. O relator afirmou que dispõe de uma cópia de segurança em disco rígido criptografado, enviada pela Polícia Federal em março de 2026, que permanece lacrada.&lt;/p&gt;
+&lt;p&gt;O ministro disse ainda que nunca manuseou o material e que a cópia foi preservada como uma espécie de “contraprova” para o caso de perda dos arquivos originais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/gilmar-reforca-fachin-pedido-de-acesso-integral-celular-de-vorcaro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>, pediu ao presidente da Corte, Edson Fachin, que adote medidas para garantir aos ministros que participarão do julgamento de terça-feira (15) acesso...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-09-12 10:13:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-12 10:13:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-12 10:13:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-12 10:13:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/fPeMYN4fOVJRO4JNclp4FC26J3A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/18/55343677090_75e4858f0b_o.jpg?itok=S_F0PsGU</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Devastação na Amazônia pode quebrar maior &quot;máquina de chuva&quot; do mundo</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/devastacao-na-amazonia-pode-quebrar-maior-maquina-de-chuva-do-mundo</link>
+      <pubDate>Sat, 12 Sep 2026 14:45:04 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/devastacao-na-amazonia-pode-quebrar-maior-maquina-de-chuva-do-mundo#1002</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+Uma máquina silenciosa trabalha constantemente para que milhões de pessoas na
+tenham acesso a água, rios e plantaçõ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8_rmxFprUPgE8iv6ER-1Xena91w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/29/dji_20260514133612_0223_d_55279773377_o.jpg?itok=7x5soZU_&quot; alt=&quot;Devastação na Amazônia pode quebrar maior &quot;máquina de chuva&quot; do mundo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Uma máquina silenciosa trabalha constantemente para que milhões de pessoas na&lt;/p&gt;
+&lt;p&gt;tenham acesso a água, rios e plantações. Esse mecanismo se chama&lt;/p&gt;
+&lt;p&gt;e funciona da seguinte maneira: a umidade vinda do oceano produz chuva sobre a floresta; essa água é absorvida do solo pelas árvores, e lançada de volta na atmosfera em forma de vapor; o vento, então, espalha, esse vapor por todo o continente, fazendo chover em diversas regiões.&lt;/p&gt;
+&lt;p&gt;De acordo com a pesquisadora Julia Valentim Tavares essa é a principal infraestrutura hídrica da América do Sul e a maior &quot;máquina de chuva&quot; do planeta. Uma árvore adulta na Amazônia pode liberar para a atmosfera de 200 a 300 litros de água todos os dias.&lt;/p&gt;
+&lt;p&gt;“Imaginem 400 bilhões delas trabalhando juntas todos os dias. Se pudéssemos tornar essa umidade possível, veríamos rios gigantes voando no céu. É o que nós cientistas chamamos de rios voadores.&quot;&lt;/p&gt;
+&lt;p&gt;Marielos Peñaclaros, copresidente do Painel Científico pela Amazônia, entidade que reúne mais de 350 cientistas dedicados a estudar o bioma, destaca que a floresta é a coluna vertebral dos ciclos de água, nutrientes e carbono a níveis local, regional e global.&lt;/p&gt;
+&lt;p&gt;“Em outras palavras, a Amazônia sustenta a vida, não só na região amazônica, mas no planeta como um todo.&quot;&lt;/p&gt;
+&lt;p&gt;As duas pesquisadoras participaram da última edição do TEDxAmazonia, no final de agosto, no Equador.&lt;/p&gt;
+&lt;p&gt;Além de frisar a importância desse sistema hídrico, as cientistas fizeram um alerta: a devastação da Amazônia já está afetando a &quot;máquina de chuva&quot;, e sua &quot;quebra&quot; seria catastrófica para todo o planeta.&lt;/p&gt;
+&lt;p&gt;De acordo com Marielos, atividades como a mineração e o narcotráfico, em conjunto com o desmatamento e as queimadas têm atingido diretamente a conectividade amazônica, fator central para a conservação do bioma.&lt;/p&gt;
+&lt;p&gt;&quot;A Amazônia é um mosaico vivo de ecossistemas terrestres e aquáticos interconectados entre si, que abriga uma grande diversidade de culturas. Essas comunidades têm um relacionamento profundo e interdependente com os ecossistemas através dos seus modos de vida, práticas de manejo e conhecimento.&quot;&lt;/p&gt;
+&lt;p&gt;Segundo ela, os efeitos no clima já são mensuráveis, com evidências de que o desmatamento na Amazônia brasileira resulta em menos chuva em regiões do Brasil e da Bolívia. Em regiões desmatadas, a temperatura tem aumentado, e as épocas de seca estão ficando mais intensas e mais cumpridas.&lt;/p&gt;
+&lt;p&gt;Julia Valentim Tavares também está medindo esses efeitos a partir do interior das árvores da borda sul da Amazônia, o chamado arco do desmatamento, onde o volume de chuvas já diminuiu e a temperatura aumentou na última década. Ela investiga por quanto tempo essas árvores podem resistir às secas, antes que suas &quot;cordas&quot; internas sejam danificadas.&lt;/p&gt;
+&lt;p&gt;&quot;Se o solo tem água, essa corda permanece intacta. Numa estação seca, o solo deixa de ter água e essa corda é tensionada. A atmosfera puxa para cima, o solo puxa para baixo, até a hora que essa corda se rompe. Se isso acontecer muitas vezes, em várias partes da árvore, essa árvore começa a literalmente morrer de sede.&quot;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/devastacao-na-amazonia-pode-quebrar-maior-maquina-de-chuva-do-mundo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+Uma máquina silenciosa trabalha constantemente para que milhões de pessoas na
+tenham acesso a água, rios e plantaçõ...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-09-12 09:20:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-12 09:20:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-12 09:20:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-12 09:20:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/8_rmxFprUPgE8iv6ER-1Xena91w=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/05/29/dji_20260514133612_0223_d_55279773377_o.jpg?itok=7x5soZU_</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Plataformas vão informar canais de denúncia de violência contra mulher</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/plataformas-vao-informar-canais-de-denuncia-de-violencia-contra-mulher</link>
-      <pubDate>Sat, 12 Sep 2026 11:51:22 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 14:45:04 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/plataformas-vao-informar-canais-de-denuncia-de-violencia-contra-mulher#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/plataformas-vao-informar-canais-de-denuncia-de-violencia-contra-mulher#1003</guid>
       <description>© Fernando Frazão/Agência Brasil
 As plataformas digitais terão prazo sugerido de 15 dias para informar ao governo federal como funcionam seus canais ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/TJLUyjjHQ4MM4FeJCXvsvy7v9xk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_mg_6137.jpg?itok=jYOWQDF2&quot; alt=&quot;Plataformas vão informar canais de denúncia de violência contra mulher&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +198,7 @@ As plataformas digitais terão prazo sugerido de 15 dias para informar ao govern
 &lt;p&gt;Segundo o governo, a coleta das informações faz parte dos esforços para estruturar políticas de proteção de direitos no ambiente digital e fortalecer a rede de acolhimento e orientação às mulheres em situação de violência.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/plataformas-vao-informar-canais-de-denuncia-de-violencia-contra-mulher&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 As plataformas digitais terão prazo sugerido de 15 dias para informar ao governo federal como funcionam seus canais ...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-09-11 21:22:00</wp:post_date>
       <wp:post_date_gmt>2026-09-11 21:22:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-11 21:22:00</wp:post_modified>
@@ -73,9 +224,9 @@ As plataformas digitais terão prazo sugerido de 15 dias para informar ao govern
     <item>
       <title>Veja como foi a sexta-feira (11) dos candidatos a presidente</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-sexta-feira-11-dos-candidatos-presidente</link>
-      <pubDate>Sat, 12 Sep 2026 11:51:22 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 14:45:04 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-sexta-feira-11-dos-candidatos-presidente#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-sexta-feira-11-dos-candidatos-presidente#1004</guid>
       <description>A agenda dos candidatos à Presidência da República nesta sexta-feira (11)incluiu sabatinas e entrevistas em veículos de comunicação, gravações para p...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL&quot; alt=&quot;Veja como foi a sexta-feira (11) dos candidatos a presidente&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A agenda dos candidatos à Presidência da República nesta sexta-feira (11)incluiu sabatinas e entrevistas em veículos de comunicação, gravações para programas de televisão e participação em atos de campanha.&lt;/p&gt;
@@ -94,7 +245,7 @@ As plataformas digitais terão prazo sugerido de 15 dias para informar ao govern
 &lt;p&gt;A candidata Samara Martins não teve agenda pública de campanha.&lt;/p&gt;
 &lt;p&gt;O candidato Wilson Grassi teve reunião com equipe de campanha eapresentou a palestra Gestão Sem Manual, na capital paulista.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-sexta-feira-11-dos-candidatos-presidente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A agenda dos candidatos à Presidência da República nesta sexta-feira (11)incluiu sabatinas e entrevistas em veículos de comunicação, gravações para p...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-09-11 21:17:00</wp:post_date>
       <wp:post_date_gmt>2026-09-11 21:17:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-11 21:17:00</wp:post_modified>
@@ -120,9 +271,9 @@ As plataformas digitais terão prazo sugerido de 15 dias para informar ao govern
     <item>
       <title>Mendonça levanta sigilo de quase 40 processos no STF</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-levanta-sigilo-de-quase-40-processos-no-stf</link>
-      <pubDate>Sat, 12 Sep 2026 11:51:22 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 14:45:04 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-levanta-sigilo-de-quase-40-processos-no-stf#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-levanta-sigilo-de-quase-40-processos-no-stf#1005</guid>
       <description>O ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (11) o levantamento do sigilo de 39 processos que tramitam...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/h8i1e_Gacm_KHduOCVtTWhCM1sc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/a81t7365.jpg?itok=_fCB2df5&quot; alt=&quot;Mendonça levanta sigilo de quase 40 processos no STF&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (11) o levantamento do sigilo de 39 processos que tramitam na Corte.&lt;/p&gt;
@@ -141,7 +292,7 @@ As plataformas digitais terão prazo sugerido de 15 dias para informar ao govern
 &lt;p&gt;Mais cedo, Mendonça havia afirmado ao presidente do STF, Edson Fachin,&lt;/p&gt;
 &lt;p&gt;ter disponibilizado integralmente&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-levanta-sigilo-de-quase-40-processos-no-stf&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (11) o levantamento do sigilo de 39 processos que tramitam...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-09-11 21:13:00</wp:post_date>
       <wp:post_date_gmt>2026-09-11 21:13:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-11 21:13:00</wp:post_modified>
@@ -167,9 +318,9 @@ As plataformas digitais terão prazo sugerido de 15 dias para informar ao govern
     <item>
       <title>STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-gilmar-mendes-sugere-adiar-sessao-sobre-conduta-de-moraes</link>
-      <pubDate>Sat, 12 Sep 2026 11:51:22 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 14:45:04 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-gilmar-mendes-sugere-adiar-sessao-sobre-conduta-de-moraes#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-gilmar-mendes-sugere-adiar-sessao-sobre-conduta-de-moraes#1006</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 O ministro do Supremo Tribunal Federal (STF) Gilmar Mendes enviou ofício ao presidente da corte, Edson Fac...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Yiyxz86bUqaXMsFi8anPAzI11SY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/11042023-pzzb9263.jpg?itok=IlM9khMa&quot; alt=&quot;STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -190,7 +341,7 @@ O ministro do Supremo Tribunal Federal (STF) Gilmar Mendes enviou ofício ao pre
 &lt;p&gt;&quot;Os autos se formaram a partir de informação de polícia judiciária que o próprio relator [André Mendonça] requisitou à Polícia Federal e a própria autuação registra tratar-se de feito instaurado 'de ofício', sem representação nos autos. Não há representação da autoridade policial e tampouco a Procuradoria-Geral da República, ao se manifestar, requereu ao Plenário qualquer providência, limitando-se a arguir a nulidade do relatório confeccionado a mando do relator e afirmando que lhe caberia, então, extinguir a petição&quot;, observou o ministro.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-gilmar-mendes-sugere-adiar-sessao-sobre-conduta-de-moraes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 O ministro do Supremo Tribunal Federal (STF) Gilmar Mendes enviou ofício ao presidente da corte, Edson Fac...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-09-11 20:29:00</wp:post_date>
       <wp:post_date_gmt>2026-09-11 20:29:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-11 20:29:00</wp:post_modified>
@@ -216,9 +367,9 @@ O ministro do Supremo Tribunal Federal (STF) Gilmar Mendes enviou ofício ao pre
     <item>
       <title>Andrei Rodrigues nega que PF tenha monitorado ministro André Mendonça</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/andrei-rodrigues-nega-que-pf-monitorou-ministro-andre-mendonca</link>
-      <pubDate>Sat, 12 Sep 2026 11:51:22 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 14:45:04 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/andrei-rodrigues-nega-que-pf-monitorou-ministro-andre-mendonca#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/andrei-rodrigues-nega-que-pf-monitorou-ministro-andre-mendonca#1007</guid>
       <description>O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, afirmou nesta sexta-feira (11) em sua manifestação ao ministro Edson Fachin, presidente do...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FCvHAiJ6_ftm_dQXV6fwPBTrYv8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/07/09/lula9437.jpg?itok=CtwF_VsE&quot; alt=&quot;Andrei Rodrigues nega que PF tenha monitorado ministro André Mendonça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, afirmou nesta sexta-feira (11) em sua manifestação ao ministro Edson Fachin, presidente do Supremo Tribunal Federal (STF), que&lt;/p&gt;
@@ -237,7 +388,7 @@ O ministro do Supremo Tribunal Federal (STF) Gilmar Mendes enviou ofício ao pre
 &lt;p&gt;Moraes apontou a presença de indícios de prática de improbidade administrativa, abuso de autoridade e crime de responsabilidade de Mendonça durante a relatoria das investigações sobre os descontos ilegais de aposentados do INSS e as fraudes do Banco Master.&lt;/p&gt;
 &lt;p&gt;Em sua manifestação de defesa, Andrei Rodrigues negou que os relatórios seriam apócrifos, como acusou o ministro André Mendonça, em sua decisão de afastá-lo do cargo.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/andrei-rodrigues-nega-que-pf-monitorou-ministro-andre-mendonca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, afirmou nesta sexta-feira (11) em sua manifestação ao ministro Edson Fachin, presidente do...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-09-11 19:51:00</wp:post_date>
       <wp:post_date_gmt>2026-09-11 19:51:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-11 19:51:00</wp:post_modified>
@@ -263,9 +414,9 @@ O ministro do Supremo Tribunal Federal (STF) Gilmar Mendes enviou ofício ao pre
     <item>
       <title>Zanin reitera pedido de acesso a dados de celular de Vorcaro</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-reitera-pedido-de-acesso-dados-de-celular-de-vorcaro</link>
-      <pubDate>Sat, 12 Sep 2026 11:51:22 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 14:45:04 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-reitera-pedido-de-acesso-dados-de-celular-de-vorcaro#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-reitera-pedido-de-acesso-dados-de-celular-de-vorcaro#1008</guid>
       <description>O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF),
 reiterou formalmente a solicitação
 para que seja disponibilizada aos ministros da Cort...</description>
@@ -277,16 +428,16 @@ para que seja disponibilizada aos ministros da Cort...</description>
 &lt;p&gt;Em seu documento, Zanin argumenta que a mídia contendo os dados está sob posse do gabinete do relator e deve ser compartilhada para garantir a igualdade de análise entre os membros do colegiado. O ministro pontua que o fato de o material ter sido entregue lacrado pela Polícia Federal não afasta a necessidade de compartilhamento, uma vez que se trata de um cópia e que a preservação da cadeia de custódia deve ser feita em relação ao material original.&lt;/p&gt;
 &lt;p&gt;Zanin ressalta que a regra em julgamentos colegiados, inclusive no STF, é que todos os magistrados tenham acesso à integralidade dos elementos colocados à disposição do relator, independentemente da análise do próprio relator.&lt;/p&gt;
 &lt;p&gt;Além disso, o ministro afirma queos advogados de defesa do investigado Daniel Vorcaro já receberam cópia do material direto da Polícia Federal e possuem acesso integral ao material. &quot;A não disponibilização aos membros desta Corte configuraria evidente incongruência e geraria severas dificuldades no julgamento&quot;, destaca Zanin no ofício.&lt;/p&gt;
+&lt;p&gt;Reconhecimento da culpa do Estado na morte de Marighella faz 30 anos&lt;/p&gt;
+&lt;p&gt;Bancários rejeitam proposta da Caixa e mantêm greve nacional&lt;/p&gt;
+&lt;p&gt;Gilmar reforça a Fachin pedido de acesso integral a celular de Vorcaro&lt;/p&gt;
+&lt;p&gt;Devastação na Amazônia pode quebrar maior &quot;máquina de chuva&quot; do mundo&lt;/p&gt;
 &lt;p&gt;Plataformas vão informar canais de denúncia de violência contra mulher&lt;/p&gt;
-&lt;p&gt;Veja como foi a sexta-feira (11) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Mendonça levanta sigilo de quase 40 processos no STF&lt;/p&gt;
-&lt;p&gt;STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes&lt;/p&gt;
-&lt;p&gt;Andrei Rodrigues nega que PF tenha monitorado ministro André Mendonça&lt;/p&gt;
-&lt;p&gt;Zanin reitera pedido de acesso a dados de celular de Vorcaro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-reitera-pedido-de-acesso-dados-de-celular-de-vorcaro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Veja como foi a sexta-feira (11) dos candidatos a presidente&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-reitera-pedido-de-acesso-dados-de-celular-de-vorcaro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF),
 reiterou formalmente a solicitação
 para que seja disponibilizada aos ministros da Cort...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-09-11 19:46:00</wp:post_date>
       <wp:post_date_gmt>2026-09-11 19:46:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-11 19:46:00</wp:post_modified>
@@ -312,9 +463,9 @@ para que seja disponibilizada aos ministros da Cort...</excerpt:encoded>
     <item>
       <title>TSE rejeita por unanimidade o registro de candidatura de Pablo Marçal</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/tse-rejeita-por-unanimidade-o-registro-de-candidatura-de-pablo-marcal</link>
-      <pubDate>Sat, 12 Sep 2026 11:51:22 +0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 14:45:04 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/tse-rejeita-por-unanimidade-o-registro-de-candidatura-de-pablo-marcal#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/tse-rejeita-por-unanimidade-o-registro-de-candidatura-de-pablo-marcal#1009</guid>
       <description>O Tribunal Superior Eleitoral (TSE) decidiu por unanimidade, nesta sexta-feira (11), rejeitar o registro da candidatura de Pablo Marçal à presidência...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qwqM45VflExhAnEuostP3BDBc8U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/17/pablo_macal01.jpg?itok=SECFX4hg&quot; alt=&quot;TSE rejeita por unanimidade o registro de candidatura de Pablo Marçal&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Tribunal Superior Eleitoral (TSE) decidiu por unanimidade, nesta sexta-feira (11), rejeitar o registro da candidatura de Pablo Marçal à presidência da República.&lt;/p&gt;
@@ -324,14 +475,14 @@ para que seja disponibilizada aos ministros da Cort...</excerpt:encoded>
 &lt;p&gt;pela Justiça Eleitoral de São Paulo por ofertar gravações de vídeos para vereadores e prefeitos em troca de doações em dinheiro.&lt;/p&gt;
 &lt;p&gt;O episódio ocorreu nas eleições municipais de 2024.&lt;/p&gt;
 &lt;p&gt;Além disso, o Ministério Público Federal, responsável por pedir ao TSE a negativa da candidatura, disse que o Marçal não estava filiado ao PRTB em abril deste ano, quando terminou o prazo da janela partidária para troca de partido. Ele estava filiado ao União Brasil.&lt;/p&gt;
+&lt;p&gt;Reconhecimento da culpa do Estado na morte de Marighella faz 30 anos&lt;/p&gt;
+&lt;p&gt;Bancários rejeitam proposta da Caixa e mantêm greve nacional&lt;/p&gt;
+&lt;p&gt;Gilmar reforça a Fachin pedido de acesso integral a celular de Vorcaro&lt;/p&gt;
+&lt;p&gt;Devastação na Amazônia pode quebrar maior &quot;máquina de chuva&quot; do mundo&lt;/p&gt;
 &lt;p&gt;Plataformas vão informar canais de denúncia de violência contra mulher&lt;/p&gt;
-&lt;p&gt;Veja como foi a sexta-feira (11) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Mendonça levanta sigilo de quase 40 processos no STF&lt;/p&gt;
-&lt;p&gt;STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes&lt;/p&gt;
-&lt;p&gt;Andrei Rodrigues nega que PF tenha monitorado ministro André Mendonça&lt;/p&gt;
-&lt;p&gt;Zanin reitera pedido de acesso a dados de celular de Vorcaro&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/tse-rejeita-por-unanimidade-o-registro-de-candidatura-de-pablo-marcal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Veja como foi a sexta-feira (11) dos candidatos a presidente&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/tse-rejeita-por-unanimidade-o-registro-de-candidatura-de-pablo-marcal&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Tribunal Superior Eleitoral (TSE) decidiu por unanimidade, nesta sexta-feira (11), rejeitar o registro da candidatura de Pablo Marçal à presidência...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-09-11 19:39:00</wp:post_date>
       <wp:post_date_gmt>2026-09-11 19:39:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-11 19:39:00</wp:post_modified>
@@ -352,149 +503,6 @@ para que seja disponibilizada aos ministros da Cort...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/qwqM45VflExhAnEuostP3BDBc8U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/17/pablo_macal01.jpg?itok=SECFX4hg</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Padre impede Lavagem da Madeleine, celebração afro-brasileira em Paris</title>
-      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/padre-impede-lavagem-da-madeleine-celebracao-afro-brasileira-em-paris</link>
-      <pubDate>Sat, 12 Sep 2026 11:51:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/padre-impede-lavagem-da-madeleine-celebracao-afro-brasileira-em-paris#1007</guid>
-      <description>© Ulysses Venturin/Lavagem de Madeleine
-Marcado para domingo (13), a tradicional Lavagem de Madeleine, evento afro-brasileiro que reúne milhares de p...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vJV1uRrHeVIGyt3vkln7eheucfY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/03/lavage_de_madalene-201.jpg?itok=HAu5-vjY&quot; alt=&quot;Padre impede Lavagem da Madeleine, celebração afro-brasileira em Paris&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Ulysses Venturin/Lavagem de Madeleine&lt;/p&gt;
-&lt;p&gt;Marcado para domingo (13), a tradicional Lavagem de Madeleine, evento afro-brasileiro que reúne milhares de pessoas, em Paris, na sua 25ª edição, não obteve autorização da Igreja para ser realizado.&lt;/p&gt;
-&lt;p&gt;A lavagem das escadarias da igreja de mesmo nome, no entanto, foi transferida para aérea pública em frente onde são esperadas 60 mil pessoas.&lt;/p&gt;
-&lt;p&gt;Além dos rituais religiosos, a celebração contará com apresentações de artistas e terá a cantora Mariene de Castro&lt;/p&gt;
-&lt;p&gt;De acordo com os organizadores, a mudança de local ocorreu após o pároco de La Madeline, o Monsenhor Patrick Chauvet, informar que não permitiria a lavagem da escadaria em 2026, como ocorreu nos últimos anos.&lt;/p&gt;
-&lt;p&gt;Em nota, a 25ª edição da Lavagem lamenta a decisão e informa que permanece aberta ao diálogo.&lt;/p&gt;
-&lt;p&gt;A lavagem é uma celebração ecumênica, que reúne referências do catolicismo e das religiões de matriz africana. Na última edição, em 2025, celebrou a cantora Preta Gil. Em anos anteriores, contou com artistas como Gilberto Gil, Caetano Veloso, Daniela Mercury, Margareth Menezes, além de Carlinhos Brown e Olodum.&lt;/p&gt;
-&lt;p&gt;Procurada pela reportagem, a Arquidiocese de Paris não explicou a negativa para à festa afro-brasileira. No site da instituição, há um chamado para os católicos demonstrarem &quot;amizade&quot; à comunidade judaica, que celebra nesta semana o Ano Novo (Rosh Hashaná) e o Dia do Perdão (Yom Kippur). O espaço permanece aberto para a manifestação da igreja e do pároco Patrick Chauvet.&lt;/p&gt;
-&lt;p&gt;A Lavagem da Madeleine é inspirada na tradicional Lavagem da Igreja do Bonfim, em Salvador, na Bahia.&lt;/p&gt;
-&lt;p&gt;Em Paris, é realizada há mais de duas décadas e, desde 2022, é reconhecida pelo Ministério da Cultura francês como patrimônio imaterial, parte do calendário cultural de Paris. A reportagem também procurou os órgãos oficiais daquele país, no Brasil, para comentar à negativa da igreja, mas não obteve retorno, por causa do fuso horário.&lt;/p&gt;
-&lt;p&gt;A festa integra ainda a Rota dos Escravizados da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco), parte de um roteiro cultural internacional que conecta locais relacionados à história da escravidão e preservar a memória do maior crime contra a humanidade até agora.&lt;/p&gt;
-&lt;p&gt;Apesar da proibição, a 25ª edição do evento, espera uma centena de artistas em uma festa que se estenderá pelas ruas de Paris, após o ato religioso em frente à igreja.&lt;/p&gt;
-&lt;p&gt;O mestre de cerimônias, o multiartista Robertinho Chaves, um dos organizadores, comandará a atração ao lado de Mariene de Castro, do alto de um trio elétrico. Segundo ele, a festa divulga a cultura brasileira na Europa e tem compromisso com a tolerância. Em nota, a organização conclama apoio:&lt;/p&gt;
-&lt;p&gt;&quot;Convocamos artistas, instituições culturais, líderes religiosos, movimentos sociais, brasileiros, franceses, imigrantes e todas as pessoas comprometidas com a liberdade religiosa, a diversidade e direitos a apoiarem a 25ª edição da Lavagem e a se unirem a esta demonstração de resistência cultural&quot;, afirma, em nota no seu site.&lt;/p&gt;
-&lt;p&gt;No trio elétrico, também são esperados o cantor Jau, a artista franco-brasileira Gildaa e Lorena Pires, residente da Academia de Ópera Nacional de Paris, que interpretará a oração &quot;Ave Maria&quot;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/padre-impede-lavagem-da-madeleine-celebracao-afro-brasileira-em-paris&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Ulysses Venturin/Lavagem de Madeleine
-Marcado para domingo (13), a tradicional Lavagem de Madeleine, evento afro-brasileiro que reúne milhares de p...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-09-11 19:08:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-11 19:08:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-11 19:08:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-11 19:08:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/vJV1uRrHeVIGyt3vkln7eheucfY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/03/lavage_de_madalene-201.jpg?itok=HAu5-vjY</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Oftalmologistas alertam para uso de telas e a miopia em crianças</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/oftalmologistas-alertam-para-uso-de-telas-e-miopia-em-criancas</link>
-      <pubDate>Sat, 12 Sep 2026 11:51:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/oftalmologistas-alertam-para-uso-de-telas-e-miopia-em-criancas#1008</guid>
-      <description>No intuito de alertar famílias e profissionais de saúde sobre o avanço da miopia entre crianças e adolescentes, associando o problema ao uso excessiv...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/951dzghG1Nz_j7DX67G-ScyTPG4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/11/7db7863aef2247fba6442947980e2d6e-1.jpg?itok=rvEeN2LA&quot; alt=&quot;Oftalmologistas alertam para uso de telas e a miopia em crianças&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;No intuito de alertar famílias e profissionais de saúde sobre o avanço da miopia entre crianças e adolescentes, associando o problema ao uso excessivo de telas e à baixa exposição à luz natural, a Sociedade Brasileira de Oftalmologia Pediátrica (SBOP) e o Conselho Brasileiro de Oftalmologia (CBO) lançaram nesta sexta-feira (11) a&lt;/p&gt;
-&lt;p&gt;cartilha Mais Tempo ao Ar Livre, Mais Saúde para os Olhos&lt;/p&gt;
-&lt;p&gt;O material, divulgado durante o 70º Congresso Brasileiro de Oftalmologia (CBO 2026), que acontece até sábado (12), em Salvador, tem como&lt;/p&gt;
-&lt;p&gt;público-alvo pacientes, familiares, profissionais e organizações que atuam no campo da saúde e da educação e será distribuído para secretarias de Saúde e Educação de todo o país&lt;/p&gt;
-&lt;p&gt;A CBO esclarece que a proposta é oferecer à população um guia composto por medidas simples, de fácil incorporação à rotina e que podem ajudar no enfrentamento da miopia.&lt;/p&gt;
-&lt;p&gt;Com foco em crianças e adolescentes, o documento traz orientações a serem adotadas por famílias e escolas durante a rotina.&lt;/p&gt;
-&lt;p&gt;“Não há necessidade de investimentos em ferramentas e remédios. Basta usar a criatividade e ficar atento às possibilidades apresentadas, que vão desde uma simples caminhada até a prática de esportes de forma estruturada”, explica o CBO.&lt;/p&gt;
-&lt;p&gt;A recomendação central é que crianças e adolescentes passem pelo menos 2 horas por dia ao ar livre, incluindo atividades como brincadeiras, caminhadas, esportes e contato com a natureza.&lt;/p&gt;
-&lt;p&gt;De acordo com o conselho, a exposição à luz natural funciona como um fator protetor contra a progressão da miopia.&lt;/p&gt;
-&lt;p&gt;“Passar tempo ao ar livre ajuda a reduzir as horas dedicadas a atividades em espaço fechado, com os olhos fixos, a curta distância, em uma superfície, como as telas de computador ou celular”, defende o CBO.&lt;/p&gt;
-&lt;p&gt;A publicação recomenda limitar o tempo de tela para cada faixa etária. A métrica considerada ideal pelos especialistas é a seguinte:&lt;/p&gt;
-&lt;p&gt;nenhum tempo de tela para menores de 2 anos;&lt;/p&gt;
-&lt;p&gt;até uma hora por dia para crianças entre 2 e 5 anos;&lt;/p&gt;
-&lt;p&gt;até duas horas por dia para crianças entre 5 e 10 anos;&lt;/p&gt;
-&lt;p&gt;até três horas por dia para crianças e adolescentes de 10 a 18 anos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/oftalmologistas-alertam-para-uso-de-telas-e-miopia-em-criancas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>No intuito de alertar famílias e profissionais de saúde sobre o avanço da miopia entre crianças e adolescentes, associando o problema ao uso excessiv...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-09-11 19:05:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-11 19:05:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-11 19:05:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-11 19:05:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/951dzghG1Nz_j7DX67G-ScyTPG4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/11/7db7863aef2247fba6442947980e2d6e-1.jpg?itok=rvEeN2LA</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mendonça diz ter divulgado todo conteúdo disponível no caso Master</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-diz-ter-divulgado-todo-conteudo-disponivel-no-caso-master</link>
-      <pubDate>Sat, 12 Sep 2026 11:51:22 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-diz-ter-divulgado-todo-conteudo-disponivel-no-caso-master#1009</guid>
-      <description>O ministro André Mendonça, do Supremo Tribunal Federal (STF), afirmou nesta sexta-feira (11)que disponibilizou integralmente osprocedimentos “contido...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/V12EIX644ihCGO52J51ievJuk_I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/52441529977_f3565b5d7d_o.jpg?itok=rlgK9Uj5&quot; alt=&quot;Mendonça diz ter divulgado todo conteúdo disponível no caso Master&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O ministro André Mendonça, do Supremo Tribunal Federal (STF), afirmou nesta sexta-feira (11)que disponibilizou integralmente osprocedimentos “contidos” ou “relacionados” aojulgamento do caso Master pautado para a próxima terça-feira (15).&lt;/p&gt;
-&lt;p&gt;Em despacho, Mendonçafoca em responder ao&lt;/p&gt;
-&lt;p&gt;ofício do ministro Alexandre de Moraes que alegou &quot;seletividade&quot;&lt;/p&gt;
-&lt;p&gt;Segundo Mendonça, a manutenção de processos em sigilo ocorreu &quot;a partir de uma análise prudente e responsável, considerando a existência de investigações em andamento e a necessidade de zelar pela preservação de dados pessoais das pessoas investigadas.&quot;&lt;/p&gt;
-&lt;p&gt;Ele exemplificou como informações a serem preservadas os dados bancários e fiscais deinúmeras pessoas físicas e jurídicas. Por isso, segundo ele, &quot;jamais se poderia publicizar a 'totalidade dos procedimentos contidos ou relacionados à PET 15.556'&quot;.&lt;/p&gt;
-&lt;p&gt;Ainda segundo o ministro, a Petição 15.556 corresponde apenas à representação policial que deflagroua 3ª fase da Operação Compliance Zero, não abrangendo a totalidade de procedimentos relativos à operação.&lt;/p&gt;
-&lt;p&gt;Mais cedo, o ministroEdson Fachin, atendendo a pedido da Procuradoria-Geral da República,&lt;/p&gt;
-&lt;p&gt;deu prazo de 24 horas para que Mendonça retirasseo sigilo&lt;/p&gt;
-&lt;p&gt;de todos os documentos relacionados à Operação Compliance Zero, que apura corrupção de agentes públicos e fraudes financeiras bilionárias ligadas ao antigo Banco Master.&lt;/p&gt;
-&lt;p&gt;Para a PGR, a divulgação de apenas parte do material passa uma &quot;ideia equivocada” de que a transparência do caso pode estar comprometida.&lt;/p&gt;
-&lt;p&gt;Plataformas vão informar canais de denúncia de violência contra mulher&lt;/p&gt;
-&lt;p&gt;Veja como foi a sexta-feira (11) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Mendonça levanta sigilo de quase 40 processos no STF&lt;/p&gt;
-&lt;p&gt;STF: Gilmar Mendes sugere adiar sessão sobre conduta de Moraes&lt;/p&gt;
-&lt;p&gt;Andrei Rodrigues nega que PF tenha monitorado ministro André Mendonça&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-diz-ter-divulgado-todo-conteudo-disponivel-no-caso-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O ministro André Mendonça, do Supremo Tribunal Federal (STF), afirmou nesta sexta-feira (11)que disponibilizou integralmente osprocedimentos “contido...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-09-11 18:58:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-11 18:58:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-11 18:58:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-11 18:58:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/V12EIX644ihCGO52J51ievJuk_I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/52441529977_f3565b5d7d_o.jpg?itok=rlgK9Uj5</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
