@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Wed, 16 Sep 2026 05:33:47 +0000</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:35:19 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,59 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Justiça do Rio condena homem a 42 de prisão por feminicídio</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-do-rio-condena-homem-42-de-prisao-por-feminicidio</link>
+      <pubDate>Wed, 16 Sep 2026 10:35:19 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-do-rio-condena-homem-42-de-prisao-por-feminicidio#1000</guid>
+      <description>Conselho de Sentença do 3º Tribunal do Júri de Niterói
+condenou, nesta terça-feira (15), Uilian Anderson Silva a 42 anos de prisão, em regime fechado...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/aB2MAe1eqDoqct2ayE2EiKwUy7M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/11/tj-rj-6-1.jpg?itok=ZbPL3T9e&quot; alt=&quot;Justiça do Rio condena homem a 42 de prisão por feminicídio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Conselho de Sentença do 3º Tribunal do Júri de Niterói&lt;/p&gt;
+&lt;p&gt;condenou, nesta terça-feira (15), Uilian Anderson Silva a 42 anos de prisão, em regime fechado, pelo feminicídio de sua companheira, Elizabeth de Lima Mendonça.&lt;/p&gt;
+&lt;p&gt;O crime ocorreu em janeiro de 2025, dentro da casa do casal, no bairro de Icaraí, em Niterói, região metropolitana do Rio. Os jurados concluíram que Elizabeth foi morta por razões&lt;/p&gt;
+&lt;p&gt;relacionadas à sua condição de mulher&lt;/p&gt;
+&lt;p&gt;De acordo com a sentença, a vítima, de 46 anos, foi atacada ao manifestar a intenção de se separar após quase 20 anos de convivência. A Justiça considerou que o réu atacou a vítima com golpes de faca no pescoço e a deixou agonizando, sem prestar socorro.&lt;/p&gt;
+&lt;p&gt;O laudo apontou lesões graves, incluindo ferimentos compatíveis com degolamento.&lt;/p&gt;
+&lt;p&gt;Os jurados também reconheceram o emprego de meio cruel e de recurso que dificultou a defesa da vítima. Na sentença, a juíza Nearis dos Santos Carvalho Arce, que presidiu a sessão, destacou a brutalidade do crime e considerou que o ataque ocorreu quando a vítima estava desarmada e sem possibilidade de receber ajuda.&lt;/p&gt;
+&lt;p&gt;Além da pena privativa de liberdade, a sentença condenou o réu ao pagamento de R$ 10 mil de indenização por danos morais à família da vítima.&lt;/p&gt;
+&lt;p&gt;Rio recupera R$ 153 milhões de esquemas de corrupção&lt;/p&gt;
+&lt;p&gt;Justiça do Rio condena homem a 42 de prisão por feminicídio&lt;/p&gt;
+&lt;p&gt;Especialistas defendem maior regulação de plataformas digitais&lt;/p&gt;
+&lt;p&gt;Brasil vence Chile na estreia pelo Sul-Americano de vôlei masculino&lt;/p&gt;
+&lt;p&gt;Mega-Sena acumula para R$ 102 milhões; confira os números sorteados&lt;/p&gt;
+&lt;p&gt;Maioria dos projetos no Congresso ameaçam indígenas, diz pesquisa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/justica-do-rio-condena-homem-42-de-prisao-por-feminicidio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Conselho de Sentença do 3º Tribunal do Júri de Niterói
+condenou, nesta terça-feira (15), Uilian Anderson Silva a 42 anos de prisão, em regime fechado...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-09-16 06:54:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-16 06:54:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-16 06:54:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-16 06:54:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/aB2MAe1eqDoqct2ayE2EiKwUy7M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/04/11/tj-rj-6-1.jpg?itok=ZbPL3T9e</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Especialistas defendem maior regulação de plataformas digitais</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/especialistas-defendem-maior-regulacao-de-plataformas-digitais</link>
-      <pubDate>Wed, 16 Sep 2026 05:33:47 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 10:35:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/especialistas-defendem-maior-regulacao-de-plataformas-digitais#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/especialistas-defendem-maior-regulacao-de-plataformas-digitais#1001</guid>
       <description>O Brasil deve ampliar a regulação de plataformas digitais e a fiscalização do compartilhamento de conteúdos feitos com Inteligência Artificial. Foi o...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yblHF9a2PdkmcMv5uKAKdRX45FA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/dedo-da-mao-do-robo-graficos-de-tecnologia-de-fundo-de-ia.jpg?itok=lp7F8uJ6&quot; alt=&quot;Especialistas defendem maior regulação de plataformas digitais&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Brasil deve ampliar a regulação de plataformas digitais e a fiscalização do compartilhamento de conteúdos feitos com Inteligência Artificial. Foi o que defenderam as pesquisadoras Fernanda Rodrigues, diretora executiva do Instituto de Referência em Internet e Sociedade (IRIS) e Larissa Santiago, cofundadora da plataforma de comunicação independente Blogueiras Negras.&lt;/p&gt;
@@ -35,9 +83,15 @@
 &lt;p&gt;Sobre a Inteligência Artificial, as pesquisadoras afirmaram que o desenvolvimento dessa tecnologia não tem sido pautado pelas demandas da sociedade e que as grandes empresas de tecnologia monopolizam o debate sobre o assunto.&lt;/p&gt;
 &lt;p&gt;Larissa Santiago afirmou que, em comparação com outros países, o Brasil tem um bom sistema regulatório de IA. Mas que é preciso aumentar a fiscalização e, principalmente, a educação midiática.&lt;/p&gt;
 &lt;p&gt;“As pessoas não conseguem entender a diferença entre uma pessoa real e uma pessoa criada pela IA. É preciso educar a população”, disse.&lt;/p&gt;
-&lt;p&gt;Ao citar o processo que levou ao impeachment da então presidenta Dilma Rousseff, Larissa Santiago mencionou a circulação de imagens e notícias distorcidas. O processo de impeachment ocorreu em 2016, antes da popularização das ferramentas atuais de inteligência artificial generativa.Larissa afirmou que a tecnologia de IA potencializa a violência política de gênero e raça com o uso de desinformação e deepfakes. “A gente viu isso com a presidenta Dilma. As imagens distorcidas, as notícias distorcidas, até chegar ao golpe”, disse.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/especialistas-defendem-maior-regulacao-de-plataformas-digitais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Ao citar o processo que levou ao impeachment da então presidenta Dilma Rousseff, Larissa Santiago mencionou a circulação de imagens e notícias distorcidas. O processo de impeachment ocorreu em 2016, antes da popularização das ferramentas atuais de inteligência artificial generativa.Larissa afirmou que a tecnologia de IA potencializa a violência política de gênero e raça com o uso de desinformação e deepfakes. “A gente viu isso com a presidenta Dilma. As imagens distorcidas, as notícias distorcidas, até chegar ao golpe”, disse.&lt;/p&gt;
+&lt;p&gt;Rio recupera R$ 153 milhões de esquemas de corrupção&lt;/p&gt;
+&lt;p&gt;Justiça do Rio condena homem a 42 de prisão por feminicídio&lt;/p&gt;
+&lt;p&gt;Especialistas defendem maior regulação de plataformas digitais&lt;/p&gt;
+&lt;p&gt;Brasil vence Chile na estreia pelo Sul-Americano de vôlei masculino&lt;/p&gt;
+&lt;p&gt;Mega-Sena acumula para R$ 102 milhões; confira os números sorteados&lt;/p&gt;
+&lt;p&gt;Maioria dos projetos no Congresso ameaçam indígenas, diz pesquisa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/especialistas-defendem-maior-regulacao-de-plataformas-digitais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Brasil deve ampliar a regulação de plataformas digitais e a fiscalização do compartilhamento de conteúdos feitos com Inteligência Artificial. Foi o...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1001</wp:post_id>
       <wp:post_date>2026-09-15 22:01:00</wp:post_date>
       <wp:post_date_gmt>2026-09-15 22:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-15 22:01:00</wp:post_modified>
@@ -63,9 +117,9 @@
     <item>
       <title>Brasil vence Chile na estreia pelo Sul-Americano de vôlei masculino</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-vence-chile-na-estreia-pelo-sul-americano-de-volei-masculino</link>
-      <pubDate>Wed, 16 Sep 2026 05:33:47 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 10:35:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-vence-chile-na-estreia-pelo-sul-americano-de-volei-masculino#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-vence-chile-na-estreia-pelo-sul-americano-de-volei-masculino#1002</guid>
       <description>A seleção masculina de vôlei estreou com triunfo no Campeonato Sul-Americano da modalidade, que classifica o campeão à Olimpíada de Los Angeles (Esta...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Pxh7nYVaMHq-Gec5hNzney3_0Ps=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/15/volei_masculino.jpg?itok=HvFn_tTY&quot; alt=&quot;Brasil vence Chile na estreia pelo Sul-Americano de vôlei masculino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A seleção masculina de vôlei estreou com triunfo no Campeonato Sul-Americano da modalidade, que classifica o campeão à Olimpíada de Los Angeles (Estados Unidos).&lt;/p&gt;
@@ -77,9 +131,14 @@
 &lt;p&gt;O ponteiro Adriano, com 13 pontos, comandou a vitória da seleção comandada por Bernardinho, que ainda teve o oposto Bryan, maior pontuador da última edição da Superliga Masculina, anotando 11 pontos. O central Judson, por sua vez, fez nove pontos, sendo três deles de bloqueio.&lt;/p&gt;
 &lt;p&gt;O Brasil volta a quadra nesta quarta-feira (16), novamente às 20h (horário de Brasília), para encarar a Bolívia.&lt;/p&gt;
 &lt;p&gt;No mesmo horário, mas na quinta-feira (17), o adversário será a Colômbia. No sábado (19), às 11h, os brasileiros enfrentam a Venezuela.&lt;/p&gt;
-&lt;p&gt;A participação chega ao fim no domingo (20), às 10h, diante da Argentina.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-vence-chile-na-estreia-pelo-sul-americano-de-volei-masculino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;A participação chega ao fim no domingo (20), às 10h, diante da Argentina.&lt;/p&gt;
+&lt;p&gt;Justiça do Rio condena homem a 42 de prisão por feminicídio&lt;/p&gt;
+&lt;p&gt;Especialistas defendem maior regulação de plataformas digitais&lt;/p&gt;
+&lt;p&gt;Brasil vence Chile na estreia pelo Sul-Americano de vôlei masculino&lt;/p&gt;
+&lt;p&gt;Mega-Sena acumula para R$ 102 milhões; confira os números sorteados&lt;/p&gt;
+&lt;p&gt;Maioria dos projetos no Congresso ameaçam indígenas, diz pesquisa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-vence-chile-na-estreia-pelo-sul-americano-de-volei-masculino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A seleção masculina de vôlei estreou com triunfo no Campeonato Sul-Americano da modalidade, que classifica o campeão à Olimpíada de Los Angeles (Esta...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-09-15 21:56:00</wp:post_date>
       <wp:post_date_gmt>2026-09-15 21:56:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-15 21:56:00</wp:post_modified>
@@ -105,9 +164,9 @@
     <item>
       <title>Mega-Sena acumula para R$ 102 milhões; confira os números sorteados</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-102-milhoes-confira-os-numeros-sorteados</link>
-      <pubDate>Wed, 16 Sep 2026 05:33:47 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 10:35:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-102-milhoes-confira-os-numeros-sorteados#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-102-milhoes-confira-os-numeros-sorteados#1003</guid>
       <description>© Marcello Casal JrAgência Brasil
 Nenhum apostador acertou as seis dezenas do Concurso 3.058da Mega-Sena, realizado nestaterça-feira (15).
 O prêmio a...</description>
@@ -119,16 +178,16 @@ O prêmio a...</description>
 &lt;p&gt;3.632 apostas acertaram quatro dezenas e irão receberR$ 1.185,42 cada&lt;/p&gt;
 &lt;p&gt;Para o próximo concurso, as apostas podem ser feitas até as 20h (horário de Brasília) de quinta-feira (17), em qualquer lotérica do país ou pela internet, no&lt;/p&gt;
 &lt;p&gt;A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
+&lt;p&gt;Rio recupera R$ 153 milhões de esquemas de corrupção&lt;/p&gt;
+&lt;p&gt;Justiça do Rio condena homem a 42 de prisão por feminicídio&lt;/p&gt;
 &lt;p&gt;Especialistas defendem maior regulação de plataformas digitais&lt;/p&gt;
 &lt;p&gt;Brasil vence Chile na estreia pelo Sul-Americano de vôlei masculino&lt;/p&gt;
 &lt;p&gt;Mega-Sena acumula para R$ 102 milhões; confira os números sorteados&lt;/p&gt;
-&lt;p&gt;Maioria dos projetos no Congresso ameaçam indígenas, diz pesquisa&lt;/p&gt;
-&lt;p&gt;Veja como foi a terça-feira (15) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Fluminense leva susto, mas é 1º classificado à semi da Libertadores&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-102-milhoes-confira-os-numeros-sorteados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Maioria dos projetos no Congresso ameaçam indígenas, diz pesquisa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-102-milhoes-confira-os-numeros-sorteados&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 Nenhum apostador acertou as seis dezenas do Concurso 3.058da Mega-Sena, realizado nestaterça-feira (15).
 O prêmio a...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-09-15 21:30:00</wp:post_date>
       <wp:post_date_gmt>2026-09-15 21:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-15 21:30:00</wp:post_modified>
@@ -154,9 +213,9 @@ O prêmio a...</excerpt:encoded>
     <item>
       <title>Maioria dos projetos no Congresso ameaçam indígenas, diz pesquisa</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/maioria-dos-projetos-no-congresso-ameacam-indigenas-diz-pesquisa</link>
-      <pubDate>Wed, 16 Sep 2026 05:33:47 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 10:35:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/maioria-dos-projetos-no-congresso-ameacam-indigenas-diz-pesquisa#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/maioria-dos-projetos-no-congresso-ameacam-indigenas-diz-pesquisa#1004</guid>
       <description>Dos 272 projetos que tramitam no Congresso Nacional que afetam diretamente os direitos dos povos indígenas, 146 (54%) são desfavoráveis a essas comun...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/EYSUiX74M3SjMVEmP_qSfcduKzo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/15/pankararu.jpg?itok=0wPNadSW&quot; alt=&quot;Maioria dos projetos no Congresso ameaçam indígenas, diz pesquisa&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Dos 272 projetos que tramitam no Congresso Nacional que afetam diretamente os direitos dos povos indígenas, 146 (54%) são desfavoráveis a essas comunidades tradicionais.&lt;/p&gt;
@@ -175,7 +234,7 @@ O prêmio a...</excerpt:encoded>
 &lt;p&gt;Ventura explica que uma das questões que a plataforma traz também é que as proposições legislativas contra direitos territoriais têm um andamento mais ágil do que as propostas favoráveis, que são principalmente relacionadas a políticas públicas como educação, saúde, direitos sociais e culturais.&lt;/p&gt;
 &lt;p&gt;O secretário do Cimi argumenta que a garantia dos direitos constitucionais dos indígenas deve ser pauta de toda a sociedade e não apenas das comunidades tradicionais.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/maioria-dos-projetos-no-congresso-ameacam-indigenas-diz-pesquisa&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Dos 272 projetos que tramitam no Congresso Nacional que afetam diretamente os direitos dos povos indígenas, 146 (54%) são desfavoráveis a essas comun...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-09-15 21:25:00</wp:post_date>
       <wp:post_date_gmt>2026-09-15 21:25:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-15 21:25:00</wp:post_modified>
@@ -201,9 +260,9 @@ O prêmio a...</excerpt:encoded>
     <item>
       <title>Veja como foi a terça-feira (15) dos candidatos a presidente</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-terca-feira-15-dos-candidatos-presidente</link>
-      <pubDate>Wed, 16 Sep 2026 05:33:47 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 10:35:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-terca-feira-15-dos-candidatos-presidente#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-terca-feira-15-dos-candidatos-presidente#1005</guid>
       <description>A agenda dos candidatos à presidência da República nesta terça-feira (15) incluiu entrevistas e participação em podcasts, manifestações e atos políti...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL&quot; alt=&quot;Veja como foi a terça-feira (15) dos candidatos a presidente&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A agenda dos candidatos à presidência da República nesta terça-feira (15) incluiu entrevistas e participação em podcasts, manifestações e atos políticos.&lt;/p&gt;
@@ -222,7 +281,7 @@ O prêmio a...</excerpt:encoded>
 &lt;p&gt;Nas redes sociais, o candidato criticou a crise no STF e defendeu políticas na área de segurança pública e o fim da reeleição.&lt;/p&gt;
 &lt;p&gt;Em São Luís (MA), o candidato Hertz Dias reuniu-se combancários da Caixa em greve e tambémcom moradoresna comunidade do Rio dos Cachorros, na zona rural da capital maranhense.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-terca-feira-15-dos-candidatos-presidente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A agenda dos candidatos à presidência da República nesta terça-feira (15) incluiu entrevistas e participação em podcasts, manifestações e atos políti...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-09-15 21:19:00</wp:post_date>
       <wp:post_date_gmt>2026-09-15 21:19:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-15 21:19:00</wp:post_modified>
@@ -248,9 +307,9 @@ O prêmio a...</excerpt:encoded>
     <item>
       <title>Fluminense leva susto, mas é 1º classificado à semi da Libertadores</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/fluminense-leva-susto-mas-e-1o-classificado-semi-da-libertadores</link>
-      <pubDate>Wed, 16 Sep 2026 05:33:47 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 10:35:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/fluminense-leva-susto-mas-e-1o-classificado-semi-da-libertadores#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/fluminense-leva-susto-mas-e-1o-classificado-semi-da-libertadores#1006</guid>
       <description>© Marcelo Gonçalves/Fluminense FC
 O Fluminense é o primeiro classificado às semifinais da Libertadores.
 O Tricolor se garantiu nesta terça-feira (15)...</description>
@@ -273,7 +332,7 @@ O Tricolor se garantiu nesta terça-feira (15)...</description>
       <excerpt:encoded>© Marcelo Gonçalves/Fluminense FC
 O Fluminense é o primeiro classificado às semifinais da Libertadores.
 O Tricolor se garantiu nesta terça-feira (15)...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-09-15 21:17:00</wp:post_date>
       <wp:post_date_gmt>2026-09-15 21:17:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-15 21:17:00</wp:post_modified>
@@ -299,9 +358,9 @@ O Tricolor se garantiu nesta terça-feira (15)...</excerpt:encoded>
     <item>
       <title>Entenda: STF encerra sessão sem definir casos sobre Moraes e Mendonça</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/entenda-stf-encerra-sessao-sem-definir-casos-sobre-moraes-e-mendonca</link>
-      <pubDate>Wed, 16 Sep 2026 05:33:47 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 10:35:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/entenda-stf-encerra-sessao-sem-definir-casos-sobre-moraes-e-mendonca#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/entenda-stf-encerra-sessao-sem-definir-casos-sobre-moraes-e-mendonca#1007</guid>
       <description>© Valter Campanato/Agência Brasil
 O Supremo Tribunal Federal (STF) encerrou a sessão desta terça-feira (15) sem definir se o ministro Alexandre de Mo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Rf9htlSUrw_9S_Ij2c-DKiOWkhw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/15/sem_titulo-3.jpg?itok=I-uJ3Z3o&quot; alt=&quot;Entenda: STF encerra sessão sem definir casos sobre Moraes e Mendonça&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -322,7 +381,7 @@ O Supremo Tribunal Federal (STF) encerrou a sessão desta terça-feira (15) sem 
 &lt;p&gt;No entendimento da procuradoria, o aprofundamento da apuração só poderia ocorrer após autorização do plenário da Corte.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/entenda-stf-encerra-sessao-sem-definir-casos-sobre-moraes-e-mendonca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 O Supremo Tribunal Federal (STF) encerrou a sessão desta terça-feira (15) sem definir se o ministro Alexandre de Mo...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-09-15 20:37:00</wp:post_date>
       <wp:post_date_gmt>2026-09-15 20:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-15 20:37:00</wp:post_modified>
@@ -348,9 +407,9 @@ O Supremo Tribunal Federal (STF) encerrou a sessão desta terça-feira (15) sem 
     <item>
       <title>STF provocou mal-estar cívico na população, diz Cármen Lúcia</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-provocou-mal-estar-civico-na-populacao-diz-carmen-lucia</link>
-      <pubDate>Wed, 16 Sep 2026 05:33:47 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 10:35:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-provocou-mal-estar-civico-na-populacao-diz-carmen-lucia#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-provocou-mal-estar-civico-na-populacao-diz-carmen-lucia#1008</guid>
       <description>A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), lamentou a exposição negativa da Corte nas últimas semanas, em função das denúncias de en...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0NrDWPJDin5x_GIT9CgoGHBEFAA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/15/55529091902_f7010d92a1_o.jpg?itok=l67o3KTw&quot; alt=&quot;STF provocou mal-estar cívico na população, diz Cármen Lúcia&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), lamentou a exposição negativa da Corte nas últimas semanas, em função das denúncias de envolvimento de magistrados do tribunal no caso do Banco Master&lt;/p&gt;
@@ -369,7 +428,7 @@ O Supremo Tribunal Federal (STF) encerrou a sessão desta terça-feira (15) sem 
 &lt;p&gt;e Alexandre de Moraes. Como Dino pediu vista, sua posição a favor do julgamento em separado não foi considerada no placar.&lt;/p&gt;
 &lt;p&gt;Antes do voto de Cármen Lúcia, o ministro Luiz Fux também registrou a posição a favor do julgamento em separado das suspeitas envolvendo Moraes e Mendonça.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-provocou-mal-estar-civico-na-populacao-diz-carmen-lucia&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), lamentou a exposição negativa da Corte nas últimas semanas, em função das denúncias de en...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-09-15 20:04:00</wp:post_date>
       <wp:post_date_gmt>2026-09-15 20:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-15 20:04:00</wp:post_modified>
@@ -395,9 +454,9 @@ O Supremo Tribunal Federal (STF) encerrou a sessão desta terça-feira (15) sem 
     <item>
       <title>Livro com textos de Pierre Verger será lançado amanhã em São Paulo</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/livro-com-textos-de-pierre-verger-ser%C3%A1-lan%C3%A7ado-amanh%C3%A3-em-s%C3%A3o-paulo%20ca-livro-nesta-quarta-em-sp</link>
-      <pubDate>Wed, 16 Sep 2026 05:33:47 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 10:35:19 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/livro-com-textos-de-pierre-verger-ser%C3%A1-lan%C3%A7ado-amanh%C3%A3-em-s%C3%A3o-paulo%20ca-livro-nesta-quarta-em-sp#1008</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/livro-com-textos-de-pierre-verger-ser%C3%A1-lan%C3%A7ado-amanh%C3%A3-em-s%C3%A3o-paulo%20ca-livro-nesta-quarta-em-sp#1009</guid>
       <description>Mais conhecido no Brasil como fotógrafo, Pierre Verger também grande estudioso sobre as relações entre o Brasil – especialmente a Bahia e África Ocid...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Ed5xdczjuHk-rBwkEntwpEJkRbo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/15/livro-reune-textos-raros-de-pierre-verger0330602200202607211537-14.jpg?itok=K9c2M2Dp&quot; alt=&quot;Livro com textos de Pierre Verger será lançado amanhã em São Paulo&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Mais conhecido no Brasil como fotógrafo, Pierre Verger também grande estudioso sobre as relações entre o Brasil – especialmente a Bahia e África Ocidental, a diáspora africana, a religião dos orixás e as tradições orais da cultura Iorubá.&lt;/p&gt;
@@ -408,14 +467,14 @@ O Supremo Tribunal Federal (STF) encerrou a sessão desta terça-feira (15) sem 
 &lt;p&gt;Pierre Fatumbi Verger nasceu em Paris em 1902 e iniciou sua trajetória profissional como fotógrafo viajante. Em 1946 se mudou para Salvador, cidade que nunca deixou de fazer parte de sua vida até sua morte em 1996. Especializou-se na fotografia documental e de campo nas áreas de antropologia, história, conhecimentos orais e botânica. Também foi um grande estudioso da cultura.&lt;/p&gt;
 &lt;p&gt;Local: Biblioteca Mário de Andrade&lt;/p&gt;
 &lt;p&gt;Entrada: gratuita, com retirada de ingressos 1 hora antes.&lt;/p&gt;
+&lt;p&gt;Rio recupera R$ 153 milhões de esquemas de corrupção&lt;/p&gt;
+&lt;p&gt;Justiça do Rio condena homem a 42 de prisão por feminicídio&lt;/p&gt;
 &lt;p&gt;Especialistas defendem maior regulação de plataformas digitais&lt;/p&gt;
 &lt;p&gt;Brasil vence Chile na estreia pelo Sul-Americano de vôlei masculino&lt;/p&gt;
 &lt;p&gt;Mega-Sena acumula para R$ 102 milhões; confira os números sorteados&lt;/p&gt;
-&lt;p&gt;Maioria dos projetos no Congresso ameaçam indígenas, diz pesquisa&lt;/p&gt;
-&lt;p&gt;Veja como foi a terça-feira (15) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Fluminense leva susto, mas é 1º classificado à semi da Libertadores&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/livro-com-textos-de-pierre-verger-ser%C3%A1-lan%C3%A7ado-amanh%C3%A3-em-s%C3%A3o-paulo%20ca-livro-nesta-quarta-em-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Maioria dos projetos no Congresso ameaçam indígenas, diz pesquisa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/livro-com-textos-de-pierre-verger-ser%C3%A1-lan%C3%A7ado-amanh%C3%A3-em-s%C3%A3o-paulo%20ca-livro-nesta-quarta-em-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Mais conhecido no Brasil como fotógrafo, Pierre Verger também grande estudioso sobre as relações entre o Brasil – especialmente a Bahia e África Ocid...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-09-15 19:47:00</wp:post_date>
       <wp:post_date_gmt>2026-09-15 19:47:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-15 19:47:00</wp:post_modified>
@@ -436,53 +495,6 @@ O Supremo Tribunal Federal (STF) encerrou a sessão desta terça-feira (15) sem 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/Ed5xdczjuHk-rBwkEntwpEJkRbo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/15/livro-reune-textos-raros-de-pierre-verger0330602200202607211537-14.jpg?itok=K9c2M2Dp</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Apoiado pela EBC, evento debate desenvolvimento do futebol feminino</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/apoiado-pela-ebc-evento-debate-desenvolvimento-do-futebol-feminino</link>
-      <pubDate>Wed, 16 Sep 2026 05:33:47 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/apoiado-pela-ebc-evento-debate-desenvolvimento-do-futebol-feminino#1009</guid>
-      <description>O Museu do Amanhã, no Rio de Janeiro, recebeu a primeira edição doWomen's International Football Summit(Wifs). O evento, voltado à expansão, cre...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/89dAuJqX3fqeNT8u8o549J37R2k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/15/fc3f4f263b0ca794ccdeb831_lvd03103.jpg?itok=YxI0LnR0&quot; alt=&quot;Apoiado pela EBC, evento debate desenvolvimento do futebol feminino&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O Museu do Amanhã, no Rio de Janeiro, recebeu a primeira edição doWomen's International Football Summit(Wifs). O evento, voltado à expansão, crescimento e visibilidade do futebol feminino, ocorreu entre segunda (15) e terça-feira (16) e reuniu atletas, federações, patrocinadores, clubes e entidades ligadas ao desenvolvimento do esporte.&lt;/p&gt;
-&lt;p&gt;Empresa Brasil de Comunicação (EBC)&lt;/p&gt;
-&lt;p&gt;foi apoiadora institucional do encontro, organizado pela Conferência de Futebol (Confut), plataforma global de negócios e que proporcionou trocas de experiências e de propostas de avanço do futebol feminino a menos de um ano da Copa do Mundo, que será no Brasil.&lt;/p&gt;
-&lt;p&gt;, transmite o Campeonato Brasileiro da modalidade, além das fases finais das Séries A2 e A3 (segunda e terceira divisões, respectivamente) e as decisões nacionais das categorias sub-17 e sub-20.&lt;/p&gt;
-&lt;p&gt;, Antonia Pellegrino, foi mediadora do painel&lt;/p&gt;
-&lt;p&gt;Comunicação do futebol feminino em transformação: novos formatos, plataformas e narrativas&lt;/p&gt;
-&lt;p&gt;&quot;É importante a gente promover esse tipo de evento, com um público super engajado e que faz com que a conversa transborde para além do jogo. Esse é o objetivo doPrêmio TV Brasil Petrobras Para Elas, que, para além de campo e bola, também olha para o clube que teve mais ações de enfrentamento ao feminicídio, portanto, à violência contra a mulher. E tem o prêmio da Craque da Torcida, com votação aberta, que já teve mais de 22 mil votações&quot;, destacou Antonia Pellegrino, em entrevista ao&lt;/p&gt;
-&lt;p&gt;A jornalista, historiadora e comentarista esportiva da&lt;/p&gt;
-&lt;p&gt;, Rachel Motta, participou da mesa, que ainda reuniu a fundadora do Donas FC, Suleima Sena; a fotojornalista esportiva Lívia Villas Boas e a diretora-executiva da NO MORE, fundação global dedicada ao fim da violência doméstica e sexual.&lt;/p&gt;
-&lt;p&gt;&quot;Ser convidada para participar de um evento da dimensão que está sendo o Wifs é importantíssimo em questões de visibilidade, troca de conhecimento eknow-how, contatos, de estar com gente que atua na área há muitos anos e de todas as redes, seja na parte de gestão, bastidores, dos clubes. Coloca, principalmente, o nome da TV pública nesse quadro de importância e a&lt;/p&gt;
-&lt;p&gt;como uma das instituições que auxilia a realização deste evento&quot;, avaliou Rachel Motta.&lt;/p&gt;
-&lt;p&gt;Na segunda-feira (14), a jornalista Marília Arrigoni, apresentadora do&lt;/p&gt;
-&lt;p&gt;Futebol feminino entre gerações: experiências, conquistas e novos horizontes&lt;/p&gt;
-&lt;p&gt;. A mesa foi moderada pela presidente da Bancada Feminina do Flamengo, Marion Kaplan, e contou ainda com Renata Armiliato, gerente de Futebol Feminino do Internacional.&lt;/p&gt;
-&lt;p&gt;&quot;Ter um espaço dedicado a debater o futebol de mulheres brasileiro com personalidades do meio era algo muito esperado por quem cobre a modalidade, principalmente no Rio de Janeiro em que havia uma carência de eventos desse tipo. Além de suprir essa necessidade, o Wifs mostra os passos evolutivos que o futebol feminino vem dando. Foi muito especial falar da experiência de cobre e ouvir as especificidades de quem atua na gestão. Que seja o primeiro de muitos&quot;, disse Marília Arrigoni.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/apoiado-pela-ebc-evento-debate-desenvolvimento-do-futebol-feminino&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O Museu do Amanhã, no Rio de Janeiro, recebeu a primeira edição doWomen's International Football Summit(Wifs). O evento, voltado à expansão, cre...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-09-15 18:48:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-15 18:48:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-15 18:48:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-15 18:48:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/89dAuJqX3fqeNT8u8o549J37R2k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/15/fc3f4f263b0ca794ccdeb831_lvd03103.jpg?itok=YxI0LnR0</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
