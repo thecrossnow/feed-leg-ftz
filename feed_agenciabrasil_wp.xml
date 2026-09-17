@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Thu, 17 Sep 2026 05:52:46 +0000</pubDate>
+    <pubDate>Thu, 17 Sep 2026 10:44:49 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,111 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>TV Brasil estreia séries de natureza selvagem em horário nobre</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/tv-brasil-estreia-series-de-natureza-selvagem-em-horario-nobre</link>
+      <pubDate>Thu, 17 Sep 2026 10:44:49 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/tv-brasil-estreia-series-de-natureza-selvagem-em-horario-nobre#1000</guid>
+      <description>© Love Nature/Arquivo/Divulgação
+estreia faixa com séries de natureza selvagem no horário nobre da programação.
+Emissora pública exibe novas produçõe...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Q3Vi_A4dIJxsvQ13bkz8l8Vh7uc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/15/africa-garras-e-mandibulas-guepardos-01-credito-divulgacao-love-nature.jpg?itok=Oit692I6&quot; alt=&quot;TV Brasil estreia séries de natureza selvagem em horário nobre&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Love Nature/Arquivo/Divulgação&lt;/p&gt;
+&lt;p&gt;estreia faixa com séries de natureza selvagem no horário nobre da programação.&lt;/p&gt;
+&lt;p&gt;Emissora pública exibe novas produções documentais às terças e quintas, na faixa de 21h30.&lt;/p&gt;
+&lt;p&gt;As primeiras atrações são os seriados&lt;/p&gt;
+&lt;p&gt;África: Garras e Mandíbulas e Criaturas do Grande Azul&lt;/p&gt;
+&lt;p&gt;Para os próximos meses estão previstas as exibições das obras&lt;/p&gt;
+&lt;p&gt;Um Ano Selvagem na Terra e Batalha dos Alfas&lt;/p&gt;
+&lt;p&gt;. Os programas dos novos seriados ambientais com espécies da fauna ficam disponíveis por dez dias no&lt;/p&gt;
+&lt;p&gt;Com quatro episódios de uma hora, a série&lt;/p&gt;
+&lt;p&gt;marca a reestreia da faixa temática da&lt;/p&gt;
+&lt;p&gt;TV Brasil às quintas, às 21h30.&lt;/p&gt;
+&lt;p&gt;é o destaque do canal público para as próximas semanas, a partir do dia 22, às terças, no mesmo horário.&lt;/p&gt;
+&lt;p&gt;O conteúdo inédito tem espaço na faixa de programação da emissora dedicada à natureza selvagem.&lt;/p&gt;
+&lt;p&gt;A produção acompanha os hábitos de caça dos seres mais perigosos do continente africano.&lt;/p&gt;
+&lt;p&gt;Desde os dentes afiados do grande tubarão branco, passando pela velocidade dos grandes felinos até o bote rápido como um raio da serpente negra, o seriado&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/tv-brasil-estreia-series-de-natureza-selvagem-em-horario-nobre&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Love Nature/Arquivo/Divulgação
+estreia faixa com séries de natureza selvagem no horário nobre da programação.
+Emissora pública exibe novas produçõe...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-09-17 06:50:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-17 06:50:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-17 06:50:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-17 06:50:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Q3Vi_A4dIJxsvQ13bkz8l8Vh7uc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/15/africa-garras-e-mandibulas-guepardos-01-credito-divulgacao-love-nature.jpg?itok=Oit692I6</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Pesquisa mostra preocupação com clima, mas tema fica em segundo plano</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/pesquisa-mostra-preocupacao-com-clima-mas-tema-fica-em-segundo-plano</link>
+      <pubDate>Thu, 17 Sep 2026 10:44:49 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/pesquisa-mostra-preocupacao-com-clima-mas-tema-fica-em-segundo-plano#1001</guid>
+      <description>© Prefeitura de São Lourenço do Sul
+Um levantamento feito com 1.800 brasileiros mostra que a 91% dos entrevistados considera importantes as mudanças ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/BzNNsZNJRV-aG_wuPZcnMpnyHdQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/dji_20250823104155_0142_d_881e7a_copy.jpg?itok=1Qt7lhn5&quot; alt=&quot;Pesquisa mostra preocupação com clima, mas tema fica em segundo plano&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Prefeitura de São Lourenço do Sul&lt;/p&gt;
+&lt;p&gt;Um levantamento feito com 1.800 brasileiros mostra que a 91% dos entrevistados considera importantes as mudanças climáticas e a adoção de medidas de preservação ambiental e defende que os candidatos às eleições de 2026 apresentem propostas para enfrentar o problema. Apesar disso, questões como segurança pública, custo de vida, saúde e educação aparecem à frente entre as principais preocupações da população.&lt;/p&gt;
+&lt;p&gt;Entre os problemas apresentados aos entrevistados, segurança pública e criminalidade aparecem em primeiro lugar, citadas por 49%. Em seguida estão o aumento do custo de vida ou a inflação (41%), a violência contra as mulheres e os feminicídios (36%) e a qualidade da saúde pública (34%). As mudanças climáticas e a crise ambiental aparecem em nono lugar, com 19%.&lt;/p&gt;
+&lt;p&gt;Segundo a pesquisa “Clima e meio ambiente na percepção dos brasileiros”, realizada pela Ipsos a pedido do Observatório do Clima, a maioria dos entrevistados consideram importante que os candidatos às próximas eleições apresentem propostas para enfrentar as mudanças climáticas. Para 62%, o tema é “muito importante”.&lt;/p&gt;
+&lt;p&gt;Os dados foram divulgados nesta quinta-feira (17) e mostram que 87% dos entrevistados concordam que as mudanças climáticas estão provocando secas, chuvas intensas e ondas de calor. Além disso, 85% consideram que o fenômeno afeta o cotidiano dos brasileiros; 79% defendem que o tema seja priorizado mesmo que isso implique custos econômicos; e 76% entendem que ainda é possível evitar os impactos mais graves caso medidas sejam adotadas imediatamente.&lt;/p&gt;
+&lt;p&gt;Além das mudanças climáticas, apontadas por 35% como o principal problema ambiental, 21% citaram a gestão de resíduos e lixo. Qualidade do ar e poluição foram mencionadas por 15%, e escassez de água e secas, por 14%.&lt;/p&gt;
+&lt;p&gt;“A maioria dos presidenciáveis tem planos fracos ou inexistentes para o tema. Um dos candidatos, inclusive, é um negacionista convicto. A pesquisa mostra que os brasileiros querem compromissos dos candidatos na agenda climática, mas infelizmente não é o que está acontecendo.”, avalia Marcio Astrini, secretário executivo do Observatório do Clima.&lt;/p&gt;
+&lt;p&gt;Em relação ao clima e meio ambiente na agenda governamental, 90% dos brasileiros consideram muito importante que o governo e as políticas públicas se dediquem à proteção ambiental, enquanto apenas 3% a consideram pouco ou nada importante.&lt;/p&gt;
+&lt;p&gt;A pesquisa também perguntou sobre as causas das mudanças climáticas. Para 58% dos entrevistados, o fenômeno é causado principalmente pela atividade humana; 36% atribuem o problema a uma combinação entre atividade humana e fenômenos naturais; e 5% consideram que as mudanças climáticas são explicadas principalmente por causas naturais.&lt;/p&gt;
+&lt;p&gt;Em relação à responsabilidade pelo enfrentamento das mudanças climáticas, 67% consideram que empresas e indústrias têm mais responsabilidade do que os cidadãos.&lt;/p&gt;
+&lt;p&gt;O levantamento abordou ainda o conhecimento sobre o papel do gás metano no aquecimento global. Embora ele seja muito mais potente que o CO2 o conhecimento sobre sua atuação e principais fontes é restrito. A maioria (64%) atribuiu como sua principal fonte os aterros sanitários, lixões e à queima de combustíveis fósseis. No Brasil, o gás metano é emitido principalmente na pecuária.&lt;/p&gt;
+&lt;p&gt;“O esforço a ser feito é para que essa preocupação se reflita em votos que assegurem a eleição de candidatos que realmente incorporem esse tema em sua atuação. Em plena crise climática, não dá para aceitar negacionistas, declarados ou disfarçados, nem no Executivo, nem no Legislativo”, afirma Suely Araújo, coordenadora de Políticas Públicas do Observatório do Clima.&lt;/p&gt;
+&lt;p&gt;Entre as políticas ambientais abordadas com os entrevistados, uma das mais importantes é a das normas ambientais: 43% dos pesquisados rejeitam a flexibilização das normas ambientais e consideram que os investimentos devem se adaptar à regulamentação vigente. A percepção, portanto, é de que 4 em 5 pessoas defendem uma posição de proteção ou cautela ambiental.&lt;/p&gt;
+&lt;p&gt;Além de indicar os temas prioritários, os participantes opinaram sobre como os diferentes atores agem em relação ao tema. O papel das pessoas em geral nas políticas ambientais foi avaliado como negativo por 78% dos pesquisados e apenas 6% lhes atribuíram avaliações positivas; em relação as empresas privadas houve 75% de avaliações negativas e 6% de positivas; e o governo brasileiro obtém 71% de avaliações negativas e 9% de positivas. Segundo o relatório do estudo, isso indica que o problema ambiental é percebido como um déficit sistêmico, não atribuído exclusivamente a uma única instituição. A pesquisa indicou, também, que a principal responsabilidade para liderar uma mudança em relação às políticas ambientais recai sobre o governo federal&lt;/p&gt;
+&lt;p&gt;A pesquisa ouviu 1.800 pessoas de todo o país, com 18 anos ou mais, entre os dias 17 e 20 de agosto. O questionário, aplicado online, foi composto por 32 perguntas sobre clima e meio ambiente e a presença de tais temas na agenda pública e governamental, além de cuidados, atitudes e comportamentos relacionados a esses temas.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/pesquisa-mostra-preocupacao-com-clima-mas-tema-fica-em-segundo-plano&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Prefeitura de São Lourenço do Sul
+Um levantamento feito com 1.800 brasileiros mostra que a 91% dos entrevistados considera importantes as mudanças ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-09-17 06:30:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-17 06:30:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-17 06:30:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-17 06:30:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/BzNNsZNJRV-aG_wuPZcnMpnyHdQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/27/dji_20250823104155_0142_d_881e7a_copy.jpg?itok=1Qt7lhn5</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Lula pode se encontrar com prefeito de Nova York nos EUA</title>
       <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/lula-pode-se-encontrar-com-prefeito-de-nova-york-nos-eua</link>
-      <pubDate>Thu, 17 Sep 2026 05:52:46 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 10:44:49 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/lula-pode-se-encontrar-com-prefeito-de-nova-york-nos-eua#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/lula-pode-se-encontrar-com-prefeito-de-nova-york-nos-eua#1002</guid>
       <description>© Reuters/Jeenah Moon/Proibida reprodução
 O Ministério das Relações Exteriores (MRE) divulgou nesta quarta-feira (16) os detalhes da viagem do presid...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kpG47gPu-LcIGP8EulkGU0SEaIg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/04/2026-01-02t220032z_1877339061_rc27tiacffgt_rtrmadp_3_usa-new-york-mamdani.jpg?itok=MXYtTUgo&quot; alt=&quot;Lula pode se encontrar com prefeito de Nova York nos EUA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +147,7 @@ O Ministério das Relações Exteriores (MRE) divulgou nesta quarta-feira (16) o
 &lt;p&gt;Lula deixava o palco após seu discurso e Trump se preparava para falar&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/lula-pode-se-encontrar-com-prefeito-de-nova-york-nos-eua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Jeenah Moon/Proibida reprodução
 O Ministério das Relações Exteriores (MRE) divulgou nesta quarta-feira (16) os detalhes da viagem do presid...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-09-16 22:04:00</wp:post_date>
       <wp:post_date_gmt>2026-09-16 22:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-16 22:04:00</wp:post_modified>
@@ -73,9 +173,9 @@ O Ministério das Relações Exteriores (MRE) divulgou nesta quarta-feira (16) o
     <item>
       <title>Veja como foi a quarta-feira (16) dos presidenciáveis</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-dos-presidenciaveis</link>
-      <pubDate>Thu, 17 Sep 2026 05:52:46 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 10:44:49 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-dos-presidenciaveis#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-dos-presidenciaveis#1003</guid>
       <description>A agenda dos presidenciáveis nesta quarta-feira (16) incluiu entrevistas em podcasts, rádio e televisão, além de caravana, panfletagem e atos de camp...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL&quot; alt=&quot;Veja como foi a quarta-feira (16) dos presidenciáveis&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A agenda dos presidenciáveis nesta quarta-feira (16) incluiu entrevistas em podcasts, rádio e televisão, além de caravana, panfletagem e atos de campanha.&lt;/p&gt;
@@ -94,7 +194,7 @@ O Ministério das Relações Exteriores (MRE) divulgou nesta quarta-feira (16) o
 &lt;p&gt;Ele defendeu a estatização dos setores estratégicos da economia, como saneamento, energia, transporte e petróleo, e criticou os processos de privatização.&lt;/p&gt;
 &lt;p&gt;“Água e saneamento são direitos fundamentais. Não podem estar nas mãos de grupos privados que enxergam esses serviços apenas como fonte de lucro&quot;, disse.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-dos-presidenciaveis&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A agenda dos presidenciáveis nesta quarta-feira (16) incluiu entrevistas em podcasts, rádio e televisão, além de caravana, panfletagem e atos de camp...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-09-16 21:45:00</wp:post_date>
       <wp:post_date_gmt>2026-09-16 21:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-16 21:45:00</wp:post_modified>
@@ -120,9 +220,9 @@ O Ministério das Relações Exteriores (MRE) divulgou nesta quarta-feira (16) o
     <item>
       <title>Pesquisadores debatem em Brasília o papel da comunicação pública</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisadores-debatem-em-brasilia-o-papel-da-comunicacao-publica</link>
-      <pubDate>Thu, 17 Sep 2026 05:52:46 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 10:44:49 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisadores-debatem-em-brasilia-o-papel-da-comunicacao-publica#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisadores-debatem-em-brasilia-o-papel-da-comunicacao-publica#1004</guid>
       <description>Como levar informação de qualidade à população? Como dialogar com o público e estimular a formação de cidadãos conscientes e engajados? Essas são alg...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ut5nVcpsgiGDh31Wfk9dLabRH-A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/16/20260916_163031-2048x1153.jpg?itok=W0QpLFaq&quot; alt=&quot;Pesquisadores debatem em Brasília o papel da comunicação pública&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Como levar informação de qualidade à população? Como dialogar com o público e estimular a formação de cidadãos conscientes e engajados? Essas são algumas das perguntas que pesquisadores, estudantes e profissionais de comunicação pública vão debater até sexta-feira (18) durante o 4º Congresso Brasileiro de Comunicação Pública, em Brasília.&lt;/p&gt;
@@ -132,14 +232,14 @@ O Ministério das Relações Exteriores (MRE) divulgou nesta quarta-feira (16) o
 &lt;p&gt;“As instituições públicas não podem ficar inertes à desinformação e elas não podem responder a esse fenômeno só corrigindo informações falsas. Elas precisam construir relações permanentes de credibilidade, transparência e diálogo com a sociedade e também fazer ações de educação midiática”, destacou a diretora da Secretaria de Comunicação Social do Senado, Glauciene Lara.&lt;/p&gt;
 &lt;p&gt;O Congresso Brasileiro de Comunicação Pública vai até sexta-feira (18). Os debates ocorrem na Câmara dos Deputados, em Brasília, e podem ser acompanhados online.&lt;/p&gt;
 &lt;p&gt;Confira a programação completa nosite do evento&lt;/p&gt;
+&lt;p&gt;Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo&lt;/p&gt;
+&lt;p&gt;Mega-Sena sorteia prêmio acumulado de R$ 102 milhões nesta quinta&lt;/p&gt;
+&lt;p&gt;TV Brasil estreia séries de natureza selvagem em horário nobre&lt;/p&gt;
+&lt;p&gt;Pesquisa mostra preocupação com clima, mas tema fica em segundo plano&lt;/p&gt;
 &lt;p&gt;Lula pode se encontrar com prefeito de Nova York nos EUA&lt;/p&gt;
-&lt;p&gt;Trump cita PCC e CV e diz que Brasil não conseguiu enfrentar facções&lt;/p&gt;
-&lt;p&gt;Veja como foi a quarta-feira (16) dos presidenciáveis&lt;/p&gt;
-&lt;p&gt;Pesquisadores debatem em Brasília o papel da comunicação pública&lt;/p&gt;
-&lt;p&gt;TSE vai enviar alertas no e-Título com orientações para eleições&lt;/p&gt;
-&lt;p&gt;Entidades industriais e trabalhistas consideram tímida queda da Selic&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisadores-debatem-em-brasilia-o-papel-da-comunicacao-publica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Trump cita PCC e CV e diz que Brasil não conseguiu enfrentar facções&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/pesquisadores-debatem-em-brasilia-o-papel-da-comunicacao-publica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Como levar informação de qualidade à população? Como dialogar com o público e estimular a formação de cidadãos conscientes e engajados? Essas são alg...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-09-16 21:18:00</wp:post_date>
       <wp:post_date_gmt>2026-09-16 21:18:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-16 21:18:00</wp:post_modified>
@@ -165,9 +265,9 @@ O Ministério das Relações Exteriores (MRE) divulgou nesta quarta-feira (16) o
     <item>
       <title>TSE vai enviar alertas no e-Título com orientações para eleições</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/tse-vai-enviar-alertas-no-e-titulo-com-orientacoes-para-eleicoes</link>
-      <pubDate>Thu, 17 Sep 2026 05:52:46 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 10:44:49 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/tse-vai-enviar-alertas-no-e-titulo-com-orientacoes-para-eleicoes#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/tse-vai-enviar-alertas-no-e-titulo-com-orientacoes-para-eleicoes#1005</guid>
       <description>A duas semanas do primeiro turno das Eleições 2026, marcado para 4 de outubro, o Tribunal Superior Eleitoral (TSE) começou a enviar, nesta quinta-fei...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UnEaMZ7QTG64jaGrqmQDo_-6Tg8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/03/0d7a0242.jpg?itok=4t0YxN07&quot; alt=&quot;TSE vai enviar alertas no e-Título com orientações para eleições&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A duas semanas do primeiro turno das Eleições 2026, marcado para 4 de outubro, o Tribunal Superior Eleitoral (TSE) começou a enviar, nesta quinta-feira (17), notificações oficiais aos eleitores pelo aplicativo e-Título.&lt;/p&gt;
@@ -186,7 +286,7 @@ O Ministério das Relações Exteriores (MRE) divulgou nesta quarta-feira (16) o
 &lt;p&gt;a ferramenta passou a integrar o e-Título e permite consultar e compartilhar Boletins de Urna.&lt;/p&gt;
 &lt;p&gt;Descadastramento de mesário voluntário:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/tse-vai-enviar-alertas-no-e-titulo-com-orientacoes-para-eleicoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A duas semanas do primeiro turno das Eleições 2026, marcado para 4 de outubro, o Tribunal Superior Eleitoral (TSE) começou a enviar, nesta quinta-fei...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-09-16 20:59:00</wp:post_date>
       <wp:post_date_gmt>2026-09-16 20:59:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-16 20:59:00</wp:post_modified>
@@ -212,9 +312,9 @@ O Ministério das Relações Exteriores (MRE) divulgou nesta quarta-feira (16) o
     <item>
       <title>Entidades industriais e trabalhistas consideram tímida queda da Selic</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/entidades-industriais-e-trabalhistas-consideram-timida-queda-da-selic</link>
-      <pubDate>Thu, 17 Sep 2026 05:52:46 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 10:44:49 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/entidades-industriais-e-trabalhistas-consideram-timida-queda-da-selic#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/entidades-industriais-e-trabalhistas-consideram-timida-queda-da-selic#1006</guid>
       <description>© José Cruz/Agência Brasil/Arquivo
 A redução de 0,25% ponto percentual na taxa básica de juros da economia, a Selic, foi considerada insuficiente pel...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ArbrUsPPeNR0-6LyC5GvA9j9yYQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220049_1.jpg?itok=ZRCuUtTo&quot; alt=&quot;Entidades industriais e trabalhistas consideram tímida queda da Selic&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -235,7 +335,7 @@ A redução de 0,25% ponto percentual na taxa básica de juros da economia, a Se
 &lt;p&gt;“Perdemos uma excelente oportunidade de promover uma redução drástica da taxa de juros, dar uma injeção de ânimo no setor produtivo e alavancar ainda mais a economia”, disse a central.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/entidades-industriais-e-trabalhistas-consideram-timida-queda-da-selic&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© José Cruz/Agência Brasil/Arquivo
 A redução de 0,25% ponto percentual na taxa básica de juros da economia, a Selic, foi considerada insuficiente pel...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-09-16 20:37:00</wp:post_date>
       <wp:post_date_gmt>2026-09-16 20:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-16 20:37:00</wp:post_modified>
@@ -261,9 +361,9 @@ A redução de 0,25% ponto percentual na taxa básica de juros da economia, a Se
     <item>
       <title>Moraes vota para igualar tempo de licenças-maternidade e adotante</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-vota-para-igualar-tempo-de-licencas-maternidade-e-adotante</link>
-      <pubDate>Thu, 17 Sep 2026 05:52:46 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 10:44:49 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-vota-para-igualar-tempo-de-licencas-maternidade-e-adotante#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-vota-para-igualar-tempo-de-licencas-maternidade-e-adotante#1007</guid>
       <description>© Marcello Casal/Agência Brasil
 O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta quarta-feira (16) a favor da equiparaç...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/iwUb5Z2JgXmzRB1WFdi1x0tSckc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/recem-nascido.jpg?itok=xuVBO2yE&quot; alt=&quot;Moraes vota para igualar tempo de licenças-maternidade e adotante&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -278,13 +378,13 @@ O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta q
 &lt;p&gt;A ação julgada pela Corte foi protocolada pela PGR em outubro de 2023 e pretende estender o tempo das licenças-maternidade e adotante previsto na Consolidação das Leis do Trabalho (CLT), regra da iniciativa privada, para as servidoras públicas, que são regidas pela Lei 8.112/1990, conhecida como Estatuto dos Servidores Públicos, e a Lei Complementar 75/1993, o Estatuto do Ministério Público.&lt;/p&gt;
 &lt;p&gt;Pela CLT, as mães biológicas e adotantes têm direito a 120 dias de licença, prazo que pode ser prorrogado por mais 60 dias em empresas que participamdo Programa Empresa Cidadã. As servidoras gestantes também podem tirar 120 dias, mas as adotantes só têm direito a 90 dias. A licença para mulher adotante cai para 30 dias no Ministério Público.&lt;/p&gt;
 &lt;p&gt;Para PGR, o tratamento desigual em relação ao regime de contratação da mulher é inconstitucional.&lt;/p&gt;
-&lt;p&gt;Lula pode se encontrar com prefeito de Nova York nos EUA&lt;/p&gt;
-&lt;p&gt;Trump cita PCC e CV e diz que Brasil não conseguiu enfrentar facções&lt;/p&gt;
-&lt;p&gt;Veja como foi a quarta-feira (16) dos presidenciáveis&lt;/p&gt;
-&lt;p&gt;Pesquisadores debatem em Brasília o papel da comunicação pública&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-vota-para-igualar-tempo-de-licencas-maternidade-e-adotante&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo&lt;/p&gt;
+&lt;p&gt;Mega-Sena sorteia prêmio acumulado de R$ 102 milhões nesta quinta&lt;/p&gt;
+&lt;p&gt;TV Brasil estreia séries de natureza selvagem em horário nobre&lt;/p&gt;
+&lt;p&gt;Pesquisa mostra preocupação com clima, mas tema fica em segundo plano&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-vota-para-igualar-tempo-de-licencas-maternidade-e-adotante&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal/Agência Brasil
 O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta quarta-feira (16) a favor da equiparaç...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-09-16 19:54:00</wp:post_date>
       <wp:post_date_gmt>2026-09-16 19:54:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-16 19:54:00</wp:post_modified>
@@ -310,9 +410,9 @@ O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta q
     <item>
       <title>Com 78 galerias, ArtRio traz obras inéditas</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/com-78-galerias-artrio-traz-obras-ineditas</link>
-      <pubDate>Thu, 17 Sep 2026 05:52:46 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 10:44:49 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/com-78-galerias-artrio-traz-obras-ineditas#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/com-78-galerias-artrio-traz-obras-ineditas#1008</guid>
       <description>© Fernando Frazão/Agência Brasil
 Feira de Arte do Rio de Janeiro (ArtRio)
 chega à 16ª edição entre esta quarta-feira (16) e domingo (20) na Marina da...</description>
@@ -330,12 +430,12 @@ chega à 16ª edição entre esta quarta-feira (16) e domingo (20) na Marina da.
 &lt;p&gt;Em paralelo, a prefeitura do Rio promove a primeira Semana de Arte do Rio, de 16 a 27 de setembro. O evento inédito terá mais de 400 atrações, reunindo artistas, instituições, festivais, produtores e espaços que fazem parte da vida cultural carioca.&lt;/p&gt;
 &lt;p&gt;Ao todo, serão 74 festivais, exposições, espetáculos e atividades, que somammais de mil horas de programação. A proposta é fazer da própria cidade parte da experiência.&lt;/p&gt;
 &lt;p&gt;Durante 12 dias, museus, centros culturais, teatros, galerias e outros equipamentos receberão uma programação que reúne projetos consolidados na cena cultural, de diferentes linguagens artísticas. A iniciativa busca ampliar a circulação de artistas e públicos, valorizar o patrimônio material e imaterial da cidade e fortalecer a economia da cultura.&lt;/p&gt;
-&lt;p&gt;Lula pode se encontrar com prefeito de Nova York nos EUA&lt;/p&gt;
-&lt;p&gt;Trump cita PCC e CV e diz que Brasil não conseguiu enfrentar facções&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/com-78-galerias-artrio-traz-obras-ineditas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo&lt;/p&gt;
+&lt;p&gt;Mega-Sena sorteia prêmio acumulado de R$ 102 milhões nesta quinta&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/com-78-galerias-artrio-traz-obras-ineditas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Feira de Arte do Rio de Janeiro (ArtRio)
 chega à 16ª edição entre esta quarta-feira (16) e domingo (20) na Marina da...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-09-16 19:12:00</wp:post_date>
       <wp:post_date_gmt>2026-09-16 19:12:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-16 19:12:00</wp:post_modified>
@@ -361,9 +461,9 @@ chega à 16ª edição entre esta quarta-feira (16) e domingo (20) na Marina da.
     <item>
       <title>PRF estabelece regras para evitar bloqueios nas eleições de 2026</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/prf-estabelece-regras-para-evitar-bloqueios-nas-eleicoes-de-2026</link>
-      <pubDate>Thu, 17 Sep 2026 05:52:46 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 10:44:49 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/prf-estabelece-regras-para-evitar-bloqueios-nas-eleicoes-de-2026#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/prf-estabelece-regras-para-evitar-bloqueios-nas-eleicoes-de-2026#1009</guid>
       <description>Uma portaria conjunta da Polícia Rodoviária Federal (PRF) e do Tribunal Superior Eleitoral (TSE) estabelece regras para a atuação dos órgãos de segur...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/C9NTyOnRnZXkv9vYSbos44IXnyI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/14/prf_240518-16.51.09_1_copy.jpg?itok=FnUBS4VH&quot; alt=&quot;PRF estabelece regras para evitar bloqueios nas eleições de 2026&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Uma portaria conjunta da Polícia Rodoviária Federal (PRF) e do Tribunal Superior Eleitoral (TSE) estabelece regras para a atuação dos órgãos de segurança pública durante as Eleições Gerais de 2026.&lt;/p&gt;
@@ -378,11 +478,11 @@ chega à 16ª edição entre esta quarta-feira (16) e domingo (20) na Marina da.
 &lt;p&gt;No segundo turno das eleições de 2022, a PRF realizou operações em rodovias, principalmente no Nordeste, para fiscalizar ônibus que transportavam eleitores. As ações ocorreram mesmo após determinação do Tribunal Superior Eleitoral (TSE) para que a corporação não dificultasse o transporte de eleitores.&lt;/p&gt;
 &lt;p&gt;Segundo a Procuradoria-Geral da República (PGR), as operações foram direcionadas a regiões onde o então candidato Luiz Inácio Lula da Silva havia obtido mais votos no primeiro turno.&lt;/p&gt;
 &lt;p&gt;Em dezembro de 2025, o Supremo Tribunal Federal (STF) condenou o então diretor-geral da PRF, Silvinei Vasques, a 24 anos e seis meses de prisão, no processo sobre a trama golpista. Segundo a acusação, Vasques tentou interferir no processo eleitoral ao dificultar o deslocamento de eleitores de Lula no segundo turno. A defesa negou a acusação.&lt;/p&gt;
-&lt;p&gt;Lula pode se encontrar com prefeito de Nova York nos EUA&lt;/p&gt;
-&lt;p&gt;Trump cita PCC e CV e diz que Brasil não conseguiu enfrentar facções&lt;/p&gt;
-&lt;p&gt;Veja como foi a quarta-feira (16) dos presidenciáveis&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/prf-estabelece-regras-para-evitar-bloqueios-nas-eleicoes-de-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Augusto Cury propõe mandato de oito anos no STF e semipresidencialismo&lt;/p&gt;
+&lt;p&gt;Mega-Sena sorteia prêmio acumulado de R$ 102 milhões nesta quinta&lt;/p&gt;
+&lt;p&gt;TV Brasil estreia séries de natureza selvagem em horário nobre&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/prf-estabelece-regras-para-evitar-bloqueios-nas-eleicoes-de-2026&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Uma portaria conjunta da Polícia Rodoviária Federal (PRF) e do Tribunal Superior Eleitoral (TSE) estabelece regras para a atuação dos órgãos de segur...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-09-16 19:11:00</wp:post_date>
       <wp:post_date_gmt>2026-09-16 19:11:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-16 19:11:00</wp:post_modified>
@@ -403,104 +503,6 @@ chega à 16ª edição entre esta quarta-feira (16) e domingo (20) na Marina da.
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/C9NTyOnRnZXkv9vYSbos44IXnyI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/14/prf_240518-16.51.09_1_copy.jpg?itok=FnUBS4VH</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Trump cita PCC e CV e diz que Brasil não conseguiu enfrentar facções</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/trump-cita-pcc-e-cv-e-diz-que-brasil-nao-conseguiu-enfrentar-faccoes</link>
-      <pubDate>Thu, 17 Sep 2026 05:52:46 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/trump-cita-pcc-e-cv-e-diz-que-brasil-nao-conseguiu-enfrentar-faccoes#1008</guid>
-      <description>© REUTERS/Elizabeth Frantz/Proibida reprodução
-O presidente dos Estados Unidos (EUA), Donald Trump, criticou o governo brasileiro por, na sua visão, ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VWCp3R-KkRwFA6KRndy6hl62nHM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/2026-02-28t031827z_705080933_rc2pujas7bmm_rtrmadp_3_usa-trump.jpg?itok=Pu4Yd0GB&quot; alt=&quot;Trump cita PCC e CV e diz que Brasil não conseguiu enfrentar facções&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Elizabeth Frantz/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;O presidente dos Estados Unidos (EUA), Donald Trump, criticou o governo brasileiro por, na sua visão, ter falhado no enfrentamento às facções criminosas Primeiro Comando da Capital (PCC) e Comando Vermelho (CV).&lt;/p&gt;
-&lt;p&gt;enviado ao Congresso norte-americano, datado de terça-feira (15). Nele, o presidente identifica países considerados importantes no trânsito ou produção de drogas ilícitas para o ano fiscal de 2027, além de apresentar avaliações individuais sobre diferentes governos.&lt;/p&gt;
-&lt;p&gt;De acordo com Trump, enquanto &quot;muitos governos do Hemisfério Ocidental&quot; adotaram &quot;medidas corajosas&quot; para reduzir os fluxos de drogas e erradicar os cartéis, &quot;o governo do Brasil não conseguiu enfrentar as organizações terroristas estrangeiras designadas Primeiro Comando da Capital e Comando Vermelho, que transformaram o Brasil em um centro para os fluxos globais de cocaína&quot;.&lt;/p&gt;
-&lt;p&gt;&quot;Essas organizações terroristas brasileiras constituem uma ameaça crescente à paz e à segurança em todo o mundo, e o governo brasileiro precisa urgentemente adotar medidas agressivas para enfrentá-las e derrotá-las antes que se espalhem e cresçam&quot;, acrescentou o mandatário norte-americano.&lt;/p&gt;
-&lt;p&gt;designado o PCC e o CV como Organizações Terroristas Estrangeiras&lt;/p&gt;
-&lt;p&gt;(FTO, na sigla em inglês). O anúncio foi feito pelo Departamento de Estado em 28 de maio, e a medida entrou oficialmente em vigor em 5 de junho. A decisão foi tomada com base na seção 219 da Lei de Imigração e Nacionalidade dos Estados Unidos e em uma ordem executiva do presidente Donald Trump.&lt;/p&gt;
-&lt;p&gt;Na ocasião, o secretário de Estado americano, Marco Rubio, afirmou que PCC e CV estão entre as organizações criminosas mais violentas do Brasil e que suas redes ultrapassariam as fronteiras brasileiras&lt;/p&gt;
-&lt;p&gt;. A designação como organizações terroristas amplia os instrumentos disponíveis às autoridades norte-americanas para aplicar sanções e adotar medidas contra pessoas e entidades associadas a esses grupos.&lt;/p&gt;
-&lt;p&gt;o governo brasileiro contestou a classificação&lt;/p&gt;
-&lt;p&gt;e defendeu que o combate às organizações criminosas seja realizado pelo Brasil, com cooperação internacional e respeito à soberania nacional.&lt;/p&gt;
-&lt;p&gt;Apesar da crítica, o Brasil não é designado no documento de Trump como um país que tenha &quot;falhado de maneira demonstrável&quot; em cumprir suas obrigações internacionais de combate às drogas com base nas leis norte-americanas.&lt;/p&gt;
-&lt;p&gt;Essa classificação foi aplicada a Afeganistão, Bolívia, Birmânia, Colômbia e Venezuela.&lt;/p&gt;
-&lt;p&gt;Além disso, o Brasil também não figura na lista dos principais países de trânsito ou produção de drogas ilícitas.&lt;/p&gt;
-&lt;p&gt;São eles: Afeganistão, Bahamas, Belize, Bolívia, Birmânia, China, Colômbia, Costa Rica, República Dominicana, Equador, El Salvador, Guatemala, Haiti, Honduras, Índia, Jamaica, Laos, México, Nicarágua, Paquistão, Panamá, Peru e Venezuela.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/trump-cita-pcc-e-cv-e-diz-que-brasil-nao-conseguiu-enfrentar-faccoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Elizabeth Frantz/Proibida reprodução
-O presidente dos Estados Unidos (EUA), Donald Trump, criticou o governo brasileiro por, na sua visão, ...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-09-16 19:07:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-16 19:07:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-16 19:07:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-16 19:07:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/VWCp3R-KkRwFA6KRndy6hl62nHM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/28/2026-02-28t031827z_705080933_rc2pujas7bmm_rtrmadp_3_usa-trump.jpg?itok=Pu4Yd0GB</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Brasil cria política para ampliar produção de minerais críticos</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/Brasil-cria-politica-para-ampliar-producao-de-minerais-criticos</link>
-      <pubDate>Thu, 17 Sep 2026 05:52:46 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/Brasil-cria-politica-para-ampliar-producao-de-minerais-criticos#1009</guid>
-      <description>O presidente Luiz Inácio Lula da Silva sancionou nesta quarta-feira (16) a lei que cria a Política Nacional de Minerais Críticos e Estratégicos.
-A le...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Rhcxk1PazZwH8cpPXLjluZPYWoY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/03/exploracao_de_metais_criticos_impactam_comunidades_em_mg_02.jpg?itok=NtwddCNI&quot; alt=&quot;Brasil cria política para ampliar produção de minerais críticos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O presidente Luiz Inácio Lula da Silva sancionou nesta quarta-feira (16) a lei que cria a Política Nacional de Minerais Críticos e Estratégicos.&lt;/p&gt;
-&lt;p&gt;A lei prevê investimentos de até R$ 7 bilhões por meio de incentivos a projetos de processamento e transformação dos minerais.&lt;/p&gt;
-&lt;p&gt;O objetivo é estimular a pesquisa, extração e transformação de minerais críticos e estratégicos.&lt;/p&gt;
-&lt;p&gt;“A mineração exige investimentos intensivos e ciclos produtivos que frequentemente chegam a 40 anos. Por isso, previsibilidade e estabilidade, especialmente a fiscal, são premissas indispensáveis para atrair investimento de longo prazo”, explicou Pablo Cesário, do Instituto Brasileiro de Mineração.&lt;/p&gt;
-&lt;p&gt;A lei sancionada hoje cria um Fundo Garantidor da Atividade Mineral (Fgam) com aporte de R$ 2 bilhões da União para garantir empreendimentos e atividades vinculados à produção de minerais críticos e estratégicos. O montante do fundo pode chegar a R$ 5 bilhões. O fundo somente poderá apoiar projetos considerados prioritários no âmbito da política.&lt;/p&gt;
-&lt;p&gt;O Ministro minas e energia, Alexandre Silveira, afirmou que a nova lei será importante para o Brasil conhecer melhor os recursos que tem.&lt;/p&gt;
-&lt;p&gt;“O Brasil vai conhecer em profundidade seus recursos e preservar a capacidade de decisão sobre suas cadeias produtivas”, disse.&lt;/p&gt;
-&lt;p&gt;Ele explicou que o Serviço Geológico do Brasil terá um aumento de verba, de R$ 8 milhões para R$ 300 milhões, para investir em pesquisa para conhecimento do solo.&lt;/p&gt;
-&lt;p&gt;Após a assinatura da lei, Lula defendeu o investimento na formação de novos profissionais para um mercado que promete se expandir.&lt;/p&gt;
-&lt;p&gt;Lula convidou as universidades e institutos federais a participar da formação de novos cursos “para não ficarmos devendo a ninguém no mundo em preparação”.&lt;/p&gt;
-&lt;p&gt;O presidente destacou a importância em ter um mercado de mineração desenvolvido, com industrialização e tecnologia de refino e produção no Brasil. Em seguida, afirmou que existem “traidores da pátria” que quiseram vender, “a preço de banana, como fizeram com o minério de ferro”, minerais críticos em estado bruto para os Estados Unidos.&lt;/p&gt;
-&lt;p&gt;“Não permitiremos que a história se repita. Que os inimigos do Brasil entendam de uma vez por todas. Nossa soberania não está à venda. A riqueza do Brasil tem um único dono, o povo brasileiro”.&lt;/p&gt;
-&lt;p&gt;Lula também assinou o decreto que cria o Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos. Caberá ao conselho a coordenação, planejamento e acompanhamento da política nacional. O conselho deverá propor políticas e ações públicas destinadas ao desenvolvimento das cadeias produtivas e minerais críticos e estratégicos.&lt;/p&gt;
-&lt;p&gt;Os minerais críticos e terras raras são insumos indispensáveis para as indústrias de tecnologia, automobilística, defesa e para a concretização da transição energética.&lt;/p&gt;
-&lt;p&gt;Os minerais críticos são aqueles cujo suprimento pode envolver diferentes riscos de abastecimento: concentração geográfica da produção, dependência externa, instabilidade geopolítica, limitações tecnológicas, interrupção no fornecimento e dificuldade de substituição.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/Brasil-cria-politica-para-ampliar-producao-de-minerais-criticos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O presidente Luiz Inácio Lula da Silva sancionou nesta quarta-feira (16) a lei que cria a Política Nacional de Minerais Críticos e Estratégicos.
-A le...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-09-16 18:52:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-16 18:52:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-16 18:52:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-16 18:52:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Rhcxk1PazZwH8cpPXLjluZPYWoY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/10/03/exploracao_de_metais_criticos_impactam_comunidades_em_mg_02.jpg?itok=NtwddCNI</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
