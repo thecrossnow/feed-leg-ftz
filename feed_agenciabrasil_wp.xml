@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Tue, 22 Sep 2026 00:27:24 +0000</pubDate>
+    <pubDate>Tue, 22 Sep 2026 05:41:29 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,150 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Defesa Civil alerta para ventos fortes na cidade do Rio</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/defesa-civil-alerta-para-ventos-fortes-na-cidade-do-rio</link>
+      <pubDate>Tue, 22 Sep 2026 05:41:29 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/defesa-civil-alerta-para-ventos-fortes-na-cidade-do-rio#1000</guid>
+      <description>A Defesa Civil do Rio emitiu um alerta paraventos fortes na madrugada desta terça-feira (22). Moradores da capital receberam o aviso via celular.
+Seg...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/0zruK3YnRqo95Z6IrRUwGROonwQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/0g0a0004.jpg?itok=stYfrsNC&quot; alt=&quot;Defesa Civil alerta para ventos fortes na cidade do Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Defesa Civil do Rio emitiu um alerta paraventos fortes na madrugada desta terça-feira (22). Moradores da capital receberam o aviso via celular.&lt;/p&gt;
+&lt;p&gt;Segundo o Sistema Alerta Rio, áreas de instabilidade associadas à aproximação de uma frente fria continental podem provocarcéu nublado a encoberto epancadas de chuva moderada a forte durante a tarde e anoite, acompanhada de raios.&lt;/p&gt;
+&lt;p&gt;Os ventos podem chegar a51,9 km/h, com rajadas fortes amuito fortes (acima de 76 km/h) no decorrer do dia.&lt;/p&gt;
+&lt;p&gt;Para quarta-feira (23), com a passagem de uma frente fria eumidade, a previsão é de céu encoberto epancadas de chuva durante a madrugada, passando parachuva fraca a moderada ao longo do dia.Astemperaturas devem cair, com a máxima de22ºC.&lt;/p&gt;
+&lt;p&gt;Para quinta-feira (24) e sexta-feira (25), a previsão é de céu encoberto, comchuva fraca a moderada ao longo do período. Na quinta-feira, o dia deve ficar mais frio e, na sexta, a temperatura sobe, podendoalcançar os 27ºC.&lt;/p&gt;
+&lt;p&gt;Defesa Civil alerta para ventos fortes na cidade do Rio&lt;/p&gt;
+&lt;p&gt;AGU pede ao STF perda do cargo de ministro acusado de assédio&lt;/p&gt;
+&lt;p&gt;Veja como foi a segunda-feira (21) dos candidatos a presidente&lt;/p&gt;
+&lt;p&gt;Senacon vai investigar 70 postos por aumento abusivo de preços&lt;/p&gt;
+&lt;p&gt;Mãe pede justiça por jovem encontrada morta em condomínio no Ceará&lt;/p&gt;
+&lt;p&gt;FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/defesa-civil-alerta-para-ventos-fortes-na-cidade-do-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Defesa Civil do Rio emitiu um alerta paraventos fortes na madrugada desta terça-feira (22). Moradores da capital receberam o aviso via celular.
+Seg...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-09-21 21:16:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-21 21:16:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-21 21:16:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-21 21:16:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/0zruK3YnRqo95Z6IrRUwGROonwQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/0g0a0004.jpg?itok=stYfrsNC</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>AGU pede ao STF perda do cargo de ministro acusado de assédio</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/agu-pede-ao-stf-perda-do-cargo-de-ministro-acusado-de-assedio</link>
+      <pubDate>Tue, 22 Sep 2026 05:41:29 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/agu-pede-ao-stf-perda-do-cargo-de-ministro-acusado-de-assedio#1001</guid>
+      <description>A Advocacia-Geral da União (AGU) informou nesta segunda-feira (21) que solicitou ao Supremo Tribunal Federal (STF) a perda definitiva do cargo do min...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/UX_ywOczocpWvLbNbb2gN4V5SDY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/04/marco_buzzi.jpg?itok=5rvqP13u&quot; alt=&quot;AGU pede ao STF perda do cargo de ministro acusado de assédio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Advocacia-Geral da União (AGU) informou nesta segunda-feira (21) que solicitou ao Supremo Tribunal Federal (STF) a perda definitiva do cargo do ministro Superior Tribunal de Justiça (STJ) Marco Buzzi, acusado de assédio sexual.&lt;/p&gt;
+&lt;p&gt;STJ decidiu condenar o ministro&lt;/p&gt;
+&lt;p&gt;após julgar o processo disciplinar aberto para analisar as acusações.&lt;/p&gt;
+&lt;p&gt;Na petição apresentada ao STF, a AGU pede que o salário de Buzzi seja suspenso até o julgamento definitivo da ação.&lt;/p&gt;
+&lt;p&gt;A medida representa a primeira ação para perda de cargo após o&lt;/p&gt;
+&lt;p&gt;Supremo determinar o fim da aposentadoria compulsória&lt;/p&gt;
+&lt;p&gt;como pena máxima aos magistrados condenados por faltas disciplinares graves, como venda de sentenças, assédio sexual, entre outras.&lt;/p&gt;
+&lt;p&gt;, que é filha de um casal de amigos dele, durante um banho de mar.&lt;/p&gt;
+&lt;p&gt;O episódio teria ocorrido em janeiro deste ano, quando o ministro, a jovem e seus pais passaram férias em Balneário Camboriú, litoral de Santa Catarina.&lt;/p&gt;
+&lt;p&gt;Após o caso vir à tona, uma ex-funcionária terceirizada do gabinete do ministro denunciou que também foi alvo de assédio sexual.&lt;/p&gt;
+&lt;p&gt;Desde o surgimento das acusações, a defesa sustenta que o ministro não cometeu qualquer ato impróprio.&lt;/p&gt;
+&lt;p&gt;Buzzi está afastado do cargo, mas ainda pode recorrer ao Supremo.&lt;/p&gt;
+&lt;p&gt;Defesa Civil alerta para ventos fortes na cidade do Rio&lt;/p&gt;
+&lt;p&gt;AGU pede ao STF perda do cargo de ministro acusado de assédio&lt;/p&gt;
+&lt;p&gt;Veja como foi a segunda-feira (21) dos candidatos a presidente&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/agu-pede-ao-stf-perda-do-cargo-de-ministro-acusado-de-assedio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Advocacia-Geral da União (AGU) informou nesta segunda-feira (21) que solicitou ao Supremo Tribunal Federal (STF) a perda definitiva do cargo do min...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-09-21 21:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-21 21:00:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-21 21:00:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-21 21:00:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/UX_ywOczocpWvLbNbb2gN4V5SDY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/04/marco_buzzi.jpg?itok=5rvqP13u</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Veja como foi a segunda-feira (21) dos candidatos a presidente</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-segunda-feira-21-dos-candidatos-presidente</link>
+      <pubDate>Tue, 22 Sep 2026 05:41:29 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-segunda-feira-21-dos-candidatos-presidente#1002</guid>
+      <description>A agenda dos candidatos à Presidência nesta segunda-feira (21)incluiu sabatina,atos políticos, encontros com apoiadores e atividades de campanha em d...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL&quot; alt=&quot;Veja como foi a segunda-feira (21) dos candidatos a presidente&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A agenda dos candidatos à Presidência nesta segunda-feira (21)incluiu sabatina,atos políticos, encontros com apoiadores e atividades de campanha em diferentes cidades.&lt;/p&gt;
+&lt;p&gt;&gt;&gt; Veja como foi o dia dos presidenciáveis:&lt;/p&gt;
+&lt;p&gt;Em São Paulo, o candidato Augusto Curyparticipou de um encontro com influenciadores digitais.&lt;/p&gt;
+&lt;p&gt;Em conversa com a imprensa, Cury disse que há atualmenteuma indústria que promove oódio entre eleitores e políticos dedireita e esquerda. Segundo ele, essa polarização precisa acabare que, se eleito, irágovernar para todos.&lt;/p&gt;
+&lt;p&gt;Em Imperatriz (MA), a candidato Clariana Barão fez adesivaço.&lt;/p&gt;
+&lt;p&gt;O candidato Edmilson Costa participou de programa do PCB no Youtube.&lt;/p&gt;
+&lt;p&gt;Ele afirmou que uma de suasprincipais bandeiras é intensificar a democracia por meio da formação de conselhos populares.&lt;/p&gt;
+&lt;p&gt;“Os conselhos populares têm como função proporcionar a atuação do povo na gestão da economia e do Estado. Esses conselhos podem ser eleitos nos locais de trabalho, de moradia, de estudo e funcionariam como uma espécie de estrutura permanente da democracia direta”, disse.&lt;/p&gt;
+&lt;p&gt;O candidato Flávio Bolsonaro cumpriu agenda de campanha em Natal (RN), onde participou de uma moto-carreata e fez um comício.&lt;/p&gt;
+&lt;p&gt;Flávio Bolsonaro disse que irámanter o benefício do programa Bolsa Família, aliado a uma política de corte de impostos.&lt;/p&gt;
+&lt;p&gt;“Vou estender a mão para que possam se qualificar, se capacitar, concluir seus estudos, possam ter na palma da mão a possibilidade de saber onde tem emprego compatível com o que ela sabe fazer perto de onde mora. Como dar um financiamento barato, de longo prazo, e ensinando as pessoas como é que abre o seu próprio negócio”, afirmou.&lt;/p&gt;
+&lt;p&gt;Em São Paulo, o candidato Hertz Dias teve encontro como professor e comunicadorThiago Torres, conhecido como Chavoso da USP, e participou delançamento de livro.&lt;/p&gt;
+&lt;p&gt;O candidato Leonardo Avalanche não divulgou agenda pública de campanha.&lt;/p&gt;
+&lt;p&gt;Em viagem a Nova York (EUA), o presidenteLula, candidato à reeleição, defendeu as urnas eletrônicas usadas no sistema eleitoral brasileiro.&lt;/p&gt;
+&lt;p&gt;“Estou muito tranquilo com relação ao processo eleitoral. A nossa urna é muito séria. Aliás, o mundo inteiro deveria adotar o sistema eletrônico do Brasil. Não tem nenhum problema de contestação nas nossas eleições”, disse ementrevista à emissora de televisão CNN.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-segunda-feira-21-dos-candidatos-presidente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A agenda dos candidatos à Presidência nesta segunda-feira (21)incluiu sabatina,atos políticos, encontros com apoiadores e atividades de campanha em d...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-09-21 20:57:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-21 20:57:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-21 20:57:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-21 20:57:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Senacon vai investigar 70 postos por aumento abusivo de preços</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/senacon-vai-investigar-70-postos-por-aumento-abusivo-de-precos</link>
-      <pubDate>Tue, 22 Sep 2026 00:27:24 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 05:41:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/senacon-vai-investigar-70-postos-por-aumento-abusivo-de-precos#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/senacon-vai-investigar-70-postos-por-aumento-abusivo-de-precos#1003</guid>
       <description>A Secretaria Nacional do Consumidor (Senacon), órgão do Ministério da Justiça e Segurança Pública, instaurou nesta segunda-feira (21), 70 processos a...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/QmAMxUPre1wE44hgsDNjZMAn3Ok=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/posto_de_gasolina_jfcrz_abr_0605223810_0.jpg?itok=RFS7KqZg&quot; alt=&quot;Senacon vai investigar 70 postos por aumento abusivo de preços&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Secretaria Nacional do Consumidor (Senacon), órgão do Ministério da Justiça e Segurança Pública, instaurou nesta segunda-feira (21), 70 processos administrativos sancionadores contra postos de combustíveis por indícios de aumento abusivo de preços.&lt;/p&gt;
@@ -35,9 +174,15 @@
 &lt;p&gt;Os postos terão 15 dias para apresentar defesa.&lt;/p&gt;
 &lt;p&gt;Na última sexta-feira (18), a ANP informou à Senacon ter recebido cerca de 330 denúncias relacionadas a possíveis aumentos abusivos de preços e compartilhou informações para subsidiar a fiscalização e a análise do comportamento dos preços no mercado.&lt;/p&gt;
 &lt;p&gt;Diante do aumento das margens de lucro, a Senacon convocou para esta terça-feira (22) uma reunião nacional emergencial com os órgãos de defesa do consumidor. A finalidade é realizar ações coordenadas de fiscalização em todo o país.&lt;/p&gt;
-&lt;p&gt;A estratégia reúne medidas preventivas e repressivas para coibir condutas oportunistas para elevar preços sem justificativa compatível com as condições efetivas de comercialização.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/senacon-vai-investigar-70-postos-por-aumento-abusivo-de-precos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;A estratégia reúne medidas preventivas e repressivas para coibir condutas oportunistas para elevar preços sem justificativa compatível com as condições efetivas de comercialização.&lt;/p&gt;
+&lt;p&gt;Defesa Civil alerta para ventos fortes na cidade do Rio&lt;/p&gt;
+&lt;p&gt;AGU pede ao STF perda do cargo de ministro acusado de assédio&lt;/p&gt;
+&lt;p&gt;Veja como foi a segunda-feira (21) dos candidatos a presidente&lt;/p&gt;
+&lt;p&gt;Senacon vai investigar 70 postos por aumento abusivo de preços&lt;/p&gt;
+&lt;p&gt;Mãe pede justiça por jovem encontrada morta em condomínio no Ceará&lt;/p&gt;
+&lt;p&gt;FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/senacon-vai-investigar-70-postos-por-aumento-abusivo-de-precos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Secretaria Nacional do Consumidor (Senacon), órgão do Ministério da Justiça e Segurança Pública, instaurou nesta segunda-feira (21), 70 processos a...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-09-21 20:32:00</wp:post_date>
       <wp:post_date_gmt>2026-09-21 20:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-21 20:32:00</wp:post_modified>
@@ -61,13 +206,13 @@
       </wp:postmeta>
     </item>
     <item>
-      <title>Mãe quer justiça por jovem encontrada morta em condomínio no Ceará</title>
-      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/mae-quer-justica-por-jovem-encontrada-morta-em-condominio-no-ceara</link>
-      <pubDate>Tue, 22 Sep 2026 00:27:24 +0000</pubDate>
+      <title>Mãe pede justiça por jovem encontrada morta em condomínio no Ceará</title>
+      <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/mae-pede-justica-por-jovem-encontrada-morta-em-condominio-no-ceara</link>
+      <pubDate>Tue, 22 Sep 2026 05:41:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/mae-quer-justica-por-jovem-encontrada-morta-em-condominio-no-ceara#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/mae-pede-justica-por-jovem-encontrada-morta-em-condominio-no-ceara#1004</guid>
       <description>A família da universitáriaIsabelle Caracristi, de 22 anos, busca respostas e justiça pela morte da jovem.Isabelle foi encontrada morta no pátio do co...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Mãe quer justiça por jovem encontrada morta em condomínio no Ceará&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Mãe pede justiça por jovem encontrada morta em condomínio no Ceará&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A família da universitáriaIsabelle Caracristi, de 22 anos, busca respostas e justiça pela morte da jovem.Isabelle foi encontrada morta no pátio do condomínio onde morava com o namorado e familiares dele, em Fortaleza, no Ceará, no dia 13 de setembro.&lt;/p&gt;
 &lt;p&gt;&quot;Eu não estou chorando apenas a dor da perda, mas porque não tenhoRESPOSTAS. Eu não sei o que aconteceu com minha filha&quot;, disse a mãe Isabelle,Isorlanda Caracristi, em vídeo nas redes sociais.&lt;/p&gt;
 &lt;p&gt;Em nota, a defesa da família disse que está “integralmente dedicada e imbuída no acompanhamento presencial”de oitivas realizadas pela Polícia Civilnesta segunda-feira (21) para tentar esclarecer o caso. Anota é assinada pelas advogadas Adriana Alves e Patrícia Viana.&lt;/p&gt;
@@ -79,12 +224,12 @@
 &lt;p&gt;“Para a minha surpresa, eu estava bloqueada, eu fui tentar pelo Instagram dele, bloqueada. No outro Instagram pessoal, bloqueada. Totalmente bloqueada, bloqueada. Aí, eu me desesperei”, relatou.&lt;/p&gt;
 &lt;p&gt;Isorlanda disse ainda que só soube da morte da filha quando foi, acompanhada do filho e irmão de Isabelle, ao condomínio onde morava com o namorado. Lá, elesforam comunicados pela síndica que Isabelle tinha morrido na noite anterior. Segundo Isorlanda, a família do namorado não a informou sobre a morte.&lt;/p&gt;
 &lt;p&gt;A Secretaria da Segurança Pública e Defesa Social (SSPDS) disse que ainda não há um laudo da perícia forense que aponte a causa da morte da jovem. O caso está sendo investigado pela 2ª Delegacia de Polícia Civil da Capital.&lt;/p&gt;
+&lt;p&gt;Defesa Civil alerta para ventos fortes na cidade do Rio&lt;/p&gt;
 &lt;p&gt;AGU pede ao STF perda do cargo de ministro acusado de assédio&lt;/p&gt;
 &lt;p&gt;Veja como foi a segunda-feira (21) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Senacon vai investigar 70 postos por aumento abusivo de preços&lt;/p&gt;
-&lt;p&gt;Mãe quer justiça por jovem encontrada morta em condomínio no Ceará&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/mae-quer-justica-por-jovem-encontrada-morta-em-condominio-no-ceara&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Senacon vai investigar 70 postos por aumento abusivo de preços&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/mae-pede-justica-por-jovem-encontrada-morta-em-condominio-no-ceara&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A família da universitáriaIsabelle Caracristi, de 22 anos, busca respostas e justiça pela morte da jovem.Isabelle foi encontrada morta no pátio do co...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-09-21 20:09:00</wp:post_date>
       <wp:post_date_gmt>2026-09-21 20:09:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-21 20:09:00</wp:post_modified>
@@ -110,29 +255,30 @@
     <item>
       <title>FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fab-e-bombeiros-buscam-helicoptero-com-cantor-rick-desaparecido-em-sc</link>
-      <pubDate>Tue, 22 Sep 2026 00:27:24 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 05:41:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fab-e-bombeiros-buscam-helicoptero-com-cantor-rick-desaparecido-em-sc#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fab-e-bombeiros-buscam-helicoptero-com-cantor-rick-desaparecido-em-sc#1005</guid>
       <description>© Rick Solto/Arquivo/Divulgação
 A Força Aérea Brasileira (FAB) e o corpo de bombeiros de Santa Catarina realizam buscas por um helicóptero de matrícu...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/P-RnXZGlxB3vOLsWwN38Kyoah7k=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/21/817297000-18637441213011307-7893752847347371799-n.jpg?itok=zDWube-Q&quot; alt=&quot;FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;© Rick Solto/Arquivo/Divulgação&lt;/p&gt;
 &lt;p&gt;A Força Aérea Brasileira (FAB) e o corpo de bombeiros de Santa Catarina realizam buscas por um helicóptero de matrícula PP-MGR, desaparecido na tarde desta segunda-feira (21), próximo à cidade de São Joaquim (SC). Entre os desaparecidos está o cantor sertanejo Rick, da dupla Rick e Renner.&lt;/p&gt;
-&lt;p&gt;Segundo os bombeiros a aeronave decolou de Porto Belo (SC) e seguia para a região de São Joaquim. Além do cantor, estava na aeronave o empresário Bruno Avelar.&lt;/p&gt;
+&lt;p&gt;Segundo os bombeiros, a aeronave decolou de Porto Belo (SC) e seguia para a região de São Joaquim. Além do cantor, estava na aeronave o empresário Bruno Avelar.&lt;/p&gt;
 &lt;p&gt;O último contato foi feito por volta das 16h.&lt;/p&gt;
 &lt;p&gt;O Centro de Coordenação de Salvamento Aeronáutico de Curitiba, o Salvaero Curitiba, da FAB, atuou durante a tarde com duas aeronaves, uma Black Hawk (H-60) e SC-105 Amazonas, na região de Vacas Gordas, onde um aviso aos bombeiros relatou queda de aeronave.&lt;/p&gt;
 &lt;p&gt;&quot;A prioridade da operação é localizar a aeronave e seus ocupantes no menor tempo possível, concentrando os esforços de busca nas áreas de maior probabilidade e ajustando continuamente o planejamento à medida que novas informações são obtidas&quot;, informou a FAB.&lt;/p&gt;
 &lt;p&gt;Os bombeiros informaram que concentram as buscas em dois pontos, com uma distância de 30 quilômetros, entre o local onde foi avistada a queda e o ponto onde foi registrado o último sinal de celular de um dos tripulantes.&lt;/p&gt;
 &lt;p&gt;Cerca de 20 bombeiros militares participam da operação, com apoio de viaturas com tração 4x4, necessárias para acessar o terreno.&lt;/p&gt;
+&lt;p&gt;Nesta segunda-feira, os bombeiros atenderam ocorrências de alagamento e inundação em oito municípios do sul catarinense.&lt;/p&gt;
+&lt;p&gt;Defesa Civil alerta para ventos fortes na cidade do Rio&lt;/p&gt;
 &lt;p&gt;AGU pede ao STF perda do cargo de ministro acusado de assédio&lt;/p&gt;
 &lt;p&gt;Veja como foi a segunda-feira (21) dos candidatos a presidente&lt;/p&gt;
 &lt;p&gt;Senacon vai investigar 70 postos por aumento abusivo de preços&lt;/p&gt;
-&lt;p&gt;Mãe quer justiça por jovem encontrada morta em condomínio no Ceará&lt;/p&gt;
-&lt;p&gt;FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC&lt;/p&gt;
-&lt;p&gt;Empregados da Caixa rejeitam proposta da empresa e greve continua&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fab-e-bombeiros-buscam-helicoptero-com-cantor-rick-desaparecido-em-sc&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mãe pede justiça por jovem encontrada morta em condomínio no Ceará&lt;/p&gt;
+&lt;p&gt;FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/fab-e-bombeiros-buscam-helicoptero-com-cantor-rick-desaparecido-em-sc&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rick Solto/Arquivo/Divulgação
 A Força Aérea Brasileira (FAB) e o corpo de bombeiros de Santa Catarina realizam buscas por um helicóptero de matrícu...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-09-21 20:03:00</wp:post_date>
       <wp:post_date_gmt>2026-09-21 20:03:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-21 20:03:00</wp:post_modified>
@@ -158,9 +304,9 @@ A Força Aérea Brasileira (FAB) e o corpo de bombeiros de Santa Catarina realiz
     <item>
       <title>Empregados da Caixa rejeitam proposta da empresa e greve continua</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/empregados-da-caixa-rejeitam-proposta-da-empresa-e-greve-continua</link>
-      <pubDate>Tue, 22 Sep 2026 00:27:24 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 05:41:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/empregados-da-caixa-rejeitam-proposta-da-empresa-e-greve-continua#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/empregados-da-caixa-rejeitam-proposta-da-empresa-e-greve-continua#1006</guid>
       <description>© Valter Campanato/Agência Brasil
 Empregados da Caixa Econômica Federal decidiram manter a
 iniciada no dia 10 de setembro. A proposta da empresa foi ...</description>
@@ -176,12 +322,12 @@ iniciada no dia 10 de setembro. A proposta da empresa foi ...</description>
 &lt;p&gt;AGU pede ao STF perda do cargo de ministro acusado de assédio&lt;/p&gt;
 &lt;p&gt;Veja como foi a segunda-feira (21) dos candidatos a presidente&lt;/p&gt;
 &lt;p&gt;Senacon vai investigar 70 postos por aumento abusivo de preços&lt;/p&gt;
-&lt;p&gt;Mãe quer justiça por jovem encontrada morta em condomínio no Ceará&lt;/p&gt;
+&lt;p&gt;Mãe pede justiça por jovem encontrada morta em condomínio no Ceará&lt;/p&gt;
 &lt;p&gt;FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/empregados-da-caixa-rejeitam-proposta-da-empresa-e-greve-continua&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Valter Campanato/Agência Brasil
 Empregados da Caixa Econômica Federal decidiram manter a
 iniciada no dia 10 de setembro. A proposta da empresa foi ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-09-21 19:33:00</wp:post_date>
       <wp:post_date_gmt>2026-09-21 19:33:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-21 19:33:00</wp:post_modified>
@@ -207,9 +353,9 @@ iniciada no dia 10 de setembro. A proposta da empresa foi ...</excerpt:encoded>
     <item>
       <title>Rio confirma caso de raiva em cão que teve contato com morcego</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/rio-confirma-caso-de-raiva-em-cao-que-teve-contato-com-morcego</link>
-      <pubDate>Tue, 22 Sep 2026 00:27:24 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 05:41:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/rio-confirma-caso-de-raiva-em-cao-que-teve-contato-com-morcego#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/rio-confirma-caso-de-raiva-em-cao-que-teve-contato-com-morcego#1007</guid>
       <description>Um cão que vivia em uma área urbana na Zona Oeste do Rio de Janeiro teve diagnóstico confirmado de raiva em agosto e precisou ser sacrificado. De aco...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zvIR8SAEVuOA_kkEw2B5_E-T0to=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/trbr1932_0.jpg?itok=cg66ckH7&quot; alt=&quot;Rio confirma caso de raiva em cão que teve contato com morcego&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Um cão que vivia em uma área urbana na Zona Oeste do Rio de Janeiro teve diagnóstico confirmado de raiva em agosto e precisou ser sacrificado. De acordo com um alerta da Secretaria de Estado de Saúde fluminense (SES-RJ), divulgado em 18 de setembro, o animal tinha histórico de contato com morcegos.&lt;/p&gt;
@@ -228,7 +374,7 @@ iniciada no dia 10 de setembro. A proposta da empresa foi ...</excerpt:encoded>
 &lt;p&gt;A vigilância municipal em saúde deve ser comunicada imediatamente sobre cães ou gatos com sinais sugestivos de raiva&lt;/p&gt;
 &lt;p&gt;, como mudança brusca de comportamento, salivação intensa, falta de coordenação motora ou paralisia progressiva.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/rio-confirma-caso-de-raiva-em-cao-que-teve-contato-com-morcego&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Um cão que vivia em uma área urbana na Zona Oeste do Rio de Janeiro teve diagnóstico confirmado de raiva em agosto e precisou ser sacrificado. De aco...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-09-21 19:12:00</wp:post_date>
       <wp:post_date_gmt>2026-09-21 19:12:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-21 19:12:00</wp:post_modified>
@@ -254,9 +400,9 @@ iniciada no dia 10 de setembro. A proposta da empresa foi ...</excerpt:encoded>
     <item>
       <title>Moraes se declara impedido em ação sobre ida de sua esposa ao Senado</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-se-declara-impedido-em-acao-sobre-ida-de-sua-esposa-ao-senado</link>
-      <pubDate>Tue, 22 Sep 2026 00:27:24 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 05:41:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-se-declara-impedido-em-acao-sobre-ida-de-sua-esposa-ao-senado#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-se-declara-impedido-em-acao-sobre-ida-de-sua-esposa-ao-senado#1008</guid>
       <description>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), se declarou impedido de analisar um mandado de segurança que pede acesso a registr...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wmp0Q3YLydxnYujOq9RFO5w3bpY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/07/55367429687_67831ee575_o.jpg?itok=Am-_6A1x&quot; alt=&quot;Moraes se declara impedido em ação sobre ida de sua esposa ao Senado&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), se declarou impedido de analisar um mandado de segurança que pede acesso a registros de entrada e saída da advogada Viviane Barci, sua esposa, e do ex-banqueiro Daniel Vorcaro no Senado.&lt;/p&gt;
@@ -265,14 +411,14 @@ iniciada no dia 10 de setembro. A proposta da empresa foi ...</excerpt:encoded>
 &lt;p&gt;Com a decisão, o processo será encaminhado para o presidente do STF, Edson Fachin, que deverá determinar a escolha de um novo relator para o caso.&lt;/p&gt;
 &lt;p&gt;A ação foi protocolada pelo vereador de Curitiba Guilherme Kilter (Novo). O parlamentar quer obrigar o Senado a fornecer eventuais registros de entrada e saída de Viviane Barci, Vorcaro, do empresário Antônio Carlos Camilo Antunes, o Careca do INSS, e do empresário Fábio Luís Lula da Silva, filho do presidente Luiz Inácio Lula da Silva, nas dependências da Casa.&lt;/p&gt;
 &lt;p&gt;Segundo o vereador, os pedidos de acesso aos dados foram negados pelo Senado por envolver &quot;informações de caráter pessoal&quot;.&lt;/p&gt;
+&lt;p&gt;Defesa Civil alerta para ventos fortes na cidade do Rio&lt;/p&gt;
 &lt;p&gt;AGU pede ao STF perda do cargo de ministro acusado de assédio&lt;/p&gt;
 &lt;p&gt;Veja como foi a segunda-feira (21) dos candidatos a presidente&lt;/p&gt;
 &lt;p&gt;Senacon vai investigar 70 postos por aumento abusivo de preços&lt;/p&gt;
-&lt;p&gt;Mãe quer justiça por jovem encontrada morta em condomínio no Ceará&lt;/p&gt;
-&lt;p&gt;FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC&lt;/p&gt;
-&lt;p&gt;Empregados da Caixa rejeitam proposta da empresa e greve continua&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-se-declara-impedido-em-acao-sobre-ida-de-sua-esposa-ao-senado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Mãe pede justiça por jovem encontrada morta em condomínio no Ceará&lt;/p&gt;
+&lt;p&gt;FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/moraes-se-declara-impedido-em-acao-sobre-ida-de-sua-esposa-ao-senado&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), se declarou impedido de analisar um mandado de segurança que pede acesso a registr...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-09-21 19:06:00</wp:post_date>
       <wp:post_date_gmt>2026-09-21 19:06:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-21 19:06:00</wp:post_modified>
@@ -298,9 +444,9 @@ iniciada no dia 10 de setembro. A proposta da empresa foi ...</excerpt:encoded>
     <item>
       <title>Edital da Finep sobre mobilidade sustentável recebe projetos até sexta</title>
       <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/edital-da-finep-sobre-mobilidade-sustentavel-recebe-projetos-ate-sexta</link>
-      <pubDate>Tue, 22 Sep 2026 00:27:24 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 05:41:29 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/edital-da-finep-sobre-mobilidade-sustentavel-recebe-projetos-ate-sexta#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/edital-da-finep-sobre-mobilidade-sustentavel-recebe-projetos-ate-sexta#1009</guid>
       <description>A Financiadora de Estudos e Projetos (Finep) prorrogou até a próxima sexta-feira (25) o prazo para enviar projetos de inovação para a chamada pública...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/XjZQPcbJA7VpSO7-PjSsjJw2Hxk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rvrsa_abr_ebc_mobilidade_urbana_8.jpg?itok=RBgzNfLN&quot; alt=&quot;Edital da Finep sobre mobilidade sustentável recebe projetos até sexta&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Financiadora de Estudos e Projetos (Finep) prorrogou até a próxima sexta-feira (25) o prazo para enviar projetos de inovação para a chamada pública&lt;/p&gt;
@@ -315,11 +461,11 @@ iniciada no dia 10 de setembro. A proposta da empresa foi ...</excerpt:encoded>
 &lt;p&gt;Linha 3 - Mobilidade Metroferroviária: digitalização e sustentabilidade de ferrovias, como controle, segurança de vias e tração limpa.&lt;/p&gt;
 &lt;p&gt;Linha 4 - Micromobilidade: mobilidade ativa de curta distância, como bicicletas e triciclos de baixa emissão de carbono para carga ou passageiros (excluindo lazer), sistemas de compartilhamento e melhorias na infraestrutura urbana.&lt;/p&gt;
 &lt;p&gt;A partilha orçamentária destinará R$ 132,8 milhões para a Linha 1 (Mobilidade Aérea), R$ 37,7 milhões para a Linha 2 (Mobilidade Aquaviária) e R$ 33,3 milhões para as Linha 3 (Mobilidade Metroferroviária) e Linha 4 (Micromobilidade).&lt;/p&gt;
+&lt;p&gt;Defesa Civil alerta para ventos fortes na cidade do Rio&lt;/p&gt;
 &lt;p&gt;AGU pede ao STF perda do cargo de ministro acusado de assédio&lt;/p&gt;
-&lt;p&gt;Veja como foi a segunda-feira (21) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Senacon vai investigar 70 postos por aumento abusivo de preços&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/edital-da-finep-sobre-mobilidade-sustentavel-recebe-projetos-ate-sexta&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Veja como foi a segunda-feira (21) dos candidatos a presidente&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/edital-da-finep-sobre-mobilidade-sustentavel-recebe-projetos-ate-sexta&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Financiadora de Estudos e Projetos (Finep) prorrogou até a próxima sexta-feira (25) o prazo para enviar projetos de inovação para a chamada pública...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-09-21 19:00:00</wp:post_date>
       <wp:post_date_gmt>2026-09-21 19:00:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-21 19:00:00</wp:post_modified>
@@ -340,155 +486,6 @@ iniciada no dia 10 de setembro. A proposta da empresa foi ...</excerpt:encoded>
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/XjZQPcbJA7VpSO7-PjSsjJw2Hxk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/rvrsa_abr_ebc_mobilidade_urbana_8.jpg?itok=RBgzNfLN</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Temporais provocam morte, desaparecimentos e atingem 119 cidades no RS</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-provocam-morte-desaparecimentos-e-atingem-119-cidades-no-rs</link>
-      <pubDate>Tue, 22 Sep 2026 00:27:24 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-provocam-morte-desaparecimentos-e-atingem-119-cidades-no-rs#1007</guid>
-      <description>Uma pessoa morreu em Pelotas (RS) após o forte temporal que atingiu o estado do Rio Grande do Sul nesta segunda-feira (21).
-Segundo informações da Po...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_Tt8hbnX3lcwPGNXtkHTUkxf6As=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/21/whatsapp-image-2026-09-21-at-17.31.51.jpeg?itok=ypNUjl5C&quot; alt=&quot;Temporais provocam morte, desaparecimentos e atingem 119 cidades no RS&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Uma pessoa morreu em Pelotas (RS) após o forte temporal que atingiu o estado do Rio Grande do Sul nesta segunda-feira (21).&lt;/p&gt;
-&lt;p&gt;Segundo informações da Polícia Civil, a vítima era um motociclista que foi atingido pela queda de fios de alta tensão no momento do temporal na cidade.&lt;/p&gt;
-&lt;p&gt;De acordo com a prefeitura de Pelotas, o evento climático, caracterizado principalmente por um forte vendaval que chegou a alcançar 89 km/h, provocou destelhamentos, quedas de árvores e de postes e falta de energia em diversos pontos da cidade. Por causa disso, as aulas na rede pública municipal foram suspensas nesta segunda-feira.&lt;/p&gt;
-&lt;p&gt;Outras quatro pessoas estão desaparecidas em Caxias do Sul, cidade que chegou a registrar 159,4 milímetros de chuva somente nesta segunda-feira. Três dessas pessoas, informou a Defesa Civil, estavam em um veículo que foi arrastado pela enxurrada.&lt;/p&gt;
-&lt;p&gt;Um homem foi resgatado, mas um adolescente de 13 anos, uma criança de 4 anos e uma mulher de 43 anos seguem desaparecidos. Em uma outra ocorrência na cidade, um homem realizava a limpeza de uma galeria quando foi arrastado pela água no bairro De Lazzer.&lt;/p&gt;
-&lt;p&gt;Balanço divulgado no final da tarde de hoje pela Defesa Civil Estadual do Rio Grande do Sul apontou que, desde a última sexta-feira (18), foram registradas 122 ocorrências relacionadas a fortes ventos e chuvas em 119 municípios do estado.&lt;/p&gt;
-&lt;p&gt;Além da morte registrada em Pelotas, os temporais ocorridos no estado também deixaram outras três pessoas feridas nas cidades de Aceguá, Caxias do Sul e Santa Maria.&lt;/p&gt;
-&lt;p&gt;No total, informou o órgão, mais de 485 mil pessoas de todo o estado foram afetadas pelos eventos climáticos dos últimos dias&lt;/p&gt;
-&lt;p&gt;, sendo que 101 delas estão desabrigadas e 701 desalojadas. Os fortes ventos e chuvas também provocaram danos em 27 escolas e sete estabelecimentos de saúde.&lt;/p&gt;
-&lt;p&gt;AGU pede ao STF perda do cargo de ministro acusado de assédio&lt;/p&gt;
-&lt;p&gt;Veja como foi a segunda-feira (21) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Senacon vai investigar 70 postos por aumento abusivo de preços&lt;/p&gt;
-&lt;p&gt;Mãe quer justiça por jovem encontrada morta em condomínio no Ceará&lt;/p&gt;
-&lt;p&gt;FAB e bombeiros buscam helicóptero com cantor Rick, desaparecido em SC&lt;/p&gt;
-&lt;p&gt;Empregados da Caixa rejeitam proposta da empresa e greve continua&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-provocam-morte-desaparecimentos-e-atingem-119-cidades-no-rs&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Uma pessoa morreu em Pelotas (RS) após o forte temporal que atingiu o estado do Rio Grande do Sul nesta segunda-feira (21).
-Segundo informações da Po...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-09-21 18:48:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-21 18:48:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-21 18:48:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-21 18:48:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/_Tt8hbnX3lcwPGNXtkHTUkxf6As=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/21/whatsapp-image-2026-09-21-at-17.31.51.jpeg?itok=ypNUjl5C</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Morador de Pelotas mostra nas redes estragos causados por tempestade</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/morador-de-pelotas-mostra-nas-redes-estragos-causados-por-tempestade</link>
-      <pubDate>Tue, 22 Sep 2026 00:27:24 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/morador-de-pelotas-mostra-nas-redes-estragos-causados-por-tempestade#1008</guid>
-      <description>O morador da cidade gaúcha dePelotas Rafael Cunha foi uma das muitas vítimas da tempestade que atingiu o Rio Grande do Sul nesta madrugada de segunda...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Zl_Wz4V5jKdnyoA4S7p_uf3-PC0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/21/tempestaders.jpg?itok=IuktqdYw&quot; alt=&quot;Morador de Pelotas mostra nas redes estragos causados por tempestade&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O morador da cidade gaúcha dePelotas Rafael Cunha foi uma das muitas vítimas da tempestade que atingiu o Rio Grande do Sul nesta madrugada de segunda-feira (21). Cunhapostou nas redes sociais imagens da própriacasa, no bairroLaranjal,parcialmente destruída.&lt;/p&gt;
-&lt;p&gt;Um post compartilhado por Rafael C. | AI Builder - Digital Marketing (@rafaeldcunha)&lt;/p&gt;
-&lt;p&gt;“A tempestade arrancou o telhado todo do segundo andar da minha casa, que é um sobrado. As telhas voaram para a casa do meu vizinho e quebraram todo o telhado dele. Caiu telha em cima do carro. Só não aconteceu uma tragédia por Deus mesmo, porque tinha uma mãe e uma filha nessa casa”, conta à&lt;/p&gt;
-&lt;p&gt;O desastre aconteceu por volta de 1h30 da manhã.&lt;/p&gt;
-&lt;p&gt;Os vídeos que Cunha colocou na internet dão a dimensão dos estragos. É possível ver a água inundando toda a sua residência, descendo pela escada, além da total ausência de telhado.&lt;/p&gt;
-&lt;p&gt;A ventania e as chuvas atingiram também outros imóveis na região onde Cunha vive. Um prédio caiu no centro de Pelotas. “A cidade está um caos hoje”, diz..&lt;/p&gt;
-&lt;p&gt;Um post compartilhado por Rafael C. | AI Builder - Digital Marketing (@rafaeldcunha)&lt;/p&gt;
-&lt;p&gt;Rafael conta ainda que os moradores do bairro Laranjal não estão recebendo ajuda da prefeitura, do estado e nem da Defesa Civil local.&lt;/p&gt;
-&lt;p&gt;“Só dá telefone ocupado desde a 1h30 da manhã. Estou ligando para eles, para a Defesa Civil e para os bombeiros. A polícia não pode fazer nada e passa o número da Defesa Civil, que só dá ocupado”, lamenta.&lt;/p&gt;
-&lt;p&gt;Cunha não tem ideia do prejuízo material que terá, mas praticamente todos os seus móveis e outros pertences ficaram molhados. “Tenho uns R$ 2 mil em livros dentro de caixas que estão debaixo d´água. Muitas coisas de estante, de enfeite, coisas antigas que eu tinha. Tenho carne no congelador. Isso aí eu perdi tudo”, diz.&lt;/p&gt;
-&lt;p&gt;Segundo informação da Defesa Civil, a tempestade deixou ao menos quatro pessoas desaparecidas, quatro desabrigadas e 624 desalojadas.&lt;/p&gt;
-&lt;p&gt;De acordo com o órgão, 64 municípios do Rio Grande do Sul enfrentaram problemas com o temporal. Na cidade de Hulha Negra o vento chegou a 126,7 km/h.&lt;/p&gt;
-&lt;p&gt;Defesa Civil alerta para ventos fortes na cidade do Rio&lt;/p&gt;
-&lt;p&gt;AGU pede ao STF perda do cargo de ministro acusado de assédio&lt;/p&gt;
-&lt;p&gt;Veja como foi a segunda-feira (21) dos candidatos a presidente&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/morador-de-pelotas-mostra-nas-redes-estragos-causados-por-tempestade&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O morador da cidade gaúcha dePelotas Rafael Cunha foi uma das muitas vítimas da tempestade que atingiu o Rio Grande do Sul nesta madrugada de segunda...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-09-21 18:24:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-21 18:24:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-21 18:24:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-21 18:24:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/Zl_Wz4V5jKdnyoA4S7p_uf3-PC0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/21/tempestaders.jpg?itok=IuktqdYw</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Escolas privadas fora de locais de votação terão aulas normais no DF</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/escolas-privadas-fora-de-locais-de-votacao-terao-aula-no-df</link>
-      <pubDate>Tue, 22 Sep 2026 00:27:24 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/escolas-privadas-fora-de-locais-de-votacao-terao-aula-no-df#1009</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-O governo do Distrito Federal (GDF) alterou o
-decreto publicado no dia 11de setembro
-sobre a suspensão das aulas na...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/7M-FhEhukdDaBK-DTenfkQlP4yA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7273.jpg_0.jpg?itok=HIHkUuZK&quot; alt=&quot;Escolas privadas fora de locais de votação terão aulas normais no DF&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O governo do Distrito Federal (GDF) alterou o&lt;/p&gt;
-&lt;p&gt;decreto publicado no dia 11de setembro&lt;/p&gt;
-&lt;p&gt;sobre a suspensão das aulas nas duas sextas-feiras que antecedem o primeiro e o segundo turno das eleições deste ano, dias 2 e 23 de outubro.&lt;/p&gt;
-&lt;p&gt;Com a mudança, as escolas privadas que não forem requisitadas como locais de votação devem permanecer em funcionamento regular, com a manutenção integral das atividades escolares e das aulas.&lt;/p&gt;
-&lt;p&gt;foi publicada no Diário Oficial&lt;/p&gt;
-&lt;p&gt;do DF desta segunda-feira (21).&lt;/p&gt;
-&lt;p&gt;Já as escolas públicas continuam com as aulas suspensas nos dias 2 e 23 de outubro, assim como as escolas particulares que forem locais de votação. Se não houver segundo turno, a medida será cancelada no dia 23 de outubro.&lt;/p&gt;
-&lt;p&gt;A norma anterior suspendia as aulas em toda a rede de ensino pública e privada do DF, em virtude da realização das eleições gerais.&lt;/p&gt;
-&lt;p&gt;No caso das creches, as atividades permanecem sem alterações.&lt;/p&gt;
-&lt;p&gt;A reposição de horas-aula na rede de ensino pública deve seguir as diretrizes da Secretaria de Estado de Educação. Nas instituições privadas que tiverem as aulas suspensas, a reposição fica a critério de cada instituição de ensino.&lt;/p&gt;
-&lt;p&gt;AGU pede ao STF perda do cargo de ministro acusado de assédio&lt;/p&gt;
-&lt;p&gt;Veja como foi a segunda-feira (21) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Senacon vai investigar 70 postos por aumento abusivo de preços&lt;/p&gt;
-&lt;p&gt;Mãe quer justiça por jovem encontrada morta em condomínio no Ceará&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/escolas-privadas-fora-de-locais-de-votacao-terao-aula-no-df&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-O governo do Distrito Federal (GDF) alterou o
-decreto publicado no dia 11de setembro
-sobre a suspensão das aulas na...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-09-21 18:10:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-21 18:10:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-21 18:10:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-21 18:10:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/7M-FhEhukdDaBK-DTenfkQlP4yA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7273.jpg_0.jpg?itok=HIHkUuZK</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
