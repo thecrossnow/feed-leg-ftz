@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Thu, 24 Sep 2026 05:42:38 +0000</pubDate>
+    <pubDate>Thu, 24 Sep 2026 10:51:55 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,206 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Conheça os candidatos ao governo do Amapá nas eleições deste ano</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/conheca-os-candidatos-ao-governo-do-amapa-nas-eleicoes-deste-ano</link>
+      <pubDate>Thu, 24 Sep 2026 10:51:55 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/conheca-os-candidatos-ao-governo-do-amapa-nas-eleicoes-deste-ano#1000</guid>
+      <description>Cinco candidatos concorrem ao governo do Amapá nas eleições de 2026. No estado, 577.534 eleitores estão aptos a votar.
+51% são mulheres e 49%, homens...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/NaK0ITMIEA9GftUUJysKSx5wiEY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/23/candidatos_ap.jpg?itok=kBi4OQVi&quot; alt=&quot;Conheça os candidatos ao governo do Amapá nas eleições deste ano&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Cinco candidatos concorrem ao governo do Amapá nas eleições de 2026. No estado, 577.534 eleitores estão aptos a votar.&lt;/p&gt;
+&lt;p&gt;51% são mulheres e 49%, homens.&lt;/p&gt;
+&lt;p&gt;Entre os eleitores que declararam cor/raça, 72,15% são pessoas pardas; 13,91%, brancas; 11,53%, pretas; 1,93%,indígenas; e 0,47%, amarelas.&lt;/p&gt;
+&lt;p&gt;O primeiro turno das eleições ocorre no dia 4 de outubro. Em eventual segundo turno, os eleitores voltam às urnas em 25 de outubro.&lt;/p&gt;
+&lt;p&gt;Serão escolhidos os chefes do Poder Executivo - presidente da República e governadores - e seu vices, além dos representantes para compor o Legislativo, tanto no âmbito federal como no estadual e distrital - senadores, deputados federais, deputados estaduais e distritais.&lt;/p&gt;
+&lt;p&gt;Conheça os candidatos ao governo do Acre, em ordem alfabética de acordo com o nome que aparece na urna eletrônica:&lt;/p&gt;
+&lt;p&gt;Carlos Cley - Carlos Cley Ramos Paiva (PSTU)&lt;/p&gt;
+&lt;p&gt;Clécio - Clécio Luís Vilhena Vieira (Juntos por Todo o Amapá)&lt;/p&gt;
+&lt;p&gt;Delegado Marcos - Marcos José Reategui de Souza (DC)&lt;/p&gt;
+&lt;p&gt;Dr. Furlan - Antonio Paulo de Oliveira Furlan (Trabalhar para Transformar o Amapá)&lt;/p&gt;
+&lt;p&gt;Jairo Palheta - Jairo Palheta da Silva Marques (PCO)&lt;/p&gt;
+&lt;p&gt;Pais veem palmada como disciplina e não como violência, alerta Unicef&lt;/p&gt;
+&lt;p&gt;Conheça os candidatos a governador do Pará nas eleições de 2026&lt;/p&gt;
+&lt;p&gt;Beneficiários com NIS de final 6 recebem Bolsa Família de setembro&lt;/p&gt;
+&lt;p&gt;Sete candidatos concorrem ao governo do Amazonas; veja quem são&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/conheca-os-candidatos-ao-governo-do-amapa-nas-eleicoes-deste-ano&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Cinco candidatos concorrem ao governo do Amapá nas eleições de 2026. No estado, 577.534 eleitores estão aptos a votar.
+51% são mulheres e 49%, homens...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-09-24 07:15:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-24 07:15:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-24 07:15:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-24 07:15:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/NaK0ITMIEA9GftUUJysKSx5wiEY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/23/candidatos_ap.jpg?itok=kBi4OQVi</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Eleições 2026: saiba quem são os candidatos ao governo do Acre</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleicoes-2026-saiba-quem-sao-os-candidatos-ao-governo-do-acre</link>
+      <pubDate>Thu, 24 Sep 2026 10:51:55 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleicoes-2026-saiba-quem-sao-os-candidatos-ao-governo-do-acre#1001</guid>
+      <description>Seis candidatos concorrem ao governo do Acre nas eleições de 2026. No estado, 614.375 eleitores estão aptos a votar.
+. Entre os eleitores que declara...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/gQGjTHVqNjdLmKtzsTH26baNVtQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/23/candidatos_ac.jpg?itok=nD6kLb01&quot; alt=&quot;Eleições 2026: saiba quem são os candidatos ao governo do Acre&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Seis candidatos concorrem ao governo do Acre nas eleições de 2026. No estado, 614.375 eleitores estão aptos a votar.&lt;/p&gt;
+&lt;p&gt;. Entre os eleitores que declararam cor/raça, 72,28% são pessoas pardas; 14,53%, brancas; 8,29%, pretas; 4,34%, indígenas; e 0,89%, amarelas.&lt;/p&gt;
+&lt;p&gt;O primeiro turno das eleições ocorre no dia 4 de outubro. Em eventual segundo turno, os eleitores voltam às urnas em 25 de outubro.&lt;/p&gt;
+&lt;p&gt;Serão escolhidos os chefes do Poder Executivo - presidente da República e governadores - e seu vices, além dos representantes para compor o Legislativo, tanto no âmbito federal como no estadual e distrital - senadores, deputados federais, deputados estaduais e distritais.&lt;/p&gt;
+&lt;p&gt;Conheça os candidatos ao governo do Acre, em ordem alfabética de acordo com o nome que aparece na urna eletrônica:&lt;/p&gt;
+&lt;p&gt;Alan Rick - Alan Rick Miranda (Trabalho da Esperança)&lt;/p&gt;
+&lt;p&gt;Dr. Luisinho - Francisco das Chagas Conceição Da Silva (Agir)&lt;/p&gt;
+&lt;p&gt;Eudo Raffael - Eudo Raffael Lima da Silva (PCB)&lt;/p&gt;
+&lt;p&gt;Mailza Assis - Mailza Assis Cameli (Avança Acre)&lt;/p&gt;
+&lt;p&gt;Thor Dantas - Thor Oliveira Dantas (Frente Ampla pelo Acre)&lt;/p&gt;
+&lt;p&gt;Tião Bocalom - Sebastião Bocalom Rodrigues (Produzir para Empregar)&lt;/p&gt;
+&lt;p&gt;Conheça os candidatos a governador do Pará nas eleições de 2026&lt;/p&gt;
+&lt;p&gt;Pais veem palmada como disciplina e não como violência, alerta Unicef&lt;/p&gt;
+&lt;p&gt;Beneficiários com NIS de final 6 recebem Bolsa Família de setembro&lt;/p&gt;
+&lt;p&gt;Sete candidatos concorrem ao governo do Amazonas; veja quem são&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleicoes-2026-saiba-quem-sao-os-candidatos-ao-governo-do-acre&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Seis candidatos concorrem ao governo do Acre nas eleições de 2026. No estado, 614.375 eleitores estão aptos a votar.
+. Entre os eleitores que declara...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-09-24 07:05:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-24 07:05:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-24 07:05:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-24 07:05:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/gQGjTHVqNjdLmKtzsTH26baNVtQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/23/candidatos_ac.jpg?itok=nD6kLb01</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Mega-Sena sorteia prêmio acumulado de R$ 38 milhões nesta quinta-feira</title>
+      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-acumulado-de-r-38-milhoes-nesta-quinta-feira</link>
+      <pubDate>Thu, 24 Sep 2026 10:51:55 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-acumulado-de-r-38-milhoes-nesta-quinta-feira#1002</guid>
+      <description>© Marcello Casal jr/Agência Brasil
+A Mega-Sena sorteia nesta quinta-feira (24) prêmio estimado em R$ 38 milhões
+.As seis dezenas do concurso 3.062ser...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/VSnxcWw9Y8_DkprwcygW3vXv5C8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/megasena_dsc_5287.jpg?itok=ZKTmEX95&quot; alt=&quot;Mega-Sena sorteia prêmio acumulado de R$ 38 milhões nesta quinta-feira&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcello Casal jr/Agência Brasil&lt;/p&gt;
+&lt;p&gt;A Mega-Sena sorteia nesta quinta-feira (24) prêmio estimado em R$ 38 milhões&lt;/p&gt;
+&lt;p&gt;.As seis dezenas do concurso 3.062serão sorteadas a partir das 21h (horário de Brasília) no Espaço da Sorte, em São Paulo.&lt;/p&gt;
+&lt;p&gt;As apostas podem ser feitas até às 20h (horário de Brasília) de hoje&lt;/p&gt;
+&lt;p&gt;em casas lotéricas credenciadas pela Caixa em todo o país ou pela internet,no&lt;/p&gt;
+&lt;p&gt;ou aplicativo da Caixa. A aposta simples, com seis dezenas, custa R$ 6.&lt;/p&gt;
+&lt;p&gt;No último concurso, foram sorteados os números24 -25 -28 -37 -47 -55e&lt;/p&gt;
+&lt;p&gt;nenhum apostador acertou as seis dezenas&lt;/p&gt;
+&lt;p&gt;Pais veem palmada como disciplina e não como violência, alerta Unicef&lt;/p&gt;
+&lt;p&gt;Conheça os candidatos a governador do Pará nas eleições de 2026&lt;/p&gt;
+&lt;p&gt;Beneficiários com NIS de final 6 recebem Bolsa Família de setembro&lt;/p&gt;
+&lt;p&gt;Sete candidatos concorrem ao governo do Amazonas; veja quem são&lt;/p&gt;
+&lt;p&gt;Conheça os candidatos ao governo do Amapá nas eleições deste ano&lt;/p&gt;
+&lt;p&gt;Eleições 2026: saiba quem são os candidatos ao governo do Acre&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-acumulado-de-r-38-milhoes-nesta-quinta-feira&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcello Casal jr/Agência Brasil
+A Mega-Sena sorteia nesta quinta-feira (24) prêmio estimado em R$ 38 milhões
+.As seis dezenas do concurso 3.062ser...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-09-24 06:45:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-24 06:45:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-24 06:45:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-24 06:45:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/VSnxcWw9Y8_DkprwcygW3vXv5C8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/megasena_dsc_5287.jpg?itok=ZKTmEX95</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Sorteio define grupos da Copinha F que terá transmissão da TV Brasil</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/sorteio-define-grupos-da-copinha-f-que-tera-transmissao-da-tv-brasil</link>
+      <pubDate>Thu, 24 Sep 2026 10:51:55 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/sorteio-define-grupos-da-copinha-f-que-tera-transmissao-da-tv-brasil#1003</guid>
+      <description>A Federação Paulista de Futebol (FPF) sorteou, nessa quarta-feira (23), os grupos da quarta edição da Copinha F, versão feminina da Copa São Paulo, m...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png&quot; alt=&quot;Sorteio define grupos da Copinha F que terá transmissão da TV Brasil&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Federação Paulista de Futebol (FPF) sorteou, nessa quarta-feira (23), os grupos da quarta edição da Copinha F, versão feminina da Copa São Paulo, maior competição de base do país. A cerimônia ocorreu em uma casa de eventos na Vila Leopoldina, zona oeste da capital paulista. O torneio sub-20 terá transmissão da&lt;/p&gt;
+&lt;p&gt;O campeonato será disputado entre os dias 24 de novembro e 12 de dezembro, com 20 clubes de todas as regiões do país. A decisão será no Canindé, que também foi palco da primeira final da Copinha F, em 2023, vencida pelo Flamengo&lt;/p&gt;
+&lt;p&gt;. Nas duas últimas edições, o campeão foi conhecido na Mercado Livre Arena Pacaembu. Em 2024, o Fluminense levantou o troféu. Já no ano passado, o Rubro-Negro levou o bi.&lt;/p&gt;
+&lt;p&gt;Para 2026, são três estreantes: Vasco, Tarumã-AM e Ação-MT. As equipes foram sorteadas em cinco grupos de quatro, sediados em diferentes estádios de São Paulo. Os vencedores de cada um, mais os três melhores segundos colocados, avançam às quartas de final.&lt;/p&gt;
+&lt;p&gt;As chaves levam o nome de pontos icônicos da capital paulista. O Grupo A, por exemplo, faz referência ao Museu de Arte de São Paulo (Masp) e desponta como o de mais clássicos logo na primeira fase, reunindo Palmeiras, Flamengo, Vasco e Tarumã. Os jogos serão no Canindé.&lt;/p&gt;
+&lt;p&gt;Arquirrival alviverde, o Corinthians figura no Grupo B, que homenageia o Copan, um dos edifícios mais importantes de São Paulo, projetado pelo arquiteto Oscar Niemeyer. A chave ainda terá Red Bull Bragantino, Atlético-MG e Ação, com as partidas no Estádio Nicolau Alayon.&lt;/p&gt;
+&lt;p&gt;O Parque do Ibirapuera nomeia o Grupo C, sediado no Centro Esportivo, Recreativo e Educativo do Trabalhador (Ceret), que fica no Tatuapé, bairro da zona leste da cidade. Os integrantes são: Ferroviária, Centro Olímpico, Grêmio e Aliança-GO.&lt;/p&gt;
+&lt;p&gt;O Grupo D, com jogos na Arena Ibrachina, situada na Mooca, também na zona leste, representa o Mercadão, como é conhecido o famoso Mercado Municipal paulistano. A chave conta com São Paulo, Fluminense, Vitória e Criciúma.&lt;/p&gt;
+&lt;p&gt;O Grupo E leva o nome do Parque Estadual da Cantareira, que temuma das maiores áreas urbanas de Mata Atlântica preservada no mundo. O Ceret será palco das disputas entre Santos, Botafogo, Internacional e Sport.&lt;/p&gt;
+&lt;p&gt;A edição de 2025 teve média de 4,1 bolas na rede por partida ao longo de 37 jogos&lt;/p&gt;
+&lt;p&gt;. Por meio de parceria da FPF com a prefeitura de São Paulo, uma muda de árvore foi plantada a cada gol marcado, no parque do Ceret. Ao todo, foram plantadas 170 mudas. Para este ano, a meta é que cada gol represente o plantio de cinco novas árvores.&lt;/p&gt;
+&lt;p&gt;Conheça os candidatos a governador do Pará nas eleições de 2026&lt;/p&gt;
+&lt;p&gt;Pais veem palmada como disciplina e não como violência, alerta Unicef&lt;/p&gt;
+&lt;p&gt;Beneficiários com NIS de final 6 recebem Bolsa Família de setembro&lt;/p&gt;
+&lt;p&gt;Sete candidatos concorrem ao governo do Amazonas; veja quem são&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/sorteio-define-grupos-da-copinha-f-que-tera-transmissao-da-tv-brasil&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Federação Paulista de Futebol (FPF) sorteou, nessa quarta-feira (23), os grupos da quarta edição da Copinha F, versão feminina da Copa São Paulo, m...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-09-24 06:30:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-24 06:30:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-24 06:30:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-24 06:30:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Cenipa recupera caixa-preta de helicóptero que levava cantor Rick</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/cenipa-recupera-caixa-preta-de-helicoptero-que-levava-cantor-rick</link>
-      <pubDate>Thu, 24 Sep 2026 05:42:38 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 10:51:55 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/cenipa-recupera-caixa-preta-de-helicoptero-que-levava-cantor-rick#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/cenipa-recupera-caixa-preta-de-helicoptero-que-levava-cantor-rick#1004</guid>
       <description>O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) informou ter recuperado a caixa-preta do helicóptero modelo Bell 430, que cai...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kR63HjWakxb3r-4zsgJ0FvYmewk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/23/cvr_-_forca_aerea_brasileira_1.jpeg?itok=3QCbxdeo&quot; alt=&quot;Cenipa recupera caixa-preta de helicóptero que levava cantor Rick&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) informou ter recuperado a caixa-preta do helicóptero modelo Bell 430, que caiu na serra de Santa Catarina, na região do município de Urubici, no último domingo (20).&lt;/p&gt;
@@ -42,10 +237,10 @@
 &lt;p&gt;As buscas duraram cerca de 13 horas e foram feitas por aeronaves da Força Aérea Brasileira (FAB), além de bombeiros e equipes de resgate.&lt;/p&gt;
 &lt;p&gt;Os destroços só foram encontrados por volta das 12h de terça-feira (22), na região de Urubici. Além de Rick, estavam também a bordo o piloto Antônio Roberto Nóbrega de Araújo, o copiloto Leopoldo Barros Teixeira, o videomaker Paulo Soares e o empresário Bruno Avelar de Souza.&lt;/p&gt;
 &lt;p&gt;O corpo de Rick será velado na cidade de Sorocaba (SP) nesta quinta-feira (24), em cerimônia reservada a familiares e amigos.&lt;/p&gt;
-&lt;p&gt;Cenipa recupera caixa-preta de helicóptero que levava cantor Rick&lt;/p&gt;
-&lt;p&gt;Veja como foi a quarta-feira (23) dos presidenciáveis&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/cenipa-recupera-caixa-preta-de-helicoptero-que-levava-cantor-rick&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Conheça os candidatos a governador do Pará nas eleições de 2026&lt;/p&gt;
+&lt;p&gt;Pais veem palmada como disciplina e não como violência, alerta Unicef&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/cenipa-recupera-caixa-preta-de-helicoptero-que-levava-cantor-rick&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Centro de Investigação e Prevenção de Acidentes Aeronáuticos (Cenipa) informou ter recuperado a caixa-preta do helicóptero modelo Bell 430, que cai...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-09-23 21:19:00</wp:post_date>
       <wp:post_date_gmt>2026-09-23 21:19:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-23 21:19:00</wp:post_modified>
@@ -71,9 +266,9 @@
     <item>
       <title>Veja como foi a quarta-feira (23) dos presidenciáveis</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-23-dos-presidenciaveis</link>
-      <pubDate>Thu, 24 Sep 2026 05:42:38 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 10:51:55 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-23-dos-presidenciaveis#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-23-dos-presidenciaveis#1005</guid>
       <description>A agenda dos presidenciáveis nesta quarta-feira (23)incluiu debates, entrevistas e encontros com apoiadores, além de visitas a instituições e ativida...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL&quot; alt=&quot;Veja como foi a quarta-feira (23) dos presidenciáveis&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A agenda dos presidenciáveis nesta quarta-feira (23)incluiu debates, entrevistas e encontros com apoiadores, além de visitas a instituições e atividades de campanha.&lt;/p&gt;
@@ -92,7 +287,7 @@
 &lt;p&gt;&quot;Temos que desmontar as bases operacionais de funcionamento do PCC, em que ele pega a droga que chega, coloca dentro de contêineres e manda para exportação&quot;, disse.&lt;/p&gt;
 &lt;p&gt;O candidato Romeu Zema participoude debate da Revista Veja, em São Paulo.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-23-dos-presidenciaveis&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A agenda dos presidenciáveis nesta quarta-feira (23)incluiu debates, entrevistas e encontros com apoiadores, além de visitas a instituições e ativida...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-09-23 21:16:00</wp:post_date>
       <wp:post_date_gmt>2026-09-23 21:16:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-23 21:16:00</wp:post_modified>
@@ -118,9 +313,9 @@
     <item>
       <title>Entidades denunciam agressões às mulheres que disputam cargos</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/entidades-denunciam-agressoes-mulheres-que-disputam-cargos</link>
-      <pubDate>Thu, 24 Sep 2026 05:42:38 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 10:51:55 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/entidades-denunciam-agressoes-mulheres-que-disputam-cargos#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/entidades-denunciam-agressoes-mulheres-que-disputam-cargos#1006</guid>
       <description>© Marcelo Camargo/Agência Brasil
 As denúncias sobreviolência política de gênero têm crescido, especialmente em ano de eleição.
 Dados do Tribunal Supe...</description>
@@ -143,7 +338,7 @@ Dados do Tribunal Supe...</description>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 As denúncias sobreviolência política de gênero têm crescido, especialmente em ano de eleição.
 Dados do Tribunal Supe...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-09-23 20:58:00</wp:post_date>
       <wp:post_date_gmt>2026-09-23 20:58:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-23 20:58:00</wp:post_modified>
@@ -169,9 +364,9 @@ Dados do Tribunal Supe...</excerpt:encoded>
     <item>
       <title>BC amplia controle sobre criptomoedas e mira carteiras próprias</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-amplia-controle-sobre-criptomoedas-e-mira-carteiras-proprias</link>
-      <pubDate>Thu, 24 Sep 2026 05:42:38 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 10:51:55 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-amplia-controle-sobre-criptomoedas-e-mira-carteiras-proprias#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-amplia-controle-sobre-criptomoedas-e-mira-carteiras-proprias#1007</guid>
       <description>© Reuters/Edgar Su/Proibida reprodução
 O Banco Central (BC) ampliou as regras de controle sobre operações com ativos virtuais.
 O órgão determinou que...</description>
@@ -194,7 +389,7 @@ O órgão determinou que...</description>
       <excerpt:encoded>© Reuters/Edgar Su/Proibida reprodução
 O Banco Central (BC) ampliou as regras de controle sobre operações com ativos virtuais.
 O órgão determinou que...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-09-23 20:35:00</wp:post_date>
       <wp:post_date_gmt>2026-09-23 20:35:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-23 20:35:00</wp:post_modified>
@@ -220,9 +415,9 @@ O órgão determinou que...</excerpt:encoded>
     <item>
       <title>Lei institui atendimento a vítimas de violência física e sexual</title>
       <link>https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/lei-institui-atendimento-vitimas-de-violencia-fisica-e-sexual</link>
-      <pubDate>Thu, 24 Sep 2026 05:42:38 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 10:51:55 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/lei-institui-atendimento-vitimas-de-violencia-fisica-e-sexual#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/lei-institui-atendimento-vitimas-de-violencia-fisica-e-sexual#1008</guid>
       <description>© Marcelo Camargo/Agência Brasil
 Foi sancionada nesta quarta-feira (23) lei que institui protocolo de atendimento a mulheres, crianças e pessoas víti...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/bM_IpSnztGBLhMV65EkZLwFWbNg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/12/07/mcm_5823_0.jpg?itok=I6GUELPY&quot; alt=&quot;Lei institui atendimento a vítimas de violência física e sexual&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -243,7 +438,7 @@ Foi sancionada nesta quarta-feira (23) lei que institui protocolo de atendimento
 &lt;p&gt;Atendimento médico imediato para avaliação do estado clínico e emocional;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/lei-institui-atendimento-vitimas-de-violencia-fisica-e-sexual&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 Foi sancionada nesta quarta-feira (23) lei que institui protocolo de atendimento a mulheres, crianças e pessoas víti...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-09-23 20:17:00</wp:post_date>
       <wp:post_date_gmt>2026-09-23 20:17:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-23 20:17:00</wp:post_modified>
@@ -269,9 +464,9 @@ Foi sancionada nesta quarta-feira (23) lei que institui protocolo de atendimento
     <item>
       <title>Dólar aproxima-se de R$ 5,17, com notícias do exterior e eleições</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-aproxima-se-de-r-517-com-noticias-do-exterior-e-eleicoes</link>
-      <pubDate>Thu, 24 Sep 2026 05:42:38 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 10:51:55 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-aproxima-se-de-r-517-com-noticias-do-exterior-e-eleicoes#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-aproxima-se-de-r-517-com-noticias-do-exterior-e-eleicoes#1009</guid>
       <description>© REUTERS/Cheryl Ravelo/ Proibido reprodução
 O dólar fechou em forte alta nesta quarta-feira (23), pressionado pela valorização da moeda estadunidens...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/6x3f_psoPRtJ1JY345405EfKGlY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/2026-07-30t121533z_1_lynxmpem6t1aa_rtroptp_4_philippines-economy-reserves.jpg?itok=J0qTToum&quot; alt=&quot;Dólar aproxima-se de R$ 5,17, com notícias do exterior e eleições&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -292,7 +487,7 @@ O dólar fechou em forte alta nesta quarta-feira (23), pressionado pela valoriza
 &lt;p&gt;O índice oscilou entre a máxima de 188.772 pontos e a mínima de 185.676 pontos. O volume financeiro somou R$ 29,68 bilhões.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-aproxima-se-de-r-517-com-noticias-do-exterior-e-eleicoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Cheryl Ravelo/ Proibido reprodução
 O dólar fechou em forte alta nesta quarta-feira (23), pressionado pela valorização da moeda estadunidens...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-09-23 19:37:00</wp:post_date>
       <wp:post_date_gmt>2026-09-23 19:37:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-23 19:37:00</wp:post_modified>
@@ -313,197 +508,6 @@ O dólar fechou em forte alta nesta quarta-feira (23), pressionado pela valoriza
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/6x3f_psoPRtJ1JY345405EfKGlY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/30/2026-07-30t121533z_1_lynxmpem6t1aa_rtroptp_4_philippines-economy-reserves.jpg?itok=J0qTToum</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Tsunami meteorológico: entenda o evento raro e rápido que atingiu SC</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/tsunami-meteorologico-entenda-o-evento-raro-e-rapido-que-atingiu-sc</link>
-      <pubDate>Thu, 24 Sep 2026 05:42:38 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/tsunami-meteorologico-entenda-o-evento-raro-e-rapido-que-atingiu-sc#1006</guid>
-      <description>© Prefeitura Laguna SC/Divulgação
-Aumento súbito do nível do mar, com ondas violentas, e ventos fortes formam o chamado tsunami meteorológico. Embora...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/XSYE0ZsxLTPMqBp_ehUK318-D5A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/23/arte-31-.jpg?itok=zKisl2zJ&quot; alt=&quot;Tsunami meteorológico: entenda o evento raro e rápido que atingiu SC&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Prefeitura Laguna SC/Divulgação&lt;/p&gt;
-&lt;p&gt;Aumento súbito do nível do mar, com ondas violentas, e ventos fortes formam o chamado tsunami meteorológico. Embora raro, o fenômeno, associado a formações de tempestades, se repetiu no litoral catarinense.&lt;/p&gt;
-&lt;p&gt;A primeira ocorrência se deu em novembro de 2023 e foi registrada na Praia do Cardoso, em Laguna. Na segunda-feira (21), a repetição atingiu a mesma Praia do Cardoso, outras áreas em Laguna, além das cidades de Jaguaruna e Imbituba.&lt;/p&gt;
-&lt;p&gt;Conhecido também como meteotsunami, o fenômenofavorece o avanço do mar de forma mais rápida e violenta do que nas conhecidas ressacas.&lt;/p&gt;
-&lt;p&gt;Apesar do nome, entretanto, o meteotsunami émais fraco que os tsunamis de origem sísmica, geralmente associados a terremotos.&lt;/p&gt;
-&lt;p&gt;Mesmo assim, aforça da água arrastou redes de pesca e equipamentose chegou a deslocar algumas embarcações, todas já recuperadas, sem danos maiores às estruturas dos ranchos, segundo a Defesa Civil de Laguna.&lt;/p&gt;
-&lt;p&gt;O maior estragoregistradofoi em uma igreja local, onde a água derrubou parte do muro.&lt;/p&gt;
-&lt;p&gt;Não houve registro de feridos, apenas danos materiais, acrescentou o órgão&lt;/p&gt;
-&lt;p&gt;Segundo a Defesa Civil estadual, o fenômeno registrado é raro e de difícil previsibilidade, envolvendo um conjunto de fatores. Sua ocorrência pôde serconfirmadapor radares meteorológicos, imagens de satélite e registros dos marégrafos.&lt;/p&gt;
-&lt;p&gt;&quot;Foi identificada uma linha de instabilidade no Litoral Sul, com uma faixa de nuvens alinhada à frente da chuva, o que provocou rajadas de vento sul entre 60 e 90 km/h&quot;, descreve a Defesa Civil.&lt;/p&gt;
-&lt;p&gt;&quot;A atuação dos ventos, associada às alterações na pressão atmosférica, coincidiu com a rápida elevação do nível do mar por volta das 6h, registrada pelos marégrafos de Imbituba e Laguna e por câmeras de segurança na faixa litorânea&quot;, continua o órgão em nota.&lt;/p&gt;
-&lt;p&gt;Apesar do mau tempo e do fenômeno, as três cidades atingidas pelo tsunami meteorológico não necessitaram de apoio.&lt;/p&gt;
-&lt;p&gt;No estado, são 11 as cidades que decretaram Situação de Emergência por causa das fortes chuvas: Timbé do Sul, Criciúma, Turvo, São Joaquim, Campo Erê, Araranguá, Forquilhinha, Ermo, Meleiro, Bom Jardim da Serra e Nova Veneza.&lt;/p&gt;
-&lt;p&gt;O município de Porto União está em processo para emissão de decreto e registra 203 pessoas desabrigadas, 241 desalojadas e 135 famílias afetadas após chuvas intensas e ventos superiores a 60 km/h. Cinco abrigos foram abertos para atendimento da população.&lt;/p&gt;
-&lt;p&gt;As condições do clima tendem a melhorar no estado. Embora haja previsão de frio até a sexta-feira, com temperaturas próximas de zero, não há previsão de instabilidades relevantes.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/tsunami-meteorologico-entenda-o-evento-raro-e-rapido-que-atingiu-sc&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Prefeitura Laguna SC/Divulgação
-Aumento súbito do nível do mar, com ondas violentas, e ventos fortes formam o chamado tsunami meteorológico. Embora...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-09-23 19:25:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-23 19:25:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-23 19:25:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-23 19:25:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/XSYE0ZsxLTPMqBp_ehUK318-D5A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/23/arte-31-.jpg?itok=zKisl2zJ</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>TCU recomenda análise de alternativas à caducidade da Enel em SP</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tcu-recomenda-analise-de-alternativas-caducidade-da-enel-em-sp</link>
-      <pubDate>Thu, 24 Sep 2026 05:42:38 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tcu-recomenda-analise-de-alternativas-caducidade-da-enel-em-sp#1007</guid>
-      <description>O plenário do Tribunal de Contas da União (TCU) recomendou nesta quarta-feira (23) que o Ministério de Minas e Energia (MME) e a Agência Nacional de ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/8hpLYHJZBYiZuD3m46NfFp0EAbc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/18/whatsapp_image_2024-03-18_at_15.25.41_1.jpeg?itok=eOAt5zg8&quot; alt=&quot;TCU recomenda análise de alternativas à caducidade da Enel em SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O plenário do Tribunal de Contas da União (TCU) recomendou nesta quarta-feira (23) que o Ministério de Minas e Energia (MME) e a Agência Nacional de Energia Elétrica (Aneel) estudem alternativas à caducidade da concessão da Enel São Paulo antes de uma eventual decisão pela extinção do contrato.&lt;/p&gt;
-&lt;p&gt;A recomendação determina que sejam avaliados os efeitos da medida para os consumidores e para o sistema de distribuição de energia&lt;/p&gt;
-&lt;p&gt;. O processo foi relatado pelo ministro Augusto Nardes.&lt;/p&gt;
-&lt;p&gt;A caducidade é a forma mais severa de encerramento de uma concessão por descumprimento das obrigações contratuais. No caso da Enel, a decisão ainda depende da conclusão do processo na Aneel e, posteriormente, do Ministério de Minas e Energia.&lt;/p&gt;
-&lt;p&gt;O TCU determinou que governo e Aneel façam uma “análise estruturada” antes de uma eventual caducidade. O estudo deverá considerar quais operadores poderiam assumir a concessão, o cronograma de transição, o custo de indenização dos bens reversíveis, o possível impacto nas tarifas e os riscos para o setor de distribuição.&lt;/p&gt;
-&lt;p&gt;Segundo o tribunal, deverá ser demonstrado, de forma fundamentada, que a caducidade produziria benefício líquido ao consumidor&lt;/p&gt;
-&lt;p&gt;a Aneel analisa o processo que pode resultar na recomendação de caducidade da concessão da Enel São Paulo&lt;/p&gt;
-&lt;p&gt;A diretoria da agência ainda decidirá se recomenda ou não a medida ao Ministério de Minas e Energia. A palavra final caberá ao governo federal.&lt;/p&gt;
-&lt;p&gt;A Enel contesta a conclusão da Aneel de que sua distribuidora paulista apresenta “falhas estruturais” na prestação dos serviços. A avaliação considera, entre outros fatores,&lt;/p&gt;
-&lt;p&gt;o desempenho da empresa na recuperação do fornecimento após eventos climáticos extremos registrados em 2023, 2024 e 2025&lt;/p&gt;
-&lt;p&gt;A recomendação do TCU está alinhada a um pedido apresentado pela própria Enel nas alegações finais do processo. A empresa defendeu que a Aneel avaliasse as consequências práticas de uma eventual extinção da concessão.&lt;/p&gt;
-&lt;p&gt;&gt;&gt;Enel apresenta alegações finais contra caducidade da concessão&lt;/p&gt;
-&lt;p&gt;Segundo a companhia, esses impactos ainda não teriam sido considerados de forma suficiente. O TCU agora determina uma avaliação que inclua efeitos sobre a continuidade do serviço, a transição operacional e as tarifas.&lt;/p&gt;
-&lt;p&gt;A eventual caducidade da Enel São Paulo seria inédita no setor elétrico brasileiro. A medida nunca foi aplicada a uma concessão de distribuição de energia no país.&lt;/p&gt;
-&lt;p&gt;Em casos anteriores, houve situações em que o poder público assumiu os serviços ou em que o operador decidiu vender a concessão&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tcu-recomenda-analise-de-alternativas-caducidade-da-enel-em-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O plenário do Tribunal de Contas da União (TCU) recomendou nesta quarta-feira (23) que o Ministério de Minas e Energia (MME) e a Agência Nacional de ...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-09-23 18:51:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-23 18:51:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-23 18:51:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-23 18:51:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/8hpLYHJZBYiZuD3m46NfFp0EAbc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/03/18/whatsapp_image_2024-03-18_at_15.25.41_1.jpeg?itok=eOAt5zg8</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Anvisa alerta para venda irregular de tirzepatida em pó na internet</title>
-      <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-alerta-para-venda-irregular-de-tirzepatida-em-po-na-internet</link>
-      <pubDate>Thu, 24 Sep 2026 05:42:38 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-alerta-para-venda-irregular-de-tirzepatida-em-po-na-internet#1008</guid>
-      <description>© Valter Campanato/Agência Brasil
-A Agência Nacional de Vigilância Sanitária (Anvisa) divulgou um alerta, nesta quarta-feira (23), sobre a oferta irr...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uO9eJaMe5PBo7fSYtnqHT73SWoM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/09/0d7a5833.jpg?itok=ry8qeRZ_&quot; alt=&quot;Anvisa alerta para venda irregular de tirzepatida em pó na internet&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;A Agência Nacional de Vigilância Sanitária (Anvisa) divulgou um alerta, nesta quarta-feira (23), sobre a oferta irregular nas redes sociais de tirzepatida em pó.&lt;/p&gt;
-&lt;p&gt;A substância é um medicamento injetável que ativa o receptor de GLP-1, presente nas chamadas canetas emagrecedoras.&lt;/p&gt;
-&lt;p&gt;No Brasil, a tirzepatida regulamentada pela Anvisa é vendida em farmácias, sendo o princípio ativo presente no Mounjaro. Também pode ser encontrada em farmácias de manipulação, desde que o paciente tenha indicação e prescrição médica.&lt;/p&gt;
-&lt;p&gt;Oórgão alerta que não é seguro manipular e utilizar medicamentos que não foram produzidos em um ambiente estéril, ou seja, livre de microorganismos como bactérias e fungos.&lt;/p&gt;
-&lt;p&gt;De acordo com a nota, em vídeos em formato de tutorialnas redes sociais os usuários diluem o produto e ensinam a fazer a aplicação em casa sem qualquer cuidado sanitário.&lt;/p&gt;
-&lt;p&gt;A agência ressalta que o comércio ilegal desse tipo de medicamento tem sido alvo de diversas ações policiais.&lt;/p&gt;
-&lt;p&gt;A Anvisa ressalta que, como o produto não passou por nenhuma avaliação, não é possível comprovar nem mesmo se o princípio ativo da substância está presente.&lt;/p&gt;
-&lt;p&gt;“Além disso, não é possível comprovar sua concentração, nem a presença de impurezas e agentes contaminantes”, diz a nota.&lt;/p&gt;
-&lt;p&gt;O órgão alerta que, quando uma substância é injetada no corpo, acessa o organismo diretamente e pode se transformar em uma infecção grave.&lt;/p&gt;
-&lt;p&gt;“A crença de que misturar um produto em pó com água ou outra solução e aplicá-lo com uma seringa torna essa mistura segura oferece sérios riscos à saúde, especialmente quando não existe garantia de que o produto seja estéril”.&lt;/p&gt;
-&lt;p&gt;O órgão chama atenção para o fato de que os contaminantes podem ser invisíveis a olho nu e, o fato de que o produto pareça limpo e estejalacrado, não significa que seja seguro.&lt;/p&gt;
-&lt;p&gt;Há também o risco de contaminação no preparo, por se tratar de ambiente doméstico.&lt;/p&gt;
-&lt;p&gt;“Por essas razões, apenas produtos fabricados especificamente para uso injetável, sob rígidos controles de qualidade e esterilidade, devem ser administrados por essa via”, recomenda a Anvisa&lt;/p&gt;
-&lt;p&gt;A Anvisa informou que, além da tirzepatida em pó, perfis nas redes sociais também divulgam e indicam o uso do CBL-514, substância com suposto potencial de redução da gordura localizada. No entanto, o peptídeo sintético ainda está em fase 2 de estudo e não tem nem registro, nem autorização para venda.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-alerta-para-venda-irregular-de-tirzepatida-em-po-na-internet&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-A Agência Nacional de Vigilância Sanitária (Anvisa) divulgou um alerta, nesta quarta-feira (23), sobre a oferta irr...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-09-23 18:49:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-23 18:49:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-23 18:49:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-23 18:49:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/uO9eJaMe5PBo7fSYtnqHT73SWoM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/01/09/0d7a5833.jpg?itok=ry8qeRZ_</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Internacional contrata técnico Eduardo Baptista até o fim da temporada</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/internacional-contrata-tecnico-eduardo-baptista-ate-o-fim-da-temporada</link>
-      <pubDate>Thu, 24 Sep 2026 05:42:38 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/internacional-contrata-tecnico-eduardo-baptista-ate-o-fim-da-temporada#1009</guid>
-      <description>© Reprodução Instagram/Internacional
-O Internacional anunciou a contratação do técnico Eduardo Baptista nesta quarta-feira (23), três dias após a dem...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kl6X1q-lgmKBDejCzVPxpmrTH6A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/23/eduardo_baptista_novo_tecnico_internacioinal_2026.jpg?itok=adldMbcy&quot; alt=&quot;Internacional contrata técnico Eduardo Baptista até o fim da temporada&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Reprodução Instagram/Internacional&lt;/p&gt;
-&lt;p&gt;O Internacional anunciou a contratação do técnico Eduardo Baptista nesta quarta-feira (23), três dias após a demissão do uruguaio Paulo Pezollano. O novo treinador terá o desafio de tirar o Colorado da zona de rebaixamento (Z4)a 10 rodadas do fim do Campeonato Brasileiro. Com 28 pontos, o Inter amarga o 18ª lugar no Brasileirão. Baptista comandará o Inter até ofinal deste ano.&lt;/p&gt;
-&lt;p&gt;Até a última terça (22), Baptista comandava o Criciúma. Após um ano e quatro meses de trabalho no clube, ele deixou o time catarinense na sexta posição da Série B.&lt;/p&gt;
-&lt;p&gt;Baptista retorna a um clube da elite do futebol brasileiro após quatro anos. Em 2022 ele teve uma passagem meteórica (seis jogos apenas) pelo Atlético-GO.&lt;/p&gt;
-&lt;p&gt;Desde que iniciou a carreira de técnico em 2014 no Sport, Baptista acumulou passagens no comando de Fluminense, Palmeiras, Athletico-PR, Vila Nova, Mirassol, Remo, Juventude e Atlético-GO, entre outros.&lt;/p&gt;
-&lt;p&gt;Aos 56 anos, o técnico paulista assume oColorado junto com o auxiliar Julio Cesar Schiavon e com o analista de desempenho Lucas Brito Souza.&lt;/p&gt;
-&lt;p&gt;Cenipa recupera caixa-preta de helicóptero que levava cantor Rick&lt;/p&gt;
-&lt;p&gt;Veja como foi a quarta-feira (23) dos presidenciáveis&lt;/p&gt;
-&lt;p&gt;Entidades denunciam agressões às mulheres que disputam cargos&lt;/p&gt;
-&lt;p&gt;BC amplia controle sobre criptomoedas e mira carteiras próprias&lt;/p&gt;
-&lt;p&gt;Lei institui atendimento a vítimas de violência física e sexual&lt;/p&gt;
-&lt;p&gt;Federações questionam promessa de reforma de Gianni Infantino na Fifa&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/internacional-contrata-tecnico-eduardo-baptista-ate-o-fim-da-temporada&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Reprodução Instagram/Internacional
-O Internacional anunciou a contratação do técnico Eduardo Baptista nesta quarta-feira (23), três dias após a dem...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-09-23 18:46:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-23 18:46:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-23 18:46:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-23 18:46:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/kl6X1q-lgmKBDejCzVPxpmrTH6A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/23/eduardo_baptista_novo_tecnico_internacioinal_2026.jpg?itok=adldMbcy</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
