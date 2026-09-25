@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Fri, 25 Sep 2026 17:40:45 +0000</pubDate>
+    <pubDate>Fri, 25 Sep 2026 20:56:21 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,301 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Caixa libera dinheiro de antigo fundo PIS/Pasep; veja como sacar</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/caixa-libera-dinheiro-de-antigo-fundo-pispasep-veja-como-sacar</link>
+      <pubDate>Fri, 25 Sep 2026 20:56:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/caixa-libera-dinheiro-de-antigo-fundo-pispasep-veja-como-sacar#1000</guid>
+      <description>Empregados com carteira assinada e servidores públicos que trabalharam de 1971 a 1988 e estão na fila para sacar as cotas do antigo fundo Programa de...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/edXhlA_iXSD5sD95m2wU72O5eS8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220048_1.jpg?itok=H30i3fvq&quot; alt=&quot;Caixa libera dinheiro de antigo fundo PIS/Pasep; veja como sacar&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Empregados com carteira assinada e servidores públicos que trabalharam de 1971 a 1988 e estão na fila para sacar as cotas do antigo fundo Programa de Integração Social (PIS) e Programa de Formação do Patrimônio do Servidor Público (Pasep)podem reaver o valor.&lt;/p&gt;
+&lt;p&gt;A Caixa Econômica Federal começou a pagar nesta sexta-feira (25) um novo lote de valores esquecidos.&lt;/p&gt;
+&lt;p&gt;Nesta rodada, recebem aqueles que pediram o ressarcimento até 31 de agosto. O valor médio pago varia de R$ 2,8 mil a R$ 2,9 mil, dependendo do tempo de trabalho e do salário da época.&lt;/p&gt;
+&lt;p&gt;Trabalhadores com carteira assinada entre 1971 e 1988&lt;/p&gt;
+&lt;p&gt;Servidores públicos do mesmo período&lt;/p&gt;
+&lt;p&gt;Herdeiros ou dependentes legais, em caso de falecimento&lt;/p&gt;
+&lt;p&gt;Quem pediu o dinheiro até 31 de março&lt;/p&gt;
+&lt;p&gt;O benefício não tem relação com o abono salarial atual do PIS/Pasep, pago anualmente. Trata-se de cotas de um fundo antigo, extinto em 2020&lt;/p&gt;
+&lt;p&gt;Como consultar se há dinheiro disponível&lt;/p&gt;
+&lt;p&gt;é feita pelo portal Repis Cidadão, com login via conta Gov.br nos níveis prata e ouro.&lt;/p&gt;
+&lt;p&gt;Acesse o site e faça login com CPF e senha&lt;/p&gt;
+&lt;p&gt;Informe o número do PIS/Pasep ou NIS (se solicitado)&lt;/p&gt;
+&lt;p&gt;O sistema indicará se há valores e como proceder&lt;/p&gt;
+&lt;p&gt;Também é possível consultar pelo aplicativo do FGTS.&lt;/p&gt;
+&lt;p&gt;O pedido pode ser feito de duas formas:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/caixa-libera-dinheiro-de-antigo-fundo-pispasep-veja-como-sacar&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Empregados com carteira assinada e servidores públicos que trabalharam de 1971 a 1988 e estão na fila para sacar as cotas do antigo fundo Programa de...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-09-25 16:39:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-25 16:39:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-25 16:39:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-25 16:39:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/edXhlA_iXSD5sD95m2wU72O5eS8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220048_1.jpg?itok=H30i3fvq</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Conselho do MPF forma maioria para manter Gonet no caso Master</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/csmpf-forma-maioria-para-manter-gonet-no-caso-master</link>
+      <pubDate>Fri, 25 Sep 2026 20:56:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/csmpf-forma-maioria-para-manter-gonet-no-caso-master#1001</guid>
+      <description>© Marcelo Camargo/Agência Brasil
+O Conselho Superior do Ministério Público Federal (CSMPF) formou nesta sexta-feira (25)maioria de votos para manter ...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/OwzZ-neq7LiQpXfNhtJ0eAZtM_4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/posse-paulo-gonet_mcamgo_abr_18122023-10.jpg?itok=zECa-oxv&quot; alt=&quot;Conselho do MPF forma maioria para manter Gonet no caso Master&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Conselho Superior do Ministério Público Federal (CSMPF) formou nesta sexta-feira (25)maioria de votos para manter procurador-geral da República, Paulo Gonet, na condução das investigações que envolvem o Banco Master.&lt;/p&gt;
+&lt;p&gt;O colegiado analisa uma representação apresentada por deputados do Partido Novo que pede o afastamento de Gonet das investigações e a apuração de sua atuação no caso.&lt;/p&gt;
+&lt;p&gt;Até o momento, seis conselheiros votaram pela permanência de Gonet na condução das investigações.&lt;/p&gt;
+&lt;p&gt;Os conselheiros ainda vão deliberar sobre a abertura de uma investigação contra o procurador. Nesse ponto, o placar está em 3 a 3.&lt;/p&gt;
+&lt;p&gt;A sessão continua para a tomada dos demais votos.&lt;/p&gt;
+&lt;p&gt;Gonet foi citado em conversas encontradas pela Polícia Federal (PF) no celular do ex-banqueiro Daniel Vorcaro, que está preso e teve seu aparelho apreendido.&lt;/p&gt;
+&lt;p&gt;As mensagens vieram a público após o ministro André Mendonça, do Supremo Tribunal Federal (STF), retirar o sigilo de parte dos documentos relacionados ao caso Master.&lt;/p&gt;
+&lt;p&gt;“Na semana passada, o jornal O Globo publicou uma foto em que Gonet aparece fumando charuto ao lado de Vorcaro e de outras pessoas ligadas ao ex-banqueiro, durante um evento jurídico promovido pelo Master em abril de 2024, em Londres.&lt;/p&gt;
+&lt;p&gt;Após a divulgação das mensagens e da fotografia, Gonet negou ter proximidade com Vorcaroe disse que sua interação com ele ocorreu de forma &quot;brevíssima e banal&quot;.&lt;/p&gt;
+&lt;p&gt;Multas por aumento abusivo de combustíveis passam de R$ 700 milhões&lt;/p&gt;
+&lt;p&gt;Caixa libera dinheiro de antigo fundo PIS/Pasep; veja como sacar&lt;/p&gt;
+&lt;p&gt;Conselho do MPF forma maioria para manter Gonet no caso Master&lt;/p&gt;
+&lt;p&gt;Mais de 10 mil professores são selecionados via Prova Nacional Docente&lt;/p&gt;
+&lt;p&gt;Tesouro Direto bate recorde em agosto com R$ 15 bi em investimentos&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/csmpf-forma-maioria-para-manter-gonet-no-caso-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
+O Conselho Superior do Ministério Público Federal (CSMPF) formou nesta sexta-feira (25)maioria de votos para manter ...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-09-25 16:33:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-25 16:33:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-25 16:33:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-25 16:33:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/OwzZ-neq7LiQpXfNhtJ0eAZtM_4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/posse-paulo-gonet_mcamgo_abr_18122023-10.jpg?itok=zECa-oxv</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Mais de 10 mil professores são selecionados via Prova Nacional Docente</title>
+      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/mais-de-10-mil-professores-sao-selecionados-prova-nacional-docente</link>
+      <pubDate>Fri, 25 Sep 2026 20:56:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/mais-de-10-mil-professores-sao-selecionados-prova-nacional-docente#1002</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+O Ministério da Educação (MEC) contabilizou que mais de 10 mil professores foram selecionados em editais públicos q...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/7M-FhEhukdDaBK-DTenfkQlP4yA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7273.jpg_0.jpg?itok=HIHkUuZK&quot; alt=&quot;Mais de 10 mil professores são selecionados via Prova Nacional Docente&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Ministério da Educação (MEC) contabilizou que mais de 10 mil professores foram selecionados em editais públicos que utilizam a nota da primeira edição da Prova Nacional Docente (PND).&lt;/p&gt;
+&lt;p&gt;O exame tem o objetivo de auxiliar estados e municípios a selecionar professores para as próprias redes de ensino e, desta forma, aumentar o número de docentes efetivos no magistério público do país.&lt;/p&gt;
+&lt;p&gt;Na primeira edição da prova, apelidada de CNU dos Professores ou Enem dos Professores, o MEC confirmou a&lt;/p&gt;
+&lt;p&gt;de 1.508 redes de ensino municipais e 22 estaduais.&lt;/p&gt;
+&lt;p&gt;Ao todo, mais de 1,08 milhão de pessoas se inscreveram na PND 2025, porém, a taxa de comparecimento no dia da prova foi de aproximadamente 70% (760.118 candidatos).&lt;/p&gt;
+&lt;p&gt;Desses participantes efetivos, o MEC informou que&lt;/p&gt;
+&lt;p&gt;65% (cerca de 492 mil candidatos)&lt;/p&gt;
+&lt;p&gt;atingiram o nível de proficiência exigido.&lt;/p&gt;
+&lt;p&gt;De acordo com a pasta, esse número supera a estimativa da procura anual do país por novos docentes, calculada em cerca de 118 mil professores por ano.&lt;/p&gt;
+&lt;p&gt;Cerca de 220 mil candidatos que participaram do exame, em outubro de 2025, se inscreveram em editais das redes de ensino estaduais e municipais no ano passado, o que representa quase 30% (28,9%) do total de participantes efetivos.&lt;/p&gt;
+&lt;p&gt;O MEC ressalta que os professores devem ficar atentos aos processos seletivos estaduais e municipais que utilizam a PND para que possam se inscrever.&lt;/p&gt;
+&lt;p&gt;Os candidatos da segunda edição da PND terão mais opções para se inscrever a fim de concorrer a uma vaga no magistério público de diversos estados e municípios. Atualmente, a PND 2026 conta com a adesão de 2.031 entes federativos. Entre eles estão 96% das capitais e 85% dos estados brasileiros.&lt;/p&gt;
+&lt;p&gt;A PND 2026 contou com mais de 625,9 mil inscritos. No último domingo (20) foi realizada a segunda edição da Prova Nacional Docente para avaliar 21 áreas de licenciatura. As provas foram aplicadas em 806 cidades de todo o país.&lt;/p&gt;
+&lt;p&gt;Criada pelo MEC, a Prova Nacional Docente integra o eixo de Valorização do programa Mais Professores para o Brasil, do governo federal.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/mais-de-10-mil-professores-sao-selecionados-prova-nacional-docente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+O Ministério da Educação (MEC) contabilizou que mais de 10 mil professores foram selecionados em editais públicos q...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-09-25 14:58:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-25 14:58:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-25 14:58:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-25 14:58:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/7M-FhEhukdDaBK-DTenfkQlP4yA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/06/25/img_7273.jpg_0.jpg?itok=HIHkUuZK</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Tesouro Direto bate recorde em agosto com R$ 15 bi em investimentos</title>
+      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tesouro-direto-bate-recorde-em-agosto-com-r-15-bi-em-investimentos</link>
+      <pubDate>Fri, 25 Sep 2026 20:56:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tesouro-direto-bate-recorde-em-agosto-com-r-15-bi-em-investimentos#1003</guid>
+      <description>© Rafa Neddermeyer/Agência Brasil
+Os investimentos no Tesouro Direto somaram R$ 15 bilhões em agosto, o maior valor da série histórica do programa. N...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/kxSjxUyU-01X_1jVsu-y6ME5JTI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/_raf0993_1.jpg?itok=gmgF85eh&quot; alt=&quot;Tesouro Direto bate recorde em agosto com R$ 15 bi em investimentos&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
+&lt;p&gt;Os investimentos no Tesouro Direto somaram R$ 15 bilhões em agosto, o maior valor da série histórica do programa. No período, foram realizados 1,32 milhão de operações.&lt;/p&gt;
+&lt;p&gt;Os resgates e vencimentos totalizaram R$ 17,22 bilhões, resultando em captação líquida negativa (quando o governo paga mais dinheiro aos investidoresdo que capta com novas aplicações) de R$ 2,21 bilhões.&lt;/p&gt;
+&lt;p&gt;O resultado foi influenciado principalmente pelos vencimentos do Tesouro IPCA+ 2026, que somaram R$ 11,3 bilhões, e do Tesouro IPCA+ com Juros Semestrais 2026, com R$ 1,5 bilhão&lt;/p&gt;
+&lt;p&gt;Os títulos indexados à taxa Selic foram os mais procurados pelos investidores. As vendas do Tesouro Selic e do Tesouro Reserva alcançaram R$ 7 bilhões em agosto, o equivalentea 46,9% do total.&lt;/p&gt;
+&lt;p&gt;Os papéis indexados à inflação responderam por R$ 5,5 bilhões das aplicações (36,3%), enquanto os títulos prefixados somaram R$ 2,5 bilhões (16,7%).&lt;/p&gt;
+&lt;p&gt;Nas recompras antecipadas, os títulos atrelados à Selic também lideraram, com R$ 3 bilhões, ou 67,4% do total. Nesse caso, os títulos indexados à inflação (índices de preços) responderam por pouco mais de R$ 1 bilhão (22,9%), enquanto os prefixados, por R$ 423,6 milhões (9,7%).&lt;/p&gt;
+&lt;p&gt;Em relação ao prazo dos investimentos, a preferência foi por títulos com vencimento entre um e cinco anos, que concentraram 45,2% das vendas. Os com vencimento entre cinco e dez anos responderam por 43,2% das aplicações, enquanto os com prazo superior a dez anos representaram 11,7% do total.&lt;/p&gt;
+&lt;p&gt;As aplicações de até R$ 1 mil continuaram predominando entre os investidores e corresponderam a 55,7% das operações realizadas no mês&lt;/p&gt;
+&lt;p&gt;. O valor médio por aplicação foi de R$ 11.366,43.&lt;/p&gt;
+&lt;p&gt;O estoque do Tesouro Direto encerrou agosto em R$ 272 bilhões. O valor representa estabilidade em relação ao mês anterior, quando o estoque estava em R$ 272,3 bilhões, e crescimento de 43% na comparação com agosto de 2025, quando o estoque estava em R$ 190,2 bilhões.&lt;/p&gt;
+&lt;p&gt;Os títulos indexados à inflação permanecem como a principal parcela da carteira, com estoque de R$ 128 bilhões, o equivalente a 47,1% do total&lt;/p&gt;
+&lt;p&gt;. Em seguida aparecem os títulos atrelados à Selic, com R$ 106,9 bilhões (39,3%), e os prefixados, com R$ 37,1 bilhões (13,6%).&lt;/p&gt;
+&lt;p&gt;Do total em estoque, R$ 20,2 bilhões (7,4%) vencem em até um ano. Os títulos com vencimento entre um e cinco anos somam R$ 131,4 bilhões (48,3%), enquanto aqueles com prazo superior a cinco anos alcançam R$ 120,5 bilhões (44,3%).&lt;/p&gt;
+&lt;p&gt;O número de investidores ativos, aqueles que possuem aplicações no programa, chegou a 3,83 milhões em agosto. Em relação ao mês anterior, houve acréscimo de 23.962 investidores. Na comparação com agosto do ano passado, o avanço foi de 21,7%.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tesouro-direto-bate-recorde-em-agosto-com-r-15-bi-em-investimentos&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
+Os investimentos no Tesouro Direto somaram R$ 15 bilhões em agosto, o maior valor da série histórica do programa. N...</excerpt:encoded>
+      <wp:post_id>1003</wp:post_id>
+      <wp:post_date>2026-09-25 14:51:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-25 14:51:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-25 14:51:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-25 14:51:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/kxSjxUyU-01X_1jVsu-y6ME5JTI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/_raf0993_1.jpg?itok=gmgF85eh</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Festa Literária das Periferias (Flup) vai até domingo no centro do Rio</title>
+      <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/festa-literaria-das-periferias-flup-vai-ate-domingo-no-centro-do-rio</link>
+      <pubDate>Fri, 25 Sep 2026 20:56:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/festa-literaria-das-periferias-flup-vai-ate-domingo-no-centro-do-rio#1004</guid>
+      <description>A 16ª edição da Festa Literária das Periferias vai até domingo (27) no centro do Rio de Janeiro. A programação é realizada na Praça Tiradentes e no T...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/APDYtrW_Hj7joxNZpbAvwDh-ekg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/08/whatsapp_image_2025-11-08_at_00.37.13_1.jpg?itok=Kh51yaOO&quot; alt=&quot;Festa Literária das Periferias (Flup) vai até domingo no centro do Rio&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A 16ª edição da Festa Literária das Periferias vai até domingo (27) no centro do Rio de Janeiro. A programação é realizada na Praça Tiradentes e no Teatro Carlos Gomes.&lt;/p&gt;
+&lt;p&gt;As Filhas das Filhas das Filhas&lt;/p&gt;
+&lt;p&gt;, que dá destaque ao feminismo negro.&lt;/p&gt;
+&lt;p&gt;A homenageada deste ano é Ana Maria Gonçalves&lt;/p&gt;
+&lt;p&gt;primeira mulher negra eleita para a Academia Brasileira de Letras&lt;/p&gt;
+&lt;p&gt;Segundo os organizadores, o festival quer que o público reflita sobre as heranças que atravessam gerações, sobre as histórias que resistem ao apagamento e sobre as mulheres que, ao longo do tempo, deram à luz a muito mais do que filhos, produzindo comunidades, saberes, linguagens, territórios e futuros.&lt;/p&gt;
+&lt;p&gt;O diretor da Flup, Julio Ludemir, afirma que o tema &quot;nos remete à grande revolução em curso no Brasil, decorrente das ações afirmativas”&lt;/p&gt;
+&lt;p&gt;Ele destaca que grandes mulheres, como a escritora e filósofa Djamila Ribeiro, tiveram como antepassados trabalhadoras domésticas.&lt;/p&gt;
+&lt;p&gt;“A Kehinde, grande personagem da Ana Maria Gonçalves [no livro&lt;/p&gt;
+&lt;p&gt;, se libertou através de uma capacidade extraordinária de empreender muito própria das mulheres negras brasileiras. As Filhas das Filhas das Filhas é uma grande homenagem a essa revolução que o Brasil pôde assistir em uma geração de ações afirmativas”, disse Ludemir.&lt;/p&gt;
+&lt;p&gt;Para o diretor da Flup, Ana Maria Gonçalves escreveu o livro mais importante da história da literatura brasileira.&lt;/p&gt;
+&lt;p&gt;“Não à toa, ela foi a primeira mulher negra eleita para a Academia Brasileira de Letras. Desde 2018, a Flup tem sido cada vez mais ligada ao feminismo negro, que é a grande novidade política, cultural, artística, sociológica, que está mudando a sociedade a partir da sua base.”&lt;/p&gt;
+&lt;p&gt;Saiba mais sobre a Flup no Repórter Brasil Tarde, da TV Brasil&lt;/p&gt;
+&lt;p&gt;No sábado (26), o jornalistaChico Regueira entrevista o intelectual Nei Lopes no Teatro Carlos Gomes, no evento&lt;/p&gt;
+&lt;p&gt;Às 16h, Ana Maria Gonçalves e Jurema Werneck entrevistam Kimberlé Crenshaw, a criadora do conceito de interseccionalidade.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/festa-literaria-das-periferias-flup-vai-ate-domingo-no-centro-do-rio&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A 16ª edição da Festa Literária das Periferias vai até domingo (27) no centro do Rio de Janeiro. A programação é realizada na Praça Tiradentes e no T...</excerpt:encoded>
+      <wp:post_id>1004</wp:post_id>
+      <wp:post_date>2026-09-25 14:36:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-25 14:36:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-25 14:36:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-25 14:36:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/APDYtrW_Hj7joxNZpbAvwDh-ekg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/08/whatsapp_image_2025-11-08_at_00.37.13_1.jpg?itok=Kh51yaOO</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Conselho do MPF tem 3 votos para manter Gonet à frente do caso Master</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/conselho-do-mpf-tem-3-votos-para-manter-gonet-frente-do-caso-master</link>
+      <pubDate>Fri, 25 Sep 2026 20:56:21 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/conselho-do-mpf-tem-3-votos-para-manter-gonet-frente-do-caso-master#1005</guid>
+      <description>© Marcelo Camargo/Agência Brasil
+O Conselho Superior do Ministério Público Federal (MPF) tem três votos para rejeitar um pedido pelo afastamento do p...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/Qc-_Z4wybtqK2bc5Dc_rvxnx_eM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/posse-paulo-gonet_mcamgo_abr_18122023-7.jpg?itok=WACIxYGv&quot; alt=&quot;Conselho do MPF tem 3 votos para manter Gonet à frente do caso Master&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;© Marcelo Camargo/Agência Brasil&lt;/p&gt;
+&lt;p&gt;O Conselho Superior do Ministério Público Federal (MPF) tem três votos para rejeitar um pedido pelo afastamento do procurador-geral da República, Paulo Gonet, das investigações sobre o caso Master.&lt;/p&gt;
+&lt;p&gt;Prevalece até o momento a posiçãodo relator, o subprocurador-geral da República Francisco de Assis Sanseverino, que votou nesta sexta-feira (25) pelo arquivamento integral da notícia-crime naqualo Partido Novo fez o pedido.&lt;/p&gt;
+&lt;p&gt;A legenda levantou suspeitas de que Gonet possa ter prevaricado na condução do caso.&lt;/p&gt;
+&lt;p&gt;Votaram com o relator, no sentido de manter Gonet no caso Master, os conselheiros Celso de Albuquerque Silva e Janice Agostinho Barreto Ascari.&lt;/p&gt;
+&lt;p&gt;A subprocuradora, contudo, divergiu em relação ao arquivamento, afirmando haver pontos que merecem ser melhor esclarecidos.&lt;/p&gt;
+&lt;p&gt;A análise da notícia-crime começou a ser feitapor volta das 10h desta sexta-feira (25). Após a manifestação dos três primeiros conselheiros, a sessão foi interrompida para almoço, devendo ser retomada após um intervalo de uma hora.&lt;/p&gt;
+&lt;p&gt;O Conselho Superioré o órgão de cúpula do MPF,&lt;/p&gt;
+&lt;p&gt;composto por nove subprocuradores-gerais da República&lt;/p&gt;
+&lt;p&gt;, responsáveis, entreoutras atribuições, por autorizar investigações que tenham o PGR como alvo.&lt;/p&gt;
+&lt;p&gt;A representação do Novo foi apresentada com base em diferentes menções ao PGR em anotações e mensagens extraídas pela Polícia Federal (PF) do aparelho celular apreendido do ex-banqueiro Daniel Vorcaro, dono do antigo Banco Master.&lt;/p&gt;
+&lt;p&gt;Para a legenda, as menções a Gonet colocam em dúvida a atuação do PGR.&lt;/p&gt;
+&lt;p&gt;, que apura a corrupção de agentes públicos e fraudes financeiras bilionárias supostamente praticadas pelo ex-banqueiro. Ele está preso preventivamente desde novembro do ano passado.&lt;/p&gt;
+&lt;p&gt;Para Sanseverino, a representação não apresentou elementos que permitissem suspeitar do cometimento de crime pelo PGR.&lt;/p&gt;
+&lt;p&gt;“Em primeiro lugar, cabe lembrar que não se pode examinar frases (ou troca de mensagens) de forma isolada e/ou descontextualizada para não criar uma situação artificial e que não corresponda à realidade dos fatos”, disse o relator.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/conselho-do-mpf-tem-3-votos-para-manter-gonet-frente-do-caso-master&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>© Marcelo Camargo/Agência Brasil
+O Conselho Superior do Ministério Público Federal (MPF) tem três votos para rejeitar um pedido pelo afastamento do p...</excerpt:encoded>
+      <wp:post_id>1005</wp:post_id>
+      <wp:post_date>2026-09-25 14:17:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-25 14:17:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-25 14:17:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-25 14:17:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/Qc-_Z4wybtqK2bc5Dc_rvxnx_eM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/posse-paulo-gonet_mcamgo_abr_18122023-7.jpg?itok=WACIxYGv</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Pronatec oferta mais de 1,5 mil vagas nas áreas de meio ambiente</title>
       <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pronatec-oferta-mais-de-15-mil-vagas-nas-areas-de-meio-ambiente</link>
-      <pubDate>Fri, 25 Sep 2026 17:40:45 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 20:56:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pronatec-oferta-mais-de-15-mil-vagas-nas-areas-de-meio-ambiente#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/pronatec-oferta-mais-de-15-mil-vagas-nas-areas-de-meio-ambiente#1006</guid>
       <description>© Marcelo Camargo/Agência Brasil/Arquivo
 Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec)
 , do Ministério da Educação (MEC), oferta...</description>
@@ -49,7 +339,7 @@ Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec)
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil/Arquivo
 Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec)
 , do Ministério da Educação (MEC), oferta...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-09-25 13:45:00</wp:post_date>
       <wp:post_date_gmt>2026-09-25 13:45:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-25 13:45:00</wp:post_modified>
@@ -75,9 +365,9 @@ Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec)
     <item>
       <title>Meta desabilitou anúncios do perfil de Lula no Facebook</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/meta-desabilitou-anuncios-do-perfil-de-lula-no-facebook</link>
-      <pubDate>Fri, 25 Sep 2026 17:40:45 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 20:56:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/meta-desabilitou-anuncios-do-perfil-de-lula-no-facebook#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/meta-desabilitou-anuncios-do-perfil-de-lula-no-facebook#1007</guid>
       <description>© REUTERS/Dado Ruvic/Proibida reprodução
 A empresa Meta - dona do Facebook, WhatsApp e Instagram – desabilitou os anúncios do perfil do candidato à p...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/KolG4ns85oBiTvMPvROSZsBbWp0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/2026-07-10t131432z_1_lynxmpem690qk_rtroptp_4_eu-meta-platforms-tech.jpg?itok=PMNNDr1f&quot; alt=&quot;Meta desabilitou anúncios do perfil de Lula no Facebook&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -89,15 +379,15 @@ A empresa Meta - dona do Facebook, WhatsApp e Instagram – desabilitou os anún
 &lt;p&gt;Logo após Trump assumir o controle da Casa Branca pela segunda vez, em janeiro de 2025, o dono da Meta, o empresário Mark Zuckerberg, foi às redes sociais anunciar o alinhamento da companhia com o novo governo em Washington.&lt;/p&gt;
 &lt;p&gt;“Vamos trabalhar com o presidente Trump para pressionar os governos ao redor do mundo que estão perseguindo empresas americanas”,&lt;/p&gt;
 &lt;p&gt;no Brasil é defendidapelo atual governo brasileiro, gerando tensões com as gigantes da tecnologia e com o governo de Donald Trump, que tem criticado países ou governos que buscam regular as plataformas digitais e criar regras para evitar a prática de crimes no ambiente digital.&lt;/p&gt;
-&lt;p&gt;Conselho do MPF tem 3 votos para manter Gonet à frente do caso Master&lt;/p&gt;
-&lt;p&gt;Pronatec oferta mais de 1,5 mil vagas nas áreas de meio ambiente&lt;/p&gt;
-&lt;p&gt;Elevação do nível do mar destrói casas e invade praias na Califórnia&lt;/p&gt;
-&lt;p&gt;Meta desabilitou anúncios do perfil de Lula no Facebook&lt;/p&gt;
-&lt;p&gt;Coletivos de teatro terão programação gratuita em 18 cidades de SP&lt;/p&gt;
-&lt;p&gt;Exército simula defesa cibernética no Brasil às vésperas da eleição&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/meta-desabilitou-anuncios-do-perfil-de-lula-no-facebook&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Multas por aumento abusivo de combustíveis passam de R$ 700 milhões&lt;/p&gt;
+&lt;p&gt;Caixa libera dinheiro de antigo fundo PIS/Pasep; veja como sacar&lt;/p&gt;
+&lt;p&gt;Conselho do MPF forma maioria para manter Gonet no caso Master&lt;/p&gt;
+&lt;p&gt;Mais de 10 mil professores são selecionados via Prova Nacional Docente&lt;/p&gt;
+&lt;p&gt;Tesouro Direto bate recorde em agosto com R$ 15 bi em investimentos&lt;/p&gt;
+&lt;p&gt;Festa Literária das Periferias (Flup) vai até domingo no centro do Rio&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/meta-desabilitou-anuncios-do-perfil-de-lula-no-facebook&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Dado Ruvic/Proibida reprodução
 A empresa Meta - dona do Facebook, WhatsApp e Instagram – desabilitou os anúncios do perfil do candidato à p...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-09-25 13:06:00</wp:post_date>
       <wp:post_date_gmt>2026-09-25 13:06:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-25 13:06:00</wp:post_modified>
@@ -123,9 +413,9 @@ A empresa Meta - dona do Facebook, WhatsApp e Instagram – desabilitou os anún
     <item>
       <title>Coletivos de teatro terão programação gratuita em 18 cidades de SP</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/coletivos-de-teatro-terao-programacao-gratuita-em-18-cidades-de-sp</link>
-      <pubDate>Fri, 25 Sep 2026 17:40:45 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 20:56:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/coletivos-de-teatro-terao-programacao-gratuita-em-18-cidades-de-sp#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/coletivos-de-teatro-terao-programacao-gratuita-em-18-cidades-de-sp#1008</guid>
       <description>© Fernando Frazão/Agência Brasil
 Pelo menos 20 grupos e coletivos de teatro de 18 cidades paulistas participam em outubro e novembro da Mostra Region...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/BAjWahFfF3OqSUdqolyyUE29Mos=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/05/15/_d6a8130.jpg?itok=zxgkEqIX&quot; alt=&quot;Coletivos de teatro terão programação gratuita em 18 cidades de SP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -146,7 +436,7 @@ Pelo menos 20 grupos e coletivos de teatro de 18 cidades paulistas participam em
 &lt;p&gt;Cinco municípios recebem atividades no dia&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/coletivos-de-teatro-terao-programacao-gratuita-em-18-cidades-de-sp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fernando Frazão/Agência Brasil
 Pelo menos 20 grupos e coletivos de teatro de 18 cidades paulistas participam em outubro e novembro da Mostra Region...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-09-25 13:06:00</wp:post_date>
       <wp:post_date_gmt>2026-09-25 13:06:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-25 13:06:00</wp:post_modified>
@@ -172,9 +462,9 @@ Pelo menos 20 grupos e coletivos de teatro de 18 cidades paulistas participam em
     <item>
       <title>Exército simula defesa cibernética no Brasil às vésperas da eleição</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/exercito-simula-defesa-cibernetica-no-brasil-vesperas-da-eleicao</link>
-      <pubDate>Fri, 25 Sep 2026 17:40:45 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 20:56:21 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/exercito-simula-defesa-cibernetica-no-brasil-vesperas-da-eleicao#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/exercito-simula-defesa-cibernetica-no-brasil-vesperas-da-eleicao#1009</guid>
       <description>O Exército brasileiro coordenou, entre os dias 21 e 25 de setembro, a oitava edição do evento Guardião Cibernético às vésperas da eleição presidencia...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/u5-STLYmP0v31yZUeXDjUEGk0gY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/25/capa_xxx_2.jpeg?itok=0zsvQzvl&quot; alt=&quot;Exército simula defesa cibernética no Brasil às vésperas da eleição&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O Exército brasileiro coordenou, entre os dias 21 e 25 de setembro, a oitava edição do evento Guardião Cibernético às vésperas da eleição presidencial.&lt;/p&gt;
@@ -193,7 +483,7 @@ Pelo menos 20 grupos e coletivos de teatro de 18 cidades paulistas participam em
 &lt;p&gt;com objetivo de influenciar as eleições gerais de outubro, o que poderia desestabilizar sistemas informáticos e computacionais.&lt;/p&gt;
 &lt;p&gt;No dia 12 de agosto, a Casa Branca publicou memorando prevendo parceria com empresas privadas para ações que envolvem “acesso a tais sistemas de informação sem autorização do proprietário ou operador ou excedendo o acesso autorizado”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/exercito-simula-defesa-cibernetica-no-brasil-vesperas-da-eleicao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Exército brasileiro coordenou, entre os dias 21 e 25 de setembro, a oitava edição do evento Guardião Cibernético às vésperas da eleição presidencia...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-09-25 12:42:00</wp:post_date>
       <wp:post_date_gmt>2026-09-25 12:42:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-25 12:42:00</wp:post_modified>
@@ -214,290 +504,6 @@ Pelo menos 20 grupos e coletivos de teatro de 18 cidades paulistas participam em
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/u5-STLYmP0v31yZUeXDjUEGk0gY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/25/capa_xxx_2.jpeg?itok=0zsvQzvl</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Tenente da Marinha é encontrada morta na USP</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tenente-da-marinha-e-encontrada-morta-na-usp</link>
-      <pubDate>Fri, 25 Sep 2026 17:40:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tenente-da-marinha-e-encontrada-morta-na-usp#1004</guid>
-      <description>© Beatriz Fickert Santoro/Facebook
-A Polícia Federal (PF) e a Marinha do Brasil investigam a morte da Segundo-Tenente da Marinha, Beatriz Ficket Sant...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DQ_xlNMFBBqqPQWQc6HSlwPOVr4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/25/whatsapp_image_2026-09-25_at_12.01.30_1.jpeg?itok=yxDQ0SVa&quot; alt=&quot;Tenente da Marinha é encontrada morta na USP&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Beatriz Fickert Santoro/Facebook&lt;/p&gt;
-&lt;p&gt;A Polícia Federal (PF) e a Marinha do Brasil investigam a morte da Segundo-Tenente da Marinha, Beatriz Ficket Santoro, de 33 anos, encontrada morta na tarde dessa quinta-feira (24) dentro da Universidade de São Paulo (USP).&lt;/p&gt;
-&lt;p&gt;O corpo daoficial foi localizadono interior do Centro Tecnológico da Marinha, que fica dentro da USP, na zona oeste de São Paulo,onde Beatriz trabalhava.&lt;/p&gt;
-&lt;p&gt;A militar foi encaminhada para o Hospital Universitário da própria USP, mas chegou sem vida ao local. Segundo a Secretaria de Segurança Pública paulista, uma médica se recusou a fazer o atestado de óbito.&lt;/p&gt;
-&lt;p&gt;De acordo com o boletim de ocorrência da Polícia Militar, a ocorrência foi registrada como morte suspeita.&lt;/p&gt;
-&lt;p&gt;Em nota, a Marinha informou que manifesta sinceras condolências e que presta assistência social, psicológica e religiosa aos familiares e amigos de Beatriz.&lt;/p&gt;
-&lt;p&gt;*Estagiário sob supervisão de Odair Braz Júnior&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tenente-da-marinha-e-encontrada-morta-na-usp&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Beatriz Fickert Santoro/Facebook
-A Polícia Federal (PF) e a Marinha do Brasil investigam a morte da Segundo-Tenente da Marinha, Beatriz Ficket Sant...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
-      <wp:post_date>2026-09-25 12:35:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-25 12:35:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-25 12:35:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-25 12:35:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/DQ_xlNMFBBqqPQWQc6HSlwPOVr4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/25/whatsapp_image_2026-09-25_at_12.01.30_1.jpeg?itok=yxDQ0SVa</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Brasil promulga acordo de livre comércio entre Mercosul e EFTA</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-promulga-acordo-de-livre-comercio-entre-mercosul-e-efta</link>
-      <pubDate>Fri, 25 Sep 2026 17:40:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-promulga-acordo-de-livre-comercio-entre-mercosul-e-efta#1005</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-O Acordo de Livre Comércio entre o Mercosul e a Associação Europeia de Livre Comércio (EFTA) foi promulgado nesta s...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/pznAG-Gwyeam4JMGubO-JgxqKAo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/16/_raf1422.jpg?itok=q6v18eIW&quot; alt=&quot;Brasil promulga acordo de livre comércio entre Mercosul e EFTA&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;O Acordo de Livre Comércio entre o Mercosul e a Associação Europeia de Livre Comércio (EFTA) foi promulgado nesta sexta-feira (25) no&lt;/p&gt;
-&lt;p&gt;Decreto Presidencial nº 13.126,publicado no Diário Oficial da União&lt;/p&gt;
-&lt;p&gt;O bloco de países europeus é formado por Islândia, Liechtenstein, Noruega e Suíça&lt;/p&gt;
-&lt;p&gt;, que não são membros da União Europeia. Já o grupo sul-americano conta com Brasil, Argentina, Bolívia, Paraguai e Uruguai ─ a Venezuela segue suspensa como Estado-membro desde 2017.&lt;/p&gt;
-&lt;p&gt;De acordo com o Planalto, o decreto publicado nesta sexta-feiraconclui o processo de internalização do tratado no Brasil, estabelecendo “compromissos para ampliar os fluxos de comércio e investimentos entre os países dos dois blocos”.&lt;/p&gt;
-&lt;p&gt;No plano jurídico, ele entrará em vigor a partir do dia 1º de outubro de 2026.&lt;/p&gt;
-&lt;p&gt;O tratado prevê a ampliação do comércio e dos investimentos entre os dois blocos, com redução de barreiras técnicas, além de medidas sanitárias e fitossanitárias consideradas desnecessárias para o comércio.&lt;/p&gt;
-&lt;p&gt;Além disso, prevê mais facilidades para procedimentos aduaneiros e maior acesso aos mercados de compras governamentais.&lt;/p&gt;
-&lt;p&gt;Assinado no dia 16 de setembro de 2025 pelo presidente Luiz Inácio Lula da Silva&lt;/p&gt;
-&lt;p&gt;, o documento estabelece também compromissos nas áreas de propriedade intelectual, desenvolvimento sustentável, proteção ambiental, biodiversidade e direitos humanos.&lt;/p&gt;
-&lt;p&gt;“Para o Brasil, o acordo amplia as possibilidades de entrada de produtos nacionais nos mercados dos países da EFTA e cria condições para o aumento dos fluxos de comércio e investimentos”, informou a Presidência da República.&lt;/p&gt;
-&lt;p&gt;O acordo prevê também o reconhecimento e a proteção de indicações geográficas, mecanismo voltado à valorização de produtos vinculados a determinadas regiões de origem.&lt;/p&gt;
-&lt;p&gt;Segundo o Planalto, as negociações entre os dois blocos foram concluídas em 2025, após dez rodadas iniciadas em 2017.&lt;/p&gt;
-&lt;p&gt;O texto foi aprovado pelo Congresso Nacional em junho deste ano e&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-promulga-acordo-de-livre-comercio-entre-mercosul-e-efta&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-O Acordo de Livre Comércio entre o Mercosul e a Associação Europeia de Livre Comércio (EFTA) foi promulgado nesta s...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
-      <wp:post_date>2026-09-25 12:26:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-25 12:26:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-25 12:26:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-25 12:26:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/pznAG-Gwyeam4JMGubO-JgxqKAo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/16/_raf1422.jpg?itok=q6v18eIW</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Censo Escolar: resultado preliminar está disponível no site do Inep</title>
-      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-resultado-preliminar-esta-disponivel-no-site-do-inep</link>
-      <pubDate>Fri, 25 Sep 2026 17:40:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-resultado-preliminar-esta-disponivel-no-site-do-inep#1006</guid>
-      <description>Os resultados preliminares do Censo Escolar da Educação Básica de 2026 estão disponíveis para conferência
-do Instituto Nacional de Estudos e Pesquisa...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1RwwafMOsZHFLxVGi4J98KMT_TY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/05/toms0691.jpg?itok=313HT3xf&quot; alt=&quot;Censo Escolar: resultado preliminar está disponível no site do Inep&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Os resultados preliminares do Censo Escolar da Educação Básica de 2026 estão disponíveis para conferência&lt;/p&gt;
-&lt;p&gt;do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep).&lt;/p&gt;
-&lt;p&gt;Os resultados referem-se às matrículas presenciais efetivas na educação básica das redes estaduais e municipais de educação e estão apresentados em ordem alfabética dos estados.&lt;/p&gt;
-&lt;p&gt;Os responsáveis pelo envio dos dados têm agora 30 dias para corrigir erros, por meio do&lt;/p&gt;
-&lt;p&gt;O cronograma prevê que no dia 11 de dezembro deverá ocorrer o envio dos dados finais homologados ao Fundo Nacional de Desenvolvimento da Educação (FNDE).&lt;/p&gt;
-&lt;p&gt;As informações são usadas no cálculo dos coeficientes de distribuição do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb).&lt;/p&gt;
-&lt;p&gt;A divulgação dos resultados finais da primeira etapa, das sinopses estatísticas e dos demais estatísticas da Educação Básica está programada para 1º de fevereiro de 2027.&lt;/p&gt;
-&lt;p&gt;Em 1º de fevereiro de 2027 tem início a segunda etapa do Censo Escolar da Educação Básica 2026, que trata da situação do aluno.&lt;/p&gt;
-&lt;p&gt;Nesta fase, o diretor ou responsável pela escola deverá coletar as informações sobre rendimento e movimento escolar daqueles estudantes que foram declarados na primeira etapa, incluindo dados de aprovação, reprovação, abandono e transferência.&lt;/p&gt;
-&lt;p&gt;O período de coleta termina no dia 12 de março de 2027.&lt;/p&gt;
-&lt;p&gt;E a partir de 1º de abril de 2027, as taxas preliminares de rendimento escolar e os relatórios por escola estarão disponíveis para conferência.&lt;/p&gt;
-&lt;p&gt;Os indicadores finais de rendimento escolar serão divulgados pelo Inep em 14 de maio de 2027.&lt;/p&gt;
-&lt;p&gt;Os dados no Censo Escolar servem para formulação, monitoramento e avaliação de políticas públicas educacionais, além de servir de referência para programas de financiamento e distribuição de recursos da educação.&lt;/p&gt;
-&lt;p&gt;Conselho do MPF tem 3 votos para manter Gonet à frente do caso Master&lt;/p&gt;
-&lt;p&gt;Pronatec oferta mais de 1,5 mil vagas nas áreas de meio ambiente&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/censo-escolar-resultado-preliminar-esta-disponivel-no-site-do-inep&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Os resultados preliminares do Censo Escolar da Educação Básica de 2026 estão disponíveis para conferência
-do Instituto Nacional de Estudos e Pesquisa...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
-      <wp:post_date>2026-09-25 12:04:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-25 12:04:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-25 12:04:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-25 12:04:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/1RwwafMOsZHFLxVGi4J98KMT_TY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/06/05/toms0691.jpg?itok=313HT3xf</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>TST:60% dos empregados da Caixa devem permanecer em atividade</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tst-60-dos-empregados-da-caixa-devem-permanecer-em-atividade</link>
-      <pubDate>Fri, 25 Sep 2026 17:40:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tst-60-dos-empregados-da-caixa-devem-permanecer-em-atividade#1007</guid>
-      <description>© Valter Campanato/Agência Brasil
-do ministro do Tribunal Superior do Trabalho (TST)Mauricio Godinho Delgadodeterminou a manutenção do percentual mín...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/BcyXtZf_UYQ8H9MIPJLPvucd39s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/0d7a9993.jpg?itok=g8L4nKbn&quot; alt=&quot;TST:60% dos empregados da Caixa devem permanecer em atividade&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Valter Campanato/Agência Brasil&lt;/p&gt;
-&lt;p&gt;do ministro do Tribunal Superior do Trabalho (TST)Mauricio Godinho Delgadodeterminou a manutenção do percentual mínimo de 60% dos empregados da Caixa Econômica Federal em serviço, durante greve decretada no dia 10 de setembro.&lt;/p&gt;
-&lt;p&gt;A medida ocorre após a Caixa Econômica Federal ajuizar dissídio coletivo de greve contra a Confederação Nacional dos Trabalhadores do Ramo Financeiro (Contraf) e a Confederação Nacional dos Trabalhadores nas Empresas de Crédito (Contec), na quinta-feira (24).&lt;/p&gt;
-&lt;p&gt;No pedido da Caixa ao TSTfoi solicitadaa manutenção de 80% do pessoal em atividade, alegando impacto direto aos serviços essenciais, a exemplo da compensação bancária e do pagamento de benefícios sociais. A empresa também justificou a falta de consenso nas negociações quanto ao novo modelo de custeio do plano Saúde Caixa.&lt;/p&gt;
-&lt;p&gt;De acordo com o TST, o percentual de 60% é suficiente paraa preservação do atendimento às necessidades inadiáveis da comunidade, sem inviabilizar o exercício constitucional do direito de greve da categoria.&lt;/p&gt;
-&lt;p&gt;Por meio de nota, a coordenadora da Comissão Executiva dos Empregados (CEE), Luiza Hansen, informou que os trabalhadores já haviam solicitado ao banco a continuidade das negociações, por meio de ofício enviado na terça-feira (22).&lt;/p&gt;
-&lt;p&gt;“Acreditamos que a negociação sempre é a melhor forma de se chegar à solução. O ajuizamento nunca é o melhor caminho e pode trazer grandes prejuízos, especialmente na fase de julgamento. Esperamos que ainda haja possibilidade de avançar na conciliação.”&lt;/p&gt;
-&lt;p&gt;Na decisão liminar, o ministro também garantiu a manutenção do Acordo Coletivo de Trabalho, com vigência entre setembro de 2024 e agosto de 2026, até a decisão definitiva do caso.&lt;/p&gt;
-&lt;p&gt;Delgado também negou a proibição de atividades que dificultem o livre acesso às agências, ao destacar que não há indícios de excesso por parte do movimento grevista&lt;/p&gt;
-&lt;p&gt;O julgamento do dissídio coletivo pela Seção Especializada em Dissídios Coletivos (SDC) do Tribunal Superior do Trabalho está agendado para às 14h30da próxima terça-feira (29).&lt;/p&gt;
-&lt;p&gt;O processo corre sem segredo de justiça, com exceção de documentos para os quais a Caixa solicitou a medida.&lt;/p&gt;
-&lt;p&gt;Conselho do MPF tem 3 votos para manter Gonet à frente do caso Master&lt;/p&gt;
-&lt;p&gt;Pronatec oferta mais de 1,5 mil vagas nas áreas de meio ambiente&lt;/p&gt;
-&lt;p&gt;Elevação do nível do mar destrói casas e invade praias na Califórnia&lt;/p&gt;
-&lt;p&gt;Meta desabilitou anúncios do perfil de Lula no Facebook&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tst-60-dos-empregados-da-caixa-devem-permanecer-em-atividade&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Valter Campanato/Agência Brasil
-do ministro do Tribunal Superior do Trabalho (TST)Mauricio Godinho Delgadodeterminou a manutenção do percentual mín...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-09-25 11:28:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-25 11:28:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-25 11:28:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-25 11:28:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/BcyXtZf_UYQ8H9MIPJLPvucd39s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/10/0d7a9993.jpg?itok=g8L4nKbn</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Plataforma Enem Libras ganha atualização com provas de 2017 a 2025</title>
-      <link>https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/plataforma-enem-libras-ganha-atualizacao-com-provas-de-2017-2025</link>
-      <pubDate>Fri, 25 Sep 2026 17:40:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/plataforma-enem-libras-ganha-atualizacao-com-provas-de-2017-2025#1008</guid>
-      <description>© Print Screen/ https://enemvideolibras.inep.gov.br/
-está atualizada com as videoprovas de 2017 até 2025. O sistema disponibiliza conteúdos em Língua...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/bw_TZ5SlhEc2T8VG3equ1nlo_1c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/25/captura_de_tela_2026-09-25_105702_copy.jpg?itok=PDSQaC6i&quot; alt=&quot;Plataforma Enem Libras ganha atualização com provas de 2017 a 2025&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Print Screen/ https://enemvideolibras.inep.gov.br/&lt;/p&gt;
-&lt;p&gt;está atualizada com as videoprovas de 2017 até 2025. O sistema disponibiliza conteúdos em Língua Brasileira de Sinais (Libras) do Exame Nacional do Ensino Médio (Enem) para pessoas&lt;/p&gt;
-&lt;p&gt;surdas e com deficiência auditiva&lt;/p&gt;
-&lt;p&gt;Os conteúdos podem ser usados para estudo, prática e familiarização com o formato da videoprova em Libras, prova em vídeo traduzida em Libras executada em um computador disponibilizado peloInstituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep).&lt;/p&gt;
-&lt;p&gt;, a aplicação das provas para o participante com solicitação aprovada pelo Inep para ter o recurso de videoprova em Libras terá acréscimo de 120 minutos em cada dia de aplicação.&lt;/p&gt;
-&lt;p&gt;O período do examevai das 13h30 às 21h, no primeiro dia, em 8 de novembro. No segundo dia (15 de novembro), das 13h30às 20h30, no horário de Brasília.&lt;/p&gt;
-&lt;p&gt;A plataforma Enem Libras traz videoprovas completas das edições de 2017 a 2025 do Enem, cadernos de questões em língua portuguesa, gabaritos oficiais e a Cartilha de Redação em Libras.&lt;/p&gt;
-&lt;p&gt;A ferramenta também apresenta interface semelhante à adotada na aplicação oficial do exame. Em termos práticos, o sistema copia o visual na tela e o funcionamento da prova oficial.&lt;/p&gt;
-&lt;p&gt;Essa interface permite ao usuário saber onde ficam, por exemplo, os botões, os blocos de texto, os vídeos em Libras e as opções de resposta às questões do Enem na tela.&lt;/p&gt;
-&lt;p&gt;é considerado a principal forma de entrada na educação superior no Brasil, por meio de programas federais como o Sistema de Seleção Unificada (Sisu), o Programa Universidade para Todos (Prouni) e o Fundo de Financiamento Estudantil (Fies).&lt;/p&gt;
-&lt;p&gt;As instituições de ensino públicas e privadas usam os resultados das provas para selecionar os estudantes.&lt;/p&gt;
-&lt;p&gt;Os resultados individuais do exame também podem ser aproveitados em processos seletivos de instituições de ensino de Portugal que tenhamconvênio com o Inep.&lt;/p&gt;
-&lt;p&gt;Desde a edição de 2025, o Enem também voltou a certificar a conclusão do ensino médio para os candidatos a partir dos 18 anos.&lt;/p&gt;
-&lt;p&gt;Pela primeira vez, em 2026, o Enem também será adotado como instrumento para avaliar a qualidade do ensino médio brasileiro, o que amplia seu papel no acompanhamento das políticas educacionais.&lt;/p&gt;
-&lt;p&gt;Conselho do MPF tem 3 votos para manter Gonet à frente do caso Master&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/plataforma-enem-libras-ganha-atualizacao-com-provas-de-2017-2025&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Print Screen/ https://enemvideolibras.inep.gov.br/
-está atualizada com as videoprovas de 2017 até 2025. O sistema disponibiliza conteúdos em Língua...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-09-25 11:25:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-25 11:25:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-25 11:25:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-25 11:25:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/bw_TZ5SlhEc2T8VG3equ1nlo_1c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/25/captura_de_tela_2026-09-25_105702_copy.jpg?itok=PDSQaC6i</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Mendonça volta a suspender multas sobre saúde mental no trabalho</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-volta-suspender-multas-sobre-saude-mental-no-trabalho</link>
-      <pubDate>Fri, 25 Sep 2026 17:40:45 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-volta-suspender-multas-sobre-saude-mental-no-trabalho#1009</guid>
-      <description>, do Supremo Tribunal Federal (STF), voltou a suspenderpor mais 90 dias a aplicação de multas e outras punições previstas na
-Norma Regulamentadora nº...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/V12EIX644ihCGO52J51ievJuk_I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/52441529977_f3565b5d7d_o.jpg?itok=rlgK9Uj5&quot; alt=&quot;Mendonça volta a suspender multas sobre saúde mental no trabalho&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;, do Supremo Tribunal Federal (STF), voltou a suspenderpor mais 90 dias a aplicação de multas e outras punições previstas na&lt;/p&gt;
-&lt;p&gt;Norma Regulamentadora nº 1 (NR-1)&lt;/p&gt;
-&lt;p&gt;, que trata da segurança dos trabalhadores formais, sobretudo em relação à saúde mental.&lt;/p&gt;
-&lt;p&gt;O ministro decidiu dar mais tempo para que as empresas e o governo busquem conciliação sobre o tema.&lt;/p&gt;
-&lt;p&gt;suspendido a aplicação de multas em junho&lt;/p&gt;
-&lt;p&gt;Confederação Nacional dos Estabelecimentos de Ensino (Confenen)&lt;/p&gt;
-&lt;p&gt;, entidade que reúne sindicatos patronais, questionar a validade da norma.&lt;/p&gt;
-&lt;p&gt;Na ocasião, Mendonça entendeu que a NR-1 criou &quot;conceitos abertos e subjetivos&quot; sobre as condutas que podem levar à punição das empresas. O ministro citou ainda que a &quot;falta de clareza&quot; pode ofender diversos princípios constitucionais.&lt;/p&gt;
-&lt;p&gt;NR-1 entrou em vigor em 26 de maio&lt;/p&gt;
-&lt;p&gt;deste ano para, entre outros pontos,obrigar as empresas a identificar “fatores de risco psicossociais relacionados ao trabalho”, como sobrecarga e situações de assédio. A norma determina ainda que sejam adotadas medidas de controle.&lt;/p&gt;
-&lt;p&gt;Em relação às multas, não há um valor específico para o descumprimento das normas relacionadas à saúde mental e aos fatores de risco psicossociais.&lt;/p&gt;
-&lt;p&gt;A penalidade integra a lista geral de multas do&lt;/p&gt;
-&lt;p&gt;, com valores definidos de acordo com o tamanho da empresa, a gravidade da situação e o número de empregados.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/mendonca-volta-suspender-multas-sobre-saude-mental-no-trabalho&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>, do Supremo Tribunal Federal (STF), voltou a suspenderpor mais 90 dias a aplicação de multas e outras punições previstas na
-Norma Regulamentadora nº...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-09-25 10:46:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-25 10:46:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-25 10:46:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-25 10:46:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/V12EIX644ihCGO52J51ievJuk_I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/52441529977_f3565b5d7d_o.jpg?itok=rlgK9Uj5</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
