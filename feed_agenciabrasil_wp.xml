@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 26 Sep 2026 20:27:54 +0000</pubDate>
+    <pubDate>Sat, 26 Sep 2026 23:17:27 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,101 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Eleitor deve se antecipar na consulta a local de votação, alerta TSE</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleitor-deve-se-antecipar-na-consulta-local-de-votacao-alerta-tse</link>
+      <pubDate>Sat, 26 Sep 2026 23:17:27 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleitor-deve-se-antecipar-na-consulta-local-de-votacao-alerta-tse#1000</guid>
+      <description>A menos de oito dias para o primeiro turno das eleições, o eleitor deve lembrar de conferir o local de votação, uma vez que sua seção pode ter mudado...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/k7hqqWQZsomUsh3rFlwN1T3SNtQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/03/0d7a0238.jpg?itok=JLpzxC7F&quot; alt=&quot;Eleitor deve se antecipar na consulta a local de votação, alerta TSE&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A menos de oito dias para o primeiro turno das eleições, o eleitor deve lembrar de conferir o local de votação, uma vez que sua seção pode ter mudado de endereço desde o último pleito, alerta o Tribunal Superior Eleitoral (TSE).&lt;/p&gt;
+&lt;p&gt;No caso dos eleitores de primeira viagem, é preciso descobrir onde fica a zona e a seção eleitorais que constam em seu título.&lt;/p&gt;
+&lt;p&gt;Para os mais antigos, o mais comum é que o endereço de votação permaneça o mesmo por sucessivas eleições. Ainda assim, a Justiça Eleitoral alerta que mesmo poucas alterações podem afetar milhares de eleitores, dado o universo de 158,7 milhões de cidadãos aptos a votar.&lt;/p&gt;
+&lt;p&gt;Somente no estado do Rio de Janeiro, por exemplo, as mudanças afetam ao menos 670 mil eleitores, com alteração em 277 locais de votação, 72 dos quais foram modificados por motivos de segurança.&lt;/p&gt;
+&lt;p&gt;A Justiça Eleitoral de ao menos 10 estados e do Distrito Federal anunciaram alterações em endereços das seções eleitorais.&lt;/p&gt;
+&lt;p&gt;Os 27 tribunais regionais eleitorais costumam manter em seus portais uma lista completa das mudanças. O eleitor deve acessar o seu TRE local e verificar avisos sobre o tema.&lt;/p&gt;
+&lt;p&gt;Além disso, o TSE liberou desde 1º de setembro a consulta ao endereço do local de votação diretamente no&lt;/p&gt;
+&lt;p&gt;aplicativo do e-Título, disponível para aparelhos com sistema operacional Android e iOS&lt;/p&gt;
+&lt;p&gt;. A informação pode ser acessada de duas formas:&lt;/p&gt;
+&lt;p&gt;Na tela inicial do aplicativo, clique em “onde votar”.&lt;/p&gt;
+&lt;p&gt;Acesse a área&quot;Serviços Eleitorais&quot; e selecione &quot;Onde votar&quot;.&lt;/p&gt;
+&lt;p&gt;Informe o número do CPF ou dotítulo deeleitor, a data de nascimento e o nome da mãe.&lt;/p&gt;
+&lt;p&gt;O eleitorado brasileiro está distribuído em 5.571 municípios, além de 186 cidades no exterior. A votação ocorrerá em 517.206 seções eleitorais, organizadas em 2.641 zonas eleitorais.&lt;/p&gt;
+&lt;p&gt;China e EUA concordam em dialogar sobre IA e reduzir tarifas&lt;/p&gt;
+&lt;p&gt;São Paulo vence o Corinthians, faz história e fica perto do título&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleitor-deve-se-antecipar-na-consulta-local-de-votacao-alerta-tse&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A menos de oito dias para o primeiro turno das eleições, o eleitor deve lembrar de conferir o local de votação, uma vez que sua seção pode ter mudado...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-09-26 18:56:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-26 18:56:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-26 18:56:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-26 18:56:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/k7hqqWQZsomUsh3rFlwN1T3SNtQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/09/03/0d7a0238.jpg?itok=JLpzxC7F</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Brasil conquista três ouros no Mundial Paralímpico de Judô</title>
+      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-conquista-tres-ouros-no-mundial-paralimpico-de-judo</link>
+      <pubDate>Sat, 26 Sep 2026 23:17:27 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-conquista-tres-ouros-no-mundial-paralimpico-de-judo#1001</guid>
+      <description>O segundo dia de competições no Mundial Paralímpico de judô, em Tbilisi, na Geórgia, foi extremamente produtivo para o Brasil. Neste sábado (26), vie...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/V1XL_NT3vyGcM5lviC1wktMgUnc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/26/55552433291_93f0430a30_k.jpg?itok=a02oXoeN&quot; alt=&quot;Brasil conquista três ouros no Mundial Paralímpico de Judô&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;O segundo dia de competições no Mundial Paralímpico de judô, em Tbilisi, na Geórgia, foi extremamente produtivo para o Brasil. Neste sábado (26), vieram os três primeiros ouros do país nesta edição, junto com mais duas pratas e dois bronzes. Com isso, os atletas brasileiros até agora somam dez medalhas, sendo três ouros, cinco pratas e dois bronzes. O Mundial se encerra neste domingo (27), com as disputas por equipes.&lt;/p&gt;
+&lt;p&gt;O grande destaque do sábado ficou por conta de Alana Maldonado. A judoca paulista, atual bicampeã paralímpica da classe J2 (baixa visão), categoria até 70 kg, conquistou o quarto título mundial ao bater a cazaque Ayala Mereke na decisão, que foi para o golden score. Maldonado venceu a luta com um wazari.&lt;/p&gt;
+&lt;p&gt;Ela não foi a única atleta brasileira a repetir como campeã do mundo. Arthur Silva, da classe J1 (cegos), categoria até 95 kg, levou o bicampeonato consecutivo ao derrotar o britânico Daniel Powell, também por um wazari. Além do Mundial de 2025, em Astana, no Cazaquistão, o potiguar também tem o título paralímpico de Paris 2024.&lt;/p&gt;
+&lt;p&gt;O terceiro ouro brasileiro neste sábado veio com Brenda Freitas, atleta da classe J1 na categoria até 70 kg. Com um ippon, ela venceu a chinesa Wang Wenjing em menos de um minuto na grande final. Brenda foi mais uma atleta do país a defender o título conquistado no ano passado.&lt;/p&gt;
+&lt;p&gt;Os outros medalhistas brasileiras neste sábado foram: Milena Freitas (prata na classe J1 categoria acima de 70 kg), Marcelo Casanova (prata na classe J2 categoria até 95 kg), Rebeca Silva (bronze na classe J2 categoria acima de 70 kg) e Felipe Amorim (bronze na classe J2 categoria acima de 95 kg).&lt;/p&gt;
+&lt;p&gt;China e EUA concordam em dialogar sobre IA e reduzir tarifas&lt;/p&gt;
+&lt;p&gt;São Paulo vence o Corinthians, faz história e fica perto do título&lt;/p&gt;
+&lt;p&gt;Eleitor deve se antecipar na consulta a local de votação, alerta TSE&lt;/p&gt;
+&lt;p&gt;Brasil conquista três ouros no Mundial Paralímpico de Judô&lt;/p&gt;
+&lt;p&gt;Saiba como baixar o e-Título para votar&lt;/p&gt;
+&lt;p&gt;Aeroporto de Confins volta à normalidade depois de suspender operações&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/brasil-conquista-tres-ouros-no-mundial-paralimpico-de-judo&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>O segundo dia de competições no Mundial Paralímpico de judô, em Tbilisi, na Geórgia, foi extremamente produtivo para o Brasil. Neste sábado (26), vie...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-09-26 17:42:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-26 17:42:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-26 17:42:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-26 17:42:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/V1XL_NT3vyGcM5lviC1wktMgUnc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/26/55552433291_93f0430a30_k.jpg?itok=a02oXoeN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Saiba como baixar o e-Título para votar</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/saiba-como-baixar-o-e-titulo-para-votar</link>
-      <pubDate>Sat, 26 Sep 2026 20:27:54 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 23:17:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/saiba-como-baixar-o-e-titulo-para-votar#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/saiba-como-baixar-o-e-titulo-para-votar#1002</guid>
       <description>© Marcello Casal JrAgência Brasil
 Os eleitores poderão utilizar o e-Título, a via digital do título de eleitor, para se identificar perante os mesári...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/A1Na4cAxSeYVRKKvozKCuvCFDr0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/etitulo-2711203364.jpg?itok=hcvVcL3u&quot; alt=&quot;Saiba como baixar o e-Título para votar&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -40,14 +130,14 @@ Os eleitores poderão utilizar o e-Título, a via digital do título de eleitor,
 &lt;p&gt;Eleições 2026: saiba em quantos candidatos votar e a ordem de votação &lt;&lt;&lt;/p&gt;
 &lt;p&gt;Além do e-Título (com foto), o eleitor poderá se identificar perante os mesários com documentos oficiais com foto, comocarteira de identidade,Identidade social (para pessoas trans e travestis); passaporte ou outro documento de valor legal equivalente, carteira de categoria profissional reconhecida por lei,certificado de reservista,carteira de trabalhoe carteira nacional de habilitação.&lt;/p&gt;
 &lt;p&gt;Os documentos oficiais são válidos para votar mesmo fora da validade.&lt;/p&gt;
-&lt;p&gt;Saiba como baixar o e-Título para votar&lt;/p&gt;
-&lt;p&gt;Aeroporto de Confins volta à normalidade depois de suspender operações&lt;/p&gt;
-&lt;p&gt;China diz na ONU que soberania dos países do Golfo deve ser respeitada&lt;/p&gt;
-&lt;p&gt;BH: Aeroporto de Confins suspende operações por problema na pista&lt;/p&gt;
-&lt;p&gt;Emissoras de televisão retomam acesso à Casa Branca&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/saiba-como-baixar-o-e-titulo-para-votar&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;China e EUA concordam em dialogar sobre IA e reduzir tarifas&lt;/p&gt;
+&lt;p&gt;São Paulo vence o Corinthians, faz história e fica perto do título&lt;/p&gt;
+&lt;p&gt;Eleitor deve se antecipar na consulta a local de votação, alerta TSE&lt;/p&gt;
+&lt;p&gt;Brasil conquista três ouros no Mundial Paralímpico de Judô&lt;/p&gt;
+&lt;p&gt;Saiba como baixar o e-Título para votar&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/saiba-como-baixar-o-e-titulo-para-votar&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 Os eleitores poderão utilizar o e-Título, a via digital do título de eleitor, para se identificar perante os mesári...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-09-26 16:14:00</wp:post_date>
       <wp:post_date_gmt>2026-09-26 16:14:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-26 16:14:00</wp:post_modified>
@@ -73,23 +163,23 @@ Os eleitores poderão utilizar o e-Título, a via digital do título de eleitor,
     <item>
       <title>Aeroporto de Confins volta à normalidade depois de suspender operações</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/aeroporto-de-confins-volta-normalidade-depois-de-suspender-operacoes</link>
-      <pubDate>Sat, 26 Sep 2026 20:27:54 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 23:17:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/aeroporto-de-confins-volta-normalidade-depois-de-suspender-operacoes#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/aeroporto-de-confins-volta-normalidade-depois-de-suspender-operacoes#1003</guid>
       <description>A pista do Aeroporto Internacional de Belo Horizonte/Confins foi liberada para funcionamento às 15h08 deste sábado (26) após ficar interditada totalm...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/oXVka7oSnfbEr-kYEBHFi6r4oFU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/26/whatsapp-image-at-12.22.52-762x429.jpeg?itok=9Rqw_6SK&quot; alt=&quot;Aeroporto de Confins volta à normalidade depois de suspender operações&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A pista do Aeroporto Internacional de Belo Horizonte/Confins foi liberada para funcionamento às 15h08 deste sábado (26) após ficar interditada totalmente para pousos e decolagens. A informação é da concessionária que administra o local, a BH Airport.&lt;/p&gt;
 &lt;p&gt;A interrupção, causada por um problema na pista, acarretou o cancelamento de 45 voos (pousos ou decolagens) neste sábado. O aeroporto é o segundo maior em destinos domésticos no Brasil.&lt;/p&gt;
 &lt;p&gt;“O aeroporto mantém contato com as companhias aéreas e acompanha a retomada gradual das operações ao longo do dia&quot;, informoua concessionária em nota.&lt;/p&gt;
 &lt;p&gt;Os passageiros devem consultar diretamente suas companhias para obter informações atualizadas sobre seus voos”, destacou a BH Airport, em nota.&lt;/p&gt;
+&lt;p&gt;China e EUA concordam em dialogar sobre IA e reduzir tarifas&lt;/p&gt;
+&lt;p&gt;São Paulo vence o Corinthians, faz história e fica perto do título&lt;/p&gt;
+&lt;p&gt;Eleitor deve se antecipar na consulta a local de votação, alerta TSE&lt;/p&gt;
+&lt;p&gt;Brasil conquista três ouros no Mundial Paralímpico de Judô&lt;/p&gt;
 &lt;p&gt;Saiba como baixar o e-Título para votar&lt;/p&gt;
-&lt;p&gt;Aeroporto de Confins volta à normalidade depois de suspender operações&lt;/p&gt;
-&lt;p&gt;China diz na ONU que soberania dos países do Golfo deve ser respeitada&lt;/p&gt;
-&lt;p&gt;BH: Aeroporto de Confins suspende operações por problema na pista&lt;/p&gt;
-&lt;p&gt;Emissoras de televisão retomam acesso à Casa Branca&lt;/p&gt;
-&lt;p&gt;Irã apresenta na ONU proposta de abrir Ormuz; Trump diz que rejeita&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/aeroporto-de-confins-volta-normalidade-depois-de-suspender-operacoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Aeroporto de Confins volta à normalidade depois de suspender operações&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/aeroporto-de-confins-volta-normalidade-depois-de-suspender-operacoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A pista do Aeroporto Internacional de Belo Horizonte/Confins foi liberada para funcionamento às 15h08 deste sábado (26) após ficar interditada totalm...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-09-26 16:01:00</wp:post_date>
       <wp:post_date_gmt>2026-09-26 16:01:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-26 16:01:00</wp:post_modified>
@@ -115,9 +205,9 @@ Os eleitores poderão utilizar o e-Título, a via digital do título de eleitor,
     <item>
       <title>BH: Aeroporto de Confins suspende operações por problema na pista</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bh-aeroporto-de-confins-suspende-operacoes-por-problema-na-pista</link>
-      <pubDate>Sat, 26 Sep 2026 20:27:54 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 23:17:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bh-aeroporto-de-confins-suspende-operacoes-por-problema-na-pista#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bh-aeroporto-de-confins-suspende-operacoes-por-problema-na-pista#1004</guid>
       <description>© Divulgação Governo de Minas Gerais
 As operações de pouso e decolagem no Aeroporto Internacional de Belo Horizonte/Confinsestão suspensas neste sába...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/cXCq8oP2suO2MthhABI-pq-n618=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/default.jpg?itok=kol8sgSp&quot; alt=&quot;BH: Aeroporto de Confins suspende operações por problema na pista&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -127,15 +217,15 @@ As operações de pouso e decolagem no Aeroporto Internacional de Belo Horizonte
 &lt;p&gt;Segundo a empresa, em razão da intercorrência, foram cancelados 45 voos (pousos ou decolagens) que utilizariam o aeroporto hoje. Também há registro de oitovoos atrasados.&lt;/p&gt;
 &lt;p&gt;A orientação para os passageiros é consultar diretamente as companhias aéreas para obter informações atualizadas sobre a situação dos voos programados para este sábado.&lt;/p&gt;
 &lt;p&gt;O Aeroporto Internacional de Belo Horizonte/Confins é o segundo maior em destinos domésticos do país.&lt;/p&gt;
+&lt;p&gt;China e EUA concordam em dialogar sobre IA e reduzir tarifas&lt;/p&gt;
+&lt;p&gt;São Paulo vence o Corinthians, faz história e fica perto do título&lt;/p&gt;
+&lt;p&gt;Eleitor deve se antecipar na consulta a local de votação, alerta TSE&lt;/p&gt;
+&lt;p&gt;Brasil conquista três ouros no Mundial Paralímpico de Judô&lt;/p&gt;
 &lt;p&gt;Saiba como baixar o e-Título para votar&lt;/p&gt;
-&lt;p&gt;Aeroporto de Confins volta à normalidade depois de suspender operações&lt;/p&gt;
-&lt;p&gt;China diz na ONU que soberania dos países do Golfo deve ser respeitada&lt;/p&gt;
-&lt;p&gt;BH: Aeroporto de Confins suspende operações por problema na pista&lt;/p&gt;
-&lt;p&gt;Emissoras de televisão retomam acesso à Casa Branca&lt;/p&gt;
-&lt;p&gt;Irã apresenta na ONU proposta de abrir Ormuz; Trump diz que rejeita&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bh-aeroporto-de-confins-suspende-operacoes-por-problema-na-pista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Aeroporto de Confins volta à normalidade depois de suspender operações&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bh-aeroporto-de-confins-suspende-operacoes-por-problema-na-pista&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Divulgação Governo de Minas Gerais
 As operações de pouso e decolagem no Aeroporto Internacional de Belo Horizonte/Confinsestão suspensas neste sába...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-09-26 15:40:00</wp:post_date>
       <wp:post_date_gmt>2026-09-26 15:40:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-26 15:40:00</wp:post_modified>
@@ -161,9 +251,9 @@ As operações de pouso e decolagem no Aeroporto Internacional de Belo Horizonte
     <item>
       <title>Caderno de Música aborda relação entre Beethoven e Napoleão</title>
       <link>https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/caderno-de-musica-aborda-relacao-entre-beethoven-e-napoleao</link>
-      <pubDate>Sat, 26 Sep 2026 20:27:54 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 23:17:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/caderno-de-musica-aborda-relacao-entre-beethoven-e-napoleao#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/cultura/noticia/2026-09/caderno-de-musica-aborda-relacao-entre-beethoven-e-napoleao#1005</guid>
       <description>© Joseph Karl Stieler/Domínio público
 transmite neste domingo (27), às 12h30, uma nova edição da série
 . A produção da emissora pública destaca a rel...</description>
@@ -186,7 +276,7 @@ transmite neste domingo (27), às 12h30, uma nova edição da série
       <excerpt:encoded>© Joseph Karl Stieler/Domínio público
 transmite neste domingo (27), às 12h30, uma nova edição da série
 . A produção da emissora pública destaca a rel...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-09-26 14:03:00</wp:post_date>
       <wp:post_date_gmt>2026-09-26 14:03:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-26 14:03:00</wp:post_modified>
@@ -212,9 +302,9 @@ transmite neste domingo (27), às 12h30, uma nova edição da série
     <item>
       <title>Internet grátis pode derrubar rede móvel na eleição, diz Anatel ao STF</title>
       <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/internet-gratis-pode-derrubar-rede-movel-na-eleicao-diz-anatel-ao-stf</link>
-      <pubDate>Sat, 26 Sep 2026 20:27:54 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 23:17:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/internet-gratis-pode-derrubar-rede-movel-na-eleicao-diz-anatel-ao-stf#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/internet-gratis-pode-derrubar-rede-movel-na-eleicao-diz-anatel-ao-stf#1006</guid>
       <description>A Agência Nacional de Telecomunicações (Anatel) alertou o ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), que a liberação irrestrita do ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/LhYBT1FvIvbjxjSWt1LXnr583rY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/uso_de_smartphone_e_celular050720211242.jpg?itok=P9nz9X3O&quot; alt=&quot;Internet grátis pode derrubar rede móvel na eleição, diz Anatel ao STF&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A Agência Nacional de Telecomunicações (Anatel) alertou o ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), que a liberação irrestrita do acesso à internet móvel durante as eleições pode provocar picos de tráfego capazes de interromper a conectividade em aparelhos celulares, em especial na proximidade de zonas eleitorais.&lt;/p&gt;
@@ -233,7 +323,7 @@ transmite neste domingo (27), às 12h30, uma nova edição da série
 &lt;p&gt;O Brasil possui hoje mais de 270 milhões de pontos de telefonia móvel ativos. A modalidade pré-paga representa cerca de 35% da totalidade de acessos móveis em operação no território nacional, informou a Anatel. Uma boa parte dos pós-pagos são do tipo &quot;controle&quot;, que também possui pacotes de dados limitados.&lt;/p&gt;
 &lt;p&gt;O primeiro turno das eleições está marcado para 4 de outubro, quando os eleitores deverão votar para os cargos de deputado federal, estadual ou distrital, governador, senador e presidente da República&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/internet-gratis-pode-derrubar-rede-movel-na-eleicao-diz-anatel-ao-stf&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>A Agência Nacional de Telecomunicações (Anatel) alertou o ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), que a liberação irrestrita do ...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-09-26 13:55:00</wp:post_date>
       <wp:post_date_gmt>2026-09-26 13:55:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-26 13:55:00</wp:post_modified>
@@ -259,9 +349,9 @@ transmite neste domingo (27), às 12h30, uma nova edição da série
     <item>
       <title>Fazenda mantém subsídio de R$ 2,12 ao óleo diesel</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-mantem-subsidio-de-r-212-ao-oleo-diesel</link>
-      <pubDate>Sat, 26 Sep 2026 20:27:54 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 23:17:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-mantem-subsidio-de-r-212-ao-oleo-diesel#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-mantem-subsidio-de-r-212-ao-oleo-diesel#1007</guid>
       <description>O Ministério da Fazenda publicou nessa sexta-feira (25), em edição extra do
 que assegura a manutenção da subvenção de R$ 2,12 por litro ao óleo diese...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/B6_o_KgpvO0biLYaiC6iHQ04bvQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/posto_de_gasolina_jfcrz_abr_0605223809_1.jpg?itok=4O3-SM-z&quot; alt=&quot;Fazenda mantém subsídio de R$ 2,12 ao óleo diesel&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -273,16 +363,10 @@ que assegura a manutenção da subvenção de R$ 2,12 por litro ao óleo diese..
 &lt;p&gt;O ministério lembra que a subvenção ao diesel foi criada inicialmente tendo como valor R$ 1,12 por litro&lt;/p&gt;
 &lt;p&gt;. “Posteriormente, diante do agravamento do cenário externo, a MP 1.391 autorizou o Ministério da Fazenda a definir, por ato próprio, o valor da subvenção ao diesel”, acrescentou.&lt;/p&gt;
 &lt;p&gt;Com base nessa autorização, o ministério fixou uma subvenção adicional de R$ 1 por litro, elevando o valor total para R$ 2,12.&lt;/p&gt;
-&lt;p&gt;Em nota, a Fazenda informou que a nova portaria não aumenta a subvenção, e que o objetivo é assegurar a manutenção do valor atualmente praticado diante da persistência da volatilidade dos preços internacionais do petróleo e dos combustíveis.&lt;/p&gt;
-&lt;p&gt;Saiba como baixar o e-Título para votar&lt;/p&gt;
-&lt;p&gt;Aeroporto de Confins volta à normalidade depois de suspender operações&lt;/p&gt;
-&lt;p&gt;China diz na ONU que soberania dos países do Golfo deve ser respeitada&lt;/p&gt;
-&lt;p&gt;BH: Aeroporto de Confins suspende operações por problema na pista&lt;/p&gt;
-&lt;p&gt;Emissoras de televisão retomam acesso à Casa Branca&lt;/p&gt;
-&lt;p&gt;Irã apresenta na ONU proposta de abrir Ormuz; Trump diz que rejeita&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-mantem-subsidio-de-r-212-ao-oleo-diesel&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Em nota, a Fazenda informou que a nova portaria não aumenta a subvenção, e que o objetivo é assegurar a manutenção do valor atualmente praticado diante da persistência da volatilidade dos preços internacionais do petróleo e dos combustíveis.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-mantem-subsidio-de-r-212-ao-oleo-diesel&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O Ministério da Fazenda publicou nessa sexta-feira (25), em edição extra do
 que assegura a manutenção da subvenção de R$ 2,12 por litro ao óleo diese...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-09-26 12:33:00</wp:post_date>
       <wp:post_date_gmt>2026-09-26 12:33:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-26 12:33:00</wp:post_modified>
@@ -308,9 +392,9 @@ que assegura a manutenção da subvenção de R$ 2,12 por litro ao óleo diese..
     <item>
       <title>Eleições 2026: saiba em quantos candidatos votar e a ordem de votação</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleicoes2026-saiba-em-quantos-candidatos-votar-e-ordem-de-votacao</link>
-      <pubDate>Sat, 26 Sep 2026 20:27:54 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 23:17:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleicoes2026-saiba-em-quantos-candidatos-votar-e-ordem-de-votacao#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleicoes2026-saiba-em-quantos-candidatos-votar-e-ordem-de-votacao#1008</guid>
       <description>© Fernando Frazão/Agência Brasil
 O eleitor poderá escolher até seis candidatos no
 , que serão realizadas no próximo domingo, dia 4 de outubro.
@@ -335,7 +419,7 @@ Cada c...</description>
 O eleitor poderá escolher até seis candidatos no
 , que serão realizadas no próximo domingo, dia 4 de outubro.
 Cada c...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-09-26 12:15:00</wp:post_date>
       <wp:post_date_gmt>2026-09-26 12:15:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-26 12:15:00</wp:post_modified>
@@ -361,9 +445,9 @@ Cada c...</excerpt:encoded>
     <item>
       <title>STF condena Eduardo Bolsonaro por difamar deputada Tábata Amaral</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-condena-eduardo-bolsonaro-por-difamar-deputada-tabata-amaral</link>
-      <pubDate>Sat, 26 Sep 2026 20:27:54 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 23:17:27 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-condena-eduardo-bolsonaro-por-difamar-deputada-tabata-amaral#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-condena-eduardo-bolsonaro-por-difamar-deputada-tabata-amaral#1009</guid>
       <description>© Marcelo Camargo/Agência Brasil
 O plenário do Supremo Tribunal Federal (STF) decidiu condenar, por 7 votos a 3, o ex-deputado Eduardo Bolsonaro (PL-...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/ZgGQsfXkwg3tR0p2AefZ_i9ROX8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcamg_abr_01021911209.jpg?itok=AlwtcJJ3&quot; alt=&quot;STF condena Eduardo Bolsonaro por difamar deputada Tábata Amaral&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -375,15 +459,15 @@ O plenário do Supremo Tribunal Federal (STF) decidiu condenar, por 7 votos a 3,
 &lt;p&gt;O relator foi acompanhado por Cármen Lúcia, Flávio Dino, Cristiano Zanin, Edson Fachin, Gilmar Mendes e Dias Toffoli. Ficaram vencidos os ministros Luiz Fux, Nunes Marques e André Mendonça, que votaram pela absolvição.&lt;/p&gt;
 &lt;p&gt;Desde fevereiro de 2025, Eduardo Bolsonaro encontra-se nos Estados Unidos, para onde diz ter ido para se proteger do que chamade “perseguição” jurídica no Brasil.&lt;/p&gt;
 &lt;p&gt;O ex-deputado teve concedido um greencard (permissão de residência) pelo governo norte-americano. Ele acabou sendo cassado pela Câmara por excesso de faltas.&lt;/p&gt;
+&lt;p&gt;China e EUA concordam em dialogar sobre IA e reduzir tarifas&lt;/p&gt;
+&lt;p&gt;São Paulo vence o Corinthians, faz história e fica perto do título&lt;/p&gt;
+&lt;p&gt;Eleitor deve se antecipar na consulta a local de votação, alerta TSE&lt;/p&gt;
+&lt;p&gt;Brasil conquista três ouros no Mundial Paralímpico de Judô&lt;/p&gt;
 &lt;p&gt;Saiba como baixar o e-Título para votar&lt;/p&gt;
-&lt;p&gt;Aeroporto de Confins volta à normalidade depois de suspender operações&lt;/p&gt;
-&lt;p&gt;China diz na ONU que soberania dos países do Golfo deve ser respeitada&lt;/p&gt;
-&lt;p&gt;BH: Aeroporto de Confins suspende operações por problema na pista&lt;/p&gt;
-&lt;p&gt;Emissoras de televisão retomam acesso à Casa Branca&lt;/p&gt;
-&lt;p&gt;Irã apresenta na ONU proposta de abrir Ormuz; Trump diz que rejeita&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-condena-eduardo-bolsonaro-por-difamar-deputada-tabata-amaral&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Aeroporto de Confins volta à normalidade depois de suspender operações&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-condena-eduardo-bolsonaro-por-difamar-deputada-tabata-amaral&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcelo Camargo/Agência Brasil
 O plenário do Supremo Tribunal Federal (STF) decidiu condenar, por 7 votos a 3, o ex-deputado Eduardo Bolsonaro (PL-...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-09-26 11:35:00</wp:post_date>
       <wp:post_date_gmt>2026-09-26 11:35:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-26 11:35:00</wp:post_modified>
@@ -404,100 +488,6 @@ O plenário do Supremo Tribunal Federal (STF) decidiu condenar, por 7 votos a 3,
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/ZgGQsfXkwg3tR0p2AefZ_i9ROX8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcamg_abr_01021911209.jpg?itok=AlwtcJJ3</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Inmet: calor acima da média e chuvas irregulares devem marcar outubro</title>
-      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inmet-calor-acima-da-media-e-chuvas-irregulares-devem-marcar-outubro</link>
-      <pubDate>Sat, 26 Sep 2026 20:27:54 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inmet-calor-acima-da-media-e-chuvas-irregulares-devem-marcar-outubro#1008</guid>
-      <description>O mês de outubro deve ser marcado por temperaturas acima da média em grande parte do país e por uma distribuição desigual das chuvas entre as regiões...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DRCBinTonsXqRzXXd1IeKqZ80Zc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/30/pzzb5391.jpg?itok=yOyorZK1&quot; alt=&quot;Inmet: calor acima da média e chuvas irregulares devem marcar outubro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;O mês de outubro deve ser marcado por temperaturas acima da média em grande parte do país e por uma distribuição desigual das chuvas entre as regiões, segundo previsão climática divulgada pelo Instituto Nacional de Meteorologia (Inmet).&lt;/p&gt;
-&lt;p&gt;O prognóstico foi apresentado em meio a uma&lt;/p&gt;
-&lt;p&gt;prevista para o fim de setembro, com temperaturas que podem superar 40°C em áreas de diversos estados.&lt;/p&gt;
-&lt;p&gt;De acordo com o instituto, os maiores desvios de temperatura em outubro estão previstos para as regiões Centro-Oeste e Sudeste.&lt;/p&gt;
-&lt;p&gt;Em algumas áreas de Goiás, do Distrito Federal e de Minas Gerais, os termômetros podem registrar médias superiores em mais de 2°C aos valores normalmente observados no período.&lt;/p&gt;
-&lt;p&gt;Em relação às chuvas, a tendência é de acumulados acima da média em áreas do Sul, de Mato Grosso do Sul, de São Paulo e do sudeste de Minas Gerais. No Rio de Janeiro, os volumes devem ficar próximos da média histórica.&lt;/p&gt;
-&lt;p&gt;Parte das regiões Norte, Nordeste e Centro-Oeste deve registrar precipitações abaixo do padrão climatológico para outubro. O prognóstico também aponta distribuição irregular das chuvas em Minas Gerais e no Espírito Santo.&lt;/p&gt;
-&lt;p&gt;O cenário pode provocar impactos na agricultura. Em Mato Grosso e Goiás, a combinação de calor e chuvas irregulares tende a dificultar a recuperação da umidade do solo e o avanço da semeadura da safra de verão.&lt;/p&gt;
-&lt;p&gt;Em Mato Grosso do Sul, a expectativa de chuvas mais frequentes pode favorecer a recuperação da umidade do solo e oferecer melhores condições para a semeadura e o desenvolvimento inicial das lavouras.&lt;/p&gt;
-&lt;p&gt;Saiba como baixar o e-Título para votar&lt;/p&gt;
-&lt;p&gt;Aeroporto de Confins volta à normalidade depois de suspender operações&lt;/p&gt;
-&lt;p&gt;China diz na ONU que soberania dos países do Golfo deve ser respeitada&lt;/p&gt;
-&lt;p&gt;BH: Aeroporto de Confins suspende operações por problema na pista&lt;/p&gt;
-&lt;p&gt;Emissoras de televisão retomam acesso à Casa Branca&lt;/p&gt;
-&lt;p&gt;Irã apresenta na ONU proposta de abrir Ormuz; Trump diz que rejeita&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inmet-calor-acima-da-media-e-chuvas-irregulares-devem-marcar-outubro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>O mês de outubro deve ser marcado por temperaturas acima da média em grande parte do país e por uma distribuição desigual das chuvas entre as regiões...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-09-26 11:09:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-26 11:09:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-26 11:09:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-26 11:09:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/DRCBinTonsXqRzXXd1IeKqZ80Zc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/30/pzzb5391.jpg?itok=yOyorZK1</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Fórmula 1: Russell supera Verstappen por 0.1s e vence GP do Azerbaijão</title>
-      <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/f1-russell-supera-verstappen-por-01s-e-vence-gp-do-azerbaijao</link>
-      <pubDate>Sat, 26 Sep 2026 20:27:54 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/f1-russell-supera-verstappen-por-01s-e-vence-gp-do-azerbaijao#1009</guid>
-      <description>© Reuters/Jakub Porzycki/Proibida reprodução
-O GP do Azerbaijão, na manhã deste sábado (26), tevefim emocionante. Numa corrida com seis abandonos e m...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vCvrVxeNs6F9kkmuXxRMolhOXoE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/26/2026-09-26t131603z_242947783_up1em9q10uqjp_rtrmadp_3_motor-f1-azerbaijan.jpg?itok=1DxBQMnE&quot; alt=&quot;Fórmula 1: Russell supera Verstappen por 0.1s e vence GP do Azerbaijão&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Reuters/Jakub Porzycki/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;O GP do Azerbaijão, na manhã deste sábado (26), tevefim emocionante. Numa corrida com seis abandonos e muitas bandeiras amarelas, o britânico George Russell, da Mercedes, terminou apenas 0.196s à frente do holandês Max Verstappen, da Red Bull, em uma das corridas mais apertadas da história.&lt;/p&gt;
-&lt;p&gt;O triunfo foi fundamental para Russell se aproximar do companheiro de equipe, Kimi Antonelli, na briga pelo título. O francês Isack Hadjar, companheiro de Verstappen na Red Bull, completou o pódio.&lt;/p&gt;
-&lt;p&gt;Antonelli, líder da corrida do Mundial de pilotos,com 302 pontos, teve um fim de semana para esquecer. O italiano sofreu um acidente ainda na classificação e largou na 16ª posição, longe da disputa pelo topo.&lt;/p&gt;
-&lt;p&gt;Lá em cima, Russell seguiu soberano depois de largar na pole, mas viu os adversários se aproximarem depois das diversas pausas durante a corrida. Na reta final, Verstappen colocou pressão no britânico, passando várias voltas a menos de um segundo de distância do líder. Enquanto isso, o brasileiro Gabriel Bortoleto, da Audi, que havia largado logo atrás de Antonelli, na 17ª posição, se aproveitou de algumas desistências para ganhar posições, terminando em 13º.&lt;/p&gt;
-&lt;p&gt;Russell aguentou a pressão de Verstappen e garantiu a terceira vitória na temporada, chegando a 236 pontos na tabela de classificação de pilotos, em segundo lugar. Antonelli, que fechou a corrida em quinto, ainda tem uma frente confortável.&lt;/p&gt;
-&lt;p&gt;Os pilotos já voltam às pistas no próximo fim de semana, quando ocorre o GP do Bahrein.&lt;/p&gt;
-&lt;p&gt;Saiba como baixar o e-Título para votar&lt;/p&gt;
-&lt;p&gt;Aeroporto de Confins volta à normalidade depois de suspender operações&lt;/p&gt;
-&lt;p&gt;China diz na ONU que soberania dos países do Golfo deve ser respeitada&lt;/p&gt;
-&lt;p&gt;BH: Aeroporto de Confins suspende operações por problema na pista&lt;/p&gt;
-&lt;p&gt;Emissoras de televisão retomam acesso à Casa Branca&lt;/p&gt;
-&lt;p&gt;Irã apresenta na ONU proposta de abrir Ormuz; Trump diz que rejeita&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/f1-russell-supera-verstappen-por-01s-e-vence-gp-do-azerbaijao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Reuters/Jakub Porzycki/Proibida reprodução
-O GP do Azerbaijão, na manhã deste sábado (26), tevefim emocionante. Numa corrida com seis abandonos e m...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-09-26 10:49:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-26 10:49:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-26 10:49:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-26 10:49:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/vCvrVxeNs6F9kkmuXxRMolhOXoE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/26/2026-09-26t131603z_242947783_up1em9q10uqjp_rtrmadp_3_motor-f1-azerbaijan.jpg?itok=1DxBQMnE</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
