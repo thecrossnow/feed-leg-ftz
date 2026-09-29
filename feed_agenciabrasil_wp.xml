@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Tue, 29 Sep 2026 00:50:43 +0000</pubDate>
+    <pubDate>Tue, 29 Sep 2026 06:28:10 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,105 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Confira como foi a segunda-feira (28) dos candidatos a presidente</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-segunda-feira-28-dos-candidatos-presidente</link>
+      <pubDate>Tue, 29 Sep 2026 06:28:10 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-segunda-feira-28-dos-candidatos-presidente#1000</guid>
+      <description>Na última semana de campanha política, os candidatos à Presidência intensificam as agendas com entrevistas para veículos de imprensa e atos em todo o...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL&quot; alt=&quot;Confira como foi a segunda-feira (28) dos candidatos a presidente&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Na última semana de campanha política, os candidatos à Presidência intensificam as agendas com entrevistas para veículos de imprensa e atos em todo o país.&lt;/p&gt;
+&lt;p&gt;&gt;&gt; Veja como foi o dia dos candidatos&lt;/p&gt;
+&lt;p&gt;O candidato Luiz Inácio Lula da Silva participoude atos de campanha em Belém e em Manaus.&lt;/p&gt;
+&lt;p&gt;Em Belém, Lula prometeu a ampliação do acesso da população a exames modernos, diagnósticos mais rápidos e consultas com médicos especialistas pela rede pública de saúde.&lt;/p&gt;
+&lt;p&gt;&quot;É um direito do povo ser tratado com respeito e decência&quot;, afirmou.&lt;/p&gt;
+&lt;p&gt;O candidato Renan Santos cumpriu agenda de campanha no Espírito Santo, onde se encontrou, à noite, com apoiadores no centro de Vitória.&lt;/p&gt;
+&lt;p&gt;O candidato Romeu Zema almoçou com apoiadores em Caeté (MG).&lt;/p&gt;
+&lt;p&gt;Ele concedeu entrevista para a Rádio Alfa, de Nova Era (MG).&lt;/p&gt;
+&lt;p&gt;O candidato Ronaldo Caiado fez caminhada no bairro Jardim Guanabara, em Goiânia.&lt;/p&gt;
+&lt;p&gt;Ele voltou a defender limitaro crescimento dos gastos obrigatórios a 50% do crescimento do Produto Interno Bruto (PIB) e corte de 25% dos gastos discricionários.&lt;/p&gt;
+&lt;p&gt;“[Gestão de] gasto público nós mostramos como fazer aqui no estado. O que se precisa no Brasil é saber governar. Mas não só saber governar, é ter autoridade moral para governar”, afirmou.&lt;/p&gt;
+&lt;p&gt;O candidato Rui Costa Pimenta não teve agenda pública de campanha.&lt;/p&gt;
+&lt;p&gt;A candidata Samara Martinscumpriu agenda de campanha em São Paulo. Ela fez panfletagem no bairro da Mooca, na zona leste da capital, e participou de ato pela legalização do aborto na Avenida Paulista.&lt;/p&gt;
+&lt;p&gt;Samara Martins participou deevento na Universidade Zumbi dos Palmares.&lt;/p&gt;
+&lt;p&gt;O candidato Wilson Grassi não teve agenda pública de campanha.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-como-foi-segunda-feira-28-dos-candidatos-presidente&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Na última semana de campanha política, os candidatos à Presidência intensificam as agendas com entrevistas para veículos de imprensa e atos em todo o...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-09-28 21:37:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-28 21:37:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-28 21:37:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-28 21:37:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/PPr0kEnRYqIEk2gj7mhWFFeJ3bo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/31/eleicoes-2026-banner.png?itok=QAY_LqlL</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Temporais em Santa Catarina e Rio Grande do Sul afetam 4,8 mil casas</title>
+      <link>https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-em-santa-catarina-e-rio-grande-do-sul-afetam-48-mil-casas</link>
+      <pubDate>Tue, 29 Sep 2026 06:28:10 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-em-santa-catarina-e-rio-grande-do-sul-afetam-48-mil-casas#1001</guid>
+      <description>Os estados de Santa Catarina e Rio Grande do Sul enfrentam vendavais e tempestade desde a última sexta-feira (25), afetando 18 municípios catarinense...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/yFmT-qfzmlyqFYbJBgYUJC-cc9Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/22/whatsappimage20260921at11.00.131789999303484_foto.jpeg?itok=Ch6tq0pF&quot; alt=&quot;Temporais em Santa Catarina e Rio Grande do Sul afetam 4,8 mil casas&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Os estados de Santa Catarina e Rio Grande do Sul enfrentam vendavais e tempestade desde a última sexta-feira (25), afetando 18 municípios catarinenses e 78 gaúchos.&lt;/p&gt;
+&lt;p&gt;No total cerca de 4,8 mil residências foram afetadas. No Rio Grande do Sul, quatro pessoas ficaram feridas.&lt;/p&gt;
+&lt;p&gt;No domingo, foi registrada ocorrência de granizo, vendavais e chuvas intensas em Santa Catarina, com 1.423 habitações afetadas. Sete municípios decretaram situação de emergência: Arabutã, Santiago do Sul, Seara, Ponte Serrada, Ipumirim, São Domingos e Formosa do Sul, segundo a Defesa Civil estadual.&lt;/p&gt;
+&lt;p&gt;Também foram registradas sete solicitações de itens de assistência humanitária (IAH) pelas cidades de Santiago do Sul, São Domingos, Arabutã, Seara, Ipumirim, Anita Garibaldi e Formosa do Sul.&lt;/p&gt;
+&lt;p&gt;Em Seara, uma tempestade com granizo atingiu todo o município e destelhou mais de 808 residências. Três postos de saúde, dez escolas e quatro edificações públicas municipais também foram afetados. Em Santiago do Sul, chuvas intensas, vendavais e granizo deixaram 180 residências afetadas, com danos em diversos prédios públicos.&lt;/p&gt;
+&lt;p&gt;Em Ponte Serrada, o granizo atingiu o Centro, o Bairro Moroso e a Linha Alegre, com 100 edificações atingidas. Em Anita Garibaldi, o granizo atingiu o município durante a madrugada e afetou 89 habitações, levando a distribuição de lonas. Em Arabutã, 76 residências sofreram danos. Em Ipumirim, foram 45, e em Formosa do Sul, 27. Em São Domingos, 37 habitações e cerca de 90 pessoas foram afetadas, além de dois aviários danificados.&lt;/p&gt;
+&lt;p&gt;Em Quilombo, granizo e vendavais atingiram a área rural, com 40 propriedades afetadas. A queda de árvores provocou a interdição temporária da SC-157, e a queda de postes deixou quatro comunidades sem energia elétrica.&lt;/p&gt;
+&lt;p&gt;A Defesa Civil do Rio Grande do Sul contabiliza estragos desde a última sexta, com 83 ocorrências em 78 municípios.&lt;/p&gt;
+&lt;p&gt;Na tarde desta segunda houve registro de ventos acima de 70km/h.&lt;/p&gt;
+&lt;p&gt;As ocorrências estão relacionadas, principalmente, a chuvas intensas, queda de granizo, vendavais e corridas de massa (solo e lama).&lt;/p&gt;
+&lt;p&gt;Quatro pessoas ficaram feridas e mais de 39 mil afetadas.&lt;/p&gt;
+&lt;p&gt;Também foram registrados 6.088 desalojados e 63 desabrigados, além de 4.982 residências danificadas.&lt;/p&gt;
+&lt;p&gt;Não há registro de óbitos ou desaparecidos.&lt;/p&gt;
+&lt;p&gt;Entre as pessoas feridas, duas são de Pontão, uma de Alegrete e uma de Capão do Cipó.&lt;/p&gt;
+&lt;p&gt;Em Santiago, a chuva de granizo afetou mais de 26 mil pessoas e deixou 13 desabrigadas e 6 mil desalojadas. O município registrou 3 mil residências danificadas, além de uma unidade de saúde e 20 estabelecimentos de ensino atingidos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/temporais-em-santa-catarina-e-rio-grande-do-sul-afetam-48-mil-casas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Os estados de Santa Catarina e Rio Grande do Sul enfrentam vendavais e tempestade desde a última sexta-feira (25), afetando 18 municípios catarinense...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-09-28 21:27:00</wp:post_date>
+      <wp:post_date_gmt>2026-09-28 21:27:00</wp:post_date_gmt>
+      <wp:post_modified>2026-09-28 21:27:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-09-28 21:27:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/yFmT-qfzmlyqFYbJBgYUJC-cc9Q=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/22/whatsappimage20260921at11.00.131789999303484_foto.jpeg?itok=Ch6tq0pF</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>TSE recebeu mais de 50 mil denúncias de propaganda irregular</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-recebeu-mais-de-50-mil-denuncias-de-propaganda-irregular</link>
-      <pubDate>Tue, 29 Sep 2026 00:50:43 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 06:28:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-recebeu-mais-de-50-mil-denuncias-de-propaganda-irregular#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-recebeu-mais-de-50-mil-denuncias-de-propaganda-irregular#1002</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 Desde o início da campanha para as eleições gerais de 2026, a Justiça Eleitoral já recebeu 51.395 denúncias de prop...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/aO50EPh_WNARXXR__R9ZXfOwKw0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/16/_raf1321.jpg?itok=knlm5iN-&quot; alt=&quot;TSE recebeu mais de 50 mil denúncias de propaganda irregular&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -47,7 +141,7 @@ Desde o início da campanha para as eleições gerais de 2026, a Justiça Eleito
 &lt;p&gt;Sistema de Alertas de Desinformação Eleitoral&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-recebeu-mais-de-50-mil-denuncias-de-propaganda-irregular&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Desde o início da campanha para as eleições gerais de 2026, a Justiça Eleitoral já recebeu 51.395 denúncias de prop...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1002</wp:post_id>
       <wp:post_date>2026-09-28 20:39:00</wp:post_date>
       <wp:post_date_gmt>2026-09-28 20:39:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-28 20:39:00</wp:post_modified>
@@ -73,9 +167,9 @@ Desde o início da campanha para as eleições gerais de 2026, a Justiça Eleito
     <item>
       <title>Sociedade civil rebate Anatel sobre internet grátis na eleição</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/sociedade-civil-rebate-anatel-sobre-internet-gratis-na-eleicao</link>
-      <pubDate>Tue, 29 Sep 2026 00:50:43 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 06:28:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/sociedade-civil-rebate-anatel-sobre-internet-gratis-na-eleicao#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/sociedade-civil-rebate-anatel-sobre-internet-gratis-na-eleicao#1003</guid>
       <description>© REUTERS/Manuel Ausloos/ Proibido reprodução
 Um grupo de 12 entidades da sociedade civil pediu ao Supremo Tribunal Federal (STF) para ingressar como...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/zBdFhEo03J90N1MuNJDXSGPnmQ0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/08/2026-09-08t150427z_1_lynxmpem871hc_rtroptp_4_oecd-education.jpg?itok=8BZ16UwJ&quot; alt=&quot;Sociedade civil rebate Anatel sobre internet grátis na eleição&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -96,7 +190,7 @@ Um grupo de 12 entidades da sociedade civil pediu ao Supremo Tribunal Federal (S
 &lt;p&gt;Além disso, a ação visa impedir que o cidadão tenha apenas acesso a ambientes como WhatsApp e o Instagram que, a depender do plano contratado, não consomem dados, e são frequentemente usados para compartilhamento de conteúdos políticos com desinformação.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/sociedade-civil-rebate-anatel-sobre-internet-gratis-na-eleicao&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Manuel Ausloos/ Proibido reprodução
 Um grupo de 12 entidades da sociedade civil pediu ao Supremo Tribunal Federal (STF) para ingressar como...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-09-28 20:12:00</wp:post_date>
       <wp:post_date_gmt>2026-09-28 20:12:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-28 20:12:00</wp:post_modified>
@@ -122,9 +216,9 @@ Um grupo de 12 entidades da sociedade civil pediu ao Supremo Tribunal Federal (S
     <item>
       <title>Zanin libera acesso gratuito a sites da Justiça Eleitoral nas eleições</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-libera-acesso-gratuito-sites-da-justica-eleitoral-nas-eleicoes</link>
-      <pubDate>Tue, 29 Sep 2026 00:50:43 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 06:28:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-libera-acesso-gratuito-sites-da-justica-eleitoral-nas-eleicoes#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-libera-acesso-gratuito-sites-da-justica-eleitoral-nas-eleicoes#1004</guid>
       <description>© Marcello Casal JrAgência Brasil
 O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), autorizou nesta segunda-feira (28) que pessoas com f...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/DggW9Dkhp5wFKdAxxaL6Yr2nOGI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/etitulo.jpg?itok=j2NndudC&quot; alt=&quot;Zanin libera acesso gratuito a sites da Justiça Eleitoral nas eleições&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -145,7 +239,7 @@ O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), autorizou nesta s
 &lt;p&gt;Canetas emagrecedoras: Anvisa apura suspeita de perda de visão&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-libera-acesso-gratuito-sites-da-justica-eleitoral-nas-eleicoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Marcello Casal JrAgência Brasil
 O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), autorizou nesta segunda-feira (28) que pessoas com f...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-09-28 20:03:00</wp:post_date>
       <wp:post_date_gmt>2026-09-28 20:03:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-28 20:03:00</wp:post_modified>
@@ -171,9 +265,9 @@ O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), autorizou nesta s
     <item>
       <title>Lei define padrões de qualidade a hospitais particulares</title>
       <link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/lei-define-padroes-de-qualidade-hospitais-particulares</link>
-      <pubDate>Tue, 29 Sep 2026 00:50:43 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 06:28:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/lei-define-padroes-de-qualidade-hospitais-particulares#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/lei-define-padroes-de-qualidade-hospitais-particulares#1005</guid>
       <description>© Reuters / Kai Pfaffenbach / Direitos Reservados
 O presidente Luiz Inácio Lula da Silva sancionou, nesta segunda-feira (28), uma lei que visa aprimo...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/GkwiC_WSkfCyY0v4iz3u3o6h3SU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2020-03-17t201437z_2121953516_rc2wlf95tlfr_rtrmadp_3_health-coronavirus-germany.jpg?itok=e511PQJ1&quot; alt=&quot;Lei define padrões de qualidade a hospitais particulares&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -194,7 +288,7 @@ O presidente Luiz Inácio Lula da Silva sancionou, nesta segunda-feira (28), uma
 &lt;p&gt;Canetas emagrecedoras: Anvisa apura suspeita de perda de visão&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/lei-define-padroes-de-qualidade-hospitais-particulares&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters / Kai Pfaffenbach / Direitos Reservados
 O presidente Luiz Inácio Lula da Silva sancionou, nesta segunda-feira (28), uma lei que visa aprimo...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-09-28 19:57:00</wp:post_date>
       <wp:post_date_gmt>2026-09-28 19:57:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-28 19:57:00</wp:post_modified>
@@ -220,9 +314,9 @@ O presidente Luiz Inácio Lula da Silva sancionou, nesta segunda-feira (28), uma
     <item>
       <title>Após empate frustrante, Brasil reencontra Austrália em novo amistoso</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/apos-empate-frustrante-brasil-reencontra-australia-em-novo-amistoso</link>
-      <pubDate>Tue, 29 Sep 2026 00:50:43 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 06:28:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/apos-empate-frustrante-brasil-reencontra-australia-em-novo-amistoso#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/apos-empate-frustrante-brasil-reencontra-australia-em-novo-amistoso#1006</guid>
       <description>Quatro dias após empatarem por 1 a 1, Brasil e Austrália se reencontram nesta terça-feira (29) para novo amistoso no país da Oceania.
 Desta vez, no S...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/CTvafG2IVGIUpLPOj9hRfRN74Oc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/09/28/25set2026_australia_x_brasil_51_rayan.jpg?itok=4OabsRoS&quot; alt=&quot;Após empate frustrante, Brasil reencontra Austrália em novo amistoso&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -239,11 +333,11 @@ Desta vez, no S...</description>
 &lt;p&gt;Se repetir a formação do último amistoso, Popovic deve escalar a Austrália com Patrick Beach; Alessandro Circati, Harry Souttare e Lucas Herrington; Jacob Italiano, Jackson Irvine, Paul Okon-Engstler e Connor Metcalfe; Aziz Behich, Kusini Yengi e Nestory Irankunda. Este último marcou, de falta, o gol que abriu o marcador em Townsville.&lt;/p&gt;
 &lt;p&gt;Após os jogos na Austrália, o Brasil viaja para a Índia. O amistoso contra a seleção da casa será no próximo sábado (3), às 11h, no Salt Lake Stadium, em Calcutá.&lt;/p&gt;
 &lt;p&gt;Canetas emagrecedoras: Anvisa apura suspeita de perda de visão&lt;/p&gt;
-&lt;p&gt;Força-tarefa do governo derruba mais de 500 sites de apostas online&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 28 de setembro de 2026; assista na íntegra&lt;/p&gt;
 &lt;p&gt;Confira como foi a segunda-feira (28) dos candidatos a presidente&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/apos-empate-frustrante-brasil-reencontra-australia-em-novo-amistoso&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Quatro dias após empatarem por 1 a 1, Brasil e Austrália se reencontram nesta terça-feira (29) para novo amistoso no país da Oceania.
 Desta vez, no S...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-09-28 19:36:00</wp:post_date>
       <wp:post_date_gmt>2026-09-28 19:36:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-28 19:36:00</wp:post_modified>
@@ -269,9 +363,9 @@ Desta vez, no S...</excerpt:encoded>
     <item>
       <title>Dólar sobe para R$ 5,22 e atinge maior nível desde março</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-sobe-para-r-522-e-atinge-maior-nivel-desde-marco</link>
-      <pubDate>Tue, 29 Sep 2026 00:50:43 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 06:28:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-sobe-para-r-522-e-atinge-maior-nivel-desde-marco#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-sobe-para-r-522-e-atinge-maior-nivel-desde-marco#1007</guid>
       <description>© REUTERS/Willy Kurniawan/ Proibido reprodução
 Em um dia de turbulências no exterior, o dólar ultrapassou a barreira de R$ 5,20 e fechou em R$ 5,22 –...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qgr1uCa7n_TP2WKn5oQPmLd6V2M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/23/2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg?itok=6u1xpzSK&quot; alt=&quot;Dólar sobe para R$ 5,22 e atinge maior nível desde março&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -292,7 +386,7 @@ Em um dia de turbulências no exterior, o dólar ultrapassou a barreira de R$ 5,
 &lt;p&gt;Brasil registrou déficit de US$ 5,055 bilhões&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-sobe-para-r-522-e-atinge-maior-nivel-desde-marco&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© REUTERS/Willy Kurniawan/ Proibido reprodução
 Em um dia de turbulências no exterior, o dólar ultrapassou a barreira de R$ 5,20 e fechou em R$ 5,22 –...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-09-28 19:35:00</wp:post_date>
       <wp:post_date_gmt>2026-09-28 19:35:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-28 19:35:00</wp:post_modified>
@@ -318,9 +412,9 @@ Em um dia de turbulências no exterior, o dólar ultrapassou a barreira de R$ 5,
     <item>
       <title>Presidente do TSE reclama de interferência em decisões da Corte</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-tse-reclama-de-interferencia-em-decisoes-da-corte</link>
-      <pubDate>Tue, 29 Sep 2026 00:50:43 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 06:28:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-tse-reclama-de-interferencia-em-decisoes-da-corte#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-tse-reclama-de-interferencia-em-decisoes-da-corte#1008</guid>
       <description>O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, enviou nesta segunda-feira (28) um ofício ao presidente do Supremo Tribunal ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/_9P-Xk4KgWS9pIzT-ejNNHg1qaM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/04/30/kassio_nunes_marques.jpg?itok=OrbSBU7b&quot; alt=&quot;Presidente do TSE reclama de interferência em decisões da Corte&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, enviou nesta segunda-feira (28) um ofício ao presidente do Supremo Tribunal Federal (STF), Edson Fachin, para reclamar de &quot;indevida sobreposição de competência&quot; sobre as decisões da Justiça Eleitoral.&lt;/p&gt;
@@ -335,11 +429,11 @@ Em um dia de turbulências no exterior, o dólar ultrapassou a barreira de R$ 5,
 &lt;p&gt;O candidato à Presidência da República Flávio Bolsonaro (PL) acionou a Justiça Eleitoral com a alegação de que o fato era “inverídico” e trazia “discurso de ódio e imputação de crime”. O pedido obteve decisão liminar no TSE para a retirada da postagem e de conteúdos semelhantes sob pena de multa diária de R$ 30 mil.&lt;/p&gt;
 &lt;p&gt;Durante a semana, surgiram informaçõesde quegrupos evangélicos ligados à campanha de Flávio Bolsonaro defendiam a destituição de Nossa Senhora Aparecida de “Padroeira do Brasil”. O candidato do PL nega.&lt;/p&gt;
 &lt;p&gt;Canetas emagrecedoras: Anvisa apura suspeita de perda de visão&lt;/p&gt;
-&lt;p&gt;Força-tarefa do governo derruba mais de 500 sites de apostas online&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 28 de setembro de 2026; assista na íntegra&lt;/p&gt;
 &lt;p&gt;Confira como foi a segunda-feira (28) dos candidatos a presidente&lt;/p&gt;
 &lt;p&gt;Temporais em Santa Catarina e Rio Grande do Sul afetam 4,8 mil casas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/presidente-do-tse-reclama-de-interferencia-em-decisoes-da-corte&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, enviou nesta segunda-feira (28) um ofício ao presidente do Supremo Tribunal ...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-09-28 19:07:00</wp:post_date>
       <wp:post_date_gmt>2026-09-28 19:07:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-28 19:07:00</wp:post_modified>
@@ -365,9 +459,9 @@ Em um dia de turbulências no exterior, o dólar ultrapassou a barreira de R$ 5,
     <item>
       <title>Renegociação de dívidas de adimplentes é prorrogada até 26 de outubro</title>
       <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/renegociacao-de-dividas-de-adimplentes-e-prorrogada-ate-26-de-outubro</link>
-      <pubDate>Tue, 29 Sep 2026 00:50:43 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 06:28:10 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/renegociacao-de-dividas-de-adimplentes-e-prorrogada-ate-26-de-outubro#1007</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/renegociacao-de-dividas-de-adimplentes-e-prorrogada-ate-26-de-outubro#1009</guid>
       <description>© Rafa Neddermeyer/Agência Brasil
 Programa voltado a trabalhadores informais com dívidas em dia ou com atraso inferior a 90 dias, o Desenrola Adimple...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/JfLETLcCiIPi1TYmX2GUekXjdmY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/img_7612_1.jpg?itok=0-i3hsAk&quot; alt=&quot;Renegociação de dívidas de adimplentes é prorrogada até 26 de outubro&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -384,11 +478,11 @@ Programa voltado a trabalhadores informais com dívidas em dia ou com atraso inf
 &lt;p&gt;, no fim de junho,o Desenrola Adimplentes encontrou resistência no setor privado. Bancos demonstraram pouco interesse em participar de uma iniciativa voltada a renegociar dívidas que ainda não estavam vencidas e que atendem a um público específico.&lt;/p&gt;
 &lt;p&gt;Para ampliar a participação, o governo incluiu a possibilidade de portabilidade de crédito. A medida permite que bancos públicos ofereçam aos clientes condições de repactuação consideradas adequadas.&lt;/p&gt;
 &lt;p&gt;Mesmo com essa previsão, a adesão ao programa ocorreu abaixo do previsto, com as renegociações só começando, de fato, em&lt;/p&gt;
-&lt;p&gt;Gilmar Mendes quer identificar ministros do STF citados no caso Master&lt;/p&gt;
-&lt;p&gt;Força-tarefa do governo derruba mais de 500 sites de apostas online&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/renegociacao-de-dividas-de-adimplentes-e-prorrogada-ate-26-de-outubro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Canetas emagrecedoras: Anvisa apura suspeita de perda de visão&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 28 de setembro de 2026; assista na íntegra&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/renegociacao-de-dividas-de-adimplentes-e-prorrogada-ate-26-de-outubro&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
 Programa voltado a trabalhadores informais com dívidas em dia ou com atraso inferior a 90 dias, o Desenrola Adimple...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-09-28 19:06:00</wp:post_date>
       <wp:post_date_gmt>2026-09-28 19:06:00</wp:post_date_gmt>
       <wp:post_modified>2026-09-28 19:06:00</wp:post_modified>
@@ -409,102 +503,6 @@ Programa voltado a trabalhadores informais com dívidas em dia ou com atraso inf
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/JfLETLcCiIPi1TYmX2GUekXjdmY=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/10/img_7612_1.jpg?itok=0-i3hsAk</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Dívida Pública Federal fica estável em agosto e chega a R$ 9,29 tri</title>
-      <link>https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/divida-publica-federal-fica-estavel-em-agosto-e-chega-r-929-tri</link>
-      <pubDate>Tue, 29 Sep 2026 00:50:43 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/divida-publica-federal-fica-estavel-em-agosto-e-chega-r-929-tri#1008</guid>
-      <description>© Marcello Casal JrAgência Brasil
-A Dívida Pública Federal (DPF) ficou estável em agosto e encerrou o mês em R$ 9,293 trilhões, com alta de apenas 0,...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/1UEDZSV-sGYZgWTtiFxpah8bzAQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/economia_1609210405_0.jpg?itok=uyNW2r81&quot; alt=&quot;Dívida Pública Federal fica estável em agosto e chega a R$ 9,29 tri&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Marcello Casal JrAgência Brasil&lt;/p&gt;
-&lt;p&gt;A Dívida Pública Federal (DPF) ficou estável em agosto e encerrou o mês em R$ 9,293 trilhões, com alta de apenas 0,04%.&lt;/p&gt;
-&lt;p&gt;O número foi divulgado nesta segunda-feira (28) pelo Tesouro Nacional.&lt;/p&gt;
-&lt;p&gt;Em julho, o indicador estava em R$ 9,289 trilhões.&lt;/p&gt;
-&lt;p&gt;O avanço ocorreu mesmo com o Tesouro resgatando R$ 84,43 bilhões em títulos a mais do que emitiu. Isso porque a incorporação de R$ 88,39 bilhões em juros mais que compensou o efeito dos resgates e manteve o estoque da dívida em alta.&lt;/p&gt;
-&lt;p&gt;Por meio da incorporação de juros, o Tesouro reconhece, mês a mês, os juros que incidem sobre a dívida pública. A previsão do Tesouro é de que a DPF termine 2026 entre R$ 9,7 trilhões e R$ 10,3 trilhões.&lt;/p&gt;
-&lt;p&gt;A maior parte da dívida está concentrada no mercado doméstico.&lt;/p&gt;
-&lt;p&gt;A Dívida Pública Mobiliária Federal interna (DPMFi) recuou 0,05% em agosto e terminou o mês em R$ 8,944 trilhões.&lt;/p&gt;
-&lt;p&gt;Já a Dívida Pública Federal externa (DPFe) avançou 2,41%, para R$ 348,26 bilhões, dos quais:&lt;/p&gt;
-&lt;p&gt;R$ 299,70 bilhões correspondem à dívida mobiliária;&lt;/p&gt;
-&lt;p&gt;R$ 48,56 bilhões são relativos à dívida contratual (como financiamentos estrangeiros).&lt;/p&gt;
-&lt;p&gt;Um dos destaques do relatório foi o aumento da participação dos títulos vinculados à taxa Selic.&lt;/p&gt;
-&lt;p&gt;A parcela desses papéis passou de 51,11% em julho para 52,74% em agosto, o maior nível da série histórica, segundo o Tesouro.&lt;/p&gt;
-&lt;p&gt;A composição da dívida ficou da seguinte forma:&lt;/p&gt;
-&lt;p&gt;52,74% em títulos de taxa flutuante (Selic);&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/divida-publica-federal-fica-estavel-em-agosto-e-chega-r-929-tri&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Marcello Casal JrAgência Brasil
-A Dívida Pública Federal (DPF) ficou estável em agosto e encerrou o mês em R$ 9,293 trilhões, com alta de apenas 0,...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-09-28 18:54:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-28 18:54:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-28 18:54:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-28 18:54:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/1UEDZSV-sGYZgWTtiFxpah8bzAQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/economia_1609210405_0.jpg?itok=uyNW2r81</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Governo cobra na Justiça gastos do SUS com tratamento de apostadores</title>
-      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/governo-cobra-na-justica-gastos-do-sus-com-tratamento-de-apostadores</link>
-      <pubDate>Tue, 29 Sep 2026 00:50:43 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/governo-cobra-na-justica-gastos-do-sus-com-tratamento-de-apostadores#1009</guid>
-      <description>A Advocacia-Geral da União (AGU) anunciou nesta segunda-feira (28) que entrou na Justiça para cobrar os gastos do Sistema Único de Saúde (SUS) com o ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/F95GDvyYmeX-AcmVWtzl8ImaSqc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc8182_2.jpg?itok=HQrvFG9I&quot; alt=&quot;Governo cobra na Justiça gastos do SUS com tratamento de apostadores&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;A Advocacia-Geral da União (AGU) anunciou nesta segunda-feira (28) que entrou na Justiça para cobrar os gastos do Sistema Único de Saúde (SUS) com o tratamento dos danos causados pelos jogos on-line.&lt;/p&gt;
-&lt;p&gt;A ação civil pública foi protocolada na Justiça Federal em Pernambuco contra 17 plataformas de apostas esportivas e pede a reparação mínima de R$ 1 bilhão em danos morais coletivos.&lt;/p&gt;
-&lt;p&gt;A AGU também requereu à Justiça a restituição em dobro dos valores apostados por pessoas com ludopatia, sintoma que é caracterizado pelo vício compulsivo em jogos.&lt;/p&gt;
-&lt;p&gt;O órgão citou que os gastos do SUS são maiores que os valores arrecadados pelo governo com os impostos pagos pelas bets, que repassariam cerca de R$ 50 milhões aos cofres públicos.&lt;/p&gt;
-&lt;p&gt;&quot;As empresas demandadas privatizam proveitos expressivos decorrentes da captação financeira de milhões de apostadores, enquanto transferem para o SUS e para toda a sociedade o custo orçamentário decorrente do adoecimento coletivo&quot;, argumentou a AGU.&lt;/p&gt;
-&lt;p&gt;A advocacia do governo também acrescentou que o modelo de negócio das plataformas é estruturado para maximizar o tempo de engajamento e o volume de apostas, mecanismos que favorecem o vício.&lt;/p&gt;
-&lt;p&gt;“Esses elementos, tecnicamente equivalentes aos utilizados em jogos de azar com potencial reconhecido de geração de dependência, produzem um efeito colateral sistemático: o adoecimento psíquico de parcela significativa dos usuários, sob a forma de ansiedade, quadros depressivos, transtorno do jogo e, em casos extremos, ideação suicida associada ao endividamento”, completou.&lt;/p&gt;
-&lt;p&gt;Mais cedo, entidades que representam as plataformas pediram ao Supremo Tribunal Federal (STF) a&lt;/p&gt;
-&lt;p&gt;provisória que proibiu a exploração e publicidade dos jogos on-line.&lt;/p&gt;
-&lt;p&gt;para se manifestar no processo, que será analisado pelo ministro Luiz Fux.&lt;/p&gt;
-&lt;p&gt;Canetas emagrecedoras: Anvisa apura suspeita de perda de visão&lt;/p&gt;
-&lt;p&gt;Força-tarefa do governo derruba mais de 500 sites de apostas online&lt;/p&gt;
-&lt;p&gt;Confira como foi a segunda-feira (28) dos candidatos a presidente&lt;/p&gt;
-&lt;p&gt;Temporais em Santa Catarina e Rio Grande do Sul afetam 4,8 mil casas&lt;/p&gt;
-&lt;p&gt;TSE recebeu mais de 50 mil denúncias de propaganda irregular&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/governo-cobra-na-justica-gastos-do-sus-com-tratamento-de-apostadores&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>A Advocacia-Geral da União (AGU) anunciou nesta segunda-feira (28) que entrou na Justiça para cobrar os gastos do Sistema Único de Saúde (SUS) com o ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-09-28 18:23:00</wp:post_date>
-      <wp:post_date_gmt>2026-09-28 18:23:00</wp:post_date_gmt>
-      <wp:post_modified>2026-09-28 18:23:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-09-28 18:23:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/F95GDvyYmeX-AcmVWtzl8ImaSqc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/_dsc8182_2.jpg?itok=HQrvFG9I</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
