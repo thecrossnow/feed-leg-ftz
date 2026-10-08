@@ -6,7 +6,7 @@ import ssl
 from datetime import datetime
 # Bypass SSL verify for simple scripts if certificates are an issue on some envs
 ssl._create_default_https_context = ssl._create_unverified_context
-API_URL = "https://www.ceara.gov.br/wp-json/wp/v2/posts?per_page=30&_embed"
+API_URL = "https://www.ce.gov.br/wp-json/wp/v2/posts?per_page=100&_embed"
 def clean_content(html_content):
     if not html_content:
         return ""
