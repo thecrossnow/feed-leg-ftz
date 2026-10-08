@@ -2,7 +2,7 @@ name: Update News Ceará Feed
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # A cada 1 horas
+    - cron: '1 * * * *' # A cada 1 hora
   workflow_dispatch:
 
 permissions:
@@ -13,76 +13,198 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       # -----------------------------------------------------------
-      - name: 📥 Checkout (com histórico completo)
+      # CHECKOUT
+      # -----------------------------------------------------------
+      - name: 📥 Checkout do repositório
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
-      # -----------------------------------------------------------
+          persist-credentials: true
 
+      # -----------------------------------------------------------
+      # PYTHON
+      # -----------------------------------------------------------
       - name: 🐍 Configurar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
+      # -----------------------------------------------------------
+      # TESTE DE ACESSO AO CEARÁ.GOV.BR
+      # -----------------------------------------------------------
+      - name: 🌐 Testar acesso à API do Ceará.gov.br
+        run: |
+          echo "=============================================="
+          echo "TESTE DE ACESSO AO CEARÁ.GOV.BR"
+          echo "=============================================="
+
+          echo ""
+          echo "=== TESTE 1: site principal ==="
+          curl -L --max-time 30 -I \
+            "https://www.ce.gov.br/" || true
+
+          echo ""
+          echo "=== TESTE 2: REST API ==="
+          curl -L --max-time 30 -I \
+            "https://www.ce.gov.br/wp-json/" || true
+
+          echo ""
+          echo "=== TESTE 3: posts ==="
+          curl -L --max-time 30 -I \
+            "https://www.ce.gov.br/wp-json/wp/v2/posts?per_page=1" || true
+
+          echo ""
+          echo "=== TESTE 4: posts + _embed + User-Agent ==="
+          curl -L --max-time 30 -I \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36" \
+            "https://www.ce.gov.br/wp-json/wp/v2/posts?per_page=1&_embed" || true
+
+          echo ""
+          echo "=============================================="
+          echo "FIM DOS TESTES"
+          echo "=============================================="
+
+      # -----------------------------------------------------------
+      # EXECUTAR SCRAPER
+      # -----------------------------------------------------------
       - name: 🚀 Executar script de extração
         id: scraper
         run: |
+          echo "=============================================="
+          echo "INICIANDO EXTRAÇÃO"
+          echo "=============================================="
+
           python upnewsceara.py
-          
+
+          echo ""
+          echo "=============================================="
+          echo "VERIFICANDO XML"
+          echo "=============================================="
+
           if [ -f "feed_ceara_news.xml" ]; then
-            ITEMS=$(grep -c '<item>' feed_ceara_news.xml || echo "0")
-            echo "ITEMS_COUNT=$ITEMS" >> $GITHUB_ENV
+            ITEMS=$(grep -c '<item>' feed_ceara_news.xml || true)
+
+            echo "Notícias encontradas: $ITEMS"
+
+            echo "ITEMS_COUNT=$ITEMS" >> "$GITHUB_ENV"
+
+            echo ""
+            echo "Tamanho do arquivo:"
+            wc -c feed_ceara_news.xml
+
+            echo ""
+            echo "Data de modificação:"
+            stat feed_ceara_news.xml
+
           else
             echo "❌ ERRO: feed_ceara_news.xml não foi gerado"
             exit 1
           fi
 
       # -----------------------------------------------------------
-      - name: 🔧 Configurar git
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+      # CONFIGURAR GIT
       # -----------------------------------------------------------
+      - name: 🔧 Configurar Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          git remote set-url origin \
+            "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+
+      # -----------------------------------------------------------
+      # VERIFICAR ALTERAÇÕES
+      # -----------------------------------------------------------
       - name: 🔍 Verificar mudanças
         id: gitcheck
         run: |
-          if [[ -z "$(git status --porcelain)" ]]; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-            echo "ℹ️ Nenhuma mudança detectada."
+          echo "=============================================="
+          echo "STATUS DO GIT"
+          echo "=============================================="
+
+          git status --short
+
+          if git diff --quiet -- feed_ceara_news.xml; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "ℹ️ feed_ceara_news.xml não sofreu alteração."
           else
-            echo "changed=true" >> $GITHUB_OUTPUT
-            echo "🟡 Alterações detectadas. Preparando commit..."
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "🟡 feed_ceara_news.xml foi alterado."
           fi
 
       # -----------------------------------------------------------
-      - name: 💾 Commit + Pull/Rebase + Push (Seguro)
+      # COMMIT E PUSH
+      # -----------------------------------------------------------
+      - name: 💾 Commit e Push
         if: steps.gitcheck.outputs.changed == 'true'
         run: |
+          echo "=============================================="
+          echo "COMMIT + PUSH"
+          echo "=============================================="
+
           git add feed_ceara_news.xml
 
-          HORA_BRT=$(TZ="America/Fortaleza" date '+%d/%m %H:%M')
+          HORA_BRT=$(TZ="America/Fortaleza" date '+%d/%m/%Y %H:%M')
+
           COMMIT_MSG="Atualização feed Ceará - $HORA_BRT (${{ env.ITEMS_COUNT }} notícias)"
 
           git commit -m "$COMMIT_MSG"
 
-          echo "🔄 Sincronizando com repositório remoto..."
-          git pull --rebase || true
+          echo ""
+          echo "🔄 Atualizando referência da branch..."
 
+          git fetch origin main
+
+          git rebase origin/main
+
+          echo ""
           echo "📤 Enviando alterações..."
-          git push origin main
 
-          echo "✅ Push concluído com sucesso!"
+          git push origin HEAD:main
+
+          echo ""
+          echo "✅ Push concluído!"
+
       # -----------------------------------------------------------
-
-      - name: 📄 Resumo
+      # SEM ALTERAÇÃO
+      # -----------------------------------------------------------
+      - name: ℹ️ Nenhuma alteração
+        if: steps.gitcheck.outputs.changed == 'false'
         run: |
-          echo "-------------------------------------"
-          echo "Atualização concluída"
-          echo "Notícias encontradas: ${{ env.ITEMS_COUNT }}"
-          echo "Arquivo atualizado:"
+          echo "=============================================="
+          echo "NENHUMA ALTERAÇÃO"
+          echo "=============================================="
+          echo "O XML já está igual ao arquivo do repositório."
+
+      # -----------------------------------------------------------
+      # RESUMO
+      # -----------------------------------------------------------
+      - name: 📄 Resumo
+        if: always()
+        run: |
+          echo ""
+          echo "=============================================="
+          echo "RESUMO DA EXECUÇÃO"
+          echo "=============================================="
+
+          echo "Notícias encontradas: ${ITEMS_COUNT:-0}"
+
+          echo ""
+          echo "Arquivo:"
+          echo "feed_ceara_news.xml"
+
+          echo ""
+          echo "Branch:"
+          echo "${GITHUB_REF_NAME}"
+
+          echo ""
+          echo "Commit:"
+          echo "${GITHUB_SHA}"
+
+          echo ""
+          echo "Feed:"
           echo "https://raw.githubusercontent.com/${{ github.repository }}/main/feed_ceara_news.xml"
-          echo "-------------------------------------"
+
+          echo "=============================================="
