@@ -1,124 +1,675 @@
 import urllib.request
+import urllib.error
 import json
 import re
 import html
 import ssl
 from datetime import datetime
-# Bypass SSL verify for simple scripts if certificates are an issue on some envs
+
+# ============================================================
+# CONFIGURAÇÕES
+# ============================================================
+
+API_URL = (
+    "https://www.ce.gov.br/wp-json/wp/v2/posts"
+    "?per_page=100&_embed"
+)
+
+OUTPUT_FILE = "feed_ceara_news.xml"
+
+# Desabilita verificação SSL caso o ambiente apresente problemas
 ssl._create_default_https_context = ssl._create_unverified_context
-API_URL = "https://www.ce.gov.br/wp-json/wp/v2/posts?per_page=100&_embed"
+
+
+# ============================================================
+# LIMPEZA DO CONTEÚDO
+# ============================================================
+
 def clean_content(html_content):
     if not html_content:
         return ""
-    
-    # Replace <p> and <br> with newlines
-    text = re.sub(r'</p>', '\n\n', html_content)
-    text = re.sub(r'<br\s*/?>', '\n', text)
-    
-    # Remove subtitles (h1-h6) and specific classes
-    text = re.sub(r'<h[1-6][^>]*?class=["\'].*?subtitulo.*?["\'][^>]*?>.*?</h3>', '', text, flags=re.IGNORECASE | re.DOTALL)
-    text = re.sub(r'<h[1-6][^>]*>.*?</h[1-6]>', '', text, flags=re.IGNORECASE | re.DOTALL)
-    text = re.sub(r'<span[^>]*?class=["\'].*?hashtag.*?["\'][^>]*?>.*?</span>', '', text, flags=re.IGNORECASE | re.DOTALL)
-    text = re.sub(r'<p[^>]*?class=["\'].*?data.*?["\'][^>]*?>.*?</p>', '', text, flags=re.IGNORECASE | re.DOTALL)
-    # Remove formatted date lines (15 de dezembro de 2025 – 15:19)
-    text = re.sub(r'\d{1,2}\s+de\s+[a-zç]+\s+de\s+\d{4}\s*.\s*\d{2}:\d{2}', '', text, flags=re.IGNORECASE)
-    # Remove lines containing hashtag links (anchors pointing to /tag/)
-    text = re.sub(r'<a[^>]+href=["\'].*?/tag/.*?["\'][^>]*>.*?</a>', '', text, flags=re.IGNORECASE | re.DOTALL)
-    text = re.sub(r'#\s*<a.*?>.*?</a>', '', text, flags=re.IGNORECASE | re.DOTALL)
-    text = re.sub(r'(?m)^.*?#.*$', '', text) # Remove lines with remaining hashtags
-    # Remove all other HTML tags
-    text = re.sub(r'<[^>]+>', '', text)
-    
-    # Decode HTML entities
+
+    text = html_content
+
+    # Remove scripts e styles
+    text = re.sub(
+        r"<script[^>]*>.*?</script>",
+        "",
+        text,
+        flags=re.IGNORECASE | re.DOTALL
+    )
+
+    text = re.sub(
+        r"<style[^>]*>.*?</style>",
+        "",
+        text,
+        flags=re.IGNORECASE | re.DOTALL
+    )
+
+    # Parágrafos e quebras de linha
+    text = re.sub(r"</p\s*>", "\n\n", text, flags=re.IGNORECASE)
+    text = re.sub(r"<br\s*/?>", "\n", text, flags=re.IGNORECASE)
+
+    # Remove títulos/subtítulos HTML
+    text = re.sub(
+        r"<h[1-6][^>]*>.*?</h[1-6]>",
+        "",
+        text,
+        flags=re.IGNORECASE | re.DOTALL
+    )
+
+    # Remove spans de hashtag
+    text = re.sub(
+        r'<span[^>]*class=["\'][^"\']*hashtag[^"\']*["\'][^>]*>.*?</span>',
+        "",
+        text,
+        flags=re.IGNORECASE | re.DOTALL
+    )
+
+    # Remove parágrafos com classes relacionadas a dados/metadados
+    text = re.sub(
+        r'<p[^>]*class=["\'][^"\']*data[^"\']*["\'][^>]*>.*?</p>',
+        "",
+        text,
+        flags=re.IGNORECASE | re.DOTALL
+    )
+
+    # Remove links para tags do WordPress
+    text = re.sub(
+        r'<a[^>]+href=["\'][^"\']*/tag/[^"\']*["\'][^>]*>.*?</a>',
+        "",
+        text,
+        flags=re.IGNORECASE | re.DOTALL
+    )
+
+    # Remove hashtags que ainda existirem
+    text = re.sub(
+        r"(?m)^.*?#.*$",
+        "",
+        text
+    )
+
+    # Remove imagens
+    text = re.sub(
+        r"<figure[^>]*>.*?</figure>",
+        "",
+        text,
+        flags=re.IGNORECASE | re.DOTALL
+    )
+
+    text = re.sub(
+        r"<img[^>]*>",
+        "",
+        text,
+        flags=re.IGNORECASE
+    )
+
+    # Remove todas as outras tags HTML
+    text = re.sub(r"<[^>]+>", "", text)
+
+    # Decodifica entidades HTML
     text = html.unescape(text)
-    
+
+    # Normaliza espaços
+    text = re.sub(r"[ \t]+", " ", text)
+
+    # Normaliza excesso de quebras de linha
+    text = re.sub(r"\n\s*\n\s*\n+", "\n\n", text)
+
     return text.strip()
-def generate_rss():
-    print("Fetching news from API...")
+
+
+# ============================================================
+# BUSCA DA IMAGEM
+# ============================================================
+
+def get_image_url(post):
+    """
+    Tenta encontrar a imagem destacada usando _embedded.
+    Caso não encontre, tenta buscar diretamente pela API de mídia.
+    """
+
+    # --------------------------------------------------------
+    # 1. Tenta _embedded
+    # --------------------------------------------------------
+
+    embedded = post.get("_embedded", {})
+
+    featured_media = embedded.get("wp:featuredmedia", [])
+
+    if featured_media:
+        media = featured_media[0]
+
+        source_url = media.get("source_url")
+
+        if source_url:
+            return source_url
+
+        # Alguns retornos podem ter source_url dentro de media_details
+        if media.get("media_details", {}).get("sizes"):
+            sizes = media["media_details"]["sizes"]
+
+            for size_name in ["large", "medium_large", "full"]:
+                if size_name in sizes:
+                    url = sizes[size_name].get("source_url")
+                    if url:
+                        return url
+
+    # --------------------------------------------------------
+    # 2. Usa featured_media diretamente
+    # --------------------------------------------------------
+
+    media_id = post.get("featured_media")
+
+    if not media_id:
+        return ""
+
+    media_api = (
+        f"https://www.ce.gov.br/wp-json/wp/v2/media/{media_id}"
+    )
+
     try:
-        req = urllib.request.Request(API_URL, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req) as response:
+        req = urllib.request.Request(
+            media_api,
+            headers={
+                "User-Agent": "Mozilla/5.0"
+            }
+        )
+
+        with urllib.request.urlopen(req, timeout=30) as response:
+            media_data = json.loads(response.read())
+
+        source_url = media_data.get("source_url")
+
+        if source_url:
+            return source_url
+
+    except Exception as e:
+        print(
+            f"   Não foi possível buscar mídia {media_id}: {e}"
+        )
+
+    return ""
+
+
+# ============================================================
+# FILTROS
+# ============================================================
+
+EXCLUDED_SLUGS = [
+    "seguranca-publica",
+    "aviso-de-pauta",
+    "sspds",
+    "policia-civil",
+    "policia-militar",
+    "corpo-de-bombeiros",
+    "pefoce"
+]
+
+EXCLUDED_NAMES = [
+    "Segurança Pública",
+    "Aviso de Pauta",
+    "SSPDS",
+    "Polícia",
+    "Bombeiros",
+    "Pefoce"
+]
+
+SECURITY_KEYWORDS = [
+    "prisão",
+    "preso",
+    "delegacia",
+    "homicídio",
+    "homicidio",
+    "assassinato",
+    "tráfico",
+    "trafico",
+    "drogas",
+    "armas",
+    "polícia",
+    "policia",
+    "criminoso",
+    "crime",
+    "suspeito",
+    "captura",
+    "foragido"
+]
+
+
+def is_security_category(post):
+    embedded = post.get("_embedded", {})
+
+    terms = embedded.get("wp:term", [])
+
+    if not terms:
+        return False
+
+    for taxonomy_group in terms:
+
+        if not isinstance(taxonomy_group, list):
+            continue
+
+        for category in taxonomy_group:
+
+            slug = str(category.get("slug", "")).lower()
+            name = str(category.get("name", "")).lower()
+
+            for excluded in EXCLUDED_SLUGS:
+                if excluded.lower() in slug:
+                    return True
+
+            for excluded in EXCLUDED_NAMES:
+                if excluded.lower() in name:
+                    return True
+
+    return False
+
+
+def contains_security_keyword(title, content):
+    combined = f"{title} {content}".lower()
+
+    return any(
+        keyword.lower() in combined
+        for keyword in SECURITY_KEYWORDS
+    )
+
+
+# ============================================================
+# GERAÇÃO DO RSS
+# ============================================================
+
+def generate_rss():
+
+    print("=" * 70)
+    print("INICIANDO EXTRAÇÃO DO CEARÁ.GOV.BR")
+    print("=" * 70)
+
+    today = datetime.now().strftime("%Y-%m-%d")
+
+    print(f"Data considerada pelo script: {today}")
+    print(f"API: {API_URL}")
+    print()
+
+    try:
+
+        # ----------------------------------------------------
+        # CONSULTA API
+        # ----------------------------------------------------
+
+        req = urllib.request.Request(
+            API_URL,
+            headers={
+                "User-Agent": "Mozilla/5.0"
+            }
+        )
+
+        print("Consultando API...")
+
+        with urllib.request.urlopen(req, timeout=60) as response:
+
+            status = response.status
+
             data = response.read()
-            posts = json.loads(data)
-            
-        rss = """<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-<channel>
-  <title>Notícias Ceará - Extração Limpa</title>
-  <link>https://www.ceara.gov.br</link>
-  <description>Feed RSS gerado via API</description>
-"""
-        for post in posts:
-            pub_date_str = post['date']
-            post_date = pub_date_str.split('T')[0]
-            today = datetime.now().strftime('%Y-%m-%d')
+
+        print(f"HTTP Status: {status}")
+
+        posts = json.loads(data)
+
+        print(f"Posts recebidos da API: {len(posts)}")
+        print()
+
+        # ----------------------------------------------------
+        # ESTATÍSTICAS
+        # ----------------------------------------------------
+
+        total_today = 0
+        excluded_category = 0
+        excluded_keyword = 0
+        without_image = 0
+        included = 0
+
+        rss_items = []
+
+        # ----------------------------------------------------
+        # PROCESSA POSTS
+        # ----------------------------------------------------
+
+        for index, post in enumerate(posts, start=1):
+
+            post_id = post.get("id")
+
+            title = html.unescape(
+                post.get("title", {}).get("rendered", "")
+            ).strip()
+
+            pub_date = post.get("date", "")
+
+            print(
+                f"[{index}/{len(posts)}] "
+                f"ID {post_id} - {title}"
+            )
+
+            # ------------------------------------------------
+            # DATA
+            # ------------------------------------------------
+
+            post_date = pub_date.split("T")[0]
+
             if post_date != today:
+
+                print(
+                    f"   -> Ignorada: data {post_date}"
+                )
+
                 continue
-            # Category Filtering
-            excluded_slugs = ["seguranca-publica", "aviso-de-pauta", "sspds", "policia-civil", "policia-militar", "corpo-de-bombeiros", "pefoce"]
-            excluded_names = ["Segurança Pública", "Aviso de Pauta", "SSPDS", "Polícia", "Bombeiros", "Pefoce"]
-            
-            is_security = False
-            if "_embedded" in post and "wp:term" in post["_embedded"]:
-                categories = post["_embedded"]["wp:term"][0]
-                for cat in categories:
-                    if any(slug in cat["slug"] for slug in excluded_slugs) or any(name in cat["name"] for name in excluded_names):
-                        is_security = True
-                        break
-            if is_security:
+
+            total_today += 1
+
+            print("   -> Publicada hoje")
+
+            # ------------------------------------------------
+            # CATEGORIA
+            # ------------------------------------------------
+
+            if is_security_category(post):
+
+                excluded_category += 1
+
+                print(
+                    "   -> Ignorada: categoria de segurança"
+                )
+
                 continue
-            # Keyword Filtering
-            security_keywords = ["prisão", "preso", "delegacia", "homicídio", "homicidio", "assassinato", "tráfico", "trafico", "drogas", "aprem", "armas", "polícia", "policia", "criminoso", "crime", "suspeito", "captura", "foragido"]
-            title_lower = html.unescape(post['title']['rendered']).lower()
-            content_lower = clean_content(post['content']['rendered']).lower()
-            
-            if any(keyword in title_lower for keyword in security_keywords) or any(keyword in content_lower for keyword in security_keywords):
+
+            # ------------------------------------------------
+            # CONTEÚDO
+            # ------------------------------------------------
+
+            raw_content = post.get(
+                "content", {}
+            ).get(
+                "rendered",
+                ""
+            )
+
+            clean_description = clean_content(
+                raw_content
+            )
+
+            # ------------------------------------------------
+            # PALAVRAS-CHAVE
+            # ------------------------------------------------
+
+            if contains_security_keyword(
+                title,
+                clean_description
+            ):
+
+                excluded_keyword += 1
+
+                print(
+                    "   -> Ignorada: palavra-chave de segurança"
+                )
+
                 continue
-            pubDate = pub_date_str
-            title = html.unescape(post['title']['rendered'])
-            link = post['link']
-            
-            clean_description = clean_content(post['content']['rendered'])
-            
-            # Additional regex cleaning for dates/authors
-            clean_description = re.sub(r'(?m)^.*?\d{1,2}\s+de\s+[A-Za-zç]+\s+de\s+\d{4}.*?$', '', clean_description)
-            clean_description = re.sub(r'(?m)^.*?[\d]{1,2}:[\d]{2}.*?$', '', clean_description)
-            clean_description = re.sub(r'(?m)^.*?(Ascom|Texto|Fotos|Foto:|Texto:|Fonte:).*?$', '', clean_description)
-            clean_description = re.sub(r'(?m)^.*?#.*$', '', clean_description) # Hashtags
-            clean_description = re.sub(r'(?m)^[\s\-–_]*$', '', clean_description) # Separators
-            clean_description = re.sub(r'(?m)^.*?[\-\–\—]\s*Texto.*?$', '', clean_description)
-            clean_description = re.sub(r'(?m)^.*?(Eliazio Jerhy|Carlos Ghaja|Thiago Gaspar).*?$', '', clean_description)
-            # Remove empty lines
-            lines = [line.strip() for line in clean_description.split('\n') if len(line.strip()) > 5]
-            clean_description = '\n\n'.join(lines)
-            
-            clean_description = clean_description.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;").replace("'", "&apos;")
-            title = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;").replace("'", "&apos;")
-            image_url = ""
-            if "_embedded" in post and "wp:featuredmedia" in post["_embedded"] and post["_embedded"]["wp:featuredmedia"]:
-                media = post["_embedded"]["wp:featuredmedia"][0]
-                if "source_url" in media:
-                    image_url = media["source_url"]
+
+            # ------------------------------------------------
+            # IMAGEM
+            # ------------------------------------------------
+
+            image_url = get_image_url(post)
+
             if not image_url:
+
+                without_image += 1
+
+                print(
+                    "   -> Ignorada: sem imagem destacada"
+                )
+
                 continue
-            # Usando GUID ao invés de LINK para impedir o plugin de raspar a fonte original
-            rss += f"""
+
+            print(
+                f"   -> Imagem: {image_url}"
+            )
+
+            # ------------------------------------------------
+            # LIMPEZA EXTRA
+            # ------------------------------------------------
+
+            clean_description = re.sub(
+                r"(?mi)^.*?\d{1,2}\s+de\s+[a-zç]+\s+de\s+\d{4}.*?$",
+                "",
+                clean_description
+            )
+
+            clean_description = re.sub(
+                r"(?mi)^.*?\d{1,2}:\d{2}.*?$",
+                "",
+                clean_description
+            )
+
+            clean_description = re.sub(
+                r"(?mi)^.*?(Ascom|Texto|Fotos|Foto:|Fonte:).*?$",
+                "",
+                clean_description
+            )
+
+            clean_description = re.sub(
+                r"(?mi)^.*?#.*$",
+                "",
+                clean_description
+            )
+
+            clean_description = re.sub(
+                r"(?m)^[\s\-–—_]*$",
+                "",
+                clean_description
+            )
+
+            clean_description = re.sub(
+                r"\n\s*\n\s*\n+",
+                "\n\n",
+                clean_description
+            )
+
+            lines = []
+
+            for line in clean_description.split("\n"):
+
+                line = line.strip()
+
+                if len(line) > 5:
+                    lines.append(line)
+
+            clean_description = "\n\n".join(lines).strip()
+
+            # ------------------------------------------------
+            # LINK
+            # ------------------------------------------------
+
+            link = post.get("link", "")
+
+            # ------------------------------------------------
+            # ESCAPE XML
+            # ------------------------------------------------
+
+            safe_title = html.escape(
+                title,
+                quote=True
+            )
+
+            safe_description = html.escape(
+                clean_description,
+                quote=False
+            )
+
+            safe_image_url = html.escape(
+                image_url,
+                quote=True
+            )
+
+            # ------------------------------------------------
+            # ITEM RSS
+            # ------------------------------------------------
+
+            item = f"""
   <item>
-    <title>{title}</title>
-    <guid>{link}</guid>
-    <pubDate>{pubDate}</pubDate>
+    <title>{safe_title}</title>
+    <guid isPermaLink="false">{post_id}</guid>
+    <link>{html.escape(link, quote=True)}</link>
+    <pubDate>{pub_date}</pubDate>
     <description><![CDATA[{clean_description}]]></description>
     <content:encoded><![CDATA[{clean_description}]]></content:encoded>
-    <enclosure url="{image_url}" type="image/jpeg" />
-  </item>"""
-        rss += """
+    <enclosure url="{safe_image_url}" type="image/jpeg" />
+  </item>
+"""
+
+            rss_items.append(item)
+
+            included += 1
+
+            print(
+                "   -> INCLUÍDA NO RSS"
+            )
+
+        # ----------------------------------------------------
+        # MONTA RSS
+        # ----------------------------------------------------
+
+        rss = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+<channel>
+
+  <title>Notícias Ceará - Extração Limpa</title>
+
+  <link>https://www.ce.gov.br</link>
+
+  <description>
+    Feed RSS gerado via API do Ceará.gov.br
+  </description>
+
+  <language>pt-BR</language>
+
+  <lastBuildDate>{datetime.now().strftime("%a, %d %b %Y %H:%M:%S -0300")}</lastBuildDate>
+
+{''.join(rss_items)}
+
 </channel>
-</rss>"""
-        with open('feed_ceara_news.xml', 'w', encoding='utf-8') as f:
+
+</rss>
+"""
+
+        # ----------------------------------------------------
+        # GRAVA ARQUIVO
+        # ----------------------------------------------------
+
+        with open(
+            OUTPUT_FILE,
+            "w",
+            encoding="utf-8"
+        ) as f:
+
             f.write(rss)
-            
-        print("RSS Feed generated successfully: feed_ceara_news.xml")
+
+        # ----------------------------------------------------
+        # RESUMO
+        # ----------------------------------------------------
+
+        print()
+        print("=" * 70)
+        print("EXTRAÇÃO FINALIZADA")
+        print("=" * 70)
+
+        print(
+            f"Posts recebidos:       {len(posts)}"
+        )
+
+        print(
+            f"Posts de hoje:         {total_today}"
+        )
+
+        print(
+            f"Excluídos por categoria: {excluded_category}"
+        )
+
+        print(
+            f"Excluídos por palavras:  {excluded_keyword}"
+        )
+
+        print(
+            f"Sem imagem:             {without_image}"
+        )
+
+        print(
+            f"Incluídos no RSS:       {included}"
+        )
+
+        print()
+        print(
+            f"Arquivo gerado: {OUTPUT_FILE}"
+        )
+
+        # ----------------------------------------------------
+        # VERIFICAÇÃO DO ARQUIVO
+        # ----------------------------------------------------
+
+        with open(
+            OUTPUT_FILE,
+            "r",
+            encoding="utf-8"
+        ) as f:
+
+            generated = f.read()
+
+        print(
+            f"Tamanho do XML: {len(generated)} bytes"
+        )
+
+        print(
+            f"Itens <item>: {generated.count('<item>')}"
+        )
+
+        print("=" * 70)
+
+    except urllib.error.HTTPError as e:
+
+        print(
+            f"ERRO HTTP: {e.code} - {e.reason}"
+        )
+
+        raise
+
+    except urllib.error.URLError as e:
+
+        print(
+            f"ERRO DE CONEXÃO: {e.reason}"
+        )
+
+        raise
+
+    except json.JSONDecodeError as e:
+
+        print(
+            f"ERRO AO INTERPRETAR JSON: {e}"
+        )
+
+        raise
+
     except Exception as e:
-        print(f"Error extracting news: {e}")
+
+        print(
+            f"ERRO INESPERADO: {type(e).__name__}: {e}"
+        )
+
+        raise
+
+
+# ============================================================
+# EXECUÇÃO
+# ============================================================
+
 if __name__ == "__main__":
     generate_rss()
