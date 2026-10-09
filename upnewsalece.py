@@ -1,17 +1,24 @@
 #!/usr/bin/env python3
-# upnewsalce.py - Crawler para Assembleia Legislativa do Ceará (ALCE)
+# upnewsalece.py - Crawler para Assembleia Legislativa do Ceará (ALCE)
+#
+# Atualizado para o novo layout do site (out/2026):
+#   - links de notícia: /noticias/<id>-<slug>
+#   - datas no formato dd/mm/aaaa (listagem) e dd/mm/aaaa hh:mm (detalhe)
+#   - imagem destacada em /image/<id> (antes era /storage/noticias/)
+#   - sem dependência das classes CSS antigas (noticias_item, noticias_title...)
 
-import requests
-from bs4 import BeautifulSoup
-from datetime import datetime, timezone, timedelta, date
 import html
-import hashlib
-import time
-from urllib.parse import urljoin
+import mimetypes
 import re
 import sys
-import os
+from datetime import datetime, timedelta
+from email.utils import format_datetime
+from urllib.parse import urljoin, urlparse
+from zoneinfo import ZoneInfo
+
+import requests
 import urllib3
+from bs4 import BeautifulSoup
 
 # ================= CONFIGURAÇÕES =================
 URL_BASE = "https://www.al.ce.gov.br"
@@ -19,8 +26,20 @@ URL_NOTICIAS = "https://www.al.ce.gov.br/noticias"
 FEED_FILE = "feed_alce_news.xml"
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+    'Accept-Language': 'pt-BR,pt;q=0.9',
 }
+
+# O runner do GitHub Actions roda em UTC; "hoje" e "ontem" são em Fortaleza.
+TZ = ZoneInfo("America/Fortaleza")
+
+# 0 = só hoje | 1 = hoje + ontem
+DAYS_BACK = 1
+
+# Máximo de páginas da listagem a consultar
+MAX_PAGES = 3
+
+TIMEOUT = 25
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -31,133 +50,306 @@ SECURITY_KEYWORDS = [
     "policial", "crimes", "investigação"
 ]
 
-MESES = {
-    'janeiro': 1, 'fevereiro': 2, 'março': 3, 'abril': 4,
-    'maio': 5, 'junho': 6, 'julho': 7, 'agosto': 8,
-    'setembro': 9, 'outubro': 10, 'novembro': 11, 'dezembro': 12,
-    'jan': 1, 'fev': 2, 'mar': 3, 'abr': 4,
-    'mai': 5, 'jun': 6, 'jul': 7, 'ago': 8,
-    'set': 9, 'out': 10, 'nov': 11, 'dez': 12
-}
+NEWS_HREF = re.compile(r'/noticias/(\d+)-[^/?#\s]+')
+DATE_RE = re.compile(r'(\d{2})/(\d{2})/(\d{4})(?:\s+(\d{1,2}):(\d{2}))?')
 
-# ================= FUNÇÕES =================
+# Crédito no fim de legenda de foto: " - Fulano de Tal" / " - Foto: Fulano"
+CAPTION_CREDIT = re.compile(r"\s[-–—]\s+(Foto:\s*)?[A-ZÀ-Ú][\wÀ-ÿ'. ]{2,40}$")
+
+# Trechos que indicam que o <p> não faz parte da matéria
+JUNK_MARKERS = [
+    "Compartilhe esta notícia",
+    "Todos os direitos reservados",
+    "Última Atualização",
+    "Horário de funcionamento",
+]
+
+
+# ================= FUNÇÕES AUXILIARES =================
+def parse_datetime(text):
+    """Extrai dd/mm/aaaa [hh:mm] de um texto. Retorna datetime com fuso ou None."""
+    m = DATE_RE.search(text or '')
+    if not m:
+        return None
+    d, mo, y, hh, mm = m.groups()
+    try:
+        return datetime(int(y), int(mo), int(d), int(hh or 0), int(mm or 0), tzinfo=TZ)
+    except ValueError:
+        return None
+
+
 def clean_text_content(text):
     if not text:
         return ""
     text = html.unescape(text)
+    # linhas de data por extenso e de créditos
     text = re.sub(r'(?m)^.*?\d{1,2}\s+de\s+[a-zç]+\s+de\s+\d{4}.*?$', '', text, flags=re.I)
     text = re.sub(r'(?m)^.*?(Foto|Edição|Texto|Fonte):.*?$', '', text, flags=re.I)
     text = text.replace("Compartilhe esta notícia:", "")
-    if "Assembleia Legislativa do Estado do Ceará" in text:
-        text = text.split("Assembleia Legislativa do Estado do Ceará")[0]
     lines = [l.strip() for l in text.split('\n') if len(l.strip()) > 5]
     return '\n\n'.join(lines)
 
 
-def parse_date_alce(date_str):
-    try:
-        date_str = date_str.lower()
-        for mes, num in MESES.items():
-            if mes in date_str:
-                dia = int(re.search(r'(\d{1,2})', date_str).group(1))
-                ano = int(re.search(r'(\d{4})', date_str).group(1))
-                return date(ano, num, dia)
-        if '/' in date_str:
-            d, m, y = date_str.split('/')
-            return date(int(y), int(m), int(d))
-    except:
-        return None
+def has_security_keyword(text):
+    text = text.lower()
+    return any(k in text for k in SECURITY_KEYWORDS)
+
+
+# ================= LISTAGEM =================
+def find_listing_date(a_tag):
+    """
+    Sobe a partir do link da notícia até achar uma data dd/mm/aaaa,
+    parando se o bloco já contiver links de mais de uma notícia.
+    """
+    node = a_tag
+    for _ in range(4):
+        if node is None:
+            return None
+        ids = set()
+        for x in node.find_all('a', href=True):
+            m = NEWS_HREF.search(x['href'])
+            if m:
+                ids.add(m.group(1))
+        if len(ids) > 1:
+            return None
+        dt = parse_datetime(node.get_text(' ', strip=True))
+        if dt:
+            return dt
+        node = node.parent
     return None
+
+
+def get_listing(session, page):
+    url = URL_NOTICIAS if page == 1 else f"{URL_NOTICIAS}?page={page}"
+    resp = session.get(url, timeout=TIMEOUT, verify=False)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.content, 'html.parser')
+
+    found = {}
+    for a in soup.find_all('a', href=True):
+        m = NEWS_HREF.search(a['href'])
+        if not m:
+            continue
+        nid = m.group(1)
+        dt = find_listing_date(a)
+        if nid not in found:
+            found[nid] = {'url': urljoin(URL_BASE, m.group(0)), 'date': dt}
+        elif found[nid]['date'] is None and dt:
+            found[nid]['date'] = dt
+    return found
+
+
+# ================= DETALHE =================
+def is_junk_paragraph(p):
+    txt = p.get_text(' ', strip=True)
+    if len(txt) <= 20:
+        return True
+    if p.find_parent(['header', 'footer', 'aside', 'figure', 'figcaption']):
+        return True
+    if any(mk in txt for mk in JUNK_MARKERS):
+        return True
+    # legenda: parágrafo curto logo após um bloco só de imagem e terminado
+    # em crédito ("... - Fulano de Tal" ou "... - Foto: Fulano")
+    prev = p.find_previous_sibling()
+    if prev is not None and len(txt) < 200:
+        has_img = prev.name == 'img' or prev.find('img') is not None
+        if has_img and not prev.get_text(strip=True) and CAPTION_CREDIT.search(txt):
+            return True
+    return False
+
+
+def pick_image(container, title, soup):
+    def valid(src):
+        if not src:
+            return False
+        path = urlparse(src).path.lower()
+        if path.endswith('.svg') or path.startswith('/img/'):
+            return False
+        return bool(re.search(r'/image/\d+', path) or '/userfiles/' in path
+                    or '/storage/' in path)
+
+    if container is not None:
+        for img in container.find_all('img'):
+            src = img.get('src') or img.get('data-src')
+            if valid(src):
+                return urljoin(URL_BASE, src)
+
+    # fallback: imagem cujo alt é o próprio título
+    for img in soup.find_all('img'):
+        if (img.get('alt') or '').strip() == title:
+            src = img.get('src') or img.get('data-src')
+            if valid(src):
+                return urljoin(URL_BASE, src)
+    return None
+
+
+def fetch_detail(session, url):
+    resp = session.get(url, timeout=TIMEOUT, verify=False)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.content, 'html.parser')
+
+    for tag in soup.find_all(['script', 'style', 'iframe', 'form', 'nav', 'noscript']):
+        tag.decompose()
+
+    h1 = None
+    for cand in soup.find_all('h1'):
+        if cand.get_text(strip=True).lower() != 'notícias':
+            h1 = cand
+            break
+    if h1 is None:
+        return None
+
+    title = h1.get_text(' ', strip=True)
+
+    date_node = h1.find_next(string=DATE_RE)
+    dt = parse_datetime(str(date_node)) if date_node else None
+
+    # container da matéria: primeiro ancestral do h1 com parágrafos úteis depois dele
+    after = {id(p) for p in h1.find_all_next('p')}
+    container = h1
+    paragraphs = []
+    for _ in range(8):
+        container = container.parent
+        if container is None:
+            break
+        paragraphs = [p for p in container.find_all('p')
+                      if id(p) in after and not is_junk_paragraph(p)]
+        if paragraphs:
+            break
+
+    full_text = "\n\n".join(p.get_text(' ', strip=True) for p in paragraphs)
+
+    return {
+        'title': title,
+        'date': dt,
+        'text': clean_text_content(full_text),
+        'image': pick_image(container, title, soup),
+    }
 
 
 # ================= CRAWLER =================
 def extract_news_alce():
-    HOJE = datetime.now().date()
+    now = datetime.now(TZ)
+    valid_dates = {(now - timedelta(days=i)).date() for i in range(DAYS_BACK + 1)}
+
+    print(f"Agora (Fortaleza): {now:%Y-%m-%d %H:%M}")
+    print(f"Datas consideradas: {sorted(str(d) for d in valid_dates)}")
+
     session = requests.Session()
     session.headers.update(HEADERS)
 
+    # ---------- coleta candidatos na listagem ----------
+    candidates = {}
+    for page in range(1, MAX_PAGES + 1):
+        try:
+            found = get_listing(session, page)
+        except Exception as e:
+            print(f"ERRO ao ler listagem página {page}: {e}")
+            if page == 1:
+                raise
+            break
+
+        new = {k: v for k, v in found.items() if k not in candidates}
+        candidates.update(new)
+        print(f"Página {page}: {len(found)} links, {len(new)} novos")
+
+        in_window = [v for v in new.values()
+                     if v['date'] is None or v['date'].date() in valid_dates]
+        if not new or not in_window:
+            break
+
+    if not candidates:
+        print("ERRO: nenhuma notícia encontrada na listagem (layout mudou de novo?)")
+        sys.exit(1)
+
+    # ---------- processa cada notícia ----------
     noticias_finais = []
+    stats = {'fora_janela': 0, 'seguranca': 0, 'sem_imagem': 0, 'sem_texto': 0, 'erro': 0}
 
-    response = session.get(URL_NOTICIAS, timeout=20, verify=False)
-    soup = BeautifulSoup(response.content, 'html.parser')
+    for nid, c in sorted(candidates.items(), key=lambda kv: int(kv[0]), reverse=True):
+        url_noticia = c['url']
+        listing_date = c['date']
 
-    items = soup.find_all('div', class_='noticias_item')
-
-    for item in items:
-        h3 = item.find('h3', class_='noticias_title')
-        if not h3:
+        if listing_date and listing_date.date() not in valid_dates:
+            stats['fora_janela'] += 1
             continue
 
-        link_tag = h3.find_parent('a')
-        titulo = h3.get_text(strip=True)
-        url_noticia = urljoin(URL_BASE, link_tag['href'])
+        print(f"[{nid}] {url_noticia}")
 
-        if any(k in titulo.lower() for k in SECURITY_KEYWORDS):
+        try:
+            d = fetch_detail(session, url_noticia)
+        except Exception as e:
+            print(f"   -> erro ao baixar: {e}")
+            stats['erro'] += 1
             continue
 
-        span_data = item.find('span', class_='noticias_data')
-        data_obj = parse_date_alce(span_data.get_text()) if span_data else None
-        if data_obj != HOJE:
+        if not d:
+            print("   -> ignorada: não achei o título (h1)")
+            stats['erro'] += 1
             continue
 
-        resp = session.get(url_noticia, timeout=15, verify=False)
-        soup_detalhe = BeautifulSoup(resp.content, 'html.parser')
-
-        content_area = soup_detalhe.select_one('article, .item-page') or soup_detalhe.body
-        for tag in content_area.find_all(['script', 'style', 'iframe', 'form', 'nav']):
-            tag.decompose()
-
-        ps = content_area.find_all('p')
-        full_text = "\n\n".join(p.get_text(strip=True) for p in ps if len(p.get_text(strip=True)) > 20)
-        clean_text = clean_text_content(full_text)
-
-        if any(k in clean_text.lower() for k in SECURITY_KEYWORDS):
+        dt = d['date'] or listing_date
+        if dt is None or dt.date() not in valid_dates:
+            print(f"   -> ignorada: data {dt}")
+            stats['fora_janela'] += 1
             continue
 
-        # ===== IMAGEM =====
-        img_url = None
-        imgs = content_area.select('figure img, .noticia-imagem img, img')
-
-        for img in imgs:
-            src = img.get('src')
-            if src and '/storage/noticias/' in src:
-                img_url = urljoin(URL_BASE, src)
-                break
-
-        if not img_url:
+        if has_security_keyword(d['title']) or has_security_keyword(d['text']):
+            print("   -> ignorada: palavra-chave de segurança")
+            stats['seguranca'] += 1
             continue
 
-        # ===== ALTERAÇÃO ÚNICA =====
-        clean_text = f'<p><img src="{img_url}" alt="{titulo}" /></p>\n\n{clean_text}'
+        if not d['text']:
+            print("   -> ignorada: sem texto")
+            stats['sem_texto'] += 1
+            continue
+
+        if not d['image']:
+            print("   -> ignorada: sem imagem")
+            stats['sem_imagem'] += 1
+            continue
+
+        titulo = d['title']
+        description = (
+            f'<p><img src="{html.escape(d["image"], quote=True)}" '
+            f'alt="{html.escape(titulo, quote=True)}" /></p>\n\n{d["text"]}'
+        )
 
         noticias_finais.append({
             'title': titulo,
             'link': url_noticia,
-            'description': clean_text,
-            'image': img_url,
-            'date': data_obj
+            'description': description,
+            'image': d['image'],
+            'date': dt,
         })
+        print("   -> INCLUÍDA")
+
+    noticias_finais.sort(key=lambda n: n['date'], reverse=True)
 
     # ================= RSS =================
+    def cdata(s):
+        return s.replace(']]>', ']]]]><![CDATA[>')
+
     rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Notícias ALCE - Clean Feed</title>
 <link>{URL_BASE}</link>
 <description>Notícias da Assembleia Legislativa do Ceará</description>
-<lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>
+<lastBuildDate>{format_datetime(now)}</lastBuildDate>
 """
 
     for n in noticias_finais:
+        mime = mimetypes.guess_type(urlparse(n['image']).path)[0] or 'image/jpeg'
         rss += f"""
 <item>
-<title><![CDATA[{n['title']}]]></title>
-<link>{n['link']}</link>
-<guid>{n['link']}</guid>
-<description><![CDATA[{n['description']}]]></description>
-<content:encoded><![CDATA[{n['description']}]]></content:encoded>
-<enclosure url="{n['image']}" type="image/jpeg"/>
-<pubDate>{n['date'].strftime("%a, %d %b %Y 00:00:00 -0300")}</pubDate>
+<title><![CDATA[{cdata(n['title'])}]]></title>
+<link>{html.escape(n['link'], quote=True)}</link>
+<guid isPermaLink="true">{html.escape(n['link'], quote=True)}</guid>
+<description><![CDATA[{cdata(n['description'])}]]></description>
+<content:encoded><![CDATA[{cdata(n['description'])}]]></content:encoded>
+<enclosure url="{html.escape(n['image'], quote=True)}" type="{mime}" length="0"/>
+<pubDate>{format_datetime(n['date'])}</pubDate>
 </item>
 """
 
@@ -166,6 +358,8 @@ def extract_news_alce():
     with open(FEED_FILE, 'w', encoding='utf-8') as f:
         f.write(rss)
 
+    print()
+    print(f"Candidatas: {len(candidates)} | Incluídas: {len(noticias_finais)} | {stats}")
     print(f"Feed salvo em: {FEED_FILE}")
 
 
