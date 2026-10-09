@@ -4,16 +4,23 @@ import json
 import re
 import html
 import ssl
-from datetime import datetime
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 # ============================================================
 # CONFIGURAÇÕES
 # ============================================================
 
-API_URL = (
-    "https://www.ce.gov.br/wp-json/wp/v2/posts"
-    "?per_page=100&_embed"
-)
+API_BASE = "https://www.ce.gov.br/wp-json/wp/v2/posts"
+PER_PAGE = 100
+MAX_PAGES = 5
+
+# O runner do GitHub Actions roda em UTC. Usamos o fuso de Fortaleza
+# para decidir o que é "hoje" e "ontem".
+TZ = ZoneInfo("America/Fortaleza")
+
+# Quantos dias considerar: 1 = hoje + ontem
+DAYS_BACK = 1
 
 OUTPUT_FILE = "feed_ceara_news.xml"
 
@@ -284,10 +291,16 @@ def generate_rss():
     print("INICIANDO EXTRAÇÃO DO CEARÁ.GOV.BR")
     print("=" * 70)
 
-    today = datetime.now().strftime("%Y-%m-%d")
+    now = datetime.now(TZ)
+    today = now.strftime("%Y-%m-%d")
+    valid_dates = {
+        (now - timedelta(days=i)).strftime("%Y-%m-%d")
+        for i in range(DAYS_BACK + 1)
+    }
+    after = (now - timedelta(days=DAYS_BACK + 1)).strftime("%Y-%m-%dT00:00:00")
 
-    print(f"Data considerada pelo script: {today}")
-    print(f"API: {API_URL}")
+    print(f"Agora (Fortaleza): {now.strftime('%Y-%m-%d %H:%M')}")
+    print(f"Datas consideradas: {sorted(valid_dates)}")
     print()
 
     try:
@@ -296,24 +309,40 @@ def generate_rss():
         # CONSULTA API
         # ----------------------------------------------------
 
-        req = urllib.request.Request(
-            API_URL,
-            headers={
-                "User-Agent": "Mozilla/5.0"
-            }
-        )
+        posts = []
 
-        print("Consultando API...")
+        for page in range(1, MAX_PAGES + 1):
 
-        with urllib.request.urlopen(req, timeout=60) as response:
+            url = (
+                f"{API_BASE}?per_page={PER_PAGE}&page={page}"
+                f"&after={after}&orderby=date&order=desc&_embed"
+            )
 
-            status = response.status
+            req = urllib.request.Request(
+                url,
+                headers={
+                    "User-Agent": "Mozilla/5.0"
+                }
+            )
 
-            data = response.read()
+            print(f"Consultando API (página {page})...")
 
-        print(f"HTTP Status: {status}")
+            try:
+                with urllib.request.urlopen(req, timeout=60) as response:
+                    status = response.status
+                    page_posts = json.loads(response.read())
+            except urllib.error.HTTPError as e:
+                # WordPress devolve 400 quando a página passa do total
+                if e.code == 400 and page > 1:
+                    break
+                raise
 
-        posts = json.loads(data)
+            print(f"HTTP Status: {status} - {len(page_posts)} posts")
+
+            posts.extend(page_posts)
+
+            if len(page_posts) < PER_PAGE:
+                break
 
         print(f"Posts recebidos da API: {len(posts)}")
         print()
@@ -355,17 +384,17 @@ def generate_rss():
 
             post_date = pub_date.split("T")[0]
 
-            if post_date != today:
+            if post_date not in valid_dates:
 
                 print(
-                    f"   -> Ignorada: data {post_date}"
+                    f"   -> Ignorada: data {post_date} fora da janela"
                 )
 
                 continue
 
             total_today += 1
 
-            print("   -> Publicada hoje")
+            print("   -> Dentro da janela (hoje/ontem)")
 
             # ------------------------------------------------
             # CATEGORIA
@@ -553,7 +582,7 @@ def generate_rss():
 
   <language>pt-BR</language>
 
-  <lastBuildDate>{datetime.now().strftime("%a, %d %b %Y %H:%M:%S -0300")}</lastBuildDate>
+  <lastBuildDate>{now.strftime("%a, %d %b %Y %H:%M:%S -0300")}</lastBuildDate>
 
 {''.join(rss_items)}
 
@@ -588,7 +617,7 @@ def generate_rss():
         )
 
         print(
-            f"Posts de hoje:         {total_today}"
+            f"Posts na janela:       {total_today}"
         )
 
         print(
