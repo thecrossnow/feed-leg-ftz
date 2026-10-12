@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - Recentes</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias recentes. Última verificação: 07:03 UTC</description>
-<lastBuildDate>Mon, 12 Oct 2026 07:03:11 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias recentes (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Mon, 12 Oct 2026 17:31:05 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Prefeito Evandro Leitão entrega papéis da casa a famílias do Novo Jardim Castelão</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/prefeito-evandro-leitao-entrega-papeis-da-casa-a-familias-do-novo-jardim-castelao</link>
+<guid isPermaLink="false">fortaleza-20261012-e0c85d43f314</guid>
+<pubDate>Mon, 12 Oct 2026 11:39:00 +0000</pubDate>
+<description>Prefeito Evandro Leitão entrega papéis da casa a famílias do Novo Jardim Castelão - Segunda, 12 Outubro 2026 11:39</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" alt="Prefeito Evandro Leitão entrega papéis da casa a famílias do Novo Jardim Castelão" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<p>O prefeito Evandro Leitão realiza, nesta terça-feira (13), a entrega de 359 papéis da casa a famílias do Novo Jardim Castelão, no Passaré.</p>
+<p>A iniciativa garante segurança jurídica aos moradores, fortalece o direito à moradia e contribui para a valorização da região.</p>
+<p>Atualmente, mais de 142 áreas de Fortaleza estão em processo de regularização fundiária. A gestão municipal também contabiliza cerca de 14 mil matrículas em execução ou análise cartorial e mais de 40 mil em planejamento.</p>
+<p><strong>Serviço</strong><br/>Entrega de papéis da casa para famílias do Novo Jardim Castelão<br/>Data: 13/10 (terça-feira)<br/>Horário: 16h<br/>Local: EMEIEF Francisco Andrade Teófilo Girão – Rua Unidos Venceremos, 2040, Passaré.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/prefeito-evandro-leitao-entrega-papeis-da-casa-a-familias-do-novo-jardim-castelao" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" />
+<media:content url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/TemasPortal/AVISO-DE-PAUTA.png" type="image/jpeg" medium="image">
+<media:title>Prefeito Evandro Leitão entrega papéis da casa a famílias do Novo Jardim Castelão</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
