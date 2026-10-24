@@ -4,7 +4,7 @@
     <title>Agência Brasil - Últimas Notícias</title>
     <link>https://agenciabrasil.ebc.com.br</link>
     <description>Notícias oficiais da Agência Brasil importadas automaticamente</description>
-    <pubDate>Sat, 24 Oct 2026 21:21:15 +0000</pubDate>
+    <pubDate>Sat, 24 Oct 2026 23:54:02 +0000</pubDate>
     <language>pt-BR</language>
     <wp:wxr_version>1.2</wp:wxr_version>
     <wp:base_site_url>https://agenciabrasil.ebc.com.br</wp:base_site_url>
@@ -22,11 +22,152 @@
       <wp:cat_name>Notícias</wp:cat_name>
     </wp:category>
     <item>
+      <title>Votação: eleitores podem usar itens que expressem preferência política</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/votacao-eleitores-podem-usar-itens-que-expressem-preferencia-politica</link>
+      <pubDate>Sat, 24 Oct 2026 23:54:02 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/votacao-eleitores-podem-usar-itens-que-expressem-preferencia-politica#1000</guid>
+      <description>Eleitores poderão fazermanifestação individual e silenciosa da sua posição política no domingo (25), dia de votação do segundo turno das eleições 202...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/vWFvVWDZSsQdhbP6YSqzoR3fx2c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/04/sem_titulo-23.jpg?itok=ndFsZ3cp&quot; alt=&quot;Votação: eleitores podem usar itens que expressem preferência política&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Eleitores poderão fazermanifestação individual e silenciosa da sua posição política no domingo (25), dia de votação do segundo turno das eleições 2026.&lt;/p&gt;
+&lt;p&gt;Isso significa que as pessoaspodem usar itens que expressem sua preferência, como:&lt;/p&gt;
+&lt;p&gt;O que não pode é haver aglomerações, manifestações coletivas ruidosas, abordagem a outros eleitores ou qualquer tentativa de aliciamento, que é&lt;/p&gt;
+&lt;p&gt;considerado crime de boca de urna&lt;/p&gt;
+&lt;p&gt;Quem identificar possíveis irregularidades pode denunciar por meio do aplicativo Pardal, da Justiça Eleitoral. A ferramenta permite informar o local da ocorrência, descrever os fatos e anexar fotos, vídeos, áudios ou links para ajudar na apuração.&lt;/p&gt;
+&lt;p&gt;TSE verifica sistemas eleitorais e emite zerésima de urnas eletrônicas&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 23 de outubro de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Candidatos à Presidência reúnem apoiadores no último dia de campanha&lt;/p&gt;
+&lt;p&gt;Votação: eleitores podem usar itens que expressem preferência política&lt;/p&gt;
+&lt;p&gt;Eleições: saiba como consultar locais de votação para o segundo turno&lt;/p&gt;
+&lt;p&gt;Justiça proíbe rede de supermercados de praticar assédio eleitoral&lt;/p&gt;
+&lt;p&gt;Veja quem tem prioridade nas seções eleitorais no segundo turno&lt;/p&gt;
+&lt;p&gt;Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/votacao-eleitores-podem-usar-itens-que-expressem-preferencia-politica&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Eleitores poderão fazermanifestação individual e silenciosa da sua posição política no domingo (25), dia de votação do segundo turno das eleições 202...</excerpt:encoded>
+      <wp:post_id>1000</wp:post_id>
+      <wp:post_date>2026-10-24 18:42:00</wp:post_date>
+      <wp:post_date_gmt>2026-10-24 18:42:00</wp:post_date_gmt>
+      <wp:post_modified>2026-10-24 18:42:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-10-24 18:42:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/vWFvVWDZSsQdhbP6YSqzoR3fx2c=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/04/sem_titulo-23.jpg?itok=ndFsZ3cp</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Eleições: saiba como consultar locais de votação para o segundo turno</title>
+      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-saiba-como-consultar-locais-de-votacao-para-o-segundo-turno</link>
+      <pubDate>Sat, 24 Oct 2026 23:54:02 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-saiba-como-consultar-locais-de-votacao-para-o-segundo-turno#1001</guid>
+      <description>Os 158 milhões de eleitores que vão às urnas neste domingo (25) para escolher o próximo presidente da República precisam checar o endereço da seção e...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/wP8hY5-f_jwBdILDLdHG3_flzZc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/04/sem_titulo-5.jpg?itok=GSOyENOM&quot; alt=&quot;Eleições: saiba como consultar locais de votação para o segundo turno&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Os 158 milhões de eleitores que vão às urnas neste domingo (25) para escolher o próximo presidente da República precisam checar o endereço da seção eleitoralantes de sair de casa.&lt;/p&gt;
+&lt;p&gt;A orientação do Tribunal Superior Eleitoralé que os eleitores confiram, com antecedência, os&lt;/p&gt;
+&lt;p&gt;O aplicativo e-título pode ser baixado de forma gratuita em celulares&lt;/p&gt;
+&lt;p&gt;. Para consultar o local de votação é só abrir o aplicativo, digitar os dados solicitados e selecionar a opção “onde votar”. Vai aparecer a zona e a seção eleitoral com o endereço. É possível inclusive traçar a rota de como chegar ao local.&lt;/p&gt;
+&lt;p&gt;está acessível nos postosdo TSE e dos tribunais regionais eleitorais (TREs) de cada estado.&lt;/p&gt;
+&lt;p&gt;Alíé possível consultar o local de votação em “onde votar”, além de outros serviços, como regularização de pendências, atualização de dados e emissão de documentos de forma remota, sem precisar comparecer a um cartório eleitoral.&lt;/p&gt;
+&lt;p&gt;O ChatVote é o assistente virtual da Justiça Eleitoral. Ele usa inteligência artificial para responder dúvidas e orientar sobre os serviços disponíveis. Também pode ser acessado na página do TSE.&lt;/p&gt;
+&lt;p&gt;O ChatVote fica no lado esquerdo da página, na parte inferior. É um desenho de uma urna com olhinhos. É só clicar nela e fazer a pergunta.&lt;/p&gt;
+&lt;p&gt;A votação do segundo turno ocorreno próximo dia 25 de outubro&lt;/p&gt;
+&lt;p&gt;. As seções ficam abertas de 8h às 17h. O eleitor vai votar desta vez apenas para presidente da República e, em alguns estados, para governador. A disputa local ocorreno Acre, Amazonas, Distrito Federal, Espírito Santo, Rio Grande do Norte e Tocantins.&lt;/p&gt;
+&lt;p&gt;TSE verifica sistemas eleitorais e emite zerésima de urnas eletrônicas&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 23 de outubro de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Candidatos à Presidência reúnem apoiadores no último dia de campanha&lt;/p&gt;
+&lt;p&gt;Votação: eleitores podem usar itens que expressem preferência política&lt;/p&gt;
+&lt;p&gt;Eleições: saiba como consultar locais de votação para o segundo turno&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-saiba-como-consultar-locais-de-votacao-para-o-segundo-turno&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>Os 158 milhões de eleitores que vão às urnas neste domingo (25) para escolher o próximo presidente da República precisam checar o endereço da seção e...</excerpt:encoded>
+      <wp:post_id>1001</wp:post_id>
+      <wp:post_date>2026-10-24 18:39:00</wp:post_date>
+      <wp:post_date_gmt>2026-10-24 18:39:00</wp:post_date_gmt>
+      <wp:post_modified>2026-10-24 18:39:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-10-24 18:39:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/wP8hY5-f_jwBdILDLdHG3_flzZc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/04/sem_titulo-5.jpg?itok=GSOyENOM</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Justiça proíbe rede de supermercados de praticar assédio eleitoral</title>
+      <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-proibe-rede-de-supermercados-de-fazer-assedio-eleitoral</link>
+      <pubDate>Sat, 24 Oct 2026 23:54:02 +0000</pubDate>
+      <dc:creator>Agência Brasil</dc:creator>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-proibe-rede-de-supermercados-de-fazer-assedio-eleitoral#1002</guid>
+      <description>A Justiça do Trabalho determinou que uma rede de supermercados pare de enviar comunicados de cunho eleitoral para seus funcionários.
+A decisão foi to...</description>
+      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/jjWK3ncblXeby5JTaHcx_VgSgLI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/24/fachada-ministerio-publico-trabalho-848x477.jpg?itok=aH7qnmil&quot; alt=&quot;Justiça proíbe rede de supermercados de praticar assédio eleitoral&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A Justiça do Trabalho determinou que uma rede de supermercados pare de enviar comunicados de cunho eleitoral para seus funcionários.&lt;/p&gt;
+&lt;p&gt;A decisão foi tomada a pedido do Sindicato dos Comerciários, que constatou que empregados do Supermercado Zona Sul receberam carta, enviada pela empresa, que continha críticas ao cenário político e institucional brasileiro&lt;/p&gt;
+&lt;p&gt;e um apelo por mudanças, às vésperas do segundo turno das eleições presidenciais.&lt;/p&gt;
+&lt;p&gt;Segundo o sindicato, a juíza Cláudia de Abreu Lima Pisco determinou, em liminar, que o supermercado envie, até as 23h59 deste sábado (24), nova mensagem aos funcionários, pelos mesmos canais utilizados originalmente, esclarecendo que o voto é livre e secreto e que nenhum empregado é obrigado a revelar sua preferência política.&lt;/p&gt;
+&lt;p&gt;Além disso, a empresa também deverá afixar a comunicação em locais de grande circulação de funcionários em seus estabelecimentos.&lt;/p&gt;
+&lt;p&gt;Caso a empresa descumpra a decisão, há multa diária de R$ 500 mil.&lt;/p&gt;
+&lt;p&gt;Ainda de acordo com o sindicato,a juíza considerou que a manifestação institucional caracteriza assédio eleitoral&lt;/p&gt;
+&lt;p&gt;, ao transmitir de forma velada uma orientação política aos trabalhadores, uma vez que há uma relação de dependência econômica entre empregados e empregadores, o que poderia gerar receio de retaliações e comprometer a liberdade de voto.&lt;/p&gt;
+&lt;p&gt;A assessoria de imprensa do Supermercado Zona Sul informou que não vai se pronunciar sobre o caso.&lt;/p&gt;
+&lt;p&gt;TSE verifica sistemas eleitorais e emite zerésima de urnas eletrônicas&lt;/p&gt;
+&lt;p&gt;Repórter Brasil de 23 de outubro de 2026; assista na íntegra&lt;/p&gt;
+&lt;p&gt;Candidatos à Presidência reúnem apoiadores no último dia de campanha&lt;/p&gt;
+&lt;p&gt;Votação: eleitores podem usar itens que expressem preferência política&lt;/p&gt;
+&lt;p&gt;Eleições: saiba como consultar locais de votação para o segundo turno&lt;/p&gt;
+&lt;p&gt;Justiça proíbe rede de supermercados de praticar assédio eleitoral&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-proibe-rede-de-supermercados-de-fazer-assedio-eleitoral&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      <excerpt:encoded>A Justiça do Trabalho determinou que uma rede de supermercados pare de enviar comunicados de cunho eleitoral para seus funcionários.
+A decisão foi to...</excerpt:encoded>
+      <wp:post_id>1002</wp:post_id>
+      <wp:post_date>2026-10-24 17:48:00</wp:post_date>
+      <wp:post_date_gmt>2026-10-24 17:48:00</wp:post_date_gmt>
+      <wp:post_modified>2026-10-24 17:48:00</wp:post_modified>
+      <wp:post_modified_gmt>2026-10-24 17:48:00</wp:post_modified_gmt>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:ping_status>closed</wp:ping_status>
+      <wp:status>publish</wp:status>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_password/>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_parent>0</wp:post_parent>
+      <category domain="category" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="brasil">Brasil</category>
+      <category domain="post_tag" nicename="notícias">Notícias</category>
+      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
+      <category domain="post_tag" nicename="ebc">EBC</category>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
+        <wp:meta_value>https://imagens.ebc.com.br/jjWK3ncblXeby5JTaHcx_VgSgLI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/24/fachada-ministerio-publico-trabalho-848x477.jpg?itok=aH7qnmil</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
       <title>Veja quem tem prioridade nas seções eleitorais no segundo turno</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-tem-prioridade-nas-secoes-eleitorais-no-segundo-turno</link>
-      <pubDate>Sat, 24 Oct 2026 21:21:15 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 23:54:02 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-tem-prioridade-nas-secoes-eleitorais-no-segundo-turno#1000</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-tem-prioridade-nas-secoes-eleitorais-no-segundo-turno#1003</guid>
       <description>Os 158,7 milhões de eleitores que comparecerão às urnas no segundo turno, neste domingo (25),
 deverão votar apenas para presidente da República e gov...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/pzDiHfPrbvo6CZ3LOSri5rAQ02U=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/04/0d4a2108.jpg?itok=sT6OGX4-&quot; alt=&quot;Veja quem tem prioridade nas seções eleitorais no segundo turno&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -43,11 +184,11 @@ deverão votar apenas para presidente da República e gov...</description>
 &lt;p&gt;militares/agentes de segurança em serviço.&lt;/p&gt;
 &lt;p&gt;TSE verifica sistemas eleitorais e emite zerésima de urnas eletrônicas&lt;/p&gt;
 &lt;p&gt;Repórter Brasil de 23 de outubro de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Justiça proíbe rede de supermercados de praticar assédio eleitoral&lt;/p&gt;
-&lt;p&gt;Veja quem tem prioridade nas seções eleitorais no segundo turno&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-tem-prioridade-nas-secoes-eleitorais-no-segundo-turno&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Candidatos à Presidência reúnem apoiadores no último dia de campanha&lt;/p&gt;
+&lt;p&gt;Votação: eleitores podem usar itens que expressem preferência política&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-tem-prioridade-nas-secoes-eleitorais-no-segundo-turno&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Os 158,7 milhões de eleitores que comparecerão às urnas no segundo turno, neste domingo (25),
 deverão votar apenas para presidente da República e gov...</excerpt:encoded>
-      <wp:post_id>1000</wp:post_id>
+      <wp:post_id>1003</wp:post_id>
       <wp:post_date>2026-10-24 17:24:00</wp:post_date>
       <wp:post_date_gmt>2026-10-24 17:24:00</wp:post_date_gmt>
       <wp:post_modified>2026-10-24 17:24:00</wp:post_modified>
@@ -73,9 +214,9 @@ deverão votar apenas para presidente da República e gov...</excerpt:encoded>
     <item>
       <title>Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-marques-nega-autorizacao-para-transporte-de-eleitores-indigenas</link>
-      <pubDate>Sat, 24 Oct 2026 21:21:15 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 23:54:02 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-marques-nega-autorizacao-para-transporte-de-eleitores-indigenas#1001</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-marques-nega-autorizacao-para-transporte-de-eleitores-indigenas#1004</guid>
       <description>O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, negou pedido para que veículos eembarcações da Fundação Nacional do...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/J6ommqTGuii7W_v22RJRQ8axtGc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/20/capa_terras-indigenas-voto.jpg?itok=d5-bT3yP&quot; alt=&quot;Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, negou pedido para que veículos eembarcações da Fundação Nacional dos Povos Indígenas (Funai), Secretaria de saúde Indígena (Sesai) e do Ministério dos Povos Indígenas (MPI) possam transportar eleitores indígenas sem autorização prévia da Justiça Eleitoral.&lt;/p&gt;
@@ -89,12 +230,12 @@ deverão votar apenas para presidente da República e gov...</excerpt:encoded>
 &lt;p&gt;municipais e intermunicipais no dia da eleição em todo o país. Esse transporte é de responsabilidade de prefeituras e governos e deve durar o dia todo.&lt;/p&gt;
 &lt;p&gt;TSE verifica sistemas eleitorais e emite zerésima de urnas eletrônicas&lt;/p&gt;
 &lt;p&gt;Repórter Brasil de 23 de outubro de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Justiça proíbe rede de supermercados de praticar assédio eleitoral&lt;/p&gt;
-&lt;p&gt;Veja quem tem prioridade nas seções eleitorais no segundo turno&lt;/p&gt;
-&lt;p&gt;Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques&lt;/p&gt;
-&lt;p&gt;Tribunais eleitorais definem urnas que serão auditadas no 2º turno&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-marques-nega-autorizacao-para-transporte-de-eleitores-indigenas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Candidatos à Presidência reúnem apoiadores no último dia de campanha&lt;/p&gt;
+&lt;p&gt;Votação: eleitores podem usar itens que expressem preferência política&lt;/p&gt;
+&lt;p&gt;Eleições: saiba como consultar locais de votação para o segundo turno&lt;/p&gt;
+&lt;p&gt;Justiça proíbe rede de supermercados de praticar assédio eleitoral&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-marques-nega-autorizacao-para-transporte-de-eleitores-indigenas&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, negou pedido para que veículos eembarcações da Fundação Nacional do...</excerpt:encoded>
-      <wp:post_id>1001</wp:post_id>
+      <wp:post_id>1004</wp:post_id>
       <wp:post_date>2026-10-24 16:32:00</wp:post_date>
       <wp:post_date_gmt>2026-10-24 16:32:00</wp:post_date_gmt>
       <wp:post_modified>2026-10-24 16:32:00</wp:post_modified>
@@ -120,9 +261,9 @@ deverão votar apenas para presidente da República e gov...</excerpt:encoded>
     <item>
       <title>Tribunais eleitorais definem urnas que serão auditadas no 2º turno</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tribunais-eleitorais-definem-urnas-que-serao-auditadas-no-2o-turno</link>
-      <pubDate>Sat, 24 Oct 2026 21:21:15 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 23:54:02 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tribunais-eleitorais-definem-urnas-que-serao-auditadas-no-2o-turno#1002</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tribunais-eleitorais-definem-urnas-que-serao-auditadas-no-2o-turno#1005</guid>
       <description>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 Tribunais regionais eleitorais (TREs) de todo o país definiram neste sábado (24)as urnas eletrônicas que s...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/uLVgkcm2jLMjQAIjakQpnRkOmfg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/21/pzzb8759.jpg?itok=k_7UuA1M&quot; alt=&quot;Tribunais eleitorais definem urnas que serão auditadas no 2º turno&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -143,7 +284,7 @@ Tribunais regionais eleitorais (TREs) de todo o país definiram neste sábado (2
 &lt;p&gt;A verificação concluiu que não houve qualquer alteração do programa, de acordo com o tribunal&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tribunais-eleitorais-definem-urnas-que-serao-auditadas-no-2o-turno&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Fabio Rodrigues-Pozzebom/ Agência Brasil
 Tribunais regionais eleitorais (TREs) de todo o país definiram neste sábado (24)as urnas eletrônicas que s...</excerpt:encoded>
-      <wp:post_id>1002</wp:post_id>
+      <wp:post_id>1005</wp:post_id>
       <wp:post_date>2026-10-24 16:13:00</wp:post_date>
       <wp:post_date_gmt>2026-10-24 16:13:00</wp:post_date_gmt>
       <wp:post_modified>2026-10-24 16:13:00</wp:post_modified>
@@ -169,9 +310,9 @@ Tribunais regionais eleitorais (TREs) de todo o país definiram neste sábado (2
     <item>
       <title>Saiba os direitos de idosos e pessoas com deficiência para votar</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-os-direitos-de-idosos-e-pessoas-com-deficiencia-para-votar</link>
-      <pubDate>Sat, 24 Oct 2026 21:21:15 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 23:54:02 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-os-direitos-de-idosos-e-pessoas-com-deficiencia-para-votar#1003</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-os-direitos-de-idosos-e-pessoas-com-deficiencia-para-votar#1006</guid>
       <description>Para assegurar que o momento de ir às urnas ocorra com agilidade, conforto e segurança, a legislação brasileira estabelece um conjunto de direitos e ...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/KT_xQcjhRufU-_IC4tTuUxACWx0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2024/10/02/0g0a5820.jpg?itok=pBVpXWqX&quot; alt=&quot;Saiba os direitos de idosos e pessoas com deficiência para votar&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Para assegurar que o momento de ir às urnas ocorra com agilidade, conforto e segurança, a legislação brasileira estabelece um conjunto de direitos e preferências destinados a pessoas com deficiência, mobilidade reduzida e idosos.&lt;/p&gt;
@@ -190,7 +331,7 @@ Tribunais regionais eleitorais (TREs) de todo o país definiram neste sábado (2
 &lt;p&gt;juízas e juízes eleitorais e seus auxiliares de serviço;&lt;/p&gt;
 &lt;p&gt;servidoras e servidores da Justiça Eleitoral;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-os-direitos-de-idosos-e-pessoas-com-deficiencia-para-votar&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>Para assegurar que o momento de ir às urnas ocorra com agilidade, conforto e segurança, a legislação brasileira estabelece um conjunto de direitos e ...</excerpt:encoded>
-      <wp:post_id>1003</wp:post_id>
+      <wp:post_id>1006</wp:post_id>
       <wp:post_date>2026-10-24 15:22:00</wp:post_date>
       <wp:post_date_gmt>2026-10-24 15:22:00</wp:post_date_gmt>
       <wp:post_modified>2026-10-24 15:22:00</wp:post_modified>
@@ -216,9 +357,9 @@ Tribunais regionais eleitorais (TREs) de todo o país definiram neste sábado (2
     <item>
       <title>Rebeca Andrade conquista o tri no Mundial de Ginástica na Holanda</title>
       <link>https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/rebeca-andrade-conquista-o-tri-no-mundial-de-ginastica-na-holanda</link>
-      <pubDate>Sat, 24 Oct 2026 21:21:15 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 23:54:02 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/rebeca-andrade-conquista-o-tri-no-mundial-de-ginastica-na-holanda#1004</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/rebeca-andrade-conquista-o-tri-no-mundial-de-ginastica-na-holanda#1007</guid>
       <description>© Reuters/Yves Herman/Proibida reprodução
 A brasileira Rebeca Andrade conquistou neste sábado (24) o tricampeonato no Campeonato Mundial de Ginástica...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/qeqa0Sw3bDwe0qenRh5MYrT_CZg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/24/2026-10-24t133541z_1335199391_up1emao11rgeg_rtrmadp_3_gymnastics-world.jpg?itok=oPBis4nf&quot; alt=&quot;Rebeca Andrade conquista o tri no Mundial de Ginástica na Holanda&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -233,13 +374,13 @@ A brasileira Rebeca Andrade conquistou neste sábado (24) o tricampeonato no Cam
 &lt;p&gt;Em 2012, com apenas 13 anos e em seu primeiro campeonato como profissional, venceu o Troféu Brasil, desbancando nomes como Daniele Hypolito e Jade Barbosa.Ela estreou em olimpíadas em 2016, na edição do Rio de Janeiro.&lt;/p&gt;
 &lt;p&gt;TSE verifica sistemas eleitorais e emite zerésima de urnas eletrônicas&lt;/p&gt;
 &lt;p&gt;Repórter Brasil de 23 de outubro de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Justiça proíbe rede de supermercados de praticar assédio eleitoral&lt;/p&gt;
-&lt;p&gt;Veja quem tem prioridade nas seções eleitorais no segundo turno&lt;/p&gt;
-&lt;p&gt;Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques&lt;/p&gt;
-&lt;p&gt;Tribunais eleitorais definem urnas que serão auditadas no 2º turno&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/rebeca-andrade-conquista-o-tri-no-mundial-de-ginastica-na-holanda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
+&lt;p&gt;Candidatos à Presidência reúnem apoiadores no último dia de campanha&lt;/p&gt;
+&lt;p&gt;Votação: eleitores podem usar itens que expressem preferência política&lt;/p&gt;
+&lt;p&gt;Eleições: saiba como consultar locais de votação para o segundo turno&lt;/p&gt;
+&lt;p&gt;Justiça proíbe rede de supermercados de praticar assédio eleitoral&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/rebeca-andrade-conquista-o-tri-no-mundial-de-ginastica-na-holanda&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Reuters/Yves Herman/Proibida reprodução
 A brasileira Rebeca Andrade conquistou neste sábado (24) o tricampeonato no Campeonato Mundial de Ginástica...</excerpt:encoded>
-      <wp:post_id>1004</wp:post_id>
+      <wp:post_id>1007</wp:post_id>
       <wp:post_date>2026-10-24 15:04:00</wp:post_date>
       <wp:post_date_gmt>2026-10-24 15:04:00</wp:post_date_gmt>
       <wp:post_modified>2026-10-24 15:04:00</wp:post_modified>
@@ -265,9 +406,9 @@ A brasileira Rebeca Andrade conquistou neste sábado (24) o tricampeonato no Cam
     <item>
       <title>Trabalhador tem direito de sair do serviço para votar; confira a lei</title>
       <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/trabalhador-tem-direito-de-sair-do-servico-para-votar-confira-lei</link>
-      <pubDate>Sat, 24 Oct 2026 21:21:15 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 23:54:02 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/trabalhador-tem-direito-de-sair-do-servico-para-votar-confira-lei#1005</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/trabalhador-tem-direito-de-sair-do-servico-para-votar-confira-lei#1008</guid>
       <description>O eleitor que vai trabalhar no dia da eleição tem o direito de se ausentar do serviço para exercer o direito ao voto, sem prejuízo de salário.
 A regr...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/FOXkyElmM-huyh6FyFLql8_D5Js=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/04/0d4a2205.jpg?itok=33uu2yuo&quot; alt=&quot;Trabalhador tem direito de sair do serviço para votar; confira a lei&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -288,7 +429,7 @@ A regr...</description>
 &lt;p&gt;TSE verifica sistemas eleitorais e emite zerésima de urnas eletrônicas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/trabalhador-tem-direito-de-sair-do-servico-para-votar-confira-lei&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>O eleitor que vai trabalhar no dia da eleição tem o direito de se ausentar do serviço para exercer o direito ao voto, sem prejuízo de salário.
 A regr...</excerpt:encoded>
-      <wp:post_id>1005</wp:post_id>
+      <wp:post_id>1008</wp:post_id>
       <wp:post_date>2026-10-24 14:30:00</wp:post_date>
       <wp:post_date_gmt>2026-10-24 14:30:00</wp:post_date_gmt>
       <wp:post_modified>2026-10-24 14:30:00</wp:post_modified>
@@ -314,9 +455,9 @@ A regr...</excerpt:encoded>
     <item>
       <title>Bullying: cartórios têm recorde de atas que podem comprovar agressões</title>
       <link>https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/bullying-cartorios-tem-recorde-de-atas-que-podem-comprovar-agressoes</link>
-      <pubDate>Sat, 24 Oct 2026 21:21:15 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 23:54:02 +0000</pubDate>
       <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/bullying-cartorios-tem-recorde-de-atas-que-podem-comprovar-agressoes#1006</guid>
+      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/bullying-cartorios-tem-recorde-de-atas-que-podem-comprovar-agressoes#1009</guid>
       <description>© Arquivo/Fabio Rodrigues Pozzebom/Agência Brasil
 Em 2025, os cartórios de notas brasileiros registraram 153.267 atas notariais, documento que pode s...</description>
       <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/sSDS4xPmaNHlFYmsxKKHU7CwXgc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/cartorio.jpg?itok=TQJOVDSe&quot; alt=&quot;Bullying: cartórios têm recorde de atas que podem comprovar agressões&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
@@ -337,7 +478,7 @@ Em 2025, os cartórios de notas brasileiros registraram 153.267 atas notariais, 
 &lt;p&gt;. Na prática, pode documentar postagens em redes sociais, mensagens trocadas em aplicativos, vídeos, áudios e outros conteúdos, permitindo sua apresentação como prova em processos judiciais e administrativos.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/bullying-cartorios-tem-recorde-de-atas-que-podem-comprovar-agressoes&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <excerpt:encoded>© Arquivo/Fabio Rodrigues Pozzebom/Agência Brasil
 Em 2025, os cartórios de notas brasileiros registraram 153.267 atas notariais, documento que pode s...</excerpt:encoded>
-      <wp:post_id>1006</wp:post_id>
+      <wp:post_id>1009</wp:post_id>
       <wp:post_date>2026-10-24 14:06:00</wp:post_date>
       <wp:post_date_gmt>2026-10-24 14:06:00</wp:post_date_gmt>
       <wp:post_modified>2026-10-24 14:06:00</wp:post_modified>
@@ -358,151 +499,6 @@ Em 2025, os cartórios de notas brasileiros registraram 153.267 atas notariais, 
       <wp:postmeta>
         <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
         <wp:meta_value>https://imagens.ebc.com.br/sSDS4xPmaNHlFYmsxKKHU7CwXgc=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/cartorio.jpg?itok=TQJOVDSe</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Cartórios lançam ferramenta que permite pesquisar imóveis no país</title>
-      <link>https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/cartorios-lancam-ferramenta-que-permite-pesquisar-imoveis-no-pais</link>
-      <pubDate>Sat, 24 Oct 2026 21:21:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/cartorios-lancam-ferramenta-que-permite-pesquisar-imoveis-no-pais#1007</guid>
-      <description>© Rafa Neddermeyer/Agência Brasil
-Já é possível pesquisar informações relacionadas ao vínculo de CPFs e CNPJs a imóveis nos mais de 3,6 mil Registros...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/m13XLRbHCm8W6kDBhSUCRUb9XC4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/img_9497.jpg-16.jpg?itok=G-joRdTt&quot; alt=&quot;Cartórios lançam ferramenta que permite pesquisar imóveis no país&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© Rafa Neddermeyer/Agência Brasil&lt;/p&gt;
-&lt;p&gt;Já é possível pesquisar informações relacionadas ao vínculo de CPFs e CNPJs a imóveis nos mais de 3,6 mil Registros de Imóveis dos 26 estados e do Distrito Federal. Lançada neste mês, a Pesquisa Nacional de Bens está disponível na plataforma eletrônica oficial que reúne todos os cartórios de Registro de Imóveis do Brasil em um só lugar, o&lt;/p&gt;
-&lt;p&gt;Segundo o Operador Nacional do Sistema de Registro Eletrônico de Imóveis (ONR), a novidade é a evolução de um serviço eletrônico que já permitia buscas patrimoniais, mas era limitado a dez unidades da federação. A ferramenta anterior teve mais de 4,3 milhões de consultas desde 2021, sendo 1,14 milhão somente em 2025 e mais de 800 mil nos primeiros oito meses deste ano. Agora, com a incorporação dos demais estados, a pesquisa passa a ter abrangência nacional.&lt;/p&gt;
-&lt;p&gt;O primeiro resultado da pesquisa ocorre em menos de um minuto. Se alguma unidade estiver temporariamente indisponível, o sistema faznovas tentativas automáticas a cada 20 minutos, por até três vezes, buscando complementar a consulta em até uma hora. O serviço funciona 24 horas por dia, sete dias por semana, inclusive nos finais de semana e feriados.&lt;/p&gt;
-&lt;p&gt;Disponível no RI Digital, a Pesquisa Nacional de Bens pode ser utilizada por cidadãos, escritórios de advocacia, empresas do mercado imobiliário, companhias de recuperação de crédito e instituições que realizam análises patrimoniais&lt;/p&gt;
-&lt;p&gt;. No setor público, procuradorias, tribunais, Ministério Público e órgãos policiais estão entre os potenciais usuários da ferramenta para localização e investigação patrimonial.&lt;/p&gt;
-&lt;p&gt;Para Flaviano Galhardo, diretor-geral do ONR, o potencial é gigantesco, tanto para o cidadão e para o mercado quanto para o Poder Público.&lt;/p&gt;
-&lt;p&gt;“Trata-se de um instrumento de rastreamento patrimonial seguro, alinhado a rigorosos padrões de compliance, proteção de dados e governança nas pesquisas e nas entregas”, afirma.&lt;/p&gt;
-&lt;p&gt;A Pesquisa Nacional de Bens localiza ocorrências de determinado CPF ou CNPJ nos registros imobiliários&lt;/p&gt;
-&lt;p&gt;. Um resultado positivo, portanto, não significa necessariamente que a pessoa pesquisada seja a atual proprietária do imóvel. Ela pode constar ou ter constado na matrícula como proprietária, locatária, fiadora ou titular de outro direito.&lt;/p&gt;
-&lt;p&gt;Para identificar o tipo de vínculo daquele CPF ou CNPJ com o imóvel, o usuário pode solicitar uma certidão digital ou realizar uma Pesquisa Qualificada, também disponível na plataforma. Essa modalidade, que permite aprofundar a pesquisa, já contabilizou 8,8 milhões de consultas desde 2021.&lt;/p&gt;
-&lt;p&gt;Segundo o ONR, a ampliação da plataforma foi possível a partir da digitalização dos acervos imobiliários e da estruturação de seus dados pelos Registros de Imóveis de todo o país.&lt;/p&gt;
-&lt;p&gt;O Operador Nacional do Sistema de Registro Eletrônico de Imóveis (ONR) é uma entidade de natureza jurídica especial, instituída pela&lt;/p&gt;
-&lt;p&gt;, responsável por implementar e operar, em âmbito nacional, o Sistema de Registro Eletrônico de Imóveis (SREI) no Brasil. O organismo integra todos os 3.621 Cartórios de Registro de Imóveis dos Estados e do Distrito Federal, promovendo a digitalização e a integração dos serviços registrais imobiliários.&lt;/p&gt;
-&lt;p&gt;TSE verifica sistemas eleitorais e emite zerésima de urnas eletrônicas&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/cartorios-lancam-ferramenta-que-permite-pesquisar-imoveis-no-pais&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© Rafa Neddermeyer/Agência Brasil
-Já é possível pesquisar informações relacionadas ao vínculo de CPFs e CNPJs a imóveis nos mais de 3,6 mil Registros...</excerpt:encoded>
-      <wp:post_id>1007</wp:post_id>
-      <wp:post_date>2026-10-24 13:42:00</wp:post_date>
-      <wp:post_date_gmt>2026-10-24 13:42:00</wp:post_date_gmt>
-      <wp:post_modified>2026-10-24 13:42:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-10-24 13:42:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/m13XLRbHCm8W6kDBhSUCRUb9XC4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/21/img_9497.jpg-16.jpg?itok=G-joRdTt</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Protestos na França começam sob forte esquema de segurança</title>
-      <link>https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/protestos-na-franca-comecam-sob-forte-esquema-de-seguranca</link>
-      <pubDate>Sat, 24 Oct 2026 21:21:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/protestos-na-franca-comecam-sob-forte-esquema-de-seguranca#1008</guid>
-      <description>© REUTERS/Abdul Saboor/Proibida reprodução
-Manifestantes se reuniram em Paris e em cidades de toda a França neste sábado (24), sob a vigilância de 70...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/SPTnvJjmxvqQhE8Yo-P6paH69bU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/09/2026-10-09t150347z_1_lynxmpem981cp_rtroptp_4_france-protest-schools.jpg?itok=SEHE1ify&quot; alt=&quot;Protestos na França começam sob forte esquema de segurança&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;© REUTERS/Abdul Saboor/Proibida reprodução&lt;/p&gt;
-&lt;p&gt;Manifestantes se reuniram em Paris e em cidades de toda a França neste sábado (24), sob a vigilância de 70 mil policiais, enquanto o governo tentava evitar a repetição dos distúrbios e saques que sacudiram o país no fim de semana passado.&lt;/p&gt;
-&lt;p&gt;O ministro do Interior, Laurent Nuñez, disse que 135 pessoas haviam sido presas em todo o país até o início da tarde, muitas após revistas preventivas que encontraram fogos de artifício, rolamentos de esferas e outros objetos que poderiam ser usados como armas.&lt;/p&gt;
-&lt;p&gt;“Temos que ser extremamente ágeis. Recebemos muitos avisos sobre desordem, tanto de grupos políticos quanto, simplesmente, de criminosos”, disse aos jornalistas. “Vai ser um dia longo.”&lt;/p&gt;
-&lt;p&gt;Enquanto o início da principal marcha em Paris transcorria de forma pacífica, a polícia usou gás lacrimogêneo contra multidões em Lyon, a terceira maior cidade da França.&lt;/p&gt;
-&lt;p&gt;O governo mobilizou 10 mil policiais a mais do que em 17 de outubro, dia em que protestos contra o custo de vida e a deterioração dos serviços públicos se transformaram em alguns dos piores distúrbios que a França viu em anos.&lt;/p&gt;
-&lt;p&gt;Grande parte do centro de Paris parecia uma cidade em lockdown, com lojistas fechando as vitrines com tapumes, museus com as portas fechadas e mais de 20 estações de metrô interditadas.&lt;/p&gt;
-&lt;p&gt;Entidades empresariais pediram que os varejistas permanecessem fechados depois que milhares de lojas e negócios foram danificados ou saqueados em toda a França no último fim de semana.&lt;/p&gt;
-&lt;p&gt;“Quase não há clientes, então não vale a pena ficar aberto”, disse Oskar, gerente de uma boutique Kiton em Paris.&lt;/p&gt;
-&lt;p&gt;Vários dos mais conhecidos centros culturais da capital, incluindo o Louvre, o Musée d’Orsay e a Ópera de Paris, fecharam como precaução, deixando os turistas frustrados.&lt;/p&gt;
-&lt;p&gt;“Está tudo fechado com tapumes e não sabemos bem para onde ir”, disse Xavier Dolliole, turista da cidade norte-americana de Nova Orleans.&lt;/p&gt;
-&lt;p&gt;A rota da principal manifestação em Paris só foi definida após uma batalha judicial, desencadeada por uma ordem policial de última hora, que afastava os organizadores do centro da cidade em direção às regiões do sudeste da capital. A polícia argumentou que o trajeto original passava por áreas com alta concentração de empresas semelhantes às atacadas no fim de semana anterior. Líderes de esquerda disseram que a mudança tardia tinha como objetivo causar confusão e afastar as pessoas.&lt;/p&gt;
-&lt;p&gt;“Mais uma vez, os que estão no poder criam transtornos para as marchas e prazos impossíveis para que as organizações se reorganizem”, disse o líder da esquerda radical Jean-Luc Mélenchon, que se juntou aos manifestantes nas ruas de Paris.&lt;/p&gt;
-&lt;p&gt;Muitos manifestantes acusaram o governo de reagir de forma exagerada, com soldados enviados para patrulhar a Champs-Élysées. “Choramos pelas lojas, não pelas pessoas que são empobrecidas o ano todo”, disse Clara Lebbadi, estudante de artes de 22 anos.&lt;/p&gt;
-&lt;p&gt;“Minha amiga e eu quase não viemos porque estávamos com medo, mas viemos justamente porque é importante não deixar a repressão vencer”, acrescentou.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/protestos-na-franca-comecam-sob-forte-esquema-de-seguranca&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>© REUTERS/Abdul Saboor/Proibida reprodução
-Manifestantes se reuniram em Paris e em cidades de toda a França neste sábado (24), sob a vigilância de 70...</excerpt:encoded>
-      <wp:post_id>1008</wp:post_id>
-      <wp:post_date>2026-10-24 12:38:00</wp:post_date>
-      <wp:post_date_gmt>2026-10-24 12:38:00</wp:post_date_gmt>
-      <wp:post_modified>2026-10-24 12:38:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-10-24 12:38:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/SPTnvJjmxvqQhE8Yo-P6paH69bU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/09/2026-10-09t150347z_1_lynxmpem981cp_rtroptp_4_france-protest-schools.jpg?itok=SEHE1ify</wp:meta_value>
-      </wp:postmeta>
-    </item>
-    <item>
-      <title>Eleições 2026: saiba o que caracteriza o crime de boca de urna</title>
-      <link>https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-2026-saiba-o-que-caracteriza-o-crime-de-boca-de-urna</link>
-      <pubDate>Sat, 24 Oct 2026 21:21:15 +0000</pubDate>
-      <dc:creator>Agência Brasil</dc:creator>
-      <guid isPermaLink="false">https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-2026-saiba-o-que-caracteriza-o-crime-de-boca-de-urna#1009</guid>
-      <description>Neste domingo(25), assim como em todas as eleições, os eleitores não podempedir votos, distribuir propaganda ou abordar eleitores para influenciar a ...</description>
-      <content:encoded>&lt;p&gt;&lt;img src=&quot;https://imagens.ebc.com.br/G8yM8liYhsahYTXBuJaJJKAv3RM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1048186-rj_021016tnrg000523.jpg?itok=dqcgHm-z&quot; alt=&quot;Eleições 2026: saiba o que caracteriza o crime de boca de urna&quot; class=&quot;aligncenter size-full&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Neste domingo(25), assim como em todas as eleições, os eleitores não podempedir votos, distribuir propaganda ou abordar eleitores para influenciar a escolha do candidato.. Essas práticas podem caracterizar o crime de boca de urna.&lt;/p&gt;
-&lt;p&gt;A boca de urna ocorre quando há tentativa de convencer o eleitorado a votar em determinado candidato, partido, federação ou coligação no dia da eleição.&lt;/p&gt;
-&lt;p&gt;formação de grupos organizados para promover candidaturas;&lt;/p&gt;
-&lt;p&gt;uso de alto-falantes e outras formas de propaganda eleitoral.&lt;/p&gt;
-&lt;p&gt;Até o encerramento da votação, a legislação proíbe a aglomeração de pessoas com vestuário padronizado ou portando instrumentos de propaganda, quando isso caracterizar manifestação coletiva.&lt;/p&gt;
-&lt;p&gt;A manifestação individual e silenciosa do eleitor sobre a sua preferência política é liberada.&lt;/p&gt;
-&lt;p&gt;é permitido votar com itens como bandeiras, broches e adesivos, desde que não haja manifestação coletiva.&lt;/p&gt;
-&lt;p&gt;No ambiente digital, a lei considera crime a publicação de novos conteúdos ou o impulsionamento de conteúdos no dia da eleição, por parte dos candidatos. Conteúdos publicados anteriormente, no entanto, podem permanecer disponíveis.&lt;/p&gt;
-&lt;p&gt;Quem for pego fazendo boca de urna pode ser punido com detenção de 6 meses a 1 ano, com a possibilidade de substituição pela prestação de serviços à comunidade pelo mesmo período, além de pagamento de multa.&lt;/p&gt;
-&lt;p&gt;As irregularidades relacionadas à propaganda eleitoral podem ser comunicadas pelo Pardal, aplicativo da Justiça Eleitoral. A ferramenta permite o envio de denúncias pelo celular, com informação sobre o local, fotos, vídeos e áudios que ajudem na análise da ocorrência.&lt;/p&gt;
-&lt;p&gt;O aplicativo está disponível gratuitamente nas lojas&lt;/p&gt;
-&lt;p&gt;TSE verifica sistemas eleitorais e emite zerésima de urnas eletrônicas&lt;/p&gt;
-&lt;p&gt;Repórter Brasil de 23 de outubro de 2026; assista na íntegra&lt;/p&gt;
-&lt;p&gt;Justiça proíbe rede de supermercados de praticar assédio eleitoral&lt;/p&gt;
-&lt;p&gt;Veja quem tem prioridade nas seções eleitorais no segundo turno&lt;/p&gt;&lt;p&gt;&lt;em&gt;Fonte: &lt;a href=&quot;https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-2026-saiba-o-que-caracteriza-o-crime-de-boca-de-urna&quot; rel=&quot;nofollow&quot;&gt;Agência Brasil - EBC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded>
-      <excerpt:encoded>Neste domingo(25), assim como em todas as eleições, os eleitores não podempedir votos, distribuir propaganda ou abordar eleitores para influenciar a ...</excerpt:encoded>
-      <wp:post_id>1009</wp:post_id>
-      <wp:post_date>2026-10-24 12:28:00</wp:post_date>
-      <wp:post_date_gmt>2026-10-24 12:28:00</wp:post_date_gmt>
-      <wp:post_modified>2026-10-24 12:28:00</wp:post_modified>
-      <wp:post_modified_gmt>2026-10-24 12:28:00</wp:post_modified_gmt>
-      <wp:comment_status>closed</wp:comment_status>
-      <wp:ping_status>closed</wp:ping_status>
-      <wp:status>publish</wp:status>
-      <wp:post_type>post</wp:post_type>
-      <wp:post_password/>
-      <wp:is_sticky>0</wp:is_sticky>
-      <wp:menu_order>0</wp:menu_order>
-      <wp:post_parent>0</wp:post_parent>
-      <category domain="category" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="brasil">Brasil</category>
-      <category domain="post_tag" nicename="notícias">Notícias</category>
-      <category domain="post_tag" nicename="agência-brasil">Agência Brasil</category>
-      <category domain="post_tag" nicename="ebc">EBC</category>
-      <wp:postmeta>
-        <wp:meta_key>_thumbnail_ext_url</wp:meta_key>
-        <wp:meta_value>https://imagens.ebc.com.br/G8yM8liYhsahYTXBuJaJJKAv3RM=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1048186-rj_021016tnrg000523.jpg?itok=dqcgHm-z</wp:meta_value>
       </wp:postmeta>
     </item>
   </channel>
