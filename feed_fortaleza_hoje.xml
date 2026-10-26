@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Notícias Fortaleza - Recentes</title>
 <link>https://www.fortaleza.ce.gov.br</link>
-<description>Sem notícias recentes. Última verificação: 17:09 UTC</description>
-<lastBuildDate>Mon, 26 Oct 2026 17:09:33 +0000</lastBuildDate>
-<ttl>30</ttl>
+<description>1 notícias recentes (1 com conteúdo completo)</description>
+<language>pt-br</language>
+<lastBuildDate>Mon, 26 Oct 2026 22:25:21 +0000</lastBuildDate>
+<ttl>60</ttl>
+<item>
+<title>Ginásio Paulo Sarasate volta a receber jogos da Superliga A de Vôlei</title>
+<link>https://www.fortaleza.ce.gov.br/noticias/ginasio-paulo-sarasate-volta-a-receber-jogos-da-superliga-a-de-volei</link>
+<guid isPermaLink="false">fortaleza-20261026-63041e48a8c3</guid>
+<pubDate>Mon, 26 Oct 2026 15:34:00 +0000</pubDate>
+<description>Ginásio Paulo Sarasate volta a receber jogos da Superliga A de Vôlei - Segunda, 26 Outubro 2026 15:34</description>
+<content:encoded><![CDATA[ 
+            <div class="imagem-destaque" style="margin-bottom: 20px; text-align: center;">
+                <img src="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Outubro/3/1000834235.jpg" alt="Ginásio Paulo Sarasate volta a receber jogos da Superliga A de Vôlei" 
+                     style="max-width: 100%; height: auto; border-radius: 4px;">
+                <p style="font-size: 12px; color: #666; margin-top: 5px; font-style: italic;">
+                    Imagem: Prefeitura de Fortaleza
+                </p>
+            </div>
+            <div>
+<figure><img alt="A foto mostra a parte interna do Ginásio Paulo Sarasate" src="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Outubro/3/1000834235.jpg" style="max-width:100%; height:auto;"/><figcaption>"Queremos ver o ginásio cada vez mais movimentado, recebendo grandes jogos e com a torcida presente”, afirmou o secretário do Esporte e Lazer, Anderson Pinheiro</figcaption></figure>
+<p>O Ginásio Paulo Sarasate volta a receber jogos da Superliga A de Vôlei nesta segunda-feira (26), às 21h. A partida entre Norde Vôlei e Vôlei Renata/SP, de Campinas, marca a estreia da equipe cearense na temporada 2026/2027. O ginásio é administrado pela Secretaria Municipal do Esporte e Lazer (Secel), da Prefeitura de Fortaleza.</p>
+<p>Campeão da Superliga B na última temporada, o Norde chega pela primeira vez à elite do voleibol brasileiro e conta com o apoio da Prefeitura de Fortaleza. A equipe é comandada pelo campeão olímpico Marcelo Negrão, que também preside o clube.</p>
+<p>O secretário municipal do Esporte e Lazer, Anderson Pinheiro, destaca a importância da partida para o esporte cearense. “É uma alegria receber novamente a Superliga A no Paulo Sarasate, principalmente com um time do Ceará disputando a competição. A Prefeitura apoia o Norde e queremos ver o ginásio cada vez mais movimentado, recebendo grandes jogos e com a torcida presente”, afirma.</p>
+<p>Mais de quatro mil torcedores já confirmaram presença na partida. Os ingressos dos setores VIP e inferior estão esgotados, mas ainda há entradas disponíveis para o setor superior. As informações sobre a venda estão no Instagram oficial do Norde Vôlei.</p>
+<p>O jogo terá transmissão ao vivo pelo SporTV 2.</p> </div>
+        <div style="margin-top: 30px; padding: 15px; background: #f8f9fa; 
+                    border-left: 4px solid #0073aa; border-radius: 4px;
+                    font-size: 14px; color: #495057;">
+            <p style="margin: 0 0 8px 0;"><strong>📰 Fonte Oficial:</strong></p>
+            <p style="margin: 0 0 5px 0;">
+                <strong>Prefeitura de Fortaleza</strong> - 
+                <a href="https://www.fortaleza.ce.gov.br/noticias/ginasio-paulo-sarasate-volta-a-receber-jogos-da-superliga-a-de-volei" target="_blank" style="color: #0056b3; text-decoration: none;">
+                    🔗 Acessar notícia original
+                </a>
+            </p>
+        </div>
+         ]]></content:encoded>
+<enclosure url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Outubro/3/1000834235.jpg" type="image/jpeg" />
+<media:content url="https://i0.wp.com:443/www.fortaleza.ce.gov.br/images/images3/midias/2026/Outubro/3/1000834235.jpg" type="image/jpeg" medium="image">
+<media:title>Ginásio Paulo Sarasate volta a receber jogos da Superliga A de Vôlei</media:title>
+</media:content>
+</item>
 </channel>
 </rss>
