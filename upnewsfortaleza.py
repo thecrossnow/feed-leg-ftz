@@ -15,6 +15,8 @@ import os
 import sys
 import subprocess
 import shutil
+import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
 if hasattr(sys.stdout, 'reconfigure'):
     try:
         sys.stdout.reconfigure(encoding='utf-8')
@@ -82,9 +84,10 @@ def encodificar_url(url):
 
 def requisitar_pagina(url, headers=None, timeout=30):
     """
-    Obtém o HTML da página utilizando curl nativo como motor primário
-    (imune a descarte de socket e RemoteDisconnected no GitHub Actions).
-    Caso curl falhe, utiliza fallback via requests com Connection: close.
+    Obtém o conteúdo da página ou feed utilizando:
+    1. curl nativo com User-Agent curl/8.13.0
+    2. Fallback requests com Connection: close
+    3. Fallback r.jina.ai para contornar qualquer WAF/bloqueio de datacenter
     Retorna (html_texto, status_code, url_final).
     """
     # 1. Tentar com curl nativo (mais confiável em ambientes CI/CD e Linux)
@@ -99,11 +102,10 @@ def requisitar_pagina(url, headers=None, timeout=30):
             url
         ]
         res = subprocess.run(cmd, capture_output=True, text=True, encoding='utf-8', errors='ignore')
-        if res.returncode == 0 and len(res.stdout) > 5000 and ('bobcmn' not in res.stdout and 'DOSL7' not in res.stdout):
+        if res.returncode == 0 and len(res.stdout) > 500 and ('bobcmn' not in res.stdout and 'DOSL7' not in res.stdout):
             return res.stdout, 200, url
-        print("    ⚠️ Curl retornou página incompleta ou desafio WAF. Tentando fallback requests...")
     except Exception as e_curl:
-        print(f"    ⚠️ Curl nativo falhou ({e_curl}). Tentando fallback requests...")
+        print(f"    ⚠️ Curl nativo falhou: {e_curl}")
 
     # 2. Fallback via requests com Connection: close (força novo socket limpo)
     try:
@@ -113,10 +115,19 @@ def requisitar_pagina(url, headers=None, timeout=30):
             'Connection': 'close'
         }
         resp = requests.get(url, headers=hdrs, timeout=(15, 30))
-        if resp.status_code == 200 and len(resp.text) > 5000:
+        if resp.status_code == 200 and len(resp.text) > 500 and ('bobcmn' not in resp.text and 'DOSL7' not in resp.text):
             return resp.text, resp.status_code, resp.url
     except Exception as e_req:
-        print(f"    ❌ Fallback requests falhou: {e_req}")
+        pass
+
+    # 3. Fallback via r.jina.ai (leitor em nuvem com headless browser que executa JS do WAF)
+    try:
+        jina_url = f"https://r.jina.ai/{url}"
+        resp_jina = requests.get(jina_url, timeout=(15, 30))
+        if resp_jina.status_code == 200 and len(resp_jina.text) > 300:
+            return resp_jina.text, resp_jina.status_code, url
+    except Exception as e_jina:
+        pass
 
     return None, 0, url
 
@@ -399,6 +410,125 @@ def extrair_conteudo_completo(url_noticia, headers, imagem_miniatura=None):
         print(f"    ❌ Erro ao extrair conteúdo: {str(e)[:50]}")
         return None
 
+def coletar_noticias_via_rss(datas_alvo, fuso_brasilia, headers_padrao):
+    """
+    FONTE PRIMÁRIA: Consome o feed RSS nativo oficial do Joomla
+    (https://www.fortaleza.ce.gov.br/noticias?format=feed&type=rss).
+    Feed XML é imune a desafios JS/WAF e já inclui o conteúdo dos artigos.
+    """
+    print("\n📡 Tentando coletar via Feed RSS oficial (Zero WAF)...")
+    noticias = []
+    
+    # 1. Mapa de imagens auxiliares (extraídas do card oficial via Jina)
+    mapa_imagens = {}
+    try:
+        for pg_url in [
+            "https://r.jina.ai/https://www.fortaleza.ce.gov.br/noticias",
+            "https://r.jina.ai/https://www.fortaleza.ce.gov.br/noticias?start=5"
+        ]:
+            resp_jina = requests.get(pg_url, timeout=15)
+            if resp_jina.status_code == 200:
+                blocks = resp_jina.text.split('![Image')
+                for b in blocks[1:]:
+                    img_m = re.search(r'\]\((https?://[^\)]+)\)', b)
+                    link_m = re.search(r'\[Leia Mais\]\((https?://[^\)]+)\)', b)
+                    if img_m and link_m:
+                        clean_link = link_m.group(1).rstrip('/')
+                        mapa_imagens[clean_link] = img_m.group(1)
+        if mapa_imagens:
+            print(f"   🖼️  Mapa de imagens oficiais criado ({len(mapa_imagens)} imagens)")
+    except Exception as e_map:
+        print(f"   ⚠️ Mapa de imagens auxiliar: {e_map}")
+
+    # 2. Iterar pelo feed RSS (página 1 e 2 = até 20 notícias)
+    for start_offset in [0, 10]:
+        url_rss = "https://www.fortaleza.ce.gov.br/noticias?format=feed&type=rss"
+        if start_offset > 0:
+            url_rss += f"&start={start_offset}"
+            
+        xml_content, code, _ = requisitar_pagina(url_rss, timeout=25)
+        if not xml_content or '<item>' not in xml_content:
+            continue
+            
+        try:
+            root = ET.fromstring(xml_content.encode('utf-8', errors='ignore'))
+            channel = root.find('channel')
+            if channel is None:
+                continue
+                
+            items = channel.findall('item')
+            print(f"   📦 {len(items)} itens recebidos no RSS (offset {start_offset})")
+            
+            for it in items:
+                title_tag = it.find('title')
+                link_tag = it.find('link')
+                pubdate_tag = it.find('pubDate')
+                
+                if title_tag is None or link_tag is None:
+                    continue
+                    
+                title = title_tag.text.strip()
+                link = link_tag.text.strip()
+                
+                if any(n['link'] == link for n in noticias):
+                    continue
+                    
+                pubdate_str = pubdate_tag.text.strip() if pubdate_tag is not None else ""
+                
+                try:
+                    dt = parsedate_to_datetime(pubdate_str)
+                    dt_local = dt.astimezone(fuso_brasilia)
+                    data_noticia = dt_local.date()
+                    hora = dt_local.strftime('%H:%M')
+                    data_texto = dt_local.strftime('%d/%m/%Y %H:%M')
+                except Exception:
+                    data_noticia = datetime.now(fuso_brasilia).date()
+                    hora = "12:00"
+                    data_texto = data_noticia.strftime('%d/%m/%Y')
+                    
+                if data_noticia not in datas_alvo:
+                    continue
+                    
+                desc_html = it.find('description').text or ''
+                soup_desc = BeautifulSoup(desc_html, 'html.parser')
+                
+                # Imagem: 1) do HTML interno, 2) do mapa Jina, 3) do artigo
+                img_tag = soup_desc.find('img')
+                imagem = encodificar_url(img_tag['src']) if img_tag and img_tag.get('src') else None
+                
+                if not imagem:
+                    clean_link = link.rstrip('/')
+                    if clean_link in mapa_imagens:
+                        imagem = encodificar_url(mapa_imagens[clean_link])
+                        
+                # Parágrafos formatados
+                p_tags = soup_desc.find_all('p')
+                conteudo_formatado = ""
+                if p_tags:
+                    conteudo_formatado = ''.join(str(p) for p in p_tags)
+                if not conteudo_formatado or len(conteudo_formatado) < 200:
+                    conteudo_formatado = desc_html
+                    
+                descricao_resumo = soup_desc.get_text(' ', strip=True)[:250]
+                
+                noticias.append({
+                    'titulo': title,
+                    'link': link,
+                    'descricao': descricao_resumo,
+                    'data_texto': data_texto,
+                    'imagem': imagem,
+                    'hora': hora,
+                    'data_objeto': data_noticia,
+                    'conteudo_completo': conteudo_formatado,
+                    'tem_conteudo_completo': len(conteudo_formatado) > 100
+                })
+                img_status = "🖼️" if imagem else "📷"
+                print(f"    ✅ [{hora}] {img_status} {title[:48]}...")
+        except Exception as e_parse:
+            print(f"   ⚠️ Erro ao processar XML do RSS: {e_parse}")
+
+    return noticias
+
 def criar_feed_fortaleza():
     """
     Versão otimizada para GitHub Actions - considera fuso horário
@@ -416,6 +546,7 @@ def criar_feed_fortaleza():
     # Se for entre 00:00-03:00 UTC, ainda é "ontem" no Brasil
     # Se for depois das 03:00 UTC, é "hoje" no Brasil
     utc_agora = datetime.now(timezone.utc)
+    fuso_brasilia = timezone(timedelta(hours=-3))
     hora_utc = utc_agora.hour
     
     if hora_utc < 3:  # Antes das 03:00 UTC = antes das 00:00 em Brasília
@@ -474,299 +605,309 @@ def criar_feed_fortaleza():
        
         
         # ================= 2. COLETAR NOTÍCIAS =================
-        print("\n📰 Coletando notícias...")
+        # Tentativa 1: RSS Nativo Oficial (Zero WAF, 100% resiliente em CI/CD)
+        noticias_com_conteudo = coletar_noticias_via_rss(DATAS_ALVO, fuso_brasilia, HEADERS)
         
-        noticias_hoje = []
-        pagina = 1
-        url = URL_LISTA
+        if len(noticias_com_conteudo) > 0:
+            print(f"\n🎯 Sucesso com RSS Oficial! {len(noticias_com_conteudo)} notícias obtidas.")
+            com_conteudo = sum(1 for n in noticias_com_conteudo if n.get('tem_conteudo_completo'))
+        else:
+            print("\n📰 RSS indisponível. Tentando raspagem HTML direta...")
+        # ================= 2. COLETAR NOTÍCIAS =================
+            print("\n    📰 Coletando notícias...")
         
-        while url and pagina <= 3:  # Limitar a 3 páginas para GitHub
-            print(f"📄 Página {pagina}")
+            noticias_hoje = []
+            pagina = 1
+            url = URL_LISTA
+        
+            while url and pagina <= 3:  # Limitar a 3 páginas para GitHub
+                print(f"📄 Página {pagina}")
             
-            try:
-                html_texto, status_code, url_final = requisitar_pagina(url, headers=HEADERS, timeout=(15, 30))
-                if not html_texto:
-                    raise RuntimeError(f"Falha ao obter conteúdo da página {url}")
+                try:
+                    html_texto, status_code, url_final = requisitar_pagina(url, headers=HEADERS, timeout=(15, 30))
+                    if not html_texto:
+                        raise RuntimeError(f"Falha ao obter conteúdo da página {url}")
 
-                soup = BeautifulSoup(html_texto, 'html.parser')
+                    soup = BeautifulSoup(html_texto, 'html.parser')
                 
-                print("URL acessada:", url_final)
-                print("Status HTTP:", status_code)
-                print("Título da página:", soup.title.get_text(strip=True) if soup.title else "Sem título")
-                print("HTML recebido (início):", html_texto[:1000])
+                    print("URL acessada:", url_final)
+                    print("Status HTTP:", status_code)
+                    print("Título da página:", soup.title.get_text(strip=True) if soup.title else "Sem título")
+                    print("HTML recebido (início):", html_texto[:1000])
 
-                # 1. Tentar formato do novo portal (Home: a.link-noticia ou .card-noticia)
-                containers = soup.select('a.link-noticia')
-                if not containers:
-                    containers = soup.select('.card-noticia')
-                # 2. Se não encontrou, tentar formato de listagem do K2/Joomla (/noticias: div.blog-post-item)
-                if not containers:
-                    containers = soup.find_all('div', class_='blog-post-item')
-                # 3. Fallback adicional para itens do slider
-                if not containers:
-                    containers = soup.select('#pmf-slider li article')
+                    # 1. Tentar formato do novo portal (Home: a.link-noticia ou .card-noticia)
+                    containers = soup.select('a.link-noticia')
+                    if not containers:
+                        containers = soup.select('.card-noticia')
+                    # 2. Se não encontrou, tentar formato de listagem do K2/Joomla (/noticias: div.blog-post-item)
+                    if not containers:
+                        containers = soup.find_all('div', class_='blog-post-item')
+                    # 3. Fallback adicional para itens do slider
+                    if not containers:
+                        containers = soup.select('#pmf-slider li article')
                 
-                print(f"   📦 Notícias na página: {len(containers)}")
+                    print(f"   📦 Notícias na página: {len(containers)}")
                 
-                if len(containers) == 0:
-                    print("   ⚠️  Nenhuma notícia encontrada na página")
-                    break
+                    if len(containers) == 0:
+                        print("   ⚠️  Nenhuma notícia encontrada na página")
+                        break
                 
-                encontrou_alvo = False
+                    encontrou_alvo = False
                 
-                for container in containers:
-                    try:
-                        # Extrair data
-                        data_texto = None
-                        span_data = container.select_one('.data, span.data, span.bloco-ultimas-data')
-                        if span_data:
-                            data_texto = span_data.get_text(strip=True)
-                        else:
-                            data_div = container.find('div', class_='blog-time')
-                            if data_div:
-                                span_lato = data_div.find('span', class_='font-lato') or data_div.find('span')
-                                if span_lato:
-                                    data_texto = span_lato.get_text(strip=True)
-                        
-                        if not data_texto:
-                            continue
-                            
-                        print(f"      📝 Data bruta: {data_texto}")
-                        
-                        data_noticia = parse_data(data_texto)
-                        
-                        if data_noticia:
-                            print(f"      📅 Data convertida: {data_noticia.strftime('%d/%m/%Y')}")
-                        
-                        if not data_noticia:
-                            print(f"      ⚠️  Não consegui converter data")
-                            continue
-                        
-                        # Verificar se é de hoje ou ontem
-                        if data_noticia in DATAS_ALVO:
-                            encontrou_alvo = True
-                            
-                            # Link
-                            link_url = None
-                            if container.name == 'a' and container.get('href'):
-                                link_url = urljoin(URL_BASE, container['href'])
+                    for container in containers:
+                        try:
+                            # Extrair data
+                            data_texto = None
+                            span_data = container.select_one('.data, span.data, span.bloco-ultimas-data')
+                            if span_data:
+                                data_texto = span_data.get_text(strip=True)
                             else:
-                                link_tag = (
-                                    container.find('a', class_='btn-reveal') or
-                                    container.select_one('a.btn-reveal, a.btn, a')
-                                )
-                                if link_tag and link_tag.get('href'):
-                                    link_url = urljoin(URL_BASE, link_tag['href'])
+                                data_div = container.find('div', class_='blog-time')
+                                if data_div:
+                                    span_lato = data_div.find('span', class_='font-lato') or data_div.find('span')
+                                    if span_lato:
+                                        data_texto = span_lato.get_text(strip=True)
+                        
+                            if not data_texto:
+                                continue
+                            
+                            print(f"      📝 Data bruta: {data_texto}")
+                        
+                            data_noticia = parse_data(data_texto)
+                        
+                            if data_noticia:
+                                print(f"      📅 Data convertida: {data_noticia.strftime('%d/%m/%Y')}")
+                        
+                            if not data_noticia:
+                                print(f"      ⚠️  Não consegui converter data")
+                                continue
+                        
+                            # Verificar se é de hoje ou ontem
+                            if data_noticia in DATAS_ALVO:
+                                encontrou_alvo = True
+                            
+                                # Link
+                                link_url = None
+                                if container.name == 'a' and container.get('href'):
+                                    link_url = urljoin(URL_BASE, container['href'])
+                                else:
+                                    link_tag = (
+                                        container.find('a', class_='btn-reveal') or
+                                        container.select_one('a.btn-reveal, a.btn, a')
+                                    )
+                                    if link_tag and link_tag.get('href'):
+                                        link_url = urljoin(URL_BASE, link_tag['href'])
                                     
-                            if not link_url:
-                                continue
+                                if not link_url:
+                                    continue
                                 
-                            # Evitar duplicados na listagem
-                            if any(n['link'] == link_url for n in noticias_hoje):
-                                continue
+                                # Evitar duplicados na listagem
+                                if any(n['link'] == link_url for n in noticias_hoje):
+                                    continue
                             
-                            # Título
-                            titulo = ""
-                            titulo_tag = (
-                                container.select_one('.titulo, h3.titulo, .bloco-ultimas-noticia-titulo, h2, h3') or
-                                container.find('h3', class_='titulo') or
-                                container.find('h2')
-                            )
-                            if titulo_tag:
-                                titulo = titulo_tag.get_text(strip=True)
+                                # Título
+                                titulo = ""
+                                titulo_tag = (
+                                    container.select_one('.titulo, h3.titulo, .bloco-ultimas-noticia-titulo, h2, h3') or
+                                    container.find('h3', class_='titulo') or
+                                    container.find('h2')
+                                )
+                                if titulo_tag:
+                                    titulo = titulo_tag.get_text(strip=True)
                             
-                            if not titulo:
-                                continue
+                                if not titulo:
+                                    continue
                             
-                            # Descrição (resumo da página principal)
-                            descricao = ""
-                            desc_tag = (
-                                container.select_one('.subtitulo, p.subtitulo, .bloco-ultimas-subtitulo') or
-                                container.find('p', class_='subtitulo')
-                            )
-                            if desc_tag:
-                                descricao = desc_tag.get_text(strip=True)[:200]
-                            else:
-                                intro_div = container.find('div', class_='intro')
-                                if intro_div:
-                                    for string in intro_div.stripped_strings:
-                                        if string and string != titulo and len(string) > 30:
-                                            descricao = string[:200]
-                                            break
+                                # Descrição (resumo da página principal)
+                                descricao = ""
+                                desc_tag = (
+                                    container.select_one('.subtitulo, p.subtitulo, .bloco-ultimas-subtitulo') or
+                                    container.find('p', class_='subtitulo')
+                                )
+                                if desc_tag:
+                                    descricao = desc_tag.get_text(strip=True)[:200]
+                                else:
+                                    intro_div = container.find('div', class_='intro')
+                                    if intro_div:
+                                        for string in intro_div.stripped_strings:
+                                            if string and string != titulo and len(string) > 30:
+                                                descricao = string[:200]
+                                                break
                             
-                            # Hora
-                            hora = "00:00"
-                            hora_match = re.search(r'(\d{1,2}:\d{2})', data_texto)
-                            if hora_match:
-                                hora = hora_match.group(1)
+                                # Hora
+                                hora = "00:00"
+                                hora_match = re.search(r'(\d{1,2}:\d{2})', data_texto)
+                                if hora_match:
+                                    hora = hora_match.group(1)
                             
-                            # Imagem da página principal (miniatura)
-                            imagem_miniatura = None
-                            img_container = (
-                                container.select_one('.imagem') or
-                                container.find('figure', class_='blog-item-small-image') or
-                                container.find('div', class_='blog-item-small-image') or
-                                container.find('div', class_='imagem') or
-                                container.find('figure')
-                            )
-                            img_tag = None
-                            if img_container:
-                                img_tag = img_container.find('img')
-                            if not img_tag:
-                                img_tag = container.find('img')
+                                # Imagem da página principal (miniatura)
+                                imagem_miniatura = None
+                                img_container = (
+                                    container.select_one('.imagem') or
+                                    container.find('figure', class_='blog-item-small-image') or
+                                    container.find('div', class_='blog-item-small-image') or
+                                    container.find('div', class_='imagem') or
+                                    container.find('figure')
+                                )
+                                img_tag = None
+                                if img_container:
+                                    img_tag = img_container.find('img')
+                                if not img_tag:
+                                    img_tag = container.find('img')
                                 
-                            if img_tag:
-                                src = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
-                                if src and not src.startswith('data:'):
-                                    src = src.strip().replace('\n', '').replace('\r', '')
-                                    if not src.startswith(('http://', 'https://')):
-                                        if src.startswith('//'):
-                                            imagem_miniatura = 'https:' + src
-                                        elif src.startswith('/'):
-                                            imagem_miniatura = URL_BASE + src
+                                if img_tag:
+                                    src = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
+                                    if src and not src.startswith('data:'):
+                                        src = src.strip().replace('\n    ', '').replace('\r', '')
+                                        if not src.startswith(('http://', 'https://')):
+                                            if src.startswith('//'):
+                                                imagem_miniatura = 'https:' + src
+                                            elif src.startswith('/'):
+                                                imagem_miniatura = URL_BASE + src
+                                            else:
+                                                imagem_miniatura = urljoin(URL_BASE, src)
                                         else:
-                                            imagem_miniatura = urljoin(URL_BASE, src)
-                                    else:
-                                        imagem_miniatura = src
-                                    imagem_miniatura = encodificar_url(imagem_miniatura)
+                                            imagem_miniatura = src
+                                        imagem_miniatura = encodificar_url(imagem_miniatura)
                             
-                            noticias_hoje.append({
-                                'titulo': titulo,
-                                'link': link_url,
-                                'descricao': descricao,  # Resumo da página principal
-                                'data_texto': data_texto,
-                                'imagem_miniatura': imagem_miniatura,
-                                'hora': hora,
-                                'data_objeto': data_noticia,
-                                'conteudo_completo': None,  # Será preenchido depois
-                                'imagem_destacada': None   # Será preenchido depois
-                            })
+                                noticias_hoje.append({
+                                    'titulo': titulo,
+                                    'link': link_url,
+                                    'descricao': descricao,  # Resumo da página principal
+                                    'data_texto': data_texto,
+                                    'imagem_miniatura': imagem_miniatura,
+                                    'hora': hora,
+                                    'data_objeto': data_noticia,
+                                    'conteudo_completo': None,  # Será preenchido depois
+                                    'imagem_destacada': None   # Será preenchido depois
+                                })
                             
-                            print(f"    ✅ [{hora}] {titulo[:50]}...")
+                                print(f"    ✅ [{hora}] {titulo[:50]}...")
                         
-                        else:
-                            diferenca = (HOJE - data_noticia).days
-                            if diferenca <= 3:
-                                print(f"    ⏰ {data_noticia.strftime('%d/%m')} ({diferenca} dia(s) atrás)")
+                            else:
+                                diferenca = (HOJE - data_noticia).days
+                                if diferenca <= 3:
+                                    print(f"    ⏰ {data_noticia.strftime('%d/%m')} ({diferenca} dia(s) atrás)")
                     
-                    except Exception as e:
-                        print(f"    ⚠️  Erro: {str(e)[:30]}")
-                        continue
+                        except Exception as e:
+                            print(f"    ⚠️  Erro: {str(e)[:30]}")
+                            continue
                 
-                print(f"   📊 Notícias recentes nesta página: {len(noticias_hoje)}")
+                    print(f"   📊 Notícias recentes nesta página: {len(noticias_hoje)}")
                 
-                # Se não encontrou notícias recentes E já viu algumas páginas, parar
-                if not encontrou_alvo and pagina >= 2:
-                    print("   ⏹️  Nenhuma notícia recente, parando busca")
-                    break
+                    # Se não encontrou notícias recentes E já viu algumas páginas, parar
+                    if not encontrou_alvo and pagina >= 2:
+                        print("   ⏹️  Nenhuma notícia recente, parando busca")
+                        break
                 
-                # Próxima página
-                proxima = None
+                    # Próxima página
+                    proxima = None
                 
-                # 1. Se estiver na Home, avançar para /noticias
-                btn_mais = soup.select_one('a.btn-mais-noticias, .botao-mais-noticias a')
-                if btn_mais and btn_mais.get('href'):
-                    candidata = urljoin(URL_BASE, btn_mais['href'])
-                    if candidata != url and candidata not in [URL_BASE, URL_BASE + "/"]:
-                        proxima = candidata
+                    # 1. Se estiver na Home, avançar para /noticias
+                    btn_mais = soup.select_one('a.btn-mais-noticias, .botao-mais-noticias a')
+                    if btn_mais and btn_mais.get('href'):
+                        candidata = urljoin(URL_BASE, btn_mais['href'])
+                        if candidata != url and candidata not in [URL_BASE, URL_BASE + "/"]:
+                            proxima = candidata
                 
-                # 2. Paginação tradicional do Joomla/K2 (ex.: /noticias?start=5)
-                if not proxima:
-                    paginador = (
-                        soup.find('div', class_='news-pagination') or
-                        soup.find('ul', class_='pagination') or
-                        soup.find('div', class_='pagination')
-                    )
-                    if paginador:
-                        link_proximo = (
-                            paginador.find('li', class_='pagination-next') or
-                            paginador.select_one('li.pagination-next a, .pagination-next a, a[data-original-title="Próximo"], a[title="Próximo"], a[rel="next"]')
+                    # 2. Paginação tradicional do Joomla/K2 (ex.: /noticias?start=5)
+                    if not proxima:
+                        paginador = (
+                            soup.find('div', class_='news-pagination') or
+                            soup.find('ul', class_='pagination') or
+                            soup.find('div', class_='pagination')
                         )
-                        if link_proximo:
-                            a_prox = link_proximo.find('a') if link_proximo.name != 'a' else link_proximo
-                            if a_prox and a_prox.get('href'):
-                                proxima = urljoin(URL_BASE, a_prox['href'])
-                                print(f"   🔗 Próxima página encontrada: {proxima}")
+                        if paginador:
+                            link_proximo = (
+                                paginador.find('li', class_='pagination-next') or
+                                paginador.select_one('li.pagination-next a, .pagination-next a, a[data-original-title="Próximo"], a[title="Próximo"], a[rel="next"]')
+                            )
+                            if link_proximo:
+                                a_prox = link_proximo.find('a') if link_proximo.name != 'a' else link_proximo
+                                if a_prox and a_prox.get('href'):
+                                    proxima = urljoin(URL_BASE, a_prox['href'])
+                                    print(f"   🔗 Próxima página encontrada: {proxima}")
                 
-                if not proxima:
+                    if not proxima:
+                        break
+                
+                    pagina += 1
+                    url = proxima
+                    time.sleep(1)  # Respeitar o servidor
+                
+                except Exception as e:
+                    print(f"   ❌ Erro na página {pagina}: {e}")
+
+                    if pagina == 1:
+                        raise RuntimeError(
+                            "Não foi possível acessar a primeira página de notícias. "
+                            "O feed não será gerado como se não houvesse notícias."
+                        ) from e
+
+                    print("   ⚠️ Falha em página seguinte. Mantendo as notícias já coletadas.")
                     break
-                
-                pagina += 1
-                url = proxima
-                time.sleep(1)  # Respeitar o servidor
-                
-            except Exception as e:
-                print(f"   ❌ Erro na página {pagina}: {e}")
-
-                if pagina == 1:
-                    raise RuntimeError(
-                        "Não foi possível acessar a primeira página de notícias. "
-                        "O feed não será gerado como se não houvesse notícias."
-                    ) from e
-
-                print("   ⚠️ Falha em página seguinte. Mantendo as notícias já coletadas.")
-                break
         
-        print("-" * 60)
-        print(f"📈 Busca concluída: {pagina} página(s)")
-        print(f"🎯 Notícias recentes (hoje/ontem) encontradas: {len(noticias_hoje)}")
+            print("-" * 60)
+            print(f"📈 Busca concluída: {pagina} página(s)")
+            print(f"🎯 Notícias recentes (hoje/ontem) encontradas: {len(noticias_hoje)}")
         
-        # ================= 3. EXTRAIR CONTEÚDO COMPLETO =================
-        print(f"\n📥 Extraindo conteúdo completo das notícias...")
-        print("-" * 60)
+            # ================= 3. EXTRAIR CONTEÚDO COMPLETO =================
+            print(f"\n    📥 Extraindo conteúdo completo das notícias...")
+            print("-" * 60)
         
-        noticias_com_conteudo = []
+            noticias_com_conteudo = []
         
-        for i, noticia in enumerate(noticias_hoje, 1):
-            print(f"\n📰 Notícia {i}/{len(noticias_hoje)}: {noticia['titulo'][:60]}...")
+            for i, noticia in enumerate(noticias_hoje, 1):
+                print(f"\n    📰 Notícia {i}/{len(noticias_hoje)}: {noticia['titulo'][:60]}...")
             
-            # Aguardar entre requisições para não sobrecarregar o servidor
-            if i > 1:
-                time.sleep(2)  # 2 segundos entre requisições
+                # Aguardar entre requisições para não sobrecarregar o servidor
+                if i > 1:
+                    time.sleep(2)  # 2 segundos entre requisições
             
-            # Acessar a página individual da notícia passando a miniatura
-            conteudo_extraido = extrair_conteudo_completo(noticia['link'], HEADERS, noticia['imagem_miniatura'])
+                # Acessar a página individual da notícia passando a miniatura
+                conteudo_extraido = extrair_conteudo_completo(noticia['link'], HEADERS, noticia['imagem_miniatura'])
             
-            if conteudo_extraido:
-                # Usar título refinado se disponível
-                titulo_final = conteudo_extraido['titulo_refinado'] if conteudo_extraido['titulo_refinado'] else noticia['titulo']
+                if conteudo_extraido:
+                    # Usar título refinado se disponível
+                    titulo_final = conteudo_extraido['titulo_refinado'] if conteudo_extraido['titulo_refinado'] else noticia['titulo']
                 
-                # Usar imagem destacada se disponível, senão usar miniatura
-                imagem_final = conteudo_extraido['imagem_destacada'] if conteudo_extraido['imagem_destacada'] else noticia['imagem_miniatura']
+                    # Usar imagem destacada se disponível, senão usar miniatura
+                    imagem_final = conteudo_extraido['imagem_destacada'] if conteudo_extraido['imagem_destacada'] else noticia['imagem_miniatura']
                 
-                noticias_com_conteudo.append({
-                    'titulo': titulo_final,
-                    'link': noticia['link'],
-                    'descricao': noticia['descricao'],  # Manter descrição original como fallback
-                    'data_texto': noticia['data_texto'],
-                    'imagem': imagem_final,
-                    'hora': noticia['hora'],
-                    'conteudo_completo': conteudo_extraido['conteudo'],
-                    'tem_conteudo_completo': True
-                })
+                    noticias_com_conteudo.append({
+                        'titulo': titulo_final,
+                        'link': noticia['link'],
+                        'descricao': noticia['descricao'],  # Manter descrição original como fallback
+                        'data_texto': noticia['data_texto'],
+                        'imagem': imagem_final,
+                        'hora': noticia['hora'],
+                        'conteudo_completo': conteudo_extraido['conteudo'],
+                        'tem_conteudo_completo': True
+                    })
                 
-                print(f"    ✅ Conteúdo completo extraído!")
-            else:
-                print(f"    ⚠️  Usando resumo (não consegui extrair conteúdo completo)")
+                    print(f"    ✅ Conteúdo completo extraído!")
+                else:
+                    print(f"    ⚠️  Usando resumo (não consegui extrair conteúdo completo)")
                 
-                # Se não conseguiu extrair conteúdo, usar o resumo
-                noticias_com_conteudo.append({
-                    'titulo': noticia['titulo'],
-                    'link': noticia['link'],
-                    'descricao': noticia['descricao'],
-                    'data_texto': noticia['data_texto'],
-                    'imagem': noticia['imagem_miniatura'],
-                    'hora': noticia['hora'],
-                    'conteudo_completo': None,
-                    'tem_conteudo_completo': False
-                })
+                    # Se não conseguiu extrair conteúdo, usar o resumo
+                    noticias_com_conteudo.append({
+                        'titulo': noticia['titulo'],
+                        'link': noticia['link'],
+                        'descricao': noticia['descricao'],
+                        'data_texto': noticia['data_texto'],
+                        'imagem': noticia['imagem_miniatura'],
+                        'hora': noticia['hora'],
+                        'conteudo_completo': None,
+                        'tem_conteudo_completo': False
+                    })
         
-        # Contar quantas notícias têm conteúdo completo
-        com_conteudo = sum(1 for n in noticias_com_conteudo if n.get('tem_conteudo_completo'))
-        print(f"\n📊 Estatísticas:")
-        print(f"   Total de notícias: {len(noticias_com_conteudo)}")
-        print(f"   Com conteúdo completo: {com_conteudo}")
-        print(f"   Apenas resumo: {len(noticias_com_conteudo) - com_conteudo}")
+            # Contar quantas notícias têm conteúdo completo
+            com_conteudo = sum(1 for n in noticias_com_conteudo if n.get('tem_conteudo_completo'))
+            print(f"\n    📊 Estatísticas:")
+            print(f"   Total de notícias: {len(noticias_com_conteudo)}")
+            print(f"   Com conteúdo completo: {com_conteudo}")
+            print(f"   Apenas resumo: {len(noticias_com_conteudo) - com_conteudo}")
+        
         
         # ================= 4. VERIFICAR RESULTADO =================
         if len(noticias_com_conteudo) == 0:
