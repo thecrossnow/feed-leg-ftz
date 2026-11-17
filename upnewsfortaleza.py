@@ -9,7 +9,7 @@ from datetime import datetime, timezone, timedelta, date
 import html
 import hashlib
 import time
-from urllib.parse import urljoin, urlparse, quote, unquote, urlunparse
+from urllib.parse import urljoin, urlparse, quote, unquote, urlunparse, urlsplit, urlunsplit
 import re
 import os
 import sys
@@ -64,20 +64,23 @@ def encodificar_url(url):
     try:
         if url.startswith('data:'):
             return url
-        # Decodifica a URL para normalizar
-        url_decodificada = unquote(url)
+        url_decodificada = unquote(url).strip().replace('\r', '').replace('\n', '')
+        if not url_decodificada.startswith(('http://', 'https://')):
+            if url_decodificada.startswith('//'):
+                url_decodificada = 'https:' + url_decodificada
+            elif url_decodificada.startswith('/'):
+                url_decodificada = 'https://www.fortaleza.ce.gov.br' + url_decodificada
+            else:
+                url_decodificada = 'https://www.fortaleza.ce.gov.br/' + url_decodificada
         
-        # Se for uma imagem do portal de Fortaleza, passa pelo CDN gratuito do WordPress (Jetpack)
-        # Isso contorna o bloqueio de User-Agent/IP/Referer do servidor da prefeitura
-        if 'fortaleza.ce.gov.br' in url_decodificada and any(ext in url_decodificada.lower() for ext in ['.jpg', '.jpeg', '.png', '.gif']):
-            url_clean = url_decodificada
-            if url_clean.startswith('https://'):
-                url_clean = url_clean[8:]
-            elif url_clean.startswith('http://'):
-                url_clean = url_clean[7:]
-            return f"https://i0.wp.com:443/{url_clean}"
-            
-        return url_decodificada
+        parts = urlsplit(url_decodificada)
+        scheme = parts.scheme or 'https'
+        netloc = parts.netloc or 'www.fortaleza.ce.gov.br'
+        if ':443' in netloc:
+            netloc = netloc.replace(':443', '')
+        # Codifica o caminho para tratar espaços (%20) e caracteres especiais/acentos perfeitamente
+        path_encoded = quote(parts.path, safe='/')
+        return urlunsplit((scheme, netloc, path_encoded, parts.query, parts.fragment))
     except:
         return url
 
@@ -1028,32 +1031,38 @@ def criar_feed_fortaleza():
             xml_parts.append(f'<pubDate>{pub_date}</pubDate>')
             xml_parts.append(f'<description>{html.escape(noticia["titulo"])} - {noticia["data_texto"]}</description>')
             
-            # CONTEÚDO COMPLETO OU RESUMO
+            # CONTEÚDO COMPLETO OU RESUMO COM IMAGEM DESTACADA
+            img_destacada_html = ""
+            if noticia.get('imagem'):
+                img_destacada_html = f'<p><img src="{noticia["imagem"]}" alt="{html.escape(noticia["titulo"][:100])}" class="web-featured-image" style="max-width:100%; height:auto;" /></p>'
+
             if noticia.get('conteudo_completo'):
-                # Usar conteúdo completo extraído
-                conteudo = noticia['conteudo_completo']
+                corpo = noticia['conteudo_completo']
+                # Garante que a imagem destacada esteja no topo do conteúdo (padrão WP Automatic)
+                if noticia.get('imagem') and noticia['imagem'] not in corpo:
+                    conteudo = f"{img_destacada_html}\n{corpo}"
+                else:
+                    conteudo = corpo
                 xml_parts.append(f'<content:encoded><![CDATA[ {conteudo} ]]></content:encoded>')
             else:
                 # Usar resumo (fallback)
                 conteudo = f'<h3>{html.escape(noticia["titulo"])}</h3>'
                 conteudo += f'<p><strong>Publicado:</strong> {noticia["data_texto"]}</p>'
-                
-                if noticia.get('imagem'):
-                    conteudo += f'<p><img src="{noticia["imagem"]}" alt="{html.escape(noticia["titulo"][:100])}" style="max-width:100%"></p>'
-                
+                if img_destacada_html:
+                    conteudo += f'{img_destacada_html}'
                 if noticia.get('descricao'):
                     conteudo += f'<p>{html.escape(noticia["descricao"])}</p>'
-                
                 conteudo += f'<p><a href="{noticia["link"]}" target="_blank">🔗 Ver notícia completa no site</a></p>'
-                
                 xml_parts.append(f'<content:encoded><![CDATA[ {conteudo} ]]></content:encoded>')
             
-            # Imagem (para WordPress)
+            # Tags de Imagem Completas para WordPress e WP Automatic
             if noticia.get('imagem'):
-                xml_parts.append(f'<enclosure url="{noticia["imagem"]}" type="image/jpeg" />')
-                xml_parts.append(f'<media:content url="{noticia["imagem"]}" type="image/jpeg" medium="image">')
+                img_mime = 'image/png' if noticia['imagem'].lower().endswith('.png') else 'image/jpeg'
+                xml_parts.append(f'<enclosure url="{noticia["imagem"]}" length="50000" type="{img_mime}" />')
+                xml_parts.append(f'<media:content url="{noticia["imagem"]}" type="{img_mime}" medium="image">')
                 xml_parts.append(f'<media:title>{html.escape(noticia["titulo"][:100])}</media:title>')
                 xml_parts.append('</media:content>')
+                xml_parts.append(f'<media:thumbnail url="{noticia["imagem"]}" />')
             
             xml_parts.append('</item>')
         
