@@ -13,6 +13,8 @@ from urllib.parse import urljoin, urlparse, quote, unquote, urlunparse
 import re
 import os
 import sys
+import subprocess
+import shutil
 if hasattr(sys.stdout, 'reconfigure'):
     try:
         sys.stdout.reconfigure(encoding='utf-8')
@@ -43,6 +45,15 @@ def criar_sessao():
 
 
 SESSAO = criar_sessao()
+CURL_BIN = shutil.which('curl') or shutil.which('curl.exe') or 'curl'
+
+HEADERS_PADRAO = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
+    'Connection': 'keep-alive'
+}
+
 
 
 def encodificar_url(url):
@@ -68,6 +79,47 @@ def encodificar_url(url):
     except:
         return url
 
+
+def requisitar_pagina(url, headers=None, timeout=30):
+    """
+    Obtém o HTML da página utilizando curl nativo como motor primário
+    (imune a descarte de socket e RemoteDisconnected no GitHub Actions).
+    Caso curl falhe, utiliza fallback via requests com Connection: close.
+    Retorna (html_texto, status_code, url_final).
+    """
+    # 1. Tentar com curl nativo (mais confiável em ambientes CI/CD e Linux)
+    try:
+        cmd = [
+            CURL_BIN,
+            '-s',
+            '-L',
+            '--max-time', str(timeout),
+            '-A', 'curl/8.13.0',
+            '-H', 'Accept: */*',
+            url
+        ]
+        res = subprocess.run(cmd, capture_output=True, text=True, encoding='utf-8', errors='ignore')
+        if res.returncode == 0 and len(res.stdout) > 5000 and ('bobcmn' not in res.stdout and 'DOSL7' not in res.stdout):
+            return res.stdout, 200, url
+        print("    ⚠️ Curl retornou página incompleta ou desafio WAF. Tentando fallback requests...")
+    except Exception as e_curl:
+        print(f"    ⚠️ Curl nativo falhou ({e_curl}). Tentando fallback requests...")
+
+    # 2. Fallback via requests com Connection: close (força novo socket limpo)
+    try:
+        hdrs = {
+            'User-Agent': 'curl/8.13.0',
+            'Accept': '*/*',
+            'Connection': 'close'
+        }
+        resp = requests.get(url, headers=hdrs, timeout=(15, 30))
+        if resp.status_code == 200 and len(resp.text) > 5000:
+            return resp.text, resp.status_code, resp.url
+    except Exception as e_req:
+        print(f"    ❌ Fallback requests falhou: {e_req}")
+
+    return None, 0, url
+
 def extrair_conteudo_completo(url_noticia, headers, imagem_miniatura=None):
     """
     Acessa a URL individual da notícia e extrai:
@@ -78,18 +130,16 @@ def extrair_conteudo_completo(url_noticia, headers, imagem_miniatura=None):
     try:
         print(f"    🌐 Acessando: {url_noticia[:70]}...")
 
-        response = SESSAO.get(
-            url_noticia,
-            headers=headers,
-            timeout=(15, 30)
-        )
-        response.raise_for_status()
+        html_texto, status_code, url_final = requisitar_pagina(url_noticia, headers=headers, timeout=(15, 30))
+        if not html_texto:
+            print("    ❌ Não foi possível carregar a notícia")
+            return None
 
-        soup = BeautifulSoup(response.content, 'html.parser')
-        print("URL acessada:", response.url)
-        print("Status HTTP:", response.status_code)
+        soup = BeautifulSoup(html_texto, 'html.parser')
+        print("URL acessada:", url_final)
+        print("Status HTTP:", status_code)
         print("Título da página:", soup.title.get_text(strip=True) if soup.title else "Sem título")
-        print("HTML recebido (início):", response.text[:500])
+        print("HTML recebido (início):", html_texto[:500])
         
         # 1. TENTAR ENCONTRAR O CONTEÚDO PRINCIPAL
         conteudo_completo = ""
@@ -384,12 +434,7 @@ def criar_feed_fortaleza():
     print(f"⏰ UTC atual: {utc_agora.strftime('%H:%M')}")
     print("-" * 60)
     
-    HEADERS = {
-        'User-Agent': 'facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Connection': 'keep-alive'
-    }
+    HEADERS = HEADERS_PADRAO
     
     MESES = {
         'janeiro': 1, 'fevereiro': 2, 'março': 3, 'abril': 4,
@@ -439,20 +484,16 @@ def criar_feed_fortaleza():
             print(f"📄 Página {pagina}")
             
             try:
-                response = SESSAO.get(
-                    url,
-                    headers=HEADERS,
-                    timeout=(15, 30)
-                )
-                response.raise_for_status()
-                response.encoding = 'utf-8'
+                html_texto, status_code, url_final = requisitar_pagina(url, headers=HEADERS, timeout=(15, 30))
+                if not html_texto:
+                    raise RuntimeError(f"Falha ao obter conteúdo da página {url}")
 
-                soup = BeautifulSoup(response.content, 'html.parser')
+                soup = BeautifulSoup(html_texto, 'html.parser')
                 
-                print("URL acessada:", response.url)
-                print("Status HTTP:", response.status_code)
+                print("URL acessada:", url_final)
+                print("Status HTTP:", status_code)
                 print("Título da página:", soup.title.get_text(strip=True) if soup.title else "Sem título")
-                print("HTML recebido (início):", response.text[:1000])
+                print("HTML recebido (início):", html_texto[:1000])
 
                 # 1. Tentar formato do novo portal (Home: a.link-noticia ou .card-noticia)
                 containers = soup.select('a.link-noticia')
