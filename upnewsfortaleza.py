@@ -3,6 +3,8 @@
 
 import requests
 from bs4 import BeautifulSoup
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from datetime import datetime, timezone, timedelta, date
 import html
 import hashlib
@@ -11,6 +13,37 @@ from urllib.parse import urljoin, urlparse, quote, unquote, urlunparse
 import re
 import os
 import sys
+if hasattr(sys.stdout, 'reconfigure'):
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+        sys.stderr.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
+
+def criar_sessao():
+    sessao = requests.Session()
+
+    tentativas = Retry(
+        total=5,
+        connect=5,
+        read=5,
+        status=5,
+        backoff_factor=2,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=frozenset(["GET"]),
+        raise_on_status=False
+    )
+
+    adaptador = HTTPAdapter(max_retries=tentativas)
+
+    sessao.mount("https://", adaptador)
+    sessao.mount("http://", adaptador)
+
+    return sessao
+
+
+SESSAO = criar_sessao()
+
 
 def encodificar_url(url):
     if not url:
@@ -44,11 +77,19 @@ def extrair_conteudo_completo(url_noticia, headers, imagem_miniatura=None):
     """
     try:
         print(f"    🌐 Acessando: {url_noticia[:70]}...")
-        
-        response = requests.get(url_noticia, headers=headers, timeout=20)
+
+        response = SESSAO.get(
+            url_noticia,
+            headers=headers,
+            timeout=(15, 30)
+        )
         response.raise_for_status()
-        
+
         soup = BeautifulSoup(response.content, 'html.parser')
+        print("URL acessada:", response.url)
+        print("Status HTTP:", response.status_code)
+        print("Título da página:", soup.title.get_text(strip=True) if soup.title else "Sem título")
+        print("HTML recebido (início):", response.text[:500])
         
         # 1. TENTAR ENCONTRAR O CONTEÚDO PRINCIPAL
         conteudo_completo = ""
@@ -62,6 +103,9 @@ def extrair_conteudo_completo(url_noticia, headers, imagem_miniatura=None):
             'div.entry-content',
             'div.conteudo-noticia',
             'div.texto-noticia',
+            'div.noticia-conteudo',
+            'div.conteudo',
+            'section#all-news',
             'section.single-article',
             'div.com-content-article__body',
             'article',
@@ -315,7 +359,7 @@ def criar_feed_fortaleza():
     
     # ================= CONFIGURAÇÃO PARA GITHUB =================
     URL_BASE = "https://www.fortaleza.ce.gov.br"
-    URL_LISTA = f"{URL_BASE}/noticias"
+    URL_LISTA = URL_BASE  # Inicia pela Home (contém as Últimas Notícias do novo portal) e avança para /noticias
     FEED_FILE = "feed_fortaleza_hoje.xml"
     
     # IMPORTANTE: GitHub roda em UTC, Brasil é UTC-3
@@ -341,8 +385,10 @@ def criar_feed_fortaleza():
     print("-" * 60)
     
     HEADERS = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-        'Accept-Language': 'pt-BR,pt;q=0.9'
+        'User-Agent': 'curl/8.13.0',
+        'Accept': '*/*',
+        'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
+        'Connection': 'keep-alive'
     }
     
     MESES = {
@@ -355,15 +401,23 @@ def criar_feed_fortaleza():
         """Converte data em português para objeto date"""
         try:
             data_str = data_str.lower()
-            
-            # Encontrar mês
+
+            # 1. Suporte a formato numérico DD/MM/YYYY
+            num_match = re.search(r'(\d{1,2})[/.-](\d{1,2})[/.-](\d{4})', data_str)
+            if num_match:
+                dia = int(num_match.group(1))
+                mes = int(num_match.group(2))
+                ano = int(num_match.group(3))
+                return date(ano, mes, dia)
+
+            # 2. Formato textual por extenso (ex: "Terça, 17 Novembro 2026 13:15")
             for mes_pt, mes_num in MESES.items():
                 if mes_pt in data_str:
-                    # Encontrar dia
-                    dia_match = re.search(r'(\d{1,2})', data_str)
+                    dia_match = re.search(r'(\d{1,2})\s+(?:de\s+)?' + mes_pt, data_str)
+                    if not dia_match:
+                        dia_match = re.search(r'(\d{1,2})', data_str)
                     if dia_match:
                         dia = int(dia_match.group(1))
-                        # Encontrar ano
                         ano_match = re.search(r'(\d{4})', data_str)
                         ano = int(ano_match.group(1)) if ano_match else HOJE.year
                         return date(ano, mes_num, dia)
@@ -372,13 +426,7 @@ def criar_feed_fortaleza():
         return None
     
     try:
-        # ================= 1. TESTAR CONEXÃO =================
-        print("🔍 Testando conexão com o site...")
-        test_response = requests.get(URL_BASE, headers=HEADERS, timeout=10)
-        if test_response.status_code == 200:
-            print("✅ Conexão OK")
-        else:
-            print(f"⚠️  Status: {test_response.status_code}")
+       
         
         # ================= 2. COLETAR NOTÍCIAS =================
         print("\n📰 Coletando notícias...")
@@ -391,11 +439,32 @@ def criar_feed_fortaleza():
             print(f"📄 Página {pagina}")
             
             try:
-                response = requests.get(url, headers=HEADERS, timeout=15)
+                response = SESSAO.get(
+                    url,
+                    headers=HEADERS,
+                    timeout=(15, 30)
+                )
+                response.raise_for_status()
                 response.encoding = 'utf-8'
+
                 soup = BeautifulSoup(response.content, 'html.parser')
                 
-                containers = soup.find_all('div', class_='blog-post-item')
+                print("URL acessada:", response.url)
+                print("Status HTTP:", response.status_code)
+                print("Título da página:", soup.title.get_text(strip=True) if soup.title else "Sem título")
+                print("HTML recebido (início):", response.text[:1000])
+
+                # 1. Tentar formato do novo portal (Home: a.link-noticia ou .card-noticia)
+                containers = soup.select('a.link-noticia')
+                if not containers:
+                    containers = soup.select('.card-noticia')
+                # 2. Se não encontrou, tentar formato de listagem do K2/Joomla (/noticias: div.blog-post-item)
+                if not containers:
+                    containers = soup.find_all('div', class_='blog-post-item')
+                # 3. Fallback adicional para itens do slider
+                if not containers:
+                    containers = soup.select('#pmf-slider li article')
+                
                 print(f"   📦 Notícias na página: {len(containers)}")
                 
                 if len(containers) == 0:
@@ -407,15 +476,20 @@ def criar_feed_fortaleza():
                 for container in containers:
                     try:
                         # Extrair data
-                        data_div = container.find('div', class_='blog-time')
-                        if not data_div:
+                        data_texto = None
+                        span_data = container.select_one('.data, span.data, span.bloco-ultimas-data')
+                        if span_data:
+                            data_texto = span_data.get_text(strip=True)
+                        else:
+                            data_div = container.find('div', class_='blog-time')
+                            if data_div:
+                                span_lato = data_div.find('span', class_='font-lato') or data_div.find('span')
+                                if span_lato:
+                                    data_texto = span_lato.get_text(strip=True)
+                        
+                        if not data_texto:
                             continue
                             
-                        span_data = data_div.find('span', class_='font-lato')
-                        if not span_data:
-                            continue
-                            
-                        data_texto = span_data.get_text(strip=True)
                         print(f"      📝 Data bruta: {data_texto}")
                         
                         data_noticia = parse_data(data_texto)
@@ -432,30 +506,52 @@ def criar_feed_fortaleza():
                             encontrou_alvo = True
                             
                             # Link
-                            link_tag = container.find('a', class_='btn-reveal')
-                            if not link_tag or not link_tag.get('href'):
+                            link_url = None
+                            if container.name == 'a' and container.get('href'):
+                                link_url = urljoin(URL_BASE, container['href'])
+                            else:
+                                link_tag = (
+                                    container.find('a', class_='btn-reveal') or
+                                    container.select_one('a.btn-reveal, a.btn, a')
+                                )
+                                if link_tag and link_tag.get('href'):
+                                    link_url = urljoin(URL_BASE, link_tag['href'])
+                                    
+                            if not link_url:
                                 continue
                                 
-                            link_url = urljoin(URL_BASE, link_tag['href'])
+                            # Evitar duplicados na listagem
+                            if any(n['link'] == link_url for n in noticias_hoje):
+                                continue
                             
                             # Título
                             titulo = ""
-                            intro_div = container.find('div', class_='intro')
-                            if intro_div:
-                                h2_tag = intro_div.find('h2')
-                                if h2_tag:
-                                    titulo = h2_tag.get_text(strip=True)
+                            titulo_tag = (
+                                container.select_one('.titulo, h3.titulo, .bloco-ultimas-noticia-titulo, h2, h3') or
+                                container.find('h3', class_='titulo') or
+                                container.find('h2')
+                            )
+                            if titulo_tag:
+                                titulo = titulo_tag.get_text(strip=True)
                             
                             if not titulo:
                                 continue
                             
                             # Descrição (resumo da página principal)
                             descricao = ""
-                            if intro_div:
-                                for string in intro_div.stripped_strings:
-                                    if string and string != titulo and len(string) > 30:
-                                        descricao = string[:200]
-                                        break
+                            desc_tag = (
+                                container.select_one('.subtitulo, p.subtitulo, .bloco-ultimas-subtitulo') or
+                                container.find('p', class_='subtitulo')
+                            )
+                            if desc_tag:
+                                descricao = desc_tag.get_text(strip=True)[:200]
+                            else:
+                                intro_div = container.find('div', class_='intro')
+                                if intro_div:
+                                    for string in intro_div.stripped_strings:
+                                        if string and string != titulo and len(string) > 30:
+                                            descricao = string[:200]
+                                            break
                             
                             # Hora
                             hora = "00:00"
@@ -466,6 +562,7 @@ def criar_feed_fortaleza():
                             # Imagem da página principal (miniatura)
                             imagem_miniatura = None
                             img_container = (
+                                container.select_one('.imagem') or
                                 container.find('figure', class_='blog-item-small-image') or
                                 container.find('div', class_='blog-item-small-image') or
                                 container.find('div', class_='imagem') or
@@ -478,7 +575,7 @@ def criar_feed_fortaleza():
                                 img_tag = container.find('img')
                                 
                             if img_tag:
-                                src = img_tag.get('src') or img_tag.get('data-src')
+                                src = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
                                 if src and not src.startswith('data:'):
                                     src = src.strip().replace('\n', '').replace('\r', '')
                                     if not src.startswith(('http://', 'https://')):
@@ -515,7 +612,7 @@ def criar_feed_fortaleza():
                         print(f"    ⚠️  Erro: {str(e)[:30]}")
                         continue
                 
-                print(f"   📊 Notícias recentes nesta página: {sum(1 for n in noticias_hoje if n.get('pagina') == pagina)}")
+                print(f"   📊 Notícias recentes nesta página: {len(noticias_hoje)}")
                 
                 # Se não encontrou notícias recentes E já viu algumas páginas, parar
                 if not encontrou_alvo and pagina >= 2:
@@ -524,19 +621,31 @@ def criar_feed_fortaleza():
                 
                 # Próxima página
                 proxima = None
-                paginador = soup.find('div', class_='news-pagination')
                 
-                if paginador:
-                    link_proximo = paginador.find('a', string=lambda t: t and 'próximo' in str(t).lower())
-                    
-                    if not link_proximo:
-                        li_proximo = paginador.find('li', class_='pagination-next')
-                        if li_proximo:
-                            link_proximo = li_proximo.find('a')
-                    
-                    if link_proximo and link_proximo.get('href'):
-                        proxima = urljoin(URL_BASE, link_proximo['href'])
-                        print(f"   🔗 Próxima página encontrada")
+                # 1. Se estiver na Home, avançar para /noticias
+                btn_mais = soup.select_one('a.btn-mais-noticias, .botao-mais-noticias a')
+                if btn_mais and btn_mais.get('href'):
+                    candidata = urljoin(URL_BASE, btn_mais['href'])
+                    if candidata != url and candidata not in [URL_BASE, URL_BASE + "/"]:
+                        proxima = candidata
+                
+                # 2. Paginação tradicional do Joomla/K2 (ex.: /noticias?start=5)
+                if not proxima:
+                    paginador = (
+                        soup.find('div', class_='news-pagination') or
+                        soup.find('ul', class_='pagination') or
+                        soup.find('div', class_='pagination')
+                    )
+                    if paginador:
+                        link_proximo = (
+                            paginador.find('li', class_='pagination-next') or
+                            paginador.select_one('li.pagination-next a, .pagination-next a, a[data-original-title="Próximo"], a[title="Próximo"], a[rel="next"]')
+                        )
+                        if link_proximo:
+                            a_prox = link_proximo.find('a') if link_proximo.name != 'a' else link_proximo
+                            if a_prox and a_prox.get('href'):
+                                proxima = urljoin(URL_BASE, a_prox['href'])
+                                print(f"   🔗 Próxima página encontrada: {proxima}")
                 
                 if not proxima:
                     break
@@ -547,6 +656,14 @@ def criar_feed_fortaleza():
                 
             except Exception as e:
                 print(f"   ❌ Erro na página {pagina}: {e}")
+
+                if pagina == 1:
+                    raise RuntimeError(
+                        "Não foi possível acessar a primeira página de notícias. "
+                        "O feed não será gerado como se não houvesse notícias."
+                    ) from e
+
+                print("   ⚠️ Falha em página seguinte. Mantendo as notícias já coletadas.")
                 break
         
         print("-" * 60)
