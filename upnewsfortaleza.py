@@ -125,7 +125,12 @@ def requisitar_pagina(url, headers=None, timeout=30):
         jina_url = f"https://r.jina.ai/{url}"
         resp_jina = requests.get(jina_url, timeout=(15, 30))
         if resp_jina.status_code == 200 and len(resp_jina.text) > 300:
-            return resp_jina.text, resp_jina.status_code, url
+            txt = resp_jina.text
+            if '<?xml' in txt:
+                txt = txt[txt.find('<?xml'):].strip()
+            elif '<rss' in txt:
+                txt = txt[txt.find('<rss'):].strip()
+            return txt, resp_jina.status_code, url
     except Exception as e_jina:
         pass
 
@@ -451,7 +456,12 @@ def coletar_noticias_via_rss(datas_alvo, fuso_brasilia, headers_padrao):
             continue
             
         try:
-            root = ET.fromstring(xml_content.encode('utf-8', errors='ignore'))
+            xml_clean = xml_content
+            if '<?xml' in xml_clean:
+                xml_clean = xml_clean[xml_clean.find('<?xml'):]
+            elif '<rss' in xml_clean:
+                xml_clean = xml_clean[xml_clean.find('<rss'):]
+            root = ET.fromstring(xml_clean.strip().encode('utf-8', errors='ignore'))
             channel = root.find('channel')
             if channel is None:
                 continue
@@ -636,6 +646,42 @@ def criar_feed_fortaleza():
                     print("HTML recebido (início):", html_texto[:1000])
 
                     # 1. Tentar formato do novo portal (Home: a.link-noticia ou .card-noticia)
+                    # 0. Suporte a Markdown do Jina se retornado em modo texto
+                    if 'Markdown Content:' in html_texto or 'Title: Notícias' in html_texto:
+                        print("   💡 Conteúdo retornado em formato Markdown (via Jina)")
+                        blocks = re.split(r'\n##\s+', html_texto)
+                        for b in blocks[1:]:
+                            blines = b.strip().split('\n')
+                            m_title = blines[0].strip()
+                            m_link_m = re.search(r'\[Leia Mais\]\((https?://[^\)]+)\)', b)
+                            m_link = m_link_m.group(1) if m_link_m else None
+                            if not m_link or any(n['link'] == m_link for n in noticias_hoje):
+                                continue
+                            m_data_m = re.search(r'([A-Za-zçãéíóú]+,\s+\d{1,2}\s+[A-Za-zçãéíóú]+\s+\d{4}(?:\s+\d{1,2}:\d{2})?)', b)
+                            m_data_txt = m_data_m.group(1) if m_data_m else HOJE.strftime('%d/%m/%Y')
+                            m_data_obj = parse_data(m_data_txt) or HOJE
+                            if m_data_obj in DATAS_ALVO:
+                                encontrou_alvo = True
+                                m_hora = "12:00"
+                                m_hora_m = re.search(r'(\d{1,2}:\d{2})', m_data_txt)
+                                if m_hora_m:
+                                    m_hora = m_hora_m.group(1)
+                                m_resumo = '\n'.join([l for l in blines[1:] if not l.startswith('[Leia Mais]') and not l.startswith('![')]).strip()[:200]
+                                m_img_m = re.search(r'!\[.*?\]\((https?://[^\)]+)\)', b)
+                                m_img = encodificar_url(m_img_m.group(1)) if m_img_m else None
+                                noticias_hoje.append({
+                                    'titulo': m_title,
+                                    'link': m_link,
+                                    'descricao': m_resumo,
+                                    'data_texto': m_data_txt,
+                                    'imagem_miniatura': m_img,
+                                    'hora': m_hora,
+                                    'data_objeto': m_data_obj,
+                                    'conteudo_completo': None,
+                                    'imagem_destacada': None
+                                })
+                                print(f"    ✅ [{m_hora}] {m_title[:50]}...")
+
                     containers = soup.select('a.link-noticia')
                     if not containers:
                         containers = soup.select('.card-noticia')
