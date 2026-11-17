@@ -359,7 +359,7 @@ def criar_feed_fortaleza():
     
     # ================= CONFIGURAÇÃO PARA GITHUB =================
     URL_BASE = "https://www.fortaleza.ce.gov.br"
-    URL_LISTA = URL_BASE  # Inicia pela Home (contém as Últimas Notícias do novo portal) e avança para /noticias
+    URL_LISTA = f"{URL_BASE}/noticias"
     FEED_FILE = "feed_fortaleza_hoje.xml"
     
     # IMPORTANTE: GitHub roda em UTC, Brasil é UTC-3
@@ -385,8 +385,8 @@ def criar_feed_fortaleza():
     print("-" * 60)
     
     HEADERS = {
-        'User-Agent': 'curl/8.13.0',
-        'Accept': '*/*',
+        'User-Agent': 'facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
         'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
         'Connection': 'keep-alive'
     }
